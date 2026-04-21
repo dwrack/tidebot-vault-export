@@ -58,10 +58,10 @@ Keep it brief and efficient. "We've got about 10 minutes — bathrooms are insid
 
 ## At the Launch: Pre-Water Briefing
 
-Get everyone out of the van, waivers checked (QR code on the back of the van seat), PFDs distributed. Do not rush this. The safety briefing is non-negotiable and needs to be delivered clearly every single time.
+Get everyone out of the van, waivers confirmed (sent via FareHarbor at booking), PFDs distributed. Do not rush this. The safety briefing is non-negotiable and needs to be delivered clearly every single time.
 
 **Waiver check:**
-"Before we get on the water, I need to confirm everyone has completed the digital waiver — you should have gotten a link when you booked. Pull it up on your phone and show me the confirmation screen. If you haven't done it yet, scan this QR code."
+"Before we get on the water, I need to confirm everyone has completed the digital waiver — you should have gotten a link when you booked. Pull it up on your phone and show me the confirmation screen."
 
 **PFD fitting:**
 "These are USCG-approved Type III life jackets. Everyone wears one — no exceptions, the whole time you're on the water. It's not a suggestion, it's the law, and it's just smart. Let me show you how to fit it correctly."

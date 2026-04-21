@@ -49,7 +49,7 @@
 - [ ] PFDs — 14+ on board; all in good condition
 - [ ] Paddles — full count for group size
 - [ ] Van interior — clean, no gear from last tour
-- [ ] Waiver QR code — visible on back of van seat
+- [ ] Google review QR code — visible on back of van seat
 - [ ] FareHarbor app — refreshed; manifest reviewed
 
 **Pick up van:** 1 hr 25 min before tour time
@@ -62,7 +62,7 @@
 - Refresh app before guest arrival
 - Check in all guests on the manifest
 - **3rd-party bookings (Viator, etc.) always receive shuttle — no exceptions**
-- Confirm waivers before launch (QR on van seat back)
+- Confirm waivers before launch (waivers come via FareHarbor booking link — the van seat QR codes are for Google reviews)
 - Whitney Plantation combo guests: shuttle always included
 
 ---

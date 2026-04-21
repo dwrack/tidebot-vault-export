@@ -69,7 +69,7 @@ Before your first shadow shift, read every one of these documents in the vault. 
 - FareHarbor check-in flow; how 3rd-party bookings are handled (always get shuttle)
 - Gas station stop: how guide manages the group (restroom, water, timing)
 - Trailer backing at the launch site; why customers do not park in the motorized boat area
-- Waiver QR code check (on back of van seat)
+- Google review QR code on back of van seat (not for waivers — waivers come through FareHarbor at booking)
 - Safety briefing — listen for the exact language used; note tone and pacing
 - How content stops are chosen and paced (2–3 stops, 5–10 min each)
 - How the guide handles questions they don't know the answer to
