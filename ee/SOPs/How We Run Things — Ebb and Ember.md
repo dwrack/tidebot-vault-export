@@ -49,7 +49,9 @@ The best parts of this experience came from someone noticing something and speak
 
 This is a floating sauna with extreme heat, cold water, and a river. That combination requires constant attention.
 
-Waivers signed before every session. Pregnancy disclaimers acknowledged. No one in the sauna who shouldn't be. Carbon monoxide detector working. Fire alarm working. Exit clearly marked.
+Waivers signed before every session. FareHarbor sends each guest a booking-specific waiver link in the confirmation and reminder emails. Since we may not have staff on-site, check the manifest ahead of time and chase down any unsigned waivers by text or email before the guest arrives. If someone shows up unsigned, they pull up their FareHarbor confirmation email on their phone and sign before they enter. No generic QR codes. Every signature tied to a booking.
+
+Pregnancy disclaimers acknowledged. No one in the sauna who shouldn't be. Carbon monoxide detector working. Fire alarm working. Exit clearly marked.
 
 If someone looks like they're overheating, you intervene. You don't wait for them to say something. If conditions on the river are sketchy, you make the call. "No jumping" means no jumping, even if the guest thinks they're being funny.
 

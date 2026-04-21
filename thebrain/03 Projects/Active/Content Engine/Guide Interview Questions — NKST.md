@@ -23,6 +23,18 @@ Silence, wildlife, and the feeling that you're seeing something real that most t
 9. "Is there a regular guest or a local character you see out on the water?"
 10. "What's the thing about New Orleans that only people who work on the water know?"
 
+## The Person
+
+These feel like winding down. They're not. This is where we find out who this person actually is, what makes them interesting to a stranger in a kayak for two hours, and what makes them someone guests remember by name.
+
+11. "What's something you know a weird amount about that has nothing to do with kayaks or swamps?"
+12. "Is there a book or a show or a podcast you've been telling people about? Or something you keep going back to year after year?"
+13. "Who do you learn from? Not school, just someone whose work or thinking you keep returning to. Could be a writer, a musician, a YouTuber, your weird uncle, whatever."
+14. "What's the most interesting conversation you've had with a guest out on the water? Not the funniest, the one that actually surprised you."
+15. "A guest finishes the tour and says 'we've got 4 hours left in New Orleans.' What do you actually tell them? Not the safe answer."
+16. "What were you doing before this, and what's the thing from that life that still shows up in how you guide?"
+17. "You're in a kayak with someone for two hours. What's the thing you end up talking about that has nothing to do with gators?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -36,3 +48,6 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec guide bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal interest hooks for website bio (the "beyond the tour" detail that makes a guest say "oh cool, me too")
+- Local recommendation quotes for booking confirmation emails
+- Conversation style + cultural touchpoints for internal guide profiles

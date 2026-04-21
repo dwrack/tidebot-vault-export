@@ -47,9 +47,11 @@ If you figured out a better route for high water, share it. If a guest asked a q
 
 ## 5. Safety Is the Job
 
-Waivers get signed on every tour. No exceptions. Gear gets checked. Life jackets get inspected. If someone shows up too impaired to paddle, they don't go out.
+Waivers get signed on every tour. No exceptions. FareHarbor sends each guest a booking-specific waiver link before the tour. You check the manifest to see who's signed and who hasn't. Anyone who hasn't signed does it on-site before they touch a kayak. No generic QR codes, no workarounds. Every signature tied to a booking.
 
 A guide who skips waiver checks isn't just cutting a corner. They're saying the safety of our guests doesn't matter enough to spend 2 minutes on. That's a termination conversation.
+
+Gear gets checked. Life jackets get inspected. If someone shows up too impaired to paddle, they don't go out.
 
 We've seen what happens when safety gets treated like a suggestion across our other businesses. We won't make that mistake here. If you see something unsafe, say it immediately.
 

@@ -33,7 +33,11 @@
 
 - [ ] Greet guests by name when possible
 - [ ] Verify headcount against booking manifest
-- [ ] Collect signed liability waiver (digital preferred — DocuSeal/FareHarbor)
+- [ ] **Check waiver status in FareHarbor.** The manifest shows who has and hasn't signed. Most guests sign pre-trip via the automated email link. For anyone who hasn't:
+  - Pull up that guest's booking-specific waiver on your phone or tablet
+  - Hand it to them to sign on the spot
+  - Do NOT use a generic QR code. Every waiver must be tied to that guest's specific booking
+  - No guest boards without a signed waiver. No exceptions
 - [ ] Fit PFDs — guide checks every guest individually
 - [ ] Safety briefing delivered (see script below)
 - [ ] Confirm any medical/physical limitations

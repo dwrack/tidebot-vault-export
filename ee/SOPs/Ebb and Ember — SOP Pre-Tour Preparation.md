@@ -28,7 +28,12 @@
 
 - [ ] Greet guests by name when possible
 - [ ] Verify headcount against booking manifest
-- [ ] Collect signed liability waiver (digital preferred — DocuSeal/FareHarbor)
+- [ ] **Verify all waivers are signed before the session starts.** FareHarbor sends booking-specific waiver links in confirmation and reminder emails. Most guests sign before arrival. Since Ebb and Ember sessions may not have staff on-site to facilitate:
+  - Check the FareHarbor manifest before the session for unsigned waivers
+  - If anyone hasn't signed, send them a direct text/email with their booking-specific waiver link and ask them to complete it before they arrive
+  - If a guest arrives unsigned, have them pull up the waiver link on their own phone (it's in their FareHarbor confirmation email) and sign before entering the sauna
+  - Do NOT use a generic QR code. Every waiver must be tied to that guest's specific booking
+  - No guest enters the sauna without a signed waiver. No exceptions
 - [ ] Fit PFDs — guide checks every guest individually
 - [ ] Safety briefing delivered (see script below)
 - [ ] Confirm any medical/physical limitations

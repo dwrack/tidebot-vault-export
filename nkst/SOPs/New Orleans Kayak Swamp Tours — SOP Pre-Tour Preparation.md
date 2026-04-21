@@ -30,7 +30,11 @@
 
 - [ ] Greet guests by name when possible
 - [ ] Verify headcount against booking manifest
-- [ ] Collect signed liability waiver (digital preferred — DocuSeal/FareHarbor)
+- [ ] **Check waiver status in FareHarbor.** The manifest shows who has and hasn't signed. Most guests sign pre-trip via the automated email link. For anyone who hasn't:
+  - Pull up that guest's booking-specific waiver on your phone or tablet
+  - Hand it to them to sign on the spot
+  - Do NOT use a generic QR code. Every waiver must be tied to that guest's specific booking
+  - No guest launches without a signed waiver. No exceptions
 - [ ] Fit PFDs — guide checks every guest individually
 - [ ] Safety briefing delivered (see script below)
 - [ ] Confirm any medical/physical limitations
@@ -112,7 +116,7 @@ Van Safety Check
 
 Guest Arrival
 * Greet guests and welcome them to the tour 
-* Confirm reservations and make sure everyone signed the waivers 
+* Confirm reservations and check waiver status in FareHarbor — anyone unsigned signs on-site via their booking-specific link 
 * Explain drive & stop for bathroom en route
 
 
@@ -156,7 +160,7 @@ Common Mistakes to Avoid
 1. Forgetting to contact guests the night before 
 2. Not checking van tires or fuel level 
 3. Skipping the safety briefing 
-4. Launching before all waivers are signed 
+4. Launching before all waivers are signed (check FareHarbor manifest, not a generic QR) 
 5. Leaving equipment wet or improperly stored 
 6. Forgetting to lock the Piety Street base location
 
@@ -190,7 +194,7 @@ Before Guest Pickup
 
 Guest Arrival 
 * Introduce yourself
-* CONFIRM WAIVERS ARE SIGNED
+* CONFIRM WAIVERS ARE SIGNED (check FareHarbor manifest — unsigned guests sign via their booking-specific link on the spot)
 * Check everyone in
 
 

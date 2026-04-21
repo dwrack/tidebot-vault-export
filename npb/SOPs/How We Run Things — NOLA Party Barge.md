@@ -47,7 +47,9 @@ The format doesn't matter. Voice memo, text, photo. What matters is the next cap
 
 This is a vessel with paying passengers and alcohol. That combination demands your full attention.
 
-Waivers signed before anyone boards. Head count before you leave the dock. Life jackets accessible and accounted for. Weather checked. Capacity limits respected, even when the group says "just one more."
+Waivers signed before anyone boards. FareHarbor sends each guest a booking-specific waiver link before the trip. You check the manifest to see who's signed. Anyone who hasn't signed does it at the dock before they step on. No generic QR codes. Every signature tied to a booking.
+
+Head count before you leave the dock. Life jackets accessible and accounted for. Weather checked. Capacity limits respected, even when the group says "just one more."
 
 A captain who skips a safety check because the group is impatient isn't being accommodating. They're being reckless. That's a termination conversation.
 

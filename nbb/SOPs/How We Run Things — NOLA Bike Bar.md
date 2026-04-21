@@ -41,7 +41,9 @@ Voice memo, text, photo. The format doesn't matter.
 
 You are operating a multi-passenger vehicle on public streets, often with people who have been drinking. That is serious.
 
-Waivers signed. Head count confirmed. Safety briefing delivered. Passengers seated properly before moving. If someone is too impaired to be safe, they don't ride. Period.
+Waivers signed before anyone rides. FareHarbor sends each guest a booking-specific waiver link before the trip. You check the manifest to see who's signed. Anyone who hasn't signed does it before they get on. No generic QR codes. Every signature tied to a booking.
+
+Head count confirmed. Safety briefing delivered. Passengers seated properly before moving. If someone is too impaired to be safe, they don't ride. Period.
 
 Someone died on one of our boats at another location. We take safety across every business personally. Skipping a safety step is a termination conversation.
 

@@ -47,7 +47,9 @@ The SOPs, the Slack channels, the checklists: these exist so a new guide in June
 
 ## 5. Safety Is the Job
 
-Waivers get signed on every tour. No exceptions. Gear gets checked before every outing. Life jackets are inspected, not assumed. If conditions aren't safe, we cancel. We don't hedge it.
+Waivers get signed on every tour. No exceptions. FareHarbor sends each guest a booking-specific waiver link before the tour. You check the manifest to see who's signed and who hasn't. Anyone who hasn't signed does it on-site before they touch a kayak. No generic QR codes, no workarounds. Every signature tied to a booking.
+
+Gear gets checked before every outing. Life jackets are inspected, not assumed. If conditions aren't safe, we cancel. We don't hedge it.
 
 Skipping a safety step because you're running late or the group seems experienced is a termination conversation. Not a warning. Not a coaching moment.
 

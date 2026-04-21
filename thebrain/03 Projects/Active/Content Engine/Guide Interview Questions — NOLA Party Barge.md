@@ -26,6 +26,21 @@ The first note of live music on the water, the skyline, and the moment a group g
 ### For the musicians specifically
 "What's it like playing live on the water vs. in a bar? What changes?"
 
+## The Person
+
+These feel like the conversation loosening up. That's the point. This is where we find out what makes this person magnetic on a boat full of strangers, what makes them someone a bachelorette party talks about at brunch the next day.
+
+11. "What kind of music were you into before you started working around live music on the water? Has it changed?"
+12. "Is there a book, a show, a podcast, anything you've been recommending to people lately? Or something you've gone back to a bunch of times?"
+13. "Who do you learn from? Not formally. Just someone whose work or way of seeing things you keep coming back to. Writer, musician, chef, comedian, whoever."
+14. "What's the best conversation you've had with a guest on the barge? The one where you forgot you were working."
+15. "A group finishes the trip and they've got the rest of the night in New Orleans. Where do you actually send them?"
+16. "What were you doing before this gig, and what carried over?"
+17. "You're on a boat with 20 strangers for two hours. What's the thing that turns them into a group?"
+
+### For the musicians specifically
+"Outside of what you play on the barge, what are you listening to right now? Who's shaping how you play?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -39,3 +54,7 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec guide/captain/musician bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal interest hooks for website bio and "Meet the Crew" content
+- Local recommendation quotes for booking confirmation emails and post-trip follow-ups
+- Musician influences for playlist/content partnerships
+- Conversation style + cultural touchpoints for internal crew profiles
