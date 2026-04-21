@@ -93,7 +93,7 @@ This plan is designed to start with your strengths, stack some early wins, and b
 ## How to Coach Her (Notes for David + Bella)
 
 - **Start with strengths.** If she's a natural on camera, lean into Reels first. If she writes well, start with captions and stories. Don't force the thing she's weakest at first.
-- **Celebrate early wins publicly.** Repost her best content, shout her out in GroupMe, tell guests "our marketing engineer Lea shot this."
+- **Celebrate early wins publicly.** Repost her best content, shout her out in Slack, tell guests "our marketing engineer Lea shot this."
 - **Feedback as questions, not corrections.** "What were you going for with this one?" works better than "this isn't on brand."
 - **Give her real responsibility early.** The fastest way to build confidence is trusting her with something that matters and watching her nail it.
 - **Keep it fun.** This is a summer in Door County making content about kayaking. If it starts feeling like a corporate marketing job, something's wrong.
@@ -128,19 +128,18 @@ This plan is designed to start with your strengths, stack some early wins, and b
 ---
 
 ## Community + Collabs
-- [ ] DM @midsommargirls on IG — woman-led marketing team. Introduce DCKT, start a relationship, potential collab. Both David and Leah should be involved.
-- [ ] Connect Leah with Benjamin Albin if he accepts — potential content/front office partner
-- [ ] Get her into GroupMe + Slack before season so she's part of the crew energy early
+- [ ] DM @midsommargirls on IG — woman-led marketing team. Introduce DCKT, start a relationship, potential collab. Both David and Lea should be involved.
+- [ ] Get her into Slack before season so she's part of the crew energy early
 
 ---
 
 ## Todo: This Week
-- [ ] Schedule kickoff call with Leah (David)
+- [ ] Schedule kickoff call with Lea (David)
 - [ ] Send her the Phase 1 assignments before the call
 - [ ] Bella: start granting system access per [[System Access & Onboarding Checklist]]
-- [ ] DM @midsommargirls on IG (David + Leah)
+- [ ] DM @midsommargirls on IG (David + Lea)
 - [ ] Share this coaching plan + access checklist with Bella
-- [ ] Get Leah into GroupMe and Slack this week
+- [ ] Get Lea into Slack this week
 
 ---
 

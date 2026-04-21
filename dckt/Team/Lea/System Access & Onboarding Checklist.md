@@ -1,4 +1,4 @@
-# Leah Rosner — System Access & Onboarding Checklist
+# Lea Rosner — System Access & Onboarding Checklist
 
 ## Social Media Accounts
 - [ ] Instagram (@doorcountykayaktours) — add as collaborator/admin via Meta Business Suite
@@ -19,11 +19,11 @@
 
 ## Internal Comms
 - [ ] Slack — add to workspace. Key channels: #the-helm (management), plus any content/marketing channel
-- [ ] GroupMe — add to guide team channel so she's part of the crew energy before season starts
+- [ ] Slack — add to workspace, key channels for team comms and content/marketing discussion
 - [ ] Homebase — basic access for her own scheduling
 
 ## Content Platforms
-- [ ] SmugMug — Viewer access to browse tour photos for content. Uploader access if she's shooting.
+- [ ] Photo platform TBD (evaluating Picasaurus and alternatives) — access once decided
 - [ ] FareHarbor — read access to see what tours/experiences exist, pricing, descriptions (content fuel)
 - [ ] Google Drive (DCKT folder) — Editor access for shared assets, brand photos, templates
 
@@ -31,8 +31,7 @@
 - [ ] Share brand voice guide with her
 - [ ] Share coaching plan with her
 - [ ] Set up her first 30-min learning session with David
-- [ ] Intro her to Benjamin Albin if he accepts — potential content partner for front office
-- [ ] Get her into GroupMe/Slack early so she can start vibing with guides before they arrive
+- [ ] Get her into Slack early so she can start vibing with guides before they arrive
 
 ---
 

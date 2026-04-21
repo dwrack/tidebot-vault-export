@@ -3,10 +3,10 @@
 ## High Priority
 - [ ] Schedule kickoff call with Lea this week — run Phase 1 discovery questions, assess strengths (D)
 - [ ] Send Lea Phase 1 assignments before the call (D)
-- [ ] DM @midsommargirls on IG — introduce DCKT, pitch a collab or relationship (D+Leah)
-- [ ] Share Leah coaching plan + access checklist with Bella (D)
-- [ ] Bella: grant Leah access to Meta Business Suite, Canva, SmugMug, FareHarbor, Drive, Homebase, GroupMe (B)
-- [ ] Get Leah into GroupMe + Slack this week — pre-season crew energy (D+B)
+- [ ] DM @midsommargirls on IG — introduce DCKT, pitch a collab or relationship (D+Lea)
+- [ ] Share Lea coaching plan + access checklist with Bella (D)
+- [ ] Bella: grant Lea access to Meta Business Suite, Canva, FareHarbor, Drive, Homebase (B)
+- [ ] Get Lea into Slack this week — pre-season crew energy (D+B)
 - [ ] Submit Garrett Bay commercial launch permit to Town of Liberty Grove (D) -- OVERDUE, target was March 15
 - [ ] Confirm signed Bella contract received back via DocHub (D) -- unconfirmed as of Mar 27
 - [ ] Provide application link + deadline to Bella so she can send hiring emails (D)
@@ -46,7 +46,7 @@
 - [ ] E-bike maintenance checklist: tires, brakes, chains, bolts (B)
 - [ ] Brochures ordered via GotPrint (account: info@gravitytrails.com) (B)
 - [ ] FareHarbor: request 2026 availability calendar fully populated (B)
-- [ ] SmugMug: create 2026 season folder structure before guides arrive (B)
+- [ ] Photo hosting platform decision: evaluate Picasaurus + alternatives to replace SmugMug (D)
 - [ ] All W4/I9 forms collected digitally from confirmed guides (B)
 - [ ] All direct deposit forms on file in Homebase (B)
 - [ ] Housing deposits collected from guides using staff house (B)
@@ -66,14 +66,14 @@
 - [ ] All onboarding docs complete for every confirmed guide (B) -- May 4-9
 - [ ] VHF radios charged, tested, carabiners attached (B)
 - [ ] First aid kits restocked: vehicle + on-water kits (B)
-- [ ] Camera batteries, SD cards, SmugMug login confirmed ready (B)
-- [ ] GroupMe guide channel created, all confirmed staff added (B)
+- [ ] Camera batteries, SD cards confirmed ready (B)
+- [ ] Slack workspace set up, all confirmed staff invited (B)
 - [ ] Guide permit for Garrett Bay confirmed + COI on file with town (B)
 - [ ] Housing walkthrough with arriving guides + agreements signed (B) -- May 12-16
 - [ ] Property orientation for all arriving guides (B)
 - [ ] Equipment orientation: trailers, kayaks, PFDs, VHF, camera (B)
 - [ ] Owner intro / welcome to new season (D) -- May 12-16
-- [ ] Training schedule posted in Homebase / GroupMe (B) -- May 19-23
+- [ ] Training schedule posted in Homebase / Slack (B) -- May 19-23
 - [ ] Shadow pairings assigned: new guide with experienced guide (B)
 - [ ] Main tours training: 2-hr Cave Point, Door Bluff, E-bikes (B)
 - [ ] FareHarbor / reception training for all staff (B)
