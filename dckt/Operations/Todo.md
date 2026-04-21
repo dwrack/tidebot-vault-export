@@ -1,6 +1,12 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] Schedule kickoff call with Lea this week — run Phase 1 discovery questions, assess strengths (D)
+- [ ] Send Lea Phase 1 assignments before the call (D)
+- [ ] DM @midsommargirls on IG — introduce DCKT, pitch a collab or relationship (D+Leah)
+- [ ] Share Leah coaching plan + access checklist with Bella (D)
+- [ ] Bella: grant Leah access to Meta Business Suite, Canva, SmugMug, FareHarbor, Drive, Homebase, GroupMe (B)
+- [ ] Get Leah into GroupMe + Slack this week — pre-season crew energy (D+B)
 - [ ] Submit Garrett Bay commercial launch permit to Town of Liberty Grove (D) -- OVERDUE, target was March 15
 - [ ] Confirm signed Bella contract received back via DocHub (D) -- unconfirmed as of Mar 27
 - [ ] Provide application link + deadline to Bella so she can send hiring emails (D)
