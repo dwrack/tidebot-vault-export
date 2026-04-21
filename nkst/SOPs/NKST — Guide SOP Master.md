@@ -110,6 +110,11 @@ The night before every tour you are leading:
 - [ ] Greet guests by name if possible (check manifest on FareHarbor before you leave Piety)
 - [ ] Open FareHarbor on your phone; check in guests as they arrive
 - [ ] **Refresh the manifest** — last-minute additions happen. Don't rely on the manifest you checked the night before
+- [ ] **Check waiver status for every guest.** FareHarbor shows who has and hasn't signed. Most guests will have signed already via the pre-trip email link. For anyone who hasn't:
+  - Pull up that guest's booking-specific waiver on your phone or a tablet
+  - Hand it to them to sign on the spot
+  - Do NOT use a generic QR code. Every waiver must be tied to that guest's specific booking
+  - No guest gets in the van without a signed waiver. No exceptions
 - [ ] **Third-party bookings (Viator, Expedia, TripAdvisor) always receive shuttle service** — regardless of what the manifest shows. If a guest says they booked through one of these platforms, they ride with you
 - [ ] If guests haven't arrived 5 minutes after pickup time, text them (use the Late Guest template)
 - [ ] Wait maximum 15 minutes after the scheduled departure time. If guests are still absent: contact management before leaving without them
