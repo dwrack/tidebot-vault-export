@@ -104,7 +104,7 @@ These items live in the van. Guides confirm before leaving Piety St. Report miss
 - [ ] Guide bag
 - [ ] Tow rope
 - [ ] Merchandise box: koozies, phone cases, stickers, t-shirts
-- [ ] Water and granola bars
+- [ ] Water and backup granola bars (for diabetic / blood sugar guests only)
 - [ ] Gas card on keychain (Shell, code 6006)
 - [ ] Clipboard with condition sheet
 - [ ] Trailer wheels unlocked before departure

@@ -41,7 +41,7 @@ Confirm these items are in the van before leaving Piety Street.
 - [ ] Guide Bag
 - [ ] Tow rope
 - [ ] Water
-- [ ] Granola bars
+- [ ] Backup granola bars (for diabetic / blood sugar guests only)
 - [ ] Small towel
 - [ ] Extra clothing layer
 - [ ] Deodorant
