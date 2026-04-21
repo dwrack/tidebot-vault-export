@@ -26,6 +26,18 @@ The sea cave reveal, the warmth of the guides, and the feeling of being let in o
 ### For Lea specifically (she does social)
 "What content have you posted that got way more engagement than you expected? What was it about?"
 
+## The Person
+
+This is where we find out why a family remembers this guide's name three years later. Door County guides are warm, personal, and often seasonal, which means every one of them chose to come back. That's a story.
+
+11. "What's something you're weirdly into that has nothing to do with kayaking or Door County?"
+12. "Is there a book or a podcast or a show you've been telling people about lately? Or one you keep coming back to every year, like Door County itself?"
+13. "Who do you learn from? Not a teacher, just someone whose work or thinking you keep returning to. A writer, an artist, a family member, anyone."
+14. "What's the most interesting conversation you've had with a guest? Not small talk, a real one."
+15. "A family finishes the tour and they've got the rest of the day in Door County. Where do you send them? The real answer, not the brochure answer."
+16. "You keep coming back for another season. What's the pull? What does this place do to you that other places don't?"
+17. "You're in a kayak with someone for 90 minutes. What do you end up talking about when the cave talk runs out?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -39,3 +51,7 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec guide bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal interest hooks for website bio ("When she's not on the water, Lea...")
+- Local recommendation quotes for booking confirmation emails
+- "Why I come back" seasonal content for pre-season social campaigns
+- Conversation style + cultural touchpoints for internal guide profiles

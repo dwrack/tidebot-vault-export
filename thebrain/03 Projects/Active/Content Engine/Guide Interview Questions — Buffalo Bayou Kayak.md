@@ -23,6 +23,18 @@ Urban nature, the surprise of wildlife in the middle of Houston, and the "your b
 9. "A guest says 'I wasn't sure this would be worth it.' What usually changes their mind?"
 10. "If you could put a camera anywhere on the bayou for one hour, where would it be and when?"
 
+## The Person
+
+Buffalo Bayou guides tend to be the nature nerds of the Houston crew. The ones who notice things. Lean into that. Find out what else they pay attention to.
+
+11. "What's something you know way too much about that has nothing to do with kayaking?"
+12. "Is there a book, a podcast, a documentary, anything you keep recommending to people? Or something you return to?"
+13. "Who do you learn from? Not a professor. Someone whose work or way of seeing things keeps pulling you back. Writer, naturalist, photographer, anyone."
+14. "What's the most interesting thing a guest has told you about Houston that you didn't already know?"
+15. "Someone finishes the paddle and wants to keep the vibe going. Where do you send them in Houston?"
+16. "What were you into before this that made you the kind of person who ends up kayaking in the middle of a city?"
+17. "You paddle with people for 90 minutes. What's the thing you end up geeking out about together when the wildlife talk wraps up?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -36,3 +48,7 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec guide bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal nerd-out hooks for website bio and social ("our guide who also knows everything about...")
+- Houston recommendation quotes for post-paddle follow-ups
+- Urban nature authority content for AEO/Person schema
+- Conversation style + cultural touchpoints for internal guide profiles

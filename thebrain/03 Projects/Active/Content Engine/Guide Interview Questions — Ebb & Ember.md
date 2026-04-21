@@ -23,6 +23,18 @@ The cold plunge moment, the simplicity of heat and cold, and the anti-performati
 9. "A guest says 'I'm not really a sauna person.' What happens next?"
 10. "What's the thing about this experience that you can't explain to someone, they just have to feel it?"
 
+## The Person
+
+Ebb & Ember's whole thing is anti-performative. The people who work here should feel like that too. These questions find out what grounds them, what they're actually curious about, without turning it into a wellness brand personality quiz.
+
+11. "What's something you think about a lot that most people in the wellness space don't talk about?"
+12. "Is there a book, a podcast, an album, anything you keep going back to when you need to reset? Not a guilty pleasure, just the real thing."
+13. "Who shaped how you think? Not a wellness influencer. A writer, a thinker, someone in your family, a friend. Someone whose perspective stuck."
+14. "What's the most real conversation you've had with a guest here? The one that wasn't about the sauna."
+15. "Someone finishes a session and says 'what else should I do in Portland today?' What's your actual answer?"
+16. "What were you doing before this, and is there a through-line between that and ending up on a floating sauna?"
+17. "The sauna strips away a lot of the normal social armor people wear. What do you notice about how strangers talk to each other in here?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -36,3 +48,7 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal depth hooks for website bio (the anti-wellness-bro personal detail)
+- Portland recommendation quotes for post-session follow-ups
+- "How strangers connect" angles for social content that sells without selling
+- Conversation style + cultural touchpoints for internal profiles

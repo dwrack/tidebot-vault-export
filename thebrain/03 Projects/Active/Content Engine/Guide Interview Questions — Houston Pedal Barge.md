@@ -26,6 +26,18 @@ Houston city pride, the skyline from the water, and proving that Houston has mor
 ### For Bella specifically (lead captain)
 "What's it like being the lead captain? What do you do to set the tone before a group even gets on?"
 
+## The Person
+
+Houston people have opinions about Houston. They defend it. They know the real spots. The captains here aren't just driving a boat, they're ambassadors for a city that doesn't get enough credit. Find out what else they carry.
+
+11. "What's the thing about Houston you always end up defending to people who've never been?"
+12. "Is there a book, a show, a podcast, anything you've been recommending to people? Or something you keep going back to?"
+13. "Who do you learn from? Not formally. Someone whose work or thinking you keep returning to. Writer, musician, chef, your neighbor, whoever."
+14. "What's the best conversation you've had with a guest on the barge? The one where it stopped feeling like work."
+15. "A group finishes the trip and says 'where should we go eat?' What do you actually tell them?"
+16. "What were you doing before this, and what's the connection between that and captaining a pedal barge?"
+17. "You've got 20 people on a boat who don't know each other. What's the thing that breaks the ice every time?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -39,3 +51,7 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec captain/crew bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal hooks for website bio and "Meet the Crew" content
+- Houston restaurant/nightlife recommendations for post-trip follow-up emails
+- "Houston pride" angles for city-specific social content
+- Conversation style + cultural touchpoints for internal crew profiles

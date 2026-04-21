@@ -21,6 +21,17 @@ The landscape from a different speed, covering more ground than a hike but slowe
 7. "What's your favorite stop, not the obvious one, the one only you know about?"
 8. "If you had 30 seconds to convince someone to do the ebike instead of renting a car, what would you say?"
 
+## The Person
+
+Ebike guides cover more ground than anyone. They know the roads, the stops, the hidden stuff between the postcard spots. They're the ultimate Door County insiders. Find out what else they carry.
+
+9. "What's something you're really into that has nothing to do with biking or Door County?"
+10. "Is there a book, a podcast, a show, anything you've been recommending lately? Or something you return to every year?"
+11. "Who do you learn from? Not a teacher. Someone whose work or perspective keeps pulling you back. A writer, a traveler, a family member, anyone."
+12. "What's the best conversation you've had with a guest on a ride? The one that surprised you."
+13. "Someone finishes the ebike tour and says 'what else should we do today?' What's your real answer?"
+14. "What's the through-line between whatever you were doing before this and ending up leading ebike tours in Door County?"
+
 ## Close (every call)
 "What do you want people to know about you that has nothing to do with this job?"
 
@@ -34,3 +45,7 @@ Ask them to film 3 things on their phone next shift:
 - 60-90 sec guide bio clip for website
 - 15-30 sec social cuts for IG/TikTok
 - Pull quotes for booking confirmation emails
+- Personal hooks for website bio and social
+- Door County insider recommendation quotes for booking confirmations
+- "The explorer" angle for cross-sell content (kayak + ebike packages)
+- Conversation style + cultural touchpoints for internal guide profiles
