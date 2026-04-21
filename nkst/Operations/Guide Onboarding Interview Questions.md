@@ -1,6 +1,6 @@
 # Guide Onboarding Interview Questions
 
-Send these via Slack during onboarding. Not all at once. Space them out over the first week, 3-4 questions per day. Frame it as "we're building out guide profiles so guests can get to know the team." Keep it casual. Tell them there are no wrong answers and they can skip anything they're not into.
+45 questions total. Send via Slack during onboarding. Not all at once. Space them out over the first week or two, 3-5 questions per day. Frame it as "we're building out guide profiles so guests can get to know the team." Keep it casual. Tell them there are no wrong answers and they can skip anything they're not into.
 
 These answers feed directly into the sales agent's follow-up messages. The more specific and personal, the better. Generic answers don't work. Push gently for real stories, real opinions, real details.
 
@@ -25,24 +25,52 @@ These answers feed directly into the sales agent's follow-up messages. The more 
 12. What's something about the swamp that most people don't know and you wish they did?
 13. How does the swamp change across seasons? What's your favorite time of year out there?
 
-## About New Orleans
+## About New Orleans (go deep here, this feeds the sales agent's local knowledge)
 
-14. What's your go-to restaurant in New Orleans? The one you actually eat at, not the one you'd tell a tourist.
-15. What's a spot in the city that most tourists miss but shouldn't?
-16. If a guest asked you "what should I do tonight?", what would you tell them?
-17. What neighborhood do you live in? What do you love about it?
-18. Best coffee in the city?
-19. If someone only had 48 hours in New Orleans, what would you tell them to skip?
-20. What's the most overrated thing about New Orleans? What's the most underrated?
+FOOD:
+14. What's the restaurant you actually eat at on your day off? Not the fancy one, the real one.
+15. Best po'boy in the city? Where and what kind?
+16. Where do you take someone who says "I want to eat where locals eat"?
+17. What's the most underrated food in New Orleans that tourists almost never try? Where do you get it?
+18. Best cheap meal in the city? Under $15, the kind of place with no sign and a line at lunch.
+19. Best splurge meal? The one you save for a birthday or a date.
+20. Any non-American food spots that blow people away? Vietnamese, Ethiopian, Mexican, anything?
+21. Best coffee in the city and why?
+
+MUSIC AND NIGHTLIFE:
+22. If a guest says "where should I go for live music tonight?", what do you tell them? Be specific: venue, genre, time to show up.
+23. What's your favorite bar in the city? What's the vibe?
+24. Where do the musicians go after their gigs? The late-night spots.
+25. Frenchmen Street gets all the attention. What's the spot on Frenchmen that most people walk past but shouldn't?
+26. Best music venue that ISN'T on Frenchmen?
+
+NEIGHBORHOODS:
+27. What neighborhood do you live in? What do you love about it?
+28. If someone wanted to spend a morning walking around a neighborhood that isn't the French Quarter, where would you send them?
+29. Where's the best people-watching spot in the city?
+30. Is there a block or a corner or a park that you think captures what New Orleans actually is?
+
+CULTURE:
+31. What's one thing about New Orleans culture that you had to live here to understand?
+32. Have you ever been to a second line? Describe what it's like to someone who's never seen one.
+33. What's the thing tourists do that makes you cringe? What's the thing they do that makes you smile?
+34. If someone is here during Mardi Gras season, what's the one thing they should know that nobody tells them?
+35. What's something about this city that surprised you when you first moved here (or grew up knowing that outsiders don't)?
+
+THE PERFECT DAY:
+36. Walk me through your perfect day off in New Orleans. Morning to night. Where do you go, what do you eat, what do you do?
+37. If a guest has 48 hours in New Orleans and asks you to plan it, what do you cut and what do you keep?
+38. What should every visitor skip? What's the tourist trap that wastes people's time?
+39. What's the one thing you'd tell every guest to do that has nothing to do with our tours?
 
 ## About Guiding
 
-21. What's the thing you're most proud of as a guide?
-22. Has a guest ever said something to you after a tour that really stuck with you? What was it?
-23. What's the hardest part of the job that guests never see?
-24. How do you handle a guest who's scared of alligators?
-25. What do you want people to feel when they leave your tour?
-26. What makes our tours different from every other swamp tour in Louisiana? (In your own words, not the marketing version.)
+40. What's the thing you're most proud of as a guide?
+41. Has a guest ever said something to you after a tour that really stuck with you? What was it?
+42. What's the hardest part of the job that guests never see?
+43. How do you handle a guest who's scared of alligators?
+44. What do you want people to feel when they leave your tour?
+45. What makes our tours different from every other swamp tour in Louisiana? (In your own words, not the marketing version.)
 
 ---
 
