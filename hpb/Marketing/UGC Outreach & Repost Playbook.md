@@ -20,13 +20,13 @@ Same energy as NOLA Party Barge: groups celebrating, drinking, pedaling. Bachelo
 - #houstonbacheloretteparty
 - #houstonpartyboat
 - #houstonboatparty
-- #buffalobayouboat
+- #clearlakeboats
 - #htxnightlife
 
 ### Location Tags
 - Houston Pedal Barge (IG location)
-- Buffalo Bayou
-- Allen's Landing
+- Clear Lake
+- Kemah Boardwalk
 
 ### Search Terms
 - "pedal barge houston"

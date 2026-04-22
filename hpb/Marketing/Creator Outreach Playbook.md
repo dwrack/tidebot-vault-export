@@ -58,8 +58,8 @@ Don't chase big accounts. You want local creators who:
 
 **Location Tags:**
 - Houston, Texas
-- Buffalo Bayou area
-- Downtown Houston waterfront
+- Clear Lake / Seabrook waterfront
+- Kemah Boardwalk area
 
 **TikTok:**
 - Search "houston things to do" and "houston bachelorette"

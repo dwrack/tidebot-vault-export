@@ -17,7 +17,7 @@ You own the experience from dock to dock.
 
 ## 2. Be Real
 
-This is a pedal barge on the bayou, not a corporate event venue. People are here to have fun with their crew. Match their energy. Some groups want to party. Some want a chill float. Read the room.
+This is a pedal barge on Clear Lake, not a corporate event venue. People are here to have fun with their crew. Match their energy. Some groups want to party. Some want a chill float. Read the room.
 
 Be the captain people remember because you were genuine, not because you followed a script. If someone asks for a recommendation after the trip, give them a real one.
 
