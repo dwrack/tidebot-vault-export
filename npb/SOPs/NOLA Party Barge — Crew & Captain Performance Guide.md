@@ -86,17 +86,36 @@ ARRIVAL → BUILD → PEAK → LAND → SEND OFF
 - [ ] All supplies staged and ready
 
 **USCG Safety Check (Captain — Required Before Every Departure)**
-- [ ] Engine inspection — oil, fuel, bilge, battery charge
-- [ ] Navigation lights operational
+
+*Engine & Mechanical*
+- [ ] Oil level checked
+- [ ] Fuel level sufficient for trip + reserve
+- [ ] Bilge dry and bilge pump operational
+- [ ] Battery charge confirmed
+- [ ] Steering responsive, no play or binding
+- [ ] Throttle and shift controls smooth
+
+*Navigation & Communication*
+- [ ] Navigation lights operational (all positions)
+- [ ] VHF marine radio operational, tuned to Ch 16
+- [ ] Sound-producing device (horn) tested and functional
+
+*Life Safety Equipment*
 - [ ] Life jackets counted — USCG Type I/II/III, sufficient for max capacity
 - [ ] Throwable PFD (Type IV) on deck and accessible
-- [ ] Fire extinguisher charged and accessible
-- [ ] Visual distress signals (flares) present and in-date
-- [ ] Sound-producing device (horn) functional
-- [ ] First aid kit stocked
-- [ ] VHF marine radio operational, tuned to Ch 16
+- [ ] Fire extinguisher(s) charged, inspected, and accessible
+- [ ] Visual distress signals (flares) present and within expiration date
+- [ ] First aid kit stocked and accessible
+
+*Documentation*
 - [ ] Vessel documentation / COI on board
 - [ ] Captain's USCG license on person
+
+*Manifest & Waivers*
+- [ ] Confirm all waivers on the manifest are signed before departure
+- [ ] Headcount matches FareHarbor manifest
+
+*If any item is not in order:* Note the issue and how it was handled before departure (e.g., "Fire extinguisher low, replaced with new unit before departure"). Do not depart until resolved or manager approves.
 
 > The USCG items are not optional and are not just paperwork. They are the legal and physical protection for every person on that boat. Any item flagged — report to the manager before guests board.
 
@@ -414,8 +433,24 @@ Then text it within the hour. Follow up with: *"Great having you today — if yo
 
 - [ ] Log any maintenance issues observed during the day
 - [ ] Confirm all safety equipment is still in order and stowed correctly
-- [ ] Report any guest incidents or concerns to manager (text is fine)
 - [ ] FareHarbor — confirm all trips are closed out
+
+**Incidents & Issues Log (Captain — Complete if anything out of the ordinary occurred)**
+
+If anything happened during the day that deviated from a normal trip, document it here. Even minor stuff. This protects you, the company, and the guests.
+
+- [ ] Guest injury (even minor — bumped head, twisted ankle, etc.)
+- [ ] Equipment malfunction (engine, steering, electrical, speaker, etc.)
+- [ ] Near-miss with another vessel or fixed object
+- [ ] Guest complaint requiring captain/crew intervention
+- [ ] Unruly or overly intoxicated guest (note actions taken)
+- [ ] Deviation from planned route or schedule (and why)
+- [ ] Weather-related decision (turned back early, delayed departure, etc.)
+- [ ] USCG safety item that came up mid-trip
+- [ ] Any interaction with USCG, harbor patrol, or other authority
+- [ ] Anything else that felt off or worth documenting
+
+For each item checked, note: **What happened, what you did about it, and the outcome.** Text this to the manager the same day. Don't wait.
 
 ---
 
