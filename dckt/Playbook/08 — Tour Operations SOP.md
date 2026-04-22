@@ -91,7 +91,7 @@
 
 **Eco Estuary:**
 - Rieboldt Creek off County Q, Baileys Harbor
-- North from Baileys Harbor → right on County Q → ~3–4 miles → gravel road on right before bridge over Mud River → Murphy Park
+- North from Baileys Harbor → right on County Q → ~3–4 miles → gravel road on right before bridge over Mud River
 
 **Drive times from common locations:**
 - Egg Harbor: 15 min | Fish Creek: 20 min | Ephraim: 20 min

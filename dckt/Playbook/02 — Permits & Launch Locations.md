@@ -56,11 +56,11 @@
 
 ## Permit 3: Eco Estuary (Rieboldt Creek)
 
-**Address:** Rieboldt Creek off County Q, Baileys Harbor → Murphy Park
+**Address:** Rieboldt Creek off County Q, Baileys Harbor
 
 **Launch details:**
 - North from Baileys Harbor → right on County Q → ~3-4 miles → gravel road on right before bridge over Mud River
-- Park at Murphy Park (minimal parking — do not block access)
+- Minimal parking — do not block access
 - Do not pull car past sign limiting access to estuary
 - Follow dark/deeper channel if water is low
 
@@ -99,6 +99,6 @@ In 2023, GM Paul Haan contacted the Town of Liberty Grove about a possible comme
 
 - [ ] Renew Garrett Bay commercial launch permit — send app + $1,200 fee + COI to Town of Liberty Grove
 - [ ] Confirm Cave Point / Whitefish Dunes permit or authorization
-- [ ] Confirm Eco Estuary / Murphy Park access is open
+- [ ] Confirm Eco Estuary access is open
 - [ ] Update COIs with current policy year — request from Mike Carlin at Zodiac
 - [ ] File all permits in Drive under DCKT / Operations / Permits / [Year]

@@ -36,7 +36,7 @@
 - [ ] Update guide employment contract with kayak guide responsibilities language (D+B)
 - [ ] Finalize 2026 employment agreement template ready to send (D+B)
 - [ ] Confirm Cave Point / Whitefish Dunes permit or authorization (B)
-- [ ] Confirm Eco Estuary / Murphy Park access for 2026 (B)
+- [ ] Confirm Eco Estuary access for 2026 (B)
 - [ ] GHL guide comms: Bella scopes onboarding sequences (welcome, training, shift, weather cancel, offboarding) (B)
 - [ ] Confirm GetYourGuide/Viator API markup is set to +20% in FareHarbor (B)
 - [ ] All 2026 guide employment agreements sent and tracked (B)
