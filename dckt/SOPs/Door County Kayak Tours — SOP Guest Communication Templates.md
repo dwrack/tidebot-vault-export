@@ -26,8 +26,6 @@ You're all set! Here are your booking details:
 - Water bottle
 - Closed-toe shoes (water shoes or sandals with heel strap)
 
-**Good to know:** Our tours are guided by real conditions, not a fixed script. Your guide checks wind and waves the morning of and picks the best route for the day. On calm days that's usually the Cave Point sea caves. On choppier days it's the Door Bluff shoreline. Both are worth the paddle.
-
 **Questions?** Reply to this email or call us at [PHONE].
 
 We can't wait to see you!
@@ -50,8 +48,6 @@ Just a quick reminder — your experience is coming up in 2 days!
 📍 **{{Meeting Location}}**
 
 **Weather update:** We're watching the forecast. If anything changes, we'll reach out by 7am on the day of your tour. No news = we're on!
-
-**A quick note on cave access:** Our tours are weather-dependent, and your guide decides the route the morning of based on lake conditions. On calm days, we paddle right into the Cave Point sea caves. On choppier days, we take the shoreline route instead, which is beautiful in its own way. Either way, you're in for a great time on the water.
 
 **Cancellation policy:** [Insert your policy]
 
