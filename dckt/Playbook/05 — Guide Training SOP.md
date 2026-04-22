@@ -113,14 +113,15 @@ Check locations: Sturgeon Bay, Sister Bay, and Northport Pier. NOAA text = marin
 ## Safety Briefing Script (Key Points)
 
 1. Bathroom before departure — there may not be an opportunity on the water
-2. Tour is "challenge by choice" — if they want to stop, they must speak up
-3. PFDs are required at all times on water
-4. No drugs or alcohol
-5. Sunscreen and water highly recommended
-6. Show paddling location on Door County map
-7. PFD fitting — loosen straps, cinch down, check every guest
+2. **Route announcement** — tell the group where you're taking them and why. If caves are off the table, say it upfront and say it with confidence: "Lake's a little rowdy today, so we're doing the shoreline route. Honestly, some of my favorite tours have been on days like this. You'll see things the cave groups never do." If caves ARE on, build it up: "Conditions are perfect for the caves today. You're going to love it." Never let them find out mid-tour that the caves aren't happening.
+3. Tour is "challenge by choice" — if they want to stop, they must speak up
+4. PFDs are required at all times on water
+5. No drugs or alcohol
+6. Sunscreen and water highly recommended
+7. Show paddling location on Door County map
+8. PFD fitting — loosen straps, cinch down, check every guest
    - Child PFD: max 90 lbs
-8. Waiver via QR code / iWaivers — all guests must sign
+9. Waiver via QR code / iWaivers — all guests must sign
 
 **Safety video link:** https://www.youtube.com/watch?v=q4nUBYtx0No&t=29s
 
