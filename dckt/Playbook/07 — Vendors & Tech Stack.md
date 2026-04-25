@@ -28,18 +28,6 @@
 
 ---
 
-## Media & Photography
-
-| Vendor | Role | Credentials |
-|---|---|---|
-| **SmugMug** | Photo hosting + customer sales | Upload within 24 hrs of every tour. Password: kayak |
-| **dcphotofun.com** | Customer-facing photo download portal | Password for gallery access: **kayak** |
-
-**Photo price:** $20 for all photos (before or at booking)
-**Watermark protection:** Go to gallery settings → Photo Protection → ON → password: kayak
-
----
-
 ## Print & Marketing
 
 | Vendor | Role | Account Info |

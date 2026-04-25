@@ -161,25 +161,6 @@ Check locations: Sturgeon Bay, Sister Bay, and Northport Pier. NOAA text = marin
 
 ---
 
-## Photography During Tours
-
-- **Do NOT use personal phones for photography** — use DCKT camera equipment
-- Photographer drives to designated photo spots ahead of group
-- Communicate spots with guide: Devil's Bathtub, Jamaica Bay
-- Get at least one head shot + one full-body shot per group
-- SmugMug upload within **24 hours** of every tour
-- Photos available at **dcphotofun.com** — password: **kayak**
-- Price: **$20 for all photos** (before or at booking)
-- On checkout: hand guests a card with download code
-
-**SmugMug upload steps:**
-1. Login → Organize → Tour folder → Day folder
-2. Green CREATE → name gallery after tour time
-3. Green UPLOAD → drag JPGs
-4. Select all → Edit → Watermarks → Photo Protection ON → password: kayak
-
----
-
 ## End-of-Tour Checklist
 
 - [ ] Life jackets sanitized in Lysol bucket → hung on lines inside out

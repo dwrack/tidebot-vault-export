@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] Remove tour photo references from doorcountykayaktours.com — we no longer sell the $20 photo package or use dcphotofun.com. Pages to clean: /gallery/, /kayak-tours/cave-point-county-park/, /kayak-tours/eco-estuary-tour/, /kayak-tours/door-bluff-county-park-shipwreck/ (and check Sunset/Private Tour pages for the same Optional Add-ons block) (D/B)
 - [ ] Schedule kickoff call with Lea this week — run Phase 1 discovery questions, assess strengths (D)
 - [ ] Send Lea Phase 1 assignments before the call (D)
 - [ ] DM @midsommargirls on IG — introduce DCKT, pitch a collab or relationship (D+Lea)
