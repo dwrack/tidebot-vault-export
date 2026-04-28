@@ -61,7 +61,7 @@ Recommended to spot-check at least one van per week, all vans before any long-di
 | | | | | | | | |
 | | | | | | | | |
 
-Target: **60 psi front, 75 psi rear.** Cold readings only (van sat 3+ hours).
+Target: **whatever is printed on the door sticker** for that specific van (driver's-side B-pillar). Do not assume vans share specs. Cold readings only (van sat 3+ hours).
 
 ---
 

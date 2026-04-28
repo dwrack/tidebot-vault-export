@@ -55,9 +55,11 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 
 ### Q8. Flat tire on I-10 with 8 guests in the van. Priority?
 - A) Fix the tire, continue
-- B) Pull over safely, all guests safe and accounted for, call manager, stay with guests ✅
-- C) Call AAA and wait
+- B) Pull over safely, all guests safe and accounted for, call manager, call AAA using the card in the glovebox, stay with guests ✅
+- C) Call AAA and wait without notifying anyone
 - D) Have guests help change the tire
+
+> **Note:** An AAA membership card is in the glovebox of every NKST van. Currently held in Michelle Healey's name — that's fine, AAA tow drivers don't check name match.
 
 ### Q9. Universal distress signal on the water?
 - A) Waving both arms overhead

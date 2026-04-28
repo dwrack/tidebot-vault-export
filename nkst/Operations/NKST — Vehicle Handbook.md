@@ -20,7 +20,7 @@ This is the standalone vehicle policy for New Orleans Kayak Swamp Tours. It cove
 **Documents in every van:**
 - Insurance card (glove box)
 - Registration (glove box)
-- Roadside assistance card (glove box)
+- AAA membership card (glove box) — one card per van. Currently in Michelle Healey's name. Tow drivers do not check name match, only card validity. Each card has 3 service uses per year. When the card has 1 remaining use, the active manager (currently Dylan LP) orders a replacement in their own name to keep coverage rolling.
 - Vehicle Handbook printout (glove box)
 - Incident Report blank form (glove box)
 - First aid kit (under driver seat)
@@ -95,7 +95,7 @@ After any accident, breakdown, or near-miss involving a van, the vehicle does no
 Walk all the way around the van. Eyes on every tire, every light, every mirror.
 
 - [ ] All four tires visually intact, no obvious low pressure or sidewall damage
-- [ ] Tire pressure: **60 psi front, 75 psi rear** (check with gauge if van sat overnight or feels off)
+- [ ] Tire pressure: **match the door sticker** on the driver's-side B-pillar of that specific van. Do not assume vans share specs. Wrong tire pressure is a leading cause of passenger-van rollover. Check cold (van sat 3+ hours) when in doubt.
 - [ ] Headlights, brake lights, turn signals, reverse lights all working (have someone watch, or use a wall reflection)
 - [ ] All mirrors clean and adjusted
 - [ ] Windshield clean, wipers intact
