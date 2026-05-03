@@ -36,6 +36,15 @@ Let that land. Then:
 
 "Before we get on the water, we'll stop at a gas station — perfect time for a restroom break and to grab anything you need. Once we're at the launch, we'll do a safety briefing, get everyone in their gear, and hit the water. The tour is about two hours on the water, and we'll have a few stops along the way where I'll share some things about the ecology, the history, and whatever wildlife shows up."
 
+**Two questions to ask early in the van ride:**
+
+These aren't a script. They're your way in. Drop them naturally, one at a time, after the welcome has settled.
+
+- "So where are y'all staying while you're in town?" — gives you something to work with for recs at wrap-up. If they're at the Roosevelt, you've got Cane and Table or the Sazerac Bar nearby. If they're in the Marigny, you can riff about Frenchmen Street or Bywater spots they shouldn't miss.
+- "What's been your favorite thing you've done or eaten in NOLA so far?" — this one's gold. People love sharing what they've discovered. It also gives you a callback mid-tour. ("Speaking of beignets, when you see this cypress over here, the Choctaw used to...") Connection points like this are the difference between a generic tour and one they'll be telling their friends about.
+
+Log the answers when you wrap (more on that below). If a specific bar, restaurant, or neighborhood keeps coming up across guides, that's a local partnership we should pursue.
+
 **Common van questions and how to handle them:**
 
 - "Will we see alligators?" — "Almost certainly, yes — spring through fall is prime time. I can't guarantee it, but I've never had a tour where we didn't see at least one. What I can guarantee is that we don't feed them or bait them — which is how we're different from the motorized tours out here. The gators on our route are wild and behave naturally."
@@ -213,6 +222,23 @@ Equipment collection first — paddles, PFDs, kayaks secured. Then gather the gr
 
 "That's the Manchac Swamp. [Something specific you saw or talked about today — make it personal to the tour.] Thank you genuinely for coming out with us today."
 
+**One question before the review ask:**
+
+After equipment is put away and the group is gathered, ask:
+
+> "What's the one thing you're going to tell your friends about when you get home?"
+
+Wait for it. Don't fill the silence. Their answer is two things at once: it's the moment that actually landed for them (which sharpens you for next time), and it's testimonial-grade content for our website and ads. If three guests across different tours mention the same thing, we know what to put on the homepage. Log the answer when you wrap.
+
+**Logging the customer interaction questions:**
+
+Three answers to log per tour, after the wrap:
+1. Where they're staying
+2. Their favorite NOLA thing so far
+3. The one thing they're going to tell their friends about
+
+A shared note per guide is fine to start. Dylan will set up where the logs live. Patterns from these answers feed local partnerships and marketing copy — your logs become the company's playbook over time.
+
 **The review ask:**
 
 "One quick thing before we head back — if you had a good time today, the single most helpful thing you can do for a small local tour company like ours is leave us a review on Google or TripAdvisor. It takes about 90 seconds and it makes a real difference. I'll drop the link in a text to everyone."
@@ -319,4 +345,4 @@ If it's the night before or day-of: contact management directly and relay the gu
 
 *This document is a living resource. If you have additions, corrections, or things you've figured out in the field — bring them to Michelle. The best tour knowledge comes from guides who are actually on the water.*
 
-*Last updated: March 2026*
+*Last updated: May 2026 (added pre-tour and post-tour customer interaction questions)*
