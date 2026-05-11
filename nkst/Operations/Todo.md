@@ -13,6 +13,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Tighten the paddle for kayak number seven before the next trip. _(Captain Morgan (audio log), 2026-05-11)_
 - [ ] [Guide log] Encourage guests to leave reviews _(Dylan LP (audio log), 2026-05-11)_
 - [ ] [Guide log] Paddles need a good wipe down to remove mud. _(Jess (audio log), 2026-05-11)_
 - [ ] [Guide log] Inspect and potentially repair a paddle that feels loose where the two pieces connect. _(Captain K (audio log), 2026-05-11)_
