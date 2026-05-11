@@ -7,13 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: awaiting first refresh
-updated: 2026-05-10
+alert: FH scrape stale (last 2026-05-08)
+updated: 2026-05-11
 tile_type: business
 ---
 
 <!-- live:start -->
-*Tile data refreshes when `/morning-brief` runs.*
+- Reviews: 0 unreplied.
+- Ads: 0 spend.
+- GSC: empty rows over 7 days — verify site verification still active in Search Console.
+- IG: no account linked in roster.
 <!-- live:end -->
 
 ## Quick links
