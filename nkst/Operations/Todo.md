@@ -12,6 +12,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Paddles need a good wipe down to remove mud. _(Jess (audio log), 2026-05-11)_
 - [ ] [Guide log] Inspect and potentially repair a paddle that feels loose where the two pieces connect. _(Captain K (audio log), 2026-05-11)_
 - [ ] Activate affiliate/influencer program (~100 people signed up, no onboarding exists)
 - [ ] Build affiliate onboarding email sequence: daily until first sale, weekly after
