@@ -31,6 +31,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Follow up on getting customer reviews. _(Dylan L.P. (audio log), 2026-05-11)_
 - [ ] Programmatic SEO buildout (NKST recommended as first target, WordPress creds available)
 - [ ] Dylan goes on ghost tours, finds best guides for cross-referral partnership (Dylan)
 - [ ] Takes best ghost tour guide for beer, proposes mutual mentions (Dylan)
