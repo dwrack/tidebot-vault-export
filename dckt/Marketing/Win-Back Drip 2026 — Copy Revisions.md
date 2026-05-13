@@ -304,7 +304,7 @@ Quick one. We put together a code for the folks who've paddled with us before.
 
 **MAY20** = 20% off any 2026 tour. Books by June 1, good for any date this summer or fall.
 
-Works on Cave Point (2-hour or half-day), Door Bluff Shipwreck, sunset paddles, Eco Estuary.
+Works on Cave Point (2-hour or half-day), Door Bluff Shipwreck (2-hour or half-day), and Eco Estuary.
 
 https://doorcountykayaktours.com/
 
@@ -327,7 +327,6 @@ Code works across the board:
 - 2-hour Cave Point ($73) → $58 after the discount
 - Half-day Cave Point ($145, 4 hr) → $116 after. This is the one most returning guests pick.
 - Door Bluff Shipwreck 2-hr ($69) or half-day with bluff hike ($145).
-- Sunset paddles when those start back up in June.
 - Eco Estuary out of Baileys Harbor ($65).
 
 The deadline is the booking, not the tour. The tour itself can be any date in the 2026 season. So if you're trying to lock in a July Saturday before it's gone, this is the clean way.
@@ -352,7 +351,7 @@ Cedar here. Code for past guests:
 
 **MAY20** = 20% off any 2026 tour. Books by Sunday, June 1. Tour date can be any time this summer or fall.
 
-Works on Cave Point, the half-day Cave Point, Door Bluff Shipwreck, and sunset paddles.
+Works on Cave Point, the half-day Cave Point, Door Bluff Shipwreck, and the Eco Estuary tour.
 
 https://doorcountykayaktours.com/
 
@@ -375,7 +374,7 @@ What that gets you:
 - 2-hour Cave Point: $73 → $58
 - **Half-day Cave Point ($145, 4 hours) → $116.** This is the one we'd pick if it was our first time back. More time in the water, more cave entries, less rush.
 - Door Bluff Shipwreck (2-hr or the half-day with bluff hike and picnic).
-- Eco Estuary, sunset paddles when those start mid-June.
+- Eco Estuary out of Baileys Harbor ($65, 1.5-2 hr).
 
 Quick reminders from before. Same sit-on-top kayaks. The reason we run those, in case you forgot: years ago a larger guest tipped in a sit-in and struggled to get out from underneath. We switched the whole fleet. If you can sit, you can paddle one of these. Free cancellation up to 24 hours if Door County weather decides to be Door County weather.
 
@@ -426,7 +425,7 @@ What the code works on:
 - 2-hour Cave Point: $73 → $58
 - Half-day Cave Point ($145, 4 hr) → $116. The one most returning guests pick.
 - Door Bluff Shipwreck 2-hr ($69) or half-day with bluff hike and picnic ($145).
-- Sunset paddles starting mid-June. Eco Estuary in Baileys Harbor.
+- Eco Estuary out of Baileys Harbor ($65, 1.5-2 hr).
 
 Free cancellation up to 24 hours if the forecast turns. Sit-on-top kayaks, water clarity 15 to 20 feet most days.
 

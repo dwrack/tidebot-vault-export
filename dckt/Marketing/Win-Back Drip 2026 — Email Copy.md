@@ -343,7 +343,6 @@ It works across the board:
 
 - 2-hour Cave Point sea cave tour
 - Half-day Door Bluff (kayak + hike + picnic on a private overlook)
-- Sunset paddles (when those start back up in mid-June)
 
 You book the tour at full price on the calendar, type MAY20 in the promo code field, and 20% comes off before payment. Free cancellation up to 24 hours.
 
@@ -368,7 +367,7 @@ Cedar here. We put together a code for past guests:
 
 **MAY20** — 20% off any 2026 tour, books by June 1.
 
-Works on Cave Point, Door Bluff half-day, and sunset tours.
+Works on Cave Point, Door Bluff Shipwreck, and the Eco Estuary tour.
 
 Calendar's here: https://doorcountykayaktours.com/
 
@@ -391,7 +390,6 @@ It works on:
 
 - 2-hour Cave Point sea cave tour
 - Half-day Door Bluff trip (kayak + hike + picnic at a private overlook)
-- Sunset paddles starting mid-June
 
 A few quick reminders from before:
 
@@ -420,7 +418,7 @@ Cedar — quick deadline reminder.
 
 **MAY20** = 20% off any 2026 kayak tour. Code expires Sunday, June 1.
 
-Lock in a date on Cave Point, the half-day Door Bluff, or a sunset paddle:
+Lock in a date on Cave Point or the half-day Door Bluff:
 
 https://doorcountykayaktours.com/
 
@@ -447,7 +445,6 @@ The code works on:
 
 - Cave Point 2-hour sea cave tour
 - Half-day Door Bluff (kayak + hike + private-overlook picnic)
-- Sunset paddles (start mid-June)
 
 Book here:
 
