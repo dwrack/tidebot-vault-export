@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Remember to log off/block off tours online if no guide is available to prevent accidental bookings and subsequent refunds. _(Dylan (audio log), 2026-05-15)_
 - [ ] [Guide log] Conduct safety briefing _(Dylan LP (audio log), 2026-05-11)_
 - [ ] Build warm outreach list: Anna's, Turkey and the Wolf, The Columns, Little Dizzy's, etc. (Dylan)
 - [ ] Set group rate: $50/person for kayak and party barge (Dylan/David)
