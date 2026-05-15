@@ -66,16 +66,19 @@
 
 ---
 
-## Mid-Trip Captain Log SMS (per Crew Communication System)
+## Mid-Trip / End-of-Trip Slack Check-In
 
-GHL fires the mid-trip log SMS to the guide ~10 min before tour end. Guide replies:
+Guide posts a short check-in to `#dckt-guide-logs` near the end of the tour (last 10 minutes on the water or immediately after take-out). Same Slack thread as the pre-launch briefing video. Format:
 
-- Trip quality (1-5): __
-- Mechanical / gear issues: YES / NO → {{detail}}
-- Incidents or guest complaints: YES / NO → {{detail}}
-- Asked for reviews: YES / NO
+```
+End-of-trip check | 2hr Cave Point | [date] [launch time] | guide [name]
+Trip quality (1-5): __
+Mechanical / gear issues: YES / NO — [detail]
+Incidents or guest complaints: YES / NO — [detail]
+Asked for reviews: YES / NO
+```
 
-If YES on incident or mechanical, GHL auto-escalates to manager + owner.
+A YES on incidents or mechanical issues triggers an `@manager @owner` mention in the same Slack post so it surfaces immediately. No SMS, no GHL workflow — Slack channel is the system of record.
 
 ---
 
