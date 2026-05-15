@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Adopt and utilize the new guide log system, including voice memos and video recordings at the start and end of logs for social media and insurance purposes. _(Dylan (audio log), 2026-05-15)_
 - [ ] [Guide log] Remember to log off/block off tours online if no guide is available to prevent accidental bookings and subsequent refunds. _(Dylan (audio log), 2026-05-15)_
 - [ ] [Guide log] Conduct safety briefing _(Dylan LP (audio log), 2026-05-11)_
 - [ ] Build warm outreach list: Anna's, Turkey and the Wolf, The Columns, Little Dizzy's, etc. (Dylan)
