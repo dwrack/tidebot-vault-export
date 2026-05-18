@@ -29,6 +29,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Address Starlink related tasks _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Handle Fair Harbor tasks (e.g., bookings, closures) _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Change resource allocation for e-bike tours and rentals to accommodate all available e-bikes. _(Davey (audio log), 2026-05-18)_
 - [ ] [Guide log] Ensure paddles are alternated back and forth when packing into storage boxes to maximize space and prevent damage. _(Bella (audio log), 2026-05-18)_
