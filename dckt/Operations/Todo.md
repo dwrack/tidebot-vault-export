@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Change resource allocation for e-bike tours and rentals to accommodate all available e-bikes. _(Davey (audio log), 2026-05-18)_
 - [ ] [Guide log] Ensure seats are clipped into all kayaks. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Install/clip seats into all kayaks. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Check the tires on the trailer (including pressure). _(Bella (audio log), 2026-05-18)_
