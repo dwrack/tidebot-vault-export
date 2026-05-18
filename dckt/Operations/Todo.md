@@ -26,6 +26,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Change resource allocation for e-bike tours and rentals to accommodate all available e-bikes. _(Davey (audio log), 2026-05-18)_
 - [ ] [Guide log] Ensure paddles are alternated back and forth when packing into storage boxes to maximize space and prevent damage. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Regularly check tire pressure on all bikes and vehicles using the demonstrated tire pressure checker. _(Bella (audio log), 2026-05-18)_
 - [ ] E-signature platform: replace DocuSign with open source alternative (D)
