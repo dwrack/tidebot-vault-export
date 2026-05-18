@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Develop procedure for lifting kayaks onto trailers _(Jackson (audio log), 2026-05-18)_
 - [ ] Submit Garrett Bay commercial launch permit to Town of Liberty Grove (D) -- OVERDUE, target was March 15
 - [ ] Confirm signed Bella contract received back via DocHub (D) -- unconfirmed as of Mar 27
 - [ ] Provide application link + deadline to Bella so she can send hiring emails (D)
