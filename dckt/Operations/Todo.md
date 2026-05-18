@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Install/clip seats into all kayaks. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Check the tires on the trailer (including pressure). _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Acquire electrical tape to secure trailer wires _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Establish a procedure for handling broken equipment beyond immediate repair. _(Jackson (audio log), 2026-05-18)_
