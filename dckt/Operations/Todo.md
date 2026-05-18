@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] When guests are nervous on the water, offer options such as staying in calm areas with guide supervision, returning to shore, or joining a more comfortable group. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] For uncomfortable guests during a tour, provide options such as pulling them to shore to wait or arranging for another crew to pick them up, prioritizing their comfort and safety. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Obtain and install a replacement hitch pin for the 'Junior' trailer to ensure secure attachment. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Obtain and install a replacement securing pin for the trailer hitch on 'Junior'. _(Smack (audio log), 2026-05-18)_
