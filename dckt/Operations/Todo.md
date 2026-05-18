@@ -23,6 +23,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Regularly check tire pressure on all bikes and vehicles using the demonstrated tire pressure checker. _(Bella (audio log), 2026-05-18)_
 - [ ] E-signature platform: replace DocuSign with open source alternative (D)
 - [ ] Housing deposit collection process confirmed (D+B)
 - [ ] Accountant relationship + payroll flow confirmed (D+B)
