@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Acquire electrical tape to secure trailer wires _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] Establish a procedure for handling broken equipment beyond immediate repair. _(Jackson (audio log), 2026-05-18)_
 - [ ] [Guide log] Develop procedure for lifting kayaks onto trailers _(Jackson (audio log), 2026-05-18)_
 - [ ] Submit Garrett Bay commercial launch permit to Town of Liberty Grove (D) -- OVERDUE, target was March 15
