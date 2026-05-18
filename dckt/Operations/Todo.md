@@ -55,6 +55,7 @@
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
+- [ ] [Guide log] Utilize the trailer dolly for moving trailers to improve efficiency and reduce risk of accidents. _(Jackson (audio log), 2026-05-18)_
 - [ ] Schedule 15-20 min video calls with Lea, Jackson, returning guides for bios (B) -- when social media strategists onboarded
 - [ ] Identify which returning guides should be interviewed for bios (B)
 - [ ] Schedule ebike guide interviews (separate question set) (B)
