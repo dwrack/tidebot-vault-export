@@ -33,6 +33,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Order more printer receipt paper _(Bella (audio log), 2026-05-19)_
 - [ ] [Guide log] Ensure all staff are up to speed regarding new battery/bike protocols and replacements. _(Davey (audio log), 2026-05-18)_
 - [ ] [Guide log] Consider ordering an additional five or six e-bikes to serve as backup. _(Davey (audio log), 2026-05-18)_
 - [ ] [Guide log] Address Starlink related tasks _(Bella (audio log), 2026-05-18)_
