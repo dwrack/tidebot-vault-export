@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Evaluate current staffing levels and availability to ensure sufficient personnel for longer operating days and multiple tours, especially when consolidating groups leads to extended hours for guides. _(Lucas (audio log), 2026-05-19)_
 - [ ] [Guide log] Develop and disseminate clear protocols for handling nervous or uncomfortable guests on water tours, including options for returning, moving to calmer areas, or going ashore for a break. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] When guests are nervous on the water, offer options such as staying in calm areas with guide supervision, returning to shore, or joining a more comfortable group. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] For uncomfortable guests during a tour, provide options such as pulling them to shore to wait or arranging for another crew to pick them up, prioritizing their comfort and safety. _(Bella (audio log), 2026-05-18)_
