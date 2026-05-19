@@ -33,6 +33,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Provide guides with laminated QR codes for Venmo or other direct tipping platforms to facilitate guest tipping, potentially creating a 'Venmo wall' as a best practice. _(Bella (audio log), 2026-05-19)_
 - [ ] [Guide log] Print QR codes for Venmo accounts for all guides. _(Bella (audio log), 2026-05-19)_
 - [ ] [Guide log] Order more printer receipt paper _(Bella (audio log), 2026-05-19)_
 - [ ] [Guide log] Ensure all staff are up to speed regarding new battery/bike protocols and replacements. _(Davey (audio log), 2026-05-18)_
