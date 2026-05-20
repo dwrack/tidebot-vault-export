@@ -37,6 +37,7 @@ Guides are W-2 employees, paid through Homebase. Collect the following:
 - [ ] **I-9** — Employment eligibility verification
 - [ ] **Signed Employment Agreement** — via DocuSeal (e-sign)
 - [ ] **Photo ID** — Driver's license or passport (required for I-9)
+- [ ] **Signed SOP acknowledgement** — new hire reads and signs [[Door County Kayak Tours — SOP (Master)]]; route via DocuSeal alongside the employment agreement and record in that SOP's Acknowledgement Log
 - [ ] Copy of CPR/First Aid certification
 - [ ] Direct deposit info — set up in Homebase
 - [ ] Emergency contact information
@@ -54,6 +55,7 @@ Guides are W-2 employees, paid through Homebase. Collect the following:
 - Emergency procedures: who to call, where the first aid kit is, incident report process
 - Safety briefing practice — new hire delivers it, manager gives feedback
 - Guest communication expectations: tone, response time, how to handle complaints
+- Knowledge quizzes — new hire completes [[Operations Quiz]], [[Safety & Compliance Quiz]], and [[Guest Experience Quiz]]; manager reviews the answers together
 
 ### Step 3: Shadow Shift (Shift 1)
 - New guide observes experienced guide for full tour

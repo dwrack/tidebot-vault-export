@@ -3,12 +3,22 @@
 
 > **Purpose:** Consistent, professional communication at every guest touchpoint. Copy these templates into GHL for automation.
 
+> [!warning] Fill before deploying to GHL
+> These templates are not yet deployment-ready. Search for `[TODO: ...]` and supply the real values first:
+> - Booking phone number
+> - Meeting address + Google Maps link
+> - Cancellation / weather-refund policy text
+> - Google review link
+> - TripAdvisor review link
+>
+> `{{Double-brace}}` fields are GHL merge fields — leave those as-is. Lowercase bracket prompts in the Group Inquiry and Complaint templates (e.g. `[your name]`, `[reference their specific concern]`) are intentional fill-in-per-message.
+
 ---
 
 ## ✅ Booking Confirmation
 *Trigger: immediately after FareHarbor booking*
 
-**Subject:** Your {BUSINESS} booking is confirmed! 🎉
+**Subject:** Your Door County Kayak Tours booking is confirmed! 🎉
 
 **Body:**
 Hi {{First Name}},
@@ -18,7 +28,7 @@ You're all set! Here are your booking details:
 📅 **Date:** {{Tour Date}}
 ⏰ **Time:** {{Tour Time}}
 👥 **Group size:** {{Headcount}}
-📍 **Meeting location:** [ADDRESS / MAP LINK]
+📍 **Meeting location:** `[TODO: add meeting address + Google Maps link]`
 
 **What to bring:**
 - Clothes you don't mind getting wet
@@ -26,18 +36,22 @@ You're all set! Here are your booking details:
 - Water bottle
 - Closed-toe shoes (water shoes or sandals with heel strap)
 
-**Questions?** Reply to this email or call us at [PHONE].
+**Good to know:**
+- Minimum age is 5 — kids ride in a tandem kayak with an adult.
+- Kayak weight limits: 275 lbs for a single, 450 lbs total for a tandem. If you have any questions about the right setup for your group, just reply and we'll help.
+
+**Questions?** Reply to this email or call us at `[TODO: add DCKT booking phone number]`.
 
 We can't wait to see you!
 
-— The {BUSINESS} Team
+— The Door County Kayak Tours Team
 
 ---
 
 ## ⏰ 48-Hour Reminder
 *Trigger: 48 hours before tour*
 
-**Subject:** See you in 2 days! Quick reminder from {BUSINESS}
+**Subject:** See you in 2 days! Quick reminder from Door County Kayak Tours
 
 **Body:**
 Hi {{First Name}},
@@ -49,7 +63,7 @@ Just a quick reminder — your experience is coming up in 2 days!
 
 **Weather update:** We're watching the forecast. If anything changes, we'll reach out by 7am on the day of your tour. No news = we're on!
 
-**Cancellation policy:** [Insert your policy]
+**Cancellation policy:** `[TODO: add DCKT cancellation / weather-refund policy]`
 
 See you soon!
 
@@ -60,7 +74,7 @@ See you soon!
 ## 🌧️ Weather Hold / Cancellation
 *Trigger: weather cancellation decision made*
 
-**Subject:** [IMPORTANT] Your {BUSINESS} tour — weather update
+**Subject:** [IMPORTANT] Your Door County Kayak Tours tour — weather update
 
 **Body:**
 Hi {{First Name}},
@@ -82,7 +96,7 @@ We're so sorry for the inconvenience and truly appreciate your understanding.
 ## ⭐ Post-Tour Review Request
 *Trigger: 2 hours after tour end time*
 
-**Subject:** How was your experience with {BUSINESS}?
+**Subject:** How was your experience with Door County Kayak Tours?
 
 **Body:**
 Hi {{First Name}},
@@ -91,8 +105,8 @@ Thank you for joining us today — it was a pleasure having you!
 
 If you had a great time, we'd really appreciate a quick review. It takes 60 seconds and helps us more than you know:
 
-🌟 **Leave a Google Review:** [GOOGLE REVIEW LINK]
-🌟 **Leave a TripAdvisor Review:** [TRIPADVISOR LINK]
+🌟 **Leave a Google Review:** `[TODO: add Google review link]`
+🌟 **Leave a TripAdvisor Review:** `[TODO: add TripAdvisor review link]`
 
 Had an issue or something didn't meet your expectations? Please reply directly to this email — we want to make it right.
 
@@ -105,7 +119,7 @@ Thanks again and we hope to see you back on the water soon!
 ## 💬 Group Inquiry Response (Within 2 Hours)
 *Trigger: manual — when group inquiry comes in*
 
-**Subject:** Re: Group booking at {BUSINESS} — let's make it happen!
+**Subject:** Re: Group booking at Door County Kayak Tours — let's make it happen!
 
 **Body:**
 Hi {{First Name}},
@@ -131,7 +145,7 @@ Door County Kayak Tours
 ## 😤 Complaint Response
 *Trigger: guest complaint received — respond within 4 hours*
 
-**Subject:** Re: Your experience at {BUSINESS} — I hear you
+**Subject:** Re: Your experience at Door County Kayak Tours — I hear you
 
 **Body:**
 Hi {{First Name}},

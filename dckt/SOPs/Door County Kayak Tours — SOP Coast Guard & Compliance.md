@@ -11,8 +11,8 @@
 |---|---|
 | Vessel type | kayak/paddle vessel |
 | Regulatory class | Class A uninspected vessel |
-| Max capacity | [NUMBER — from USCG documentation] |
-| State of operation | [STATE] |
+| Max capacity | Per manufacturer rating marked on each kayak/SUP; tour group size capped per DCKT policy — `[TODO: confirm DCKT max group size per guide]` |
+| State of operation | Wisconsin |
 | Inspection required | No — kayaks exempt from USCG passenger vessel rules |
 
 ## 📋 Required Safety Equipment (Kayak/Paddle Vessels)
@@ -31,9 +31,9 @@
 - [ ] **Paddle float** — one per guide
 
 ### State/Local Requirements
-- State: [STATE]
-- DNR registration: [Yes/No — kayaks exempt in most states]
-- LDWF reporting (if Louisiana): see below
+- State: Wisconsin
+- Wisconsin DNR registration: Not required — non-motorized paddlecraft (kayaks, canoes, SUPs) are exempt from watercraft registration in Wisconsin
+- Launch site permits: see Wisconsin DNR Requirements below
 
 ## 🌊 Wisconsin DNR Requirements
 
@@ -57,7 +57,7 @@
 ### Report Filing
 7. File internal incident report (template below) within 24 hours
 8. Notify insurance carrier (contact in insurance docs)
-9. Notify David Rack directly: [PHONE]
+9. Notify David Rack directly: `[TODO: add David Rack's direct phone number]`
 10. USCG MSIS report if required (vessel accident, injury, death, >$2k damage)
 
 ### Incident Report Template
@@ -84,25 +84,9 @@ Date Filed:
 | Month | Task |
 |---|---|
 | January | Renew all guide certifications (CPR, First Aid) |
-| February | USCG inspection scheduled |
+| February | Confirm Wisconsin DNR & local launch-site permit requirements for the season |
 | March | Insurance renewal review |
 | April | Pre-season safety equipment audit |
 | May | Permit renewals (state/local) |
 | October | End-of-season gear inspection + storage |
 | December | Document all staff certifications for next year |
-
-## 📄 From Drive: E-Bike Damage Insurance:
-
-```
-﻿E-Bike Damage Insurance:  
-
-
-If participating in any E-bike rental or tour experience please note there is an insurance option: 
-
-
-* $10 per bike will cover you for any damage done to the bike while riding
-* If you choose to not use insurance, then you can be billed up to $1250 based on the assessment of damage done to the e-bike
-```
-
----
-

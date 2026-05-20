@@ -22,7 +22,7 @@
 | 6 | FareHarbor → GHL webhook | David/Tech | 2 hrs | 🔥 High — 1,105 bookings | ☐ |
 | 7 | Pre-tour 48hr reminder sequence | Manager | 1 hr | Medium — reduces no-shows | ☐ |
 | 8 | Viator listing optimization | Manager | 2 hrs | Medium — 26 OTA bookings | ☐ |
-| 9 | DocuSeal contractor e-sign | David | 3 hrs | High — removes paper chaos | ☐ |
+| 9 | DocuSeal employee agreement + SOP e-sign | David | 3 hrs | High — removes paper chaos | ☐ |
 | 10 | Drive cleanup + archive | Manager | 2 hrs | Medium — 1600 files → clean | ☐ |
 
 ## 🚀 Tier 3: This Season (Strategic)
