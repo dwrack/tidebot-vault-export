@@ -12,19 +12,25 @@
 - [ ] Send 48-hour reminder email to all confirmed guests (see Guest Comms SOP)
 - [ ] Confirm staff/guide availability and assignments
 - [ ] Review float plan / tour route for any new conditions
-- [ ] Verify all gear is staged, charged, and accounted for
+- [ ] Verify all gear is staged, charged, clean, and accounted for
 
 ## 🌅 Morning-Of Checklist (Staff Arrival)
 
 - [ ] All kayaks/SUPs off rack, inspected for hull damage
 - [ ] Paddles counted and assigned (1 spare per 10 guests)
 - [ ] PFDs counted and sorted by size — all USCG-approved Type III
-- [ ] Spray skirts (if applicable) inspected
-- [ ] Bilge pumps, paddle floats, throw bags — all present
-- [ ] First aid kit stocked and accessible
-- [ ] Safety whistle on every guide
-- [ ] Communication device (VHF radio or cell phone) on guide
+- [ ] Dry bags = Flare, Radio, Tow Line, Emergency Whistle, Towel or Sweatshirt (for dry clothing), Water (two bottles at least), Sunscreen, Refreshments/Snacks 
+- [ ] Wetsuit if water is below 60 degrees
 - [ ] Launch site clear and signage in place
+- [ ] Does food need to be packed? If so, pack it
+- [ ] Guides that unloaded kayaks report back to front office on weather conditions
+
+##Launch-site Checklist
+
+Cave Point Checklist
+Load up van - should have an extra life jacket, extra two paddles, a big first-aid kit, check the gas, connect trailer to van, make sure chains and electrical are fastened before taking off, directions to cave point or link to google maps, our parking slot is C2 (closest to the loading dock), unload all kayaks, fasten them to the buoy with carabiners, unload all paddles needed, if an additional trailer is needed staff will bring one empty trailer back to the shop and bring a fully loaded one to site, weather check on the water.
+
+
 
 ## 👋 Guest Check-In Procedure
 
@@ -38,22 +44,30 @@
 - [ ] Fit PFDs — guide checks every guest individually
 - [ ] Safety briefing delivered (see script below)
 - [ ] Confirm any medical/physical limitations
+- [ ] Offer things like waterproof phone cases and other merch that we have on hand
+- [ ] Highlight the TIPS section of your receipts
 - [ ] Photo opportunity at launch (social media + guest memory)
 
 ## 📢 Safety Briefing Script
 
 > *"Welcome, everyone! Before we head out, I want to cover a few safety points. Your life jacket must be worn at all times on the water — it's required by law and it's what keeps you safe. Stay within sight of your guide at all times. If you flip, stay calm — your kayak will float. Paddle your way back and we'll help you re-enter. If you hear two short whistle blasts, stop paddling and look to your guide. Any questions before we launch?"*
 
+Make sure to cover...
+When guests get to location, show them how to hold the paddle, and use your core
+Make sure the paddle has the logo facing the person 
+Use your core/trunk to paddle not your arms
+
+
 ## ☁️ Weather Hold Protocol
 
 **Decision maker:** Guide lead / Manager on duty
 
-| Condition | Action |
-|---|---|
-| Wind > 15mph sustained | Hold — reschedule |
-| Lightning within 10 miles | Cancel / shelter immediately |
-| Visibility < 0.25 mile | Hold |
-| Water temp < 50°F (early/late season) | Require wetsuit or cancel |
+| Condition                             | Action                       |
+| ------------------------------------- | ---------------------------- |
+| Wind > 15mph sustained                | Hold — reschedule            |
+| Lightning within 10 miles             | Cancel / shelter immediately |
+| Visibility < 0.25 mile                | Hold                         |
+| Water temp < 50°F (early/late season) | Require wetsuit or cancel    |
 
 **Weather hold communication:** Use guest communication template in Guest Comms SOP
 
