@@ -16,7 +16,7 @@
 
 ## 🌅 Morning-Of Checklist (Staff Arrival)
 
-- [ ] All kayaks/SUPs off rack, inspected for hull damage
+- [ ] All kayaks off rack, inspected for hull damage
 - [ ] Paddles counted and assigned (1 spare per 10 guests)
 - [ ] PFDs counted and sorted by size — all USCG-approved Type III
 - [ ] Dry bags = Flare, Radio, Tow Line, Emergency Whistle, Towel or Sweatshirt (for dry clothing), Water (two bottles at least), Sunscreen, Refreshments/Snacks 
@@ -30,6 +30,8 @@
 Cave Point Checklist
 Load up van - should have an extra life jacket, extra two paddles, a big first-aid kit, check the gas, connect trailer to van, make sure chains and electrical are fastened before taking off, directions to cave point or link to google maps, our parking slot is C2 (closest to the loading dock), unload all kayaks, fasten them to the buoy with carabiners, unload all paddles needed, if an additional trailer is needed staff will bring one empty trailer back to the shop and bring a fully loaded one to site, weather check on the water.
 
+Door Bluff Checklist
+Guides check-in with front office, take a headcount, print receipts, pack PFDs into van (take either Randy or Cheryl), load up one of the shorter trailers (guides often unload kayaks by themselves), make sure trailer straps are secure by giving the trailer a good push on both sides, hook up trailer (with chains, pins and the electrical connection last), get on the road to Garret Bay Road Boat Ramp, back up the trailer down on the launch, unload kayaks on the rocks to the right (not in the water, don't want them to float off), line up PFDs on a big rock by size or have them hanging in the van, take the empty trailer and van and park it in the parking lot on the mulch side to the left (leave parking spots for the guests), check
 
 
 ## 👋 Guest Check-In Procedure
@@ -76,5 +78,7 @@ Use your core/trunk to paddle not your arms
 - [ ] All gear returned, rinsed, and stored
 - [ ] Incident report filed if any injury/incident occurred
 - [ ] Guest count confirmed out
+- [ ] Receipts are signed
+- [ ] Any garbage left in vans is taken to the trash
 - [ ] Review request triggered in GHL (auto if connected, else manual SMS)
 - [ ] Any feedback noted for manager coaching log
