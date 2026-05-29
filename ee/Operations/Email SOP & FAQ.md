@@ -200,7 +200,7 @@ The sauna is permanently docked at our location. No captain onboard required —
 
 | Thread | Status | Owner |
 |--------|--------|-------|
-| Jess Astrella / jrocro — Phase I design (signage, website, guest experience) | In progress, target June 1, 2026 | Jonah |
+| Jess Astrella / ours-here — Phase I design (signage, website, guest experience) | In progress, target June 1, 2026 | Jonah |
 | Willie McBride — movement + sauna programming pilot | Awaiting his proposal | Davey |
 | Periode.no — door code on waiver page | Requested, pending | Erik Kvanli |
 | Gift card → membership payment | In progress with Periode.no | Davey |

@@ -286,4 +286,4 @@ Schema: Squarespace auto-generates BlogPosting schema for blog posts, so no manu
 
 ---
 
-*This plan is paired with the master site update spec for Jess Astrella at jrocro.com. See: `Marketing/Jess Astrella — Site Updates Spec.md`*
+*This plan is paired with the master site update spec for Jess Astrella at ours-here.com. See: `Marketing/Jess Astrella — Site Updates Spec.md`*

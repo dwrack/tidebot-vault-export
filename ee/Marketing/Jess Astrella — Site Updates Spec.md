@@ -1,6 +1,6 @@
 # Jess Astrella — Site Updates Spec
 
-*For Jess Astrella, jrocro.com — site updates and AI SEO implementation. Built 2026-05-09.*
+*For Jess Astrella, ours-here.com (jess@ours-here.com) — site updates and AI SEO implementation. Built 2026-05-09.*
 
 This is the master spec for everything we want done on ebbandember.com over the next 30-90 days. It's paired with `Marketing/Content Plan — 20 Blog Posts (Silos).md` (the editorial side) and informed by the AI SEO audit run 2026-05-09.
 
