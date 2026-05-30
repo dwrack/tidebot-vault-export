@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Adjusting schedule and logistics for canceled Cave Point tour. _(Bella (audio log), 2026-05-30)_
 - [ ] [Guide log] Evaluate current staffing levels and availability to ensure sufficient personnel for longer operating days and multiple tours, especially when consolidating groups leads to extended hours for guides. _(Lucas (audio log), 2026-05-19)_
 - [ ] [Guide log] Develop and disseminate clear protocols for handling nervous or uncomfortable guests on water tours, including options for returning, moving to calmer areas, or going ashore for a break. _(Bella (audio log), 2026-05-18)_
 - [ ] [Guide log] When guests are nervous on the water, offer options such as staying in calm areas with guide supervision, returning to shore, or joining a more comfortable group. _(Bella (audio log), 2026-05-18)_
