@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Inspect and replace Mercedes van front tires. _(Nick Nepoda (audio log), 2026-05-30)_
 - [ ] [Guide log] Inspect and replace balding front tires on the Mercedes van. _(Nick Nepota (audio log), 2026-05-30)_
 - [ ] [Guide log] Set up affiliate programs with local boutiques, tours, hotels, and Airbnbs. _(Dylan (audio log), 2026-05-17)_
 - [ ] [Guide log] Adopt and utilize the new guide log system, including voice memos and video recordings at the start and end of logs for social media and insurance purposes. _(Dylan (audio log), 2026-05-15)_
