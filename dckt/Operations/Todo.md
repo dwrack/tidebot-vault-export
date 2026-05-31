@@ -79,6 +79,7 @@
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
+- [ ] [Guide log] Head over to Cave Point for a final double-check on wave conditions. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Utilize the trailer dolly for moving trailers to improve efficiency and reduce risk of accidents. _(Jackson (audio log), 2026-05-18)_
 - [ ] Schedule 15-20 min video calls with Lea, Jackson, returning guides for bios (B) -- when social media strategists onboarded
 - [ ] Identify which returning guides should be interviewed for bios (B)
