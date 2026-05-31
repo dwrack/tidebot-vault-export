@@ -35,6 +35,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Double check waves at Cave Point. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Provide guides with laminated QR codes for Venmo or other direct tipping platforms to facilitate guest tipping, potentially creating a 'Venmo wall' as a best practice. _(Bella (audio log), 2026-05-19)_
 - [ ] [Guide log] Print QR codes for Venmo accounts for all guides. _(Bella (audio log), 2026-05-19)_
 - [ ] [Guide log] Order more printer receipt paper _(Bella (audio log), 2026-05-19)_
