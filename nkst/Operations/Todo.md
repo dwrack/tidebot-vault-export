@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Inspect and replace worn front tires on the Mercedes van. _(Nick Napoda (audio log), 2026-05-31)_
 - [ ] [Guide log] Inspect and potentially replace front tires on Mercedes van _(Nick Napoda (audio log), 2026-05-31)_
 - [ ] [Guide log] The Mercedes van has balding front tires and they need to be replaced. _(Nick Nepota (audio log), 2026-05-31)_
 - [ ] [Guide log] Inspect and replace Mercedes van front tires. _(Nick Nepoda (audio log), 2026-05-30)_
