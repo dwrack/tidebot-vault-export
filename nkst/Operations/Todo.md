@@ -19,6 +19,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] PFDs smell and need thorough cleaning or replacement. _(Nick Napota (audio log), 2026-05-31)_
 - [ ] [Guide log] PFDs need to be cleaned/deodorized as they are stinky. _(Nick Nepota (audio log), 2026-05-31)_
 - [ ] [Guide log] PFDs are stinky. _(Nick Napota (audio log), 2026-05-31)_
 - [ ] [Guide log] Clean/wash stinky PFDs. _(Nick Napoda (audio log), 2026-05-31)_
