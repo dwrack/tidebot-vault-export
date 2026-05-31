@@ -18,6 +18,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] PFDs are stinky. _(Nick Napota (audio log), 2026-05-31)_
 - [ ] [Guide log] Clean/wash stinky PFDs. _(Nick Napoda (audio log), 2026-05-31)_
 - [ ] [Guide log] Clean or replace stinky PFDs _(Nick Napota (audio log), 2026-05-31)_
 - [ ] [Guide log] Distribute QR codes and brochures to front desk staff at local establishments. _(Dylan (audio log), 2026-05-17)_
