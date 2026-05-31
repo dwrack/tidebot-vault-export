@@ -80,6 +80,7 @@
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
+- [ ] [Guide log] Provide an update once all bike maintenance is complete _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Provide update once all bike maintenance is finished. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Head over to Cave Point for a final double-check on wave conditions. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Utilize the trailer dolly for moving trailers to improve efficiency and reduce risk of accidents. _(Jackson (audio log), 2026-05-18)_
