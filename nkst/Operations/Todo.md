@@ -18,6 +18,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Clean or replace stinky PFDs _(Nick Napota (audio log), 2026-05-31)_
 - [ ] [Guide log] Distribute QR codes and brochures to front desk staff at local establishments. _(Dylan (audio log), 2026-05-17)_
 - [ ] [Guide log] Tighten the paddle for kayak number seven before the next trip. _(Captain Morgan (audio log), 2026-05-11)_
 - [ ] [Guide log] Encourage guests to leave reviews _(Dylan LP (audio log), 2026-05-11)_
