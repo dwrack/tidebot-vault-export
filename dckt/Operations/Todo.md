@@ -35,6 +35,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Go through Homebase and fix the schedule. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Unload Sheryl (vehicle/storage). _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Make key copies for vehicles and the garage door. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Double check waves at Cave Point. _(Bella (audio log), 2026-05-31)_
