@@ -36,6 +36,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Ensure trash and recycling are consistently dragged out on Tuesday nights for Wednesday pickup. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Go through Homebase and fix the schedule. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Unload Sheryl (vehicle/storage). _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Make key copies for vehicles and the garage door. _(Bella (audio log), 2026-05-31)_
