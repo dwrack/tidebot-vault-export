@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Ensure closing staff on Tuesday nights consistently drag out the trash for Wednesday pickup. Clarify responsibilities. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Re-plan and move the scheduled tours to an alternative location due to unsuitable weather at Cape Point. _(Bella (audio log), 2026-05-30)_
 - [ ] [Guide log] Adjusting schedule and logistics for canceled Cave Point tour. _(Bella (audio log), 2026-05-30)_
 - [ ] [Guide log] Evaluate current staffing levels and availability to ensure sufficient personnel for longer operating days and multiple tours, especially when consolidating groups leads to extended hours for guides. _(Lucas (audio log), 2026-05-19)_
