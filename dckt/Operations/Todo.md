@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Remind staff to take out and clean all garbage for Wednesday's pickup. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Train Anna tomorrow. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Ensure closing staff on Tuesday nights consistently drag out the trash for Wednesday pickup. Clarify responsibilities. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Re-plan and move the scheduled tours to an alternative location due to unsuitable weather at Cape Point. _(Bella (audio log), 2026-05-30)_
