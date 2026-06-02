@@ -22,6 +22,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Van needs to be checked, possible issue with odor emission. _(Nick Nepota (audio log), 2026-06-02)_
 - [ ] [Guide log] Clean or implement a more robust cleaning protocol for PFDs, as they are stinky and smell like body odor. _(Nick Nepoda (audio log), 2026-05-31)_
 - [ ] [Guide log] Clean/address odor for PFDs that smell like body odor. _(Nick Nepoda (audio log), 2026-05-31)_
 - [ ] [Guide log] PFDs smell and need thorough cleaning or replacement. _(Nick Napota (audio log), 2026-05-31)_
