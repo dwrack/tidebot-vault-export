@@ -38,6 +38,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Work on guide assessment. _(Bella (audio log), 2026-06-02)_
 - [ ] [Guide log] Put in receipts in Homebase. _(Bella (audio log), 2026-06-02)_
 - [ ] [Guide log] Address Mike from Liberty Grove's request to come to town hall. _(Bella (audio log), 2026-06-02)_
 - [ ] [Guide log] Ensure trash and recycling are consistently dragged out on Tuesday nights for Wednesday pickup. _(Bella (audio log), 2026-06-01)_
