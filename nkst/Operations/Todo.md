@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Establish a weekly goal to distribute flyers (with 50% off booking code for locals) to every cafe in town. _(Michelle (audio log), 2026-06-02)_
 - [ ] [Guide log] Investigate Fair Harbor reception issues at Manshack Swamp to ensure timely electronic waiver confirmation for guests completing them on-site. _(Nick Nepoda (audio log), 2026-06-02)_
 - [ ] [Guide log] Inspect and replace worn front tires on the Mercedes van. _(Nick Napoda (audio log), 2026-05-31)_
 - [ ] [Guide log] Inspect and potentially replace front tires on Mercedes van _(Nick Napoda (audio log), 2026-05-31)_
