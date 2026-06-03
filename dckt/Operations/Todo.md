@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] Build a forecast / "revenue on the books" report — forward-looking FareHarbor pull (future availability dates) showing booked revenue + customer counts for upcoming days/weeks, to pair with the daily labor report. Companion to the past-30-day labor% report fixed June 2. Must report on availability (tour) date, include self-rentals, and reconcile to FareHarbor's own total. (D/Claude)
 - [ ] Remove tour photo references from doorcountykayaktours.com — we no longer sell the $20 photo package or use dcphotofun.com. Pages to clean: /gallery/, /kayak-tours/cave-point-county-park/, /kayak-tours/eco-estuary-tour/, /kayak-tours/door-bluff-county-park-shipwreck/ (and check Sunset/Private Tour pages for the same Optional Add-ons block) (D/B)
 - [ ] Schedule kickoff call with Lea this week — run Phase 1 discovery questions, assess strengths (D)
 - [ ] Send Lea Phase 1 assignments before the call (D)
