@@ -23,6 +23,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] PFDs were slightly pungent and need to be cleaned/aired out. _(Nick Napoda (audio log), 2026-06-03)_
 - [ ] [Guide log] Address pungent odor of PFDs through cleaning and/or airing out. _(Nick Nepoda (audio log), 2026-06-03)_
 - [ ] [Guide log] Follow up with Haunted History Tours owner regarding potential partnership for brochure exchange and affiliate program. _(Michelle (audio log), 2026-06-02)_
 - [ ] [Guide log] Van needs to be checked, possible issue with odor emission. _(Nick Nepota (audio log), 2026-06-02)_
