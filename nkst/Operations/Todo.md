@@ -23,6 +23,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Address pungent odor of PFDs through cleaning and/or airing out. _(Nick Nepoda (audio log), 2026-06-03)_
 - [ ] [Guide log] Follow up with Haunted History Tours owner regarding potential partnership for brochure exchange and affiliate program. _(Michelle (audio log), 2026-06-02)_
 - [ ] [Guide log] Van needs to be checked, possible issue with odor emission. _(Nick Nepota (audio log), 2026-06-02)_
 - [ ] [Guide log] Clean or implement a more robust cleaning protocol for PFDs, as they are stinky and smell like body odor. _(Nick Nepoda (audio log), 2026-05-31)_
