@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "generated_at": "2026-06-04T13:32:47.202Z",
+    "for_date": "2026-06-03",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "booked_count": 3,
+      "booked_revenue": 54,
+      "ran_count": 0,
+      "ran_revenue": 0
+    }
+  },
+  "errors": {
+    "doorcountykayaktours": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "houstonpedalbarge": "Error: apiRequestContext.post: read ECONNRESET\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/houstonpedalbarge/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X",
+    "lonestarkayaktours": "Error: apiRequestContext.post: read ECONNRESET\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/lonestarkayaktours/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS ",
+    "neworleanskayakswamptours": "Error: apiRequestContext.post: read ECONNRESET\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/neworleanskayakswamptours/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel ",
+    "neworleanspedalbarge": "TimeoutError: apiRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - → GET https://fareharbor.com/api/v1/companies/neworleanspedalbarge/reports/56865556/data/\n    - user-agent: Mozilla/5.0 (Ma"
+  }
+}
