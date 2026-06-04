@@ -36,7 +36,7 @@ Ebb and Ember
 Portland's floating sauna on the Columbia River
 173 NE Bridgeton Rd, Portland OR 97211
 
-{{unsubscribe}}
+*(Footer auto-appended by SendGrid Subscription Tracking, see fix note below.)*
 
 ---
 
@@ -60,7 +60,17 @@ Ebb and Ember
 Portland's floating sauna on the Columbia River
 173 NE Bridgeton Rd, Portland OR 97211
 
-{{unsubscribe}}
+*(Unsubscribe footer is now auto-appended by SendGrid. See note below. Do not paste a literal `{{unsubscribe}}` into the body.)*
+
+---
+
+## Unsubscribe footer — FIXED 2026-06-04
+
+The first blast went out with NO footer link, just reply-to-unsubscribe, which forced us to mine the inbox by hand (23 opt-outs). Fixed now:
+
+- **SendGrid Subscription Tracking is ON** and auto-appends a footer with a working one-click unsubscribe link + mailing address to every send. Opt-outs now drop straight into SendGrid suppression automatically. No body tag needed.
+- The footer reads: "Ebb and Ember · 173 NE Bridgeton Rd, Portland OR 97211 / You are receiving this because you opted in at ebbandember.com. / Unsubscribe from these emails".
+- **DMARC is now live** (`v=DMARC1; p=none; rua=mailto:sauna@ebbandember.com`) after fixing a doubled-host typo in Squarespace DNS. Combined with the existing SendGrid DKIM/SPF, alignment is now complete.
 
 ---
 
@@ -76,14 +86,7 @@ Portland's floating sauna on the Columbia River
 - [ ] Confirm `BRINGAFRIEND` is live as a free-friend-pass code, any day, expiring 2026-07-31
 
 **Suppression list (scrub before every send):**
-These 7 opted out by replying to the April "Did you win and a thank you." blast. Do not email.
-- milan.griffes@gmail.com (Milan Griffes)
-- davidsurvilo@gmail.com (David Survilo)
-- karriadevoe@gmail.com (Karla Arria-Devoe)
-- hgotjen@gmail.com (Henry Gotjen)
-- info@margotbigg.com (Margot Bigg)
-- kinseyeriksen@yahoo.com (Kinsey Eriksen)
-- chadm@probuilderswa.com (Chad McDonald)
+The master opt-out list now lives in `Marketing/Do Not Contact List.md` (30 people: 7 from April + 23 from the June blast). All are in SendGrid's global suppression, so SendGrid won't send to them regardless, but scrub the sheet too. The 23 June opt-outs are also flagged `Unsubscribed 2026-06-03` in the Master Contacts Status column (F), so just filter out non-blank Status before sending.
 
 **Send:**
 - [ ] Test send to Jess (jess@ours-here.com), Hannah (hannah@ours-here.com), Jonah (jonah@ohanaequities.com)
