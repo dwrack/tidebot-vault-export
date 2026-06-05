@@ -2,7 +2,7 @@
 
 *Master suppression list. Scrub against this before EVERY email blast and every Twilio SMS blast. Email and SMS are treated as one opt-out: if someone opts out of one, they come off both.*
 
-Last updated: 2026-06-04
+Last updated: 2026-06-05
 
 ---
 
@@ -43,6 +43,15 @@ These came in as email replies because the blast had no unsubscribe link (reply-
 | Dale Connors | dcconnors5@gmail.com | no |
 | Ben Koerbel | bkoerbel@gmail.com | no |
 | Evelyn McLean (replied as "Normal Person") | goodnewsreporting@gmail.com | no |
+
+## June 2026 blast opt-outs — late arrivals (2) — came in 2026-06-04 after the first sweep
+
+Added to SendGrid global suppression 2026-06-05. Both are bare email addresses with no display name.
+
+| Name | Email | Phone on file? |
+|------|-------|----------------|
+| (unknown) | eriophorum.callitrix@gmail.com | no |
+| (unknown) | dejaic28@yahoo.com | no |
 
 ## April 2026 blast opt-outs (7) — from "Did you win and a thank you"
 
