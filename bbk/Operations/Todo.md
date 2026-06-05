@@ -4,6 +4,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Monitor water levels and speed for future tours. _(Dillon (audio log), 2026-06-05)_
 
 
 ## Low Priority
