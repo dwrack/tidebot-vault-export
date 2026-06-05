@@ -1,6 +1,7 @@
 # Buffalo Bayou Kayak — Todo List
 
 ## High Priority
+- [ ] [Guide log] Assess and address the issue with the loading dock stairs/submergence once water levels recede. _(Dillon (audio log), 2026-06-05)_
 
 
 ## Medium Priority
