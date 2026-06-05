@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Push half-off discount for locals during the summertime. _(Dylan (audio log), 2026-06-05)_
 - [ ] [Guide log] Promote and push the half-off deal for locals during the summertime. _(Dylan (audio log), 2026-06-05)_
 - [ ] [Guide log] Establish a weekly goal to distribute flyers (with 50% off booking code for locals) to every cafe in town. _(Michelle (audio log), 2026-06-02)_
 - [ ] [Guide log] Investigate Fair Harbor reception issues at Manshack Swamp to ensure timely electronic waiver confirmation for guests completing them on-site. _(Nick Nepoda (audio log), 2026-06-02)_
