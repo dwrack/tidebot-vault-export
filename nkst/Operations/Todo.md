@@ -59,6 +59,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Promote summer tours with a 'half off for locals' special. _(Dylan P. (audio log), 2026-06-06)_
 - [ ] [Guide log] Follow up on waiver submission for the four guests if reception issues persist in the future. _(Nick Nepoda (audio log), 2026-06-02)_
 - [ ] [Guide log] Ensure the canceled booking for the two no-show guests is fully processed and closed in the system. _(Michelle (audio log), 2026-06-01)_
 - [ ] [Guide log] Follow up on getting customer reviews. _(Dylan L.P. (audio log), 2026-05-11)_
