@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Address the brief lack in insurance coverage. _(Dylan LP (audio log), 2026-06-06)_
 - [ ] [Guide log] Push half-off discount for locals during the summertime. _(Dylan (audio log), 2026-06-05)_
 - [ ] [Guide log] Promote and push the half-off deal for locals during the summertime. _(Dylan (audio log), 2026-06-05)_
 - [ ] [Guide log] Establish a weekly goal to distribute flyers (with 50% off booking code for locals) to every cafe in town. _(Michelle (audio log), 2026-06-02)_
