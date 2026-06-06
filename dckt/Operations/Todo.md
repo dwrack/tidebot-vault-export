@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Re-check and address the trailer's flat tire, which was previously inflated. _(Bella (audio log), 2026-06-06)_
 - [ ] [Guide log] Remind staff to take out and clean all garbage for Wednesday's pickup. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Train Anna tomorrow. _(Bella (audio log), 2026-06-01)_
 - [ ] [Guide log] Ensure closing staff on Tuesday nights consistently drag out the trash for Wednesday pickup. Clarify responsibilities. _(Bella (audio log), 2026-06-01)_
