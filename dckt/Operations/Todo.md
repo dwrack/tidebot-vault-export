@@ -92,6 +92,7 @@
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
+- [ ] [Guide log] Check condition and seal of the dry bag used for the first aid kit, as it popped open during the trip and some items got wet. _(Alex (audio log), 2026-06-08)_
 - [ ] [Guide log] Provide an update once all bike maintenance is complete _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Provide update once all bike maintenance is finished. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Head over to Cave Point for a final double-check on wave conditions. _(Bella (audio log), 2026-05-31)_
