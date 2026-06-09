@@ -1,65 +1,82 @@
 # Faith Group Email Campaign (DRAFT - for your review before sending)
 
-Sober reframe. From Connor at Houston Party Barge, reply-to info@houstonpedalbarge.com, via SES.
-One clickable CTA to the new /faith-group-outings/ page. Plain ASCII, no em dashes.
+Sober reframe, rewritten to "speak to them" (Halbert cold-outreach + Schwartz identity-match).
+From Connor at Houston Party Barge, reply-to houstonpedalbarge@gmail.com, via SES.
+One clickable CTA to the /faith-group-outings/ page. Plain ASCII, no em dashes.
 Hold until you approve the copy AND the page is live (links need a real destination).
 
-## Subject line options (pick one, or A/B a couple)
-1. An easy idea for your next group outing
-2. Get your group out on the water, we handle the rest
-3. Something different for your group this season
-4. A private outing your group will actually remember
+## The strategy (why this version, not a product pitch)
+Ministry leaders don't buy boats. They buy fellowship, safety, and good stewardship, and they
+quietly screen every vendor for "do these people get us." So the copy leads with what they already
+believe and proves we respect it. No scripture, no "God bless," no flattery. Sincerity, not signaling.
+- Real connection over programming -> opens on "the best conversations don't happen in rows."
+- Stewardship of a tight budget -> flat rate, "a few dollars a head" (they answer to a finance committee).
+- Safety with teens -> Coast Guard certified, real captain, chaperones ride free.
+- Respect for their values -> the "Everything is your call... that's exactly right with us" line.
+  It signals we have served faith groups before and never make the alcohol question awkward, without
+  saying so outright (the blunt P.S. version was cut at David's call on 2026-06-09).
 
-Lead recommendation: #2. It is concrete, a little intriguing, and not clickbait.
+## Subject line options (pick one)
+1. The best conversations don't happen in rows   <- lead recommendation (identity hook)
+2. An outing your group will actually remember
+3. For your group's next outing (no sales pitch, promise)   <- safe, warm alternative
+4. Two hours together that aren't another meeting
 
 ---
 
-## Email body - GENERAL version (church office / general contact)
+## Email body - GENERAL version
 
-Hi {Name or Church} team,
+Hi {Name},
 
-Some of the best moments a group has together do not happen in a fellowship hall. They happen when
-everyone is out of their routine, phones down, watching the sun drop over the water.
+You already know this better than I do: the moments that actually stick with your people rarely
+happen in a sanctuary or a fellowship hall. They happen shoulder to shoulder, doing something
+together, when everyone finally puts the phone down.
 
-We run a private boat on Clear Lake, here in Seabrook, and we host a lot of church and ministry
-groups. You get the whole boat to your group, up to 26 people, a licensed captain and crew who
-handle everything, and about two relaxed hours on the water. You bring your own food and drinks
-(plenty of groups keep it simple with sweet tea and snacks), and we take care of the rest. It is
-Coast Guard certified, no experience needed, and it works out to just a few dollars a head.
+That's the whole reason I'm writing.
 
-Here is how it works for groups: https://houstonpedalbarge.com/faith-group-outings/
+We run a private boat on Clear Lake, and we host a lot of church and ministry groups. You get the
+whole boat to your group, a licensed captain and crew, and about two unhurried hours on the water.
+No program to run, no room to set up, nothing to clean up after. Just your people, together,
+watching the sun go down over the lake.
 
-If a group outing is anywhere on your calendar this season, tell me a date or two you are eyeing
-and I will check availability and send pricing.
+A few things I think matter to you specifically:
 
-Thanks,
+- It's your group only, and it's safe. Coast Guard certified, a real captain and crew, two restrooms on board, and chaperones ride free.
+- Everything is your call. Bring your own food and drinks. A lot of our faith groups keep it simple with sweet tea and snacks, and that's exactly right with us.
+- It's kind to a tight budget. One flat rate for the whole boat, which usually lands at just a few dollars a head.
+
+If a youth night, a small-group social, or a thank-you for your volunteers is anywhere on your
+calendar, here's how it works for groups: https://houstonpedalbarge.com/faith-group-outings/
+
+Tell me a date or two you're weighing and I'll hold it while you check with your people.
+
+Grateful for what you do,
 Connor
 Houston Party Barge
 (832) 974-0365
 
 ---
 
-## Variant openers (swap the first paragraph by ministry fit)
+## Optional opener swaps by ministry fit (replace the first paragraph)
 
 **Youth ministry** (to a youth/student pastor):
-Looking for an end-of-semester or summer-kickoff outing the students will actually talk about? We
-run a private boat on Clear Lake that is a blast for youth groups and easy to chaperone, the whole
-boat is yours, a licensed captain and crew handle everything, and chaperones ride free.
+You already know this better than I do: the nights your students still talk about months later
+aren't the ones with the slickest program. They're the ones where everybody was just together,
+phones down, doing something real.
 
 **Young adult / college:**
-Getting young adults to connect outside of a Sunday row is half the battle. We run a private boat on
-Clear Lake that does it the easy way, the whole boat to your group, two hours on the water, you
-bring the food, we handle the rest.
+You already know the hard part isn't getting young adults in a room. It's getting them to actually
+connect once they're there, off their screens and out of the back row.
 
 **Men's / women's / small groups:**
-A change of scenery does a small group a lot of good. We run a private boat on Clear Lake, the whole
-boat is yours for about two hours, captain and crew included, and you just bring your own food and
-drinks.
+You already know a group goes deeper when you get it out of the usual room. Same people, different
+setting, and suddenly the conversation isn't surface-level anymore.
 
 ---
 
 ## Notes
-- The CTA link must point to the live /faith-group-outings/ page. Do not send before it is published.
-- Reply-to is info@houstonpedalbarge.com (matches the rest of the outreach).
+- CTA link must point to the LIVE /faith-group-outings/ page. Do not send before it is published.
+- Reply-to is houstonpedalbarge@gmail.com (the monitored inbox).
 - Same SES infra as the link/corporate campaigns; I will add a "faith" template to outreach_emails.py
-  once you approve this copy, then send in your chosen mode.
+  once you approve this copy, then send in your chosen mode (draft-first review per your call).
+- 26 verified ministry contacts queued in HPB Faith Group Prospects.csv.
