@@ -8,7 +8,7 @@ Last updated: 2026-06-05
 
 ## How this is enforced
 
-- **Email (SendGrid):** all addresses below are in SendGrid's **global unsubscribe group**, so SendGrid will refuse to send to them no matter which list is uploaded. This is the hard backstop.
+- **Email (SendGrid):** all addresses below are in SendGrid's **global unsubscribe group**, so SendGrid will refuse to send to them no matter which list is uploaded. This is the hard backstop. *(Corrected 2026-06-10: the 7 April opt-outs were NOT actually in SendGrid despite this claim — verified via API, both the unsubscribe-group and global-suppression endpoints. Added them to global suppression 2026-06-10. Going forward, do not assume; verify against `/v3/suppression/unsubscribes` + `/v3/asm/suppressions/global` before each send.)*
 - **Master Contacts sheet:** the 2026-06-03 unsubscribers are flagged `Unsubscribed 2026-06-03` in the new **Status** column (F) of the "Sauna Boat Opt in Form (Responses)" → Master Contacts tab. Filter out any non-blank Status before sending.
 - **SMS (Twilio):** no automated suppression exists yet. Before any SMS blast, manually drop anyone whose name/email/phone matches an entry below. None of the current opt-outs have a phone number on file, so there is no overlap with the SMS-capable list today, but that can change as the form collects more responses.
 

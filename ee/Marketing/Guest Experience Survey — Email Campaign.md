@@ -40,7 +40,31 @@ Portland's floating sauna on the Columbia River
 
 ---
 
-## Email 2 — Reminder (non-openers, ~5 days later)
+## Email 2 — Reminder — SENT 2026-06-10
+
+**Status:** Sent June 10, 2026 to 2,273 recipients via SendGrid, in 5 throttled waves (~455/hr, scheduled +0/+1/+2/+3/+4h) to protect domain reputation. Category `survey-reminder-jun2026`.
+
+**Audience decision:** Full Master Contacts list minus opt-outs, NOT non-clickers. Per-recipient click data from the June 3 blast was unrecoverable (Email Activity feed only held test sends; aggregate stats showed ~215 unique clicks but no addresses). Scrub: 22 rows dropped via Status flag + opt-out list, 3 invalid emails, 0 dupes. The "Already filled it out? Thank you" line covers anyone who already completed it.
+
+**Cap date:** Survey closes Friday, June 12 (Jess's call over Davey's June 15 float). Baked into the copy.
+
+**Suppression note:** The 7 April opt-outs were NOT actually in SendGrid (the Do Not Contact doc wrongly claimed global suppression). Added to global suppression 2026-06-10 and hard-excluded from this send regardless.
+
+**Final subject used:** Last call: the float survey closes Friday
+**Preheader:** Closes Friday, June 12. A few minutes, and a free friend pass.
+
+Final body (sent):
+
+> Hi -firstName-,
+> Quick nudge: we're closing our Guest Experience Survey this Friday, June 12, and we'd love your read before it does.
+> Five minutes, ten questions. Finish it and you'll get a free friend pass to bring someone on the float, good any day through July 31.
+> [ Take the survey → ]
+> Already filled it out? Thank you, that's all we needed.
+> The Ebb and Ember team
+
+---
+
+### Original draft (for reference)
 
 **Subject:** Last call on the float survey
 **Preheader:** A few minutes, and a free friend pass.
