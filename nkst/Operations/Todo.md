@@ -60,6 +60,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Nick is taking the van out for his next tour and post log. _(Stephanie (audio log), 2026-06-10)_
 - [ ] [Guide log] Promote summer tours with a 'half off for locals' special. _(Dylan P. (audio log), 2026-06-06)_
 - [ ] [Guide log] Follow up on waiver submission for the four guests if reception issues persist in the future. _(Nick Nepoda (audio log), 2026-06-02)_
 - [ ] [Guide log] Ensure the canceled booking for the two no-show guests is fully processed and closed in the system. _(Michelle (audio log), 2026-06-01)_
