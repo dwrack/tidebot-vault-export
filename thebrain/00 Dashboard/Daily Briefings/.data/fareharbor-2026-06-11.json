@@ -1,0 +1,572 @@
+{
+  "_meta": {
+    "scraped_at": "2026-06-11T14:20:31.960Z",
+    "for_date": "2026-06-10",
+    "timezone": "America/Chicago",
+    "shortnames_attempted": [
+      "buffalobayoukayak",
+      "doorcountykayaktours",
+      "houstonpedalbarge",
+      "lonestarkayaktours",
+      "neworleanskayakswamptours",
+      "neworleanspedalbarge"
+    ]
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "shortname": "buffalobayoukayak",
+      "pulled_at": "2026-06-11T12:58:32.938Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Loading..."
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10",
+        "page_title": "Dashboard | Buffalo Bayou Kayak Tours"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Thursday, June 11, 2026",
+          "Reference date: Thursday, June 11, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10",
+        "page_title": "Payments | Buffalo Bayou Kayak Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Loading..."
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/payouts/",
+        "page_title": "Reports | Buffalo Bayou Kayak Tours"
+      },
+      "manifest_today": null,
+      "errors": [
+        {
+          "stage": "manifest_today",
+          "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/buffalobayoukayak/dashboard/manifest/date/2026-06-11/availabilities/\", waiting until \"domcontentloaded\"\n"
+        }
+      ]
+    },
+    "doorcountykayaktours": {
+      "shortname": "doorcountykayaktours",
+      "pulled_at": "2026-06-11T13:13:32.595Z",
+      "bookings": {
+        "money": [],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 3
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "3",
+          "What's new?",
+          "Close",
+          "Pay and get paid through FareHarbor 💳",
+          "Pay or receive partner invoices with a credit or debit card, all without leaving FareHarbor.",
+          "Learn more",
+          "Dismiss",
+          "View occupancy for resource-based activities",
+          "The improved Item occupancy report now supports resource-based capacity and adds waitlist signup counts. See true availability performance and spot unmet demand faster!",
+          "Explore report",
+          "Dismiss",
+          "Help improve Dashboard navigation (only 10 minutes)",
+          "How easy (or hard) is it to find what you need in the Dashboard? Your quick feedback helps us design faster, easier, and more intuitive navigation.",
+          "Take the survey",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10",
+        "page_title": "Bookings | Door County Kayak"
+      },
+      "payments": {
+        "money": [],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 3
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "3",
+          "What's new?",
+          "Close",
+          "Pay and get paid through FareHarbor 💳",
+          "Pay or receive partner invoices with a credit or debit card, all without leaving FareHarbor.",
+          "Learn more",
+          "Dismiss",
+          "View occupancy for resource-based activities",
+          "The improved Item occupancy report now supports resource-based capacity and adds waitlist signup counts. See true availability performance and spot unmet demand faster!",
+          "Explore report",
+          "Dismiss",
+          "Help improve Dashboard navigation (only 10 minutes)",
+          "How easy (or hard) is it to find what you need in the Dashboard? Your quick feedback helps us design faster, easier, and more intuitive navigation.",
+          "Take the survey",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10",
+        "page_title": "Payments | Door County Kayak"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 3
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "3",
+          "What's new?",
+          "Close",
+          "Pay and get paid through FareHarbor 💳",
+          "Pay or receive partner invoices with a credit or debit card, all without leaving FareHarbor.",
+          "Learn more",
+          "Dismiss",
+          "View occupancy for resource-based activities",
+          "The improved Item occupancy report now supports resource-based capacity and adds waitlist signup counts. See true availability performance and spot unmet demand faster!",
+          "Explore report",
+          "Dismiss",
+          "Help improve Dashboard navigation (only 10 minutes)",
+          "How easy (or hard) is it to find what you need in the Dashboard? Your quick feedback helps us design faster, easier, and more intuitive navigation.",
+          "Take the survey",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/payouts/",
+        "page_title": "Payouts | Door County Kayak"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "Checked in | No-show",
+            "value": "$785.62",
+            "line": "$785.62"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$186.73",
+            "line": "$186.73"
+          },
+          {
+            "label": "No | June 10,11,2026",
+            "value": "$58.73",
+            "line": "$58.73"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$135.04",
+            "line": "$135.04"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$135.04",
+            "line": "$135.04"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$270.08",
+            "line": "$270.08"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 3
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "3",
+          "What's new?",
+          "Close",
+          "Pay and get paid through FareHarbor 💳",
+          "Pay or receive partner invoices with a credit or debit card, all without leaving FareHarbor.",
+          "Learn more",
+          "Dismiss",
+          "View occupancy for resource-based activities",
+          "The improved Item occupancy report now supports resource-based capacity and adds waitlist signup counts. See true availability performance and spot unmet demand faster!",
+          "Explore report",
+          "Dismiss",
+          "Help improve Dashboard navigation (only 10 minutes)",
+          "How easy (or hard) is it to find what you need in the Dashboard? Your quick feedback helps us design faster, easier, and more intuitive navigation.",
+          "Take the survey",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Thursday, June 11, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/manifest/date/2026-06-11/availabilities/",
+        "page_title": "Thursday, June 11, 2026 | Door County Kayak"
+      },
+      "errors": []
+    },
+    "houstonpedalbarge": {
+      "shortname": "houstonpedalbarge",
+      "pulled_at": "2026-06-11T13:24:14.217Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10",
+        "page_title": "Dashboard | Houston Pedal Barge"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Thursday, June 11, 2026",
+          "Reference date: Thursday, June 11, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10",
+        "page_title": "Payments | Houston Pedal Barge"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Loading..."
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/payouts/",
+        "page_title": "Dashboard | Houston Pedal Barge"
+      },
+      "manifest_today": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Thursday, June 11, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Custom manifests",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Print",
+          "No availabilities"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/manifest/date/2026-06-11/availabilities/",
+        "page_title": "Thursday, June 11, 2026 | Houston Pedal Barge"
+      },
+      "errors": []
+    },
+    "lonestarkayaktours": {
+      "shortname": "lonestarkayaktours",
+      "pulled_at": "2026-06-11T14:00:31.234Z",
+      "bookings": null,
+      "payments": null,
+      "payouts": null,
+      "manifest_today": null,
+      "errors": [
+        {
+          "stage": "bookings",
+          "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "stage": "payments",
+          "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "stage": "payouts",
+          "message": "Error: page.goto: Navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payouts/\" is interrupted by another navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\"\nCall log:\n  - navigating to \"https://fareharbor.com/"
+        },
+        {
+          "stage": "manifest_today",
+          "message": "Error: page.goto: Navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/manifest/date/2026-06-11/availabilities/\" is interrupted by another navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payouts/\"\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarka"
+        }
+      ]
+    },
+    "neworleanskayakswamptours": {
+      "shortname": "neworleanskayakswamptours",
+      "pulled_at": "2026-06-11T14:06:30.601Z",
+      "bookings": null,
+      "payments": null,
+      "payouts": null,
+      "manifest_today": null,
+      "errors": [
+        {
+          "stage": "bookings",
+          "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10\" is interrupted by another navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/manifest/date/2026-06-11/availabilities/\"\nCall log:\n "
+        },
+        {
+          "stage": "payments",
+          "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\" is interrupted by another navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-0"
+        },
+        {
+          "stage": "payouts",
+          "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payouts/\" is interrupted by another navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\"\nCall log:\n  - navigating to \"https://f"
+        },
+        {
+          "stage": "manifest_today",
+          "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/manifest/date/2026-06-11/availabilities/\" is interrupted by another navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payouts/\"\nCall log:\n  - navigating to \"https://fareharbor."
+        }
+      ]
+    },
+    "neworleanspedalbarge": {
+      "shortname": "neworleanspedalbarge",
+      "pulled_at": "2026-06-11T14:06:33.745Z",
+      "bookings": null,
+      "payments": null,
+      "payouts": null,
+      "manifest_today": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/manifest/date/2026-06-11/availabilities/",
+        "page_title": "Manifest | New Orleans Party Barge"
+      },
+      "errors": [
+        {
+          "stage": "bookings",
+          "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "stage": "payments",
+          "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "stage": "payouts",
+          "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payouts/\", waiting until \"domcontentloaded\"\n"
+        }
+      ]
+    }
+  },
+  "_errors": {
+    "buffalobayoukayak": [
+      {
+        "stage": "manifest_today",
+        "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/buffalobayoukayak/dashboard/manifest/date/2026-06-11/availabilities/\", waiting until \"domcontentloaded\"\n"
+      }
+    ],
+    "lonestarkayaktours": [
+      {
+        "stage": "bookings",
+        "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+      },
+      {
+        "stage": "payments",
+        "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+      },
+      {
+        "stage": "payouts",
+        "message": "Error: page.goto: Navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payouts/\" is interrupted by another navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\"\nCall log:\n  - navigating to \"https://fareharbor.com/"
+      },
+      {
+        "stage": "manifest_today",
+        "message": "Error: page.goto: Navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/manifest/date/2026-06-11/availabilities/\" is interrupted by another navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/payouts/\"\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarka"
+      }
+    ],
+    "neworleanskayakswamptours": [
+      {
+        "stage": "bookings",
+        "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10\" is interrupted by another navigation to \"https://fareharbor.com/lonestarkayaktours/dashboard/manifest/date/2026-06-11/availabilities/\"\nCall log:\n "
+      },
+      {
+        "stage": "payments",
+        "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\" is interrupted by another navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-0"
+      },
+      {
+        "stage": "payouts",
+        "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payouts/\" is interrupted by another navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\"\nCall log:\n  - navigating to \"https://f"
+      },
+      {
+        "stage": "manifest_today",
+        "message": "Error: page.goto: Navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/manifest/date/2026-06-11/availabilities/\" is interrupted by another navigation to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payouts/\"\nCall log:\n  - navigating to \"https://fareharbor."
+      }
+    ],
+    "neworleanspedalbarge": [
+      {
+        "stage": "bookings",
+        "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+      },
+      {
+        "stage": "payments",
+        "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payments/?date_range=2026-06-10_2026-06-10\", waiting until \"domcontentloaded\"\n"
+      },
+      {
+        "stage": "payouts",
+        "message": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payouts/\", waiting until \"domcontentloaded\"\n"
+      }
+    ]
+  }
+}
