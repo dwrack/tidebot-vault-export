@@ -5,18 +5,17 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-05-11
+ad_spend_yday: 25
+status: yellow
+alert: "FH pull timed out 6/9"
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- Meta 7d: Bat Bridge Traffic $45.77 (5.1% outbound CTR, 591 link clicks), Bat Tour Messenger $14.97 with 1 lead.
-- Reviews: 0 unreplied. Bayou tour reviews flowing strong (530 total, avg 4.8).
-- GSC: no site linked.
-- IG: posted yday with "TX bat experience" question prompt, healthy cadence.
+- Meta yday $25: Bat Bridge Traffic $20.59 (204 link clicks, CPC $0.10), Messenger Leads $4.78.
+- Reviews: fresh 5-star wave for Josh & Chad (6/7-6/8) mostly unreplied; Nicholas Prejean 1-star (6/4) replied confrontationally ('credit card fraud') — decide if it stays up.
+- FH: scraper timed out 6/9. 7-day avg ~3 bkgs / $135.
 <!-- live:end -->
 
 ## Quick links

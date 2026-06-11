@@ -2,21 +2,22 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 2
+revenue_today: 1330
 lead_time_days: 0
-ad_spend_yday: 21
-status: yellow
-alert: GSC traffic near zero, fresh 5-star unreplied
-updated: 2026-05-11
+ad_spend_yday: 20
+status: green
+alert: null
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- Reviews: 1 unreplied 5-star (KT Cavanaugh-Smith, 2026-05-10) — Stephanie's guide.
-- Meta yday: NKST Google Reviews Retargeting $11.22 (freq 2.5×, 0.7% CTR — fatigued), NKST Email Sub $9.93 (6 leads).
-- GSC: only 2 query impressions over 7 days. Likely indexing issue, run index status check.
-- IG: posted 2026-05-09, 5 comments to triage.
+- Meta yday $20: Retargeting/Google Reviews $10.16, email-lead campaign $9.92 (1 lead).
+- FH: 2 bookings / $1,330 booked (vs ~1.8 / $535 avg) — low count, one big-ticket booking.
+- GA4 yday ~200 sessions: direct 54, Instagram 52, Google 39, Facebook 24. (FH bookings not tracked in this GA4.)
+- Watched page 'Airboat vs Kayak': still flat vs baseline — 0 GSC, 0 GA4 views, not indexed 8 days post-publish.
+- Reviews: Carrie Lipchin 5-star (5/31) unreplied. IG token dead.
 <!-- live:end -->
 
 ## Quick links

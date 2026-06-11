@@ -6,17 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: red
-alert: 3-star solo-female-safety review pending careful reply
-updated: 2026-05-11
+status: green
+alert: null
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- Reviews: 1 unreplied 3-star (Aubrey, 2026-02-22 updated 2026-05-09) — solo woman felt unsafe with two men on neighbor dock. Brand-defining. Tier 1.
-- Other recent reviews: all five-star, mostly thanking river view, sunrise, sunset sessions.
-- Ads: no Meta or Google Ads account (intentional).
-- IG: 5 posts in 16 days, 25-65 likes/post — best organic IG performer in portfolio.
+- Reviews: 4 unreplied 5-star (Management Team 6/9, Lisa Hastings 6/6, Rosa Ramirez 6/1, Amir Eweis 5/29) — batch thanks. Aubrey 3-star safety review already replied.
+- No Meta ad account (never set up). IG token dead today.
 <!-- live:end -->
 
 ## Quick links

@@ -2,22 +2,20 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 121
 lead_time_days: 0
 ad_spend_yday: 0
-status: red
-alert: Google Ads dormant during Houston peak season
-updated: 2026-05-11
+status: yellow
+alert: "storm 1-star cluster 6/6; Google dark"
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- Google Ads (2986009791): $0 spend yday AND $0 last 7d. Account paused or budget exhausted during peak season.
-- Meta 7d: $0 on Houston account (Buffalo Bayou is running, HPB campaigns not).
-- Reviews: 0 unreplied. Recent reviews all caught up.
-- GSC: no site linked.
-- IG: last post 2026-04-06 (35 days ago). Drift.
+- CRISIS: 7x 1-star reviews from the June 6 storm (Conner refused refunds, leaking boat, blocked customers, gift cards not refunds). All replied but templated with fake support emails. Multiple threatening BBB/chargebacks.
+- Google: $0 spend yday AND over 7 days — account is dark. Confirm it's intentional.
+- FH: 1 booking / $121 (vs ~1.2 / $704 avg). Thin, consistent with storm weekend.
 <!-- live:end -->
 
 ## Quick links

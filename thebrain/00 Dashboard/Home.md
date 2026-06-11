@@ -1,30 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-05-11*
+*Last refresh: 2026-06-10*
 
 ## Right now
-- [[Daily Briefings/2026-05-11|Today's brief]]
+- [[Daily Briefings/2026-06-10|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **AKT** — Reply to the 3-week-old clossanz 1-star "sewage water" review on Austin Kayak Tours. Sitting public, single 1-star, hurting trust.
-2. **E&E** — Respond carefully to Aubrey's 3-star solo-woman safety review (Feb 22, updated 2026-05-09). Brand-defining, needs warmth + a re-do offer.
-3. **LSKT Google Ads** — Audit or pause the Lone Star/Austin account: $77.92 / 7 days, 0 booking conversions despite 10.57% CTR.
+1. **HPB** — Storm-weekend crisis: 7 one-star reviews from June 6 (Conner refused refunds, leaking boat, blocked customers). Get Conner's account, refund the disputers before the chargebacks land, and fix the templated replies leaking fake support emails.
+2. **AKT** — Two unreplied 1-star reviews still open: César Garza (5/19 "rip-off") and clossanz (4/18 "sewage water/makeshift dock"). Reply to both today.
+3. **Re-auth Gmail + IG** — Both tokens are dead (Gmail expired, META_IG_TOKEN OAuth 190 on all 10 accounts). Email triage and IG monitoring are blind until refreshed.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 4 | — | — |
-| Unreplied GBP reviews (all biz) | 4 actionable | — | — |
-| FH bookings (all biz) | — | — | — |
-| FH revenue (all biz) | — | — | — |
-| Total ad spend (G+M) | ~$264 | ~$190/day | +$74 |
-| Total ad-attributed conversions | 8.3 G + 1 M | ~7 G + 1 M | +1 |
+| Gmail unread | — (token dead) | — | n/a |
+| Unreplied GBP reviews (1-3★, all biz) | 2 (AKT) | — | flat |
+| FH bookings (captured biz) | 26 | ~46 (full slate) | partial pull |
+| FH revenue (captured biz) | $6,627 | ~$8,000+ | partial pull |
+| Total ad spend (G+M) | $371 | ~$370/day | flat |
+| Total ad-attributed conv (Google) | 12.8 | ~14 | -1 |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -33,8 +33,9 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-05-11]] (today)
-- [[Daily Briefings/2026-05-08]] (3 days ago)
+- [[Daily Briefings/2026-06-10]] (today)
+- [[Daily Briefings/2026-05-11]] (30 days ago)
+- [[Daily Briefings/2026-05-08]] (33 days ago)
 <!-- briefs:end -->
 
 ## Maps

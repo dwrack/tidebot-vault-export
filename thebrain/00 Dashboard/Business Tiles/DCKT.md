@@ -5,19 +5,19 @@ city: Door County
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 45
-status: green
-alert: null
-updated: 2026-05-11
+ad_spend_yday: 68
+status: yellow
+alert: "FH pull timed out 6/9"
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- Google Ads yday: $44.89 spend, 7.3 conv, $419.87 value, ROAS 9.35.
-- 7d: $209.90, 23.3 conv, $1302.72 value, ROAS 6.21. Best account in portfolio.
-- Reviews: 0 unreplied.
-- GSC: "door county kayak tours" 17 clicks pos 1.48, "kayaking in door county" 4 clicks pos 1.
-- IG: 5 posts in 10 days, comment-funnel pattern working.
+- Google: $68.06 spend, 8.94 conv, ROAS 18.23, CPA $7.61 — best account in the portfolio. 7d ROAS 13.23.
+- Meta: $0 spend yday (account empty — confirm seasonal pacing).
+- GSC: 'door county kayak tours' 34 clicks pos 2.5, 'door county kayaking' 12 clicks.
+- FH: scraper timed out 6/9 (no numbers). 7-day avg ~14 bkgs / $1,078.
+- Reviews: Mark Berger 5-star (6/8) already replied. Clean.
 <!-- live:end -->
 
 ## Quick links

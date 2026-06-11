@@ -6,17 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: IG silent 178 days, no GBP/GSC/Ads coverage
-updated: 2026-05-11
+status: green
+alert: null
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- IG: last post 2025-11-14, 178 days dormant.
-- No GBP, GSC, Google Ads, or Meta ad account.
-- The houstonboozecruise.com domain is being driven by Austin Meta campaigns (mislabeled traffic).
-- Decision needed: revive or retire.
+- IG-only brand. IG token dead today (OAuth 190) — no data.
+- No GBP / GSC / Google Ads coverage.
 <!-- live:end -->
 
 ## Quick links

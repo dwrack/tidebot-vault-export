@@ -5,19 +5,18 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 58
 status: yellow
-alert: Google Ads $77.92 / 7d with 0 conversions
-updated: 2026-05-11
+alert: "FH pull timed out 6/9"
+updated: 2026-06-10
 tile_type: business
 ---
 
 <!-- live:start -->
-- Google Ads (8497383499) 7d: $77.92, 35 clicks, 10.57% CTR, 0 booking conv, 3 all_conversions valued at $3.52. Audit or pause.
-- Meta 7d: $33.71 on "Promoting houstonboozecruise.com" — campaign attribution looks crossed.
-- Reviews: 1 unreplied 1-star from 2024 (Anna B, photo-send complaint). Old but still public.
-- GSC: "lone star kayak tours" 9 clicks pos 1.18, brand strong.
-- IG: no account linked in roster.
+- Google (shared acct w/ AKT): $58.46, ROAS 14.81 yday. 7d CPA $87.97 / ROAS 2.71 — lagging conv, watch don't touch.
+- Meta: $0 spend yday (Austin account empty).
+- GSC: 'austin kayak tour' 3 clicks pos 1.5, broad 'kayaking' terms pulling impressions.
+- FH: scraper timed out 6/9. 7-day avg ~4 bkgs / $596.
 <!-- live:end -->
 
 ## Quick links
