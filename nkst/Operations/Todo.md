@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Clear fallen tree on Duck Camp route to make it passable by kayak again. _(Michelle (audio log), 2026-06-11)_
 - [ ] [Guide log] Address stinky PFDs; they did not pass the smell test and require cleaning or replacement. _(Nick Napolitano (audio log), 2026-06-11)_
 - [ ] [Guide log] Address the brief lack in insurance coverage. _(Dylan LP (audio log), 2026-06-06)_
 - [ ] [Guide log] Push half-off discount for locals during the summertime. _(Dylan (audio log), 2026-06-05)_
