@@ -27,6 +27,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Update with post-tour log _(Michelle (audio log), 2026-06-11)_
 - [ ] [Guide log] Address stinky PFDs; cleaning or replacement needed. _(Nick Nepota (audio log), 2026-06-11)_
 - [ ] [Guide log] Refuel the Mercedes van. _(Nick Nepoda (audio log), 2026-06-06)_
 - [ ] [Guide log] PFDs were slightly pungent and need to be cleaned/aired out. _(Nick Napoda (audio log), 2026-06-03)_
