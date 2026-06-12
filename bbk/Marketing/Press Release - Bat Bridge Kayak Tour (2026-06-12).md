@@ -1,7 +1,18 @@
 # Press Release - Sunset Skyline Bat Bridge Kayak Tour
-*Drafted 2026-06-12. Sent to Houston Chronicle (citydesk@houstonchronicle.com), Chron.com (tips@chron.com), KHOU 11 (newstips@khou.com), FOX 26 (Fox26HoustonNews@Fox.com) from Info@buffalobayoukayak.com.*
+*Drafted 2026-06-12. Media contact going forward: Connor Champaign, Manager. (First four emails went out before the contact switch and listed David Rack as owner/contact.)*
 
-*Not yet sent (form-only or no public email): CultureMap (houston.culturemap.com/Suggestions), Houston Press (houstonpress.com/about-contact), KPRC 2 (713-222-6397), ABC13 (web form), Houstonia (editorial-inquiries page).*
+**Distribution log (2026-06-12):**
+- Houston Chronicle, citydesk@houstonchronicle.com - emailed (David Rack version)
+- Chron.com, tips@chron.com - emailed (David Rack version)
+- KHOU 11, newstips@khou.com - emailed (David Rack version)
+- FOX 26, Fox26HoustonNews@Fox.com - emailed (David Rack version)
+- ABC13, newstips@abc13.com - emailed (Connor version)
+- Houstonia, Sofia Gonzalez (Travel & Outdoors editor), sgonzalez@houstoniamag.com - emailed (Connor version)
+- CultureMap Houston - news tip form submitted via browser, "Submission successful" confirmed (Connor version)
+- Houston Press - "Pitch a Story Idea" form submitted via browser, "Thank you for contacting us" confirmed (Connor version)
+
+**Still manual:**
+- KPRC 2: help.click2houston.com/new/?category=11 has a human-only reCAPTCHA checkbox. Paste the pitch below or call the tip line, 713-222-NEWS (713-222-6397).
 
 ---
 
