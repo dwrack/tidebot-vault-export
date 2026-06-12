@@ -5,17 +5,18 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 25
+ad_spend_yday: 24
 status: yellow
-alert: "FH pull timed out 6/9"
-updated: 2026-06-10
+alert: "data stale — FH scrape missing 6/12; 9 unreplied 5-stars"
+updated: 2026-06-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- Meta yday $25: Bat Bridge Traffic $20.59 (204 link clicks, CPC $0.10), Messenger Leads $4.78.
-- Reviews: fresh 5-star wave for Josh & Chad (6/7-6/8) mostly unreplied; Nicholas Prejean 1-star (6/4) replied confrontationally ('credit card fraud') — decide if it stays up.
-- FH: scraper timed out 6/9. 7-day avg ~3 bkgs / $135.
+- Reviews: 9 unreplied 5-stars — mostly the 6/7 bayou-cleanup wave naming Josh and Chad, plus Jodie Osborn yesterday (6/11). Easy goodwill batch.
+- Meta yday $24: Bat Bridge Traffic $19 (222 link clicks at $0.09), Messenger Leads $5. 7d $178.
+- FH: no scrape today. Last good: 3 bookings / $425 booked over 7d through 6/10.
+- IG active daily — 6/11 'lonely kayaks' team-outing reel, 6/8 cleanup recap 22 likes.
 <!-- live:end -->
 
 ## Quick links

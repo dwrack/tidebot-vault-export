@@ -2,22 +2,23 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 2
-revenue_today: 1330
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 20
-status: green
-alert: null
-updated: 2026-06-10
+ad_spend_yday: 22
+status: yellow
+alert: "data stale — FH scrape missing 6/12; IG API permission error"
+updated: 2026-06-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- Meta yday $20: Retargeting/Google Reviews $10.16, email-lead campaign $9.92 (1 lead).
-- FH: 2 bookings / $1,330 booked (vs ~1.8 / $535 avg) — low count, one big-ticket booking.
-- GA4 yday ~200 sessions: direct 54, Instagram 52, Google 39, Facebook 24. (FH bookings not tracked in this GA4.)
-- Watched page 'Airboat vs Kayak': still flat vs baseline — 0 GSC, 0 GA4 views, not indexed 8 days post-publish.
-- Reviews: Carrie Lipchin 5-star (5/31) unreplied. IG token dead.
+- FH: no scrape today; 6/11 run errored. Last good: 3 bookings / $425 booked over 7d through 6/10.
+- Meta yday $22: Google Reviews retargeting $10, email-lead campaign $12 → 5 leads at $2.30.
+- GA4 yday ~189 sessions: Instagram 64 (top source), direct 55, Google 41.
+- Watched page 'Airboat vs Kayak': STILL ZERO — 0 GSC impressions, 0 GA4 views (baseline 3). 10 days post-publish, likely not indexed. Submit in GSC + add internal links.
+- Reviews: 3 unreplied 5-star (Carrie Lipchin 5/31, Dean Fang 5/27 long repeat-customer review, Megan Troyer 5/25).
+- IG: only account failing — error #10 app permission (not the token).
 <!-- live:end -->
 
 ## Quick links

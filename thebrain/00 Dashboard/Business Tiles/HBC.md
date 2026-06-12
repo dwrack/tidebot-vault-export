@@ -8,13 +8,13 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-10
+updated: 2026-06-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- IG-only brand. IG token dead today (OAuth 190) — no data.
-- No GBP / GSC / Google Ads coverage.
+- IG-only brand and the account is dormant: last post Nov 14, 2025 — 7 months silent.
+- No GBP / GSC / Google Ads coverage (standing gap).
 <!-- live:end -->
 
 ## Quick links

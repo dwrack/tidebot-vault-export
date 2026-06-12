@@ -5,18 +5,19 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 58
+ad_spend_yday: 68
 status: yellow
-alert: "FH pull timed out 6/9"
-updated: 2026-06-10
+alert: "data stale — FH scrape missing 6/12"
+updated: 2026-06-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- Google (shared acct w/ AKT): $58.46, ROAS 14.81 yday. 7d CPA $87.97 / ROAS 2.71 — lagging conv, watch don't touch.
-- Meta: $0 spend yday (Austin account empty).
-- GSC: 'austin kayak tour' 3 clicks pos 1.5, broad 'kayaking' terms pulling impressions.
-- FH: scraper timed out 6/9. 7-day avg ~4 bkgs / $596.
+- FH: no scrape today; 6/11 run errored (4 errors). Last good: 7 bookings / $888 booked over 7d through 6/10.
+- Google (shared w/ AKT): $68 / 1 conv / CPA $68 yday vs 7d CPA $44, ROAS 4.1. One soft day on small volume — watch.
+- Meta: $0 — Austin account has no active campaigns; approved custom-audience ad sets still not built.
+- GSC: 'kayaking near me' 3 clicks, branded 2 clicks pos 1.
+- Reviews: Anna B 1-star (July 2024, photos never sent) still unreplied — it's the newest review on the profile.
 <!-- live:end -->
 
 ## Quick links

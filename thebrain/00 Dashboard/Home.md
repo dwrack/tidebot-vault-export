@@ -1,30 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-06-10*
+*Last refresh: 2026-06-12*
 
 ## Right now
-- [[Daily Briefings/2026-06-10|Today's brief]]
+- [[Daily Briefings/2026-06-12|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **HPB** — Storm-weekend crisis: 7 one-star reviews from June 6 (Conner refused refunds, leaking boat, blocked customers). Get Conner's account, refund the disputers before the chargebacks land, and fix the templated replies leaking fake support emails.
-2. **AKT** — Two unreplied 1-star reviews still open: César Garza (5/19 "rip-off") and clossanz (4/18 "sewage water/makeshift dock"). Reply to both today.
-3. **Re-auth Gmail + IG** — Both tokens are dead (Gmail expired, META_IG_TOKEN OAuth 190 on all 10 accounts). Email triage and IG monitoring are blind until refreshed.
+1. **AKT** — Reply to the two open 1-star reviews today: César Garza (5/19 "rip-off") and clossanz (4/18 "sewage water/makeshift dock"). Day 3 on the board.
+2. **HPB** — Verify the June 6 storm-cluster refunds actually processed (public reply promised "7-10 business days," window closes ~6/18) and scrub the fake support emails from the live replies. Also: ads fully dark — Google $0 for 7 days, no Meta campaigns.
+3. **Re-auth Gmail + fix FH scraper** — Both Gmail paths dead (3rd day blind). FH scraper produced no file today and errored on LSKT/NKST/NPB last night; booking numbers are stale at 6/10.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | — (token dead) | — | n/a |
-| Unreplied GBP reviews (1-3★, all biz) | 2 (AKT) | — | flat |
-| FH bookings (captured biz) | 26 | ~46 (full slate) | partial pull |
-| FH revenue (captured biz) | $6,627 | ~$8,000+ | partial pull |
-| Total ad spend (G+M) | $371 | ~$370/day | flat |
-| Total ad-attributed conv (Google) | 12.8 | ~14 | -1 |
+| Gmail unread | — (both tokens dead) | — | n/a |
+| Unreplied GBP reviews (1-3★, all biz) | 2 (AKT) + 1 stale (LSKT 2024) | 2 | flat, day 3 |
+| FH bookings (all biz) | — (scrape failed) | 46 booked / 7d thru 6/10 | stale |
+| FH revenue (all biz) | — (scrape failed) | $8,461 booked / 7d thru 6/10 | stale |
+| Total ad spend (G+M) | $394 | ~$381/day | +$13 |
+| Ad-attributed conversions (Google) | 11 | ~14/day | -3 |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -33,9 +33,10 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-06-10]] (today)
-- [[Daily Briefings/2026-05-11]] (30 days ago)
-- [[Daily Briefings/2026-05-08]] (33 days ago)
+- [[Daily Briefings/2026-06-12]] (today)
+- [[Daily Briefings/2026-06-10]] (2 days ago)
+- [[Daily Briefings/2026-05-11]] (32 days ago)
+- [[Daily Briefings/2026-05-08]] (35 days ago)
 <!-- briefs:end -->
 
 ## Maps
