@@ -11,7 +11,7 @@ SCHEDULE: 2026-06-30 09:00
 <h2>1. Party barge on Clear Lake (best for groups and celebrations)</h2>
 <p>This is us, so here's the straight pitch. Two 30-foot, Coast Guard certified motorized barges out of Seabrook, minutes from the Kemah Boardwalk. Roofs, bathrooms, Bluetooth speakers, party lights, and a captain who drives while you do absolutely nothing but enjoy it. Yes, there are pedal stations. No, you don't have to pedal, not even a little. They're optional fun on a fully motorized boat.</p>
 <p>The killer feature is BYOB: bring your own drinks and food, cans not glass, no bar tab, no catering minimum. A group of 20 at a Houston bar spends $600 to $800 without blinking. Here they bring a cooler. Public tickets start at $55 per person, or take the whole boat private for $800, up to 26 guests, with a $150 deposit. Cruises run 1 hour 45 minutes with sunset views over Clear Lake and Galveston Bay, ages 8 and up. We're at 4.9 stars across 400+ reviews.</p>
-<p>Who it's not for: anyone wanting a quiet, contemplative float. This is a party boat. It says so right in the name.</p>
+<p>Who it's not for: anyone wanting a quiet, contemplative float. The name is the warning label.</p>
 
 <h2>2. Kemah Boardwalk tourist boats (best for a quick thrill)</h2>
 <p>The Boardwalk runs speedboat-style rides right off the dock, and they're fun for exactly what they are: 20 to 30 minutes of speed, spray, and screaming kids. Cheap, zero planning required, and you can walk on after lunch. The downside is the same as the upside. It's short, it's shared with whoever's in line, and it's an amusement ride more than a boat day. Great add-on to a Boardwalk afternoon, not the main event.</p>
@@ -33,7 +33,7 @@ SCHEDULE: 2026-06-30 09:00
 
 <h2>So which boat ride should you book?</h2>
 <p>Here's the honest decision tree. Little kids and a free Galveston morning: harbor tour. A cheap, quiet two-person outing: kayak the bayou. You hold a boating license and love responsibility: pontoon. Special dinner for two: dinner cruise. You fish: you already knew the answer.</p>
-<p>But if the occasion is a birthday, bachelorette, team outing, or any night where 10 to 26 people need to have a great time together, the <a href="https://houstonpedalbarge.com/houston-party-barge-cruise/">Clear Lake party boat cruise</a> wins on every axis that matters: it's private, it's BYOB so the budget stays sane, a captain handles the boat, and the sunset over Galveston Bay does the decorating for you. That's not us being humble. That's just the comparison.</p>
+<p>But if the occasion is a birthday, bachelorette, team outing, or any night where 10 to 26 people need to have a great time together, the <a href="https://houstonpedalbarge.com/houston-party-barge-cruise/">Clear Lake party boat cruise</a> wins on every axis that matters: it's private, it's BYOB so the budget stays sane, a captain handles the boat, and the sunset over Galveston Bay does the decorating for you.</p>
 
 <h2>Quick answers</h2>
 

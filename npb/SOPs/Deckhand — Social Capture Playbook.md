@@ -72,6 +72,12 @@ You don't need all 6 every trip, but aim for 3-4. Anything you grab is more than
 
 ---
 
+## The YouTube Pass (New, June 2026)
+
+One per trip: hold the phone **horizontal** (16:9) and film a slow 20-30 second sweep of the trip at its best moment. Boat moving, group vibing, scenery rolling by. This is the only required horizontal shot, and it feeds the YouTube channel we're building. Same delivery: drop it in #crew-content with the rest.
+
+---
+
 ## Consent (Important)
 
 You don't need a signed release for guests on the boat — they signed a waiver that includes media usage when they booked. **But:**
