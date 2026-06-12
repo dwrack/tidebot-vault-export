@@ -29,6 +29,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Clean and sanitize PFDs due to odor. _(Nick Nepoda (audio log), 2026-06-12)_
 - [ ] [Guide log] Clean and deodorize PFDs. _(Nick Napolitano (audio log), 2026-06-12)_
 - [ ] [Guide log] Update with post-tour log _(Michelle (audio log), 2026-06-11)_
 - [ ] [Guide log] Address stinky PFDs; cleaning or replacement needed. _(Nick Nepota (audio log), 2026-06-11)_
