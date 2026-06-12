@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-11T12:57:26.613Z",
+    "generated_at": "2026-06-12T03:45:35.750Z",
     "for_date": "2026-06-10",
     "range": "last-7-days",
     "timezone": "America/Chicago",
@@ -8,17 +8,41 @@
   },
   "results": {
     "buffalobayoukayak": {
-      "booked_count": 4,
-      "booked_revenue": 545,
+      "booked_count": 3,
+      "booked_revenue": 425,
       "ran_count": 2,
       "ran_revenue": 378
+    },
+    "doorcountykayaktours": {
+      "booked_count": 13,
+      "booked_revenue": 1327,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "houstonpedalbarge": {
+      "booked_count": 4,
+      "booked_revenue": 242,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "lonestarkayaktours": {
+      "booked_count": 7,
+      "booked_revenue": 888,
+      "ran_count": 7,
+      "ran_revenue": 660
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 3,
+      "booked_revenue": 425,
+      "ran_count": 6,
+      "ran_revenue": 1105
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 16,
+      "booked_revenue": 5154,
+      "ran_count": 6,
+      "ran_revenue": 2453
     }
   },
-  "errors": {
-    "doorcountykayaktours": "Error: apiRequestContext.post: read ECONNRESET\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/doorcountykayaktours/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac O",
-    "houstonpedalbarge": "TimeoutError: apiRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - → GET https://fareharbor.com/api/v1/companies/houstonpedalbarge/reports/57062663/rows/\n    - user-agent: Mozilla/5.0 (Macin",
-    "lonestarkayaktours": "Error: apiRequestContext.get: read ECONNRESET\nCall log:\n  - → GET https://fareharbor.com/api/v1/companies/lonestarkayaktours/reports/57062864/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X ",
-    "neworleanskayakswamptours": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"",
-    "neworleanspedalbarge": "Error: page.goto: net::ERR_CONNECTION_RESET at https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge"
-  }
+  "errors": {}
 }
