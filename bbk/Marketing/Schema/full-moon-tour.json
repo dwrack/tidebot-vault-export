@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Full Moon Kayak Tour Houston",
+      "description": "Evening guided kayak tour on Buffalo Bayou under the full moon. Paddle through downtown Houston at night as moonlight reflects off the water, enjoy the sounds of the bayou after dark, and experience a side of the city most visitors never see. Runs 6:00 to 8:00 PM on full moon nights.",
+      "url": "https://buffalobayoukayak.com/kayak-tours/full-moon-tour/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buffalo Bayou Kayak"
+      },
+      "category": "Kayak Tours",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Adult",
+          "price": "65",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/kayak-tours/full-moon-tour/"
+        },
+        {
+          "@type": "Offer",
+          "name": "Child",
+          "price": "55",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/kayak-tours/full-moon-tour/"
+        }
+      ],
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Buffalo Bayou Kayak",
+        "url": "https://buffalobayoukayak.com",
+        "telephone": "+18323055794",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1019 Commerce Street",
+          "addressLocality": "Houston",
+          "addressRegion": "TX",
+          "postalCode": "77002",
+          "addressCountry": "US"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Duration",
+          "value": "2 hours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Departure Time",
+          "value": "6:00 PM"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Experience Required",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How often does the full moon kayak tour run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Full Moon Tour runs once a month on the night of the full moon. Check the booking calendar on our website for the next available date. Tours sell out quickly each month so booking in advance is strongly recommended."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the full moon kayak tour safe at night?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Guides lead the tour and all participants receive safety instruction and life vests before launching. The bayou section used for the tour is calm flatwater. The full moon provides natural light, and guides carry additional lighting for safety on the water."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the Full Moon Tour cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Full Moon Kayak Tour is $65 per adult and $55 per child. The tour runs from 6:00 PM to 8:00 PM from 1019 Commerce Street in downtown Houston."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I wear for a nighttime kayak tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wear comfortable clothing you do not mind getting wet, such as athletic shorts, yoga pants, or a swimsuit with a light layer. Water shoes or flip-flops work well. Bring a small towel. In cooler months, add a light jacket."
+          }
+        }
+      ]
+    }
+  ]
+}

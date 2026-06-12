@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Houston Sunrise Serenity Kayak Tour",
+      "description": "Early morning guided kayak tour on Buffalo Bayou focused on wildlife, birds, and the quiet beauty of the bayou at sunrise. Paddle through the historic 53-mile waterway and experience Houston biodiversity before the city wakes up. Departs at 7:00 AM.",
+      "url": "https://buffalobayoukayak.com/kayak-tours/houston-serenity-tour/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buffalo Bayou Kayak"
+      },
+      "category": "Kayak Tours",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://buffalobayoukayak.com/kayak-tours/houston-serenity-tour/"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Buffalo Bayou Kayak",
+        "url": "https://buffalobayoukayak.com",
+        "telephone": "+18323055794",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1019 Commerce Street",
+          "addressLocality": "Houston",
+          "addressRegion": "TX",
+          "postalCode": "77002",
+          "addressCountry": "US"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Duration",
+          "value": "2 hours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Departure Time",
+          "value": "7:00 AM"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Experience Required",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What wildlife can I see on the Serenity Tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The early morning tour is the best time to spot herons, egrets, kingfishers, and other birds that feed along the bayou at sunrise. You may also see turtles and occasionally alligators resting on the banks. The bayou corridor through downtown Houston supports a surprisingly diverse ecosystem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What time does the Serenity Tour start?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Sunrise Serenity Tour departs at 7:00 AM from 1019 Commerce Street in downtown Houston. Please arrive at least 15 minutes early to check in and receive your equipment and safety briefing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the Serenity Tour cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Houston Sunrise Serenity Tour is $55 per person and runs approximately 2 hours. No prior kayaking experience is needed."
+          }
+        }
+      ]
+    }
+  ]
+}

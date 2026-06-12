@@ -145,6 +145,10 @@ Cleanup while in there: retitle or 301 the /304/ orphan post, update or noindex 
 
 ## 5. Prioritized action plan
 
+> **SHIPPED June 12, 2026 (via Playwright + WP admin):** Items 2, 3, and 4 below are live and validated. New titles/metas on homepage, tour, corporate, about, and contact. Homepage now serves one clean TouristAttraction schema (fixed phone, 4.9/400 rating, sameAs to FB/IG/Yelp/TripAdvisor) with the theme's broken default schema disabled. Tour page serves Product (2 offers) + FAQPage (6 questions) + a visible FAQ section, and its duplicate H1 is now an H2 with "Pedal" changed to "Party". Contact serves NAP schema. "Seakbrook" typo is gone. Still open: GA4 conversion wiring (#1), July 4 page push (#5), and everything in This Month / This Quarter.
+>
+> **Flag for David:** the tour page body and Yelp say the dock is **2513 NASA Road 1**; the vault and schema say **2515 E NASA Pkwy**. Same road, conflicting number. Confirm which is right so NAP is consistent everywhere (GBP, schema, Yelp).
+
 ### This week (everything is already written in Paste-Ready Assets)
 1. **Wire conversions in GA4** (~1-2 hrs): enable FareHarbor's GA4 integration in the FH dashboard so purchase events flow; until then add a `book_now_click` event on FareHarbor links and mark it a key event. Nothing else can be measured without this.
 2. **Paste the 4 title/meta rewrites** (~1 hr). Fixes the 39k-impression CTR bleed. Fix "Seakbrook."

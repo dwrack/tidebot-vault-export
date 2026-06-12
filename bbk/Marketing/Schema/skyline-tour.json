@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Houston Skyline Kayak Tour",
+      "description": "Guided kayak tour along Buffalo Bayou with views of the downtown Houston skyline. Paddle past landmarks, learn Houston history dating back to 1837, and experience the bayou ecosystem. No prior experience required. Departs at 10:00 AM and 1:00 PM.",
+      "url": "https://buffalobayoukayak.com/kayak-tours/houston-kayak-tour/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buffalo Bayou Kayak"
+      },
+      "category": "Kayak Tours",
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://buffalobayoukayak.com/kayak-tours/houston-kayak-tour/"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Buffalo Bayou Kayak",
+        "url": "https://buffalobayoukayak.com",
+        "telephone": "+18323055794",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1019 Commerce Street",
+          "addressLocality": "Houston",
+          "addressRegion": "TX",
+          "postalCode": "77002",
+          "addressCountry": "US"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Duration",
+          "value": "2 hours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Departure Times",
+          "value": "10:00 AM and 1:00 PM"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Experience Required",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What will I see on the Houston Skyline Kayak Tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You paddle along Buffalo Bayou through the heart of downtown Houston with views of the city skyline from the water. The tour covers Houston landmarks, local history dating back to 1837, and the bayou ecosystem including birds and urban wildlife."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the Houston Skyline Kayak Tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The tour runs approximately 2 hours. Departure times are 10:00 AM and 1:00 PM. Please arrive at 1019 Commerce Street in downtown Houston at least 15 minutes before your scheduled start."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the Houston Skyline Kayak Tour cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Houston Skyline Tour is $55 per person. The tour launches from 1019 Commerce Street in downtown Houston and no kayaking experience is required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is kayaking on Buffalo Bayou safe for beginners?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. All participants receive a safety briefing and basic paddling instruction before launching. Tours use stable sit-on-top kayaks and life vests are provided. The bayou section used for tours has calm, flatwater conditions."
+          }
+        }
+      ]
+    }
+  ]
+}

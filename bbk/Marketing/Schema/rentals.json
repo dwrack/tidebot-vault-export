@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Houston Kayak and Paddleboard Rentals",
+      "description": "Self-guided kayak and stand-up paddleboard rentals on Buffalo Bayou in downtown Houston. Choose from single kayaks, tandem kayaks, or paddleboards for 1 hour, 2 hours, or a full day. No experience required. Launch from 1019 Commerce Street.",
+      "url": "https://buffalobayoukayak.com/watersports-rental/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buffalo Bayou Kayak"
+      },
+      "category": "Kayak Rentals",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Single Kayak or Paddleboard - 1 Hour",
+          "price": "20",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/watersports-rental/"
+        },
+        {
+          "@type": "Offer",
+          "name": "Tandem Kayak - 1 Hour",
+          "price": "35",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/watersports-rental/"
+        },
+        {
+          "@type": "Offer",
+          "name": "Single Kayak or Paddleboard - 2 Hours",
+          "price": "40",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/watersports-rental/"
+        },
+        {
+          "@type": "Offer",
+          "name": "Tandem Kayak - 2 Hours",
+          "price": "65",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/watersports-rental/"
+        },
+        {
+          "@type": "Offer",
+          "name": "Single Kayak or Paddleboard - Full Day",
+          "price": "55",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/watersports-rental/"
+        },
+        {
+          "@type": "Offer",
+          "name": "Tandem Kayak - Full Day",
+          "price": "85",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://buffalobayoukayak.com/watersports-rental/"
+        }
+      ],
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Buffalo Bayou Kayak",
+        "url": "https://buffalobayoukayak.com",
+        "telephone": "+18323055794",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1019 Commerce Street",
+          "addressLocality": "Houston",
+          "addressRegion": "TX",
+          "postalCode": "77002",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does it cost to rent a kayak in Houston?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Single kayak or paddleboard rentals start at $20 for one hour or $40 for two hours. Tandem kayaks are $35 for one hour or $65 for two hours. Full-day rentals are available starting at $55 for a single and $85 for a tandem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do I pick up my kayak rental in Houston?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rentals launch from 1019 Commerce Street in downtown Houston, next to Talento Bilingue. Reservations are recommended to guarantee equipment availability, especially on weekends."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need experience to rent a kayak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No prior experience is required. Staff will give you a quick orientation on paddling and safety before you head out. All renters must sign a waiver, and minors must have a guardian sign on their behalf."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What ID do I need to rent a kayak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will need a valid photo ID and a credit card at time of pickup. All renters must complete a signed waiver before launching."
+          }
+        }
+      ]
+    }
+  ]
+}

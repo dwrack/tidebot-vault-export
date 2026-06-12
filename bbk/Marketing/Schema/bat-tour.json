@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Houston Bat Bridge Kayak Tour",
+      "description": "Guided kayak tour along Buffalo Bayou to Waugh Drive Bridge, home to one of the largest urban bat colonies in the United States. Watch over 250,000 Mexican free-tailed bats emerge at dusk while paddling past the Houston skyline. No kayaking experience required. Ages 7 and up.",
+      "url": "https://buffalobayoukayak.com/kayak-tours/houston-bat-bridge-kayak-tour/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buffalo Bayou Kayak"
+      },
+      "category": "Kayak Tours",
+      "offers": {
+        "@type": "Offer",
+        "price": "60",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://buffalobayoukayak.com/kayak-tours/houston-bat-bridge-kayak-tour/"
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Buffalo Bayou Kayak",
+        "url": "https://buffalobayoukayak.com",
+        "telephone": "+18323055794",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1019 Commerce Street",
+          "addressLocality": "Houston",
+          "addressRegion": "TX",
+          "postalCode": "77002",
+          "addressCountry": "US"
+        }
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Duration",
+          "value": "2 hours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Age",
+          "value": "7 years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Experience Required",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What time do the bats come out at Waugh Bridge in Houston?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The bats typically emerge 20 to 40 minutes after sunset. In summer that is around 8:00 to 8:30 PM, and in fall around 6:00 to 6:30 PM. The Buffalo Bayou Kayak bat tour is timed so you arrive at Waugh Drive Bridge just before the emergence begins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many bats live under Waugh Bridge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Approximately 250,000 Mexican free-tailed bats roost under Waugh Drive Bridge, making it one of the largest urban bat colonies in the United States. The colony is active roughly from February through November each year."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need kayaking experience for the bat bridge tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No experience is needed. Guides provide full instruction before you launch, and the tour uses stable sit-on-top kayaks. The tour is open to adults and children ages 7 and up."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the Houston bat bridge kayak tour cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The bat bridge kayak tour is $60 per person for guests ages 7 and up. The tour runs approximately 2 hours from the launch point at 1019 Commerce Street in downtown Houston."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the bat tour available year-round?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Mexican free-tailed bat colony at Waugh Bridge is present from roughly February through November. Tours are not offered in December and January when the bats migrate south for the winter. Check the booking calendar for available dates."
+          }
+        }
+      ]
+    }
+  ]
+}
