@@ -29,6 +29,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Review and reinforce proper loading procedures for kayaks on the trailer, especially for tandem kayaks. _(Nick (audio log), 2026-06-12)_
 - [ ] [Guide log] Review and reinforce proper kayak loading procedures for trailers, specifically for tandem kayaks. _(Nick (audio log), 2026-06-12)_
 - [ ] [Guide log] Clean and sanitize PFDs due to odor. _(Nick Nepoda (audio log), 2026-06-12)_
 - [ ] [Guide log] Clean and deodorize PFDs. _(Nick Napolitano (audio log), 2026-06-12)_
