@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Houston Sunset Skyline Kayak Tour",
+      "description": "Join us for a cool evening out on the water to watch the sun say goodnight to the Houston skyline. An easy two-hour guided kayak tour departing at 4 p.m. from 1019 Commerce Street in downtown Houston. All skill levels welcome.",
+      "url": "https://buffalobayoukayak.com/kayak-tours/sunset-skyline-tour/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buffalo Bayou Kayak"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "55",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://buffalobayoukayak.com/kayak-tours/sunset-skyline-tour/"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What time does the Sunset Skyline Kayak Tour depart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Sunset Skyline Tour departs at 4 p.m. and runs until approximately 6 p.m. Please arrive at least 15 minutes early for check-in and a safety briefing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the Sunset Skyline Kayak Tour cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Sunset Skyline Kayak Tour is $55 per person. Book online to reserve your spot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the Sunset Skyline Tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The tour lasts approximately 2 hours on the water, departing at 4 p.m. from 1019 Commerce Street in downtown Houston."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need kayaking experience to join the Sunset Skyline Tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No experience is needed. The Sunset Skyline Tour is designed for all skill levels, including first-timers. Guides provide a safety briefing and paddle instruction before you launch."
+          }
+        }
+      ]
+    }
+  ]
+}
