@@ -7,6 +7,7 @@
 
 
 ## Low Priority
+- [ ] [Guide log] Take guest's shirt upstairs _(Elizabeth (audio log), 2026-06-13)_
 
 
 ---
