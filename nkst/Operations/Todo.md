@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Management to clarify procedure for handling waivers and provide guidance for verification when in doubt. _(Nick Nepoda (audio log), 2026-06-13)_
 - [ ] [Guide log] Clarify waiver verification process with management, specifically how to ensure names on signed waivers match actual guests on the tour. Implement a new procedure to double-check names against waivers before departure. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Follow up on the missing waiver for one guest in Fair Harbor. Investigate if it was a system error or guest oversight. _(Nick Nepota (audio log), 2026-06-13)_
 - [ ] [Guide log] Assess the motorcycle rally situation at the kayak trailer pickup area for the return trip and future tours. Develop an alternative pickup/drop-off plan if the blockage persists. _(Nick Napota (audio log), 2026-06-13)_
