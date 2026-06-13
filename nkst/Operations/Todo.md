@@ -36,6 +36,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Check and potentially recharge the AC refrigerant in the black van as it is struggling to cool down in the heat. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Check if motorcycle rally is still present upon return to ensure trailer can be returned to its spot. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Review and reinforce proper loading procedures for kayaks on the trailer, especially for tandem kayaks. _(Nick (audio log), 2026-06-12)_
 - [ ] [Guide log] Review and reinforce proper kayak loading procedures for trailers, specifically for tandem kayaks. _(Nick (audio log), 2026-06-12)_
