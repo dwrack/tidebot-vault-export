@@ -77,6 +77,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Check refrigerant levels in the black van's AC system or consider a recharge. _(Nick Nepoda (audio log), 2026-06-13)_
 - [ ] [Guide log] Nick is taking the van out for his next tour and post log. _(Stephanie (audio log), 2026-06-10)_
 - [ ] [Guide log] Promote summer tours with a 'half off for locals' special. _(Dylan P. (audio log), 2026-06-06)_
 - [ ] [Guide log] Follow up on waiver submission for the four guests if reception issues persist in the future. _(Nick Nepoda (audio log), 2026-06-02)_
