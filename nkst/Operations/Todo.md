@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Assess the motorcycle rally situation at the kayak trailer pickup area for the return trip and future tours. Develop an alternative pickup/drop-off plan if the blockage persists. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Address the ongoing motorcycle rally/event causing kayak trailer access issues. Investigate event schedules for future dates, develop a contingency plan for trailer retrieval during such events, or coordinate with event organizers/city officials to ensure clear access routes/parking. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Alert all guides immediately regarding the impassable section on the Duck Camp route and advise them not to use it. _(Michelle (audio log), 2026-06-11)_
 - [ ] [Guide log] Clear fallen tree on Duck Camp route to make it passable by kayak again. _(Michelle (audio log), 2026-06-11)_
