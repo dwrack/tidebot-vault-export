@@ -3,9 +3,9 @@
 
 Everything below is paste-ready. Whoever has YouTube Studio access works top to bottom, takes maybe 20 minutes. Nothing new publishes until this is done.
 
-## Blocker
+## Account
 
-We still need to confirm which Google account owns the channel. Likely dwrack81 or an old business Gmail. Check youtube.com while logged into each candidate account, or Studio > Settings > Permissions.
+Channel owner: **nolapedalbarge@gmail.com** (confirmed 2026-06-12). Log into youtube.com with that account, then go to Studio. Everything below is done from there. Note this is a separate Google account from the info@nolapartybarges.com login the other tools use, so it has to be done by hand by whoever has this password.
 
 ## 1. Identity (Studio > Customization > Branding)
 
