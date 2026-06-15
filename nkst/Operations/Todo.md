@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Replace missing screwdriver in the guide bag. _(Nick Nevoda (audio log), 2026-06-15)_
 - [ ] [Guide log] Replace missing kayak repair kit in guide bag. _(Nick Nepoda (audio log), 2026-06-13)_
 - [ ] [Guide log] Kayak repair kit is missing from the guide bag. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Management to clarify procedure for handling waivers and provide guidance for verification when in doubt. _(Nick Nepoda (audio log), 2026-06-13)_
