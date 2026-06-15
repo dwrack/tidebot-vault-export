@@ -8,14 +8,15 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-12
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- IG win: 6/1 floating-sauna reel at 812 likes / 12 comments (next best post: 47). Reply to comments; have Kimberlyn cut a follow-up in the same format.
-- Reviews: 8 unreplied 5-stars (6/9 back to 5/12), incl. two long detailed ones (Meghan McClarty, Emma Rose Carson) worth personal replies.
+- IG runaway: 6/1 floating-sauna reel now 1,046 likes / 13 comments (next best: 48). Best-performing post anywhere in the portfolio. Have Kimberlyn cut more in that exact format; reply to the comments.
+- New 'Summer Punch Pass' post 6/14 at 7 likes so far.
 - No Meta ad account (never set up), no Google Ads.
+- Reviews: BLIND — GBP 403. 8 unreplied 5-star carried from 6/12, unverified.
 <!-- live:end -->
 
 ## Quick links

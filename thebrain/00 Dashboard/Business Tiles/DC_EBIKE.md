@@ -8,14 +8,14 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-12
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
 - Shares the Door County Meta ad account (no active campaigns).
-- GSC (doorcountykayak.com): zero rows again — verify the property registration once.
-- Reviews: 0 unreplied.
+- GSC (doorcountykayak.com): zero rows again — verify the property registration once Google auth is restored.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links

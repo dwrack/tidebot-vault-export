@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-12
+updated: 2026-06-15
 tile_type: business
 ---
 

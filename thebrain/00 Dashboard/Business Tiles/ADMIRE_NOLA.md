@@ -8,15 +8,15 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-12
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
 - Umbrella funnel routing to NPB / NOLA Bike Bar / NKST.
-- GSC: thin — 'kayaking new orleans' 1 click pos 10. Near-zero clicks.
-- IG: account dormant — last post April 2019.
-- Reviews: 0 unreplied.
+- GSC: thin and partly miscategorized (catching ATV queries at 0 CTR). 3 clicks total in the window.
+- IG: not pulled this run.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links

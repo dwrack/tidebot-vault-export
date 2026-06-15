@@ -7,16 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "2 unreplied 1-star reviews — day 3"
-updated: 2026-06-12
+alert: "2 open 1-star reviews unverifiable — GBP 403, day 6+"
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- TWO unreplied 1-stars, day 3: César Garza (5/19 'rip-off'), clossanz (4/18 'sewage water / makeshift dock'). Reply today.
-- Also 4 unreplied 5-stars: Rachel Domangue 6/3 (corporate team-building, names Tristan + Celeste), Diane Gonzolas 6/3, BadMonsterMan 5/29, Lisa Williams 5/26.
-- Shares Austin Google spend with LSKT ($68 yday). No Meta campaigns.
-- IG: posting roughly weekly, 6/8 rainbow carousel 16 likes.
+- Reviews BLIND — GBP 403. Two 1-stars (César Garza 5/19 'rip-off', clossanz 4/18 'sewage/makeshift dock') were day 3 on 6/12, now day 6+ and unverifiable until re-auth. Reply the moment it's back.
+- Shares Austin Google spend with LSKT ($55 yday combined). No Meta campaigns.
+- IG: not pulled this run (sampled 7 of 10 accounts).
 <!-- live:end -->
 
 ## Quick links

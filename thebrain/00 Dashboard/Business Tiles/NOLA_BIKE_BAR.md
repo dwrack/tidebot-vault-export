@@ -8,14 +8,14 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-12
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- Part of the NOLA Google umbrella ($141 yday across NOLA brands, 4 conv).
-- GSC: 'nola bike bar' 4 clicks, #1 on 'pedal bike new orleans' (3 clicks) and 'party bike new orleans' (2 clicks).
-- Reviews: 0 unreplied; newest review on profile is from June 2025 — review drought continues.
+- Part of the NOLA Google umbrella ($124 yday across NOLA brands, 7.2 conv, 15.1x ROAS).
+- GSC: 'nola bike bar' 4 clicks pos 7, 'party bike new orleans' 2 clicks pos 1. Opportunity: 'bike tour new orleans' pos 11.6 on 17 impr.
+- Reviews: BLIND — GBP 403. Review drought (newest was June 2025) carried, unverified.
 <!-- live:end -->
 
 ## Quick links

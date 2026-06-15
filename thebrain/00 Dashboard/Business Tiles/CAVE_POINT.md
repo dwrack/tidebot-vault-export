@@ -8,14 +8,14 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-12
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- GSC (cavepointpp.com): zero rows again — verify the property registration once.
-- Reviews: nothing new; old 1-star/2-star both replied.
-- IG dormant — last real post mid-2025.
+- GSC (cavepointpp.com): zero rows again — verify the property registration once Google auth is restored.
+- IG dormant — last real post 2025/2022. Needs a content plan if you want it working.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links

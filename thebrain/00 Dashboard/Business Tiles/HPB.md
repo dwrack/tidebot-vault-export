@@ -7,17 +7,17 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "verify storm refunds; ads dark; FH stale"
-updated: 2026-06-12
+alert: "ads dark 7d (Google $0); verify storm refunds by ~6/18; FH stale"
+updated: 2026-06-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- Storm cluster (7x 1-star, June 6) all replied, BUT: public reply promised full refund in 7-10 business days (window closes ~6/18) and replies cite fake support emails. Verify refunds processed; chargebacks/BBB threatened.
-- Ads fully dark: Google $0 yesterday AND 7 days; zero active Meta campaigns. Confirm intentional.
-- FH: no scrape today. Last good: 4 bookings / $242 booked over 7d through 6/10 — thin.
-- Reviews since: LaToya Mitchell 5-star (5/30) replied. Nothing new this week.
-- IG: 6/8 reel 6 likes; posting weekly.
+- ADS FULLY DARK: Google $0 yesterday AND $0 over 7 days; Houston Meta account only ran the Buffalo Bayou campaign. Zero paid reach in peak June. Turn on or confirm pause (Action Item 2).
+- Storm-cluster refunds (June 6 wave) promised in 7-10 business days — window closes ~6/18. Verify processed; chargebacks/BBB were threatened. Can't check email (token dead).
+- FH stale. Last good 6/11: 1 booked / $121 over 7d — thin.
+- IG: 'Hey Houston' reel 6/14 just 4 likes. Low engagement, matches the dark-ads picture.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links
