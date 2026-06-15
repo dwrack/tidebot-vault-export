@@ -37,6 +37,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Obtain cleaning supplies for the vans. _(Nick Napoda (audio log), 2026-06-15)_
 - [ ] [Guide log] Replace missing screwdriver in guide bag. _(Nick Nevada (audio log), 2026-06-15)_
 - [ ] [Guide log] Check and potentially recharge the AC refrigerant in the black van as it is struggling to cool down in the heat. _(Nick Napota (audio log), 2026-06-13)_
 - [ ] [Guide log] Check if motorcycle rally is still present upon return to ensure trailer can be returned to its spot. _(Nick Napota (audio log), 2026-06-13)_
