@@ -55,17 +55,7 @@ Every public video was edited in place (no re-uploads, so view history and ranki
 
 **Channel branding:** description rewritten around the silent-kayak / Manchac / Honey Island / gators / fishing / restoration story with a booking link, and keywords set to the full Step-1 term list.
 
-### Quota tail — finish after midnight Pacific 2026-06-13
-The YouTube Data API daily quota (shared OAuth project, also used by the NPB rebuild today) ran out before the last 4 videos. **38 of 42 are fully done.** Re-run these 4 once quota resets:
-
-| Video ID | New title | Link type / slug |
-|---|---|---|
-| `J_tLI9nIGb0` | Kayaking the New Orleans Swamp: Manchac Bayou | general / kayaking-swamp |
-| `P5GRpe2paa0` | 360 Swamp Tour by Kayak: New Orleans Manchac Bayou (VR) | general / 360-swamp |
-| `mYF3yjf-e9w` | Swamp Shake: Fun on a New Orleans Kayak Swamp Tour | general / swamp-shake |
-| `_J2No6Em6GE` | New Orleans Funk: Street Music in the Big Easy | general / nola-funk |
-
-(`eBxRw2p8gZo` did go through before the quota wall.) Use the same description template and tag set as the rest. Drafts of all four are ready in `Marketing/YouTube Scripts/_repackage-tail.md`.
+**All 42 public videos are repackaged.** (The API quota on the shared OAuth project, also used by the NPB rebuild, ran out on 2026-06-13 with 4 videos left; finished on the 15th after the daily reset.)
 
 ---
 
@@ -94,12 +84,12 @@ The API cannot do these. ~20 minutes in YouTube Studio:
 
 ## Step 5 — The repeatable engine
 
-- **Playlists (built):** Manchac Swamp Tours by Kayak `PLMGswIMe1ETw`, Honey Island Swamp Tours `PLPZe5AVO42s8`, Alligators & Swamp Wildlife `PLeyZVEDsQt9U`, Kayak Fishing the New Orleans Bayou `PLfky8Vcb7afg`, Meet the Guides & Guest Stories `PLMrxLYjo3jUM`, Bayou Restoration & Our Eco Mission `PLaiDojYJaG7k`. **Seeding mapping is below** (also blocked by the quota wall, finish after reset).
+- **Playlists (built and seeded):** Manchac Swamp Tours by Kayak `PLMGswIMe1ETw` (15), Honey Island Swamp Tours `PLPZe5AVO42s8` (2), Alligators & Swamp Wildlife `PLeyZVEDsQt9U` (9), Kayak Fishing the New Orleans Bayou `PLfky8Vcb7afg` (3), Meet the Guides & Guest Stories `PLMrxLYjo3jUM` (5), Bayou Restoration & Our Eco Mission `PLaiDojYJaG7k` (3). Winners seeded first in each. Mapping below.
 - **Cadence:** 3-4 Shorts/week from the footage library + 1 weekly Bayou Report + 1-2 long-form/month. Lean on the seasonal and weather angles, winter is a strong booking window here.
 - **Monthly:** re-pull the Step-1 traffic + search reports, double down on whichever pillar holds retention and converts.
 
-### Playlist seeding mapping (run after quota reset)
-Add winners first so a single view becomes a binge.
+### Playlist seeding mapping (done)
+Winners first so a single view becomes a binge.
 
 - **Manchac `PLMGswIMe1ETw`:** MtkbjS1OuOw, N8XLyvQcdT0, AhQWd2UQ1qI, 1elM5JvrjJk, fMUlR38rOzc, 5-zA-PbwPVQ, ywO7UDRXKpM, Ac-ZTXW5TMc, oYrobgKDuvQ, nbFJIjFcfl0, e4lOnYdY9Ss, J_tLI9nIGb0, P5GRpe2paa0, HWu3dvzC0_o, uru8T7t1Mj8
 - **Honey Island `PLPZe5AVO42s8`:** 7zOnhtJsQxE, RUeJtAJKQCs
@@ -112,5 +102,13 @@ Add winners first so a single view becomes a binge.
 
 ---
 
+## What's left (manual, in Studio)
+Everything the API can't touch. None of it is blocking, do it when you have 20 minutes:
+- Pin booking-link comments on the winners (list in Step 4 above).
+- Add end screens + subscribe cards on those same winners.
+- Confirm the avatar is the clean NKST logo.
+- First content ships: a Bayou Report (weekly) and Manchac Bridge ep. 1. Scripts are in `Marketing/YouTube Scripts/`.
+
 ## Status log
-- **2026-06-13:** Step 1 data pulled (89% ads confirmed). 38/42 videos repackaged in place. Door County cross-brand video unlisted. Channel branding + keywords updated. 6 pillar playlists created. Cast + scripts written. **Blocked on API quota for: 4 remaining video edits + all playlist seeding + (manual) pinned comments/end screens.** Resume after midnight Pacific.
+- **2026-06-13:** Step 1 data pulled (89% ads confirmed). 38/42 videos repackaged. Door County cross-brand video unlisted. Channel branding + keywords updated. 6 pillar playlists created. Cast + scripts written. Hit the shared-project API quota with 4 video edits + playlist seeding left.
+- **2026-06-15:** Quota reset. Finished the last 4 video edits (all 42 now done) and seeded all 6 playlists (37 placements, winners first). Steps 1, 2, 3, 5 complete. Remaining is the manual Studio list above + producing the first cast content.
