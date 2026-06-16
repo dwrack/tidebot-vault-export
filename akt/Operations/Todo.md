@@ -4,6 +4,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Reapply resources in FareHarbor to ensure correct capacity is reflected after the time change. _(David Rack (audio log), 2026-06-16)_
 
 
 ## Low Priority
