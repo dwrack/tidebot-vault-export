@@ -1,18 +1,18 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-06-15*
+*Last refresh: 2026-06-16*
 
 ## Right now
-- [[Daily Briefings/2026-06-15|Today's brief]]
+- [[Daily Briefings/2026-06-16|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **All biz** — Re-auth Google. Gmail token revoked (4th day blind on email) AND GBP returned 403 insufficient-scope on all 12 locations. No email, no reviews visible anywhere.
-2. **HPB** — Paid traffic fully dark: Google $0 yesterday and $0 over 7 days, Houston Meta account only ran the Buffalo Bayou campaign. Turn HPB campaigns back on or confirm the pause. Flagged since 6/12.
-3. **FH scraper** — Failed 3 nights running (ERR_INTERNET_DISCONNECTED, no file today). Booking numbers stale at 6/11. Plus AKT's two 1-star reviews now day 6+ and unverifiable until GBP re-auth.
+1. **All biz** — Re-auth Google. Gmail token revoked (5th day blind on email) AND GBP returned 403 insufficient-scope on all 12 locations. One fix unblocks both email triage and review replies.
+2. **HPB** — Paid traffic still dark: Google $4 yesterday and $4 over 7 days, Houston Meta account only ran the Buffalo Bayou campaign. Turn HPB campaigns back on or confirm the pause. Flagged since 6/12.
+3. **FH scraper** — Latest scrape (6/14) captured only nav chrome, no booking numbers; no file today. Bookings blind since 6/11. Plus AKT's two 1-3★ reviews now day 7+ and unverifiable until GBP re-auth.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
@@ -23,8 +23,8 @@
 | Unreplied GBP reviews (1-3★, all biz) | — (403, blind) | 2 (AKT) | n/a |
 | FH bookings (all biz) | — (scrape stale) | ~46 booked / 7d thru 6/11 | stale |
 | FH revenue (all biz) | — (scrape stale) | ~$8.4k booked / 7d thru 6/11 | stale |
-| Total ad spend (G+M) | $376 | ~$381/day | -$5 |
-| Total ad-attributed conversions | ~15 (G 14 + M 1 lead) | ~14/day | +1 |
+| Total ad spend (G+M) | $400 | ~$381/day | +$19 |
+| Total ad-attributed conversions | ~10 (G ~9 + M 1 purchase + 4 leads) | ~14/day | -4 |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -33,11 +33,12 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-06-15]] (today)
-- [[Daily Briefings/2026-06-12]] (3 days ago)
-- [[Daily Briefings/2026-06-10]] (5 days ago)
-- [[Daily Briefings/2026-05-11]] (35 days ago)
-- [[Daily Briefings/2026-05-08]] (38 days ago)
+- [[Daily Briefings/2026-06-16]] (today)
+- [[Daily Briefings/2026-06-15]] (1 day ago)
+- [[Daily Briefings/2026-06-12]] (4 days ago)
+- [[Daily Briefings/2026-06-10]] (6 days ago)
+- [[Daily Briefings/2026-05-11]] (36 days ago)
+- [[Daily Briefings/2026-05-08]] (39 days ago)
 <!-- briefs:end -->
 
 ## Maps

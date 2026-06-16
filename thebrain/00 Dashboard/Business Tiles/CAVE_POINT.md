@@ -6,15 +6,17 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-15
+status: yellow
+alert: "data stale — FH scrape missing; IG dormant"
+updated: 2026-06-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- GSC (cavepointpp.com): zero rows again — verify the property registration once Google auth is restored.
-- IG dormant — last real post 2025/2022. Needs a content plan if you want it working.
+- FH stale (last good 6/11). No booking numbers.
+- No dedicated spend yesterday.
+- GSC: zero rows on cavepointpp.com. No organic traction.
+- IG dormant — last real post mid-2025.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

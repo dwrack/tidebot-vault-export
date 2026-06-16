@@ -1,0 +1,2011 @@
+{
+  "_meta": {
+    "scraped_at": "2026-06-16T15:13:59.483Z",
+    "for_date": "2026-06-15",
+    "timezone": "America/Chicago",
+    "shortnames_attempted": [
+      "buffalobayoukayak",
+      "doorcountykayaktours",
+      "houstonpedalbarge",
+      "lonestarkayaktours",
+      "neworleanskayakswamptours",
+      "neworleanspedalbarge"
+    ]
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "shortname": "buffalobayoukayak",
+      "pulled_at": "2026-06-16T15:11:16.377Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date",
+          "This Month",
+          "This Month-to-date"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/?date_filter=2026-06-15_2026-06-15",
+        "page_title": "Bookings | Buffalo Bayou Kayak Tours"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Tuesday, June 16, 2026",
+          "Reference date: Tuesday, June 16, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/payments/?date_range=2026-06-15_2026-06-15",
+        "page_title": "Payments | Buffalo Bayou Kayak Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Sunday, May 17, 2026 – Tuesday, June 16, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share",
+          "Learn about this report",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago."
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/payouts/",
+        "page_title": "Payouts | Buffalo Bayou Kayak Tours"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Tuesday, June 16, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Custom manifests",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "Sunset Skyline Bat Bridge Kayak Tour",
+          "6:00 PM – 8:30 PM",
+          "Book"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/manifest/date/2026-06-16/availabilities/",
+        "page_title": "Tuesday, June 16, 2026 | Buffalo Bayou Kayak Tours"
+      },
+      "errors": []
+    },
+    "doorcountykayaktours": {
+      "shortname": "doorcountykayaktours",
+      "pulled_at": "2026-06-16T15:11:38.402Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-06-15_2026-06-15",
+        "page_title": "Bookings | Door County Kayak"
+      },
+      "payments": {
+        "money": [
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$10.55",
+            "line": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55"
+          },
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$10.55",
+            "line": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$52.75",
+            "line": "Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.75\t\t\t\t\t\t$52.75"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$52.75",
+            "line": "Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.75\t\t\t\t\t\t$52.75"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$10.55",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$52.75",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$63.30",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Cave Point Kayak Tour\t6/16/26 at 10:00 AM – 12:00 PM\t$10.55\t\t\t\t\t\t\t\t$10.55 | Quad Bike Rental\t6/16/26 at 12:00 PM\t\t\t$52.7",
+            "value": "$0.00",
+            "line": "Totals\t$10.55\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$63.30\t$0.00"
+          },
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$52.75",
+            "line": "Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t$52.75\t\t\t\t\t\t\t\t$52.75"
+          },
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$52.75",
+            "line": "Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t$52.75\t\t\t\t\t\t\t\t$52.75"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$52.75",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$52.75",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Cave Point Kayak Tour\t6/17/26 at 10:00 AM – 12:00 PM\t",
+            "value": "$0.00",
+            "line": "Totals\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$52.75\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$63.30",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$52.75",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$116.05",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$63.30\t$0.00\t$52.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$116.05\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Tuesday, June 16, 2026",
+          "Reference date: Tuesday, June 16, 2026",
+          "Report accurate as of a few seconds ago Refresh",
+          "Share",
+          "Download CSV"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/payments/?date_range=2026-06-15_2026-06-15",
+        "page_title": "Payments | Door County Kayak"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Sunday, May 17, 2026 – Tuesday, June 16, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/payouts/",
+        "page_title": "Payouts | Door County Kayak"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "Checked in | No-show",
+            "value": "$410.16",
+            "line": "$410.16"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$287.51",
+            "line": "$287.51"
+          },
+          {
+            "label": "No | here for our 1 year wedding anniversary from the mke area; we've kayaked multiple rivers/lakes but nothing as big a",
+            "value": "$122.65",
+            "line": "$122.65"
+          },
+          {
+            "label": "No | Cave point 6/17, 6/18, 6/19",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": "$718.76",
+            "line": "$718.76"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$143.75",
+            "line": "$143.75"
+          },
+          {
+            "label": "No | Multiple",
+            "value": "$143.75",
+            "line": "$143.75"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$143.75",
+            "line": "$143.75"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$287.51",
+            "line": "$287.51"
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": "$431.26",
+            "line": "$431.26"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$143.75",
+            "line": "$143.75"
+          },
+          {
+            "label": "Set check-in per customer... | No",
+            "value": "$287.51",
+            "line": "$287.51"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Door County Kayak",
+          "Tuesday, June 16, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: Default",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "Cave Point Kayak Tour",
+          "9:00 AM – 11:00 AM",
+          "Book"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/manifest/date/2026-06-16/availabilities/",
+        "page_title": "Tuesday, June 16, 2026 | Door County Kayak"
+      },
+      "errors": []
+    },
+    "houstonpedalbarge": {
+      "shortname": "houstonpedalbarge",
+      "pulled_at": "2026-06-16T15:11:58.828Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date",
+          "This Month"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-06-15_2026-06-15",
+        "page_title": "Bookings | Houston Pedal Barge"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Tuesday, June 16, 2026",
+          "Reference date: Tuesday, June 16, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/payments/?date_range=2026-06-15_2026-06-15",
+        "page_title": "Payments | Houston Pedal Barge"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Sunday, May 17, 2026 – Tuesday, June 16, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share",
+          "Learn about this report"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/payouts/",
+        "page_title": "Payouts | Houston Pedal Barge"
+      },
+      "manifest_today": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Tuesday, June 16, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Custom manifests",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Print",
+          "No availabilities"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/manifest/date/2026-06-16/availabilities/",
+        "page_title": "Tuesday, June 16, 2026 | Houston Pedal Barge"
+      },
+      "errors": []
+    },
+    "lonestarkayaktours": {
+      "shortname": "lonestarkayaktours",
+      "pulled_at": "2026-06-16T15:12:17.570Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date",
+          "This Month"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-06-15_2026-06-15",
+        "page_title": "Bookings | Lone Star Kayak Tours"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Tuesday, June 16, 2026",
+          "Reference date: Tuesday, June 16, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/payments/?date_range=2026-06-15_2026-06-15",
+        "page_title": "Payments | Lone Star Kayak Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Sunday, May 17, 2026 – Tuesday, June 16, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share",
+          "Learn about this report"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/payouts/",
+        "page_title": "Payouts | Lone Star Kayak Tours"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Tuesday, June 16, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: w/ wpc",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "Sunset Congress Avenue Bat Bridge Tour",
+          "8:00 PM – 10:00 PM",
+          "Book"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/manifest/date/2026-06-16/availabilities/",
+        "page_title": "Tuesday, June 16, 2026 | Lone Star Kayak Tours"
+      },
+      "errors": []
+    },
+    "neworleanskayakswamptours": {
+      "shortname": "neworleanskayakswamptours",
+      "pulled_at": "2026-06-16T15:12:40.628Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-06-15_2026-06-15",
+        "page_title": "Bookings | New Orleans Kayak Swamp Tours"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Tuesday, June 16, 2026",
+          "Reference date: Tuesday, June 16, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago."
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payments/?date_range=2026-06-15_2026-06-15",
+        "page_title": "Payments | New Orleans Kayak Swamp Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Sunday, May 17, 2026 – Tuesday, June 16, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payouts/",
+        "page_title": "Payouts | New Orleans Kayak Swamp Tours"
+      },
+      "manifest_today": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Tuesday, June 16, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: End of Day!",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Print",
+          "No availabilities"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/manifest/date/2026-06-16/availabilities/",
+        "page_title": "Tuesday, June 16, 2026 | New Orleans Kayak Swamp Tours"
+      },
+      "errors": []
+    },
+    "neworleanspedalbarge": {
+      "shortname": "neworleanspedalbarge",
+      "pulled_at": "2026-06-16T15:13:01.776Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-06-15_2026-06-15",
+        "page_title": "Bookings | New Orleans Party Barge"
+      },
+      "payments": {
+        "money": [
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$59.88",
+            "line": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88"
+          },
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$59.88",
+            "line": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t",
+            "value": "$59.88",
+            "line": "The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t",
+            "value": "$59.88",
+            "line": "The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$119.76",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$119.76",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "The Freaky Tiki\t6/27/26 at 6:00 PM – 7:45 PM\t$59.88\t\t\t\t\t\t\t\t$59.88 | The Freaky Tiki\t7/17/26 at 2:00 PM – 3:45 PM\t$59.88\t",
+            "value": "$0.00",
+            "line": "Totals\t$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$119.76",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$119.76",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.76\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.76\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Tuesday, June 16, 2026",
+          "Reference date: Tuesday, June 16, 2026",
+          "Report accurate as of a few seconds ago Refresh",
+          "Share",
+          "Download CSV"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payments/?date_range=2026-06-15_2026-06-15",
+        "page_title": "Payments | New Orleans Party Barge"
+      },
+      "payouts": {
+        "money": [
+          {
+            "label": "6/7/26 | 6/14/26",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "6/14/26 | $0.00",
+            "value": "$5,000.00",
+            "line": "$5,000.00"
+          },
+          {
+            "label": "$5,000.00 | Payouts",
+            "value": "$129,914.87",
+            "line": "$129,914.87 total"
+          },
+          {
+            "label": "Next Payout\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$51.60",
+            "line": "Next Payout\tDefault\t$51.60\t-$51.60\t$0.00\t$0.00\t6/16/26\t6/16/26\tScheduled"
+          },
+          {
+            "label": "Next Payout\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$51.60",
+            "line": "Next Payout\tDefault\t$51.60\t-$51.60\t$0.00\t$0.00\t6/16/26\t6/16/26\tScheduled"
+          },
+          {
+            "label": "Next Payout\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$0.00",
+            "line": "Next Payout\tDefault\t$51.60\t-$51.60\t$0.00\t$0.00\t6/16/26\t6/16/26\tScheduled"
+          },
+          {
+            "label": "Next Payout\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$0.00",
+            "line": "Next Payout\tDefault\t$51.60\t-$51.60\t$0.00\t$0.00\t6/16/26\t6/16/26\tScheduled"
+          },
+          {
+            "label": "Payout ID\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$4,862.40",
+            "line": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated"
+          },
+          {
+            "label": "Payout ID\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$101.78",
+            "line": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated"
+          },
+          {
+            "label": "Payout ID\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$4,760.62",
+            "line": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated"
+          },
+          {
+            "label": "Payout ID\tLedger\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$0.00",
+            "line": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/1",
+            "value": "$5,519.40",
+            "line": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/1",
+            "value": "$130.88",
+            "line": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/1",
+            "value": "$5,388.52",
+            "line": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/1",
+            "value": "$0.00",
+            "line": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded"
+          },
+          {
+            "label": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated | #18029966\tDefault\t$5,519.40\t-$130.88\t$5",
+            "value": "$5,848.13",
+            "line": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded"
+          },
+          {
+            "label": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated | #18029966\tDefault\t$5,519.40\t-$130.88\t$5",
+            "value": "$129.25",
+            "line": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded"
+          },
+          {
+            "label": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated | #18029966\tDefault\t$5,519.40\t-$130.88\t$5",
+            "value": "$5,718.88",
+            "line": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded"
+          },
+          {
+            "label": "#18038690\tDefault\t$4,862.40\t-$101.78\t$4,760.62\t$0.00\t6/15/26\t6/15/26\tInitiated | #18029966\tDefault\t$5,519.40\t-$130.88\t$5",
+            "value": "$0.00",
+            "line": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded"
+          },
+          {
+            "label": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded | #18021020\tDefault\t$5,848.13\t-$129.25\t$5",
+            "value": "$5,042.50",
+            "line": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded"
+          },
+          {
+            "label": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded | #18021020\tDefault\t$5,848.13\t-$129.25\t$5",
+            "value": "$109.58",
+            "line": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded"
+          },
+          {
+            "label": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded | #18021020\tDefault\t$5,848.13\t-$129.25\t$5",
+            "value": "$4,932.92",
+            "line": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded"
+          },
+          {
+            "label": "#18029966\tDefault\t$5,519.40\t-$130.88\t$5,388.52\t$0.00\t6/14/26\t6/14/26\tSucceeded | #18021020\tDefault\t$5,848.13\t-$129.25\t$5",
+            "value": "$0.00",
+            "line": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded"
+          },
+          {
+            "label": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded | #18011966\tDefault\t$5,042.50\t-$109.58\t$4",
+            "value": "$5,511.18",
+            "line": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded"
+          },
+          {
+            "label": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded | #18011966\tDefault\t$5,042.50\t-$109.58\t$4",
+            "value": "$113.03",
+            "line": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded"
+          },
+          {
+            "label": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded | #18011966\tDefault\t$5,042.50\t-$109.58\t$4",
+            "value": "$5,398.15",
+            "line": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded"
+          },
+          {
+            "label": "#18021020\tDefault\t$5,848.13\t-$129.25\t$5,718.88\t$0.00\t6/13/26\t6/13/26\tSucceeded | #18011966\tDefault\t$5,042.50\t-$109.58\t$4",
+            "value": "$0.00",
+            "line": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded"
+          },
+          {
+            "label": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded | #18002939\tDefault\t$5,511.18\t-$113.03\t$5",
+            "value": "$5,696.15",
+            "line": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded"
+          },
+          {
+            "label": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded | #18002939\tDefault\t$5,511.18\t-$113.03\t$5",
+            "value": "$113.63",
+            "line": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded"
+          },
+          {
+            "label": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded | #18002939\tDefault\t$5,511.18\t-$113.03\t$5",
+            "value": "$5,582.52",
+            "line": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded"
+          },
+          {
+            "label": "#18011966\tDefault\t$5,042.50\t-$109.58\t$4,932.92\t$0.00\t6/12/26\t6/12/26\tSucceeded | #18002939\tDefault\t$5,511.18\t-$113.03\t$5",
+            "value": "$0.00",
+            "line": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded"
+          },
+          {
+            "label": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded | #17994137\tDefault\t$5,696.15\t-$113.63\t$5",
+            "value": "$4,170.12",
+            "line": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded"
+          },
+          {
+            "label": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded | #17994137\tDefault\t$5,696.15\t-$113.63\t$5",
+            "value": "$82.17",
+            "line": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded"
+          },
+          {
+            "label": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded | #17994137\tDefault\t$5,696.15\t-$113.63\t$5",
+            "value": "$4,087.95",
+            "line": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded"
+          },
+          {
+            "label": "#18002939\tDefault\t$5,511.18\t-$113.03\t$5,398.15\t$0.00\t6/11/26\t6/11/26\tSucceeded | #17994137\tDefault\t$5,696.15\t-$113.63\t$5",
+            "value": "$0.00",
+            "line": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded"
+          },
+          {
+            "label": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded | #17985030\tDefault\t$4,170.12\t-$82.17\t$4,",
+            "value": "$3,188.43",
+            "line": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded"
+          },
+          {
+            "label": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded | #17985030\tDefault\t$4,170.12\t-$82.17\t$4,",
+            "value": "$67.19",
+            "line": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded"
+          },
+          {
+            "label": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded | #17985030\tDefault\t$4,170.12\t-$82.17\t$4,",
+            "value": "$3,121.24",
+            "line": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded"
+          },
+          {
+            "label": "#17994137\tDefault\t$5,696.15\t-$113.63\t$5,582.52\t$0.00\t6/10/26\t6/10/26\tSucceeded | #17985030\tDefault\t$4,170.12\t-$82.17\t$4,",
+            "value": "$0.00",
+            "line": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded"
+          },
+          {
+            "label": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded | #17976341\tDefault\t$3,188.43\t-$67.19\t$3,121",
+            "value": "$8,478.74",
+            "line": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded"
+          },
+          {
+            "label": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded | #17976341\tDefault\t$3,188.43\t-$67.19\t$3,121",
+            "value": "$178.45",
+            "line": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded"
+          },
+          {
+            "label": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded | #17976341\tDefault\t$3,188.43\t-$67.19\t$3,121",
+            "value": "$8,300.29",
+            "line": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded"
+          },
+          {
+            "label": "#17985030\tDefault\t$4,170.12\t-$82.17\t$4,087.95\t$0.00\t6/9/26\t6/9/26\tSucceeded | #17976341\tDefault\t$3,188.43\t-$67.19\t$3,121",
+            "value": "$0.00",
+            "line": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded"
+          },
+          {
+            "label": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded | #17967706\tDefault\t$8,478.74\t-$178.45\t$8,30",
+            "value": "$4,361.48",
+            "line": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded"
+          },
+          {
+            "label": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded | #17967706\tDefault\t$8,478.74\t-$178.45\t$8,30",
+            "value": "$92.46",
+            "line": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded"
+          },
+          {
+            "label": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded | #17967706\tDefault\t$8,478.74\t-$178.45\t$8,30",
+            "value": "$4,269.02",
+            "line": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded"
+          },
+          {
+            "label": "#17976341\tDefault\t$3,188.43\t-$67.19\t$3,121.24\t$0.00\t6/8/26\t6/8/26\tSucceeded | #17967706\tDefault\t$8,478.74\t-$178.45\t$8,30",
+            "value": "$0.00",
+            "line": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded"
+          },
+          {
+            "label": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded | #17958956\tDefault\t$4,361.48\t-$92.46\t$4,26",
+            "value": "$3,480.35",
+            "line": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded"
+          },
+          {
+            "label": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded | #17958956\tDefault\t$4,361.48\t-$92.46\t$4,26",
+            "value": "$78.89",
+            "line": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded"
+          },
+          {
+            "label": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded | #17958956\tDefault\t$4,361.48\t-$92.46\t$4,26",
+            "value": "$3,401.46",
+            "line": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded"
+          },
+          {
+            "label": "#17967706\tDefault\t$8,478.74\t-$178.45\t$8,300.29\t$0.00\t6/7/26\t6/7/26\tSucceeded | #17958956\tDefault\t$4,361.48\t-$92.46\t$4,26",
+            "value": "$0.00",
+            "line": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded"
+          },
+          {
+            "label": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded | #17950225\tDefault\t$3,480.35\t-$78.89\t$3,401",
+            "value": "$2,709.26",
+            "line": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded"
+          },
+          {
+            "label": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded | #17950225\tDefault\t$3,480.35\t-$78.89\t$3,401",
+            "value": "$54.79",
+            "line": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded"
+          },
+          {
+            "label": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded | #17950225\tDefault\t$3,480.35\t-$78.89\t$3,401",
+            "value": "$2,654.47",
+            "line": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded"
+          },
+          {
+            "label": "#17958956\tDefault\t$4,361.48\t-$92.46\t$4,269.02\t$0.00\t6/6/26\t6/6/26\tSucceeded | #17950225\tDefault\t$3,480.35\t-$78.89\t$3,401",
+            "value": "$0.00",
+            "line": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded"
+          },
+          {
+            "label": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded | #17941548\tDefault\t$2,709.26\t-$54.79\t$2,654",
+            "value": "$4,299.65",
+            "line": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded"
+          },
+          {
+            "label": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded | #17941548\tDefault\t$2,709.26\t-$54.79\t$2,654",
+            "value": "$85.25",
+            "line": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded"
+          },
+          {
+            "label": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded | #17941548\tDefault\t$2,709.26\t-$54.79\t$2,654",
+            "value": "$4,214.40",
+            "line": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded"
+          },
+          {
+            "label": "#17950225\tDefault\t$3,480.35\t-$78.89\t$3,401.46\t$0.00\t6/5/26\t6/5/26\tSucceeded | #17941548\tDefault\t$2,709.26\t-$54.79\t$2,654",
+            "value": "$0.00",
+            "line": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded"
+          },
+          {
+            "label": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded | #17932961\tDefault\t$4,299.65\t-$85.25\t$4,214",
+            "value": "$6,281.81",
+            "line": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded"
+          },
+          {
+            "label": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded | #17932961\tDefault\t$4,299.65\t-$85.25\t$4,214",
+            "value": "$129.12",
+            "line": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded"
+          },
+          {
+            "label": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded | #17932961\tDefault\t$4,299.65\t-$85.25\t$4,214",
+            "value": "$6,152.69",
+            "line": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded"
+          },
+          {
+            "label": "#17941548\tDefault\t$2,709.26\t-$54.79\t$2,654.47\t$0.00\t6/4/26\t6/4/26\tSucceeded | #17932961\tDefault\t$4,299.65\t-$85.25\t$4,214",
+            "value": "$0.00",
+            "line": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded"
+          },
+          {
+            "label": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded | #17924154\tDefault\t$6,281.81\t-$129.12\t$6,15",
+            "value": "$3,973.54",
+            "line": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded"
+          },
+          {
+            "label": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded | #17924154\tDefault\t$6,281.81\t-$129.12\t$6,15",
+            "value": "$86.35",
+            "line": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded"
+          },
+          {
+            "label": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded | #17924154\tDefault\t$6,281.81\t-$129.12\t$6,15",
+            "value": "$3,887.19",
+            "line": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded"
+          },
+          {
+            "label": "#17932961\tDefault\t$4,299.65\t-$85.25\t$4,214.40\t$0.00\t6/3/26\t6/3/26\tSucceeded | #17924154\tDefault\t$6,281.81\t-$129.12\t$6,15",
+            "value": "$0.00",
+            "line": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded"
+          },
+          {
+            "label": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded | #17915387\tDefault\t$3,973.54\t-$86.35\t$3,88",
+            "value": "$10,035.74",
+            "line": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded"
+          },
+          {
+            "label": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded | #17915387\tDefault\t$3,973.54\t-$86.35\t$3,88",
+            "value": "$204.84",
+            "line": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded"
+          },
+          {
+            "label": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded | #17915387\tDefault\t$3,973.54\t-$86.35\t$3,88",
+            "value": "$9,830.90",
+            "line": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded"
+          },
+          {
+            "label": "#17924154\tDefault\t$6,281.81\t-$129.12\t$6,152.69\t$0.00\t6/2/26\t6/2/26\tSucceeded | #17915387\tDefault\t$3,973.54\t-$86.35\t$3,88",
+            "value": "$0.00",
+            "line": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded"
+          },
+          {
+            "label": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded | #17906607\tDefault\t$10,035.74\t-$204.84\t$9,8",
+            "value": "$6,719.75",
+            "line": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded"
+          },
+          {
+            "label": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded | #17906607\tDefault\t$10,035.74\t-$204.84\t$9,8",
+            "value": "$146.40",
+            "line": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded"
+          },
+          {
+            "label": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded | #17906607\tDefault\t$10,035.74\t-$204.84\t$9,8",
+            "value": "$6,573.35",
+            "line": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded"
+          },
+          {
+            "label": "#17915387\tDefault\t$3,973.54\t-$86.35\t$3,887.19\t$0.00\t6/1/26\t6/1/26\tSucceeded | #17906607\tDefault\t$10,035.74\t-$204.84\t$9,8",
+            "value": "$0.00",
+            "line": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded"
+          },
+          {
+            "label": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded | #17897773\tDefault\t$6,719.75\t-$146.40\t$",
+            "value": "$3,993.76",
+            "line": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded"
+          },
+          {
+            "label": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded | #17897773\tDefault\t$6,719.75\t-$146.40\t$",
+            "value": "$85.09",
+            "line": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded"
+          },
+          {
+            "label": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded | #17897773\tDefault\t$6,719.75\t-$146.40\t$",
+            "value": "$3,908.67",
+            "line": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded"
+          },
+          {
+            "label": "#17906607\tDefault\t$10,035.74\t-$204.84\t$9,830.90\t$0.00\t5/31/26\t5/31/26\tSucceeded | #17897773\tDefault\t$6,719.75\t-$146.40\t$",
+            "value": "$0.00",
+            "line": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded"
+          },
+          {
+            "label": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded | #17888883\tDefault\t$3,993.76\t-$85.09\t$3,",
+            "value": "$4,336.24",
+            "line": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded"
+          },
+          {
+            "label": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded | #17888883\tDefault\t$3,993.76\t-$85.09\t$3,",
+            "value": "$88.43",
+            "line": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded"
+          },
+          {
+            "label": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded | #17888883\tDefault\t$3,993.76\t-$85.09\t$3,",
+            "value": "$4,247.81",
+            "line": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded"
+          },
+          {
+            "label": "#17897773\tDefault\t$6,719.75\t-$146.40\t$6,573.35\t$0.00\t5/30/26\t5/30/26\tSucceeded | #17888883\tDefault\t$3,993.76\t-$85.09\t$3,",
+            "value": "$0.00",
+            "line": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded"
+          },
+          {
+            "label": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded | #17880165\tDefault\t$4,336.24\t-$88.43\t$4,2",
+            "value": "$1,782.62",
+            "line": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded"
+          },
+          {
+            "label": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded | #17880165\tDefault\t$4,336.24\t-$88.43\t$4,2",
+            "value": "$37.95",
+            "line": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded"
+          },
+          {
+            "label": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded | #17880165\tDefault\t$4,336.24\t-$88.43\t$4,2",
+            "value": "$1,744.67",
+            "line": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded"
+          },
+          {
+            "label": "#17888883\tDefault\t$3,993.76\t-$85.09\t$3,908.67\t$0.00\t5/29/26\t5/29/26\tSucceeded | #17880165\tDefault\t$4,336.24\t-$88.43\t$4,2",
+            "value": "$0.00",
+            "line": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded"
+          },
+          {
+            "label": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded | #17871534\tDefault\t$1,782.62\t-$37.95\t$1,7",
+            "value": "$1,319.59",
+            "line": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded"
+          },
+          {
+            "label": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded | #17871534\tDefault\t$1,782.62\t-$37.95\t$1,7",
+            "value": "$28.39",
+            "line": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded"
+          },
+          {
+            "label": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded | #17871534\tDefault\t$1,782.62\t-$37.95\t$1,7",
+            "value": "$1,291.20",
+            "line": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded"
+          },
+          {
+            "label": "#17880165\tDefault\t$4,336.24\t-$88.43\t$4,247.81\t$0.00\t5/28/26\t5/28/26\tSucceeded | #17871534\tDefault\t$1,782.62\t-$37.95\t$1,7",
+            "value": "$0.00",
+            "line": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded"
+          },
+          {
+            "label": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded | #17862700\tDefault\t$1,319.59\t-$28.39\t$1,2",
+            "value": "$3,720.66",
+            "line": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded"
+          },
+          {
+            "label": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded | #17862700\tDefault\t$1,319.59\t-$28.39\t$1,2",
+            "value": "$80.13",
+            "line": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded"
+          },
+          {
+            "label": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded | #17862700\tDefault\t$1,319.59\t-$28.39\t$1,2",
+            "value": "$3,640.53",
+            "line": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded"
+          },
+          {
+            "label": "#17871534\tDefault\t$1,782.62\t-$37.95\t$1,744.67\t$0.00\t5/27/26\t5/27/26\tSucceeded | #17862700\tDefault\t$1,319.59\t-$28.39\t$1,2",
+            "value": "$0.00",
+            "line": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded"
+          },
+          {
+            "label": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded | #17854102\tDefault\t$3,720.66\t-$80.13\t$3,6",
+            "value": "$3,311.13",
+            "line": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded"
+          },
+          {
+            "label": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded | #17854102\tDefault\t$3,720.66\t-$80.13\t$3,6",
+            "value": "$72.90",
+            "line": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded"
+          },
+          {
+            "label": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded | #17854102\tDefault\t$3,720.66\t-$80.13\t$3,6",
+            "value": "$3,238.23",
+            "line": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded"
+          },
+          {
+            "label": "#17862700\tDefault\t$1,319.59\t-$28.39\t$1,291.20\t$0.00\t5/26/26\t5/26/26\tSucceeded | #17854102\tDefault\t$3,720.66\t-$80.13\t$3,6",
+            "value": "$0.00",
+            "line": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded"
+          },
+          {
+            "label": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded | #17845594\tDefault\t$3,311.13\t-$72.90\t$3,2",
+            "value": "$3,823.19",
+            "line": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded"
+          },
+          {
+            "label": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded | #17845594\tDefault\t$3,311.13\t-$72.90\t$3,2",
+            "value": "$76.85",
+            "line": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded"
+          },
+          {
+            "label": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded | #17845594\tDefault\t$3,311.13\t-$72.90\t$3,2",
+            "value": "$3,746.34",
+            "line": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded"
+          },
+          {
+            "label": "#17854102\tDefault\t$3,720.66\t-$80.13\t$3,640.53\t$0.00\t5/25/26\t5/25/26\tSucceeded | #17845594\tDefault\t$3,311.13\t-$72.90\t$3,2",
+            "value": "$0.00",
+            "line": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded"
+          },
+          {
+            "label": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded | #17836893\tDefault\t$3,823.19\t-$76.85\t$3,7",
+            "value": "$2,917.69",
+            "line": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded"
+          },
+          {
+            "label": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded | #17836893\tDefault\t$3,823.19\t-$76.85\t$3,7",
+            "value": "$63.72",
+            "line": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded"
+          },
+          {
+            "label": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded | #17836893\tDefault\t$3,823.19\t-$76.85\t$3,7",
+            "value": "$2,853.97",
+            "line": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded"
+          },
+          {
+            "label": "#17845594\tDefault\t$3,311.13\t-$72.90\t$3,238.23\t$0.00\t5/24/26\t5/24/26\tSucceeded | #17836893\tDefault\t$3,823.19\t-$76.85\t$3,7",
+            "value": "$0.00",
+            "line": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded"
+          },
+          {
+            "label": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded | #17828332\tDefault\t$2,917.69\t-$63.72\t$2,8",
+            "value": "$4,558.23",
+            "line": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded"
+          },
+          {
+            "label": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded | #17828332\tDefault\t$2,917.69\t-$63.72\t$2,8",
+            "value": "$96.04",
+            "line": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded"
+          },
+          {
+            "label": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded | #17828332\tDefault\t$2,917.69\t-$63.72\t$2,8",
+            "value": "$4,462.19",
+            "line": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded"
+          },
+          {
+            "label": "#17836893\tDefault\t$3,823.19\t-$76.85\t$3,746.34\t$0.00\t5/23/26\t5/23/26\tSucceeded | #17828332\tDefault\t$2,917.69\t-$63.72\t$2,8",
+            "value": "$0.00",
+            "line": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded"
+          },
+          {
+            "label": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded | #17819721\tDefault\t$4,558.23\t-$96.04\t$4,4",
+            "value": "$3,365.91",
+            "line": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded"
+          },
+          {
+            "label": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded | #17819721\tDefault\t$4,558.23\t-$96.04\t$4,4",
+            "value": "$87.85",
+            "line": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded"
+          },
+          {
+            "label": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded | #17819721\tDefault\t$4,558.23\t-$96.04\t$4,4",
+            "value": "$3,278.06",
+            "line": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded"
+          },
+          {
+            "label": "#17828332\tDefault\t$2,917.69\t-$63.72\t$2,853.97\t$0.00\t5/22/26\t5/22/26\tSucceeded | #17819721\tDefault\t$4,558.23\t-$96.04\t$4,4",
+            "value": "$0.00",
+            "line": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded"
+          },
+          {
+            "label": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded | #17811257\tDefault\t$3,365.91\t-$87.85\t$3,2",
+            "value": "$2,128.33",
+            "line": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded"
+          },
+          {
+            "label": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded | #17811257\tDefault\t$3,365.91\t-$87.85\t$3,2",
+            "value": "$47.26",
+            "line": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded"
+          },
+          {
+            "label": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded | #17811257\tDefault\t$3,365.91\t-$87.85\t$3,2",
+            "value": "$2,081.07",
+            "line": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded"
+          },
+          {
+            "label": "#17819721\tDefault\t$4,558.23\t-$96.04\t$4,462.19\t$0.00\t5/21/26\t5/21/26\tSucceeded | #17811257\tDefault\t$3,365.91\t-$87.85\t$3,2",
+            "value": "$0.00",
+            "line": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded"
+          },
+          {
+            "label": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded | #17802652\tDefault\t$2,128.33\t-$47.26\t$2,0",
+            "value": "$2,650.05",
+            "line": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded"
+          },
+          {
+            "label": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded | #17802652\tDefault\t$2,128.33\t-$47.26\t$2,0",
+            "value": "$56.36",
+            "line": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded"
+          },
+          {
+            "label": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded | #17802652\tDefault\t$2,128.33\t-$47.26\t$2,0",
+            "value": "$2,593.69",
+            "line": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded"
+          },
+          {
+            "label": "#17811257\tDefault\t$3,365.91\t-$87.85\t$3,278.06\t$0.00\t5/20/26\t5/20/26\tSucceeded | #17802652\tDefault\t$2,128.33\t-$47.26\t$2,0",
+            "value": "$0.00",
+            "line": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded"
+          },
+          {
+            "label": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded | #17794229\tDefault\t$2,650.05\t-$56.36\t$2,5",
+            "value": "$4,651.10",
+            "line": "#17785884\tDefault\t$4,651.10\t-$97.23\t$4,553.87\t$0.00\t5/17/26\t5/17/26\tSucceeded"
+          },
+          {
+            "label": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded | #17794229\tDefault\t$2,650.05\t-$56.36\t$2,5",
+            "value": "$97.23",
+            "line": "#17785884\tDefault\t$4,651.10\t-$97.23\t$4,553.87\t$0.00\t5/17/26\t5/17/26\tSucceeded"
+          },
+          {
+            "label": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded | #17794229\tDefault\t$2,650.05\t-$56.36\t$2,5",
+            "value": "$4,553.87",
+            "line": "#17785884\tDefault\t$4,651.10\t-$97.23\t$4,553.87\t$0.00\t5/17/26\t5/17/26\tSucceeded"
+          },
+          {
+            "label": "#17802652\tDefault\t$2,128.33\t-$47.26\t$2,081.07\t$0.00\t5/19/26\t5/19/26\tSucceeded | #17794229\tDefault\t$2,650.05\t-$56.36\t$2,5",
+            "value": "$0.00",
+            "line": "#17785884\tDefault\t$4,651.10\t-$97.23\t$4,553.87\t$0.00\t5/17/26\t5/17/26\tSucceeded"
+          },
+          {
+            "label": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded | #17785884\tDefault\t$4,651.10\t-$97.23\t$4,5",
+            "value": "$132,737.13",
+            "line": "30 rows\t\t$132,737.13\t$2,822.26\t$129,914.87\t$0.00"
+          },
+          {
+            "label": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded | #17785884\tDefault\t$4,651.10\t-$97.23\t$4,5",
+            "value": "$2,822.26",
+            "line": "30 rows\t\t$132,737.13\t$2,822.26\t$129,914.87\t$0.00"
+          },
+          {
+            "label": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded | #17785884\tDefault\t$4,651.10\t-$97.23\t$4,5",
+            "value": "$129,914.87",
+            "line": "30 rows\t\t$132,737.13\t$2,822.26\t$129,914.87\t$0.00"
+          },
+          {
+            "label": "#17794229\tDefault\t$2,650.05\t-$56.36\t$2,593.69\t$0.00\t5/18/26\t5/18/26\tSucceeded | #17785884\tDefault\t$4,651.10\t-$97.23\t$4,5",
+            "value": "$0.00",
+            "line": "30 rows\t\t$132,737.13\t$2,822.26\t$129,914.87\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Sunday, May 17, 2026 – Tuesday, June 16, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Report accurate as of a few seconds ago Refresh",
+          "Share"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payouts/",
+        "page_title": "Payouts | New Orleans Party Barge"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$119.77",
+            "line": "$119.77\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Tuesday, June 16, 2026",
+          "Availabilities",
+          "5 Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: total manifest",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "The Freaky Tiki",
+          "4:00 PM – 5:45 PM"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/manifest/date/2026-06-16/availabilities/?items=116007,289593,294180,340933,488558",
+        "page_title": "Tuesday, June 16, 2026 | New Orleans Party Barge"
+      },
+      "errors": []
+    }
+  },
+  "_errors": {}
+}

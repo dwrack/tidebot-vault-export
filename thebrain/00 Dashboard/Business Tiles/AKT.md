@@ -7,15 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "2 open 1-star reviews unverifiable — GBP 403, day 6+"
-updated: 2026-06-15
+alert: "data stale — FH scrape missing; 2 old 1-3★ unverified"
+updated: 2026-06-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- Reviews BLIND — GBP 403. Two 1-stars (César Garza 5/19 'rip-off', clossanz 4/18 'sewage/makeshift dock') were day 3 on 6/12, now day 6+ and unverifiable until re-auth. Reply the moment it's back.
-- Shares Austin Google spend with LSKT ($55 yday combined). No Meta campaigns.
-- IG: not pulled this run (sampled 7 of 10 accounts).
+- FH stale (last good 6/11). No booking numbers.
+- Ad spend runs through the shared LSKT Google account (8497383499); no separate AKT spend line.
+- IG 6/8 rainbow carousel 17 likes. Posting regularly, low engagement.
+- Reviews: BLIND — GBP 403. Two 1-3★ flagged 6/15 still unanswered, now day 7+.
 <!-- live:end -->
 
 ## Quick links

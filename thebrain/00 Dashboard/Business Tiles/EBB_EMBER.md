@@ -6,17 +6,16 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-15
+status: yellow
+alert: "data stale — FH scrape missing; viral reel needs reply/UGC"
+updated: 2026-06-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- IG runaway: 6/1 floating-sauna reel now 1,046 likes / 13 comments (next best: 48). Best-performing post anywhere in the portfolio. Have Kimberlyn cut more in that exact format; reply to the comments.
-- New 'Summer Punch Pass' post 6/14 at 7 likes so far.
-- No Meta ad account (never set up), no Google Ads.
-- Reviews: BLIND — GBP 403. 8 unreplied 5-star carried from 6/12, unverified.
+- No Meta/Google ad accounts (never set up).
+- IG OUTLIER: 6/1 sauna reel 1,093 likes / 14 comments. Reply to thread + pull for UGC pipeline. 6/9 and 6/5 carousels at 4 comments each.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links

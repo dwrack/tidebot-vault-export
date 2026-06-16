@@ -5,19 +5,19 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 55
+ad_spend_yday: 89
 status: yellow
-alert: "data stale — FH scrape missing (last good 6/11)"
-updated: 2026-06-15
+alert: "data stale — FH scrape missing"
+updated: 2026-06-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH stale. Last good 6/11: 3 booked / $260 over 7d.
-- Google (shared w/ AKT) yday $55 / 3 conv / CPA $18.38 / ROAS 5.5 — better than its 7d (4.5x, $34.87 CPA). Good day.
-- Meta: $0 — Austin account still has no active campaigns; approved custom-audience ad sets still not built.
-- GSC: 'kayaking near me' 4 clicks pos 8.6, 'lone star kayak tours' 3 clicks pos 1.1.
-- Reviews: BLIND — GBP 403. Anna B 1-star (July 2024) carried, unverified.
+- FH stale (last good 6/11). No booking numbers.
+- Google yday $89 (shared acct w/ AKT), 2 conv, cost/conv $44.54 vs 7-day $35.59, ROAS 5.29 (up from 4.74). Healthy.
+- Meta yday $0 on Austin account.
+- GSC: branded "lone star kayak tours" pos 1.1; "kayak tour austin" pos 1.8.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links

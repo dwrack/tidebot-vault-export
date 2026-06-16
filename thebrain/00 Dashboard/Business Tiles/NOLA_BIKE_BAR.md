@@ -6,16 +6,17 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-15
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-06-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- Part of the NOLA Google umbrella ($124 yday across NOLA brands, 7.2 conv, 15.1x ROAS).
-- GSC: 'nola bike bar' 4 clicks pos 7, 'party bike new orleans' 2 clicks pos 1. Opportunity: 'bike tour new orleans' pos 11.6 on 17 impr.
-- Reviews: BLIND — GBP 403. Review drought (newest was June 2025) carried, unverified.
+- FH stale (last good 6/11). No booking numbers.
+- No dedicated Meta/Google spend yesterday.
+- GSC fine, thin: branded "nola bike bar" + "party bike new orleans" pos 1.
+- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links

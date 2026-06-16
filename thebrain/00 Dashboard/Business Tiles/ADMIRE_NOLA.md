@@ -6,16 +6,17 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-15
+status: yellow
+alert: "data stale — FH scrape missing; IG dormant"
+updated: 2026-06-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- Umbrella funnel routing to NPB / NOLA Bike Bar / NKST.
-- GSC: thin and partly miscategorized (catching ATV queries at 0 CTR). 3 clicks total in the window.
-- IG: not pulled this run.
+- Umbrella funnel; no own FH bookings.
+- No dedicated spend yesterday.
+- GSC thin and off-intent (ATV queries), 2 clicks. Expected for a funnel page.
+- IG DORMANT — last post 2019. Running dark.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
