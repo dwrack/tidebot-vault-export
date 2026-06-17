@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at": "2026-06-17T14:30:46.334Z",
+    "for_date": "2026-06-16",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {},
+  "errors": {
+    "buffalobayoukayak": "Error: POST buffalobayoukayak/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ",
+    "doorcountykayaktours": "Error: POST doorcountykayaktours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██",
+    "houstonpedalbarge": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "lonestarkayaktours": "Error: POST lonestarkayaktours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║ ",
+    "neworleanskayakswamptours": "Error: apiRequestContext.post: read ECONNRESET\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/neworleanskayakswamptours/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel ",
+    "neworleanspedalbarge": "Error: POST neworleanspedalbarge/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██"
+  }
+}
