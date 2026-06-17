@@ -77,15 +77,17 @@ on-site there, so it will not recommend us.
 
 ## Status tracker (update as replies come in)
 
+All 10 SENT 2026-06-17 from the DCKT mailbox (email@doorcountykayaktours.com). Watch the inbox for replies.
+
 | Property | Drafted | Sent | Reply | Linked us | Blog delivered |
 |---|---|---|---|---|---|
-| The Ashbrooke | Yes | | | | |
-| Eagle Harbor Inn | Yes | | | | |
-| Newport Resort | Yes | | | | |
-| The Shallows | Yes | | | | |
-| Gordon Lodge | Yes | | | | |
-| Blacksmith Inn | Yes | | | | |
-| Thorp House Inn | Yes | | | | |
-| White Gull Inn | Yes | | | | |
-| Open Hearth Lodge | Yes | | | | |
-| Inn at Little Sister Hill | Yes | | | | |
+| The Ashbrooke | Yes | Jun 17 | | | |
+| Eagle Harbor Inn | Yes | Jun 17 | | | |
+| Newport Resort | Yes | Jun 17 | | | |
+| The Shallows | Yes | Jun 17 | | | |
+| Gordon Lodge | Yes | Jun 17 | | | |
+| Blacksmith Inn | Yes | Jun 17 | | | |
+| Thorp House Inn | Yes | Jun 17 | | | |
+| White Gull Inn | Yes | Jun 17 | | | |
+| Open Hearth Lodge | Yes | Jun 17 | | | |
+| Inn at Little Sister Hill | Yes | Jun 17 | | | |
