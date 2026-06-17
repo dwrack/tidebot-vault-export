@@ -1,6 +1,6 @@
 # Local Partner Outreach Emails — Batch 2
 
-Same approach as the priority 10: super short, real compliment first, soft "you interested?" ask, no commission. Signed as Jeffrey, fill [phone]/[email]. Compliments pulled from each operator's site/reviews June 2026.
+Same approach as the priority 10: super short, real compliment first, soft "you interested?" ask, no commission. Signed as Nolan, fill [phone]/[email]. Compliments pulled from each operator's site/reviews June 2026.
 
 Operators with no public email are marked **IG DM** (send from the @nolapartybarge account). The standard body works for both, just trim the greeting for DMs.
 
@@ -21,9 +21,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -40,9 +40,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a good fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -59,9 +59,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -78,9 +78,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a good fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -97,9 +97,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -116,9 +116,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -135,9 +135,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -154,9 +154,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a good fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -173,9 +173,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -192,9 +192,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -211,9 +211,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -230,9 +230,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -249,9 +249,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -268,9 +268,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -287,9 +287,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -306,9 +306,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -325,9 +325,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -344,9 +344,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -363,9 +363,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of visitors, 
 No pitch, just feels like a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
@@ -382,9 +382,9 @@ We run NOLA Party Barge, group cruises out on the water. Same kind of guests, di
 No pitch, just thought it'd be a fit. Worth a quick chat?
 
 Thanks,
-Jeffrey
+Nolan
 NOLA Party Barge
-[phone] / [email]
+(504) 264-1056
 
 ---
 
