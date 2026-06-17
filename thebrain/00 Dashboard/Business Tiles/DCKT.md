@@ -5,19 +5,19 @@ city: Door County
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 58
+ad_spend_yday: 104
 status: yellow
 alert: "data stale — FH scrape missing"
-updated: 2026-06-16
+updated: 2026-06-17
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH stale (last good 6/11). No booking numbers.
-- Google yday $58, 4 conv, cost/conv $14.47, ROAS 1.22 vs 7-day 9.24. One-day standard dip but all-conv value $1,070 (booking/phone lag). Watch, don't touch.
-- Meta yday $0 on Door County account.
-- GSC strong: "door county kayak tours" 29 clicks pos 1.8. "cave point county park" 802 impressions pos 12 — ranking opportunity.
-- IG 'human billboard' reel (6/14) 88 likes / 11 comments → reply review.
+- FH stale (last good 6/11). No booking numbers. (6/15 manifest fragments showed real checked-in bookings.)
+- Google yday $90, 5 conv, cost/conv $18.02, ROAS 2.22 vs 7-day 6.6. One-day dip is attribution lag — all-conv value logged $1,399 yday. Watch, don't touch.
+- Meta yday $14: awareness $12, retargeting $2. Low and steady.
+- GSC strong: "door county kayak tours" 27 clicks pos 1.7. "cave point county park" 794 impressions pos 12 + "fish creek wisconsin" 286 imp pos 11 — ranking opportunities just off page one.
+- IG best tour account: 6/14 'human billboard' reel 93 likes / 12 comments → reply (likely hiring Qs).
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
