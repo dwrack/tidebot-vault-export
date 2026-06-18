@@ -38,6 +38,15 @@ actually converts. One series at a time, ~2x/week.
 
 IG treatment is **mixed on purpose** (single featured / 3-up tappable strip / follow-only band)
 so the format stays fresh across 12 sends. Every IG image is tappable and opens the real post.
+**Each email gets its own distinct posts** (no recycling the same frames across emails).
+
+**Layout (David's calls, 2026-06-18):**
+- **Headline leads, photo farther down.** Order = logo → gold rule → kicker + serif headline →
+  opening line → hero photo → rest of body → IG block → footer. The text is what's above the
+  fold, not a big image.
+- **No cold-weather photos.** Never use shots with people in coats / snow / ice in a summer
+  series (it reads off-season). Verified-out: the icy e-bike shot `DUWaZ6TkuBY` and the winter
+  ice-shard `DYSWcBriASD`. Prefer people-free summer shoreline/water shots when unsure.
 
 ## Instagram covers — DONE
 Pulled the real post covers off the live @doorcountykayaktours feed (via og:image), optimized,
