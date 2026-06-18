@@ -5,6 +5,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Check and lubricate the ferrule on one paddle that was sticky. _(Katie (audio log), 2026-06-18)_
 - [ ] [Guide log] Monitor water levels and speed for future tours. _(Dillon (audio log), 2026-06-05)_
 
 
