@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Replace broken paddle _(Kelly (audio log), 2026-06-18)_
 - [ ] [Guide log] Address the leak in the identified kayak. _(Jessica (audio log), 2026-06-14)_
 - [ ] [Guide log] Re-check and address the trailer's flat tire, which was previously inflated. _(Bella (audio log), 2026-06-06)_
 - [ ] [Guide log] Remind staff to take out and clean all garbage for Wednesday's pickup. _(Bella (audio log), 2026-06-01)_
