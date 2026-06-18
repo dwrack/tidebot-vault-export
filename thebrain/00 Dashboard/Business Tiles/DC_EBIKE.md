@@ -7,15 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing; site SEO blocked on WP login"
-updated: 2026-06-17
+alert: "GSC empty; site SEO blocked on WP login"
+updated: 2026-06-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH stale (last good 6/11). No booking numbers.
+- No FH scrape coverage; no booking numbers.
 - No dedicated spend yesterday.
-- GSC: zero rows again. No organic traction. SEO fixes still staged, blocked on WP login (FH re-enabling 'kayak' username).
+- GSC: zero rows again on doorcountykayak.com. No organic traction. Confirm property is still verified. SEO fixes staged, blocked on WP login (FH re-enabling 'kayak' username).
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

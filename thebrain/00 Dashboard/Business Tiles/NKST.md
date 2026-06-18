@@ -5,19 +5,20 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 43
+ad_spend_yday: 168
 status: yellow
-alert: "data stale — FH scrape missing; IG API permission error"
-updated: 2026-06-17
+alert: "data stale — FH scrape blocked; IG API permission error"
+updated: 2026-06-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH stale (last good 6/11). No booking numbers.
-- Meta yday $43: Google-reviews retargeting $33 (freq 2.0, creative tiring) → 0 purchase; email-lead campaign $10 → 7 leads at $1.46 (good, keep running).
-- GA4 yday ~225 sessions: fb 79 (top), IG 57, direct 42 (2 conv), google 40 (5 conv). Social is the #1 driver. (GA4 doesn't capture FH bookings.)
-- GSC near-empty on www property (single-impression queries) despite ~40 google sessions/day — likely non-www variant. Reconcile property.
-- Watched 'Airboat vs Kayak': STILL FLAT — 0 GSC, page absent from GA4 pagePaths (baseline 3 views). 15 days post-publish, not indexed. Needs internal links from Manchac + 'swamp tours compared' pages.
+- FH scrape BLOCKED (403, 2 days). No booking numbers.
+- Ad spend $168 = Meta $39 + NOLA Google umbrella $129 (combined NKST/NPB SmartAds, can't split).
+- Meta WIN: reviews-retargeting $30 → 1 purchase $913.50, 30.6x ROAS. Best single conversion in the portfolio yesterday. Candidate to scale. Email-lead campaign $10 → 2 leads.
+- GA4 yday ~225 sessions: fb 79 (top), google 53 (4 conv), direct 46 (1 conv), IG 52. Social #1 driver. (GA4 doesn't capture FH bookings.)
+- GSC: all impressions, 0 clicks in window on www property despite 53 google sessions/day — non-www variant likely. Reconcile property.
+- Watched 'Airboat vs Kayak': STILL FLAT — 0 GSC, absent from GA4 pagePaths (baseline ~3 views). 16 days post-publish, not indexed. Needs internal links from Manchac + 'swamp tours compared' pages.
 - IG: only account still failing — error #10 app permission. Reconnect kayaknola token.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
