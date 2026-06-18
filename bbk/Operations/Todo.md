@@ -9,6 +9,7 @@
 
 
 ## Low Priority
+- [ ] [Guide log] Rinse out kayak due to sand and mud from runoff. _(Jaidyn (audio log), 2026-06-18)_
 
 
 ---
