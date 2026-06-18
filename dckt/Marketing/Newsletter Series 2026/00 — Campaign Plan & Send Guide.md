@@ -20,7 +20,7 @@ Built June 17 2026. Everything lives in `~/Projects/dckt-tools/newsletter-2026/`
 
 | # | Send | Theme | Subject | Primary CTA |
 |---|------|-------|---------|-------------|
-| 01 | Wed Jun 24 | Cave Point clarity | The water is so clear it looks fake | Cave Point half-day |
+| 01 | ASAP (before Sun Jun 21) | Father's Day gift card | Last-minute Father's Day gift, sorted | Gift card |
 | 02 | Sat Jun 27 | Door Bluff shipwreck | There is a 130 year old shipwreck down there | Door Bluff half-day |
 | 03 | Wed Jul 1 | E-bike to the caves | The easiest way to reach Cave Point | E-bike tour / rental |
 | 04 | Sat Jul 4 | First-timer reassurance | First time in a kayak? You are exactly who this is for | Cave Point |
