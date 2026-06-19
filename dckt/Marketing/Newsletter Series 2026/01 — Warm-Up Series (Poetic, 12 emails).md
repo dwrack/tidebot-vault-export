@@ -92,13 +92,15 @@ the source, re-upload same filename, bump `ASSET_V` in `engage-build.mjs`.
   **FareHarbor ref report** for "this email drove N bookings," GA4 for clicks/sessions only.
   See [[feedback_ga4_fareharbor_attribution]], [[reference_deposit_model_ads_value]].
 
-## Sister-crews cross-promo (bat-led) — added Jun 19
-A dark-teal band on **E04, E08, E12** (`sister: true`), leading with the bats:
-- **Austin Kayak Tours** — Congress Ave bridge sunset bat tour (`/sunset-bat-bridge-kayak-tour/`)
-- **Buffalo Bayou Kayak (Houston)** — Waugh Dr bridge bat tour (`/kayak-tours/houston-bat-bridge-kayak-tour/`)
-- Underneath: New Orleans Kayak Swamp Tours (Manchac, gators) + Brew City Kayak (Milwaukee).
+## Sister-crews cross-promo (bat + swamp led) — added Jun 19
+A dark-teal band on **E04, E05, E06, E08, E09, E12** (`sister: true`, 6 of 12 — David wanted MORE
+coverage + MORE DRAW, not bigger placement). Three featured crews, punchy hooks:
+- **Austin Kayak Tours** — Congress Ave bridge, 1.5M bats (`/sunset-bat-bridge-kayak-tour/`)
+- **Buffalo Bayou Kayak (Houston)** — Waugh Dr bridge bats (`/kayak-tours/houston-bat-bridge-kayak-tour/`)
+- **New Orleans Kayak Swamp Tours (NKST)** — Manchac cypress swamp + gators (`/tours/swamp-kayak-tours/manchac-mystic-kayak-tour/`)
+- Secondary line: Brew City Kayak (Milwaukee).
 All sister links tracked: `?ref=dckt_warmup&utm_source=dckt_newsletter&utm_medium=email&utm_campaign=sister_bats`
 (stamps each sister's own FareHarbor). Data in `SISTERS` in engage-emails.mjs; flip `sister: true`
-on any email to add the band elsewhere.
+on any email to widen/narrow coverage. E01/E02 (wk1 opener) stay pure DCKT on purpose.
 
 Signed "The crew at Door County Kayak Tours" (never David's name, per outbound rule).
