@@ -38,6 +38,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Set up a PFD washing station and implement a mandatory policy for washing PFDs after every tour to improve hygiene and guest experience. _(Nick Napolitano (audio log), 2026-06-19)_
 - [ ] [Guide log] Van needs to be refueled. _(Michelle (audio log), 2026-06-17)_
 - [ ] [Guide log] Obtain cleaning supplies for the vans. _(Nick Napoda (audio log), 2026-06-15)_
 - [ ] [Guide log] Replace missing screwdriver in guide bag. _(Nick Nevada (audio log), 2026-06-15)_
