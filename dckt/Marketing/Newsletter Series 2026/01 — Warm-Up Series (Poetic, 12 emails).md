@@ -57,16 +57,18 @@ summer/water frames in rotation:
   `ig-DMyouEcJzKB` sunset collage · `ig-DZWA1qEJO9o` kayaks in evening light.
 - Skipped duds: winter ice shot, a near-blank fog frame, and a text-graphic with a cut-off eagle.
 
-## What David / Lea still need to do before send
-1. **Hero photos (only open item).** Every email currently uses the one uploaded hero
-   (`hero-cave-point-kayak.jpg`) as a placeholder so nothing renders broken. For real variety,
-   drop a landscape photo per email into S3 as the filename in `engage-emails.mjs` (`hero.img`),
-   then add it to `HAVE_HERO` in `engage-build.mjs`. Shot list:
-   - 01 glassy dawn water · 02 a single still kayak / driftwood · 03 clear water over rock ·
-     04 fish boil at the boil-over · 05 cherry orchard / red cherries · 06 sunset on the shore ·
-     07 a family rafted together · 08 driftwood on a beach · 09 e-bike on a shore trail ·
-     10 mirror-flat sunrise · 11 early fall color · 12 paddling into the sea caves.
-2. **Approve copy + cadence**, then warm the list in waves.
+## Heroes — DONE (unique per email)
+Each email has its OWN landscape hero (real DCKT photos pulled from the website media library
+via WP REST, optimized, uploaded to S3 `dckt-email-assets/email/hero-*.jpg`):
+01 Cave Point aerial · 02 foggy still Cave Point · 03 clear water over rock · 04 paddlers coming
+off the water · 05 ripe cherries on the branch · 06 kayakers in a pink sunset · 07 group of boats
++ guide · 08 kayak-POV bluff shoreline · 09 fat-tire e-bikes · 10 misty dawn at Cana · 11 the
+winding fall-color road · 12 silhouette under a sea cave (capstone). To swap any later: replace
+the source, re-upload same filename, bump `ASSET_V` in `engage-build.mjs`.
+
+## What's left before send
+1. **Approve copy + cadence.**
+2. **Warm the list in waves** (`send-ses.mjs` style --limit 500 / 3000 / all).
 
 ## Verified food facts used (do not drift from these)
 - **Fish boil (E04):** whitefish + red potatoes + onions over open wood fire; boilmaster throws
