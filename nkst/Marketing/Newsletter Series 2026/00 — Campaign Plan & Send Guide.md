@@ -23,7 +23,7 @@ After email 01 is warmed in, emails 02-16 can go to the full list on their sched
 ## The 16 emails (2x/week — Wed + Sat)
 | # | slug | angle |
 |---|------|-------|
-| 01 | beat-the-heat | FEATURE layout. Early-morning Manchac, beat the heat. Cards: Manchac/Honey Island/Shell Bank. Cross-promo to DCKT + Austin. |
+| 01 | beat-the-heat | FEATURE layout. Beat-the-heat hero. Feature block LEADS with the NEW Bayou Bienvenue self-guided rental (15 min from the French Quarter). Four cards: Bayou Bienvenue (NEW) / Manchac / Honey Island / Shell Bank. Cross-promo to DCKT + Austin. |
 | 02 | alligators | Wildlife / gators up close from a kayak (Honey Island) |
 | 03 | first-timer | Never kayaked? Flat calm water, you won't tip |
 | 04 | two-swamps | Manchac vs Honey Island, do both |
