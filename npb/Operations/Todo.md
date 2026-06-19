@@ -96,4 +96,14 @@
 
 ---
 
+## Merged from NOLA Party Barge To Do — April 2026.md (consolidated 2026-06-19)
+
+### Strategy Docs — Review & Pick Winners (April 23)
+- [ ] **Davey: Read** `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` — pick 10-15 favorites to implement this season
+- [ ] **Davey: Read** `Marketing/Profit Psych — NPB Strategies.md` — pick 5-7 per pillar for Q2 2026
+- [ ] Assign owners (JT, Jeffrey, captains) to selected strategies
+- [ ] Add selected items as actionable tasks in this to-do list
+
+---
+
 *Updated April 19, 2026 from JT Sides Q&A + David's prioritization. See plan: `resilient-munching-spring.md`*

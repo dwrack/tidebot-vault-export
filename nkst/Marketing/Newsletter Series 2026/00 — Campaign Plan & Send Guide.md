@@ -8,13 +8,25 @@ Built 2026-06-17. Code lives at `~/Projects/nkst-tools/newsletter-2026/`. Cloned
 ## The list
 31,599 deduped, valid recipients from the FareHarbor export. This list has barely been mailed, so warmup discipline matters. All of David's businesses share ONE SES sending reputation (account 193742567930), so a sloppy blast here can hurt DCKT and the others. Take email 01 slow.
 
-## Warmup plan for email 01 (do NOT one-shot 31k)
-1. Wave 1: `--go --limit 500`. Wait a few hours. Pull SES bounces/complaints.
-2. Wave 2: `--go --limit 3000`. Wait. Add any bounced addresses to `bounces.json`, rerun `node recipients.mjs`.
-3. Wave 3: the rest (`--go`, confirm the count when prompted).
-After email 01 is warmed in, emails 02-16 can go to the full list on their schedule (still watch bounces).
+## Warmup plan for email 01 — 8 waves (do NOT one-shot 31k)
+The list is cold and 28k at once is too big. Ramp it over 8 non-overlapping waves using `--offset` + `--limit`. Check bounces/complaints between waves; add hard bounces to `bounces.json` and rerun `node recipients.mjs` before the next wave.
 
-`--limit N` always sends to the FIRST N of recipients.json, so waves overlap. That is fine for a first send to a cold list (everyone hears from us once, earliest names twice) but if you want clean non-overlapping waves, slice recipients.json by hand. For a warmup, overlap is acceptable.
+| Wave | offset | limit | window | status |
+|------|--------|-------|--------|--------|
+| 1 | 0      | 500   | 0–500       | SENT 2026-06-19, 500 ok / 0 fail |
+| 2 | 500    | 1000  | 500–1,500   | SENT 2026-06-19, 1000 ok / 0 fail |
+| 3 | 1500   | 2000  | 1,500–3,500 | pending |
+| 4 | 3500   | 3500  | 3,500–7,000 | pending |
+| 5 | 7000   | 5000  | 7,000–12,000 | pending |
+| 6 | 12000  | 6000  | 12,000–18,000 | pending |
+| 7 | 18000  | 6500  | 18,000–24,500 | pending |
+| 8 | 24500  | 7099  | 24,500–31,599 | pending |
+
+Command per wave (confirm the count when prompted):
+```
+node send-ses.mjs --email em01-beat-the-heat --go --offset <OFF> --limit <LIM>
+```
+`--offset` makes waves non-overlapping (without it, `--limit` always re-sends from the top). Space the bigger waves (5–8) out and watch the bounce/complaint rate before each. After email 01 is warmed in, emails 02-16 can go to the full list on their schedule (still watch bounces).
 
 ## Suppression / unsubscribes
 - Unsubscribes: footer mailto + List-Unsubscribe header both point to info@neworleanskayakswamptours.com with subject "Unsubscribe." Watch that inbox. Add anyone who asks to `unsubscribes.json` as `[{"email":"x@y.com"}]`, then `node recipients.mjs`.

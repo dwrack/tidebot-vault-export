@@ -92,4 +92,76 @@
 - [ ] FareHarbor to GHL booking automation connected (B)
 
 ---
+
+## Merged from DCKT To Do — April 2026.md (consolidated 2026-06-19)
+
+*Note: the website photo-reference cleanup item lives in High Priority above (more detailed) and was not duplicated here.*
+
+### Strategy Docs — Review & Pick Winners (April 23)
+- [ ] **Davey: Read** `Ideas/Unreasonable Hospitality — 100 Ideas for DCKT.md` — pick 10-15 favorites to implement this season
+- [ ] **Davey: Read** `Marketing/Profit Psych — DCKT Strategies.md` — pick 5-7 per pillar for 2026 season
+- [ ] Assign owners (Isabella, Leah, guides) to selected strategies
+- [ ] Add selected items as actionable tasks in this to-do list
+
+### Content / SEO — Story-Driven Blog Rewrites
+*Pivot away from generic listicles. Target: hyper-specific, first-person posts. See memory `project_blog_rewrite_backlog.md`.*
+- [ ] **Publish #1:** "Why We Stopped Renting Sit-In Kayaks: The Day a Customer Couldn't Get Out of the Cockpit" — replaces `/blog/different-types-of-kayaks-pros-and-cons/` (currently 279 views / 46% bounce). Draft ready.
+- [ ] **Publish #2:** "The Door Bluff Shipwreck: What You Actually See, and Why You Don't Need a Clear-Bottom Kayak to See It" — new post targeting Lakeshore Adventures' clear-bottom search intent. Draft ready.
+  - [ ] Verify Lakeshore's clear-bottom kayak model is not self-bailing before publishing
+  - [ ] Confirm number of named wrecks at Door Bluff to plug in
+- [ ] **Davey: Answer story-mining questions** so I can draft the next 10 posts (Cave Point close calls, sauna stories, gear that didn't last, real restaurant pick, real bar with bartender's name, weather close calls, etc.)
+- [ ] **Kill or rewrite** these high-bounce posts after answers come in:
+  - `/blog/5-reasons-experiences-make-better-gifts/` (95% bounce — just kill?)
+  - `/blog/7-adventurous-things-to-do-outside-in-door-county-today/` (71% bounce)
+  - `/blog/7-must-visit-door-county-parks/` (71% bounce)
+  - `/blog/best-restaurant/` (72% bounce)
+  - `/blog/is-it-expensive-to-live-in-door-county-an-insightful-guide/` (wrong audience — kill?)
+
+### Cave Point SEO Buildout (paused on GSC)
+- [ ] **Unblock GSC:** add `doorcountykayaking@gmail.com` as Owner in Search Console for `https://www.doorcountykayaktours.com/` (currently siteUnverifiedUser, blocking keyword data)
+- [ ] After GSC unblock: resume Cave Point page buildout (5 drafted, 11 outlined in `SEO Content/Cave Point/`)
+
+### OpenCX Email + SMS Setup
+- [ ] Add 3 DNS records to verify `doorcountykayaktours.com` in OpenCX (see `project_opencx_email_dns.md`)
+- [ ] After verification: swap SendGrid for native OpenCX sending
+- [ ] Buy phone number for SMS follow-ups
+- [ ] Build NOLA Party Barge follow-up system on same pattern
+
+### People (from April list)
+- [ ] Bella onboarding: finish system access + send pre-call questions email (see `project_bella_onboarding.md`)
+- [ ] Lea coaching plan: build "marketing engineer" onboarding doc before summer start
+- [ ] Cedar chatbot: confirm pricing aligned to `reference_dckt_pricing.md` (not the old $59 figure), then deploy
+
+### Google Ads
+- [ ] Continue creative refresh on Campaign #1 (PMax restored, cycling negatives applied)
+
+### Gift Cards
+- 87 codes remaining. No alert needed (threshold is <20).
+
+### Pre-Season Supplies
+- [ ] Get cups for the juice on 1/2 day tours (half-day = $145, juice break is part of the experience — make sure we have enough on hand before season opens)
+- [ ] **Waterproof phone cases** — order pouches for resale at the shop (memory: dry bags + phone dry bags already sold separately; restock for season)
+
+### Merch Program — Logo Apparel for Resale
+**Timeline:** Bella to bring solutions Wed May 6 → order placed by Fri May 8
+- [ ] Bella: surface 2-3 supplier solutions for Wed May 6 call
+- [ ] Decide shirt blank: Vapor Apparel UPF 50+ vs SanMar Sport-Tek PosiCharge vs Columbia PFG (see `Merch Plan — May 2026.md`)
+- [ ] Send cost-comparison email to 3-4 vendors (draft in Merch Plan doc)
+- [ ] Lock retail pricing for sun shirts (short + long sleeve), hoodies, hats, sunglasses
+- [ ] Logo files confirmed: vector .ai + transparent PNG ready (screen print + sublimation + leather patch). No embroidery this run.
+- [ ] Place order Friday May 8 — first batch sized for ~6-8 weeks of summer sell-through
+- [ ] Set up shop display + POS SKUs in FareHarbor / Square (whichever runs the retail side)
+
+### Insurance — Lock It Down
+- [ ] Confirm current policy carrier + renewal date — who's the broker?
+- [ ] Verify coverage: general liability, watercraft, guide liability, property
+- [ ] If guides are W2: confirm workers' comp active. If 1099: independent contractor agreements signed
+- [ ] Get a second broker quote if Assured Partners is involved (Lone Star Kayak had an E&O gap with them)
+
+### Property / Equipment
+*From inbox quick note (June 2026)*
+- [ ] Powerwash the surrey bikes
+- [ ] Hook up the garage to WiFi
+
+---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*
