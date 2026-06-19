@@ -7,15 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape blocked"
-updated: 2026-06-18
+alert: "not in FH scrape set — no booking data"
+updated: 2026-06-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH scrape BLOCKED (403, 2 days). No booking numbers.
-- No dedicated Meta/Google spend yesterday (rolls into NOLA umbrella).
-- GSC fine, thin: "pedal bar new orleans" 3 clicks pos 3.7, "nola bike bar" pos 7.2, "bike tour new orleans" 1 click on 17 imp pos 11.6 (room to climb on generics).
+- Not included in the FareHarbor scrape (only 6 core shortnames pulled). No booking numbers.
+- No dedicated spend yesterday (rolls into NOLA umbrella).
+- GSC small but clean: "pedal bar new orleans" 3 clicks pos 1.4; "sip and cycle new orleans" 2 clicks pos 2.0; "pedal bike new orleans" 3 clicks pos 1.0.
+- Brand term "nola bike bar" sitting pos 8.6 — should rank top-3 for own name, worth a look.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

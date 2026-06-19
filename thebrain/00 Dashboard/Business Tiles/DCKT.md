@@ -2,22 +2,22 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 0
-lead_time_days: 0
-ad_spend_yday: 118
-status: yellow
-alert: "data stale — FH scrape blocked"
-updated: 2026-06-18
+bookings_today: 21
+revenue_today: 1215
+lead_time_days: 30
+ad_spend_yday: 147
+status: green
+alert: null
+updated: 2026-06-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH scrape BLOCKED (403, 2 days). No booking numbers.
-- Google yday $70, 1.73 conv, cost/conv $40.34, ROAS 3.51 vs 7-day 5.6. Softer day, all-conv value $745 logged. Watch, don't touch.
-- Meta yday $48: awareness $40 (freq 2.5, 0.9% CTR — fatiguing), retargeting $9. Awareness objective, no purchases tracked.
-- GSC strong: "door county kayak tours" 30 clicks pos 2.0, "door county kayaking" 10 clicks pos 2.0. "cave point county park" 802 imp pos 12 + "fish creek wisconsin" 292 imp pos 11 — ranking opportunities just off page one.
-- IG best tour account: 6/14 'human billboard' reel 98 likes / 12 comments → reply pass (likely hiring Qs).
+- Strong day: 21 booked / $1,215 on 6/18. Today's manifest full — Cave Point Kayak Tour 8am + multiple availabilities.
+- Google yday $106, 5.4 conv, ROAS 2.65 (vs 4.39 7d — dipped but profitable, don't touch).
+- Meta yday $41: General Awareness $33 (1 initiate-checkout) + Retargeting $8 → 1 purchase $31.65, 3.9 ROAS. Only tracked Meta purchase in the portfolio yesterday.
+- GSC best in portfolio: "door county kayak tours" 29 clicks pos 1.8; "kayak door county" 8 clicks pos 1.1; "can you kayak while pregnant" 6 clicks (129 impr) still pulling. "cave point county park" 812 imp pos 12 — opportunity just off page one.
+- IG: "human billboard" reel 6/14 — 99 likes, 12 comments. >5 unanswered, route for reply review (likely hiring Qs).
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

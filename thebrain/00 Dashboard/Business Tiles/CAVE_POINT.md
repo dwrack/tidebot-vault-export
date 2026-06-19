@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "GSC empty; IG dormant"
-updated: 2026-06-18
+alert: "GSC empty — site unranked"
+updated: 2026-06-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FH scrape coverage; no booking numbers.
+- Not in the FH scrape set. No booking numbers.
 - No dedicated spend yesterday.
-- GSC: zero rows on cavepointpp.com. No organic traction. (DCKT ranks for "cave point county park" at 802 imp pos 12 — consider redirecting that demand here or capturing it on DCKT.)
-- IG dormant.
+- GSC (cavepointpp.com): zero rows. No organic traction. DCKT ranks for "cave point county park" (812 imp pos 12) — capture that demand on DCKT or redirect it here.
+- IG @cavepointpp not pulled this run.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

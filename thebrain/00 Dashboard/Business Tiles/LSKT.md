@@ -2,21 +2,21 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 0
-revenue_today: 0
-lead_time_days: 0
-ad_spend_yday: 78
+bookings_today: 5
+revenue_today: 861
+lead_time_days: 5
+ad_spend_yday: 75
 status: yellow
-alert: "data stale — FH blocked; Google ROAS 1.11 yday, watch"
-updated: 2026-06-18
+alert: "Google ROAS 0.72 yest vs 4.13 7d — watch today"
+updated: 2026-06-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH scrape BLOCKED (403, 2 days). No booking numbers.
-- Google yday $77.87 (shared acct w/ AKT), 1 conv, $86.60 value, ROAS 1.11, CPA $77.87 vs 7-day ROAS 4.16 / CPA $48. Soft single day inside variance — if it repeats today, trim budget.
-- Meta yday $0 on Austin account — Google carrying Austin.
-- GSC: "lone star kayak tours" 6 clicks pos 1.1; "kayaking near me" pos 8.7; "austin kayak" pos 15.5 (both improvable non-brand).
+- 5 booked / $861 on 6/18. Today: Sunset Bat Bridge 8pm, mostly no-shows/$0 right now.
+- Google yday $75, 0.9 conv, ROAS 0.72, $84 CPA vs 4.13 / $46.58 7d. Second soft day this week — if it repeats, trim budget. Customer 8497383499 (shared w/ AKT).
+- Meta acct: no spend yesterday — Google carrying Austin.
+- GSC: brand locked ("lone star kayak tours" 7 clicks pos 1.1). Category still weak: "austin kayak" pos 15.6, "kayaking austin texas" pos 11.5 — room to climb.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

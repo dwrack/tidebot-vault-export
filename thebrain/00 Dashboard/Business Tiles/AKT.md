@@ -7,16 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH blocked; 2 old 1-3★ unverified"
-updated: 2026-06-18
+alert: "2 old 1-3★ unverified (day 10+) — GBP still blind"
+updated: 2026-06-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH scrape BLOCKED (403, 2 days). No booking numbers.
-- Ad spend runs through the shared LSKT Google account (8497383499); no separate AKT line.
-- IG: nothing new pulled. Going stale.
-- Reviews: BLIND — GBP 403. Two 1-3★ flagged 6/15 still can't be confirmed/answered, now day 9+.
+- No separate FH shortname scraped; shares Google account 8497383499 with LSKT, so spend/bookings can't be split out.
+- IG @austinkayaktours not pulled this run.
+- Reviews: BLIND — GBP 403. Two 1-3★ flagged 6/15 still can't be confirmed/answered, now day 10+. Fixing GBP scope clears this.
 <!-- live:end -->
 
 ## Quick links

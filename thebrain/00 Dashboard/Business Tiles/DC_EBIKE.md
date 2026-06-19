@@ -8,14 +8,14 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "GSC empty; site SEO blocked on WP login"
-updated: 2026-06-18
+updated: 2026-06-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FH scrape coverage; no booking numbers.
+- Not in the FH scrape set. No booking numbers.
 - No dedicated spend yesterday.
-- GSC: zero rows again on doorcountykayak.com. No organic traction. Confirm property is still verified. SEO fixes staged, blocked on WP login (FH re-enabling 'kayak' username).
+- GSC (doorcountykayak.com): zero rows again — no organic traction. Confirm property still verified. SEO fixes staged, blocked on WP login (FH re-enabling 'kayak' username).
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
