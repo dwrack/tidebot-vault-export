@@ -8,7 +8,16 @@ Built 2026-06-17. Code lives at `~/Projects/nkst-tools/newsletter-2026/`. Cloned
 ## The list
 31,599 deduped, valid recipients from the FareHarbor export. This list has barely been mailed, so warmup discipline matters. All of David's businesses share ONE SES sending reputation (account 193742567930), so a sloppy blast here can hurt DCKT and the others. Take email 01 slow.
 
-## Warmup plan for email 01 — 8 waves (do NOT one-shot 31k)
+## CURRENT PLAN (2026-06-19): slow daily drip over ~1 week
+After 1,500 went out in 2 manual waves and the opt-out rate came in high (~5%), David's call: drip the rest slowly over the coming week to re-engage/clean the stale list, accepting the unsubscribes.
+
+- **Automated:** launchd job `com.nkst.newsletter-drip` runs `drip.sh` daily at 10:00. Each run: checks SES is HEALTHY, refreshes suppression (`recipients.mjs` pulls SES opt-outs), then sends the next `DAILY=4500` not-yet-sent recipients via `send-ses.mjs --go --yes --limit 4500`.
+- **Ledger:** `ledger-em01-beat-the-heat.json` records everyone already sent (seeded with the original 1,500). The drip skips anyone in it, so nobody is mailed twice. ~30,000 remaining as of 2026-06-19 = ~7 daily batches.
+- **Unsubscribes now auto-handled:** hosted one-click link writes opt-outs to SES suppression; `recipients.mjs` drops them next run. No more unsubscribe emails to the inbox (only the original 1,500 batch, which used the old mailto link, may still trickle a few for a couple days).
+- Logs: `drip-launchd.log` and `drip.log`. Adjust pace by editing `DAILY` in `drip.sh`.
+- **To stop the drip:** `launchctl unload ~/Library/LaunchAgents/com.nkst.newsletter-drip.plist`. When the ledger covers everyone, the job just no-ops.
+
+## (superseded) Warmup plan for email 01 — 8 waves (do NOT one-shot 31k)
 The list is cold and 28k at once is too big. Ramp it over 8 non-overlapping waves using `--offset` + `--limit`. Check bounces/complaints between waves; add hard bounces to `bounces.json` and rerun `node recipients.mjs` before the next wave.
 
 | Wave | offset | limit | window | status |
