@@ -16,13 +16,10 @@ Across the portfolio we get a lot of first-time bookings and not much repeat. Is
 3. **Send** via Amazon SES **us-west-2** (production region) for a real list, or the business Gmail for a smaller batch / more personal feel. Past guests are a warm list, so a personable Gmail send is fine for the pilot.
 4. **Read the answers**, then turn the top reason into a fix (a returning-guest offer, a post-tour "what's next" email, a locals season pass, etc.). This feeds the email-funnel framework.
 
-## Pilot business — NEEDS DAVID'S PICK
-Recommendation: pick a business with a big enough past-customer list AND realistic repeat potential.
-- **Buffalo Bayou Kayak** or a **Houston barge (HPB/NPB)** — local/Houston + group-driven, highest realistic repeat + referral rate. Best signal.
-- **DCKT / NKST** — biggest lists, but destination-tourist heavy, so "why don't they come back" may just be "they live 1,000 miles away." Still useful for cross-sell/referral.
-
-Once David picks, build the list + draft the email for that one, send, measure, then roll the winning version to the others.
+## Pilot business — DECIDED: a Houston barge (HPB / NPB)
+David's pick. Group/event-driven (bachelorettes, birthdays, corporate) with strong "we should do this again" pull and high referral potential, so it gives the cleanest read on what actually drives a rebooking. Build the past-customer list from FareHarbor for the Houston barge fleet, draft the survey, send, measure, then roll the winning version to the others (Buffalo Bayou next, DCKT/NKST for the cross-sell/referral angle).
 
 ## Outbound rules
 - Plain ASCII subject, specific to the content. Short. Clear ask.
 - Never sign David's real name — send as the business / manager persona.
+- **Unsubscribe must be a clickable hosted link that self-processes the opt-out** (a page/endpoint that records the unsubscribe and shows a confirmation). NEVER "reply to unsubscribe" and never a `mailto:` unsubscribe. David doesn't want opt-outs landing in any business inbox. This applies to this survey and every bulk/win-back send.
