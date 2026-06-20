@@ -106,4 +106,21 @@
 
 ---
 
+## TideBot + Crew Accountability (from Jeffrey call, June 2026)
+
+Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. David got a FareHarbor API key, so TideBot can now watch the booking calendar and chase missing captain's logs.
+
+### 🔴 Do first
+- [ ] Sit down with Jeffrey (30-60 min, mid-week) to connect FareHarbor + Slack and grant TideBot booking-watch permission — **Owner: David/Jeffrey**
+- [ ] Help Jeffrey batch-assign captain + crew to ALL weekday tours in FareHarbor (precondition for the bot to fire) — **Owner: Jeffrey**
+- [ ] Configure TideBot escalation: if no captain check-in within 20 min of a booked departure → SMS, then call, then ping Jeffrey — **Owner: David**
+- [ ] Set captain's-log field checklist in TideBot: vessel, captain/crew, headcount, waivers signed, weather (wind dir + knots), safety briefing, departed/returned — **Owner: David**
+- [ ] Establish "no completed log, no pay for the trip" as crew policy; Jeffrey communicates it as team discipline — **Owner: Jeffrey**
+- [ ] Assign check-in person to watch Slack after each departure as a human backstop during rollout — **Owner: Jeffrey/JT**
+
+### Later (after logs are consistent)
+- [ ] Build deckhand content-coaching + auto-edit/auto-post pipeline (YouTube/TikTok/IG); crew as content engine + next revenue lever — **Owner: David**
+
+---
+
 *Updated April 19, 2026 from JT Sides Q&A + David's prioritization. See plan: `resilient-munching-spring.md`*
