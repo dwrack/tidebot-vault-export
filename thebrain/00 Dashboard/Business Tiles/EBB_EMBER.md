@@ -8,13 +8,13 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-19
+updated: 2026-06-20
 tile_type: business
 ---
 
 <!-- live:start -->
 - No Meta or Google ad accounts (by design). No FH scrape coverage.
-- IG most active in the portfolio: Summer Punch Pass reel 6/18 (49 likes, 4 comments), invite reel 6/15 (45 likes). The Punch Pass push is landing.
+- IG most active in the portfolio: Downpour reel 6/19 (78 likes, 3 comments), Summer Punch Pass 6/18 (53 likes, 4 comments), summer invite 6/15 (46 likes). The Punch Pass push is landing.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

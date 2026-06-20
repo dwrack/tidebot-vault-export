@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "generated_at": "2026-06-20T13:47:45.843Z",
+    "for_date": "2026-06-19",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "booked_count": 9,
+      "booked_revenue": 823,
+      "ran_count": 2,
+      "ran_revenue": 130
+    },
+    "houstonpedalbarge": {
+      "booked_count": 4,
+      "booked_revenue": 1388,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "lonestarkayaktours": {
+      "booked_count": 10,
+      "booked_revenue": 693,
+      "ran_count": 7,
+      "ran_revenue": 1348
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 3,
+      "booked_revenue": 1380,
+      "ran_count": 1,
+      "ran_revenue": 260
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 30,
+      "booked_revenue": 8658,
+      "ran_count": 30,
+      "ran_revenue": 6634
+    }
+  },
+  "errors": {
+    "doorcountykayaktours": "Error: apiRequestContext.post: read ETIMEDOUT\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/doorcountykayaktours/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS"
+  }
+}

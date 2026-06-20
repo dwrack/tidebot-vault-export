@@ -2,22 +2,23 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 21
-revenue_today: 1215
+bookings_today: 0
+revenue_today: 7160
 lead_time_days: 30
-ad_spend_yday: 147
+ad_spend_yday: 162
 status: green
 alert: null
-updated: 2026-06-19
+updated: 2026-06-20
 tile_type: business
 ---
 
 <!-- live:start -->
-- Strong day: 21 booked / $1,215 on 6/18. Today's manifest full — Cave Point Kayak Tour 8am + multiple availabilities.
-- Google yday $106, 5.4 conv, ROAS 2.65 (vs 4.39 7d — dipped but profitable, don't touch).
-- Meta yday $41: General Awareness $33 (1 initiate-checkout) + Retargeting $8 → 1 purchase $31.65, 3.9 ROAS. Only tracked Meta purchase in the portfolio yesterday.
-- GSC best in portfolio: "door county kayak tours" 29 clicks pos 1.8; "kayak door county" 8 clicks pos 1.1; "can you kayak while pregnant" 6 clicks (129 impr) still pulling. "cave point county park" 812 imp pos 12 — opportunity just off page one.
-- IG: "human billboard" reel 6/14 — 99 likes, 12 comments. >5 unanswered, route for reply review (likely hiring Qs).
+- Strong Friday: FareHarbor revenue $7,160.51 on 06-19 (per EOD labor email), 56.4 labor hrs. Portfolio FH scrape itself is stale (last good 06-18: 21 booked / $1,215).
+- Google yday $115, 9.68 conv, ROAS 5.91 (7d $607, ROAS 3.98). Best-run paid account, don't touch.
+- Meta yday $47: Awareness $39 → 2 purch (ROAS 1.80) + Retargeting $8 → 1 purch (ROAS 1.92). Only tracked Meta purchases outside NOLA.
+- IG: "human billboard" reel 6/14 — 101 likes, 12 comments. >5 unanswered, route for reply review (likely hiring Qs).
+- Homebase: Isabella Sgriccia still clocked in past 40 hrs — flag manager for OT.
+- GSC: blind today (google MCP down).
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 

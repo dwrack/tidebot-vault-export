@@ -8,15 +8,15 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-19
+updated: 2026-06-20
 tile_type: business
 ---
 
 <!-- live:start -->
 - Umbrella funnel, not a direct bookable — routes to NPB / Bike Bar / NKST.
 - No dedicated spend yesterday.
-- GSC thin and off-intent (ATV/alligator queries dominate). "plantation tour new orleans" 3 clicks pos 4.0. Funnel page still not pulling SEO weight.
-- IG @admirenola not pulled this run.
+- GSC: blind today (google MCP down). Last read: thin and off-intent (ATV/alligator queries dominate).
+- IG @admirenola dormant — last post 2019.
 - Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
