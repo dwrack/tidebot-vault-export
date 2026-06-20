@@ -49,3 +49,53 @@ Every recent top post is a **video reel**. Photos and link posts underperform vi
 ## Brand-voice caveat
 
 Most pre-2024 winners say "Nola Pedal Barge / cycle boat." The angles transfer; the pedal wording does not. Every recycled caption is modernized to the party barge framing and the current booking domain **NolaPartyBarges.com**.
+
+---
+
+# Instagram (@nolapartybarge) — Full History (2019–2026)
+
+758 posts pulled live 2026-06-20, Feb 2019 → Jun 2026. Ranked by likes + comments (IG reach/impressions deprecated by Meta). **Median engagement uses median, not average, to ignore viral outliers.**
+
+## IG by year (avg eng/post)
+
+| Year | Posts | Likes | Comments | Avg eng |
+|------|-------|-------|----------|---------|
+| 2019 | 8 | 296 | 45 | 43 |
+| 2020 | 84 | 2,203 | 214 | 29 |
+| 2021 | 126 | 3,491 | 302 | 30 |
+| 2022 | 93 | 5,348 | 422 | 62 |
+| 2023 | 126 | 6,426 | 484 | 55 |
+| **2024** | **156** | **51,781** | **1,745** | **343** |
+| 2025 | 123 | 6,277 | 408 | 54 |
+| 2026 | 42 | 6,620 | 107 | 160 |
+
+**IG is the healthier channel.** Baseline median engagement 31 vs Facebook's 12 (2.5x). IG never cratered the way FB did — it's been steadier and is rebounding strong in 2026. Reels beat feed posts (median 36 vs 26). IG deserves at least as much attention as FB.
+
+IG all-time monster: **35,068** (34,135 likes) — 2024-05-04 reel "Rules are rules! Don't be late!" Pure humor/personality. #2 was "making moments with strangers on the bayou" (10,020). The IG winners are NOT the salesy posts.
+
+## The key insight: the two platforms reward different content
+
+By median engagement, above each platform's baseline:
+
+| Angle | FB median | IG median | Read |
+|-------|-----------|-----------|------|
+| Giveaway / tag-a-friend | **41** | **40** | Wins big on BOTH. Highest-leverage move on either platform. |
+| Proximity "15 min from Quarter" | 22 | 36 | Strong both; ages best on FB (still 16 in 2024+). |
+| Ranked / #1 / award social proof | — | 37 | IG loves it (n=144). Underused on FB. |
+| Humor / personality / POV | low | 36 | IG only. The 35k reel. FB doesn't reward it. |
+| Strangers / emotional "moments" | low | 32 (**48 in 2024+, rising**) | IG's rising star. Authentic storytelling. |
+| Weather / cooler / heated | 13 | 30–35 | Durable evergreen, both. |
+| Party/dance energy | 15 | 34 | Solid baseline filler, both. |
+| Sunset | 9 (below) | 28 (below) | Weakest theme on both — pretty but doesn't drive engagement. |
+
+**Facebook** rewards practical reminders: proximity, weather, book-now urgency, and *longer* captions (>200 chars median 19 vs <80 chars median 8). Booking URLs do NOT hurt FB engagement here.
+
+**Instagram** rewards personality: humor, emotional "strangers become friends" storytelling, and "#1 ranked" social proof. Save the salesy stuff for FB.
+
+## What this means going forward
+
+1. **Run a tag-a-friend giveaway** — the single best-performing theme on both platforms by median, not just by outlier.
+2. **Don't cross-post identically.** FB gets the practical/proximity/weather angle; IG gets humor + emotional + social-proof. The daily auto-poster captions lean FB-practical (correct for FB); IG versions should be reworked.
+3. **Lean into IG** — it's 2.5x healthier and steadier than FB.
+4. **Drop sunset as a lead angle** — weakest theme on both; use it as B-roll backdrop, not the hook.
+5. **Mine the "strangers/moments" emotional angle on IG** — it's rising (48 median in 2024+) and underused.
