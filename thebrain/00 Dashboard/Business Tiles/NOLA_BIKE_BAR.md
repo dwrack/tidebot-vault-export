@@ -8,16 +8,16 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "not in FH scrape; revive-or-sell decision open"
-updated: 2026-06-20
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- Not included in the FareHarbor scrape (only 6 core shortnames pulled). No booking numbers.
+- Not included in the FareHarbor scrape. No booking numbers.
 - No dedicated spend yesterday (rolls into NOLA umbrella).
-- GSC: blind today (google MCP down). Last read: brand term "nola bike bar" sitting pos 8.6 — should rank top-3 for own name.
 - Revive-or-sell decision still open (exploring sale to other NOLA operators).
-- Reviews: BLIND — GBP 403.
+- Reviews: BACK ONLINE — 4.8 listing, all current reviews replied. Street vehicle (3 bikes), not a vessel.
+- GSC: blind today (google MCP down).
 <!-- live:end -->
 
 ## Quick links

@@ -3,23 +3,22 @@ business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
 bookings_today: 0
-revenue_today: 7160
+revenue_today: 0
 lead_time_days: 30
-ad_spend_yday: 162
-status: green
-alert: null
-updated: 2026-06-20
+ad_spend_yday: 128
+status: yellow
+alert: "FH scrape stale; Meta Awareness ROAS 0.59 — watch"
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- Strong Friday: FareHarbor revenue $7,160.51 on 06-19 (per EOD labor email), 56.4 labor hrs. Portfolio FH scrape itself is stale (last good 06-18: 21 booked / $1,215).
-- Google yday $115, 9.68 conv, ROAS 5.91 (7d $607, ROAS 3.98). Best-run paid account, don't touch.
-- Meta yday $47: Awareness $39 → 2 purch (ROAS 1.80) + Retargeting $8 → 1 purch (ROAS 1.92). Only tracked Meta purchases outside NOLA.
-- IG: "human billboard" reel 6/14 — 101 likes, 12 comments. >5 unanswered, route for reply review (likely hiring Qs).
-- Homebase: Isabella Sgriccia still clocked in past 40 hrs — flag manager for OT.
-- GSC: blind today (google MCP down).
-- Reviews: BLIND — GBP 403.
+- FH stale. Last good 06-18: 21 booked / $1,215 (06-19 errored on the scrape).
+- Google yday $85, 6 conv, 3.93 ROAS (7d $603, 3.31 ROAS). Best-run paid account, don't touch.
+- Meta yday $43: Retargeting $7.90 → 2 purch, 6.01 ROAS (strong); General Awareness $35.55 → 1 purch, $21.10, 0.59 ROAS — weakest line in portfolio. Retargeting is carrying it. Trim Awareness if sub-1 holds.
+- IG: 6/14 "human billboard" reel — 103 likes, 12 comments. >5, route for reply review (likely hiring Qs).
+- Reviews: BACK ONLINE. Chloe Dvorak 5★ (6/20) owed a thank-you.
+- GSC/GA4: blind today (google MCP down).
 <!-- live:end -->
 
 ## Quick links

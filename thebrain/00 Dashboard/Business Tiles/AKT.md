@@ -6,17 +6,17 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "2 old 1-3★ unverified (day 11) — GBP still blind"
-updated: 2026-06-20
+status: red
+alert: "2 unreplied 1★ (30+ days) — answer now that GBP is back"
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
 - No separate FH shortname scraped; shares Google account 8497383499 with LSKT, so spend/bookings can't be split out.
-- IG @austinkayaktours active — posting the July 250 celebration (6/19, 6/18). Good cadence.
-- GSC (austinkayaktours.com): blind today (google MCP down). Hit a 180-clicks / 28-day milestone per GSC email — positive.
-- Reviews: BLIND — GBP 403. Two 1-3★ flagged 6/15 still can't be confirmed/answered, now day 11. Fixing GBP scope clears this.
+- **Reviews: BACK ONLINE — and the 2 flagged 1★ are now confirmed and answerable.** César Garza (5/19, "rip-off") and clossanz (4/18, "soaked in sewage water... makeshift dock"), both 30+ days unreplied on a 4.9 / 135-review listing. Top action item today — draft + post replies.
+- IG @austinkayaktours active — July "big 250" event + bat-bridge tours. Good cadence.
+- GSC (austinkayaktours.com): blind today (google MCP down).
 <!-- live:end -->
 
 ## Quick links

@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "generated_at": "2026-06-21T16:08:46.933Z",
+    "for_date": "2026-06-20",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {
+    "houstonpedalbarge": {
+      "booked_count": 4,
+      "booked_revenue": 544,
+      "ran_count": 7,
+      "ran_revenue": 1604
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 2,
+      "booked_revenue": 295,
+      "ran_count": 1,
+      "ran_revenue": 188
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 38,
+      "booked_revenue": 4950,
+      "ran_count": 74,
+      "ran_revenue": 15667
+    }
+  },
+  "errors": {
+    "buffalobayoukayak": "Error: apiRequestContext.post: read ECONNRESET\nCall log:\n  - → POST https://fareharbor.com/api/v1/companies/buffalobayoukayak/reports/advanced/\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X",
+    "doorcountykayaktours": "TimeoutError: apiRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - → GET https://fareharbor.com/api/v1/companies/doorcountykayaktours/reports/57332434/\n    - user-agent: Mozilla/5.0 (Macinto",
+    "lonestarkayaktours": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n"
+  }
+}

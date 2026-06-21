@@ -8,14 +8,14 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-20
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
 - No Meta or Google ad accounts (by design). No FH scrape coverage.
-- IG most active in the portfolio: Downpour reel 6/19 (78 likes, 3 comments), Summer Punch Pass 6/18 (53 likes, 4 comments), summer invite 6/15 (46 likes). The Punch Pass push is landing.
-- Reviews: BLIND — GBP 403.
+- IG most active in the portfolio: Downpour cold-plunge reel 6/19 (104 likes, 4 comments), Summer Punch Pass 6/18 (54 likes, 4 comments), summer invite 6/15 (47 likes). The Punch Pass push is landing.
+- Reviews: BACK ONLINE — 4.9 listing, recent 5★ flowing (Justin/Diana/Mia 6/17) and owed thank-yous. "Best PDX/Vancouver river day" theme repeating.
 <!-- live:end -->
 
 ## Quick links

@@ -6,18 +6,18 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-20
+status: yellow
+alert: "IG dormant since 2019 — revive or stop counting it"
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
 - Umbrella funnel, not a direct bookable — routes to NPB / Bike Bar / NKST.
 - No dedicated spend yesterday.
-- GSC: blind today (google MCP down). Last read: thin and off-intent (ATV/alligator queries dominate).
-- IG @admirenola dormant — last post 2019.
-- Reviews: BLIND — GBP 403.
+- IG @admirenola dormant — newest post 2019. Revive or drop from the active roster.
+- Reviews: BACK ONLINE; listing reviews current and replied.
+- GSC/GA4: blind today (google MCP down).
 <!-- live:end -->
 
 ## Quick links

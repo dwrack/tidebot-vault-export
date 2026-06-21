@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-20
+status: yellow
+alert: "IG dormant since Nov 2025; no GBP/GSC/Ads coverage"
+updated: 2026-06-21
 tile_type: business
 ---
 

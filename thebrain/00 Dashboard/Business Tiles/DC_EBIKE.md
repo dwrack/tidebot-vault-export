@@ -8,15 +8,15 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "GSC blind today; SEO blocked on WP login"
-updated: 2026-06-20
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
 - Not in the FH scrape set. No booking numbers.
 - No dedicated spend yesterday.
-- GSC (doorcountykayak.com): blind today (google MCP down). Last reads showed zero rows — no organic traction. SEO fixes staged, blocked on WP login (FH re-enabling 'kayak' username).
-- Reviews: BLIND — GBP 403.
+- GSC (doorcountykayak.com): blind today (google MCP down). SEO fixes staged, blocked on WP login (FH re-enabling 'kayak' username).
+- Reviews: BACK ONLINE — 4.9 listing, all replied (low review volume, 18 total).
 <!-- live:end -->
 
 ## Quick links

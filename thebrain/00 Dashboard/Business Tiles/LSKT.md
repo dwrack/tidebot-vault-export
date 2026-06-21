@@ -5,19 +5,19 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 5
-ad_spend_yday: 81
+ad_spend_yday: 80
 status: yellow
-alert: "FH scrape stale; Google ROAS 3.02 — watch"
-updated: 2026-06-20
+alert: "FH scrape stale"
+updated: 2026-06-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH scrape stale (last good 06-18: 5 booked / $861). No fresh booking numbers today.
-- Google yday $80.60, 2 conv, $40.30 CPA, ROAS 3.02 (7d $538, $39.83 CPA, ROAS 4.53). CPA in line with 7-day; ROAS softer but profitable. Watch, no action. Customer 8497383499 (shared w/ AKT).
+- FH stale. Last good 06-19: 10 booked / $693.
+- Google yday $79.66, 3 conv, 6.45 ROAS (7d $538, 6.15 ROAS). Best account in portfolio. Customer 8497383499 (shared w/ AKT).
 - Meta acct: no spend yesterday — Google carrying Austin.
+- Reviews: BACK ONLINE. One old 1★ (Anna B, Jul 2024, never got promised photos) still unreplied — low priority, a one-line reply closes it.
 - GSC: blind today (google MCP down).
-- Reviews: BLIND — GBP 403.
 <!-- live:end -->
 
 ## Quick links
