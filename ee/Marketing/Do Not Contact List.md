@@ -2,7 +2,7 @@
 
 *Master suppression list. Scrub against this before EVERY email blast and every Twilio SMS blast. Email and SMS are treated as one opt-out: if someone opts out of one, they come off both.*
 
-Last updated: 2026-06-05
+Last updated: 2026-06-21
 
 ---
 
@@ -52,6 +52,14 @@ Added to SendGrid global suppression 2026-06-05. Both are bare email addresses w
 |------|-------|----------------|
 | (unknown) | eriophorum.callitrix@gmail.com | no |
 | (unknown) | dejaic28@yahoo.com | no |
+
+## June 2026 — membership cancellations / direct opt-outs (1)
+
+Not from a blast. Asked to cancel and come off contact directly. Added to SendGrid global suppression 2026-06-21 (verified).
+
+| Name | Email | Phone on file? | Note |
+|------|-------|----------------|------|
+| Jennifer Wessler | yorefinnej@icloud.com | **yes — 805-815-5408** | Cancelled Ember 1 membership 2026-06-21 (airplane/jet noise). First opt-out WITH a phone — scrub from SMS too. Not in Master Contacts sheet. |
 
 ## April 2026 blast opt-outs (7) — from "Did you win and a thank you"
 
