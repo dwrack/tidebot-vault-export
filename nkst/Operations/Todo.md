@@ -38,6 +38,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Ensure Mercedes van is returned with a full tank of gas tomorrow after the 9 AM tour. _(Stephanie (audio log), 2026-06-21)_
 - [ ] [Guide log] Set up a PFD washing station and implement a mandatory policy for washing PFDs after every tour to improve hygiene and guest experience. _(Nick Napolitano (audio log), 2026-06-19)_
 - [ ] [Guide log] Van needs to be refueled. _(Michelle (audio log), 2026-06-17)_
 - [ ] [Guide log] Obtain cleaning supplies for the vans. _(Nick Napoda (audio log), 2026-06-15)_
