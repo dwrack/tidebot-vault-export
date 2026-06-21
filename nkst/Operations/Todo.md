@@ -85,6 +85,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Ensure Mercedes van is returned with a full tank of gas after the 9 AM tour tomorrow. _(Stephanie (audio log), 2026-06-21)_
 - [ ] [Guide log] Check refrigerant levels in the black van's AC system or consider a recharge. _(Nick Nepoda (audio log), 2026-06-13)_
 - [ ] [Guide log] Nick is taking the van out for his next tour and post log. _(Stephanie (audio log), 2026-06-10)_
 - [ ] [Guide log] Promote summer tours with a 'half off for locals' special. _(Dylan P. (audio log), 2026-06-06)_
