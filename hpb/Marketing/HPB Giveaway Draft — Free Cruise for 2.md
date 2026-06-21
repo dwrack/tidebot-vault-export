@@ -1,5 +1,6 @@
-# HPB Giveaway Draft — Free Cruise for 2
-*Status: DRAFT, held for David's final approval before publishing. Drafted 2026-06-21.*
+# HPB Giveaway — Free Cruise for 2
+*Status: PUBLISHED 2026-06-21 to FB + IG (David approved). Winner announced Friday June 26.*
+*FB: https://www.facebook.com/reel/1714249803184491/ | IG: https://www.instagram.com/reel/DZ263gRDKws/*
 
 **Why this is the highest-leverage organic move:** tag-a-friend giveaways own the all-time top of both HPB platforms. FB's two biggest posts ever (45,640 and 13,208 engagements) were launch-era giveaways; 5 of IG's top 7 are giveaways. The mechanic forces comments + tags, which is exactly what Meta's reach algorithm rewards, and tagging recruits new followers for free. We simply stopped running them. This restarts that.
 
