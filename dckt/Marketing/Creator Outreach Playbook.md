@@ -191,4 +191,25 @@ Start small, see what hits, expand from there.
 
 ---
 
+## TikTok Creator Outreach (added June 2026)
+
+TikTok is its own channel now (@doorcountykayaktour). Our own analytics say the account lives almost entirely on Search, not For You, so creators with real Door County / Wisconsin reach are how we borrow distribution we can't get organically yet. Same philosophy as the rest of this doc: invite, don't transact. We never make a post a condition.
+
+**Who to target on TikTok:**
+- Wisconsin and Midwest outdoor/travel creators, 1K to 50K followers (micro beats mega, their audiences actually drive to Door County).
+- Door County travel and "things to do" accounts, plus Green Bay / Milwaukee / Chicago day-trip creators.
+- Niche fits: dog-travel creators (we allow dogs on tours), van/RV life, "hidden gem" and bucket-list accounts.
+
+**Where to find them on TikTok:**
+- Search: "door county," "things to do in door county," "wisconsin road trip," "midwest travel."
+- Hashtags: #doorcounty, #wisconsinadventure, #cavepoint, #travelwisconsin, #midwestisbest, #doorcountytiktok.
+- TikTok Studio > Viewers > "creators your viewers also watched" shows who our followers already follow.
+
+**DM template (TikTok, from the business account):**
+> Hey [name], love your Door County / Wisconsin stuff, especially [specific recent post]. We run the kayak tours out at Cave Point, the sea caves you can only reach by water. We'd love to have you out on a tour this season, on us, no strings and no posting requirement. Just come paddle. Want us to hold a spot?
+
+Sign as the business or the manager (Bella), never as David personally (house rule for all outbound). Pace it at 5 DMs a week and log them in the tracking table (note TikTok vs IG in the platform column).
+
+---
+
 *Questions? Flag David in Slack or text directly.*

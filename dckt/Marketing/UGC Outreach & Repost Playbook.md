@@ -133,6 +133,27 @@ After a repost has been live 5-7 days, check performance. Flag it if:
 
 ---
 
+## TikTok UGC (added June 2026)
+
+Now that @doorcountykayaktour is active, TikTok is both a place to find guest videos and a place to repost them. Reposting authentic guest footage is one of the few things that earns For You reach for a small account, and ours currently gets none.
+
+**Where to look on TikTok:**
+- Hashtags: #doorcountykayak, #cavepointkayak, #doorcounty, #wisconsinadventure.
+- Search: "door county kayak," "cave point kayak," "door county ebike."
+- Location tags: Door County, Cave Point County Park.
+- Check who tags or mentions @doorcountykayaktour (Activity tab) daily, same 2-minute habit as IG stories.
+
+**DM template (TikTok, from the business account):**
+> Hey [name]! Saw your video from your kayak tour with us, it's great. Mind if we repost it on our TikTok? We'd tag you and give full credit. Thanks!
+
+**Reposting on TikTok:**
+- Best route is TikTok's native Repost/Stitch/Duet when it fits, or re-upload the guest clip (with permission) and tag the creator in the caption.
+- Keep the caption short (under ~150 characters) + @creator tag + 3 to 5 hashtags (#doorcounty #cavepoint #kayaking).
+- Cadence: 1 to 2 guest reposts a week, ideally Thursday to Saturday when trip-planning peaks.
+- Always get a yes before reposting. Sign DMs as the business or Bella, never as David.
+
+---
+
 ## Tracking
 
 | Date | Creator | Platform | Permission | Reposted | Ad Flag |
