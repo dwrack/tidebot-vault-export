@@ -2,23 +2,23 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 3
+revenue_today: 720
 lead_time_days: 10
-ad_spend_yday: 19
-status: yellow
-alert: "FH stale; IG token broken (code 10)"
-updated: 2026-06-21
+ad_spend_yday: 38
+status: green
+alert: "IG token broken (code 10)"
+updated: 2026-06-22
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH stale. Last good 06-19: 3 booked / $1,380.
-- Meta yday $19: Google-reviews retargeting $10; email-lead campaign $9 → 4 leads.
-- Umbrella Google (Gravity NOLA 4378232023) covers NKST too — 11.81 ROAS over 7d, not splittable.
-- Watched 'Airboat vs Kayak': not readable today (google MCP down). Recheck when GSC returns.
-- IG @kayaknola: pull FAILED again (permission code 10) — only account still broken. Reconnect token.
-- Reviews: BACK ONLINE. Richard Metcalf 5★ (6/14) owed a thank-you. Haunted-swamp angle still good.
+- FH 6/21: 3 booked / $720; 3 ran / $1,055. Steady for a swamp run.
+- Meta yday $38: Retargeting/Google-Reviews $28 → 1 purch $120 (4.35 ROAS); email-lead campaign $11 → 3 leads.
+- Google via NOLA umbrella (4378232023) — strong (11.81 ROAS yday) but pooled, no brand split.
+- IG @kayaknola: pull FAILED again (permission code 10) — only IG account still broken. Reconnect token.
+- Reviews: 4 unreplied 5★ (latest Richard Metcalf 6/14, guide Michelle). Haunted-swamp angle still good.
+- Watched page (airboat-vs-kayak): unmeasurable today, google MCP down.
 <!-- live:end -->
 
 ## Quick links

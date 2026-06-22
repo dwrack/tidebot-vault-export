@@ -2,22 +2,22 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 0
+bookings_today: 19
+revenue_today: 1030
 lead_time_days: 30
-ad_spend_yday: 128
-status: yellow
-alert: "FH scrape stale; Meta Awareness ROAS 0.59 — watch"
-updated: 2026-06-21
+ad_spend_yday: 167
+status: green
+alert: null
+updated: 2026-06-22
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH stale. Last good 06-18: 21 booked / $1,215 (06-19 errored on the scrape).
-- Google yday $85, 6 conv, 3.93 ROAS (7d $603, 3.31 ROAS). Best-run paid account, don't touch.
-- Meta yday $43: Retargeting $7.90 → 2 purch, 6.01 ROAS (strong); General Awareness $35.55 → 1 purch, $21.10, 0.59 ROAS — weakest line in portfolio. Retargeting is carrying it. Trim Awareness if sub-1 holds.
-- IG: 6/14 "human billboard" reel — 103 likes, 12 comments. >5, route for reply review (likely hiring Qs).
-- Reviews: BACK ONLINE. Chloe Dvorak 5★ (6/20) owed a thank-you.
+- FH 6/21: 19 booked / $1,030 booked-rev; 17 tours ran / $4,003. Clean pull, healthy.
+- Google yday $123, 3.71 conv, 1.02 last-click ROAS but all-conv ≈10.8 ($1,326 value); 7d 3.29 ROAS. Fine, don't touch.
+- Meta yday $44: Retargeting $7.23 → 5 purch / $202 / 27.97 ROAS (tiny spend, huge return — consider scaling); Awareness $37 → 0 purch.
+- IG: 6/14 "human billboard" reel — 104 likes, 12 comments (>5, route for reply review, likely hiring Qs).
+- Reviews: 4 fresh 5★ from 6/21 unreplied (Cheyanne, Jon Decker, Jeannie "Lucas and Lea", Ace Rock).
 - GSC/GA4: blind today (google MCP down).
 <!-- live:end -->
 
