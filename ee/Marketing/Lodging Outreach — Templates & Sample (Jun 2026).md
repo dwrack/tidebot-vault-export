@@ -14,7 +14,7 @@ Voice: short, skimmable, concrete, no wellness buzzwords, no em dashes, max one 
 - No distances in copy: never write a drive time or "[X minutes] from you."
 
 **The Tuesday offers (two separate things, don't conflate):**
-- **Lodging partners (this outreach):** 2 free passes good for our service-industry Tuesdays, valid through Aug 31 2026. Giftable. Extended on reply (template #5). Code: **HOSPITALITY67** (100% off, Tuesdays only). Booking: ebbandember.com.
+- **Lodging partners (this outreach):** 2 free passes for the partner's **front-desk / staff to come experience it themselves** on a service-industry Tuesday, valid through Aug 31 2026. NOT for gifting to guests or friends (David's call, 2026-06-23). Extended on reply (template #5). **Code: a UNIQUE per-property Periode code, generated and emailed when that property replies** (100% off, Tuesdays only, limited to one redemption per sign-in), so redemptions tell us exactly who came. Suggested naming: short property name (e.g. OXFORD, INDIGO, SOCIETY). Log each code in the tracker's "code issued" column. Booking: ebbandember.com. (Per-property codes replace the single shared HOSPITALITY67 for partner use; confirm whether to retire HOSPITALITY67.)
 - **Public, service-industry-wide (restaurants, bars, etc.):** 50% off on Tuesdays. Code: **SERVICE** (50% off, Tuesdays only). Separate public promo, NOT the partner passes, and not mentioned in the partner emails.
 - Tuesday is now Ebb & Ember's service-industry social day. Monday Banya (Danesh) stays its own separate thing. The former "Silent Tuesday" moves to another weekday (new day TBD, future push).
 
@@ -40,7 +40,7 @@ Friendly note from a neighbor. We run Ebb & Ember, Portland's only floating saun
 
 Your front desk probably gets the "what's something we can't do anywhere else" question a lot. We tend to be a good answer to it, especially for folks who've already done the usual Portland list.
 
-No ask here. Just wanted to be on your radar as a recommendation for guests. If your team is ever curious to come see it for themselves, reply and we'll set it up.
+No ask here, just wanted to be on your radar for guests. If your team's ever curious to come see it for themselves, reply, we'd genuinely love to host you.
 
 Davey, Ebb & Ember
 ebbandember.com
@@ -58,7 +58,7 @@ Friendly note from a neighbor. We run Ebb & Ember, Portland's only floating saun
 
 Your front desk probably gets the "what's something we can't do anywhere else" question a lot. We tend to be a good answer to it, especially for folks who've already done the usual Portland list.
 
-No ask here. Just wanted to be on your radar as a recommendation for guests. If your team is ever curious to come see it for themselves, reply and we'll set it up.
+No ask here, just wanted to be on your radar for guests. If your team's ever curious to come see it for themselves, reply, we'd genuinely love to host you.
 
 Davey, Ebb & Ember
 ebbandember.com
@@ -120,9 +120,9 @@ Davey, Ebb & Ember
 
 Hey [name],
 
-Glad you're up for it. Tuesdays are our service-industry day, the fun, social one, so that's when I'd love to have you and your team come experience it. Here are two passes on us, good for any Tuesday through August 31. If you can't make a Tuesday, they're yours to gift to a guest or a friend, totally fine either way.
+Glad you're up for it. Tuesdays are our service-industry day, the fun, social one, and I'd love to have you and your front desk team come experience it. Here are two passes on us, good for any Tuesday through August 31.
 
-Just use code HOSPITALITY67 when you book a Tuesday at ebbandember.com. Bring a swimsuit and a towel, we handle the rest.
+Just use code [PROPERTY-CODE] when you book a Tuesday at ebbandember.com. Bring a swimsuit and a towel, we handle the rest.
 
 Once you've been out, if it feels like a fit for your guests, I'd love to talk about an easy way to point them our way. No pressure on that, the visit comes first.
 
