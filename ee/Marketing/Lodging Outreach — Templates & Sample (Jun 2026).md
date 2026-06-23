@@ -15,7 +15,12 @@ Voice: short, skimmable, concrete, no wellness buzzwords, no em dashes, max one 
 
 **Attach + socials on every first-touch send:**
 - Attach the hero photo: `Assets/Photos/2026-06-23 Sunny Session/web/ebb-ember-floating-sauna-covered-deck-kayaks-columbia-river.jpg` (covered cedar deck framing the sauna across the water with teal kayaks; cleared to use, ~461KB). For contact-form submissions that don't allow attachments, paste a link to the photo or the Instagram instead.
-- Signature carries the website + Instagram (instagram.com/ebbandember). Add other socials only if David wants them listed.
+- Signature lists all socials as hyperlinked words in the HTML send (recipient sees clean text, real URLs behind them):
+  - Instagram = https://instagram.com/ebbandember (clean, confirmed)
+  - Facebook = https://facebook.com/633573899839067 (page "Ebb & Ember Floating Saunas"; numeric URL works, no vanity confirmed)
+  - YouTube = https://youtube.com/channel/UCbzG-G9b9s9Uz49QZuGqOeQ (channel-ID URL works; YT auth currently down, swap to the @handle once known)
+  - Swap in cleaner @handles/vanity URLs if David provides them. Do NOT invent handles.
+  - For plain-text contact forms (no hyperlinks): write "Instagram: instagram.com/ebbandember, plus Ebb & Ember Floating Saunas on Facebook and YouTube."
 
 ---
 
@@ -34,7 +39,7 @@ No ask here. Just wanted to be on your radar as a recommendation for guests. If 
 
 Davey, Ebb & Ember
 ebbandember.com
-instagram.com/ebbandember
+Follow along: Instagram | Facebook | YouTube
 
 ---
 
@@ -52,7 +57,7 @@ No ask here. Just wanted to be on your radar as a recommendation for guests. If 
 
 Davey, Ebb & Ember
 ebbandember.com
-instagram.com/ebbandember
+Follow along: Instagram | Facebook | YouTube
 
 (Note: fill the [X minutes] drive time from Oxford Suites once verified, do not guess it.)
 
@@ -71,7 +76,7 @@ Felt like a fit with the crowd you host, so wanted to put us on your radar as a 
 
 Davey, Ebb & Ember
 ebbandember.com
-instagram.com/ebbandember
+Follow along: Instagram | Facebook | YouTube
 
 ---
 
@@ -88,7 +93,7 @@ A new way to connect your guests to the river, and an easy rec when they ask wha
 
 Davey, Ebb & Ember
 ebbandember.com
-instagram.com/ebbandember
+Follow along: Instagram | Facebook | YouTube
 
 (For a metro-wide STR manager who isn't really local, drop "from down the way" and use template 2's opener instead.)
 
