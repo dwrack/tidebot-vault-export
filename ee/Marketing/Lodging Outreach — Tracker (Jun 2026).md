@@ -66,11 +66,94 @@ Pass code + redemptions + link-live + reel-shared get filled in as the campaign 
 
 ---
 
+---
+
+# Expanded list (Round 2, Jun 2026) — ~62 net-new
+
+Deduped against the list above. Same scoring and status rules. Emails marked UNVERIFIED came from third-party directories or were masked, verify by phone/form before sending.
+
+## Round 2 — TIER A (hyperlocal: Hayden Island / Columbia / airport / Vancouver-close)
+
+| Pri | Property | Type | Email (status) | Guide page | Fit | Status | Notes |
+|---|---|---|---|---|---|---|---|
+| 1 | Jantzen Beach RV Resort | Campground/RV | reservations@jbrv.com (VERIFIED) + 800-443-7248 | Y — "What's Nearby" | 5 | todo | Literally on Hayden Island, minutes from the dock. Perfect "what to do nearby" partner. |
+| 2 | Portland Floating Home Getaway w/ Sauna (via Evolve) | Houseboat rental | message via Evolve listing 489951 (no public email) | via Evolve guidebook | 5 | todo | Direct neighbor: a Columbia floating home WITH a sauna. Reach owner through Evolve. Ideal cross-referral. |
+| 2 | Evolve (Portland market) | STR mgr (~26 PDX listings) | corporateinfo@evolve.com (VERIFIED, corp) + 877-818-1014 | Y — per-listing welcome guide | 4 | todo | Manages the floating-sauna home above + many PDX listings. Big doorway. |
+| 2 | Briar Rose Inn (Vancouver) | B&B/inn | sallreav@aol.com (VERIFIED) + 360-694-5710 | Y — nearby attractions | 4 | todo | 1908 Craftsman, downtown Vancouver, ~15 min. Already lists area things to do. |
+| 3 | Camas Boutique Hotel | Boutique hotel | reservations@camashotel.com (VERIFIED) + 360-834-5722 | Y — /things-to-do | 4 | todo | Small indie in Camas with a dedicated things-to-do page. Great link + referral fit. |
+| 3 | Green Keys Property Management | STR/long-term mgr | info@greenkeyspdx.com / katie@greenkeyspdx.com (VERIFIED) | likely per-listing | 4 | todo | Office at 7324 N Vincent Ave, N Portland, closest firm to Hayden Island. Confirm STR portfolio (leans long-term). |
+| 3 | Heathman Lodge (Vancouver) | Independent lodge | info@heathmanlodge.com (VERIFIED) + 360-254-3100 | likely | 4 | todo | Mountain-lodge vibe pairs naturally with a Nordic sauna ritual. |
+| 4 | Sojourn Suites Portland Airport | Aparthotel | ph 503-252-7500 | lobby/in-room only | 3 | todo | 3 mi from PDX, very close. Airport guests are prime walk-ups. |
+| 4 | Checkmate Rentals (Camas) | STR co-host | chad@checkmaterentals.com (VERIFIED) | likely | 3 | todo | Chad Phillis. Co-hosts Camas/Washougal listings, WA side upriver. |
+| 4 | "Floating home, front row" (Columbia) | Houseboat VRBO | message via VRBO 2434183 (no public email) | host guidebook | 4 | todo | Columbia floating home, hot tub + 2 kayaks. Wellness-minded guests. VERIFY listing still live. |
+| 4 | "Peaceful Retreat on the Columbia" (Hayden Is.) | Houseboat VRBO | message via VRBO 4883346ha | host guidebook | 4 | todo | Hayden Island, 15-min walk to Jantzen Beach. About as close as a listing gets. VERIFY live. |
+| 5 | "Unique Floating House Monthly" (Flamingo House) | Houseboat VRBO | message via VRBO 2524697 | host guidebook | 3 | todo | Monthly floating-home rental near airport. Mid-term guests = repeat potential. VERIFY live. |
+| 5 | "Tomahawk Island Cozy Houseboat" | Houseboat Airbnb | message via Airbnb 39676113 | host guidebook | 3 | todo | Tomahawk Bay Marina, Hayden Island. Flagged possibly inactive, VERIFY before outreach. |
+| 5 | Best Western Plus Vancouver Airport | Hotel | UNVERIFIED (info@/fd@bestwesternplusvancouverairport.com) | N | 3 | todo | Vancouver, airport-adjacent. Verify email by phone. |
+| 5 | Rama Inn Washougal | Independent/budget | form/ph 360-835-8591 | unknown | 2 | todo | Washougal river-town, Gorge-bound guests. Small indie, worth a call. |
+| 5 | Best Western Plus Port of Camas-Washougal | Hotel | form/booking | N | 2 | todo | Waterfront convention hotel, Washougal. Chain template. |
+| 5 | Holiday Inn Express Camas-Vancouver | Hotel | form/ph 360-335-3700 | N | 2 | todo | Camas/Vancouver, close to our side of the river. Chain. |
+| 6 | Portland Fairview RV Park | Campground/RV | corporate (Thousand Trails) UNVERIFIED | N | 2 | todo | 8 mi east, big park but corporate chain. Lower priority. |
+
+## Round 2 — TIER B (wider metro / downtown / unique stays)
+
+| Pri | Property | Type | Email (status) | Guide page | Fit | Status | Notes |
+|---|---|---|---|---|---|---|---|
+| 3 | The Mark Spencer Hotel | Independent boutique | hospitality@markspencer.com (VERIFIED) + 503-224-3293 | Y — "Local Area" pages | 4 | todo | Independent, curates its own local-attractions section. Strong link candidate. |
+| 3 | River's Edge Hotel Portland | Independent boutique | UNVERIFIED (info@/sales@riversedgehotel.com) + 503-802-5800 | Y — /portland "Explore" | 4 | todo | Willamette waterfront boutique. On-brand river-to-river story. Verify email. |
+| 3 | The Hotel Zags | Independent boutique | form (email masked) + 503-484-1084 | Y — "Experience Portland" blog | 4 | todo | Already publishes a curated Portland blog. Strong editable-page candidate. |
+| 3 | Lakeshore Inn (Lake Oswego) | Independent boutique | Stay@theLakeshoreInn.com (VERIFIED) + 503-636-9679 | unknown | 4 | todo | Lakefront, small, owner-run. Very likely to recommend a local experience. |
+| 4 | Hotel Vance, Portland (Tribute) | Boutique chain | form + 503-334-2167 | Y — "Explore The Area" | 3 | todo | Design boutique downtown with an editable area page. No public email, use form. |
+| 4 | Evermore Guesthouse (Division Inns) | Guesthouse | reception@divisioninns.com (VERIFIED) + 503-206-6509 | neighborhood blurbs | 4 | todo | SE Portland, hands-on hosts. One inbox covers Bluebird too. |
+| 4 | Bluebird Guesthouse (Division Inns) | Guesthouse | bluebird@/reception@divisioninns.com (VERIFIED) + 503-235-3089 | neighborhood blurbs | 4 | todo | Sister property to Evermore. One outreach covers both. |
+| 4 | The Benson Portland (Curio) | Boutique chain | UNVERIFIED (info@bensonhotel.com) + 503-228-2000 | unknown | 3 | todo | Historic landmark, concierge-forward. Verify email by phone. |
+| 4 | Heathman Hotel (Downtown) | Independent luxury | form/ph 503-241-4100 | likely | 3 | todo | Iconic indie luxury, concierge culture. Email UNVERIFIED, use form/phone. |
+| 4 | Hotel Lucia (Provenance) | Independent boutique | site form (provenance.com/hotel-lucia) | likely | 3 | todo | Design-forward indie group. No direct email, use form. |
+| 4 | Staypineapple, Hotel Rose | Boutique chain | hello@staypineapple.com (VERIFIED, brand-level) + 866-866-7977 | possible | 3 | todo | Playful downtown boutique. Ask brand to route to Hotel Rose. |
+| 4 | Hi-Lo Hotel (Autograph) | Boutique chain | form + 971-222-2100 (named FOM UNVERIFIED) | unknown | 3 | todo | Design boutique with its own .com, likely a real front-desk email. Verify. |
+| 4 | McMenamins Edgefield (Troutdale) | Unique/destination | form (mcmenamins.wufoo.com) + 503-669-8610 | possible | 3 | todo | Destination property, experience-minded guests. Route via form/phone. |
+| 5 | McMenamins Kennedy School | Unique/destination | McMenamins form + 503-249-3983 | possible | 3 | todo | NE Portland quirky-stay crowd, experience-seekers. |
+| 5 | McMenamins Grand Lodge (Forest Grove) | Unique/destination | McMenamins form + 503-992-9533 | possible | 2 | todo | Farther out, but exactly the "make a day of it" guest. |
+| 5 | Portland's White House | B&B/inn | form (no public email) + 503-610-2680 | N (could add) | 3 | todo | Irvington Victorian, ~15 min. Carol & Brian, innkeepers. Live (confirmed 2026). |
+| 5 | A Painted Lady Inn | B&B/inn | ph 503-706-0220 (no public email) | unknown | 3 | todo | Irvington Victorian, wellness-leaning tagline. |
+| 5 | Portland International Guesthouse | Guesthouse | ph 503-224-0500 (no public email) | unknown | 3 | todo | NW Nob Hill. Manager Tim known for personal email replies. |
+| 5 | Keybee | STR mgr | info@keybeehosting.com (VERIFIED) + 628-400-4333 | Y — digital guidebooks | 3 | todo | Active Portland co-host, local vendor network. |
+| 5 | Lux Property Management | STR + furnished mgr | Bryan@luxpropmgmt.com (VERIFIED) + 503-298-5035 | likely | 3 | todo | NW Portland, vacation + furnished monthly. |
+| 5 | iTrip Northwest | STR mgr | form + 503-230-0534 | Y — listing guidebooks | 3 | todo | Tigard-based, serves Portland + Vancouver + Gorge. Model built around local recs. |
+| 5 | AvantStay (Oregon) | STR mgr (luxury) | site form | Y — in-home guides | 3 | todo | Premium 4+ BR group homes. Pairs with a wellness add-on pitch. |
+| 6 | Vacasa (HQ Portland) | STR mgr (largest NA) | owner contact form | Y — app guidebook | 3 | todo | Portland-HQ'd, huge inventory. Hard to reach a human but enormous reach. |
+| 6 | Guestable (Vancouver) | STR co-host | site contact form | Y — guidebooks | 2 | todo | Markets Vancouver WA Airbnb management specifically. |
+| 6 | Be Our Guest Property Management | STR co-host | form + 541-508-5736 | likely | 2 | todo | Family-run, metro-east (Gresham/Troutdale/Sandy). More Gorge-bound traffic. |
+| 6 | One Fine BnB | STR mgr | form + 512-333-2553 | Y — guidebooks | 2 | todo | PDX neighborhoods, but TX area code. Confirm local presence. |
+| 6 | Crowne Plaza Portland-Downtown Conv Ctr | Chain | form/ph 503-233-2401 | N | 2 | todo | Convention traffic. Chain, phone outreach. |
+| 6 | Hyatt Regency Portland (Conv Ctr) | Chain | form/ph 971-222-1234 | N | 2 | todo | Big convention hotel near Lloyd. Pitch concierge by phone. |
+| 6 | The Nines (Luxury Collection) | Boutique chain | PR only (UNVERIFIED) + 503-222-9996 | unknown | 2 | todo | Top downtown luxury. No public front-desk email, route via phone. |
+| 6 | Embassy Suites Portland Downtown | Chain | UNVERIFIED + 503-279-9000 | N | 2 | todo | Downtown all-suite. Do NOT use the airport property's email. |
+| 6 | Larkspur Landing Hillsboro | Extended-stay | email masked + 503-681-2121 | unknown | 2 | todo | Hillsboro, longer guests seek experiences. Email UNVERIFIED. |
+| 6 | Hyatt House Portland/Beaverton | Chain | named GM UNVERIFIED + 971-306-5858 | N | 2 | todo | Newer Beaverton property. Verify contact. |
+| 6 | Embassy Suites Portland Tigard | Chain | UNVERIFIED + 503-644-4000 | N | 2 | todo | Tigard/Washington Square, all-suite leisure + group. |
+| 6 | Holiday Inn Portland I-5 S (Wilsonville) | Chain | UNVERIFIED + 503-682-2211 | N | 1 | todo | Southern metro edge. Chain. |
+| 6 | Hilton Garden Inn Clackamas | Chain | UNVERIFIED + 503-652-1515 | N | 1 | todo | Clackamas/conference. Recently rebranded from Monarch. |
+| 6 | Hampton Inn Portland East (Gresham) | Chain | form/ph 503-669-7000 | N | 1 | todo | East county. Named GM Lincoln Wakefield for a phone intro. |
+| 5 | Tenzen Springs & Cabins (Gorge) | Unique/wellness | site (no public email) + 509-800-7372 | unknown | 3 | hold? | Japanese/Scandi soaking-tub cabins. Closest brand soulmate BUT sells its own soak, semi-competitive. Judgment call. |
+| 6 | The Vintages Trailer Resort (Dayton) | Unique/glamping | form (email malformed) + 971-267-2130 | Y — /local | 2 | todo | Restored Airstream resort, wine country. Design-forward guests. |
+| 6 | Sandy Riverfront RV Resort (Troutdale) | Campground/RV | info@sandyrv.com (VERIFIED) + 503-665-6722 | unknown | 2 | todo | On the Sandy River, Gorge gateway. Outdoorsy guests. |
+| 6 | Zigzag Mountain Farm (Mt Hood) | Unique/glamping | info@zigzagmountainfarm.com (VERIFIED) + 503-922-3162 | N | 2 | todo | Yurts + tiny house at Mt Hood base (~1 hr). Self-managed site. |
+| 6 | Westcliff Lodge (Hood River) | Boutique inn/glamping | site (no public email) + 541-386-2992 | unknown | 2 | todo | Lodge + glamping over the Columbia in Hood River. River-view kinship. |
+| 6 | Columbia Gorge Getaways (Carson WA) | Unique/glamping | site (no public email) + 541-716-1678 | partial | 2 | todo | Family-run yurt/safari-tent glamping. Retreat crowd. |
+| 6 | Nob Hill Riverview B&B (St Helens) | B&B/inn | ph 503-396-5555 (no public email) | unknown | 2 | todo | Bluff over the Columbia, ~35 min downriver. Riverfront kinship. |
+| 6 | Inn the Ground / The Ground (Carlton) | B&B/inn | site (no public email) | unknown | 1 | todo | Regenerative-farm luxury B&B, wine country (~1 hr). High-end wellness guests. |
+| - | Simply VRM, Sojourn, etc. | - | - | - | - | - | (Already in main list above; not repeated.) |
+
+**Round 2 leftovers to chase:** The Garden Guesthouse on Hawthorne (no site/email found yet), "3-month Executive Floating Home" (aggregator listing only). Dig further if you want them.
+
 ## Excluded / corrected (do not send)
 
 - **CASCADA Thermal Springs + Hotel** — best audience match BUT a direct competitor (sells its own sauna circuit). Hold/skip. Asking a rival to send you guests.
 - **Ace Hotel Portland** — CLOSED under Ace (left 2024). Building is now Clyde Hotel by Kasa. Only pursue the successor if interested.
 - **Royal Sonesta Portland Downtown** (FKA Kimpton Hotel Monaco) — rebranded; no verified public email found. Left off until a contact is confirmed.
+- **Caravan The Tiny House Hotel**, **Lion and the Rose Inn**, **Everett Street Guesthouse** — all show permanently CLOSED. Skip.
+- **Hotel Modera** — now operates as **The Hotel Zags** (same 515 SW Clay address); use the Zags row.
 
 ## Campaign tracking columns (fill as we go)
 For each replied/active property, log: pass code issued, redemptions, comp visit date, link live (Y/N + URL), reel shared (Y/N), bookings attributed.
