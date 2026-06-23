@@ -69,10 +69,17 @@ A few fresh pins/day beats a one-time dump. Once API Standard access lands → m
 
 ## Status / next actions
 
-- [ ] Reconnect Playwright, investigate `Pin Our Products` (25.9k) board
-- [ ] Hide off-brand boards (Burning man, T-Shirts)
-- [ ] Confirm domain claim/verification in Pinterest settings
-- [ ] Rewrite profile bio with keywords
-- [ ] Create keyword boards
+Done 2026-06-22:
+- [x] Investigated `Pin Our Products` (25.9k) + `Eco Kayak Tours` — both gone from profile (were group/collab boards). Nothing to clean.
+- [x] **Archived 9 off-brand boards** (verified each shows "Archived"): Peace Signs, Funny, Burning man, Door County T-Shirts, Door County Friends, Stuff I Want to Make, Your Pinterest Likes, Gearage Cool Gear, Landscaping Ideas for Business. Public profile now shows only on-brand boards. Reversible (archived, not deleted).
+- [x] Confirmed `doorcountykayaktours.com` is **already claimed** (attribution live).
+- [x] **Rewrote bio** (live): "Door County kayak tours and e-bike rentals in Wisconsin. Paddle the sea caves at Cave Point and the Door Bluff cliffs. Beginner-friendly and family-friendly. Book early in the day for the calmest water."
+- [x] Fixed duplicate `playwright` MCP definition (removed project scope; kept persistent-profile local) — was causing disconnects.
+
+Remaining:
+- [ ] Create keyword boards (Door County Kayaking, Cave Point Sea Caves, Things to Do in Door County, Door County Travel Guide, Wisconsin Adventure Travel, Door County Ebike)
 - [ ] Crop top blog heroes to vertical 2:3, build first pin batch (town guides first)
-- [ ] Start API Standard access application (parallel)
+- [ ] Consider Pinterest's native **Instagram auto-publish** (link IG → posts auto-become Pins) and **RSS auto-publish** (blog → Pins)
+- [ ] Start API v5 Standard access application (parallel)
+
+Public boards kept: All Pins (147), Door County Cave Kayak Tours (13), Cool Door County (46), Door County Travel Tips (19), Best Places to Stay in Door County (2), Door County Events (2), Door County Biking (1).
