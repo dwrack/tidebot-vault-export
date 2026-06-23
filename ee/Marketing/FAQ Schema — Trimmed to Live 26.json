@@ -1,0 +1,208 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where is Ebb & Ember Located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are nestled on the Oregon shore of North Portland at Elevated Tides Marina. 173 Northeast Bridgeton Road, Portland, Oregon 97211."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the sauna hours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hours: Daily from 7:00am to 9:00pm Session Length: 1 hour and 45 minutes (+15 min transition) Off-Peak: Monday-Thursday all day, Friday before 5:00pm Peak: Friday 5:00pm-Sunday + holidays"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to be on time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The sauna stays docked at all times, so you can arrive anywhere in-between your session. No need to be there exactly at the start."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A swimsuit 2 towels (one for sitting on and one for drying off) A non-metallic water bottle Inside-only sandals (clean soles, please), or feel free to go barefoot"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are towels and robes provided, or should I bring my own?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We do not currently provide towels or robes. Please bring two towels: one to sit on in the sauna, and one to use after showering or cold plunging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a place to fill up my water bottle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there is a filtered water station in the locker lounge area to refill your water bottles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can we bring food or snacks for our session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’re welcome to bring snacks to enjoy on the rooftop or lounge during your visit. For safety, cleanliness, and to preserve the sauna experience, we ask that only water be brought inside the sauna."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any showers or bathrooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, freshwater showers are available for guests to rinse off on the boat, however, soap is strictly prohibited for environmental reasons. In the Locker Lounge area, there is a bathroom, as well as a heated shower with premium toiletries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there anywhere to hang out outside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We currently have a rooftop deck on the sauna, as well as a covered locker lounge on the dock where you can relax and take in the views. The locker lounge has a bathroom, shower, lockers and shoe cubbies, as well as a countertop to keep your snacks and drinks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I come if it's raining?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Rain and mist only enhance the experience, the ember always glows. Sauna bookings will not be cancelled due to weather ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you have a lost and found?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Items left behind are donated every two weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a safe place to store my stuff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we have keyed lockers on site, as well as cubbies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there staff onsite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Ebb & Ember is a self-guided experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are kids allowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Children ages 13+ are welcome on the sauna for private bookings only, provided a parent or legal guardian is present and has signed a waiver for the child. Social bookings are for guests aged 18+."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I plunge into the river?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NO LIFEGUARD ON DUTY — ENTER AT YOUR OWN RISK Guests may plunge into the river and use the platform ladders when exiting the water. This location is within an active marina . The river may contain strong currents, submerged or floating debris, boat traffic, electric current and other hazardous or unpredictable conditions. When in doubt, DON’T GO OUT! USE THE BUDDY SYSTEM for SAFETY! River & current can be FAST & EXTREMELY COLD. IE. Cold Shock, being swept under boat, docks, etc. Plan your plunge and exit. By entering the water, you acknowledge and accept these risks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I am pregnant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We do not recommend getting in the sauna while pregnant, please consult with your physician. However, you’re welcome to enjoy the rest of the boat, locker lounge, and landing area as there is plenty of room to relax outside of the sauna!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are animals allowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We love animals, but for the safety and comfort of all our guests, pets are not permitted inside Ebb & Ember's sauna facilities. This includes the sauna cabins, cold plunge area, relaxation lounge, and changing rooms. The high temperatures and humidity inside our saunas (typically 160–195°F) are unsafe for pets, who cannot regulate their body temperature the way humans do. Even brief exposure can cause heatstroke or serious harm. Service animals: Trained service animals as defined by the ADA are welcome on the dock. However, for their own safety, we ask that service animals not enter the sauna cabins or use the river to swim."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of sauna is it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is a propane fired sauna that can be wet or dry depending on your addition of water."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How hot does it get?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The propane sauna heats up to 190F and then turns off. At 170 degrees, it turns back on. During those changes in temperature, there can be a metal expansion sound. It is part of the process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the cold plunge / river temperature like year-round?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Click here for current speed and temperature ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my booking time or day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Go to your confirmation email Scroll to the bottom where it says “change booking” click that. Scroll to the bottom of the webpage Choose either “move booking” to move to another time or “cancel booking” to get a gift card code. Gift Card code will be stored under your “booking info” in your confirmation email for future reference."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does \"social sauna\" mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Social Sauna sessions are a shared community sauna experience . Guests from different groups may book the same time slot and enjoy the sauna together. Conversation, laughter, and meeting new people are all part of the atmosphere. Many guests enjoy the social energy — others simply relax quietly while sharing the space. Is the sauna supposed to be quiet? Social Sauna sessions are not silent sessions , but we do encourage a respectful volume and awareness of others in the space. Most groups naturally settle into a rhythm where people chat lightly or relax quietly between river plunges. Because the sauna is a self-guided, unstaffed experience , maintaining a respectful atmosphere relies on a bit of shared etiquette and awareness from everyone in the space . If someone seems unaware of this, feel free to politely communicate your needs so everyone can enjoy the experience. Our goal is for everyone to feel comfortable whether they came to socialize or unwind. What if I’m looking for a quieter experience? If you’re hoping for a more tranquil sauna session, we recommend: Best quieter times 7:00 AM sessions Monday–Thursday visits These times tend to attract guests who are looking for a more peaceful start to their day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many people fit in the sauna at once?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "8 for day to day bookings in the social sauna. If you book the social sauna for a private party, there can be up to 10 guests."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I have a question about a private booking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "How many people can I have? 10 guests total, max. But you can have as few as 1 person. When do I receive the door code? The door code is provided as soon as all waivers are signed . If you have fewer party members than the maximum, there is an option to reduce the amount of people in your party. Click \"Go to booking\" to adjust. Alternately, sign the waiver again to count for any \"empty” spots. Just reach out if there’s anything else you need cleared up. sauna@ebbandember.com"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a refund?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All Sales are final. You can cancel your booking and get a gift card to eventually transfer your opportunity to another time or person. How to cancel and get gift card: Go to your confirmation email Scroll to the bottom where it says “change booking” or “go to booking” click that. Scroll to the bottom of the webpage Click “cancel booking” to get a gift card code. Gift Card code will be stored under your “booking info” in your confirmation email for future reference."
+      }
+    }
+  ]
+}
+</script>
