@@ -76,10 +76,23 @@ Done 2026-06-22:
 - [x] **Rewrote bio** (live): "Door County kayak tours and e-bike rentals in Wisconsin. Paddle the sea caves at Cave Point and the Door Bluff cliffs. Beginner-friendly and family-friendly. Book early in the day for the calmest water."
 - [x] Fixed duplicate `playwright` MCP definition (removed project scope; kept persistent-profile local) — was causing disconnects.
 
+Done 2026-06-23 (Batch 01):
+- [x] Built reusable pin generator: `~/Projects/dckt-tools/pinterest/make_pin.py` (1000x1500, hook + CTA overlay).
+- [x] Created 5 keyword boards: Cave Point Sea Caves, Door County Travel Guide, Door County Kayaking, Door County E-Bike Rentals, Things to Do in Door County.
+- [x] **Published 8 hook-forward pins**, each linking to a real blog/tour page (manifest: `Pinterest Pins/_batch01_manifest.md`):
+  1. Cave Point Sea Caves (cliff jump) → cave-point blog
+  2. Clearest Water aerial → cave-point blog
+  3. Ephraim town guide → Ephraim post
+  4. Calmest Paddle (eco) → /kayak-tours/
+  5. E-Bike Rentals → /e-bike-tours/
+  6. Door Bluff Shipwreck → /kayak-tours/
+  7. Baileys Harbor town guide → Baileys post
+  8. 7 Adventurous Things to Do → things-to-do post
+
 Remaining:
-- [ ] Create keyword boards (Door County Kayaking, Cave Point Sea Caves, Things to Do in Door County, Door County Travel Guide, Wisconsin Adventure Travel, Door County Ebike)
-- [ ] Crop top blog heroes to vertical 2:3, build first pin batch (town guides first)
-- [ ] Consider Pinterest's native **Instagram auto-publish** (link IG → posts auto-become Pins) and **RSS auto-publish** (blog → Pins)
+- [ ] Batch 02: Fish Creek town, sauna, pregnancy-safe paddle, clear-bottom shipwreck angle, SUP
+- [ ] Set posting cadence / scheduler (don't dump all at once long-term)
+- [ ] Consider native **Instagram auto-publish** + **RSS auto-publish** to Pinterest
 - [ ] Start API v5 Standard access application (parallel)
 
 Public boards kept: All Pins (147), Door County Cave Kayak Tours (13), Cool Door County (46), Door County Travel Tips (19), Best Places to Stay in Door County (2), Door County Events (2), Door County Biking (1).
