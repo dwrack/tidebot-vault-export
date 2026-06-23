@@ -103,8 +103,16 @@ Davey, Ebb & Ember
 
 ---
 
-## Notes for the warm-visit / link conversation (later, in person or follow-up)
-- Soft link ask: "If you keep a things-to-do page for guests, a mention would mean a lot. I can send you a clean link and a line to use." Hand them the specific URL + suggested anchor.
-- Reel share: "If you ever repost local spots on your Instagram, tag @ebbandember and we'll share you right back."
-- Reciprocal: newsletter mention + social support via Kimberlynn.
-- Until the "things to do near Hayden Island" page exists, point links at ebbandember.com/experiences or the homepage.
+## The support menu (later, once they've visited — pick what's easy for them)
+
+The goal is broader than a backlink. After a partner has experienced it, offer a low-friction menu and let them choose whatever fits how they operate. Never ask for all of it at once. Lead with whatever is easiest for that property type.
+
+- **Front desk / staff recommendation** — the big one. Staff who've done it sell it for real. The comp passes exist to make this happen.
+- **Guest newsletter mention** — "If you send a guest newsletter, a line about us would mean a lot. I can send a short blurb and a photo."
+- **In-room / guest-book / things-to-do page** — add us to their guest guide. If it's a web page, that's also the backlink: hand them a clean URL + suggested anchor.
+- **Blog post / local feature** — for properties that publish a blog or local guide, offer to host their team for a session and supply photos so they can write it up.
+- **Social mention / share** — "If you ever repost local spots on Instagram, tag @ebbandember and we'll share you right back."
+- **Coverage** — if they have local press relationships or a marketing person, a joint angle (a Portland hotel + Portland's floating sauna) is an easy pitch.
+- **Reciprocal, always:** newsletter mention + social support via Kimberlynn. Make it a two-way street.
+
+Until the "things to do near Hayden Island" page exists, point any links at ebbandember.com/experiences or the homepage. Blog isn't live yet, so don't promise a blog link we can't deliver.
