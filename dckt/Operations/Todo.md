@@ -41,6 +41,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Check the specific kayak involved in the capsizing for any seal issues or cracks. _(Dan (audio log), 2026-06-23)_
 - [ ] [Guide log] Verify paddleboard fin pin, paddle, and pump are returned and accounted for during post-trip equipment check-in. _(Davey (audio log), 2026-06-18)_
 - [ ] [Guide log] Ensure paddleboard fin pins are checked for presence and properly secured upon guest check-in. _(Davey (audio log), 2026-06-18)_
 - [ ] [Guide log] Review and reinforce rope tightening procedures with staff for morning preparations. _(Bella (audio log), 2026-06-06)_
