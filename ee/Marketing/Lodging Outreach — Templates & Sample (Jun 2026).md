@@ -11,7 +11,12 @@ Voice: short, skimmable, concrete, no wellness buzzwords, no em dashes, max one 
 - We are **Portland's only floating sauna**.
 - The sauna is **gas-fired**, but leave the fuel unsaid in copy. Never say wood-fired.
 - Tone: **neighbor framing for hyperlocal properties only** (Hayden Island / Jantzen Beach / Bridgeton / Vancouver-close / airport corridor / nearby STR + houseboats). Farther-metro and downtown properties use the non-neighbor opener (template 2).
-- Fill `[X minutes]` only with a real, verified drive time. Do not guess a number.
+- No distances in copy: never write a drive time or "[X minutes] from you."
+
+**The Tuesday offers (two separate things, don't conflate):**
+- **Lodging partners (this outreach):** 2 free passes good for our service-industry Tuesdays, valid through Aug 31 2026. Giftable. Extended on reply (template #5). David creates the Periode coupon code.
+- **Public, service-industry-wide (restaurants, bars, etc.):** 50% off on Tuesdays. Separate public promo, NOT the partner passes, and not mentioned in the partner emails.
+- Tuesday is now Ebb & Ember's service-industry social day. This displaces "Silent Tuesday," which moves to another weekday (new day TBD).
 
 **Attach + socials on every first-touch send:**
 - Attach the hero photo: `Assets/Photos/2026-06-23 Sunny Session/web/ebb-ember-floating-sauna-covered-deck-kayaks-columbia-river.jpg` (covered cedar deck framing the sauna across the water with teal kayaks; cleared to use, ~461KB). For contact-form submissions that don't allow attachments, paste a link to the photo or the Instagram instead.
@@ -31,7 +36,7 @@ Subject B: Something only-in-Portland near you
 
 Hey [name],
 
-Friendly note from a neighbor. We run Ebb & Ember, Portland's only floating sauna, out on the Columbia at Elevated Tides, about [X minutes] from you. Real heat out on the water, with a cold plunge straight into the river if guests want it.
+Friendly note from a neighbor. We run Ebb & Ember, Portland's only floating sauna, out on the Columbia at Elevated Tides. Real heat out on the water, with a cold plunge straight into the river if guests want it.
 
 Your front desk probably gets the "what's something we can't do anywhere else" question a lot. We tend to be a good answer to it, especially for folks who've already done the usual Portland list.
 
@@ -49,7 +54,7 @@ Subject A: A local spot your guests keep asking us about
 
 Hey [front desk lead],
 
-Friendly note from a neighbor. We run Ebb & Ember, Portland's only floating sauna, out on the Columbia at Elevated Tides, about [X minutes] from you. Real heat out on the water, with a cold plunge straight into the river if guests want it.
+Friendly note from a neighbor. We run Ebb & Ember, Portland's only floating sauna, out on the Columbia at Elevated Tides. Real heat out on the water, with a cold plunge straight into the river if guests want it.
 
 Your front desk probably gets the "what's something we can't do anywhere else" question a lot. We tend to be a good answer to it, especially for folks who've already done the usual Portland list.
 
@@ -58,8 +63,6 @@ No ask here. Just wanted to be on your radar as a recommendation for guests. If 
 Davey, Ebb & Ember
 ebbandember.com
 Follow along: Instagram | Facebook | YouTube
-
-(Note: fill the [X minutes] drive time from Oxford Suites once verified, do not guess it.)
 
 ---
 
@@ -117,9 +120,9 @@ Davey, Ebb & Ember
 
 Hey [name],
 
-Glad you're up for it. Here are two passes on us, good through August 31, so you or your team can come experience a session and see what we're about. If you're slammed and can't get out, they're yours to gift to a guest or a friend, totally fine either way.
+Glad you're up for it. Tuesdays are our service-industry day, the fun, social one, so that's when I'd love to have you and your team come experience it. Here are two passes on us, good for any Tuesday through August 31. If you can't make a Tuesday, they're yours to gift to a guest or a friend, totally fine either way.
 
-[CODE] gets you two social sessions at ebbandember.com/book. Pick whatever time works, we're open 7am to 9pm daily. Bring a swimsuit and a towel, we handle the rest.
+[CODE] gets you two passes at [booking link]. Bring a swimsuit and a towel, we handle the rest.
 
 Once you've been out, if it feels like a fit for your guests, I'd love to talk about an easy way to point them our way. No pressure on that, the visit comes first.
 
