@@ -2,23 +2,23 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 28
-revenue_today: 4282
+bookings_today: 20
+revenue_today: 2668
 lead_time_days: 7
-ad_spend_yday: 104
+ad_spend_yday: 88
 status: green
 alert: null
-updated: 2026-06-22
+updated: 2026-06-23
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 6/21: 28 booked / $4,282; 40 tours ran / $5,739. The revenue engine of the portfolio, again.
-- Meta yday $104 (NPB lines): Retargeting $24 → 1 purch $126 (5.17 ROAS); Creative Testing $48 → 0 purch (watch); Messenger TOF $32 → 6 convos.
-- Umbrella Google (Gravity NOLA 4378232023) at 11.81 ROAS yesterday across NPB/NKST/Admire — can't split to NPB alone.
-- IG: 6/20 bachelorette reel (25 likes). Cadence fine; 6/8 brass-band reel hit 174.
-- Reviews: 6 unreplied 5★ owed thank-yous (latest Marcus Haufschild 6/18, Captain Eddy shout).
-- GSC/GA4: blind (google MCP down 4th day).
+- FH 6/22: 20 booked / $2,668; 13 tours ran / $2,361. Still the portfolio revenue engine.
+- Meta yday $87.70 (NPB lines): Retargeting $20.57, Creative Testing $32.96 → 0 purch (watch 2nd day), Messenger TOF $34.17 → 15 convos at $2.28.
+- Umbrella Google (Gravity NOLA 4378232023) 3.85 ROAS pixel / 12.65 over 7d across NPB/NKST/Admire — pooled, no brand split.
+- IG: 6/22 "this summer...a boat" reel (16 likes). 6/8 brass-band reel still the standout (174).
+- Reviews: 6 unreplied 5★ owed thank-yous (latest Marcus Haufschild 6/18, Captain Eddy bachelorette shout).
+- GSC/GA4: blind (google MCP down 5th day).
 <!-- live:end -->
 
 ## Quick links

@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "GSC blind today; IG dormant ~1yr"
-updated: 2026-06-22
+updated: 2026-06-23
 tile_type: business
 ---
 
