@@ -41,6 +41,6 @@ Channel key: **email** = send 1:1 via davey@ebbandember.com (cc media@); **form*
 
 - Get the real monthly guest-volume / occupancy number for the pitch (see Strategy doc placeholder). Don't send numbers we can't stand behind.
 - Confirm exact contact name where possible (ColdTub / Plunge partnerships are forms; the rest are generic inboxes, fine to open without a name).
-- Decide placement-fee floor (Option A) so we can name a number if a Tier 1 brand asks. Davey's call.
+- Placement fee: no preset number. Lead with affiliate; if a brand bites on paying for the spot, work out the figure then (Davey's call, deal by deal).
 
 Related: [[Cold Plunge Dealer Outreach — Strategy & Offer (Jun 2026)]] · [[Cold Plunge Dealer Outreach — Email Templates (Jun 2026)]]

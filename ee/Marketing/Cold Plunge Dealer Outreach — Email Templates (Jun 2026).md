@@ -7,11 +7,12 @@ Send 1:1 from davey@ebbandember.com, cc media@ebbandember.com. Sign "Davey, Ebb 
 Voice: short, skimmable, concrete. No wellness buzzwords, no em dashes, max one exclamation. Lead with the seasonal summer-cold-source hook, that's the strongest card.
 
 **Confirmed facts (use exactly):**
-- We're **Portland's only floating sauna**, out on the Columbia at **Elevated Tides** (173 NE Bridgeton Rd).
+- We're **Portland's only floating sauna, and one of only a few in the country**, out on the Columbia at **Elevated Tides** (173 NE Bridgeton Rd). Use the national framing in the DTC pitches.
 - Winter river ~42°F snowmelt; summer river 60-65°F (too warm to plunge).
 - Sessions up to 8 guests (10 private), 1h45, 7am-9pm daily. ~924 on the email list.
 - Never say wood-fired; leave the fuel unsaid. No drive times/distances.
-- **Monthly guest-volume number is still a placeholder** — fill the real figure before quoting reach.
+- **Reach numbers (real, sourced — see Strategy doc):** ~2,400 customers through so far, ~200-300 booked sessions/month, 18 active members. Quote as "around 200-300 a month" and "2,400+ so far," never a fake-precise figure.
+- **Press to name (verified published):** Time Out, Portland Monthly, KGW, Travel Oregon (also The Oregonian, Yahoo Lifestyle). Don't claim KOIN/AFAR/VIA (pending or interviews, not confirmed live).
 
 **Attach on every first-touch:** hero photo `Assets/Photos/2026-06-23 Sunny Session/web/ebb-ember-floating-sauna-covered-deck-kayaks-columbia-river.jpg`. For forms that block attachments, link the photo or the Instagram instead.
 
@@ -32,9 +33,9 @@ Subject B: A spot where Portland feels your tub before they buy
 
 Hey [name],
 
-We run Ebb & Ember, Portland's only floating sauna, out on the water at Elevated Tides on the Columbia. Guests do the hot-cold cycle right on the dock, and a lot of them step out asking where they can get a plunge for home.
+We run Ebb & Ember, Portland's only floating sauna and one of only a few in the country, out on the water at Elevated Tides on the Columbia. Guests do the hot-cold cycle right on the dock, and a lot of them step out asking where they can get a plunge for home.
 
-Here's the fit. Our winter plunge is the river itself, snowmelt cold. But in summer the river warms up too much to be a real plunge, so we want a chilled tub on-site as the actual cold source guests use. That means your tub isn't sitting there as a display, it's getting used and felt by every guest who comes through, which is the demo a plunge brand can't really buy anywhere else.
+Here's the fit. Our winter plunge is the river itself, snowmelt cold. But in summer the river warms up too much to be a real plunge, so we want a chilled tub on-site as the actual cold source guests use. That means your tub isn't sitting there as a display, it's getting used and felt by every guest who comes through. We've had around 2,400 people through so far and book 200 to 300 sessions a month, every one of them primed for it right after a hot round. That's a demo a plunge brand can't really buy anywhere else. We've also pulled a fair bit of press, Time Out, Portland Monthly, KGW, Travel Oregon, so there's real attention on the place.
 
 Two easy ways to do it: you set us up on your referral/affiliate program and we send you the buyers, or we work out a placement spot. Either way your tub gets in front of a steady stream of people already sold on cold water, and we feature it to our list and on Instagram.
 
@@ -94,9 +95,9 @@ Subject B: A spot where Portland feels your tub before they buy
 
 Hi ColdTub team,
 
-We run Ebb & Ember, Portland's only floating sauna, out on the water at Elevated Tides on the Columbia. Guests do the hot-cold cycle right on the dock, and a lot of them step out asking where they can get a plunge for home.
+We run Ebb & Ember, Portland's only floating sauna and one of only a few in the country, out on the water at Elevated Tides on the Columbia. Guests do the hot-cold cycle right on the dock, and a lot of them step out asking where they can get a plunge for home.
 
-I've seen you place units in spots like Equinox and the YMCA, so you already get the model. Here's our angle. Our winter plunge is the river itself, snowmelt cold. In summer the river warms up too much to be a real plunge, so we want a chilled tub on-site as the actual cold source guests use. Your tub wouldn't be a display, it'd be in use and felt by every guest who comes through, which is about the best demo a plunge brand can get.
+I've seen you place units in spots like Equinox and the YMCA, so you already get the model. Here's our angle. Our winter plunge is the river itself, snowmelt cold. In summer the river warms up too much to be a real plunge, so we want a chilled tub on-site as the actual cold source guests use. Your tub wouldn't be a display, it'd be in use and felt by every guest who comes through. We've had around 2,400 people through so far and book 200 to 300 sessions a month, every one of them primed for it right after a hot round. That's about the best demo a plunge brand can get. We've also pulled a fair bit of press, Time Out, Portland Monthly, KGW, Travel Oregon, so there's real attention on the place.
 
 Two easy ways to run it: we join your referral/affiliate program and send you the buyers, or we work out a placement spot. Either way your tub sits in front of a steady stream of people already sold on cold water, and we feature it to our email list and on Instagram.
 

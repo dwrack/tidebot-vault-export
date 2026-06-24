@@ -14,7 +14,7 @@ Their hardest marketing problem is getting a $5k-15k tub *experienced* by a buye
 
 ## The offer (dealer picks one)
 
-**Option A — Placement fee.** Flat monthly dollar amount for the showcase spot. Their tub stays on-site, branded, in use. Simplest for us to bank, bigger ask for them.
+**Option A — Placement fee.** A monthly dollar amount for the showcase spot. Their tub stays on-site, branded, in use. **Don't name a number up front.** Lead with affiliate; if a brand bites on paying for the spot, that's a good sign, and we work out the figure then based on how much they want it and what else is in the deal. Keep it open.
 
 **Option B — Affiliate / referral.** No fee. We earn a commission (or store credit) on every guest who buys a tub through our link or code, tracked via their existing program. Several brands already run these ($100-250/sale at Plunge, Ice Barrel, Pod Company), so this is often a same-day yes with no new paperwork on their side.
 
@@ -40,12 +40,17 @@ Let them choose. Most DTC brands will reach for B because it costs them nothing 
 ## Confirmed facts (use exactly, never improvise)
 
 - Location: **at Elevated Tides on the Columbia** (173 NE Bridgeton Rd, Portland OR). Not "Bridgeton marina."
-- **Portland's only floating sauna.**
+- **Portland's only floating sauna, and one of only a few in the entire country.** (Use the national framing for the DTC brand pitches, it's a bigger credential for them.)
 - Sessions: up to **8 guests** social, **10** private, **1h45** each, open **7am-9pm daily**.
 - River temp: ~42°F winter (snowmelt), 60-65°F summer (too warm to plunge).
 - The sauna is gas-fired, but leave fuel unsaid in copy. Never say wood-fired.
-- Monthly guest volume / occupancy: **[PLACEHOLDER — get real number from Davey/Periode before using in any pitch]**. Do not invent. This is the number a dealer underwrites the deal on, so it's worth getting right.
-- Email list: ~924 contacts (as of Mar 2026).
+- **Exposure numbers for the pitch (real, sourced):**
+  - **~2,400 past customers** through the sauna to date (Davey).
+  - **~200-300 booked sessions a month** (GA4 tracked, property 524300531): Mar 297, Apr 268, May 210, Jun ~200 run-rate. ~$11-17k/month in tracked session revenue.
+  - **18 active members** (10 Ember 1, 8 Ember 2) on recurring monthly plans.
+  - ~924 email contacts (Mar 2026); broader master list ~2,300.
+  - **Press to name (published, verified):** Time Out USA, Portland Monthly (two pieces), KGW (NBC Portland), Travel Oregon, The Oregonian, Yahoo Lifestyle. Use a short subset in the pitch (Time Out / Portland Monthly / KGW / Travel Oregon reads clean). Do NOT claim KOIN, AFAR, or VIA, those are pending or journalist interviews, not confirmed published coverage.
+  - Caveat: GA4 counts tracked online bookings (single-session sauna), so true guest count is at least this and likely higher. Quote as "around 200-300 a month" and "2,400+ so far," don't overstate to a precise figure.
 
 ## Conflict note (Plunge, Sun Home)
 
