@@ -2,7 +2,7 @@
 
 Status: DRAFT for Davey's approval. Nothing sent until the ColdTub sample below is approved.
 
-Send 1:1 from davey@ebbandember.com, cc media@ebbandember.com. Sign "Davey, Ebb & Ember." A/B the two subject lines per batch. For brands with no email (ColdTub, Plunge partnerships), paste the body into their contact form and drop the photo/IG link in place of an attachment.
+Send 1:1 from davey@ebbandember.com. Do NOT cc media@ (Davey's call, 2026-06-23). Sign "Davey, Ebb & Ember." A/B the two subject lines per batch. For brands with no email (ColdTub, Plunge partnerships), paste the body into their contact form and drop the photo/IG link in place of an attachment.
 
 Voice: short, skimmable, concrete. No wellness buzzwords, no em dashes, max one exclamation. Lead with the seasonal summer-cold-source hook, that's the strongest card.
 

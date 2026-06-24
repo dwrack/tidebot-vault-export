@@ -2,7 +2,7 @@
 
 Status: DRAFT for David's approval. Nothing sent yet. Sample-first rule: David approves the sample before any batch goes out.
 
-Approach: warm intro first, no ask, no offer in the opener. The 2-pass comp offer is extended only on reply (template #5). Send from davey@ebbandember.com, cc media@ebbandember.com. Sign "Davey, Ebb & Ember." Scrub against Do Not Contact List before sending. A/B the two subject lines per batch. For properties with no usable email, paste the matching body into their website contact form; for platform-only houseboat/Airbnb listings, message the host through the listing.
+Approach: warm intro first, no ask, no offer in the opener. The 2-pass comp offer is extended only on reply (template #5). Send from davey@ebbandember.com. Do NOT cc media@ (Davey's call, 2026-06-23). Sign "Davey, Ebb & Ember." Scrub against Do Not Contact List before sending. A/B the two subject lines per batch. For properties with no usable email, paste the matching body into their website contact form; for platform-only houseboat/Airbnb listings, message the host through the listing.
 
 Voice: short, skimmable, concrete, no wellness buzzwords, no em dashes, max one exclamation.
 
