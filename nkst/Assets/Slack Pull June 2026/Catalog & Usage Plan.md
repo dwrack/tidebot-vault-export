@@ -51,7 +51,7 @@ Strong set here. Several clean anhinga shots and a guide-with-bird character sho
 - **anhinga-bird-perched-cypress-branch-swamp.jpg** (Image from iOS) — `Anhinga perched on a cypress branch in a New Orleans swamp`
 - **duck-on-green-duckweed-swamp-wildlife.jpg** (P1020215) — `Wild duck swimming across bright green duckweed in a Louisiana swamp`
 - **turtle-on-green-duckweed-swamp-wildlife.jpg** (IMG_0561) — `Turtle making its way across a blanket of green duckweed in the swamp`
-- **red-dragonfly-swamp-macro-wildlife.jpg** (DSC04757) — `Close-up of a red dragonfly resting on green swamp foliage`
+- **summer-tanager-red-songbird-swamp-wildlife.jpg** (DSC04757) — `Bright red male summer tanager perched on a branch in a Louisiana swamp` _(corrected: first labeled as a dragonfly, it's actually a red songbird)_
 - **green-katydid-branch-swamp-macro-wildlife.jpg** (DSCN2215) — `Macro close-up of a green katydid on a branch in the swamp`
 - **apple-snail-eggs-lily-pad-swamp-louisiana.jpg** (IMG_0505) — `Apple snail and its bright pink eggs on a lily pad in a Louisiana swamp`
 
@@ -60,6 +60,16 @@ Strong set here. Several clean anhinga shots and a guide-with-bird character sho
 - **nkst-guide-selfie-swamp-tour.jpg** (PXL_...0005) — `New Orleans Kayak Swamp Tours guide taking a selfie during a swamp tour`
 
 ---
+
+## BUILT: Wildlife Short (ready to post)
+
+`Assets/Shorts/NKST Wildlife Short - 30 min from Bourbon.mp4` — 1080x1920, 22s, 9MB.
+
+7 shots, Ken-Burns zoom with blurred-fill backgrounds, crossfades: gator on a log (hook) → turtle on duckweed → duck → summer tanager → katydid → apple snail → guide with an egret (closer). Opening text "30 minutes from Bourbon Street / and this is what lives out here," closing card "New Orleans Kayak Swamp Tours / come paddle with us."
+
+**Audio:** real swamp ASMR pulled from your own footage (IMG_4466 + IMG_9898), blended, low-passed, and faded so it reads as ambient swamp sound, no copyrighted music baked in.
+
+**On the trending song:** I can't legally burn a copyrighted track into the file (Content ID will claim/mute it). The right move is to add a trending sound in the YouTube Shorts editor at upload, which also gives you the trending-audio reach boost. If you do that, mute the original audio in-app and let the song carry it. Post the swamp-ASMR version as-is if you'd rather keep it chill and rights-clean.
 
 ## YouTube plan
 

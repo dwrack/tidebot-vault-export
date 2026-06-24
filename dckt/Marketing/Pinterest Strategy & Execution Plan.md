@@ -96,9 +96,12 @@ Done 2026-06-23 (Batch 02, cream style, +4 pins):
 - [x] Sunset E-Bike Glow Roll → /e-bike-tours/ → E-Bike Rentals
 - Now 12 cream pins live across 6 boards. No sauna pin (no sauna photo in library).
 
+**Auto-poster LIVE 2026-06-23:** launchd `com.dckt.pinterest-poster` posts 1 pin/day at 10am from `~/Projects/dckt-tools/pinterest/queue.json` (standalone Playwright, persistent login). Seeded 12 fresh cream pins (q01 posted as test). ~11 days of runway; refill queue.json to extend toward 60 days. Runbook: `dckt-tools/pinterest/README.md`.
+
 Remaining:
-- [ ] Batch 03 ideas: sauna (needs photo), pregnancy-safe/first-timer paddle, clear-bottom shipwreck angle, rainy-day-with-kids family, winter/off-season
-- [ ] Set posting cadence / scheduler (don't dump all at once long-term)
+- [ ] Refill queue toward 60 days (~50 more cream pins, batched)
+- [ ] Batch ideas: sauna (needs photo), clear-bottom shipwreck angle, rainy-day-with-kids family, winter/off-season, dogs-welcome (needs better photo)
+- [ ] Start API v5 Standard access application (then poster swaps Playwright -> API for posting + real analytics)
 - [ ] Consider native **Instagram auto-publish** + **RSS auto-publish** to Pinterest
 - [ ] Start API v5 Standard access application (parallel)
 
