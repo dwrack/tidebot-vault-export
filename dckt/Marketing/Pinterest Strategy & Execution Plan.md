@@ -89,8 +89,15 @@ Done 2026-06-23 (Batch 01):
   7. Baileys Harbor town guide → Baileys post
   8. 7 Adventurous Things to Do → things-to-do post
 
+Done 2026-06-23 (Batch 02, cream style, +4 pins):
+- [x] Fish Creek town (bluff-photo) → Fish Creek post → Travel Guide
+- [x] Cana Island Lighthouse → things-to-do guide → Things to Do
+- [x] Stand-Up Paddleboarding (SUP) → /sup/ → NEW board "Door County Paddleboarding"
+- [x] Sunset E-Bike Glow Roll → /e-bike-tours/ → E-Bike Rentals
+- Now 12 cream pins live across 6 boards. No sauna pin (no sauna photo in library).
+
 Remaining:
-- [ ] Batch 02: Fish Creek town, sauna, pregnancy-safe paddle, clear-bottom shipwreck angle, SUP
+- [ ] Batch 03 ideas: sauna (needs photo), pregnancy-safe/first-timer paddle, clear-bottom shipwreck angle, rainy-day-with-kids family, winter/off-season
 - [ ] Set posting cadence / scheduler (don't dump all at once long-term)
 - [ ] Consider native **Instagram auto-publish** + **RSS auto-publish** to Pinterest
 - [ ] Start API v5 Standard access application (parallel)
