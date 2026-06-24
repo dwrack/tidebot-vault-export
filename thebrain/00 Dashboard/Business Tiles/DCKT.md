@@ -2,23 +2,22 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 29
-revenue_today: 2971
+bookings_today: 27
+revenue_today: 4616
 lead_time_days: 30
-ad_spend_yday: 98
+ad_spend_yday: 111
 status: green
 alert: null
-updated: 2026-06-23
+updated: 2026-06-24
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 6/22: 29 booked / $2,971 booked-rev; 7 tours ran / $1,490. Top booking volume in the portfolio.
-- Google yday $71.94, 4 conv, 0.83 pixel ROAS but all-conv value $859.79; 7d 3.45 ROAS / $13.3k all-conv. Fine, don't touch (pixel undercounts).
-- Meta yday $25.66: Detours Retargeting $5.84 → 1 purch / $31.65 / 5.42 ROAS; Detours Awareness $19.82 → 0 purch.
-- IG: hiring-themed reels; 6/14 "human billboard" reel 107 likes / 12 comments (likely applicants).
-- Reviews: 2 no-comment 5★ from 6/21 unreplied (Cheyanne, Jon Decker). Jeannie/Ace/Chloe already answered today.
-- GSC/GA4: blind today (google MCP down).
+- FH 6/23: 27 booked / $4,616 — top revenue in the portfolio (41.5x booked-to-spend). 26 tours ran / $7,375.
+- Google yday $82.53, 4.79 conv, 3.07 pixel ROAS (7d 3.45). Meta yday ~$29: Retargeting $6 at 5.26 ROAS, Detours Awareness $23 at 0.93.
+- IG: catch-up carousel posted today; 6/14 "human billboard" reel 109 likes / **12 comments** — give it a reply review (likely applicants).
+- Reviews: 3 unreplied 5★ (Hailey Brown 6/23, Cheyanne + Jon Decker 6/21). Quick thank-you pass.
+- GSC/GA4: blind today (google MCP down 6th day).
 <!-- live:end -->
 
 ## Quick links

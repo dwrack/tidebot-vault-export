@@ -2,23 +2,23 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 20
-revenue_today: 2668
+bookings_today: 23
+revenue_today: 2358
 lead_time_days: 7
-ad_spend_yday: 88
-status: green
-alert: null
-updated: 2026-06-23
+ad_spend_yday: 176
+status: yellow
+alert: "Booked $2,358 vs $5,029 7d avg (-53%) — soft demand"
+updated: 2026-06-24
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 6/22: 20 booked / $2,668; 13 tours ran / $2,361. Still the portfolio revenue engine.
-- Meta yday $87.70 (NPB lines): Retargeting $20.57, Creative Testing $32.96 → 0 purch (watch 2nd day), Messenger TOF $34.17 → 15 convos at $2.28.
-- Umbrella Google (Gravity NOLA 4378232023) 3.85 ROAS pixel / 12.65 over 7d across NPB/NKST/Admire — pooled, no brand split.
-- IG: 6/22 "this summer...a boat" reel (16 likes). 6/8 brass-band reel still the standout (174).
-- Reviews: 6 unreplied 5★ owed thank-yous (latest Marcus Haufschild 6/18, Captain Eddy bachelorette shout).
-- GSC/GA4: blind (google MCP down 5th day).
+- **FH 6/23: 23 booked / $2,358 — down 53% vs $5,029 7d avg. Soft demand on a peak Tuesday.** Repost the brass-band reel, bump spend. Ran only 1 tour / $934.
+- Meta yday ~$129 (NPB lines): Retargeting $22 at 2.69 ROAS; Creative Testing $44 at 1.44 (weak, swap creative); Messenger TOF $25 → 7 convos.
+- Umbrella Google (Gravity NOLA 4378232023) 2.19 pixel ROAS yday / 9.94 over 7d across NPB/NKST/Admire — pooled, no brand split (FH pixel undercounts).
+- IG: brass-band reel (174 likes, 6/8) still the best asset — reuse it for the dip. No comments needing reply.
+- Reviews: 2 fresh 5★ owed thank-yous (Justin Roberts, Shawn S, both 6/24).
+- GSC/GA4: blind (google MCP down 6th day).
 <!-- live:end -->
 
 ## Quick links

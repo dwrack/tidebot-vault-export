@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "IG dormant since 2019 — revive or stop counting it"
-updated: 2026-06-23
+updated: 2026-06-24
 tile_type: business
 ---
 
@@ -17,7 +17,7 @@ tile_type: business
 - No dedicated spend yesterday.
 - IG @admirenola dormant — newest post 2019. Revive or drop from the active roster.
 - Reviews: listing reviews current and replied.
-- GSC/GA4: blind today (google MCP down).
+- GSC/GA4: blind today (google MCP down 6th day).
 <!-- live:end -->
 
 ## Quick links
