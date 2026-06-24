@@ -39,6 +39,7 @@
 
 ## Medium Priority
 - [ ] [Guide log] Send guide training manuals and paperwork to Alexis via email. _(Michelle (audio log), 2026-06-24)_
+- [ ] [Guide log] Send guide training manuals and paperwork to Alexis via email. _(Michelle (audio log), 2026-06-24)_
 - [ ] [Guide log] Confirm presence and readiness of emergency gear for tours. _(Nick Nepoda (audio log), 2026-06-23)_
 - [ ] [Guide log] Ensure Mercedes van is returned with a full tank of gas tomorrow after the 9 AM tour. _(Stephanie (audio log), 2026-06-21)_
 - [ ] [Guide log] Set up a PFD washing station and implement a mandatory policy for washing PFDs after every tour to improve hygiene and guest experience. _(Nick Napolitano (audio log), 2026-06-19)_
