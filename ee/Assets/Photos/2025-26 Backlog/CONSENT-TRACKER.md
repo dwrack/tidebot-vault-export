@@ -28,7 +28,7 @@ Status key: ⬜ not asked · ⏳ asked, waiting · ✅ cleared · ❌ declined
 | Spring — diver (pink trunks) | | IMG_4546, IMG_4547; clip IMG_4548 | Mid-air dive action hero IMG_4547 | ✅ cleared 2026-06-23 |
 | Spring — cigar man on deck | | IMG_5455 | Casual BTS | ✅ cleared 2026-06-23 |
 | Spring — cold-shower men | | clips IMG_5033, IMG_0618, IMG_5456 2, IMG_5457 | Cold-shower ritual demo | ✅ cleared 2026-06-23 |
-| Spring — cold-shower GIRL (MINOR) | | clips IMG_5477, IMG_5478, IMG_5479 | Family-friendly, **needs GUARDIAN consent** | ⏳ guardian OK still needed |
+| Spring — cold-shower GIRL (MINOR, David's daughter) | David (parent/guardian) | clips IMG_5477, IMG_5478, IMG_5479 | Family-friendly | ⏳ David deciding: post vs family/internal-only |
 
 ## Notes
 - When someone clears, move their assets into your posting pipeline and (optionally) drop the PRIVACY-HOLD note in CATALOG.md for those rows.
