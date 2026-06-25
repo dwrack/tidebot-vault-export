@@ -41,6 +41,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Inspect and address the loose/wobbly paddle shaft for kayak number seven (tightening or replacement needed). _(Sarah (audio log), 2026-06-25)_
 - [ ] [Guide log] Check the specific kayak involved in the capsizing for any seal issues or cracks. _(Dan (audio log), 2026-06-23)_
 - [ ] [Guide log] Verify paddleboard fin pin, paddle, and pump are returned and accounted for during post-trip equipment check-in. _(Davey (audio log), 2026-06-18)_
 - [ ] [Guide log] Ensure paddleboard fin pins are checked for presence and properly secured upon guest check-in. _(Davey (audio log), 2026-06-18)_
