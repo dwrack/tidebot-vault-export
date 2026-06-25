@@ -2,23 +2,22 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 23
-revenue_today: 2358
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 7
-ad_spend_yday: 176
+ad_spend_yday: 75
 status: yellow
-alert: "Booked $2,358 vs $5,029 7d avg (-53%) — soft demand"
-updated: 2026-06-24
+alert: "data stale — FH scrape missing"
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- **FH 6/23: 23 booked / $2,358 — down 53% vs $5,029 7d avg. Soft demand on a peak Tuesday.** Repost the brass-band reel, bump spend. Ran only 1 tour / $934.
-- Meta yday ~$129 (NPB lines): Retargeting $22 at 2.69 ROAS; Creative Testing $44 at 1.44 (weak, swap creative); Messenger TOF $25 → 7 convos.
-- Umbrella Google (Gravity NOLA 4378232023) 2.19 pixel ROAS yday / 9.94 over 7d across NPB/NKST/Admire — pooled, no brand split (FH pixel undercounts).
-- IG: brass-band reel (174 likes, 6/8) still the best asset — reuse it for the dip. No comments needing reply.
-- Reviews: 2 fresh 5★ owed thank-yous (Justin Roberts, Shawn S, both 6/24).
-- GSC/GA4: blind (google MCP down 6th day).
+- FH data stale (launchd scraper had no internet). Last known (6/23): 23 booked / $2,358.
+- Meta yday $75: Retargeting $19.80 (yday ROAS 2.98 / 7d ROAS 4.24 — good, keep); Creative Testing $40.27 (7d ROAS 0.90 — below break-even, pause this); Messenger TOF $14.79 / 0 purch.
+- Gravity Trails NOLA Google (umbrella for NPB+NKST): yday $138.61 / ROAS 10.12; 7d $803.37 / ROAS 9.51. Excellent.
+- Reviews: Justin Roberts (Jun 24, 5★, no comment) + Shawn S (Jun 24, 5★, bachelor party, gators, captain's music) — both unreplied.
+- IG @nolapartybarge: brass-band reel Jun 8 (175 likes) still the best asset by far. Recent reels getting 19-44 likes. Music/energy is the formula — use it more.
 <!-- live:end -->
 
 ## Quick links

@@ -8,15 +8,14 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: "revive-or-sell decision open"
-updated: 2026-06-24
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- Not in the FH feed. Quiet yesterday (rolls into NOLA umbrella, no dedicated spend).
 - Revive-or-sell decision still open (exploring sale to other NOLA operators).
+- No FH bookings, no ad spend. GSC: "nola bike bar" (5 clicks, pos 3.4) — branded presence intact.
 - Reviews: 4.8 listing, all current reviews replied. Street vehicle (3 bikes), not a vessel.
-- GSC: blind today (google MCP down 6th day).
 <!-- live:end -->
 
 ## Quick links

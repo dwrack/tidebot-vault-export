@@ -2,22 +2,21 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 6
-revenue_today: 612
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 5
-ad_spend_yday: 24
-status: green
-alert: null
-updated: 2026-06-24
+ad_spend_yday: 64
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 6/23: 6 booked / $612; 6 tours ran / $796 (25x booked-to-spend).
-- Google yday $57.30, 2 conv, 2.65 ROAS; 7d $511 / 14.9 conv / 3.34 ROAS — healthy. Customer 8497383499 (shared w/ AKT).
-- Meta (Austin acct): no spend yesterday — Google carrying Austin.
-- Reviews: one old 1★ (Anna B, Jul 2024, never got promised photos) still unreplied — a one-line reply closes it.
-- GSC: blind today (google MCP down 6th day).
+- FH data stale (scraper offline). Last known (6/23): 6 booked / $612.
+- Google yday $63.72 / 2 conv / ROAS 6.97 (7d $496.61 / 15.9 conv / ROAS 4.15). Healthy and consistent. Leave it.
+- Meta (act_638850950128825): no active campaigns — returned empty. Google carrying all Austin spend.
+- Reviews: 0 new unreplied 5★ since last brief. Note: Anna B 1★ (Jul 2024) is technically on the shared GBP loc (751109797147653805) — filed under AKT but same listing. See AKT tile.
 <!-- live:end -->
 
 ## Quick links

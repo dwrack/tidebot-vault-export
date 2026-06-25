@@ -7,17 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "IG dormant since 2019 — revive or stop counting it"
-updated: 2026-06-24
+alert: "IG dormant since 2019 — revive or drop"
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- Umbrella funnel, not a direct bookable — routes to NPB / Bike Bar / NKST.
-- No dedicated spend yesterday.
-- IG @admirenola dormant — newest post 2019. Revive or drop from the active roster.
-- Reviews: listing reviews current and replied.
-- GSC/GA4: blind today (google MCP down 6th day).
+- Umbrella funnel routing to NPB / Bike Bar / NKST. No direct bookings.
+- GSC: "plantation tours new orleans" (2 clicks, pos 4.4) — some organic traction on NOLA experiences.
+- IG @admirenola: last post 2019. Dead account — decision needed.
+- No ad spend, no reviews needing attention.
 <!-- live:end -->
 
 ## Quick links

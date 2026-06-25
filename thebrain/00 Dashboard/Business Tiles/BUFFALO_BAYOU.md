@@ -2,22 +2,21 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 6
-revenue_today: 850
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 30
-status: green
-alert: null
-updated: 2026-06-24
+ad_spend_yday: 19
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 6/23: 6 booked / $850; 3 tours ran / $319 (28x). Same-day lead time, so weekday walk-ups still possible.
-- Meta yday $18.11: "Bat Bridge Kayak Tour - Traffic", 154 outbound clicks at $0.12, 4.24% outbound CTR — strong click efficiency, traffic objective so no purchase tracking.
-- IG: guide spotlight (Chad) posted today; USA-soccer post 14 likes 6/21. Active. Same-day lead time wants fresh daily promo copy.
-- Reviews: several unreplied 5★ (Kattler 6/23, Shannon Pierce 6/20, Clarissa 6/18). Chad/Josh named repeatedly — strong guide signal; batch-thank these.
-- GSC: blind today (google MCP down 6th day).
+- FH data stale (scraper offline). Last known (6/23): 6 booked / $850. Same-day lead time — walk-up bookings possible all day.
+- Meta yday $19.33: "Bat Bridge Kayak Tour - Traffic" (traffic objective, no purchase tracking). 4.24% outbound CTR at $0.12/click — good efficiency for top-of-funnel.
+- IG @buffalobayoukayak: "HELP NAME OUR DUCKS" posted today — participation-bait format, watch engagement. Recent posts getting 2-14 likes (low but consistent cadence).
+- Reviews: **4 unreplied 5★ this week** — Ian/Kattler (Jun 23), Shannon Pierce (Jun 20), Clarissa España (Jun 18), Alan Olinger (Jun 15). Nobody managing BBK's GBP — same problem as AKT.
 <!-- live:end -->
 
 ## Quick links

@@ -1,30 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-06-24*
+*Last refresh: 2026-06-25*
 
 ## Right now
-- [[Daily Briefings/2026-06-24|Today's brief]]
+- [[Daily Briefings/2026-06-25|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Austin Kayak Tours** — Reply to the 2 unanswered 1★. César Garza (5/19, "rip-off") and clossanz (4/18, "soaked in sewage water... makeshift dock"), both 36+ days stale on a 4.9 listing. **4th day flagged**, nobody's managing AKT's GBP. GBP loc 751109797147653805.
-2. **NOLA Party Barge** — Demand soft: booked $2,358 vs $5,029 7d avg (-53%) on a peak Tuesday. Repost the brass-band reel (174 likes) and/or bump spend; swap the Meta Creative Testing line ($44 at 1.44 ROAS).
-3. **All biz** — `google` MCP down 6th straight day. GSC + GA4 failed every call again (`Premature close` on token refresh). Re-mint that credential — GBP scope still works, so it's just that one.
+1. **Houston Pedal Barge** — Verify the June 6 storm refunds with Michael. 8 consecutive 1★ reviews: Conner forced boarding in lightning, promised cash refunds, issued gift cards instead, then blocked customers on Instagram. GBP replies are live but refund status is unconfirmed. Pay them if they weren't processed. GBP loc 9402272527782840373.
+2. **NPB Meta** — Pause "NPB | Purchase | Creative Testing" (7-day ROAS 0.90, $269 spent). Roll budget into "NPB | Purchase | Retargeting" (7-day ROAS 4.24). Same account (act_87863118).
+3. **NKST Meta** — Pause "NKST | Purchase | Retargeting | Google Reviews" (7-day ROAS 0.74, $163 spent). FH pixel may be underreporting, but 7 days below break-even is long enough. Pause until David Thompson confirms the CAPI fix.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday | 7-day avg | Δ |
+| Signal | Yesterday | 7-day avg | Delta |
 |---|---|---|---|
-| Gmail unread (personal inbox) | 18 (newsletters/marketing, 2 daily reports, 0 customer) | — | — |
-| Unreplied GBP reviews (1-3★, all biz) | 3 (2 AKT stale, 1 LSKT from 2024) | ~2 | +1 |
-| FH bookings (portfolio) | 68 new | ~54 | +14 |
-| FH revenue (booked, portfolio) | $9,876 | ~$7,700 | +$2,176 |
-| Total ad spend (G+M) | $441 | ~$460/day | -$19 |
-| Total ad-attributed conversions | ~13 pixel purch + 10 leads | — | (pixel undercounts; FH is truth) |
+| Gmail unread (personal) | 9 (no customer emergencies) | ~14 | -5 |
+| Unreplied GBP reviews (1-3★, all biz) | 1 (Anna B, AKT, Jul 2024) | ~1 | 0 |
+| FH bookings (portfolio) | — (scrape failed) | ~54/day | — |
+| FH revenue (portfolio) | — (scrape failed) | ~$7,700/day | — |
+| Total ad spend (G+M) | $463 | ~$459/day | +$4 |
+| Ad-attributed conversions | ~18 tracked (pixel undercounts) | ~18 | 0 |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -33,13 +33,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-06-24]] (today)
-- [[Daily Briefings/2026-06-23]] (1 day ago)
-- [[Daily Briefings/2026-06-22]] (2 days ago)
-- [[Daily Briefings/2026-06-21]] (3 days ago)
-- [[Daily Briefings/2026-06-20]] (4 days ago)
-- [[Daily Briefings/2026-06-19]] (5 days ago)
-- [[Daily Briefings/2026-06-18]] (6 days ago)
+- [[Daily Briefings/2026-06-25]] (today)
+- [[Daily Briefings/2026-06-24]] (1 day ago)
+- [[Daily Briefings/2026-06-23]] (2 days ago)
+- [[Daily Briefings/2026-06-22]] (3 days ago)
+- [[Daily Briefings/2026-06-21]] (4 days ago)
+- [[Daily Briefings/2026-06-20]] (5 days ago)
+- [[Daily Briefings/2026-06-19]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "GSC blind (MCP down 6th day); IG dormant ~1yr"
-updated: 2026-06-24
+alert: "IG dormant ~1yr; no organic traction"
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- Not in the FH scrape set. Quiet yesterday (no bookings/spend) — a weekday lull, not a data failure.
-- GSC (cavepointpp.com): blind today (google MCP down 6th day). Last reads: no organic traction.
-- IG @cavepointpp dormant (~1 year since last real post).
-- Reviews: 4.9 listing. Old 2★ (Oct 2024) and 1★ (Sep 2025) already replied; nothing new.
+- No FH scrape, no ad spend. Quiet today.
+- GSC (cavepointpp.com): no meaningful organic traffic. "things to do near me" at 0 clicks.
+- IG @cavepointpp: last real post June 2025 — dormant ~1 year.
+- Reviews: 4.9 listing. Old 2★ (Oct 2024) and 1★ (Sep 2025) already replied; nothing new today.
 <!-- live:end -->
 
 ## Quick links

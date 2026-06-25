@@ -2,24 +2,22 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 3
-revenue_today: 1000
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 7
-ad_spend_yday: 27
+ad_spend_yday: 3
 status: yellow
-alert: "Google still near-dark ($6.30/0 conv); FH booked $1,000 fine"
-updated: 2026-06-24
+alert: "FH stale; Google conv tracking broken (ROAS 0.03 7d); IG token expired"
+updated: 2026-06-25
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 6/23: 3 booked / $1,000 (36.9x booked-to-spend) — demand healthy. Ran 0 tours yesterday.
-- Google still effectively off: $6.30 yesterday, 0 conv; $33/7d. Fund it properly or kill it — peak season. Customer 2986009791.
-- Houston Meta account ran Buffalo Bayou only, no HPB Meta line.
-- Reviews: the 6/6 storm-refund 1★ cluster (7 reviews) all replied — root cause still operational: gift-cards-instead-of-refunds, manager Conner blocking customers. Fix the refund process.
-- TikTok: couldn't pull — Playwright browser is down (port 9222 refused), not a login issue.
-- IG: posting actively (giveaway reel 7 likes / 4 comments 6/21).
-- GSC: no site wired; google MCP down anyway (6th day).
+- FH data stale (scraper offline). Last known (6/23): 3 booked / $1,000.
+- **TIER 1: June 6 storm refund cluster** — 8 consecutive 1★ reviews. Conner forced boarding in lightning; leaky roof; 12 seats for 16-person group; blocked customers on Instagram after promising cash refunds; issued gift cards instead. All GBP replies live but operational fix unconfirmed. Verify with Michael whether refunds were paid and whether Conner was addressed.
+- **Google (2986009791): $2.63 yday / $32.58 7d — conversion tracking broken.** 1 tracked conv at $1 value over 7 days, ROAS 0.03. Fix the conversion action or pause the account. Peak summer.
+- **IG token expired** (error 190 — session invalidated). Reconnect in Meta Business Suite before other HPB Meta tools are affected.
+- TikTok: not pulled this session.
 <!-- live:end -->
 
 ## Quick links
