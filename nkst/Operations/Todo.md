@@ -39,6 +39,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Clean and deodorize PFDs due to strong smell from guest sweat. _(Nick Nepoda (audio log), 2026-06-26)_
 - [ ] [Guide log] Send guide training manuals and paperwork to Alexis via email. _(Michelle (audio log), 2026-06-24)_
 - [ ] [Guide log] Send guide training manuals and paperwork to Alexis via email. _(Michelle (audio log), 2026-06-24)_
 - [ ] [Guide log] Confirm presence and readiness of emergency gear for tours. _(Nick Nepoda (audio log), 2026-06-23)_
