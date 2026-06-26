@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "IG dormant ~1yr; no organic traction"
-updated: 2026-06-25
+updated: 2026-06-26
 tile_type: business
 ---
 

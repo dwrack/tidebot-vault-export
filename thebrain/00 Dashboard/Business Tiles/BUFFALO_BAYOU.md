@@ -5,18 +5,18 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 19
+ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-06-25
+alert: "FH bookings not parsing; payout $671 arriving today"
+updated: 2026-06-26
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH data stale (scraper offline). Last known (6/23): 6 booked / $850. Same-day lead time — walk-up bookings possible all day.
-- Meta yday $19.33: "Bat Bridge Kayak Tour - Traffic" (traffic objective, no purchase tracking). 4.24% outbound CTR at $0.12/click — good efficiency for top-of-funnel.
-- IG @buffalobayoukayak: "HELP NAME OUR DUCKS" posted today — participation-bait format, watch engagement. Recent posts getting 2-14 likes (low but consistent cadence).
-- Reviews: **4 unreplied 5★ this week** — Ian/Kattler (Jun 23), Shannon Pierce (Jun 20), Clarissa España (Jun 18), Alan Olinger (Jun 15). Nobody managing BBK's GBP — same problem as AKT.
+- FH JSON: booking arrays empty, but BBK payout $671.14 (gross) / $656.76 (net) scheduled today 6/26 — confirms active revenue.
+- Meta yday: "Bat Bridge Kayak Tour - Traffic" in act_1015419897308486 — spend split between HPB and BBK not isolated. Traffic objective, no purchase tracking.
+- IG @buffalobayoukayak: "HELP NAME OUR DUCKS" Jun 25 (9L, 2C — participation hook working). USA wins Jun 21 (14L best recent). Cadence consistent, engagement low-medium.
+- Reviews: Kattler 5★ (Jun 23) unreplied. Additional reviews from prior week also pending — assign batch-reply to manager.
 <!-- live:end -->
 
 ## Quick links

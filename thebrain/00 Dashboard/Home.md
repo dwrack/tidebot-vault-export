@@ -1,30 +1,31 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-06-25*
+*Last refresh: 2026-06-26*
 
 ## Right now
-- [[Daily Briefings/2026-06-25|Today's brief]]
+- [[Daily Briefings/2026-06-26|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Houston Pedal Barge** — Verify the June 6 storm refunds with Michael. 8 consecutive 1★ reviews: Conner forced boarding in lightning, promised cash refunds, issued gift cards instead, then blocked customers on Instagram. GBP replies are live but refund status is unconfirmed. Pay them if they weren't processed. GBP loc 9402272527782840373.
-2. **NPB Meta** — Pause "NPB | Purchase | Creative Testing" (7-day ROAS 0.90, $269 spent). Roll budget into "NPB | Purchase | Retargeting" (7-day ROAS 4.24). Same account (act_87863118).
-3. **NKST Meta** — Pause "NKST | Purchase | Retargeting | Google Reviews" (7-day ROAS 0.74, $163 spent). FH pixel may be underreporting, but 7 days below break-even is long enough. Pause until David Thompson confirms the CAPI fix.
+1. **NPB inbox** — Customer email needs same-day reply: "the wrong name is on my booking." Open FH, correct the name, confirm by email. Also: Connor's GBP reply on an HPB June 6 storm review uses accusatory language (police report, harassment). Delete/rewrite before it gets screenshot.
+2. **LSKT** — Anna B 1★ GBP review (July 2024) has been unreplied for ~1 year. Reply today. GBP loc 11383026800789938857. Separately: text Michael about HPB — Tatyanna Gibbs updated her review threatening a BBB complaint because the promised cash refund was never processed.
+3. **NPB + NKST Meta (Day 2)** — Still running, still zero: "NPB | Purchase | Creative Testing" ($42 yd, 0 purchases) and "NKST | Purchase | Retargeting | Google Reviews" ($25 yd, 0 purchases). Both were in yesterday's Top 3. Pause both in act_87863118. NPB Retargeting hit 15x ROAS yesterday — roll the Creative Testing budget there.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday | 7-day avg | Delta |
+| Signal | Yesterday (6/25) | 7-day avg | Delta |
 |---|---|---|---|
-| Gmail unread (personal) | 9 (no customer emergencies) | ~14 | -5 |
-| Unreplied GBP reviews (1-3★, all biz) | 1 (Anna B, AKT, Jul 2024) | ~1 | 0 |
-| FH bookings (portfolio) | — (scrape failed) | ~54/day | — |
-| FH revenue (portfolio) | — (scrape failed) | ~$7,700/day | — |
-| Total ad spend (G+M) | $463 | ~$459/day | +$4 |
-| Ad-attributed conversions | ~18 tracked (pixel undercounts) | ~18 | 0 |
+| Gmail unread (personal) | 8 | ~10 | -2 |
+| NPB inbox unread | 1 (customer name fix) | ~0 | +1 |
+| Unreplied GBP reviews (1-3★, all biz) | 2 (Anna B LSKT + Tatyanna HPB update) | ~1 | +1 |
+| FH bookings (portfolio) | 62 new | ~54/day | +8 |
+| FH revenue (portfolio) | $9,209 | ~$7,700/day | +$1,500 |
+| Total ad spend (G+M) | $455 | ~$459/day | -$4 |
+| Portfolio ROAS | 20.26x | ~18x | +2x |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -33,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-06-25]] (today)
-- [[Daily Briefings/2026-06-24]] (1 day ago)
-- [[Daily Briefings/2026-06-23]] (2 days ago)
-- [[Daily Briefings/2026-06-22]] (3 days ago)
-- [[Daily Briefings/2026-06-21]] (4 days ago)
-- [[Daily Briefings/2026-06-20]] (5 days ago)
-- [[Daily Briefings/2026-06-19]] (6 days ago)
+- [[Daily Briefings/2026-06-26]] (today)
+- [[Daily Briefings/2026-06-25]] (1 day ago)
+- [[Daily Briefings/2026-06-24]] (2 days ago)
+- [[Daily Briefings/2026-06-23]] (3 days ago)
+- [[Daily Briefings/2026-06-22]] (4 days ago)
+- [[Daily Briefings/2026-06-21]] (5 days ago)
+- [[Daily Briefings/2026-06-20]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

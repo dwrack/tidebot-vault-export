@@ -8,15 +8,15 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-06-25
+updated: 2026-06-26
 tile_type: business
 ---
 
 <!-- live:start -->
 - No Meta or Google ad accounts (by design). Books via own system, not FareHarbor.
-- **IG is the best-performing account in the portfolio this week**: Jun 19 "Meet The Downpour" cold-plunge reel (123 likes, 5 comments — make another one); Jun 22 Summer Solstice (59 likes); Jun 25 sunset floating sauna (45 likes, just posted). Kimberlyn is executing.
-- Reviews: 5 unreplied this week — Craig Lechtenberg (Jun 23, "unique sauna experience"); Rosalie Siler (Jun 23, no comment); Justin Quimbey, Diana Partida, Mia Hogan (all Jun 17). Kimberlyn handles?
-- "Best PDX/Vancouver river day" theme repeating in reviews — capture this in copy.
+- **IG @ebbandember is the best-performing account in the portfolio this week.** "Meet The Downpour" cold-water bucket reveal (Jun 19) — 124 likes, 5 comments. That reveal format works — make another. 9pm sunset sauna (Jun 25): 58 likes. Summer Solstice (Jun 22): 60 likes. Consistent 50-60+ per post.
+- Reviews: unreplied cluster from Jun 17-23 — Craig Lechtenberg (Jun 23, "unique sauna experience"), Rosalie Siler (Jun 23). Kimberlyn to handle.
+- "Best PDX/Vancouver river day" theme repeating across reviews — capture this in web copy.
 <!-- live:end -->
 
 ## Quick links

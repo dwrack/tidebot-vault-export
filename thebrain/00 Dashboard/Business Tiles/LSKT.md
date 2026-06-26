@@ -5,18 +5,18 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 5
-ad_spend_yday: 64
+ad_spend_yday: 109
 status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-06-25
+alert: "Anna B 1★ GBP unreplied ~1 year — reply today"
+updated: 2026-06-26
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH data stale (scraper offline). Last known (6/23): 6 booked / $612.
-- Google yday $63.72 / 2 conv / ROAS 6.97 (7d $496.61 / 15.9 conv / ROAS 4.15). Healthy and consistent. Leave it.
-- Meta (act_638850950128825): no active campaigns — returned empty. Google carrying all Austin spend.
-- Reviews: 0 new unreplied 5★ since last brief. Note: Anna B 1★ (Jul 2024) is technically on the shared GBP loc (751109797147653805) — filed under AKT but same listing. See AKT tile.
+- FH JSON present but booking arrays empty. Last known (6/23): 6 booked / $612.
+- Google yday $109.12 / 5.70x ROAS / 6 conv. 7d: $530.45 / 4.60x. Strong and consistent.
+- Meta (act_638850950128825): empty data returned — either no campaigns or token refresh needed.
+- **TIER 1: Anna B 1★ (Jul 2024) still unreplied — ~1 year.** GBP loc 11383026800789938857. One reply closes it.
 <!-- live:end -->
 
 ## Quick links

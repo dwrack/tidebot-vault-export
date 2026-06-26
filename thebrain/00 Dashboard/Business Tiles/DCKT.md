@@ -3,22 +3,22 @@ business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
 bookings_today: 0
-revenue_today: 0
+revenue_today: 1352
 lead_time_days: 30
-ad_spend_yday: 129
+ad_spend_yday: 88
 status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-06-25
+alert: "FH booking count not parsing; DC Detours Meta 0.70x ROAS — pause"
+updated: 2026-06-26
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH data stale (scraper offline). Last known (6/23): 27 booked / $4,616 — top revenue day in portfolio.
-- Google yday $102.87 / 6 conv / ROAS 1.25 (soft vs 7-day ROAS 3.07 — single day, don't adjust).
-- Meta yday $26.42: Awareness $21.30 / 1 purch (7d ROAS 0.64 — underperforming, flag to TourPPC to shift to Retargeting); Retargeting $5.12 / 3 purch (7d ROAS 8.51 — scale this).
-- GSC: "door county kayak tours" (25 clicks, pos 1.6), "door county" (14 clicks, pos 3.3), "fyr bal festival" (12 clicks, pos 7.4 — seasonal event, add content if none exists).
-- Reviews: **4 unreplied this week** — Jason Henke (today, 5★, ebike pivot from kayak due to weather, loved it); Hailey Brown (Jun 23, 5★, Lucas guide); Cheyanne Rolfsson (Jun 21, no comment); Jon Decker (Jun 21, no comment).
-- IG: very active — 2 posts today. Jun 14 "human billboard" reel (110 likes / 12 comments) is the format to repeat.
+- FH JSON present but booking arrays empty. Revenue Jun 25: $1,351.62 (from Gmail daily labor report).
+- Google yday $60.28 / 3.18x ROAS / 3.3 conv. 7d: $640.85 / 3.21x. Stable, leave it.
+- Meta yday $27.47: DC Detours Awareness $22.45 / 1 purch ($15.82) / 0.70x ROAS — **pause, spending to lose**. DC Detours Retargeting $5.02 / 0 purch — pause too.
+- GSC (8d): "door county kayak tours" 23 clicks, "kayak door county" 12, "fyr bal festival" 12 (seasonal event — add content if none), "cave point kayak tour" 6.
+- Reviews: 4 unreplied 5★ this week — Jason Henke (Jun 25, ebike-to-kayak weather switch), Hailey Brown (Jun 23, Lucas guide), Cheyanne Rolfsson (Jun 21), Jon Decker (Jun 21).
+- IG @doorcountykayaktours: 2 posts Jun 25 (72L + 34L). Jun 14 "human billboard" reel (110L / 12C) — relatable employee-moment format, make more.
 <!-- live:end -->
 
 ## Quick links
