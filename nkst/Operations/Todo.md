@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] The wheel on the trailer jack is broken. _(Nick Nepoda (audio log), 2026-06-26)_
 - [ ] [Guide log] Establish and enforce a clear procedure for loading kayaks on the trailer, ensuring all kayaks face the same direction to prevent sliding during transport. _(Nick Nepoda (audio log), 2026-06-25)_
 - [ ] [Guide log] Establish a dedicated PFD washing station to regularly clean and maintain life vests, as they are frequently becoming stinky and dirty, posing a hygiene and guest experience issue. This has been a recurring issue. _(Nick Nepoda (audio log), 2026-06-15)_
 - [ ] [Guide log] Replace missing screwdriver in the guide bag. _(Nick Nevoda (audio log), 2026-06-15)_
