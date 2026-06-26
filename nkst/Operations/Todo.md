@@ -91,6 +91,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Monitor guest comfort regarding insects, particularly spiders, throughout the tour. _(Nick Navota (audio log), 2026-06-26)_
 - [ ] [Guide log] Van Mercedes is full of gas and with the guide for tomorrow's tour. _(Stephanie (audio log), 2026-06-22)_
 - [ ] [Guide log] Ensure Mercedes van is returned with a full tank of gas after the 9 AM tour tomorrow. _(Stephanie (audio log), 2026-06-21)_
 - [ ] [Guide log] Check refrigerant levels in the black van's AC system or consider a recharge. _(Nick Nepoda (audio log), 2026-06-13)_
