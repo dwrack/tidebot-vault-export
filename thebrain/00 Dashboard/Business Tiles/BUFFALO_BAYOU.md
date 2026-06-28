@@ -2,21 +2,21 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
+bookings_today: 1
 revenue_today: 0
-lead_time_days: 0
-ad_spend_yday: 0
+lead_time_days: 1
+ad_spend_yday: 23
 status: yellow
-alert: "FH bookings not parsing; payout $671 arriving today"
-updated: 2026-06-26
+alert: "Houston Skyline Tour slot open, 0 signed customers yet"
+updated: 2026-06-28
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH JSON: booking arrays empty, but BBK payout $671.14 (gross) / $656.76 (net) scheduled today 6/26 — confirms active revenue.
-- Meta yday: "Bat Bridge Kayak Tour - Traffic" in act_1015419897308486 — spend split between HPB and BBK not isolated. Traffic objective, no purchase tracking.
-- IG @buffalobayoukayak: "HELP NAME OUR DUCKS" Jun 25 (9L, 2C — participation hook working). USA wins Jun 21 (14L best recent). Cadence consistent, engagement low-medium.
-- Reviews: Kattler 5★ (Jun 23) unreplied. Additional reviews from prior week also pending — assign batch-reply to manager.
+- FH today: Houston Skyline Tour at 10am listed, 0 signed customers in manifest yet.
+- Meta yday $22.96 (act_1015419897308486, shared w/ HPB): Bat Bridge Traffic — 1,085 video views, 139 reactions, 165 landing page views. Strong engagement. Keep running.
+- Reviews: GMZ ROOL MY LIFE + T D Hanson (Jun 28 — today), Kevin Sylver + Neha Gogineni + Hailey Salmen (Jun 27) — 5 unreplied 5★. Sebastian guide mentioned repeatedly. Reply before EOD.
+- IG @buffalobayoukayak: "HELP NAME OUR DUCKS" (Jun 25, 9L / 3C) — check replies. Personality content beats static. Keep it up.
 <!-- live:end -->
 
 ## Quick links

@@ -2,23 +2,24 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 1352
+bookings_today: 4
+revenue_today: 0
 lead_time_days: 30
-ad_spend_yday: 88
-status: yellow
-alert: "FH booking count not parsing; DC Detours Meta 0.70x ROAS — pause"
-updated: 2026-06-26
+ad_spend_yday: 127
+status: green
+alert: null
+updated: 2026-06-28
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH JSON present but booking arrays empty. Revenue Jun 25: $1,351.62 (from Gmail daily labor report).
-- Google yday $60.28 / 3.18x ROAS / 3.3 conv. 7d: $640.85 / 3.21x. Stable, leave it.
-- Meta yday $27.47: DC Detours Awareness $22.45 / 1 purch ($15.82) / 0.70x ROAS — **pause, spending to lose**. DC Detours Retargeting $5.02 / 0 purch — pause too.
-- GSC (8d): "door county kayak tours" 23 clicks, "kayak door county" 12, "fyr bal festival" 12 (seasonal event — add content if none), "cave point kayak tour" 6.
-- Reviews: 4 unreplied 5★ this week — Jason Henke (Jun 25, ebike-to-kayak weather switch), Hailey Brown (Jun 23, Lucas guide), Cheyanne Rolfsson (Jun 21), Jon Decker (Jun 21).
-- IG @doorcountykayaktours: 2 posts Jun 25 (72L + 34L). Jun 14 "human billboard" reel (110L / 12C) — relatable employee-moment format, make more.
+- FH today: E-Bike Rental (Cave Point / Whitefish Bay Dunes) bookings at 10am — active.
+- Google yday $108.65 / 3.2x ROAS / 4.65 conv. 7d: $91.37/day, 2.9x ROAS. Healthy and improving.
+- Meta yday $18.24 (act_10153674414451399): DC Detours Awareness $16.32 + Retargeting $1.92 — low spend, brand awareness. Leave for now.
+- GSC (7d): "door county kayak tours" 28 clicks, "kayak door county" 12, "cave point kayak tour" 8. Strongest organic performer in portfolio.
+- Reviews: Chantel Hasman + Tracy Renee (Jun 27), Jason Henke (Jun 25), Hailey Brown (Jun 23), Cheyanne Rolfsson (Jun 21) — 5 unreplied 5★. Batch-reply today.
+- IG @doorcountykayaktours: "brb adding human billboard" (Jun 14, 112L/12C) — best formula. "Unskippable cutscene" (Jun 25, 78L). Keep making guide POV content.
+- Gmail: 1 missed clock-out Jun 27 in daily labor report — check which guide.
 <!-- live:end -->
 
 ## Quick links

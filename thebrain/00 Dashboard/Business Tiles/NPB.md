@@ -2,23 +2,23 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 0
+bookings_today: 12
 revenue_today: 0
-lead_time_days: 7
-ad_spend_yday: 72
-status: yellow
-alert: "customer name email unread; FH bookings not parsing"
-updated: 2026-06-26
+lead_time_days: 14
+ad_spend_yday: 78
+status: green
+alert: null
+updated: 2026-06-28
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Customer email in nolapedalbarge inbox — name wrong on booking. Reply and fix in FH today.**
-- FH JSON present but booking arrays empty. Portfolio: 62 bookings / $9,209 Jun 25 (from Gmail digest). No per-NPB split.
-- Meta yday: Retargeting $19.79 / 1 purchase ($299) / 15.13x ROAS — keep, consider scaling. Creative Testing $42.42 / 0 purchases / 0x ROAS — PAUSE (Day 2, was in yesterday's Top 3). Messenger TOF $9.83 / awareness.
-- Gravity Trails NOLA Google (umbrella NPB+NKST): yday $108.43 / 13.45x ROAS / 7d $804.80 / 9.49x. Strong.
-- Reviews: 4 unreplied 5★ — Justin Roberts (Jun 24), Shawn S (Jun 24), Marcus Haufschild (Jun 18), Vicky Jointer (Jun 6). Assign to manager.
-- IG @nolapartybarge: Jun 22 (21L), Jun 13 (44L). Brass band bayou reel Jun 8 (176L) still the benchmark format.
+- **ACTION: Birthday party inquiry in NPB inbox** — Chegro Benson ("Brendon & Eve") emailed nolapedalbarge@gmail.com about August 2026 availability. No reply sent. Reply with private boat options and booking link.
+- FH today: Very busy Saturday — 5+ private charters with multiple waiver signers. Strong manifest.
+- Meta yday $78.94 (act_87863118): Creative Testing $26.57 / 0 purch — **PAUSE (Day 3)**. Retargeting $13.10 / 569 video views. Messenger TOF $10.75. NKST Email Lead $8.72 / 12 leads @ $0.73/lead (shared — keep).
+- Gravity Trails NOLA Google (umbrella): yday $147.56 / 9.3x ROAS (7d 13.8x — dipped, watch next 2-3 days).
+- Reviews: Justin Roberts + Shawn S (Jun 24), Marcus Haufschild (Jun 18) — unreplied 5★.
+- IG @nolapartybarge: Jun 8 brass second-line reel (178L) still the benchmark. Recent posts (22-33L) underperforming. Replicate the live-sound, crowd-energy format.
 <!-- live:end -->
 
 ## Quick links

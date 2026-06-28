@@ -5,20 +5,20 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 7
-ad_spend_yday: 43
+ad_spend_yday: 48
 status: red
-alert: "Connor GBP reply bomb live; Tatyanna BBB threat; Google tracking broken"
-updated: 2026-06-26
+alert: "ZERO availabilities today (Saturday) — no tours on calendar"
+updated: 2026-06-28
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Connor's GBP reply on one of the June 6 storm reviews uses police/harassment language.** Delete or rewrite before it gets screenshot. This one reply is a bigger reputation risk than the 8 original 1★ reviews.
-- **TIER 1: Tatyanna Gibbs updated her 1★ on 6/25 threatening BBB** — says promised cash refund was never processed. Text Michael: were the June 6 storm refunds actually paid?
-- Sharon K Marsh 5★ (today, Jun 26) — "filled the barge with ladies" — no reply yet.
-- **Google (2986009791): $22.79 yday, ROAS 0.09, 2 conversions at $1 each.** Conversion tracking is misconfigured — $1 is the default placeholder. 7d spend $53.91 with no measurable return. Fix or pause.
-- Meta yday: $20.51 (Bat Bridge traffic objective, no purchase tracking).
-- IG @houstonpedalbarge: consistently posting but 1-7L per post. Interactive format (Jun 21 giveaway, 7L/5C) works best.
+- **TIER 1: Zero availabilities in FH today (Saturday June 28, peak summer).** Text Connor immediately — is this intentional, a scheduling gap, or FH entry failure? Make sure Sunday is covered.
+- **TIER 1: Tatyanna Gibbs updated her 1★ June 25** — threatening BBB because promised cash refund was never processed. Confirm with Connor whether refund was issued.
+- **Google Ads (2986009791): PAUSE NOW.** $77.60 spent over 7 days, $4 in attributed conversions (ROAS 0.05x). With no tours running, every ad dollar is wasted. Pause until bookings are back and conversion tracking is confirmed.
+- Sharon K Marsh 5★ (June 26) — no reply yet.
+- Meta yday: $22.96 (Bat Bridge Traffic — 1,085 video views, 139 reactions — strong engagement for BBK, not HPB-direct).
+- IG @houstonpedalbarge: giveaway post (June 21) = 7 likes, 5 comments — check for replies. "Houston, we have boats going out all weekend" (June 27) = 3 likes. Low across the board.
 - TikTok: Playwright not running (ECONNREFUSED) — no data today.
 <!-- live:end -->
 

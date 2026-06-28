@@ -2,25 +2,25 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
-lead_time_days: 10
-ad_spend_yday: 34
-status: yellow
-alert: "Meta retargeting 0x purchases (Day 2) — pause; organic search effectively dead"
-updated: 2026-06-26
+bookings_today: 6
+revenue_today: 1410
+lead_time_days: 7
+ad_spend_yday: 28
+status: green
+alert: null
+updated: 2026-06-28
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH JSON present but booking arrays empty. No per-NKST revenue available.
-- Meta yday: Retargeting $25.19 / 0 purch / 0x ROAS — **PAUSE (Day 2)**. Lead Campaign $8.82 / 4 leads — keep.
-- Gravity Trails NOLA Google (umbrella NPB+NKST): yday $108.43 / 13.45x ROAS / 7d $804.80 / 9.49x. Excellent.
-- GA4 Jun 25: 171 sessions. IG drives most traffic (44) but zero last-click conversions. Google (25) + direct (30) drive all 30 tracked conversions. IG is top-of-funnel, not last-touch.
-- **GSC: near-zero organic.** Top queries all 0 clicks. Site is invisible in search — flag for SEO audit.
-- Reviews: 4 unreplied 5★ — Richard Metcalf (Jun 14), Carrie Lipchin (May 31), Dean Fang (May 27), Megan Troyer (May 25).
-- IG: API permission error (code 10) — no data today.
-- Watched page (airboat-vs-kayak): 0 GSC clicks, 0 GA4 views (8d window). Still flat vs Jun 2 baseline.
+- FH today: Active — Kayak Swamp + Whitney Plantation Combo tours. ~$1,410 visible in manifest.
+- Meta yday (act_87863118): NKST Retargeting $19.80 / 0 purch — **PAUSE (Day 3)**. NKST Email Lead $8.72 / 12 leads @ $0.73/lead (shared w/ NPB — keep).
+- Gravity Trails NOLA Google (umbrella): yday $147.56 / 9.3x ROAS (7d 13.8x — dipped, watch).
+- GA4 Jun 27: 247 sessions. Top source: instagram.com (64). 12 conversions. IG is primary acquisition channel.
+- GSC: 0 clicks in pull despite impressions. Possible data gap; needs monitoring.
+- Reviews: Richard Metcalf (Jun 14), Carrie Lipchin (May 31), Dean Fang (May 27), Megan Troyer (May 25) — all unreplied 5★.
+- IG @kayaknola: API permission error (code 10) — organic data unavailable.
+- Watched page (airboat vs kayak): 1 GA4 view in 7d (baseline 3), 0 GSC clicks. Still flat.
 <!-- live:end -->
 
 ## Quick links

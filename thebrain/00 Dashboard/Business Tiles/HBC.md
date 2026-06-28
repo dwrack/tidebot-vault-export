@@ -8,13 +8,13 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "IG dormant since Nov 2025; no GBP/GSC/Ads coverage"
-updated: 2026-06-26
+updated: 2026-06-28
 tile_type: business
 ---
 
 <!-- live:start -->
 - No GBP / GSC / Google Ads wired up. IG @houstonboozecruise is the only tracked channel.
-- Last IG post: November 2025 — still dormant.
+- Last IG post: November 2025 — 7+ months silent. Effectively dormant.
 - Nothing actionable today.
 <!-- live:end -->
 
