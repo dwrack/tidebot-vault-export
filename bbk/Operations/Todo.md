@@ -1,6 +1,7 @@
 # Buffalo Bayou Kayak — Todo List
 
 ## High Priority
+- [ ] [Guide log] Confirm all guests from the Bat Tour have returned. _(Sebastian (audio log), 2026-06-28)_
 - [ ] [Guide log] Replace the ripped seat on one of the yellow tandem kayaks. _(Alex (audio log), 2026-06-27)_
 - [ ] [Guide log] Repair the kayak that developed a small hole during the tour. _(Captain Tyler (audio log), 2026-06-27)_
 - [ ] [Guide log] Assess and address the issue with the loading dock stairs/submergence once water levels recede. _(Dillon (audio log), 2026-06-05)_
