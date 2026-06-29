@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "IG dormant since Nov 2025; no GBP/GSC/Ads coverage"
-updated: 2026-06-28
+updated: 2026-06-29
 tile_type: business
 ---
 

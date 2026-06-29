@@ -2,23 +2,24 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 12
+bookings_today: 0
 revenue_today: 0
 lead_time_days: 14
-ad_spend_yday: 78
-status: green
-alert: null
-updated: 2026-06-28
+ad_spend_yday: 140
+status: red
+alert: "1★ Derrick Freeman review unreplied (Jun 28) — captain incident; anniversary inquiry in inbox unanswered"
+updated: 2026-06-29
 tile_type: business
 ---
 
 <!-- live:start -->
-- **ACTION: Birthday party inquiry in NPB inbox** — Chegro Benson ("Brendon & Eve") emailed nolapedalbarge@gmail.com about August 2026 availability. No reply sent. Reply with private boat options and booking link.
-- FH today: Very busy Saturday — 5+ private charters with multiple waiver signers. Strong manifest.
-- Meta yday $78.94 (act_87863118): Creative Testing $26.57 / 0 purch — **PAUSE (Day 3)**. Retargeting $13.10 / 569 video views. Messenger TOF $10.75. NKST Email Lead $8.72 / 12 leads @ $0.73/lead (shared — keep).
-- Gravity Trails NOLA Google (umbrella): yday $147.56 / 9.3x ROAS (7d 13.8x — dipped, watch next 2-3 days).
-- Reviews: Justin Roberts + Shawn S (Jun 24), Marcus Haufschild (Jun 18) — unreplied 5★.
-- IG @nolapartybarge: Jun 8 brass second-line reel (178L) still the benchmark. Recent posts (22-33L) underperforming. Replicate the live-sound, crowd-energy format.
+- **TIER 1: Reply to Derrick J. Freeman 1★ GBP review (Jun 28, UNREPLIED).** Captain walked off mid-tour during family birthday celebration, was cursing and throwing a tantrum. ~16h since posted. GBP 16753778394051046706.
+- **TIER 1: 25th anniversary private event inquiry in NPB inbox.** Couple asking about Aug 27 private charter. No reply sent. High-value booking. Reply today via nolapedalbarge@gmail.com.
+- FH: stale cache — from daily email Jun 28: NPB booked $5,067 (+87%). Strong Sunday.
+- Meta yday (act_87863118): Retargeting $23.16 / 2 purch / $1,677 / **72.4x ROAS** — best in portfolio. Creative Testing $38.28 / 0 purch — **shift budget to Retargeting.** Messenger TOF $21.75 / 11 DM connections.
+- Gravity Trails NOLA Google (umbrella, shared with NKST): $113.01 yday / 7.39x all-conv ROAS. 7d avg 14.22x — single-day dip, watch Monday.
+- 4 unreplied 5★ reviews (Justin Roberts, Shawn S Jun 24; Marcus Haufschild Jun 18; Vicky Jointer Jun 6).
+- IG @nolapartybarge: brass band at docks Jun 8 (178L) still the benchmark. No posts in last 7d.
 <!-- live:end -->
 
 ## Quick links

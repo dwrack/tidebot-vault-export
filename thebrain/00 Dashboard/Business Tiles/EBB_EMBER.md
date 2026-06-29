@@ -7,16 +7,17 @@ revenue_today: 0
 lead_time_days: 7
 ad_spend_yday: 0
 status: yellow
-alert: "5 unreplied GBP reviews Jun 17-23"
-updated: 2026-06-28
+alert: "2 unreplied 5★ GBP reviews Jun 23; IG The Downpour 5 comments unchecked"
+updated: 2026-06-29
 tile_type: business
 ---
 
 <!-- live:start -->
 - No Meta or Google ad accounts (by design). Books via own system, not FareHarbor.
-- **IG @ebbandember is the strongest account in the portfolio.** "Meet The Downpour" (Jun 19, 126L/5C) — check comments for replies. "9pm. sunset. floating sauna" (Jun 25, 65L). New post today Jun 28 1:58am ("the Columbia is alive") already at 24L.
-- GBP: Craig Lechtenberg + Rosalie Siler (Jun 23), Justin Quimbey + Diana Partida + Mia Hogan (Jun 17) — 5 unreplied 5★. Assign to Kimberlyn.
-- "Best PDX/Vancouver river day" theme repeating across reviews — capture in web copy.
+- **IG @ebbandember is the strongest organic account in the portfolio.** "Meet The Downpour" Jun 19 (126L/5C) — **check 5 comments for replies.** "9pm sunset sauna" Jun 25 (67L/4C). "Solstice" Jun 22 (65L/4C). "Banya Monday" Jun 28 carousel (33L and growing). Kimberlyn is delivering.
+- GBP: Craig Lechtenberg + Rosalie Siler (Jun 23) — 2 unreplied 5★. Assign to Kimberlyn. Justin Quimbey + Diana Partida + Mia Hogan (Jun 17) also unreplied. Total 5 unreplied.
+- "Best PDX/Vancouver river day" theme repeating in reviews — use this language in web copy.
+- The Downpour concept is a hit — make more content in that rain/moody-weather frame.
 <!-- live:end -->
 
 ## Quick links
