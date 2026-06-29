@@ -41,6 +41,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Clean and sanitize PFDs due to stinkiness. _(Nick Nepoda (audio log), 2026-06-29)_
 - [ ] [Guide log] Clean/air out PFDs as they are stinky. _(Nick Napoda (audio log), 2026-06-29)_
 - [ ] [Guide log] PFDs are stinky and require cleaning/sanitization. _(Nick Nepota (audio log), 2026-06-27)_
 - [ ] [Guide log] PFDs are stinky and require thorough cleaning/sanitizing. _(Nick Nepoda (audio log), 2026-06-27)_
