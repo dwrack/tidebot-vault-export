@@ -2,26 +2,25 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 5
+revenue_today: 2870
 lead_time_days: 7
-ad_spend_yday: 93
-status: yellow
-alert: "data stale — FH scrape missing; Meta Retargeting 0 purchases 7d (pixel bug)"
-updated: 2026-06-29
+ad_spend_yday: 37
+status: green
+alert: null
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: stale cache. No per-business numbers available today.
-- Meta yday (act_87863118): Retargeting $25.27 / 0 purch — **pause.** FH CAPI token pending fix from FH David Thompson. Lead Email $11.02 / 5 leads @ $2.20/lead — keep.
-- Meta 7d: Retargeting $172.58 / 0 purch. Lead Email $70.20 / 43 leads @ $1.63/lead — solid.
-- Gravity Trails NOLA Google (umbrella, shared with NPB): $113.01 yday / 7.39x all-conv.
-- GA4 Jun 28: 269 sessions. Top source: instagram.com (59). 69 Google conversions. IG is primary acquisition channel.
-- GSC: impressions for swamp tour queries but 0 clicks. Organic on this domain flat.
-- Reviews: all replied — clean. Team actively replying (Ellis Burgess 5★ Jun 28 already replied).
-- IG @kayaknola: permission error (API code 10) — organic data unavailable.
-- Watched page (airboat vs kayak): 1 GA4 view in 8d window, 0 GSC clicks. Still flat vs baseline.
+- FH today (Jun 30): 5 booking groups on 8:30am–1pm tour. Visible revenue ~$2,870: Elizabeth + Clinton Edge ($1,610), group of 3 FQ pickup ($630), Stacy/Khloe Cruz ($310), Lisa Jordan ($165), Isis Gomez ($155).
+- FH yday (Jun 29 Monday): Part of portfolio's 21 new bookings / $4,416 booked at 14.49x ROAS.
+- Meta yday (act_87863118): NKST Retargeting $26.66 + NKST Lead $10.71. No purchase conversions tracked (FH pixel still not firing on NOLA).
+- GA4 (Jun 29): 236 sessions — IG 69 (0 conv), fb 47 (7 conv), direct 43 (20 conv), google 40 (8 conv). 43 total conversions.
+- GSC: Very weak organic — 8 queries, 0 clicks. Alligator-related terms showing impressions but no click-through.
+- Watched page (Airboat vs Kayak): Still flat vs baseline — 0 clicks, 0 impressions. No change since Jun 2.
+- IG @kayaknola: API permission error (code 10) — no data this run.
+- 1 unreplied 5★: Taylor M (Jun 29).
 <!-- live:end -->
 
 ## Quick links

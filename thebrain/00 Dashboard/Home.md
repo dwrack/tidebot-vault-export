@@ -1,31 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-06-29*
+*Last refresh: 2026-06-30*
 
 ## Right now
-- [[Daily Briefings/2026-06-29|Today's brief]]
+- [[Daily Briefings/2026-06-30|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NPB — reply to Derrick J. Freeman 1★ GBP review (Jun 28, UNREPLIED).** Captain walked off mid-tour during a family birthday celebration, cursing and throwing a tantrum. ~16h since posted. Fastest rep threat in today's brief. GBP loc 16753778394051046706.
-2. **NPB — reply to 25th anniversary private event inquiry in NPB inbox.** Couple asking about Aug 27 private charter for their anniversary. High-value, no reply yet. Check nolapedalbarge@gmail.com.
-3. **LSKT — reply to Anna B 1★ GBP review (July 2024, ~1 year unreplied).** Day 5 in Top 3. Guide promised photos, never sent them, two follow-ups ignored. GBP loc 11383026800789938857.
+1. **NPB — reply to Derrick J. Freeman 1★ GBP review (Jun 28, now 2 days unanswered).** Captain walked off mid-tour during a family birthday, cursed and threw a tantrum. GBP loc 16753778394051046706.
+2. **HPB — escalate the Jun 6 storm refunds.** Tatyanna Gibbs updated her 1★ on Jun 25: refund still not issued. Connor's combative public reply (police threats) is live on Google. Someone above Connor needs to issue refunds + post corrective reply. GBP loc 9402272527782840373.
+3. **HPB — pause Google Ads until pixel is fixed.** $124.23 spent in 7 days at 0.06x ROAS ($7 tracked). Running completely blind. Account 2986009791.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (6/28) | 7-day avg | Delta |
+| Signal | Yesterday (6/29) | Prior day (6/28) | Notes |
 |---|---|---|---|
-| Gmail unread (personal) | 11 | ~9 | +2 |
-| NPB inbox unread | 4 (1 actionable: anniversary inquiry) | ~2 | +2 |
-| Unreplied GBP reviews (1-3★, all biz) | 2 (NPB Derrick Freeman + LSKT Anna B) | ~1 | +1 |
-| FH bookings (portfolio) | 88 new (from daily email) | ~54/day | +34 |
-| FH revenue (portfolio) | $10,889 (from daily email) | ~$7,700/day | +$3,189 |
-| Total ad spend (G+M) | $434.15 | ~$456/day | -$22 |
-| Portfolio ROAS | 25.09x (daily email) | ~17x | +8x |
+| Business Gmail unread | 8 (2 inboxes) | ~5 | No urgent customer threads |
+| Unreplied GBP 1-3★ | 2 critical | 2 | NPB Derrick Freeman + HPB Jun 6 cluster |
+| Unreplied GBP 4-5★ | 15+ | ~8 | DCKT, BBK, AKT, E&E stacked up |
+| FH new bookings | 21 | 88 (Sat) | Monday low; $4,416 booked |
+| FH revenue booked | $4,416 | $10,889 | 14.49x portfolio ROAS |
+| Total ad spend (G+M) | ~$447 | ~$434 | G: ~$265, M: ~$143 |
+| HPB Google Ads ROAS (7d) | 0.06x | 0.06x | PAUSE — pixel broken |
+| Gravity Trails NOLA ROAS (7d) | 16.04x | — | Let it run |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -34,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-06-29]] (today)
-- [[Daily Briefings/2026-06-28]] (1 day ago)
-- [[Daily Briefings/2026-06-26]] (3 days ago)
-- [[Daily Briefings/2026-06-25]] (4 days ago)
-- [[Daily Briefings/2026-06-24]] (5 days ago)
-- [[Daily Briefings/2026-06-23]] (6 days ago)
-- [[Daily Briefings/2026-06-22]] (7 days ago)
+- [[Daily Briefings/2026-06-30]] (today)
+- [[Daily Briefings/2026-06-29]] (1 day ago)
+- [[Daily Briefings/2026-06-28]] (2 days ago)
+- [[Daily Briefings/2026-06-26]] (4 days ago)
+- [[Daily Briefings/2026-06-25]] (5 days ago)
+- [[Daily Briefings/2026-06-24]] (6 days ago)
+- [[Daily Briefings/2026-06-23]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

@@ -4,19 +4,18 @@ display_name: Austin Kayak Tours
 city: Austin
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 0
+lead_time_days: 7
 ad_spend_yday: 0
-status: yellow
-alert: "2 recent unreplied 5★ GBP reviews (Jun 19-23)"
-updated: 2026-06-29
+status: green
+alert: null
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- No separate FH shortname; bookings flow through LSKT. Ads shared (8497383499).
-- **2 unreplied 5★ reviews (Tier 2):** Howard Nichols (Jun 23), Ella Messa (Jun 19). Rachel Domangue (Jun 3) also unreplied. Batch-reply when doing DCKT/LSKT.
-- IG @austinkayaktours: Jun 18-19 USA 250-year posts (7-20L). Consistent but modest.
-- No urgent action today beyond batch review replies.
+- No separate FH shortname. Bookings flow through LSKT; ads shared (8497383499).
+- **6 unreplied 5★ reviews: Howard Nichols (Jun 23), Ella Messa (Jun 19), Rachel Domangue (Jun 3), Diane Gonzolas (Jun 3), BadMonsterMan (May 29), Lisa Williams (May 26). Batch-reply today.**
+- IG @austinkayaktours: Last post Jun 19 (7 likes). Posting frequency dropping — 11 days since last post.
 <!-- live:end -->
 
 ## Quick links

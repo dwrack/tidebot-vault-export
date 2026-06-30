@@ -5,19 +5,18 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 1
-ad_spend_yday: 23
+ad_spend_yday: 19
 status: yellow
-alert: "6 unreplied 5★ GBP reviews Jun 27-28; data stale — FH scrape missing"
-updated: 2026-06-29
+alert: "0 bookings on today manifest; 7 unreplied 5★ GBP reviews Jun 20-30"
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: stale cache. No booking data available today.
-- Meta yday $22.61 (act_1015419897308486 "Bat Bridge Traffic"): strong engagement — 209 link clicks, 154 landing page views. No purchase conversion tracking on this campaign (traffic only). Keep running.
-- **6 unreplied 5★ reviews (Tier 2):** Kaitlyn Oberneufemann (Jun 28), GMZ ROOL (Jun 28), T D Hanson (Jun 28), Kevin Sylver (Jun 27), Neha Gogineni (Jun 27), Hailey Salmen (Jun 27). Sebastian named multiple times. Batch-reply today.
-- IG @buffalobayoukayak: "HELP NAME OUR DUCKS" Jun 25 (9L/3C) — check replies. Great personality content, posting frequently. Keep this cadence.
-- Daily 5★ reviews + guide Sebastian shoutouts — strong ops signal.
+- FH today (Jun 30): Houston Skyline Tour (10am–12pm) available — 0 bookings as of scrape.
+- Meta (act_1015419897308486, shared with HPB): $19.08 — BBK Bat Bridge Traffic, 157 outbound clicks. No purchase tracking on this campaign.
+- **7 unreplied 5★ reviews from Jun 20-30. Guides Sebastian, Ian, Josh, Chad named. Batch-reply today — builds local SEO signal during Houston summer. GBP loc 12969424608141307230.**
+- IG @buffalobayoukayak: Very active. Jun 29 bats reel "Houston after dark hits different" (21 likes, **3 comments**). Full moon content running. Strong cadence.
 <!-- live:end -->
 
 ## Quick links

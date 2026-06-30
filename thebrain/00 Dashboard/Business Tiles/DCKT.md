@@ -2,24 +2,23 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 2770
-lead_time_days: 30
-ad_spend_yday: 117
-status: yellow
-alert: "7 unreplied 5★ GBP reviews Jun 21-28; data stale — FH scrape missing"
-updated: 2026-06-29
+bookings_today: 10
+revenue_today: 0
+lead_time_days: 38
+ad_spend_yday: 103
+status: green
+alert: null
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: stale cache. From DCKT labor report Jun 28: revenue $2,770.50, 34.5 hrs labor, $734.70 cost, 6.1% ratio — clean margins.
-- Google yday $90.24 / 16.7x all-conv ROAS / tracked 1.18x. 7d: $606.82 / ~13x all-conv. Yesterday dip vs 7d avg — Sunday pattern. Watch Monday.
-- Meta yday $26.57 (act_10153674414451399): DC Detours Awareness $20.67 / 0 purch; DC Detours Retargeting $5.90 / 2 purch / $63 / 10.7x. **Pause Awareness, scale Retargeting.** 7d Awareness ROAS 0.40x vs Retargeting 10.2x.
-- GSC (7d): "door county kayak tours" 28 clicks, "kayak door county" 12. Strongest organic portfolio-wide. "door county kayaking" at pos 7.25 — opportunity to push to top 5.
-- **7 unreplied 5★ reviews (Tier 2):** Jennifer Jones (Jun 28), Chantel Hasman (Jun 27), Tracy Renee (Jun 27), Jason Henke (Jun 25), Hailey Brown (Jun 23), Cheyanne Rolfsson (Jun 21), Jon Decker (Jun 21). Named guides: Ethan, Lucas, Leah. Batch-reply today.
-- IG @doorcountykayaktours: "Human billboard" Jun 14 (112L/12C) — guide POV is the formula. "Unskippable cutscene" Jun 25 (78L). Check 12 comments on human billboard for replies.
-- Blog comment pending approval on "The Rougarou" at kayakingheaven.com — check DCKT inbox.
+- FH today (Jun 30): Cave Point / Whitefish Dunes 1/2 Day Kayak Tour (8am–12pm). Multiple groups booked — groups of 6, 3, 2 visible in manifest. Reschedule/inquiry notes for July 1 also visible. Strong peak-season load.
+- Google (8672151991): $74.61 yday / 0.14x ROAS (Sunday dip). 7d: $609.48 / 2.72x — healthy destination product.
+- Meta (act_10153674414451399): $28.33 yday. 2 purchases at $21.10 each = $42.20. ~1.5x awareness, ~3.5x retargeting.
+- GSC: "door county kayak tours" 29 clicks, "kayak door county" 13 clicks, "cave point kayak tour" 9 clicks. Best organic in portfolio.
+- IG @doorcountykayaktours: "Human billboard" Jun 14 (112 likes, **12 comments — reply now**). 4th of July promo Jun 29 (19 likes, 2 comments). "Unskippable cutscene" Jun 25 (79 likes).
+- **6 unreplied 5★: Ellen L (Jun 30), Jennifer Jones (Jun 28), Chantel Hasman (Jun 27), Tracy Renee (Jun 27), Jason Henke (Jun 25), Hailey Brown (Jun 23). Batch-reply today.**
 <!-- live:end -->
 
 ## Quick links

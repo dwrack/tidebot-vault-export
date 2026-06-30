@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Funnel brand only; IG dormant since 2019"
-updated: 2026-06-29
+alert: "Dormant — IG last post April 2019, minimal organic traffic"
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
 - Umbrella funnel routing to NPB / Bike Bar / NKST. No direct bookings.
-- GSC (7d): 8 clicks across NOLA experience queries. Funnel doing its job quietly.
-- IG @admirenola: last post April 2019. Fully dormant.
-- No ad spend, no reviews needing attention today.
+- GSC: "plantation tour new orleans" 2 clicks. Near-zero organic.
+- IG @admirenola: Last post April 2019. Fully dormant.
+- GBP: Old reviews, all replied. No new activity.
 <!-- live:end -->
 
 ## Quick links

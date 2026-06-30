@@ -2,24 +2,23 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 120
 lead_time_days: 14
-ad_spend_yday: 140
-status: red
-alert: "1★ Derrick Freeman review unreplied (Jun 28) — captain incident; anniversary inquiry in inbox unanswered"
-updated: 2026-06-29
+ad_spend_yday: 19
+status: yellow
+alert: "1★ Derrick Freeman 2 days unreplied — captain walkout incident"
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Reply to Derrick J. Freeman 1★ GBP review (Jun 28, UNREPLIED).** Captain walked off mid-tour during family birthday celebration, was cursing and throwing a tantrum. ~16h since posted. GBP 16753778394051046706.
-- **TIER 1: 25th anniversary private event inquiry in NPB inbox.** Couple asking about Aug 27 private charter. No reply sent. High-value booking. Reply today via nolapedalbarge@gmail.com.
-- FH: stale cache — from daily email Jun 28: NPB booked $5,067 (+87%). Strong Sunday.
-- Meta yday (act_87863118): Retargeting $23.16 / 2 purch / $1,677 / **72.4x ROAS** — best in portfolio. Creative Testing $38.28 / 0 purch — **shift budget to Retargeting.** Messenger TOF $21.75 / 11 DM connections.
-- Gravity Trails NOLA Google (umbrella, shared with NKST): $113.01 yday / 7.39x all-conv ROAS. 7d avg 14.22x — single-day dip, watch Monday.
-- 4 unreplied 5★ reviews (Justin Roberts, Shawn S Jun 24; Marcus Haufschild Jun 18; Vicky Jointer Jun 6).
-- IG @nolapartybarge: brass band at docks Jun 8 (178L) still the benchmark. No posts in last 7d.
+- **TIER 1: Reply to Derrick J. Freeman 1★ GBP review (Jun 28, now 2 days unanswered).** Captain walked off mid-tour during a family birthday celebration, cursed and threw a tantrum. GBP loc 16753778394051046706.
+- FH today: 1 booking ($119.77) for 6pm–7:45pm slot. Low volume for a Tuesday — swamp tour or eco product (not private party).
+- FH yday (Jun 29 Monday): Part of portfolio's 21 new bookings, $4,416 booked. NPB ran at 17.6x ROAS per daily email.
+- Meta yday (act_87863118): NPB Retargeting $19.33 + NPB Creative Testing $21.52 + NPB Messenger TOF $16.98. No purchase conversions tracked (FH pixel not firing on NOLA).
+- 2 unreplied 5★: Justin Roberts (Jun 24), Shawn S (Jun 24).
+- IG @nolapartybarge: Posted Jun 29 reel (17 likes). Engagement down from Jun 8 brass band peak (178 likes).
 <!-- live:end -->
 
 ## Quick links

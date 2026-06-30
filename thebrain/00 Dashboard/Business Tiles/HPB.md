@@ -4,22 +4,21 @@ display_name: Houston Pedal Barge
 city: Houston
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 7
-ad_spend_yday: 10
+lead_time_days: 10
+ad_spend_yday: 65
 status: red
-alert: "Google Ads ROAS 0.06x (broken tracking, $80.95 spent/7d) — pause; Tatyanna Gibbs BBB threat unresolved"
-updated: 2026-06-29
+alert: "Refund crisis ongoing (Jun 6 cluster) + Google Ads conversion tracking broken (0.06x ROAS, 7d)"
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Pause Google Ads account 2986009791.** $80.95 spent over 7 days for $5 tracked conversion value (ROAS 0.06x). Conversion tracking showing $1 per conversion — broken. Same call for 3 days running. Pause until tracking is confirmed.
-- **Tatyanna Gibbs 1★ BBB threat (Jun 25):** Connor's reply directed her to info@houstonpedalbarge.com. Confirm with Connor whether refund was issued and complaint resolved.
-- FH: stale cache. No booking data for today.
-- Meta: act_1015419897308486 "Bat Bridge Traffic" ($22.61 yday) is BBK-branded, not HPB-direct. Not attributable here.
-- Sharon K Marsh 5★ (Jun 26) — no reply yet.
-- IG @houstonpedalbarge: new post Jun 29 "Houston after dark" (16L/3C — check comments). Giveaway post Jun 21 has 5 comments — check replies needed.
-- TikTok: session expired — Playwright browser not running (ECONNREFUSED). Re-login needed.
+- **TIER 1: Escalate Jun 6 storm refunds.** Tatyanna Gibbs updated 1★ on Jun 25 — refund promised, still not issued. Connor's combative public reply (threatening police reports, accusing customers of harassment) is live on Google. Need someone above Connor to issue refunds and post a corrective reply. GBP loc 9402272527782840373.
+- **TIER 1: Pause Google Ads (2986009791).** $124.23 spent over 7 days at 0.06x ROAS ($7 tracked conversions). FH CAPI/pixel fix has not landed. Spending $46/day with zero learning signal.
+- FH today (Jun 30): 0 bookings visible on manifest.
+- IG @houstonpedalbarge: Jun 21 giveaway post has **5 unanswered comments**. Jun 23 has 2 comments. Low engagement (3-7 likes).
+- 1 unreplied 5★: Sharon K Marsh (Jun 26) — "We filled the barge with ladies and had a great time!"
+- TikTok: Playwright browser not connected (ECONNREFUSED) — needs re-login.
 <!-- live:end -->
 
 ## Quick links

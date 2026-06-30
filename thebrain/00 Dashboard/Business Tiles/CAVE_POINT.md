@@ -4,19 +4,19 @@ display_name: Cave Point Paddle & Pedal
 city: Door County
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 0
+lead_time_days: 14
 ad_spend_yday: 0
-status: yellow
-alert: "IG dormant ~1yr; GSC returned no data"
-updated: 2026-06-29
+status: green
+alert: null
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FH scrape, no ad spend. Quiet today.
-- GSC (cavepointpp.com): empty rows — no indexed content with ranking.
-- IG @cavepointpp: last real post June 2025 — dormant ~1 year.
-- GBP: 4.9 listing, existing reviews replied. Nothing new today.
+- No FH scraper coverage. No Google Ads. Quiet today.
+- GSC (cavepointpp.com): Empty response — no impressions in window.
+- IG @cavepointpp: Dormant. Last meaningful post 2022.
+- GBP: Old reviews, all replied. No new activity.
 <!-- live:end -->
 
 ## Quick links

@@ -4,19 +4,19 @@ display_name: Door County Ebike
 city: Door County
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 0
+lead_time_days: 7
 ad_spend_yday: 0
-status: yellow
-alert: "GSC essentially invisible; SEO fixes blocked on WP login"
-updated: 2026-06-29
+status: green
+alert: null
+updated: 2026-06-30
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FH scrape, no ad spend. Quiet today.
-- GSC (doorcountykayak.com, 7d): 1 impression for "is door county dog friendly" — zero clicks. Essentially no keyword presence.
-- SEO fixes staged in vault note (03 Projects/doorcountykayak-seo-fixes.md). Blocked on WP login — waiting on FH to re-enable the 'kayak' username.
-- GBP: 4.9 listing, all reviewed replied. No new activity.
+- No FH scraper coverage. No Google Ads. Quiet today.
+- GSC (doorcountykayak.com): Near-zero — "is door county dog friendly" 0 clicks.
+- SEO fixes staged in vault (03 Projects/doorcountykayak-seo-fixes.md). Blocked on WP login — waiting on FH to re-enable the 'kayak' username.
+- GBP: Old reviews, all replied. No new activity.
 <!-- live:end -->
 
 ## Quick links
