@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "generated_at": "2026-06-30T11:47:28.206Z",
+    "for_date": "2026-06-29",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "booked_count": 3,
+      "booked_revenue": 433,
+      "ran_count": 3,
+      "ran_revenue": 417
+    },
+    "doorcountykayaktours": {
+      "booked_count": 23,
+      "booked_revenue": 994,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "houstonpedalbarge": {
+      "booked_count": 3,
+      "booked_revenue": 1289,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "lonestarkayaktours": {
+      "booked_count": 7,
+      "booked_revenue": 541,
+      "ran_count": 1,
+      "ran_revenue": 108
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 1,
+      "booked_revenue": 130,
+      "ran_count": 1,
+      "ran_revenue": 234
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 7,
+      "booked_revenue": 2023,
+      "ran_count": 6,
+      "ran_revenue": 2033
+    }
+  },
+  "errors": {}
+}
