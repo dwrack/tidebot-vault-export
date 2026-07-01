@@ -41,6 +41,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Check and tighten the seat on the front left kayak of the Blue Streak. _(Ryan (audio log), 2026-07-01)_
 - [ ] [Guide log] Replace broken paddle handle. _(Ethan (audio log), 2026-06-26)_
 - [ ] [Guide log] Inspect and address the loose/wobbly paddle shaft for kayak number seven (tightening or replacement needed). _(Sarah (audio log), 2026-06-25)_
 - [ ] [Guide log] Check the specific kayak involved in the capsizing for any seal issues or cracks. _(Dan (audio log), 2026-06-23)_
