@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Procure and supply a rinse bucket and cleaner for PFDs, as they are stinky, sweaty, and greasy with body odor buildup. This has been requested previously by the guide. _(Nick Nepota (audio log), 2026-07-02)_
 - [ ] [Guide log] Address the stinky PFDs. Acquire a rinse bucket and appropriate cleaner to properly clean them. _(Nick Napoda (audio log), 2026-07-02)_
 - [ ] [Guide log] Repair the broken wheel on the jack of the trailer. _(Nick Nepoda (audio log), 2026-06-26)_
 - [ ] [Guide log] The wheel on the trailer jack is broken. _(Nick Nepoda (audio log), 2026-06-26)_
