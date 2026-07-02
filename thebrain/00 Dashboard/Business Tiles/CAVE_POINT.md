@@ -6,16 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 14
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-30
+status: yellow
+alert: "No FH/GSC data; IG dormant since Jun 2025"
+updated: 2026-07-02
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FH scraper coverage. No Google Ads. Quiet today.
-- GSC (cavepointpp.com): Empty response — no impressions in window.
-- IG @cavepointpp: Dormant. Last meaningful post 2022.
+- No FH scraper coverage. No Google Ads. GSC returned empty (0 data for cavepointpp.com).
+- IG @cavepointpp: Last post June 2025 (a customer review repost). Dormant.
 - GBP: Old reviews, all replied. No new activity.
 <!-- live:end -->
 

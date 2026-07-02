@@ -6,19 +6,19 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 7
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-30
+status: yellow
+alert: "6 unreplied 5★ reviews — oldest May 26 (37 days)"
+updated: 2026-07-02
 tile_type: business
 ---
 
 <!-- live:start -->
-- No separate FH shortname. Bookings flow through LSKT; ads shared (8497383499).
-- **6 unreplied 5★ reviews: Howard Nichols (Jun 23), Ella Messa (Jun 19), Rachel Domangue (Jun 3), Diane Gonzolas (Jun 3), BadMonsterMan (May 29), Lisa Williams (May 26). Batch-reply today.**
-- IG @austinkayaktours: Last post Jun 19 (7 likes). Posting frequency dropping — 11 days since last post.
+- No separate FH shortname. Bookings and ads flow through LSKT (8497383499).
+- **6 unreplied 5★ reviews (oldest 37 days): Lisa Williams (May 26), BadMonsterMan (May 29), Diane Gonzolas (Jun 3), Rachel Domangue (Jun 3), Ella Messa (Jun 19), Howard Nichols (Jun 23). GBP loc 751109797147653805. Batch-reply today — these are way past 48h window.**
+- IG @austinkayaktours: Last post Jun 19 (7-13 likes). No posts in 13 days.
 <!-- live:end -->
 
 ## Quick links
 - FareHarbor: [austinkayaktours](https://fareharbor.com/embeds/book/austinkayaktours/)
-- Google Ads: 8497383499
+- Google Ads: 8497383499 (shared with LSKT)
 - GBP location: 751109797147653805

@@ -2,23 +2,23 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 10
-revenue_today: 0
+bookings_today: 27
+revenue_today: 3759
 lead_time_days: 38
-ad_spend_yday: 103
+ad_spend_yday: 101
 status: green
 alert: null
-updated: 2026-06-30
+updated: 2026-07-02
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH today (Jun 30): Cave Point / Whitefish Dunes 1/2 Day Kayak Tour (8am–12pm). Multiple groups booked — groups of 6, 3, 2 visible in manifest. Reschedule/inquiry notes for July 1 also visible. Strong peak-season load.
-- Google (8672151991): $74.61 yday / 0.14x ROAS (Sunday dip). 7d: $609.48 / 2.72x — healthy destination product.
-- Meta (act_10153674414451399): $28.33 yday. 2 purchases at $21.10 each = $42.20. ~1.5x awareness, ~3.5x retargeting.
-- GSC: "door county kayak tours" 29 clicks, "kayak door county" 13 clicks, "cave point kayak tour" 9 clicks. Best organic in portfolio.
-- IG @doorcountykayaktours: "Human billboard" Jun 14 (112 likes, **12 comments — reply now**). 4th of July promo Jun 29 (19 likes, 2 comments). "Unskippable cutscene" Jun 25 (79 likes).
-- **6 unreplied 5★: Ellen L (Jun 30), Jennifer Jones (Jun 28), Chantel Hasman (Jun 27), Tracy Renee (Jun 27), Jason Henke (Jun 25), Hailey Brown (Jun 23). Batch-reply today.**
+- FH (7d ending Jul 1): 27 bookings / $3,759 booked. 14 tours ran, $4,598 ran revenue. Strong peak-season load.
+- Google Ads (8672151991): $70.60 yday / 0.30x ROAS (bad day). 7d: $562.52 / 3.68x — healthy destination product. Single-day dip not alarming; watch if repeats over July 4 weekend.
+- Meta (act_10153674414451399): $30.01 yday. Retargeting $6.05 (1 purchase $21.10, 3.49x). Awareness $23.96 (0 purchases, 3 checkout initiates). Retargeting efficient; awareness is early-funnel.
+- GSC (Jun 24-Jul 1): Best organic in portfolio. "door county kayak tours" 32 clicks pos 1.6, "kayaking door county" 9 clicks, "cave point kayak tour" 8 clicks.
+- **6 unreplied 5★ reviews (oldest 9 days): Ellen L (Jun 30 — Bella), Jennifer Jones (Jun 28), Chantel Hasman (Jun 27 — Ethan), Tracy Renee (Jun 27 — Ethan), Jason Henke (Jun 25 — Leah + e-bikes), Hailey Brown (Jun 23 — Lucas). Batch-reply today.**
+- IG @doorcountykayaktours: Active July 4 content. Jun 29 e-bike video (24 likes, 2 comments to review). Jun 25 "unskippable cutscene" reel (83 likes, 2 comments).
 <!-- live:end -->
 
 ## Quick links

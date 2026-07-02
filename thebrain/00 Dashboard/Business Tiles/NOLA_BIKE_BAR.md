@@ -8,14 +8,15 @@ lead_time_days: 7
 ad_spend_yday: 0
 status: yellow
 alert: "Revive-or-sell decision pending (Jun 2026)"
-updated: 2026-06-30
+updated: 2026-07-02
 tile_type: business
 ---
 
 <!-- live:start -->
 - Revive-or-sell decision in progress. Exploring sale to other NOLA tour operators.
-- No FH bookings, no ad spend. GSC: branded queries only, low volume. "party bike new orleans" 3 clicks.
-- GBP: Old reviews, all replied. No new activity. Street vehicle (3 bikes), not a vessel.
+- No FH bookings, no ad spend. Street vehicle (3 bikes), not a vessel.
+- GSC (Jun 24-Jul 1): "nola bike bar" 3 clicks, "party bike new orleans" 3 clicks. Low branded volume.
+- GBP: Old reviews, all replied. No new activity.
 <!-- live:end -->
 
 ## Quick links

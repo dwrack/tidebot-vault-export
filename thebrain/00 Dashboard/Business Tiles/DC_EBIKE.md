@@ -6,15 +6,14 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 7
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-06-30
+status: yellow
+alert: "No FH/GSC data; WP login still blocked"
+updated: 2026-07-02
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FH scraper coverage. No Google Ads. Quiet today.
-- GSC (doorcountykayak.com): Near-zero — "is door county dog friendly" 0 clicks.
+- No FH scraper coverage. No Google Ads. GSC returned empty (0 data for doorcountykayak.com in Jun 24-Jul 1 window).
 - SEO fixes staged in vault (03 Projects/doorcountykayak-seo-fixes.md). Blocked on WP login — waiting on FH to re-enable the 'kayak' username.
 - GBP: Old reviews, all replied. No new activity.
 <!-- live:end -->
