@@ -43,6 +43,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Wash stinky PFDs. _(Nick Napota (audio log), 2026-07-03)_
 - [ ] [Guide log] Ensure the Mercedes van has a full tank after Stephanie's 9 AM tour tomorrow. _(Stephanie (audio log), 2026-06-30)_
 - [ ] [Guide log] Clean and sanitize PFDs due to stinkiness. _(Nick Nepoda (audio log), 2026-06-29)_
 - [ ] [Guide log] Clean/air out PFDs as they are stinky. _(Nick Napoda (audio log), 2026-06-29)_
