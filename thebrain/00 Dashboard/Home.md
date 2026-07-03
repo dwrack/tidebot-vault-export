@@ -1,6 +1,6 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-07-02*
+*Last refresh: 2026-07-03*
 
 ## Right now
 - [[Daily Briefings/2026-06-30|Today's brief]]
@@ -10,9 +10,9 @@
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NPB — reply to Derrick J. Freeman 1★ GBP review (Jun 28, now 4 days unanswered).** Captain walked off the boat mid-trip during a family birthday, cursed at guests, refused to navigate. Longest-standing unanswered negative review in the portfolio. GBP loc 16753778394051046706.
-2. **HPB — review Connor's Jun 6 storm replies before they stay live.** All 7 one-star reviews now have Connor's replies (posted today), but the language references police reports and calls customers a "harassing party." David needs to read each one and decide if they stay or get softened. GBP loc 9402272527782840373.
-3. **HPB — fix or pause Google Ads conversion tracking.** $140.50 spent in 7 days, $7 tracked conversion value, 0.05x ROAS. Pixel is broken — this is not performance data, it's noise. Account 2986009791.
+1. **NPB — reply to Derrick J. Freeman 1★ GBP review (Jun 28, now 5 days unanswered).** Captain walked off mid-trip during a family birthday, cursed at guests, refused to navigate. GBP loc 16753778394051046706.
+2. **HPB — Connor's "harassing party" replies have been live 24+ hours since yesterday's brief flagged them.** All 7 Jun 6 storm 1★ reviews have the same copy-pasted reply calling customers a "harassing party" and mentioning police reports. Keep or soften — your call, but they're public now. GBP loc 9402272527782840373.
+3. **HPB — pause Google Ads account 2986009791 or fix the pixel today.** $146.78 spent in 7 days, $6 total tracked conversion value, 0.03-0.04x ROAS all week. Not a glitch — pixel isn't firing.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
