@@ -2,25 +2,25 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 2
-revenue_today: 335
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 7
-ad_spend_yday: 36
+ad_spend_yday: 34
 status: yellow
-alert: "2 bookings/7d — low for summer; IG permission error"
-updated: 2026-07-02
+alert: "FH data missing; 2 unreplied 5★ reviews; IG permission error"
+updated: 2026-07-03
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH (7d ending Jul 1): 2 bookings / $335 booked. 4 tours ran, $835 ran revenue. Low booking volume for peak summer.
-- Meta yday (act_87863118 NKST campaigns): Retargeting $25.81 (0 purchases). Lead Campaign $9.70 (4 leads at $2.43/lead). Retargeting underperforming — consider shifting budget to leads.
-- NOLA Gravity Google Ads: $91.90 yday, 9.55x ROAS (shared with NPB — excellent).
-- GSC (Jun 24-Jul 1): 0 commercial clicks. "are there alligators in new orleans" ranks #1 but gets 0 clicks. No "swamp tour new orleans" or kayak terms showing. SEO not closing the loop on buying-intent queries.
-- GA4 yday: Bot traffic — trafficheap.cc 503 sessions (exclude). Real: Instagram 94 sessions, Google 59 (48 conv), Direct 52 (42 conv). Referral: themardigrasschoolofcooking.com (1 session, 13 conv — referral partner working).
-- Watched page /airboat-vs-kayak-swamp-tour-new-orleans/: 2 GA4 views over 8 days (flat vs baseline of 3). GSC 0 clicks. Still not indexed for commercial queries.
-- IG @kayaknola: FB API permission error (code 10) — organic data unavailable. Check if META_IG_TOKEN needs refresh.
-- 1 unreplied 5★: Taylor M (Jun 29).
+- FH data: scraper down (all 403s) — no booking/revenue data today.
+- GA4 yday (Jul 2): 215 total sessions. Google 60 sessions / 64 convs, Direct 40 / 44 convs, Instagram 64 / 0 convs, Facebook 31 / 0 convs. Strong conversion rate from Google and Direct.
+- Meta yday (act_87863118 NKST campaigns): Retargeting $25.09 (0 tracked — pixel bug), Email Lead $9.33 (5 leads). Total ~$34.
+- Gravity Trails NOLA Google Ads: $104.14 yday, 6.29x ROAS (shared with NPB — soft vs 17.54x 7d avg; 4th of July timing, leave alone).
+- GSC (Jun 25-Jul 2): All top 10 queries returned 0 clicks (informational queries). GA4 shows real Google traffic so commercial queries are driving sessions — they just didn't land in top-10 click list this window.
+- Watched page /airboat-vs-kayak-swamp-tour-new-orleans/: 2 GA4 views / 3 sessions (8d). GSC 0 clicks, 0 impressions. Still flat vs baseline. Not indexed for commercial queries yet.
+- IG @kayaknola: FB API permission error (code 10) — organic data unavailable. META_IG_TOKEN may need refresh.
+- 2 unreplied 5★: June Mermaid (Jul 2 — Stephanie), Taylor M (Jun 29).
 <!-- live:end -->
 
 ## Quick links

@@ -2,23 +2,24 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 2
-revenue_today: 455
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 10
-ad_spend_yday: 14
+ad_spend_yday: 47
 status: red
-alert: "2 bookings/7d in peak season + pixel broken + Connor's replies need review"
-updated: 2026-07-02
+alert: "Connor's 'harassing party' replies live 24h+ unanswered; pixel broken; FH data missing"
+updated: 2026-07-03
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Review Connor's Jun 6 storm replies.** All 7 one-star reviews (bachelorette/weather group) now have replies posted today (Jul 2), but the language is combative — references police reports, calls customers a "harassing party." David needs to read each reply before they stay live. GBP loc 9402272527782840373.
-- **TIER 1: Fix or pause Google Ads conversion tracking (2986009791).** $140.50 spent in 7 days at $7 tracked conversion value (0.05x ROAS). Pixel is broken — not a bad campaign, just no signal. Spending ~$14/day completely blind.
-- FH (7d ending Jul 1): 2 bookings / $455 booked. 0 tours ran (0 ran revenue). Only 2 bookings in 7 days entering a July 4 peak weekend — likely suppressed by the review crisis. Tell Connor.
-- Meta (act_1015419897308486): $21.43 yday — all to BBK bat bridge traffic campaign, not HPB.
-- IG @houstonpedalbarge: Last post Jun 27. Low engagement (1-7 likes). Jun 21 giveaway has 5 unanswered comments — follow up.
-- TikTok: Chrome not running (ECONNREFUSED) — needs re-login to pull analytics.
+- **TIER 1: Connor's Jun 6 storm replies have now been live publicly for 24+ hours since first flagged.** All 7 reviews share copy-pasted language calling customers "a harassing party" and "harassing individuals," referencing police reports. Decision needed today — keep or soften. GBP loc 9402272527782840373.
+- **TIER 1: Pause Google Ads (2986009791).** $29.07 spent yesterday, $146.78 over 7 days. Tracked conversion value: $6. ROAS: 0.03-0.04x all week. Pixel is broken — spending completely blind.
+- FH data: scraper down (all 403s). No booking/revenue data.
+- Google Ads yday: $29.07 spend, 0.03x ROAS (pixel broken — all conv values are $1 placeholders).
+- Meta (act_1015419897308486): $18.01 yday on BBK bat bridge traffic campaign. No HPB campaigns running.
+- IG @houstonpedalbarge: Last post Jun 27 (6 days ago). Low engagement (1-7 likes). Jun 21 giveaway (7 likes, 5 comments) outperformed everything — more giveaways.
+- TikTok: Chrome session expired (ECONNREFUSED port 9222) — needs re-login.
 <!-- live:end -->
 
 ## Quick links

@@ -17,19 +17,19 @@
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (7/1) | 7-day | Notes |
+| Signal | Yesterday (7/2) | 7-day | Notes |
 |---|---|---|---|
-| Business Gmail unread | 11 | — | 4 inboxes; main inbox rate-limited |
-| Unreplied GBP 1-3★ | 1 | 1 | NPB Freeman (Jun 28, now 4 days) |
-| HPB 1★ cluster (replied) | 7 | 7 | Connor replied today — review tone |
-| Unreplied GBP 4-5★ | ~18 | ~18 | DCKT 6, AKT 6, EBB 6 (oldest: May 26) |
-| FH bookings (7d) | — | 67 | NPB 21, DCKT 27, LSKT 11 |
-| FH revenue booked (7d) | — | $12,903 | Strong; HPB 2 bookings is the outlier |
-| Total ad spend (G+M) | ~$422 | $2,004 G | $247 G + $175 M yesterday |
-| NOLA Gravity ROAS | 9.55x | 18.02x (7d) | Leave it alone |
-| LSKT/AKT ROAS | 4.01x | 6.82x (7d) | Solid |
-| DCKT ROAS | 0.30x | 3.68x (7d) | Bad day, fine week |
-| HPB Google ROAS | 0.07x | 0.05x (7d) | Pixel broken — not real |
+| Gmail unread (main) | — | — | Rate-limited both attempts |
+| Unreplied GBP 1-2★ | 2 | 2 | NPB Freeman (5d), LSKT Anna B (~1yr) |
+| HPB 1★ cluster (replied, tone issue) | 8 | 8 | Connor's "harassing party" replies still live |
+| Unreplied GBP 4-5★ | ~22 | ~22 | DCKT 6, AKT 6, E&E 6, NPB 2, NKST 2 |
+| FH bookings | — | — | Scraper down (all 403s) |
+| FH revenue | — | — | Scraper down |
+| Total ad spend (G+M) | ~$474 | ~$462/d | G: $297 + M: $177 |
+| Gravity Trails NOLA ROAS | 6.29x | 17.54x (7d) | Soft; 4th of July timing |
+| LSKT/AKT ROAS | 7.51x | 7.31x (7d) | Strong, consistent |
+| DCKT ROAS | 1.54x | 3.17x (7d) | Off day — watch |
+| HPB Google ROAS | 0.03x | 0.04x (7d) | Pixel broken — pause this |
 <!-- pulse:end -->
 
 ## Business tiles
@@ -38,13 +38,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-07-02]] (today)
-- [[Daily Briefings/2026-06-30]] (2 days ago)
-- [[Daily Briefings/2026-06-29]] (3 days ago)
-- [[Daily Briefings/2026-06-28]] (4 days ago)
-- [[Daily Briefings/2026-06-26]] (6 days ago)
-- [[Daily Briefings/2026-06-25]] (7 days ago)
-- [[Daily Briefings/2026-06-24]] (8 days ago)
+- [[Daily Briefings/2026-07-03]] (today)
+- [[Daily Briefings/2026-07-02]] (1 day ago)
+- [[Daily Briefings/2026-06-30]] (3 days ago)
+- [[Daily Briefings/2026-06-29]] (4 days ago)
+- [[Daily Briefings/2026-06-28]] (5 days ago)
+- [[Daily Briefings/2026-06-26]] (7 days ago)
+- [[Daily Briefings/2026-06-25]] (8 days ago)
 <!-- briefs:end -->
 
 ## Maps

@@ -2,23 +2,23 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 27
-revenue_today: 3759
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 38
-ad_spend_yday: 101
-status: green
-alert: null
-updated: 2026-07-02
+ad_spend_yday: 115
+status: yellow
+alert: "FH data missing; 6 unreplied 5★ reviews stacking during peak weekend"
+updated: 2026-07-03
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH (7d ending Jul 1): 27 bookings / $3,759 booked. 14 tours ran, $4,598 ran revenue. Strong peak-season load.
-- Google Ads (8672151991): $70.60 yday / 0.30x ROAS (bad day). 7d: $562.52 / 3.68x — healthy destination product. Single-day dip not alarming; watch if repeats over July 4 weekend.
-- Meta (act_10153674414451399): $30.01 yday. Retargeting $6.05 (1 purchase $21.10, 3.49x). Awareness $23.96 (0 purchases, 3 checkout initiates). Retargeting efficient; awareness is early-funnel.
-- GSC (Jun 24-Jul 1): Best organic in portfolio. "door county kayak tours" 32 clicks pos 1.6, "kayaking door county" 9 clicks, "cave point kayak tour" 8 clicks.
-- **6 unreplied 5★ reviews (oldest 9 days): Ellen L (Jun 30 — Bella), Jennifer Jones (Jun 28), Chantel Hasman (Jun 27 — Ethan), Tracy Renee (Jun 27 — Ethan), Jason Henke (Jun 25 — Leah + e-bikes), Hailey Brown (Jun 23 — Lucas). Batch-reply today.**
-- IG @doorcountykayaktours: Active July 4 content. Jun 29 e-bike video (24 likes, 2 comments to review). Jun 25 "unskippable cutscene" reel (83 likes, 2 comments).
+- FH data: scraper down (all 403s) — no booking/revenue data today.
+- Google Ads (8672151991): $83.84 yday / 1.54x ROAS (soft day). 7d: $586.09 / 3.17x — still healthy. One down day during 4th of July transition; watch Friday/Saturday.
+- Meta (act_10153674414451399): Awareness $24.90 (1 purchase $42.20, 1.69x). Retargeting $5.75 (3 purchases $91.46, 15.9x). Retargeting punching well.
+- GSC (Jun 25-Jul 2): "door county kayak tours" 33 clicks pos 1.6, "door county kayaking" 11 clicks, "cave point kayak tour" 10 clicks pos 2.9. Best organic in the portfolio.
+- **6 unreplied 5★ reviews (oldest 10 days): Ellen L (Jun 30 — e-bike Bella), Jennifer Jones (Jun 28), Chantel Hasman (Jun 27 — Ethan), Tracy Renee (Jun 27 — Ethan), Jason Henke (Jun 25 — e-bikes Leah), Hailey Brown (Jun 23 — Lucas). GBP loc 5837086547118336383.**
+- IG @doorcountykayaktours: Very active for July 4 weekend. Jul 2 Reel 91 likes (top post). Jul 1 had 3 posts (80 likes, 15 likes, 9 likes). Strong push into holiday.
 <!-- live:end -->
 
 ## Quick links

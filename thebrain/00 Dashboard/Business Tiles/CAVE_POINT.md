@@ -8,7 +8,7 @@ lead_time_days: 14
 ad_spend_yday: 0
 status: yellow
 alert: "No FH/GSC data; IG dormant since Jun 2025"
-updated: 2026-07-02
+updated: 2026-07-03
 tile_type: business
 ---
 

@@ -8,7 +8,7 @@ lead_time_days: 7
 ad_spend_yday: 0
 status: yellow
 alert: "No FH/GSC data; WP login still blocked"
-updated: 2026-07-02
+updated: 2026-07-03
 tile_type: business
 ---
 
