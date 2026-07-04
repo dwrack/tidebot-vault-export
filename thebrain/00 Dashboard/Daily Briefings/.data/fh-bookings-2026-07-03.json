@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-04T16:05:12.218Z",
+    "for_date": "2026-07-03",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {},
+  "errors": {
+    "buffalobayoukayak": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/buffalobayoukayak/",
+    "doorcountykayaktours": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/doorcountykayak",
+    "houstonpedalbarge": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "lonestarkayaktours": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktour",
+    "neworleanskayakswamptours": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/neworleans",
+    "neworleanspedalbarge": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedal"
+  }
+}
