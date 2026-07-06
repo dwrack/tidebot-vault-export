@@ -5,20 +5,20 @@ city: Door County
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 38
-ad_spend_yday: 115
+ad_spend_yday: 155
 status: yellow
-alert: "FH data missing; 6 unreplied 5★ reviews stacking during peak weekend"
-updated: 2026-07-03
+alert: "FH scrape offline; Google ROAS 0.80x yesterday (peak Sat); 4 unreplied 5★"
+updated: 2026-07-06
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH data: scraper down (all 403s) — no booking/revenue data today.
-- Google Ads (8672151991): $83.84 yday / 1.54x ROAS (soft day). 7d: $586.09 / 3.17x — still healthy. One down day during 4th of July transition; watch Friday/Saturday.
-- Meta (act_10153674414451399): Awareness $24.90 (1 purchase $42.20, 1.69x). Retargeting $5.75 (3 purchases $91.46, 15.9x). Retargeting punching well.
-- GSC (Jun 25-Jul 2): "door county kayak tours" 33 clicks pos 1.6, "door county kayaking" 11 clicks, "cave point kayak tour" 10 clicks pos 2.9. Best organic in the portfolio.
-- **6 unreplied 5★ reviews (oldest 10 days): Ellen L (Jun 30 — e-bike Bella), Jennifer Jones (Jun 28), Chantel Hasman (Jun 27 — Ethan), Tracy Renee (Jun 27 — Ethan), Jason Henke (Jun 25 — e-bikes Leah), Hailey Brown (Jun 23 — Lucas). GBP loc 5837086547118336383.**
-- IG @doorcountykayaktours: Very active for July 4 weekend. Jul 2 Reel 91 likes (top post). Jul 1 had 3 posts (80 likes, 15 likes, 9 likes). Strong push into holiday.
+- FH data: scraper ERR_INTERNET_DISCONNECTED — no booking/revenue data today.
+- Google Ads (8672151991): $129.57 yday / 0.80x ROAS (off day on peak Saturday). 7d: $595+ / 3.01x — healthy overall. Watch today's numbers before adjusting.
+- Meta (act_10153674414451399): Awareness $19.75 (0 purchases). Retargeting $5.82 (1 purchase $157.33, 27.03x ROAS). Retargeting crushing it.
+- GSC (Jun 28-Jul 5): "door county kayak tours" 28 clicks pos 1, leading organic in the portfolio.
+- **4 unreplied 5★ (newest today): Bill & Tracy Anderson (Jul 6, today — mentions Jackson, notes rescheduling snags). Lydia Volpe, Kelsey Weddig, William Schindler all from Jul 4. GBP loc 5837086547118336383.**
+- IG @doorcountykayaktours: Best week in portfolio. Jul 2 "Super Bowl" reel 109 likes. Jul 4 "only boat" reel 91 likes. Strong 4th of July content run.
 <!-- live:end -->
 
 ## Quick links

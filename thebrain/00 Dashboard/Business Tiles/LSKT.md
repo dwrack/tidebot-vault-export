@@ -5,19 +5,19 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 7
-ad_spend_yday: 81
+ad_spend_yday: 82
 status: yellow
-alert: "1★ Anna B (Jul 2024) still unreplied — nearly 1 year; FH data missing"
-updated: 2026-07-03
+alert: "FH scrape offline; 1★ Anna B (Jul 2024) still unreplied — ~1 year"
+updated: 2026-07-06
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Anna B 1★ (Jul 2024, ~12 months unreplied).** Guide promised post-tour photos, never sent. Two follow-up contacts to company, both ignored. Reply today. GBP loc 11383026800789938857.
-- FH data: scraper down (all 403s) — no booking/revenue data.
-- Google Ads (8497383499, shared with AKT): $80.95 yday / 7.51x ROAS. 7d: $491.67 / 7.31x. Most consistent Google performer in the portfolio. Leave it alone.
-- Meta (act_638850950128825): No active campaigns yesterday (returned empty array).
-- GSC (Jun 25-Jul 2): "lone star kayak tours" 8 clicks, "austin kayak tours" 6 clicks pos 2.5, "longhorn kayak tours" 3 clicks pos 7 (competitor brand showing up).
+- **TIER 1: Anna B 1★ (Jul 2024, ~12 months unreplied).** Guide promised post-tour photos, never sent. Two follow-up contacts, both ignored. Reply today. GBP loc 11383026800789938857.
+- FH data: scraper ERR_INTERNET_DISCONNECTED — no booking/revenue data.
+- Google Ads (8497383499, shared with AKT): $82.20 yday / 6.22x ROAS. 7d: 12.94x. Most consistent and highest-ROAS Google account in the portfolio. Leave it alone.
+- Meta (act_638850950128825): No active campaigns yesterday (returned empty).
+- GSC (Jun 28-Jul 5): "lone star kayak tours" 13 clicks, solid on "kayak rental austin" and "kayaking austin."
 <!-- live:end -->
 
 ## Quick links

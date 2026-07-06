@@ -5,21 +5,21 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 14
-ad_spend_yday: 94
-status: red
-alert: "1★ Freeman now 5 days unreplied — captain walkout; FH data missing"
-updated: 2026-07-03
+ad_spend_yday: 69
+status: yellow
+alert: "FH scrape offline; 1★ Freeman 8d unreplied — most urgent open review"
+updated: 2026-07-06
 tile_type: business
 ---
 
 <!-- live:start -->
-- **TIER 1: Reply to Derrick J. Freeman 1★ GBP review (Jun 28, now 5 days unanswered).** Captain walked off mid-tour during a family birthday, cursed at guests, refused to navigate. GBP loc 16753778394051046706.
-- FH data: scraper down (all 403s) — no booking/revenue data today.
-- Meta yday (act_87863118 NPB campaigns): Retargeting $20.37 (0 tracked), Creative Testing $52.66 (0 tracked), Messenger TOF $21.04 (2 leads). Total ~$94 Meta. NPB pixel doesn't fire Purchase on FH checkout — known bug.
-- Gravity Trails NOLA Google Ads yday: $104.14 spend, 6.29x ROAS (soft vs 17.54x 7d — 4th of July timing, don't touch).
-- GSC (Jun 25-Jul 2): "nola party barge" 26 clicks pos 2.5, "nola pedal barge" 12 clicks, "swamp tour new orleans" 3 clicks pos 8.5.
-- IG @nolapartybarge: Jul 1 Reel 16 likes, Jun 29 Reel 19 likes. Active, modest engagement. No comments needing reply.
-- 2 unreplied 5★: Justin Roberts (Jun 24), Shawn S (Jun 24) — secondary to Freeman.
+- **TIER 1: Reply to Derrick J. Freeman 1★ GBP review (Jun 28, now 8 days unanswered).** Captain walked off mid-tour during a family birthday, cursed at guests. GBP loc 16753778394051046706.
+- FH data: scraper ERR_INTERNET_DISCONNECTED — no booking/revenue data today.
+- Meta yday (act_87863118 NPB campaigns): Retargeting $19.80 (1 purchase, $413 revenue, 20.86x ROAS). Creative Testing $29.56 (0 purchases). Messenger TOF $19.72 (2 leads). Total ~$69 Meta.
+- Gravity Trails NOLA Google Ads yday: $141.15 total spend (shared NOLA umbrella), ROAS 4.61x.
+- GSC (Jun 28-Jul 5): "nola party barge" and "nola pedal barge" dominating branded terms.
+- IG @nolapartybarge: Jul 3 Reel 75 likes, 3 comments. Active posting.
+- Batch leads digest: 13 interested parties this week, 0 itinerary adds, 13 saved.
 <!-- live:end -->
 
 ## Quick links

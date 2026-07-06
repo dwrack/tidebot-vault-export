@@ -5,18 +5,18 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 1
-ad_spend_yday: 18
+ad_spend_yday: 20
 status: yellow
-alert: "FH data missing; otherwise clean"
-updated: 2026-07-03
+alert: "FH scrape offline; 2 unreplied 5★ reviews (Jul 4-5)"
+updated: 2026-07-06
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH data: scraper down (all 403s) — no booking/revenue data.
-- Meta (act_1015419897308486 shared with HPB): $18.01 yday on "Bat Bridge Kayak Tour — Traffic" campaign. No purchase conversion tracking (traffic campaign).
-- GBP: All recent 5★ reviews (Jun 20-Jul 2) have replies — 10 reviews all replied. Clean cadence. GBP loc 12969424608141307230.
-- IG @buffalobayoukayak: Most active Houston IG account. Posted today (Jul 3) and 3x yesterday (Jul 2). Jul 2 bat paddle Reel 27 likes. Bat season content is the right call — keep it up.
+- FH data: scraper ERR_INTERNET_DISCONNECTED — no booking/revenue data.
+- Meta (act_1015419897308486 shared with HPB): $20.44 yday on "Bat Bridge Kayak Tour — Traffic" campaign. No purchase conversions (traffic campaign).
+- **2 unreplied 5★: Avi K (Jul 5 — yesterday), Ryan Diefenderfer (Jul 4 — mentions Chad). GBP loc 12969424608141307230.**
+- IG @buffalobayoukayak: Daily posts Jul 4-5, very low engagement (2-7 likes). Consistent but not breaking through.
 <!-- live:end -->
 
 ## Quick links
