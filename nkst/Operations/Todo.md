@@ -44,6 +44,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Mercedes van needs to be returned with a full tank tomorrow. _(Stephanie (audio log), 2026-07-08)_
 - [ ] [Guide log] Refuel Mercedes van for tomorrow's tours _(Stephanie (audio log), 2026-07-08)_
 - [ ] [Guide log] Review and ensure proper boat storage procedures on the trailer. _(Ryan (audio log), 2026-07-08)_
 - [ ] [Guide log] Reinforce proper boat storage procedures on the trailer with all staff. _(Ryan (audio log), 2026-07-08)_
