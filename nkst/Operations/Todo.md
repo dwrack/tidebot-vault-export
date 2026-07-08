@@ -44,6 +44,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Reinforce proper boat storage procedures on the trailer with all staff. _(Ryan (audio log), 2026-07-08)_
 - [ ] [Guide log] Wash PFDs as they are stinky. _(Nick Nepota (audio log), 2026-07-03)_
 - [ ] [Guide log] Wash stinky PFDs. _(Nick Napota (audio log), 2026-07-03)_
 - [ ] [Guide log] Ensure the Mercedes van has a full tank after Stephanie's 9 AM tour tomorrow. _(Stephanie (audio log), 2026-06-30)_
