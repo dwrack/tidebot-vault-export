@@ -107,6 +107,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Monitor competitor company's launch parking behavior to ensure clear access for our tours. _(Alexis (audio log), 2026-07-10)_
 - [ ] [Guide log] Double check the name of the route taken (the one to the right) _(Lexi (audio log), 2026-07-10)_
 - [ ] [Guide log] Double check the name of the route taken (the one to the right). _(Lexi (audio log), 2026-07-10)_
 - [ ] [Guide log] Monitor guest comfort regarding insects, particularly spiders, throughout the tour. _(Nick Navota (audio log), 2026-06-26)_
