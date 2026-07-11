@@ -1,6 +1,7 @@
 # Buffalo Bayou Kayak — Todo List
 
 ## High Priority
+- [ ] [Guide log] Kayak number seven is leaking a little bit and needs to be checked out or put out of rotation. _(Sarah (audio log), 2026-07-11)_
 - [ ] [Guide log] Identify and address the kayak that is almost worn through on the bottom; it may need repair or replacement. _(Sebastian (audio log), 2026-07-05)_
 - [ ] [Guide log] Inspect and repair/replace the kayak that is almost worn through on the bottom. _(Sebastian (audio log), 2026-07-05)_
 - [ ] [Guide log] Confirm all guests from the Bat Tour have returned. _(Sebastian (audio log), 2026-06-28)_
