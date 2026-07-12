@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Restock/replace missing kayak repair kit in guide bag. _(Nick Neputa (audio log), 2026-07-12)_
 - [ ] [Guide log] Notify management about guest injury (cut finger requiring first aid during disembarkation). _(Nick Nepota (audio log), 2026-07-04)_
 - [ ] [Guide log] Procure and supply a rinse bucket and cleaner for PFDs, as they are stinky, sweaty, and greasy with body odor buildup. This has been requested previously by the guide. _(Nick Nepota (audio log), 2026-07-02)_
 - [ ] [Guide log] Address the stinky PFDs. Acquire a rinse bucket and appropriate cleaner to properly clean them. _(Nick Napoda (audio log), 2026-07-02)_
