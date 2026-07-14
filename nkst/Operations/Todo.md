@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Address the malfunctioning gate, as it is once again not working. _(Ryan (audio log), 2026-07-14)_
 - [ ] [Guide log] Replace and restock the kayak repair kit in the guide bag. _(Nick Nepuda (audio log), 2026-07-12)_
 - [ ] [Guide log] Restock/replace missing kayak repair kit in guide bag. _(Nick Neputa (audio log), 2026-07-12)_
 - [ ] [Guide log] Notify management about guest injury (cut finger requiring first aid during disembarkation). _(Nick Nepota (audio log), 2026-07-04)_
