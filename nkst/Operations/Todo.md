@@ -112,6 +112,7 @@
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Monitor the alligator at the launch throughout the tour. _(Stephanie (audio log), 2026-07-16)_
 - [ ] [Guide log] Monitor competitor parking practices at the launch. _(Alexis (audio log), 2026-07-10)_
 - [ ] [Guide log] Monitor competitor company's launch parking behavior to ensure clear access for our tours. _(Alexis (audio log), 2026-07-10)_
 - [ ] [Guide log] Double check the name of the route taken (the one to the right) _(Lexi (audio log), 2026-07-10)_
