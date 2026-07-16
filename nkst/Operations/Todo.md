@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Inspect and repair tiny crack in the driver's side windshield of the black Transit van. Check for warranty coverage, as the windshield was recently replaced. _(Stephanie (audio log), 2026-07-16)_
 - [ ] [Guide log] Investigate and repair the non-functional gate. _(Ryan (audio log), 2026-07-14)_
 - [ ] [Guide log] Address the malfunctioning gate, as it is once again not working. _(Ryan (audio log), 2026-07-14)_
 - [ ] [Guide log] Replace and restock the kayak repair kit in the guide bag. _(Nick Nepuda (audio log), 2026-07-12)_
