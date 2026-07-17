@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Notify management about the baby gator at the launch area. _(Amancha (audio log), 2026-07-17)_
 - [ ] [Guide log] Inspect and address the new crack on the driver's side windshield of the black transit van, checking for warranty coverage, as it needs to be addressed before it spreads. _(Stephanie (audio log), 2026-07-16)_
 - [ ] [Guide log] Inspect and repair tiny crack in the driver's side windshield of the black Transit van. Check for warranty coverage, as the windshield was recently replaced. _(Stephanie (audio log), 2026-07-16)_
 - [ ] [Guide log] Investigate and repair the non-functional gate. _(Ryan (audio log), 2026-07-14)_
