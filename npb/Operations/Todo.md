@@ -97,3 +97,5 @@
 ---
 
 *Updated April 19, 2026 from JT Sides Q&A + David's prioritization. See plan: `resilient-munching-spring.md`*
+
+- [ ] [Captain log] Replenish ice supply on the barge. _(Calvin (audio log), 2026-07-17)_
