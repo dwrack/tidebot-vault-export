@@ -52,6 +52,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Revisit discussion about implementing an auto-gratuity for groups larger than five or six during an all-staff meeting. _(River (audio log), 2026-07-18)_
 - [ ] [Guide log] Revisit discussion about implementing an auto-gratuity policy for groups of five or more, as a party of five did not tip. _(River (audio log), 2026-07-18)_
 - [ ] [Guide log] The gray van needs a deep clean, as the dashboard is furry and dusty, beyond what standard guide cleaning covers. _(River (audio log), 2026-07-18)_
 - [ ] [Guide log] Deep clean the gray van, focusing on the dashboard and interior beyond surface cleaning. _(River (audio log), 2026-07-18)_
