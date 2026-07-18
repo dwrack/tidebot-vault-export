@@ -11,6 +11,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Kayak number seven has a loose bolt near the back and needs maintenance. _(Max (audio log), 2026-07-18)_
 - [ ] [Guide log] Check one of the yellow kayaks that seemed to be taking on water. Drain it and inspect for any cracks or damage. _(Tyler (audio log), 2026-07-11)_
 - [ ] [Guide log] Collect guest bags still out from the bat tour. _(Sebastian (audio log), 2026-06-28)_
 - [ ] [Guide log] Check and lubricate the ferrule on one paddle that was sticky. _(Katie (audio log), 2026-06-18)_
