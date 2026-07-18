@@ -52,6 +52,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] The gray van needs a deep clean, as the dashboard is furry and dusty, beyond what standard guide cleaning covers. _(River (audio log), 2026-07-18)_
 - [ ] [Guide log] Deep clean the gray van, focusing on the dashboard and interior beyond surface cleaning. _(River (audio log), 2026-07-18)_
 - [ ] [Guide log] Verify the waiver for the second passenger in Marion Freistadt's booking was successfully signed post-link delivery. _(River Bourne (audio log), 2026-07-17)_
 - [ ] [Guide log] Schedule an oil service for the black van. Current mileage is 86,160. _(Nick Nepoda (audio log), 2026-07-12)_
