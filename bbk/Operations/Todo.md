@@ -11,6 +11,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Replace the broken paddle. _(Alex (audio log), 2026-07-19)_
 - [ ] [Guide log] Replace the chipped black paddle. _(Alex (audio log), 2026-07-18)_
 - [ ] [Guide log] Kayak number seven has a loose bolt near the back and needs maintenance. _(Max (audio log), 2026-07-18)_
 - [ ] [Guide log] Check one of the yellow kayaks that seemed to be taking on water. Drain it and inspect for any cracks or damage. _(Tyler (audio log), 2026-07-11)_
