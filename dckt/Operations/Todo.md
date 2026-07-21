@@ -42,6 +42,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] The bilge pump on the Sea Ghost is making a weird noise and will need to be replaced soon. _(Captain Alex (audio log), 2026-07-21)_
 - [ ] [Guide log] Monitor weather conditions as it may get colder by Cave Point. _(Tori (audio log), 2026-07-06)_
 - [ ] [Guide log] Get more large and extra large PFDs, as current stock is running low. _(Jen (audio log), 2026-07-01)_
 - [ ] [Guide log] Check and tighten the seat on the front left kayak of the Blue Streak. _(Ryan (audio log), 2026-07-01)_
