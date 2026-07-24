@@ -1,4 +1,4 @@
-# Nola Kayak Operations Manager
+# Nola Kayak Operations Contractor
 
 **New Orleans Kayak Swamp Tours**
 Apres Assets LLC dba New Orleans Kayak Swamp Tours / Nola Kayak Tours
@@ -7,7 +7,7 @@ Apres Assets LLC dba New Orleans Kayak Swamp Tours / Nola Kayak Tours
 
 ## Role Overview
 
-The Operations Manager is the face of NKST in the community and the steady hand behind daily operations. This role focuses on building relationships, leading guides, and ensuring every tour runs smoothly. Routine administrative tasks are handled through automation, freeing the manager to focus on growth, presence, and the guest experience.
+The Operations Contractor is the face of NKST in the community and the steady hand behind daily operations. This role focuses on building relationships, leading guides, and ensuring every tour runs smoothly. Routine administrative tasks are handled through automation, freeing the contractor to focus on growth, presence, and the guest experience.
 
 ---
 
@@ -31,7 +31,7 @@ Recruit, onboard, and support tour guides. Maintain compliance records, coordina
 
 ## Customer Experience
 
-Ensure guests have an exceptional experience from first contact to post-tour follow-up. Oversee inquiry responses, resolve issues, manage reviews, and close group bookings. Automation handles routine touchpoints -- the manager steps in where a human makes the difference.
+Ensure guests have an exceptional experience from first contact to post-tour follow-up. Oversee inquiry responses, resolve issues, manage reviews, and close group bookings. Automation handles routine touchpoints -- the contractor steps in where a human makes the difference.
 
 ---
 
@@ -73,7 +73,7 @@ Review guide field notes and schedule coaching conversations. Evaluate active pa
 
 ## What Automation Handles
 
-Booking confirmations, pre-tour guest sequences, review requests, guide manifests, missed call responses, FAQ chatbot, compliance reminders, payroll calculations, and weekly reporting summaries are all handled by GoHighLevel and Claude. The manager reviews outputs, acts on exceptions, and focuses time on the work that requires a person.
+Booking confirmations, pre-tour guest sequences, review requests, guide manifests, missed call responses, FAQ chatbot, compliance reminders, payroll calculations, and weekly reporting summaries are all handled by GoHighLevel and Claude. The contractor reviews outputs, acts on exceptions, and focuses time on the work that requires a person.
 
 ---
 

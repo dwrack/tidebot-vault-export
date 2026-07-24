@@ -19,7 +19,7 @@
 | River Bourne | 407-310-7794 | riverbourne.here@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 | MJ Hicks | 301-471-9283 | madelinejoan4@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 | River Umberger | 813-748-9878 | riverwalking777@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
-| Michelle Healey | (216) 262-3865 | *(confirm email)* | ✅ | ❓ | ❓ | Manager + guide — confirm ICA applies to her role |
+| Michelle Healey | (216) 262-3865 | *(confirm email)* | ✅ | ❓ | ❓ | Contractor + guide — confirm ICA applies to her role |
 | Ryan Carr | 770-823-2459 | cairnsmusic@yahoo.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 
 **Next step:** Cross-reference DocHub and Gmail ICA folder to update ❓ statuses. 2–3 contracts are expected to be missing — identify which guides and send the ICA request message below.
@@ -52,7 +52,7 @@
 
 **Michael Fischer** — Created first zip line experience in Wisconsin. Builder, outdoor educator. 20-year business partner with David.
 
-**Michelle Healey** — Environmental science & wetland conservation degree. Former LA state government environmental epidemiology. Kayak ops manager. Also an active guide.
+**Michelle Healey** — Environmental science & wetland conservation degree. Former LA state government environmental epidemiology. Kayak ops contractor. Also an active guide.
 
 **Alex Wallace** — 8+ years guiding Louisiana swamps. Edible/medicinal plant identification. Storyteller. Founding member of The Nola Project theatre company.
 
@@ -87,7 +87,7 @@ Goal: establish a regular communication and coaching cadence with all active gui
 
 *Do not launch guide outreach until Michelle has reviewed and signed off. She knows the guides and should shape the approach.*
 
-*See [[Manager Coaching/]] folder for individual session notes already captured.*
+*See [[Operations Contractor Coaching/]] folder for individual session notes already captured.*
 
 ---
 

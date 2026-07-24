@@ -1,5 +1,5 @@
 # Post-Tour Vehicle & Equipment Damage Report
-*Guides: fill any time you notice damage or a problem. Routes to manager.*
+*Guides: fill any time you notice damage or a problem. Routes to contractor.*
 
 Use this any time you see damage, hear a new noise, find a broken strap, scrape a kayak, lose a paddle, drop a phone in the bayou, or anything else that wasn't there when you started. We'd rather know small things early than find out from a customer.
 
@@ -11,9 +11,9 @@ This is not a punishment form. Flagging damage is exactly what we want from you.
 
 Fill this out at the end of the tour day, before you leave the staging location. Submit by:
 - Slack: post in the #ops channel with this template filled in, OR
-- Text: send to manager with photos
+- Text: send to contractor with photos
 
-Manager logs it in the Vehicle Maintenance Log within 24 hours and decides on next action.
+Contractor logs it in the Vehicle Maintenance Log within 24 hours and decides on next action.
 
 ---
 
@@ -48,7 +48,7 @@ _______________________________________________
 **Any guest involvement?** (e.g., guest dropped paddle, guest scratched van loading, guest claim of injury)
 _______________________________________________
 
-**Anything else manager should know?**
+**Anything else contractor should know?**
 _______________________________________________
 
 ---
@@ -96,8 +96,8 @@ _______________________________________________
 
 ## What happens next
 
-1. Manager logs in Vehicle Maintenance Log (or equipment log)
-2. Manager assesses repair vs replace
-3. If a customer was involved, manager opens an Incident Report
+1. Contractor logs in Vehicle Maintenance Log (or equipment log)
+2. Contractor assesses repair vs replace
+3. If a customer was involved, contractor opens an Incident Report
 4. Resolution and date logged
 5. Guide gets a quick reply confirming receipt; nothing more required from guide unless follow-up info needed

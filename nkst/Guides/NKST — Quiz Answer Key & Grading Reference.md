@@ -1,7 +1,7 @@
 # NKST Guide Comprehension Quiz — Answer Key & Grading Reference
-*Last updated: 2026-04-28 | Owner: Manager + Owner | Confidential, do not share with guides*
+*Last updated: 2026-04-28 | Owner: Contractor + Owner | Confidential, do not share with guides*
 
-This is the canonical answer key and grading rules for the NKST Guide Comprehension Quiz. The Google Form auto-grades using these answers. The manager uses this doc to grade paper retakes, run coaching conversations, and update the Form when policies change.
+This is the canonical answer key and grading rules for the NKST Guide Comprehension Quiz. The Google Form auto-grades using these answers. The contractor uses this doc to grade paper retakes, run coaching conversations, and update the Form when policies change.
 
 > **Sync rule:** This doc, the quiz markdown (`Guides/NKST — Guide Comprehension Quiz (Expanded).md`), and the Apps Script (`Operations/google-forms-setup.gs`) all carry the same answer key. If you change one, change all three. Update this doc first; it's the source of truth.
 
@@ -14,13 +14,13 @@ This is the canonical answer key and grading rules for the NKST Guide Comprehens
 | Score | Outcome |
 |-------|---------|
 | 28-30 / 30 | Excellent. Solo sign-off cleared. |
-| 24-27 / 30 | Pass. Solo sign-off cleared. Manager reviews missed questions in next coaching session. |
+| 24-27 / 30 | Pass. Solo sign-off cleared. Contractor reviews missed questions in next coaching session. |
 | 21-23 / 30 | Below pass. Coaching session before retake. Retake within 7 days. |
-| Under 21 / 30 | Significant gaps. Retraining required (re-read flagged docs, re-quiz after manager approval). |
+| Under 21 / 30 | Significant gaps. Retraining required (re-read flagged docs, re-quiz after contractor approval). |
 
 **Annual renewal:** Same threshold. Failure to pass after retake = paused from scheduling until completed.
 
-**Coaching after fail:** Manager reviews each missed question with the guide and confirms understanding before retake. Document the conversation briefly in `Guides/[Name]/coaching_notes_[YYYY].md`.
+**Coaching after fail:** Contractor reviews each missed question with the guide and confirms understanding before retake. Document the conversation briefly in `Guides/[Name]/coaching_notes_[YYYY].md`.
 
 ---
 
@@ -32,15 +32,15 @@ This is the canonical answer key and grading rules for the NKST Guide Comprehens
 | 2 | Safety | B | PFD reframe (immersion + disorientation) |
 | 3 | Safety | C | Audible thunder = off the water now |
 | 4 | Safety | B | Capsize: reassure, signal, paddle to assist |
-| 5 | Safety | B | Bad-smelling PFD: set aside, flag manager |
+| 5 | Safety | B | Bad-smelling PFD: set aside, flag contractor |
 | 6 | Safety | B | Anaphylaxis: 911 with GPS, monitor |
 | 7 | Safety | B | Booking-specific waiver only, no paper, no generic QR |
-| 8 | Safety | B | Flat tire: pull off, guests safe, manager + AAA, stay with guests |
+| 8 | Safety | B | Flat tire: pull off, guests safe, contractor + AAA, stay with guests |
 | 9 | Safety | C | Distress signal = three whistle blasts |
-| 10 | Safety | C | PFD short: don't launch, call manager |
+| 10 | Safety | C | PFD short: don't launch, call contractor |
 | 11 | Safety | B | Possible spinal: stabilize in water, don't move, 911 |
 | 12 | Vehicle | **D** | Tire pressure: door sticker on that specific van |
-| 13 | Vehicle | B | Brake light out: don't roll, text manager |
+| 13 | Vehicle | B | Brake light out: don't roll, text contractor |
 | 14 | Vehicle | B | Rear-ended: full accident protocol, no fault admission |
 | 15 | Vehicle | B | Guest can't drive the van. Ever. |
 | 16 | Vehicle | B | Top fuel to 1/2 before parking |
@@ -48,12 +48,12 @@ This is the canonical answer key and grading rules for the NKST Guide Comprehens
 | 18 | Conduct | B | Harassment: boundary, redirect, document, report |
 | 19 | Conduct | B | Witnessed misconduct is reportable |
 | 20 | Conduct | C | No romantic pursuit of guests; immediate termination |
-| 21 | Conduct | B | If manager is the issue, contact owner directly |
+| 21 | Conduct | B | If contractor is the issue, contact owner directly |
 | 22 | Conduct | B | Slur: redirect, end early if continues, document, report |
 | 23 | Incident | B | 24 hours for any guest injury |
 | 24 | Incident | C | Yes, near-misses are reportable |
 | 25 | Incident | B | Full report: timeline, photos, witnesses, weather, last meal/sleep |
-| 26 | Incident | B | Equipment back in service only after manager + shop sign-off |
+| 26 | Incident | B | Equipment back in service only after contractor + shop sign-off |
 | 27 | IC Status | B | Guide controls how, NKST controls outcome |
 | 28 | IC Status | C | Own taxes, 1099, own GL insurance |
 | 29 | IC Status | B | Yes, can decline tours per ICA cancellation notice |
@@ -63,9 +63,9 @@ This is the canonical answer key and grading rules for the NKST Guide Comprehens
 
 ---
 
-## Coaching Notes (use during manager review)
+## Coaching Notes (use during contractor review)
 
-These are the questions where guides most often miss the point and where the coaching conversation matters most. Manager should be ready to explain the **why**, not just confirm the answer.
+These are the questions where guides most often miss the point and where the coaching conversation matters most. Contractor should be ready to explain the **why**, not just confirm the answer.
 
 **Q2 (PFD lifeguard).** The reframe is the lesson. Guides who answer "it's policy" are technically correct but lose the guest. Reframe = guest cooperates.
 
@@ -106,11 +106,11 @@ For each guide, each year, retain:
 - Score
 - Date of completion
 - Date of any retake
-- Manager coaching notes if a retake was required
+- Contractor coaching notes if a retake was required
 
 Folder: `Guides/[Name]/quiz_pass_[YYYY-MM-DD].pdf`. Retain 7 years.
 
-If the guide takes the quiz on paper (no internet, off-site), the manager grades against this doc, signs and dates the paper, scans to the same folder.
+If the guide takes the quiz on paper (no internet, off-site), the contractor grades against this doc, signs and dates the paper, scans to the same folder.
 
 ---
 

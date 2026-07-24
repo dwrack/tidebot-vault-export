@@ -170,7 +170,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 
 **What we do:**
 - Let them own the accomplishment: "First time kayaking and you just did Cave Point. How does that feel?"
-- Plant the seed for return: "You haven't seen the sunset tour yet — completely different planet"
+- Plant the seed for return: "You haven't done the Door Bluff Shipwreck yet — completely different water, real wreck sites"
 - Returning guest close: "What do you want to do next time?" — logged in CRM
 - Mention photos: "We'll text those over — tag us if you post"
 - Personal review ask (in person, not just automated text)
@@ -198,7 +198,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 > "If any friends or family are coming to Door County this summer, we'd love to take care of them. Share this and they'll get $10 off — and we'll send you a thank-you too: [LINK]"
 
 > **7 days (re-engagement):**
-> "Hey [Name]! You did Cave Point — have you ever done the Sunset Tour? Completely different vibe, totally worth coming back for. Reply 'sunset' and we'll check availability."
+> "Hey [Name]! You did Cave Point — have you ever done the Door Bluff Shipwreck? Completely different vibe — bayside, calmer water, real wreck sites. Reply 'shipwreck' and we'll check availability."
 
 **Ideal outcome:** Review posted. Referral sent. Return visit booked or intent established.
 

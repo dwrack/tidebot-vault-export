@@ -54,8 +54,8 @@ This framing should be on the website, in the chatbot, and in any conversation w
 | At booking (any) | E-bike rental add-on | GHL: "Want to explore the peninsula before/after?" |
 | At booking (any) | Lykke Sauna add-on | GHL: "The perfect post-paddle warm-down" |
 | At booking (kayak + sauna) | Bundle discount | Suggest the combo at slight savings |
-| During tour (guide) | Return visit | "You have to come back for the sunset tour" |
-| Post-tour (7 days) | Sunset tour / different experience | GHL re-engagement message |
+| During tour (guide) | Return visit | "You have to come back for the Door Bluff Shipwreck / Eco Estuary — completely different water" |
+| Post-tour (7 days) | Different experience | GHL re-engagement message (Door Bluff Shipwreck or Eco Estuary — NOT sunset tour, we don't run one) |
 | End of season | Gift card | Holiday email campaign |
 | Special occasion noted | Upgrade + personalization | Flag for guide, offer enhancements |
 
@@ -73,7 +73,7 @@ Every hesitation has a counter. These should be in the website, chatbot, and gui
 | "Is it worth $59?" | [Value stack above] |
 | "We only have a few hours" | "The tour is 2.5 hours total — that's the whole experience. No wasted time." |
 | "We're not that athletic" | "This is not a workout. This is floating through sea caves. Any fitness level is welcome." |
-| "We already did it last year" | "Have you done the Sunset Tour? Completely different experience — most guests say it's their favorite." |
+| "We already did it last year" | "Have you done the Door Bluff Shipwreck? Completely different water — bayside, calmer, real wreck sites. Or the Eco Estuary if wildlife's more your thing." |
 
 ---
 

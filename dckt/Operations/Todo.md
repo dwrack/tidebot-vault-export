@@ -27,6 +27,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] Rework Meta Marketplace ad creative for Door Bluff Shipwreck Kayak Tour, current creative reads flat/generic next to peer listings (D) — see `Marketing/Meta Marketplace Ad Creative Feedback (July 2026).md`
 - [ ] E-signature platform: replace DocuSign with open source alternative (D)
 - [ ] Housing deposit collection process confirmed (D+B)
 - [ ] Accountant relationship + payroll flow confirmed (D+B)

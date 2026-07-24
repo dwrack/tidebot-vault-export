@@ -28,7 +28,7 @@ A guest says, "I'm a lifeguard. I don't need a PFD." How do you respond?
 A) "I appreciate that, but it's policy. Everyone wears one on the water."
 B) "That's awesome, but this isn't about swimming ability. It's about what happens when you go under unexpectedly, disoriented, maybe you've hit something. The PFD does the thinking for you. It stays on."
 C) "OK, as long as you keep it in your kayak in case you need it."
-D) "Let me check with my manager if we can make an exception."
+D) "Let me check with my contractor if we can make an exception."
 
 **Best answer: B**
 

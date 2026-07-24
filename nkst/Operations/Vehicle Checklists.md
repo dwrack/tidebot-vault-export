@@ -50,7 +50,7 @@ Confirm these items are in the van before leaving Piety Street.
 - [ ] First Aid supplies
 - [ ] T-shirts available for purchase
 - [ ] Gas card on keychain (Shell only — code: 6006)
-- [ ] **AAA membership card in glovebox** (one card per van; currently in Michelle Healey's name. AAA tow drivers don't check name match, just card validity. Card has 3 service uses per year. When down to 1 use remaining, manager orders a replacement card in their own name.)
+- [ ] **AAA membership card in glovebox** (one card per van; currently in Michelle Healey's name. AAA tow drivers don't check name match, just card validity. Card has 3 service uses per year. When down to 1 use remaining, contractor orders a replacement card in their own name.)
 
 ---
 

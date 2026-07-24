@@ -3,9 +3,9 @@
 
 This quiz tests whether you have read and understood the full body of NKST guide documentation: the Handbook, the Vehicle Handbook, the Conduct & Anti-Harassment Policy, the Weather Flowchart, and the incident reporting expectations. It supersedes the prior 11-question Safety & Compliance Quiz.
 
-You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual renewal also requires a passing score. Failed attempts: discuss missed questions with the manager, then retake.
+You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual renewal also requires a passing score. Failed attempts: discuss missed questions with the contractor, then retake.
 
-> **For setup:** This file is a markdown source for a Google Form. Each question copies directly into a Form question with multiple choice. Capture name, email, IP, and timestamp on submission. Auto-grade and route to a Google Sheet that the manager monitors. Score 80%+ triggers a Slack/email pass notification; under 80% triggers a coaching email.
+> **For setup:** This file is a markdown source for a Google Form. Each question copies directly into a Form question with multiple choice. Capture name, email, IP, and timestamp on submission. Auto-grade and route to a Google Sheet that the contractor monitors. Score 80%+ triggers a Slack/email pass notification; under 80% triggers a coaching email.
 
 ---
 
@@ -21,7 +21,7 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 - A) "Sorry, it's policy."
 - B) "PFDs aren't about swimming, they're about involuntary immersion and disorientation. The PFD does the thinking. It stays on." ✅
 - C) "Keep it in your kayak just in case."
-- D) "Let me check with my manager."
+- D) "Let me check with my contractor."
 
 ### Q3. Mid-tour, you hear distant thunder, no visible lightning. What do you do?
 - A) Keep going, watch the sky
@@ -37,15 +37,15 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 
 ### Q5. Pre-tour PFD inspection. One smells bad. What do you do?
 - A) Spray with MiraZyme and use anyway
-- B) Set aside, use a different one, flag to manager ✅
+- B) Set aside, use a different one, flag to contractor ✅
 - C) Give to whoever seems least likely to complain
 - D) Trash it without telling anyone
 
 ### Q6. Guest on water shows anaphylaxis (swelling, difficulty breathing). No EpiPen on hand. Action?
 - A) Give Benadryl, continue tour
-- B) Get to shore, call 911 with GPS coords, monitor, send another guest to call manager ✅
+- B) Get to shore, call 911 with GPS coords, monitor, send another guest to call contractor ✅
 - C) Paddle them to the van and drive to a hospital
-- D) Call manager first to ask what to do
+- D) Call contractor first to ask what to do
 
 ### Q7. Why use the booking-specific waiver link, not a generic QR code?
 - A) QR codes don't work on all phones
@@ -55,7 +55,7 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 
 ### Q8. Flat tire on I-10 with 8 guests in the van. Priority?
 - A) Fix the tire, continue
-- B) Pull over safely, all guests safe and accounted for, call manager, call AAA using the card in the glovebox, stay with guests ✅
+- B) Pull over safely, all guests safe and accounted for, call contractor, call AAA using the card in the glovebox, stay with guests ✅
 - C) Call AAA and wait without notifying anyone
 - D) Have guests help change the tire
 
@@ -70,7 +70,7 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 ### Q10. At launch, you have 12 PFDs and 13 guests plus yourself. What do you do?
 - A) Skip your own PFD
 - B) Put two small guests in a tandem with one PFD between them
-- C) Do not launch. Call manager. You need 14 minimum. ✅
+- C) Do not launch. Call contractor. You need 14 minimum. ✅
 - D) Ask if anyone's a strong swimmer and would skip one
 
 ### Q11. Guest falls, says their neck hurts after hitting something underwater. Action?
@@ -91,32 +91,32 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 
 ### Q13. Pre-drive walkaround turns up a brake light that's out. What do you do?
 - A) Drive carefully and replace it tomorrow
-- B) Don't roll. Text the manager. Work the problem before guests are in the vehicle. ✅
+- B) Don't roll. Text the contractor. Work the problem before guests are in the vehicle. ✅
 - C) Tell guests to be aware
 - D) Cancel the tour and refund
 
 ### Q14. You're rear-ended at a stop light with guests in the van. Nobody is hurt. What is the correct sequence?
 - A) Trade insurance info, continue tour, report later
-- B) Pull off, hazards on, guests safe, call manager, photograph everything, exchange info, do not admit fault, file police report, written incident report within 24h ✅
+- B) Pull off, hazards on, guests safe, call contractor, photograph everything, exchange info, do not admit fault, file police report, written incident report within 24h ✅
 - C) Apologize, exchange info, drive on
 - D) Call 911 only if the other driver demands it
 
 ### Q15. A guest asks if they can drive the van for a minute as a joke. Response?
 - A) "Sure, just for a second."
 - B) "Only NKST staff drive the van. Ever." (Polite but firm.) ✅
-- C) "I'll ask my manager."
+- C) "I'll ask my contractor."
 - D) Hand them the keys for a photo
 
 ### Q16. End of tour day. The van's fuel gauge is at 1/3. What do you do?
 - A) Park it, fuel up tomorrow
 - B) Top it to at least 1/2 before parking ✅
 - C) Drive to the cheapest station even if off-route
-- D) Text the manager and wait for instructions
+- D) Text the contractor and wait for instructions
 
 ### Q17. You notice a new clunking sound coming from the rear of the van during the drive back. No other symptoms. What do you do?
 - A) If the van still drives, ignore it
 - B) Park the van and refuse to drive any van until inspected
-- C) Finish the day, log it in the Post-Tour Damage Report so the manager can have it inspected ✅
+- C) Finish the day, log it in the Post-Tour Damage Report so the contractor can have it inspected ✅
 - D) Wait to see if it gets worse before saying anything
 
 ---
@@ -125,13 +125,13 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 
 ### Q18. A guest repeatedly compliments your body and asks for your personal number after the tour. What's the correct response?
 - A) Give them your number to be polite
-- B) Set a clear verbal boundary, redirect them to NKST's Instagram or email, document the interaction, tell the manager ✅
+- B) Set a clear verbal boundary, redirect them to NKST's Instagram or email, document the interaction, tell the contractor ✅
 - C) Ignore it, hope they go away
 - D) Make a joke to deflect and move on
 
 ### Q19. You see another guide making a sexual joke to a guest. What's required of you?
 - A) Mind your own business
-- B) Tell the manager. Witnessing misconduct is reportable. ✅
+- B) Tell the contractor. Witnessing misconduct is reportable. ✅
 - C) Confront the other guide directly first
 - D) Wait to see if it happens again
 
@@ -139,9 +139,9 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 - A) Yes, on personal time
 - B) Only if the guest initiates
 - C) No, this is grounds for immediate termination ✅
-- D) Yes, with manager approval
+- D) Yes, with contractor approval
 
-### Q21. Who do you contact if the manager is the source of a harassment concern?
+### Q21. Who do you contact if the contractor is the source of a harassment concern?
 - A) Another guide
 - B) The owner directly ✅
 - C) Wait for the next monthly meeting
@@ -172,12 +172,12 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 ### Q25. What goes in an incident report?
 - A) Just the basics
 - B) Timeline, photos, witness info, your statement, all guest contact info, weather, your last meal and last sleep ✅
-- C) Whatever the manager asks for after
+- C) Whatever the contractor asks for after
 - D) The guest's name and what happened
 
 ### Q26. The damaged van or piece of equipment from an incident, when can it go back in service?
 - A) Immediately if it still works
-- B) After the manager has inspected (and a shop, if mechanical/body damage), insurance is notified, log is updated, and manager signs return-to-service ✅
+- B) After the contractor has inspected (and a shop, if mechanical/body damage), insurance is notified, log is updated, and contractor signs return-to-service ✅
 - C) Same day, after a wipe-down
 - D) Whenever the next guide arrives
 
@@ -186,7 +186,7 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 ## Section 5: Independent Contractor Status (4 Q's, new)
 
 ### Q27. NKST defines outcomes (safety standards, regulatory compliance, briefing topics). Who decides how to deliver the safety briefing in your own words?
-- A) The manager scripts every word
+- A) The contractor scripts every word
 - B) You do, as long as all six points are covered and the result meets the standard ✅
 - C) Whoever shadowed you in Phase 2
 - D) You read it from the card verbatim every time
@@ -201,7 +201,7 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 - A) No, you must take every assigned tour
 - B) Yes, subject to the cancellation notice in the ICA ✅
 - C) Only with a doctor's note
-- D) Only if the manager approves
+- D) Only if the contractor approves
 
 ### Q30. Are you required to carry general liability insurance?
 - A) No, NKST covers everything
@@ -216,11 +216,11 @@ You must score 80% (24 of 30 correct) to be cleared for solo sign-off. Annual re
 | Score | Outcome |
 |-------|---------|
 | 28–30 / 30 | Excellent. Solo sign-off cleared. |
-| 24–27 / 30 | Pass (80%+). Solo sign-off cleared. Manager reviews missed questions in next coaching session. |
+| 24–27 / 30 | Pass (80%+). Solo sign-off cleared. Contractor reviews missed questions in next coaching session. |
 | 21–23 / 30 | Below pass. Coaching session before retake. Retake within 7 days. |
 | Under 21 / 30 | Significant gaps. Retraining required (re-read flagged sections, re-quiz). |
 
-Manager reviews every submission. Passing scores logged in `Guides/[Name]/quiz_pass_[YYYY-MM-DD].pdf` (or screenshot of Google Form receipt).
+Contractor reviews every submission. Passing scores logged in `Guides/[Name]/quiz_pass_[YYYY-MM-DD].pdf` (or screenshot of Google Form receipt).
 
 ---
 

@@ -1,4 +1,4 @@
-# Operations Manager — New Orleans Kayak Swamp Tours
+# Operations Contractor — New Orleans Kayak Swamp Tours
 
 **Company:** Apres Assets LLC dba New Orleans Kayak Swamp Tours / Nola Kayak Tours
 **Reports To:** David (Jeffrey), Owner
@@ -7,7 +7,7 @@
 ---
 
 > **Legal Note — Contractor Classification**
-> This position may be structured as a 1099 independent contractor engagement. Louisiana applies a three-part test under La. R.S. 23:1472(12)(E): (A) freedom from control over the manner and means of work, (B) work performed outside the usual course of the company's business, and (C) independently established trade or occupation. The manager role carries inherent classification risk because managing core operations is closely tied to the company's usual course of business. This document is written to maximize contractor defensibility, but it does not eliminate that risk. Have a Louisiana-licensed employment attorney review the classification decision and any contractor agreement before engagement begins. The ICA template in the vault Legal folder applies to guides — a separate agreement should be drafted for the manager role.
+> This position may be structured as a 1099 independent contractor engagement. Louisiana applies a three-part test under La. R.S. 23:1472(12)(E): (A) freedom from control over the manner and means of work, (B) work performed outside the usual course of the company's business, and (C) independently established trade or occupation. The contractor role carries inherent classification risk because managing core operations is closely tied to the company's usual course of business. This document is written to maximize contractor defensibility, but it does not eliminate that risk. Have a Louisiana-licensed employment attorney review the classification decision and any contractor agreement before engagement begins. The ICA template in the vault Legal folder applies to guides — a separate agreement should be drafted for the contractor role.
 
 ---
 
@@ -23,7 +23,7 @@ This role used to be heavy. We've rebuilt the systems around it so it doesn't ha
 
 This engagement may be structured as either:
 
-**W-2 Employee** — Standard employment with payroll taxes withheld, set hours and oversight, and access to company benefits as applicable. Recommended if the day-to-day work is substantially directed by the owner or if the manager works exclusively for NKST.
+**W-2 Employee** — Standard employment with payroll taxes withheld, set hours and oversight, and access to company benefits as applicable. Recommended if the day-to-day work is substantially directed by the owner or if the contractor works exclusively for NKST.
 
 **1099 Independent Contractor** — The contractor determines the methods, sequence, and manner of achieving the agreed outcomes. Compensation is a flat monthly retainer for defined scope, paid bi-monthly via PayPal. The contractor is responsible for their own tax obligations. A signed Independent Contractor Agreement (separate from the guide ICA) is required before work begins.
 
@@ -35,7 +35,7 @@ Classification should be determined in consultation with Apres Assets LLC's atto
 
 ## Scope of Engagement
 
-The Operations Manager is engaged to produce the following outcomes for New Orleans Kayak Swamp Tours on an ongoing basis. The contractor determines the methods, schedule, and approach used to achieve these outcomes, subject to the quality standards and result requirements described below.
+The Operations Contractor is engaged to produce the following outcomes for New Orleans Kayak Swamp Tours on an ongoing basis. The contractor determines the methods, schedule, and approach used to achieve these outcomes, subject to the quality standards and result requirements described below.
 
 ---
 
@@ -126,6 +126,99 @@ The contractor is responsible for:
 
 ---
 
+## Duty Lane Detail (Two-Contractor Structure)
+
+> Applies when this role is held by two Contractors concurrently under the [[Legal/Operations Contractor Agreement — Template & Compensation Structure]]'s Section 1.1 (Growth & Admin Lane and Field & On-Site Lane). A solo Contractor is still responsible for the full Core Outcomes above; this section exists to make each lane item concrete enough to log against under that Agreement's 2.4.1 Daily Accountability requirement, not to replace the Core Outcomes section.
+
+### Growth & Admin Lane
+
+**Phones and customer communication**
+- Entails: answering the company line and returning missed calls same day; resolving OpenCX-flagged phone/chat/email escalations that need a human (OpenCX is the primary responder per the Guest Comms & Social Media Contractor Agreement — this lane picks up what gets kicked upstream); monitoring the shared Info@ inbox for anything unresolved.
+- Cadence: daily, business hours; escalations closed within 4 business hours, matching the SLA already set in the Guest Comms & Social contract.
+- Tools: company phone line, OpenCX escalation queue, nolakayaktours@gmail.com / Info@ inbox, GoHighLevel conversations.
+- Log against: calls/escalations handled that day; anything unresolved carried to the next day's log.
+
+**Guide scheduling and communication**
+- Entails: building and publishing the guide schedule for the coming week in FareHarbor; handling swaps, no-shows, and last-minute coverage as they arise.
+- Cadence: weekly schedule published by a fixed day (recommend Thursday, for the following Mon-Sun); swaps handled same day.
+- Tools: FareHarbor guide assignment, guide Slack/GHL channel, the tour ledger.
+- Log against: schedule published on time; existing under-5%/month no-show standard (Deliverable Standards table) applies.
+
+**Payroll**
+- Entails: pulling bi-monthly guide and contractor pay from the tour ledger, verifying guide pay matches tours actually run that period, submitting for payment by the deadlines in Section 2.5 of the Operations Contractor Agreement.
+- Cadence: bi-monthly, tied to each pay period.
+- Tools: the tour ledger, FareHarbor manifests, payment method on file (Exhibit A).
+- Log against: payroll submitted on time; ledger current for the period. This is the duty that directly satisfies the Operations Contractor Agreement's 4.11 Data Currency Requirement.
+
+**Updating the website, including guide profiles**
+- Entails: WordPress/ACF edits for guide bios and photos on any roster change, general tour-page updates, keeping the Schema Markup ACF field current per the site's JSON-only, no-escaped-quotes formatting rule.
+- Cadence: as needed, target within 5 business days of a roster change or content request.
+- Tools: WP admin, ACF fields, the site's standard image-optimization workflow.
+- Log against: guide profiles reflect the current roster at all times; requests closed within the target window.
+
+**Streamlining the FareHarbor integration**
+- Entails: with no FareHarbor API access, this means keeping the daily-manifest-to-ledger pipeline reliable, auditing FareHarbor data for accuracy (guide assignments, shuttle flags, headcounts — same audit already described under Operations Oversight above), and flagging any break in that pipeline immediately.
+- Cadence: daily manifest check. This is the duty most directly tied to 4.11.
+- Tools: FareHarbor dashboard, Gmail manifest parsing, the tour ledger.
+- Log against: no gap longer than 48 hours between a tour running and it being logged, matching 4.11's own standard.
+
+**SEO and Google Ads**
+- Entails: reviewing Ads performance and recommendations, GSC keyword opportunities, on-page SEO edits, keeping the long-tail content roadmap moving.
+- Cadence: weekly minimum review.
+- Tools: Google Ads, Search Console, GA4, WordPress.
+- Log against: at least one concrete action per week (an ad change, a published post, a keyword adjustment), tagged as Growth Work under Operations Contractor Agreement 4.9.
+
+**Media outreach, partnerships, and group sales**
+- Already covered in full under Community Presence and Partnership Development, and Group Booking Conversion, above. Same standards apply here; not restated to avoid drift between two descriptions of the same duty.
+
+**Lead generation through email and online outreach**
+- Entails: cold/warm outreach campaigns (DMCs, hotels, creators, media) and follow-through on lead-gen ad campaigns.
+- Cadence: ongoing, counts toward the Growth Work Minimum in Operations Contractor Agreement 4.9.
+- Tools: Gmail, GHL sequences, Facebook Ads Contractor.
+- Log against: outreach touches logged per week, tagged as Growth Work.
+
+**Training Alexis (time-boxed, first 3 weeks of the Agreement)**
+- Entails: structured handoff of the items above so Alexis can operate independently. Not an ongoing duty past the window.
+- Cadence: one-time, 3 weeks from the Agreement's effective date.
+- Log against: a short checklist confirming each item above was walked through, signed off by both at the end of week 3.
+
+### Field & On-Site Lane
+
+**Equipment, trailers, and vehicle logistics**
+- Already covered in full under Fleet and Equipment Accountability above (vehicle readiness at 1407 Piety St, weekly vehicle log, repair coordination, escalating capital spend). Same standards apply.
+
+**On-site operations and day-of-tour issues**
+- Entails: the existing Operations Oversight day-of duties (weather go/no-go before 7:00 AM, Honey Island gauge check, daily briefing review) plus real-time problem-solving when something breaks mid-day: a guide no-show, a guest issue, a vehicle breakdown.
+- Cadence: daily during operating season.
+- Log against: existing standards apply (95%+ tours run as booked, weather notice before departure), plus a same-day resolution note for any day-of issue.
+
+**Tour-guide and affiliate outreach**
+- Entails: the in-person side of guide relationship maintenance and affiliate touchpoints, the field complement to the Growth & Admin Lane's office-based partnership development. Overlaps Guide Team Leadership (check-ins, coaching) above.
+- Log against: existing guide-coaching standards apply.
+
+**Social media posting and content creation**
+- Entails: IG/FB posting across both accounts (@neworleanskayakswamptours, @kayaknola) plus Reels/TikTok.
+- **Flag before signature:** this may already be paid under the separate Guest Comms & Social Media Contractor Agreement (per-post rates: $10 FB group, $12 IG static, $22 IG Reel, $18 TikTok). If Alexis holds both agreements, decide whether this lane covers content strategy/oversight only, with per-post execution paid solely under the other contract, before both agreements are signed — otherwise the same posts could be paid twice.
+- Log against: pending that carve-out.
+
+**In-person marketing and lead generation**
+- Entails: local event tabling, hotel/concierge touchpoints, on-the-ground referral maintenance, direct in-person upsell.
+- Cadence: ongoing, counts toward the Growth Work Minimum in 4.9 as the field-side complement to the Growth & Admin Lane's office-side growth work.
+- Log against: touches logged per week.
+
+**Guide check-ins and on-site feedback**
+- Already covered in full under Guide Team Leadership above (periodic check-ins, coaching conversations, weekly field-note themes).
+
+**Equipment inventory and maintenance coordination**
+- **Flag before signature:** this appears to duplicate "Equipment, trailers, and vehicle logistics" above almost exactly, likely restating the same duty rather than describing something distinct. Recommend merging into one lane item so it isn't tracked (or logged) twice.
+
+**Capturing photos and videos during tours**
+- Entails: on-tour content capture for marketing/social use, distinct from the existing doc's guide-owned duty of posting one required photo to Google after each tour — this is the Contractor's broader content-library capture, not the guide's per-tour post.
+- Cadence: ongoing.
+- Log against: content library additions logged per pay period.
+
+---
+
 ## What Claude Handles
 
 Claude operates as a background operations resource. These are not tasks the contractor performs manually -- they are outputs the contractor reviews, approves, and acts on.
@@ -188,7 +281,8 @@ The following standards apply to the outcomes of this engagement. These are qual
 
 ## Compensation
 
-- **Structure:** Flat monthly retainer for the defined scope above, or hourly rate for defined project work -- to be set by owner and documented in the contractor agreement
+- **Structure:** $200/day rate (see [[Legal/Operations Contractor Agreement — Template & Compensation Structure]] for the full terms — supersedes the flat monthly retainer previously described here)
+- **Guide coverage requirement:** When weekly labor percentage exceeds 27%, the contractor guides at least 1 tour that week, covered under the standard $200/day rate with no separate guide fee
 - **Pay cycle:** Bi-monthly via PayPal (1st--15th paid on the 15th; 16th--end paid on the last day of the month)
 - **Performance bonus:** At owner's discretion based on tour volume, review growth, and partnership outcomes
 - **Expenses:** Documented business expenses approved in advance by the owner are reimbursable with receipts within one pay cycle

@@ -157,4 +157,4 @@ This location has distinct content that differs from Manchac. See the Honey Isla
 | Sharp turns en route | 2 — know them before solo |
 | Van gas | Shell only; card code 6006 |
 | Business phone | 504-571-9975 |
-| Manager | Michelle Healey (216) 262-3865 |
+| Contractor | Michelle Healey (216) 262-3865 |

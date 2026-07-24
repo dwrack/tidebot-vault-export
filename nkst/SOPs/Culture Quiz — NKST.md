@@ -3,7 +3,7 @@
 
 *For new hires. Read each scenario. Pick your gut answer. Then read the takeaway.*
 
-*Managers: walk through these together. The conversation matters more than the "score."*
+*Contractors: walk through these together. The conversation matters more than the "score."*
 
 ---
 
@@ -13,7 +13,7 @@ A bartender friend at a restaurant on Magazine Street mentions their staff has n
 
 **What do you do?**
 
-A) Wait until your manager sets up the official program
+A) Wait until your contractor sets up the official program
 B) Tell your friend about it casually and let it die there
 C) Bring it up in the Slack channel: "Hey, I've got a contact at [restaurant]. They're interested in a staff outing. What's our move?"
 
@@ -69,12 +69,12 @@ You notice that one of the more experienced guides has been showing up late, not
 
 A) Keep your head down. You're new, it's not your place.
 B) Talk to them one-on-one: "Hey, you good? Noticed you've been a little off lately. Anything I can help with?"
-C) Go straight to the manager
+C) Go straight to the contractor
 
 <details>
 <summary>The takeaway</summary>
 
-**Respect the Work.** Option B is the human move. Peer-to-peer, private, from a place of genuine concern. They might be going through something. They might not realize how it's landing. Either way, someone needs to say something before it becomes a real problem. If nothing changes after that conversation, then loop in the manager. Tenure doesn't equal immunity from the basics.
+**Respect the Work.** Option B is the human move. Peer-to-peer, private, from a place of genuine concern. They might be going through something. They might not realize how it's landing. Either way, someone needs to say something before it becomes a real problem. If nothing changes after that conversation, then loop in the contractor. Tenure doesn't equal immunity from the basics.
 </details>
 
 ---
@@ -87,7 +87,7 @@ End of a great tour. Everyone's vibing on the drive back. You had a first-timer 
 
 A) Enjoy the drive and head home
 B) Drop a quick captain's log in the channel: owl sighting, the nervous first-timer's breakthrough moment, the route idea from the experienced paddler
-C) Text your manager a summary later tonight
+C) Text your contractor a summary later tonight
 
 <details>
 <summary>The takeaway</summary>

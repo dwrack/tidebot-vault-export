@@ -1,4 +1,4 @@
-# NKST — Manager SOP (After Automation)
+# NKST — Operations Contractor SOP (After Automation)
 
 **Company:** Apres Assets LLC dba New Orleans Kayak Swamp Tours / Nola Kayak Tours
 **Version:** Automated Operations Playbook (GHL Live)
@@ -12,26 +12,26 @@
 
 | Task | Before (Manual) | After (Automated) |
 |---|---|---|
-| Booking confirmation to guest | Manager or FareHarbor only | GHL webhook sends instantly on booking |
+| Booking confirmation to guest | Contractor or FareHarbor only | GHL webhook sends instantly on booking |
 | What-to-bring info to guest | Manual text or email | GHL pre-tour sequence (message 2 of 4) |
 | Day-before reminder to guest | Manual text or email | GHL pre-tour sequence (message 3 of 4) |
 | Post-tour review request to guest | Manual text/email (or not done) | GHL sends automatically after tour |
 | Missed call follow-up | No follow-up until voicemail checked | Auto SMS text-back within seconds |
-| FAQ responses (website/SMS) | Manager or owner answers every one | Chatbot handles ~80% without human |
-| Guide manifest + night-before SMS | Manager texts each guide manually | GHL sends automatically night before tour |
+| FAQ responses (website/SMS) | Contractor or owner answers every one | Chatbot handles ~80% without human |
+| Guide manifest + night-before SMS | Contractor texts each guide manually | GHL sends automatically night before tour |
 | Guide schedule confirmation | Manual text exchange | Guide gets auto-confirmation from GHL |
-| Weather cancellation blast | Manager calls/texts every guest manually | One-click broadcast in GHL to all affected |
+| Weather cancellation blast | Contractor calls/texts every guest manually | One-click broadcast in GHL to all affected |
 | Group inquiry capture | Ad hoc — email, call, lost in shuffle | GHL form → auto CRM entry → auto follow-up |
 | Review requests | Manual or skipped | Auto-SMS with direct Google/TripAdvisor links |
 | Guide compliance tracking | Spreadsheet | GHL compliance dashboard with expiry alerts |
 | Monthly email campaigns | Owner or not done | GHL scheduled campaigns |
-| LDWF quarterly report | Manual data pull | FareHarbor CSV → manager formats + submits |
-| Add-transport requests | Manager handles manually | Chatbot captures name/date/headcount → flags manager to process in FareHarbor |
-| "Didn't get confirmation" requests | Manager looks up booking and resends | Chatbot collects info → triggers FareHarbor confirmation resend |
-| Day-of lost guest | Manager or guide handles by phone | Chatbot sends location info immediately + escalates to human |
-| Weight/size questions | Manager or guide answers by phone | Chatbot answers directly from FAQ |
+| LDWF quarterly report | Manual data pull | FareHarbor CSV → contractor formats + submits |
+| Add-transport requests | Contractor handles manually | Chatbot captures name/date/headcount → flags contractor to process in FareHarbor |
+| "Didn't get confirmation" requests | Contractor looks up booking and resends | Chatbot collects info → triggers FareHarbor confirmation resend |
+| Day-of lost guest | Contractor or guide handles by phone | Chatbot sends location info immediately + escalates to human |
+| Weight/size questions | Contractor or guide answers by phone | Chatbot answers directly from FAQ |
 | Post-tour review request | Fully manual or skipped | Fully automated |
-| **Manager's primary job** | **Doing tasks** | **Overseeing systems + handling exceptions** |
+| **Contractor's primary job** | **Doing tasks** | **Overseeing systems + handling exceptions** |
 
 ---
 
@@ -48,7 +48,7 @@ The following tasks are fully automated. You do not need to touch them unless th
 - Monthly email campaigns (pre-scheduled in GHL)
 - New group inquiry: auto-CRM entry, auto-quote, and initial follow-up sequence
 - Post-tour review SMS with direct Google and TripAdvisor links
-- Add-transport requests: chatbot captures guest name, date, headcount and flags for manager
+- Add-transport requests: chatbot captures guest name, date, headcount and flags for contractor
 - "Didn't get confirmation" requests: chatbot collects info and triggers resend workflow
 - Day-of lost guest initial response: chatbot sends 740 N. Rampart address and escalation alert
 - Weight/size FAQ questions: chatbot answers from FAQ (400 lb tandem limit)
@@ -102,7 +102,7 @@ Any references to the old address in GHL chat logs should be flagged: if it happ
 
 ---
 
-## GHL-Specific Manager Tasks
+## GHL-Specific Contractor Tasks
 
 ### Conversations Inbox Monitoring
 - Check the inbox at least three times per day: morning, midday, afternoon
@@ -159,22 +159,22 @@ The following workflow handles minimum participation cancellations for extended 
 
 ### How It Works
 - GHL workflow runs a daily check at **4:00 PM** — flags any extended tour scheduled for tomorrow that has fewer than [MINIMUM — owner to set] confirmed bookings
-- Manager receives an alert in GHL (and by SMS) at **4:30 PM** if minimum not met
-- Manager makes the go/cancel decision and selects the appropriate action in GHL
+- Contractor receives an alert in GHL (and by SMS) at **4:30 PM** if minimum not met
+- Contractor makes the go/cancel decision and selects the appropriate action in GHL
 - One-click sends the minimum participation outbound text to all affected guests
 - System presents guests with 3 reply options (switch, reschedule, refund)
 - Guest reply routes to:
-  - Option 1 (switch): Workflow flags manager to update booking in FareHarbor; partial refund processed
-  - Option 2 (reschedule): Workflow flags manager with guest preference; manager books new date
-  - Option 3 (refund): Workflow flags manager to process full refund in FareHarbor
+  - Option 1 (switch): Workflow flags contractor to update booking in FareHarbor; partial refund processed
+  - Option 2 (reschedule): Workflow flags contractor with guest preference; contractor books new date
+  - Option 3 (refund): Workflow flags contractor to process full refund in FareHarbor
 
-### Manager's Role in This Workflow
+### Contractor's Role in This Workflow
 - Make the go/cancel decision by 5:00 PM
 - Monitor guest reply inbox from 6:00 PM onward
 - Process all FareHarbor actions (switches, refunds) by end of evening
 - Call any guest who has not replied by 8:00 PM
 
-**Owner must set the minimum participant threshold** for each tour type before this workflow can be fully configured. Until that number is set, the 4:30 PM alert will still fire — manager makes the judgment call manually.
+**Owner must set the minimum participant threshold** for each tour type before this workflow can be fully configured. Until that number is set, the 4:30 PM alert will still fire — contractor makes the judgment call manually.
 
 ---
 
@@ -228,7 +228,7 @@ Activate when a named storm watch or warning is issued within 200 miles of the N
 1. **Notify owner immediately.** This is an owner-level decision.
 2. In GHL, identify all contacts with upcoming bookings in the affected date range (next 72 hours minimum).
 3. Use GHL **Broadcast / Bulk SMS** to send the hurricane cancellation message to all affected guests in one action:
-   > Hi [NAME], this is [MANAGER NAME] from NolaKayak Tours. Due to [STORM NAME], we are proactively cancelling all tours [DATE RANGE] for the safety of our guests and guides. You will receive a full refund automatically — no action needed on your part. We'll be in touch to reschedule when we reopen. Please stay safe!
+   > Hi [NAME], this is [CONTRACTOR NAME] from NolaKayak Tours. Due to [STORM NAME], we are proactively cancelling all tours [DATE RANGE] for the safety of our guests and guides. You will receive a full refund automatically — no action needed on your part. We'll be in touch to reschedule when we reopen. Please stay safe!
 4. Process full refunds in FareHarbor for all affected bookings. Do not wait for guests to request them.
 5. Block out dates in FareHarbor availability to prevent new bookings during the closure.
 6. Update Google Business Profile status.
@@ -370,7 +370,7 @@ Send owner a brief report covering:
 
 ## Escalation Matrix
 
-### Manager Handles Independently
+### Contractor Handles Independently
 - All chatbot escalations and FAQ questions
 - Booking modifications, cancellations, reschedules (within policy)
 - Negative reviews (follow-up protocol above)

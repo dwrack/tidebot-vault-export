@@ -4,18 +4,19 @@ display_name: Austin Kayak Tours
 city: Austin
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 7
+lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "6 unreplied 5★ reviews — oldest May 26 (41 days)"
-updated: 2026-07-06
+alert: "data sources offline this session"
+updated: 2026-07-24
 tile_type: business
 ---
 
+
 <!-- live:start -->
-- No separate FH shortname. Bookings and ads flow through LSKT (8497383499).
-- **6 unreplied 5★ reviews (oldest 41 days): Lisa Williams (May 26), BadMonsterMan (May 29), Diane Gonzolas (Jun 3), Rachel Domangue (Jun 3 — team building), Ella Messa (Jun 19), Howard Nichols (Jun 23). GBP loc 751109797147653805.**
-- IG @austinkayaktours: Last post Jun 19 (17 days ago). Light engagement. Needs a post this week.
+- **Degraded session 07-24.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG) were offline this run. Brief built from Gmail + FareHarbor cache only.
+- No FareHarbor booking feed for this business. No fresh marketing data pulled this session.
+- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
 <!-- live:end -->
 
 ## Quick links

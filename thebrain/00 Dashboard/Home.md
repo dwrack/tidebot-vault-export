@@ -1,35 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-07-06*
+*Last refresh: 2026-07-24 (degraded — marketing MCPs offline this run)*
 
 ## Right now
-- [[Daily Briefings/2026-07-06|Today's brief]]
+- [[Daily Briefings/2026-07-24|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NPB — reply to Derrick J. Freeman 1★ GBP review, now 8 days unanswered.** Captain walked off mid-trip, cursed at guests, ruined a family birthday. Most damaging open review in the portfolio. GBP loc `16753778394051046706`.
-2. **HPB — Google Ads pixel still broken.** $150.61 spent in 7 days, $8 total tracked conversion value (ROAS 0.05x). Pause or fix before more bleeds out. Account `2986009791`.
-3. **FH scraper offline — peak summer Sunday, zero booking visibility.** All 6 businesses ERR_INTERNET_DISCONNECTED last night. Same failure mode as June outage. Check the scraper machine.
+1. **Fix the FareHarbor scraper auth — now 4 days blind on revenue.** 403 on all six shortnames 07-21/07-22, and the internal 07-23 update confirms it failed again. Last good pull is Monday 07-20. Top item three briefs running — needs a real fix today, not another day of noticing. Likely the email-login rollout killed the session.
+2. **Reconnect the marketing MCPs.** GBP, Google Ads, Meta, GSC, GA4, IG and Playwright were all offline this run, so today's brief is Gmail + FH cache only. No reviews, ad spend, or organic checked today. Run `claude mcp` / `/mcp` to restore the full brief.
+3. **Carried forward, unverified:** pause Gravity Trails NOLA (`4378232023`, 5+ zero-conv days), finish Google Ads verification on `237-223-4368` (pauses Aug 22), fix HPB `2986009791` conv value stuck at $1.00. Ads MCP was down, so none could be re-checked.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (7/5) | 7-day | Notes |
+| Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main) | — | — | Rate-limited |
-| Unreplied GBP 1-2★ | 2 | 2 | NPB Freeman (8d), LSKT Anna B (~1yr) |
-| Unreplied GBP 4-5★ | ~18 | — | DCKT 4, E&E 4, BBK 2, NKST 2, AKT 6+ |
-| FH bookings | — | — | Scraper ERR_INTERNET_DISCONNECTED |
-| Total ad spend (G+M) | ~$514 | ~$467/d | G: $365 + M: $149 |
-| DCKT ROAS | 0.80x | 3.01x | Off day on peak Sat |
-| LSKT/AKT ROAS | 6.22x | 12.94x | Strong |
-| Gravity Trails NOLA ROAS | 4.61x | 10.47x | Good |
-| HPB Google ROAS | 0.09x | 0.05x | Pixel broken — pause |
-| NPB Meta retargeting ROAS | 20.86x | — | 1 purchase, $413 revenue |
+| Gmail unread (main inbox) | 6 | ~12 | -6 |
+| Unreplied GBP reviews (all biz) | — (GBP offline) | — | — |
+| FH bookings (6 tracked biz, booked) | — (scrape 403, day 4) | 63.6 | — |
+| FH revenue (6 tracked biz, booked $) | — (scrape 403, day 4) | $9,531 | — |
+| Total ad spend (Google + Meta) | — (Ads/Meta offline) | $441.69 | — |
+| Total ad-attributed conversions | — (Ads/Meta offline) | ~18.7 | — |
 <!-- pulse:end -->
+*Several ad accounts are shared across businesses (LSKT+AKT; NPB+NKST+Bike Bar+Admire NOLA; DCKT+DC Ebike+Cave Point; HPB+Buffalo Bayou) — spend can't always be split per-business. See today's brief for detail.
 
 ## Business tiles
 
@@ -37,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-07-06]] (today)
-- [[Daily Briefings/2026-07-03]] (3 days ago)
-- [[Daily Briefings/2026-07-02]] (4 days ago)
-- [[Daily Briefings/2026-06-30]] (6 days ago)
-- [[Daily Briefings/2026-06-29]] (7 days ago)
-- [[Daily Briefings/2026-06-28]] (8 days ago)
-- [[Daily Briefings/2026-06-26]] (10 days ago)
+- [[Daily Briefings/2026-07-24]] (today)
+- [[Daily Briefings/2026-07-23]] (1 day ago)
+- [[Daily Briefings/2026-07-22]] (2 days ago)
+- [[Daily Briefings/2026-07-21]] (3 days ago)
+- [[Daily Briefings/2026-07-19]] (5 days ago)
+- [[Daily Briefings/2026-07-18]] (6 days ago)
+- [[Daily Briefings/2026-07-17]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps
@@ -53,5 +50,5 @@
 - [[Brand Nemesis Framework]]
 
 <!-- ad-optimizer:start -->
-> 📉 Ad Optimizer: 3 changes to approve, 7 advisories — see 00 Dashboard/Ad Optimizer
+> 📉 Ad Optimizer: 10 changes to approve, 9 advisories — see 00 Dashboard/Ad Optimizer
 <!-- ad-optimizer:end -->

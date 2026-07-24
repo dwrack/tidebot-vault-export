@@ -369,7 +369,7 @@ _Reuse:_ Off-season 'Door County in fall' mood clip to keep the feed alive past 
 
 **#160 . sunset rock silhouette** . Unknown . 2017-07-24 . [reel](https://instagram.com/reel/BW7xVeODm6K)
 Moody filtered shot of a single dark rock in shimmering shallow water with a sunset reflection streaking across the surface and a few birds. Very still, contemplative, no people.
-_Reuse:_ A calming closing frame or 'chill out' caption clip in a sunset paddle reel.
+_Reuse:_ A calming closing frame or 'chill out' caption clip in a late-afternoon paddle reel.
 
 **#163 . black-screen listen clip** . Unknown . 2017-07-03 . [reel](https://instagram.com/reel/BWGM56jjZ9X)
 All-black frame for the full runtime with no discernible image, paired with a 'patience / listen' caption, so the payload is audio (ambient nature or water) rather than visuals. No usable footage.
@@ -394,7 +394,7 @@ _Reuse:_ Pair this rough-water clip with a calm-day clip to teach when tours run
 
 **#180 . sunset over the water** . Unknown . 2015-08-15 . [reel](https://instagram.com/reel/6YoI9HLp17)
 A peaceful pink-and-orange sunset over calm lake water with sailboats silhouetted near the horizon and grasses in the foreground, the sun dipping toward the waterline. Captioned a Door County sunset.
-_Reuse:_ Drop this golden-hour sunset under a soft caption promoting evening/sunset paddle availability.
+_Reuse:_ Drop this golden-hour sunset under a soft caption promoting a late-afternoon Cave Point tour that catches the light. (Do NOT promote a "sunset paddle" or "sunset tour" — DCKT does not offer one.)
 
 ### E-bike (18)
 

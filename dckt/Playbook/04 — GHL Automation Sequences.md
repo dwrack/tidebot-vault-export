@@ -68,7 +68,7 @@ Each sequence below is ready to build in GHL's workflow builder. For each one:
 | 1 | +1 hr after tour | SMS | "That was incredible, [Name]! It was so great having you with us today 🌊 We hope Cave Point blew your mind. If you got any great shots out there, tag us — we'd love to share them! @doorcountykayak" |
 | 2 | +3 hrs | SMS | "Hey [Name] — one small favor? If [Guide Name] and the crew made your day, a quick Google review means the world to our small team and helps other families find us. Takes 2 min: [GOOGLE LINK] 🙏 Thank you!" |
 | 3 | +24 hrs | SMS | "One more thing, [Name] — if you have friends or family visiting Door County this summer, we'd love to take care of them. Share this and they'll get $10 off their first tour, and we'll send you a little thank-you: [REFERRAL LINK]" |
-| 4 | +7 days | SMS | "Hey [Name]! Hope you're still feeling that Door County magic ✨ You did the Cave Point tour — have you ever done the Sunset Tour? Completely different vibe, totally worth coming back for. Reply 'sunset' and we'll check availability for you." |
+| 4 | +7 days | SMS | "Hey [Name]! Hope you're still feeling that Door County magic ✨ You did the Cave Point tour — have you ever done the Door Bluff Shipwreck? Completely different vibe — bayside, calmer water, real wreck sites. Reply 'shipwreck' and we'll check availability for you." |
 | 5 | October (end of season) | Email | "Hey [Name] — wrapping up an amazing season here at DCKT! We hope we made your Door County trip unforgettable. We open bookings for next summer in March — want us to reach out when spots go live? Just reply 'yes' and you'll be first in line 🙌" |
 
 ---

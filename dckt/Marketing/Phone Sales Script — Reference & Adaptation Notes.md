@@ -40,8 +40,8 @@
 **Proof points to build excitement** (use 2–4, not all):
 - "We're one of the top-rated kayak tour companies on the peninsula"
 - "Guests tell us it's the highlight of their Door County trip"
-- "Our guides are ACA-certified and know every inch of the coastline"
-- "We do everything from beginner-friendly sunset paddles to full-day sea cave tours"
+- "Our guides are experienced locals who know every inch of the coastline"
+- "We do everything from beginner-friendly wetlands paddles to full-day sea cave tours"
 - "We keep groups small so every guest gets real attention"
 - "Easy online booking — or I can get you set up right now"
 
@@ -65,7 +65,9 @@
 - "How did you hear about us?"
 
 **Listen actively:**
-> "So you're looking for a relaxed sunset paddle for a group of six — is that right?"
+> "So you're looking for a relaxed wildlife paddle for a group of six — is that right?"
+
+(Note: If a caller specifically asks for a sunset tour, we do NOT offer one. Redirect: "We don't run a dedicated sunset tour, but our Cave Point tour in the late afternoon catches beautiful golden-hour light on the cliffs. Want me to check afternoon availability?")
 
 **Qualify & compliment:**
 > "Great job planning ahead — Door County summers book up fast."
@@ -73,7 +75,7 @@
 ---
 
 ### 4. Solution Presentation
-> "Based on what you mentioned, I'd recommend our [Sunset Tour / Cave Point Tour / Private Charter] — it's perfect for [their stated need]."
+> "Based on what you mentioned, I'd recommend our [Cave Point Tour / Eco Estuary / Door Bluff Shipwreck / Private Charter] — it's perfect for [their stated need]."
 
 **Use proof:**
 > "Guests always tell us this is the highlight of their whole Door County trip."

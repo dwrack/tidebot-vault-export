@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-09T11:41:48.400Z",
+    "for_date": "2026-07-08",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "booked_count": 7,
+      "booked_revenue": 649,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "doorcountykayaktours": {
+      "booked_count": 21,
+      "booked_revenue": 1502,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "houstonpedalbarge": {
+      "booked_count": 3,
+      "booked_revenue": 374,
+      "ran_count": 0,
+      "ran_revenue": 0
+    }
+  },
+  "errors": {
+    "lonestarkayaktours": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktour",
+    "neworleanskayakswamptours": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/neworleans",
+    "neworleanspedalbarge": "Error: page.goto: net::ERR_INTERNET_DISCONNECTED at https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedal"
+  }
+}

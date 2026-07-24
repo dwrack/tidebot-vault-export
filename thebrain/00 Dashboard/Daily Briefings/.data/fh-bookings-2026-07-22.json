@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-23T12:10:00.961Z",
+    "for_date": "2026-07-22",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {},
+  "errors": {
+    "buffalobayoukayak": "Error: POST buffalobayoukayak/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ",
+    "doorcountykayaktours": "Error: POST doorcountykayaktours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██",
+    "houstonpedalbarge": "Error: POST houstonpedalbarge/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ",
+    "lonestarkayaktours": "Error: POST lonestarkayaktours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║ ",
+    "neworleanskayakswamptours": "Error: POST neworleanskayakswamptours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔══",
+    "neworleanspedalbarge": "Error: POST neworleanspedalbarge/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██"
+  }
+}

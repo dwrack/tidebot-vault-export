@@ -1,5 +1,5 @@
 # SOP — Incident Investigation & Corrective Action
-*Owner: Manager + Owner | Triggered: any Incident Report submission*
+*Owner: Contractor + Owner | Triggered: any Incident Report submission*
 
 When a guide files an Incident Report, the work isn't done. We investigate, document root cause, take corrective action, verify the fix, and retain the records. This SOP exists because plaintiff's lawyers ask "what did you do about it?" and we need a documented answer every time.
 
@@ -26,15 +26,15 @@ Before investigating, contain.
 
 - Verify all injured parties have received care
 - Verify the equipment / vehicle / location involved is out of service until cleared
-- If a guest needs follow-up (medical, refund, communication), manager owns that
-- If a guide is shaken up, manager checks in personally (text, then call)
+- If a guest needs follow-up (medical, refund, communication), contractor owns that
+- If a guide is shaken up, contractor checks in personally (text, then call)
 - Preserve all evidence: photos, the equipment itself, witness contact info, the original Incident Report
 
 ---
 
 ## Step 2 — Investigation (within 48 hours)
 
-Manager (or owner if manager is involved) conducts the investigation.
+Contractor (or owner if contractor is involved) conducts the investigation.
 
 **Interview:**
 - The guide who filed the report
@@ -77,7 +77,7 @@ Every root cause gets a corrective action. Write it as a specific, dated commitm
 
 | Root cause | Corrective action | Owner | Deadline |
 |------------|-------------------|-------|----------|
-| Booking spacing too tight | Update FareHarbor to add 30 min between back-to-back tours on hot days | Manager | YYYY-MM-DD |
+| Booking spacing too tight | Update FareHarbor to add 30 min between back-to-back tours on hot days | Contractor | YYYY-MM-DD |
 | Pre-drive walkaround skipped under time pressure | Add "if you're rushed, the walkaround is more important, not less" to Handbook + next monthly retraining | Owner | YYYY-MM-DD |
 
 If the action is "retraining," the retraining session is scheduled and dated, not vague.
@@ -121,7 +121,7 @@ All incident files retained **7 years** in `Operations/Incident Files/[YYYY-MM-D
 
 ## Step 7 — Closure
 
-Manager and owner both sign the closure note. The note states:
+Contractor and owner both sign the closure note. The note states:
 - Date of incident
 - Summary of root cause
 - Summary of corrective action

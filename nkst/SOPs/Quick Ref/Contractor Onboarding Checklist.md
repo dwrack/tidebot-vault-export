@@ -1,6 +1,6 @@
 # Contractor Onboarding Checklist
 
-Manager-facing. Use this to bring a new guide from first contact to first solo tour.
+Contractor-facing. Use this to bring a new guide from first contact to first solo tour.
 
 ---
 
@@ -26,6 +26,16 @@ Manager-facing. Use this to bring a new guide from first contact to first solo t
 - [ ] W-9 collected
 - [ ] Photo ID on file
 - [ ] Payment info collected
+
+## Slack & Accountability
+
+7a. Invite the new guide to `#new-orleans-kayak-swamp-tours` before the first shadow shift — this is where guide logs, incident flags, and day-to-day coordination actually happen, not a side channel.
+7b. Walk through the pre/post-tour guide log with TideBot: **no pre-tour log + no post-tour log = no pay for that tour.** This is already true for active guides; new guides should hear it on day one, not find out the hard way.
+7c. Walk through shift-coverage expectations: if a guide can't make a scheduled tour, finding a replacement from the active roster and updating the crew assignment in FareHarbor is the guide's job, not management's. Management does not broker swaps.
+
+- [ ] Added to guide Slack channel
+- [ ] Pre/post-tour log requirement explained (tied to pay)
+- [ ] Shift-swap responsibility explained
 
 ## Orientation
 
@@ -58,7 +68,7 @@ Manager-facing. Use this to bring a new guide from first contact to first solo t
 
 ## First Solo
 
-21. Management is on call throughout the first solo tour. Guide has manager's cell number.
+21. Management is on call throughout the first solo tour. Guide has contractor's cell number.
 22. Debrief after the solo tour, same day.
 23. Log the solo sign-off in the Solo Sign-Off table.
 

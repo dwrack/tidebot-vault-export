@@ -2,7 +2,7 @@
 
 **Last Updated:** April 2026
 
-> The goal here is not reporting. It's relationship. Guides receive one rotating question per week -- something genuinely curious, not administrative. Over time, their answers build a picture of tour quality, guest experience, and what each guide needs to grow. Manager uses the responses as conversation starters, not performance data.
+> The goal here is not reporting. It's relationship. Guides receive one rotating question per week -- something genuinely curious, not administrative. Over time, their answers build a picture of tour quality, guest experience, and what each guide needs to grow. Contractor uses the responses as conversation starters, not performance data.
 
 ---
 
@@ -10,7 +10,7 @@
 
 One question per week, sent via GHL on a rotating basis. The question changes each week so it never feels like the same form. Tone is warm and conversational -- we're asking because we care, not because we're tracking.
 
-Guides can respond by text. No format required. A few words is fine. The response goes to the manager's inbox. Claude reviews weekly and surfaces anything worth a coaching conversation.
+Guides can respond by text. No format required. A few words is fine. The response goes to the contractor's inbox. Claude reviews weekly and surfaces anything worth a coaching conversation.
 
 This is not a vehicle or compliance check (those are separate). This is purely about growth, connection, and making the tour better.
 
@@ -46,14 +46,14 @@ GHL cycles through these in order, one per week. Add new questions as the season
 
 ---
 
-## How Manager Uses the Responses
+## How Contractor Uses the Responses
 
 - Read every reply -- even a short one tells you something about where a guide is
 - When a theme appears across multiple guides (same question came up, same guest hesitation), bring it to a group skills session
 - When a guide mentions something they didn't know how to handle -- that's a coaching moment, not a correction. Ask about it in the next check-in or a quick call
 - If a guide doesn't reply for two weeks running, reach out personally. Silence usually means something
 
-**Claude's role:** At the end of each week, Claude reviews that week's replies and generates a brief summary for the manager:
+**Claude's role:** At the end of each week, Claude reviews that week's replies and generates a brief summary for the contractor:
 - Any guides who didn't respond
 - Any recurring themes across replies
 - Any specific coaching moments worth following up on

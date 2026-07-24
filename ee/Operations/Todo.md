@@ -40,6 +40,12 @@
 - [ ] Lightswitch in washroom (Grant)
 - [ ] Toilet paper holder (Grant)
 - [ ] Get Grant's contact info loaded for direct task communication
+- [ ] Fix broken ball at top of interior sauna door
+- [ ] Repair/replace water line to sauna (needs new hose)
+- [ ] Add spigot (location TBD)
+- [ ] Clean out storage closet
+- [ ] Reconnect door lock to WiFi, diagnose battery drain issue
+- [ ] Rearrange cameras to match new sauna layouts
 
 ## Low Priority
 - [ ] Oil the stairs (first coat)
@@ -51,6 +57,9 @@
 - [ ] Schedule 15-20 min video call with Jonah for bio footage (when social media strategists onboarded)
 - [ ] Ask Jordan for contact at Pals merch
 - [ ] Write and add FAQ: "Do I need to arrive on time? Does the boat leave?"
+- [ ] Remove interior bathroom door
+- [ ] Evaluate better shower curtain option
+- [ ] Scope automated lighting for the whole space (bigger project — needs budget/plan before starting)
 
 ---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*

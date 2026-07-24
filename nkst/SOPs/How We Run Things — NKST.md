@@ -1,7 +1,7 @@
 # How We Run Things
 ### New Orleans Kayak Swamp Tours
 
-Read this before your first day. It takes 5 minutes. If you'd rather listen, ask your manager to walk you through it or drop into the Slack channel.
+Read this before your first day. It takes 5 minutes. If you'd rather listen, ask your contractor to walk you through it or drop into the Slack channel.
 
 ---
 

@@ -39,9 +39,9 @@ I confirm that I have read and understand each of the following, and I agree to 
 - [ ] **Safety standards.** I will follow the safety briefing protocol on every tour, fit every guest with a USCG Type III PFD, and carry current CPR/First Aid certification.
 - [ ] **Weather thresholds.** I understand the hard cancel thresholds (15+ mph wind, lightning within 10 miles, visibility under 0.25 mi, water temp under 50°F, severe weather warnings). I will not put guests on the water against these thresholds.
 - [ ] **Vehicle operations.** I will complete the pre-drive walkaround and post-drive close-out every tour day. I will not use a phone in my hand while driving. I will not consume alcohol or drugs before or during a shift, and I will not bring either into an NKST vehicle.
-- [ ] **Accident procedure.** In the event of any vehicle accident, I will secure guests, call 911 if required, call the manager, photograph everything, exchange information, not admit fault, and file an Incident Report within 24 hours.
+- [ ] **Accident procedure.** In the event of any vehicle accident, I will secure guests, call 911 if required, call the contractor, photograph everything, exchange information, not admit fault, and file an Incident Report within 24 hours.
 - [ ] **Conduct.** I will treat every guest with courtesy. I will not make sexual comments, jokes, or innuendo. I will not initiate physical contact beyond what's required for safety. I will not pursue romantic or sexual contact with any guest. I understand these are grounds for immediate termination.
-- [ ] **Anti-harassment.** I understand the reporting chain (manager → owner) and the no-retaliation rule. I agree to report any conduct concern in good faith.
+- [ ] **Anti-harassment.** I understand the reporting chain (contractor → owner) and the no-retaliation rule. I agree to report any conduct concern in good faith.
 - [ ] **Incident reporting.** I will file an Incident Report within 24 hours for any guest injury (any size), property damage, vehicle accident, near-miss, or harassment incident.
 - [ ] **Equipment & damage.** I will flag any equipment or vehicle damage via the Post-Tour Damage Report. I will not hide damage or defer reporting.
 - [ ] **Permits & certifications.** I will maintain a current LDWF Eco-Tour Special Use Permit and CPR/First Aid certification. I will carry the LDWF permit on my person on every tour.
@@ -66,18 +66,18 @@ By typing my full legal name and submitting this form, I am signing this acknowl
 
 ---
 
-## Manager Operating Notes
+## Contractor Operating Notes
 
 ### Initial Onboarding
 
-1. Manager creates a Guide folder: `Guides/[FirstName_LastName]/`
+1. Contractor creates a Guide folder: `Guides/[FirstName_LastName]/`
 2. Guide receives:
    - Link to the Google Form acknowledgement
    - Link to the Google Form quiz
    - PDF copy of every document referenced above
 3. Guide reads everything, takes the quiz (must pass 80%), then submits the acknowledgement form.
-4. Manager downloads the acknowledgement response (PDF export from Forms or print to PDF) and saves to the Guide folder as `acknowledgement_[YYYY].pdf`.
-5. Manager updates the Guide Roster & Compliance Tracker.
+4. Contractor downloads the acknowledgement response (PDF export from Forms or print to PDF) and saves to the Guide folder as `acknowledgement_[YYYY].pdf`.
+5. Contractor updates the Guide Roster & Compliance Tracker.
 
 ### Annual Renewal (every January)
 

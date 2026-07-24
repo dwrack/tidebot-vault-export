@@ -4,18 +4,19 @@ display_name: Houston Booze Cruise
 city: Houston
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 7
+lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Dormant — IG last post November 2025, no GBP/Ads/GSC"
-updated: 2026-07-06
+alert: "data sources offline this session"
+updated: 2026-07-24
 tile_type: business
 ---
 
+
 <!-- live:start -->
-- No GBP / GSC / Google Ads / FH coverage in roster. IG @houstonboozecruise is the only tracked channel.
-- Last IG post: November 2025 — 8 months silent. Effectively dormant.
-- Nothing actionable today.
+- **Degraded session 07-24.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG) were offline this run. Brief built from Gmail + FareHarbor cache only.
+- No FareHarbor booking feed for this business. No fresh marketing data pulled this session.
+- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
 <!-- live:end -->
 
 ## Quick links

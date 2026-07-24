@@ -4,19 +4,19 @@ display_name: Ebb & Ember Floating Saunas
 city: Portland
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 7
+lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "3+ unreplied 5★ reviews; Jun 25 reel 8 comments needs reply pass"
-updated: 2026-07-06
+alert: "data sources offline this session"
+updated: 2026-07-24
 tile_type: business
 ---
 
+
 <!-- live:start -->
-- No Meta or Google ad accounts (by design). Books via own system.
-- **3 unreplied 5★ GBP reviews: Angela Aneiros (Jul 1), Craig Lechtenberg (Jun 23), Rosalie Siler (Jun 23). GBP loc 16140834048343808850. Assign to Kimberlyn.**
-- IG @ebbandember: Best organic week in portfolio. Jun 25 sunset sessions reel 72 likes / **8 comments** (reply pass needed). Jun 28 Columbia River reel 51 likes. Jun 22 solstice reel 66 likes. This content formula (community + sauna + golden hour) is working — replicate it.
-- Strongest organic IG growth of all 13 businesses this week.
+- **Degraded session 07-24.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG) were offline this run. Brief built from Gmail + FareHarbor cache only.
+- No FareHarbor booking feed for this business. No fresh marketing data pulled this session.
+- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
 <!-- live:end -->
 
 ## Quick links

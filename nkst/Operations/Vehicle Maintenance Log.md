@@ -1,5 +1,5 @@
 # NKST Vehicle Maintenance Log
-*Manager-owned. Update at every service. Retain 7 years.*
+*Contractor-owned. Update at every service. Retain 7 years.*
 
 This log is the official record of all vehicle maintenance, inspections, and incidents. If a plaintiff's lawyer asks for our maintenance records, this is what we hand over. Don't skip entries because they feel small. "Replaced wiper blade, $14, 4/15/2026" is a real entry.
 
@@ -8,7 +8,7 @@ This log is the official record of all vehicle maintenance, inspections, and inc
 ## How to use this log
 
 - One row per service event
-- Manager fills it in within 24 hours of the service
+- Contractor fills it in within 24 hours of the service
 - Receipts stored in `Operations/Vehicle Receipts/` folder, named `YYYY-MM-DD vehicle service.pdf`
 - Cross-reference incident reports by their date in the Notes column
 

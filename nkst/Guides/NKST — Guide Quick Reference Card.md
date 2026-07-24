@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Manager** | Michelle Healey — (216) 262-3865 |
+| **Contractor** | Michelle Healey — (216) 262-3865 |
 | **NKST Main Line** | (504) 571-9975 |
 | **Van Base** | 1407 Piety St, New Orleans (keys under metal bucket on glass table) |
 | **Guest Pickup** | 740 N. Rampart St — Rampart Treehouse |

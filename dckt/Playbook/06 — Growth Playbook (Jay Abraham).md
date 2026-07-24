@@ -71,10 +71,11 @@ Already running. Opportunities:
 
 ### A. Multiple Tour Products
 The customer who did Cave Point should have a clear next step:
-- Sunset Tour ("completely different vibe — see the peninsula turn gold")
-- Inland route ("we never take first-timers here — this one's for people who know what they're doing")
-- Fall colors paddle (September) — undermarketed, stunning, drives repeat visits
-- Family specialty tour (different pacing and content for kid-focused groups)
+- Door Bluff Shipwreck ("completely different water — bayside, calmer, real wreck sites")
+- Eco Estuary / Wetlands Tour ("mellower, wildlife-focused, best for families")
+- Cave Point Half-Day ("more time on the water they already loved")
+- Inland Fall Paddle (September–October) — undermarketed, stunning, drives repeat visits
+- Private tour (custom pacing, any location)
 
 **Build:** distinct FareHarbor listings for each experience, with distinct GHL re-engagement messages that reference what they've already done.
 
@@ -84,7 +85,7 @@ Returning guests think in seasons. Build a calendar they can plan around:
 | Season | Hook |
 |---|---|
 | Memorial Day | "The season opens — get the best dates before they're gone" |
-| Summer | Peak season, scarcity messaging, sunset tours |
+| Summer | Peak season, scarcity messaging on morning Cave Point slots |
 | Labor Day | "Last big weekend — don't miss it" |
 | September | "Fall colors paddle — the most underrated thing in Door County" |
 | October | "Season close — one last time on the water" |

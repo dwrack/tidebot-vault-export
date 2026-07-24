@@ -1,7 +1,7 @@
 # NKST Vehicle Handbook
-*Last updated: April 2026 | Audience: Manager + all guides*
+*Last updated: April 2026 | Audience: Contractor + all guides*
 
-This is the standalone vehicle policy for New Orleans Kayak Swamp Tours. It covers manager maintenance duties, guide pre-drive and post-drive responsibilities, accident procedure, fuel rules, and contact trees. Every guide signs the Annual Acknowledgement confirming they've read this. The manager owns the Vehicle Maintenance Log and the inspection sign-off.
+This is the standalone vehicle policy for New Orleans Kayak Swamp Tours. It covers contractor maintenance duties, guide pre-drive and post-drive responsibilities, accident procedure, fuel rules, and contact trees. Every guide signs the Annual Acknowledgement confirming they've read this. The contractor owns the Vehicle Maintenance Log and the inspection sign-off.
 
 > **Why this exists:** If a van fails on the road, or a guest is injured in a vehicle incident, we have to be able to point to documented maintenance, documented training, and documented procedure. "We told the guides to check tires" is not a defense. "Here is the signed quarterly brake inspection from March 14, here is the guide's signed acknowledgement of the pre-drive walkaround, here is the post-incident report" is.
 
@@ -15,19 +15,19 @@ This is the standalone vehicle policy for New Orleans Kayak Swamp Tours. It cove
 | White Van #2 | NKST tours | _____ | _____ | Apres Assets LLC | [carrier] | Card in glove box |
 | Black Van (NPB) | Party Barge transpo | 1FBAX5GU5RKU04262 | _____ | Apres Transpo LLC (MT) | [carrier] | 2024 Ford Transit |
 
-> Manager: fill in plates, VINs, carrier name as of next inspection. Update this table any time a vehicle is added, retired, or insurance changes.
+> Contractor: fill in plates, VINs, carrier name as of next inspection. Update this table any time a vehicle is added, retired, or insurance changes.
 
 **Documents in every van:**
 - Insurance card (glove box)
 - Registration (glove box)
-- AAA membership card (glove box) — one card per van. Currently in Michelle Healey's name. Tow drivers do not check name match, only card validity. Each card has 3 service uses per year. When the card has 1 remaining use, the active manager (currently Dylan LP) orders a replacement in their own name to keep coverage rolling.
+- AAA membership card (glove box) — one card per van. Currently in Michelle Healey's name. Tow drivers do not check name match, only card validity. Each card has 3 service uses per year. When the card has 1 remaining use, the active contractor (currently Dylan LP) orders a replacement in their own name to keep coverage rolling.
 - Vehicle Handbook printout (glove box)
 - Incident Report blank form (glove box)
 - First aid kit (under driver seat)
 
 ---
 
-## 2. Manager Responsibilities
+## 2. Contractor Responsibilities
 
 ### 2.1 Maintenance Schedule
 
@@ -35,7 +35,7 @@ This is the standalone vehicle policy for New Orleans Kayak Swamp Tours. It cove
 |---------|----------|--------|--------------|
 | Oil + filter | Every 3,500 mi | [shop] | Vehicle Maintenance Log |
 | Tire rotation | Every 7,000 mi | [shop] | Vehicle Maintenance Log |
-| Tire pressure check | Weekly | Manager or assigned guide | Vehicle Maintenance Log |
+| Tire pressure check | Weekly | Contractor or assigned guide | Vehicle Maintenance Log |
 | Brake inspection | Quarterly | [shop] | Vehicle Maintenance Log |
 | Coolant flush | Annually | [shop] | Vehicle Maintenance Log |
 | Battery test | Annually | [shop] | Vehicle Maintenance Log |
@@ -47,7 +47,7 @@ Every service goes in `Operations/Vehicle Maintenance Log.md` with date, mileage
 
 ### 2.2 Pre-Season Inspection (March 1 each year)
 
-Before the season starts, the manager signs off on a full pre-season inspection of every van:
+Before the season starts, the contractor signs off on a full pre-season inspection of every van:
 - Tires (tread depth, sidewall condition, pressure)
 - Brakes (pad thickness, fluid level, no soft pedal)
 - Suspension (no leaks, no clunks)
@@ -64,9 +64,9 @@ Sign-off goes in the Vehicle Maintenance Log under "Pre-Season YYYY".
 
 ### 2.3 Repair Authorization
 
-- Guide flags issue → manager assesses → manager authorizes repair
-- Repairs under $300: manager approves directly
-- Repairs $300–$1,000: manager + owner email confirmation
+- Guide flags issue → contractor assesses → contractor authorizes repair
+- Repairs under $300: contractor approves directly
+- Repairs $300–$1,000: contractor + owner email confirmation
 - Repairs over $1,000: owner approval required before work begins
 - Emergency roadside (tow, tire, lockout): any guide may authorize, document in Incident Report
 
@@ -74,17 +74,17 @@ Sign-off goes in the Vehicle Maintenance Log under "Pre-Season YYYY".
 
 - All NKST vans have a Shell fleet card in the glove box
 - Cards are personal to each van; do not move between vans
-- Manager reconciles statements monthly against tour days
-- Any non-fuel charge or off-route purchase requires written explanation to manager within 48h
+- Contractor reconciles statements monthly against tour days
+- Any non-fuel charge or off-route purchase requires written explanation to contractor within 48h
 
 ### 2.5 Post-Incident Inspection
 
 After any accident, breakdown, or near-miss involving a van, the vehicle does not go back in service until:
-1. Manager physically inspects
+1. Contractor physically inspects
 2. If body or mechanical damage, certified shop inspects
 3. Insurance carrier notified within 24h
 4. Vehicle Maintenance Log updated with full incident reference
-5. Manager signs return-to-service note
+5. Contractor signs return-to-service note
 
 ---
 
@@ -108,7 +108,7 @@ Walk all the way around the van. Eyes on every tire, every light, every mirror.
 - [ ] Phone charger plugged in
 - [ ] No personal items left from prior tour
 
-If anything fails, the van does not roll. Text the manager. Work the problem before guests are in the vehicle.
+If anything fails, the van does not roll. Text the contractor. Work the problem before guests are in the vehicle.
 
 ### 3.2 During the Drive
 
@@ -140,21 +140,21 @@ If you're in an accident or break down on the road with guests in the van:
 
 1. **Make everyone safe first.** Pull off, hazards on, guests out of the van and away from the road if there's any risk.
 2. **Call 911 if anyone is injured or there's significant damage.** Always 911 if another vehicle is involved.
-3. **Call the manager immediately after 911.** Manager number is in the glove box card and saved in your phone.
+3. **Call the contractor immediately after 911.** Contractor number is in the glove box card and saved in your phone.
 4. **Photograph everything.** All vehicles involved, all damage, the road, the plates, the other driver's license + insurance card, the scene from multiple angles.
 5. **Exchange info with any other driver.** Name, phone, license, insurance, plate. Take photos rather than write.
 6. **Do not admit fault. Do not say "I'm sorry." Do not speculate.** Stick to facts: "I was driving north on Highway 90, traffic stopped, the vehicle behind me struck my rear bumper." Nothing else.
 7. **File the police report.** Get the report number and the officer's name and badge.
-8. **Take care of the guests.** Their experience is over for the day. Manager will arrange Uber / refund / rebook. You handle the scene; manager handles the customer service.
+8. **Take care of the guests.** Their experience is over for the day. Contractor will arrange Uber / refund / rebook. You handle the scene; contractor handles the customer service.
 9. **Written incident report within 24 hours.** Use the Incident Report Template. Include everything: timeline, photos, witnesses, your statement, all guest contact info, weather, your last meal and last sleep (drug/alcohol allegation defense).
-10. **Vehicle does not go back in service** until the manager has done the post-incident inspection (Section 2.5).
+10. **Vehicle does not go back in service** until the contractor has done the post-incident inspection (Section 2.5).
 
 ### 3.5 Roadside Without Accident (flat, dead battery, lockout, won't start)
 
 1. Pull off safely, hazards on, guests safe.
-2. Call manager. Roadside assistance card is in the glove box; manager will dispatch.
+2. Call contractor. Roadside assistance card is in the glove box; contractor will dispatch.
 3. Do not let guests change a tire. We change tires; they wait.
-4. If wait will exceed 30 minutes, manager arranges Uber for guests back to staging or to a refreshment stop.
+4. If wait will exceed 30 minutes, contractor arranges Uber for guests back to staging or to a refreshment stop.
 5. Document in the Post-Tour Damage Report so the maintenance log reflects what happened.
 
 ---
@@ -167,7 +167,7 @@ This is non-negotiable and is grounds for immediate termination under the ICA.
 - **No drugs of any kind.** Including marijuana, including Louisiana medical, including delta-8 / THC products. The DOT standard applies.
 - **No phone in your hand while driving.** Mounted only. Bluetooth audio only.
 - **No personal use of the van.** No Costco runs, no airport pickups for friends, no taking it home unless explicitly authorized in writing for that day.
-- **Buckle every guest, every time.** If a guest refuses, the van doesn't move. Call the manager.
+- **Buckle every guest, every time.** If a guest refuses, the van doesn't move. Call the contractor.
 
 ---
 
@@ -175,14 +175,14 @@ This is non-negotiable and is grounds for immediate termination under the ICA.
 
 | Situation | First call | Backup |
 |-----------|------------|--------|
-| Accident with injury | 911 | Manager |
-| Accident, no injury | Manager | Owner |
-| Breakdown / flat / lockout | Manager (will dispatch roadside) | Owner |
-| Tow needed | Manager | Roadside card |
-| Lost / late guest | Manager | FareHarbor support |
-| Suspected vehicle problem (no emergency) | Manager via text | Log in Damage Report |
+| Accident with injury | 911 | Contractor |
+| Accident, no injury | Contractor | Owner |
+| Breakdown / flat / lockout | Contractor (will dispatch roadside) | Owner |
+| Tow needed | Contractor | Roadside card |
+| Lost / late guest | Contractor | FareHarbor support |
+| Suspected vehicle problem (no emergency) | Contractor via text | Log in Damage Report |
 
-Manager: ___________________
+Contractor: ___________________
 Owner: ___________________
 Roadside (in glove box): ___________________
 Insurance claims line: ___________________

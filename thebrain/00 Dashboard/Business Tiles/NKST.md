@@ -4,23 +4,19 @@ display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 7
-ad_spend_yday: 34
+lead_time_days: 6
+ad_spend_yday: 0
 status: yellow
-alert: "FH scrape offline; IG token may be expired (permission error)"
-updated: 2026-07-06
+alert: "data stale - FH scrape 403 (day 4)"
+updated: 2026-07-24
 tile_type: business
 ---
 
+
 <!-- live:start -->
-- FH data: scraper ERR_INTERNET_DISCONNECTED — no booking/revenue data today.
-- GA4 Jul 5 (Saturday): ~269 sessions. Instagram 86, Facebook 53, Google 53, direct 39. 41 Google conversions, 26 direct. Strong Saturday traffic.
-- Meta yday (act_87863118 NKST): Retargeting $22.89 (0 purchases). Email lead $11.12 (1 lead). Total ~$34.
-- Gravity Trails NOLA Google Ads: $141.15 shared yday, 4.61x ROAS. Good.
-- GSC (Jun 28-Jul 5): 0 clicks shown — possible tracking/property gap vs real traffic (GA4 shows 269 sessions). Investigate.
-- Watched page /airboat-vs-kayak-swamp-tour-new-orleans/: 1 GA4 view in 8 days. GSC 0 clicks, 0 impressions. Still flat vs baseline. Not indexed yet.
-- IG @kayaknola: FB API permission error — token may be expired or revoked.
-- 2 unreplied 5★: Jim Huth (Jul 4 — Ryan), June Mermaid (Jul 2 — Stephanie). Respond within 48h.
+- **Degraded session 07-24.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG) were offline this run. Brief built from Gmail + FareHarbor cache only.
+- FareHarbor scrape 403 for a 4th straight day (07-21 through 07-23). Last good pull Monday 07-20: 2 booked / $680. Bookings/revenue blind since.
+- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
 <!-- live:end -->
 
 ## Quick links

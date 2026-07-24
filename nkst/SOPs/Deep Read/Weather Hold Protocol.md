@@ -2,7 +2,7 @@
 
 ## Who Makes the Call
 
-The guide leading the tour makes the initial weather call. If there's any doubt, the manager on duty (Jeffrey/JT) makes the final decision. When in doubt, call. Nobody has ever been reprimanded for being cautious about weather. People have been reprimanded for ignoring it.
+The guide leading the tour makes the initial weather call. If there's any doubt, the contractor on duty (Jeffrey/JT) makes the final decision. When in doubt, call. Nobody has ever been reprimanded for being cautious about weather. People have been reprimanded for ignoring it.
 
 If you're mid-tour and conditions change, you don't need permission to get off the water. Get off the water and then call management.
 

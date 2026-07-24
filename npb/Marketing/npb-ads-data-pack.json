@@ -1,0 +1,1944 @@
+{
+ "meta": {
+  "business": "NOLA Party Barge (FareHarbor shortname: neworleanspedalbarge)",
+  "generated": "2026-07-18",
+  "source": "FareHarbor Advanced Bookings summary report, availability dates 2018-01-01 to 2026-07-18, grouped by Item x Year x Month x Weekday x Time; excludes cancelled-and-refunded bookings",
+  "purpose": "Ground-truth data pack for Meta + Google Ads planning and ops decisions",
+  "caveats": [
+   "2026 is partial: through July 18",
+   "Revenue = booking Total (incl. tax col separate); not net of processing fees",
+   "2018-2019 rows are negligible test data",
+   "Monthly grain: July 2026 partial month, don't compare raw to full Julys"
+  ]
+ },
+ "seasonality": {
+  "January": {
+   "bookings": 601,
+   "pax": 1931,
+   "revenue": 178058,
+   "pct_revenue": 2.0
+  },
+  "February": {
+   "bookings": 1469,
+   "pax": 4679,
+   "revenue": 385948,
+   "pct_revenue": 4.4
+  },
+  "March": {
+   "bookings": 2165,
+   "pax": 7430,
+   "revenue": 667846,
+   "pct_revenue": 7.6
+  },
+  "April": {
+   "bookings": 2828,
+   "pax": 8850,
+   "revenue": 873199,
+   "pct_revenue": 9.9
+  },
+  "May": {
+   "bookings": 3769,
+   "pax": 11485,
+   "revenue": 1095579,
+   "pct_revenue": 12.4
+  },
+  "June": {
+   "bookings": 4585,
+   "pax": 13025,
+   "revenue": 1097718,
+   "pct_revenue": 12.4
+  },
+  "July": {
+   "bookings": 5005,
+   "pax": 14295,
+   "revenue": 1212235,
+   "pct_revenue": 13.7
+  },
+  "August": {
+   "bookings": 4743,
+   "pax": 13367,
+   "revenue": 1118771,
+   "pct_revenue": 12.7
+  },
+  "September": {
+   "bookings": 3917,
+   "pax": 11174,
+   "revenue": 927304,
+   "pct_revenue": 10.5
+  },
+  "October": {
+   "bookings": 2729,
+   "pax": 8282,
+   "revenue": 764632,
+   "pct_revenue": 8.7
+  },
+  "November": {
+   "bookings": 1521,
+   "pax": 4367,
+   "revenue": 378246,
+   "pct_revenue": 4.3
+  },
+  "December": {
+   "bookings": 416,
+   "pax": 1359,
+   "revenue": 130684,
+   "pct_revenue": 1.5
+  }
+ },
+ "day_of_week": {
+  "Monday": {
+   "bookings": 1400,
+   "pax": 3991,
+   "revenue": 298027,
+   "pct_revenue": 3.4
+  },
+  "Tuesday": {
+   "bookings": 586,
+   "pax": 1638,
+   "revenue": 147307,
+   "pct_revenue": 1.7
+  },
+  "Wednesday": {
+   "bookings": 725,
+   "pax": 1774,
+   "revenue": 155127,
+   "pct_revenue": 1.8
+  },
+  "Thursday": {
+   "bookings": 1579,
+   "pax": 4899,
+   "revenue": 384547,
+   "pct_revenue": 4.4
+  },
+  "Friday": {
+   "bookings": 8283,
+   "pax": 26772,
+   "revenue": 2307494,
+   "pct_revenue": 26.1
+  },
+  "Saturday": {
+   "bookings": 14188,
+   "pax": 41986,
+   "revenue": 3859264,
+   "pct_revenue": 43.7
+  },
+  "Sunday": {
+   "bookings": 6987,
+   "pax": 19184,
+   "revenue": 1678454,
+   "pct_revenue": 19.0
+  }
+ },
+ "day_of_week_recent": {
+  "Monday": {
+   "pax": 884,
+   "revenue": 64886,
+   "pct_revenue": 2.7
+  },
+  "Tuesday": {
+   "pax": 452,
+   "revenue": 34133,
+   "pct_revenue": 1.4
+  },
+  "Wednesday": {
+   "pax": 790,
+   "revenue": 58874,
+   "pct_revenue": 2.5
+  },
+  "Thursday": {
+   "pax": 826,
+   "revenue": 64436,
+   "pct_revenue": 2.7
+  },
+  "Friday": {
+   "pax": 7520,
+   "revenue": 612978,
+   "pct_revenue": 25.8
+  },
+  "Saturday": {
+   "pax": 14221,
+   "revenue": 1177648,
+   "pct_revenue": 49.7
+  },
+  "Sunday": {
+   "pax": 4776,
+   "revenue": 358696,
+   "pct_revenue": 15.1
+  }
+ },
+ "time_of_day": {
+  "12:00am": {
+   "bookings": 6,
+   "pax": 6,
+   "revenue": 1561,
+   "pct_revenue": 0.0
+  },
+  "6:30am": {
+   "bookings": 6,
+   "pax": 7,
+   "revenue": 455,
+   "pct_revenue": 0.0
+  },
+  "8:00am": {
+   "bookings": 103,
+   "pax": 400,
+   "revenue": 31661,
+   "pct_revenue": 0.4
+  },
+  "9:00am": {
+   "bookings": 3,
+   "pax": 6,
+   "revenue": 1250,
+   "pct_revenue": 0.0
+  },
+  "10:00am": {
+   "bookings": 2280,
+   "pax": 7209,
+   "revenue": 594958,
+   "pct_revenue": 6.7
+  },
+  "11:00am": {
+   "bookings": 133,
+   "pax": 497,
+   "revenue": 43683,
+   "pct_revenue": 0.5
+  },
+  "12:00pm": {
+   "bookings": 5376,
+   "pax": 17294,
+   "revenue": 1608741,
+   "pct_revenue": 18.2
+  },
+  "1:00pm": {
+   "bookings": 407,
+   "pax": 1233,
+   "revenue": 108946,
+   "pct_revenue": 1.2
+  },
+  "2:00pm": {
+   "bookings": 8118,
+   "pax": 24688,
+   "revenue": 2196543,
+   "pct_revenue": 24.9
+  },
+  "2:30pm": {
+   "bookings": 1,
+   "pax": 1,
+   "revenue": 531,
+   "pct_revenue": 0.0
+  },
+  "3:00pm": {
+   "bookings": 561,
+   "pax": 1599,
+   "revenue": 132358,
+   "pct_revenue": 1.5
+  },
+  "3:30pm": {
+   "bookings": 5,
+   "pax": 16,
+   "revenue": 998,
+   "pct_revenue": 0.0
+  },
+  "4:00pm": {
+   "bookings": 8783,
+   "pax": 25402,
+   "revenue": 2179152,
+   "pct_revenue": 24.7
+  },
+  "4:30pm": {
+   "bookings": 6,
+   "pax": 14,
+   "revenue": 3147,
+   "pct_revenue": 0.0
+  },
+  "5:00pm": {
+   "bookings": 532,
+   "pax": 1498,
+   "revenue": 118768,
+   "pct_revenue": 1.3
+  },
+  "5:30pm": {
+   "bookings": 6,
+   "pax": 25,
+   "revenue": 4689,
+   "pct_revenue": 0.1
+  },
+  "6:00pm": {
+   "bookings": 7276,
+   "pax": 19957,
+   "revenue": 1767740,
+   "pct_revenue": 20.0
+  },
+  "7:00pm": {
+   "bookings": 129,
+   "pax": 336,
+   "revenue": 32776,
+   "pct_revenue": 0.4
+  },
+  "7:30pm": {
+   "bookings": 9,
+   "pax": 40,
+   "revenue": 1320,
+   "pct_revenue": 0.0
+  },
+  "8:00pm": {
+   "bookings": 8,
+   "pax": 16,
+   "revenue": 944,
+   "pct_revenue": 0.0
+  }
+ },
+ "same_window_jan_jul": {
+  "2020": {
+   "bookings": 78,
+   "pax": 202,
+   "revenue": 45708
+  },
+  "2021": {
+   "bookings": 1890,
+   "pax": 7004,
+   "revenue": 789735
+  },
+  "2022": {
+   "bookings": 3185,
+   "pax": 10113,
+   "revenue": 1006227
+  },
+  "2023": {
+   "bookings": 5078,
+   "pax": 14987,
+   "revenue": 1353249
+  },
+  "2024": {
+   "bookings": 5905,
+   "pax": 17243,
+   "revenue": 1353453
+  },
+  "2025": {
+   "bookings": 4364,
+   "pax": 12348,
+   "revenue": 1007919
+  },
+  "2026": {
+   "bookings": 3100,
+   "pax": 9494,
+   "revenue": 772801
+  }
+ },
+ "items": {
+  "The Freaky Tiki": {
+   "bookings": 13546,
+   "pax": 40649,
+   "revenue": 3080704,
+   "by_year": {
+    "2022": 498459,
+    "2023": 786555,
+    "2024": 765379,
+    "2025": 673878,
+    "2026": 356433
+   }
+  },
+  "The Bayou Boogie": {
+   "bookings": 6954,
+   "pax": 21126,
+   "revenue": 2277612,
+   "by_year": {
+    "2019": 59,
+    "2020": 159194,
+    "2021": 536828,
+    "2022": 476085,
+    "2023": 474651,
+    "2024": 296441,
+    "2025": 223626,
+    "2026": 110728
+   }
+  },
+  "The Party Queen": {
+   "bookings": 6393,
+   "pax": 19902,
+   "revenue": 1766499,
+   "by_year": {
+    "2021": 440018,
+    "2022": 411392,
+    "2023": 392319,
+    "2024": 281394,
+    "2025": 177645,
+    "2026": 63732
+   }
+  },
+  "The Twerkin' Tiki": {
+   "bookings": 6254,
+   "pax": 16819,
+   "revenue": 1308881,
+   "by_year": {
+    "2023": 80679,
+    "2024": 576099,
+    "2025": 435621,
+    "2026": 216483
+   }
+  },
+  "Chill Mural Pedal Bike Bar Tour": {
+   "bookings": 1496,
+   "pax": 5629,
+   "revenue": 485539,
+   "by_year": {
+    "2022": 179805,
+    "2023": 204809,
+    "2024": 100925
+   }
+  },
+  "Private Pirate Pontoon Bayou Party- Up to 6 People": {
+   "bookings": 825,
+   "pax": 835,
+   "revenue": 414009,
+   "by_year": {
+    "2021": 127845,
+    "2022": 127654,
+    "2023": 114905,
+    "2024": 28548,
+    "2025": 12112,
+    "2026": 2946
+   }
+  },
+  "The PonTUNE Party Cruise": {
+   "bookings": 972,
+   "pax": 2706,
+   "revenue": 232931,
+   "by_year": {
+    "2023": 161063,
+    "2024": 71868
+   }
+  },
+  "Irish Channel Pedal Pub-Crawl Tour": {
+   "bookings": 392,
+   "pax": 1500,
+   "revenue": 127698,
+   "by_year": {
+    "2023": 461,
+    "2024": 74079,
+    "2025": 44477,
+    "2026": 8681
+   }
+  },
+  "NolaBikeBar's Mid-City Pedal Pub-Crawl Tour": {
+   "bookings": 110,
+   "pax": 429,
+   "revenue": 28196,
+   "by_year": {
+    "2025": 17359,
+    "2026": 10837
+   }
+  },
+  "Bayou & Wildlife Alligator EcoTour": {
+   "bookings": 77,
+   "pax": 275,
+   "revenue": 13689,
+   "by_year": {
+    "2023": 200,
+    "2024": 2098,
+    "2025": 8430,
+    "2026": 2961
+   }
+  },
+  "VIP Client Party": {
+   "bookings": 1,
+   "pax": 1,
+   "revenue": 7940,
+   "by_year": {
+    "2023": 7940
+   }
+  },
+  "Airboat Ride": {
+   "bookings": 27,
+   "pax": 97,
+   "revenue": 7819,
+   "by_year": {
+    "2023": 7819
+   }
+  },
+  "Sunset Cocktail Cruise & Seafood Boil": {
+   "bookings": 7,
+   "pax": 27,
+   "revenue": 5024,
+   "by_year": {
+    "2025": 5024
+   }
+  },
+  "The Cajun Tiki Holiday Express": {
+   "bookings": 14,
+   "pax": 60,
+   "revenue": 2095,
+   "by_year": {
+    "2022": 2095
+   }
+  },
+  "Gift Card": {
+   "bookings": 8,
+   "pax": 13,
+   "revenue": 2033,
+   "by_year": {
+    "2018": 118,
+    "2020": 354,
+    "2024": 1225,
+    "2025": 336
+   }
+  },
+  "double decker": {
+   "bookings": 2,
+   "pax": 17,
+   "revenue": 1003,
+   "by_year": {
+    "2024": 1003
+   }
+  },
+  "Wildlife Photography Tour": {
+   "bookings": 5,
+   "pax": 5,
+   "revenue": 375,
+   "by_year": {
+    "2023": 375
+   }
+  },
+  "blue bentley": {
+   "bookings": 2,
+   "pax": 15,
+   "revenue": 354,
+   "by_year": {
+    "2024": 354
+   }
+  },
+  "Jingle on the Bayou": {
+   "bookings": 2,
+   "pax": 7,
+   "revenue": 343,
+   "by_year": {
+    "2025": 343
+   }
+  }
+ },
+ "unit_economics": {
+  "2018": {
+   "avg_party": 1.0,
+   "rev_per_booking": 118.0,
+   "rev_per_pax": 118.0
+  },
+  "2019": {
+   "avg_party": 1.0,
+   "rev_per_booking": 59.0,
+   "rev_per_pax": 59.0
+  },
+  "2020": {
+   "avg_party": 1.57,
+   "rev_per_booking": 673.2,
+   "rev_per_pax": 428.89
+  },
+  "2021": {
+   "avg_party": 3.46,
+   "rev_per_booking": 395.8,
+   "rev_per_pax": 114.4
+  },
+  "2022": {
+   "avg_party": 3.14,
+   "rev_per_booking": 305.49,
+   "rev_per_pax": 97.32
+  },
+  "2023": {
+   "avg_party": 2.96,
+   "rev_per_booking": 261.42,
+   "rev_per_pax": 88.37
+  },
+  "2024": {
+   "avg_party": 2.86,
+   "rev_per_booking": 224.84,
+   "rev_per_pax": 78.73
+  },
+  "2025": {
+   "avg_party": 2.82,
+   "rev_per_booking": 225.57,
+   "rev_per_pax": 80.04
+  },
+  "2026": {
+   "avg_party": 3.06,
+   "rev_per_booking": 249.29,
+   "rev_per_pax": 81.4
+  }
+ },
+ "jan_jun_yoy": {
+  "2020": {
+   "bookings": 53,
+   "pax": 171,
+   "revenue": 29113
+  },
+  "2021": {
+   "bookings": 1246,
+   "pax": 4870,
+   "revenue": 556638
+  },
+  "2022": {
+   "bookings": 2375,
+   "pax": 7594,
+   "revenue": 765586
+  },
+  "2023": {
+   "bookings": 3812,
+   "pax": 11545,
+   "revenue": 1073374
+  },
+  "2024": {
+   "bookings": 4480,
+   "pax": 13374,
+   "revenue": 1073732
+  },
+  "2025": {
+   "bookings": 3504,
+   "pax": 10017,
+   "revenue": 829016
+  },
+  "2026": {
+   "bookings": 2676,
+   "pax": 8290,
+   "revenue": 693151
+  }
+ },
+ "month_year_revenue": {
+  "January": {
+   "2021": 14561,
+   "2022": 23671,
+   "2023": 58197,
+   "2024": 49378,
+   "2025": 32251,
+   "2026": 43846
+  },
+  "February": {
+   "2021": 21676,
+   "2022": 60314,
+   "2023": 120616,
+   "2024": 139095,
+   "2025": 44247,
+   "2026": 76694
+  },
+  "March": {
+   "2021": 52383,
+   "2022": 148294,
+   "2023": 198500,
+   "2024": 102628,
+   "2025": 166041,
+   "2026": 143866
+  },
+  "April": {
+   "2021": 118218,
+   "2022": 156366,
+   "2023": 222615,
+   "2024": 216672,
+   "2025": 159328,
+   "2026": 126514
+  },
+  "May": {
+   "2021": 197029,
+   "2022": 193513,
+   "2023": 231823,
+   "2024": 248264,
+   "2025": 224950,
+   "2026": 146448
+  },
+  "June": {
+   "2021": 152771,
+   "2022": 183428,
+   "2023": 241624,
+   "2024": 317695,
+   "2025": 202199,
+   "2026": 155783
+  },
+  "July": {
+   "2021": 233096,
+   "2022": 240640,
+   "2023": 279875,
+   "2024": 279720,
+   "2025": 178903,
+   "2026": 79650
+  },
+  "August": {
+   "2021": 154909,
+   "2022": 207170,
+   "2023": 248500,
+   "2024": 304818,
+   "2025": 203375,
+   "2026": 0
+  },
+  "September": {
+   "2021": 26886,
+   "2022": 204867,
+   "2023": 287297,
+   "2024": 242349,
+   "2025": 165906,
+   "2026": 0
+  },
+  "October": {
+   "2021": 80195,
+   "2022": 181799,
+   "2023": 221775,
+   "2024": 152568,
+   "2025": 128296,
+   "2026": 0
+  },
+  "November": {
+   "2021": 32048,
+   "2022": 63215,
+   "2023": 91921,
+   "2024": 113612,
+   "2025": 77450,
+   "2026": 0
+  },
+  "December": {
+   "2021": 20918,
+   "2022": 32211,
+   "2023": 29035,
+   "2024": 32615,
+   "2025": 15905,
+   "2026": 0
+  }
+ },
+ "weekday_time_pax_2024_2026": {
+  "Monday": {
+   "10:00am": 44,
+   "11:00am": 18,
+   "12:00pm": 269,
+   "1:00pm": 17,
+   "2:00pm": 590,
+   "3:00pm": 38,
+   "4:00pm": 592,
+   "5:00pm": 3,
+   "6:00pm": 335
+  },
+  "Tuesday": {
+   "10:00am": 37,
+   "11:00am": 8,
+   "12:00pm": 70,
+   "1:00pm": 6,
+   "2:00pm": 198,
+   "3:00pm": 0,
+   "4:00pm": 192,
+   "5:00pm": 4,
+   "6:00pm": 201
+  },
+  "Wednesday": {
+   "10:00am": 30,
+   "11:00am": 14,
+   "12:00pm": 145,
+   "1:00pm": 11,
+   "2:00pm": 296,
+   "3:00pm": 12,
+   "4:00pm": 395,
+   "5:00pm": 22,
+   "6:00pm": 319
+  },
+  "Thursday": {
+   "10:00am": 50,
+   "11:00am": 7,
+   "12:00pm": 190,
+   "1:00pm": 20,
+   "2:00pm": 559,
+   "3:00pm": 14,
+   "4:00pm": 501,
+   "5:00pm": 15,
+   "6:00pm": 576
+  },
+  "Friday": {
+   "10:00am": 493,
+   "11:00am": 29,
+   "12:00pm": 2789,
+   "1:00pm": 142,
+   "2:00pm": 4093,
+   "3:00pm": 129,
+   "4:00pm": 3902,
+   "5:00pm": 176,
+   "6:00pm": 3371
+  },
+  "Saturday": {
+   "10:00am": 2419,
+   "11:00am": 176,
+   "12:00pm": 4939,
+   "1:00pm": 366,
+   "2:00pm": 6361,
+   "3:00pm": 385,
+   "4:00pm": 6611,
+   "5:00pm": 380,
+   "6:00pm": 4663
+  },
+  "Sunday": {
+   "10:00am": 413,
+   "11:00am": 69,
+   "12:00pm": 1459,
+   "1:00pm": 82,
+   "2:00pm": 2490,
+   "3:00pm": 167,
+   "4:00pm": 3063,
+   "5:00pm": 71,
+   "6:00pm": 2321
+  }
+ },
+ "item_month_revenue_2024_2026": {
+  "The Freaky Tiki": {
+   "January": 53517,
+   "February": 109184,
+   "March": 166730,
+   "April": 201831,
+   "May": 247943,
+   "June": 257793,
+   "July": 208519,
+   "August": 182865,
+   "September": 153390,
+   "October": 113472,
+   "November": 77504,
+   "December": 22942
+  },
+  "The Twerkin' Tiki": {
+   "January": 23043,
+   "February": 59442,
+   "March": 113138,
+   "April": 124452,
+   "May": 172949,
+   "June": 178062,
+   "July": 153473,
+   "August": 144928,
+   "September": 116053,
+   "October": 75915,
+   "November": 55269,
+   "December": 11480
+  },
+  "The Bayou Boogie": {
+   "January": 22743,
+   "February": 39199,
+   "March": 51947,
+   "April": 76879,
+   "May": 75497,
+   "June": 96036,
+   "July": 76418,
+   "August": 75033,
+   "September": 51448,
+   "October": 39682,
+   "November": 23372,
+   "December": 2541
+  },
+  "The Party Queen": {
+   "January": 5469,
+   "February": 19065,
+   "March": 32306,
+   "April": 56794,
+   "May": 71336,
+   "June": 86448,
+   "July": 68433,
+   "August": 75459,
+   "September": 53879,
+   "October": 29548,
+   "November": 24033,
+   "December": 0
+  },
+  "Irish Channel Pedal Pub-Crawl Tour": {
+   "January": 8186,
+   "February": 5622,
+   "March": 15274,
+   "April": 14881,
+   "May": 15181,
+   "June": 8927,
+   "July": 4066,
+   "August": 5989,
+   "September": 18316,
+   "October": 14134,
+   "November": 8774,
+   "December": 7887
+  },
+  "Chill Mural Pedal Bike Bar Tour": {
+   "January": 9037,
+   "February": 13504,
+   "March": 17426,
+   "April": 14261,
+   "May": 15053,
+   "June": 14453,
+   "July": 9964,
+   "August": 5104,
+   "September": 1003,
+   "October": 1121,
+   "November": 0,
+   "December": 0
+  }
+ },
+ "The Freaky Tiki": {
+  "2023": {
+   "pax": 4666,
+   "revenue": 367459
+  },
+  "2024": {
+   "pax": 5121,
+   "revenue": 371886
+  },
+  "2025": {
+   "pax": 4385,
+   "revenue": 345753
+  },
+  "2026": {
+   "pax": 4374,
+   "revenue": 319360
+  }
+ },
+ "The Twerkin' Tiki": {
+  "2023": {
+   "pax": 0,
+   "revenue": 0
+  },
+  "2024": {
+   "pax": 3275,
+   "revenue": 251533
+  },
+  "2025": {
+   "pax": 2927,
+   "revenue": 228939
+  },
+  "2026": {
+   "pax": 2254,
+   "revenue": 190614
+  }
+ },
+ "The Bayou Boogie": {
+  "2023": {
+   "pax": 2655,
+   "revenue": 258316
+  },
+  "2024": {
+   "pax": 1611,
+   "revenue": 158129
+  },
+  "2025": {
+   "pax": 909,
+   "revenue": 104984
+  },
+  "2026": {
+   "pax": 742,
+   "revenue": 99186
+  }
+ },
+ "The Party Queen": {
+  "2023": {
+   "pax": 2141,
+   "revenue": 199060
+  },
+  "2024": {
+   "pax": 1473,
+   "revenue": 116597
+  },
+  "2025": {
+   "pax": 1158,
+   "revenue": 95656
+  },
+  "2026": {
+   "pax": 564,
+   "revenue": 59165
+  }
+ },
+ "Irish Channel Pedal Pub-Crawl Tour": {
+  "2023": {
+   "pax": 0,
+   "revenue": 0
+  },
+  "2024": {
+   "pax": 236,
+   "revenue": 31544
+  },
+  "2025": {
+   "pax": 390,
+   "revenue": 28446
+  },
+  "2026": {
+   "pax": 122,
+   "revenue": 8081
+  }
+ },
+ "NolaBikeBar's Mid-City Pedal Pub-Crawl Tour": {
+  "2023": {
+   "pax": 0,
+   "revenue": 0
+  },
+  "2024": {
+   "pax": 0,
+   "revenue": 0
+  },
+  "2025": {
+   "pax": 148,
+   "revenue": 10860
+  },
+  "2026": {
+   "pax": 162,
+   "revenue": 10837
+  }
+ },
+ "Private Pirate Pontoon Bayou Party- Up to 6 People": {
+  "2023": {
+   "pax": 104,
+   "revenue": 58767
+  },
+  "2024": {
+   "pax": 42,
+   "revenue": 17220
+  },
+  "2025": {
+   "pax": 21,
+   "revenue": 7313
+  },
+  "2026": {
+   "pax": 8,
+   "revenue": 2946
+  }
+ },
+ "Sunset Cocktail Cruise & Seafood Boil": {
+  "2023": {
+   "pax": 0,
+   "revenue": 0
+  },
+  "2024": {
+   "pax": 0,
+   "revenue": 0
+  },
+  "2025": {
+   "pax": 23,
+   "revenue": 4287
+  },
+  "2026": {
+   "pax": 0,
+   "revenue": 0
+  }
+ },
+ "crew_workload_2026_jan_jul18": {
+  "Abbie": {
+   "avail": 42,
+   "bookings": 182,
+   "pax": 594,
+   "total": 44216.9,
+   "items": {
+    "The Freaky Tiki": [
+     11,
+     67,
+     214,
+     13869.77
+    ],
+    "The Twerkin' Tiki": [
+     6,
+     18,
+     62,
+     4877.0
+    ],
+    "The Bayou Boogie": [
+     4,
+     6,
+     21,
+     3361.68
+    ],
+    "": [
+     21,
+     91,
+     297,
+     22108.45
+    ]
+   }
+  },
+  "Allen": {
+   "avail": 18,
+   "bookings": 48,
+   "pax": 154,
+   "total": 17742.86,
+   "items": {
+    "The Twerkin' Tiki": [
+     6,
+     20,
+     64,
+     6022.06
+    ],
+    "The Party Queen": [
+     3,
+     4,
+     13,
+     2849.37
+    ],
+    "": [
+     9,
+     24,
+     77,
+     8871.43
+    ]
+   }
+  },
+  "Barry": {
+   "avail": 48,
+   "bookings": 118,
+   "pax": 332,
+   "total": 30012.6,
+   "items": {
+    "The Freaky Tiki": [
+     12,
+     21,
+     89,
+     6367.32
+    ],
+    "The Twerkin' Tiki": [
+     8,
+     34,
+     63,
+     6746.0
+    ],
+    "The Bayou Boogie": [
+     1,
+     1,
+     1,
+     1150.0
+    ],
+    "The Party Queen": [
+     3,
+     3,
+     13,
+     742.98
+    ],
+    "": [
+     24,
+     59,
+     166,
+     15006.3
+    ]
+   }
+  },
+  "Ben Thrower": {
+   "avail": 378,
+   "bookings": 1436,
+   "pax": 4206,
+   "total": 363721.72,
+   "items": {
+    "The Freaky Tiki": [
+     83,
+     362,
+     1160,
+     91672.67
+    ],
+    "The Twerkin' Tiki": [
+     53,
+     228,
+     624,
+     49976.98
+    ],
+    "The Bayou Boogie": [
+     39,
+     103,
+     247,
+     30045.13
+    ],
+    "The Party Queen": [
+     12,
+     23,
+     70,
+     9402.29
+    ],
+    "Private Pirate Pontoon Bayou Party- Up to 6 People": [
+     2,
+     2,
+     2,
+     763.79
+    ],
+    "": [
+     189,
+     718,
+     2103,
+     181860.86
+    ]
+   }
+  },
+  "BobShambo": {
+   "avail": 34,
+   "bookings": 48,
+   "pax": 222,
+   "total": 14314.8,
+   "items": {
+    "Irish Channel Pedal Pub-Crawl Tour": [
+     9,
+     10,
+     69,
+     3476.47
+    ],
+    "NolaBikeBar's Mid-City Pedal Pub-Crawl Tour": [
+     8,
+     14,
+     42,
+     3680.93
+    ],
+    "": [
+     17,
+     24,
+     111,
+     7157.4
+    ]
+   }
+  },
+  "Brian Lamia": {
+   "avail": 2,
+   "bookings": 2,
+   "pax": 20,
+   "total": 980.0,
+   "items": {
+    "NolaBikeBar's Mid-City Pedal Pub-Crawl Tour": [
+     1,
+     1,
+     10,
+     490.0
+    ],
+    "": [
+     1,
+     1,
+     10,
+     490.0
+    ]
+   }
+  },
+  "Calvin": {
+   "avail": 242,
+   "bookings": 1010,
+   "pax": 3192,
+   "total": 246248.26,
+   "items": {
+    "The Freaky Tiki": [
+     53,
+     265,
+     882,
+     60256.1
+    ],
+    "The Twerkin' Tiki": [
+     43,
+     165,
+     526,
+     42886.96
+    ],
+    "The Bayou Boogie": [
+     23,
+     70,
+     171,
+     18122.9
+    ],
+    "The Party Queen": [
+     2,
+     5,
+     17,
+     1858.17
+    ],
+    "": [
+     121,
+     505,
+     1596,
+     123124.13
+    ]
+   }
+  },
+  "Charles": {
+   "avail": 156,
+   "bookings": 648,
+   "pax": 2004,
+   "total": 152199.54,
+   "items": {
+    "The Freaky Tiki": [
+     25,
+     152,
+     465,
+     30401.15
+    ],
+    "The Twerkin' Tiki": [
+     33,
+     120,
+     386,
+     29605.76
+    ],
+    "The Bayou Boogie": [
+     14,
+     39,
+     120,
+     10925.6
+    ],
+    "The Party Queen": [
+     6,
+     13,
+     31,
+     5167.26
+    ],
+    "": [
+     78,
+     324,
+     1002,
+     76099.77
+    ]
+   }
+  },
+  "Chris": {
+   "avail": 16,
+   "bookings": 68,
+   "pax": 202,
+   "total": 18736.78,
+   "items": {
+    "The Freaky Tiki": [
+     5,
+     31,
+     98,
+     6780.14
+    ],
+    "The Bayou Boogie": [
+     2,
+     2,
+     2,
+     1674.75
+    ],
+    "The Party Queen": [
+     1,
+     1,
+     1,
+     913.5
+    ],
+    "": [
+     8,
+     34,
+     101,
+     9368.39
+    ]
+   }
+  },
+  "Darius": {
+   "avail": 12,
+   "bookings": 84,
+   "pax": 276,
+   "total": 16576.74,
+   "items": {
+    "The Freaky Tiki": [
+     2,
+     10,
+     49,
+     2934.35
+    ],
+    "The Twerkin' Tiki": [
+     3,
+     25,
+     72,
+     4336.0
+    ],
+    "The Bayou Boogie": [
+     1,
+     7,
+     17,
+     1018.02
+    ],
+    "": [
+     6,
+     42,
+     138,
+     8288.37
+    ]
+   }
+  },
+  "Desi": {
+   "avail": 36,
+   "bookings": 96,
+   "pax": 292,
+   "total": 37254.24,
+   "items": {
+    "The Twerkin' Tiki": [
+     8,
+     35,
+     96,
+     10355.0
+    ],
+    "The Bayou Boogie": [
+     3,
+     4,
+     14,
+     2413.67
+    ],
+    "The Party Queen": [
+     7,
+     9,
+     36,
+     5858.45
+    ],
+    "": [
+     18,
+     48,
+     146,
+     18627.12
+    ]
+   }
+  },
+  "Eddie": {
+   "avail": 494,
+   "bookings": 1868,
+   "pax": 5956,
+   "total": 486066.26,
+   "items": {
+    "The Freaky Tiki": [
+     126,
+     553,
+     1891,
+     134646.7
+    ],
+    "The Twerkin' Tiki": [
+     57,
+     255,
+     667,
+     57427.29
+    ],
+    "Bayou & Wildlife Alligator EcoTour": [
+     3,
+     5,
+     22,
+     1144.7
+    ],
+    "The Bayou Boogie": [
+     47,
+     83,
+     301,
+     38020.82
+    ],
+    "The Party Queen": [
+     14,
+     38,
+     97,
+     11793.62
+    ],
+    "": [
+     247,
+     934,
+     2978,
+     243033.13
+    ]
+   }
+  },
+  "Eric Douglas": {
+   "avail": 20,
+   "bookings": 50,
+   "pax": 202,
+   "total": 21099.84,
+   "items": {
+    "The Freaky Tiki": [
+     10,
+     25,
+     101,
+     10549.92
+    ],
+    "": [
+     10,
+     25,
+     101,
+     10549.92
+    ]
+   }
+  },
+  "Garrett": {
+   "avail": 34,
+   "bookings": 116,
+   "pax": 366,
+   "total": 28134.0,
+   "items": {
+    "The Freaky Tiki": [
+     4,
+     29,
+     82,
+     4884.12
+    ],
+    "The Bayou Boogie": [
+     13,
+     29,
+     101,
+     9182.88
+    ],
+    "": [
+     17,
+     58,
+     183,
+     14067.0
+    ]
+   }
+  },
+  "Jarrett": {
+   "avail": 104,
+   "bookings": 438,
+   "pax": 1278,
+   "total": 99507.62,
+   "items": {
+    "The Freaky Tiki": [
+     25,
+     131,
+     422,
+     27581.46
+    ],
+    "The Twerkin' Tiki": [
+     8,
+     43,
+     86,
+     7156.0
+    ],
+    "The Bayou Boogie": [
+     12,
+     31,
+     88,
+     9026.86
+    ],
+    "The Party Queen": [
+     7,
+     14,
+     43,
+     5989.49
+    ],
+    "": [
+     52,
+     219,
+     639,
+     49753.81
+    ]
+   }
+  },
+  "Jeff Chitek": {
+   "avail": 22,
+   "bookings": 34,
+   "pax": 114,
+   "total": 14824.9,
+   "items": {
+    "The Twerkin' Tiki": [
+     2,
+     6,
+     26,
+     2775.0
+    ],
+    "Bayou & Wildlife Alligator EcoTour": [
+     1,
+     1,
+     6,
+     0.0
+    ],
+    "The Bayou Boogie": [
+     2,
+     2,
+     2,
+     761.25
+    ],
+    "The Party Queen": [
+     3,
+     5,
+     20,
+     2804.65
+    ],
+    "Private Pirate Pontoon Bayou Party- Up to 6 People": [
+     3,
+     3,
+     3,
+     1071.55
+    ],
+    "": [
+     11,
+     17,
+     57,
+     7412.45
+    ]
+   }
+  },
+  "JT": {
+   "avail": 6,
+   "bookings": 6,
+   "pax": 16,
+   "total": 3208.0,
+   "items": {
+    "The Freaky Tiki": [
+     1,
+     1,
+     6,
+     354.0
+    ],
+    "The Twerkin' Tiki": [
+     2,
+     2,
+     2,
+     1250.0
+    ],
+    "": [
+     3,
+     3,
+     8,
+     1604.0
+    ]
+   }
+  },
+  "Kelly": {
+   "avail": 112,
+   "bookings": 504,
+   "pax": 1740,
+   "total": 121248.26,
+   "items": {
+    "The Freaky Tiki": [
+     34,
+     154,
+     557,
+     39700.87
+    ],
+    "The Twerkin' Tiki": [
+     10,
+     52,
+     137,
+     9630.8
+    ],
+    "The Bayou Boogie": [
+     7,
+     12,
+     86,
+     5902.22
+    ],
+    "The Party Queen": [
+     5,
+     34,
+     90,
+     5390.24
+    ],
+    "": [
+     56,
+     252,
+     870,
+     60624.13
+    ]
+   }
+  },
+  "Kingston": {
+   "avail": 132,
+   "bookings": 564,
+   "pax": 1554,
+   "total": 123604.66,
+   "items": {
+    "The Freaky Tiki": [
+     9,
+     39,
+     131,
+     10002.72
+    ],
+    "The Twerkin' Tiki": [
+     33,
+     169,
+     466,
+     33410.97
+    ],
+    "The Bayou Boogie": [
+     5,
+     27,
+     39,
+     3837.92
+    ],
+    "The Party Queen": [
+     19,
+     47,
+     141,
+     14550.72
+    ],
+    "": [
+     66,
+     282,
+     777,
+     61802.33
+    ]
+   }
+  },
+  "Mike Burton": {
+   "avail": 14,
+   "bookings": 52,
+   "pax": 162,
+   "total": 9695.94,
+   "items": {
+    "The Party Queen": [
+     7,
+     26,
+     81,
+     4847.97
+    ],
+    "": [
+     7,
+     26,
+     81,
+     4847.97
+    ]
+   }
+  },
+  "Ryan": {
+   "avail": 114,
+   "bookings": 560,
+   "pax": 1578,
+   "total": 117527.1,
+   "items": {
+    "The Freaky Tiki": [
+     25,
+     142,
+     455,
+     29056.85
+    ],
+    "The Twerkin' Tiki": [
+     20,
+     103,
+     279,
+     20925.0
+    ],
+    "The Bayou Boogie": [
+     12,
+     35,
+     55,
+     8781.7
+    ],
+    "": [
+     57,
+     280,
+     789,
+     58763.55
+    ]
+   }
+  },
+  "Shannon": {
+   "avail": 56,
+   "bookings": 148,
+   "pax": 586,
+   "total": 55236.619999999995,
+   "items": {
+    "The Freaky Tiki": [
+     5,
+     12,
+     76,
+     6678.17
+    ],
+    "The Twerkin' Tiki": [
+     12,
+     37,
+     137,
+     12808.0
+    ],
+    "The Bayou Boogie": [
+     8,
+     17,
+     43,
+     6335.6
+    ],
+    "The Party Queen": [
+     3,
+     8,
+     37,
+     1796.54
+    ],
+    "": [
+     28,
+     74,
+     293,
+     27618.31
+    ]
+   }
+  },
+  "Todd": {
+   "avail": 10,
+   "bookings": 14,
+   "pax": 56,
+   "total": 8749.28,
+   "items": {
+    "The Party Queen": [
+     5,
+     7,
+     28,
+     4374.64
+    ],
+    "": [
+     5,
+     7,
+     28,
+     4374.64
+    ]
+   }
+  },
+  "Tom": {
+   "avail": 150,
+   "bookings": 754,
+   "pax": 2056,
+   "total": 152209.97999999998,
+   "items": {
+    "The Freaky Tiki": [
+     25,
+     142,
+     455,
+     29056.85
+    ],
+    "The Twerkin' Tiki": [
+     32,
+     144,
+     405,
+     32944.0
+    ],
+    "The Bayou Boogie": [
+     14,
+     59,
+     97,
+     9851.72
+    ],
+    "The Party Queen": [
+     4,
+     32,
+     71,
+     4252.42
+    ],
+    "": [
+     75,
+     377,
+     1028,
+     76104.99
+    ]
+   }
+  },
+  "Tony L": {
+   "avail": 74,
+   "bookings": 298,
+   "pax": 968,
+   "total": 81597.3,
+   "items": {
+    "The Freaky Tiki": [
+     18,
+     91,
+     315,
+     23115.32
+    ],
+    "The Twerkin' Tiki": [
+     8,
+     44,
+     137,
+     9495.9
+    ],
+    "The Bayou Boogie": [
+     9,
+     9,
+     15,
+     6329.26
+    ],
+    "The Party Queen": [
+     2,
+     5,
+     17,
+     1858.17
+    ],
+    "": [
+     37,
+     149,
+     484,
+     40798.65
+    ],
+    "Item": [
+     0,
+     0,
+     0,
+     0.0
+    ]
+   }
+  },
+  "Totals": {
+   "avail": 1778,
+   "bookings": 6200,
+   "pax": 18988,
+   "total": 1545601.4,
+   "items": {
+    "The Freaky Tiki": [
+     355,
+     1517,
+     4986,
+     356433.45
+    ],
+    "The Twerkin' Tiki": [
+     237,
+     956,
+     2653,
+     216482.53
+    ],
+    "Bayou & Wildlife Alligator EcoTour": [
+     12,
+     15,
+     64,
+     2960.82
+    ],
+    "The Bayou Boogie": [
+     152,
+     332,
+     872,
+     110728.2
+    ],
+    "The Party Queen": [
+     82,
+     212,
+     626,
+     63731.55
+    ],
+    "Private Pirate Pontoon Bayou Party- Up to 6 People": [
+     8,
+     8,
+     8,
+     2945.84
+    ],
+    "Irish Channel Pedal Pub-Crawl Tour": [
+     20,
+     23,
+     123,
+     8680.92
+    ],
+    "NolaBikeBar's Mid-City Pedal Pub-Crawl Tour": [
+     23,
+     37,
+     162,
+     10837.39
+    ],
+    "": [
+     889,
+     3100,
+     9494,
+     772800.7
+    ]
+   }
+  }
+ },
+ "slack_activity_last_60d": {
+  "nola-party-barge": {
+   "Sophia Bevans": 76,
+   "Captain Tom O\u2019farrell": 71,
+   "Kelly": 27,
+   "Calvin": 27,
+   "JT Sides": 5,
+   "Anthony Lombardino": 12,
+   "Jeffrey Chitek": 41,
+   "Davey": 23,
+   "TideBot": 6,
+   "Kingston F": 18,
+   "Ben": 8,
+   "Slackbot": 1,
+   "Jarrett Roberts": 15
+  }
+ },
+ "headline_facts_for_ads": {
+  "aov_booking_2026": 249,
+  "avg_party_size_2026": 3.06,
+  "rev_per_pax_2026": 81,
+  "weekend_fri_sun_revenue_share": 0.9,
+  "best_slots_pct_of_revenue": {
+   "2:00pm": 24.9,
+   "4:00pm": 24.7,
+   "6:00pm": 20.0,
+   "12:00pm": 18.2,
+   "10:00am Sat only": 6.7
+  },
+  "peak_months_may_sep_revenue_share": 0.617,
+  "hero_products": [
+   "The Freaky Tiki",
+   "The Twerkin' Tiki"
+  ],
+  "declining_products": [
+   "The Bayou Boogie",
+   "The Party Queen",
+   "Private Pirate Pontoon"
+  ],
+  "spring_products": [
+   "Chill Mural Pedal Bike Bar Tour (Feb-May)"
+  ],
+  "shoulder_products": [
+   "Irish Channel Pedal Pub-Crawl (Mar, Sep-Oct)"
+  ]
+ }
+}

@@ -1,5 +1,5 @@
 # Guide Conduct & Anti-Harassment Policy
-*Last updated: April 2026 | Applies to all NKST guides and managers*
+*Last updated: April 2026 | Applies to all NKST guides and contractors*
 
 We run a small business in a high-trust environment. Guides spend hours alone with guests, in remote areas, often handling people in physical and emotional situations (water, wildlife, bachelorette parties, kids, anxious paddlers). The standard for conduct is high, and we have to put it in writing so there's no ambiguity for guides, guests, or a court if something goes wrong.
 
@@ -37,11 +37,11 @@ Guides are not required to tolerate harassment from guests. Examples that should
 **What to do in the moment:**
 1. Set a clear verbal boundary. "I'm here to guide your tour. Please keep things professional."
 2. If it continues, end the inappropriate behavior with a clear statement: "If this continues, I'm going to end the tour."
-3. If safety is at risk, end the tour. Get back to staging. Call the manager.
+3. If safety is at risk, end the tour. Get back to staging. Call the contractor.
 4. Document immediately afterward: time, what was said or done, who else heard it.
 
 **What we do as a company:**
-1. Manager calls or texts you within the hour to check in.
+1. Contractor calls or texts you within the hour to check in.
 2. Incident Report filed within 24 hours.
 3. Guest is banned from rebooking. We refund or do not, depending on conduct, but they're done with us.
 4. If criminal conduct (assault, threats, stalking), we support filing a police report.
@@ -61,11 +61,11 @@ Any of the following by a guide is grounds for immediate termination under the I
 - Driving a guest anywhere off-itinerary
 - Soliciting tips beyond standard practice, asking for cash off-platform, suggesting "private tours" for cash
 
-If you have a question about whether something is OK, the answer is "ask the manager before you do it."
+If you have a question about whether something is OK, the answer is "ask the contractor before you do it."
 
 ---
 
-## 4. Peer Conduct (Guide to Guide, Guide to Manager, Manager to Guide)
+## 4. Peer Conduct (Guide to Guide, Guide to Contractor, Contractor to Guide)
 
 The same rules apply between people working together:
 
@@ -74,7 +74,7 @@ The same rules apply between people working together:
 - No quid pro quo (favors, scheduling, pay) tied to personal favors of any kind
 - Disagreements get worked out professionally; if they can't, escalate to the owner
 
-A manager has more power in the relationship than a guide does. Managers carry an extra responsibility to keep interactions professional, and to never use scheduling, pay, or training opportunities as leverage.
+A contractor has more power in the relationship than a guide does. Contractors carry an extra responsibility to keep interactions professional, and to never use scheduling, pay, or training opportunities as leverage.
 
 ---
 
@@ -82,13 +82,13 @@ A manager has more power in the relationship than a guide does. Managers carry a
 
 | Situation | First contact | If first contact is the problem |
 |-----------|---------------|--------------------------------|
-| Guest harassed you | Manager | Owner |
-| Another guide harassed you | Manager | Owner |
-| Manager harassed you | Owner | Owner's email directly |
-| You witnessed misconduct | Manager | Owner |
-| You're not sure if something counts | Manager (informal) | Owner |
+| Guest harassed you | Contractor | Owner |
+| Another guide harassed you | Contractor | Owner |
+| Contractor harassed you | Owner | Owner's email directly |
+| You witnessed misconduct | Contractor | Owner |
+| You're not sure if something counts | Contractor (informal) | Owner |
 
-**Manager:** ___________________
+**Contractor:** ___________________
 **Owner (Daniel Wrack):** dwrack81@gmail.com
 
 You can report verbally, by text, or in writing. Written is preferred for the record but verbal is fine; we'll follow up in writing.
@@ -115,8 +115,8 @@ If you feel you're being retaliated against after making a report, escalate dire
 Every formal complaint is investigated. Here's what that looks like:
 
 1. **Acknowledgement within 24 hours.** Whoever you reported to confirms receipt.
-2. **Initial conversation within 72 hours.** Manager or owner sits down with the reporter, takes a full statement, asks what outcome the reporter is hoping for.
-3. **Witness interviews.** If others were present, manager talks to them confidentially.
+2. **Initial conversation within 72 hours.** Contractor or owner sits down with the reporter, takes a full statement, asks what outcome the reporter is hoping for.
+3. **Witness interviews.** If others were present, contractor talks to them confidentially.
 4. **Subject of the complaint is interviewed.** Their side is heard. They're not told who reported, when possible, but in some situations identity is unavoidable.
 5. **Decision within 10 business days.** Findings, action taken, and what changes if any.
 6. **Documentation.** All of it goes in a confidential file, retained 7 years.

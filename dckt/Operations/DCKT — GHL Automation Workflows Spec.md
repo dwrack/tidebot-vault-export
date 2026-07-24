@@ -110,7 +110,7 @@ All workflows live in GHL → DCKT sub-account → Automation.
 |---|---|---|---|
 | Warm close | 1 hr after | SMS | "That was incredible, [Name]! So great having you with us today 🌊 Hope Cave Point blew your mind. If you got any shots, tag us — we'd love to share them! @doorcountykayak" |
 | Review ask | 3 hrs after | SMS | "Hey [Name] — one small favor? If your guide [GUIDE] and the crew made your day, a quick TripAdvisor review means the world to our small team. Takes 2 min: [LINK]. Thank you! 🙏" |
-| Re-engagement | +7 days | SMS | "Hey [Name]! Hope you're still feeling that Door County magic 🌲 You did Cave Point — have you tried the Sunset Tour? Totally different vibe, completely worth coming back for. Reply 'sunset' and we'll check availability!" |
+| Re-engagement | +7 days | SMS | "Hey [Name]! Hope you're still feeling that Door County magic 🌲 You did Cave Point — have you tried the Door Bluff Shipwreck? Totally different vibe — bayside, calmer water, real wreck sites. Reply 'shipwreck' and we'll check availability!" |
 | End of season | October | SMS | "Hey [Name] — wrapping up an amazing season! We hope we made your Door County trip unforgettable. We open bookings for next summer in [MONTH] — want us to reach out when spots go live? Reply 'yes' 🙌" |
 
 #### Returning Guest Post-Tour

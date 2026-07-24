@@ -558,7 +558,7 @@ Injuries (if any):
 Property Damage (if any):
 Witnesses (name, contact):
 Actions Taken:
-Reporting Manager:
+Reporting Contractor:
 Date Filed:
 ```
 

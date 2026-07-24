@@ -1,7 +1,7 @@
 # SOP — Weather Decision Flowchart
 *Who calls the cancel and when. No tour goes out against these thresholds.*
 
-Cancel decisions are easy when conditions are obvious. They're hard at the margin. This SOP exists so a guide on the launch ramp at 7am with a marginal forecast knows exactly what to do, and the manager knows exactly when to overrule.
+Cancel decisions are easy when conditions are obvious. They're hard at the margin. This SOP exists so a guide on the launch ramp at 7am with a marginal forecast knows exactly what to do, and the contractor knows exactly when to overrule.
 
 ---
 
@@ -34,7 +34,7 @@ TOUR DAY MORNING (3 hours before launch)
 │
 ├─→ Any hard threshold likely to be met during tour window?
 │   │
-│   YES ──→ Manager calls cancel.
+│   YES ──→ Contractor calls cancel.
 │           Notify guests via FareHarbor + text 2 hours before.
 │           Offer rebook or refund.
 │           Log in cancel tracker.
@@ -49,8 +49,8 @@ LAUNCH SITE (at the ramp, before guests are on water)
 ├─→ Any hard threshold met?
 │   │
 │   YES ──→ Guide calls cancel on-site.
-│           Calls manager immediately.
-│           Manager handles guest communication, refunds, rebooks.
+│           Calls contractor immediately.
+│           Contractor handles guest communication, refunds, rebooks.
 │           Guide does not put guests on water "to see what happens."
 │
 │   NO ──→ Brief guests, launch
@@ -60,7 +60,7 @@ ON WATER (during tour)
 ├─→ Conditions deteriorate?
 │   │
 │   YES (any hard threshold) ──→ Return to launch by safest route.
-│                                  Guide makes the call. Manager backs them up.
+│                                  Guide makes the call. Contractor backs them up.
 │                                  Document in tour log audio + Incident Report.
 │
 │   NO ──→ Continue, monitor
@@ -69,16 +69,16 @@ END OF TOUR
 │
 └─→ If cancel was called or tour was cut short:
     - Incident Report filed within 24 hours
-    - Manager handles guest follow-up
+    - Contractor handles guest follow-up
     - Cancel logged in the cancel tracker
     - If a refund or rebook was issued, log that too
 ```
 
 ---
 
-## Soft Decision Zones (judgment call, manager confirms)
+## Soft Decision Zones (judgment call, contractor confirms)
 
-These don't trigger automatic cancel but should trigger a phone call to the manager before launch.
+These don't trigger automatic cancel but should trigger a phone call to the contractor before launch.
 
 - Wind 10–14 mph forecast (we go on Manchac, we don't go on open Pontchartrain)
 - Lightning 10–25 miles (we watch radar, we shorten the tour, we may delay)
@@ -87,15 +87,15 @@ These don't trigger automatic cancel but should trigger a phone call to the mana
 - Tides at extreme low (we check launch ramp accessibility)
 - Booking with kids under 8 in any of the above (more conservative)
 
-Guide calls. Manager makes the final call. Document the call (text thread is fine).
+Guide calls. Contractor makes the final call. Document the call (text thread is fine).
 
 ---
 
 ## Who Calls the Cancel
 
-- **Forecast cancel (3+ hours out):** Manager. Guide is informed. Manager handles guest comm.
-- **Pre-launch cancel (at ramp):** Guide on the ground calls. Manager confirms within 15 minutes. Guide does not launch even if manager hasn't confirmed yet, if a hard threshold is met.
-- **On-water cancel (mid-tour):** Guide. Manager backs them up. The guide on the water has the final say while underway.
+- **Forecast cancel (3+ hours out):** Contractor. Guide is informed. Contractor handles guest comm.
+- **Pre-launch cancel (at ramp):** Guide on the ground calls. Contractor confirms within 15 minutes. Guide does not launch even if contractor hasn't confirmed yet, if a hard threshold is met.
+- **On-water cancel (mid-tour):** Guide. Contractor backs them up. The guide on the water has the final say while underway.
 
 The default in any margin call is to cancel. We don't lose money on a refund; we lose the business on a drowning.
 
@@ -103,7 +103,7 @@ The default in any margin call is to cancel. We don't lose money on a refund; we
 
 ## What Goes in the Cancel Log
 
-`Operations/Tour Cancel Log.md` (manager-owned)
+`Operations/Tour Cancel Log.md` (contractor-owned)
 
 | Date | Tour | Reason | Threshold met | Refund / Rebook | Notes |
 |------|------|--------|----------------|------------------|-------|

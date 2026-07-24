@@ -184,6 +184,6 @@ For when you can't assume they'll watch past the skip button.
 ## Variants worth shooting later
 
 - **Family-specific cut:** focused on parents with kids 7–12, opens with the kid-fear voicemail, ends with a family photo CTA
-- **Anniversary couple cut:** opens with "you're up here for your anniversary," skips the kids section, leans into the sunset/private tour upsell
+- **Anniversary couple cut:** opens with "you're up here for your anniversary," skips the kids section, leans into the Cave Point Half-Day or private tour upsell (do NOT reference a sunset tour — we don't run one)
 - **Wisconsin local cut:** opens with "you live a couple hours from here," cuts the "Door County destination" framing, leans into "weekend escape from [Milwaukee/Madison/Green Bay]"
 - **Shoulder season cut:** September/October-specific, leans into fall foliage, cooler air, fewer crowds, "the Door County secret most tourists miss"

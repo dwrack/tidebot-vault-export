@@ -1,6 +1,6 @@
 # NKST Access Codes
 
-These codes should be shared with guides and managers. If guides forget, they can ask and be reminded.
+These codes should be shared with guides and contractors. If guides forget, they can ask and be reminded.
 
 | Location | Code |
 |----------|------|

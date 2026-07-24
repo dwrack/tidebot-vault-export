@@ -139,4 +139,4 @@ If Manchac itself is unavailable or conditions are unsuitable, Gum Creek on the 
 | Drive time | ~30–40 min from pickup |
 | Van gas | Shell only; card code 6006 |
 | Business phone | 504-571-9975 |
-| Manager | Michelle Healey (216) 262-3865 |
+| Contractor | Michelle Healey (216) 262-3865 |

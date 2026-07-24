@@ -56,7 +56,7 @@
 
 **2.4 The Anniversary Ping.** FareHarbor has the booking date. One year later, send an automated email: "It's been a year since your Cave Point paddle. The water misses you." Simple, personal, and it hits right when families are planning their next Door County trip.
 
-**2.5 The "Level Up" Upsell.** If someone did the standard kayak tour, their next booking email should pitch the sunset tour or the e-bike combo. If they did the e-bike, pitch the kayak. Never offer the same thing twice to a repeat customer, show them what's next.
+**2.5 The "Level Up" Upsell.** If someone did the standard kayak tour, their next booking email should pitch the Door Bluff Shipwreck, the Eco Estuary, or the e-bike combo. If they did the e-bike, pitch the kayak. Never offer the same thing twice to a repeat customer, show them what's next.
 
 **2.6 Kids Grow Up, Tours Scale.** Track family bookings. If the Millers brought a 10-year-old last year, this year that kid is 11 and ready for a longer route or a different tour. A "your kids are ready for the next adventure" email is incredibly specific and lands hard.
 
@@ -92,7 +92,7 @@
 
 **3.3 The Waitlist as a Feature.** When tours sell out, don't just show "unavailable" on FareHarbor. Add a waitlist option. People who waitlist are more committed than people who browse, and the waitlist itself signals that this experience is worth waiting for.
 
-**3.4 Limited Sunset Tours.** Only run sunset tours 2-3 times per week, even if demand supports more. Scarcity makes the sunset tour feel like a special event rather than just a later time slot. Promote them as "limited availability" on the website and Instagram.
+**3.4 Limited-Availability Tours.** For any tour that could support more capacity than we run (Door Bluff Shipwreck, Inland Fall Paddle, private routes), lean into scarcity messaging: "limited availability this week" on the website and Instagram. Scarcity makes each departure feel like a special event rather than just a time slot. (Note: we do NOT run a Sunset Tour — do not create one just to run this play.)
 
 **3.5 The "Secret" Tour.** Once per month, run a tour to a route you don't normally offer, something off-menu. Announce it only via email to past customers with 72 hours notice. It'll sell out in hours, and the exclusivity creates word of mouth that money can't buy.
 
@@ -118,7 +118,7 @@
 
 **3.16 Off-Season Booking Incentive.** Open next season's bookings on November 1 with a small early-bird discount (5-10%) that expires January 31. Families planning summer vacations in winter will lock in dates, giving you revenue visibility months ahead.
 
-**3.17 The "We Added a Date" Drop.** When you add an extra tour due to demand, frame it as a limited release. "Due to demand, we just opened one extra sunset paddle this Friday. It won't last." This trains your audience to act fast on any announcement.
+**3.17 The "We Added a Date" Drop.** When you add an extra tour due to demand, frame it as a limited release. "Due to demand, we just opened one extra Cave Point departure this Friday. It won't last." This trains your audience to act fast on any announcement.
 
 ---
 

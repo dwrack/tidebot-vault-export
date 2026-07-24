@@ -46,7 +46,7 @@
 
 ## ☁️ Weather Hold Protocol
 
-**Decision maker:** Guide lead / Manager on duty
+**Decision maker:** Guide lead / Contractor on duty
 
 | Condition | Action |
 |---|---|
@@ -63,7 +63,7 @@
 - [ ] Incident report filed if any injury/incident occurred
 - [ ] Guest count confirmed out
 - [ ] Review request triggered in GHL (auto if connected, else manual SMS)
-- [ ] Any feedback noted for manager coaching log
+- [ ] Any feedback noted for contractor coaching log
 
 ---
 

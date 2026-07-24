@@ -176,4 +176,4 @@ Brief guests on wildlife distance and no-feeding policy during orientation. This
 | Navigation | Follow utility poles; shipwrecks as first landmark; comm tower for orientation |
 | Rental duration | Standard 2 hours (confirm per booking) |
 | Business phone | 504-571-9975 |
-| Manager | Michelle Healey (216) 262-3865 |
+| Contractor | Michelle Healey (216) 262-3865 |

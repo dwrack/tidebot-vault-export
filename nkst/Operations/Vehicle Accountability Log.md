@@ -3,7 +3,7 @@
 **Company:** New Orleans Kayak Swamp Tours / Nola Kayak Tours
 **Last Updated:** April 2026
 
-> This log tracks vehicle use, fuel, cleaning, and condition after every tour. Guides confirm via a 3-question post-tour text (sent automatically by GHL). Manager reviews weekly. Mileage is tracked here for oil change scheduling (every 3,500 miles).
+> This log tracks vehicle use, fuel, cleaning, and condition after every tour. Guides confirm via a 3-question post-tour text (sent automatically by GHL). Contractor reviews weekly. Mileage is tracked here for oil change scheduling (every 3,500 miles).
 
 ---
 
@@ -11,7 +11,7 @@
 
 **Guides:** After every tour, GHL sends an automatic text asking three questions. Reply with yes/no. Takes 60 seconds. That's it.
 
-**Manager:** Reviews the log weekly. Flags any "no" answers, mileage milestones, or recurring issues. Follows up with the guide if anything is outstanding.
+**Contractor:** Reviews the log weekly. Flags any "no" answers, mileage milestones, or recurring issues. Follows up with the guide if anything is outstanding.
 
 **Claude:** Summarizes the weekly log and flags: oil change due date, any guides with unresolved "no" items, mileage trend, and any equipment issues that appeared more than once.
 
@@ -26,13 +26,13 @@
 >
 > Reply 1/2/3 as yes or no. Anything to flag? Drop it here."
 
-Any "no" or freeform note routes to the manager's GHL inbox immediately.
+Any "no" or freeform note routes to the contractor's GHL inbox immediately.
 
 ---
 
 ## Weekly Summary Format
 
-Claude generates this from the weekly log entries. Manager reviews Monday morning.
+Claude generates this from the weekly log entries. Contractor reviews Monday morning.
 
 | Item | This Week |
 |---|---|
@@ -50,7 +50,7 @@ Claude generates this from the weekly log entries. Manager reviews Monday mornin
 
 ## Running Tour Log
 
-*Add one row per tour. Guide confirms via text -- manager or Claude logs the responses.*
+*Add one row per tour. Guide confirms via text -- contractor or Claude logs the responses.*
 
 | Date | Guide | Tour | Van | Miles Out | Miles In | Miles Driven | Gas Topped | Van Cleaned | PFDs Done | Issues Flagged |
 |---|---|---|---|---|---|---|---|---|---|---|

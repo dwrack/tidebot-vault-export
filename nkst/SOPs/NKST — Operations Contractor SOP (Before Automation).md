@@ -1,4 +1,4 @@
-# NKST — Manager SOP (Before Automation)
+# NKST — Operations Contractor SOP (Before Automation)
 
 **Company:** Apres Assets LLC dba New Orleans Kayak Swamp Tours / Nola Kayak Tours
 **Version:** Manual Operations Playbook
@@ -177,7 +177,7 @@ Tours are sometimes moved to a different location (e.g., Manchac ↔ Honey Islan
 
 ### When a Switch is Authorized
 - Honey Island gauge is out of range (move to Manchac) — see Weather Decision Protocol
-- Participation consolidation (owner or manager authorized)
+- Participation consolidation (owner or contractor authorized)
 - Guide or resource availability issue
 
 ### Notification Steps
@@ -223,7 +223,7 @@ The evening before every tour day (by 8:00 PM):
 
 ## Pre-Tour Checklist
 
-Run this before every tour, either by the manager directly or verbally confirmed with the guide.
+Run this before every tour, either by the contractor directly or verbally confirmed with the guide.
 
 ### Van & Equipment
 - [ ] Van fueled (Shell, code 6006)
@@ -253,15 +253,15 @@ Run this before every tour, either by the manager directly or verbally confirmed
 **Weather cancellations must be communicated to all guests no later than 7:00 AM on the day of the tour.**
 
 ### Decision Authority
-- The manager makes the go/no-go call on weather independently using the criteria below.
-- If the manager is uncertain, they call the owner. The owner has final say.
+- The contractor makes the go/no-go call on weather independently using the criteria below.
+- If the contractor is uncertain, they call the owner. The owner has final say.
 
 ### Cancellation Criteria
 Cancel or reroute if any of the following apply:
 - Active lightning warning or severe thunderstorm warning in the tour area
 - Sustained winds over 25 mph forecast during tour window
 - Honey Island gauge below 5 ft or above 12 ft (reroute to Manchac — do not cancel unless Manchac is also unsafe)
-- Other unsafe water or weather condition at manager's discretion
+- Other unsafe water or weather condition at contractor's discretion
 
 ### How to Notify Guests (Manual Process)
 1. Pull the manifest from FareHarbor for all affected tours.
@@ -309,7 +309,7 @@ Complete within 2 hours of tour return.
 - [ ] Paddles stored
 - [ ] Guide posted a photo to Google (mandatory per pay policy)
 
-### Manager Responsibilities
+### Contractor Responsibilities
 1. Text each guide after the tour: *"How'd it go? Any issues?"*
 2. If any incidents occurred (guest injury, equipment damage, conflict): collect a verbal or written account from the guide now. File a written incident report within 24 hours. Notify owner today.
 3. Check FareHarbor for any last-minute cancellations or no-shows that need to be reconciled.
@@ -386,7 +386,7 @@ Send owner a brief written summary covering:
 - Any incidents or close calls
 - Any guide compliance issues
 - Equipment needs
-- Anything the manager needs owner's decision on
+- Anything the contractor needs owner's decision on
 
 ---
 
@@ -394,19 +394,19 @@ Send owner a brief written summary covering:
 
 ### On-Water Emergency (Guest Injury, Capsize, Medical Event)
 1. Guide calls 911 immediately for any life-threatening situation
-2. Guide calls manager
-3. Manager calls owner
+2. Guide calls contractor
+3. Contractor calls owner
 4. Guide stays with guests until emergency services arrive
-5. Manager documents: date, time, tour, guide name, what happened, who was injured, what action was taken
+5. Contractor documents: date, time, tour, guide name, what happened, who was injured, what action was taken
 6. Collect witness statements from other guests as soon as reasonably possible
 7. Do not discuss liability, fault, or insurance with guests or media — direct all such questions to owner
 8. File written incident report within 24 hours
 
 ### Van Breakdown
-1. Guide calls manager immediately
-2. Manager arranges alternative transportation if guests are stranded
-3. Manager calls owner
-4. Manager arranges tow or roadside assistance
+1. Guide calls contractor immediately
+2. Contractor arranges alternative transportation if guests are stranded
+3. Contractor calls owner
+4. Contractor arranges tow or roadside assistance
 5. Document incident
 
 ### Guide No-Show (see Guide No-Show Protocol above)

@@ -5,20 +5,18 @@ city: Door County
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 38
-ad_spend_yday: 155
+ad_spend_yday: 0
 status: yellow
-alert: "FH scrape offline; Google ROAS 0.80x yesterday (peak Sat); 4 unreplied 5★"
-updated: 2026-07-06
+alert: "data stale - FH scrape 403 (day 4)"
+updated: 2026-07-24
 tile_type: business
 ---
 
+
 <!-- live:start -->
-- FH data: scraper ERR_INTERNET_DISCONNECTED — no booking/revenue data today.
-- Google Ads (8672151991): $129.57 yday / 0.80x ROAS (off day on peak Saturday). 7d: $595+ / 3.01x — healthy overall. Watch today's numbers before adjusting.
-- Meta (act_10153674414451399): Awareness $19.75 (0 purchases). Retargeting $5.82 (1 purchase $157.33, 27.03x ROAS). Retargeting crushing it.
-- GSC (Jun 28-Jul 5): "door county kayak tours" 28 clicks pos 1, leading organic in the portfolio.
-- **4 unreplied 5★ (newest today): Bill & Tracy Anderson (Jul 6, today — mentions Jackson, notes rescheduling snags). Lydia Volpe, Kelsey Weddig, William Schindler all from Jul 4. GBP loc 5837086547118336383.**
-- IG @doorcountykayaktours: Best week in portfolio. Jul 2 "Super Bowl" reel 109 likes. Jul 4 "only boat" reel 91 likes. Strong 4th of July content run.
+- **Degraded session 07-24.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG) were offline this run. Brief built from Gmail + FareHarbor cache only.
+- FareHarbor scrape 403 for a 4th straight day (07-21 through 07-23). Last good pull Monday 07-20: 30 booked / $1,846. Bookings/revenue blind since.
+- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
 <!-- live:end -->
 
 ## Quick links

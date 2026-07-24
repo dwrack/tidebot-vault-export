@@ -104,13 +104,12 @@ Before scheduling an interview:
 
 ---
 
-## ACA Certification
+## ACA Certification (Aspirational — Not Yet Implemented)
 
 - **American Canoe Association (ACA)** certification is the national standard for kayak guides
-- Return employees with ACA certification: waive training cost
-- New employees: budget for ACA workshop pre-season
-- Track expiration dates for all certifications
-- See: [[Operations/ACA Guide Certification]]
+- DCKT does NOT currently require or hold ACA certification. Do not claim ACA-certified guides in any customer-facing communication.
+- **When we introduce ACA certification:** return employees with existing ACA certification would have training cost waived; new employees would need workshop budget pre-season; track expiration dates.
+- See: [[Operations/ACA Guide Certification]] for the implementation plan.
 
 ---
 

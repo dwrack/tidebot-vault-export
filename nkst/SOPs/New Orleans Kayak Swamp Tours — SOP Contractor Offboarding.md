@@ -7,7 +7,7 @@
 
 ## When to Use This
 
-- Guide or manager resigns
+- Guide or contractor resigns
 - Contractor is terminated or not renewed
 - Affiliate becomes inactive and you're formally removing them
 - Seasonal guide not returning
@@ -76,7 +76,7 @@
 
 | Name | Role | Last Day | Reason | Offboarded By | Date Completed |
 |------|------|----------|--------|---------------|----------------|
-| Brian Lamia | Manager | Early 2026 | Transition to new management | Michael | 2026-04-20 |
+| Brian Lamia | Contractor | Early 2026 | Transition to new management | Michael | 2026-04-20 |
 | | | | | | |
 
 ---

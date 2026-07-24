@@ -1,7 +1,7 @@
 # NKST — Guide Training Curriculum
 
 **New Orleans Kayak Swamp Tours / Nola Kayak Tours**
-Operated by Apres Assets LLC (Gravity Trails LLC) | Manager: Michelle Healey (216) 262-3865
+Operated by Apres Assets LLC (Gravity Trails LLC) | Contractor: Michelle Healey (216) 262-3865
 
 ---
 
@@ -19,8 +19,8 @@ Before your first shadow shift, read every one of these documents in the vault. 
 
 1. **NKST — Guide Tour Script & Talking Points.md** — Your primary field reference. Read it twice.
 2. **NKST — Guide Quick Reference Card.md** — Print this and keep it in your bag every tour day.
-3. **NKST — Manager Briefing & Regulatory Intelligence.md** — Understand how the business runs, who owns what, and what the regulatory obligations are.
-4. **FareHarbor guide (provided separately by manager)** — Know how to check in guests, handle 3rd-party bookings, and pull the manifest.
+3. **NKST — Operations Contractor Briefing & Regulatory Intelligence.md** — Understand how the business runs, who owns what, and what the regulatory obligations are.
+4. **FareHarbor guide (provided separately by contractor)** — Know how to check in guests, handle 3rd-party bookings, and pull the manifest.
 5. LDWF permit card (issued to you) — Know what it is, carry it every tour.
 
 ---
@@ -41,7 +41,7 @@ Before your first shadow shift, read every one of these documents in the vault. 
 - Guide conduct rules (no substances, no profanity, phone away while driving, uniform on)
 - Gas station procedure: Shell only, card code 6006
 - Van base address: 1407 Piety St | Pickup: 740 N. Rampart St (Rampart Treehouse)
-- Key contact: Manager Michelle Healey (216) 262-3865
+- Key contact: Contractor Michelle Healey (216) 262-3865
 
 **Ecology to know cold:**
 
@@ -53,7 +53,7 @@ Before your first shadow shift, read every one of these documents in the vault. 
 - Alligator size estimation: snout-to-eye distance in inches = approximate body length in feet
 - Alligator safety: shy around humans; no recorded kayak attack here; we never bait
 
-**Phase 1 Sign-Off:** Pass the Knowledge Checkpoint below (verbal Q&A with manager or senior guide).
+**Phase 1 Sign-Off:** Pass the Knowledge Checkpoint below (verbal Q&A with contractor or senior guide).
 
 ---
 
@@ -97,11 +97,11 @@ Before your first shadow shift, read every one of these documents in the vault. 
 
 ## Phase 3: Supervised Solo
 
-**What this is:** You lead the tour from start to finish. The manager or a senior guide is present as a silent observer — they do not intervene unless safety is at risk. After the tour, you debrief together.
+**What this is:** You lead the tour from start to finish. The contractor or a senior guide is present as a silent observer — they do not intervene unless safety is at risk. After the tour, you debrief together.
 
 **Pre-tour prep:**
 
-- Text guests yourself the night before (manager reviews draft first)
+- Text guests yourself the night before (contractor reviews draft first)
 - Pick up van and complete the full pre-check independently
 - Arrive at 740 N. Rampart 5–10 min before guests
 
@@ -121,7 +121,7 @@ Before your first shadow shift, read every one of these documents in the vault. 
 - Not asking for the review at the end
 - Forgetting to fill the gas tank before returning the van
 
-**Phase 3 Sign-Off:** Observer completes written debrief form and signs off. Manager reviews and approves advancement.
+**Phase 3 Sign-Off:** Observer completes written debrief form and signs off. Contractor reviews and approves advancement.
 
 ---
 
@@ -136,7 +136,7 @@ Before your first shadow shift, read every one of these documents in the vault. 
 - No personal phone use while driving the van
 - No substances before or during tours; no profanity or inappropriate conduct around guests
 - Post-tour reset completed before leaving (gas, clean van, PFDs hung, Piety St locked)
-- Social or Google post after tours encouraged (manager will brief on brand tone)
+- Social or Google post after tours encouraged (contractor will brief on brand tone)
 - Conduct violations: 1st = full equipment scrub + re-read this manual; 2nd = management review; 3rd = termination
 
 **Annual renewal:**
@@ -187,7 +187,7 @@ These are the questions a guide must answer without referring to notes. Use this
 
 ## Skills Checkpoint
 
-Sign-off required from manager or senior guide.
+Sign-off required from contractor or senior guide.
 
 | Skill | Standard | Signed Off |
 |---|---|---|

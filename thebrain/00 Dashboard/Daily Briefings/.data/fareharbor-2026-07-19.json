@@ -1,0 +1,1636 @@
+{
+  "_meta": {
+    "scraped_at": "2026-07-19T11:20:43.603Z",
+    "for_date": "2026-07-18",
+    "timezone": "America/Chicago",
+    "shortnames_attempted": [
+      "buffalobayoukayak",
+      "doorcountykayaktours",
+      "houstonpedalbarge",
+      "lonestarkayaktours",
+      "neworleanskayakswamptours",
+      "neworleanspedalbarge"
+    ]
+  },
+  "results": {
+    "buffalobayoukayak": {
+      "shortname": "buffalobayoukayak",
+      "pulled_at": "2026-07-19T11:17:49.416Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date",
+          "This Month"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/?date_filter=2026-07-18_2026-07-18",
+        "page_title": "Bookings | Buffalo Bayou Kayak Tours"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Sunday, July 19, 2026",
+          "Reference date: Sunday, July 19, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/payments/?date_range=2026-07-18_2026-07-18",
+        "page_title": "Payments | Buffalo Bayou Kayak Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Friday, June 19, 2026 – Sunday, July 19, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share",
+          "Learn about this report"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/payouts/",
+        "page_title": "Payouts | Buffalo Bayou Kayak Tours"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Buffalo Bayou Kayak Tours",
+          "Sunday, July 19, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Custom manifests",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "One Hour Watersports Rental",
+          "9:00 AM – 10:00 AM",
+          "Book"
+        ],
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/manifest/date/2026-07-19/availabilities/",
+        "page_title": "Sunday, July 19, 2026 | Buffalo Bayou Kayak Tours"
+      },
+      "errors": []
+    },
+    "doorcountykayaktours": {
+      "shortname": "doorcountykayaktours",
+      "pulled_at": "2026-07-19T11:18:10.893Z",
+      "bookings": {
+        "money": [],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 1
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "1",
+          "What's new?",
+          "Close",
+          "October is closer than you think — don’t miss out on Spark26",
+          "Spark is just a few months away, October 27th - 29th. Don’t miss your chance to book 1:1 sessions, connect with industry leaders, and grow your business with clarity and confidence.",
+          "Level up at Spark",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-07-18_2026-07-18",
+        "page_title": "Bookings | Door County Kayak"
+      },
+      "payments": {
+        "money": [],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 1
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "1",
+          "What's new?",
+          "Close",
+          "October is closer than you think — don’t miss out on Spark26",
+          "Spark is just a few months away, October 27th - 29th. Don’t miss your chance to book 1:1 sessions, connect with industry leaders, and grow your business with clarity and confidence.",
+          "Level up at Spark",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/payments/?date_range=2026-07-18_2026-07-18",
+        "page_title": "Payments | Door County Kayak"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 1
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "1",
+          "What's new?",
+          "Close",
+          "October is closer than you think — don’t miss out on Spark26",
+          "Spark is just a few months away, October 27th - 29th. Don’t miss your chance to book 1:1 sessions, connect with industry leaders, and grow your business with clarity and confidence.",
+          "Level up at Spark",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/payouts/",
+        "page_title": "Payouts | Door County Kayak"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | 3",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | 3",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "1 | 4",
+            "value": "$10.55",
+            "line": "$10.55"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$10.55",
+            "line": "$10.55"
+          },
+          {
+            "label": "1 | No",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Yes | Tuesday 07/20",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Yes | Backup day - Monday, July 20.",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "2 | 5",
+            "value": "$21.10",
+            "line": "-$21.10"
+          },
+          {
+            "label": "Yes | 7/19 Sunday morning before 12",
+            "value": "$21.10",
+            "line": "-$21.10"
+          },
+          {
+            "label": "Yes | I'm open to any tour on the same day.",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Yes | July 22 or 23",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "2 | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | 3",
+            "value": "$10.55",
+            "line": "-$10.55"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$10.55",
+            "line": "-$10.55"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No | Monday the 20th in the morning",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Yes | July 17",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | 4",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Solo traveler & have barely kayaked before! | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Yes | The following few days",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "4 | 3",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No | Eco or shipwreck",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "4 | Yes",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [
+          {
+            "label": "Settings | Help",
+            "value": 1
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 3
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 3
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 2
+          },
+          {
+            "label": "No-show | 2",
+            "value": 2
+          },
+          {
+            "label": "2 | 2",
+            "value": 1
+          },
+          {
+            "label": "2 | 1",
+            "value": 4
+          },
+          {
+            "label": "Set check-in per customer... | Mom is a beginner. She has been kayaking before but still a beginner.",
+            "value": 1
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": 2
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": 2
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 2
+          },
+          {
+            "label": "No-show | 2",
+            "value": 5
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": 2
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 3
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 4
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": 4
+          },
+          {
+            "label": "No-show | 4",
+            "value": 3
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": 4
+          }
+        ],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "1",
+          "What's new?",
+          "Close",
+          "October is closer than you think — don’t miss out on Spark26",
+          "Spark is just a few months away, October 27th - 29th. Don’t miss your chance to book 1:1 sessions, connect with industry leaders, and grow your business with clarity and confidence.",
+          "Level up at Spark",
+          "Dismiss",
+          "David Rack",
+          "Door County Kayak",
+          "Sunday, July 19, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: Default",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options"
+        ],
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/manifest/date/2026-07-19/availabilities/",
+        "page_title": "Sunday, July 19, 2026 | Door County Kayak"
+      },
+      "errors": []
+    },
+    "houstonpedalbarge": {
+      "shortname": "houstonpedalbarge",
+      "pulled_at": "2026-07-19T11:18:33.706Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date",
+          "This Month"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-07-18_2026-07-18",
+        "page_title": "Bookings | Houston Pedal Barge"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Sunday, July 19, 2026",
+          "Reference date: Sunday, July 19, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago.",
+          "You can minimize this window and it will load when it is ready. Or, you can use the link below to come back a little later and view it when it has finished:"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/payments/?date_range=2026-07-18_2026-07-18",
+        "page_title": "Payments | Houston Pedal Barge"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Friday, June 19, 2026 – Sunday, July 19, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share",
+          "Learn about this report"
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/payouts/",
+        "page_title": "Payouts | Houston Pedal Barge"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "Checked in | No-show",
+            "value": "$47.24",
+            "line": "$47.24"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$47.24",
+            "line": "$47.24"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Houston Pedal Barge",
+          "Sunday, July 19, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Custom manifests",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "Houston Party Barge Cruise",
+          "2:00 PM – 3:50 PM",
+          "If you want a guaranteed pedal station, book a private boat."
+        ],
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/manifest/date/2026-07-19/availabilities/",
+        "page_title": "Sunday, July 19, 2026 | Houston Pedal Barge"
+      },
+      "errors": []
+    },
+    "lonestarkayaktours": {
+      "shortname": "lonestarkayaktours",
+      "pulled_at": "2026-07-19T11:18:58.882Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-07-18_2026-07-18",
+        "page_title": "Bookings | Lone Star Kayak Tours"
+      },
+      "payments": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Sunday, July 19, 2026",
+          "Reference date: Sunday, July 19, 2026",
+          "Generating report...  Cancel",
+          "Share",
+          "Your report is taking a minute to generate. This can happen when you are loading a lot of data or for bookings that you created a while ago."
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/payments/?date_range=2026-07-18_2026-07-18",
+        "page_title": "Payments | Lone Star Kayak Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Friday, June 19, 2026 – Sunday, July 19, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/payouts/",
+        "page_title": "Payouts | Lone Star Kayak Tours"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Help",
+          "David Rack",
+          "Lone Star Kayak Tours",
+          "Sunday, July 19, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: w/ wpc",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "Two Hour Watersports Rental",
+          "10:00 AM – 12:00 PM",
+          "Book"
+        ],
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/manifest/date/2026-07-19/availabilities/",
+        "page_title": "Sunday, July 19, 2026 | Lone Star Kayak Tours"
+      },
+      "errors": []
+    },
+    "neworleanskayakswamptours": {
+      "shortname": "neworleanskayakswamptours",
+      "pulled_at": "2026-07-19T11:19:20.148Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-07-18_2026-07-18",
+        "page_title": "Bookings | New Orleans Kayak Swamp Tours"
+      },
+      "payments": {
+        "money": [
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Sunday, July 19, 2026",
+          "Reference date: Sunday, July 19, 2026",
+          "Report accurate as of a few seconds ago Refresh",
+          "Share"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payments/?date_range=2026-07-18_2026-07-18",
+        "page_title": "Payments | New Orleans Kayak Swamp Tours"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Legacy reports",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Friday, June 19, 2026 – Sunday, July 19, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/payouts/",
+        "page_title": "Payouts | New Orleans Kayak Swamp Tours"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "No-show | 2 No Transportation Required",
+            "value": "$325.00",
+            "line": "5 signed\t\t$325.00\t$0.00"
+          },
+          {
+            "label": "No-show | 2 No Transportation Required",
+            "value": "$0.00",
+            "line": "5 signed\t\t$325.00\t$0.00"
+          },
+          {
+            "label": "Michael Langowski | Maizie McClellan",
+            "value": "$195.00",
+            "line": "$195.00\t$0.00"
+          },
+          {
+            "label": "Michael Langowski | Maizie McClellan",
+            "value": "$0.00",
+            "line": "$195.00\t$0.00"
+          },
+          {
+            "label": "Kedren Turner | Craig Turner",
+            "value": "$130.00",
+            "line": "$130.00\t$0.00"
+          },
+          {
+            "label": "Kedren Turner | Craig Turner",
+            "value": "$0.00",
+            "line": "$130.00\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Kayak Swamp Tours",
+          "Sunday, July 19, 2026",
+          "Availabilities",
+          "All Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: End of Day!",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "Manchac Swamp Wildlife Kayak Tour",
+          "9:00 AM – 11:30 AM"
+        ],
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/manifest/date/2026-07-19/availabilities/",
+        "page_title": "Sunday, July 19, 2026 | New Orleans Kayak Swamp Tours"
+      },
+      "errors": []
+    },
+    "neworleanspedalbarge": {
+      "shortname": "neworleanspedalbarge",
+      "pulled_at": "2026-07-19T11:19:53.042Z",
+      "bookings": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Saved reports",
+          "Share",
+          "Advanced reports help",
+          "Bookings",
+          "Generate",
+          "Advanced",
+          "Custom Range",
+          "Today",
+          "This Week",
+          "This Week-to-date"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-07-18_2026-07-18",
+        "page_title": "Bookings | New Orleans Party Barge"
+      },
+      "payments": {
+        "money": [
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$119.77",
+            "line": "The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77\t\t\t\t\t\t\t\t$119.77"
+          },
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$119.77",
+            "line": "The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77\t\t\t\t\t\t\t\t$119.77"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$119.77",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$119.77",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | The Freaky Tiki\t7/25/26 at 12:00 PM – 1:45 PM\t$119.77",
+            "value": "$0.00",
+            "line": "Totals\t$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$119.77",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$119.77",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.77\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "Filters",
+          "Other options",
+          "–",
+          "Generate",
+          "Payments Summary",
+          "Payments made Sunday, July 19, 2026",
+          "Reference date: Sunday, July 19, 2026",
+          "Report accurate as of a few seconds ago Refresh",
+          "Share",
+          "Download CSV"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payments/?date_range=2026-07-18_2026-07-18",
+        "page_title": "Payments | New Orleans Party Barge"
+      },
+      "payouts": {
+        "money": [],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Overview",
+          "Performance",
+          "Operations",
+          "Customers and marketing",
+          "Accounting",
+          "Insights and Opportunities",
+          "Need help with reports?",
+          "(opens in new window)",
+          "Report type",
+          "–",
+          "Generate",
+          "Payouts",
+          "Friday, June 19, 2026 – Sunday, July 19, 2026",
+          "Payouts",
+          "Future Payouts",
+          "Bank Debits",
+          "Refund Reserve Transfers",
+          "Generating report...  Cancel",
+          "Share"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/payouts/",
+        "page_title": "Payouts | New Orleans Party Barge"
+      },
+      "manifest_today": {
+        "money": [
+          {
+            "label": "Kevin Willis | Takeya Brown",
+            "value": "$239.54",
+            "line": "$239.54\t$0.00"
+          },
+          {
+            "label": "Kevin Willis | Takeya Brown",
+            "value": "$0.00",
+            "line": "$239.54\t$0.00"
+          },
+          {
+            "label": "Late Arrival - 5 past the hour | 3 10%",
+            "value": "$312.70",
+            "line": "0 signed\t\t$312.70\t$0.00"
+          },
+          {
+            "label": "Late Arrival - 5 past the hour | 3 10%",
+            "value": "$0.00",
+            "line": "0 signed\t\t$312.70\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$118.00",
+            "line": "$118.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$118.00\t$0.00"
+          },
+          {
+            "label": "3 10% | 0 signed",
+            "value": "$194.70",
+            "line": "$194.70\t$0.00"
+          },
+          {
+            "label": "3 10% | 0 signed",
+            "value": "$0.00",
+            "line": "$194.70\t$0.00"
+          },
+          {
+            "label": "Isabel Amos | Chiquita Stewart",
+            "value": "$600.00",
+            "line": "$600.00\t$250.00"
+          },
+          {
+            "label": "Isabel Amos | Chiquita Stewart",
+            "value": "$250.00",
+            "line": "$600.00\t$250.00"
+          },
+          {
+            "label": "No-show | Late Arrival - 5 past the hour",
+            "value": "$296.77",
+            "line": "2 signed\t\t$296.77\t$0.00"
+          },
+          {
+            "label": "No-show | Late Arrival - 5 past the hour",
+            "value": "$0.00",
+            "line": "2 signed\t\t$296.77\t$0.00"
+          },
+          {
+            "label": "Fania Dambreville | Cheryl Robertson",
+            "value": "$119.77",
+            "line": "$119.77\t$0.00"
+          },
+          {
+            "label": "Fania Dambreville | Cheryl Robertson",
+            "value": "$0.00",
+            "line": "$119.77\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$177.00",
+            "line": "$177.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$177.00\t$0.00"
+          },
+          {
+            "label": "No-show | Late Arrival - 5 past the hour",
+            "value": "$315.00",
+            "line": "0 signed\t\t$315.00\t$0.00"
+          },
+          {
+            "label": "No-show | Late Arrival - 5 past the hour",
+            "value": "$0.00",
+            "line": "0 signed\t\t$315.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$63.00",
+            "line": "$63.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$63.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$126.00",
+            "line": "$126.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$126.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$63.00",
+            "line": "$63.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$63.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$63.00",
+            "line": "$63.00\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$63.00\t$0.00"
+          }
+        ],
+        "counts": [],
+        "headline": [
+          "FareHarbor",
+          "Bookings",
+          "Manifest",
+          "Reports",
+          "Items",
+          "Customers",
+          "Settings",
+          "Skipper - AI assistant",
+          "Help",
+          "David Rack",
+          "New Orleans Party Barge",
+          "Sunday, July 19, 2026",
+          "Availabilities",
+          "5 Items",
+          "Try new Manifest",
+          "Preview",
+          "Today",
+          "Previous day",
+          "Next day",
+          "Manifest: total manifest",
+          "Columns",
+          "Filter",
+          "Group by",
+          "Display options",
+          "Show customer information",
+          "Reorder columns",
+          "Download CSV",
+          "Print",
+          "The Freaky Tiki",
+          "12:00 PM – 1:45 PM"
+        ],
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/manifest/date/2026-07-19/availabilities/?items=116007,289593,294180,340933,488558",
+        "page_title": "Sunday, July 19, 2026 | New Orleans Party Barge"
+      },
+      "errors": []
+    }
+  },
+  "_errors": {}
+}

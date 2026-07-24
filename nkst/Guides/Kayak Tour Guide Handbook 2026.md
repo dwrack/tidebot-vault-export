@@ -26,6 +26,14 @@
 - Provide your phone number in case guests need assistance
 - Answer any last-minute questions
 
+### Rescheduling Requests
+You own communication with your own guests for your assigned tour, including any request to reschedule. If a guest texts or calls asking to move their tour date or time:
+- Acknowledge the request within **1 hour**
+- Resolve it — reschedule them in FareHarbor or coordinate with the office — the **same day**, and always before the original tour's scheduled departure
+- Do not just forward it and move on — this is your responsibility to close out, not the office's
+
+Guest comms coverage (phones/text/DMs through OpenCX or the Guest Comms contractor) does not handle rescheduling — any reschedule request that reaches them gets forwarded straight to you.
+
 ### Van Safety Check
 - Inspect tires and exterior of vehicle for safety concerns
 - Walk around the vehicle before driving

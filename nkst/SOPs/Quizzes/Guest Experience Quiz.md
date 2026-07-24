@@ -57,7 +57,7 @@ A guest from a Viator booking insists they don't need the shuttle because they h
 
 A) "Sure, here's the address. Meet us there."
 B) "All third-party bookings include shuttle service. It's part of the package and the way we keep the tour running smoothly. We'll pick you up at 740 N. Rampart. I promise the drive is part of the experience."
-C) "Let me check with my manager."
+C) "Let me check with my contractor."
 D) "That's not how we do things. Shuttle is mandatory."
 
 **Best answer: B**

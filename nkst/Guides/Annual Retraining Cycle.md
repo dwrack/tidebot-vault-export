@@ -1,5 +1,5 @@
 # NKST Annual Retraining Cycle
-*Owner: Manager | Triggered: January 1 each year + on major policy changes*
+*Owner: Contractor | Triggered: January 1 each year + on major policy changes*
 
 Every guide goes through a structured refresh once a year. This isn't busywork. It's how we keep the safety culture current, catch lapsed certs before they're a problem, and document that we trained our guides annually if we're ever asked in court.
 
@@ -11,7 +11,7 @@ The cycle aligns with LDWF permit renewal (Dec 31 expiration) and the natural ca
 
 | Month | Activity |
 |-------|----------|
-| Dec | Manager preps the new year's acknowledgement form, archives the prior year's policy versions, drafts coaching summary for each guide |
+| Dec | Contractor preps the new year's acknowledgement form, archives the prior year's policy versions, drafts coaching summary for each guide |
 | Jan 1 | GHL workflow fires: annual acknowledgement + quiz emails + SMS to all active guides |
 | Jan 1–31 | Guides re-read all docs, take quiz, submit acknowledgement |
 | Feb 1 | Any guide not completed is paused from scheduling |
@@ -34,7 +34,7 @@ Every guide re-reads the full document set:
 - SOP — Incident Investigation & Corrective Action
 - Guide Role — Outcome-Based Classification Rationale
 
-If anything has been updated since last year, the changes are highlighted in a "What's New for [YEAR]" summary doc that the manager preps in late December.
+If anything has been updated since last year, the changes are highlighted in a "What's New for [YEAR]" summary doc that the contractor preps in late December.
 
 ### 2. Comprehension Quiz
 
@@ -48,18 +48,18 @@ Sign the new year's acknowledgement covering all the above plus the ICA companio
 
 | Item | Required action |
 |------|-----------------|
-| LDWF Eco-Tour Permit | Renew before Dec 31 (the prior year); proof submitted to manager |
+| LDWF Eco-Tour Permit | Renew before Dec 31 (the prior year); proof submitted to contractor |
 | CPR/First Aid | If expiring within 12 months, schedule renewal class; submit cert |
-| MVR re-check | Manager pulls (with FCRA authorization on file); flag any new violations |
-| Driver's license | Confirm still valid, no suspensions; manager visually inspects |
-| GL insurance COI | Submit current Certificate of Insurance to manager |
+| MVR re-check | Contractor pulls (with FCRA authorization on file); flag any new violations |
+| Driver's license | Confirm still valid, no suspensions; contractor visually inspects |
+| GL insurance COI | Submit current Certificate of Insurance to contractor |
 | W-9 | Confirm on file and current; update if address or entity changed |
 | Payment info | Confirm Venmo / Zelle / PayPal still active and correct |
 | Background check | Refreshed every 3 years (with FCRA re-authorization) |
 
 ### 5. Coaching Conversation
 
-Manager has a 30-minute one-on-one with each guide in late January or early February. Topics:
+Contractor has a 30-minute one-on-one with each guide in late January or early February. Topics:
 
 - Year in review: what worked, what was hard
 - Any incidents, near-misses, complaints from the year
@@ -67,14 +67,14 @@ Manager has a 30-minute one-on-one with each guide in late January or early Febr
 - Guide's feedback to NKST (what's broken, what's working)
 - Any concerns we should know about
 
-Notes from the conversation go in `Guides/[Name]/coaching_notes_[YYYY].md`. Confidential between manager and guide unless something rises to the level of an incident.
+Notes from the conversation go in `Guides/[Name]/coaching_notes_[YYYY].md`. Confidential between contractor and guide unless something rises to the level of an incident.
 
 ### 6. Refresher Training Session (Optional But Recommended)
 
 In-person or remote group session, 1–2 hours, in late February or March before the busy season. Format:
 
 - 15 min: What's new this year (policy updates, new SOPs)
-- 30 min: Scenario walkthroughs (real incidents from prior year, anonymized; manager and guides talk through what they would have done)
+- 30 min: Scenario walkthroughs (real incidents from prior year, anonymized; contractor and guides talk through what they would have done)
 - 15 min: Q&A and feedback
 - 30 min: Hands-on (paddle signal demo, capsize re-entry practice if water available, PFD fitting refresher)
 

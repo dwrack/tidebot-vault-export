@@ -199,9 +199,9 @@ Let them answer. Don't rush to the next group. This question:
 That's a seed. Water it with the post-tour sequence.
 
 **For returning guests — the annual close:**
-> *"You keep coming back — and I love that. Is there something you haven't done yet that you want to do next time? Sunset paddle? Fall colors on the inland route? Tell me now and I'll make a note."*
+> *"You keep coming back — and I love that. Is there something you haven't done yet that you want to do next time? Door Bluff Shipwreck? Fall colors on the inland route? Tell me now and I'll make a note."*
 
-Then actually log it. Text the team before you leave the launch: *"[Name], 3rd visit, wants sunset tour next time."* Into GHL it goes.
+Then actually log it. Text the team before you leave the launch: *"[Name], 3rd visit, wants Door Bluff Shipwreck next time."* Into GHL it goes.
 
 **The photo close:**
 Before guests leave — offer to take a group photo. Not just suggest it. *Take the phone and do it.*
@@ -278,7 +278,7 @@ That's not marketing. That's a relationship.
 
 ### After Every Tour
 - [ ] Log any notable guest moments in GHL before you leave the launch
-- [ ] Log returning guest requests ("wants sunset tour next time")
+- [ ] Log returning guest requests ("wants Door Bluff Shipwreck next time")
 - [ ] Send personal text for any exceptional moments that day
 - [ ] Feed any great photos/stories to Nya for social media
 

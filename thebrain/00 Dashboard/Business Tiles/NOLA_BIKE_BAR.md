@@ -4,19 +4,19 @@ display_name: NOLA Bike Bar
 city: New Orleans
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 7
+lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Revive-or-sell decision pending (Jun 2026)"
-updated: 2026-07-06
+alert: "data sources offline this session"
+updated: 2026-07-24
 tile_type: business
 ---
 
+
 <!-- live:start -->
-- Revive-or-sell decision in progress. Exploring sale to other NOLA tour operators.
-- No FH bookings, no ad spend. Street vehicle (3 bikes), not a vessel.
-- GSC (Jun 28-Jul 5): "nola bike bar" and "party bike new orleans" #1. Clean.
-- GBP: Old reviews, all replied. No new activity.
+- **Degraded session 07-24.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG) were offline this run. Brief built from Gmail + FareHarbor cache only.
+- No FareHarbor booking feed for this business. No fresh marketing data pulled this session.
+- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
 <!-- live:end -->
 
 ## Quick links

@@ -9,13 +9,13 @@
 
 Before paperwork, before orientation, before anything: every new hire reads **How We Run Things**.
 
-This is a short doc that covers the five things that are true across every business and every role. It takes 5 minutes. If you'd rather listen, ask your manager to walk you through it, send a voice memo with questions, or check the Slack channel for the audio version.
+This is a short doc that covers the five things that are true across every business and every role. It takes 5 minutes. If you'd rather listen, ask your contractor to walk you through it, send a voice memo with questions, or check the Slack channel for the audio version.
 
 **Location:** [[How We Run Things — NKST]]
 
 - [ ] New hire has read or listened to the culture doc
 - [ ] New hire has completed the scenario quiz: [[Culture Quiz — NKST]]
-- [ ] Manager has walked through any scenarios that sparked good conversation
+- [ ] Contractor has walked through any scenarios that sparked good conversation
 
 ---
 
@@ -45,26 +45,32 @@ This is a short doc that covers the five things that are true across every busin
 - Confirm they've signed before scheduling any shifts
 - Collect W-9 via email reply or DocuSeal attachment
 
-### Step 2: Orientation Day (In-Person)
+### Step 2: Slack & Accountability Setup
+- Invite new guide to `#new-orleans-kayak-swamp-tours` — do this before the shadow shift, not after
+- Explain the pre/post-tour guide log with TideBot: **no pre-tour log + no post-tour log = no pay for that tour.** This is already enforced for active guides; say it out loud on day one so it's never a surprise.
+- Explain shift-coverage responsibility: if the guide can't make a scheduled tour, finding their own replacement from the active roster and updating the FareHarbor crew assignment is on them, not on management. Management doesn't broker swaps.
+- Confirm guide understands Slack, not text threads, is the channel of record for schedule changes, incident flags, and day-to-day coordination
+
+### Step 3: Orientation Day (In-Person)
 - Walk through the Pre-Tour Preparation SOP with new kayak guide
 - Equipment tour: where everything lives, how to inspect, how to store
 - Emergency procedures: who to call, where the first aid kit is, incident report process
-- Safety briefing practice — new hire delivers it, manager gives feedback
+- Safety briefing practice — new hire delivers it, contractor gives feedback
 - Guest communication expectations: tone, response time, how to handle complaints
 
-### Step 3: Shadow Shift (Shift 1)
+### Step 4: Shadow Shift (Shift 1)
 - New kayak guide observes experienced kayak guide for full tour
 - No independent guest interaction — observation only
 - Debrief after: questions, feedback, go/no-go for next step
 
-### Step 4: Assisted Shift (Shifts 2-3)
+### Step 5: Assisted Shift (Shifts 2-3)
 - New kayak guide leads with experienced kayak guide present
 - Experienced guide steps in only if safety concern or guest issue
-- Manager reviews post-shift feedback
+- Contractor reviews post-shift feedback
 
-### Step 5: Solo Sign-Off
-- Manager confirms: guest handling ✅, safety procedures ✅, gear competency ✅
-- Sign-off documented in this note (add date and manager name below)
+### Step 6: Solo Sign-Off
+- Contractor confirms: guest handling ✅, safety procedures ✅, gear competency ✅
+- Sign-off documented in this note (add date and contractor name below)
 - Guide added to scheduling rotation
 
 ## ✅ Solo Sign-Off Log

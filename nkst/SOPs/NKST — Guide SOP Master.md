@@ -499,6 +499,33 @@ The rule of thumb: your guests are on vacation. They came for the swamp, the wil
 
 ---
 
+## Part 10: Extended & Whitney Plantation Combo Tours
+
+*Added 2026-07-18. This section was previously missing entirely — Parts 1-9 were written only for the standard 2-hour tour. Everything in Parts 1, 2, 4.2-4.8 (pickup, waivers, safety briefing, paddle demo, on-water procedure) still applies on Combo/Extended days. This section covers only what's different.*
+
+### 10.1 — Extended Manchac (4hr, no plantation stop)
+
+Same launch, same route, same procedures as the standard tour — just a longer paddle with more content stops. No additional guide duties beyond the standard Part 4/5 checklist. Guide pay for Extended tours is $200 flat, vs. $100-125 informal range for the standard 2hr tour (see Part 9 — **note:** neither figure is currently written into a signed guide pay agreement; treat as informal practice until the pay structure doc is finalized).
+
+### 10.2 — Whitney Plantation Combo (8hr)
+
+**Pickup time — NEEDS CONFIRMATION.** Three vault documents currently disagree: the Guide Quick Reference Card and FAQ say 7:45am, `Operations/Tour Pricing & Info.md` says 9:00am, and the Operations Contractor Briefing doc says 8am. **Do not treat any of these as final** — confirm the correct time with management before quoting it to a guest, and flag this doc for a single-source correction once confirmed.
+
+**Admission:** $25/person, **prepaid online in advance** by management before the tour — guides do not carry cash or a card for Whitney admission on the day. If a guide arrives and admission wasn't prepaid, contact management immediately rather than paying out of pocket.
+
+**Lunch: guests pay for their own lunch.** It is NOT included in the $195 price, regardless of what older marketing materials or archived notes say (an outdated internal note references a lunch stop at B&C Seafood tied to a former $215 price point — that pricing no longer applies). Guide's job re: lunch is limited to: tell guests in advance (night-before text or at pickup) that lunch is on them, and manage timing so the stop doesn't run long.
+
+**Guide's role during the Whitney Plantation portion — NEEDS MANAGEMENT INPUT.** This has never been documented. Whitney Plantation is referenced elsewhere in NKST's records as a "FareHarbor-connected partner," suggesting guests may go through Whitney's own guided tour separately while the NKST guide waits — but that has not been confirmed as actual procedure. **Do not treat this as settled until management fills it in.** Open questions to resolve:
+- Does the guide accompany guests into the Whitney tour, or wait with the van?
+- If waiting: for roughly how long, and is there anything the guide should be doing during that window (van check, next-stop prep, etc.)?
+- Is there a specific check-in process with Whitney staff on arrival?
+
+**Van duty:** no Combo-specific van duty exists beyond the standard post-tour cleaning in 4.9 — apply the same standard, just note it's a longer day so plan fuel/timing accordingly.
+
+**Full day itinerary:** not yet documented beyond pickup time and that it includes both a Whitney Plantation stop and a Manchac kayak stop. Plantation-tour duration, drive time between stops, and kayak-portion duration/timing all need to be filled in once the guide-role question above is resolved.
+
+---
+
 ## Appendix: Quick Reference Card
 
 *(Print and keep in guide bag)*
