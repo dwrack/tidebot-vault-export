@@ -1,28 +1,28 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-07-24 (degraded — marketing MCPs offline this run)*
+*Last refresh: 2026-07-25 (degraded — marketing MCPs offline, FH scrape day 5)*
 
 ## Right now
-- [[Daily Briefings/2026-07-24|Today's brief]]
+- [[Daily Briefings/2026-07-25|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Fix the FareHarbor scraper auth — now 4 days blind on revenue.** 403 on all six shortnames 07-21/07-22, and the internal 07-23 update confirms it failed again. Last good pull is Monday 07-20. Top item three briefs running — needs a real fix today, not another day of noticing. Likely the email-login rollout killed the session.
-2. **Reconnect the marketing MCPs.** GBP, Google Ads, Meta, GSC, GA4, IG and Playwright were all offline this run, so today's brief is Gmail + FH cache only. No reviews, ad spend, or organic checked today. Run `claude mcp` / `/mcp` to restore the full brief.
-3. **Carried forward, unverified:** pause Gravity Trails NOLA (`4378232023`, 5+ zero-conv days), finish Google Ads verification on `237-223-4368` (pauses Aug 22), fix HPB `2986009791` conv value stuck at $1.00. Ads MCP was down, so none could be re-checked.
+1. **Fix the FareHarbor scraper — day 5 blind on revenue.** 403 every day 07-21 through 07-24; today's file failed before writing output. Last good pull is Monday 07-20. It's a peak-season Saturday and you have zero booking/revenue visibility. Top item three briefs running — fix it today. Likely the email-login rollout killed the saved session.
+2. **Reconnect the marketing MCPs.** GBP, Google Ads, Meta, GSC, GA4, IG and Playwright all offline this run, so today's brief is Gmail + FH cache only. No reviews, ad spend, or organic checked. Run `claude mcp list` / `/mcp` to restore the full brief.
+3. **Carried forward, unverified:** pause Gravity Trails NOLA (`4378232023`, 5+ zero-conv days), finish Google Ads verification on the account that pauses Aug 22, fix HPB `2986009791` conv value stuck at $1.00. Ads MCP down 3rd day, so none could be re-checked. Also: Homebase flagged Lea Rosner (DCKT) over 40 hrs — glance at the schedule.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 6 | ~12 | -6 |
+| Gmail unread (main inbox, 3d) | 17 | ~12 | +5 |
 | Unreplied GBP reviews (all biz) | — (GBP offline) | — | — |
-| FH bookings (6 tracked biz, booked) | — (scrape 403, day 4) | 63.6 | — |
-| FH revenue (6 tracked biz, booked $) | — (scrape 403, day 4) | $9,531 | — |
+| FH bookings (6 tracked biz, booked) | — (scrape 403, day 5) | 63.6 | — |
+| FH revenue (6 tracked biz, booked $) | — (scrape 403, day 5) | $9,531 | — |
 | Total ad spend (Google + Meta) | — (Ads/Meta offline) | $441.69 | — |
 | Total ad-attributed conversions | — (Ads/Meta offline) | ~18.7 | — |
 <!-- pulse:end -->
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-07-24]] (today)
-- [[Daily Briefings/2026-07-23]] (1 day ago)
-- [[Daily Briefings/2026-07-22]] (2 days ago)
-- [[Daily Briefings/2026-07-21]] (3 days ago)
-- [[Daily Briefings/2026-07-19]] (5 days ago)
-- [[Daily Briefings/2026-07-18]] (6 days ago)
-- [[Daily Briefings/2026-07-17]] (7 days ago)
+- [[Daily Briefings/2026-07-25]] (today)
+- [[Daily Briefings/2026-07-24]] (1 day ago)
+- [[Daily Briefings/2026-07-23]] (2 days ago)
+- [[Daily Briefings/2026-07-22]] (3 days ago)
+- [[Daily Briefings/2026-07-21]] (4 days ago)
+- [[Daily Briefings/2026-07-19]] (6 days ago)
+- [[Daily Briefings/2026-07-18]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps
