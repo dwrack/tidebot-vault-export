@@ -1,30 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-07-25 (degraded — marketing MCPs offline, FH scrape day 5)*
+*Last refresh: 2026-07-26 (marketing MCPs back online; FH scrape still down, day 6)*
 
 ## Right now
-- [[Daily Briefings/2026-07-25|Today's brief]]
+- [[Daily Briefings/2026-07-26|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Fix the FareHarbor scraper — day 5 blind on revenue.** 403 every day 07-21 through 07-24; today's file failed before writing output. Last good pull is Monday 07-20. It's a peak-season Saturday and you have zero booking/revenue visibility. Top item three briefs running — fix it today. Likely the email-login rollout killed the saved session.
-2. **Reconnect the marketing MCPs.** GBP, Google Ads, Meta, GSC, GA4, IG and Playwright all offline this run, so today's brief is Gmail + FH cache only. No reviews, ad spend, or organic checked. Run `claude mcp list` / `/mcp` to restore the full brief.
-3. **Carried forward, unverified:** pause Gravity Trails NOLA (`4378232023`, 5+ zero-conv days), finish Google Ads verification on the account that pauses Aug 22, fix HPB `2986009791` conv value stuck at $1.00. Ads MCP down 3rd day, so none could be re-checked. Also: Homebase flagged Lea Rosner (DCKT) over 40 hrs — glance at the schedule.
+1. **FareHarbor scraper still dead — ~6 days blind on revenue.** Last good cache 07-21; no file since. Peak-season Saturday, zero booking/revenue visibility across all 6 FH businesses. Almost certainly the email-login rollout killed the saved session at `~/Projects/fareharbor-brief/scrape.js`. Re-auth today.
+2. **Gravity Trails NOLA Google Ads (`4378232023`) — $852.59/7d, 0 tracked conversions.** Fix the conversion import (likely broken NOLA Purchase pixel) or pause. Same for HPB `2986009791` ($129.72/7d, ROAS 0.02, conv value stuck ~$1.00).
+3. **AKT 4★ today flags a real ops pattern:** sketchy/dark launch path + pricey parking at the Austin dock — same complaint behind two earlier 1-stars. Reply + address the launch lighting. Then clear 11 unreplied 5★ across NPB/DCKT/HPB/Buffalo Bayou/E&E. (Ops: Lucas Holtz DCKT over 40 hrs — check schedule.)
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox, 3d) | 17 | ~12 | +5 |
-| Unreplied GBP reviews (all biz) | — (GBP offline) | — | — |
-| FH bookings (6 tracked biz, booked) | — (scrape 403, day 5) | 63.6 | — |
-| FH revenue (6 tracked biz, booked $) | — (scrape 403, day 5) | $9,531 | — |
-| Total ad spend (Google + Meta) | — (Ads/Meta offline) | $441.69 | — |
-| Total ad-attributed conversions | — (Ads/Meta offline) | ~18.7 | — |
+| Gmail unread (main inbox) | 7 | ~12 | -5 |
+| Unreplied GBP reviews (all biz) | 11 | — | — |
+| FH bookings (6 tracked biz, booked) | — (scrape down, day 6) | 63.6 | — |
+| FH revenue (6 tracked biz, booked $) | — (scrape down, day 6) | $9,531 | — |
+| Total ad spend (Google + Meta) | ~$445 | $441.69 | ~flat |
+| Total ad-attributed conversions | ~22 | ~18.7 | +3 |
 <!-- pulse:end -->
 *Several ad accounts are shared across businesses (LSKT+AKT; NPB+NKST+Bike Bar+Admire NOLA; DCKT+DC Ebike+Cave Point; HPB+Buffalo Bayou) — spend can't always be split per-business. See today's brief for detail.
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-07-25]] (today)
-- [[Daily Briefings/2026-07-24]] (1 day ago)
-- [[Daily Briefings/2026-07-23]] (2 days ago)
-- [[Daily Briefings/2026-07-22]] (3 days ago)
-- [[Daily Briefings/2026-07-21]] (4 days ago)
-- [[Daily Briefings/2026-07-19]] (6 days ago)
-- [[Daily Briefings/2026-07-18]] (7 days ago)
+- [[Daily Briefings/2026-07-26]] (today)
+- [[Daily Briefings/2026-07-25]] (1 day ago)
+- [[Daily Briefings/2026-07-24]] (2 days ago)
+- [[Daily Briefings/2026-07-23]] (3 days ago)
+- [[Daily Briefings/2026-07-22]] (4 days ago)
+- [[Daily Briefings/2026-07-21]] (5 days ago)
+- [[Daily Briefings/2026-07-19]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

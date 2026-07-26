@@ -1,18 +1,48 @@
 {
   "_meta": {
-    "generated_at": "2026-07-26T11:17:39.024Z",
+    "generated_at": "2026-07-26T18:49:08.439Z",
     "for_date": "2026-07-25",
     "range": "last-7-days",
     "timezone": "America/Chicago",
     "revenue_field": "costs.total_cost.total"
   },
-  "results": {},
-  "errors": {
-    "buffalobayoukayak": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
-    "doorcountykayaktours": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
-    "houstonpedalbarge": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
-    "lonestarkayaktours": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
-    "neworleanskayakswamptours": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
-    "neworleanspedalbarge": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'"
-  }
+  "results": {
+    "buffalobayoukayak": {
+      "booked_count": 12,
+      "booked_revenue": 1457,
+      "ran_count": 15,
+      "ran_revenue": 1591
+    },
+    "doorcountykayaktours": {
+      "booked_count": 30,
+      "booked_revenue": 2973,
+      "ran_count": 25,
+      "ran_revenue": 5846
+    },
+    "houstonpedalbarge": {
+      "booked_count": 1,
+      "booked_revenue": 60,
+      "ran_count": 13,
+      "ran_revenue": 3479
+    },
+    "lonestarkayaktours": {
+      "booked_count": 2,
+      "booked_revenue": 292,
+      "ran_count": 0,
+      "ran_revenue": 0
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 3,
+      "booked_revenue": 660,
+      "ran_count": 3,
+      "ran_revenue": 540
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 16,
+      "booked_revenue": 5574,
+      "ran_count": 62,
+      "ran_revenue": 20045
+    }
+  },
+  "errors": {}
 }

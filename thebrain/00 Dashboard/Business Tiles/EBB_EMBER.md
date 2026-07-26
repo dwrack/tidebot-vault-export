@@ -6,17 +6,17 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data sources offline this session"
-updated: 2026-07-25
+status: green
+alert: null
+updated: 2026-07-26
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Degraded session 07-25.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG, Playwright) were offline this run. Brief built from Gmail + FareHarbor cache only.
-- No FareHarbor booking feed for this business. No fresh marketing data pulled this session.
-- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
+- Organic star of the week: 07-17 floating-sauna reel hit **2,998 reach / 1,856 likes / 25 comments** - viral outlier, replicate the format.
+- Now at perfect **5.0 across 100 reviews**; 1 unreplied 5-star (Elena Jakobsson 07-19). Member Appreciation Night Aug 6 promoted.
+- No Meta ad acct (never set up). No FH scrape dependency for status.
 <!-- live:end -->
 
 ## Quick links

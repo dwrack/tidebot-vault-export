@@ -4,19 +4,19 @@ display_name: Houston Pedal Barge
 city: Houston
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 8
-ad_spend_yday: 0
+lead_time_days: 0
+ad_spend_yday: 48
 status: yellow
-alert: "data stale - FH scrape 403 (day 5)"
-updated: 2026-07-25
+alert: "data stale - FH scrape down (day 6)"
+updated: 2026-07-26
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Degraded session 07-25.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG, Playwright) were offline this run. Brief built from Gmail + FareHarbor cache only.
-- FareHarbor scrape 403 for a 5th straight day (07-21 through 07-24). Last good pull Monday 07-20: 1 booked / $60. Bookings/revenue blind since.
-- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
+- Google Ads conversion tracking effectively dead: 7d $129.72, 2 conv, ROAS 0.02, conv value ~$1.00. Yesterday $20, 0 conv. Fix import or pull budget.
+- 3 unreplied 5-star (Tandrea Jackson, Le'Kayla Smith, Shonesty Kinsey - all 07-25) - good counter to the June rain-cancel cluster.
+- Meta Bat Bridge Traffic $19.33 -> 218 link clicks is carrying Houston. TikTok not pulled this run.
 <!-- live:end -->
 
 ## Quick links

@@ -4,19 +4,19 @@ display_name: Lone Star Kayak Tours
 city: Austin
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 3
-ad_spend_yday: 0
+lead_time_days: 0
+ad_spend_yday: 138
 status: yellow
-alert: "data stale - FH scrape 403 (day 5)"
-updated: 2026-07-25
+alert: "data stale - FH scrape down (day 6)"
+updated: 2026-07-26
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Degraded session 07-25.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG, Playwright) were offline this run. Brief built from Gmail + FareHarbor cache only.
-- FareHarbor scrape 403 for a 5th straight day (07-21 through 07-24). Last good pull Monday 07-20: 4 booked / $720. Bookings/revenue blind since.
-- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
+- Google Ads **7.84 ROAS** yesterday ($137.59, 18.4% CTR) - best performer in the portfolio. 7d 5.99.
+- GSC: 'kayaking austin' stuck at position 10 (92 impressions) - one push to page 1 = real clicks. Opportunity.
+- Austin Meta acct had no delivery yesterday - confirm paused vs broken.
 <!-- live:end -->
 
 ## Quick links

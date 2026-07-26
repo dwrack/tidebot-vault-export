@@ -7,16 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape 403 (day 5)"
-updated: 2026-07-25
+alert: "data stale - FH scrape down (day 6)"
+updated: 2026-07-26
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Degraded session 07-25.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG, Playwright) were offline this run. Brief built from Gmail + FareHarbor cache only.
-- FareHarbor scrape 403 for a 5th straight day (07-21 through 07-24). Last good pull Monday 07-20: 2 booked / $357. Bookings/revenue blind since.
-- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
+- 2 unreplied 5-star (Ashiyana Chander 07-19, Siobhan Carmody 07-18). Guides Chad/Sebastian/Josh named repeatedly - strong crew.
+- Shares Houston Meta acct. Steady daily IG (sunrise/skyline paddle content).
 <!-- live:end -->
 
 ## Quick links

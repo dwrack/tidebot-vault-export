@@ -7,16 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data sources offline this session"
-updated: 2026-07-25
+alert: "data stale - FH scrape down (day 6)"
+updated: 2026-07-26
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Degraded session 07-25.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG, Playwright) were offline this run. Brief built from Gmail + FareHarbor cache only.
-- No FareHarbor booking feed for this business. No fresh marketing data pulled this session.
-- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
+- GSC: ranking for 'plantation tours new orleans' cluster - funnel bait working (pos 1-4 on several).
+- Shares NOLA Meta acct. No new reviews.
 <!-- live:end -->
 
 ## Quick links

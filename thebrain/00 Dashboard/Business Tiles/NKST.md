@@ -4,19 +4,19 @@ display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 6
+lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape 403 (day 5)"
-updated: 2026-07-25
+alert: "data stale - FH scrape down (day 6)"
+updated: 2026-07-26
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Degraded session 07-25.** All live data sources (GBP, Google Ads, Meta, GSC, GA4, IG, Playwright) were offline this run. Brief built from Gmail + FareHarbor cache only.
-- FareHarbor scrape 403 for a 5th straight day (07-21 through 07-24). Last good pull Monday 07-20: 2 booked / $680. Bookings/revenue blind since.
-- Nothing new in Gmail needing a reply. Reviews/ads/organic not checked today — reconnect the marketing MCPs to restore the full read.
+- GA4: 154 sessions yesterday, IG top source (104). Shares NOLA Google acct (`4378232023`) which logged 0 conversions on $98.74 - tracking likely broken.
+- IG (kayaknola) could not be pulled - permission error (code 10), needs token fix.
+- GSC pulling informational alligator/crocodile long-tail (answer traffic, low CTR). Airboat-vs-kayak watched page still flat vs baseline.
 <!-- live:end -->
 
 ## Quick links
