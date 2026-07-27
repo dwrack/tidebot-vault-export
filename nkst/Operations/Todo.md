@@ -53,6 +53,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Investigate recurring issues with kayak seats and address necessary repairs or replacements. _(Stephanie (audio log), 2026-07-27)_
 - [ ] [Guide log] Locate missing gas card for the white Ford Transit van. _(river (audio log), 2026-07-26)_
 - [ ] [Guide log] Revisit discussion about implementing an auto-gratuity for groups larger than five or six during an all-staff meeting. _(River (audio log), 2026-07-18)_
 - [ ] [Guide log] Revisit discussion about implementing an auto-gratuity policy for groups of five or more, as a party of five did not tip. _(River (audio log), 2026-07-18)_
