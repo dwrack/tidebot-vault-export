@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## This Week
 
+- [ ] [[Creator Outreach Program]] — send 27 warm-lead DMs (needs: send OK, discount %, who sends)
 - [ ] [[Google Ads Cleanup — FareHarbor Tracker]]
 - [ ] [[Meta Ads Strategy — All Businesses]]
 - [ ] [[NKST — Facebook Ads Strategy & Copy]]
