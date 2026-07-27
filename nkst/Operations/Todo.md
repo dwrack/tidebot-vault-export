@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 - [ ] [Guide log] Investigate the missing boat from the second trailer behind the hotel. _(Amanchek (audio log), 2026-07-17)_
 - [ ] [Guide log] Notify management about the baby gator at the launch area. _(Amancha (audio log), 2026-07-17)_
 - [ ] [Guide log] Inspect and address the new crack on the driver's side windshield of the black transit van, checking for warranty coverage, as it needs to be addressed before it spreads. _(Stephanie (audio log), 2026-07-16)_
