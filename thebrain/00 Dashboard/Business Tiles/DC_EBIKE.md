@@ -7,15 +7,14 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape down (day 6)"
-updated: 2026-07-26
+alert: "marketing MCPs offline - no data this run"
+updated: 2026-07-27
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- GSC (doorcountykayak.com) returned 0 rows for the window - check property/indexing given the staged SEO fixes for this domain.
-- Shares DC Meta/Google accts. No new reviews.
+- No FH tracking. GBP / GSC / Meta offline this run — nothing pulled.
 <!-- live:end -->
 
 ## Quick links

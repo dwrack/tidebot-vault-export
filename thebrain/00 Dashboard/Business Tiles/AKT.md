@@ -7,15 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape down (day 6)"
-updated: 2026-07-26
+alert: "marketing MCPs offline - no data this run"
+updated: 2026-07-27
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- Fresh 4-star today (Jordan Pedalino): guide praised, but sketchy/dark launch path + pricey parking - SAME issue behind two earlier 1-stars. Reply + address launch lighting.
-- Shares Austin acct (LSKT). GSC bat-tour queries present.
+- No FH tracking. GBP / Ads / IG offline this run.
+- Carryover: unaddressed 4★ about the dark launch path + parking at the Austin dock — reply once GBP is back.
 <!-- live:end -->
 
 ## Quick links

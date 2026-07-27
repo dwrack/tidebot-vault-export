@@ -7,15 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape down (day 6)"
-updated: 2026-07-26
+alert: "data stale - FH scrape missing"
+updated: 2026-07-27
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- 2 unreplied 5-star (Ashiyana Chander 07-19, Siobhan Carmody 07-18). Guides Chad/Sebastian/Josh named repeatedly - strong crew.
-- Shares Houston Meta acct. Steady daily IG (sunrise/skyline paddle content).
+- All marketing channels dark this run. Numbers from last clean FH (07-25).
+- Last clean FH 07-25: 12 booked / $1,457, ran 15 / $1,591.
+- 07-26: Two-Hour Watersports Rental $70.36; next payout 07-27 $584.54.
 <!-- live:end -->
 
 ## Quick links

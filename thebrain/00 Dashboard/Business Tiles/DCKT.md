@@ -4,19 +4,19 @@ display_name: Door County Kayak Tours
 city: Door County
 bookings_today: 0
 revenue_today: 0
-lead_time_days: 38
-ad_spend_yday: 126
+lead_time_days: 0
+ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape down (day 6)"
-updated: 2026-07-26
+alert: "data stale - FH scrape missing"
+updated: 2026-07-27
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- Google Ads $111.03 yesterday, 2.05 direct ROAS but $2,423 all-conv value (phone/offline strong); 7d ROAS 3.96. Meta Detours retargeting 19.6x ($3.62 -> $71.05).
-- 3 unreplied 5-star (Dustin Pieper 07-24, Stef McGraw 07-23, Mary Roberts 07-23).
-- GSC #1 'door county kayak tours', strong category coverage. Ops: Lucas Holtz clocked in >40 hrs (Homebase) - check schedule.
+- All marketing channels dark this run. Numbers from last clean FH (07-25).
+- Last clean FH 07-25: **30 booked / $2,973**, ran **25 / $5,846** — 2nd best of the day.
+- 07-26: a -$385.76 refund posted on a 07-24 Cave Point tour. Homebase 07-27 report: 36.4 hrs, labor 16.8%.
 <!-- live:end -->
 
 ## Quick links

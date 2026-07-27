@@ -7,15 +7,14 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape down (day 6)"
-updated: 2026-07-26
+alert: "marketing MCPs offline - no data this run"
+updated: 2026-07-27
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- GSC: ranking for 'plantation tours new orleans' cluster - funnel bait working (pos 1-4 on several).
-- Shares NOLA Meta acct. No new reviews.
+- No FH tracking. GBP / GSC / Meta / IG and the Admire NOLA Gmail all offline this run — nothing pulled.
 <!-- live:end -->
 
 ## Quick links

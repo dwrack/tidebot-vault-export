@@ -1,30 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-07-26 (marketing MCPs back online; FH scrape still down, day 6)*
+*Last refresh: 2026-07-27 (degraded run — 6 MCP servers + business Gmail offline; FH scrape still failing)*
 
 ## Right now
-- [[Daily Briefings/2026-07-26|Today's brief]]
+- [[Daily Briefings/2026-07-27|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **FareHarbor scraper still dead — ~6 days blind on revenue.** Last good cache 07-21; no file since. Peak-season Saturday, zero booking/revenue visibility across all 6 FH businesses. Almost certainly the email-login rollout killed the saved session at `~/Projects/fareharbor-brief/scrape.js`. Re-auth today.
-2. **Gravity Trails NOLA Google Ads (`4378232023`) — $852.59/7d, 0 tracked conversions.** Fix the conversion import (likely broken NOLA Purchase pixel) or pause. Same for HPB `2986009791` ($129.72/7d, ROAS 0.02, conv value stuck ~$1.00).
-3. **AKT 4★ today flags a real ops pattern:** sketchy/dark launch path + pricey parking at the Austin dock — same complaint behind two earlier 1-stars. Reply + address the launch lighting. Then clear 11 unreplied 5★ across NPB/DCKT/HPB/Buffalo Bayou/E&E. (Ops: Lucas Holtz DCKT over 40 hrs — check schedule.)
+1. **Data pipeline down — fix before anything else.** 6 MCP servers (GBP, Google Ads, Meta, GSC/GA4, IG, Playwright) failed to connect this run, business Gmail inboxes are offline, and the FareHarbor scraper has failed 5 of the last 7 nights (ENOENT `reports-advanced-body.json` + 403s). Today's FH file never wrote. Re-auth MCPs interactively and check `~/Projects/fareharbor-brief/scrape.js`.
+2. **Lone Star Kayak (Austin) looks stalled.** 07-25 ran 0 tours / $0; 07-26 a rental was booked then instantly refunded and the manifest read "No availabilities." Two peak-summer days with zero tours run. Check if LSKT availabilities are open, or if the boat/staffing is down.
+3. **Houston Pedal Barge funnel is dry.** 07-25 took just 1 new booking ($60) while running 13 tours ($3,479). It's coasting on existing reservations. Restart the IG + TikTok short-form engine for @houstonpedalbarge once Meta/TikTok access is back.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday | 7-day avg | Δ |
+| Signal | Yesterday (07-26) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 7 | ~12 | -5 |
-| Unreplied GBP reviews (all biz) | 11 | — | — |
-| FH bookings (6 tracked biz, booked) | — (scrape down, day 6) | 63.6 | — |
-| FH revenue (6 tracked biz, booked $) | — (scrape down, day 6) | $9,531 | — |
-| Total ad spend (Google + Meta) | ~$445 | $441.69 | ~flat |
-| Total ad-attributed conversions | ~22 | ~18.7 | +3 |
+| Gmail unread (personal inbox) | 7 | ~12 | -5 |
+| Unreplied GBP reviews (all biz) | — (no GBP access) | — | — |
+| FH bookings booked (6 tracked biz) | — (scrape failed 07-26) | ~64 (last clean 07-25) | — |
+| FH revenue booked (6 tracked biz) | — (scrape failed 07-26) | ~$11,016 (07-25) | — |
+| Total ad spend (Google + Meta) | — (no ad access) | — | — |
+| Total ad-attributed conversions | — (no ad access) | — | — |
 <!-- pulse:end -->
 *Several ad accounts are shared across businesses (LSKT+AKT; NPB+NKST+Bike Bar+Admire NOLA; DCKT+DC Ebike+Cave Point; HPB+Buffalo Bayou) — spend can't always be split per-business. See today's brief for detail.
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-07-26]] (today)
-- [[Daily Briefings/2026-07-25]] (1 day ago)
-- [[Daily Briefings/2026-07-24]] (2 days ago)
-- [[Daily Briefings/2026-07-23]] (3 days ago)
-- [[Daily Briefings/2026-07-22]] (4 days ago)
-- [[Daily Briefings/2026-07-21]] (5 days ago)
-- [[Daily Briefings/2026-07-19]] (7 days ago)
+- [[Daily Briefings/2026-07-27]] (today)
+- [[Daily Briefings/2026-07-26]] (1 day ago)
+- [[Daily Briefings/2026-07-25]] (2 days ago)
+- [[Daily Briefings/2026-07-24]] (3 days ago)
+- [[Daily Briefings/2026-07-23]] (4 days ago)
+- [[Daily Briefings/2026-07-22]] (5 days ago)
+- [[Daily Briefings/2026-07-21]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

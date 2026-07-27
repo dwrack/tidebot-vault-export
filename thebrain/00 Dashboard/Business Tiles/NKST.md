@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape down (day 6)"
-updated: 2026-07-26
+alert: "data stale - FH scrape missing"
+updated: 2026-07-27
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- GA4: 154 sessions yesterday, IG top source (104). Shares NOLA Google acct (`4378232023`) which logged 0 conversions on $98.74 - tracking likely broken.
-- IG (kayaknola) could not be pulled - permission error (code 10), needs token fix.
-- GSC pulling informational alligator/crocodile long-tail (answer traffic, low CTR). Airboat-vs-kayak watched page still flat vs baseline.
+- All marketing channels dark this run. Numbers from last clean FH (07-25).
+- Last clean FH 07-25: 3 booked / $660, ran 3 / $540.
+- 07-26 signal: Manchac Swamp $260, French Quarter pickup 7 signed $595. Watched page (Airboat vs Kayak) unchecked — GSC offline.
 <!-- live:end -->
 
 ## Quick links
