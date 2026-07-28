@@ -9,7 +9,7 @@
 > **Major flags surfaced so far:**
 > 1. Deckhands are closer to the employee classification line than captains. The IRS economic-realities test treats heavy operational direction (per-boat duty mapping, required forms, mandated capture content) as a strong employee signal.
 > 2. LHWCA exposure: deckhands working on or near vessels in navigable waters may fall under the Longshore and Harbor Workers' Compensation Act for shore-side injuries. Jones Act may also apply for on-vessel work.
-> 3. Per-shift fee framing is closer to wages than per-deliverable. This draft keeps shift framing for now since deckhand work is genuinely shift-based, but the bonus structure has been moved to deliverable triggers (drinks sold, photo packages sold) to strengthen the 1099 posture.
+> 3. Per-shift fee framing was closer to wages than per-deliverable. **Resolved as of this revision:** pay is now itemized per deliverable in Exhibit A. Core pay is per trip, with a small number of per-day items (opening prep, closing) broken out as their own lines. Commission is tied to actual sales. This is a materially stronger 1099 posture than the flat shift fee it replaces.
 > 4. Hold-harmless, IP, indemnification: lawyer's job. Placeholders below.
 
 ---
@@ -30,34 +30,79 @@ This agreement is between **NOLA Party Barge LLC** ("the Company") and **[DECKHA
 
 ## 2. Compensation
 
-### 2.1 Per-Shift Base
-You're paid a flat shift fee for showing up, prepping, and working the day. The shift fee covers a normal operating day at the marina.
+All rates live in **Exhibit A — Deckhand Pay Schedule**, attached to and part of this agreement. Exhibit A is re-issued when rates change; a new exhibit requires your acknowledgment, not a re-signing of this full agreement.
 
-> `JEFF:` What is the current approved shift fee, and is it flat or hourly? If hourly, what's the rate?
+### 2.1 How Your Pay Is Built
+- You're paid for the work you actually do, not for a block of time.
+- **Core rate** = working a trip, boarding through landing, boat reset before you walk.
+- Everything outside working the trip is **its own line item** with its own rate.
+- Most items pay **per trip**. A few pay **per day**, at the end of the day.
+- Nothing is bundled. Nothing is assumed.
 
-### 2.2 Edge-Case Pay
-Shifts don't always go to plan. The Edge Cases section (Section 7) lays out the full pay table for weather cancellations, mechanical failures, and shift changes. Read that section as part of this one.
+**The line items, in short:**
 
-### 2.3 Tips
-Tips are pooled per the existing **Tip Split Policy** (see `Tip Split Policy.md`). The current split is 70% to the working crew that day and 30% to the operational pool. Deckhands share the 70% per the formula in that policy.
-
-> `JEFF:` Confirm 70/30 still holds. Note: this structure may evolve once on-boat sales come online.
-
-### 2.4 Sales Bonuses (Tied to What You Actually Sell)
-Bonuses are not abstract or review-based. They're tied to revenue you generate on the boat. If you sell things, you earn things. The current structure:
-
-| What you sold | Your share |
+| Line item | Unit |
 |---|---|
-| Drink upsells (cooler upgrades, premium drinks) | `JEFF:` % cut |
-| Photo packages (per the Photography Upsell SOP) | `JEFF:` % cut |
-| Other on-boat upsells (ice, branded merch) | `JEFF:` % cut |
-| Reel-worthy clip delivered and used by the Company in marketing | `JEFF:` flat amount per published reel |
+| Trip worked (core) | per tour |
+| Opening boat prep | per day |
+| Closing and end-of-day | per day |
+| Turnaround between trips | per tour |
+| Deep clean | per occurrence |
+| Boat move or relocation assist | per occurrence |
+| Fuel, ice or supply run | per occurrence |
+| Weekend coverage | per weekend |
+| Reel published | per clip used |
+| On-boat upsell commission | % of sale |
+| Tips | per trip, 30% of pool |
 
-The bonus dollar amounts and percentage cuts get filled in once the Photography Upsell SOP and on-boat sales playbook are dialed (target: pilot June 2026). Until then, treat this section as the structure you'll opt into once it's live.
+Dollar amounts and the full trigger for each item are in Exhibit A.
+
+### 2.2 Add-On Work Is Pre-Authorized
+- Deep cleans, boat moves, and fuel, ice or supply runs pay only when Jeff or JT assigned the work **in writing** before you did it. Slack DM is fine.
+- Not assigned in writing = doesn't pay.
+- Opening, closing, and turnaround pay automatically off the trip schedule and your end-of-day report. You don't claim them.
+
+> `JEFF:` If pre-authorization is too rigid for how the marina runs, the alternative is crew log it at end of day and you approve at the pay run. Pick one, don't run both.
+
+### 2.3 Edge-Case Pay
+Days don't always go to plan. Section 7 is the full pay table for weather cancellations, mechanical failures, and schedule changes. Read it as part of this section.
+
+### 2.4 Tips
+- Tips are pooled per trip and split **70% captain / 30% deckhand**.
+- The Company takes **nothing** off the tip pool.
+- Full policy: `SOPs/Tip Split Policy.md`.
+
+**How it runs:**
+- The captain counts the pool at end of trip, cash and digital
+- Split happens same day, no IOUs
+- If the count is ever in question, you and the captain count it together
+- Cash handed directly to you by a guest still goes in the pool
+
+### 2.5 Sales Commission (Tied to What You Actually Sell)
+Commission isn't abstract and it isn't review-based. It's tied to revenue you generate on the boat. Sell things, earn things.
+
+- Drink and cooler upsells
+- Photo packages
+- Ice and branded merch
+- Published reels, paid per clip the Company actually uses
+
+Percentages and per-clip amounts are in Exhibit A. See `SOPs/Deckhand — On-Boat Revenue & Tips Playbook.md` for how to run the sell without being weird about it.
 
 > Note: review-based bonuses are intentionally not included. Google has begun flagging reviews that name staff, and the focus is on running great trips, not gaming reviews.
 
-### 2.5 How and When
+### 2.6 What Is Not Paid
+- Onboarding paperwork and document collection
+- Training shifts and shadow trips
+- Ride-along coaching trips
+- The Monday weekly check-in (it's optional, and it's for you)
+- Self-study, SOP reading, the Culture Quiz
+- Clips you submit that don't get published
+
+These are an investment in yourself. The coaching and the on-water experience go with you whether you work here or somewhere else.
+
+> `MF:` Michael, flag this section on the classification call. Unpaid required training is a weak point under an IRS economic-realities review, and it matters more on the deckhand side than the captain side. Written per David's decision, but you should see it before DocuSeal.
+
+### 2.7 How and When
 - **Cadence:** Pay runs twice per month, on the **1st** and the **16th**.
 - **Method:** PayPal.
 - **Required documents on file before first pay run:**
@@ -98,11 +143,13 @@ The training path is structured. You aren't expected to know it all on day one. 
 
 > `JEFF:` Confirm the Culture Quiz exists and is filled out.
 
-### Phase 3: Shadow Shift (1 shift, paid)
-You shadow an experienced deckhand through a full day. You watch arrival prep, boat prep, departure handling, between-trips reset, and end-of-day. Debrief with them after.
+### Phase 3: Shadow Day (1 day, unpaid)
+You shadow an experienced deckhand through a full day. You watch arrival prep, boat prep, departure handling, between-trips reset, and end-of-day. Debrief with them after. You're observing, not working the boat, so this one is on you. It's the last unpaid step.
 
-### Phase 4: Assisted Shifts (2-3 shifts, paid at full shift fee)
-You run the day yourself. A senior deckhand or captain is on the marina to step in if you need them. Each shift ends with a quick debrief: what worked, what to adjust. Full shift fee, not a probationary rate.
+### Phase 4: Assisted Days (2-3 days, paid at full Exhibit A rates)
+You run the day yourself. A senior deckhand or captain is on the marina to step in if you need them. Each day ends with a quick debrief: what worked, what to adjust.
+
+You're doing the actual work, so you're paid the actual rates. Every Exhibit A line item you perform pays in full. No probationary rate, no training discount.
 
 ### Phase 5: Solo Sign-Off
 Sign-off happens through the crew Slack channel with Tidebot capturing the workflow and Jeffrey approving when you're ready. Criteria:
@@ -230,20 +277,28 @@ When you're working a tour with a captain, here's the per-tour standard:
 
 ## 7. Edge Cases & Pay Framework
 
-Shifts don't always go to plan. This section is the full pay table for the most common edge cases. Read it as part of Section 2.
+Days don't always go to plan. This section is the full pay table for the most common edge cases. Read it as part of Section 2.
+
+**Two terms used below:**
+- **Core rate** = the per-trip rate in Exhibit A, line 1.
+- **Add-ons earned** = every other Exhibit A line item you actually performed that day (opening prep, closing, turnarounds, pre-authorized runs).
+
+**The principle:** once you've shown up and done the work, the work gets paid.
 
 | Scenario | Deckhand pay |
 |---|---|
-| Weather cancel ≥ 4 hrs before scheduled shift start | $0 (no work, no pay) |
-| Weather cancel < 4 hrs before (you're prepping or en route) | 50% of shift fee (commit fee) |
-| Weather cancel after you arrive at marina | Full shift fee |
-| Weather hold mid-shift (had to turn back) | Full shift fee |
-| Mechanical fail before departure | 50% of shift fee + reschedule priority |
-| Mechanical fail mid-shift | Full shift fee |
-| Trip cancelled by Company at the dock for non-weather reason | Full shift fee |
+| Weather cancel ≥ 4 hrs before scheduled start | $0 (no work, no pay) |
+| Weather cancel < 4 hrs before (you're prepping or en route) | 50% of core rate (commit fee) + add-ons earned |
+| Weather cancel after you arrive at marina | Full core rate + add-ons earned |
+| Weather hold mid-trip (had to turn back) | Full core rate + add-ons earned |
+| Mechanical fail before departure | 50% of core rate (commit fee) + add-ons earned + reschedule priority |
+| Mechanical fail mid-trip | Full core rate + add-ons earned |
+| Trip cancelled by Company at the dock for non-weather reason | Full core rate + add-ons earned |
 | Deckhand offered a shift, declines | $0 (no consequence) |
 | Deckhand accepts shift, no-shows | $0 + strike per Section 8 |
-| Shift ends early at guest request | Full shift fee |
+| Trip ends early at guest request | Full core rate + add-ons earned |
+
+**Note on opening prep:** if you completed the opening boat prep and the day then gets cancelled, opening prep pays in full regardless of which row above applies. You did the work.
 
 **Shift swaps:** deckhands may swap an accepted shift directly with another qualified deckhand. Notify Jeffrey in writing (Slack DM is fine) before the swap takes effect.
 

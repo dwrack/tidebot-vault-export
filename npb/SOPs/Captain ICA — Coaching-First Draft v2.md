@@ -30,25 +30,64 @@ This agreement is between **NOLA Party Barge LLC** ("the Company") and **[CAPTAI
 
 ## 2. Compensation
 
-### 2.1 Per-Tour Rate (Primary)
-You're paid a flat per-tour rate for each completed trip you deliver, regardless of headcount. A "completed trip" means departure, full route, return to dock, log filed.
+All rates live in **Exhibit A — Captain Pay Schedule**, attached to and part of this agreement. Exhibit A is re-issued when rates change; a new exhibit requires your acknowledgment, not a re-signing of this full agreement.
 
-> `JEFF:` What is the current approved per-tour rate?
+### 2.1 How Your Pay Is Built
+- You're paid for the work you actually do, not for a block of time.
+- **Core rate** = running a trip. A completed trip means departure, full route, return to dock, pre-trip and post-trip audio logs filed.
+- Everything outside running the trip is **its own line item** with its own rate.
+- Nothing is bundled. Nothing is assumed.
 
-### 2.2 Edge-Case Pay
-Trips don't always go to plan. The Edge Cases section (Section 7) lays out the full pay table for weather cancellations, mechanical failures, early returns, and shift refusals. Read that section as part of this one.
+**The line items, in short:**
 
-### 2.3 Tips
-Tips are pooled per the existing **Tip Split Policy** (see `Tip Split Policy.md` in the vault). The current split is 70% to the working crew that day and 30% to the operational pool. Captains and deckhands share the 70% per the formula in that policy.
+| Line item | Unit |
+|---|---|
+| Tour run (core) | per tour |
+| Opening boat prep | per day |
+| Closing, shutdown, lockup | per day |
+| Turnaround between trips | per tour |
+| Deep clean | per occurrence |
+| Boat move or relocation | per occurrence |
+| Fuel or supply run | per occurrence |
+| Weekend lead / on-call | per weekend |
+| Content clip published | per clip used |
+| On-boat upsell commission | % of sale |
+| Tips | per trip, 70% of pool |
 
-> `JEFF:` Confirm the 70/30 pooled split is still how we're running tips today, or flag any drift. Note: this structure may evolve once on-boat sales (drinks, photo upsells) come online and crew has direct revenue share.
+Dollar amounts and the full trigger for each item are in Exhibit A.
 
-### 2.4 Bonuses
-The Company may add deliverable-based bonuses over time, tied to specific outputs (social media content delivered, photo upsells sold, training completion). Any active bonus structure will be communicated in writing and added as an addendum to this agreement.
+### 2.2 Add-On Work Is Pre-Authorized
+- Deep cleans, boat moves, and fuel or supply runs pay only when Jeff or JT assigned the work **in writing** before you did it. Slack DM is fine.
+- Not assigned in writing = doesn't pay.
+- Opening, closing, and turnaround pay automatically off your logs. You don't claim them.
+
+> `JEFF:` If pre-authorization is too rigid for how the marina runs, the alternative is crew log it in the end-of-day audio log and you approve at the pay run. Pick one, don't run both.
+
+### 2.3 Edge-Case Pay
+Trips don't always go to plan. Section 7 is the full pay table for weather cancellations, mechanical failures, early returns, and shift refusals. Read it as part of this section.
+
+### 2.4 Tips
+- Tips are pooled per trip and split **70% captain / 30% deckhand**.
+- The Company takes **nothing** off the tip pool.
+- Full policy: `SOPs/Tip Split Policy.md`.
+
+**You are responsible for:** counting the pool at end of trip (cash and digital), splitting with your deckhand the same day, and texting the total to JT or Jeffrey.
+
+### 2.5 What Is Not Paid
+- Onboarding paperwork and document collection
+- Training shifts and shadow trips
+- Quarterly ride-along coaching trips
+- The Monday weekly check-in (it's optional, and it's for you)
+- Self-study, SOP reading, the Culture Quiz
+- Clips you submit that the Company doesn't publish
+
+These are an investment in yourself. The coaching, the sea time, and the audio logs you can pull for your own USCG documentation go with you whether you work here or somewhere else.
+
+> `MF:` Michael, flag this section on the classification call. Unpaid required training is one of the weaker points under an IRS economic-realities review. Written per David's decision, but you should see it before DocuSeal.
 
 > Note: review-based bonuses are intentionally not included. Google has begun flagging reviews that name staff and the focus is on running great tours, not gaming reviews.
 
-### 2.5 How and When
+### 2.6 How and When
 - **Cadence:** Pay runs twice per month, on the **1st** and the **16th**.
 - **Method:** PayPal.
 - **Required documents on file before first pay run:**
@@ -73,7 +112,7 @@ We don't drop you on a boat alone. The path is structured and the goal is for yo
 - Emergency contact and payment method submitted
 - Crew Intake Form complete
 
-### Phase 2: Orientation (½ day, paid as a shift)
+### Phase 2: Orientation (½ day, unpaid)
 - Walk through the **Crew & Captain Performance Guide** with Jeffrey or a senior captain
 - Equipment tour, safety equipment locations, emergency procedures
 - Read the culture doc **How We Run Things**, complete the **Culture Quiz**
@@ -81,11 +120,13 @@ We don't drop you on a boat alone. The path is structured and the goal is for yo
 
 > `JEFF:` Confirm the Culture Quiz exists and is filled out. If not, please draft one this week.
 
-### Phase 3: Shadow Shift (1-2 trips, paid)
-You ride along with an experienced captain. Observation only. You watch the full arc: arrival, build, peak, land, send-off. Debrief with the captain after each trip. Shadow shifts are paid at the standard per-tour rate.
+### Phase 3: Shadow Trips (1-2 trips, unpaid)
+You ride along with an experienced captain. Observation only. You watch the full arc: arrival, build, peak, land, send-off. Debrief with the captain after each trip. You're not running the boat, so this one is on you. It's the last unpaid step.
 
-### Phase 4: Assisted Shifts (2-4 trips, paid at full per-tour rate)
+### Phase 4: Assisted Trips (2-4 trips, paid at full Exhibit A rates)
 You run the trip, the experienced captain is on board to step in if anything goes sideways. After each, a 10-minute debrief: what worked, what to adjust, what to try next time.
+
+You're doing the actual work, so you're paid the actual rates. Every Exhibit A line item you perform pays in full. No probationary rate, no training discount.
 
 ### Phase 5: Solo Sign-Off
 Sign-off happens through the crew Slack channel with Tidebot capturing the workflow and Jeffrey approving when you're ready. Criteria:
@@ -191,20 +232,28 @@ The per-tour deliverables below are the standard we coach toward, supported by T
 
 Trips don't always go to plan. This section is the full pay table for the most common edge cases. Read it as part of Section 2.
 
+**Two terms used below:**
+- **Core rate** = the per-tour rate in Exhibit A, line 1.
+- **Add-ons earned** = every other Exhibit A line item you actually performed that day (opening prep, closing, turnarounds, pre-authorized runs).
+
+**The principle:** once you've shown up and done the work, the work gets paid.
+
 | Scenario | Captain pay |
 |---|---|
 | Weather cancel ≥ 4 hrs before scheduled departure | $0 (no work, no pay) |
-| Weather cancel < 4 hrs before (you're prepping or en route) | 50% of per-tour rate (commit fee) |
-| Weather cancel after captain arrives at marina | Full per-tour rate |
-| Weather hold mid-trip (had to turn back) | Full per-tour rate |
-| Mechanical fail before departure | 50% of per-tour rate (commit fee) + reschedule priority |
-| Mechanical fail mid-trip | Full per-tour rate |
-| Guest no-show or under-booked group cancels after captain commits | Full per-tour rate |
-| Captain calls trip aborted for safety (impaired guests, USCG, etc.) | Full per-tour rate |
-| Trip cancelled by Company at the dock for non-weather reason | Full per-tour rate |
+| Weather cancel < 4 hrs before (you're prepping or en route) | 50% of core rate (commit fee) + add-ons earned |
+| Weather cancel after captain arrives at marina | Full core rate + add-ons earned |
+| Weather hold mid-trip (had to turn back) | Full core rate + add-ons earned |
+| Mechanical fail before departure | 50% of core rate (commit fee) + add-ons earned + reschedule priority |
+| Mechanical fail mid-trip | Full core rate + add-ons earned |
+| Guest no-show or under-booked group cancels after captain commits | Full core rate + add-ons earned |
+| Captain calls trip aborted for safety (impaired guests, USCG, etc.) | Full core rate + add-ons earned |
+| Trip cancelled by Company at the dock for non-weather reason | Full core rate + add-ons earned |
 | Captain offered a shift, declines | $0 (no consequence) |
 | Captain accepts shift, no-shows | $0 + strike per Section 8 |
-| Trip ends early at guest request | Full per-tour rate |
+| Trip ends early at guest request | Full core rate + add-ons earned |
+
+**Note on opening prep:** if you completed the opening safety check and the day then gets cancelled, opening prep pays in full regardless of which row above applies. You did the work.
 
 **Shift swaps:** captains may swap an accepted shift directly with another qualified captain. Notify Jeffrey in writing (Slack DM is fine) before the swap takes effect so the manifest and FH assignment are updated.
 
