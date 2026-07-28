@@ -7,14 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "standing gap - IG only, Meta-Organic offline"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- No GBP / GSC / Ads coverage wired (standing gap). IG only, and Meta-Organic was offline this run. Quiet.
+- All marketing channels dark, day 2. IG-only brand — no GBP/GSC/Ads coverage set up.
+- No FareHarbor feed for Houston Booze Cruise.
+- Nothing new to report this run.
 <!-- live:end -->
 
 ## Quick links

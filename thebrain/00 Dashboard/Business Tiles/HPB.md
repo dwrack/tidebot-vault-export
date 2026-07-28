@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Funnel dry:** 07-25 took just **1 new booking / $60** while running **13 tours / $3,479**. Coasting on existing reservations.
-- Its main channels (IG + TikTok) are both offline this run — restart the short-form video engine once access is back.
-- 07-26: Party Barge Cruise $728.99; next payout 07-27 $849.85.
+- All marketing channels dark, day 2. **Flagged in Action Items** — funnel dry, IG/TikTok engine off.
+- Last clean FH 07-25: booked **1 / $60**, ran **13 / $3,479** — coasting on existing bookings.
+- Restart @houstonpedalbarge short-form video the moment Meta + TikTok access returns.
 <!-- live:end -->
 
 ## Quick links

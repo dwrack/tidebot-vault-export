@@ -7,14 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "marketing MCPs offline - no data this run"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- Books under the DCKT FareHarbor account. GBP / GSC / Meta / IG offline this run — nothing pulled.
+- All marketing channels dark, day 2. No separate FareHarbor feed captured for Cave Point this run.
+- Note carried from 07-26: a -$385.76 refund posted on a 07-24 Cave Point tour.
+- GBP reviews unavailable (server offline).
 <!-- live:end -->
 
 ## Quick links

@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark this run (GBP/Ads/Meta/IG offline). Numbers from last clean FH (07-25).
-- Last clean FH 07-25: **16 booked / $5,574**, ran **62 / $20,045** — top earner of the day.
-- 07-26 signal: Twerkin' Tiki $767, a 24-signed group; next payout 07-27 **$2,651.93 net**.
+- All marketing channels dark, day 2. Numbers from last clean FH (07-25), now 3 days stale.
+- Last clean FH 07-25: booked **16 / $5,574**, ran **62 / $20,045** — carried the day, biggest run of the group.
+- No newer FH data since; 07-26 full cache showed heavy 07-26 activity (Twerkin' Tiki $767, a 24-signed group).
 <!-- live:end -->
 
 ## Quick links

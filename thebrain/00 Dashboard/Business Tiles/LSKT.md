@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Austin stalled - 0 tours ran 07-25/26, check availabilities"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **Red flag:** 07-25 ran **0 tours / $0**; 07-26 a rental was booked then instantly refunded and the manifest read 'No availabilities.' Two peak-summer days with nothing run.
-- Action: confirm Austin availabilities are actually open for booking, or whether the boat/staffing is down.
-- All marketing channels offline this run.
+- All marketing channels dark, day 2. **Flagged in Action Items** — Austin looks stalled.
+- Last clean FH 07-25: booked **2 / $292**, ran **0 / $0**. 07-26 rental booked then refunded, manifest 'No availabilities.'
+- Confirm availabilities are open / boat + staffing up the moment FH is back.
 <!-- live:end -->
 
 ## Quick links

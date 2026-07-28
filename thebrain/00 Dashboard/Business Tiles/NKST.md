@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark this run. Numbers from last clean FH (07-25).
-- Last clean FH 07-25: 3 booked / $660, ran 3 / $540.
-- 07-26 signal: Manchac Swamp $260, French Quarter pickup 7 signed $595. Watched page (Airboat vs Kayak) unchecked — GSC offline.
+- All marketing channels dark, day 2. Numbers from last clean FH (07-25), now 3 days stale.
+- Last clean FH 07-25: booked **3 / $660**, ran **3 / $540**.
+- Watched page 'Airboat vs Kayak' still unchecked ~8 wks post-baseline (GSC/GA4 offline).
 <!-- live:end -->
 
 ## Quick links

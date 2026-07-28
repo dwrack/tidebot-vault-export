@@ -7,15 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "marketing MCPs offline - no data this run"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- No FH tracking. GBP / Ads / IG offline this run.
-- Carryover: unaddressed 4★ about the dark launch path + parking at the Austin dock — reply once GBP is back.
+- All marketing channels dark, day 2. Shares Austin ad account with LSKT.
+- Open from 07-26: a 4-star GBP review flagging dark launch path / parking, still likely unreplied.
+- No FareHarbor feed for AKT this run.
 <!-- live:end -->
 
 ## Quick links

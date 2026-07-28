@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing"
-updated: 2026-07-27
+alert: "data stale - FH scrape missing (day 2)"
+updated: 2026-07-28
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark this run. Numbers from last clean FH (07-25).
-- Last clean FH 07-25: 12 booked / $1,457, ran 15 / $1,591.
-- 07-26: Two-Hour Watersports Rental $70.36; next payout 07-27 $584.54.
+- All marketing channels dark, day 2. Numbers from last clean FH (07-25), now 3 days stale.
+- Last clean FH 07-25: booked **12 / $1,457**, ran **15 / $1,591**.
+- 07-26 full cache: a two-hour watersports rental ($70.36); next payout 07-27 $584.54.
 <!-- live:end -->
 
 ## Quick links
