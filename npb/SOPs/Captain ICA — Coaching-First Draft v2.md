@@ -220,7 +220,6 @@ The per-tour deliverables below are the standard we coach toward, supported by T
 | **Music arc** | Matches Build → Peak → Land, not random shuffle |
 | **Wow moment** | One designed moment per trip, narrated to and felt by the group |
 | **Guest names used** | At least once per trip if names available |
-| **Group photo** | Offered at the peak moment, sent to guests within an hour |
 | **Tip + review close** | Run in the last 5-10 minutes per the Tip Close SOP |
 | **Send-off** | Personal, warm, never the rehearsed corporate goodbye |
 
