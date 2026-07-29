@@ -23,7 +23,20 @@
 
 ---
 
-## How They Open the File (send this to Jeff and JT)
+## The Google Doc (primary)
+
+**https://docs.google.com/document/d/103c0VOmXTtuQ4ek6K6FUuGutTWEO0hkwrvHpK6nWPqg/edit**
+
+- Owned by info@nolapartybarges.com, lives in the private **Crew Contracts 2026** Drive folder
+- **Editor access:** David (dwrack81@), Jeff (jeffreychitek@), Michael (mrfischer80@)
+- **JT still needs adding.** No email for him anywhere in the vault.
+- Added silently, no Google notification. David sends the link himself.
+
+This is the version everyone works in. Google Docs merges properly, so simultaneous edits are safe, and comments show who said what. The iCloud markdown copy below is the fallback for anyone who'd rather work offline.
+
+---
+
+## How They Open the iCloud File (fallback)
 
 1. Open **Finder** → the shared **NOLA Party Barge** folder
 2. Go into the **SOPs** folder
