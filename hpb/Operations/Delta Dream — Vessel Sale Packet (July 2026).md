@@ -1,6 +1,31 @@
 # Delta Dream — Vessel Sale Packet
 
-*Built 2026-07-30. Vessel: 2022 Trident cycleboat, 30ft, white and green. Owner of record: Lone Star Kayak Tours LLC.*
+*Built 2026-07-30. Vessel: 2021 Trident cycleboat, 35ft, white and green. Owner of record: Lone Star Kayak Tours LLC.*
+
+## Confirmed vessel data
+
+Pulled from the USCG PSIX public vessel database (record last updated July 27, 2026) and the June 2026 email thread with Connor. This is the official record, not vault notes.
+
+| Field | Value |
+|---|---|
+| **HIN** | **TXR08124F121** |
+| USCG Official Number | 1345151 |
+| Alternate VIN | CG1703533 (Coast Guard Number) |
+| Texas registration | TX 8632 KS (TPWD file B8632KS) |
+| Build year | **2021** |
+| Length / breadth / depth | 35.00 ft x 10.50 ft x 3.00 ft |
+| Tonnage | 4 GT / 4 NT (simplified) |
+| Service | Passenger (Inspected) |
+| Service status | Active |
+| **Current COI** | Amended COI serial 8372840, issued May 14 2025, **expires May 14 2030**, Issued/Effective |
+| Stability letter | Issued Jan 21 2022, VALID |
+| Last drydock | February 7, 2022 |
+| **Next drydock due** | **February 28, 2027** |
+| Certificate of Documentation | Case Pending |
+
+Three things in there change the plan, and they're covered below: the year is 2021 not 2022, the boat is 35 feet not 30, and drydock comes due seven months from now.
+
+The HIN decodes as manufacturer code TXR, serial 08124, built June 2021, model year 2021. That's consistent with Trident's Poseidon 26 platform (35' x 10.5', 26 passengers, 90HP Suzuki 4-stroke), which is almost certainly what this hull is.
 
 ---
 
@@ -22,19 +47,18 @@ Don't sign a purchase agreement until David Ritter has blessed the structure and
 
 ---
 
-## What I still need from you
+## What's still open
 
-I built the listing off the vault. These gaps have to be filled before it goes live, and getting them wrong in a listing is how a deal blows up at survey:
+Most of the gaps are now closed by the PSIX record above. What's left:
 
-- **Hull ID / USCG Official Number** (the brand docs say 2021 in one place and you said 2022, so confirm the model year off the documentation)
-- **Engine:** make, HP, hours. Trident's 26-pax platform typically ships with a 90HP Suzuki 4-stroke. Confirm what's actually hanging off the transom.
-- **COI status:** expiration date, next drydock due, any outstanding requirements or 835 items from the last inspection
-- **Documentation:** USCG documented or state titled? Documented vessels transfer through the National Vessel Documentation Center, state-titled goes through TPWD.
-- **Liens:** any bank paper, marine mortgage, or preferred ship mortgage on file
-- **Trailer:** included or not
-- **Recent work:** bottom paint date, last service, anything replaced in the last 24 months
+- **Engine:** make, HP, hours. The Trident 26-pax platform ships with a 90HP Suzuki 4-stroke. Confirm what's actually on the transom and get an hour reading.
+- **Open CG-835 items.** There's a CG-835 on file dated 26NOV24 and another from 2025, and one amended COI in the history shows as *Revoked*. A buyer's surveyor will find that. Get the current 835 status from Sector Houston-Galveston and know the answer before anyone asks.
+- **Which paper governs the sale.** The boat has a USCG Official Number (1345151), a Texas registration (TX 8632 KS), and a Certificate of Documentation showing **Case Pending**. Pending documentation on a boat you're trying to sell is a closing problem. Resolve it or know exactly where it stands.
+- **Liens:** any bank paper or preferred ship mortgage. TPWD already sent the ownership history affidavit on May 26, so the state side is in hand.
+- **Trailer:** included or not.
+- **Recent work:** bottom paint date, last service, anything replaced in the last 24 months.
 
-Pull the COI and the last inspection report. Those two documents do more selling than any photo will.
+Pull the current COI (serial 8372840) and the last inspection report. Those two documents do more selling than any photo will.
 
 ---
 
@@ -48,19 +72,22 @@ The used cycleboat market is small and mostly transacts privately, so public com
 | Cascade Cycleboat, used | 16 passengers + 2 crew, USCG COI | $85,000 |
 | New TourCraft Cycleboat 32 | Current production, 26-30 pax | Contact for price |
 
-Two real comps is not a market. But the shape is clear: a COI'd 26-passenger boat sits well north of a COI'd 16-passenger boat, and a 2022 in running commercial service should ask close to what a 2021 asks.
+Two real comps is not a market. But the top comp is a same-builder, same-platform 2021 asking around $160k, and Delta Dream is a 2021 in active commercial service with a COI running to 2030. That's the closest thing to an apples-to-apples read you're going to get.
 
-**What moves your number up:**
-- Current COI with runway left on it
-- Clean inspection history, drydock not immediately due
+**What moves your number up, and you have all of these:**
+- COI current and good through **May 14, 2030**. That is close to five years of runway, and it's the single strongest thing in the listing. Put the expiration date in the ad copy.
+- Valid stability letter on file since January 2022
 - Running in commercial service today (a boat that's been sitting reads as a problem)
 - Roof, head, sound system, party lights already installed and working
 - Turnkey delivery: you hand over the manuals, the checklists, the captain standards doc
 
 **What moves it down:**
-- Drydock coming due inside 12 months (buyer prices that in at $8k-$15k)
-- Any open USCG requirements
+- **Drydock due February 28, 2027.** Seven months out. A buyer will price that in at $8k-$15k, and they'll find it in PSIX in about ninety seconds, so disclose it yourself. Volunteering it costs less than getting caught holding it.
+- The revoked amended COI and the open CG-835 history. Have the explanation ready.
+- Certificate of Documentation showing Case Pending
 - Buyer having to relocate it out of Texas
+
+Net of the drydock, I'd hold the $179,500 ask. The COI running to 2030 is worth more than the drydock costs.
 
 ---
 
@@ -88,31 +115,36 @@ Do not put it on Craigslist or Marketplace. Wrong buyer, and you'll spend three 
 
 ## Listing copy (paste-ready)
 
-**Title:** 2022 Trident Cycleboat 30' | USCG Subchapter T COI, 26 Passengers | Turnkey Party Barge
+**Title:** 2021 Trident Cycleboat 35' | USCG COI Good Through 2030, 26 Passengers | Turnkey Party Barge
 
 **Body:**
 
-2022 Trident 30-foot cycleboat, USCG Subchapter T certified for 26 passengers plus crew. Currently in active commercial service on Clear Lake in Seabrook, Texas, running charters and public cruises year-round.
+2021 Trident 35-foot cycleboat, USCG Subchapter T certified for 26 passengers plus crew, COI in effect through May 14, 2030. Currently in active commercial service on Clear Lake in Seabrook, Texas, running charters and public cruises year-round.
 
 This is a working boat, not a project. Motorized with pedal stations for the guests who want them, so it operates like a passenger vessel and markets like a party bike. Covered roof for rain and Texas sun, onboard head, Bluetooth sound system, and party lighting already installed and running.
 
 What you're really buying is the Certificate of Inspection. Getting a new small passenger vessel through USCG inspection is a long road. This one is already there, with inspection history and service records available for review.
 
-Features:
-- USCG Subchapter T COI, 26 passengers
-- 30' fiberglass hull, white and green
-- Motorized, with 12 guest pedal stations driving a stern paddle wheel
+Specs:
+- USCG Subchapter T COI, 26 passengers, effective through May 14, 2030
+- 35' x 10.5' fiberglass hull, white and green
+- Build year 2021. HIN TXR08124F121. Official Number 1345151.
+- 4 gross tons / 4 net tons
+- Valid stability letter on file
+- Motorized, with guest pedal stations driving a stern paddle wheel
 - Covered roof
 - Onboard head
 - Bluetooth sound system and party lights
-- Full inspection and maintenance records
+- Full inspection and maintenance records available
 - Currently generating revenue in commercial service
+
+Next scheduled drydock is February 2027, disclosed up front.
 
 Serious inquiries only. Survey welcome. Located Seabrook, TX (Clear Lake / Kemah area).
 
 Contact: Connor Champagne, Manager — info@houstonpedalbarge.com — (832) 974-0365
 
-*[Insert after confirming: engine make/HP/hours, COI expiration, HIN/Official Number, drydock status, trailer yes/no.]*
+*[Insert after confirming: engine make/HP/hours.]*
 
 ---
 
@@ -138,11 +170,12 @@ Then a 60-90 second walkthrough video, phone is fine, no music, just narrate wha
 ## Paperwork checklist
 
 - [ ] Confirm with Ritter that the sale structure is clean before signing anything
-- [ ] Pull the current COI and last USCG inspection report
-- [ ] Confirm documented vs. state titled, and pull the Certificate of Documentation
+- [ ] Pull the current COI (serial 8372840) and the last USCG inspection report
+- [ ] **Resolve the Certificate of Documentation "Case Pending" status with NVDC.** The boat carries both an Official Number and a Texas registration, and a buyer's closing agent will want that untangled. This is the most likely thing to stall a deal.
 - [ ] Run an abstract of title through NVDC to confirm no recorded liens
+- [ ] Pull the CG-835 status from Sector Houston-Galveston and close out anything open
 - [ ] Confirm no marine mortgage or bank lien outstanding
-- [ ] Bill of Sale — use CG-1340 for a documented vessel
+- [ ] Bill of Sale — CG-1340 for the federal side, plus TPWD transfer paperwork for TX 8632 KS
 - [ ] Buyer applies for their own COI. A COI does not transfer with the boat. The new owner files with the OCMI (Sector Houston-Galveston if it stays local) and the vessel's clean inspection history is what makes that fast instead of painful. Say this plainly in every buyer conversation so nobody is surprised at closing. Worth confirming the current process with Sector Houston-Galveston directly, since it drives the buyer's timeline.
 - [ ] Escrow through a marine title company or a documentation service. Do not take a wire straight to the operating account on a six-figure boat.
 - [ ] Remove Delta Dream from the insurance policy only after transfer completes
