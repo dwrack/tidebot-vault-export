@@ -7,14 +7,14 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 4)"
-updated: 2026-07-30
+alert: "data stale - FH scrape missing (day 5)"
+updated: 2026-07-31
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 4. Numbers from last clean FH (07-25), now 4 days stale.
+- All marketing channels dark, day 5. Numbers from last clean FH (07-25), now 5 days stale.
 - Last clean FH 07-25: booked **3 / $660**, ran **3 / $540**.
 - Watched page 'Airboat vs Kayak' still unchecked ~8 wks post-baseline (GSC/GA4 offline).
 <!-- live:end -->

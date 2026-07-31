@@ -7,14 +7,14 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 4)"
-updated: 2026-07-30
+alert: "data stale - FH scrape missing (day 5)"
+updated: 2026-07-31
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 4. **Flagged in Action Items** — Austin looks stalled.
+- All marketing channels dark, day 5. **Flagged in Action Items** — Austin looks stalled.
 - Last clean FH 07-25: booked **2 / $292**, ran **0 / $0**. 07-26 rental booked then refunded, manifest 'No availabilities.'
 - Confirm availabilities are open / boat + staffing up the moment FH is back.
 <!-- live:end -->
