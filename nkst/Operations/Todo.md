@@ -53,6 +53,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] When parking the trailer, ensure sufficient space is left from the fence for easy maneuvering. _(Michelle (audio log), 2026-07-31)_
 - [ ] [Guide log] Guides should bring at least one extra seat with them on their way out for tours. _(Stephanie (audio log), 2026-07-28)_
 - [ ] [Guide log] Investigate recurring issues with kayak seats and address necessary repairs or replacements. _(Stephanie (audio log), 2026-07-27)_
 - [ ] [Guide log] Locate missing gas card for the white Ford Transit van. _(river (audio log), 2026-07-26)_
