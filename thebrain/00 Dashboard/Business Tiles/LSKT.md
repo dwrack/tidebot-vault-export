@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 5)"
-updated: 2026-07-31
+alert: "data stale - FH scrape missing (day 6)"
+updated: 2026-08-02
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 5. **Flagged in Action Items** — Austin looks stalled.
-- Last clean FH 07-25: booked **2 / $292**, ran **0 / $0**. 07-26 rental booked then refunded, manifest 'No availabilities.'
-- Confirm availabilities are open / boat + staffing up the moment FH is back.
+- All marketing channels dark, day 6. **Flagged in Action Items** — Austin still the highest-risk unknown.
+- New: **Soward v. TripAdvisor** doc-disclosure email landed 07-31 (Kahana Feld counsel). Route to the handling attorney.
+- Confirm availabilities open / boat + staffing up the moment FH is back. Last clean 07-25: booked 2/$292, ran 0/$0.
 <!-- live:end -->
 
 ## Quick links

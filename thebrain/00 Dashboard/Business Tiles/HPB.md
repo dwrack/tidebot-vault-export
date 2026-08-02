@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 5)"
-updated: 2026-07-31
+alert: "data stale - FH scrape missing (day 6)"
+updated: 2026-08-02
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 5. **Flagged in Action Items** — funnel dry, IG/TikTok engine off.
-- Last clean FH 07-25: booked **1 / $60**, ran **13 / $3,479** — coasting on existing bookings.
-- Restart @houstonpedalbarge short-form video the moment Meta + TikTok access returns.
+- All channels dark, day 6. No bookings/reviews/ads/organic visibility.
+- TikTok pull skipped — Playwright offline, can't tell if session is expired or just unreachable.
+- Restore GBP + FareHarbor first; recheck @houstonpedalbarge analytics once Playwright is back.
 <!-- live:end -->
 
 ## Quick links

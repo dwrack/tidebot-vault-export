@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 5)"
-updated: 2026-07-31
+alert: "data stale - FH scrape missing (day 6)"
+updated: 2026-08-02
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 5. Numbers from last clean FH (07-25), now 5 days stale.
-- Last clean FH 07-25: booked **16 / $5,574**, ran **62 / $20,045** — carried the day, biggest run of the group.
-- No newer FH data since; 07-26 full cache showed heavy 07-26 activity (Twerkin' Tiki $767, a 24-signed group).
+- All channels dark, day 6. No bookings/reviews/ads/organic visibility.
+- Peak Saturday 08-01 passed blind; peak Sunday 08-02 blind too.
+- Restore GBP + FareHarbor first to recover NOLA booking + review signal.
 <!-- live:end -->
 
 ## Quick links

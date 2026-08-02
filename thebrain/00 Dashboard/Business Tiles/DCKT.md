@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 5)"
-updated: 2026-07-31
+alert: "data stale - FH scrape missing (day 6)"
+updated: 2026-08-02
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 5. Numbers from last clean FH (07-25), now 6 days stale.
-- Last clean FH 07-25: booked **30 / $2,973**, ran **25 / $5,846** — 2nd best of the day.
-- Homebase daily 07/31: **payroll period ends in 2 days (Aug 2)**, 29.6 hrs logged yesterday. No missed clock-out today. Only live business signal in the inbox — review and queue payroll before the weekend.
+- All marketing channels dark, day 6 (GBP/Ads/Meta/GSC/GA4/IG all offline).
+- **Only live signal today.** EOD 08-01: $880 labor, 42 hrs, 4 on shift. Homebase daily 08-02: 41.8 hrs, **payroll period ends today**.
+- **Action:** Torey Griffith past 40 hrs and still clocked in — close the clock-out and queue payroll before it slips past Sunday.
 <!-- live:end -->
 
 ## Quick links

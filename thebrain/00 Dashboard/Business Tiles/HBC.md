@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 5)"
-updated: 2026-07-31
+alert: "data stale - FH scrape missing (day 6)"
+updated: 2026-08-02
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 5. IG-only brand — no GBP/GSC/Ads coverage set up.
-- No FareHarbor feed for Houston Booze Cruise.
-- Nothing new to report this run.
+- All channels dark, day 6. No bookings/reviews/ads/organic visibility.
+- No GBP/GSC/Ads coverage set up — IG-only, and meta-organic is offline this run.
+- Nothing actionable until servers return.
 <!-- live:end -->
 
 ## Quick links

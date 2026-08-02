@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 5)"
-updated: 2026-07-31
+alert: "data stale - FH scrape missing (day 6)"
+updated: 2026-08-02
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 5. No separate FareHarbor feed captured for Ebike this run.
-- GBP reviews unavailable (server offline).
-- Nothing new to report this run.
+- All channels dark, day 6. No bookings/reviews/ads/organic visibility.
+- Shares DCKT/Cave Point Meta account — no spend split available.
+- Restore GBP + FareHarbor first.
 <!-- live:end -->
 
 ## Quick links

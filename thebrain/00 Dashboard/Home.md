@@ -1,30 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-07-31 (degraded run, day 5 — same 6 MCP servers + business Gmail still offline; FH scrape still broken. 6 days without booking visibility, heading into a peak weekend blind.)*
+*Last refresh: 2026-08-02 (degraded run, day 6 — same 6 MCP servers + business Gmail still offline; FH scrape still broken. Saturday peak day 08-01 passed blind, now a peak Sunday blind too.)*
 
 ## Right now
-- [[Daily Briefings/2026-07-31|Today's brief]]
+- [[Daily Briefings/2026-08-02|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Data pipeline blackout — day 5, fix it in an interactive session before the weekend.** Same 6 MCP servers (GBP, Google Ads, Meta, GSC/GA4, IG, Playwright) failed again, business Gmail still offline, meta-organic/playwright/clarity pending approval, FH scraper still broken (no fresh file since 07-26, which was empty). That's 6 straight days with zero booking visibility, now walking into a Fri/Sat peak weekend blind. Open `claude` interactively: re-auth/restart the MCPs, approve the 3 pending, fix `~/Projects/fareharbor-brief/scrape.js`.
-2. **DCKT payroll — actionable today, no MCP needed.** Homebase 07/31: payroll period ends in 2 days (Aug 2), 29.6 hrs logged yesterday. Review and queue payroll before the weekend so it doesn't slip past Sunday.
-3. **Lone Star Kayak (Austin) still dark, still the highest-risk unknown.** Last clean read (07-25) ran 0 tours / $0; 07-26 a rental booked then instantly refunded, manifest "No availabilities." Now 6 days blind. Confirm LSKT availabilities are open and the boat/staffing isn't down the moment FH is back.
+1. **Data pipeline blackout — day 6, fix it in an interactive session today.** Same 6 MCP servers (GBP, Google Ads, Meta, GSC/GA4, IG, Playwright) failed again, business Gmail still offline, FH scraper still broken. A full Saturday peak day (08-01) already passed with zero booking/review visibility and today is another peak Sunday. Open `claude` interactively: re-auth/restart the MCPs and get GBP + FareHarbor back first.
+2. **DCKT payroll ends TODAY (Aug 2) + a crew member is in overtime.** Homebase daily 08-02: 41.8 hrs yesterday, payroll period ends today. Homebase alert: Torey Griffith past 40 hrs and still clocked in. Close the clock-out and queue payroll before it slips past Sunday. No MCP needed.
+3. **FareHarbor scraper — re-auth it, the fix is copy-paste.** DCKT's EOD email prints it: `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup`, then approve the 2SV text. Until this runs, every booking/revenue number stays dark. LSKT (Austin) also still needs an availabilities check the moment FH is back, and its Soward v. TripAdvisor litigation has a document-disclosure step to route to counsel.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (07-30) | 7-day avg | Δ |
+| Signal | Yesterday (08-01) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (personal inbox, 7d) | 6 | ~10-12 | -5 |
-| Unreplied GBP reviews (all biz) | — (no GBP access) | — | — |
-| FH bookings booked (6 tracked biz) | — (scrape failed) | ~64 (last clean 07-25) | — |
-| FH revenue booked (6 tracked biz) | — (scrape failed) | ~$11,016 (07-25) | — |
-| Total ad spend (Google + Meta) | — (no ad access) | — | — |
-| Total ad-attributed conversions | — (no ad access) | — | — |
+| Gmail unread (personal inbox) | 10 | ~10-12 | flat |
+| Unreplied GBP reviews (all biz) | — (GBP server down) | — | — |
+| FH bookings booked (all biz) | — (scrape broken) | ~64 (last clean 07-25) | — |
+| FH revenue booked (all biz) | — (scrape broken) | ~$11,016 (07-25) | — |
+| Total ad spend (Google + Meta) | — (ad servers down) | — | — |
+| Total ad-attributed conversions | — (ad servers down) | — | — |
 <!-- pulse:end -->
 *Several ad accounts are shared across businesses (LSKT+AKT; NPB+NKST+Bike Bar+Admire NOLA; DCKT+DC Ebike+Cave Point; HPB+Buffalo Bayou) — spend can't always be split per-business. See today's brief for detail.
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-07-31]] (today)
-- [[Daily Briefings/2026-07-30]] (1 day ago)
-- [[Daily Briefings/2026-07-29]] (2 days ago)
-- [[Daily Briefings/2026-07-28]] (3 days ago)
-- [[Daily Briefings/2026-07-27]] (4 days ago)
-- [[Daily Briefings/2026-07-26]] (5 days ago)
-- [[Daily Briefings/2026-07-25]] (6 days ago)
+- [[Daily Briefings/2026-08-02]] (today)
+- [[Daily Briefings/2026-07-31]] (2 days ago)
+- [[Daily Briefings/2026-07-30]] (3 days ago)
+- [[Daily Briefings/2026-07-29]] (4 days ago)
+- [[Daily Briefings/2026-07-28]] (5 days ago)
+- [[Daily Briefings/2026-07-27]] (6 days ago)
+- [[Daily Briefings/2026-07-26]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps
