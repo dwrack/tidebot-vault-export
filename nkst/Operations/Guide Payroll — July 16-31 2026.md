@@ -1,5 +1,11 @@
 # Guide Payroll — July 16-31, 2026
 
+> **STATUS: PAID — 2026-08-02.** David ran the full $1,600 via PayPal, Michelle at $100/tour (the $125 claim was audited and found to have no basis — see below). All five guides paid as listed in the table.
+>
+> **Carried into Aug 1-15:** the $65 card tip from 8/1 still needs passing through to whoever ran that tour, and that guide is still unidentified in FareHarbor.
+>
+> **Committed to guides 2026-08-02:** W-9s and contracts get reviewed and brought current before the next pay period closes.
+
 *Pulled from FareHarbor crew assignments on 2026-08-02. Due on or before Jul 31 (bi-monthly: 1st-15th paid the 15th, 16th-EOM paid the last day).*
 
 **Source:** `~/Projects/fareharbor-brief/guide-payroll.mjs` reads the FareHarbor calendar API and credits every `crew_member` assigned to a departure that actually ran (customer_count > 0, not cancelled). Re-run any period with:
@@ -58,7 +64,7 @@ Everything actually verifiable says $100: Stephanie's $600 payout back-solves ex
 
 ## Payout table — July 16-31
 
-| Guide | Standard | Extended | Tours | Guests | At $100/$200 |
+| Guide | Standard | Extended | Tours | Guests | Paid |
 |---|---|---|---|---|---|
 | Stephanie Lazensky | 5 | 1 | 6 | 32 | **$700** |
 | River Bourne | 4 | 0 | 4 | 26 | **$400** |
@@ -67,7 +73,7 @@ Everything actually verifiable says $100: Stephanie's $600 payout back-solves ex
 | Alexis Hingle | 1 | 0 | 1 | 6 | **$100** |
 | | | | **15** | **87** | **$1,600** |
 
-Michelle's two are 7/24 9am (11 guests) and 7/31 9am (4 guests). If her rate is $125 rather than $100, her line is $250 and the period total is $1,650.
+Paid 2026-08-02 via PayPal. Michelle's two are 7/24 9am (11 guests) and 7/31 9am (4 guests), paid at $100.
 
 Plus 2 Bayou Kayak Rentals departures (7/30, 7/31, 3 guests total) with no crew assigned. Self-guided, no guide pay.
 
