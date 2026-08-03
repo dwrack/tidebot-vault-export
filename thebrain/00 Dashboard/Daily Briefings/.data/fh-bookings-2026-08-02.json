@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at": "2026-08-03T11:17:39.685Z",
+    "for_date": "2026-08-02",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {},
+  "errors": {
+    "buffalobayoukayak": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
+    "doorcountykayaktours": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
+    "houstonpedalbarge": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
+    "lonestarkayaktours": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
+    "neworleanskayakswamptours": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'",
+    "neworleanspedalbarge": "Error: ENOENT: no such file or directory, open '/Users/davidrack/Projects/fareharbor-brief/debug/reports-advanced-body.json'"
+  }
+}
