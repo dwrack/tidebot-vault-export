@@ -1,25 +1,25 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-02 (degraded run, day 6 — same 6 MCP servers + business Gmail still offline; FH scrape still broken. Saturday peak day 08-01 passed blind, now a peak Sunday blind too.)*
+*Last refresh: 2026-08-03 (degraded run, day 7 — same 6 MCP servers + business Gmail still offline; FH scrape still broken. Both peak weekend days 08-01 and 08-02 passed blind.)*
 
 ## Right now
-- [[Daily Briefings/2026-08-02|Today's brief]]
+- [[Daily Briefings/2026-08-03|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Data pipeline blackout — day 6, fix it in an interactive session today.** Same 6 MCP servers (GBP, Google Ads, Meta, GSC/GA4, IG, Playwright) failed again, business Gmail still offline, FH scraper still broken. A full Saturday peak day (08-01) already passed with zero booking/review visibility and today is another peak Sunday. Open `claude` interactively: re-auth/restart the MCPs and get GBP + FareHarbor back first.
-2. **DCKT payroll ends TODAY (Aug 2) + a crew member is in overtime.** Homebase daily 08-02: 41.8 hrs yesterday, payroll period ends today. Homebase alert: Torey Griffith past 40 hrs and still clocked in. Close the clock-out and queue payroll before it slips past Sunday. No MCP needed.
-3. **FareHarbor scraper — re-auth it, the fix is copy-paste.** DCKT's EOD email prints it: `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup`, then approve the 2SV text. Until this runs, every booking/revenue number stays dark. LSKT (Austin) also still needs an availabilities check the moment FH is back, and its Soward v. TripAdvisor litigation has a document-disclosure step to route to counsel.
+1. **Data pipeline blackout — day 7, fix it in an interactive session today.** Same 6 MCP servers (GBP, Google Ads, Meta, GSC/GA4, IG, Playwright) failed again, business Gmail still offline, FH scraper still broken. Both peak weekend days (Sat 08-01, Sun 08-02) passed with zero booking/review/ad visibility. Open `claude` interactively: re-auth/restart the MCPs and get GBP + FareHarbor back first.
+2. **Personal — clear the Chase fraud alert on card ending 1450.** Chase sent a "confirm this transaction" alert at 7:37am today. Confirm or deny it now; if it wasn't you, lock the card.
+3. **DCKT — run payroll today.** Homebase daily 08-03: "It's time to run payroll." Pay period ended Sunday. EOD 08-02: $576 labor, 29 hrs, 4 on shift. No MCP needed. (Then re-auth FareHarbor: `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup` + approve the 2SV text — every booking/revenue number stays dark until it runs.)
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-01) | 7-day avg | Δ |
+| Signal | Yesterday (08-02) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (personal inbox) | 10 | ~10-12 | flat |
+| Gmail unread (personal inbox) | 13 | ~10-12 | +1-3 |
 | Unreplied GBP reviews (all biz) | — (GBP server down) | — | — |
 | FH bookings booked (all biz) | — (scrape broken) | ~64 (last clean 07-25) | — |
 | FH revenue booked (all biz) | — (scrape broken) | ~$11,016 (07-25) | — |
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-02]] (today)
-- [[Daily Briefings/2026-07-31]] (2 days ago)
-- [[Daily Briefings/2026-07-30]] (3 days ago)
-- [[Daily Briefings/2026-07-29]] (4 days ago)
-- [[Daily Briefings/2026-07-28]] (5 days ago)
-- [[Daily Briefings/2026-07-27]] (6 days ago)
-- [[Daily Briefings/2026-07-26]] (7 days ago)
+- [[Daily Briefings/2026-08-03]] (today)
+- [[Daily Briefings/2026-08-02]] (1 day ago)
+- [[Daily Briefings/2026-07-31]] (3 days ago)
+- [[Daily Briefings/2026-07-30]] (4 days ago)
+- [[Daily Briefings/2026-07-29]] (5 days ago)
+- [[Daily Briefings/2026-07-28]] (6 days ago)
+- [[Daily Briefings/2026-07-27]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

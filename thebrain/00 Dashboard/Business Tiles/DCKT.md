@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 6)"
-updated: 2026-08-02
+alert: "data stale - FH scrape missing (day 7)"
+updated: 2026-08-03
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All marketing channels dark, day 6 (GBP/Ads/Meta/GSC/GA4/IG all offline).
-- **Only live signal today.** EOD 08-01: $880 labor, 42 hrs, 4 on shift. Homebase daily 08-02: 41.8 hrs, **payroll period ends today**.
-- **Action:** Torey Griffith past 40 hrs and still clocked in — close the clock-out and queue payroll before it slips past Sunday.
+- All marketing channels dark, day 7 (GBP/Ads/Meta/GSC/GA4/IG all offline).
+- **Only live signal today.** EOD 08-02 (Sun): $576 labor, 29 hrs, 4 on shift. Homebase daily 08-03: "It's time to run payroll."
+- **Action:** Run DCKT payroll today — the pay period ended Sunday and Homebase is prompting for it.
 <!-- live:end -->
 
 ## Quick links
