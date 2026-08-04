@@ -106,6 +106,7 @@
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
+- [ ] [Guide log] Consider preparedness for cooler weather conditions on future trips to enhance guest comfort. _(Tyler (audio log), 2026-08-04)_
 - [ ] [Guide log] Clean the kayaks. _(Dave (audio log), 2026-07-22)_
 - [ ] [Guide log] Ensure all paddles are accounted for. _(John (audio log), 2026-06-16)_
 - [ ] [Guide log] Check condition and seal of the dry bag used for the first aid kit, as it popped open during the trip and some items got wet. _(Alex (audio log), 2026-06-08)_
