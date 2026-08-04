@@ -2,21 +2,21 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 4
+revenue_today: 675
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data stale - FH scrape missing (day 7)"
-updated: 2026-08-03
+status: green
+alert: null
+updated: 2026-08-04
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All channels dark, day 7. No bookings/reviews/ads/organic visibility.
-- Watched page 'Airboat vs Kayak' can't be measured (GSC/GA4 down); baseline ~3 GA4 views, 0 GSC clicks as of 06-02.
-- Google security-alert email for adventurehidden@ (NKST YouTube recovery) — informational, no action if recognized.
+- **FH scrape is back.** 08-03: 4 new bookings / $675 booked, 0 ran. Today's (08-04) manifest has real tours (~$845 across Bayou rentals + French Quarter pickups).
+- Watched page 'Airboat vs Kayak' still can't be measured (GSC/GA4 down); baseline ~3 GA4 views, 0 GSC clicks as of 06-02.
+- Marketing channels still dark, day 8.
 <!-- live:end -->
 
 ## Quick links

@@ -1,6 +1,6 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-03 (degraded run, day 7 — same 6 MCP servers + business Gmail still offline; FH scrape still broken. Both peak weekend days 08-01 and 08-02 passed blind.)*
+*Last refresh: 2026-08-04 (partial recovery — FareHarbor scrape is BACK, first clean booking data since ~07-25. The 6 marketing MCP servers + business Gmail are still offline, day 8.)*
 
 ## Right now
 - [[Daily Briefings/2026-08-03|Today's brief]]
@@ -10,19 +10,20 @@
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Data pipeline blackout — day 7, fix it in an interactive session today.** Same 6 MCP servers (GBP, Google Ads, Meta, GSC/GA4, IG, Playwright) failed again, business Gmail still offline, FH scraper still broken. Both peak weekend days (Sat 08-01, Sun 08-02) passed with zero booking/review/ad visibility. Open `claude` interactively: re-auth/restart the MCPs and get GBP + FareHarbor back first.
-2. **Personal — clear the Chase fraud alert on card ending 1450.** Chase sent a "confirm this transaction" alert at 7:37am today. Confirm or deny it now; if it wasn't you, lock the card.
-3. **DCKT — run payroll today.** Homebase daily 08-03: "It's time to run payroll." Pay period ended Sunday. EOD 08-02: $576 labor, 29 hrs, 4 on shift. No MCP needed. (Then re-auth FareHarbor: `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup` + approve the 2SV text — every booking/revenue number stays dark until it runs.)
+1. **Portfolio — reconnect the 6 marketing MCP servers + business Gmail in an interactive session today.** FH is back, but GBP reviews, Google Ads, Meta paid, GSC, GA4, IG organic and all four business inboxes are still dark (day 8). Weekend reviews and customer emails are unseen. Open `claude` interactively and re-auth GBP + business Gmail first.
+2. **Houston Pedal Barge — check the FareHarbor availability calendar now.** HPB took 1 booking / $121 on 08-03 and has **no availabilities scheduled today (08-04)**. If trips should be listed and aren't, that's daily lost revenue. Confirm HPB has bookable slots up.
+3. **Reconnect a business Gmail inbox — customer email is invisible.** Personal inbox has 6 unread, all automated. Booking questions/refunds route to the offline business inboxes. Priority: gmail-doorcountyzip (DCKT) and gmail-nolapedalbarge (NPB).
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-02) | 7-day avg | Δ |
+| Signal | Yesterday (08-03) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (personal inbox) | 13 | ~10-12 | +1-3 |
+| Gmail unread (personal inbox) | 6 | ~10-12 | -4 to -6 |
 | Unreplied GBP reviews (all biz) | — (GBP server down) | — | — |
-| FH bookings booked (all biz) | — (scrape broken) | ~64 (last clean 07-25) | — |
-| FH revenue booked (all biz) | — (scrape broken) | ~$11,016 (07-25) | — |
+| FH bookings booked (6 scraped biz) | 77 | — (no clean history) | — |
+| FH revenue booked (6 scraped biz) | $9,486 | — (no clean history) | — |
+| FH revenue that ran (6 scraped biz) | $9,266 | — | — |
 | Total ad spend (Google + Meta) | — (ad servers down) | — | — |
 | Total ad-attributed conversions | — (ad servers down) | — | — |
 <!-- pulse:end -->
@@ -34,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-03]] (today)
-- [[Daily Briefings/2026-08-02]] (1 day ago)
-- [[Daily Briefings/2026-07-31]] (3 days ago)
-- [[Daily Briefings/2026-07-30]] (4 days ago)
-- [[Daily Briefings/2026-07-29]] (5 days ago)
-- [[Daily Briefings/2026-07-28]] (6 days ago)
-- [[Daily Briefings/2026-07-27]] (7 days ago)
+- [[Daily Briefings/2026-08-04]] (today)
+- [[Daily Briefings/2026-08-03]] (1 day ago)
+- [[Daily Briefings/2026-08-02]] (2 days ago)
+- [[Daily Briefings/2026-07-31]] (4 days ago)
+- [[Daily Briefings/2026-07-30]] (5 days ago)
+- [[Daily Briefings/2026-07-29]] (6 days ago)
+- [[Daily Briefings/2026-07-28]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

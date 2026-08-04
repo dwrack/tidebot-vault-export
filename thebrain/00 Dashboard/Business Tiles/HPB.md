@@ -2,21 +2,21 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 121
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale - FH scrape missing (day 7)"
-updated: 2026-08-03
+alert: "1 booking 08-03 + zero availabilities scheduled today — check FH calendar"
+updated: 2026-08-04
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- All channels dark, day 7. No bookings/reviews/ads/organic visibility.
-- TikTok pull skipped — Playwright offline, can't tell if session is expired or just unreachable.
-- Restore GBP + FareHarbor first; recheck @houstonpedalbarge analytics once Playwright is back.
+- **FH scrape is back — and it's a warning.** 08-03: just 1 booking / $121, 0 ran. Today's (08-04) manifest shows **"No availabilities"** — nothing scheduled to run.
+- **Action:** Check the FareHarbor availability calendar. If trips should be listed and aren't, that's daily lost revenue in peak season.
+- TikTok pull skipped — Playwright offline. Recheck @houstonpedalbarge analytics once it's back.
 <!-- live:end -->
 
 ## Quick links
