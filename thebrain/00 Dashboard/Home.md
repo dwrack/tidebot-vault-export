@@ -1,29 +1,30 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-04 (partial recovery — FareHarbor scrape is BACK, first clean booking data since ~07-25. The 6 marketing MCP servers + business Gmail are still offline, day 8.)*
+*Last refresh: 2026-08-05 07:24 CDT (Day 9 of the marketing-MCP outage. FareHarbor clean. Live signal caught via personal Gmail: a new Yelp review to answer + a Google Ads security request. GSC numbers recovered from July rollup emails.)*
 
 ## Right now
-- [[Daily Briefings/2026-08-03|Today's brief]]
+- [[Daily Briefings/2026-08-05|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Portfolio — reconnect the 6 marketing MCP servers + business Gmail in an interactive session today.** FH is back, but GBP reviews, Google Ads, Meta paid, GSC, GA4, IG organic and all four business inboxes are still dark (day 8). Weekend reviews and customer emails are unseen. Open `claude` interactively and re-auth GBP + business Gmail first.
-2. **Houston Pedal Barge — check the FareHarbor availability calendar now.** HPB took 1 booking / $121 on 08-03 and has **no availabilities scheduled today (08-04)**. If trips should be listed and aren't, that's daily lost revenue. Confirm HPB has bookable slots up.
-3. **Reconnect a business Gmail inbox — customer email is invisible.** Personal inbox has 6 unread, all automated. Booking questions/refunds route to the offline business inboxes. Priority: gmail-doorcountyzip (DCKT) and gmail-nolapedalbarge (NPB).
+1. **Portfolio — new Yelp review from "Ree R." (08-04) needs a reply.** Yelp's email doesn't name the business or rating, so open Yelp for Business, find the review, and respond. Unanswered public reviews compound.
+2. **Gravity Trails NOLA (Google Ads 437-823-2023) — action-required security request.** Google flags doorcountyzip@gmail.com (your own DCKT ops address) on the account. Almost certainly legit team access; confirm it's you, then approve. Don't leave it open.
+3. **Houston Pedal Barge — 0 bookings 08-04 (1 on 08-03) and no availabilities on the 08-05 manifest.** Two flat days and no bookable trips showing. Log into FareHarbor and confirm HPB slots are published; every dark day is guaranteed $0.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-03) | 7-day avg | Δ |
+| Signal | Yesterday (08-04) | Prior day (08-03) | Δ |
 |---|---|---|---|
-| Gmail unread (personal inbox) | 6 | ~10-12 | -4 to -6 |
+| Gmail unread (personal inbox, last 3d) | 31 (~4 actionable) | — | — |
 | Unreplied GBP reviews (all biz) | — (GBP server down) | — | — |
-| FH bookings booked (6 scraped biz) | 77 | — (no clean history) | — |
-| FH revenue booked (6 scraped biz) | $9,486 | — (no clean history) | — |
-| FH revenue that ran (6 scraped biz) | $9,266 | — | — |
+| New Yelp review needing reply | 1 | — | +1 |
+| FH bookings booked (6 scraped biz) | 58 | 77 | -19 |
+| FH revenue booked (6 scraped biz) | $5,916 | $9,486 | -$3,570 |
+| FH tours that ran (6 scraped biz) | 24 / $4,079 | 35 / $9,266 | -11 / -$5,187 |
 | Total ad spend (Google + Meta) | — (ad servers down) | — | — |
 | Total ad-attributed conversions | — (ad servers down) | — | — |
 <!-- pulse:end -->
@@ -35,13 +36,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-04]] (today)
-- [[Daily Briefings/2026-08-03]] (1 day ago)
-- [[Daily Briefings/2026-08-02]] (2 days ago)
-- [[Daily Briefings/2026-07-31]] (4 days ago)
-- [[Daily Briefings/2026-07-30]] (5 days ago)
-- [[Daily Briefings/2026-07-29]] (6 days ago)
-- [[Daily Briefings/2026-07-28]] (7 days ago)
+- [[Daily Briefings/2026-08-05]] (today)
+- [[Daily Briefings/2026-08-04]] (1 day ago)
+- [[Daily Briefings/2026-08-03]] (2 days ago)
+- [[Daily Briefings/2026-08-02]] (3 days ago)
+- [[Daily Briefings/2026-07-31]] (5 days ago)
+- [[Daily Briefings/2026-07-30]] (6 days ago)
+- [[Daily Briefings/2026-07-29]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

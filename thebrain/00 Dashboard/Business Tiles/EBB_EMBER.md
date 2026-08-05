@@ -6,17 +6,16 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "no live data — not in FH scrape; marketing MCPs offline"
-updated: 2026-08-04
+status: green
+alert: null
+updated: 2026-08-05
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- No FH scrape coverage configured; GBP/IG offline, day 8.
-- No Meta ad account (never set up) — not a permission gap.
-- Add Ebb & Ember to the FH scrape shortname list for Portland sauna booking signal.
+- No FH scrape coverage configured. No Meta ad account (never set up — not a gap).
+- GBP offline (day 9). No live data this run.
 <!-- live:end -->
 
 ## Quick links

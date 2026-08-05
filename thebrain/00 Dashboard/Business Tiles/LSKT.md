@@ -2,21 +2,21 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 2
-revenue_today: 217
+bookings_today: 4
+revenue_today: 303
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-04
+updated: 2026-08-05
 tile_type: business
 ---
 
 
 <!-- live:start -->
-- **FH scrape is back.** 08-03: 2 new bookings / $217 booked, 2 ran / $217. Sunset Bat Bridge Tour 7:30pm today. Austin volume is thin but positive.
-- **Open legal item:** Soward v. TripAdvisor doc-disclosure email (07-31, Kahana Feld counsel) — route to the handling attorney if not already.
-- Marketing channels still dark (Ads/GBP/GSC/GA4 offline, day 8).
+- FH 08-04: 4 booked / $303; 4 ran / $379 — every booking ran, clean day.
+- July GSC (rollup email): 331 clicks / 17.3K impressions.
+- Shares Google Ads (8497383499) + Meta (act_638850950128825) with AKT; ad servers offline.
 <!-- live:end -->
 
 ## Quick links
