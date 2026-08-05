@@ -115,27 +115,28 @@ Do not put it on Craigslist or Marketplace. Wrong buyer, and you'll spend three 
 
 ## Listing copy (paste-ready)
 
-**Title:** 2021 Trident Cycleboat 35' | USCG COI Good Through 2030, 26 Passengers | Turnkey Party Barge
+**Title:** 2021 Trident 3510 Catamaran Cycleboat 35' | USCG COI Good Through 2030, 26 Passengers | Turnkey Party Barge
 
 **Body:**
 
-2021 Trident 35-foot cycleboat, USCG Subchapter T certified for 26 passengers plus crew, COI in effect through May 14, 2030. Currently in active commercial service on Clear Lake in Seabrook, Texas, running charters and public cruises year-round.
+2021 Trident Pontoons 3510 Catamaran, 35-foot cycleboat, USCG certified for 26 passengers plus 2 crew, COI in effect through May 14, 2030. Currently in active commercial service on Clear Lake in Seabrook, Texas, running charters and public cruises year-round.
 
 This is a working boat, not a project. Motorized with pedal stations for the guests who want them, so it operates like a passenger vessel and markets like a party bike. Covered roof for rain and Texas sun, onboard head, Bluetooth sound system, and party lighting already installed and running.
 
 What you're really buying is the Certificate of Inspection. Getting a new small passenger vessel through USCG inspection is a long road. This one is already there, with inspection history and service records available for review.
 
 Specs:
-- USCG Subchapter T COI, 26 passengers, effective through May 14, 2030
-- 35' x 10.5' fiberglass hull, white and green
-- Build year 2021. HIN TXR08124F121. Official Number 1345151.
-- 4 gross tons / 4 net tons
-- Valid stability letter on file
-- Motorized, with guest pedal stations driving a stern paddle wheel
-- Covered roof
+- USCG COI, 26 passengers + 2 crew, effective through May 14, 2030
+- 35' x 10'6" x 1.5' welded aluminum catamaran pontoon hull (5052 aluminum, .125" thickness), white with green canopy
+- Single 90 HP gasoline outboard, 1 shaft, driving a stern paddle wheel
+- Build year 2021, hull laid 9/15/2021, delivered 1/5/2022. HIN TXR08124F121. Official Number 1345151.
+- 4.2 gross tons / 4 net tons
+- Valid stability letter on file since January 2022
+- Covered roof, marine-grade decking, 39.5" aluminum railings throughout
 - Onboard head
 - Bluetooth sound system and party lights
 - Full inspection and maintenance records available
+- Hull repainted July 2026
 - Currently generating revenue in commercial service
 
 Next scheduled drydock is February 2027, disclosed up front.
@@ -144,13 +145,33 @@ Serious inquiries only. Survey welcome. Located Seabrook, TX (Clear Lake / Kemah
 
 Contact: Connor Champagne, Manager — info@houstonpedalbarge.com — (832) 974-0365
 
-*[Insert after confirming: engine make/HP/hours.]*
+*[Insert after confirming: engine make and hour reading.]*
+
+**Corrections applied 2026-08-05, sourced from the CG-3752 and the Trident builder spec sheet in `Vessels/Delta Dream/`:**
+- Hull is **aluminum**, not fiberglass. Earlier drafts had this wrong.
+- Model is the Trident Pontoons **3510 Catamaran**, not the Poseidon 26 as previously guessed.
+- Engine is a **single 90 HP gasoline outboard**. Hours still unknown.
+- The CG-3752 lists inspection subchapter **K**, not T. Don't assert either one in ad copy until the actual COI is in hand. "USCG certified for 26 passengers" is accurate and safe.
 
 ---
 
 ## Photos and video you need
 
-There is no usable Delta Dream photography in the vault right now. One decent shoot is worth several thousand dollars on a boat at this price. Shoot on a clear day, boat clean, dock lines coiled:
+**Update 2026-08-05: five usable Delta Dream photos are now staged in `Vessels/Delta Dream/Listing Photos/`.** Four came from Connor by text on 2026-06-26, one from the vault. All confirmed Delta Dream (TX 8632 KS / green canopy), not Mama Tried:
+
+| File | Shot |
+|---|---|
+| `delta-dream-port-profile.jpg` | Port profile, registration visible, marina background. Best hero. |
+| `delta-dream-stern-full-boat.jpg` | Stern-on, full boat, green canopy, disco balls visible |
+| `delta-dream-starboard-dockside.jpg` | Starboard quarter alongside the finger pier |
+| `delta-dream-paddle-wheel.jpg` | Paddle wheel close, Delta Dream / Seabrook TX life ring in frame |
+| `delta-dream-bow-quarter-elevated.jpg` | Elevated bow quarter, both boats in frame |
+
+Careful with the vault's `Assets/Photos/IMG_641x–642x` set: those are **Mama Tried** (TX 9771 KP, tan canopy). Don't put them in a Delta Dream listing.
+
+Still missing, in priority order: helm station, head interior, engine close (cowling on and off), deck from bow looking aft on *this* boat, dusk shot with party lights on, a readable photo of the COI, and drone overhead underway.
+
+One decent shoot is worth several thousand dollars on a boat at this price. Shoot on a clear day, boat clean, dock lines coiled:
 
 - Bow-on and stern-on, dockside, full boat in frame
 - Both profiles (port and starboard)
