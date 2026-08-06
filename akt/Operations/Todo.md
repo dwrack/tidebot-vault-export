@@ -4,6 +4,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Send post-trip media (photos/videos) to guests as promised. _(peterjosephhatchell (audio log), 2026-08-06)_
 - [ ] [Guide log] Restock the first aid kit with more band-aids. _(peterjosephhatchell (audio log), 2026-08-03)_
 - [ ] [Guide log] Replace or repair broken paddle. _(Ethan (audio log), 2026-07-12)_
 - [ ] [Guide log] Reapply resources in FareHarbor to ensure correct capacity is reflected after the time change. _(David Rack (audio log), 2026-06-16)_
