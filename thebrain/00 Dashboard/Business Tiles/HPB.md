@@ -7,16 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "0 bookings 08-04, no availabilities on 08-05 manifest"
-updated: 2026-08-05
+alert: "0 bookings 3rd straight day — check manifest availability"
+updated: 2026-08-06
 tile_type: business
 ---
 
-
 <!-- live:start -->
-- FH 08-04: 0 booked / $0, 0 ran; **no availabilities on the 08-05 manifest**. Second flat day running.
-- July GSC (rollup email): 821 clicks / 20.1K impressions — organic traffic is fine, so the problem is availability/conversion, not demand.
-- ACTION: confirm bookable slots are published on FareHarbor.
+- FH 08-05: 0 booked / $0, third straight flat day (0 on 08-04, 1 on 08-03).
+- July GSC (rollup email): 821 clicks / 20.1K impressions — traffic is fine, so the problem is availability/conversion.
+- ACTION: log into FareHarbor and confirm bookable slots are published.
 <!-- live:end -->
 
 ## Quick links

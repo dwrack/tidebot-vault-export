@@ -6,16 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-05
+status: yellow
+alert: "no FH scrape coverage; no Meta/Google Ads by design"
+updated: 2026-08-06
 tile_type: business
 ---
 
-
 <!-- live:start -->
-- No FH scrape coverage configured. No Meta ad account (never set up — not a gap).
-- GBP offline (day 9). No live data this run.
+- No FareHarbor scrape coverage configured; no booking data.
+- No Meta ad account / no Google Ads by design. GBP/IG offline this run.
 <!-- live:end -->
 
 ## Quick links

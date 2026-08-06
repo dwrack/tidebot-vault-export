@@ -6,16 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-05
+status: yellow
+alert: "no FH/GBP/Ads coverage; IG only"
+updated: 2026-08-06
 tile_type: business
 ---
 
-
 <!-- live:start -->
-- No FH / GBP / GSC / Ads coverage (IG-only brand).
-- No live data this run.
+- IG-only brand; no FH/GBP/GSC/Ads coverage configured.
+- meta-organic offline this run — no IG signal.
 <!-- live:end -->
 
 ## Quick links

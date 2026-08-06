@@ -1,30 +1,29 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-05 07:24 CDT (Day 9 of the marketing-MCP outage. FareHarbor clean. Live signal caught via personal Gmail: a new Yelp review to answer + a Google Ads security request. GSC numbers recovered from July rollup emails.)*
+*Last refresh: 2026-08-06 07:24 CDT (Day 10 of the marketing-MCP outage. FareHarbor had its best day of the week: 08-05 booked $11,335, ran $9,785. Root cause of the outage found: MCP servers point to /Users/wavey paths, not /Users/davidrack. Live signal via personal Gmail: aging Yelp review + Google Ads security request. GSC from July rollup emails.)*
 
 ## Right now
-- [[Daily Briefings/2026-08-05|Today's brief]]
+- [[Daily Briefings/2026-08-06|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Portfolio — new Yelp review from "Ree R." (08-04) needs a reply.** Yelp's email doesn't name the business or rating, so open Yelp for Business, find the review, and respond. Unanswered public reviews compound.
-2. **Gravity Trails NOLA (Google Ads 437-823-2023) — action-required security request.** Google flags doorcountyzip@gmail.com (your own DCKT ops address) on the account. Almost certainly legit team access; confirm it's you, then approve. Don't leave it open.
-3. **Houston Pedal Barge — 0 bookings 08-04 (1 on 08-03) and no availabilities on the 08-05 manifest.** Two flat days and no bookable trips showing. Log into FareHarbor and confirm HPB slots are published; every dark day is guaranteed $0.
+1. **Portfolio — Yelp review from "Ree R." (08-04) now 2 days unanswered.** Yelp's email doesn't name the business or rating, so open Yelp for Business, find the review, and respond today. Aged past 48h.
+2. **Gravity Trails NOLA (Google Ads 437-823-2023) — action-required security request, still open.** Google flags doorcountyzip@gmail.com (your own DCKT ops address). Almost certainly legit; confirm it's you, then approve.
+3. **Fix the MCP config paths (day 10).** Every failed server points to /Users/wavey/.claude/mcp-servers, but this machine is /Users/davidrack, so nothing launches. Re-point the paths, then approve meta-organic/playwright/clarity in an interactive `claude` session.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-04) | Prior day (08-03) | Δ |
+| Signal | Yesterday (08-05) | Prior clean days avg (08-03/08-04) | Δ |
 |---|---|---|---|
-| Gmail unread (personal inbox, last 3d) | 31 (~4 actionable) | — | — |
+| Gmail unread (personal inbox) | 47 (~4 actionable) | — | — |
 | Unreplied GBP reviews (all biz) | — (GBP server down) | — | — |
-| New Yelp review needing reply | 1 | — | +1 |
-| FH bookings booked (6 scraped biz) | 58 | 77 | -19 |
-| FH revenue booked (6 scraped biz) | $5,916 | $9,486 | -$3,570 |
-| FH tours that ran (6 scraped biz) | 24 / $4,079 | 35 / $9,266 | -11 / -$5,187 |
+| Open Yelp review needing reply | 1 (aged 2 days) | — | +1 |
+| FH bookings booked (6 scraped biz) | 52 / $11,335 | 67.5 / $7,701 | -15.5 / +$3,634 |
+| FH tours that ran (6 scraped biz) | 37 / $9,785 | 29.5 / $6,673 | +7.5 / +$3,112 |
 | Total ad spend (Google + Meta) | — (ad servers down) | — | — |
 | Total ad-attributed conversions | — (ad servers down) | — | — |
 <!-- pulse:end -->
@@ -36,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-05]] (today)
-- [[Daily Briefings/2026-08-04]] (1 day ago)
-- [[Daily Briefings/2026-08-03]] (2 days ago)
-- [[Daily Briefings/2026-08-02]] (3 days ago)
-- [[Daily Briefings/2026-07-31]] (5 days ago)
-- [[Daily Briefings/2026-07-30]] (6 days ago)
-- [[Daily Briefings/2026-07-29]] (7 days ago)
+- [[Daily Briefings/2026-08-06]] (today)
+- [[Daily Briefings/2026-08-05]] (1 day ago)
+- [[Daily Briefings/2026-08-04]] (2 days ago)
+- [[Daily Briefings/2026-08-03]] (3 days ago)
+- [[Daily Briefings/2026-08-02]] (4 days ago)
+- [[Daily Briefings/2026-07-31]] (6 days ago)
+- [[Daily Briefings/2026-07-30]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

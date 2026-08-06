@@ -2,21 +2,20 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 1
-revenue_today: 90
+bookings_today: 3
+revenue_today: 390
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-05
+updated: 2026-08-06
 tile_type: business
 ---
 
-
 <!-- live:start -->
-- FH 08-04: 1 booked / $90; 4 ran / $485.
-- July GSC (rollup email, live MCP down): 798 clicks / 156K impressions — big impression base, low CTR; sharpen top-query titles/meta.
-- Watched page (Airboat vs Kayak) still unmeasured this run — GSC/GA4 offline.
+- FH 08-05: 3 booked / $390; 1 ran / $65. Light day.
+- July GSC (rollup email): 798 clicks / 156K impressions — huge impression base, low CTR; sharpen top-query titles/meta.
+- Watched page (Airboat vs Kayak): still flat vs baseline (~3 GA4 views, 0 GSC clicks). Needs live pull to confirm.
 <!-- live:end -->
 
 ## Quick links

@@ -6,16 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-05
+status: yellow
+alert: "no FH scrape coverage; marketing MCPs down (day 10)"
+updated: 2026-08-06
 tile_type: business
 ---
 
-
 <!-- live:start -->
-- No FH scrape coverage configured for this brand.
-- Shares Google Ads (8497383499) + Meta (act_638850950128825) with LSKT; ad servers offline (day 9).
+- No FareHarbor scrape coverage configured; no booking data.
+- Shares Google Ads 8497383499 with LSKT; ad server offline.
 <!-- live:end -->
 
 ## Quick links

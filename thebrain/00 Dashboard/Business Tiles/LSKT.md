@@ -2,21 +2,19 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 4
-revenue_today: 303
+bookings_today: 5
+revenue_today: 639
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-05
+updated: 2026-08-06
 tile_type: business
 ---
 
-
 <!-- live:start -->
-- FH 08-04: 4 booked / $303; 4 ran / $379 — every booking ran, clean day.
+- FH 08-05: 5 booked / $639; 5 ran / $628. Every booking ran, clean day.
 - July GSC (rollup email): 331 clicks / 17.3K impressions.
-- Shares Google Ads (8497383499) + Meta (act_638850950128825) with AKT; ad servers offline.
 <!-- live:end -->
 
 ## Quick links
