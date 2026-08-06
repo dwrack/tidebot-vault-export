@@ -2,7 +2,17 @@
 
 *Master suppression list. Scrub against this before EVERY email blast and every Twilio SMS blast. Email and SMS are treated as one opt-out: if someone opts out of one, they come off both.*
 
-Last updated: 2026-06-21
+Last updated: 2026-08-05
+
+---
+
+## Reinstated (removed from suppression)
+
+| Name | Email | Removed | Basis |
+|------|-------|---------|-------|
+| Serhan Ceran | serhanceran@pm.me | 2026-08-05 | Written re-consent. Replied to the Member Night postponement note from sauna@ (Gmail thread `19fd3e519bcf6665`): "I did not mean to unsubscribe from your emails. I appreciate if you can add me to your mailing list." Deleted from SendGrid global suppression the same day. |
+
+Note: he was on the June list below, which was a **reply-to-unsubscribe** blast with no unsubscribe link. Accidental opt-outs are plausible for that whole cohort — a stray reply could read as "unsubscribe." Don't proactively re-add anyone, but if another June name says the same thing, this is the precedent: get it in writing, then remove.
 
 ---
 
@@ -26,7 +36,6 @@ These came in as email replies because the blast had no unsubscribe link (reply-
 | Daniel Childs | daniel.louis.childs@gmail.com | no |
 | Allie Smith | allieksmith@gmail.com | no |
 | Terry Ku | terryku@utexas.edu | no |
-| Serhan Ceran | serhanceran@pm.me | no |
 | Marty Ripp | martyripp@gmail.com | no |
 | Khang Dang | khdang25@gmail.com | no |
 | Evan Carmi | evan.carmi@gmail.com | no |

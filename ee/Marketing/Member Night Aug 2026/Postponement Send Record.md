@@ -21,7 +21,7 @@ Assets: `postponement-email.html`, `postponement-email.txt`, `postponement-recip
 
 ## Exceptions
 
-- **Serhan Ceran <serhanceran@pm.me>** — unsubscribed 2026-06-05, so SendGrid refused him. He RSVP'd for 2 anyway. Sent him a 1:1 note from sauna@ via Gmail instead (thread `19fd3e519bcf6665`) with the postponement plus a direct question asking whether he still wants to stay unsubscribed. **His suppression record was left intact** — do not resubscribe him unless he replies asking for it.
+- **Serhan Ceran <serhanceran@pm.me>** — was on the June opt-out list, so SendGrid refused him. He RSVP'd for 2 anyway. Sent him a 1:1 note from sauna@ via Gmail instead (thread `19fd3e519bcf6665`) with the postponement plus a direct question asking whether he still wants to stay unsubscribed. **He replied the same day:** "I did not mean to unsubscribe from your emails. I appreciate if you can add me to your mailing list," and said he's looking forward to the rescheduled member night. Removed from SendGrid global suppression and from `Marketing/Do Not Contact List.md` on 2026-08-05. He is back on the list and will get the new-date email.
 - **dwrack81@gmail.com** was removed from global suppression during testing so Davey could see a preview. He is now back on all future Ebb sends. Re-add if that wasn't intended.
 - **jonah@ebbandember.com is suppressed** and will silently miss every Ebb blast until cleared.
 
