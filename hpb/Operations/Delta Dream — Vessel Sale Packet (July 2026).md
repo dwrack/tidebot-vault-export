@@ -51,7 +51,7 @@ Don't sign a purchase agreement until David Ritter has blessed the structure and
 
 Most of the gaps are now closed by the PSIX record above. What's left:
 
-- **Engine:** make, HP, hours. The Trident 26-pax platform ships with a 90HP Suzuki 4-stroke. Confirm what's actually on the transom and get an hour reading.
+- ~~**Engine:** make, HP.~~ **Closed 2026-08-05.** Single **Suzuki 90 HP** gasoline outboard — HP from the CG-3752, make confirmed by the Suzuki tach and fuel gauge in `delta-dream-helm-suzuki-gauges-10s.mp4`. **Still open: the hour reading.** Have Connor photograph the hour meter.
 - **Open CG-835 items.** There's a CG-835 on file dated 26NOV24 and another from 2025, and one amended COI in the history shows as *Revoked*. A buyer's surveyor will find that. Get the current 835 status from Sector Houston-Galveston and know the answer before anyone asks.
 - **Which paper governs the sale.** The boat has a USCG Official Number (1345151), a Texas registration (TX 8632 KS), and a Certificate of Documentation showing **Case Pending**. Pending documentation on a boat you're trying to sell is a closing problem. Resolve it or know exactly where it stands.
 - **Liens:** any bank paper or preferred ship mortgage. TPWD already sent the ownership history affidavit on May 26, so the state side is in hand.
@@ -128,7 +128,7 @@ What you're really buying is the Certificate of Inspection. Getting a new small 
 Specs:
 - USCG COI, 26 passengers + 2 crew, effective through May 14, 2030
 - 35' x 10'6" x 1.5' welded aluminum catamaran pontoon hull (5052 aluminum, .125" thickness), white with green canopy
-- Single 90 HP gasoline outboard, 1 shaft, driving a stern paddle wheel
+- Single Suzuki 90 HP gasoline outboard, 1 shaft, plus a guest-pedal-driven stern paddle wheel
 - Build year 2021, hull laid 9/15/2021, delivered 1/5/2022. HIN TXR08124F121. Official Number 1345151.
 - 4.2 gross tons / 4 net tons
 - Valid stability letter on file since January 2022
@@ -169,7 +169,18 @@ Contact: Connor Champagne, Manager — info@houstonpedalbarge.com — (832) 974-
 
 Careful with the vault's `Assets/Photos/IMG_641x–642x` set: those are **Mama Tried** (TX 9771 KP, tan canopy). Don't put them in a Delta Dream listing.
 
-Still missing, in priority order: helm station, head interior, engine close (cowling on and off), deck from bow looking aft on *this* boat, dusk shot with party lights on, a readable photo of the COI, and drone overhead underway.
+**Two videos are staged in the same folder**, also from Connor's 2026-06-26 batch:
+
+| File | What's in it |
+|---|---|
+| `delta-dream-walkthrough-31s.mp4` | 31 sec. Full deck walkthrough: pedal stations, RESTROOM door, head interior, decking, railings, cooler/water fill. Basically the walkthrough video this packet asked for, already shot. |
+| `delta-dream-helm-suzuki-gauges-10s.mp4` | 10 sec. Helm station close, **Suzuki tach and fuel gauge**, LED party-light remote. |
+
+Pull stills from the walkthrough for the helm and head shots rather than reshooting them.
+
+Connor's 2026-06-06 video is Delta Dream but it's rain pooling on the deck during a storm. Do not use it in a listing.
+
+Still missing, in priority order: engine close (cowling on and off), an hour reading off the motor, dusk shot with party lights on, a readable photo of the COI, and drone overhead underway.
 
 One decent shoot is worth several thousand dollars on a boat at this price. Shoot on a clear day, boat clean, dock lines coiled:
 
