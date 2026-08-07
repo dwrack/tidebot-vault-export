@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "no FH scrape coverage; marketing MCPs down (day 10)"
-updated: 2026-08-06
+alert: "no FH scrape coverage; marketing MCPs down (day 11)"
+updated: 2026-08-07
 tile_type: business
 ---
 

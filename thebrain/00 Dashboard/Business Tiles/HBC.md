@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "no FH/GBP/Ads coverage; IG only"
-updated: 2026-08-06
+updated: 2026-08-07
 tile_type: business
 ---
 

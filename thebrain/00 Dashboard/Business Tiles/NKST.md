@@ -2,20 +2,20 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 3
-revenue_today: 390
+bookings_today: 2
+revenue_today: 380
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-06
+updated: 2026-08-07
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-05: 3 booked / $390; 1 ran / $65. Light day.
-- July GSC (rollup email): 798 clicks / 156K impressions — huge impression base, low CTR; sharpen top-query titles/meta.
-- Watched page (Airboat vs Kayak): still flat vs baseline (~3 GA4 views, 0 GSC clicks). Needs live pull to confirm.
+- FH 08-06: 2 booked / $380; 0 ran. Light day, normal for the volume.
+- Enphase 08-07: NKST solar system produced 0.0 kWh for all of July — check the array/gateway (Site ID 3201014).
+- Watched page (Airboat vs Kayak): no data — GSC pull down. Needs live pull to confirm movement.
 <!-- live:end -->
 
 ## Quick links

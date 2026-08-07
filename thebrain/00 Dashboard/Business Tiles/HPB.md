@@ -7,15 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "0 bookings 3rd straight day — check manifest availability"
-updated: 2026-08-06
+alert: "0 bookings 6 days running — check manifest availability + Houston heat lull"
+updated: 2026-08-07
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-05: 0 booked / $0, third straight flat day (0 on 08-04, 1 on 08-03).
-- July GSC (rollup email): 821 clicks / 20.1K impressions — traffic is fine, so the problem is availability/conversion.
-- ACTION: log into FareHarbor and confirm bookable slots are published.
+- FH 08-06: 0 booked / $0 — roughly sixth straight near-zero day (only 1 booking on 08-03 all window).
+- Traffic was fine in July (821 clicks per rollup), so the issue is availability/conversion or a real Houston-August heat lull.
+- ACTION: log into FareHarbor and confirm bookable slots are actually published for HPB.
 <!-- live:end -->
 
 ## Quick links

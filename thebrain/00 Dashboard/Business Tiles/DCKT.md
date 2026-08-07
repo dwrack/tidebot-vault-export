@@ -2,20 +2,21 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 21
-revenue_today: 2723
+bookings_today: 35
+revenue_today: 4182
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-06
+updated: 2026-08-07
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-05: 21 booked / $2,723; 28 ran / $8,699 — ran-revenue roared back from Tuesday's $3,036.
-- July GSC (rollup email): 2,960 clicks / 130K impressions — the portfolio's organic engine.
-- Homebase 08-06: 1 missed clock-out needs review (75.9 hrs logged).
+- FH 08-06: 35 booked / $4,182; 38 ran / $11,930 — the day's revenue engine, best ran total of the window.
+- EOD 08-06: $11,367 rev, $1,470 labor (13%), 12 on shift — healthy.
+- Homebase 08-07: Jackson Heibel missed clock-out + over 40 hrs — fix the punch before payroll.
+- Ads/GSC dark (MCP outage day 11).
 <!-- live:end -->
 
 ## Quick links

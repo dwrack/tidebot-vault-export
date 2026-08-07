@@ -2,19 +2,20 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 19
-revenue_today: 7312
+bookings_today: 26
+revenue_today: 4056
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-06
+updated: 2026-08-07
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-05: 19 booked / $7,312; 2 ran / $252 — the portfolio revenue leader on the day (big-ticket future bookings).
-- July GSC (rollup email): 1,450 clicks / 87.8K impressions.
+- FH 08-06: 26 booked / $4,056 (barge "ran" counts don't get captured by the scraper — booked revenue is the real signal).
+- Second-strongest booked revenue in the portfolio behind DCKT.
+- Ads/GSC/IG dark (MCP outage day 11).
 <!-- live:end -->
 
 ## Quick links
