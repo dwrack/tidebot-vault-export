@@ -12,6 +12,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Review and potentially enhance pre-trip wildlife safety briefings, specifically regarding alligator encounters, given the guest fright experienced. _(Captain Tyler (audio log), 2026-08-08)_
 - [ ] [Guide log] Put up a gator warning sign at the top of the dock. _(Jaidyn (audio log), 2026-08-08)_
 - [ ] [Guide log] Replace the broken paddle. _(Alex (audio log), 2026-07-19)_
 - [ ] [Guide log] Replace the chipped black paddle. _(Alex (audio log), 2026-07-18)_
