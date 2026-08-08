@@ -42,6 +42,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Replace fraying bungee cord on the front of one tandem kayak. _(Ryan (audio log), 2026-08-08)_
 - [ ] [Guide log] Repair one dry bag with a small tear. _(Tyler (audio log), 2026-08-08)_
 - [ ] [Guide log] Paddle number three blade is a little bit loose, needs attention. _(Captain Matt (audio log), 2026-08-02)_
 - [ ] [Guide log] Add lubricant to kayak 7's rudder. _(Josh (audio log), 2026-08-02)_
