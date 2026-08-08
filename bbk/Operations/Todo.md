@@ -12,6 +12,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Put up a gator warning sign at the top of the dock. _(Jaidyn (audio log), 2026-08-08)_
 - [ ] [Guide log] Replace the broken paddle. _(Alex (audio log), 2026-07-19)_
 - [ ] [Guide log] Replace the chipped black paddle. _(Alex (audio log), 2026-07-18)_
 - [ ] [Guide log] Kayak number seven has a loose bolt near the back and needs maintenance. _(Max (audio log), 2026-07-18)_
