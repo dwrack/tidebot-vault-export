@@ -42,6 +42,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Repair one dry bag with a small tear. _(Tyler (audio log), 2026-08-08)_
 - [ ] [Guide log] Paddle number three blade is a little bit loose, needs attention. _(Captain Matt (audio log), 2026-08-02)_
 - [ ] [Guide log] Add lubricant to kayak 7's rudder. _(Josh (audio log), 2026-08-02)_
 - [ ] [Guide log] The bilge pump on the Sea Ghost is making a weird noise and will need to be replaced soon. _(Captain Alex (audio log), 2026-07-21)_
