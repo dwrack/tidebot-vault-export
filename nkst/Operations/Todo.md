@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] [Guide log] Address the health hazard posed by extreme heat in the shipping container where life vests are stored. Consider solutions for improved ventilation, a fan, or an alternative storage method for deep summer conditions. _(river (audio log), 2026-08-08)_
 - [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 - [ ] [Guide log] Investigate the missing boat from the second trailer behind the hotel. _(Amanchek (audio log), 2026-07-17)_
 - [ ] [Guide log] Notify management about the baby gator at the launch area. _(Amancha (audio log), 2026-07-17)_
