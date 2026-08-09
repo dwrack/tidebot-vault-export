@@ -1,6 +1,6 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-08 07:24 CDT (Day 12 of the marketing-MCP outage — still the /Users/wavey path bug. New today: the FareHarbor scrape came back empty (page shell, no report table), so the brief is running on personal Gmail alone. Yelp review now 4 days stale, Google Ads security request escalated to a reminder, DCKT overtime/missed-punch two days running, LSKT + hiddenadventuretours throwing new GSC index reasons, NKST solar still at 0 kWh.)*
+*Last refresh: 2026-08-09 07:26 CDT (Day 13 of the marketing-MCP outage — still the /Users/wavey path bug, all ad/review/search/social/TikTok servers down. Good news: the FareHarbor scrape recovered overnight, so the brief has real 08-08 numbers again. Monster Saturday — NPB $14,539, DCKT $10,627, no business in the red. Two NPB Yelp reviews still unanswered, Google Ads security request still pending, DCKT overtime on two crew.)*
 
 ## Right now
 - [[Daily Briefings/2026-08-08|Today's brief]]
@@ -10,24 +10,24 @@
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Fix the MCP config paths (day 12).** Every dead server points to /Users/wavey/.claude/mcp-servers on a /Users/davidrack machine — and today the FareHarbor scrape also came back empty, so the brief is down to personal Gmail alone. One fix unblocks GBP, Ads, GSC/GA4, IG, and TikTok after 12 days blind. Then re-approve meta-organic/playwright/clarity in an interactive `claude` session.
-2. **Portfolio — Yelp review from "Ree R." (08-04) now 4 days unanswered.** Yelp's email hides the business and rating, so open Yelp for Business, find Ree R., and respond today. Aged well past 48h and it's the only review signal with GBP down.
-3. **DCKT — Tristan Olstad missed clock-out + overtime (Homebase 08-07).** Second straight day with a DCKT OT/missed-punch alert (Jackson yesterday). Have the on-site manager confirm he clocked out and fix the punch before payroll, or a phantom open shift inflates a light 40.8 hr / $782 day.
+1. **Fix the MCP config paths (Day 13).** Every dead server still points at /Users/wavey/.claude/mcp-servers on a /Users/davidrack machine. One fix restores GBP, Ads, GSC/GA4, IG, and TikTok in one move. FareHarbor recovered on its own today, so the outage is isolated to the MCP path, not the data. Then re-approve meta-organic/playwright/clarity in an interactive `claude` session.
+2. **NOLA Pedal Barge — two Yelp reviews unanswered (5★ + 4★).** Ree R. left 5★ on 08-04 (now 5 days old, past 48h) and Dwayne F. left 4★ today. Both praise the crew. Open Yelp for Business and respond to both — Ree R.: biz.yelp.com/r2r/AZt9mw0inMiXvQNP8_P6XQ/review/barXxNeKwidE8xdu6hU1HQ ; Dwayne F.: .../review/9JJpdDn73dPBmSYBG1jU_A .
+3. **Gravity Trails NOLA — approve the pending Google Ads security request (437-823-2023).** Google sent a reminder 08-07 that a security request is still waiting on admin review (doorcountyzip@gmail.com). Sign in and clear it before account access gets held up.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-07) | 7-day context | Δ |
+| Signal | Yesterday (08-08) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (personal, last 7d) | ~57 (~7 actionable) | ~51 | +6 |
-| Open Yelp review needing reply | 1 (aged 4 days) | — | flat, aging |
+| Gmail unread (inbox total) | 201 backlog (~39 last 4d, ~7 actionable) | — | — |
+| Open Yelp reviews needing reply | 2 (NPB: 5★ aged 5d + 4★ new) | — | +1 |
 | Unreplied GBP reviews (all biz) | — (GBP server down) | — | — |
-| FH bookings (all biz) | — (scrape empty today) | 72 booked (08-06) | lost signal |
-| FH revenue (all biz) | — (scrape empty today) | $12,303 ran (08-06) | lost signal |
+| FH bookings booked (all biz) | 91 | ~76 | +15 |
+| FH revenue ran (all biz) | $29,983 | ~$13,517 | +$16,466 |
 | Total ad spend (Google + Meta) | — (ad servers down) | — | — |
 | Total ad-attributed conversions | — (ad servers down) | — | — |
 <!-- pulse:end -->
-*New today: the FareHarbor scrape ran but returned no numbers (page shell only), so even the one working automated source is dark. Personal Gmail is the sole live feed. See today's brief for detail.
+*FareHarbor recovered overnight — real 08-08 numbers again. Yesterday was ~2.2x the daily revenue average. 7-day avg uses the 6 usable scrape days (08-01/08-02 came back empty). Ad/review/search/social still dark. See today's brief for detail.
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-08]] (today)
-- [[Daily Briefings/2026-08-07]] (1 day ago)
-- [[Daily Briefings/2026-08-06]] (2 days ago)
-- [[Daily Briefings/2026-08-05]] (3 days ago)
-- [[Daily Briefings/2026-08-04]] (4 days ago)
-- [[Daily Briefings/2026-08-03]] (5 days ago)
-- [[Daily Briefings/2026-08-02]] (6 days ago)
+- [[Daily Briefings/2026-08-09]] (today)
+- [[Daily Briefings/2026-08-08]] (1 day ago)
+- [[Daily Briefings/2026-08-07]] (2 days ago)
+- [[Daily Briefings/2026-08-06]] (3 days ago)
+- [[Daily Briefings/2026-08-05]] (4 days ago)
+- [[Daily Briefings/2026-08-04]] (5 days ago)
+- [[Daily Briefings/2026-08-03]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

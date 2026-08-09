@@ -2,18 +2,18 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 7
+revenue_today: 752
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data stale — FH scrape empty (outage day 12)"
-updated: 2026-08-08
+status: green
+alert: null
+updated: 2026-08-09
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH scrape empty today — no 08-07 numbers. Last clean data: 08-06 booked 5 / $260, ran 2 / $189. Small and steady.
+- FareHarbor back: 08-08 ran 7 / $752, 3 new bookings / $238. Its strongest run day of the week (was 0 runs early week). Small and ramping.
 <!-- live:end -->
 
 ## Quick links
