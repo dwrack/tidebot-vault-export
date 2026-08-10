@@ -54,6 +54,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Fix the shifted paddle box on the second trailer by unbolting and shimming it back into place. _(Stephanie (audio log), 2026-08-10)_
 - [ ] [Guide log] Improve the process for verifying transportation needs for guests booked through Fair Harbor, especially for international guests where direct phone contact is difficult, to prevent discrepancies. _(Lexi Hingle (audio log), 2026-08-07)_
 - [ ] [Guide log] When parking the trailer, ensure sufficient space is left from the fence for easy maneuvering. _(Michelle (audio log), 2026-07-31)_
 - [ ] [Guide log] Guides should bring at least one extra seat with them on their way out for tours. _(Stephanie (audio log), 2026-07-28)_
