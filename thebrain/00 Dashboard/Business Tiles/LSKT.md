@@ -2,20 +2,20 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 18
-revenue_today: 1348
+bookings_today: 2
+revenue_today: 422
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 42
 status: green
-alert: "new GSC index reason — check Page Indexing report"
-updated: 2026-08-09
+alert: null
+updated: 2026-08-11
 tile_type: business
 ---
 
 <!-- live:start -->
-- FareHarbor back: 08-08 ran 18 / $1,348, 19 new bookings / $1,226. Best day of the week on both.
-- GSC (08-08): new "pages not indexed" reason (Alternate page with proper canonical tag) — open Page Indexing report, confirm no money page caught.
-- Ads (shared 8497383499 w/ AKT) and GSC live pull dark (MCP outage day 13).
+- FH 08-10 (Mon): 2 new bookings / $422 (7d avg 7.9 / $556). Monday.
+- Google Ads (8497383499, shared w/ AKT): $42.49 yesterday, CTR 15.7%, 0 conv that day; 7d $396 at 3.56 ROAS — healthy.
+- GSC: brand terms at pos 1. Opportunity: "austin kayaking" 3 clicks at pos 20 (page 2) — worth an on-page/content push.
 <!-- live:end -->
 
 ## Quick links

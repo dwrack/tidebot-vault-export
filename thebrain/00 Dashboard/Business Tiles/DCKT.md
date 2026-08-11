@@ -2,20 +2,20 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 41
-revenue_today: 10627
+bookings_today: 21
+revenue_today: 3128
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 152
 status: green
-alert: "confirm 2 OT punches (Heibel, Olstad) before payroll"
-updated: 2026-08-09
+alert: "9 unreplied 5★; 3 crew past 40 hrs (OT before payroll)"
+updated: 2026-08-11
 tile_type: business
 ---
 
 <!-- live:start -->
-- FareHarbor back: 08-08 (Sat) ran 41 / $10,627, 30 new bookings / $4,305. Strong, above its ~$5,943 daily average. EOD email confirms $10,119 rev at 15% labor.
-- Homebase: Jackson Heibel and Tristan Olstad both past 40 hrs (08-08/08-09). Confirm both actually clocked out and no phantom shift is running before payroll.
-- Ads/GSC dark (MCP outage day 13).
+- FH 08-10 (Mon): 21 new bookings / $3,128 (7d avg 33.1 / $3,234). Revenue steady.
+- 9 unanswered 5★ from Aug 5-10 (Tristan, Lucas, Torrey, Jackson named). Clear the backlog.
+- Homebase OT: Lucas Holtz, Jackson Heibel, Tristan Olstad each past 40 hrs at store 9203446641 — confirm punches before payroll. Google Ads $135.22 (7d ROAS 5.73); Meta $16.59 → 2 purchases (8.1 ROAS). GSC "door county kayak tours" 35 clicks pos 1.3.
 <!-- live:end -->
 
 ## Quick links

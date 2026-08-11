@@ -2,20 +2,20 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 4
-revenue_today: 1035
+bookings_today: 1
+revenue_today: 190
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
-alert: "solar still 0 kWh — check array/gateway"
-updated: 2026-08-09
+alert: "10 unreplied 5★ (guide Alex named in nearly all)"
+updated: 2026-08-11
 tile_type: business
 ---
 
 <!-- live:start -->
-- FareHarbor back: 08-08 ran 4 / $1,035, 3 new bookings / $335. Steady.
-- Enphase (08-07): NKST solar produced 0.0 kWh for all of July — still open, check the array/gateway (Site ID 3201014).
-- Watched page (Airboat vs Kayak): can't measure, GSC/GA4 pull down. Baseline ~3 GA4 views / 0 GSC clicks as of 06-02.
+- FH 08-10 (Mon): 1 new booking / $190 (7d avg 2.1 / $321). Monday.
+- 10 unanswered 5★ from Aug 10-11 — guide Alex named in nearly all. Clear the backlog (48h).
+- GA4 08-10: ~137 sessions (direct 36 w/ 8 conv, IG 30, FB 28, Google 27 w/ 10 conv, ChatGPT 5). Watched "Airboat vs Kayak": still flat vs baseline (0 GSC clicks, 3 GA4 views). GSC top-queries + IG pull both errored this run (see gaps).
 <!-- live:end -->
 
 ## Quick links

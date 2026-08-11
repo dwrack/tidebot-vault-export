@@ -6,15 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "umbrella funnel — no direct FH feed; MCPs down (day 13)"
-updated: 2026-08-09
+status: green
+alert: "umbrella funnel — no direct FH feed"
+updated: 2026-08-11
 tile_type: business
 ---
 
 <!-- live:start -->
 - Umbrella funnel (routes to NPB / Bike Bar / NKST); no direct FH scrape.
-- GBP/IG offline this run — no live signal.
+- GBP reviews all replied (clean). GSC: "swamp tours new orleans" + plantation-tour terms. IG posting daily but low engagement (2-6 likes).
 <!-- live:end -->
 
 ## Quick links
