@@ -80,6 +80,7 @@ END OF TOUR
 
 These don't trigger automatic cancel but should trigger a phone call to the contractor before launch.
 
+- **Forecast high 95°F+ or heat index 105°F+** — this triggers the early-start outreach, not a cancel. See [[SOP — Extreme Heat & Early Start Protocol]] for the trigger, the guide load rule, and the guest text scripts. Guide flags the date, office moves the groups.
 - Wind 10–14 mph forecast (we go on Manchac, we don't go on open Pontchartrain)
 - Lightning 10–25 miles (we watch radar, we shorten the tour, we may delay)
 - Forecast rain that's heavy but no thunder

@@ -1,6 +1,11 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] 🔴 **E-bike minimum age conflict — resolve before publishing anything.** David says 12 if they fit the bike. Both Wisconsin e-bike waivers (drafts pending attorney review) and the Guide Certification Quiz say 16. Ask the carrier whether the policy sets a minimum operator age, and confirm the fleet's e-bike class (Class 3 carries a WI 16-year minimum). If 12 clears, update the two waivers + quiz FIRST, then the page. (D)
+- [ ] **E-bike page: publish age + weight limits** once the above clears. Confirmed Aug 11 that neither the 285 lb weight limit nor any age minimum appears anywhere on /e-bike-tours/, despite this being logged at **725 emails / high priority** in the FAQ Database. Copy-paste page block + FAQ schema + draft reply ready in `Marketing/Ebike Page Gap — Age & Weight Not Published (Aug 2026).md` (D/B)
+- [ ] Check info@ for whether Michael Parham (parhmic@yahoo.com, Jul 22) ever got a reply. If not, send the drafted response (B)
+- [ ] Sweep every other product page for the same missing-constraint gap — kayak weight limits (275 single / 450 tandem) and the age-5 minimum are likely missing too (D/B)
+- [ ] Shoot the 532 content grid — 30 videos, 6 batch sessions, in `Marketing/532 Content Grid — 30 Videos (Aug 2026).md` (B)
 - [ ] Build a forecast / "revenue on the books" report — forward-looking FareHarbor pull (future availability dates) showing booked revenue + customer counts for upcoming days/weeks, to pair with the daily labor report. Companion to the past-30-day labor% report fixed June 2. Must report on availability (tour) date, include self-rentals, and reconcile to FareHarbor's own total. (D/Claude)
 - [ ] Remove tour photo references from doorcountykayaktours.com — we no longer sell the $20 photo package or use dcphotofun.com. Pages to clean: /gallery/, /kayak-tours/cave-point-county-park/, /kayak-tours/eco-estuary-tour/, /kayak-tours/door-bluff-county-park-shipwreck/ (and check Sunset/Private Tour pages for the same Optional Add-ons block) (D/B)
 - [ ] Schedule kickoff call with Lea this week — run Phase 1 discovery questions, assess strengths (D)

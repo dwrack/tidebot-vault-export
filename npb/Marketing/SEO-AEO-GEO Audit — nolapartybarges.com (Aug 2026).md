@@ -13,12 +13,12 @@ NPB is in a genuinely better organic position than NKST — and pointed at a muc
 
 Meanwhile your homepage ranks **#7.5 for "swamp tours new orleans" — a 14,800/mo keyword — and it is outranking NKST, which sits at #15 for the same term.** That single fact should reorder the whole plan. The biggest organic opportunity on this domain is not party boats. It's swamp tours, and you're already halfway up page 1 without trying.
 
-Two things are actively bleeding value. First, Google labels this site **"New Orleans Pedal Barge"** in live search results — every page title except the homepage still carries the old brand, which splits the entity signal and violates the no-pedal rule at the SERP level. Second, you have **3,549 Google reviews at 4.9 stars and zero AggregateRating schema**, so on the "party boat new orleans" SERP a reseller (letsbatch.com, 7 reviews) gets the rich snippet with stars and a "$63.00 to $1,200.00" price range while your own Freaky Tiki page gets a plain blue link.
+Two things are actively bleeding value. First, Google labels this site **"New Orleans Pedal Barge"** in live search results — every page title except the homepage still carries the old brand, which splits the entity signal and violates the no-pedal rule at the SERP level. Second, on the "party boat new orleans" SERP a reseller (letsbatch.com, 7 reviews) gets a rich snippet with stars and a **"$63.00 to $1,200.00"** price range while your own Freaky Tiki page gets a plain blue link — because your Product schema carries a rating but **no price**.
 
 **Top 3 by impact:**
-1. Go after the swamp tour cluster properly. You're #7.5 on a 14,800/mo term with no dedicated page.
-2. Purge "Pedal Barge" from every title tag, meta, and schema field on the site.
-3. Ship Product + Offer + AggregateRating schema on all boat pages. You're losing rich snippets to your own resellers.
+1. Deepen the homepage on swamp intent. You're #7.5 on a 14,800/mo term off 869 words and one H2.
+2. Change the WordPress Site Title. One field kills "Pedal Barge" across every page's title, og:site_name, and all four schema blocks.
+3. Add a server-side `Offer` (price) to each boat page. Elfsight covers the rating; price is the missing half.
 
 ---
 
@@ -97,28 +97,49 @@ The homepage was updated. Nothing else was. Google resolves the site-wide entity
 
 That's the H1 on the page ranking #7.5 for a 14,800/mo keyword. Great line, misspelled city.
 
-### 2c. Zero commerce schema — resellers are eating your rich snippets
+### 2c. Product schema exists (via Elfsight) but has no price and a duplicate SKU
 
-Schema audit:
+**Corrected 2026-08-11.** An earlier draft of this audit said there was no AggregateRating on the site. That was wrong — it was based on the raw HTML. The Elfsight reviews widget injects a `Product` block client-side, after render, so it doesn't appear in source. Verified in the rendered DOM on both `/` and `/the-freaky-tiki/`.
 
-| Page | Schema present | Missing |
+What Elfsight actually injects, identically on every page:
+
+```json
+{
+  "@type": "Product",
+  "name": "<the page's title tag>",
+  "brand": { "name": "<the page's title tag>" },
+  "sku": "1101111",
+  "mpn": "110111",
+  "aggregateRating": { "ratingValue": 4.9, "reviewCount": 3843 },
+  "review": { ...one rotating recent review... }
+}
+```
+
+Server-side schema, for reference:
+
+| Page | Server-rendered | Elfsight adds |
 |---|---|---|
-| `/` | Organization, LocalBusiness, WebSite, WebPage | **AggregateRating**, FAQPage |
-| `/the-freaky-tiki/` | VideoObject, BreadcrumbList | **Product, Offer, AggregateRating** |
-| `/the-twerkin-tiki/` | VideoObject, BreadcrumbList | **Product, Offer, AggregateRating** |
-| `/boat-rental/` | BreadcrumbList | Everything |
-| `/new-orleans-booze-cruise/` | Article, BreadcrumbList | Product, Offer, FAQPage |
+| `/` | Organization, LocalBusiness, WebSite, WebPage | Product + AggregateRating |
+| `/the-freaky-tiki/` | VideoObject, BreadcrumbList | Product + AggregateRating |
+| `/the-twerkin-tiki/` | VideoObject, BreadcrumbList | Product + AggregateRating |
+| `/boat-rental/` | BreadcrumbList | Product + AggregateRating |
+| `/new-orleans-booze-cruise/` | Article, BreadcrumbList | Product + AggregateRating |
 
-You have $49 / $63 / $69 / $165 / $350 / $600 in body copy and not one Offer object. You have **3,549 reviews at 4.9** and no AggregateRating anywhere on the site.
+So the rating is covered. Four things still aren't:
 
-Here's what that costs, straight off the live SERP for "party boat new orleans":
+1. **No `Offer`, so no price.** You have $49 / $63 / $69 / $165 / $350 / $600 in body copy and not one Offer object. This is the whole gap.
+2. **Same `sku` and `mpn` on every page.** Every boat is product `1101111`. To a parser, the site sells one item.
+3. **`name` is the page title tag,** not a product name — "The Freaky Tiki | New Orleans Pedal Barge" as a product name.
+4. **Ratings are aggregated from Google, Facebook, Yelp and TripAdvisor.** Google's review-snippet policy says ratings must come from users directly on your site, not from another platform or aggregator. This markup may simply be discarded.
+
+What it costs, straight off the live SERP for "party boat new orleans":
 
 | Result | Rich snippet? |
 |---|---|
 | #9 **letsbatch.com** (reseller, selling your Freaky Tiki) | ⭐ 5.0 (7 reviews) + **"$63.00 to $1,200.00"** |
 | #3 **nolapartybarges.com** (you, 3,549 reviews) | Plain blue link |
 
-A reseller with seven reviews is outdressing you in the SERP using your own product and your own price. That's a one-hour fix.
+letsbatch wins that snippet on **price**, not stars. Adding a server-side `Offer` with the real price to each boat page is the fix, and it's independent of Elfsight.
 
 ### 2d. Everything rides on the homepage
 
@@ -218,10 +239,10 @@ Unlike NKST's 70116 cluster — where five near-identical kayak listings sit on 
 |---|---|---|
 | 1 | **Global find-and-replace "New Orleans Pedal Barge" → "New Orleans Party Barge"** in the title template, meta descriptions, Organization schema, and OG tags across every page | Google currently labels the whole site with the retired brand. Also fixes the no-pedal rule at the SERP level. |
 | 2 | Fix the homepage H1 typo: "New **Orelans**" → "New Orleans" | It's the H1 on your highest-value ranking page |
-| 3 | **Add `AggregateRating` (4.9 / 3549) + `Offer` (price, currency, availability) + `Product` schema** to `/the-freaky-tiki/`, `/the-twerkin-tiki/`, `/the-cajun-queen/`, `/bentley-bayou-cruiser/`, `/boat-rental/` | Stops resellers from out-snippeting you. Highest ROI hour on this list. |
+| 3 | **Add a server-side `Offer` (price, currency, availability) + a real `name`/`sku` per boat** on `/the-freaky-tiki/`, `/the-twerkin-tiki/`, `/the-cajun-queen/`, `/bentley-bayou-cruiser/`, `/boat-rental/`. Elfsight already supplies AggregateRating — don't duplicate it, just stop it being the only thing there. | letsbatch beats you on the price snippet, not the stars. Price is the gap. |
 | 4 | Rewrite title + meta on `/exploring-december-weather-.../` and `/how-much-do-you-need-to-budget-.../` with a hook and a reason to click | 81,549 impressions at 0.65% CTR between them |
 | 5 | Add a hard CTA block to both of those posts routing to the boats — "coming in December? here's the one thing that's still fun when it's 55°" (the boats are heated, per your own meta description, and nobody knows) | Turns weather authority into bookings |
-| 6 | Update `/how-much-do-you-need-to-budget-for-a-new-orleans-vacation-in-2024/` → drop "2024" from URL, title, and body; 301 the old URL | Stale-year signal on a 41k-impression page |
+| 6 | ~~Drop "2024" from the budget post's URL~~ **Leave the slug alone.** The on-page title already reads 2026; only the URL string is stale, and Google takes freshness from content, not slugs. Not worth risking a position-4.3 page with 41,686 impressions on a 301. Refresh the body figures instead. | Revised — the risk outweighs the gain |
 | 7 | 301 `/1253-2/` → `/how-many-days-in-new-orleans/` | 6,439 impressions on a WordPress default slug |
 | 8 | Add H2 structure to `/the-freaky-tiki/` (currently zero H2s) | Basic on-page, page has 12,503 impressions |
 
@@ -229,7 +250,8 @@ Unlike NKST's 70116 cluster — where five near-identical kayak listings sit on 
 
 | # | Action | Detail |
 |---|---|---|
-| 9 | **Build a real swamp tour money page** | This is the big one. You're #7.5 on a 14,800/mo term off a homepage with one H2. Build `/new-orleans-swamp-tour/` at 2,000+ words: what you see (alligators, Bayou Bienvenue), 30 min from downtown, onboard bathroom, heated in winter, BYOB, price, duration, how it differs from an airboat. FAQPage schema for the four PAA questions. Link from the homepage and every blog post. **Realistic ceiling: page-1 top-5 on a keyword 25x bigger than your entire party-boat category.** |
+| 9 | **Deepen the homepage on swamp intent — do NOT build a competing page** | *Revised 2026-08-11 after a cannibalization challenge; the revision is correct.* The homepage is already the swamp page: title "Swamp Tour Party Boat Cruise", H1 "Most Swamp Tours in New Orleans Are Boring. Ours Aren't." That's why it ranks #7.5. A second generic `/new-orleans-swamp-tour/` would target the identical query with weaker authority and make Google choose — the classic way to lose a position-7 ranking. Instead take the homepage from 869 words / 1 H2 to ~1,800 with H2s for: what you see (alligators, Bayou Bienvenue), 30 min from downtown, onboard bathroom, heated in winter, BYOB, price, duration, kayak/airboat/party-boat comparison. Add FAQPage schema for the four PAA questions. Zero cannibalization risk, and it strengthens the exact URL already ranking. |
+| 9b | **Build long-tail swamp pages the homepage does *not* rank for** | Safe expansion, no overlap: `/swamp-tour-prices-new-orleans/`, `/swamp-tour-with-bathroom/` (expand the existing post), `/airboat-vs-party-boat-swamp-tour/`, `/swamp-tour-byob/`. Each targets a distinct query and links up to the homepage — that's how you add swamp footprint without competing with yourself. |
 | 10 | **Own "swamp tour with bathroom" outright** | `/swamp-tours-with-onboard-restrooms/` already ranks 5.5 with a 5.8% CTR — your best-converting content by CTR on the whole site. Nobody else can make this claim. Expand it, and put the bathroom fact in the swamp page H1 area, GBP description, and every OTA listing. |
 | 11 | **Build `/party-boat-new-orleans-prices/`** | Highest-intent related search on the SERP, and a pure AEO play. Real numbers, per-boat, per-head vs private. AI engines quote price tables. |
 | 12 | **Build a bachelorette page** | "bachelorette party new orleans" is 1,300/mo — bigger than your entire party-boat cluster. `/a-locals-itinerary-for-a-new-orleans-bachelorette-party/` sits at position 21.8 with 2,107 impressions. Rebuild it as a commercial page, not a blog post. |
@@ -261,4 +283,4 @@ They aren't competing for the same customer (BYOB bachelorette party vs quiet ec
 
 ## 7. The One-Sentence Version
 
-You've won a 590-searches-a-month category outright and become Google's favorite source on December weather, while sitting at #7.5 on a 14,800/mo swamp tour keyword with no page behind it — build that page, kill "Pedal Barge," and ship the schema.
+You've won a 590-searches-a-month category outright and become Google's favorite source on December weather, while sitting at #7.5 on a 14,800/mo swamp tour keyword off a thin homepage — deepen that page (don't clone it), change one WordPress field to kill "Pedal Barge," and put a price in your schema.

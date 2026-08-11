@@ -203,6 +203,22 @@ Key talking points:
 3. Get guests off the water quickly and calmly
 4. Contact management if necessary
 
+### Extreme Heat
+*Full protocol and guest text scripts: [[SOPs/SOP — Extreme Heat & Early Start Protocol]]*
+
+On any day forecast at 95°F+ (or heat index 105°F+):
+
+1. Flag the date to the contractor as early as you see it. The office moves booked groups to an earlier start — you don't have to renegotiate times with guests yourself.
+2. **You do not run more than one tour on a day like that** unless you've agreed to it and you have shade, fluids and a real break between. Two back-to-back tours in that heat is how a guide ended up with heat exhaustion in August 2026.
+3. If you're not comfortable running an assigned tour in the forecast heat, say so to the contractor early. That is not flaking. We'd rather move a group than lose a guide.
+4. Extra water and a cooler with ice in the van. Say it in the safety briefing: drink before you're thirsty, tell me if you feel off.
+5. Build in a shade stop and make it part of the tour, not an emergency.
+6. Watch for early signs in guests **and in yourself** — headache, nausea, cramping, stopped sweating, confusion.
+7. Anyone showing symptoms: off the water, into shade, cool water on neck and wrists, cold fluids. **Stopped sweating or confused is heat stroke — call 911.**
+8. Report it and file an Incident Report if anyone needed intervention.
+
+When talking to guests about moving a tour earlier, sell it as the better tour — cooler, more wildlife, glassy water. Never tell a guest that an earlier start makes the tour safe.
+
 ### Capsized Kayak
 1. Instruct guest to stay calm
 2. Have them hold onto their kayak and paddle

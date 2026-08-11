@@ -79,6 +79,31 @@ We're so sorry for the inconvenience and truly appreciate your understanding.
 
 ---
 
+## 🥵 Extreme Heat — Early Start Request (SMS)
+*Trigger: forecast high 95°F+ or heat index 105°F+ on a booked tour day. Send 24–48 hours out. Full protocol: [[SOP — Extreme Heat & Early Start Protocol]]*
+
+**1. The ask**
+
+> Hey {{First Name}}! It's [Guide] with New Orleans Kayak Swamp Tours. Quick heads up on your [day] tour: the forecast is showing [97] that afternoon, so we're offering an earlier start at 8:15am instead of 9. Cooler paddle, way more wildlife moving around, and the water's glassy that early. It's genuinely the better tour. Does 8:15 work for your group?
+
+**2. If they hesitate**
+
+> Totally get it, that's an early one. If 8:15 is a stretch we can keep you at 9, just want you to know what you're walking into: it'll be in the mid-90s with full sun and no shade out there. Bring double the water you think you need, a hat, and long sleeves if you have light ones. Either way we've got you.
+
+**3. If we can't run the original time**
+
+> Hey {{First Name}}, following up on [day]. With the heat where it's headed we're not able to run the 9am. We can move you to 8:15 that morning, put you on another day this week, or refund you in full, whichever is easiest. Let me know and I'll take care of it.
+
+**4. Night-before confirm**
+
+> Confirmed for 8:15am tomorrow! Meet us at [location]. Bring water, sunscreen, and shoes that can get wet. See you out there.
+
+**OTA bookings (Viator, GetYourGuide, Airbnb):** send #1 through the platform thread first, add "I'll update your booking on [Viator] once you confirm so everything matches," then change the booking after they say yes.
+
+**Never** tell a guest the earlier start makes the tour safe. Cooler, more comfortable, better wildlife. That's the frame.
+
+---
+
 ## ⭐ Post-Tour Review Request
 *Trigger: 2 hours after tour end time*
 

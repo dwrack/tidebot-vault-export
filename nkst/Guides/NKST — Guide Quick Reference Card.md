@@ -40,6 +40,8 @@
 **Tour times:** 9am · 11:30am · 2pm · 4:30pm
 **Whitney Plantation pickup:** 7:45am
 
+**Heat days (95°F+ / heat index 105°F+):** flag the date to the contractor. 9am tours shift to 8:15am — the office contacts the groups, not you. **Max one tour per guide on a heat day** unless you've agreed to more. Not comfortable running it? Say so early. Full protocol + guest texts: `SOP — Extreme Heat & Early Start Protocol`
+
 ---
 
 ## Van Pre-Check (Before Every Tour)
