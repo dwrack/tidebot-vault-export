@@ -1,6 +1,6 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-09 07:26 CDT (Day 13 of the marketing-MCP outage — still the /Users/wavey path bug, all ad/review/search/social/TikTok servers down. Good news: the FareHarbor scrape recovered overnight, so the brief has real 08-08 numbers again. Monster Saturday — NPB $14,539, DCKT $10,627, no business in the red. Two NPB Yelp reviews still unanswered, Google Ads security request still pending, DCKT overtime on two crew.)*
+*Last refresh: 2026-08-11 06:55 CDT (MCP servers back — real GBP, Ads, GSC/GA4, IG again. FH scrape current. 08-10 was a Monday, so counts read low against the weekend-loaded 7-day avg. Live items: NPB booking lead unanswered in inbox, Cave Point 2★ + Austin Kayak 1★ unanswered, big 5★ reply backlog at NKST (10) and DCKT (9), $300 Zelle bounced, Gravity NOLA ad security request still pending. TikTok down — Playwright browser not running.)*
 
 ## Right now
 - [[Daily Briefings/2026-08-08|Today's brief]]
