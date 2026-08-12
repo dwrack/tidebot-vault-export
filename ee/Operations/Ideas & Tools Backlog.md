@@ -63,6 +63,17 @@ These still need Davey/Jonah judgment — just assisted with drafts:
 
 ---
 
+## Analytics
+
+- **Occupancy vs. bookings (camera counts vs. Périod)** — LOW PRIORITY. Do not start until the two V2 saunas are built.
+  - Cross-reference actual deck headcount from the Blink cameras against Périod reservations for the same slots.
+  - Answers whether the summer softness (~45% below winter peak, Tuesdays ~13% full) is real demand weakness or leakage: no-shows, unbooked walk-ups, or booked parties arriving with more people than they paid for.
+  - Feasible because every Blink clip carries Blink's own CV `person` tag and a thumbnail, so headcount can be sampled without downloading video. Both APIs (Blink + Périod merchant) are already working.
+  - Tooling lives at `~/.config/blink-ee/` — see the `reference_blink_cameras` memory for the setup and the pagination/py3.12 gotchas.
+  - Deferred deliberately: capacity changes once V2 is on the water, so a baseline taken now would be measuring a fleet that no longer exists.
+
+---
+
 ## Other Ideas
 
 - **World Sauna Day (Apr 25–27)** — promo code WORLDSAUNA (20% off) already set up; think about social/marketing push
@@ -73,4 +84,4 @@ These still need Davey/Jonah judgment — just assisted with drafts:
 
 ---
 
-*Last updated: March 2026*
+*Last updated: August 2026*
