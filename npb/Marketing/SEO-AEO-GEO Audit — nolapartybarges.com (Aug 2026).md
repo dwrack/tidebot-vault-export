@@ -15,10 +15,10 @@ Meanwhile your homepage ranks **#7.5 for "swamp tours new orleans" — a 14,800/
 
 Two things are actively bleeding value. First, Google labels this site **"New Orleans Pedal Barge"** in live search results — every page title except the homepage still carries the old brand, which splits the entity signal and violates the no-pedal rule at the SERP level. Second, on the "party boat new orleans" SERP a reseller (letsbatch.com, 7 reviews) gets a rich snippet with stars and a **"$63.00 to $1,200.00"** price range while your own Freaky Tiki page gets a plain blue link — because your Product schema carries a rating but **no price**.
 
-**Top 3 by impact:**
-1. Deepen the homepage on swamp intent. You're #7.5 on a 14,800/mo term off 869 words and one H2.
-2. Change the WordPress Site Title. One field kills "Pedal Barge" across every page's title, og:site_name, and all four schema blocks.
-3. Add a server-side `Offer` (price) to each boat page. Elfsight covers the rating; price is the missing half.
+**Top 3 by impact** *(reordered 2026-08-11 after the volume re-check below — the CTR fix moved ahead of the swamp play):*
+1. **Fix CTR on the two blog monsters.** 81,549 impressions at 0.65% CTR. Getting to a normal 2.5% is roughly **+1,500 clicks a quarter** for a title-and-meta rewrite. Lower intent per click, but 5-10x the volume of the swamp play at a fraction of the effort.
+2. **Change the WordPress Site Title.** One field kills "Pedal Barge" across every page's title, og:site_name, and all four schema blocks. Ten minutes.
+3. **Deepen the homepage on swamp intent.** Worth ~150-300 clicks/month at the corrected volumes. Highest-intent traffic on the site, but a real content project — do it third, not first.
 
 ---
 
@@ -46,6 +46,22 @@ Two things are actively bleeding value. First, Google labels this site **"New Or
 
 **Note the pattern: fifteen of these rank on `/`.** The homepage is carrying the entire commercial side of the site. Your product pages — Freaky Tiki, Twerkin' Tiki, Cajun Queen, Bentley Bayou Cruiser, boat-rental — rank for almost nothing outside brand terms.
 
+### ⚠️ Volume correction (2026-08-11) — read this before the tables below
+
+Every "vol/mo" figure in the original draft came from Google Ads Keyword Planner, which reports a **grouped bucket** covering many close variants, not the exact string. Re-pulled with Bing-normalized and clickstream data:
+
+| Keyword | Google Ads (grouped) | Bing-norm | Clickstream-norm | Raw clickstream | Verdict |
+|---|---|---|---|---|---|
+| swamp tours new orleans | 14,800 | 9,374 | 4,019 | 1,123 | Real figure ≈ **1,100–4,000** |
+| swamp tour new orleans | 14,800 | 5,397 | 10,598 | 2,961 | ≈ **3,000–10,000** |
+| new orleans swamp tour | 5,400 | 1,417 | 5,008 | 3,267 | ≈ **3,000–5,000** |
+| best swamp tour new orleans | 1,600 | 209 | 309 | 51 | **Mostly mirage** |
+| party boat new orleans | 590 | 134 | 10 | — | **Even smaller than stated** |
+| swamp tour near me | 12,100 | 12,100 | 12,100 | **50** | **Unreliable** — the Ads series shows a 110,000 spike in Aug 2025, a clear data artifact |
+| louisiana swamp tour | 4,400 | 235 | 337 | 51 | **Mirage** |
+
+Treat the whole swamp cluster as roughly **4,000–8,000 real searches/month combined**, not 14,800 on a single term. It's still by far the biggest thing on this domain — several times the party-boat category — but it is not the 25x prize the first draft implied.
+
 ### The swamp tour cluster — the actual opportunity
 
 | Keyword | Vol/mo | NPB position | NKST position |
@@ -62,6 +78,14 @@ Two things are actively bleeding value. First, Google labels this site **"New Or
 NPB pulled **20 clicks / 738 impressions** on "swamp tours new orleans" and **12 clicks / 871 impressions** on "swamp tour new orleans" last 90 days at position ~7.5. That's from a homepage with one H2 and 869 words. It's ranking on domain strength and GBP prominence alone.
 
 Your GBP is even named **"Nola Party Barge - Swamp Tour Party Boat."** The positioning already exists. There's just no page behind it.
+
+#### But the #7.5 is intermittent, not stable
+
+Worth knowing before committing effort. Two independent live SERP pulls — US national and New Orleans local — returned **no nolapartybarges.com result in the top 20** for "swamp tours new orleans." Yet GSC (query + page + country) is unambiguous: `https://www.nolapartybarges.com/`, USA, 653 impressions, 18 clicks, position 7.61.
+
+Both are true. Reconciling against the corrected volume: ~1,123/mo real searches = ~3,370 over the 90-day window. 653 impressions is a **~19% appearance rate**. So NPB surfaces on page 1 in roughly one search in five — location, personalization, and SERP layout decide — and when it does appear it sits around #7. The 2.76% CTR is exactly what a genuine position 7 earns, which confirms the position is real when it shows.
+
+**Read it as: a legitimate but unstable page-1 foothold, not a locked-in #7.** The upside is going from 19% appearance to near-100% at position 4-6. That's worth roughly 150-300 clicks/month across the whole swamp cluster, up from about 18/month today. Real, worth doing, and roughly an order of magnitude smaller than the first draft implied.
 
 ### Brand terms — locked down
 
@@ -130,7 +154,9 @@ So the rating is covered. Four things still aren't:
 1. **No `Offer`, so no price.** You have $49 / $63 / $69 / $165 / $350 / $600 in body copy and not one Offer object. This is the whole gap.
 2. **Same `sku` and `mpn` on every page.** Every boat is product `1101111`. To a parser, the site sells one item.
 3. **`name` is the page title tag,** not a product name — "The Freaky Tiki | New Orleans Pedal Barge" as a product name.
-4. **Ratings are aggregated from Google, Facebook, Yelp and TripAdvisor.** Google's review-snippet policy says ratings must come from users directly on your site, not from another platform or aggregator. This markup may simply be discarded.
+4. **Ratings are aggregated from Google, Facebook, Yelp and TripAdvisor,** which Google's review-snippet policy says shouldn't earn rich results. **In practice it plainly is earning them** — GSC's searchAppearance dimension returns exactly one row for this property: `REVIEW_SNIPPET`, **134,218 impressions / 1,358 clicks / avg position 11.9**. That's a majority of the site's total impressions carrying a review rich result. Elfsight is doing real work; don't touch it.
+
+   Side effect worth noting: because the same Product block is injected everywhere, review stars are showing on blog posts about December weather and French Quarter walking tours. Harmless today, but it's the duplicate-SKU problem surfacing in the SERP.
 
 What it costs, straight off the live SERP for "party boat new orleans":
 
@@ -251,7 +277,7 @@ Unlike NKST's 70116 cluster — where five near-identical kayak listings sit on 
 | # | Action | Detail |
 |---|---|---|
 | 9 | **Deepen the homepage on swamp intent — do NOT build a competing page** | *Revised 2026-08-11 after a cannibalization challenge; the revision is correct.* The homepage is already the swamp page: title "Swamp Tour Party Boat Cruise", H1 "Most Swamp Tours in New Orleans Are Boring. Ours Aren't." That's why it ranks #7.5. A second generic `/new-orleans-swamp-tour/` would target the identical query with weaker authority and make Google choose — the classic way to lose a position-7 ranking. Instead take the homepage from 869 words / 1 H2 to ~1,800 with H2s for: what you see (alligators, Bayou Bienvenue), 30 min from downtown, onboard bathroom, heated in winter, BYOB, price, duration, kayak/airboat/party-boat comparison. Add FAQPage schema for the four PAA questions. Zero cannibalization risk, and it strengthens the exact URL already ranking. |
-| 9b | **Build long-tail swamp pages the homepage does *not* rank for** | Safe expansion, no overlap: `/swamp-tour-prices-new-orleans/`, `/swamp-tour-with-bathroom/` (expand the existing post), `/airboat-vs-party-boat-swamp-tour/`, `/swamp-tour-byob/`. Each targets a distinct query and links up to the homepage — that's how you add swamp footprint without competing with yourself. |
+| 9b | **Long-tail swamp pages — mostly cut** | *Revised 2026-08-11.* I checked the volumes on the list I proposed and most of it doesn't exist: "byob swamp tour new orleans" **10/mo**, "how much is a swamp tour in new orleans" **15-30/mo**, "new orleans swamp tour with alcohol" **10/mo**. Not worth pages. Two survive and are genuinely good: **"private swamp tour new orleans"** (90/mo, **$9.63 CPC** — the highest commercial value in the whole cluster, you already sit at #3.75, and you actually sell private charters) and **"swamp tours new orleans with transportation"** (110/mo, keyword difficulty **13**, **+143% year over year**). Build those two, skip the rest. |
 | 10 | **Own "swamp tour with bathroom" outright** | `/swamp-tours-with-onboard-restrooms/` already ranks 5.5 with a 5.8% CTR — your best-converting content by CTR on the whole site. Nobody else can make this claim. Expand it, and put the bathroom fact in the swamp page H1 area, GBP description, and every OTA listing. |
 | 11 | **Build `/party-boat-new-orleans-prices/`** | Highest-intent related search on the SERP, and a pure AEO play. Real numbers, per-boat, per-head vs private. AI engines quote price tables. |
 | 12 | **Build a bachelorette page** | "bachelorette party new orleans" is 1,300/mo — bigger than your entire party-boat cluster. `/a-locals-itinerary-for-a-new-orleans-bachelorette-party/` sits at position 21.8 with 2,107 impressions. Rebuild it as a commercial page, not a blog post. |

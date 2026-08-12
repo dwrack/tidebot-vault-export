@@ -22,6 +22,28 @@ On AI search you're in a worse spot. You get AI Overview citations on 25 queries
 
 ---
 
+## ⚠️ Volume correction (2026-08-11)
+
+The volumes below came from Google Ads Keyword Planner, which reports a **grouped bucket** of close variants rather than the exact string. Re-pulled against Bing-normalized and clickstream data:
+
+| Keyword | Google Ads | Bing-norm | Clickstream-norm | Raw clickstream | Verdict |
+|---|---|---|---|---|---|
+| swamp tours new orleans | 14,800 | 9,374 | 4,019 | 1,123 | ≈ **1,100–4,000**, not 14,800 |
+| swamp tour new orleans | 14,800 | 5,397 | 10,598 | 2,961 | ≈ **3,000–10,000** |
+| new orleans swamp tour | 5,400 | 1,417 | 5,008 | 3,267 | ≈ **3,000–5,000** |
+| **louisiana swamp tour** | 4,400 | **235** | 337 | **51** | **Mirage — kill action item #14** |
+| **swamp tour near me** | 12,100 | 12,100 | 12,100 | **50** | **Unreliable** — the Ads series carries a 110,000 spike in Aug 2025, a clear artifact |
+| best swamp tour new orleans | 1,600 | 209 | 309 | 51 | Mostly mirage |
+
+Two consequences for the plan in §6:
+
+- **Action item #14 ("target louisiana swamp tour, 4,400/mo") is withdrawn.** The term gets somewhere between 51 and 337 searches a month. Not worth a page.
+- **§4 ("swamp tour near me", 12,100/mo) is heavily overstated.** Treat the local-pack work there as worth doing for the *whole* near-me family and general local prominence, not for that one term. The GBP category fix and the "Swamp Tour Street" listing cleanup still stand on their own — the first is cheap, the second is a suspension risk.
+
+The core finding is unchanged: the swamp cluster is still several times bigger than anything else either site competes for, NKST is still on page 2 for the biggest term in it, and the structural problems in §2 are unaffected by volume. The prize is just smaller than stated.
+
+---
+
 ## 1. Where You Actually Rank
 
 | Target keyword | Volume/mo | Your position | Page Google picked | Verdict |
