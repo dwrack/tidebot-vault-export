@@ -2,20 +2,20 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 21
-revenue_today: 3128
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 152
-status: green
-alert: "9 unreplied 5★; 3 crew past 40 hrs (OT before payroll)"
-updated: 2026-08-11
+ad_spend_yday: 190
+status: yellow
+alert: "FH scrape empty; 10 unreplied 5★"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-10 (Mon): 21 new bookings / $3,128 (7d avg 33.1 / $3,234). Revenue steady.
-- 9 unanswered 5★ from Aug 5-10 (Tristan, Lucas, Torrey, Jackson named). Clear the backlog.
-- Homebase OT: Lucas Holtz, Jackson Heibel, Tristan Olstad each past 40 hrs at store 9203446641 — confirm punches before payroll. Google Ads $135.22 (7d ROAS 5.73); Meta $16.59 → 2 purchases (8.1 ROAS). GSC "door county kayak tours" 35 clicks pos 1.3.
+- FH: no numbers today (scrape empty).
+- 10 unreplied 5★ (Aug 6-11) naming Lucas, Tristan, Leah, Torrey, Jackson.
+- Paid strong: Google $177 → ROAS 2.56 (7d 5.04); Meta Retargeting $5.20 → 4 purchases $519 (ROAS 99.8). GSC dominant — "door county kayak tours" #1.
 <!-- live:end -->
 
 ## Quick links

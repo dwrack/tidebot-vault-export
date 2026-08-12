@@ -1,6 +1,6 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-11 06:55 CDT (MCP servers back — real GBP, Ads, GSC/GA4, IG again. FH scrape current. 08-10 was a Monday, so counts read low against the weekend-loaded 7-day avg. Live items: NPB booking lead unanswered in inbox, Cave Point 2★ + Austin Kayak 1★ unanswered, big 5★ reply backlog at NKST (10) and DCKT (9), $300 Zelle bounced, Gravity NOLA ad security request still pending. TikTok down — Playwright browser not running.)*
+*Last refresh: 2026-08-12 07:20 CDT (Live GBP, Ads, GSC/GA4, IG. Three negatives to clear: Ebb & Ember 3★ (banya no-show, today), Cave Point 2★ (Aug 8), Austin Kayak 1★ (Groupon, Jul 25). Big 5★ backlog at NKST (10, all "Alex") and DCKT (10). FareHarbor scrape ran but pulled zero numbers — bookings/revenue dark today. Gravity NOLA paid running below breakeven (0.94 ROAS). TikTok still down — Playwright browser not running.)*
 
 ## Right now
 - [[Daily Briefings/2026-08-11|Today's brief]]
@@ -10,23 +10,23 @@
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NOLA Party Barge — reply to the booking lead in the inbox.** Customer wants Saturday Oct 17 for an Oct 19 birthday, no reply yet. Answer it and lock the date.
-2. **Cave Point — reply to Yana Pieces' 2★ (Aug 8, 3 days open).** Guide quiet/on phone, cliffs too short after a long paddle. It's the rating dragging the 4.9.
-3. **Clear the 5★ reply backlog at NKST (10) + DCKT (9).** Aug 5-11 reviews aging past 48h; NKST's nearly all name guide Alex. Plus Austin Kayak has an unanswered 1★ (Groupon) from Jul 25.
+1. **Ebb & Ember — reply + refund the 3★ posted this morning.** Guest booked a banya, the practitioner never showed, and they got no callback. Fixable ops miss dragging a 4.9.
+2. **Cave Point — reply to Yana Pieces' 2★ (Aug 8, 4 days open).** Disengaged guide on her phone, cave photos never handed off. Plus Austin Kayak's 1★ Groupon complaint from Jul 25 is still unanswered (18 days).
+3. **FareHarbor numbers went dark — scrape ran but extracted zero bookings/revenue for all 6 businesses.** Yesterday had real numbers ($7,846). Fix `scrape.js` before tomorrow or bookings stay blind.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-10) | 7-day avg | Δ |
+| Signal | Yesterday (08-11) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 50+ (hit pull cap) | — | — |
-| Unreplied GBP reviews (all biz) | ~35 (2 negative) | — | — |
-| FH bookings booked (6 FH biz) | 41 | 73.6 | −33 |
-| FH revenue booked (6 FH biz) | $7,846 | $9,694 | −$1,848 |
-| Total ad spend (Google + Meta) | $485 | ~$433* | +$52 |
-| Ad-attributed conversions | 7 (4 Google + 3 Meta purch.) | — | — |
+| Gmail unread (main inbox) | 50+ (hit pull cap) | ~50 | — |
+| Unreplied GBP reviews (all biz) | ~36 (3 negative) | ~35 | +1 |
+| FH bookings booked (6 FH biz) | no data — scrape empty | 73.6 | — |
+| FH revenue booked (6 FH biz) | no data — scrape empty | $9,694 | — |
+| Total ad spend (Google + Meta) | ~$379 known (+~$27 est.) | ~$433 | −$54 |
+| Ad-attributed conversions | ~11 (5.6 Google + 5 Meta purch.) | — | — |
 <!-- pulse:end -->
-*08-10 was a Monday, so booked counts sit below the weekend-loaded 7-day average — calendar, not a problem. Google 7-day ad spend is real ($345/day); Meta 7-day wasn't pulled, so the avg uses yesterday's Meta as a proxy. See today's brief for detail.
+*FareHarbor scrape ran but extracted no numbers today, so bookings/revenue are blank — see today's brief, Action Item 4. Ad spend excludes Gravity NOLA's yesterday figure (Google API error); the ~$27 estimate is its 7-day daily average.
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-11]] (today)
-- [[Daily Briefings/2026-08-09]] (2 days ago)
-- [[Daily Briefings/2026-08-08]] (3 days ago)
-- [[Daily Briefings/2026-08-07]] (4 days ago)
-- [[Daily Briefings/2026-08-06]] (5 days ago)
-- [[Daily Briefings/2026-08-05]] (6 days ago)
-- [[Daily Briefings/2026-08-04]] (7 days ago)
+- [[Daily Briefings/2026-08-12]] (today)
+- [[Daily Briefings/2026-08-11]] (1 day ago)
+- [[Daily Briefings/2026-08-09]] (3 days ago)
+- [[Daily Briefings/2026-08-08]] (4 days ago)
+- [[Daily Briefings/2026-08-07]] (5 days ago)
+- [[Daily Briefings/2026-08-06]] (6 days ago)
+- [[Daily Briefings/2026-08-05]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

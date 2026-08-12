@@ -2,20 +2,20 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 1
-revenue_today: 190
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: "10 unreplied 5★ (guide Alex named in nearly all)"
-updated: 2026-08-11
+status: yellow
+alert: "FH scrape empty; 10 unreplied 5★ (all praise guide Alex)"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-10 (Mon): 1 new booking / $190 (7d avg 2.1 / $321). Monday.
-- 10 unanswered 5★ from Aug 10-11 — guide Alex named in nearly all. Clear the backlog (48h).
-- GA4 08-10: ~137 sessions (direct 36 w/ 8 conv, IG 30, FB 28, Google 27 w/ 10 conv, ChatGPT 5). Watched "Airboat vs Kayak": still flat vs baseline (0 GSC clicks, 3 GA4 views). GSC top-queries + IG pull both errored this run (see gaps).
+- FH: no numbers today (scrape empty).
+- 10 unreplied 5★ on GBP (Aug 10-11), nearly all naming guide Alex — guide-of-the-month story if wanted.
+- GA4 yesterday ~166 sessions: IG top (68 sess / 7 conv), Google 29/16 conv, Bing 2/8 conv. GSC returned zero rows for the window — likely property-URL mismatch, verify. Watched page (airboat-vs-kayak) still flat vs baseline.
 <!-- live:end -->
 
 ## Quick links

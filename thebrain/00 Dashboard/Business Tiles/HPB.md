@@ -2,20 +2,20 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 1
-revenue_today: 60
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 46
-status: green
-alert: "TikTok analytics down — Playwright browser not running"
-updated: 2026-08-11
+ad_spend_yday: 31
+status: yellow
+alert: "FH scrape empty; Google conv-value tracking broken"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-10 (Mon): 1 new booking / $60 (7d avg 2.6 / $366). Low, small operation, Monday.
-- Google Ads (2986009791) $38.23, 1 conv — conversion VALUE tracking looks unwired (ROAS ~0, conv_value not set). Worth fixing. Meta HPB Engagement reboost $7.96. 2 unreplied 5★ (Aug 10).
-- TikTok not pulled — Playwright browser offline (ECONNREFUSED 9222). Launch it to resume @houstonpedalbarge analytics.
+- FH: no numbers today (scrape empty).
+- Google $20.97 → 1 conv but **conversion value not tracked** ($1/conv, ROAS 0.03); 7d shows 144 all-conv on $150 with no revenue attached. Fix value tracking to measure ROAS.
+- Meta Followers Reboost $10.18 (engagement). 2 unreplied 5★. TikTok not pulled (browser down).
 <!-- live:end -->
 
 ## Quick links

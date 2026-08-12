@@ -7,14 +7,14 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
-alert: "umbrella funnel — no direct FH feed"
-updated: 2026-08-11
+alert: "IG pull failed (perm #10)"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- Umbrella funnel (routes to NPB / Bike Bar / NKST); no direct FH scrape.
-- GBP reviews all replied (clean). GSC: "swamp tours new orleans" + plantation-tour terms. IG posting daily but low engagement (2-6 likes).
+- No open review items.
+- IG posts pull failed with a permissions error (#10) — couldn't read organic. GSC small (kayak/swamp/plantation terms). Meta "New Sales Campaign" ran $0.32.
 <!-- live:end -->
 
 ## Quick links

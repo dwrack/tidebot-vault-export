@@ -7,14 +7,14 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "2★ review unanswered 3 days (guide quiet/on phone)"
-updated: 2026-08-11
+alert: "2★ unreplied (Aug 8, guide disengaged); IG dormant since Jun 2025"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FareHarbor scrape coverage configured; bookings unknown (not zero).
-- Yana Pieces 2★ (Aug 8) unanswered 3 days: guide quiet/on phone, cliffs too short after a long paddle. It's the rating dragging the 4.9 — reply. GSC returned no rows for cavepointpp.com (verify property). IG dormant (last real post 2025).
+- **2★ from Yana Pieces (Aug 8) unreplied** — guide quiet/on phone, cave photos never handed off. Dragging the 4.9. Reply + fix guide photo hand-off.
+- IG account dormant (last post June 2025). GSC no rows.
 <!-- live:end -->
 
 ## Quick links

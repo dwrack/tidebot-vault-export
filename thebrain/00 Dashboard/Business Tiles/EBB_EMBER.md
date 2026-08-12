@@ -6,15 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: "3 unreplied 5★ (thank-you pass)"
-updated: 2026-08-11
+status: yellow
+alert: "3★ today: banya no-show, no callback"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FareHarbor scrape coverage; bookings unknown (not zero). No Meta/Google Ads by design.
-- GBP is a clean 5.0 rating — 3 recent 5★ unanswered (incl. Bowen Ames Aug 9). Strongest IG in the portfolio: Aug 9 carousel 51 likes / 6 comments (reply pass), Jul 30 reel 50 likes. Momentum here.
+- **3★ posted this morning (Aug 12) unreplied** — guest booked a banya, practitioner never showed, no callback. Reply + refund the banya + find out why it went unstaffed.
+- No Meta ad account (never set up). IG active daily; Aug 9 carousel has 14 comments (reply pass). Strong 5★ flow otherwise.
 <!-- live:end -->
 
 ## Quick links

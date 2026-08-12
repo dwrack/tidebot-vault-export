@@ -2,19 +2,20 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 3
-revenue_today: 303
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 20
-status: green
-alert: null
-updated: 2026-08-11
+status: yellow
+alert: "FH scrape empty; 4 unreplied 5★"
+updated: 2026-08-12
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH 08-10 (Mon): 3 new bookings / $303 (7d avg 4.0 / $400). Small and steady.
-- Meta "Bat Bridge Kayak Tour" traffic $20.46 → 221 outbound clicks. 4 unreplied 5★ (Chad, Josh named). IG posting daily — Aug 7 sunset image 66 likes (best recent).
+- FH: no numbers today (scrape empty).
+- 4 unreplied 5★ (Chad-heavy praise, Aug 2-8).
+- Meta Bat Bridge Traffic $19.86 → 217 link clicks (traffic objective, no purchase tracking). IG "sunset tour" image 69 likes.
 <!-- live:end -->
 
 ## Quick links
