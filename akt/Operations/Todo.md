@@ -4,6 +4,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Investigate the shuttle issue (pickup problem). _(Andrew (audio log), 2026-08-12)_
 - [ ] [Guide log] Send post-trip media (photos/videos) to guests as promised. _(peterjosephhatchell (audio log), 2026-08-06)_
 - [ ] [Guide log] Restock the first aid kit with more band-aids. _(peterjosephhatchell (audio log), 2026-08-03)_
 - [ ] [Guide log] Replace or repair broken paddle. _(Ethan (audio log), 2026-07-12)_
