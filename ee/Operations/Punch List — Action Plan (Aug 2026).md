@@ -3,6 +3,22 @@
 Source: [Punch List Items](https://docs.google.com/spreadsheets/d/1_pzOga9sOkthaCFpqdyE33nP-ohgWsXkEhXWFRqCv68/edit) (Sheet1, 21 items)
 Snapshot taken: 2026-08-12. Claude re-checks the sheet and reports what moved.
 
+## Decisions — Davey, 2026-08-13
+
+| # | Item | Call |
+|---|---|---|
+| 1 | Water thing wall | Zach covers with a clean piece of wood and removes it. No sign |
+| 2 | Cameras | Full review done: `Operations/Camera Coverage Review (Aug 2026).md` |
+| 3 | Hanging hooks | Undecided. Put back to the group in #sauna-improvements |
+| 4 | Door lock WiFi + battery | **Not actually a problem.** Priority lowered to Low. Off the near-term list |
+| 5 | Storage closet | Everything's in the floating home. Closet gets curtains around the walls to hide the utilities, becomes the 3rd changing room. Jess to make it **changing room** signage, not storage |
+| 6 | Changing rooms | Returned to Amazon. Jonah handled. Closed |
+| 7 | Zach's rate | $30/hr, Davey told him it's what's budgeted. Awaiting Zach's response |
+| 9 | Mario spigot photo | Davey doesn't have it. Asked Dustin over iMessage |
+| 10 | Waivers | Yes. Collect on entrance with an iPad |
+| 11 | Sign count | **10 total** — 1 per ramp, 1 per life ring (7), 1 at the walk-up to the sauna entrance. *Assumes 2 ramps + 7 rings + 1 entrance; correct if the ramp count is different* |
+| 13 | Punch list reporting | One **pinned** post in Slack, edited in place daily as things get done. No repeat posts flooding the channel |
+
 ## Status roll-up
 
 | | Count |
