@@ -257,6 +257,102 @@ Unlike NKST's 70116 cluster — where five near-identical kayak listings sit on 
 
 ---
 
+## 4b. Why You Only Show 19% of the Time — Diagnosed (2026-08-12)
+
+Short version: **Google does not believe you are a swamp tour company.** It's a relevance and entity problem, not an authority or content problem. Both of those alternatives are ruled out by the data below.
+
+### Ruled out #1: authority
+
+| Domain | Referring domains | Rank for "swamp tours new orleans" |
+|---|---|---|
+| cajunencounters.com | 957 | #1 organic |
+| louisianaswamp.com | 876 | #6 |
+| jeanlafitteswamptour.com | 449 | #4 |
+| cajunprideswamptours.com | 385 | #8 |
+| neworleanskayakswamptours.com | 264 | #15 |
+| bayouswamptours.com | 170 | local pack #2 |
+| **nolapartybarges.com** | **124** | intermittent #7 |
+| neworleansairboattours.com | 97 | #5 |
+| **tourbigeasy.com** | **60** | **#2 organic + #1 local pack** |
+
+tourbigeasy ranks second with **60 referring domains**. You have **124**. Links are not what's stopping you.
+
+### Ruled out #2: content depth
+
+| Site | Words | Schema | Rank |
+|---|---|---|---|
+| cajunencounters.com | 1,653 | **none** | #1 |
+| tourbigeasy.com | **834** | WebSite, WebPage, Organization | #2 |
+| jeanlafitteswamptour.com | **307** | **none** | #4 |
+| **nolapartybarges.com** | **869** | Org, LocalBusiness, WebSite, WebPage, Product | intermittent #7 |
+
+A **307-word page with zero schema ranks #4.** You have more words than the #2 result and more schema than anyone on the page. Depth is not what's stopping you.
+
+*(This also revises action item #9 again: deepening the homepage to 1,800 words is still worth doing, but it is clearly not the binding constraint. Do the naming fixes first — they're an afternoon, not a project.)*
+
+### What every winner actually shares
+
+The phrase **"New Orleans" + "Swamp Tour(s)"** as their dominant naming signal — in the title tag, the Google Business Profile name, or both.
+
+| Site | Title tag | GBP name |
+|---|---|---|
+| tourbigeasy | **New Orleans Swamp Tours** – Airboat Swamp Eco-Tours | **Swamp Tours New Orleans** |
+| jeanlafitte | Jean Lafitte **Swamp Tours** \| **New Orleans Swamp** & Airboat Tours | — |
+| louisianaswamp | Louisiana Tour Company \| **New Orleans Swamp** & City Tours | — |
+| cajunpride | Cajun Pride **Swamp Tours** | — |
+| bayouswamptours | — | **Bayou Swamp Tours New Orleans** |
+| **NPB** | Swamp Tour **Party Boat Cruise** \| New Orleans **Party Barge** | Nola **Party Barge** – Swamp Tour Party Boat |
+
+### And here's the actual killer — your anchor text
+
+Live backlink anchor profile, top clusters by referring domain:
+
+| Anchor | Referring domains |
+|---|---|
+| `nolapedalbarge.com` | **34** |
+| `New Orleans Pedal Barge` | **17** |
+| `Nola Pedal Barge` | **8** |
+| `https://www.NolaPedalBarge.com/` | 3 |
+| `New Orleans Pedal Barge website` | 3 |
+| `Nola Pedal Barge Kayak Swamp Tours` | 3 |
+| `New Orleans Pedal Barge – Swamp Tour Party` | 2 |
+| `NOLA Party Barges` | 2 |
+| `New Orleans party boat tours` | 1 |
+| **Anything containing "swamp tour" + "New Orleans"** | **0** |
+
+The four largest clusters alone are **62 of your 124 referring domains** — half your entire link profile — and they all say *Pedal Barge*. `nolapedalbarge.com` 301s into the site, so every one of those anchors is being counted.
+
+Add it up and every entity signal Google reads says the same thing:
+
+| Signal | What it currently says |
+|---|---|
+| Title tag | Party Boat Cruise / Party Barge |
+| Site Title → schema Organization, LocalBusiness, WebSite, WebPage name | **New Orleans Pedal Barge** |
+| `og:site_name` | **New Orleans Pedal Barge** |
+| Logo alt text | **New Orleans Pedal Barge** |
+| ~50% of backlink anchors | **Pedal Barge** |
+| Homepage body: "New Orleans swamp tour" | **0 occurrences** ("swamp tour" alone appears 7 times, never anchored to the city) |
+| GBP name | leads with *Nola Party Barge* |
+| GBP primary category | Tour operator |
+
+The H1 is the one thing that gets it right — "Most Swamp Tours in New Orleans Are Boring. Ours Aren't." That single signal is probably why you rank at all.
+
+### The fix, in leverage order
+
+| # | Move | Effort | Why it matters here |
+|---|---|---|---|
+| 1 | **Rewrite the homepage title tag** to lead with the phrase, e.g. `New Orleans Swamp Tours \| BYOB Party Boat, 30 Min from the Quarter` | One field | This is exactly what tourbigeasy does, and it ranks #2 on half your links |
+| 2 | **Change the WordPress Site Title** to "New Orleans Party Barge" (already queued as fix #1) | One field | Kills "Pedal Barge" from four schema blocks, og:site_name, logo alt, and every page title in one move. This turns out to be a relevance fix, not a branding nit. |
+| 3 | **Anchor-text campaign across your own portfolio** | Free, fully under your control | You own nolaboozecruise.com, neworleanstikiboats.com, hiddenadventuretours.com, admirenola.com, neworleanspartyboats.com, neworleanskayakswamptours.com, crescentcitykayak.com. Every one can link to nolapartybarges.com with **"New Orleans swamp tour"** anchor text. That's the direct counterweight to the 62 "Pedal Barge" domains, and it costs nothing. |
+| 4 | **Put the phrase in the body copy.** Currently zero occurrences. | 20 min | Target 3-5 natural uses of "New Orleans swamp tour(s)" |
+| 5 | **GBP primary category** → Boat tour agency or the most swamp-specific option available | 5 min | Currently "Tour operator." The pack winners are boat tour agencies. |
+| 6 | **GBP name ordering.** Leading with the swamp phrase would help, but note the pack winners' names ("Swamp Tours New Orleans") sit in guideline gray area. Your real-world name should stay your real-world name — treat this as optional and lower priority than 1-5. | — | Flagged honestly rather than recommended |
+| 7 | Ignore or disavow the Telegram/PBN spam anchors picked up in 2025-26 (spam scores 25-68) | 15 min | Small, but it's noise in a 124-domain profile |
+
+Nothing on that list is a content project. Items 1, 2, 4 and 5 are under an hour combined. Item 3 is the one with real compounding upside and it's entirely free because you own every linking domain.
+
+---
+
 ## 5. Action Plan
 
 ### Quick wins — this week
