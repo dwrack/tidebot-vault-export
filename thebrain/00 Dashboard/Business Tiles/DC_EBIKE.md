@@ -6,15 +6,16 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-12
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- No open items. Reviews clear.
-- GSC returned no rows (low volume / newer site). Shares Meta account with DCKT/Cave Point.
+- FH: no numbers — scrape empty.
+- GBP: no unreplied reviews (all recent replied; latest new activity old).
+- GSC returned no rows for the window (likely lag). No paid, no IG account.
 <!-- live:end -->
 
 ## Quick links

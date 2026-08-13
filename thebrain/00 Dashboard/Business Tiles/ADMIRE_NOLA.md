@@ -6,15 +6,16 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: "IG pull failed (perm #10)"
-updated: 2026-08-12
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- No open review items.
-- IG posts pull failed with a permissions error (#10) — couldn't read organic. GSC small (kayak/swamp/plantation terms). Meta "New Sales Campaign" ran $0.32.
+- Umbrella funnel — no direct FH.
+- GBP: no unreplied reviews.
+- GSC: low volume; ATV/plantation terms drawing impressions with zero clicks (intent mismatch). IG posting daily swamp content, low engagement (2–9 likes).
 <!-- live:end -->
 
 ## Quick links

@@ -5,17 +5,17 @@ city: Door County
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 190
+ad_spend_yday: 15
 status: yellow
-alert: "FH scrape empty; 10 unreplied 5★"
-updated: 2026-08-12
+alert: "data stale — FH scrape missing; 10 unreplied 5★"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: no numbers today (scrape empty).
-- 10 unreplied 5★ (Aug 6-11) naming Lucas, Tristan, Leah, Torrey, Jackson.
-- Paid strong: Google $177 → ROAS 2.56 (7d 5.04); Meta Retargeting $5.20 → 4 purchases $519 (ROAS 99.8). GSC dominant — "door county kayak tours" #1.
+- FH: no numbers — scrape empty. (Manifest showed 14 line-items for today, some no-shows.)
+- 10 unreplied 5★ on GBP (Aug 6–12): Lucas, Tristan, Leah, Torrey, Jackson all named. No negatives.
+- Meta $15: Retargeting $4.55 → 1 purchase $145.59, 32× ROAS (best in portfolio); web-traffic campaign $10.59 → 293 clicks at $0.036 CPC. Google Ads dark (API down). GSC strong: "door county kayak tours" #1.2 (32 clicks), "cave point kayak tour" #1.8.
 <!-- live:end -->
 
 ## Quick links

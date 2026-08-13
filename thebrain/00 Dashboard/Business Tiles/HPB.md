@@ -5,17 +5,17 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 31
+ad_spend_yday: 12
 status: yellow
-alert: "FH scrape empty; Google conv-value tracking broken"
-updated: 2026-08-12
+alert: "data stale — FH scrape missing; 2 unreplied 5★"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: no numbers today (scrape empty).
-- Google $20.97 → 1 conv but **conversion value not tracked** ($1/conv, ROAS 0.03); 7d shows 144 all-conv on $150 with no revenue attached. Fix value tracking to measure ROAS.
-- Meta Followers Reboost $10.18 (engagement). 2 unreplied 5★. TikTok not pulled (browser down).
+- FH: no numbers — scrape empty.
+- 2 unreplied 5★ on GBP (Miquelle, Kyle Maine, Aug 10). Stephanie Hardin 1★ already replied.
+- Meta $11.66: HPB Followers Reboost (engagement objective). Google Ads dark (API down). TikTok not pulled — Playwright browser offline. IG posting but low engagement (2–5 likes).
 <!-- live:end -->
 
 ## Quick links

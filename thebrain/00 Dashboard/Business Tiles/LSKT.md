@@ -5,17 +5,17 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 91
+ad_spend_yday: 0
 status: yellow
-alert: "FH scrape empty; Austin Google ROAS 8.9 (best account)"
-updated: 2026-08-12
+alert: "data stale — FH scrape missing; no Meta spend + Google Ads down"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: no numbers today (scrape empty).
-- Reviews clear. Google (shared Austin account) $91 → 2 conv, $812 value, ROAS 8.92, 17.4% CTR — best-performing account in the portfolio. 7d ROAS 5.04.
-- GSC: "lone star kayak tours" #1; "austin kayaking" at ~pos 21 (push-up opportunity).
+- FH: no numbers — scrape empty.
+- GBP: no new unreplied reviews.
+- Meta: $0 spend yesterday on the Austin account (act_638850950128825) — check if intentional, it's peak bat season. Google Ads dark (API down). GSC: "lone star kayak tours" #1, but "austin kayaking" stuck at position 18 — page-optimization opportunity.
 <!-- live:end -->
 
 ## Quick links

@@ -7,14 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "1★ Groupon unreplied since Jul 25 (18 days); IG idle since Jun 19"
-updated: 2026-08-12
+alert: "1★ unreplied 19 days (Matt Goit, Groupon)"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- **1★ from Matt Goit (Jul 25) still unreplied** — says AKT won't honor Groupon deals. 18 days open. Reply.
-- Shares Google/Meta account with LSKT (Austin). IG idle since Jun 19.
+- OPEN NEGATIVE: Matt Goit 1★ (Jul 25, 19 days) — Groupon deals not honored. Long overdue reply. Also Kelsha 5★ + Jordan 4★ unreplied.
+- FH: no numbers — scrape empty.
+- Meta: $0 spend yesterday (shared Austin account). Google Ads dark (API down). IG stale — last post 2026-06-19.
 <!-- live:end -->
 
 ## Quick links

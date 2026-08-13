@@ -6,15 +6,15 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: "IG dormant since Nov 2025; no GBP/Ads coverage"
-updated: 2026-08-12
+status: yellow
+alert: "IG dormant since 2025-11; no GBP/GSC/Ads coverage"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- No GBP, GSC, or ad coverage wired up. IG dormant since Nov 2025 (last posts were giveaways).
-- Nothing actionable today beyond deciding whether to revive the IG account in peak season.
+- No GBP/GSC/Ads coverage — IG-only business.
+- IG dormant: last post 2025-11-14 (~9 months). Nothing to report.
 <!-- live:end -->
 
 ## Quick links

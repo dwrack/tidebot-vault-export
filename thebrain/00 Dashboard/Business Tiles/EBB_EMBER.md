@@ -7,14 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "3★ today: banya no-show, no callback"
-updated: 2026-08-12
+alert: "data stale — FH scrape missing; 3 unreplied 5★"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- **3★ posted this morning (Aug 12) unreplied** — guest booked a banya, practitioner never showed, no callback. Reply + refund the banya + find out why it went unstaffed.
-- No Meta ad account (never set up). IG active daily; Aug 9 carousel has 14 comments (reply pass). Strong 5★ flow otherwise.
+- FH: not in scraped set — no numbers.
+- 3 unreplied 5★ on GBP (Bowen, Nathan, Elena). The 3★ banya no-show (Aug 12) is already replied + refund in motion — resolved.
+- No Meta/Google ad account. IG strongest engagement in portfolio: Aug 9 carousel 52 likes / 14 comments, Aug 11 reel 28 likes / 8 comments — reply the comments.
 <!-- live:end -->
 
 ## Quick links

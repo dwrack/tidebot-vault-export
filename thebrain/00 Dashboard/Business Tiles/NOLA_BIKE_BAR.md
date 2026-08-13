@@ -6,15 +6,16 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-12
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-08-13
 tile_type: business
 ---
 
 <!-- live:start -->
-- No open items. GBP review queue clear.
-- GSC: "bike bar new orleans" / "nola bike bar" ranking top-5, small volume. No ad account, no IG.
+- FH: no numbers — scrape empty (Bike Bar not in the 6 scraped shortnames anyway).
+- GBP: no new reviews, none unreplied. All recent replied.
+- GSC: "nola bike bar" #2 (4 clicks/8d), "bike bar new orleans" #3.5 — low volume, brand terms holding.
 <!-- live:end -->
 
 ## Quick links
