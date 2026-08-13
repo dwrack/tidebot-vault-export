@@ -62,6 +62,27 @@ Rows 12 and 13 are the same problem. Jonah wants remote lock/unlock (he's right,
 4. Door lock: if a bridge doesn't fix the drain, do we buy a new lock or drop Wi-Fi?
 5. "Tag up new home for stuff" — where does the stuff go?
 
+## Slack cross-reference (added 2026-08-13, 21 days of history)
+
+Only 3 of 21 punch items show up anywhere in Slack. The list and the conversation are running on separate tracks.
+
+**Things Slack changes about the plan above:**
+
+| Finding | Effect |
+|---|---|
+| Zach owns 5 open items and **is not in the Slack workspace**. Hannah 08/04: "Zach isn't on here. Lemme group text"… "actually, Davey can you text him?" No confirmation anyone did | Wave 1 dates (Aug 15/19/22) are being tracked somewhere Zach can't see. Text him or the wave doesn't happen |
+| Davey 08/07: "I got lights hung. But **not internet installed**" | No working internet at the dock. That blocks BOTH the automated lighting and the door-WiFi reconnect. Wave 2 can't start until internet exists |
+| L, 08/10: "were the changing rooms returned to amazon?" — unanswered | If they went back, the closet → changing room item is void |
+| Grant + Blake working on the Downpour week of Aug 4 | The spigot for the downpour location should be coordinated with Grant, not just Mario |
+| Mario, cameras, lockers, sail, hooks, bathroom door, door ball, "tag up stuff": **zero Slack traffic in 21 days** | These aren't stalled on a decision, they're just not being discussed |
+
+**Unanswered on Slack, liability-grade:**
+
+- Hannah, 08/02: "people are bringing guests on Thursday but we aren't asking them to sign waivers. Should I be worried about this?" **Never answered.** The party moved to 9/15, so it's live again.
+- Jess, 08/12: "So how many signs do you want, then?" Unanswered, and it blocks the river-safety signs Davey himself asked for on 08/12.
+
+**Not on the punch list but running:** signage v2 → production (Jess, waiting on Davey + Jonah), river-safety signage, Member Appreciation Night 9/15 (Hannah/Lauren/L/Kimberlynn), SendGrid → Active Campaign migration (L, this week), 9pm slot unbookable for members (L, blocked on Periode), roles & responsibilities charrette (no date locked, must land before Davey leaves ~Aug 30).
+
 ## Sheet hygiene
 
 - Rows 18-22 have no Priority and no Complete value. Fill them so the sheet sorts.
