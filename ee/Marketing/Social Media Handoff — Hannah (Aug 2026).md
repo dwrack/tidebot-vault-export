@@ -52,7 +52,32 @@ Reach has already fallen back to ~3,000/day as of Aug 9. The viral bump is over.
 
 Instagram sent **654 sessions** to the site, the third biggest channel behind organic search (1,054) and direct (639). Bounce rate on Instagram traffic was **19.9%** versus 47% for search traffic. Social traffic is the most engaged traffic the site gets.
 
-**Caveat Hannah needs to know on day one:** bookings check out on Periode, not on the site, and 210 of the last 30 days' conversions land in GA4 as "Unassigned." There is an attribution bridge in place but social-to-booking is still not cleanly traceable. Do not promise a "bookings from Instagram" number until that is fixed. Measure the link tap, not the sale.
+### Attribution status — the Aug 1 bridge is working (verified 2026-08-12)
+
+Bookings check out on Periode, not on the site, so for months every sale landed in GA4 as "Unassigned" with no source. The tracking bridge went live Aug 1. Nobody had checked whether it worked. It does:
+
+| Period | Conversions | Attributed to a real source | Unassigned |
+|---|---|---|---|
+| July 1–31 (pre-bridge) | 237 | **0 (0%)** | 237 (100%) |
+| Aug 1–11 (post-bridge) | 113 | **71 (63%)** | 42 (37%) |
+
+Aug 1–11 purchases by channel: Unassigned 42, Direct 34, Organic Search 25, Periode referral 8, Paid Search 2, Instagram 2.
+
+**Instagram is still credited with only 2 purchases** despite sending 654 sessions at a 19.9% bounce rate. That is not because Instagram doesn't convert. It is because the bio link carries no UTMs, so those sessions land as a bare referral and lose the thread at checkout.
+
+### The five fixes, in order of payoff
+
+1. **Add Periode to GA4's unwanted referrals list.** `minside.periode.no` is currently counted as a traffic source — 86 sessions and 8 purchases credited to Periode itself, which is self-referral stealing credit from whatever actually drove the booking. GA4 Admin → Data Streams → Configure tag settings → List unwanted referrals → add `periode.no`, `minside.periode.no`, `merchant.periode.no`. Biggest single win, five minutes of work.
+2. **Put UTMs on every Instagram link, without exception.** Lock one convention and never deviate:
+   - Bio link: `?utm_source=instagram&utm_medium=bio`
+   - Story link sticker: `?utm_source=instagram&utm_medium=story&utm_content=<what-the-story-was>`
+   - Reel-driven traffic: `?utm_source=instagram&utm_medium=reel&utm_content=<post-slug>`
+   Someone has been using `utm_source=ig` in places (55 sessions, 1 purchase) and nothing at all in others. Inconsistent tagging is why the data is mush. Use `instagram`, not `ig`.
+3. **Raise the GA4 session timeout from 30 minutes to 4 hours.** Admin → Data Streams → Configure tag settings → Adjust session timeout. A floating sauna session is a considered purchase and people bounce between the site, Periode, and a group text before booking. A 30-minute window throws away the source on anyone who thinks about it over lunch.
+4. **Give social its own promo code.** This is the one that cannot break. A unique Periode code used only in Instagram content — redemptions come straight out of Periode with no attribution chain to lose. Until items 1–3 are verified, **this is the only "bookings from Instagram" number Hannah should report.**
+5. **Fix the broken tooling.** The Google Ads MCP is dead (API v21 deprecated, requests blocked) and the IG per-post insights call is passing a stale metric list, so per-post saves cannot currently be pulled programmatically. Saves are a Tier 1 KPI below, so this needs fixing or Hannah pulls saves by hand from the app.
+
+**Note on Search Console:** GSC only reports Google Search clicks. It cannot connect to Instagram and has no role in social attribution. The social attribution path is GA4 + UTMs + the Periode promo code.
 
 ### Top posts, Apr 10 – Aug 9
 
@@ -186,9 +211,45 @@ That is **30 minutes a day, roughly 3.5 hours a week**, which is the honest answ
 
 Second sign at the bucket: **"This is The Downpour. #TheDownpour"**
 
-Note: the hashtag in the brainstorm notes was written **#PDXCoooldPlungeFace** with three o's. Pick one spelling and lock it before it goes on a sign — recommend **#PDXColdPlungeFace**, since the misspelling will not be typed correctly by guests.
+Note: the hashtag in the brainstorm notes was written **#PDXCoooldPlungeFace** with three o's. Lock one spelling before anything is printed — recommend **#PDXColdPlungeFace**, since guests will never type the misspelling.
 
-Hashtags to own: **#PDXColdPlungeFace**, **#TheDownpour**, **#PDXDownpour**. Put them in the bio, in the sign, in every caption, and in the confirmation email. A hashtag only works if it is asked for in three places.
+### What hashtags actually do in 2026 (read before spending time on them)
+
+Instagram removed the ability to *follow* a hashtag in December 2024, and Mosseri has said publicly that hashtags don't meaningfully drive reach anymore. What replaced them: Instagram indexes **caption text and on-screen words** for search. So typing "cold plunge in Portland" in the caption and burning it into the video does more for discovery than any hashtag will.
+
+That changes the job of a hashtag from *discovery* to *collection*. Which is fine, because collection is exactly what we want them for — a bucket to find UGC in and a CTA people can act on.
+
+**Do not chase generic tags.** #ColdPlunge is a huge global tag owned by cold-tub manufacturers and Wim Hof content. Posting into it puts us in front of people shopping for a $5,000 tub in Ohio, not someone in Portland deciding what to do Friday night. You cannot claim it, and claiming it would be worthless. Same for #ColdPlungeFace on its own — unbranded, generic, and it does nothing for us.
+
+**Three branded tags. That is the whole list.**
+
+| Tag | Job |
+|---|---|
+| **#PDXColdPlungeFace** | UGC bucket for the reaction shot. Goes on the dock sign. |
+| **#TheDownpour** | Already in use, product name, keep it |
+| **#SaunaJumpPDX** | New. The jump series. |
+
+On the jump tag specifically: **#FloatingSaunaJump is wrong** — three words nobody will type, and it doesn't say Portland. **#SaunaJumpPDX** is shorter, says the city, and matches the #___PDX pattern already in play. Runners-up if that reads wrong out loud: #PDXSaunaJump, #JumpTheColumbia.
+
+More important than the tag: **name the thing on screen.** "The Downpour" worked because it got a name, not because it got a hashtag. Call the jump **The Jump** in the video and the caption. The tag is just the filing system.
+
+Every tag goes in four places or it does not work: the bio, the dock sign, every caption, and the booking confirmation email.
+
+### What Portland actually searches (GSC, May 12 – Aug 10)
+
+Use this language in captions and on-screen text, because these are the words real buyers type:
+
+| Query | Impressions | Our position | Read |
+|---|---|---|---|
+| sauna portland | 403 | 7.6 | Biggest non-brand demand, we rank badly |
+| portland sauna | 167 | 8.4 | Same cluster, same problem |
+| floating sauna portland | 192 | **1.2** | We own this outright, 52% CTR |
+| cold plunge portland | 146 | 8.1 | Real demand, 2.7% CTR, wide open |
+| sauna portland oregon | 124 | 6.5 | — |
+| sauna cold plunge portland | 88 | 3.6 | — |
+| cold plunge near me | 56 | 5.9 | — |
+
+We dominate "floating sauna" and lose "sauna portland" and "cold plunge portland." That is a website problem, not a social problem — the `/cold-plunge-portland` and `/private-sauna-rental-portland` pillar pages still do not exist. Worth saying out loud because no amount of Instagram fixes it.
 
 **Co-branded event connections.** Every partner is a content multiplier and an audience swap. Active ones to build around:
 - **Monday Banya with Danesh** — a whole ritual most Portlanders have never seen. Film the venik. That is unmatched footage.
@@ -255,6 +316,11 @@ Rotate in a Monday (Banya) and a Tuesday (service industry) visit once a quarter
 
 - [ ] Confirm Hannah's start date and whether she overlaps with Kimberlynn's full 5 weeks
 - [ ] Lock the hashtag spelling before signage is ordered (recommend #PDXColdPlungeFace)
+- [ ] Add `periode.no` / `minside.periode.no` / `merchant.periode.no` to GA4 unwanted referrals
+- [ ] Raise GA4 session timeout from 30 min to 4 hours
+- [ ] Create the Instagram-only Periode promo code so social bookings are countable
+- [ ] Fix the Google Ads MCP (API v21 deprecated, all requests blocked) and the IG post-insights metric list
+- [ ] Decide on Apify (~$30-50/mo) for monthly competitor IG/TikTok benchmarking — currently zero visibility into what other Portland sauna operators post
 - [ ] Confirm the Friday 6–8pm slot works for Hannah, then put the recurring event on the calendar
 - [ ] Confirm whether a TikTok account exists; if not, open one
 - [ ] Record the four deadpan Downpour VO lines — still outstanding since June
