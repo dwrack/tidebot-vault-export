@@ -16,7 +16,8 @@ Snapshot taken: 2026-08-12. Claude re-checks the sheet and reports what moved.
 | 7 | Zach's rate | $30/hr, Davey told him it's what's budgeted. Awaiting Zach's response |
 | 9 | Mario spigot photo | Davey doesn't have it. Asked Dustin over iMessage |
 | 10 | Waivers | Yes. Collect on entrance with an iPad |
-| 11 | Sign count | **10 total** — 1 per ramp, 1 per life ring (7), 1 at the walk-up to the sauna entrance. *Assumes 2 ramps + 7 rings + 1 entrance; correct if the ramp count is different* |
+| 11 | Sign count | **10 total** — 1 per ramp, 1 per life ring (7), 1 at the walk-up to the sauna entrance. Confirmed 2026-08-13 |
+| — | String lights | **Fully installed.** There is internet at the lounge. Open piece is connecting the lights to the automated switch |
 | 13 | Punch list reporting | One **pinned** post in Slack, edited in place daily as things get done. No repeat posts flooding the channel |
 
 ## Status roll-up
@@ -87,7 +88,7 @@ Only 3 of 21 punch items show up anywhere in Slack. The list and the conversatio
 | Finding | Effect |
 |---|---|
 | Zach owns 5 open items and **is not in the Slack workspace**. Hannah 08/04: "Zach isn't on here. Lemme group text"… "actually, Davey can you text him?" No confirmation anyone did | Wave 1 dates (Aug 15/19/22) are being tracked somewhere Zach can't see. Text him or the wave doesn't happen |
-| Davey 08/07: "I got lights hung. But **not internet installed**" | No working internet at the dock. That blocks BOTH the automated lighting and the door-WiFi reconnect. Wave 2 can't start until internet exists |
+| Davey 08/07: "I got lights hung. But not internet installed" | ~~No internet at the dock~~ — **misread, corrected 08/13.** There IS internet at the lounge. The lights are fully installed; they just aren't connected to the automated switch on the network yet. Nothing is blocked by connectivity |
 | L, 08/10: "were the changing rooms returned to amazon?" — unanswered | If they went back, the closet → changing room item is void |
 | Grant + Blake working on the Downpour week of Aug 4 | The spigot for the downpour location should be coordinated with Grant, not just Mario |
 | Mario, cameras, lockers, sail, hooks, bathroom door, door ball, "tag up stuff": **zero Slack traffic in 21 days** | These aren't stalled on a decision, they're just not being discussed |
