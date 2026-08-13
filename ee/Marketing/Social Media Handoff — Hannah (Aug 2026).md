@@ -21,7 +21,7 @@ So the account is not a slow-growth problem. It is a **repeatability** problem. 
 | Facebook Page | Page ID 633573899839067 (different from the IG ID) | Davey / Jonah |
 | Meta Business Suite | Needs a real role, not a password share | Davey (2FA wall, must be done in his window) |
 | YouTube channel | UCbzG-G9b9s9Uz49QZuGqOeQ, owned by the sauna@ account | Davey |
-| TikTok | Confirm whether an account exists yet — if not, open one before she starts | Open item |
+| TikTok | **@ebbandember exists** — 1,384 followers, 8,807 likes, 83 videos (verified 2026-08-11). Do NOT open a new one. Nobody has the login on file, so get credentials from Kimberlynn before Sept 15 or the account is stranded. | Kimberlynn |
 | Asana content calendar | Kimberlynn's calendar, must transfer ownership before Sept 15 | Kimberlynn |
 | Influencer/creator outreach sheet | Kimberlynn maintained this and circulated it | Kimberlynn |
 | Canva / graphics files | Punch pass graphic, member night assets, story templates | Kimberlynn |
