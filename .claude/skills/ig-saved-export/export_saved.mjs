@@ -23,12 +23,32 @@
  * skill to turn each post into Content Engine entries.
  */
 
-import { chromium } from "playwright";
 import { fileURLToPath } from "node:url";
 import { dirname, join, isAbsolute } from "node:path";
 import { writeFileSync, existsSync, readFileSync } from "node:fs";
+import { execSync } from "node:child_process";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
+
+// Auto-install Playwright + Chromium on first run so this is a single command.
+async function ensureChromium() {
+  try {
+    return (await import("playwright")).chromium;
+  } catch {
+    console.log("\n📦 First run — installing Playwright + Chromium (one time, ~1 min)...\n");
+    try {
+      execSync("npm i playwright", { stdio: "inherit", cwd: HERE });
+      execSync("npx playwright install chromium", { stdio: "inherit", cwd: HERE });
+    } catch (e) {
+      console.error(
+        "\nCouldn't auto-install. Make sure Node.js is installed (https://nodejs.org)," +
+        " then run manually:\n  npm i playwright && npx playwright install chromium\n"
+      );
+      process.exit(1);
+    }
+    return (await import("playwright")).chromium;
+  }
+}
 
 // ---- tiny arg parser --------------------------------------------------------
 const argv = process.argv.slice(2);
@@ -67,6 +87,7 @@ function loadExisting() {
 }
 
 async function main() {
+  const chromium = await ensureChromium();
   const userDataDir = join(HERE, "ig-user-data");
   console.log(`\n▶ Launching browser (profile cached in ${userDataDir})`);
   const ctx = await chromium.launchPersistentContext(userDataDir, {
