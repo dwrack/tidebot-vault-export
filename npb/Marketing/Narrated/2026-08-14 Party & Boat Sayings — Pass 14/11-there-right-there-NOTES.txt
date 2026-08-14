@@ -1,0 +1,11 @@
+PIECE 11 — Punchy / sensory lane — "There, Right There"
+Voice: voice-en-GB-RyanNeural (free tier)   Music: near-silent, ambient swamp audio carries the piece   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The whole boat leans the same way, before anyone says a word.   [Wide static shot, boat drifting on still black water, no wake — every guest's posture subtly leaning the same direction]
+ 4.0s  Then the whisper: "There. Right there."                        [Close-up: a guest's lips barely moving, whispering to the guest beside her — VO delivered hushed, near-whisper]
+ 7.0s  It moves seat to seat, guest to guest.                         [Cut: the whisper passing head to head down the row of seated guests]
+ 9.5s  Every head turned the exact same direction.                    [Wide shot: entire boat, every guest's head turned the same way, alligator eyes or a heron just visible at the surface/tree line]
+12.5s  That's the whole tour, in one breath.                          [Close on the water's surface, ripple holding still, slow fade to black]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

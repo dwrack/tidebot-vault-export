@@ -1,0 +1,13 @@
+PIECE 03 — Funny / captain line, punchy — "Sunscreen Check"
+Voice: voice-en-US-GuyNeural (free tier)   Music: light brass instrumental bed, low under narration   Length: 16.2s
+
+SCRIPT (timed to narration):
+ 0.0s  "Sunscreen check!"   [Poppa Charles at the helm, hand cupped to his mouth, guests laughing]
+ 1.6s  Half the boat holds up a bottle.   [guests raising sunscreen bottles like a toast]
+ 3.8s  The other half holds up a beer.   [different guest raising a can instead, laughing]
+ 6.2s  Poppa just shakes his head and pushes off.   [Poppa smirking, boat pulling away from the dock]
+ 9.0s  Hour two: somebody's very red, very quiet.   [close-up: sunburned guest, sheepish, others laughing next to him]
+12.4s  Poppa doesn't say "I told you so."   [Poppa glancing over, smug half-smile]
+14.4s  He doesn't have to.   [wide shot: boat cruising, golden light, sunburned guest still glowing in the background]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

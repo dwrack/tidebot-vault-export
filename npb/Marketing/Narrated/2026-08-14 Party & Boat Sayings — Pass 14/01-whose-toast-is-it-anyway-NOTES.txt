@@ -1,0 +1,17 @@
+PIECE 01 — Funny / ritual — "Whose Toast Is It Anyway"
+Voice: EL-Sarah (ElevenLabs)   Music: brass/bounce party bed, comedic pacing (Hot 8 Brass Band feel — clearance unconfirmed; recommend commercial-library brass/bounce fallback for launch)   Length: 23.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody raises a toast.   [wide shot: guest standing up on the bow, cup raised, group cheering]
+ 1.6s  Bad move.   [reaction shot: guests grinning, already reaching for their own cups]
+ 3.4s  Now everybody wants one.   [second guest hops up onto a cooler, mock-serious pose]
+ 5.6s  "Toast number four!" somebody yells.   [close-up: guest counting on fingers, cracking up]
+ 8.2s  Nobody remembers who started this.   [wide shot, whole group laughing, cups everywhere]
+10.6s  Captain Eddie hasn't moved the boat in ten minutes.   [Eddie at the helm, arms crossed, deadpan]
+13.4s  He's not stalling.   [close on Eddie's face, the corner of his mouth twitching]
+15.2s  He's counting.   [Eddie's eyes flick toward the group]
+17.0s  Toast number nine, and he still hasn't budged.   [wide shot: boat idle at the dock, skyline behind, group still going]
+19.8s  Some captains run a schedule.   [Eddie checking his watch]
+21.6s  Eddie runs a scoreboard.   [Eddie grinning straight at camera, cut to logo]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

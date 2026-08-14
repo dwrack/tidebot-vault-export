@@ -1,0 +1,14 @@
+PIECE 04 — Funny / running joke — "Don't Let It Hit the Water"
+Voice: EL-Jessica (ElevenLabs)   Music: bounce/upbeat bed (clearance unconfirmed, recommend commercial-library fallback for launch)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A phone tips over the rail.                            [phone tipping toward the water, hand lunging to grab it]
+ 2.2s  Don't let it hit the water!                             [whole group shouting together, pointing at the near-miss]
+ 4.2s  By hour two, it's the only rule on the boat.            [quick cuts: a drink wobbling, a hat catching wind]
+ 7.0s  Sunglasses. A hat. One nervous margarita.                [comedic quick cuts: sunglasses sliding off, hat blowing, margarita tilting hard]
+ 9.6s  Darius doesn't even look up. He just catches it.        [Darius reaching back one-handed, snagging the item without looking]
+12.2s  New legend on the boat. Nobody taught him that.         [guests cheering, high-fiving Darius, deckhand grinning]
+14.8s  Then a flip-flop finally wins.                          [flip-flop flying off a foot, splash into the bayou]
+16.7s  Bayou: one. Group: still laughing.                      [group laughing, toasting, boat cruising the open water]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

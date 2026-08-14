@@ -1,0 +1,14 @@
+PIECE 05 — Storyline / running joke — "The Nickname That Sticks"
+Voice: EL-Daniel (ElevenLabs)   Music: Rebirth Brass Band-style party anthem bed (clearance unconfirmed, commercial-library fallback)   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Guy trips boarding. Beer everywhere.                          [guest stumbling boarding the boat, beer spilling]
+ 2.2s  Calvin sees it. Calvin doesn't forget it.                     [Calvin smirking from the dock, clocking it instantly]
+ 4.9s  By hour two, everybody's calling him Spill.                   [guests calling out "Spill!", laughing, guy shaking his head]
+ 7.8s  Nobody voted. It just happened.                               [candid group shot, the nickname passing guest to guest]
+10.1s  He answers to it before the boat's back at the dock.          [guy turning at the name, laughing at himself]
+13.4s  Spill goes home. The name doesn't.                            [boat docking, guests filing off, waving goodbye]
+15.9s  Ask his friends in five years. Still Spill.                   [friend group years later, still using the name, laughing]
+18.8s  That's just what happens on this boat.                        [Calvin grinning at the rail, boat wake at golden hour]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

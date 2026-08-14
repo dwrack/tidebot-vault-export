@@ -1,0 +1,14 @@
+PIECE 07 — Did-you-know / funny — "Wait, Gators Can Do That?"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Brian (ElevenLabs)   Music: light calm bed (Sweet Crude atmospheric feel — clearance unconfirmed; recommend commercial-library ambient fallback for launch)   Length: 20.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Alligators can go over a year without eating.                              [wide shot: alligator resting motionless on the bank near the boat, guide gesturing toward it]
+ 3.2s  Wait, what?                                                                [guest reaction, genuine surprise, eyebrows up]
+ 4.5s  They've looked like this since before most dinosaurs went extinct.         [close-up: gator eye and scaled texture, slow push-in]
+ 8.7s  No way.                                                                    [second guest reaction, leaning toward a friend, surprised]
+10.0s  A mother alligator carries her hatchlings in her mouth. Doesn't break a single one.  [real wildlife footage: mother alligator with hatchlings near her mouth, calm water]
+15.5s  That's... actually kind of sweet.                                          [guest reaction, softer smile, genuinely charmed]
+17.5s  Try not to fall for a reptile.                                             [guide's dry, affectionate smile, wide dawn swamp shot, boat gliding]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

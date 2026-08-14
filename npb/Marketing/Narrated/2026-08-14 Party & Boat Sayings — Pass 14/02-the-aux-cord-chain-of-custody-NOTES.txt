@@ -1,0 +1,15 @@
+PIECE 02 — Funny / scenario — "The Aux Cord Chain of Custody"
+Voice: EL-Lily (ElevenLabs)   Music: bounce/Big Freedia-style upbeat bed (clearance unconfirmed; recommend commercial-library bounce fallback for launch)   Length: 20.4s
+
+SCRIPT (timed to narration):
+ 0.0s  The aux cord starts with the bride.   [close-up: bride's phone connecting to the speaker, friends crowding in]
+ 2.4s  Then her maid of honor.   [phone passed hand to hand, quick cut]
+ 4.6s  Then somebody's boyfriend plays one country song.   [reaction shots: guests pausing mid-dance, unimpressed faces]
+ 7.4s  It's over for him.   [phone yanked out of his hand, mock-horrified faces around him]
+ 9.6s  Shannon steps in before this turns into a real fight.   [deckhand Shannon stepping between two guests, hands up, laughing]
+12.6s  She's not picking the song.   [Shannon shrugging, deadpan]
+14.6s  She's picking who's allowed to hold the phone.   [Shannon pointing at the phone like a referee]
+17.2s  Order restored.   [group cheering, phone handed off to a new DJ]
+18.6s  Bounce resumes.   [wide shot: whole boat dancing, sun on the water]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

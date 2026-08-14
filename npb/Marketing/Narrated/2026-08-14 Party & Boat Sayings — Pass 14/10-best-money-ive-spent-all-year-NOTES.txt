@@ -1,0 +1,12 @@
+PIECE 10 — Myth vs reality / practical lane — "Best Money I've Spent All Year"
+Voice: voice-en-US-RogerNeural (free tier)   Music: calm ambient bed (Preservation Hall quiet trad-jazz feel, unconfirmed clearance)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  She booked this to kill a morning.                                              [Guest at the dock, checking a phone itinerary, half-distracted]
+ 3.0s  Something to do before the real trip started.                                   [Guest boarding the boat, still glancing at her phone, mild resignation]
+ 6.0s  Somewhere out on the water, she forgot to check her phone.                       [Guest's hand goes still in her lap; guide gesturing off-frame toward wildlife]
+ 9.5s  She'd spent three days planning a wedding weekend. A rooftop bar booked for the toast.  [Quick cut: a wedding-weekend itinerary card / rooftop bar exterior at golden hour, stock footage fine]
+14.0s  The toast wasn't the story she told first when she got home.                     [Guest animatedly recounting the trip to a friend later, gesturing toward the swamp, not the wedding — reaction shot, implied scene]
+17.5s  "Best money I spent all year." Her words.                                        [Guest looking into the middle distance; quote appears as clean on-screen text; guide in background, small knowing smile]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

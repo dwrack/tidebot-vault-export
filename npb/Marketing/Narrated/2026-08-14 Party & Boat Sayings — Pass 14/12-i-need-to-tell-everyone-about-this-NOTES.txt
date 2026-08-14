@@ -1,0 +1,12 @@
+PIECE 12 — Funny / closing, word-of-mouth lane — "I Need to Tell Everyone About This"
+Voice: voice-en-US-BrianNeural (free tier)   Music: warm calm bed   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The boat's not even docked, and she's already making a list.       [Guests filing off toward the dock; one guest lingers a beat, staring off with a small smile, clearly thinking]
+ 3.5s  Mom's getting a call first.                                        [Quick cutaway: guest miming a phone call, playful, phone half-raised]
+ 6.5s  Then the group chat that agrees on nothing, except this.           [Guest smirking at her phone, glancing at a stack of unread group-chat notifications — generic texting graphic fine]
+10.5s  Then the coworker who called it "just a tourist thing."            [Guest's smug little smile; quick flashback-style cut to an office/desk moment — stock/generic okay]
+14.5s  The guide's seen this exact face on every single tour.             [Guide glancing back at guests disembarking, small knowing smile]
+17.5s  She's not posting about it. She's calling people.                  [Guest walking to her car already dialing, phone to ear, boat and dock fading behind her]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

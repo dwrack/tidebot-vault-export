@@ -1,0 +1,14 @@
+PIECE 06 — Funny / scenario — "One More Song, Captain"
+Voice: EL-Eric (ElevenLabs)   Music: brass instrumental bed   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Dock's in sight. Music's still cranked.                    [boat approaching the dock, guests still dancing on deck]
+ 2.3s  One more song, Captain!                                    [guests pleading with Captain Ben, hands raised]
+ 4.1s  Ben holds up a finger. Last one. I mean it this time.      [Ben mock-serious, one finger up, hand on the speaker]
+ 7.6s  He said that two songs ago.                                [quick rewind-style cut back to Ben saying the same line]
+ 9.7s  Ben's losing this one.                                     [guests cheering him down, Ben shaking his head, caving]
+11.5s  Somehow, there's always one more song.                     [Ben cranking the music back up, guests erupting]
+13.9s  Boat ties up. Nobody notices.                               [ropes tying off at the dock, nobody looking]
+16.3s  Still dancing. Still not off the boat.                     [guests still dancing on deck as the boat is secured]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

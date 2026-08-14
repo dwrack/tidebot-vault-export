@@ -1,0 +1,11 @@
+PIECE 08 — Poetic / sensory — "Take the Phone Down for a Second"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: soft solo-piano bed (Jon Cleary feel — clearance unconfirmed; recommend commercial-library solo-piano fallback for launch)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A heron stands forty feet off the bow. Most of the boat is watching it through a screen.  [wide-to-medium shot: heron standing still off the bow, several guests holding phones up, screens glowing]
+ 6.5s  Put it down for a second. It isn't going anywhere.                         [guide leaning in quietly toward a guest, gentle gesture toward the phone]
+10.5s  The screen is four inches wide. The swamp isn't.                          [foreground: small glowing phone screen; vast swamp filling the background, out of focus]
+14.0s  Look up. This part doesn't upload.                                        [guest slowly lowering the phone, direct unmediated eye contact with the heron; hold on wide golden-light shot as VO ends]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
