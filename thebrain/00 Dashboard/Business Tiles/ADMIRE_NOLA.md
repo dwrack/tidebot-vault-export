@@ -6,16 +6,17 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-08-13
+status: green
+alert: null
+updated: 2026-08-14
 tile_type: business
 ---
 
 <!-- live:start -->
-- Umbrella funnel — no direct FH.
-- GBP: no unreplied reviews.
-- GSC: low volume; ATV/plantation terms drawing impressions with zero clicks (intent mismatch). IG posting daily swamp content, low engagement (2–9 likes).
+- No FareHarbor feed, no ad spend yesterday.
+- GBP 4.9 (427). **0 unreplied.**
+- GSC: plantation terms — "plantation tour new orleans" #6.06, "plantations in new orleans" #9.0, "swamp tours new orleans" #7.48.
+- Shares Meta account act_87863118 with NPB; no Admire-prefixed campaigns ran yesterday.
 <!-- live:end -->
 
 ## Quick links

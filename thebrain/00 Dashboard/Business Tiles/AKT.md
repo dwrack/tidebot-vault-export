@@ -7,15 +7,19 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "1★ unreplied 19 days (Matt Goit, Groupon)"
-updated: 2026-08-13
+alert: "1★ unreplied 20 days; Meta dark; IG quiet 2 months"
+updated: 2026-08-14
 tile_type: business
 ---
 
 <!-- live:start -->
-- OPEN NEGATIVE: Matt Goit 1★ (Jul 25, 19 days) — Groupon deals not honored. Long overdue reply. Also Kelsha 5★ + Jordan 4★ unreplied.
-- FH: no numbers — scrape empty.
-- Meta: $0 spend yesterday (shared Austin account). Google Ads dark (API down). IG stale — last post 2026-06-19.
+- No separate FH feed. Google Ads shared with LSKT (8497383499) — see that tile for spend.
+- **⭐ Matt Goit (Jul 25) unreplied, 20 days.** Claims AKT advertises on Groupon then won't honor it, redirects to its own site. Reply today and decide: honor it or pull the listing.
+- **⭐⭐⭐⭐ Jordan Pedalino (Jul 26) unreplied** — long, fair, and full of free ops intel: guide Michael's coworker no-showed so he hauled gear for 4 people alone; launch path behind the apartment complex is steep and **unlit on the return** (guests used phone flashlights); parking lot expensive and not included. Three concrete fixes in one review.
+- Also unreplied: Kelsha Stubbs 5★ (Aug 3).
+- GBP 4.8 (139).
+- **Meta dark all week** (shared Austin account, $0 spend over 7 days).
+- IG @austinkayaktours last posted **Jun 19, 2026 (~2 months)** — mid-season.
 <!-- live:end -->
 
 ## Quick links

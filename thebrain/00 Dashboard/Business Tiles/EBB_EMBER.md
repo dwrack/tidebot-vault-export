@@ -6,16 +6,18 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data stale — FH scrape missing; 3 unreplied 5★"
-updated: 2026-08-13
+status: green
+alert: null
+updated: 2026-08-14
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: not in scraped set — no numbers.
-- 3 unreplied 5★ on GBP (Bowen, Nathan, Elena). The 3★ banya no-show (Aug 12) is already replied + refund in motion — resolved.
-- No Meta/Google ad account. IG strongest engagement in portfolio: Aug 9 carousel 52 likes / 14 comments, Aug 11 reel 28 likes / 8 comments — reply the comments.
+- No FareHarbor feed. **No Meta ad account exists** — never set up, not a permission gap.
+- GBP 4.9 (102). 4 unreplied 5★ (Amy Dunn Aug 13, Bowen Ames Aug 9, Nathan Margosian Jul 26, Elena Jakobsson Jul 19).
+- The 3★ banya no-show (Davey Jones, Aug 12) **was replied to and is being made right** — team is reaching out to everyone who booked the missed sessions.
+- IG posting daily and it shows: Aug 11 "four reasons you should probably just book it" → 29 likes, **9 comments unanswered**. Aug 14 sunset reel 19 likes.
+- But the *other* Aug 11 reel posted **0 likes, 0 comments**. Two posts same day, one landed, one vanished — don't double-post.
 <!-- live:end -->
 
 ## Quick links
