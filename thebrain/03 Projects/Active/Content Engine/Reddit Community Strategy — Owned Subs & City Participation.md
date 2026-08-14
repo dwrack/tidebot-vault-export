@@ -57,18 +57,18 @@ Track B drives bookings. Track A protects the brand and gives us a free megaphon
 - **Own (Track A), grab 1:** `r/AustinOutdoors`, `r/ATXOutdoors`, `r/AustinKayak`, `r/AustinPaddling`.
 - **Angle:** Outdoorsy, active audience — perfect fit. Lady Bird Lake / Colorado River kayaking, "visiting Austin," "bachelorette," and "best sunset activity" threads. Austin redditors reward specific, non-salesy local knowledge.
 
-### Door County, WI — Door County Kayak Tours, Ebb & Ember (sauna/cold plunge), Door County Ebike
+### Door County, WI — Door County Kayak Tours, Door County Ebike
 
 - **This is the highest-leverage market.** `r/DoorCounty` exists but is **small/underserved** — that's an opportunity, not a problem. A small sub is one where consistent, genuinely-helpful contribution makes us *the* recognized local voice fast, and where offering to help moderate (openly, as a local operator) can actually be welcomed.
 - **Participate (Track B):** `r/DoorCounty`, plus `r/Wisconsin` for seasonal "where should I go up north?" threads.
 - **Own (Track A), optional:** `r/DoorCountyOutdoors` or `r/DoorCountyTourism` if we want a branded content home — but honestly, investing in existing `r/DoorCounty` beats creating a competitor to it.
-- **Angle:** Seasonal tourism destination; visitors plan trips and ask Reddit. Kayak + sauna/cold-plunge + ebike is a full "what to do in Door County" itinerary we can credibly answer. Nordic/sauna content (Ebb & Ember) is novel and shareable.
+- **Angle:** Seasonal tourism destination; visitors plan trips and ask Reddit. Kayak + ebike is a strong "what to do in Door County" pairing we can credibly answer (paddle in the morning, ride the peninsula in the afternoon).
 
-### Portland / Willamette Valley, OR — Elevated Tides
+### Portland / Willamette River, OR — Ebb & Ember (floating sauna / cold plunge), Elevated Tides
 
 - **Participate (Track B):** `r/Portland` (very large), `r/askportland`, `r/WillametteValley`.
 - **Own (Track A), optional:** `r/WillametteRiver`, `r/PortlandPaddling`, `r/PDXOutdoors` (check — an outdoors sub may already exist; if so, participate instead of duplicating).
-- **Angle:** Cold-water / river-access story (there's a real gap in accessible open-water swimming/paddling here). Wellness + outdoors framing.
+- **Angle:** Two hooks here. (1) The floating-sauna + cold-plunge ritual on the river is genuinely novel, photo-friendly, and shareable — great fit for `r/saunas`, `r/coldplunge`, `r/pdx` wellness/recovery threads. (2) Accessible open-water paddling/river access is an underserved topic locally. Wellness + outdoors framing.
 
 > **Lone Star Kayak Tours (TX):** in bankruptcy — no Reddit investment.
 
