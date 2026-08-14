@@ -1,0 +1,28 @@
+PIECE 03 — Funny / scenario lane — "The Seltzer Guy"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: bounce/Big Freedia-style upbeat bed   Length: 24.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one. Shows up with exactly one seltzer.                    [Cooler opening: single seltzer can floating in ice]
+ 3.5s  Everybody else hauled in a cooler built like Fort Knox.                      [Wide shot: row of packed coolers on deck]
+ 7.0s  He brought vibes. And a single White Claw.                                   [Funny close-up on the lone can]
+10.0s  Hour two, he's drinking somebody else's frozen daiquiri out of a Solo cup.    [Guest handing him a drink, laughing]
+14.0s  Hour three, he's the loudest one on the boat.                                [Dancing, arms up, group energy]
+17.8s  BYOB doesn't mean bring one beer. We'll let you on anyway.                    [Captain laughing, thumbs up to camera]
+21.5s  Bring more next time. We mean it.                                            [Closing group shot, laughter, sunset]
+
+ON-SCREEN TEXT TREATMENT:
+Meme-energy text-on-screen, sound-off friendly (this is the funny/irreverent reach lane per the Script & Caption Bank). Punchline words get isolated on screen in bold caps as they land: "ONE SELTZER." / "FORT KNOX." / "LOUDEST ONE." Keep captions terse, not full sentences — this lane lives or dies on quick-hit text.
+
+SHOT LIST:
+- Detail shot: cooler opening reveal, single can vs. packed ice (Shot #4)
+- Wide shot: row of guest coolers on deck for comparison
+- Detail shot: the lone White Claw can, comedic framing
+- Candid shot: guest handing him a drink (Shot #2 variant)
+- Group reaction: dancing, arms up, high energy (Shot #2)
+- Captain/crew moment: captain laughing, thumbs up (Shot #5)
+- Closing shot: golden hour group laugh (Shot #6)
+
+CASTING NOTE: This needs a willing guest to lean into the bit on camera — ask before filming per the Deckhand Social Capture Playbook consent rules ("Y'all good if I grab a few clips for our Instagram?"). Don't stage it as mockery; keep it affectionate, matches the brand's "a little humor is fine" rule, never punch down at a real guest.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Halbert/Sugarman) then /copywriting-2.0 (3-test filter).

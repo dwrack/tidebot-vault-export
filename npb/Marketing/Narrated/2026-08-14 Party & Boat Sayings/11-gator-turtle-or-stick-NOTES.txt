@@ -1,0 +1,26 @@
+PIECE 11 — Punchy / funny lane — "Gator, Turtle, or Stick"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Brian (ElevenLabs)   Music: light calm bed (Sweet Crude atmospheric feel)   Length: 20.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every guide plays the same game with first-timers.                          [Guide pointing at an ambiguous shape in the water]
+ 3.3s  Gator, turtle, or stick? Only one way to find out.                          [Close on the shape, guests leaning in]
+ 7.0s  Nine times out of ten, it's a stick.                                        [Reveal: it's a stick, mild laughter]
+10.0s  One time out of ten, the stick blinks.                                      [Alligator eyes blink, reaction shot, guests jump]
+14.0s  That tenth time is why everybody leans forward on this boat.                [Guests leaning forward, excited energy]
+18.0s  Come find out which one you get.                                           [Wide swamp shot, boat gliding through black water]
+
+ON-SCREEN TEXT TREATMENT:
+Playful, game-show-style caption on the reveal beats only: "STICK." in plain caps at 7.0s, then "...OR NOT." as a quick follow-up burn-in right as the blink happens at 10.0s. Everything else stays caption-free so the reveal actually lands as a reveal.
+
+SHOT LIST:
+- Candid: guide pointing at something ambiguous in the water, guests curious
+- Close-up: the shape itself, held a beat for suspense
+- Reveal shot: confirmed stick, casual laughter
+- Wildlife: the "blink" — needs a real gator eye-blink clip, patience shot, golden hour best
+- Group reaction: guests leaning in, genuinely engaged
+- Wide closing shot: boat gliding through black water
+
+SOURCE GROUNDING: The core line is a direct pull from the Admire NOLA Script & Caption Bank Lane 5 (punchy hooks): "Gator, turtle, or just a stick? One way to find out." Extended here into a full beat structure with a payoff (the blink) that the original one-liner didn't have — this is the slate's clearest example of taking an existing bank seed and building a complete narrated piece around it.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

@@ -1,0 +1,28 @@
+PIECE 01 — Funny / ritual lane — "The Toast Captain Ben Gives"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: brass/bounce party bed (Hot 8 Brass Band feel — see clearance note)   Length: 23.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain's got a toast. Ben's is the one people ask for by name.        [Captain Ben at the helm, raising a cup toward camera]
+ 3.8s  To the bride, who got twelve people on a boat by 11 AM. Nobody knows how.    [Bride and group cheering, toast raised]
+ 8.0s  To the guy who brought his own blender. Nobody asked him to. Everybody thanked him.  [Cutaway: portable blender wedged in the cooler]
+12.5s  To the bayou, for putting up with all of us today.                          [Wide shot: cypress and open water passing]
+16.0s  And to whoever's driving Ubers tonight. Godspeed, truly.                     [Group laughing, cups clinking]
+19.5s  Whatever happens next is going on Instagram. Act accordingly.                [Closing shot: dock approach, group laughing, golden hour]
+
+ON-SCREEN TEXT TREATMENT:
+Bold script/neon caption pill, high saturation (matches the 532 Content Grid cover standard — this is competing against nightlife content in-feed). Burn in only the toast subject on each beat ("THE BRIDE" / "THE BLENDER GUY" / "THE UBER DRIVERS") lower-third, not the full line — let the VO carry the sentence. No text on the closing line, just the line itself landing clean.
+
+SHOT LIST:
+- Boarding shot: Captain Ben greeting the group at the dock (Deckhand Playbook Shot #1)
+- Captain/crew moment: Ben mid-toast, cup raised, genuine (Shot #5)
+- Detail shot: the blender wedged among coolers on deck (Shot #4)
+- Wide establishing: cypress/open water passing, golden light
+- Group reaction: cups raised, laughing, candid (Shot #2)
+- Closing shot: dock approach at golden hour (Shot #6)
+
+CASTING NOTE: Real captain-toast footage of Ben is the goal — if unavailable this trip, any captain giving a genuine toast works; keep the name generic on-screen ("CAPTAIN'S TOAST") rather than force "Ben" if it's a different captain that day.
+
+SOURCE GROUNDING: Signature closing line adapted from Unreasonable Hospitality — 100 Ideas for NPB, idea #100 ("whatever happened on the Party Barge... is definitely going on Instagram. So act accordingly."). Toast structure echoes idea #21 (birthday/bachelorette toast).
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter).

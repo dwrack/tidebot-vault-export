@@ -1,0 +1,24 @@
+PIECE 09 — Poetic lane — "The Quiet Toast"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs — same voice as Admire NOLA's own poetic-lane Piece 01, deliberate continuity)   Music: soft solo-piano bed (Jon Cleary feel), very low under narration   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Party boats toast with champagne. Out here, we toast with silence.           [Wide swamp vista at dawn, still water]
+ 4.0s  Thirty minutes from a bar tab. Next to a cypress a thousand years older than it.  [Black-water reflection shot, ancient cypress]
+ 9.0s  Nobody's shouting cheers. The heron couldn't care less either way.            [Heron standing motionless, kayak or boat drifting past]
+13.5s  Watch what happens the first time a gator surfaces ten feet off the bow.       [Alligator surfacing near the boat, guests going quiet, reaction shot]
+17.5s  That's the toast.                                                            [Golden light through cypress, closing wide shot]
+
+ON-SCREEN TEXT TREATMENT:
+None, or nearly none — this piece is modeled directly on Admire NOLA's "Before It Puts Its Face On" and should carry the same restraint: let the VO and the footage do the work. If any text appears, it's a single small serif line on the final frame only: "The Quiet Toast."
+
+SHOT LIST:
+- Wide swamp vista, dawn, still water (matches Admire NOLA Piece 01 opener exactly)
+- Black-water reflection with ancient cypress
+- Heron standing still, boat drifting past, top-down or eye-level
+- Alligator surfacing near the boat, cut to guests' faces going quiet
+- Golden dawn/dusk cypress, wide closing shot
+
+DIRECT FORMAT MATCH: This piece is the deliberate pair to Admire NOLA's poetic lane — same voice (Echo Rae), same pacing rhythm (short line, then a longer descriptive line, then a short punch), same restraint on on-screen text. It's the clearest "modeled exactly on" execution in this slate, built specifically to contrast the party-fleet toast pieces (01, 07) with what a toast looks like on the quiet side of the business.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter — tightened line 2 into two shorter sentences per the "more periods, fewer commas" rule; cut the trailing "though" on line 4 as a wasted hedge word).

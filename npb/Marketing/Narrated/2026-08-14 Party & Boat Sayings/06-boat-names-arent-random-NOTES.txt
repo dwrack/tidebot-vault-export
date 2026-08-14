@@ -1,0 +1,25 @@
+PIECE 06 — Did-you-know / punchy lane — "Boat Names Aren't Random"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: upbeat brass/bounce bed   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Freaky Tiki. Twerkin Tiki. Bayou Boogie. Party Queen.                        [Four boat-name overlays, quick cut across hero shots of each boat]
+ 4.5s  Four boats. Four different personalities.                                    [Group dancing on deck, energetic]
+ 7.5s  Freaky Tiki gets loud early and never really calms back down.                [Freaky Tiki, high-energy group shot]
+11.0s  Party Queen runs it smoother. A little more class, same bayou.               [Party Queen, relaxed toast shot]
+14.8s  Pick the wrong one, you'll still have a great time.                          [Laughing group, any boat]
+18.0s  Pick the right one, it's the trip they bring up for years.                   [Sunset, group cheering, wide shot]
+
+ON-SCREEN TEXT TREATMENT:
+Each boat name gets its own title-card flash (0.6s each) in a font that matches that boat's personality — Freaky Tiki loud/graffiti-style, Party Queen cleaner/script. This is the one piece in the slate where four distinct visual "identities" should show up on screen, mirroring the fleet's actual point of difference.
+
+SHOT LIST:
+- Hero boat shot: each of the four boats, clean wide angle, good light (Shot #3), one per name flash
+- Group reaction: high-energy dancing on Freaky Tiki
+- Toast/candid: calmer, "classier" moment on Party Queen
+- General b-roll: laughing group, any boat, to cover the "wrong one" line
+- Closing hero shot: sunset, group cheering, boat of choice
+
+SOURCE GROUNDING: Boat names and capacities (Freaky Tiki 25, Twerkin Tiki 25, Bayou Boogie 18, Party Queen 22) confirmed in Brand Story & Values.md Section 3. This piece also directly serves row 13-18 of the 532 Content Grid ("Which boat did you book" — flagged there as the priority block since guests confuse the three products constantly). Keep this piece fleet-only (does not compare to the eco tour or social boat) so it stays a clean four-way comparison.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter — cut "none of them subtle" as an unfalsifiable vibe line; the two boat-specific lines now do that proof instead).

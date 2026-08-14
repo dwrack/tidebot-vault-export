@@ -1,0 +1,28 @@
+PIECE 07 — Funny lane — "The Birthday Roast Toast"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs — matches Piece 01 for toast-lane continuity)   Music: brass instrumental bed   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody wants a Hallmark toast on their birthday. Ben doesn't give those.      [Captain Ben, cup raised, grin]
+ 4.0s  To turning forty on the Mississippi, where the river keeps moving and so does the bourbon.  [Toast raised, laughter, river in background]
+ 9.5s  To the friend who planned this instead of just texting "happy birthday."     [Group cheering, hugging the planner]
+13.5s  That's the one who actually loves you.                                       [Hug, laughter close-up]
+16.5s  Say it with us: here's to another year of bad decisions on good boats.        [Whole group toast, cups raised together]
+21.0s  Cheers.                                                                      [Wide sunset shot, boat on the water]
+
+ON-SCREEN TEXT TREATMENT:
+Minimal — this is a toast, let it play like one. Only the closing line gets text treatment: "TO ANOTHER YEAR OF BAD DECISIONS ON GOOD BOATS" as a bold caption held for the last 2 seconds, designed to be the saveable/shareable frame (this is the line worth a screenshot).
+
+SHOT LIST:
+- Captain/crew moment: Ben raising a cup, genuine grin (Shot #5)
+- Group reaction: full toast, cups up, laughing (Shot #2)
+- Candid: group cheering for the friend who organized it
+- Detail/candid: hug, close-up laughter
+- Wide hero: whole group toast together, cups raised
+- Closing shot: sunset on the water (Shot #6)
+
+CASTING NOTE: Swap "forty" for the actual birthday age on the day of the shoot if it's a real toast being captured live — the line template works for any milestone age ("turning thirty," "turning fifty"), keep it flexible rather than locking to forty in the final cut.
+
+SOURCE GROUNDING: Toast line adapted directly from Unreasonable Hospitality — 100 Ideas for NPB, idea #52 ("To turning 40 on the Mississippi, where the river keeps flowing and so does the bourbon"). This is the closest piece in the slate to a pure "steal the customer's/crew's own words" execution per copywriting-2.0's rule that real language beats invented language.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter).

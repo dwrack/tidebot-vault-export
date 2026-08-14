@@ -1,0 +1,28 @@
+PIECE 12 — Myth vs reality / funny lane — "The Line Every First-Timer Says"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: calm ambient bed (Preservation Hall quiet trad-jazz feel)   Length: 24.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody boards this boat expecting the same thing.                         [Guests boarding, expectant looks]
+ 3.3s  A loud airboat. A guy in mirrored sunglasses. Marshmallows getting thrown at a gator.  [Quick funny cutaway or graphic: exaggerated mock airboat scene]
+ 8.5s  What they get: a quiet boat, a guide who actually knows this bayou, and a gator who could not care less.  [Calm gator shot, guide talking naturally to guests]
+14.5s  Every single time, somebody says it.                                          [Guest turning to the guide, about to speak]
+17.5s  "Wait, this is it? This is way better."                                       [Guest smiling, on-screen text overlay of the quote]
+21.0s  That's the line. Every time.                                                 [Wide swamp sunset, boat gliding]
+
+ON-SCREEN TEXT TREATMENT:
+The mid-section (airboat/marshmallows) can use a cheap, obviously-a-joke graphic treatment — stock-photo-style cutaway or a quick illustrated frame, signaling "this is the myth, not us" visually. The real guest quote at 17.5s gets a clean quotation-mark caption, matching Piece 08's naturalist treatment, since that's the moment the piece is actually selling.
+
+SHOT LIST:
+- Boarding shot: guests arriving with expectant/uncertain energy (Shot #1)
+- Cutaway/graphic: exaggerated mock "loud airboat" scene (stock or illustrated, does not need real footage)
+- Wildlife: calm gator, unbothered, real footage
+- Captain/crew moment: guide talking naturally with guests, relaxed (Shot #5)
+- Candid: a guest reacting genuinely, turning to say something
+- Closing shot: wide swamp sunset, boat gliding (Shot #6)
+
+CASTING NOTE: The payoff quote works best if it's an actual guest's actual words, captured on a real trip rather than scripted-sounding. Deckhand/guide should listen for this reaction in the wild and flag it in #crew-content ("🔥 this one's special" per the Social Capture Playbook) rather than force it on camera.
+
+SOURCE GROUNDING: Built directly from the Admire NOLA Script & Caption Bank Lane 8 (myth vs reality): "What you think a swamp tour is: a loud airboat and a guy chucking marshmallows at gators. What it is: a quiet kayak and a gator who could not care less about you." Adapted to NPB's own eco tour (per Brand Story & Values Section 1, a per-seat naturalist trip, distinct from the party fleet and the social boat).
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Schwartz/Halbert) then /copywriting-2.0 (3-test filter).

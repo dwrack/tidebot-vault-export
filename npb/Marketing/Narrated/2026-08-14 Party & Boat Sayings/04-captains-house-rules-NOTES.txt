@@ -1,0 +1,26 @@
+PIECE 04 — Punchy / funny lane — "Captain's House Rules"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: light modern-brass instrumental bed, low under VO   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain gives the same three rules before pushing off the dock.        [Captain addressing the group at the dock, pre-departure]
+ 3.8s  One: bring whatever you want to drink. We're not your bar.                    [Cutaway: cooler lineup on deck]
+ 7.0s  Two: it's your playlist. Not ours.                                           [Aux cord handoff, phone connecting to speaker]
+ 9.5s  Three: whatever happens on this boat stays between you, your friends, and Instagram.  [Group laughing, someone filming a friend]
+13.5s  That's it. That's the whole safety briefing.                                 [Captain grin, thumbs up]
+16.5s  Welcome aboard.                                                              [Boat pushing off, wide shot into the bayou]
+
+ON-SCREEN TEXT TREATMENT:
+Clean numbered on-screen list, "RULE 1 / RULE 2 / RULE 3" bold caps, appears and clears with each beat — this piece works as a mock-official checklist, so let the numbers carry the joke visually. High contrast, sound-off readable.
+
+SHOT LIST:
+- Boarding shot: captain addressing the group dockside before departure (Shot #1 variant)
+- Detail shot: cooler lineup on deck
+- Detail shot: aux cord / phone connecting to the boat speaker (Shot #4)
+- Group reaction: candid laughing, someone filming a friend (Shot #2)
+- Captain/crew moment: grin, thumbs up (Shot #5)
+- Wide shot: boat pushing off into open water (Shot #3 reverse)
+
+SOURCE GROUNDING: The three rules are pulled straight from Brand Story & Values.md Section 4 ("Sell the outcome, not the specs") and Section 1 ("BYOB isn't just a cost thing... the guest decides the vibe, the drinks, the playlist"). This is the most direct-to-differentiator piece in the slate — no invented jokes, just the real policy stated plainly, which is the Ogilvy-restraint approach.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy/Halbert) then /copywriting-2.0 (3-test filter).

@@ -1,0 +1,26 @@
+PIECE 10 — Sensory / POV lane — "The Sound Off Rule"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: near-silent — ambient swamp sound carries this piece, bare instrumental thread only under the last line   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Sound on.                                                                    [Black water, boat engine idling, text overlay: "Sound on"]
+ 2.2s  Every guide's got a moment, mid-tour, where they just cut the engine.         [Guide's hand cutting the engine, motor sound stopping]
+ 6.5s  No narration. No motor. Just water against cypress knees.                    [Close on water lapping against cypress knees]
+10.8s  Most people have never actually heard quiet before.                          [Guest closing eyes, still, listening]
+14.5s  This is what it sounds like.                                                 [Wide swamp shot, birds distantly audible, full ambient silence]
+
+ON-SCREEN TEXT TREATMENT:
+Only one on-screen text moment: "SOUND ON 🔊" at 0.0s, standard convention for this format. Nothing else — the whole point of the piece is silence, so no captions compete with the audio for the back half.
+
+SHOT LIST:
+- Detail shot: black water, engine idling, low angle
+- Detail shot: guide's hand on the throttle/kill switch
+- Close-up: water against cypress knees, no people in frame
+- Candid: a guest's face, eyes closed or just still, genuinely listening
+- Wide ambient shot: full swamp, distant bird calls, held long enough to breathe
+
+PRODUCTION NOTE: This is the one piece in the slate built to work with almost no narration — the "VO" is really just two sentences bookending 10+ seconds of real ambient swamp audio. Make sure whoever captures the raw audio does it with the engine fully off and no crew talking; a single clean 10-second ambient bed is the whole asset this piece depends on.
+
+SOURCE GROUNDING: Directly modeled on the Admire NOLA Script & Caption Bank Lane 13 (Sensory/POV), which explicitly calls for "Sound on" openers and "no narration, just the swamp" execution. Also echoes Unreasonable Hospitality — 100 Ideas for NPB idea #24 ("The quiet moment... kill the music for 60 seconds"), applied here to the eco tour instead of the party boat.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

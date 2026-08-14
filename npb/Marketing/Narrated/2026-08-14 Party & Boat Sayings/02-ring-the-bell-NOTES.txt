@@ -1,0 +1,26 @@
+PIECE 02 — Storyline / running-joke lane — "Ring the Bell"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: Rebirth Brass Band-style party anthem bed   Length: 20.0s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a bell on every boat. Nobody tells you the rules. You just figure them out.  [Close-up: brass bell mounted on the rail]
+ 4.5s  Bride walks on: ring it.                                                     [Bride boarding, hand hits the bell]
+ 6.8s  Somebody makes a toast: ring it again.                                       [Toast raised, bell rings]
+ 9.3s  Captain says something nobody saw coming: ring it a third time.               [Captain mid-story, grinning, bell rings]
+13.0s  By the end, that bell's rung more than a church bell on Easter Sunday.        [Wide party shot, group dancing, bell in frame]
+17.0s  Come ring it yourself.                                                       [Boat pulling away from dock, dusk light]
+
+ON-SCREEN TEXT TREATMENT:
+Bold neon caption pill, high saturation. Each "ring it" beat gets a quick on-screen "DING" or bell-emoji burst timed to the actual bell strike, sound-forward edit — the physical bell sound is the hook, captions are secondary. No text on open or close, let the object (the bell) do the work.
+
+SHOT LIST:
+- Detail shot: bell mounted on rail, clean close-up, good light (Shot #4)
+- Boarding shot: bride hitting the bell as she steps aboard (Shot #1 variant)
+- Group reaction: toast + bell ring together (Shot #2)
+- Captain/crew moment: captain telling a story, bell rings after the punchline (Shot #5)
+- Wide hero shot: full deck, dancing, bell visible in frame (Shot #3)
+- Closing shot: boat pulling from the slip at dusk (Shot #6)
+
+SOURCE GROUNDING: Built directly from Unreasonable Hospitality — 100 Ideas for NPB, idea #45 ("Install a literal bell on the boat... it becomes a running bit and a sound that anchors the memory"). This piece is the video pitch for actually installing the bell if it isn't on every boat yet — flag to Jeff/JT as a physical prop need before shooting.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

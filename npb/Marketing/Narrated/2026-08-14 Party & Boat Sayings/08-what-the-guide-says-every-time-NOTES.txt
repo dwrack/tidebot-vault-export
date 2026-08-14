@@ -1,0 +1,26 @@
+PIECE 08 — Funny / informational lane — "What the Guide Says Every Single Time"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: quiet trad-jazz bed (Preservation Hall feel), kept near-silent under VO   Length: 23.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every eco tour, the guide says the same four things. Every single time.       [Guide pointing off the bow toward the water]
+ 4.5s  "That's not a log."                                                          [Alligator eyes just above the waterline, on-screen text overlay of the quote]
+ 7.5s  "We don't feed them. That got banned for a reason."                          [Gator drifting past, calm]
+11.5s  "No, it won't flip the boat. It genuinely does not care that you exist."      [Wide shot: gator near boat, guests calm, no reaction from gator]
+16.0s  "Yes, that's a real heron. No, we didn't stage it."                          [Heron standing still on a cypress knee]
+20.0s  Say it enough mornings in a row, it starts to sound like a lullaby.           [Wide swamp shot, guide smiling, dawn light]
+
+ON-SCREEN TEXT TREATMENT:
+Each quoted guide-line gets a clean quotation-mark caption, lower-third, deadpan serif (not the loud neon treatment used on the party-fleet pieces — this lane needs to visually read as calmer/naturalist from the first frame). No emoji, no exclamation points.
+
+SHOT LIST:
+- Captain/crew moment: guide pointing, mid-explanation, natural not staged (Shot #5)
+- Wildlife: gator eyes at the waterline (Bonus Shot — wildlife)
+- Wildlife: gator drifting calm, unbothered
+- Wide shot: gator near the boat with guests visibly relaxed, not panicked
+- Wildlife: heron standing motionless on a cypress knee
+- Wide dawn shot: full boat, guide smiling, golden morning light
+
+SOURCE GROUNDING: Lines are near-verbatim adaptations of real guide sayings already logged in the Admire NOLA Script & Caption Bank Lane 6 (did-you-know) and Lane 8 (myth vs reality) — "That's not a log," "We don't feed the gators. That got banned for a reason," "One way to find out" all trace back to that bank. Kept close to the source on purpose: authenticity beats polish for lines that are supposed to sound like something actually said on the water every day.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter — quoted lines deliberately left close to real phrasing rather than "improved").

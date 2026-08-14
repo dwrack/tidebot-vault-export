@@ -1,0 +1,30 @@
+PIECE 05 — Funny / scenario lane — "The Bachelorette Bell Curve"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: brass/bounce party bed, comedic pacing   Length: 27.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every bride goes through the same five stages on this boat. Every single one.  [Bride boarding, tiara, sash]
+ 4.2s  Stage one: crying at the dock, because her friends actually showed up.        [Tears, hugging at dock]
+ 8.3s  Stage two: crying because the toast was too sweet.                           [Toast raised, bride wiping eyes]
+11.8s  Stage three: dancing on a cooler she was told, twice, not to dance on.        [Bride dancing on cooler, group laughing]
+16.0s  Stage four: crying again. No reason given. None needed.                      [Laughing through tears, friends around her]
+20.0s  Stage five: refusing to get off the boat.                                    [Group at dock, bride waving, staying seated]
+24.0s  Every Saturday. Same five stages, different bride.                           [Captain laughing, sunset, boat at dock]
+
+ON-SCREEN TEXT TREATMENT:
+"STAGE 1" through "STAGE 5" burned in top-center, bold caps, ticking up like a counter as each beat lands — the numbering IS the joke structure, so make it visually literal. High saturation, matches nightlife-competing cover standard.
+
+SHOT LIST:
+- Boarding shot: bride walking down the dock, tiara/sash visible (Shot #1)
+- Group reaction: hugging, happy tears at the dock (Shot #2)
+- Detail/candid: toast moment, bride emotional (Shot #4/#2 blend)
+- Group reaction: bride dancing on the cooler, friends cheering
+- Candid: laughing-through-tears close-up
+- Closing shot: bride reluctant to leave, waving from the boat (Shot #6 variant)
+- Captain/crew moment: captain laughing at the familiar pattern (Shot #5)
+
+CASTING NOTE: Needs real bachelorette footage across multiple trips to cut together believably (this is a compilation-style piece, not one continuous bride). Flag to crew: start tagging "bachelorette — stage X moment" in #crew-content drops so the editor can bank clips for this specific cut.
+
+SOURCE GROUNDING: Built from the real bachelorette playbook in Unreasonable Hospitality — 100 Ideas for NPB, ideas #42-49 (bride entrance, MOH intel call, ring the bell, bride gets off last). The "stages" structure is new for this piece — a Bencivenga-style numbered proof stack applied to something everyone who's worked a bachelorette boat has actually seen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 9, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter).
