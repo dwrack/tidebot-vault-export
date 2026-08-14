@@ -47,9 +47,13 @@ FB page has ~37k fans and giveaways are the ONE format with a proven ceiling her
 - 2022-02-03 giveaway: 13,208 eng, 9.5k shares
 - IG all-time #1 (129 eng) was also a giveaway
 
-Baseline organic is dead right now (2026 FB median engagement: **1.5**). A giveaway is the only lever
-that has ever restarted it. Draft already exists: `Marketing/HPB Giveaway Draft — Free Cruise for 2.md`.
-Entry mechanic should collect email + explicit opt-in, which rebuilds a clean list in parallel.
+**CORRECTED 2026-08-13.** This section was written off the vault's giveaway doc, which turned out to be
+stale. The giveaway already ran on 2026-06-21 and got **9 engagements, 0 shares**. A Nov 2025 one got 5.
+The 2022 giveaway numbers were launch-era and don't repeat. The real blocker is that the page has no
+organic reach left (baseline 1-10 per post), so no mechanic saves it without paid seeding.
+
+See `Marketing/HPB Giveaway v2 — Whole Boat (Aug 2026).md` for the reworked version and what the page
+data actually says works (specificity and location, not the giveaway mechanic).
 
 ### 3. Push charters and groups, not seats
 It's mid-August in Houston. Daytime heat kills walk-up demand and Texas schools go back in ~2 weeks,
