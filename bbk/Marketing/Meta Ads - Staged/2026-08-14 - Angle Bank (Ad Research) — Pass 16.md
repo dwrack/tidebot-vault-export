@@ -1,6 +1,6 @@
 > **STATUS: STAGED DRAFT, pending David's approval. Nothing here has been created, edited, or published on Meta. Generated 2026-08-14. Pass 16.**
 
-# Buffalo Bayou Kayak — Meta Ads Angle Bank (Pass 16)
+# Buffalo Bayou Kayak: Meta Ads Angle Bank (Pass 16)
 
 Companion doc: [[2026-08-14 - Meta Ads Batch (8 New Variants, Pass 16)]], the finished scripts built from this bank. Full sourcing, evidence, and operational flags live in [[../../Ad Research/2026-08-14 ad-research bbk (pass 16)|Ad Research/2026-08-14 ad-research bbk (pass 16)]] and `ad-research.json`.
 
