@@ -1,0 +1,14 @@
+PIECE 11 — Funny / guide-and-kid dynamic lane — "The No-Splash Rule"
+Voice: EL-Sarah (ElevenLabs)   Music: near-silent, Preservation Hall bed kept very low, ambient swamp sound carries the piece   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Guide says it once, every trip, same tone.                              [guide addressing the group, easy tone]
+ 2.2s  "Hands in the boat. The water bites back sometimes."                    [guide's line, on-screen text overlay of quote]
+ 5.6s  One kid always tests it.                                                [kid's hand slowly drifting toward the rail, guide watching sideways]
+ 7.8s  Fingers get within an inch of the rail.                                 [close-up: fingers near the edge, water just below]
+10.0s  Guide doesn't even turn his head.                                       [guide, still facing forward, completely calm]
+12.0s  "Hands."                                                                [guide's single-word line, on-screen text overlay]
+13.4s  Hand comes back. Every time.                                            [kid's hand pulling back instantly, sheepish grin]
+15.6s  Nothing's ever happened out here. Guide plans to keep it that way.       [wide shot, boat gliding calmly, kid watching from a safe distance]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

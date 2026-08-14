@@ -1,0 +1,14 @@
+PIECE 09 — Funny / heartfelt / humility lane — "The Question That Stumped the Guide"
+Voice: voice-en-US-GuyNeural (free tier)   Music: Preservation Hall-style quiet trad-jazz, gentle (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Kid's maybe seven. Quiet the whole tour.                                [wide shot: kid sitting close to the rail, watching intently]
+ 2.4s  Then he asks it.                                                       [kid turning to the guide, genuine curiosity]
+ 4.0s  "Does the alligator have a best friend?"                                [kid's face, on-screen text overlay of the quote]
+ 6.6s  Guide's answered a thousand questions on this water.                    [guide pausing, actually thinking about it]
+ 9.4s  Not that one.                                                          [guide's honest, slightly stumped smile]
+11.0s  "Buddy, I genuinely don't know. Let's find out together."               [guide turning fully to the kid, on-screen text overlay of quote]
+14.8s  Best answer all week. Wasn't an answer at all.                          [kid grinning, satisfied anyway, wide shot of the swamp]
+17.6s  Some questions are better than the facts.                               [closing wide shot, boat gliding, golden light]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

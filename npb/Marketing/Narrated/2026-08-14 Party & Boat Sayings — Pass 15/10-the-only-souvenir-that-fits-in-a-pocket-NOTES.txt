@@ -1,0 +1,14 @@
+PIECE 10 — Poetic / sentimental lane — "The Only Souvenir That Fits in a Pocket"
+Voice: EL-EchoRae (ElevenLabs — poetic-lane voice, continuity with Pass 9's "The Quiet Toast" and Pass 14's "Take the Phone Down for a Second")   Music: Professor Longhair-style slower instrumental (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  No gift shop out here. No fridge magnets.                               [wide swamp shot, no structures, just water and cypress]
+ 2.8s  A feather lands in the boat. Nobody put it there.                       [close-up: a single feather resting on the deck]
+ 6.2s  A guest picks it up without thinking twice.                             [guest's hand closing around the feather, tucking it into a pocket]
+ 9.2s  Doesn't ask if it's allowed. Doesn't need to be.                        [guide noticing, saying nothing, small nod]
+12.4s  Won't sit on a shelf. Sits in a coat pocket for a year.                  [feather visible in a jacket pocket, different setting implied]
+16.0s  Turned up again next winter.                                           [guest's hand finding the feather months later, small smile]
+18.2s  She remembered the whole morning.                                      [quick cutaway extending the same beat, warm close-up]
+20.2s  That's the only souvenir this tour hands out.                          [wide golden swamp shot, closing]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

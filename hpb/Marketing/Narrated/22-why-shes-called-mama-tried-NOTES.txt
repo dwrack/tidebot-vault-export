@@ -1,0 +1,13 @@
+PIECE 22 — Boat lore / running joke — "Why She's Called Mama Tried (And He's Called Delta Dream)"
+Voice: EL-Brian (Mama Tried) + EL-Lily (Delta Dream), call-and-response   Music: alternating beds, merge on final line   Length: 19s
+
+SCRIPT (timed to narration):
+ 0.0s  [MAMA TRIED] People ask why she's called Mama Tried.        [close on the name painted on the hull]
+ 2.6s  [MAMA TRIED] Old country song. Mama tried to raise him right. Kid did not listen.   [black/gold boat cruising, night lights]
+ 6.4s  [DELTA DREAM] Delta Dream doesn't have a story like that.   [close on Delta Dream's lettering, clean]
+ 8.8s  [DELTA DREAM] Delta Dream is just what she looks like at golden hour.   [wide shot, sunset, white/green boat]
+12.0s  [MAMA TRIED] One of us has a backstory.                     [Mama Tried night-lights shot]
+14.2s  [DELTA DREAM] One of us has better lighting.                [Delta Dream daylight shot, guests posing]
+16.8s  [BOTH] Pick your story.                                     [final wide shot, both boats]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

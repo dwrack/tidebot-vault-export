@@ -1,0 +1,14 @@
+PIECE 02 — Funny / heartfelt / storyline lane — "The Surprise Song"
+Voice: EL-Daniel (ElevenLabs)   Music: Big Freedia-style bounce, low then swells at the drop (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  One song got mentioned in the group chat.                                [screenshot-style graphic: chat bubble with a song title, playful]
+ 2.4s  Just once. As a joke.                                                    [guests laughing, retelling the joke on the boat]
+ 4.6s  The deckhand wrote it down anyway.                                       [deckhand jotting a note on a small pad, subtle]
+ 7.2s  Forty minutes in, nobody's thinking about it.                            [guests dancing, a different song playing]
+10.2s  Then it drops.                                                           [the requested song hits — needle-drop moment, heads snapping up]
+12.2s  The whole boat loses it. At once.                                        [wide reaction shot: guests screaming, pointing at each other]
+15.0s  Nobody announced it. It just showed up.                                  [deckhand grinning quietly at the speaker, not taking credit]
+18.0s  That's the moment that ends up in everybody's story the next morning.    [golden hour wide shot, group dancing]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,15 @@
+PIECE 07 — Storyline / character lane — "Big Sal Has a Name"
+Voice: voice-en-GB-RyanNeural (free tier)   Music: Sweet Crude-style atmospheric bed, calm (clearance unconfirmed)   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most gators on this route don't have names.                             [wide shot: gator resting near the bank, guide steering past calmly]
+ 2.6s  One of them does.                                                       [guide's tone shifts, points subtly toward a familiar spot]
+ 4.6s  Regulars call him Big Sal. The guides started it. Not marketing.        [gator surfacing in a familiar spot, guide nodding toward him like an old neighbor]
+ 9.0s  "Morning, Sal."                                                         [guide's quiet aside, barely audible, on-screen text overlay of the quote]
+11.0s  He doesn't answer. He never has.                                        [gator drifting, unbothered, no reaction]
+13.6s  Doesn't stop the guide from saying it.                                  [wide shot: boat gliding past, guide smiling to himself]
+16.2s  Come meet the neighbor.                                                 [golden light wide shot, boat continuing down the bayou]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+
+PRODUCTION FLAG — read before shooting: this script assumes guides already have an informal, real, recognized name for a specific recurring alligator on the route. Do NOT invent one for the voiceover. Before this gets greenlit: ask the eco-tour guides directly whether an unofficial "regular" already exists under any nickname, and use the real name and the real guide who uses it. If nothing like that exists yet, treat this the way Pass 9 treated "Ring the Bell" — as the pitch to start the practice, not a claim about something that's already true. Don't post a video asserting a named resident gator exists if it doesn't.

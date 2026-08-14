@@ -1,0 +1,12 @@
+PIECE 29 — Houston-pride comparison / mock-tourism-ad parody — "Kemah Boardwalk Can Wait"
+Voice: Roger (free tier)   Music: mock-corporate elevator/tourism-ad music, morphs into party bed   Length: 17s
+
+SCRIPT (timed to narration):
+ 0.0s  Kemah Boardwalk. Rides, restaurants, a Ferris wheel.        [wide shot, boardwalk lights in the distance]
+ 2.8s  All of it's right there. All of it can wait two hours.      [boat pulling away from the dock, boardwalk visible behind]
+ 6.0s  Because right now there's a boat with your name, your people, and a cooler nobody's rationing.   [wide shot, group boarding, coolers visible]
+10.2s  The Ferris wheel isn't going anywhere.                       [close on the distant Ferris wheel, lit up]
+12.6s  Neither's the funnel cake.                                  [quick cut, boardwalk snack stand]
+14.6s  But the sunset over Clear Lake only happens once today.      [wide shot, sunset over the water, boat cruising]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,15 @@
+PIECE 12 — Poetic / character lane — "The Turn They Never Skip"
+Voice: EL-Eric (ElevenLabs — quieter, more reflective register than his Pass 9/14 toast pieces)   Music: Sweet Crude-style atmospheric bed (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every guide's got a route. This one's got a detour.                     [wide shot: boat approaching a fork in the bayou]
+ 3.0s  Same turn, every single trip. Nobody put it on the map.                 [boat taking the smaller, less-traveled channel]
+ 6.4s  Adds maybe four minutes.                                                [guide checking the time, unbothered]
+ 8.2s  Most days, there's nothing back there. That's kind of the point.        [wide shot: quiet narrow channel, still water, minimal wildlife]
+11.8s  Once, early on, a bald eagle sat in that exact tree.                    [cypress tree in frame, empty this time, guide glancing at it anyway]
+16.0s  Hasn't come back since. The guide still checks.                        [guide's brief glance at the tree, small private smile]
+19.0s  Some habits aren't for the guests. This one just happens to be.         [wide golden shot, boat continuing down the narrow channel]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+
+PRODUCTION FLAG: the "bald eagle sighting" detail is a specific claim — verify it's a real remembered event from an actual guide before using it in the VO. If no guide confirms a specific sighting like this, swap in whatever real, verifiable moment is behind that guide's actual detour (or drop the eagle line and let "there's nothing back there, that's kind of the point" carry the piece on its own).

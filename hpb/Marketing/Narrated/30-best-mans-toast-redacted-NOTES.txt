@@ -1,0 +1,12 @@
+PIECE 30 — Toast / comedic-redaction bit — "The Best Man's Toast (Redacted)"
+Voice: EL-Daniel (ElevenLabs, played straight)   Music: mock-formal string intro, bleep foley on redactions, resolves warm   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  As best man, I've prepared some remarks.                    [a guest standing, phone with notes, mock-formal]
+ 2.4s  The first time I met the groom, he was [REDACTED].          [bleep graphic bursts on screen, group laughing]
+ 5.6s  Which led directly to the incident at [REDACTED], which we still don't discuss.   [bleep graphic again, groom covering his face laughing]
+ 9.2s  But in all seriousness. He's a good one. She's lucky.       [tone shifts, genuine warmth, close on the groom]
+12.6s  Also I'm technically not allowed to tell that story on a boat with a liability form.   [Captain visible nodding in the background]
+15.2s  To the groom. Cheers.                                       [group raises drinks, toast]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

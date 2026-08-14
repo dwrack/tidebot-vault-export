@@ -1,0 +1,12 @@
+PIECE 19 — Toast / bachelor-party — "The Bachelor Party Gets A Toast Too"
+Voice: Ryan (free tier, "The Groomsman")   Music: low-key celebratory rock/pop   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody assumes the toast bit is a bachelorette thing.    [Groomsman raising a can, group of guys behind him]
+ 2.6s  It's not. We do this for the guys too.                      [wide shot, group raising drinks]
+ 5.2s  Here's to the groom, who picked a boat over one more bar crawl.   [close on the groom, laughing, drink raised]
+ 9.0s  Smartest call he's made all year. Arguably ever.            [group laughing, groom shrugging]
+12.2s  To the boat, the boys, and getting married Sunday whether he's ready or not.   [wide shot, cheers, sunset]
+15.0s  Cheers.                                                     [final toast clink, freeze on smiles]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

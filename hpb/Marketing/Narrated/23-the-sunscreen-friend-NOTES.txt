@@ -1,0 +1,11 @@
+PIECE 23 — Running joke / group dynamics — "The Sunscreen Friend"
+Voice: en-US-BrianNeural (free tier, "The Sunscreen Friend" — NOT EL-Brian)   Music: warm acoustic-pop, goofy but affectionate   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group has one. The sunscreen friend.                  [close on a hand holding up a sunscreen bottle]
+ 2.4s  She checked the forecast three days ago. And again this morning.   [phone screen graphic: weather app]
+ 5.0s  She's not asking if you want sunscreen. She's telling you where to stand.   [Sunscreen Friend playfully directing a guest]
+ 8.2s  You'll thank her in six hours. You don't know that yet.     [guests laughing, someone getting sprayed]
+11.4s  Be the sunscreen friend. Somebody has to.                   [wide shot, whole group laughing, bottle passed around]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

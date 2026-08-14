@@ -1,0 +1,12 @@
+PIECE 31 — Deck-hand slang / hero-worship running gag — "Nobody Packed Enough Ice, Somebody's A Hero"
+Voice: EL-Brian (ElevenLabs, deadpan)   Music: brief mock-heroic horn sting, drops into party bed   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  There's always a moment, about hour one, when the ice situation gets real.   [close on a cooler, ice mostly melted]
+ 2.8s  Someone always says it. "We should've brought more ice."     [guest peering into a cooler, concerned]
+ 5.6s  And someone always has more ice. In a second cooler. Like they knew.   [reveal shot: second cooler, full of ice]
+ 9.0s  That person doesn't say anything. They just open the cooler.   [hero-guest silently opening the second cooler]
+11.8s  Group goes feral. As it should.                              [wide shot, guests cheering, reaching for the ice]
+14.0s  Bring extra ice. Be that person.                             [close on ice being scooped, smiling]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

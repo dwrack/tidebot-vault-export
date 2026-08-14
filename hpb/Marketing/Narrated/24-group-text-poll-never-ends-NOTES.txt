@@ -1,0 +1,15 @@
+PIECE 24 — Running joke / pre-boat logistics — "The Group Text Poll That Never Ends"
+Voice: EL-Jessica ("The Bestie") VO over text-bubble graphics   Music: text-notification foley building into chaos, resolves upbeat   Length: 17s
+
+SCRIPT (timed to narration):
+ 0.0s  The group chat, six weeks before the boat.                  [phone-screen graphic, text-bubble UI]
+ 2.0s  "When is everyone free."                                    [bubble 1 animates in]
+ 3.4s  "Not the 12th, I have a thing."                              [bubble 2]
+ 5.0s  "What thing."                                                [bubble 3]
+ 6.2s  "A thing."                                                   [bubble 4]
+ 7.4s  "Ok what about the 19th."                                    [bubble 5]
+ 8.8s  [fourteen unread messages]                                   [notification graphic, screen fills up]
+11.0s  [cut to real dock footage] Somebody just picked a date and told everyone it was happening.   [group boarding, real footage]
+14.6s  Best decision anybody made in that whole thread.             [wide shot, group cheering, boat pulling off]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,12 @@
+PIECE 17 — Deck-hand slang / objection-kill — "The Boat Has A Bathroom (Say It Again For The People In Back)"
+Voice: Guy (free tier, "The Deckhand")   Music: fast comedic pluck/foley, tag horn on last line   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Real quick, before anybody asks.                            [Deckhand pointing at a door on deck]
+ 2.0s  Yes. There is a bathroom. On the boat.                      [door swings open, quick reveal]
+ 4.4s  No, you don't have to hold it for two hours.                [Deckhand shakes head, mock-exasperated]
+ 6.6s  No, it's not a bucket. It's an actual bathroom.              [interior insert: sink, mirror, real fixtures]
+ 9.4s  We get asked this on every single trip.                     [wide shot, guests laughing at him]
+12.0s  Every. Single. Trip.                                        [close on Deckhand, deadpan into camera]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

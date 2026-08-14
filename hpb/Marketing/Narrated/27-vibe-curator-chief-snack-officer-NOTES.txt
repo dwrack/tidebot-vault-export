@@ -1,0 +1,12 @@
+PIECE 27 — Deck-hand slang / title-assigning running gag — "Vibe Curator, Chief Snack Officer, And Other Titles We Just Made Up"
+Voice: Guy (free tier, "The Deckhand")   Music: playful mock-corporate sting under each title, upbeat pop bed underneath   Length: 17s
+
+SCRIPT (timed to narration):
+ 0.0s  By the end of the trip, everybody's got a job.               [Deckhand walking the deck, pointing at guests]
+ 2.4s  Nobody assigned these. They just happen.                    [close on someone controlling the speaker]
+ 4.6s  She's Vibe Curator. Controls the aux, controls the mood.    [guest with phone connected to speaker, nodding along]
+ 7.6s  He's Chief Snack Officer. Nobody elected him. He just started handing out chips.   [close on someone passing snacks around]
+11.0s  She's Head of Photography. Forty sunset pics, zero regrets.  [guest taking photos]
+14.2s  Every boat's got a full staff by the time we dock. Nobody's getting paid.   [wide shot, whole group laughing]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

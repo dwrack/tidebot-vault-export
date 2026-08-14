@@ -1,0 +1,11 @@
+PIECE 21 — Captain-line / deadpan reassurance — "Captain's Weather Check"
+Voice: EL-Eric (ElevenLabs, "The Captain")   Music: single-tempo comedic marimba/pluck, no swell   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  People ask if I check the weather before we go out.         [Captain looking at his phone at the helm]
+ 2.4s  Every day. Multiple times a day. It's basically a hobby now.   [close on a weather app/radar screen]
+ 5.2s  Today's forecast: clear skies and a boat full of questionable decisions.   [wide shot, guests boarding with coolers]
+ 9.0s  One of those I can control.                                  [Captain smirking, gesturing at the sky]
+11.2s  Guess which one.                                             [Captain shrugs, walks toward the helm]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

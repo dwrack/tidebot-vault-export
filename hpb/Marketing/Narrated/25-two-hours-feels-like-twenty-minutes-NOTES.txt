@@ -1,0 +1,11 @@
+PIECE 25 — Toast-adjacent / time-dilation — "Two Hours Feels Like Twenty Minutes"
+Voice: EL-Sarah (ElevenLabs)   Music: soft warm pop/acoustic bed, understated   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody checks their phone for the first hour.                [wide shot, guests laughing, no phones visible]
+ 2.6s  By the second hour, nobody remembers they have one.          [close on a phone sitting untouched in a cup holder]
+ 5.4s  Two hours on this lake moves differently than two hours anywhere else.   [golden hour wide shot, boat cruising]
+ 9.0s  You'll swear it was twenty minutes.                          [group laughing, sun lowering]
+11.6s  The lake knows. It's not telling you the real time either.   [final wide shot, sunset, silhouettes]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

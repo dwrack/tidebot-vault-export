@@ -1,0 +1,13 @@
+PIECE 01 — Funny / ritual lane — "The Welcome Board"
+Voice: EL-George (ElevenLabs)   Music: Kermit Ruffins-style trad-jazz, warm and low (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every dock, same chalkboard.                                              [deckhand crouched at the dock, chalk in hand, board blank]
+ 2.0s  Ten seconds. Then your group name goes up.                               [close-up: chalk touching board, first letter forming]
+ 4.8s  Nobody asked for it. Everybody photographs it.                           [guests arriving, phones out, snapping the board]
+ 8.0s  Bachelorette weekends. Fortieth birthdays. A softball team that just won a game nobody expected.  [quick cuts: different board messages, different groups]
+13.0s  By the time you're back on land, that board's already erased.            [wide shot: board being wiped clean for the next group]
+16.5s  Yours was up long enough.                                                [group photo in front of the board, big smiles]
+18.5s  Welcome aboard, [group name].                                            [board close-up, chalk finishing the last letter]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

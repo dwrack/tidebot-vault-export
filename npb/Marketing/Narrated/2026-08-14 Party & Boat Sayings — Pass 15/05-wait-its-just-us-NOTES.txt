@@ -1,0 +1,13 @@
+PIECE 05 — Myth vs reality lane — "Wait, It's Just Us?"
+Voice: voice-en-US-BrianNeural (free tier)   Music: Rebirth Brass Band-style bed, held low until the reveal   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  She'd done a party boat before. A different city.                       [guest boarding, slightly guarded posture, scanning the deck]
+ 2.8s  Fold-out chairs. Forty strangers. A DJ yelling over a mic.               [on-screen text/graphic beat: quick contrast card, no real footage needed]
+ 6.8s  She braced for the same thing here.                                     [guest looking around cautiously as she boards]
+ 9.0s  Counted the people on deck. Recounted.                                  [guest visibly counting, only her own group present]
+11.8s  "Wait, it's just us?"                                                   [guest turning to a friend, genuine surprise, on-screen text overlay of quote]
+14.8s  Just you. That was always the whole idea.                               [deckhand Shannon, casual confirmation, group settling in]
+18.0s  No strangers on this boat. Never have been.                             [wide shot: private group only, boat pulling away]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

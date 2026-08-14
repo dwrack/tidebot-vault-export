@@ -1,0 +1,12 @@
+PIECE 32 — Toast, closer / goodbye-hug energy — "Last Call For The Dock"
+Voice: EL-Sarah (ElevenLabs)   Music: warm outro pop bed, gentle fade — the slate's true closer   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a specific kind of hug that happens on the dock at the end.   [wide shot, boat docked, guests disembarking]
+ 2.6s  Not the hello hug. The other one.                            [close on two guests hugging, genuine]
+ 4.8s  The one where everybody smells like sunscreen and lake water and nobody cares.   [group hugging, laughing, messy hair]
+ 8.2s  Somebody already says, "we need to do this every year."      [guest saying it to the group, smiling]
+11.2s  Nobody ever actually does. But somebody says it. Every time.   [wide shot, group walking off, waving back at the boat]
+14.4s  See you on the water.                                        [final shot, boat at the dock, lights on, sunset behind]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

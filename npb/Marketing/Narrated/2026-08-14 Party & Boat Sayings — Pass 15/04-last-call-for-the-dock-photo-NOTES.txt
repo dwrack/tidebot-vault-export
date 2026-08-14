@@ -1,0 +1,14 @@
+PIECE 04 — Warm / funny / closing lane — "Last Call for the Dock Photo"
+Voice: voice-en-US-RogerNeural (free tier)   Music: Soul Rebels-style brass-funk, warm and easing down (clearance unconfirmed)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Dock's fifty yards out.                                                  [wide shot: dock approaching in the distance]
+ 2.0s  Poppa cuts the throttle early.                                          [Poppa Charles easing back on the throttle, unhurried]
+ 4.2s  Nobody asked him to.                                                    [guests glancing at each other, unsure why they slowed]
+ 6.0s  "Y'all get your picture yet?"                                           [Poppa turning back toward the group, on-screen text overlay of the quote]
+ 9.0s  Half the group didn't.                                                  [guests scrambling to grab one last group shot]
+11.2s  Now they do.                                                            [group posed quickly, laughing, golden light]
+13.4s  He'll tell you it's for the marina paperwork.                           [Poppa's dry half-smile, back at the wheel]
+16.4s  It's not for the paperwork.                                             [boat easing toward the dock, group still smiling]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

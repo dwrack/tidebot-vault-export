@@ -1,0 +1,12 @@
+PIECE 03 — Funny / character lane — "The Photographer Friend"
+Voice: EL-Lily (ElevenLabs)   Music: Free Agents Brass Band-style modern brass, upbeat (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody hired her. She just took the job.                                 [guest directing three friends into a pose, very serious about it]
+ 2.4s  Fifteen takes for one caption-worthy shot.                               [quick cuts: guests posing, adjusting, mild groaning]
+ 5.8s  Then a heron takes off behind them. Unplanned.                           [wide shot: bird lifting off the water mid-pose]
+ 9.2s  Nobody was posing for that one.                                         [reaction shot: everyone turning, genuine surprise, laughter]
+11.6s  That's the shot that gets posted.                                        [photographer checking the accidental shot, grinning]
+14.0s  The planned one's still sitting in the camera roll. Unposted.            [closing wide shot, group back to laughing, dancing]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

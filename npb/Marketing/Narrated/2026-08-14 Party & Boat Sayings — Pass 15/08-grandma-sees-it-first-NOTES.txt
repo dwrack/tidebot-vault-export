@@ -1,0 +1,13 @@
+PIECE 08 — Funny / heartfelt / character lane — "Grandma Sees It First"
+Voice: EL-Jessica (ElevenLabs)   Music: Jon Cleary-style solo piano, warm (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  She's eighty-one. Youngest one on the boat is twenty-six.               [wide shot: multi-generational family group boarding]
+ 3.2s  Guide starts pointing things out. She's already ahead of him.           [guide gesturing toward the water; guest already looking that direction]
+ 6.8s  "There's another one, past the log."                                   [guest pointing, on-screen text overlay of the quote]
+ 9.8s  She was right. She's been right four times now.                        [gator confirmed in the spot she pointed, guide nodding, mildly impressed]
+13.2s  Nobody taught her that. She just watches.                               [guest smiling quietly, scanning the water again]
+15.8s  By the end of the tour, the guide's asking her.                         [guide leaning toward her, gesturing, deferring]
+18.8s  Some guests come to learn the bayou. She already knew how to look.      [wide shot: family group, grandmother central, golden light]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
