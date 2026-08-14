@@ -1,0 +1,12 @@
+PIECE 11 — Funny/Quotable lane — Running joke / stiff coworkers loosen up — "Corporate Icebreaker, Boat Edition"
+Voice: en-US-RogerNeural (calm, mature, mock-corporate delivery)   Music: elevator-music parody for the stiff open, morphs into a party beat by the pedal-seat line   Length: 18s
+
+SCRIPT (timed to narration):
+ 0.0s  Every corporate group starts the same way.                             [wide shot, group boarding in business casual, stiff]
+ 2.4s  Everybody's standing six feet apart like it's a Zoom call that grew legs.   [guests standing awkwardly on deck]
+ 6.2s  Twenty minutes in, someone's cooler shows up.                          [cooler opening]
+ 8.4s  Forty minutes in, the regional manager is doing a whole bit on the pedal seat.   [candid shot, someone goofing on a pedal seat, not seriously pedaling]
+12.6s  By the time we dock, nobody remembers whose idea the icebreaker exercises were.   [wide shot, everyone loose and laughing, sunset]
+16.0s  Turns out the icebreaker was just the boat.                            [final wide shot, group cheers]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

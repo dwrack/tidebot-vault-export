@@ -1,0 +1,12 @@
+PIECE 13 — Funny/Quotable lane — Running joke / nobody wants to leave — "Five More Minutes (The Dock Negotiation)"
+Voice: EL-Eric ("The Captain," recurring)   Music: warm outro-style pop bed, slight tempo hold on "worth it every time"   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip ends the same negotiation.                                   [boat approaching the dock, lights on, guests still dancing]
+ 2.4s  "Captain, five more minutes?"                                           [guest leaning toward the Captain, playful pleading]
+ 4.4s  I've never once had five minutes to give.                               [Captain checking a watch, smiling]
+ 6.6s  I've given it anyway. More than once.                                   [boat idling near the dock a little longer, lights and music still going]
+ 9.4s  Somewhere there's a schedule that hates me for it.                      [Captain shrugging at the helm]
+12.0s  Worth it every time.                                                    [wide shot, boat finally docking, guests waving]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

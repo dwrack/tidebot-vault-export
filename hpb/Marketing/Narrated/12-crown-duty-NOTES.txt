@@ -1,0 +1,11 @@
+PIECE 12 — Funny/Quotable lane — Deck-hand slang / birthday running gag — "Crown Duty"
+Voice: en-US-GuyNeural ("The Deckhand," recurring)   Music: playful regal-parody fanfare stinger, drops into the party beat   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Birthday crown duty is real and I take it very seriously.               [Deckhand holding a plastic crown/sash on deck]
+ 2.6s  You get the crown, the good seat, and the first pour.                   [birthday guest getting crowned, laughing]
+ 5.8s  Everybody else gets to watch you enjoy that for two hours.              [wide shot, group cheering and toasting the birthday person]
+ 9.0s  It's a small kingdom. It's twenty-six people and a cooler.              [wide deck shot, full group scale visible]
+12.0s  But for today, you rule it.                                             [close on the birthday person, crown/sash, sunset behind]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

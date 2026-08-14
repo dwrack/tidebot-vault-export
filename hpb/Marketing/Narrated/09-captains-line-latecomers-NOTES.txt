@@ -1,0 +1,11 @@
+PIECE 09 — Funny/Quotable lane — Captain-line — "Captain's Line for Latecomers"
+Voice: EL-Eric ("The Captain," recurring)   Music: light comedic pluck/foley under the sprint, resolves into upbeat departure horn   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  We hold the dock five minutes. Not six.                                 [Captain checking a watch at the helm, dock ropes visible]
+ 2.6s  I've watched a bride sprint down that dock in heels.                    [dock POV — staged reenactment, someone jogging toward camera]
+ 5.8s  She made it. Barely. In heels.                                          [boat pulling away as she jumps on, guests cheering]
+ 9.0s  Point is, we'll wait a little.                                         [Captain, small smile]
+11.2s  But Clear Lake doesn't wait for anybody, and neither does the sunset.   [wide shot, boat pulling off, sun starting to lower]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

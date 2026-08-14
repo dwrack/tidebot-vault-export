@@ -1,0 +1,11 @@
+PIECE 01 — Funny/Quotable lane — Captain-line / Toast — "The Captain's Toast"
+Voice: EL-Eric ("The Captain," recurring)   Music: horn-stab pop-country hybrid, ~100 BPM, lift on "cheers"   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Before we pull off the dock, I need everybody's hands on a drink.        [Captain on the bow mic, guests laughing, coolers popping open]
+ 3.2s  Doesn't matter what's in it. Water counts. I checked.                   [close on hands raising cups and cans]
+ 6.6s  Here's the toast I give every single trip.                             [Captain raising his own cup, half-grin]
+ 9.0s  To Clear Lake, to Mama Tried, and to whoever's turn it is to pedal for fifteen minutes and then never again.   [wide shot, boat full of raised cups, empty pedal seats in frame]
+14.2s  Cheers. Let's go.                                                       [engine starts, boat pulls off the dock, deck lights kick on]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,13 @@
+PIECE 05 — Funny/Quotable lane — Running joke / boat personalities — "Two Boats, Beefing"
+Voice: EL-Brian as Mama Tried, EL-Lily as Delta Dream (call-and-response)   Music: alternating beds — grittier under Mama Tried, brighter under Delta Dream, merge on "pick a side"   Length: 20s
+
+SCRIPT (timed to narration):
+ 0.0s  [MAMA TRIED] They call me Mama Tried. Black and gold. I've seen things.     [close on black/gold hull detail]
+ 3.4s  [DELTA DREAM] They call me Delta Dream. White and green. I have never seen things.   [close on white/green hull detail, pristine]
+ 6.8s  [MAMA TRIED] I've got the edge.                                          [deck shot, dance floor energy on Mama Tried]
+ 8.6s  [DELTA DREAM] I've got the brighter photos.                              [deck shot, clean light on Delta Dream, guests posing]
+11.4s  [MAMA TRIED] Twenty-six people, either boat.                             [aerial, both boats side by side on Clear Lake]
+14.6s  [DELTA DREAM] Same lake, same sunset, very different energy.             [split screen: sunset over both boats]
+18.0s  [BOTH, overlapping] Pick a side.                                        [final wide shot, both boats framed together, text overlay]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

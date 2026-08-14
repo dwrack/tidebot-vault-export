@@ -1,0 +1,13 @@
+PIECE 06 — Funny/Quotable lane — Mock-fancy announcer bit / pedal-myth roast — "We Interrupt This Yacht Announcement"
+Voice: EL-Daniel ("The Announcer," mock-formal) interrupted by en-US-GuyNeural ("The Deckhand")   Music: faux-orchestral cruise-ship sting, scratched into a bass-heavy party beat on the interrupt   Length: 18s
+
+SCRIPT (timed to narration):
+ 0.0s  [ANNOUNCER, overly formal] Ladies and gentlemen, welcome aboard this distinguished vessel, where our guests will now begin the pedaling portion of—   [mock old-timey cruise-intro framing, guests already lounging with drinks]
+ 4.6s  [DECKHAND, cutting in] Bro. Stop. Nobody's pedaling.                     [Deckhand grabs the mic, Announcer shoved out of frame, laughing]
+ 7.4s  It's got an engine. A real one. The pedals are just there in case you get bored, which, look around.   [wide shot: deck full of drinks, dancing, music — pedal seats empty]
+11.8s  Nobody's bored.                                                          [close on the group laughing and dancing]
+13.6s  Sit down. Drink your drink. The boat's driving.                         [Captain visible at the helm in the background, guests seated]
+16.8s  That's the whole announcement.                                          [Deckhand drops the mic gesture, cut to title card]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+Note: this is the pedal-myth answer in pure comedy form — it kills the misconception, it never pitches pedaling as a draw.

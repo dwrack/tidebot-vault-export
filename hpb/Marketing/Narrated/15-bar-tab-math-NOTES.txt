@@ -1,0 +1,14 @@
+PIECE 15 — Funny/Quotable lane — Deck-hand slang / BYOB savings, stand-up register — "Do The Math On That Bar Tab"
+Voice: en-US-GuyNeural ("The Deckhand," fast comedic-bit delivery)   Music: cash-register foley hits on the receipt overlay, upbeat comedic build   Length: 18s
+
+SCRIPT (timed to narration):
+ 0.0s  Real quick, let's do the math on a Saturday night out.                  [Deckhand talking straight to camera, deck behind him]
+ 2.2s  Twenty people, a bar in Houston, one round each.                        [graphic: simple receipt-style overlay building line by line]
+ 4.8s  That's before the Uber. That's before the second round, and there's always a second round.   [receipt overlay ticking up]
+ 8.4s  Now here's twenty people, one cooler, two hours on Clear Lake.          [cut to the boat, cooler, group]
+11.6s  Same night. Fraction of the tab.                                        [receipt overlay shows a much smaller number, comedic reveal]
+14.4s  We're not saying skip the bar forever.                                  [Deckhand shrugs]
+16.4s  We're saying try the boat math first.                                   [wide shot, boat, sunset, group cheering]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+Note: deliberately no dollar figures on screen — the vault has an open $55 vs $59-69 price discrepancy (see Fresh Clip Batch doc) that needs resolving before any hard price goes on any asset.

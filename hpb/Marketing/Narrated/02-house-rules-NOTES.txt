@@ -1,0 +1,11 @@
+PIECE 02 — Funny/Quotable lane — Deck-hand slang / running joke — "House Rules (There's Only One)"
+Voice: en-US-GuyNeural ("The Deckhand," recurring)   Music: trap-pop hybrid, 808 kick under the punchline, ~95 BPM   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Every boat's got a rule. Ours only has one.                             [Deckhand walking the deck, party lights, guests dancing behind him]
+ 2.6s  If it's your birthday, your bachelorette, or your last Friday before a baby, you don't touch a cooler lid.   [close on a birthday sash, someone else hands her a drink]
+ 6.4s  Somebody else pours. That's the whole rule.                             [wide shot, group cheering]
+ 9.0s  Delta Dream, Mama Tried, doesn't matter which one you're on.            [quick cut: white/green boat, then black/gold boat]
+12.0s  The rule travels.                                                       [Deckhand pointing straight at camera, grinning]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

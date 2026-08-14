@@ -1,0 +1,15 @@
+PIECE 10 — Funny/Quotable lane — Running joke / pre-boat texts — "The Group Chat, Reenacted"
+Voice: EL-Jessica ("The Bestie," VO over on-screen text bubbles)   Music: text-notification foley punctuation over a light pop bed, swell on the reveal   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The group chat, the week before the boat.                              [phone-screen mockup graphic, text-bubble UI style]
+ 2.2s  "What do we wear."                                                     [text bubble 1 animates in]
+ 3.6s  "It says no dress code."                                                [text bubble 2]
+ 5.0s  "Right but WHAT DO WE WEAR."                                            [text bubble 3, caps for emphasis]
+ 7.2s  "Bringing heels just in case."                                          [text bubble 4]
+ 8.8s  "Girl it's a boat."                                                     [text bubble 5]
+10.4s  "I know but just in case."                                              [text bubble 6]
+12.4s  [cut to real dock footage] She brought the heels.                       [close on heels next to flip-flops on the dock, both real]
+15.4s  Nobody needed them. She felt very good having them.                     [wide shot, group boarding, mixed footwear]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
