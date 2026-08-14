@@ -301,7 +301,7 @@ Do not make up or improvise an age policy in the field. This one has legal impli
 
 If a guest brings up hurricane activity on or before a tour day:
 
-**What to do:** If there's a named storm forecast and management has not yet cancelled the tour, call management immediately. Do not make a hurricane cancellation call yourself — that decision belongs to management and the owner. You may have incomplete information about the storm track, and cancellation involves refund processing and multiple guest notifications that happen through FareHarbor and GHL.
+**What to do:** If there's a named storm forecast and management has not yet cancelled the tour, call management immediately. Do not make a hurricane cancellation call yourself — that decision belongs to management and the owner. You may have incomplete information about the storm track, and cancellation involves refund processing and multiple guest notifications that happen through FareHarbor and the CRM.
 
 If a tour is running and a guest asks about a storm: your honest answer is "Management monitors the forecast closely and will contact everyone proactively if we need to cancel. If you've heard something and haven't received a message from us, let me check in with the office right now." Then contact management.
 

@@ -22,7 +22,7 @@ Most businesses obsess over #1 and ignore #2 and #3. But #2 and #3 cost almost n
 Your best customers are your best salespeople. They just need to be asked and given a reason.
 
 **What to build:**
-- Automated referral ask in post-tour sequence (GHL Sequence 4, Step 3)
+- Automated referral ask in post-tour sequence (CRM Sequence 4, Step 3)
 - Offer: $10 off for the referred friend, small thank-you for the referrer
 - Landing page: dedicated referral URL that tracks source
 - Guide verbal ask at send-off: plant it in person, reinforce with the automated text
@@ -76,7 +76,7 @@ The customer who did Cave Point should have a clear next step:
 - Fall colors paddle (September) — undermarketed, stunning, drives repeat visits
 - Family specialty tour (different pacing and content for kid-focused groups)
 
-**Build:** distinct FareHarbor listings for each experience, with distinct GHL re-engagement messages that reference what they've already done.
+**Build:** distinct FareHarbor listings for each experience, with distinct CRM re-engagement messages that reference what they've already done.
 
 ### B. Seasonal Rhythm
 Returning guests think in seasons. Build a calendar they can plan around:
@@ -156,11 +156,11 @@ Every gift card sold is revenue today for a service delivered later (or never, i
 2. **Post-tour review ask** — single highest impact on discoverability
 3. **Booking upsell message** — private tour upgrade offer, passive revenue
 4. **Reactivation campaign** — 24k contacts is a gold mine sitting dormant
-5. **Referral program** — build the landing page + GHL sequence
+5. **Referral program** — build the landing page + CRM sequence
 6. **Corporate event package** — create the offer, contact local venues/hotels
 
 ---
 
 *Related: [[Playbook/00 — Master Business Operating System]]*
-*Related: [[Playbook/04 — GHL Automation Sequences]]*
+*Related: [[Playbook/04 — Automation Sequences]]*
 *Related: [[Playbook/05 — Offer Architecture & Pricing]]*

@@ -50,7 +50,7 @@
 - [ ] Get Dylan into Slack (David)
 - [ ] Dylan invites 2-3 core guides to Slack (Dylan)
 - [ ] Fix trip minimum language on booking confirmation (WordPress creds confirmed)
-- [ ] Activate free kayak tour lead nurture sequence in GHL (3 contacts waiting)
+- [ ] Activate free kayak tour lead nurture sequence in the CRM (3 contacts waiting)
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
@@ -116,9 +116,9 @@
 - [ ] Build affiliate onboarding email sequence: daily until first sale, weekly after
 - [ ] Priority affiliate partner type: ghost tour guides (captive audience)
 - [ ] Test FareHarbor API for crew assignment + tour end times (guide SMS accountability)
-- [ ] If API works, build GHL auto-SMS to guide at tour end: waiver check, van gas/clean, incident report, photo/video
+- [ ] If API works, build CRM auto-SMS to guide at tour end: waiver check, van gas/clean, incident report, photo/video
 - [ ] Draft ask to each active guide for 15-30 sec video bio
-- [ ] Build GHL trigger: send guest their guide's bio before pickup day
+- [ ] Build CRM trigger: send guest their guide's bio before pickup day
 - [ ] Set up Slack channels: Scuttlebutt, Masthead, Black Flag, Port Call
 - [ ] First Slack conversation: rebrand name brainstorm
 - [ ] Implement end-of-tour Captain's Log: voice recording passed around in van

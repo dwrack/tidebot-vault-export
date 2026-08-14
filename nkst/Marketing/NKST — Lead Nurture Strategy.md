@@ -18,8 +18,8 @@ The play: get into that 97% early, lead with value, and be the only brand they t
 
 - **Channel:** Facebook ad targeting people who have expressed interest in New Orleans travel (not necessarily kayaking — wide top of funnel)
 - **Ask:** Name, email, vacation month. Nothing else.
-- **Platform:** GHL form → automatic tag → enters nurture sequence
-- **Current status:** Form live in GHL. 3 contacts captured as of April 2026. Nurture sequence not yet activated.
+- **Platform:** CRM form → automatic tag → enters nurture sequence
+- **Current status:** Form live in the CRM. 3 contacts captured as of April 2026. Nurture sequence not yet activated.
 
 The framing matters. We're not asking them to enter a contest. We're telling them: we're the locals. We know things the tourist blogs don't. Here's the insider guide to the city.
 
@@ -91,7 +91,7 @@ Every blog post and activity page needs a secondary CTA below the fold:
 
 > "Not ready to book yet? Get our free New Orleans Insider Guide — we'll show you the city the way the locals see it."
 
-Links directly to the GHL lead capture form. This catches the 97% who landed on the site and weren't ready to book.
+Links directly to the CRM lead capture form. This catches the 97% who landed on the site and weren't ready to book.
 
 Priority page: the **alligators vs. crocodiles** blog post already gets thousands of organic views and currently has no CTA. That one first.
 
@@ -111,7 +111,7 @@ Before this sequence runs to any real volume, the technical foundation needs to 
 
 3. **Clean the list before activating.** Remove anyone who hasn't opened or clicked in 6 months. A clean list with 40% open rates beats a bloated list with 8% open rates every time — and the sender score reflects it.
 
-4. **A/B test send times.** Don't assume Tuesday morning. One NOLA-specific travel audience may peak at 6am (coffee and planning mode), another at 8pm (evening browsing). GHL supports send time testing — use it.
+4. **A/B test send times.** Don't assume Tuesday morning. One NOLA-specific travel audience may peak at 6am (coffee and planning mode), another at 8pm (evening browsing). The CRM supports send time testing — use it.
 
 5. **Preview text.** The default "View this email in your browser" appearing in inbox preview is wasted real estate. Good preview text (the 80-100 characters visible before opening) can add 10-15% to open rates. Write it intentionally for every email.
 

@@ -51,7 +51,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 **What we do:**
 - Website FAQ answers every objection directly
 - Chatbot handles real-time questions (Rawgrowth.ai install)
-- Missed call auto-reply + 3-message nurture sequence (GHL) — see [[Playbook/04 — GHL Automation Sequences]]
+- Missed call auto-reply + 3-message nurture sequence (CRM) — see [[Playbook/04 — Automation Sequences]]
 - "No experience needed" messaging everywhere
 - Reviews from first-timers, families, seniors visible on site
 
@@ -67,7 +67,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 **What the customer feels:** Excited, maybe a little relieved the decision is made, hoping they made the right choice
 
 **What we do:**
-- FareHarbor confirmation → triggers GHL workflow immediately
+- FareHarbor confirmation → triggers CRM workflow immediately
 - Booking celebration message: *"🎉 You're on! [Name], we just confirmed your Cave Point Tour on [DATE] — we are SO excited to have you."*
 - "Special occasion?" question — opens upsell conversation naturally
 - Private tour upgrade offer (30 min after booking)
@@ -86,7 +86,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 
 **What the customer feels:** Anticipation building, starting to think about what to pack, maybe talking about it with whoever they're bringing
 
-**What we do (GHL automated):**
+**What we do (CRM automated):**
 
 > **T-3 days:**
 > "Hey [Name]! 3 days until your Cave Point kayak tour 🌊 Did you know the sea caves there are only accessible by water? You're about to see something most people never get to experience up close. Any questions before [DAY]?"
@@ -186,7 +186,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 
 **What the customer feels:** The afterglow. Sharing the experience. Telling people about it.
 
-**What we do (GHL automated):**
+**What we do (CRM automated):**
 
 > **1 hour after tour:**
 > "That was incredible, [Name]! It was so great having you with us today 🌊 If you captured any shots, tag us — we'd love to share them! @doorcountykayak"
@@ -212,7 +212,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 **What the customer feels:** Familiar excitement, wanting more, feeling like they have a place here
 
 **What we do:**
-- Returning guest flag in FareHarbor → different GHL sequence
+- Returning guest flag in FareHarbor → different CRM sequence
 - Guide briefed on their history before arrival
 - "Welcome back" — used within first 30 seconds
 - New experience delivered — locals route, skill upgrade, different story
@@ -267,5 +267,5 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 
 *Related: [[Playbook/00 — Master Business Operating System]]*
 *Related: [[Playbook/03 — Guide Training & Service Standards]]*
-*Related: [[Playbook/04 — GHL Automation Sequences]]*
+*Related: [[Playbook/04 — Automation Sequences]]*
 *Related: [[DCKT — Sales Process Upgrade (Tony Robbins Framework)]]*

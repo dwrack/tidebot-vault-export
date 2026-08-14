@@ -14,11 +14,11 @@
 ## Current State
 
 - Gift card marketing image saved in `Assets/Graphic Design/Gift Cards/`
-- Unknown if GHL or booking system currently supports gift card sales
+- Unknown if the CRM or booking system currently supports gift card sales
 
 ## Action Items
 
-- [ ] Confirm if current booking system (Periode or GHL) supports gift card sales
+- [ ] Confirm if current booking system (Periode or the CRM) supports gift card sales
 - [ ] Set up gift card product if not already live
 - [ ] Add gift card CTA to website (especially homepage and post-booking confirmation)
 - [ ] Promote around holidays: Christmas, Valentine's Day, Mother's Day

@@ -13,7 +13,7 @@
 
 ## The Short Version
 
-You're the face of one of the most unique outdoor experiences in New Orleans. Your job is to be out in the community building relationships, showing up at events, and converting group bookings into revenue. The administrative overhead — scheduling, guest communications, compliance tracking, payroll prep, review monitoring — is handled by a combination of GoHighLevel automation and Claude AI. You oversee those systems, act on exceptions, and spend the majority of your time doing the work that actually moves the needle: community presence, partnership development, and guide leadership.
+You're the face of one of the most unique outdoor experiences in New Orleans. Your job is to be out in the community building relationships, showing up at events, and converting group bookings into revenue. The administrative overhead — scheduling, guest communications, compliance tracking, payroll prep, review monitoring — is handled by a combination of CRM automation and Claude AI. You oversee those systems, act on exceptions, and spend the majority of your time doing the work that actually moves the needle: community presence, partnership development, and guide leadership.
 
 This role used to be heavy. We've rebuilt the systems around it so it doesn't have to be.
 
@@ -89,7 +89,7 @@ The automation handles routine guest and guide touchpoints. The contractor's job
 The contractor is responsible for:
 
 - Reviewing a daily briefing (prepared by Claude) covering: current tours, guide confirmation status, weather, and any flagged issues
-- Checking the GHL conversations inbox for bot escalations requiring a human response
+- Checking the CRM conversations inbox for bot escalations requiring a human response
 - Auditing FareHarbor periodically for data accuracy: guide assignments, third-party shuttle flags, extended tour participant counts
 - Making weather go/no-go decisions on any day tours are scheduled, and communicating those decisions to guests and guides before 7:00 AM on tour day -- this decision is always the contractor's to make
 - Checking the Honey Island water gauge before any Honey Island tour runs
@@ -158,7 +158,7 @@ Claude operates as a background operations resource. These are not tasks the con
 A small set of consistent post-tour responsibilities keeps guides connected to the operation without adding meaningful burden.
 
 After every tour:
-- Reply to the GHL post-tour check-in text (three yes/no questions about van, gas, and PFDs)
+- Reply to the CRM post-tour check-in text (three yes/no questions about van, gas, and PFDs)
 - Post one photo to Google (required -- tied to pay)
 
 Ongoing:

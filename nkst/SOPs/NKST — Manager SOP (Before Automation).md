@@ -4,7 +4,7 @@
 **Version:** Manual Operations Playbook
 **Last Updated:** March 2026
 
-> This document describes how to run NKST operations manually — before GoHighLevel automation is fully live. Every task in this playbook is done by hand. Nothing is automated. Follow these steps exactly.
+> This document describes how to run NKST operations manually — before CRM automation is fully live. Every task in this playbook is done by hand. Nothing is automated. Follow these steps exactly.
 
 ---
 

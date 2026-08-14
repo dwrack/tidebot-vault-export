@@ -8,7 +8,7 @@
 | System | Status | Who Does It | Est. Time |
 |---|---|---|---|
 | Gmail (dwrack81) | ✅ Done | — | — |
-| GHL — DCKT location | ❌ Need location ID + PIT | David | 5 min |
+| CRM — DCKT location | ❌ Need location ID + PIT | David | 5 min |
 | Google Drive API | ❌ Need to enable | David | 2 min |
 | DCKT Gmail (Info@) | ❌ Need to add account | David | 5 min |
 | FareHarbor API | ❌ Need API key | David | 10 min |
@@ -17,13 +17,13 @@
 
 ---
 
-## Step 1 — GHL: Get DCKT Location ID + PIT Token
+## Step 1 — CRM: Get DCKT Location ID + PIT Token
 **Priority: Highest. Unlocks the entire automation stack.**
 
-GHL MCP is already set up for other businesses. DCKT just needs its own key added.
+The CRM MCP is already set up for other businesses. DCKT just needs its own key added.
 
 ### Get Location ID
-1. Log into GHL → switch to DCKT sub-account
+1. Log into the CRM → switch to DCKT sub-account
 2. Go to **Settings → Business Profile**
 3. Copy the **Location ID** (looks like: `xxxxxxxxxxxxxxxxxxx`)
 
@@ -37,9 +37,9 @@ GHL MCP is already set up for other businesses. DCKT just needs its own key adde
 ### Add to Claude
 Run this in terminal (replace with real values):
 ```bash
-# Open ~/.claude.json and add under mcpServers.ghl.env:
-# "GHL_LOCATION_ID": "YOUR_DCKT_LOCATION_ID",
-# "GHL_KEY_YOUR_DCKT_LOCATION_ID": "YOUR_DCKT_PIT_TOKEN"
+# Open ~/.claude.json and add under mcpServers.crm.env:
+# "CRM_LOCATION_ID": "YOUR_DCKT_LOCATION_ID",
+# "CRM_KEY_YOUR_DCKT_LOCATION_ID": "YOUR_DCKT_PIT_TOKEN"
 ```
 Or just share the Location ID and PIT token here and I'll add them.
 
@@ -69,14 +69,14 @@ The Gmail MCP currently only has dwrack81@gmail.com. To add the DCKT business em
 ---
 
 ## Step 4 — FareHarbor API Key
-**Unlocks: Booking data → GHL sync, automated triggers on tour completion**
+**Unlocks: Booking data → CRM sync, automated triggers on tour completion**
 
 1. Log into FareHarbor dashboard
 2. Go to **Settings → Integrations** (or contact FareHarbor support)
 3. Request API credentials — note your **API Key** and **User Key**
-4. Share here and I'll connect it to GHL via webhook
+4. Share here and I'll connect it to the CRM via webhook
 
-*FareHarbor support:* support@fareharbor.com — mention you need API access for GHL integration
+*FareHarbor support:* support@fareharbor.com — mention you need API access for CRM integration
 
 ---
 
@@ -95,11 +95,11 @@ The Gmail MCP currently only has dwrack81@gmail.com. To add the DCKT business em
 ---
 
 ## Step 6 — Homebase API (Bella's task)
-**Unlocks: Guide schedules → GHL sync, payroll data visibility**
+**Unlocks: Guide schedules → CRM sync, payroll data visibility**
 
 1. Log into Homebase → **Settings → Integrations → API**
 2. Generate an API key
-3. Add to GHL or share here
+3. Add to the CRM or share here
 
 ---
 
@@ -109,9 +109,9 @@ Once everything is connected:
 
 | Integration | What it enables |
 |---|---|
-| GHL + FareHarbor | Booking → auto-trigger all customer workflows |
-| GHL + Homebase | Guide schedule → shift notification workflows |
-| GHL + n8n chatbot | Website chatbot answers 24/7, escalates to GHL |
+| CRM + FareHarbor | Booking → auto-trigger all customer workflows |
+| CRM + Homebase | Guide schedule → shift notification workflows |
+| CRM + n8n chatbot | Website chatbot answers 24/7, escalates to the CRM |
 | Drive | I can read all your DCKT docs, SOPs, spreadsheets |
 | DCKT Gmail | I can monitor + draft from Info@ directly |
 
@@ -120,17 +120,17 @@ Once everything is connected:
 ## For Bella — Her Setup Checklist
 
 Before the Friday call, David should send Bella invites to:
-- [ ] GHL — DCKT sub-account (Manager role)
+- [ ] CRM — DCKT sub-account (Manager role)
 - [ ] Homebase — Manager access
 - [ ] FareHarbor — Staff access
 - [ ] Info@DoorCountyKayakTours.com — Gmail access or alias
 
 After Friday, Bella builds:
-- [ ] Guide-facing GHL workflows (G1–G4) — using the Automation Spec
+- [ ] Guide-facing CRM workflows (G1–G4) — using the Automation Spec
 - [ ] HR/onboarding system (Gusto or WorkBright) — using the HR Comparison note
 - [ ] Chatbot FAQ review — using the SMS Bot SOP
 
 ---
 
 *Related: [[DCKT — Systems Integration Hub]]*
-*Related: [[DCKT — GHL Automation Workflows Spec]]*
+*Related: [[DCKT — Automation Workflows Spec]]*

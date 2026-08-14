@@ -1,7 +1,7 @@
 # Ebb and Ember — SOP: Guest Communication Templates
 *2026-03-28*
 
-> **Purpose:** Consistent, professional communication at every guest touchpoint. Copy these templates into GHL for automation.
+> **Purpose:** Consistent, professional communication at every guest touchpoint. Copy these templates into the CRM for automation.
 
 ---
 

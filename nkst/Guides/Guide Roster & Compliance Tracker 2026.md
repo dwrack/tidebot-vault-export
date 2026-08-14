@@ -78,12 +78,12 @@
 
 Goal: establish a regular communication and coaching cadence with all active guides to gather field feedback, improve tour quality, and strengthen the guide relationship. Topics to shape with Michelle:
 
-- Preferred communication channel (text, GHL, email?)
+- Preferred communication channel (text, the CRM, email?)
 - Frequency and format of check-ins (pulse texts, post-tour debrief, seasonal reviews)
 - What feedback questions are most useful to ask guides
 - How to handle coaching conversations (tone, format, who leads)
 - Which guides may need more support vs. which are self-sufficient
-- GHL automation opportunities: CPR expiration reminders, photo compliance follow-ups, schedule confirmations
+- CRM automation opportunities: CPR expiration reminders, photo compliance follow-ups, schedule confirmations
 
 *Do not launch guide outreach until Michelle has reviewed and signed off. She knows the guides and should shape the approach.*
 

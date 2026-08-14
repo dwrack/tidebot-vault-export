@@ -1,4 +1,4 @@
-# DCKT — GHL Automation Sequences
+# DCKT — Automation Sequences
 *Every message, every trigger — build-ready*
 *Owner: David Rack (setup) · Bella Sgriccia (maintenance)*
 
@@ -6,13 +6,13 @@
 
 ## How to Use This Document
 
-Each sequence below is ready to build in GHL's workflow builder. For each one:
+Each sequence below is ready to build in the CRM's workflow builder. For each one:
 1. Create a new Workflow in the DCKT sub-account
 2. Set the trigger (noted for each sequence)
 3. Add the actions in order (SMS/email, wait timers, conditions)
 4. Test with a real booking before going live
 
-**GHL DCKT Sub-Account:** use the DCKT location ID from the GHL reference doc.
+**CRM DCKT Sub-Account:** use the DCKT location ID from the CRM reference doc.
 
 ---
 
@@ -31,7 +31,7 @@ Each sequence below is ready to build in GHL's workflow builder. For each one:
 ---
 
 ## Sequence 2 — Booking Confirmation + Upsell
-*Trigger: new booking created in FareHarbor (webhook → GHL)*
+*Trigger: new booking created in FareHarbor (webhook → CRM)*
 *Goal: celebrate the booking, open the upsell conversation, set the tone*
 
 | Step | Timing | Channel | Message |
@@ -41,7 +41,7 @@ Each sequence below is ready to build in GHL's workflow builder. For each one:
 | 3 | +1 hr (if no upgrade) | SMS | "P.S. — we also run Lykke Sauna Co. right here in Door County. A post-paddle sauna is honestly the perfect ending to a day on the water. Ask us when you arrive or reply 'sauna' for details 🧖" |
 
 **Branch:** If guest says "private" → manual flag for David/Bella to process upgrade.
-**Branch:** If special occasion noted → add tag in GHL, flag for guide briefing.
+**Branch:** If special occasion noted → add tag in the CRM, flag for guide briefing.
 
 ---
 
@@ -60,7 +60,7 @@ Each sequence below is ready to build in GHL's workflow builder. For each one:
 ---
 
 ## Sequence 4 — Post-Tour Fan Creation
-*Trigger: tour end time passed (FareHarbor → GHL)*
+*Trigger: tour end time passed (FareHarbor → CRM)*
 *Goal: capture the glow, get the review, plant the return*
 
 | Step | Timing | Channel | Message |
@@ -138,12 +138,12 @@ Each sequence below is ready to build in GHL's workflow builder. For each one:
 
 ---
 
-## FareHarbor → GHL Webhook Setup
+## FareHarbor → CRM Webhook Setup
 
 To trigger sequences from FareHarbor bookings:
-1. GHL → DCKT sub-account → Settings → Integrations → Webhooks
+1. CRM → DCKT sub-account → Settings → Integrations → Webhooks
 2. Copy the inbound webhook URL
-3. FareHarbor → Settings → Webhooks → add GHL URL
+3. FareHarbor → Settings → Webhooks → add CRM URL
 4. Map fields: customer name, email, phone, tour name, tour date/time
 5. Test with a manual booking
 

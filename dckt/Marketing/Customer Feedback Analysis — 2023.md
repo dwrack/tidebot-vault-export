@@ -121,7 +121,7 @@ Customers drove 1–3 hours to find their tour cancelled with no prior notificat
 - "We showed up half an hour early as instructed then stood there for an hour trying to contact someone" — Elly Poppe (2023)
 - "You called at 7:00am to tell me the trip was changed... told 2 hours of E-bikes would be substituted. Instead I had to pay full price to rent the E-bikes." — Mary Rozendal (2020)
 
-**Fix required:** Automated GHL workflow: weather check at 6am, cancellation text/email by 7am at latest. Confirmation phone number must be answered or have voicemail.
+**Fix required:** Automated CRM workflow: weather check at 6am, cancellation text/email by 7am at latest. Confirmation phone number must be answered or have voicemail.
 
 ---
 
@@ -220,7 +220,7 @@ These are from the Alex Mixx TripAdvisor research spreadsheet. All were posted t
 ### Immediate / Critical
 1. **Cave availability communication protocol** — guide must announce at launch whether caves are accessible that day, before customers get on water. Website needs clear disclaimer.
 2. **Tandem kayak disclosure** — add to website homepage, booking confirmation, and day-of email.
-3. **Cancellation communication system** — 6am weather check, 7am cancellation text/email, GHL automation.
+3. **Cancellation communication system** — 6am weather check, 7am cancellation text/email, CRM automation.
 4. **Guide pacing standard** — guide must maintain visual contact with rear group member at all times.
 
 ### High Priority

@@ -104,7 +104,7 @@ Check locations: Sturgeon Bay, Sister Bay, and Northport Pier. NOAA text = marin
 - [ ] First aid kit stocked
 - [ ] Tow rope in guide bag
 - [ ] Review booking list — know every guest's name
-- [ ] Flag returning guests (2+ visits) in FareHarbor/GHL
+- [ ] Flag returning guests (2+ visits) in FareHarbor/CRM
 - [ ] Note special occasions (birthday, anniversary, first trip)
 - [ ] Print / pull receipts for checkout
 
@@ -246,6 +246,6 @@ See [[Operations/DCKT — Guide Training & Customer Journey Playbook]] for full 
 | **VHF Radio** | On-water communication, emergency |
 | **Cell phone** | Backup communication, GPS, photos |
 | **FareHarbor** | Booking and guest info |
-| **GHL** | Customer and guide-facing automations |
+| **CRM** | Customer and guide-facing automations |
 
 Reception is bad in parts of Door County — GroupMe over cell calls when possible.

@@ -36,7 +36,7 @@ This is a tax, liability, and scheduling risk. The fix is straightforward — it
 
 **Goal:** Send W-9 request, DL request, and ICA DocuSeal link to every active guide in one coordinated push.
 
-**The sequence (can be done via GHL or manual text):**
+**The sequence (can be done via the CRM or manual text):**
 
 **Day 1 — Text blast to all active guides:**
 > "Hey [Name] — getting our 2026 files buttoned up before the season kicks off. Need 3 things from you: (1) a completed W-9, (2) a photo of your driver's license, (3) a signed contractor agreement — link coming separately. Takes about 10 minutes total. Reply with any questions."
@@ -54,12 +54,12 @@ This is a tax, liability, and scheduling risk. The fix is straightforward — it
 
 ---
 
-## Phase 3 — Build the Automation (GHL, with Chevy)
+## Phase 3 — Build the Automation (in the CRM, with Chevy)
 
 **Goal:** Never chase this paperwork manually again. Every new guide that gets added triggers a sequence automatically.
 
 ### Automation 1: New Guide Onboarding Flow
-*Trigger: New guide contact added to GHL with tag "guide-new"*
+*Trigger: New guide contact added to the CRM with tag "guide-new"*
 
 1. **Immediately:** Send welcome text with their first shift details
 2. **Hour 1:** Send email with ICA DocuSeal link + W-9 instructions + DL request
@@ -87,7 +87,7 @@ IRS requires a new W-9 when info changes. Good practice to refresh annually:
 > "Hey [Name] — new year, new paperwork (sorry). Can you confirm your W-9 info is still current? If anything changed (address, SSN, business name), reply and we'll send a new form."
 
 ### Automation 5: Post-Tour Guide Check-In
-*Trigger: Tour completed (from FareHarbor webhook, if connected to GHL)*
+*Trigger: Tour completed (from FareHarbor webhook, if connected to the CRM)*
 
 1 hour after tour end time:
 > "How'd the tour go? Any wildlife sightings? Guest issues? Equipment concerns? Drop a quick note — even a voice memo."
@@ -113,9 +113,9 @@ Full debrief — what worked, what didn't, are they back next year. This is the 
 
 ---
 
-## GHL Setup Requirements (Discuss with Chevy)
+## CRM Setup Requirements (Discuss with Chevy)
 
-For the automations above to work, GHL needs:
+For the automations above to work, the CRM needs:
 - [ ] All guides imported as contacts with tag `guide-active` or `guide-new`
 - [ ] Custom fields: `CPR Expiry Date`, `W9 on File (Y/N)`, `DL on File (Y/N)`, `ICA Signed (Y/N)`, `Solo Sign-Off Date`
 - [ ] DocuSeal integrated (or Zapier webhook to trigger ICA send)
@@ -145,7 +145,7 @@ For the automations above to work, GHL needs:
 2. **Confirm Alex Wallace / Ashe Burke** — one name or two?
 3. **Fix the ICA** — walk through the 5 key changes, sign off on revised template
 4. **Draft the Phase 2 blast** — write the text/email together, schedule send
-5. **Brief Chevy on Phase 3** — what needs to be built in GHL and timeline
+5. **Brief Chevy on Phase 3** — what needs to be built in the CRM and timeline
 6. **CPR status** — does Michelle know who's current? Can we get a quick verbal check?
 7. **Nick Napoda's email** — make sure we leave with it
 

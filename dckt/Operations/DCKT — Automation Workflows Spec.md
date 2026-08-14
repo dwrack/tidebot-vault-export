@@ -1,4 +1,4 @@
-# DCKT — GHL Automation Workflows Spec
+# DCKT — Automation Workflows Spec
 *Ready to build once DCKT location ID + PIT token are in*
 
 ---
@@ -9,7 +9,7 @@ Two automation tracks:
 1. **Customer-facing** — from first contact through post-tour advocacy
 2. **Guide-facing** — from hiring through end of season offboarding
 
-All workflows live in GHL → DCKT sub-account → Automation.
+All workflows live in the CRM → DCKT sub-account → Automation.
 
 ---
 
@@ -36,7 +36,7 @@ All workflows live in GHL → DCKT sub-account → Automation.
 ---
 
 ### Workflow 2: Booking Confirmation + Upsell
-**Trigger:** New booking created in FareHarbor → webhook → GHL contact tagged `booked`
+**Trigger:** New booking created in FareHarbor → webhook → CRM contact tagged `booked`
 
 **Step 1 — Check: returning guest?**
 - If contact has tag `returning-guest` → go to **Workflow 2B (Returning)**
@@ -101,7 +101,7 @@ All workflows live in GHL → DCKT sub-account → Automation.
 ---
 
 ### Workflow 6: Post-Tour Fan Sequence
-**Trigger:** Tour completion (manual tag `tour-complete` applied by guide via GHL mobile, or FareHarbor webhook)
+**Trigger:** Tour completion (manual tag `tour-complete` applied by guide via the CRM mobile app, or FareHarbor webhook)
 **Branch:** First-timer vs returning guest
 
 #### First-Timer Post-Tour

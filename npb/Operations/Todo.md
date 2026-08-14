@@ -59,8 +59,8 @@
 
 ### Systems
 - [ ] Confirm FareHarbor API exposes crew assignment + trip end times — **Owner: David**
-- [ ] Build GHL auto-SMS to captain 10 min before trip end (captain replies = auto-logged) — **Owner: David**
-- [ ] Test GHL mass texting for customer onboarding — **Owner: David**
+- [ ] Build CRM auto-SMS to captain 10 min before trip end (captain replies = auto-logged) — **Owner: David**
+- [ ] Test CRM mass texting for customer onboarding — **Owner: David**
 - [ ] Set up backup SMS system for staff when Slack isn't getting responses — **Owner: David/JT**
 - [ ] Connor: focus on SOP automation across businesses — **Owner: Connor**
 
@@ -86,7 +86,7 @@
 - [ ] If bathroom fix delayed: rent air-conditioned portable trailer (~$500-800/mo) — **Owner: Jeffrey**
 
 ### Revenue Expansion
-- [ ] Launch "Locals Night" Wed/Thu campaign via GHL text blast to customer database — **Owner: David/JT**
+- [ ] Launch "Locals Night" Wed/Thu campaign via CRM text blast to customer database — **Owner: David/JT**
 - [ ] Implement deckhand photography program (tour photos for social + sales) — **Owner: JT**
 - [ ] Kayak/paddleboard rental offering (once property is presentable) — **Owner: TBD**
 

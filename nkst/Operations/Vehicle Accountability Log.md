@@ -3,13 +3,13 @@
 **Company:** New Orleans Kayak Swamp Tours / Nola Kayak Tours
 **Last Updated:** April 2026
 
-> This log tracks vehicle use, fuel, cleaning, and condition after every tour. Guides confirm via a 3-question post-tour text (sent automatically by GHL). Manager reviews weekly. Mileage is tracked here for oil change scheduling (every 3,500 miles).
+> This log tracks vehicle use, fuel, cleaning, and condition after every tour. Guides confirm via a 3-question post-tour text (sent automatically by the CRM). Manager reviews weekly. Mileage is tracked here for oil change scheduling (every 3,500 miles).
 
 ---
 
 ## How It Works
 
-**Guides:** After every tour, GHL sends an automatic text asking three questions. Reply with yes/no. Takes 60 seconds. That's it.
+**Guides:** After every tour, the CRM sends an automatic text asking three questions. Reply with yes/no. Takes 60 seconds. That's it.
 
 **Manager:** Reviews the log weekly. Flags any "no" answers, mileage milestones, or recurring issues. Follows up with the guide if anything is outstanding.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Post-Tour Guide Text (Sent by GHL Automatically)
+## Post-Tour Guide Text (Sent by the CRM Automatically)
 
 > "Hey [Name] -- quick wrap-up for today's tour. Three questions:
 > 1. Van back at Piety St, locked, no valuables left inside?
@@ -26,7 +26,7 @@
 >
 > Reply 1/2/3 as yes or no. Anything to flag? Drop it here."
 
-Any "no" or freeform note routes to the manager's GHL inbox immediately.
+Any "no" or freeform note routes to the manager's CRM inbox immediately.
 
 ---
 

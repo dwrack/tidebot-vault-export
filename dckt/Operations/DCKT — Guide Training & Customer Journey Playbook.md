@@ -45,13 +45,13 @@ Most guests come from TripAdvisor, Google, or a friend's recommendation. Your jo
 
 This is where most small operators lose people. Phone rings, no one answers, lead goes cold.
 
-**Automated (GHL handles):**
+**Automated (the CRM handles):**
 - Missed call → immediate auto-text within 60 seconds
 - 3-message lead nurture if no booking within 24–72 hours
 
 **When a guide takes a call or text:**
 - Answer in the first ring if possible
-- Use their name immediately if it shows in GHL
+- Use their name immediately if it shows in the CRM
 - Ask: *"Have you been to Door County before?"* and *"Is this a special occasion?"*
 - Those two questions unlock everything — you know how to pitch the experience
 
@@ -62,13 +62,13 @@ This is where most small operators lose people. Phone rings, no one answers, lea
 ## Stage 3 — BOOKING
 *The transaction that should feel like a celebration*
 
-**Automated (GHL handles):**
+**Automated (the CRM handles):**
 - Immediate booking confirmation with personal tone
 - Upsell to private tour within 30 minutes if group size fits
 - Cross-sell: Lykke Sauna, e-bike rental
 
 **For returning guests (3+ visits):**
-GHL flags them. Confirmation message is different:
+The CRM flags them. Confirmation message is different:
 > *"Welcome back — we've got something a little different planned for you this season."*
 
 **Human layer:**
@@ -81,7 +81,7 @@ If it's a large group, a milestone birthday, or a returning guest flagged in the
 
 Most tours start on the water. The best tours start 3 days before.
 
-**Automated sequence (GHL):**
+**Automated sequence (the CRM):**
 
 | Message | Timing | Purpose |
 |---|---|---|
@@ -201,7 +201,7 @@ That's a seed. Water it with the post-tour sequence.
 **For returning guests — the annual close:**
 > *"You keep coming back — and I love that. Is there something you haven't done yet that you want to do next time? Sunset paddle? Fall colors on the inland route? Tell me now and I'll make a note."*
 
-Then actually log it. Text the team before you leave the launch: *"[Name], 3rd visit, wants sunset tour next time."* Into GHL it goes.
+Then actually log it. Text the team before you leave the launch: *"[Name], 3rd visit, wants sunset tour next time."* Into the CRM it goes.
 
 **The photo close:**
 Before guests leave — offer to take a group photo. Not just suggest it. *Take the phone and do it.*
@@ -213,7 +213,7 @@ A great guide-taken photo is more shareable than anything else. It goes on Insta
 ---
 
 ## Stage 8 — POST-TOUR
-*Automated (GHL) + Human*
+*Automated (the CRM) + Human*
 
 **Automated sequence (from SMS Bot SOP):**
 
@@ -260,7 +260,7 @@ That's not marketing. That's a relationship.
 
 ### Before Every Tour
 - [ ] Review the booking list — know every guest's name
-- [ ] Flag returning guests (2+ visits) in FareHarbor/GHL
+- [ ] Flag returning guests (2+ visits) in FareHarbor/CRM
 - [ ] Note any special occasions (birthday, anniversary, first trip)
 - [ ] Check weather window — know the cancellation contingency in advance
 - [ ] Prepare your "ecological reveal" for the day
@@ -277,7 +277,7 @@ That's not marketing. That's a relationship.
 - [ ] Take the group photo
 
 ### After Every Tour
-- [ ] Log any notable guest moments in GHL before you leave the launch
+- [ ] Log any notable guest moments in the CRM before you leave the launch
 - [ ] Log returning guest requests ("wants sunset tour next time")
 - [ ] Send personal text for any exceptional moments that day
 - [ ] Feed any great photos/stories to Nya for social media

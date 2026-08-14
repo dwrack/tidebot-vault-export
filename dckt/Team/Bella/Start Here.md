@@ -27,8 +27,8 @@ Referral emails and social posts are already drafted and ready for you to send.
 - See: [[Hiring/2026 Guide Hiring — Emails & Social Posts]]
 - Need from David: application link/email + any deadline to add before sending
 
-### 3. Guide Comms Automation (GHL)
-Build automated communication sequences for guides — onboarding welcome, training reminders, shift notifications, weather cancellations, end-of-season offboarding. All done in GHL's visual workflow builder, no coding required.
+### 3. Guide Comms Automation (CRM)
+Build automated communication sequences for guides — onboarding welcome, training reminders, shift notifications, weather cancellations, end-of-season offboarding. All done in the CRM's visual workflow builder, no coding required.
 - Contact: Conner Quarles at Rawgrowth.ai (connerquarles13@gmail.com) — he's our AI/automation vendor
 
 ### 4. Website Chatbot
@@ -50,7 +50,7 @@ NOLA Party Barge (our sister business) has a working AI chatbot. DCKT gets its o
 | System | What it's for | Access status |
 |---|---|---|
 | **Homebase** | Scheduling, payroll, time tracking | Invite coming |
-| **GHL** | CRM, customer comms, automations | Invite coming |
+| **CRM / automation platform** | CRM, customer comms, automations | Invite coming |
 | **FareHarbor** | Booking dashboard, manifests, customer info | Invite coming |
 | **DocuSign** | Send + track employee forms | Invite coming |
 | **This vault** | Everything else | You're here ✓ |

@@ -9,7 +9,7 @@
 |---|---|---|---|
 | **FareHarbor** | Bookings, website host, job applications | info@doorcountykayaktours.com | WordPress site hosted by FH. Submit requests at fareharbor.com/help/submit/ |
 | **Homebase** | Scheduling, payroll, time tracking | Active | Free plan covers up to 20 employees / 1 location. Payroll add-on ~$39/mo |
-| **GHL (Go High Level)** | CRM, customer/guide comms, marketing automation | DCKT sub-account in agency dashboard | Set up but underutilized — Bella to build guide automation sequences |
+| **CRM / automation platform** | CRM, customer/guide comms, marketing automation | DCKT sub-account in agency dashboard | Set up but underutilized — Bella to build guide automation sequences |
 | **Google Workspace** | Email, Drive, docs | doorcountykayaking@gmail.com + info@doorcountykayaktours.com | Forwarded to dwrack81@gmail.com |
 | **GroupMe** | Guide team chat | Active | Primary internal comms for guides on-water and on-shift |
 
@@ -80,8 +80,8 @@
 
 **Pending for DCKT:**
 - AI chatbot for doorcountykayaktours.com (port from NOLA Party Barge "Nolan" template)
-- GHL guide comms automation sequences (Bella's project)
-- FareHarbor → GHL booking confirmation/reminder automation
+- CRM guide comms automation sequences (Bella's project)
+- FareHarbor → CRM booking confirmation/reminder automation
 
 ---
 
@@ -104,7 +104,7 @@ Bella should have access to (or be trained on) all of the following:
 |---|---|
 | FareHarbor | Manager — booking dashboard, availability, job application forms |
 | Homebase | Manager — scheduling, payroll, employee records |
-| GHL (DCKT sub-account) | Admin — workflow builder, contacts, comms |
+| CRM (DCKT sub-account) | Admin — workflow builder, contacts, comms |
 | doorcountykayaking@gmail.com | Manager access or forward/alias |
 | Google Drive (DCKT folder) | Editor |
 | SmugMug | Uploader / Organizer |

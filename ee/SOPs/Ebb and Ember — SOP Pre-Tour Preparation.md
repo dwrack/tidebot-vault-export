@@ -54,5 +54,5 @@
 - [ ] All gear returned, rinsed, and stored
 - [ ] Incident report filed if any injury/incident occurred
 - [ ] Guest count confirmed out
-- [ ] Review request triggered in GHL (auto if connected, else manual SMS)
+- [ ] Review request triggered in the CRM (auto if connected, else manual SMS)
 - [ ] Any feedback noted for manager coaching log

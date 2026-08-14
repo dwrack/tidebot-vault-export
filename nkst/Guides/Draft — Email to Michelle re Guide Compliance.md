@@ -16,7 +16,7 @@ The short version: most of our 2026 guides don't have a W-9, a DL copy, or a sig
 
 So here's what I want to do differently this time.
 
-I've mapped out a simple plan to get everyone compliant in the next 7–10 days using a coordinated text + email sequence — not one-off manual follow-ups. And then I want to hand it off to Chevy to build into GHL so that every new guide we ever add gets automatically walked through the whole process. W-9 reminder, ICA link, CPR renewal alert, seasonal check-ins — all of it fires automatically. You shift from chasing paperwork to just reviewing a dashboard.
+I've mapped out a simple plan to get everyone compliant in the next 7–10 days using a coordinated text + email sequence — not one-off manual follow-ups. And then I want to hand it off to Chevy to build into the CRM so that every new guide we ever add gets automatically walked through the whole process. W-9 reminder, ICA link, CPR renewal alert, seasonal check-ins — all of it fires automatically. You shift from chasing paperwork to just reviewing a dashboard.
 
 Before we send anything, I want to sit down with you tomorrow and walk through it together. Specifically:
 

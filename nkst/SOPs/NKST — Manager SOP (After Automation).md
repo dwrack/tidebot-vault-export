@@ -1,10 +1,10 @@
 # NKST — Manager SOP (After Automation)
 
 **Company:** Apres Assets LLC dba New Orleans Kayak Swamp Tours / Nola Kayak Tours
-**Version:** Automated Operations Playbook (GHL Live)
+**Version:** Automated Operations Playbook (CRM Live)
 **Last Updated:** March 2026
 
-> This document describes how to manage NKST operations after GoHighLevel (GHL) automation is fully live. Your job is no longer to execute routine tasks — it's to oversee systems, catch exceptions, and handle the things automation cannot. Read this carefully: the manual SOP habits will slow you down here. Trust the system. Watch the dashboards. Act on exceptions.
+> This document describes how to manage NKST operations after CRM automation is fully live. Your job is no longer to execute routine tasks — it's to oversee systems, catch exceptions, and handle the things automation cannot. Read this carefully: the manual SOP habits will slow you down here. Trust the system. Watch the dashboards. Act on exceptions.
 
 ---
 
@@ -12,19 +12,19 @@
 
 | Task | Before (Manual) | After (Automated) |
 |---|---|---|
-| Booking confirmation to guest | Manager or FareHarbor only | GHL webhook sends instantly on booking |
-| What-to-bring info to guest | Manual text or email | GHL pre-tour sequence (message 2 of 4) |
-| Day-before reminder to guest | Manual text or email | GHL pre-tour sequence (message 3 of 4) |
-| Post-tour review request to guest | Manual text/email (or not done) | GHL sends automatically after tour |
+| Booking confirmation to guest | Manager or FareHarbor only | CRM webhook sends instantly on booking |
+| What-to-bring info to guest | Manual text or email | CRM pre-tour sequence (message 2 of 4) |
+| Day-before reminder to guest | Manual text or email | CRM pre-tour sequence (message 3 of 4) |
+| Post-tour review request to guest | Manual text/email (or not done) | CRM sends automatically after tour |
 | Missed call follow-up | No follow-up until voicemail checked | Auto SMS text-back within seconds |
 | FAQ responses (website/SMS) | Manager or owner answers every one | Chatbot handles ~80% without human |
-| Guide manifest + night-before SMS | Manager texts each guide manually | GHL sends automatically night before tour |
-| Guide schedule confirmation | Manual text exchange | Guide gets auto-confirmation from GHL |
-| Weather cancellation blast | Manager calls/texts every guest manually | One-click broadcast in GHL to all affected |
-| Group inquiry capture | Ad hoc — email, call, lost in shuffle | GHL form → auto CRM entry → auto follow-up |
+| Guide manifest + night-before SMS | Manager texts each guide manually | CRM sends automatically night before tour |
+| Guide schedule confirmation | Manual text exchange | Guide gets auto-confirmation from the CRM |
+| Weather cancellation blast | Manager calls/texts every guest manually | One-click broadcast in the CRM to all affected |
+| Group inquiry capture | Ad hoc — email, call, lost in shuffle | Form → auto CRM entry → auto follow-up |
 | Review requests | Manual or skipped | Auto-SMS with direct Google/TripAdvisor links |
-| Guide compliance tracking | Spreadsheet | GHL compliance dashboard with expiry alerts |
-| Monthly email campaigns | Owner or not done | GHL scheduled campaigns |
+| Guide compliance tracking | Spreadsheet | CRM compliance dashboard with expiry alerts |
+| Monthly email campaigns | Owner or not done | CRM scheduled campaigns |
 | LDWF quarterly report | Manual data pull | FareHarbor CSV → manager formats + submits |
 | Add-transport requests | Manager handles manually | Chatbot captures name/date/headcount → flags manager to process in FareHarbor |
 | "Didn't get confirmation" requests | Manager looks up booking and resends | Chatbot collects info → triggers FareHarbor confirmation resend |
@@ -39,13 +39,13 @@
 
 The following tasks are fully automated. You do not need to touch them unless the automation fails:
 
-- Booking confirmation SMS/email to guest (triggered by FareHarbor → GHL webhook)
+- Booking confirmation SMS/email to guest (triggered by FareHarbor → CRM webhook)
 - Pre-tour message sequence: what to bring (2 days out), day-before reminder, post-tour review request
 - Missed call text-back (instant SMS response to any missed call on company number)
 - FAQ chatbot responses via website widget and SMS
 - Night-before guide SMS with manifest + checklist
 - Guide schedule confirmation (triggered when guide is assigned in FareHarbor)
-- Monthly email campaigns (pre-scheduled in GHL)
+- Monthly email campaigns (pre-scheduled in the CRM)
 - New group inquiry: auto-CRM entry, auto-quote, and initial follow-up sequence
 - Post-tour review SMS with direct Google and TripAdvisor links
 - Add-transport requests: chatbot captures guest name, date, headcount and flags for manager
@@ -63,7 +63,7 @@ Monitor incoming texts for any guest referencing **"405 Frenchmen"**, **"Frenchm
 
 The chatbot has an address correction branch trained on these keywords. But monitor the inbox manually as well, especially during high-volume days. If you see a guest referencing the old address and the chatbot hasn't responded yet — correct them directly and immediately.
 
-Any references to the old address in GHL chat logs should be flagged: if it happens 3+ times in a week from different guests, there is a source (website, third-party listing, old confirmation email) still distributing the old address. Investigate and fix the source.
+Any references to the old address in the CRM chat logs should be flagged: if it happens 3+ times in a week from different guests, there is a source (website, third-party listing, old confirmation email) still distributing the old address. Investigate and fix the source.
 
 ---
 
@@ -73,14 +73,14 @@ Any references to the old address in GHL chat logs should be flagged: if it happ
 
 ### Morning Check (Complete by 8:30 AM on tour days; 9:30 AM on non-tour days)
 
-1. [ ] Open GHL — check the **Conversations inbox** first
+1. [ ] Open the CRM — check the **Conversations inbox** first
    - Look for any conversations tagged or flagged as "Bot Escalation" or "Needs Human"
    - These are inquiries the chatbot could not resolve — respond to them now
    - Check for any replies from guests to automated sequences that need a real answer
    - Look for any guide replies to automated manifests that indicate a problem (unavailable, confused, wrong info)
    - **Look specifically for any day-of "can't find us" escalations** — these are urgent and time-sensitive
 
-2. [ ] Open GHL — check **Workflow Activity / Failed Workflows**
+2. [ ] Open the CRM — check **Workflow Activity / Failed Workflows**
    - Look for any red or failed workflow runs from the past 24 hours
    - Common failures: FareHarbor webhook didn't fire, phone number missing on a booking, guide phone not in system
    - For each failure: identify what didn't send, fix the underlying data issue, manually send if needed, log the failure
@@ -88,7 +88,7 @@ Any references to the old address in GHL chat logs should be flagged: if it happ
 3. [ ] Open FareHarbor — review today's bookings (this part stays manual)
    - Confirm tour count, guide assignments, guest counts
    - **Verify third-party bookings (Viator, Expedia, TripAdvisor) still show shuttle on manifest** — automation does not catch missing shuttle flags
-   - Confirm GHL sent the night-before guide SMS (check workflow log for yesterday's trigger) — if it failed, text the guide now
+   - Confirm the CRM sent the night-before guide SMS (check workflow log for yesterday's trigger) — if it failed, text the guide now
    - If any Honey Island tours are running: check gauge at wx.aerisweather.com/rivers/gauge/PERL1.html (this check is never automated — always do it manually)
 
 4. [ ] Check the company phone (504-571-9975) for:
@@ -98,11 +98,11 @@ Any references to the old address in GHL chat logs should be flagged: if it happ
 
 5. [ ] Check email inbox — automation handles most customer touchpoints, but some guests still email
    - Respond to anything that came in overnight
-   - Group inquiry emails: move into GHL CRM if not already captured; trigger group inquiry workflow or handle manually
+   - Group inquiry emails: move into the CRM if not already captured; trigger group inquiry workflow or handle manually
 
 ---
 
-## GHL-Specific Manager Tasks
+## CRM-Specific Manager Tasks
 
 ### Conversations Inbox Monitoring
 - Check the inbox at least three times per day: morning, midday, afternoon
@@ -115,10 +115,10 @@ Any references to the old address in GHL chat logs should be flagged: if it happ
 2. Don't repeat what the bot said — move the conversation forward
 3. If it's a booking question: resolve it and provide the direct booking link or book for them in FareHarbor
 4. If it's a complaint: follow the complaint protocol (see Escalation Matrix below)
-5. After handling: mark conversation as resolved in GHL
+5. After handling: mark conversation as resolved in the CRM
 
 ### Workflow Failure Protocol
-1. Navigate to GHL > Automation > Workflows > Activity Log
+1. Navigate to the CRM > Automation > Workflows > Activity Log
 2. Filter for failures in the past 24–48 hours
 3. For each failure, identify:
    - Which workflow failed?
@@ -136,10 +136,10 @@ Any references to the old address in GHL chat logs should be flagged: if it happ
 
 The automation handles guest messaging. You own data integrity.
 
-1. **Daily FareHarbor + GHL sync audit:**
-   - Open GHL > Contacts or Pipeline — do new bookings from the past 24 hours appear as contacts?
-   - If a booking is in FareHarbor but not in GHL, the webhook likely failed — add the contact manually and trigger the confirmation workflow
-   - Confirm the pre-tour sequence is active for each new booking (check the contact's active workflows in GHL)
+1. **Daily FareHarbor + CRM sync audit:**
+   - Open the CRM > Contacts or Pipeline — do new bookings from the past 24 hours appear as contacts?
+   - If a booking is in FareHarbor but not in the CRM, the webhook likely failed — add the contact manually and trigger the confirmation workflow
+   - Confirm the pre-tour sequence is active for each new booking (check the contact's active workflows in the CRM)
 
 2. **Third-party booking verification (daily):**
    - Pull FareHarbor manifest for any Viator, Expedia, or TripAdvisor bookings
@@ -148,7 +148,7 @@ The automation handles guest messaging. You own data integrity.
 
 3. **Cancellation handling:**
    - FareHarbor processes the refund per policy
-   - GHL should suppress remaining pre-tour messages when a booking is cancelled — verify this happened by checking the contact's active workflows
+   - The CRM should suppress remaining pre-tour messages when a booking is cancelled — verify this happened by checking the contact's active workflows
    - If messages were already sent and guest cancels: no action needed unless guest replies to a pre-tour message confused about their cancellation — handle those manually
 
 ---
@@ -158,9 +158,9 @@ The automation handles guest messaging. You own data integrity.
 The following workflow handles minimum participation cancellations for extended tours:
 
 ### How It Works
-- GHL workflow runs a daily check at **4:00 PM** — flags any extended tour scheduled for tomorrow that has fewer than [MINIMUM — owner to set] confirmed bookings
-- Manager receives an alert in GHL (and by SMS) at **4:30 PM** if minimum not met
-- Manager makes the go/cancel decision and selects the appropriate action in GHL
+- The CRM workflow runs a daily check at **4:00 PM** — flags any extended tour scheduled for tomorrow that has fewer than [MINIMUM — owner to set] confirmed bookings
+- Manager receives an alert in the CRM (and by SMS) at **4:30 PM** if minimum not met
+- Manager makes the go/cancel decision and selects the appropriate action in the CRM
 - One-click sends the minimum participation outbound text to all affected guests
 - System presents guests with 3 reply options (switch, reschedule, refund)
 - Guest reply routes to:
@@ -182,18 +182,18 @@ The following workflow handles minimum participation cancellations for extended 
 
 ### Normal State (Automation Running)
 - Guides receive auto-confirmation when assigned in FareHarbor
-- Guides receive night-before SMS with manifest + checklist via GHL
+- Guides receive night-before SMS with manifest + checklist via the CRM
 - You do not need to manually text each guide for routine confirmation
 
 Your job in normal state:
-1. [ ] Verify in GHL workflow logs that night-before guide SMS fired for tomorrow's tours (check each evening around 7:00 PM)
+1. [ ] Verify in the CRM workflow logs that night-before guide SMS fired for tomorrow's tours (check each evening around 7:00 PM)
 2. [ ] Monitor for guide replies to automated messages — if a guide replies "I can't make it" or "wrong info," that's your escalation
-3. [ ] Check GHL compliance dashboard weekly (not daily) — see Weekly Tasks
+3. [ ] Check the CRM compliance dashboard weekly (not daily) — see Weekly Tasks
 
 ### Guide Exceptions (These Always Require Human Response)
 - **Sick call / no-show:** Automation cannot fix this. Follow the same no-show protocol as the manual SOP — call backup guides, notify owner, contact guests if needed.
-- **Last-minute swap:** You update the guide assignment in FareHarbor. GHL should send the new guide their manifest automatically — verify it fired.
-- **New guide onboarding:** Run them through the manual compliance checklist (W-9, ICA via DocuSeal, CPR cert, DL). Add them to GHL with the correct tags so they receive guide workflows. Do not assign them to tours until compliance is complete.
+- **Last-minute swap:** You update the guide assignment in FareHarbor. The CRM should send the new guide their manifest automatically — verify it fired.
+- **New guide onboarding:** Run them through the manual compliance checklist (W-9, ICA via DocuSeal, CPR cert, DL). Add them to the CRM with the correct tags so they receive guide workflows. Do not assign them to tours until compliance is complete.
 - **Guide performance issue:** Document and escalate to owner. Automation does not handle performance management.
 
 ---
@@ -205,7 +205,7 @@ Automation helps you notify guests, but the go/no-go decision is always yours.
 1. **You make the weather decision by 6:30 AM** on any day tours are running.
 2. Decision criteria: same as manual SOP (lightning, 25+ mph winds, Honey Island gauge out of range).
 3. **If cancelling or rerouting:**
-   - In GHL, go to the affected tour's contact list or tag group
+   - In the CRM, go to the affected tour's contact list or tag group
    - Use the **Broadcast** or **Bulk SMS** function to send a cancellation message to all guests at once — one action instead of calling each person individually
    - Message template: *"NKST Update: Due to [weather/water conditions], today's [tour name] at [time] has been [cancelled / moved to Manchac Swamp]. We'll reschedule you or provide a full refund — reply here or call 504-571-9975."*
    - Send broadcast, then monitor replies — guests who reply are routed to your inbox
@@ -226,8 +226,8 @@ Activate when a named storm watch or warning is issued within 200 miles of the N
 
 ### Steps
 1. **Notify owner immediately.** This is an owner-level decision.
-2. In GHL, identify all contacts with upcoming bookings in the affected date range (next 72 hours minimum).
-3. Use GHL **Broadcast / Bulk SMS** to send the hurricane cancellation message to all affected guests in one action:
+2. In the CRM, identify all contacts with upcoming bookings in the affected date range (next 72 hours minimum).
+3. Use the CRM **Broadcast / Bulk SMS** to send the hurricane cancellation message to all affected guests in one action:
    > Hi [NAME], this is [MANAGER NAME] from NolaKayak Tours. Due to [STORM NAME], we are proactively cancelling all tours [DATE RANGE] for the safety of our guests and guides. You will receive a full refund automatically — no action needed on your part. We'll be in touch to reschedule when we reopen. Please stay safe!
 4. Process full refunds in FareHarbor for all affected bookings. Do not wait for guests to request them.
 5. Block out dates in FareHarbor availability to prevent new bookings during the closure.
@@ -263,16 +263,16 @@ Automation sends the post-tour review request. Your job is to manage what comes 
 
 Group inquiries still require a human. Automation captures the lead — you convert it.
 
-1. **Lead capture:** A group inquiry form on the website feeds directly into GHL CRM. You'll see a new contact appear in the "Group Leads" pipeline.
-2. GHL sends an automated initial response and quote based on form inputs. This buys you time but does not close the booking.
+1. **Lead capture:** A group inquiry form on the website feeds directly into the CRM. You'll see a new contact appear in the "Group Leads" pipeline.
+2. The CRM sends an automated initial response and quote based on form inputs. This buys you time but does not close the booking.
 3. **Your job:** Within 2 hours of a group lead appearing, call the contact.
    - Automation warmed them up — now you close
    - Confirm: group size, date, tour preference, shuttle, any occasion (birthday, bachelorette, corporate)
    - Provide custom quote if their group size or needs fall outside the automated response
    - If they want a private tour: escalate pricing discussion to owner
 4. Once group confirms: create the booking in FareHarbor manually
-5. GHL will pick up the booking via webhook and run the normal pre-tour sequence
-6. Log the group in GHL pipeline — update their stage as the booking progresses
+5. The CRM will pick up the booking via webhook and run the normal pre-tour sequence
+6. Log the group in the CRM pipeline — update their stage as the booking progresses
 
 ---
 
@@ -281,16 +281,16 @@ Group inquiries still require a human. Automation captures the lead — you conv
 These are shorter now because automation handles the volume. Focus on system health and exceptions.
 
 ### Monday Morning System Check (30–45 minutes)
-1. [ ] Review GHL workflow activity log for the past 7 days — note any failures
+1. [ ] Review the CRM workflow activity log for the past 7 days — note any failures
 2. [ ] Review chatbot conversation logs — identify any questions the bot answered incorrectly or escalated unnecessarily
 3. [ ] Check for any inbound references to "405 Frenchmen" or old address — investigate the source if multiple instances appear
 4. [ ] Compile chatbot update list: questions to add, answers to revise
-5. [ ] Update chatbot FAQ in GHL if you have 3+ items (if 1–2 items, batch them for the next week)
+5. [ ] Update chatbot FAQ in the CRM if you have 3+ items (if 1–2 items, batch them for the next week)
 
 ### Booking Audit (Mid-week)
 1. [ ] Open FareHarbor — review all bookings for the next 14 days
 2. [ ] Verify guide assignments and shuttle flags (especially third-party bookings)
-3. [ ] Confirm GHL pre-tour sequences are active for all upcoming bookings
+3. [ ] Confirm the CRM pre-tour sequences are active for all upcoming bookings
 4. [ ] Check for any group or private bookings in the pipeline that need follow-up
 5. [ ] **Check extended tour participant counts** for the next 7 days — flag any that are close to minimum threshold so you're not surprised at 4pm
 
@@ -299,7 +299,7 @@ These are shorter now because automation handles the volume. Focus on system hea
 2. [ ] Log review count and star rating trend for monthly owner summary
 
 ### Guide Compliance Dashboard
-1. [ ] Open GHL compliance dashboard
+1. [ ] Open the CRM compliance dashboard
 2. [ ] Review expiry alerts: CPR certs, driver's licenses, Louisiana guiding permits
 3. [ ] For any expiry within 60 days: contact guide directly and request updated documentation
 4. [ ] Do not assign out-of-compliance guides to tours
@@ -314,21 +314,21 @@ These are shorter now because automation handles the volume. Focus on system hea
 ## Monthly Tasks
 
 ### System Health Review (First week of each month)
-1. [ ] Pull GHL workflow success/failure report for the past 30 days
+1. [ ] Pull the CRM workflow success/failure report for the past 30 days
 2. [ ] Calculate automation delivery rate: what % of pre-tour sequences completed without failure?
 3. [ ] Identify the top 3 recurring failure types and address the root cause
 4. [ ] Review chatbot performance: How many conversations handled by bot vs. escalated? What's the escalation rate? Target: under 20%
 5. [ ] Test key workflows manually: book a test reservation (or use a sandbox) and verify the full sequence fires correctly
 6. [ ] Report system health summary to owner
 
-### GHL Contact List Audit (Monthly)
+### CRM Contact List Audit (Monthly)
 1. [ ] Check for duplicate contacts and merge them
 2. [ ] Remove or archive contacts who are opted out or invalid
 3. [ ] Confirm all active guides are tagged correctly and receiving the right automations
 4. [ ] Confirm new leads from the past month are in the correct pipeline stages
 
 ### Monthly Email Campaign Review
-1. [ ] Review the scheduled email campaign for next month in GHL — does it need any content updates?
+1. [ ] Review the scheduled email campaign for next month in the CRM — does it need any content updates?
 2. [ ] Check open rate and click rate from the previous month's campaign
 3. [ ] If open rate is below 20%: flag to owner; consider subject line or send-time adjustment
 4. [ ] Forward performance data to owner in monthly summary
@@ -355,13 +355,13 @@ Send owner a brief report covering:
 6. [ ] Notify owner of submission
 
 ### Seasonal Campaign Review (with Owner)
-1. [ ] Review GHL scheduled campaigns for the upcoming season
+1. [ ] Review the CRM scheduled campaigns for the upcoming season
 2. [ ] Update content for seasonal relevance (spring, fall, holiday, local events)
 3. [ ] Confirm automation trigger timing is appropriate for the tour schedule
 
-### GHL Full Audit
+### CRM Full Audit
 1. [ ] Review all active workflows — are any outdated or no longer needed?
-2. [ ] Confirm all FareHarbor → GHL webhooks are functioning correctly
+2. [ ] Confirm all FareHarbor → CRM webhooks are functioning correctly
 3. [ ] Test guide compliance dashboard alerts
 4. [ ] Review and update chatbot FAQ for any seasonal or product changes (pricing, new tours, hours)
 5. [ ] Audit chatbot address references — confirm no references to old 405 Frenchmen St. remain

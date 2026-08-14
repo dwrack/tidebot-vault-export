@@ -46,4 +46,4 @@ This playbook captures how Door County Kayak Tours actually runs — the vendors
 - [[Bella — Business Manager]] — Bella's scope, access checklist, open items
 - [[HR System Comparison — Homebase vs Rippling vs BambooHR]] — HR decision
 - [[Operations/DCKT — Guide Training & Customer Journey Playbook]] — customer experience philosophy
-- [[Operations/DCKT — GHL Automation Workflows Spec]] — GHL guide/customer automations
+- [[Operations/DCKT — Automation Workflows Spec]] — CRM guide/customer automations
