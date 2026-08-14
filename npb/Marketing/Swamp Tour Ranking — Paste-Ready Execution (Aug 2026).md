@@ -7,9 +7,11 @@
 
 ---
 
-## Where we actually stand (verified live 2026-08-14)
+## Where we actually stand (verified live 2026-08-14, corrected after a SERP check)
 
-We *do* rank. GSC, last 90 days, `sc-domain:nolapartybarges.com`:
+> **Correction, 2026-08-14.** An earlier version of this doc said "we rank #7.5." That's the number GSC reports, but it does not mean we hold a stable page-1 spot. David checked live and found us nowhere on page 1 or 2. Both are true, and the reconciliation is in "Why you don't see us" below. **The honest read is that we qualify for this SERP maybe 1 search in 10-30, mostly on mobile.** Read that section before the tables.
+
+GSC, last 90 days, `sc-domain:nolapartybarges.com`:
 
 | Query | Clicks | Impressions | CTR | Position |
 |---|---|---|---|---|

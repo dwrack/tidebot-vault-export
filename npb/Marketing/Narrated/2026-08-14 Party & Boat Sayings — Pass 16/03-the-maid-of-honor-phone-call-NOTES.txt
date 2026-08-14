@@ -1,0 +1,15 @@
+PIECE 03 — Storyline / heartfelt lane — "The Maid of Honor Phone Call"
+Voice: EL-Lily (ElevenLabs)   Music: Kermit Ruffins-style warm trad-jazz, low under narration (clearance unconfirmed)   Length: 27.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Two days before the cruise, the deckhand calls the maid of honor.         [Shannon on the phone, notepad in hand, marina in background]
+ 3.0s  "What would make this perfect for her?"                                  [Shannon speaking into phone, on-screen text overlay of quote]
+ 5.6s  Not "any dietary restrictions." Just that.                               [Shannon listening intently, taking notes]
+ 8.2s  Turns out the bride's college roommate couldn't make the trip.           [text-message-style graphic: a voice memo icon]
+11.4s  She recorded a toast anyway. Sent it over.                               [Shannon holding up a phone, playing back audio, nodding]
+14.6s  Nobody tells the bride.                                                  [Shannon tucking the phone away, group boarding, bride oblivious]
+17.0s  Forty minutes in, the deckhand hits play.                                [phone connected to the boat speaker, Shannon nodding to another crew member]
+20.0s  The bride hears her roommate's voice over the bayou.                     [bride's face changing, recognition, hand over mouth]
+23.6s  That's not a scripted moment. That's just somebody who asked the right question first.  [wide shot: group hugging bride, sunset, boat gliding]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? HARD FLAG: confirm the "call the MOH two days out" practice is real or becomes real before shooting — see production flag in master doc. The recorded-roommate-toast story is illustrative, not a claim about one real trip, unless ops has an actual one to swap in.

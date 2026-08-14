@@ -1,0 +1,15 @@
+PIECE 44 — Funny/Quotable lane — Deck-hand slang / Running joke — "The Safety Briefing Nobody Listens To (Until...)"
+Voice: voice-en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: upbeat comedic pop bed, small horn-stab on line 4   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  I give the same safety briefing every trip.                             [Deckhand mid-briefing, guests half-listening, chatting]
+ 2.6s  Life jackets, exits, the usual.                                         [close on guests nodding, still a little distracted]
+ 5.2s  Half the boat's on their phone until I get to one line.                 [wide shot, phones out]
+ 8.0s  "And yes, there's a real bathroom."                                     [Deckhand pointing, guests suddenly fully attentive, laughing]
+11.4s  Every head turns. Every single time.                                    [group laughing, phones down now]
+
+On-screen text: Hook = "EVERY HEAD TURNS AT THE SAME LINE." | Body = "'yes, there's a real bathroom'" | CTA: houstonpedalbarge.com.
+
+NOTE: capture the real, full safety briefing on a real departure — this reuses actual operational content, not staged safety theater.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

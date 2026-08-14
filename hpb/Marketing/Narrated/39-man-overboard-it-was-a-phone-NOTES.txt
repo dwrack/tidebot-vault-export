@@ -1,0 +1,15 @@
+PIECE 39 — Funny/Quotable lane — Running joke / Mock-drama — "Man Overboard (It Was Just a Phone)"
+Voice: EL-Daniel ("The Announcer," recurring, played dead straight)   Music: faux-dramatic orchestral sting snapping into party bed on the reveal   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Man overboard.                                                           [Announcer voice, dead serious, deck goes quiet, everyone turns]
+ 2.4s  This is not a drill.                                                     [close-up on the Announcer's stern face]
+ 4.6s  It was a phone. It was somebody's phone.                                 [reveal: guest fishing a phone off the deck/out of a net, relief on faces]
+ 8.2s  The phone did not make it. The group chat has never recovered.           [wide shot, mock moment of silence, someone holding up a cracked/dead phone]
+12.0s  We salute you, Kyle's iPhone.                                            [group raising cups in mock salute]
+
+On-screen text: Hook = "MAN OVERBOARD. IT WAS A PHONE." | Body = "we salute you, Kyle's iPhone" | No CTA.
+
+NOTE: use a prop/dead phone for the "rescued" insert — don't risk an actual working device near water.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

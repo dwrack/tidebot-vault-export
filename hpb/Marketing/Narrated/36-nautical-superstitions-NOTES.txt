@@ -1,0 +1,13 @@
+PIECE 36 — Funny/Quotable lane — Deck-hand slang / Boat lore — "Nautical Superstitions, Deckhand Edition"
+Voice: EL-Brian ("Mama Tried's voice," recurring)   Music: low/ominous bed resolving to warm party bed by the last line   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  Every boat's got superstitions. Ours has three.                          [moody low-light shot of Mama Tried's black-and-gold hull]
+ 3.0s  No bananas on board. Don't ask, just don't.                              [guest sheepishly putting a banana back in a bag]
+ 6.4s  No whistling on deck. Old sailors said it calls up wind.                 [wind picking up, hair whipping, someone mid-whistle stopping]
+10.2s  And no leaving before the last toast.                                    [group raising cups together]
+13.0s  That one we made up. Still not breaking it.                              [wide shot, whole boat toasting, laughing]
+
+On-screen text: Hook = "NO BANANAS. NO WHISTLING. NO LEAVING EARLY." | Body = "that one we made up" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

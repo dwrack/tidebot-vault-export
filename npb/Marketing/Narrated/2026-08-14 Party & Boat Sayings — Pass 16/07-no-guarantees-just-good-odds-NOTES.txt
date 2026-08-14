@@ -1,0 +1,14 @@
+PIECE 07 — Practical / myth vs reality lane — "No Guarantees, Just Good Odds"
+Voice: EL-Brian (ElevenLabs)   Music: Sweet Crude-style atmospheric bed, calm (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Are we definitely going to see a gator?" Every guide gets asked this.   ["guest boarding, one turning to ask the guide]
+ 3.0s  Guide's got the same honest answer, every time.                         [guide pausing, thinking for half a second]
+ 5.4s  "No guarantees. Just really good odds."                                 [guide's line, on-screen text overlay of quote]
+ 8.2s  Nobody loves that answer at the dock.                                   [guests exchanging a slightly skeptical glance]
+10.4s  By the far side of the bayou, nobody's still counting.                  [wide shot: gator sliding past, guests relaxed, not tallying]
+14.0s  Turns out good odds were plenty.                                        [guests smiling, watching the water, at ease]
+16.4s  The guide never once oversold it.                                       [guide glancing back, small knowing smile]
+18.8s  That's kind of the whole point of an honest answer.                     [closing wide shot: boat gliding through black water, golden light]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? Confirm with the naturalist guides that this is close to their real answer before locking the line.

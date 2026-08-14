@@ -1,0 +1,14 @@
+PIECE 11 — Heartfelt / practical lane — "The Guest Who Almost Didn't Come"
+Voice: EL-EchoRae (ElevenLabs — poetic-lane voice, used here for a heartfelt/practical piece instead, deliberate range choice)   Music: Jon Cleary-style solo piano, warm (clearance unconfirmed)   Length: 26.5s
+
+SCRIPT (timed to narration):
+ 0.0s  She almost canceled the morning of. Gators were the problem.             [guest at the dock, hesitant, arms crossed]
+ 3.0s  "I'm terrified. I don't know if I can do this."                         [guest's line, on-screen text overlay of quote]
+ 6.6s  Guide didn't talk her out of being scared.                               [guide nodding, listening, no forced reassurance]
+ 9.0s  "Sit up front. You'll see them before they see you."                    [guide's practical line, guest considering it]
+12.6s  She sat up front. White-knuckled the rail for ten minutes.               [guest gripping the rail, tense but staying]
+16.4s  Then a gator drifted by, unbothered, and kept going.                     [gator sliding past calmly, guest's posture relaxing]
+19.8s  Somewhere past the halfway point, her hands came off the rail.           [guest's hands loosening, leaning forward with interest]
+23.4s  Fear's usually just a lack of information.                              [closing wide shot: guest relaxed, golden light, boat gliding]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? Strongest as a real guest's real arc, not scripted with actors — flag in #crew-content if a genuinely nervous guest visibly turns around on a real tour, with consent to use it.

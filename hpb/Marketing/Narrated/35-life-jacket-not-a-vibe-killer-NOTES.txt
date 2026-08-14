@@ -1,0 +1,13 @@
+PIECE 35 — Funny/Quotable lane — Captain-line / Objection-kill — "Life Jacket, Not a Vibe Killer"
+Voice: EL-George ("The Old Salt," recurring)   Music: low commercial-library bed, mostly out of the way   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, somebody complains the life jacket doesn't match their outfit.   [Old Salt holding up a life jacket, deadpan]
+ 3.0s  I've heard every argument. None of them have worked yet.                     [guest posing dramatically in a life jacket, laughing]
+ 6.2s  It's not a fashion accessory. It's the one rule that isn't a joke.            [close on Old Salt's face, one serious beat]
+ 9.6s  Everything else on this boat, we're flexible.                                [wide shot, party in full swing, relaxed energy]
+12.6s  Not that.                                                                    [Old Salt tossing a jacket to a guest, half-smile, guest putting it on]
+
+On-screen text: Hook = "IT DOESN'T MATCH YOUR OUTFIT. WEAR IT ANYWAY." | Body = "the one rule that isn't a joke" | CTA: houstonpedalbarge.com.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

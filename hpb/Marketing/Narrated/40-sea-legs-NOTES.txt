@@ -1,0 +1,13 @@
+PIECE 40 — Funny/Quotable lane — Running joke / Mock-documentary — "Sea Legs"
+Voice: voice-en-US-RogerNeural ("Corporate/mock-formal voice," recurring, free tier)   Music: mock-serious orchestral/documentary bed, played completely straight   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There is a scientific transition every guest goes through.               [mock-documentary tone, guest stepping off the boat onto the dock]
+ 3.0s  It's called sea legs.                                                    [close on someone wobbling slightly on the dock]
+ 5.0s  You spend two hours adjusting to the water.                              [wide shot, boat rocking gently on the lake]
+ 7.6s  Then you spend five minutes relearning how pavement works.               [guest stumbling slightly, laughing at themselves]
+11.2s  We are not responsible for how funny that looks on video.                [group laughing, filming on phones]
+
+On-screen text: Hook = "WE ARE NOT RESPONSIBLE FOR HOW FUNNY THIS LOOKS." | Body = "sea legs: a scientific transition" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

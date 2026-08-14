@@ -1,0 +1,14 @@
+PIECE 10 — Storyline / funny-deadpan lane — "Same Bayou, Never the Same Tour"
+Voice: EL-Eric (ElevenLabs)   Music: Sweet Crude-style atmospheric bed, kept plain (clearance unconfirmed)   Length: 25.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Guide's run this same route probably four thousand times.                [guide at the helm, familiar and relaxed, route ahead]
+ 3.0s  Ends every tour with the exact same line.                                [guide turning slightly toward the group, about to speak]
+ 5.4s  "Same bayou tomorrow. Won't be the same tour."                           [guide's line, on-screen text overlay of quote]
+ 8.6s  Sounds like a slogan. It's actually just true.                           [wide shot: an animal visible today, different from prior days implied]
+11.4s  Yesterday it was a mother gator with three babies on her back.           [gator with hatchlings — real footage or stock, do not stage]
+15.4s  Today it's a barred owl nobody expected to see in daylight.              [owl perched, guide pointing, guests surprised]
+18.8s  Tomorrow, the guide genuinely doesn't know. Neither does anyone else.    [guide shrugging, honest, small smile]
+22.2s  That's not a tagline. That's just Tuesday out here.                      [closing wide shot: boat gliding, ordinary daylight, not overly golden]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? Wildlife beats (mother gator, owl) need real or stock footage, never staged or baited.

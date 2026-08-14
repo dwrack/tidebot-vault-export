@@ -1,0 +1,13 @@
+PIECE 46 — Funny/Quotable lane — Running joke / Ride home — "The One Who Falls Asleep First"
+Voice: EL-Eric ("The Captain," recurring)   Music: party bed ducked low for contrast   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Every ride back, somebody's out before we hit the no-wake zone.         [guest slumped, sunglasses on, asleep]
+ 3.0s  Doesn't matter how loud the music is.                                   [music visibly playing, guest undisturbed]
+ 5.6s  Doesn't matter whose shoulder they're using.                            [close on guest asleep on a stranger's shoulder, both fine with it]
+ 9.0s  We just let them ride it out.                                          [wide shot, group letting them sleep, laughing quietly]
+12.0s  They'll deny it in the group chat tomorrow.                            [Captain smirking at camera]
+
+On-screen text: Hook = "OUT BEFORE THE NO-WAKE ZONE." | Body = "they'll deny it in the group chat tomorrow" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

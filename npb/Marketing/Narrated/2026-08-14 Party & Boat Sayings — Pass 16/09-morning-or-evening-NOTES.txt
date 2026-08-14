@@ -1,0 +1,14 @@
+PIECE 09 — Practical / FAQ lane — "Morning or Evening"
+Voice: voice-en-GB-RyanNeural (free tier)   Music: near-silent, ambient swamp carries most of it   Length: 26.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Morning tour or evening tour?" Guide's got a real answer, not a sales pitch.  [guest asking at check-in, guide considering the question honestly]
+ 3.6s  "Morning's quieter. Cooler air, less boat traffic, animals just waking up."    [wide morning shot: mist on the water, calm]
+ 7.8s  "Evening's louder in the best way. Gold light, gators moving to feed."         [wide evening shot: golden light, gator surfacing]
+12.0s  Guide won't tell you which one's better.                                       [guide shrugging, genuinely neutral]
+14.2s  "Depends what you want more: quiet or gold light."                             [guide's line, on-screen text overlay of quote]
+17.6s  Most first-timers pick evening for the photos.                                 [guests boarding for a sunset departure]
+20.0s  Most people who come back a second time pick morning.                          [same guests, implied return trip, quieter morning boarding]
+23.0s  Either way, it's the same bayou. Just a different mood.                        [closing wide shot: boat gliding, transition-style light]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? HARD FLAG: confirm the eco tour actually runs both a morning and an evening departure before shooting — schedule isn't confirmed in Brand Story & Values. If only one slot runs, rewrite around the real schedule.

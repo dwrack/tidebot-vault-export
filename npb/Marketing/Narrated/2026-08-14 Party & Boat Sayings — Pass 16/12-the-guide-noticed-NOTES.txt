@@ -1,0 +1,14 @@
+PIECE 12 — Heartfelt / quiet gesture lane — "The Guide Noticed"
+Voice: voice-en-US-BrianNeural (free tier)   Music: warm, near-silent, ambient swamp carries most of it   Length: 27.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Guest mentions, offhand, she just finished treatment. Doesn't make a thing of it.  [guest talking casually to another guest, guide nearby, overhearing]
+ 3.6s  Guide doesn't make a thing of it either. Not out loud.                            [guide's expression, quiet acknowledgment, no interruption]
+ 6.6s  Not long after, he steers a little closer to the best heron spot on the route.     [boat adjusting course slightly, heron visible ahead]
+11.0s  Doesn't announce why. Just does it.                                                [guide steady at the helm, no explanation given]
+13.2s  She gets the longest, clearest look at a heron all tour.                           [guest watching intently, heron standing still, good light]
+16.6s  At the dock, she thanks him. He just says, "Glad you got to see that one."          [guide's line, on-screen text overlay of quote]
+20.6s  Doesn't mention what he heard earlier. Doesn't need to.                            [guide nodding, guest walking off, small genuine smile]
+23.6s  That's the whole gesture. Nobody films it on purpose.                              [closing wide shot: boat idle at dock, golden light, quiet]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? HARD FLAG: depends on a guest disclosing something personal (illness, loss, a hard year) and being explicitly, specifically okay with that being referenced in marketing content — a general "okay to film" waiver at booking is not enough here. Without that specific consent, ships as a general illustration (composite), not a claim about one real guest.

@@ -1,0 +1,13 @@
+PIECE 45 — Funny/Quotable lane — Deck-hand slang / Running joke — "Emotional Support Cooler"
+Voice: EL-Brian ("Mama Tried's voice," recurring)   Music: low, dry comedic bed, restrained until the last two lines   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one person attached to the cooler.                    [guest sitting directly next to the cooler, arm resting on it]
+ 2.8s  Won't let anyone else carry it. Won't let anyone else open it.          [close on a hand protectively on the cooler lid]
+ 5.8s  We've started calling it the emotional support cooler.                  [deadpan wide shot]
+ 9.0s  It's doing great work out here.                                        [guest patting the cooler affectionately, group laughing]
+11.8s  So is he.                                                              [guest raising a drink, grinning]
+
+On-screen text: Hook = "THE EMOTIONAL SUPPORT COOLER." | Body = "it's doing great work out here" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

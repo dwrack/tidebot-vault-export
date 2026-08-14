@@ -1,0 +1,13 @@
+PIECE 47 — Funny/Quotable lane — Running joke / Closer-adjacent — "The 'We Should Do This Every Month' Promise"
+Voice: EL-Lily ("Delta Dream's voice," recurring)   Music: warm, gentle bed, wistful resolving to bright   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip ends with the same promise.                                  [group hugging goodbye on the dock]
+ 2.6s  "We need to do this every month."                                       [text bubble graphic: "same time next month??"]
+ 5.2s  Nobody's ever done it every month.                                      [calendar graphic, months passing, empty]
+ 8.0s  Somebody's always planning the next one anyway.                         [phone screen, new group chat being created]
+10.8s  That's the whole cycle. We're fine with it.                             [wide shot, boat at the dock, golden light]
+
+On-screen text: Hook = "'WE SHOULD DO THIS EVERY MONTH.'" | Body = "nobody's ever done it every month" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

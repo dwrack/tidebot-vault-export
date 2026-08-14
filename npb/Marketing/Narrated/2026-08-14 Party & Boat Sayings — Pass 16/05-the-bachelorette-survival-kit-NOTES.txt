@@ -1,0 +1,14 @@
+PIECE 05 — Funny / heartfelt, prop lane — "The Bachelorette Survival Kit"
+Voice: EL-Jessica (ElevenLabs)   Music: bounce/Big Freedia-style upbeat bed (clearance unconfirmed)   Length: 26.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every bride gets a small bag at the dock. Nobody explains it upfront.     [deckhand handing bride a small drawstring bag, quick smile]
+ 3.0s  Advil. A hair tie. Mini sunscreen. A koozie that says "Bride."            [close-up: items being pulled out one by one]
+ 6.6s  And a note: "You're about to have the best day. We've got you."          [note card close-up, on-screen text overlay of the quote]
+ 9.8s  Hour one, she laughs it off. Sets the bag aside.                         [bride tossing the bag onto a bench, back to the party]
+12.6s  Hour two, sun's brutal, she's digging through it for the sunscreen.      [bride rifling through the bag, applying sunscreen]
+16.0s  Hour three, a blister's happening, and there's the Band-Aid she didn't know she needed.  [close-up: bride applying a Band-Aid, laughing at herself]
+19.8s  By the end, somebody's asking where they can get one of these bags for themselves.  [friend eyeing the bag, half-serious request]
+23.4s  The boat people were right. Every time.                                  [closing shot: bride holding up the koozie, group laughing, boat pulling into dock]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? Sourced from Unreasonable Hospitality idea #42 (bag costs under $5 per that doc's own estimate) — confirm kits are actually assembled and handed out before this ships as fact.

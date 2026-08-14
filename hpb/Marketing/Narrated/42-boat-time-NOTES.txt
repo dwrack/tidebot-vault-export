@@ -1,0 +1,14 @@
+PIECE 42 — Funny/Quotable lane — Running joke / Group-chat culture — "Boat Time"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: light comedic pop bed, small tempo lift on line 5   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody in the group chat is always fifteen minutes out.                [phone screen, text bubble: "omw!!"]
+ 2.6s  Every single trip. Different person, same lie.                          [guests waiting at the dock, checking phones]
+ 5.4s  We started calling it boat time.                                        [Groomsman shrugging, half-smile, direct to camera]
+ 8.0s  Boat time means whatever you want it to mean.                           [wide shot, boat waiting patiently at the dock]
+11.0s  The boat's still leaving on time, though.                               [engine starting, a guest jogging up just in time]
+14.0s  Don't test it.                                                          [boat pulling away from the dock]
+
+On-screen text: Hook = "WE CALL IT BOAT TIME." | Body = "don't test it" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

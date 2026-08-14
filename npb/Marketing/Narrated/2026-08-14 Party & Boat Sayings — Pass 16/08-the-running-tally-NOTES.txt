@@ -1,0 +1,15 @@
+PIECE 08 — Funny / informational, game lane — "The Running Tally"
+Voice: EL-George (ElevenLabs)   Music: Preservation Hall-style quiet trad-jazz, upbeat pockets (clearance unconfirmed)   Length: 27.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Guide starts every tour with the same challenge.                        [guide addressing the group, playful tone]
+ 2.2s  "Count everything. I'll keep you honest at the end."                    [guide's line, on-screen text overlay of quote]
+ 5.0s  Gator sightings get shouted out immediately.                            [guest pointing, calling out "gator!" excitedly]
+ 7.4s  Turtles get an argument about whether they count.                       [guests debating, gesturing at a turtle on a log]
+10.2s  One guest starts counting herons separately. Nobody asked her to.       [guest with fingers up, tallying under her breath]
+13.8s  By the dock, three different people have three different totals.        [guests comparing numbers, mild disagreement, laughing]
+17.4s  Guide settles it with the only number that matters.                     [guide holding up both hands for quiet, comedic pause]
+20.0s  "Final count: enough that you'll be telling this story tonight."        [guide's closing line, on-screen text overlay of quote]
+23.6s  Nobody's ever disputed that math.                                       [closing wide shot: group laughing, boat approaching dock, golden light]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? Confirm whether any guides already run an informal count-along, or treat this as the pitch to start one.

@@ -1,0 +1,13 @@
+PIECE 33 — Funny/Quotable lane — Captain-line / Running joke — "First Mate for the Day"
+Voice: EL-Eric ("The Captain," recurring)   Music: light acoustic/ukulele pop bed, playful   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, I pick one person to be First Mate.                          [Captain scanning the deck, a few guests half-raising hands]
+ 2.8s  Congratulations. You now outrank everyone but me.                        [Captain pointing at a random guest, guest reacting surprised]
+ 5.6s  Your one job is holding this rope and looking important.                 [close on guest holding a dock line, trying to look serious]
+ 9.0s  Nobody's ever actually done anything with it. Doesn't matter.            [wide shot, First Mate posing, group laughing]
+12.4s  The title's the whole gift.                                              [Captain walking off, First Mate still holding the rope proudly]
+
+On-screen text: Hook = "CONGRATULATIONS. YOU OUTRANK EVERYONE BUT ME." | Body = "the title's the whole gift" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

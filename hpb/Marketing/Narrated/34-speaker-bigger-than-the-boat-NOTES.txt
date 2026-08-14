@@ -1,0 +1,13 @@
+PIECE 34 — Funny/Quotable lane — Deck-hand slang / Running joke — "The Speaker Bigger Than the Boat"
+Voice: voice-en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: upbeat trap-pop hybrid, ~100 BPM   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  We've got a full sound system built into this boat.                      [wide shot, boat's built-in speakers and party lights visible]
+ 2.4s  Somebody still brings their own speaker every single time.               [guest hauling a large portable speaker down the dock]
+ 5.2s  Bigger than the boat's. Louder than the boat's.                          [close on the oversized speaker set right next to the boat's own system]
+ 8.0s  We just plug it in and let it happen.                                    [Deckhand shrugging, plugging it in, grinning]
+11.0s  Respect the hustle.                                                      [guests dancing, big speaker blasting, party in full swing]
+
+On-screen text: Hook = "HE BROUGHT A SPEAKER BIGGER THAN THE BOAT" | Body = "we just plug it in" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,15 @@
+PIECE 04 — Warm / funny, closing lane — "Bride Goes Last"
+Voice: voice-en-US-RogerNeural (free tier)   Music: Soul Rebels-style brass-funk, easing down   Length: 26.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every bachelorette gets off the boat the same order.                     [group approaching the dock, bride still seated]
+ 2.4s  Everybody else first.                                                    [friends stepping off one by one, waving]
+ 4.6s  Bride waits.                                                             [bride seated, watching her friends line up on the dock]
+ 6.2s  Whole group lines up on the dock before she's allowed to move.           [wide shot: friends forming a line, phones out, cheering]
+ 9.4s  Nobody told her that's the rule. It's not written anywhere.              [bride glancing around, confused but smiling]
+12.6s  Captain just holds a hand out. "You're last. On purpose."                [captain extending a hand, on-screen text overlay of quote]
+16.4s  She steps off to the whole group cheering.                               [bride stepping onto the dock, group erupting, phones filming]
+19.6s  Every bride cries at least a little. Good tears, every time.              [bride laughing through tears, hugging the nearest friend]
+23.0s  That's the last five seconds of the trip. Also the best five.            [closing wide shot: group hugging on the dock, golden hour]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? Sourced from Unreasonable Hospitality idea #49 — confirm captains actually do this or are willing to adopt it before shooting as an established ritual.

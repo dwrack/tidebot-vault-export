@@ -1,0 +1,13 @@
+PIECE 38 — Funny/Quotable lane — Toast — "Toast to the Guy Who Didn't Want to Come"
+Voice: EL-Sarah ("Sarah," recurring toast voice)   Music: warm acoustic-pop bed, builds slightly on the toast line   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's always one person who almost didn't come today.                  [wide shot, one guest looking out at the water, relaxed]
+ 3.2s  Had a whole list of reasons. Work, money, "boats aren't really my thing."    [close on the guest, small smile]
+ 7.0s  Look at him now.                                                         [same guest laughing hard with the group, drink in hand]
+ 9.6s  So here's to whoever almost stayed home.                                 [Sarah raising a cup, camera on her]
+12.6s  Glad you didn't listen to yourself.                                      [group cheers, cups raised, golden light]
+
+On-screen text: Hook = "HERE'S TO WHOEVER ALMOST STAYED HOME." | Body = "glad you didn't listen to yourself" | No CTA.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
