@@ -1,0 +1,7 @@
+# Instagram Saved → Content Engine pipeline (see .claude/skills/ig-saved-export)
+# The scraped export is data, and the cached IG login must never be committed.
+saved_posts.json
+**/saved_posts.json
+ig-user-data/
+**/ig-user-data/
+node_modules/

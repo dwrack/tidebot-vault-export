@@ -1,0 +1,5 @@
+# Never commit the logged-in Instagram browser session
+ig-user-data/
+# Scraped output is data, not code — keep it in the vault's Content Engine folder instead
+saved_posts.json
+node_modules/
