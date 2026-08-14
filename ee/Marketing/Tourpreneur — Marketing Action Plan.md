@@ -14,7 +14,7 @@
 - [ ] **Reduce homepage CTAs to 2 maximum** (GC05)
 - [ ] **Move social proof above the fold**: best review or testimonial visible before scrolling (GC05)
 - [ ] **List most expensive package first** on website — couple's session / premium package (GROW02)
-- [ ] **Sign up for HARO** — scan for: wellness travel, sauna culture, cold plunge, Nordic lifestyle, Wisconsin travel (GC07)
+- [ ] **Sign up for HARO** — scan for: wellness travel, sauna culture, cold plunge, Nordic lifestyle, Portland/Oregon travel (GC07)
 
 ---
 
@@ -23,7 +23,7 @@
 ### Brand Strategy (Most Urgent Gap)
 - [ ] **Create a one-page brand brief** (highest priority across all businesses): positioning statement, 5 tone adjectives, color direction, photography style — every future vendor gets this document (GC12)
 - [ ] **Write 5 brand adjectives**: restorative, Nordic, intentional, water-connected, slow — then audit all current copy and social against them (VL01)
-- [ ] **Write a positioning statement**: "The floating sauna — a Nordic ritual on Wisconsin water" (VL01)
+- [ ] **Write a positioning statement**: "The floating sauna — a Nordic ritual on the Willamette" (VL01)
 - [ ] **Create a mood board on Pinterest** (20+ images): Finnish Sauna Society, Thermory (sauna brand), Kinfolk magazine, cold Nordic landscapes (GC12)
 - [ ] **Create a one-page tone-of-voice document**: personality adjectives, example paragraph, what E&E does and does NOT sound like (GC04)
 
@@ -46,10 +46,10 @@
 - [ ] **Host on-camera intro video**: 90 seconds explaining the Nordic sauna ritual — filmed at the sauna (LIVE16)
 - [ ] **Create a lead magnet PDF**: "Your First Nordic Sauna Ritual — A Complete Guide" — add to website and Instagram bio (GGA-01, DEMAND)
 - [ ] **Start a YouTube channel** focused on Nordic sauna education — "What is Nordic sauna bathing?", "Cold plunge guide for beginners" — underserved niche, high search volume (GGA-01)
-- [ ] **Sign up for TubeBuddy** — find keyword opportunities for "Nordic sauna," "cold plunge benefits," "floating sauna Wisconsin" (GGA-01)
+- [ ] **Sign up for TubeBuddy** — find keyword opportunities for "Nordic sauna," "cold plunge benefits," "floating sauna Portland" (GGA-01)
 
 ### Technical SEO
-- [ ] **Check if E&E website is WordPress** — if yes: install AltText.ai, run bulk generation with keywords: "Nordic floating sauna," "Ebb and Ember," "cold plunge," "sauna Wisconsin," "wellness ritual" (HACK02)
+- [ ] **Check if E&E website is WordPress** — if yes: install AltText.ai, run bulk generation with keywords: "Nordic floating sauna," "Ebb and Ember," "cold plunge," "sauna Portland," "wellness ritual" (HACK02)
 - [ ] **Audit website photography**: do all images have consistent style/editing? Identify any that break the visual brand (GC12)
 
 ---
@@ -70,7 +70,7 @@
 
 ### Media & PR
 - [ ] **Identify 3 wellness/lifestyle journalists** (Well+Good, Byrdie, Men's Health, Outside) who cover sauna/cold plunge — read their recent article; send personalized outreach (GC07)
-- [ ] **Identify Wisconsin regional press targets**: Wisconsin State Journal, Milwaukee travel/lifestyle publications, Wisconsin outdoor publications (GC07)
+- [ ] **Identify Oregon regional press targets**: The Oregonian, Portland Monthly, Willamette Week, PDX/Oregon outdoor & lifestyle publications (GC07)
 - [ ] **Trend attachment pitch**: "Cold plunge and sauna culture is exploding — we've been doing it the traditional Nordic way on the water" (GC07)
 - [ ] **Invite one local wellness journalist or blogger** for a complimentary session + content day (GC07)
 
@@ -91,7 +91,7 @@
 
 ## 📊 Monthly Recurring Actions
 
-- [ ] **Facebook Ad Library check** (30 min, first Monday): sauna competitors, cold plunge brands, Wisconsin wellness operators (HACK01)
+- [ ] **Facebook Ad Library check** (30 min, first Monday): sauna competitors, cold plunge brands, Portland/PNW wellness operators (HACK01)
 - [ ] **HARO scan** (15 min/day): wellness travel, sauna culture, cold plunge, Nordic lifestyle requests (GC07)
 - [ ] **Content batch day** (4 hours/month): 30 days of short-form social content (CON-S14)
 
