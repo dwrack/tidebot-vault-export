@@ -23,7 +23,39 @@ GSC, last 90 days, `sc-domain:nolapartybarges.com`:
 | swamp tour (generic) | 3 | 346 | 0.87% | 18.7 |
 | swamp tours (generic) | 3 | 331 | 0.91% | 28.3 |
 
-All of it lands on `/`. Position 7.5 is a real page-1 foothold, but it only surfaces on about one search in five (see the appearance-rate analysis in the first audit). The job is not "start ranking." The job is **go from intermittent #7 to stable #3-5**.
+All of it lands on `/`.
+
+### Why you don't see us (the reconciliation)
+
+GSC "position" is the average **only across searches where we appeared at all**. It says nothing about how often we appear. Those are two different numbers and the second one is the problem.
+
+**Last 14 days, US, the four head-term variants combined:**
+
+| Device | Impressions | Clicks | CTR | Avg position |
+|---|---|---|---|---|
+| Mobile | 234 | 11 | 4.70% | **8.4** |
+| Desktop | 75 | 3 | 4.00% | **1.28** |
+| Tablet | 3 | 0 | 0% | 7.3 |
+
+Two things jump out.
+
+**1. It's a mobile ranking.** 75% of impressions are mobile at position 8.4 — the bottom of page 1, below the local pack, the ads, and the tour-aggregator block. On a desktop SERP, that content is pushed further down or replaced entirely.
+
+**2. The desktop "position 1.28" is almost certainly personalized, not competitive.** A generic head term does not average position 1.28 for a site that doesn't appear on page 1-2 of a clean search. Google heavily promotes sites you've previously visited. 75 impressions over 14 days at position ~1 is the signature of **us, our crew, and past customers** searching — not new demand. Don't count it.
+
+**3. The appearance rate is the real number, and it's bad.** ~312 impressions over 14 days = **~22/day** across all four variants. Against the audit's corrected volume for those terms (roughly 7,000-19,000/mo combined, or 230-630/day), that's an appearance rate of **3-10%**. We show up in something like one search in ten to one in thirty.
+
+So: a clean desktop search from an office in Houston or New Orleans will usually show nothing, exactly as observed. The two live SERP pulls in the first audit that found nothing in the top 20 were not wrong either.
+
+**What is genuinely real:** 14 clicks in 14 days on those terms, and a 4.7% mobile CTR, which is *above* the normal curve for position 8 (typically 1.5-2.5%) — the review stars from the injected Product schema are doing work. Real people are finding and clicking us. There just aren't many of them.
+
+### What this changes about the plan
+
+Nothing in the fix list changes. The framing does:
+
+- **The prize is the appearance rate, not the position.** Going from 5% appearance to 60% at the same position 8 is a 12x increase. Going from position 8 to position 5 at a 5% appearance rate is worth almost nothing. Fix qualification first.
+- **This makes the entity problem the whole ballgame, not a nice-to-have.** We aren't being ranked 8th out of 10 relevant results. We're mostly not being considered a swamp tour operator at all, so we only surface when the query is unusually loose or the searcher is personalized toward us. That is precisely what a site titled "New Orleans Pedal Barge," with zero swamp-tour backlink anchors and 861 words on its money page, would look like.
+- **Do not report this as "we rank #7.5" to anyone.** Report it as "we intermittently surface at the bottom of page 1 on mobile, in under 10% of searches."
 
 ### What's actually holding it at 7
 
