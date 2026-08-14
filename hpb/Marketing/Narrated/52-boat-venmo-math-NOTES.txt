@@ -1,0 +1,12 @@
+PIECE 52 — Funny/Quotable lane — Running joke / Settling up after — "Boat Venmo Math"
+Voice: voice-en-GB-Ryan (free tier, "The Groomsman," recurring)   Music: dry acoustic pluck under the deadpan lines, warm swell on the close   Length: 17s
+
+SCRIPT (timed to narration):
+ 0.0s  The trip ends.                                                              [boat pulling up to the dock, lights dimming]
+ 1.4s  The real event begins.                                                      [quick cut: phones coming out on the dock]
+ 3.0s  The group Venmo requests.                                                   [phone-screen mockup: a string of payment-request notifications]
+ 5.6s  Somebody front-loads the cooler and becomes a legend for three days.        [close on a guest handing off a fully-stocked cooler at the dock, others cheering]
+ 9.8s  Somebody says "I'll get you back" and does not, in fact, get you back.      [candid shot, a guest laughing it off, shrugging]
+13.6s  Nobody's mad. It's a boat. Not a spreadsheet.                              [wide shot, group walking off the dock together, laughing]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

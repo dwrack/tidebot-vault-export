@@ -1,0 +1,11 @@
+PIECE 57 — Funny/Quotable lane — Deck-hand slang / Character bit — "The Guy Who Wasn't Supposed To Be The DJ"
+Voice: EL-Brian ("Mama Tried's voice," recurring)   Music: trap-pop hybrid (same family as Vol. 1's aux-cord piece), slower build   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip's got a guy who wasn't supposed to be the DJ.                   [wide shot, deck, music playing, a guest holding the phone connected to the speaker]
+ 2.8s  Somebody handed him the phone once, as a joke.                             [close on the phone being handed over, guests laughing]
+ 5.6s  Forty minutes later he's taking requests and won't give it back.           [candid shot, the guest fully in DJ mode, gesturing while holding the phone]
+ 9.4s  Nobody voted on this. It just happened.                                    [wide shot, group dancing to his picks]
+12.2s  [final beat, guest still holding the phone, unbothered]                    [close, comedic hold]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

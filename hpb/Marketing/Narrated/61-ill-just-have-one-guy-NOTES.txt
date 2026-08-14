@@ -1,0 +1,10 @@
+PIECE 61 — Funny/Quotable lane — Running joke, played-straight formal register — "'I'll Just Have One' Guy"
+Voice: EL-Daniel (formal/"news" register, recurring)   Music: formal news-intro sting played straight, comedic horn stab on each "welcome"   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group has a guy who says "I'll just have one."                       [wide shot, guest holding up a drink, declaring it to the group]
+ 2.6s  Please welcome, on this boat, his second one.                              [candid shot, same guest with a second drink, mock-formal "introduction" framing]
+ 5.6s  And his third, which he insists is basically the same as the first.        [candid shot, third drink, guest gesturing "same thing" to a friend]
+ 9.6s  We track this now. He has never once had one.                             [final wide shot, guest laughing, surrounded by friends, mock scoreboard graphic overlay: "0-for-lifetime"]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level? (Note: recommend casting a crew member for this one rather than a real guest — see Open Items in the Vol. 4 slate doc.)

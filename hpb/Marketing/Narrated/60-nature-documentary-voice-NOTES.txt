@@ -1,0 +1,10 @@
+PIECE 60 — Funny/Quotable lane — Bachelorette lines / Mock-Attenborough parody — "The Nature-Documentary Voice"
+Voice: EL-George ("The Old Salt," recurring, new use — nature-doc impression)   Music: mock-orchestral nature-documentary sting, played completely straight   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  [mock-documentary tone] Here we observe the bachelorette in her natural habitat.   [wide shot, bachelorette group on deck, subtle telephoto/observational framing]
+ 3.0s  She has selected the boat for its superior lighting and total absence of a step count.   [close on a guest posing for a photo, golden hour]
+ 7.0s  Watch as she performs the ancient ritual known as "one more picture."       [candid shot, a guest re-taking a photo for the third time, friends waiting]
+10.6s  Fascinating creature. Deeply hydrated. Rarely alone.                       [wide shot, the full group, drinks in hand, all together]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 09 — Funny / character lane — "Sorry, Which One's the Guide?"
+Voice: voice-en-GB-RyanNeural (free tier)   Music: near-silent, ambient swamp audio carries the piece   Length: 20.0s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  No uniform. No name tag. Just a guy in a fishing shirt.          [guide boarding alongside guests, blending in, no visible uniform]
+ 2.8s  Guest spends the first five minutes talking to the wrong person.  [guest chatting animatedly with another guest, not the guide]
+ 6.2s  Finally asks: "Wait, sorry, which one of y'all is the guide?"    [guest's line, on-screen text overlay of quote]
+ 9.6s  Guide raises a hand. Been standing right there the whole time.   [guide's small wave, deadpan]
+12.6s  Doesn't take it personally. Happens basically every tour.        [guide's easy shrug, mild grin]
+15.4s  Once he starts talking, nobody asks again.                       [wide shot: guests now fully engaged, listening to guide]
+17.6s  The bayou doesn't care about a lanyard. Neither does he.         [closing wide shot, boat gliding, golden light]
+
+On-screen text: quote caption on the guest's line only.
+Shot list: guide boarding, blending in with guests → guest talking to the wrong person → guest's question → guide's small wave → guide's easy shrug reaction → wide shot, guests now engaged → closing wide golden shot.
+Casting/production note: low-lift, any guide works. Should be a real recurring mix-up, not scripted with an actor for the "wrong person" beat — flag guides to note (with consent) if this genuinely happens on a live tour, or reenact lightly since it's a harmless observational bit, not an asserted fact needing verification.
+Copy passes: copy-mentors (Halbert — one specific overheard question, not a general observation) kept the guest's confused question as the whole hook. Copywriting-2.0 cut a line explaining "he doesn't look like a tour guide" as redundant scaffolding already carried by the visual, replacing the closer with the tighter "the bayou doesn't care about a lanyard. Neither does he."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

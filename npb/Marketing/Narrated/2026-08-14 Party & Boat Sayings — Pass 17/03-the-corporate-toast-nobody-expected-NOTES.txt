@@ -1,0 +1,21 @@
+PIECE 03 — Funny / heartfelt lane — "The Corporate Toast Nobody Expected"
+Voice: voice-en-US-RogerNeural (free tier)   Music: The Soul Rebels-style brass-funk bed (clearance unconfirmed)   Length: 24.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Twelve people in polos. Somebody's badge still says "Hi, I'm Kevin."  [group boarding, one guest realizing his conference badge is still on, laughing]
+ 3.6s  Corporate outing. Captain Eddie's seen the type.                 [Eddie sizing up the group, unfazed]
+ 6.2s  Figures somebody's the boss. Doesn't ask who.                    [Eddie scanning the group]
+ 8.8s  By hour one, can't tell anymore either.                          [wide shot: group all mixed in, no visible hierarchy, everyone dancing]
+11.6s  Eddie picks a moment, raises his cup anyway.                     [Eddie standing, cup raised, group quieting]
+14.4s  "Your team clearly likes you. They showed up on a Tuesday."       [Eddie's line, on-screen text overlay of quote]
+18.0s  Boss laughs the loudest. Team laughs harder.                     [reaction shot: boss laughing, team laughing more]
+21.0s  Nobody talks about the quarterly numbers again the rest of the trip.  [closing wide shot, group dancing, sunset]
+
+On-screen text: quote card on Eddie's line only.
+Shot list: badge-still-on gag → Eddie sizing up the group → Eddie scanning for the boss → wide mixed-in group shot → Eddie standing to toast → Eddie's line → boss/team reaction → closing wide dancing shot.
+Casting/production note: needs Captain Eddie, giving him a warmer, more sincere register than his deadpan toast-scorekeeping bit in Pass 14 — same character, different gear. Needs a real corporate group willing to be filmed; swap "Tuesday" for whatever day it's actually shot.
+PRODUCTION FLAG: this assumes a captain proactively toasting the team/boss dynamic on a corporate outing, sourced from an unbuilt idea (Unreasonable Hospitality #58, "executive acknowledgment"). Confirm with ops or Eddie directly whether this is something a captain would actually say, or treat this as the pitch to start doing it on corporate bookings specifically, not a claim about current practice. Corporate outings are an explicitly valid occasion per Brand Story & Values Section 2, but this is the first pass to build a piece around one.
+Copy passes: copy-mentors (Halbert — one specific overheard line, not a company-values statement) kept Eddie's toast as a single spoken sentence instead of a speech. Copywriting-2.0 cut an early line describing the outing as "team building that actually works" (drifts into the corporate-adjacent language the brand voice explicitly avoids) in favor of the plainer "nobody talks about the quarterly numbers again," which shows the outcome instead of claiming it.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,12 @@
+PIECE 50 — Funny/Quotable lane — Captain-line / Saying twist — "What Happens On The Boat (Except The Pictures)"
+Voice: EL-Eric ("The Captain," recurring)   Music: gavel-tap foley hit on "amendment," warm pop bed under the sunset beat   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  You know the saying.                                                       [Captain at the helm, half-smile, looking at camera]
+ 2.0s  We had to amend it for boats.                                              [Captain holds up one finger, "wait for it"]
+ 4.4s  What happens on the boat stays on the boat.                                [wide shot, guests dancing, deck lights on]
+ 7.2s  Except the pictures.                                                        [quick cut: a guest holding up a phone, snapping a group photo]
+ 8.8s  Those you're keeping. Especially the one at sunset on Clear Lake.          [golden-hour wide shot, group posed, phones raised]
+12.6s  That's the whole amendment.                                                 [Captain gives a small nod, turns back to the wheel]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

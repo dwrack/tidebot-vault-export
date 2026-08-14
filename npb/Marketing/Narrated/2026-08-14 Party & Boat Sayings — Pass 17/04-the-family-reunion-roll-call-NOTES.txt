@@ -1,0 +1,19 @@
+PIECE 04 — Funny / heartfelt lane — "The Family Reunion Roll Call"
+Voice: EL-Lily (ElevenLabs)   Music: Free Agents Brass Band-style modern brass, upbeat (clearance unconfirmed)   Length: 23.0s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Twenty-two people. Three generations. One cooler that's somehow enough.  [wide shot: large multi-generational family boarding, one big cooler]
+ 3.6s  Calvin starts asking names. Gives up around twelve.              [Calvin nodding along, comedic overwhelmed expression]
+ 6.6s  Just starts calling everybody "cousin." Turns out he's right more than he's wrong.  [Calvin gesturing to a guest, "cousin," guest laughing and confirming]
+10.6s  Somebody's ninety-one. Somebody's four months old. Both make it the whole trip.  [wide shot: elderly woman and infant both present, family around them]
+14.6s  Nobody agrees on whose idea this reunion was.                    [family members arguing playfully, gesturing]
+17.2s  Everybody agrees it's happening again next year.                 [group toasting, laughing]
+19.8s  Same cooler. Probably the same argument.                         [closing wide shot, family group, golden light, boat cruising]
+
+On-screen text: none needed, let the visual carry it; optional light caption on "cousin" only.
+Shot list: large family boarding with one cooler → Calvin overwhelmed nodding → Calvin calling someone "cousin" → wide shot spanning generations → family arguing over reunion origin → group toast agreeing on next year → closing wide golden shot.
+Casting/production note: needs deckhand Calvin, playing a genuinely warm, slightly overwhelmed version of himself rather than his sign-making deadpan from Pass 16 — different register, same person. Needs a real large family-reunion booking; the age-span beat ("ninety-one... four months old") should only be used if it's actually true of the group filmed, not staged as a claim. Family reunions are explicitly valid per Brand Story & Values Section 2, but this is the first pass to build a piece around one.
+Copy passes: copy-mentors (Sugarman — specific numbers over vague description) pushed for the exact headcount and generational span instead of "a big family." Copywriting-2.0 cut a redundant line explaining "that's what family reunions are like" (states the theme instead of showing it) in favor of ending on the concrete cooler/argument callback.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

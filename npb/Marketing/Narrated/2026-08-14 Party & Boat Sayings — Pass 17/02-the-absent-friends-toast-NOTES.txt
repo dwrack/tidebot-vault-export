@@ -1,0 +1,20 @@
+PIECE 02 — Heartfelt / ritual lane — "The Absent Friends Toast"
+Voice: EL-Sarah (ElevenLabs)   Music: Kermit Ruffins-style warm trad-jazz, low under narration (clearance unconfirmed)   Length: 24.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Every group toasts the people on the boat.                       [group raising cups, Captain Ben nearby]
+ 2.6s  Ben makes sure they toast the ones who aren't.                   [Ben's line building, group quieting slightly]
+ 5.4s  "To the ones who couldn't make it. Wish you were here."          [Ben's line, on-screen text overlay of quote]
+ 9.0s  Doesn't matter why they're missing. Work, money, distance, worse.  [group nodding, a few faces going soft]
+13.0s  Nobody explains. Nobody has to.                                  [wide shot, quiet moment, cups still raised]
+15.6s  One toast, then the music comes back up.                        [Ben nodding, cranking music, energy returning]
+18.4s  That's the only toast on this boat that isn't followed by a joke.  [group cheering again, energy back]
+21.4s  Some things you say for the people who are there. This one's for the ones who aren't.  [closing wide shot, sunset, boat cruising]
+
+On-screen text: quote card on "To the ones who couldn't make it. Wish you were here." only.
+Shot list: group toast building → Ben's building line → Ben's quote → group's quiet reaction → wide quiet moment → music back up → group cheering again → closing sunset wide.
+Casting/production note: needs Captain Ben specifically, matching his established toast-giving character from the first pass. Works for any group with someone absent — doesn't require identifying who's missing or why, unlike Pass 16's divorce-party and guide-noticed pieces, which needed real sensitive personal disclosure.
+Copy passes: copy-mentors (Ogilvy — restraint, let the plain toast do the emotional work) kept this understated rather than sentimental. Copywriting-2.0 cut an earlier closing line reading "grief and love aren't that different on a boat" (unfalsifiable, drifted into philosophy instead of marketing) in favor of the plainer, ownable closer about what gets said for who's there versus who isn't.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

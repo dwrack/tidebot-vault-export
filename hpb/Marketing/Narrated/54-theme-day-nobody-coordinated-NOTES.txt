@@ -1,0 +1,12 @@
+PIECE 54 — Funny/Quotable lane — Running joke / Costume-theme chaos — "Theme Day, Nobody Coordinated"
+Voice: voice-en-US-Brian (free tier, "The Sunscreen Friend," recurring)   Music: playful, slightly off-kilter pop, comedic stab on each costume reveal   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone in the group chat said "let's do a theme" and never specified further.   [phone-screen mockup: a single text bubble, "let's do a theme!!"]
+ 3.2s  So now we've got two cowboy hats,                                          [close on a guest in a cowboy hat]
+ 4.8s  one full sequin situation,                                                  [close on a guest in a sequin outfit]
+ 6.2s  and one guy in regular clothes who is personally offended.                 [candid shot, a guest in plain clothes, arms crossed, mock-upset]
+ 9.4s  Nobody agreed on anything. Everybody still committed.                      [wide shot, mismatched group posing together, laughing]
+12.6s  Honestly, that's the whole group.                                          [final wide shot, group boarding]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

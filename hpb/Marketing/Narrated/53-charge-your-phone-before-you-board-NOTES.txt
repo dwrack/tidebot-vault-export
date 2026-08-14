@@ -1,0 +1,11 @@
+PIECE 53 — Funny/Quotable lane — Mock-PSA / Content-culture joke — "Charge Your Phone Before You Board"
+Voice: Roger (free tier, mock-formal, recurring)   Music: faux-elevator/PSA jingle, cuts to party beat on "seen some things"   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  A brief and important announcement before we leave the dock.               [mock-formal graphic title card: "ANNOUNCEMENT" in a stiff serif font, deck behind it]
+ 2.6s  Charge. Your. Phone.                                                        [three quick cuts, one word each: dead-phone icon, charging cable, full-battery icon]
+ 5.4s  You will lose fourteen percent of your battery on the first sunset alone.  [golden-hour wide shot, a dozen phones raised at once]
+ 9.4s  This has been a public service announcement from a boat that has seen some things.   [wide shot, deck lights on, group dancing, mock-serious voice over the chaos]
+13.4s  [title card fades]                                                          [simple graphic close]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

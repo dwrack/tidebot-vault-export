@@ -1,0 +1,20 @@
+PIECE 01 — Funny / ritual lane — "Laissez Les Bons Temps Rouler"
+Voice: EL-Daniel (ElevenLabs)   Music: Rebirth Brass Band-style party anthem bed (clearance unconfirmed, commercial-library fallback for launch)   Length: 22.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain pushes off the same way, every single trip.        [captain at the helm, hand on the throttle, dock falling behind]
+ 3.4s  "Laissez les bons temps rouler."                                 [captain's line, on-screen text overlay of the phrase]
+ 6.2s  Doesn't translate it. Doesn't have to.                           [wide shot: nobody confused, group already cheering]
+ 8.8s  Somebody who's never heard it repeats it back wrong.             [guest fumbling the phrase, laughing at themselves]
+12.0s  Gets corrected by somebody who's heard it three boats in a row.  [neighboring guest correcting them, playful]
+15.4s  By the time the marina's out of sight, the whole group's saying it.  [wide shot: group chanting together, cups raised]
+19.0s  Nobody remembers who started saying it. Everybody still says it.  [closing wide shot: boat in open water, golden light]
+
+On-screen text: quote card on the French phrase only, nothing else.
+Shot list: captain at helm pushing off → captain's line → wide group cheering → guest fumbling the repeat → neighbor correcting them → group chanting together → closing wide shot.
+Casting/production note: works with any captain — this is the pitch for a consistent send-off line, not a claim it's already universal.
+PRODUCTION FLAG: confirm whether any captain already says this at push-off, or treat this as the pitch to make it the house send-off line, the same move Pass 9 made with "Ring the Bell." Don't shoot it as an existing universal ritual unless it's confirmed.
+Copy passes: copy-mentors (Ogilvy — let the real phrase do the work, no explaining what it means) kept the French line untranslated, trusting on-screen text and context to carry it. Copywriting-2.0 killed an earlier line asserting the phrase is "three hundred years old" — an unconfirmed specific historical claim — and replaced it with the falsifiable, safer "Nobody remembers who started saying it. Everybody still says it."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

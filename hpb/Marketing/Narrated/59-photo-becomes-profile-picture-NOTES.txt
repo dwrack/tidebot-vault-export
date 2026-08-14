@@ -1,0 +1,12 @@
+PIECE 59 — Funny/Quotable lane — Toast-adjacent / Aftermath, warm register — "The Photo That Becomes Everyone's New Profile Picture"
+Voice: EL-Sarah ("Sarah," recurring, toasts/closers)   Music: warm pop bed, gentle swell on the photo reveal   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  One photo. Every trip.                                                      [golden-hour wide shot, group posed for a photo, countdown gesture]
+ 2.0s  You'll know it the second you take it.                                     [close on the phone screen, the photo appearing]
+ 4.6s  Golden light, everybody actually looking, nobody blinking for once.        [the actual photo, held on screen for a beat]
+ 8.2s  By Tuesday it's somebody's new profile picture.                            [phone-screen mockup: the photo set as a profile picture]
+10.8s  By Thursday it's four people's.                                            [quick cut: four phone-screen mockups, same photo, different profiles]
+13.6s  That's the whole review, right there.                                      [final wide shot, group laughing, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 07 — Funny / did-you-know lane — "The Word Guide Corrects Every Time"
+Voice: EL-Brian (ElevenLabs)   Music: Sweet Crude-style atmospheric bed, calm (clearance unconfirmed)   Length: 21.0s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  Every tour, somebody says it wrong.                              [guests boarding, one guest chatting]
+ 2.4s  "So how far is it to New Or-LEANS?"                              [guest's line, on-screen text overlay of quote]
+ 5.2s  Guide doesn't correct the geography. Corrects the pronunciation.  [guide's small, patient smile]
+ 8.2s  "It's NEW OR-lins. You'll get made fun of otherwise."             [guide's line, on-screen text overlay of quote]
+11.8s  Guest tries it twice. Gets it on the second try.                 [guest repeating it, guide nodding approval]
+14.8s  Says it right for the rest of the tour. Never says it right again after they leave.  [wide shot, guide smiling, boat moving through bayou]
+18.6s  Free lesson. Comes with the gators.                              [closing wide shot, golden light, boat gliding]
+
+On-screen text: quote captions on both the guest's mispronunciation and the guide's correction.
+Shot list: guests boarding, chatting → guest's mispronounced line → guide's patient reaction → guide's correction line → guest trying it again → guide's approving nod, wide bayou shot → closing wide golden shot.
+Casting/production note: low-lift, needs a guide willing to play the bit consistently — confirm this pronunciation correction (or a similar local-language moment) is close to something guides actually do before locking it as their line, same standard applied to "No Guarantees, Just Good Odds" in Pass 16.
+Copy passes: copy-mentors (Sugarman — the wrong-pronunciation setup creates the curiosity for the payoff) kept the guest's wrong version as the hook. Copywriting-2.0 cut a tag line explaining "it's a New Orleans thing" (over-explains a joke the pronunciation gag already lands on its own) in favor of the tighter, funnier "free lesson, comes with the gators."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

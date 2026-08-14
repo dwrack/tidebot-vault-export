@@ -1,0 +1,20 @@
+PIECE 06 — Practical / funny lane — "The Review Ask That Doesn't Suck"
+Voice: voice-en-US-GuyNeural (free tier)   Music: light brass instrumental bed, low under narration   Length: 21.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Every business asks for a review. Poppa asks for one differently.  [Poppa Charles at the dock, boat tying off]
+ 3.0s  Doesn't say "please leave us five stars."                        [group gathering their stuff, half-listening]
+ 5.4s  "If you had fun, just tell somebody. That's the whole ask."       [Poppa's line, on-screen text overlay of quote]
+ 9.0s  Group actually stops and listens to that one.                    [guests pausing, nodding, genuinely receptive]
+11.6s  Nobody likes being asked for stars. Everybody likes being asked to talk.  [wide shot: group already talking about the trip, phones out]
+15.4s  Half of them are already texting their friend group before they're off the dock.  [close-up: guest typing "you have to do this" into a group chat]
+19.0s  That's the review. It just doesn't have five stars attached.      [closing wide shot, dock, group walking off]
+
+On-screen text: quote card on Poppa's line only.
+Shot list: boat tying off at dock → Poppa's setup → Poppa's line → group's genuine reaction → wide shot of group already talking → phone/group-chat close-up → closing dock walk-off.
+Casting/production note: needs Poppa Charles specifically, consistent with his dry, plain-spoken register established across Pass 14 and 15. Sourced from Unreasonable Hospitality idea #36 ("the review ask that doesn't suck").
+PRODUCTION FLAG: confirm this line, or something close to it, is what Poppa (or any captain) actually says at the dock — if the current close is a generic "please review us" ask or no ask at all, treat this as the pitch to adopt the line, not a claim about the existing send-off.
+Copy passes: copy-mentors (Ogilvy — plain fact, no persuasion tactics visible in the words) kept the ask itself completely unadorned. Copywriting-2.0 cut a line that explained why the softer ask works better psychologically (reads like a marketing textbook, fails the "nobody else could say it" test) in favor of just showing the group's actual reaction.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

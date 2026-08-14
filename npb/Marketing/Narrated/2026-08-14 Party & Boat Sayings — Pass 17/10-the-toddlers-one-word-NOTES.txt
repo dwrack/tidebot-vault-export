@@ -1,0 +1,21 @@
+PIECE 10 — Funny / heartfelt lane — "The Toddler's One Word"
+Voice: EL-Jessica (ElevenLabs)   Music: Jon Cleary-style solo piano, warm (clearance unconfirmed)   Length: 20.5s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  She's two. Has exactly one word for everything on this tour.     [toddler in a lap on the boat, wide-eyed, pointing]
+ 3.0s  Gator.                                                           [toddler's line, "gator," on-screen text overlay]
+ 4.6s  That's a heron.                                                  [close-up: heron standing nearby, toddler still pointing and saying "gator"]
+ 6.6s  Gator.                                                           [toddler repeats, undeterred]
+ 8.0s  That's a cypress knee.                                           [close-up: cypress knee in the water]
+ 9.8s  Gator.                                                           [toddler again, guide chuckling]
+11.2s  Actual gator finally shows up. She's ready for it.               [real alligator surfacing nearby, toddler pointing excitedly]
+14.2s  "Gator." Same tone as the heron. Same tone as the tree root.      [toddler's calm, satisfied delivery, parents laughing]
+18.0s  She wasn't wrong about the world. Just early.                    [closing wide shot, family laughing, golden light]
+
+On-screen text: quote captions on "Gator" each time it's said, small and consistent — becomes a visual gag itself.
+Shot list: toddler wide-eyed, pointing → "gator" caption on heron → heron close-up → "gator" again → cypress knee close-up → "gator" again, guide chuckling → real gator surfacing → toddler's calm delivery, parents laughing → closing wide family shot.
+Casting/production note: needs a real toddler guest and a patient, consenting parent — this only works candid, a scripted kid reads false immediately. Flag in #crew-content for a genuine version to get caught rather than staged, same standard as Pass 15's "Question That Stumped the Guide." Per the Social Capture Playbook's consent section, keep clips general/candid rather than tight close-ups on a child's face unless a parent has explicitly said it's fine.
+Copy passes: copy-mentors (Sugarman — repetition as the comedic engine, escalating toward the punchline) built the whole piece on the repeated single word landing three different ways. Copywriting-2.0 cut an explanatory closer ("kids see the world simply") as generic parenting-blog language in favor of the sharper, more specific "She wasn't wrong about the world. Just early."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 11 — Funny / running joke lane — "The Guide's Weather Excuse That's Never Wrong"
+Voice: voice-en-US-BrianNeural (free tier)   Music: warm, near-silent, ambient swamp carries most of it   Length: 22.0s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  Overcast morning. Guide calls it "perfect gator weather."        [wide shot: cloudy sky over the bayou, guide addressing guests]
+ 3.4s  Blazing sun the next day. Also "perfect gator weather."          [wide shot: bright sunny day, same line delivered]
+ 6.6s  Light rain the week after. You already know what he calls it.    [guide unbothered under light rain, gesturing at the water]
+10.2s  "Perfect gator weather." Every single time.                      [guide's line, on-screen text overlay of quote]
+13.4s  Nobody's ever seen him call a day bad.                           [guests glancing at each other, half-skeptical, half-amused]
+16.0s  Turns out he might actually be right more than he's just being nice.  [wide shot: gator visible regardless of weather condition]
+19.4s  There's no such thing as bad gator weather. Just weather.        [closing wide shot, boat gliding, whatever conditions]
+
+On-screen text: quote caption on "Perfect gator weather" only, repeated visually to reinforce the gag.
+Shot list: overcast morning + line → sunny day + same line → light rain + guide unbothered → guide's quote card → guests' skeptical-amused reaction → wide shot showing wildlife present regardless of weather → closing wide shot, any conditions.
+Casting/production note: needs the same guide (or the bit consistently delivered by whichever guide is filming that day) across multiple different weather shoots — this is a compilation piece, needs footage banked across several different days/conditions before it can be honestly cut together.
+Copy passes: copy-mentors (Bencivenga — the twist is that the running joke turns out to be sincerely true) built the structure so the joke about the guide always saying something positive resolves into it possibly being an honest read, not just a sales line. Copywriting-2.0 cut an early line asserting "it works every time" (unfalsifiable absolute) in favor of the softer, still-funny "might actually be right more than he's just being nice."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

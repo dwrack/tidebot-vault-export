@@ -1,0 +1,21 @@
+PIECE 05 — Funny / character lane — "Every Captain's Got a Line"
+Voice: EL-Eric (ElevenLabs)   Music: light brass instrumental bed, low under narration   Length: 25.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain's got an opening line. Nobody wrote them down.     [three quick establishing shots: Ben, Eddie, Poppa at their respective helms]
+ 3.4s  Ben's is about the river. Twelve years on it, give or take.      [Ben addressing his group, gesturing at the water]
+ 6.6s  Eddie's is about a dolphin that may or may not have existed.     [Eddie mid-story, group leaning in, skeptical grins]
+10.0s  Poppa doesn't do a line. Poppa just nods once.                   [Poppa Charles, single nod, minimal words]
+13.0s  Somehow that works even better.                                  [guests on Poppa's boat, already relaxed, laughing]
+15.6s  Ask any of them if the stories are true.                         [three quick cuts: Ben, Eddie, Poppa, each getting the question]
+18.8s  "Probably." Same answer, every time, all three.                  [each captain's dry half-smile in sequence, on-screen text overlay of quote]
+22.4s  Doesn't matter if it's true. You believed it for a second.       [closing wide shot: one boat, golden light, group laughing]
+
+On-screen text: quote card on "Probably" only.
+Shot list: three establishing helm shots → Ben's river line → Eddie's dolphin story → Poppa's single nod → guests relaxed on Poppa's boat → three quick "is it true" cuts → three "probably" reactions in sequence → closing wide shot.
+Casting/production note: compilation-style, needs Ben, Eddie, and Poppa Charles all scheduled across separate real cruises rather than one shoot day — same production lift as Pass 9's "Bachelorette Bell Curve." Loosely sourced from Unreasonable Hospitality idea #18 ("give them a character, not a job title").
+PRODUCTION FLAG: confirm each captain actually has (or is willing to build) a go-to intro line before shooting this as an established fact about all three — if any captain doesn't have one yet, this piece is also the nudge to develop one, not a claim they already have.
+Copy passes: copy-mentors (Bencivenga — the parallel rule-of-three structure across three characters is the engine) built the piece on repetition landing on the same word. Copywriting-2.0 cut a line explaining "it's part of the charm" (tells instead of shows) in favor of ending on the visual/behavioral beat alone.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

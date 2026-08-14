@@ -1,0 +1,20 @@
+PIECE 08 — Funny / heartfelt lane — "The Bottle Cheers"
+Voice: EL-George (ElevenLabs)   Music: Preservation Hall-style quiet trad-jazz, near-silent under narration (clearance unconfirmed)   Length: 22.5s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  Party boats toast with cups. This one toasts with water bottles.  [wide shot: eco boat, guests with reusable water bottles, calm water]
+ 3.2s  Nobody decided that. It just started happening.                  [guide glancing back, small knowing look]
+ 5.8s  First gator of the tour, somebody taps their bottle against the rail.  [close-up: bottle tapping the rail, small clink]
+ 9.4s  Next person does it too. Then everybody does.                    [wide shot: bottles tapping down the row of seats]
+12.6s  No toast. No words. Just a little tap, gator to gator.            [guests smiling, tapping again as another sighting happens]
+16.2s  By the end of the tour, it's automatic. Nobody remembers starting it.  [wide shot: bottles tapping in sync, guide smiling]
+20.0s  Cheers, on a boat where nobody's drinking.                        [closing wide shot, golden light, boat gliding]
+
+On-screen text: none, let the physical gesture read without captioning it — a quieter treatment matching the eco lane.
+Shot list: wide establishing shot, water bottles visible → guide's knowing glance → first bottle-tap close-up → tap spreading down the row → repeat tap on second sighting → wide synced-tap shot → closing wide golden shot.
+Casting/production note: this is an invented ritual, not a confirmed existing one — see production flag. Cheap and easy to actually start if it isn't real yet: ask one guide to try it for two weeks and see if it catches on before promising "automatic" on camera.
+PRODUCTION FLAG: this script assumes guests already tap water bottles as an informal toast on gator sightings. Confirm with the guide team whether anything like this happens, or treat this the way Pass 9 treated "Ring the Bell" and Pass 15 treated the flamingo mascot — as the pitch to start a tradition, not a claim about something that already exists.
+Copy passes: copy-mentors (Ogilvy — the plain gesture is the whole idea, no adjectives needed) kept the description of the tap almost purely physical. Copywriting-2.0 cut an early closer that got precious ("silence is its own kind of toast," drifting into the poetic lane's territory this pass isn't using) in favor of the plainer, funnier "Cheers, on a boat where nobody's drinking."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
