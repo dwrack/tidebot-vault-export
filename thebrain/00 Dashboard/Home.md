@@ -50,5 +50,5 @@
 - [[Brand Nemesis Framework]]
 
 <!-- ad-optimizer:start -->
-> 📉 Ad Optimizer: 10 changes to approve, 9 advisories — see 00 Dashboard/Ad Optimizer
+> 📉 Ad Optimizer: 0 changes to approve, 3 advisories — see 00 Dashboard/Ad Optimizer
 <!-- ad-optimizer:end -->
