@@ -1,0 +1,19 @@
+PIECE 342 — Idiom (clean bill of health), mock-inspection bit — Roger / "Clean Bill Of Health"
+Voice: Roger (voice-en-US-RogerNeural.mp3)   Music: dry comedic bed with a brass stab   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Inspection time. Cooler: full. Sunscreen: shared. Playlist: currently insane.       [Roger VO mock-official, wide, Roger holding a clipboard, walking the deck]
+ 3.6s  Forty-two songs queued by six different people with six different opinions.         [insert, phone screen showing a chaotic queue, guests arguing playfully over aux]
+ 7.4s  By all official standards, that's a mess. I'm signing off on it anyway.             [insert, Roger stamping the clipboard, deadpan]
+11.2s  Clean bill of health. This boat passes every time.                                 [closing line, wide, golden hour, guests dancing]
+
+On-screen text: Hook = "INSPECTION: COOLER FULL. PLAYLIST INSANE." / Body = "clean bill of health. every time." / CTA: none
+
+Shot list:
+- [INSERT] Clipboard/checklist prop
+- [INSERT] Phone screen showing queue chaos
+- [B-ROLL] Guests dancing
+
+Note: distinct from piece 217 (leftover veggie tray) and piece 323 (food-category joke) — this piece's subject is the playlist, not food. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

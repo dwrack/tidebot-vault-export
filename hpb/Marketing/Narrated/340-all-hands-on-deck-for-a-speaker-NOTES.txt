@@ -1,0 +1,19 @@
+PIECE 340 — Idiom (all hands on deck), mock-formal scale mismatch — The Announcer / "All Hands On Deck (For A Speaker)"
+Voice: The Announcer (EL-Daniel.mp3)   Music: mock-formal, percussive brass stab   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Attention all guests. This is an all-hands-on-deck situation.                        [Announcer VO formal, wide, deckhand holding something up, guests looking over]
+ 3.6s  The situation: somebody's speaker needs to come up from the cooler to the bow. That's it.  [insert, speaker being passed hand to hand down the deck]
+ 7.4s  We take the phrase very seriously on this boat. Even for small jobs.                 [insert, guests grinning, passing the speaker along]
+11.2s  All hands on deck. Every single time, for absolutely everything.                     [closing line, wide, golden hour, speaker now on the bow, music playing]
+
+On-screen text: Hook = "ATTENTION: ALL-HANDS-ON-DECK SITUATION" / Body = "the situation: a speaker needed to move ten feet" / CTA: none
+
+Shot list:
+- [INSERT] Speaker being passed hand to hand
+- [B-ROLL] Guests grinning, passing it along
+- [B-ROLL] Speaker set up on the bow, music playing
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

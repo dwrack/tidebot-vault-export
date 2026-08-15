@@ -1,0 +1,18 @@
+PIECE 346 — Idiom (son of a gun), crew-picked-up-a-phrase bit — The Groomsman / "Son Of A Gun"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3)   Music: chill, warm lo-fi bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  I've worked here two summers and I've picked up exactly one thing from the old guy.  [Groomsman VO chill, dry, wide, groomsman/crew on deck]
+ 3.8s  Son of a gun. He says it about literally everything. Now I do too.                    [insert, crew reacting to something small, saying the phrase]
+ 7.6s  My friends think I'm doing a bit. I'm not doing a bit anymore.                        [insert, groomsman shrugging, half-smiling]
+11.4s  Two summers on this boat'll do that to you.                                            [closing line, wide, golden hour, crew laughing together]
+
+On-screen text: Hook = "TWO SUMMERS ON THIS BOAT, ONE PHRASE STUCK" / Body = "'son of a gun.' not a bit anymore." / CTA: none
+
+Shot list:
+- [INSERT] Crew reacting to something small, saying the phrase
+- [B-ROLL] Crew laughing together
+
+Note: pairs with piece 345 (the Old Salt is "the old guy" referenced here) — a matched set, not a repeat. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

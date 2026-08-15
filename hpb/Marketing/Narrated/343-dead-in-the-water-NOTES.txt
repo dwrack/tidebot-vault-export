@@ -1,0 +1,19 @@
+PIECE 343 — Idiom (dead in the water), song-request-flops bit — The Regular / "Dead In The Water"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: deadpan comedic bed that flips upbeat at the dance turn   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, one song request goes out and just... dies.               [Regular VO flat deadpan, wide, guest holding up a phone, requesting a song]
+ 3.6s  Nobody moves. Not one hip. Officially dead in the water.              [insert, group standing still, deadpan reactions]
+ 7.4s  Takes exactly one person to fix it. There's always one person.        [insert, one guest starting to dance alone]
+11.2s  Thirty seconds later, everybody's in. That's the whole trick.         [closing line, wide, golden hour, full group dancing]
+
+On-screen text: Hook = "ONE SONG REQUEST DIES EVERY TRIP" / Body = "takes one person. there's always one person" / CTA: none
+
+Shot list:
+- [INSERT] Guest holding phone, requesting a song
+- [B-ROLL] Group standing still, deadpan
+- [B-ROLL] One guest dancing alone, then full group joining
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

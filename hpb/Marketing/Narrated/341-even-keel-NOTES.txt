@@ -1,0 +1,18 @@
+PIECE 341 — Idiom (even keel), planner-reassures-a-nervous-host bit — The Planner / "Even Keel"
+Voice: The Planner (EL-Lily.mp3)   Music: warm, reassuring acoustic bed   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Every planner has a line for the nervous ones. Mine is always the same.          [Planner VO bright, polished, wide, planner talking to a host at the dock]
+ 3.8s  I tell them: today, my only job is keeping you on an even keel.                  [insert, planner smiling, host visibly relaxing]
+ 7.6s  It works because it's true. Nobody who boards nervous stays that way for long.   [insert, host laughing, boarding]
+11.6s  Even keel. My whole job, in two words.                                           [closing line, wide, golden hour, host relaxed, celebrating]
+
+On-screen text: Hook = "MY JOB TODAY: KEEP YOU ON AN EVEN KEEL" / Body = "nobody who boards nervous stays that way for long" / CTA: none
+
+Shot list:
+- [INSERT] Planner reassuring host dockside
+- [B-ROLL] Host relaxed and celebrating later in the trip
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

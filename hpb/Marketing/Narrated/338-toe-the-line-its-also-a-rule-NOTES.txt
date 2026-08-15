@@ -1,0 +1,19 @@
+PIECE 338 — Idiom (toe the line), literal safety-rule bit — The Deckhand / "Toe The Line (It's Also A Rule)"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: upbeat hype-pop bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Toe the line. That's not a metaphor, that's literally where your feet go.       [Deckhand VO fast, wide, deckhand pointing at a painted line on deck]
+ 3.6s  I say it forty times a trip. Feels like a hundred by hour two.                  [insert, deckhand gesturing at the rail, guests stepping back behind the line]
+ 7.4s  It's the one rule on this boat that's both a safety thing and a life lesson.    [insert, deckhand grinning at camera]
+11.2s  Toe the line, have the time of your life. Works every time.                     [closing line, wide, golden hour, guests behind the line, having fun]
+
+On-screen text: Hook = "TOE THE LINE. NOT A METAPHOR." / Body = "the one rule that's also a life lesson" / CTA: none
+
+Shot list:
+- [INSERT] Painted safety line on deck, close
+- [INSERT] Deckhand pointing/gesturing at rail
+- [B-ROLL] Guests behind the line, having fun
+
+Note: confirm the actual on-deck safety-line marking matches this description before shooting; if the boat uses a different physical boundary, adjust the visual, not the line. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

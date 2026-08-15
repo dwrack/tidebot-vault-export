@@ -1,0 +1,19 @@
+PIECE 347 — Idiom (rock the boat), cannonball-countdown bit — The Sunscreen Friend / "Rock The Boat"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier — not EL-Brian)   Music: upbeat hype bed with a splash sound cue   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always wants to know if you can actually rock the boat.              [Sunscreen Friend VO earnest, hype, wide, guest near the edge, group watching]
+ 3.6s  The answer's yes. A little. On purpose. Everybody counts it down together.    [insert, group counting down, guest about to jump]
+ 7.4s  Three, two, one, and the whole boat rocks for a second.                       [insert, splash, boat rocking gently, group cheering]
+11.2s  Best kind of chaos there is.                                                  [closing line, wide, golden hour, group laughing, water dripping]
+
+On-screen text: Hook = "CAN YOU ACTUALLY ROCK THE BOAT?" / Body = "the best kind of chaos there is" / CTA: none
+
+Shot list:
+- [B-ROLL] Group counting down together
+- [INSERT] Splash/jump
+- [B-ROLL] Group cheering, water dripping
+
+Note: confirm current on-water safety policy for any jumping/swimming activity before scripting this as a real shoot — visual must match whatever's actually permitted, not an assumed activity. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 337 — Idiom (loose cannon), character-spotting bit — Captain / "Every Boat's Got A Loose Cannon"
+Voice: The Captain (EL-Eric.mp3)   Music: wry, light-bounce comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one. The person who's already three toasts in before we've left the dock.  [Captain VO dry, deadpan, wide, boat at dock, one guest visibly hyped among a boarding group]
+ 3.8s  We call that one the loose cannon. You'll know them in the first ninety seconds.               [insert, that guest doing something loud/goofy, group laughing around them]
+ 7.8s  Best part of the job, honestly. Loose cannons make the best trips, not the worst ones.          [insert, guest leading a chant, whole group joining in]
+11.6s  Just point them at the fun and stand back.                                                      [closing line, wide, golden hour, whole boat energized]
+
+On-screen text: Hook = "EVERY GROUP HAS A LOOSE CANNON" / Body = "point them at the fun and stand back" / CTA: none
+
+Shot list:
+- [B-ROLL] Boat at dock, group boarding
+- [INSERT] One hyped guest doing something loud/goofy, group reacting
+- [INSERT] Guest leading a chant, group joining in
+
+Note: purely observational, no specific real guest identified. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
