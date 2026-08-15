@@ -1,0 +1,14 @@
+PIECE 224 — Funny/Quotable lane — Roger / New transformation device, second appearance this volume — "By Hour Two, Half The Boat Dresses Like Crew"
+Voice: voice-en-US-RogerNeural ("Roger," recurring — second appearance this volume)   Music: dry comedic bed, light reveal sting on "double check"   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Public notice. Nobody boards looking like crew. By hour two, half the boat does.   [Roger VO mock-official deadpan, wide, guests boarding in going-out clothes, then insert later in trip barefoot, sunglasses, relaxed]
+ 3.6s  Shoes come off. Sunglasses go on. Somebody's wearing the extra hat we keep on board.   [insert, guest sporting a spare crew cap, laughing]
+ 7.2s  We don't dress guests up as crew. They just drift into it on their own.   [insert, deckhand and guest standing side by side, similarly dressed, laughing at the resemblance]
+10.8s  By docking, we've had to double check who actually works here.   [closing line, wry, wide, group cruising, golden light]
+
+On-screen text: Hook = "NOBODY BOARDS LOOKING LIKE CREW. BY HOUR TWO, HALF THE BOAT DOES." | Body = "by docking, we've had to double check who actually works here" | CTA: none.
+
+NOTE: pairs well with piece 106 ("Matching Shirts, One Holdout," Vol. 6) in a future edit but is a distinct device — piece 106 is guests coordinating outfits with each other; this is guests unconsciously drifting toward the crew's look. Needs genuine before/after footage of the same guests across one trip for the transformation to read as real rather than staged.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

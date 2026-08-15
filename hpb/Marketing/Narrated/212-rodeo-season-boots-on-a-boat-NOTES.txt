@@ -1,0 +1,14 @@
+PIECE 212 — Funny/Quotable lane — The Deckhand / New occasion type (rodeo season), kept evergreen and unbranded, CTA piece — "Boots On A Boat"
+Voice: voice-en-US-GuyNeural ("The Deckhand," recurring — free tier)   Music: fast twangy comedic bed, playful sting on the wristband line   Length: 13.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Rodeo season, and half this boat showed up in boots. On a boat. In Texas. Nobody blinked.   [Deckhand VO fast hyped, wide, guests boarding in boots and hats, laughing]
+ 3.4s  Somebody's still got their wristband on from the carnival. It's not coming off till Tuesday.   [insert, close on wristband, guest laughing]
+ 6.8s  Trade the mud for the water, keep the hat on. Same energy, drier boots by sunset.   [insert, guest cooling boots off, laughing, deck spray]
+10.4s  It's not a rodeo trip. It's just what happens when rodeo season hits a boat full of Houstonians.   [closing line, hyped, wide, group cruising, sunset]
+
+On-screen text: Hook = "BOOTS ON A BOAT. NOBODY BLINKED." | Body = "same energy, drier boots by sunset" | CTA = "Boots optional. Boat's ready every rodeo season."
+
+NOTE: kept deliberately generic — "rodeo season," no named event, no trademark referenced — same evergreen, no-legal-risk discipline piece 201 applied by never naming a specific sports team or game.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

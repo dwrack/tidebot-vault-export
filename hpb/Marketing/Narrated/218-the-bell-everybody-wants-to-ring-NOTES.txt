@@ -1,0 +1,14 @@
+PIECE 218 — Funny/Quotable lane — Roger / New prop-tradition device, flagged experiment — "There's A Bell On This Boat"
+Voice: voice-en-US-RogerNeural ("Roger," recurring — free tier)   Music: dry mock-official bed, bell foley accent   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Public notice. There's a bell on this boat. Everybody wants to ring it. We let almost everybody.   [Roger VO mock-official deadpan, close, guest reaching for a small bell mounted near the helm]
+ 3.6s  Nobody remembers who started it. Somebody rings it, everybody cheers, we keep moving.   [insert, bell ringing, guests cheering]
+ 7.2s  It doesn't mean anything official. It just means somebody's having a very good time.   [insert, deckhand smiling, shrugging]
+10.8s  No rule about when to ring it. Guests have never once needed one.   [closing line, wry, wide, group cruising]
+
+On-screen text: Hook = "THERE'S A BELL ON THIS BOAT" | Body = "no rule about when to ring it — nobody's ever needed one" | CTA: none.
+
+NOTE: **this device is invented, not a confirmed existing house tradition.** Before any shoot, confirm with Connor whether a bell actually exists on Delta Dream or Mama Tried — if not, whether it's worth adding as a cheap physical prop, since the bit is easy to make real. Same flag discipline as piece 218's cousin, piece 198's two-cooler-color device (Vol. 13) and piece 206's flag device (Vol. 13) — a prop-tradition entry, third in that sub-lane after the flag (206) and the confetti-cannon mishap (188), but a distinct object and a distinct moment (a ring of celebration, not a visual claim-marker or a mishap).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

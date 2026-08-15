@@ -1,0 +1,14 @@
+PIECE 215 — Funny/Quotable lane — The Groomsman / New device (captain sobriety, safety-trust bit), distinct from piece 186's guest drink-cutoff — "One Sober Guy Steering"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring — free tier)   Music: confident dry bed, subtle warm horn accent on closer   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  The captain doesn't drink. Not a sip, the whole trip. Everybody else more than makes up for it.   [Groomsman VO chill dry, wide, captain at helm, guests behind him raising drinks]
+ 3.6s  Nobody argues with that rule. It's just how the boat runs.   [insert, captain focused, guests relaxed knowing he's dialed in]
+ 7.2s  One sober guy steering. Everybody else, not required to be.   [insert, guests laughing, cheers]
+10.8s  Somebody's got to remember where the dock is. Tonight, that's him.   [closing line, dry warm, wide, boat cruising, sunset]
+
+On-screen text: Hook = "THE CAPTAIN DOESN'T DRINK. NOT A SIP." | Body = "somebody's got to remember where the dock is" | CTA: none.
+
+NOTE: distinct from piece 186 ("The Cutoff Nobody Argues With," Vol. 12), which is about a guest drink cutoff enforced late in a trip. This piece is specifically the captain's own sobriety while operating the boat — a different fact about a different person. Keep the two separated in any caption. Confirm with Connor that this is accurate stated policy before it airs as a factual claim rather than an assumed best practice.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

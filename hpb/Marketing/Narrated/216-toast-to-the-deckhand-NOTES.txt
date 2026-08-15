@@ -1,0 +1,14 @@
+PIECE 216 — Sincere register — Sarah / New device (guests toast the crew, unprompted), distinct from piece 143's nickname device — "Somebody Always Raises A Glass To Him"
+Voice: EL-Sarah ("Sarah," recurring — second appearance this volume)   Music: warm acoustic bed, gentle swell on closer   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody tells them to do it. Somebody always raises a glass to the deckhand before we dock.   [Sarah VO warm soft, wide, guest raising a glass toward the deckhand, deckhand looking surprised]
+ 3.6s  He didn't ask for a toast. He was just re-icing the cooler and refilling waters nobody asked for.   [insert, deckhand mid-task, caught off guard, small smile]
+ 7.4s  The captain gets thanked by tradition. The deckhand gets thanked because somebody actually noticed.   [Sarah, warm, small smile]
+11.0s  That one usually means more. He remembers those toasts.   [closing line, warm, wide, deckhand smiling, sunset]
+
+On-screen text: Hook = "SOMEBODY ALWAYS TOASTS THE DECKHAND BEFORE WE DOCK" | Body = "the one that means more is the one nobody had to ask for" | CTA: none.
+
+NOTE: distinct from piece 143 ("The Crew Has Nicknames Too," Vol. 9), which is about guests naming crew, not toasting them. Keep separate in any caption or shoot brief. Needs a genuine, unprompted moment — staging a toast to the deckhand would undercut the entire point of the piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

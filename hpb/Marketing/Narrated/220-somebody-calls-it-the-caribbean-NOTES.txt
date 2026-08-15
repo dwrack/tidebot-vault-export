@@ -1,0 +1,14 @@
+PIECE 220 — Funny/Quotable lane — Delta Dream's voice / Regional-pride weather-exaggeration device, second entry in this family after piece 74 — "Feels Like The Caribbean Out Here"
+Voice: EL-Lily ("Delta Dream's voice," recurring)   Music: bright breezy bed, playful sting on "it is not"   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Ninety-eight degrees, humid enough to chew, and somebody still says, "feels like the Caribbean out here."   [Lily VO bright playful, wide, guests fanning themselves, laughing, drinks in hand]
+ 3.8s  It is not the Caribbean. It is Clear Lake, Texas, in August.   [insert, guest laughing, wiping sweat, still smiling]
+ 7.4s  Nobody corrects them. Everybody just orders another drink and agrees.   [insert, guests toasting, laughing]
+11.0s  Close enough, if you squint and the sun's going down.   [closing line, bright, wide, sunset, group cruising]
+
+On-screen text: Hook = "\"FEELS LIKE THE CARIBBEAN OUT HERE\"" | Body = "close enough, if you squint and the sun's going down" | CTA: none.
+
+NOTE: second entry in the Delta Dream weather-exaggeration family after piece 74 ("Houston Doesn't Really Do Winter," Vol. 3) — deliberately the summer-heat counterpart, not a repeat of the winter bit. "Ninety-eight degrees" is an illustrative Houston-August figure, not tied to one specific recorded date.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

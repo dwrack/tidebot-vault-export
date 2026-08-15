@@ -1,0 +1,14 @@
+PIECE 214 — Funny/Quotable lane — The Announcer / New device (captain-appearance expectation vs. reality) — "No Hat. No Beard."
+Voice: EL-Daniel ("The Announcer," recurring)   Music: dry mock-PSA bed, single comedic beat on "neither"   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Public record. Most guests expect a captain's hat and a white beard. They get neither.   [Announcer VO formal played straight, wide, casual-looking captain at the helm, guests glancing over, surprised]
+ 3.6s  No hat. No beard. Just a USCG license and somebody who's done this a thousand times.   [insert, captain steering, relaxed, confident]
+ 7.2s  By the second stop, nobody's checking the beard anymore. They're just glad he knows the water.   [insert, guests relaxed, trusting, laughing]
+10.8s  Looks like anybody's neighbor. Drives like he's done it forever. Because he has.   [closing line, dry, wide, boat cruising smooth]
+
+On-screen text: Hook = "MOST GUESTS EXPECT A BEARD. THEY GET NEITHER." | Body = "looks like anybody's neighbor, drives like he's done it forever" | CTA: none.
+
+NOTE: builds on the real USCG Subchapter T credentialing fact established in piece 172 ("Subchapter T, Translated," Vol. 12) without restating it — this piece leans on the credential existing, it doesn't re-explain it. "A thousand times" is an illustrative figure, not a logged trip count. Needs actual candid footage of the real captain — this bit only works if it's genuinely true of who's at the helm, not staged with an actor.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

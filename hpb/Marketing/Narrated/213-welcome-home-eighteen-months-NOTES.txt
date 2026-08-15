@@ -1,0 +1,14 @@
+PIECE 213 — Sincere register — The Captain / New occasion type (a general welcome-home trip), CTA piece — "She'd Been Gone Eighteen Months"
+Voice: EL-Eric ("The Captain," recurring)   Music: warm mid-tempo bed, dry, gentle emotional swell on closer   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  She'd been gone eighteen months. Her friends didn't throw a party. They rented a boat.   [Captain VO dry warm, wide, guest stepping onto the boat, being hugged immediately]
+ 3.6s  Nobody made a speech. They just handed her a drink and started the engine.   [insert, guest laughing through tears, group surrounding her]
+ 7.2s  Some welcomes need balloons. Some just need everybody showing up on the same Saturday.   [Captain, dry, small warm smile]
+10.8s  She'd forgotten how loud her own friends could be. The water helped remind her.   [closing line, warm, wide, group cruising, golden light]
+
+On-screen text: Hook = "SHE'D BEEN GONE EIGHTEEN MONTHS" | Body = "she'd forgotten how loud her own friends could be" | CTA = "Somebody you love just got back? Bring them out on the water."
+
+NOTE: deliberately left non-specific about why the guest was gone (new job elsewhere, a long stint abroad, a deployment, anything) so it isn't read as claiming a military homecoming unless that's genuinely the guest's own story — don't let a caption writer add "welcome home, soldier" framing unless it's true of the real guest cast. "Eighteen months" is an invented illustrative figure, not a documented real guest's timeline, same discipline as piece 194's "forty years" (Vol. 13).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

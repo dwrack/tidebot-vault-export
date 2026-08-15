@@ -1,0 +1,14 @@
+PIECE 223 — Funny/Quotable lane — The Announcer / Real-sourced myth-bust device, second appearance this volume, CTA piece — "The Most-Said, Most-Wrong Sentence In Houston"
+Voice: EL-Daniel ("The Announcer," recurring — second appearance this volume)   Music: confident mid-tempo bed, dry wry, building swell on closer   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Public record. The most-said sentence in Houston might also be the most wrong one: "there's nothing to do here."   [Announcer VO formal played straight, wide, group boarding, skyline or bay in background]
+ 3.8s  Meanwhile there's a boat with a cooler, a playlist, and open water thirty minutes from downtown.   [insert, guests boarding, drinks in hand, relaxed]
+ 7.6s  Nobody who's said that sentence has ever said it twice, not after this.   [insert, guests laughing, cruising, clearly having a great time]
+11.4s  Houston's not boring. Somebody just forgot to check the water.   [closing line, dry wry, wide, sunset, group cruising]
+
+On-screen text: Hook = "THE MOST-SAID, MOST-WRONG SENTENCE IN HOUSTON" | Body = "somebody just forgot to check the water" | CTA = "Stop saying there's nothing to do. Book the water."
+
+NOTE: **sourced directly from `Marketing/532 Content Grid — 30 Videos (Aug 2026).md`**, which independently frames "there's nothing to do in Houston" as "the most-said, most-wrong sentence in the city, and our whole opening." This is the first piece in the narrated-slate series to draw its premise from that document rather than Brand Story, FareHarbor, or a prior volume's own material — see the pass note in the Vol. 14 doc. "Thirty minutes from downtown" reuses the same figure already used in that source doc ("30 MIN FROM DOWNTOWN") rather than inventing a new one. Distinct from piece 29 ("Kemah Boardwalk Can Wait," Vol. 1, a direct comparison bit) and piece 180 ("We Can See Mission Control From Here," Vol. 12, a proximity fact) — this is a myth-bust format built on newly sourced marketing language, not a repeat of either prior regional-pride angle.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

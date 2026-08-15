@@ -1,0 +1,14 @@
+PIECE 217 — Funny/Quotable lane — Mama Tried's voice / New device (end-of-trip cooler audit, deadpan list) — "The Veggie Tray Is Always Still Full"
+Voice: EL-Brian ("Mama Tried's voice," recurring — premium)   Music: comedic syncopated bed, deadpan pause sting on "every single trip"   Length: 13.8s
+
+SCRIPT (timed to narration):
+ 0.0s  End of every trip, we check the cooler. The chips are gone. The seltzers are gone.   [Brian VO flat deadpan, wide, empty cooler, guest peering in]
+ 3.4s  The veggie tray is still full. It is always still full. Every single trip.   [insert, untouched veggie tray, close on baby carrots nobody touched]
+ 6.8s  Somebody brings it every time. Nobody's ever seen it get eaten.   [insert, deckhand shrugging, closing cooler lid]
+10.2s  We've stopped asking who packs it. We've accepted it's just part of the boat now.   [closing line, flat deadpan, wide, group cruising]
+
+On-screen text: Hook = "THE VEGGIE TRAY IS ALWAYS STILL FULL" | Body = "we've accepted it's just part of the boat now" | CTA: none.
+
+NOTE: same deadpan-list family as pieces 04, 14, 73, 87, 100, 126, 137, 155, 185, 202 — this entry is the end-of-trip cooler-audit angle, not yet used. Framed as this boat's specific recurring pattern, but the underlying observation (veggie trays never get finished at parties) is broadly relatable — check with crew whether it's actually a repeated real pattern before a caption commits to "every single trip" as literal fact rather than a loose bit.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

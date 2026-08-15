@@ -1,0 +1,14 @@
+PIECE 210 — Funny/Quotable lane — Sunscreen Friend / New occasion type (baby shower, post-reveal, distinct from piece 198's gender-reveal moment) — "Wrapped In An Actual Life Jacket"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," recurring — free tier, not EL-Brian)   Music: playful light acoustic bed, comedic button on closer   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody wrapped the baby gift in a life jacket. Actual life jacket. We're still not sure why.   [Sunscreen Friend VO earnest amused, close, guest holding a gift wrapped oddly, life jacket ribbon tied around it]
+ 3.6s  Another one showed up in a grocery bag with a bow taped on. Nobody judged. Everybody laughed.   [insert, guest showing off the makeshift wrapping, group cracking up]
+ 7.2s  The baby's not even here yet and already has a favorite boat.   [insert, tiny onesie held up, laughter]
+10.8s  Nine months of planning. Wrapping paper wasn't part of the plan.   [closing line, warm amused, wide, group cruising]
+
+On-screen text: Hook = "WRAPPED IN AN ACTUAL LIFE JACKET" | Body = "nine months of planning — wrapping paper wasn't part of the plan" | CTA: none.
+
+NOTE: distinct from piece 198 ("Gender Reveals Welcome, Confetti Cannons Are Not," Vol. 13), which is the reveal moment itself. This is the celebration afterward, once the sex or name is already known — a different beat in the same life-event arc, not a repeat of the same occasion.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

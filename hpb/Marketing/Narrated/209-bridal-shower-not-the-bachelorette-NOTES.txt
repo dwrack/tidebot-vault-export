@@ -1,0 +1,14 @@
+PIECE 209 — Funny/Quotable lane — Sarah / New occasion type (bridal shower, distinct from every bachelorette-lane piece), CTA piece — "This Isn't The Bachelorette"
+Voice: EL-Sarah ("Sarah," recurring)   Music: warm acoustic bed, soft nostalgic swell on closer   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  This isn't the bachelorette. Nobody's wearing a sash. Her mom's here, and so is her grandmother.   [Sarah VO warm soft, wide, mixed-age group boarding, casual dresses, no sashes]
+ 3.6s  The gifts stay wrapped until the boat's moving. Nobody wants to chase tissue paper across the dock.   [insert, gift bag on a bench seat, guest holding it steady]
+ 7.4s  Three generations, one boat, and somehow everybody's dancing to the same song.   [insert, mixed-age group laughing together]
+11.2s  Turns out the guest list gets easier when everyone actually likes each other.   [closing line, warm, wide, group cruising, golden light]
+
+On-screen text: Hook = "THIS ISN'T THE BACHELORETTE" | Body = "the guest list gets easier when everyone actually likes each other" | CTA = "Planning a shower? Skip the folding chairs. Book the water."
+
+NOTE: distinct from every bachelorette-lane piece in the series (03, 41, 43, 56, 116, 161) — this is explicitly the calmer, mixed-generation bridal shower, not the bachelorette party. Keep casting and captioning separate so the two never get merged in a caption or shoot brief.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
