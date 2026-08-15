@@ -1,0 +1,10 @@
+PIECE 170 — Funny/Quotable lane — Deckhand / Meta device, one-trip inside-joke birth, distinct from piece 158's company motto — "The Saying Nobody Meant To Start"
+Voice: The Deckhand (voice-en-US-GuyNeural, free tier) — fast, hype, half out of breath   Music: fast playful comedic bed   Length: 13.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody garbled "life jacket" into "life jacket, activate" on hour one.   [Deckhand VO fast hyped, close, guest fumbling with a life jacket, laughing]
+ 2.8s  By hour two, the whole boat was saying it. Every time somebody put one on.   [insert, multiple guests saying the phrase, laughing, life jackets going on]
+ 6.2s  Nobody remembers whose idea it was. Everybody kept saying it anyway.     [wide, group laughing, in on the joke]
+ 9.6s  That's how a boat saying gets born. Not on purpose. Never on purpose.    [closing line, hyped, deckhand grinning, wide shot]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

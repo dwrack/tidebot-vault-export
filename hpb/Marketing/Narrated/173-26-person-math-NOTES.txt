@@ -1,0 +1,12 @@
+PIECE 173 — Funny/Quotable lane — Announcer / Capacity logistics humor, sourced from real 26-guest capacity, CTA piece — "The 26-Person Math"
+Voice: The Announcer (EL-Daniel) — formal register, played straight   Music: formal-comedic PA-announcement bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Twenty-six people. One boat. Do the math on how much personal space that leaves you.   [Announcer VO formal, wide, full boat, guests packed in happily]
+ 3.6s  Not much. Nobody's ever complained about that part.                     [insert, guests laughing shoulder to shoulder]
+ 6.8s  Twenty-six strangers become one group by the second lap around the lake.   [insert, mixed group laughing together, clearly bonded]
+10.6s  We could probably fit more. We've decided not to find out.             [closing line, wry, wide, full happy boat, sunset]
+
+On-screen CTA: "Bring the whole group. All 26 of you."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

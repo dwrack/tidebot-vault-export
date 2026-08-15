@@ -1,0 +1,11 @@
+PIECE 165 — Funny/Quotable lane — Deadpan list / Lost-and-found device, new territory — "Lost & Found"
+Voice: The Announcer (EL-Daniel) — formal register, played straight   Music: dry mock-PSA bed   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Monthly lost-and-found update. Read in full, as required.               [Announcer VO formal played straight, close, crew holding a small bin of items]
+ 3.0s  One pair of sunglasses. Two flip-flops, unmatched, from two different trips.   [insert, bin contents, deadpan]
+ 6.4s  A birthday sash reading "Bride Tribe," claimed by nobody in the actual bride tribe.   [insert, sash held up, deadpan]
+10.0s  A single AirPod. Its owner has called four times. We understand the feeling.   [insert, single AirPod in a bag, deadpan]
+13.6s  Everything held thirty days. After that, it becomes crew property. Allegedly.   [closing line, wry, crew shrugging]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

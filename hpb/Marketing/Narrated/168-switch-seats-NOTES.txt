@@ -1,0 +1,10 @@
+PIECE 168 — Funny/Quotable lane — Groomsman / Mixer-mechanic, new device, flagged experiment — "The Captain Makes You Switch Seats"
+Voice: The Groomsman (voice-en-GB-RyanNeural, free tier) — chill, dry, warm underneath   Music: warm-dry acoustic bed, light swell   Length: 13.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Halfway through every trip, the captain makes everybody switch seats. Nobody asked him to.   [Groomsman VO dry warm, wide, captain gesturing, guests good-naturedly shuffling spots]
+ 3.4s  Bow people go to the stern. Strangers end up next to strangers.          [insert, guests laughing, shuffling past each other on the narrow deck]
+ 6.8s  By the second half, nobody's a stranger.                                [insert, new seatmates already laughing together, sharing a drink]
+10.0s  He didn't invent the seating chart. He just refuses to let anybody sit still in it.   [closing line, dry, wide, captain smiling faintly, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,11 @@
+PIECE 169 — Funny/Quotable lane — Old Salt / Regional-dialect captain-line, second angle — "Fixin' To Shove Off"
+Voice: The Old Salt (EL-George) — older, wry, warm   Music: warm folksy acoustic bed, light slide-guitar touch   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip starts the same way. Somebody tells the dock we're "fixin' to shove off."   [Old Salt VO wry warm, close, dock lines being untied]
+ 3.0s  Half our guests aren't from Texas. They ask what "fixin' to" actually means.   [insert, guest laughing, asking, deckhand grinning]
+ 6.4s  It means we're about to. Just slower, and with more warmth in it.        [Old Salt, warm, wry]
+10.0s  By the ride home, they're saying it too.                                 [insert, guest laughing, saying "y'all fixin' to dock?"]
+13.4s  Houston does that to people.                                            [closing tag, wry, sunset, boat easing to the dock]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

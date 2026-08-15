@@ -1,0 +1,10 @@
+PIECE 176 — Funny/Quotable lane — Roger / Crew-culture running joke, new device — "Check The Deckhand's Face, Not The App"
+Voice: Roger (voice-en-US-RogerNeural, free tier) — mock-official delivery   Music: light comedic bed, meteorological-parody sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Regulars don't check the weather app before they book. They check the deckhand's face.   [Roger VO mock-official deadpan, close, deckhand looking at the sky, deadpan expression]
+ 3.4s  Relaxed face, it's a go. Squinting-at-the-horizon face, ask a few more questions.   [insert, deckhand squinting, guests reacting]
+ 7.2s  The app's been wrong more times than he has. He won't confirm that on the record.   [insert, deckhand smirking, shaking head]
+11.0s  Unofficial forecasting system. Somehow the more accurate one.          [closing line, wry, wide, boat departing under clear skies]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

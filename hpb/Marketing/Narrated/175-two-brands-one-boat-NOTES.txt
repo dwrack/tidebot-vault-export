@@ -1,0 +1,12 @@
+PIECE 175 — Funny/Quotable lane — Groomsman / Dual-brand meta device, sourced from real Brand Story dual-voice structure, CTA piece — "Two Brands, One Boat"
+Voice: The Groomsman (voice-en-GB-RyanNeural, free tier) — chill, dry, warm underneath   Music: dry-warm acoustic-pop bed   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Houston Party Barge. Houston Booze Cruise. Same two boats, same crew, different name on the day.   [Groomsman VO chill dry warm, wide, boat exterior]
+ 3.8s  Nobody's tricking anybody. It's the same Delta Dream and Mama Tried either way you found us.   [insert, hull name visible, deckhand shrugging]
+ 7.8s  One name leans "girls' day out." The other leans "let's get rowdy."     [insert, quick contrast: calmer group, then louder group]
+11.6s  Book under whichever one made you laugh first. You end up on the same water.   [closing line, dry, warm, wide, boat cruising, sunset]
+
+On-screen CTA: "Found us under either name? Good. Book it."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

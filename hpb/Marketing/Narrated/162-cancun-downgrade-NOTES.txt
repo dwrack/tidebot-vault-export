@@ -1,0 +1,11 @@
+PIECE 162 — Funny/Quotable lane — Running joke / Budget-downgrade humor, new territory — "The Girls' Trip That Was Supposed To Be Cancún"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural, free tier) — earnest, mildly amused   Music: light breezy acoustic-pop, budget-humor bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Six months ago, this was a Cancún trip. Flights booked, resort picked, the whole thing.   [Sunscreen Friend VO earnest amused, wide, group boarding, one holding old vacation printouts]
+ 3.4s  Then everybody actually looked at their bank account in the same group chat.   [insert, guests laughing, one wincing, phone implied]
+ 7.0s  Now it's a Tuesday afternoon on Clear Lake. Same "Cancún 2026" koozies they already bought.   [insert, guests holding printed koozies, laughing at the irony]
+11.2s  Nobody's tan is different. Everybody's rent got paid.                     [wide, group toasting, sunset]
+13.8s  Should've done this the first time.                                       [closing line, warm, group laughing, boat cruising]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

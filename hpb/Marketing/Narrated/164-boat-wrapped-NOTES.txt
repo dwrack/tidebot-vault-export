@@ -1,0 +1,11 @@
+PIECE 164 — Funny/Quotable lane — Deadpan list / Mock season-recap device, new territory, flagged experiment — "Boat Wrapped"
+Voice: Mama Tried's voice (EL-Brian, premium) — flat, deadpan list-comedian   Music: comedic syncopated bed, stat-reveal stings   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Boat Wrapped. Season stats, whether you asked for them or not.           [Mama Tried VO flat deadpan, wide, deck lights on, mock end-of-season recap framing]
+ 3.0s  Most requested song: something guests will deny requesting by Monday.    [insert, deckhand at the Bluetooth speaker, deadpan]
+ 6.2s  Most-used deckhand phrase: "Watch your step, not your phone."           [insert, deckhand steadying a guest's hand while boarding]
+ 9.8s  Total sunscreen reapplications logged: more than the total number of guests.   [insert, guest slathering on sunscreen, deadpan]
+13.2s  That's a wrap. Same time next season.                                    [closing line, wry, sunset, boat easing to the dock]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

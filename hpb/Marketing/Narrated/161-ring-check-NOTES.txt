@@ -1,0 +1,11 @@
+PIECE 161 — Funny/Quotable lane — Bachelorette lines / Boarding bit, new device — "Ring Check"
+Voice: Roger (voice-en-US-RogerNeural, free tier) — mock-official delivery   Music: mock-PA loudspeaker bed, comedic alarm-esque sting on "cleared"   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Attention, bachelorette party. Before we shove off: mandatory ring check.   [Roger VO mock-official, wide, deckhand with a clipboard, bachelorette group lined up on the dock]
+ 2.8s  Engagement ring: out of the box, off the hand, into the zip pocket.        [insert, bride showing a zipped pocket, deckhand nodding approval]
+ 6.0s  Plastic rings from the bachelorette kit: those you're cleared to wear all night.   [insert, bridesmaids holding up novelty rings, laughing]
+ 9.4s  We've fished exactly one real ring out of Clear Lake. We'd like to keep that number at one.   [Roger deadpan, wide, deckhand gesturing at the water]
+13.0s  Ring check cleared. Let's go get her married.                            [closing line, group cheering, boat pulling off the dock]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

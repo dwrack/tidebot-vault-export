@@ -1,0 +1,12 @@
+PIECE 167 — Funny/Quotable lane — Captain-line / Objection-kill, contrarian (cruise-ship comparison), CTA piece — "This Isn't A Cruise Ship"
+Voice: The Captain (EL-Eric) — dry, unbothered, deadpan authority   Music: confident mid-tempo bed, dry   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  People ask if there's a buffet. There is not a buffet.                  [Captain VO dry unbothered, wide, captain at the helm, deadpan]
+ 3.0s  No itinerary. No dress code. No assigned seating, ever.                 [insert, guests scattered casually around the deck, standing, sitting, chatting]
+ 6.4s  You bring the drinks. You bring the music. I bring the boat and the license.   [Captain, dry, small smirk, hand on the wheel]
+10.0s  This isn't a cruise ship. It's your afternoon with an engine.           [closing line, wide, boat cruising open water, sunset]
+
+On-screen CTA: "Book yours. No formalwear required."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

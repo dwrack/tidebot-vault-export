@@ -1,0 +1,10 @@
+PIECE 172 — Funny/Quotable lane — Captain-line / Credibility bit, sourced from real USCG certification — "Subchapter T, Translated"
+Voice: Roger (voice-en-US-RogerNeural, free tier) — mock-official delivery   Music: dry mock-official bed, light comedic sting   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Both our boats are USCG Subchapter T certified. Most guests hear that and just nod politely.   [Roger VO mock-official deadpan, close, captain holding certification paperwork, guests half-listening]
+ 3.6s  Translated: the Coast Guard inspects this boat. Not once. Regularly.    [insert, inspection paperwork or decal, deadpan]
+ 7.4s  It's the same category of certification passenger ferries carry. We just also have a cooler.   [Roger, deadpan, small smirk]
+11.4s  Boring paperwork. Genuinely reassuring paperwork.                      [closing line, wry, wide, boat cruising, guests relaxed]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
