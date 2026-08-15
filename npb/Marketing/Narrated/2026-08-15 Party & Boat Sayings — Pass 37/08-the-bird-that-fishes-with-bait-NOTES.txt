@@ -1,0 +1,28 @@
+PIECE 08 — Did-you-know / practical lane — "The Bird That Fishes With Bait"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Daniel (ElevenLabs)   Music: earthy Cajun roots, Beausoleil reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most birds out here wait for breakfast to swim by. This one sets a trap for it.   [wide shot: kayaks gliding past cypress, a green heron perched low]
+ 3.5s  The green heron drops a twig, a bug, sometimes a feather, onto the water on purpose.   [close-up: heron dropping something small onto the water]
+ 7.5s  Small fish come up to investigate. The heron was counting on exactly that.   [close-up: ripples on the water, heron watching intently]
+11.0s  One of a small handful of birds on the planet that uses a tool to hunt. This one's about the size of a crow.   [wide shot: heron in profile, small and compact]
+15.5s  You came for the alligators. Don't skip the bird that outsmarts fish for a living.   [closing wide shot: kayaks continuing past, heron still fishing]
+
+ON-SCREEN TEXT TREATMENT:
+"TOOL-USING BIRD" appears briefly as a small lower-third label at 11.0s, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks gliding past cypress, heron perched low (opener)
+- Close-up: heron dropping bait onto the water
+- Close-up: ripples, heron watching
+- Wide shot: heron in profile
+- Closing wide shot: kayaks continuing past, heron still fishing
+
+SOURCE GROUNDING: An original, illustrative concept built on documented ornithology (green heron bait-fishing, tool use), not sourced from a specific vault doc. Checked against this series' inventory of already-centered bird facts (anhinga, prothonotary warbler, barred owl) and confirmed distinct.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's factual specificity and proof instinct, a real, verifiable behavior beats a vague "smart bird," with Bencivenga's mechanism instinct on getting it right: the heron drops bait to lure fish, not just "does something clever"). Then /copywriting-2.0 (3-test filter): cut an early draft's "basically a bird genius," flagged as an unfalsifiable superlative, rewritten to the specific, checkable "one of a small handful of birds on the planet that uses a tool to hunt."
+
+PRODUCTION FLAG: The tool-use behavior itself is documented ornithology. Presence of green herons specifically on NPB's actual eco tour route is assumed consistent with prior wildlife-spotlight pieces in this series but wasn't independently reconfirmed this pass. Confirm sightings are common enough on the actual route before treating this as a guaranteed moment rather than an occasional one.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Bencivenga) then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 04 — Heartfelt / practical lane — "The Question on the Form Nobody Expects to Matter"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: warm piano blues, Marcia Ball reference (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's one line on the booking form most people skip. "Anything we should know about your group?"   [close-up: booking form on a phone screen, cursor on the question]
+ 4.0s  Most groups leave it blank. One guy typed four words: "My sister hates deep water."   [close-up: guest typing on a phone]
+ 8.0s  Nobody makes an announcement. The captain just quietly keeps the boat closer to the bank on her side.   [wide shot: boat cruising near the shoreline]
+12.5s  She never finds out why the ride felt easier than she expected.   [close-up: guest relaxed, smiling, unaware]
+15.0s  Small line on a form. Nobody sees the work behind it.   [closing wide shot: boat cruising, group relaxed]
+
+ON-SCREEN TEXT TREATMENT:
+The typed form entry ("MY SISTER HATES DEEP WATER") appears briefly as a text-field overlay at 4.0s, cursor blinking, clears before the next line.
+
+SHOT LIST:
+- Close-up, booking form, cursor on the question (opener)
+- Close-up: guest typing the four words
+- Wide shot: boat cruising near the shoreline
+- Close-up: guest relaxed, unaware
+- Closing wide shot: boat cruising, group relaxed
+
+SOURCE GROUNDING: Sourced from idea #7 ("Tell Us Something We Should Know" prompt) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's specificity, an exact quoted form entry beats a vague "special request," with a Halbert instinct on the quiet, unannounced follow-through). Then /copywriting-2.0 (3-test filter): flagged an early draft where the captain explained the accommodation to the sister directly, which would have turned this into a spoken reveal and risked reskinning the retired guest-expectations-corrected device (a device this series formally retired after saturation). Rewrote it so she never finds out why the ride felt easier, keeping the payoff with the audience watching the video rather than a moment the guest receives on camera. This structural check is the reason the piece stayed in the draft.
+
+PRODUCTION FLAG: Not confirmed that this specific form field currently exists in the FareHarbor booking flow, or that route adjustments like this happen in practice. Confirm both before treating as documented capability rather than proposed practice.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Halbert) then /copywriting-2.0 (3-test filter, one structural rewrite logged above).

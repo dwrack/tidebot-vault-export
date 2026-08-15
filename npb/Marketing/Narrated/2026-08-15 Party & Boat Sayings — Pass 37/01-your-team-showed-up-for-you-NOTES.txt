@@ -1,0 +1,28 @@
+PIECE 01 — Heartfelt / corporate lane — "Your Team Showed Up for You"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: warm soul guitar, Deacon John reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A corporate group boards like corporate groups always do. A little stiff, half of them still on their phones.   [wide shot: group boarding in business-casual, several checking phones]
+ 3.0s  Then somebody quietly points out who actually planned the whole thing.   [close-up: guests glancing toward one person, an admin or manager]
+ 5.5s  The captain doesn't make a speech. Just leans in and says it plain: "Your team showed up for you. That's not nothing."   [close-up: captain speaking to a manager, no fanfare]
+10.0s  Nobody claps. The boss just looks around the boat a second too long.   [wide shot: boss glancing at the team, quiet]
+13.0s  Ten minutes later, phones are away and somebody's already dancing.   [closing wide shot: group loosened up, dancing, phones down]
+
+ON-SCREEN TEXT TREATMENT:
+None. The captain's line is the whole piece; text on top of it would undercut the delivery.
+
+SHOT LIST:
+- Wide shot, group boarding, phones out (opener)
+- Close-up: guests glancing toward the organizer
+- Close-up: captain speaking to the manager, no fanfare
+- Wide shot: boss looking around the boat
+- Closing wide shot: group dancing, phones away
+
+SOURCE GROUNDING: Sourced from idea #58 (executive acknowledgment) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`. This is also the piece that fills the gap Pass 36 explicitly left open in its own "still untapped" notes: a genuinely fresh spoken captain line delivered straight, not a recurring personal catchphrase and not inside a parody frame like Pass 36's mock captain's-log piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, unadorned honesty, the line does its own work with no need to explain it, alongside Ogilvy's specificity on what surrounds it: phones out at boarding, phones away by the close, makes the shift visualizable instead of asserted). Then /copywriting-2.0 (3-test filter): cut an early draft's closing line, "and just like that, the boat did its job," flagged as a self-congratulatory brand statement rather than an observed beat, rewritten to "ten minutes later, phones are away and somebody's already dancing," which is concrete and falsifiable.
+
+PRODUCTION FLAG: The line itself is not confirmed as something a captain currently says on corporate bookings. Before shooting, ops should decide whether to adopt it as a real move or treat this as illustrative. No captain is named on camera, consistent with the crew-anonymity convention this series has followed since Pass 23.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Ogilvy) then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 11 — Heartfelt / practical lane — "The Tour Guide Talks Different to Locals"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: authentic bayou blues, Tab Benoit reference (clearance unconfirmed)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A January cruise, mostly locals, and the guide's whole delivery changes.   [wide shot: kayaks launching on a cool, quiet morning, small group]
+ 3.5s  Less "here's your alligator," more "y'all already know this part, let me show you something else."   [close-up: guide speaking casually, guests nodding]
+ 8.0s  The questions get sharper too. Somebody asks about water levels, not just whether they'll see a gator.   [close-up: guest asking a question, guide answering]
+12.0s  Tourists get the highlight reel. Locals get the guide's actual favorite forty minutes.   [wide shot: kayaks moving through a quieter stretch of cypress]
+15.0s  Off-season isn't the slow version of this tour. It's the honest one.   [closing wide shot: kayaks gliding, winter light through bare cypress]
+
+ON-SCREEN TEXT TREATMENT:
+None, matches the quieter, more conversational register of the piece.
+
+SHOT LIST:
+- Wide shot, kayaks launching on a cool morning, small group (opener)
+- Close-up: guide speaking casually, guests nodding
+- Close-up: guest asking a sharper question
+- Wide shot: kayaks in a quieter stretch of cypress
+- Closing wide shot: kayaks gliding, winter light through bare cypress
+
+SOURCE GROUNDING: Sourced from idea #89 ("Locals Only" off-season specials) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`. Winter, bare-cypress visuals are used only as background staging here, not as a centered trivia hook, so this doesn't reskin Pass 36's dedicated fall-cypress-color piece, which centers the color-change fact itself rather than using winter cypress as backdrop.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, specific contrast, tourists versus locals, highlight reel versus the guide's actual favorite stretch, with Ogilvy's instinct to ground the claim in something concrete: a guest asking about water levels instead of the expected "will we see a gator"). Then /copywriting-2.0 (3-test filter): cut an early draft's closer, "the tour finally gets to be itself," flagged as vague, rewritten to "off-season isn't the slow version of this tour, it's the honest one," which takes a position instead of offering a platitude.
+
+PRODUCTION FLAG: The specific behavioral claim, guide delivery and guest question style shifting for a mostly-local audience, is a plausible, illustrative observation, not independently confirmed. Confirm with a guide before treating as documented rather than proposed color. Guide stays unnamed on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Ogilvy) then /copywriting-2.0 (3-test filter, one rewrite logged above).

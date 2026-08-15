@@ -1,0 +1,26 @@
+PIECE 12 — Poetic / sensory lane — "The Smell Nobody Bottles"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: atmospheric Cajun, Lost Bayou Ramblers reference (clearance unconfirmed)   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody warns you about the smell before you get here.   [wide shot: kayaks gliding into cypress shade]
+ 3.0s  Not swamp gas. Not mud. Wet bark, crushed green leaves, and something sweet underneath you can't quite name.   [close-up: paddle dipping into still water]
+ 7.5s  Sweet olive blooms somewhere close by most of the year, and the whole swamp quietly borrows its perfume.   [close-up: light filtering through leaves]
+11.5s  You won't find it in a candle. You have to paddle in to get it.   [closing wide shot: kayaks continuing through dappled light]
+
+ON-SCREEN TEXT TREATMENT:
+None, matches the Admire NOLA poetic lane's convention of letting VO and visual carry it.
+
+SHOT LIST:
+- Wide shot, kayaks gliding into cypress shade (opener)
+- Close-up: paddle dipping into still water
+- Close-up: light filtering through leaves
+- Closing wide shot: kayaks continuing through dappled light
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc. This is the first piece in 157 pieces across this series to anchor itself on smell rather than sight or sound.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling the poetic register of the Admire NOLA Lane 1 notes, a concrete sensory image over an abstract description, "wet bark, crushed green leaves" beats "earthy smell," with Ogilvy's grounding instinct on naming the actual plant, sweet olive, rather than a vague "flowers"). Then /copywriting-2.0 (3-test filter): confirmed the piece passes clean, no cuts needed, every line already concrete and visualizable.
+
+PRODUCTION FLAG: Sweet olive's bloom pattern in Louisiana is broad but not literally year-round; "most of the year" is accurate as a general pattern. Verify against the specific route's actual vegetation, and soften further if needed, before treating this as a guaranteed sensory experience on every single tour.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (poetic register/Ogilvy) then /copywriting-2.0 (3-test filter, confirmed clean, no cuts needed).

@@ -1,0 +1,28 @@
+PIECE 03 — Heartfelt / practical lane — "The Card She Read Out Loud"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-RogerNeural (free tier)   Music: soulful blues vocal feel, Marva Wright reference (clearance unconfirmed)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Big bookings get a card in the mail a few days later. Not an email, an actual card.   [wide shot: mailbox, envelope pulled out]
+ 3.5s  The organizer opens it standing in her kitchen, still in work clothes.   [close-up: woman opening an envelope]
+ 6.5s  "Thanks for trusting us with your fortieth. Your group was incredible." Handwritten, not printed.   [close-up: the card itself, visible handwriting]
+10.5s  She reads it out loud to whoever's in the room, because nobody sends handwritten anything anymore.   [medium shot: woman reading aloud to a family member nearby]
+14.0s  Cost the company a stamp. Bought itself a whole afternoon of goodwill.   [closing shot: card propped on a kitchen counter]
+
+ON-SCREEN TEXT TREATMENT:
+None, matches the quiet, unhurried register of the piece.
+
+SHOT LIST:
+- Wide shot, mailbox, envelope pulled out (opener)
+- Close-up: woman opening the envelope in her kitchen
+- Close-up: the card, handwriting visible
+- Medium shot: woman reading aloud to someone nearby
+- Closing shot: card propped on the counter
+
+SOURCE GROUNDING: Sourced from idea #38 (handwritten card for big bookings, corporate/weddings/milestone birthdays) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`. A milestone birthday (fortieth) was chosen from the idea's listed examples for a light, celebratory occasion rather than a heavier one.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, specific warmth with Bencivenga's proof instinct, "her fortieth" and "still in work clothes" are concrete, ownable details a generic version would lose). Then /copywriting-2.0 (3-test filter): cut an original closer, "and that's the kind of thing that stays with you," flagged as abstract sentiment rather than a checkable claim, rewritten to "cost the company a stamp, bought itself a whole afternoon of goodwill," which passes the falsify test as a specific, plausible trade.
+
+PRODUCTION FLAG: Not confirmed as a current, consistently executed practice across every milestone booking. Confirm with ops which booking types actually receive a card, and who writes it, before treating this as documented rather than proposed practice.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Bencivenga) then /copywriting-2.0 (3-test filter, one rewrite logged above).

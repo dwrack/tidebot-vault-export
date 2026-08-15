@@ -1,0 +1,28 @@
+PIECE 02 — Funny / observational lane — "Nobody Agrees What to Call the Blue Container"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: playful funk, New Orleans Suspects reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody waiting to board calls it something different.   [wide shot: guests gathered near the container bar before boarding]
+ 3.0s  One guy calls it "the shipping container bar." His girlfriend calls it "the blue thing."   [close-up: guest gesturing, girlfriend correcting him, laughing]
+ 6.5s  A bachelorette group's already renamed it "the pregame box." No vote was taken.   [close-up: group laughing, one guest pointing it out to the others]
+ 9.5s  Nobody's right, nobody's wrong. It's just where the party quietly starts.   [wide shot: guests mingling, drinks in hand, waiting to board]
+12.5s  By the time the boat pulls out, nobody remembers needing a name for it at all.   [closing wide shot: boat departing, the container visible on the dock behind]
+
+ON-SCREEN TEXT TREATMENT:
+Each nickname ("THE SHIPPING CONTAINER BAR," "THE BLUE THING," "THE PREGAME BOX") pops up in quotes as it's spoken, casual handwritten-style font, clears fast.
+
+SHOT LIST:
+- Wide shot, guests gathered near the container bar (opener)
+- Close-up: guest and girlfriend disagreeing on the name
+- Close-up: bachelorette group laughing, renaming it
+- Wide shot: guests mingling before boarding
+- Closing wide shot: boat departing, container visible behind
+
+SOURCE GROUNDING: Sourced from idea #83 (container bar as gathering point) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`. This piece deliberately avoids presenting any one nickname as an established company ritual, since a settled, official name would risk reskinning the retired invented-ritual-presented-as-fact device; the whole joke is that nothing is settled and three different names coexist at once.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's observational curiosity with Halbert's plain specificity, three actual competing nicknames beat a vague "everyone calls it something"). Then /copywriting-2.0 (3-test filter): cut an early draft's line 4, "everybody thinks their name is the real one," flagged as an assumption stated as fact rather than something visualizable, rewritten to the three concrete quotes plus "no vote was taken."
+
+PRODUCTION FLAG: Confirm the container bar is currently an active pre-cruise gathering spot, and that guests naturally cluster there before boarding, before treating this as documentary rather than proposed color.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 09 — Funny / practical lane — "The Warning That Turns Into a Group Cheer"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Sarah (ElevenLabs)   Music: energetic funk, The Wild Magnolias reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  First time a guide calls "wake!" everybody in the kayak grabs the sides.   [wide shot: kayaks bracing, guide gesturing toward an approaching wake]
+ 3.0s  Second time, a few people brace, but somebody laughs.   [close-up: guests bracing, one grinning]
+ 6.0s  Third time, half the group's yelling "wake!" before the guide even does.   [medium shot: guests calling out, pointing]
+ 9.5s  By the last one, it's not a warning anymore. It's the best two seconds of the tour.   [wide shot: kayak rocking gently over a wake, guests cheering]
+13.0s  Started as a safety call. Nobody told it to become the highlight.   [closing wide shot: kayaks steady again, group laughing]
+
+ON-SCREEN TEXT TREATMENT:
+None, the escalating repetition of "wake!" carries the beat without needing text on top of it.
+
+SHOT LIST:
+- Wide shot, kayaks bracing for a wake (opener)
+- Close-up: guests bracing, one laughing
+- Medium shot: guests calling out ahead of the guide
+- Wide shot: kayak rocking gently, guests cheering
+- Closing wide shot: kayaks steady, group laughing
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc. Checked against this series' inventory of retired/spoken-for devices and confirmed distinct from Pass 29's "Two Taps Means Look Right" (a taught spotting signal) and "One Word. Go." (a closing ritual); this piece is about a safety call's reception shifting over the course of one tour, not a taught signal or a closing line.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's escalation structure, first time, second time, third time, each beat shifting the reaction, with Halbert's plain, unadorned observation). Then /copywriting-2.0 (3-test filter): cut an early draft's "guests learn to love the chaos," flagged as vague ad language, rewritten to the specific "the best two seconds of the tour."
+
+PRODUCTION FLAG: Illustrative behavioral observation of a plausible guide practice, calling "wake" as a heads-up when a passing vessel's wake approaches the kayaks. Confirm with a naturalist guide whether this specific call is standard current practice before treating as documented rather than proposed color.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, one rewrite logged above).

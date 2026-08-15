@@ -1,0 +1,28 @@
+PIECE 07 — Practical / partnership lane — "What the Concierge Says When You Ask What Else to Do"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: upbeat zydeco, Terrance Simien reference (clearance unconfirmed)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask a hotel concierge in the Quarter what's actually worth a half-day, and it's not always what's on the brochure.   [wide shot: hotel exterior or concierge desk, generic feel]
+ 3.5s  A few of them have started saying the same specific thing: "Skip the second walking tour. Go see the swamp instead."   [close-up: concierge speaking, gesturing]
+ 8.0s  Nobody trained them to say that. They just noticed which guests came back talking about it.   [medium shot: guests checking a city map at a hotel desk]
+12.0s  Word doesn't travel because of an ad. It travels because somebody behind a desk actually meant it.   [wide shot: kayaks launching, guests who clearly just arrived from the city]
+15.0s  That's the whole reason half this boat showed up today.   [closing wide shot: kayaks gliding into cypress]
+
+ON-SCREEN TEXT TREATMENT:
+The concierge's quoted line ("SKIP THE SECOND WALKING TOUR. GO SEE THE SWAMP INSTEAD.") appears as a brief lower-third caption synced to when it's spoken, clears fast.
+
+SHOT LIST:
+- Wide shot, hotel exterior or concierge desk (opener)
+- Close-up: concierge speaking
+- Medium shot: guests checking a map at a hotel desk
+- Wide shot: kayaks launching
+- Closing wide shot: kayaks gliding into cypress
+
+SOURCE GROUNDING: Sourced from idea #80 (hotel concierge relationship) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`. No hotel or concierge is named or identified on camera.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's proof instinct, a specific quoted recommendation beats a vague "concierges love us," with Halbert's plain honesty on the "nobody trained them" detail, which keeps the claim modest rather than boastful). Then /copywriting-2.0 (3-test filter): cut an early draft's "the best advertising money can't buy," a stock ad-copy phrase that reads like marketing language rather than something a person says, rewritten to "word doesn't travel because of an ad, it travels because somebody behind a desk actually meant it."
+
+PRODUCTION FLAG: Not confirmed as an existing, active concierge relationship with a specific documented recommendation. Confirm which hotels, if any, actually recommend the tour by name before treating this as more than an aspirational partnership goal.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Halbert) then /copywriting-2.0 (3-test filter, one rewrite logged above).

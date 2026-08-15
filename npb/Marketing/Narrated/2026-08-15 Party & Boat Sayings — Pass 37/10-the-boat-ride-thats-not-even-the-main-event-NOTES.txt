@@ -1,0 +1,28 @@
+PIECE 10 — Funny / seasonal lane — "The Boat Ride That's Not Even the Main Event"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: festive zydeco, Zachary Richard reference (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Jazz Fest weekend, and somehow the swamp still gets booked solid before noon.   [wide shot: kayaks launching, festival wristbands visible on a few guests]
+ 3.5s  Turns out paddling past alligators is a pretty good way to kill time before a set that doesn't start till two.   [close-up: guest checking a festival schedule on a phone, wristband visible]
+ 8.0s  Nobody planned to spend Jazz Fest morning in a swamp. Somebody's itinerary just had a gap.   [medium shot: kayaks gliding through cypress]
+11.5s  By the time the tour ends, half the group's forgotten they're even headed to the Fairgrounds.   [wide shot: kayaks paddling back, guests laughing]
+14.5s  The main event can wait twenty more minutes.   [closing wide shot: kayaks continuing through cypress light]
+
+ON-SCREEN TEXT TREATMENT:
+None, keeps the self-deprecating tone conversational.
+
+SHOT LIST:
+- Wide shot, kayaks launching, festival wristbands visible (opener)
+- Close-up: guest checking a schedule on a phone
+- Medium shot: kayaks gliding through cypress
+- Wide shot: kayaks paddling back, guests laughing
+- Closing wide shot: kayaks continuing through cypress light
+
+SOURCE GROUNDING: Loosely sourced from idea #85 (Jazz Fest shuttle cruise) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`. This piece does not depict or claim an actual shuttle/van partnership to the Fairgrounds, since that partnership isn't confirmed to exist; it uses only the underlying timing insight (the tour fits neatly before an afternoon Jazz Fest set).
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's conversational, slightly self-deprecating humor, the tour openly admits it's "not the main event," which reads more human than a boastful claim, with Sugarman's curiosity opener, "somehow," setting up a small question the piece answers). Then /copywriting-2.0 (3-test filter): cut an early draft's "the best warmup Jazz Fest never advertised," flagged as reading like a tagline rather than observed color, rewritten to the plainer "somebody's itinerary just had a gap."
+
+PRODUCTION FLAG: If shot, caption should avoid implying NPB provides Jazz Fest transportation unless that's independently confirmed. No specific festival artist or set is named.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Sugarman) then /copywriting-2.0 (3-test filter, one rewrite logged above).

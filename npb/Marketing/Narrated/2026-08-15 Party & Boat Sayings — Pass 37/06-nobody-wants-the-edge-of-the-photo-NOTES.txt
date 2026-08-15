@@ -1,0 +1,28 @@
+PIECE 06 — Funny / punchy lane — "Nobody Wants the Edge of the Photo"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: rollicking rock, The Radiators reference (clearance unconfirmed)   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group photo on this boat starts with the same negotiation.   [wide shot: group clustering for a photo, some jostling]
+ 3.0s  "Wait, am I gonna get cut off?" Somebody says it. Every single time.   [close-up: guest checking their position in frame]
+ 6.0s  Three people scoot in from the edges at once. Nobody scoots back.   [medium shot: guests squeezing toward the center]
+ 9.0s  Takes four tries. Comes out perfect anyway.   [close-up: crew member holding up the phone, showing the photo]
+11.5s  Nobody remembers who almost got cut off. Everybody remembers the photo.   [closing wide shot: group looking at the photo together, laughing]
+
+ON-SCREEN TEXT TREATMENT:
+None, pacing stays snappy without it.
+
+SHOT LIST:
+- Wide shot, group clustering for a photo (opener)
+- Close-up: guest checking their position
+- Medium shot: guests squeezing toward the center
+- Close-up: crew member showing the photo
+- Closing wide shot: group laughing at the result
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's momentum, three quick beats build to the punchline, with Halbert's plain observational humor). Then /copywriting-2.0 (3-test filter): cut an early draft's "everyone's an amateur photographer's nightmare," flagged as reading like ad copy rather than something a person would actually say or notice, rewritten to the concrete "three people scoot in from the edges at once, nobody scoots back."
+
+PRODUCTION FLAG: None. Illustrative observational bit, safe to shoot as written.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, one rewrite logged above).

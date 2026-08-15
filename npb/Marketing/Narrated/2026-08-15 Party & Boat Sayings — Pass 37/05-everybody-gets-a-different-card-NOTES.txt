@@ -1,0 +1,28 @@
+PIECE 05 — Funny / observational lane — "Everybody Gets a Different Card"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: quirky brass and ska, Egg Yolk Jubilee reference (clearance unconfirmed)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask a crew member where to eat after, and you don't get a website. You get a card.   [wide shot: guest asking a crew member a question at the dock]
+ 3.5s  Their card. Their own three picks, nobody else's.   [close-up: small printed card handed over]
+ 6.5s  One deckhand's card says a gas station po'boy spot. Another's says white tablecloths. Same city, two different nights.   [close-up: two different cards side by side, guests comparing]
+11.0s  Compare cards with a friend who asked somebody else, and suddenly you've got an argument going.   [medium shot: two guests debating, cards in hand, laughing]
+14.0s  Nobody's card is the official one. That's kind of the whole point.   [closing wide shot: guests walking off the dock, cards still in hand]
+
+ON-SCREEN TEXT TREATMENT:
+None, lets the two compared cards carry the visual gag.
+
+SHOT LIST:
+- Wide shot, guest asking a crew member a question (opener)
+- Close-up: card handed over
+- Close-up: two different cards side by side
+- Medium shot: two guests debating, laughing
+- Closing wide shot: guests walking off the dock, cards in hand
+
+SOURCE GROUNDING: Sourced from idea #75 (crew picks for local recs, personal cards) in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's specificity, "a gas station po'boy spot" against "white tablecloths" is concrete and visual, beats a vague "different tastes," with Sugarman's curiosity build toward the "argument" payoff). Then /copywriting-2.0 (3-test filter): cut a flatter original closer, "everyone's got their own New Orleans," flagged as abstract sloganeering that fails the nobody-else-could-say-it test, rewritten to "nobody's card is the official one, that's kind of the whole point."
+
+PRODUCTION FLAG: Confirm this program is actually in place with printed personal cards before treating as documented current practice rather than proposal. Crew stays unnamed on camera, consistent with the series' convention since Pass 23.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 37, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Sugarman) then /copywriting-2.0 (3-test filter, one rewrite logged above).
