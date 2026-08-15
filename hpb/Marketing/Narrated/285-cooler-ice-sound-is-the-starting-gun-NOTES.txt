@@ -1,0 +1,14 @@
+PIECE 285 — Funny/Quotable lane (sensory/observational) — The Announcer (2nd appearance, Vol. 18) / "The Cooler Ice Sound Is The Starting Gun"
+Voice: EL-Daniel.mp3 ("The Announcer," formal "news"/memo register, played straight)   Music: light comedic bed, single percussive hit on the ice-pour beat   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a sound this boat makes right before it actually starts. It's ice hitting a cooler. [Announcer VO formal deadpan, wide, cooler on deck]
+ 3.8s  Bag rips open, ice dumps in, and something shifts in the whole group.                       [insert, close-up, ice bag pouring into cooler]
+ 7.6s  Doesn't matter what else is happening. Everybody hears it.                                  [insert, guests perking up, turning toward the sound]
+11.4s  That's the sound. The trip just started.                                                    [closing line, wide, golden hour, group energized]
+
+On-screen text: Hook = "THE SOUND THAT MEANS THE TRIP STARTED" | Body = "it's ice hitting a cooler. that's it." | CTA: none.
+
+NOTE: sensory/observational device, no factual claim to confirm — safe to shoot opportunistically on any real charter with a cooler being loaded. Sound design matters most on this one; get clean audio of the actual ice pour if possible rather than relying only on a foley substitute.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

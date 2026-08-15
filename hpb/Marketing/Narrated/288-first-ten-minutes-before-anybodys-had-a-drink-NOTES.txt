@@ -1,0 +1,14 @@
+PIECE 288 — Funny/Quotable lane (sincere closer) — The Sunscreen Friend (1st appearance, Vol. 18) / "The First Ten Minutes, Before Anybody's Had A Drink"
+Voice: voice-en-US-BrianNeural.mp3 ("The Sunscreen Friend," earnest, mildly amused, clearly loves everyone — free tier, not EL-Brian)   Music: quiet warm acoustic bed, sincere register, no comedic sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  The first ten minutes off the dock, nobody's had a drink yet.                              [Sunscreen Friend VO warm earnest, wide, boat clearing the marina]
+ 3.8s  Just the water, the boat clearing the marina, and twenty-some people getting quiet at once. [insert, guests looking out quietly, small genuine smiles]
+ 7.8s  Nobody's performing yet. Nobody has to.                                                     [insert, calm faces, natural sound, no music sting]
+11.6s  Then somebody opens a cooler, and the actual party starts.                                  [closing line, wide, golden hour, cooler opening, group energy lifting]
+
+On-screen text: Hook = "THE FIRST TEN MINUTES, BEFORE ANYBODY'S HAD A DRINK" | Body = "twenty-some people getting quiet at once" | CTA: none.
+
+NOTE: closes the volume on the same sincere, non-comedic register as prior volume closers (piece 240, Vol. 15; piece 256, Vol. 16; piece 272, Vol. 17) — a distinct specific image (the quiet window right after leaving the dock, before the party visibly ramps up) rather than any prior closer's image. "Twenty-some people" ties to the brand's confirmed 26-guest capacity per boat (Brand Story & Values) without stating an exact headcount that might not match a given real charter. Keep this piece's music and captioning separate from the comedic-lane pieces in this same volume, same discipline prior volumes applied to their own sincere closers.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 281 — Funny/Quotable lane — Mama Tried's voice (1st appearance, Vol. 18) / "How Deep Is It?"
+Voice: EL-Brian.mp3 ("Mama Tried's voice," flat, deadpan list-comedian)   Music: dry, minimal comedic bed   Length: 13.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody asks the captain how deep the lake is. Every single trip.  [Mama Tried VO flat deadpan, wide, guest at helm asking captain]
+ 3.6s  "Deep enough." That's the whole answer. Every time.                 [insert, captain's deadpan face, no elaboration]
+ 7.2s  Nobody's ever pushed back on it. It's a surprisingly satisfying answer. [insert, guest nodding, accepting it]
+10.6s  Deep enough. Next question.                                         [closing line, wide, golden hour, open water]
+
+On-screen text: Hook = "\"HOW DEEP IS IT?\" — THE CAPTAIN'S ONLY ANSWER" | Body = "\"deep enough.\" that's the whole answer." | CTA: none.
+
+NOTE: "deep enough" is a stylized deadpan non-answer for comedic effect, not a factual claim about actual lake depth. Do not treat this as a substitute for real depth or safety information on an actual charter — the real captain should always give a genuine answer if a guest sincerely asks. Comedic device only, no factual confirmation needed for the joke itself.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

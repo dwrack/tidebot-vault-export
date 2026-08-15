@@ -1,0 +1,14 @@
+PIECE 287 — Funny/Quotable lane — The Captain (2nd appearance, Vol. 18) / "The Birthday Girl Gets The Captain's Hat For An Hour"
+Voice: EL-Eric.mp3 ("The Captain," dry, unbothered, deadpan authority)   Music: warm, playful bed   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Birthday girl gets the hat. Not a crown. The actual captain's hat.  [Captain VO dry deadpan, wide, captain removing his hat]
+ 3.8s  He hands it over without being asked, once somebody mentions the birthday.  [insert, hat handoff, guest's surprised smile]
+ 7.6s  Everybody wants a photo in it. She's not giving it back early.      [insert, guests taking turns for photos]
+11.2s  He'll get it back eventually. He always does.                       [closing line, wide, golden hour, captain bare-headed, unbothered]
+
+On-screen text: Hook = "THE BIRTHDAY GIRL GETS THE CAPTAIN'S ACTUAL HAT" | Body = "he hands it over without being asked" | CTA: none.
+
+NOTE: invented illustrative device about a specific captain habit — confirm with Connor whether the real captain does this or something similar before treating it as documented. Low risk since it's a hat, not a safety-relevant claim, but worth checking it reads true to the actual crew before shooting.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

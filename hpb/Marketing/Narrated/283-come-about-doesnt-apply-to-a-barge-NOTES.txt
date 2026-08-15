@@ -1,0 +1,14 @@
+PIECE 283 — Funny/Quotable lane (nautical vocab, guest misuse) — The Old Salt (2nd appearance, Vol. 18) / "Come About Doesn't Apply To A Barge"
+Voice: EL-George.mp3 ("The Old Salt," older, wry, warm register)   Music: warm bluesy bed, playful   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest yelled "coming about!" once, like we were tacking a sailboat.  [Old Salt VO wry warm, wide, guest gesturing dramatically]
+ 3.8s  We don't have sails. We have a motor and a very patient captain.       [insert, captain's amused reaction]
+ 7.6s  He still turned the wheel exactly when the guy called it.             [insert, boat turning]
+11.2s  Wrong term. Right energy. We'll take it.                              [closing line, wide, golden hour, guests laughing]
+
+On-screen text: Hook = "\"COMING ABOUT!\" — WRONG BOAT, RIGHT ENERGY" | Body = "we don't have sails. we have a motor." | CTA: none.
+
+NOTE: "coming about" is a real sailing term for turning a sailboat through the wind to change tack — it genuinely doesn't apply to a motorized barge with pedal stations, which is the accurate factual basis of the joke. The specific guest anecdote is an invented illustrative device, not a documented incident.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

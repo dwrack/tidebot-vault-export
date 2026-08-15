@@ -1,0 +1,14 @@
+PIECE 278 — Funny/Quotable lane — The Announcer (1st appearance, Vol. 18) / "Five Minutes, Y'all"
+Voice: EL-Daniel.mp3 ("The Announcer," formal "news"/memo register, played straight)   Music: light comedic bed, dry brass stab   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Five minutes, y'all." Said in the exact same tone every single time.          [Announcer VO formal deadpan, wide, deckhand calling out toward the dock]
+ 3.8s  Not urgent. Not casual either. A very specific register, invented on this dock. [insert, guests looking up from conversation]
+ 7.6s  Regulars start walking the second they hear it. First-timers ask what it means. [insert, guests gathering belongings, walking toward the boat]
+11.4s  It means five minutes. Mostly.                                                 [closing line, wide, golden hour, group boarding]
+
+On-screen text: Hook = "\"FIVE MINUTES, Y'ALL\" — THE OFFICIAL BOARDING CALL" | Body = "regulars start walking the second they hear it" | CTA: none.
+
+NOTE: invented illustrative device — not a documented, word-for-word phrase confirmed to be used by the crew. Confirm with Connor whether there's an actual standard boarding call before treating this as a real crew catchphrase rather than a plausible placeholder.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

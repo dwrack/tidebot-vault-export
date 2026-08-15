@@ -1,0 +1,14 @@
+PIECE 279 — Funny/Quotable lane — Delta Dream's voice (1st appearance, Vol. 18) / "The No-Diving Rule Lasts Until The First Cannonball"
+Voice: EL-Lily.mp3 ("Delta Dream's voice," bright, polished register)   Music: upbeat, playful pop bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  The rule gets said clearly at boarding. No diving off the boat.       [Delta Dream VO bright polished, wide, crew addressing group at boarding]
+ 3.8s  It holds for about an hour. Then somebody's cousin does a cannonball anyway. [insert, guest jumping, splash]
+ 7.6s  Crew's already moving before he hits the water.                      [insert, crew reacting quickly]
+11.2s  The rule gets said again. Louder this time.                          [closing line, wide, golden hour, crew and guests laughing]
+
+On-screen text: Hook = "THE NO-DIVING RULE LASTS ABOUT AN HOUR" | Body = "crew's already moving before he hits the water" | CTA: none.
+
+NOTE: **DO NOT SHOOT OR PUBLISH WITHOUT CONFIRMING WITH CONNOR FIRST.** This piece assumes guests are permitted to jump or swim from the boat, which is not confirmed anywhere in the brand docs reviewed for this volume (Brand Story & Values, Entity Canon). If diving/swimming off the boat is not actually allowed, kill this piece. If it's allowed under specific conditions (anchored only, captain's permission, designated stop only), rewrite to match the real policy exactly before any footage is pulled — this is the one piece in this batch with a real safety-policy dependency, flag it as such.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

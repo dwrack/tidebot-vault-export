@@ -1,0 +1,14 @@
+PIECE 282 — Funny/Quotable lane — Roger (2nd appearance, Vol. 18) / "The Captain's 'We're Not Lost' Line"
+Voice: voice-en-US-RogerNeural.mp3 ("Roger," mock-official delivery)   Music: quirky, playful bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  The captain says "we're not lost" before anybody's asked if they're lost.  [Roger VO mock-official, wide, boat turning, captain glancing back]
+ 3.8s  Nobody was worried. Now everybody's slightly checking.                     [insert, guests glancing around, half-laughing]
+ 7.6s  He says it every time the boat turns somewhere new.                       [insert, captain's deadpan grin]
+11.2s  We're not lost. He's just messing with you.                               [closing line, wide, golden hour, boat back on course]
+
+On-screen text: Hook = "\"WE'RE NOT LOST.\" — SAID BEFORE ANYONE ASKED" | Body = "nobody was worried. now everybody's checking." | CTA: none.
+
+NOTE: invented illustrative device about the real captain's sense of humor — confirm with Connor this reads as playful and wouldn't land wrong with a genuinely nervous first-time guest; if there's any risk of that, consider pairing this piece with a clearly reassuring caption line before publishing rather than shooting it as a standalone.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

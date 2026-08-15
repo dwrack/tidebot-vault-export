@@ -1,0 +1,14 @@
+PIECE 284 — Funny/Quotable lane (boarding mantra) — Delta Dream's voice (2nd appearance, Vol. 18) / "Leave Your Week On The Dock"
+Voice: EL-Lily.mp3 ("Delta Dream's voice," bright, polished register)   Music: warm, welcoming acoustic bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Crew says it at boarding, not every time, but often enough to notice.  [Delta Dream VO bright polished, wide, crew greeting guests at the dock]
+ 3.8s  "Leave your week on the dock." Then everybody actually does.           [insert, guest smiling, visibly relaxing, stepping aboard]
+ 7.6s  Nobody explains it further. It doesn't need explaining.                [insert, guests boarding, easy energy]
+11.2s  Whatever week you had, it's not invited.                               [closing line, wide, golden hour, group settling in]
+
+On-screen text: Hook = "\"LEAVE YOUR WEEK ON THE DOCK\"" | Body = "nobody explains it further. it doesn't need explaining." | CTA: none.
+
+NOTE: invented illustrative device, not a confirmed literal crew phrase — confirm with Connor whether this or something close to it is actually said at boarding before treating it as documented rather than a plausible placeholder line.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

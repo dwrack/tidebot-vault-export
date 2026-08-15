@@ -1,0 +1,14 @@
+PIECE 277 — Funny/Quotable lane — The Captain (1st appearance, Vol. 18) / "Fair Winds And A Cold Drink"
+Voice: EL-Eric.mp3 ("The Captain," dry, unbothered, deadpan authority)   Music: warm, unhurried acoustic bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Real send-off is "fair winds and following seas." Ours is shorter.   [Captain VO dry deadpan, wide, captain addressing group before departure]
+ 3.6s  "Fair winds and a cold drink." Same energy. Less rowing.             [insert, guests raising drinks in response]
+ 7.2s  Said it every trip for years now. Not changing it.                  [insert, captain at helm, unbothered]
+10.6s  Fair winds. Cold drink. Let's go.                                   [closing line, wide, golden hour, boat pulling away]
+
+On-screen text: Hook = "THE CAPTAIN'S TOAST — SAME FOUR WORDS, EVERY TRIP" | Body = "fair winds and a cold drink. less rowing." | CTA: none.
+
+NOTE: "fair winds and following seas" is a real, widely used traditional maritime send-off — public domain phrase, safe to reference. "Said it every trip for years now" is an invented detail about this specific captain's habit — confirm with Connor whether there's an actual signature line the real captain uses, and swap in the real one if so; this is a placeholder built to match the format.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

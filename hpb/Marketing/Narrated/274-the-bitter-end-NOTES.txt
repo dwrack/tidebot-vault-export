@@ -1,0 +1,14 @@
+PIECE 274 — Funny/Quotable lane (nautical etymology) — The Old Salt (1st appearance, Vol. 18) / "The Bitter End"
+Voice: EL-George.mp3 ("The Old Salt," older, wry, warm register)   Music: warm bluesy bed, playful   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "The bitter end" isn't about bitterness. It's the end of a rope tied to the bitts.    [Old Salt VO wry warm, wide, dock line wrapped around a cleat]
+ 3.8s  Run out of line before you've wrapped the post, and you're at the actual bitter end. [insert, close-up, last few feet of rope]
+ 7.6s  Our deckhand's hit it twice. Both times, it worked out.                             [insert, deckhand reaching for the last stretch of line, laughing]
+11.2s  Now you know what you're saying next time you say it.                               [closing line, wide, golden hour, boat secured at dock]
+
+On-screen text: Hook = "\"THE BITTER END\" ISN'T ABOUT BEING BITTER" | Body = "it's the end of a rope, tied to the bitts" | CTA: none.
+
+NOTE: etymology accurate — "bitts" are the sturdy deck posts a mooring or anchor line is secured to, and the "bitter end" is the end of the line made fast there; running short of rope before reaching the bitts is the real origin of the modern idiom for "the absolute limit." "Deckhand's hit it twice" is an invented illustrative detail, not a documented incident — confirm with Connor before treating it as a real anecdote rather than a placeholder line.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

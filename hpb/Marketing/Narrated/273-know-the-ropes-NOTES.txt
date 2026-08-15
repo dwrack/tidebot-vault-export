@@ -1,0 +1,14 @@
+PIECE 273 — Funny/Quotable lane (nautical etymology) — Roger (1st appearance, Vol. 18) / "Know The Ropes"
+Voice: voice-en-US-RogerNeural.mp3 ("Roger," mock-official delivery)   Music: playful pub-toast bed, light nautical horn stinger   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Knowing the ropes" used to mean literally that. Which rope. Which job. No guessing. [Roger VO mock-official, wide, coiled dock line, new crew member nearby]
+ 3.8s  A sailing ship had dozens of them. Get one wrong, and something bad happened fast.   [insert, close-up rope/rigging detail]
+ 7.6s  Our boat doesn't have rigging. New crew still gets grilled before their first trip.  [insert, new crew member being shown around, cooler/aux cord/life jackets]
+11.4s  Where's the cooler space, the bathroom, the aux cord. Same idea, different rope.     [closing line, wide, golden light, crew laughing]
+
+On-screen text: Hook = "\"KNOW THE ROPES\" — WHERE THAT ACTUALLY COMES FROM" | Body = "our boat doesn't have rigging. new crew still gets grilled." | CTA: none.
+
+NOTE: etymology accurate — sailing ships used dozens of named rigging lines, and knowing which was which was a genuine, safety-critical skill for a green sailor; the phrase dates to the age of sail. The modern application (crew being briefed on cooler space, bathroom, aux cord instead of rigging) is illustrative, not a documented specific onboarding checklist — confirm with Connor if there's an actual new-crew training routine worth naming more precisely.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

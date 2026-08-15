@@ -1,0 +1,14 @@
+PIECE 276 — Funny/Quotable lane (nautical vocab in action) — The Groomsman (1st appearance, Vol. 18) / "Made Fast"
+Voice: voice-en-GB-RyanNeural.mp3 ("The Groomsman," chill, dry, warm underneath)   Music: light, breezy acoustic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Made fast" doesn't mean fast. It means tied off. Secure. Not going anywhere.   [Groomsman VO chill dry, wide, line being cleated at dock]
+ 3.8s  Deckhand says it under his breath the second the line's cleated.               [insert, close-up, deckhand's quiet mutter, line secured]
+ 7.6s  Nobody else on the dock even hears it. He's not saying it for you.             [insert, guests boarding, unaware]
+11.2s  Boat's made fast. Trip's officially starting.                                  [closing line, wide, golden hour, boat settled at dock]
+
+On-screen text: Hook = "\"MADE FAST\" — DOESN'T MEAN WHAT YOU THINK" | Body = "tied off, secure, not going anywhere" | CTA: none.
+
+NOTE: "made fast" is a real, accurate nautical term meaning securely tied or moored, unrelated to speed. The detail that the deckhand says it under his breath as a personal habit is an invented illustrative flourish, not a documented practice — makes no policy claim, so no confirmation needed, but swap in a real crew habit instead if one exists.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
