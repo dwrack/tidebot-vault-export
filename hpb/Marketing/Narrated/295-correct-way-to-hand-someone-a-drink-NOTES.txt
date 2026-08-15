@@ -1,0 +1,14 @@
+PIECE 295 — Funny/Quotable lane (physical-comedy observational) — The Deckhand (28th appearance total, Vol. 19) / "There's A Correct Way To Hand Someone A Drink While The Boat's Moving"
+Voice: voice-en-US-GuyNeural.mp3 ("The Deckhand," fast, hype, half out of breath — free tier)   Music: upbeat, playful pop bed   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a right way to hand someone a drink while the boat's rocking. Nobody teaches it.  [Deckhand VO fast, half out of breath, wide, deckhand passing a drink across deck]
+ 3.8s  You brace, you time it, you don't look proud about it.                                    [insert, deckhand's feet planted, quick handoff]
+ 7.6s  First-timers spill. Every single time. It's basically a rite of passage.                  [insert, guest laughing, wiping a small splash off their hand]
+11.4s  You'll get it by drink two. Maybe drink three.                                             [closing line, wide, golden hour, guest successfully handing off a drink]
+
+On-screen text: Hook = "THERE'S A CORRECT WAY TO HAND SOMEONE A DRINK ON THIS BOAT" | Body = "first-timers spill. every time. rite of passage." | CTA: none.
+
+NOTE: no policy claim, pure observational bit. Confirm the boat's actual on-water motion matches "rocking" before shooting — Clear Lake is generally calm, so soften to "swaying" in the script if the real motion reads gentler on camera.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

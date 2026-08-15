@@ -1,0 +1,14 @@
+PIECE 296 — Funny/Quotable lane (meta cliché-refusal bit) — The Captain (4th appearance, Vol. 19, 2nd this volume) / "The Captain's Never Once Said 'Anchors Aweigh,' And Isn't Starting Now"
+Voice: EL-Eric.mp3 ("The Captain," dry, unbothered, deadpan authority)   Music: quirky, playful bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Guests wait for him to say "anchors aweigh." He never does. Not once.  [Captain VO dry deadpan, wide, boat pulling away from dock]
+ 3.8s  No "shiver me timbers." No "ahoy." He's not that kind of captain.     [insert, captain's flat expression, guests looking faintly disappointed]
+ 7.6s  What he actually says is shorter. Usually just "alright, let's go."  [insert, captain nodding once toward the water]
+11.4s  Save the pirate voice for the kids' movie. This is a real boat.      [closing line, wide, golden hour, boat underway]
+
+On-screen text: Hook = "GUESTS WAIT FOR \"ANCHORS AWEIGH.\" HE NEVER SAYS IT." | Body = "no shiver me timbers. no ahoy. not that captain." | CTA: none.
+
+NOTE: meta joke about nautical-cliché expectations versus this captain's actual, understated delivery. Confirm with Connor that the real captain(s) don't in fact have a signature departure line before this gets treated as documented character voice rather than an invented bit.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

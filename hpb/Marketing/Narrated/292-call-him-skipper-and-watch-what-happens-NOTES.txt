@@ -1,0 +1,14 @@
+PIECE 292 — Funny/Quotable lane (captain character bit) — The Captain (3rd appearance, Vol. 19) / "Call Him Skipper And Watch What Happens"
+Voice: EL-Eric.mp3 ("The Captain," dry, unbothered, deadpan authority)   Music: dry, minimal comedic bed   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody calls him "skipper" at least once a trip.                          [Captain VO dry deadpan, wide, captain at helm, guest approaching]
+ 3.6s  He lets it go the first time. Doesn't confirm it, doesn't correct it.       [insert, captain's face, unreadable]
+ 7.2s  By the third time, he just answers to it. Efficiency, not surrender.        [insert, guest calling "hey skipper," captain nodding once]
+10.8s  Captain. Skipper. He'll answer to either if the tip's good.                 [closing line, wide, golden hour, captain half-smiling]
+
+On-screen text: Hook = "CALL HIM \"SKIPPER\" AND SEE WHAT HAPPENS" | Body = "he lets it go the first time. not the third." | CTA: none.
+
+NOTE: "captain" is the accurate title for this role; "skipper" is informal/regional and technically imprecise — the joke is that he tolerates it, not that it's correct.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

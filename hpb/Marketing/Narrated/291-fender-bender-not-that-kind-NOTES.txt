@@ -1,0 +1,14 @@
+PIECE 291 — Funny/Quotable lane (nautical vocab pun) — The Groomsman (3rd appearance, Vol. 19) / "Fender Bender (Not That Kind)"
+Voice: voice-en-GB-RyanNeural.mp3 ("The Groomsman," chill, dry, warm underneath — free tier)   Music: light, breezy acoustic bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  First time a guest hears "watch the fenders," they picture a car accident.              [Groomsman VO chill dry, wide, boat easing toward dock]
+ 3.6s  These are the rubber ones. They hang off the side. They're doing their job right now.    [insert, close-up, boat fender against dock]
+ 7.2s  Nobody's ever actually had a fender bender on this boat. The other kind, either.         [insert, boat gently touching dock, no drama]
+10.8s  Different bender. Same word. We'll allow it.                                             [closing line, wide, golden hour, boat secured]
+
+On-screen text: Hook = "\"WATCH THE FENDERS\" — NOT WHAT YOU THINK" | Body = "the rubber ones. they hang off the side." | CTA: none.
+
+NOTE: term accurate — boat fenders are real, standard docking equipment. No safety claim made beyond the pun itself.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

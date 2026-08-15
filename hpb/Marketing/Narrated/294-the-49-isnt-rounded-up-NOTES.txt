@@ -1,0 +1,14 @@
+PIECE 294 — Funny/Quotable lane (real brand fact, stated plainly) — Sarah (3rd appearance, Vol. 19) / "The 4.9 Isn't Rounded Up"
+Voice: EL-Sarah.mp3 ("Sarah," warm, soft, confident — the sincere register in the series)   Music: warm, unhurried acoustic bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  4.9 stars. Four hundred plus reviews. That number's real, not rounded up.  [Sarah VO warm confident, wide, boat at dock, golden light]
+ 3.6s  Every one of those reviews is somebody's actual trip. Not a marketing line.  [insert, guests laughing, candid natural moment]
+ 7.2s  Crew reads them. All of them. Even the three-star ones.                    [insert, crew member looking at a phone, genuine reaction]
+10.6s  That's not a boast. That's just what happened.                             [closing line, wide, golden hour, group at dock]
+
+On-screen text: Hook = "4.9 STARS. 400+ REVIEWS. NOT ROUNDED UP." | Body = "crew reads them. all of them." | CTA: soft — "see for yourself" tag, optional.
+
+NOTE: figure sourced directly from Brand Story & Values.md Section 3. CONFIRM THE CURRENT LIVE RATING AND REVIEW COUNT WITH CONNOR BEFORE PUBLISHING — review counts move over time, and this piece states the number on screen, so it needs to be accurate at the moment of posting, not just accurate as of this doc's writing (2026-08-15).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

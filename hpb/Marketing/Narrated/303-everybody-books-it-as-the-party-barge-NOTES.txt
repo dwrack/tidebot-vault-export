@@ -1,0 +1,14 @@
+PIECE 303 — Funny/Quotable lane (real DBA fact, naming bit only) — The Regular (1st appearance under this name; role continues "Mama Tried's voice" from Vols. 15-18) / "Everybody Books It As 'The Party Barge,' Nobody Corrects Them"
+Voice: EL-Brian.mp3, premium ("The Regular," flat, deadpan list-comedian)   Music: dry, minimal comedic bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Half the bookings come in calling it "the party barge." Technically, that's fine.  [Regular VO flat deadpan, wide, phone/booking screen, boat in background]
+ 3.6s  It's the actual other name. Not a nickname. An actual registered name.            [insert, close-up, generic booking confirmation, blurred details]
+ 7.2s  Pedal barge, party barge, same boat either way.                                   [insert, boat at dock, pedal stations and cooler both visible]
+10.6s  Call it whatever gets you here. We'll answer to it.                               [closing line, wide, golden hour, group arriving at dock]
+
+On-screen text: Hook = "HALF THE BOOKINGS CALL IT \"THE PARTY BARGE\"" | Body = "turns out that's an actual real name for it" | CTA: none.
+
+NOTE: real fact — "Houston Pedal Barge" is the registered name, "Houston Party Barge" is a confirmed DBA per Entity Canon.md's canonical identity block. States the naming fact only; does not describe, reference, or sell pedaling as an activity anywhere in the script. This piece's voice-cast slot is now called "The Regular" rather than "Mama Tried's voice" — see the main Vol. 19 slate doc's voice cast section and Open Items #1 for the full reasoning.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 302 — Funny/Quotable lane (real brand fact, handled around an open contradiction) — The Planner (1st appearance under this name; role continues "Delta Dream's voice" from Vols. 15-18) / "Two Boats, Two Reputations, Same Company"
+Voice: EL-Lily.mp3 ("The Planner," bright, polished register)   Music: bright, confident pop bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Two boats run this water. Different names, different reputations.               [Planner VO bright polished, wide, two boats visible on the lake]
+ 3.8s  One runs cleaner, brighter energy. The other one's got more of an edge.        [insert, two boats side by side, contrasting energy]
+ 7.8s  Same company. Same crew standards. Different personality, same lake.          [insert, guests boarding either boat, both smiling]
+11.6s  Pick your vibe. Both get you home with a good story.                          [closing line, wide, golden hour, both boats at dock]
+
+On-screen text: Hook = "TWO BOATS, TWO REPUTATIONS, SAME COMPANY" | Body = "different personality. same crew standards." | CTA: none.
+
+NOTE: HIGH-PRIORITY OPEN ITEM, READ BEFORE SHOOTING. This piece's language ("runs cleaner and brighter... more of an edge... same lake") closely paraphrases Brand Story & Values.md Section 3, which describes these as HPB's own two boats (named there as Delta Dream and Mama Tried). Entity Canon.md, in the same vault, states the opposite: those two vessels belong to the sibling brand, Houston Booze Cruise, not HPB. This piece deliberately never names either vessel by name — it says "two boats" and "the other one" — specifically so it stays safe to shoot regardless of which record turns out correct. DO NOT ADD EITHER VESSEL NAME TO THIS PIECE'S ON-SCREEN TEXT OR CAPTION until David or Connor resolves which document is accurate. This is also why the voice-cast slot for this piece is now called "The Planner" rather than "Delta Dream's voice" — see the main Vol. 19 slate doc's voice cast section and Open Items #1 for the full reasoning.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

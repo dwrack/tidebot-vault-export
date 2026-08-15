@@ -1,0 +1,14 @@
+PIECE 299 — Funny/Quotable lane (family/kids observational) — The Sunscreen Friend (2nd appearance, Vol. 19) / "The Kids On Board Narrate The Trip Better Than We Do"
+Voice: voice-en-US-BrianNeural.mp3 ("The Sunscreen Friend," earnest, mildly amused, clearly loves everyone — free tier, not EL-Brian)   Music: bright, playful pop bed, warm undertone   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Put a kid on this boat and they'll narrate the whole trip, unprompted.        [Sunscreen Friend VO earnest amused, wide, kid pointing at the water]
+ 3.8s  Every fish, every wake, every boat that passes gets a full report.           [insert, kid talking animatedly, adults half-listening, half-laughing]
+ 7.6s  Nobody asked for the commentary. Nobody wants it to stop either.            [insert, adults smiling, kid still going]
+11.4s  Best tour guide on this boat is eight, and free.                            [closing line, wide, golden hour, kid laughing, family around]
+
+On-screen text: Hook = "THE BEST TOUR GUIDE ON THIS BOAT IS EIGHT YEARS OLD" | Body = "every fish, every wake gets a full report" | CTA: none.
+
+NOTE: wholesome, family-friendly device — a personality bit, not a policy statement. Keep clearly distinct in captioning from piece 174 ("Eight And Up"), which is the actual age-minimum policy piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

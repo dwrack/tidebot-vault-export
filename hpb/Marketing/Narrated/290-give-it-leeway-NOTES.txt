@@ -1,0 +1,14 @@
+PIECE 290 — Funny/Quotable lane (nautical etymology) — Roger (3rd appearance, Vol. 19) / "Give It Leeway"
+Voice: voice-en-US-RogerNeural.mp3 ("Roger," mock-official delivery — free tier)   Music: playful pub-toast bed, light nautical horn stinger   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Leeway" isn't a vibe. It's an actual number: how far a boat drifts downwind, off course.  [Roger VO mock-official, wide, boat backing toward its slip]
+ 3.8s  Good captains plan for it. Bad captains find out about it at the dock.                     [insert, captain's hands adjusting the wheel]
+ 7.6s  Ours backs into the same slip differently every single time.                               [insert, boat angled off centerline, correcting]
+11.4s  Close enough counts. That's the whole definition.                                          [closing line, wide, golden hour, boat secured, captain shrugging]
+
+On-screen text: Hook = "\"LEEWAY\" IS A REAL MEASUREMENT, NOT JUST AN EXCUSE" | Body = "ours backs into the same slip differently every time" | CTA: none.
+
+NOTE: term and definition accurate. "Backs in differently every time" is a lighthearted invented flourish, not a claim about actual docking skill — confirm the tone reads as affectionate, not disparaging, before shooting. Second of this volume's two-piece etymology cap. First draft's opener echoed piece 274's "isn't about X, it's Y" structure too closely — rewritten during copywriting-2.0 pass, see the main slate doc's "How this was written" section.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

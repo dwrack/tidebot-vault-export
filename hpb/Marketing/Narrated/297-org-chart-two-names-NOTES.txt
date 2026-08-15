@@ -1,0 +1,14 @@
+PIECE 297 — Funny/Quotable lane (crew-structure bit) — The Groomsman (4th appearance, Vol. 19, 2nd this volume) / "The Org Chart For This Boat Has Two Names On It"
+Voice: voice-en-GB-RyanNeural.mp3 ("The Groomsman," chill, dry, warm underneath — free tier)   Music: light, breezy acoustic bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask who's in charge on this boat. Two names come up. That's the whole chart.   [Groomsman VO chill dry, wide, captain and deckhand working together]
+ 3.6s  Captain drives. Deckhand does everything else. Nobody's title has a modifier.  [insert, deckhand handling lines, coolers, questions, all at once]
+ 7.2s  No assistant to the assistant. No director of vibes. Just two guys and a boat.  [insert, captain and deckhand exchanging a quick working nod]
+10.6s  Flat org chart. Somehow it still runs on time.                                 [closing line, wide, golden hour, boat departing smoothly]
+
+On-screen text: Hook = "THE ORG CHART FOR THIS BOAT HAS TWO NAMES ON IT" | Body = "captain drives. deckhand does literally everything else." | CTA: none.
+
+NOTE: illustrative flourish about crew structure ("two guys and a boat"). Confirm typical crew size per trip with Connor — larger charters may run more than two crew, in which case the piece needs a rewrite before shooting, not just a caveat. First draft's body line hedged with "really" ("nobody's title really has a modifier"), cut during copywriting-2.0 — see the main slate doc.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

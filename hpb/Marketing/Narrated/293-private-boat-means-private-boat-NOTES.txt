@@ -1,0 +1,14 @@
+PIECE 293 — Funny/Quotable lane (real policy, myth-busting register) — The Announcer (3rd appearance, Vol. 19) / "Private Boat Means Private Boat"
+Voice: EL-Daniel.mp3 ("The Announcer," formal "news"/memo register, played straight)   Music: light comedic bed, dry brass stab   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  People ask who else is on the boat with them. Answer: nobody.                     [Announcer VO formal deadpan, wide, one group alone on open water]
+ 3.8s  Charters here are private. Your group, the whole boat, no strangers added in.     [insert, group spread out comfortably, no unfamiliar faces]
+ 7.8s  Not a shared shuttle with a different office party's leftovers. Just you.         [insert, group visibly relaxed]
+11.6s  Private means private. Novel concept, we know.                                    [closing line, wide, golden hour, full group, nobody else in frame]
+
+On-screen text: Hook = "\"WHO ELSE IS ON THE BOAT WITH US?\" — NOBODY" | Body = "your group, the whole boat, no strangers added in" | CTA: none.
+
+NOTE: real policy per Brand Story & Values.md Section 3 ("private groups only on charters... the boat is yours"). Applies specifically to private charters — confirm with Connor whether public tours (which do mix separate bookings) need a differently worded companion piece before this gets used on a public-tour date.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

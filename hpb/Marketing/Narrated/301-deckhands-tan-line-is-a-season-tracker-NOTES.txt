@@ -1,0 +1,14 @@
+PIECE 301 — Funny/Quotable lane (deckhand character detail) — Roger (4th appearance, Vol. 19, 2nd this volume) / "The Deckhand's Tan Line Is A Season Tracker"
+Voice: voice-en-US-RogerNeural.mp3 ("Roger," mock-official delivery — free tier)   Music: light comedic bed, dry brass stab   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  The deckhand's tan line updates monthly. It is, unofficially, a season tracker.  [Roger VO mock-official, wide, deckhand working the dock]
+ 3.8s  Sunglasses line in March. Watch line by June. Sandal line by August.            [insert, close-up, hand/wrist, sunglasses mark]
+ 7.6s  Nobody asked him to track the summer this way. He does it anyway.               [insert, deckhand grinning, comparing tan lines]
+11.4s  Check his wrist. He'll tell you exactly what month it is.                        [closing line, wide, golden hour, deckhand laughing]
+
+On-screen text: Hook = "THE DECKHAND'S TAN LINE IS A SEASON TRACKER" | Body = "sunglasses line in march. sandal line by august." | CTA: none.
+
+NOTE: purely observational character bit, no factual claim beyond "deckhands who work outside all season get tan lines" — low risk, no confirmation needed.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

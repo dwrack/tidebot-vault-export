@@ -1,0 +1,14 @@
+PIECE 298 — Funny/Quotable lane (local-roots character bit) — The Old Salt (4th appearance, Vol. 19, 2nd this volume) / "Nobody Believes The Captain Grew Up On This Exact Lake Until He Points At His Old House"
+Voice: EL-George.mp3 ("The Old Salt," older, wry, warm)   Music: warm, bluesy bed, playful   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Guests assume the captain's a transplant. Most people out here are.               [Old Salt VO wry warm, wide, captain at helm, open water]
+ 3.8s  He's not. He grew up on this exact lake. Says so, gets a few doubtful looks.       [insert, captain gesturing toward shoreline]
+ 7.6s  Then he points at a house on the water and says "grew up right there."            [insert, close-up, house on shoreline, captain's finger pointing]
+11.4s  Doubtful looks stop after that. Every single time.                                 [closing line, wide, golden hour, captain and guests looking toward shore together]
+
+On-screen text: Hook = "\"WAIT, YOU ACTUALLY GREW UP OUT HERE?\"" | Body = "he points at a house on the water. doubts stop." | CTA: none.
+
+NOTE: entirely illustrative — no confirmed real biography for any specific captain. Do not shoot or caption as a factual claim about a named real person without Connor confirming it's true for whichever captain is filmed. Exactly the kind of real detail Brand Story & Values.md Section 7 ("From Our Crew," still empty after nineteen volumes) could turn into a documented true story instead of an invented one.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
