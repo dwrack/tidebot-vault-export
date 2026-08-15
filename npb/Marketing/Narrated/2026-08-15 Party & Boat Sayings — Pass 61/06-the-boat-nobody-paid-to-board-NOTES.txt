@@ -1,0 +1,28 @@
+PIECE 06 — Heartfelt / mission lane — "The Boat Nobody Paid to Board"
+Product: Private BYOB party fleet
+Voice: EL-George (ElevenLabs)   Music: warm, building, unmistakably sincere (mood only, no artist cited)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Once a quarter, this boat leaves the dock full, and nobody on it bought a ticket.   [wide shot: boat loading, group boarding, celebratory energy]
+ 3.5s  A local nonprofit auctioned the cruise off at their fundraiser, and tonight's winner brought eleven friends.   [close-up: guest holding a printed auction certificate, smiling]
+ 8.0s  Same captain, same boat, same two hours on the water. Nobody on board paid a cent for it.   [medium shot: group settling in, drinks out, same energy as any cruise]
+12.5s  The company doesn't post about it. The nonprofit already did that part.   [close-up: captain steering, same as always, nothing marked special]
+16.0s  Somewhere on a spreadsheet, this trip counts as a loss. Nobody on the water is counting anything tonight.   [closing wide shot: boat pulling away into golden light, group celebrating]
+
+ON-SCREEN TEXT TREATMENT:
+None. The plain contrast in the closing line does the work; text would blunt it.
+
+SHOT LIST:
+- Wide shot, boat loading, celebratory energy (opener)
+- Close-up, guest holding an auction certificate
+- Medium shot, group settling in, same energy as any cruise
+- Close-up, captain steering, nothing marked special
+- Closing wide shot, boat pulling away into golden light
+
+SOURCE GROUNDING: Sourced from idea #81 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Local charity cruise. Once a quarter, donate a free cruise to a local nonprofit for a fundraiser auction item. The nonprofit gets value. You get exposure to their donor list. The winning bidder becomes a customer."), read directly against the source text. This idea has been flagged as untapped in the "still open" section of at least three prior passes' own sourcing notes (Pass 26, Pass 27, Pass 60) but never actually built into a piece before this one, confirmed by a full search of all 17 prior slate documents' body text (no piece title or premise references a charity, nonprofit, or auctioned cruise).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain, unsentimental honesty about the business trade-off ("this trip counts as a loss"), which does more for the mission framing than any warmer language would. Then /copywriting-2.0 (3-test filter): an early draft's closer read "and that's a good kind of loss to take," flagged as editorializing instead of letting the contrast stand on its own, rewritten to "Somewhere on a spreadsheet, this trip counts as a loss. Nobody on the water is counting anything tonight," which states both facts plainly and lets the reader draw the conclusion.
+
+PRODUCTION FLAG: illustrative treatment of a proposed practice (idea #81), not confirmed as a current or scheduled NPB program. The quarterly cadence, the "eleven friends," and the "doesn't post about it" detail are all illustrative for the pitch, not documented facts. No nonprofit, donor, or guest named or identified. If this pitch moves forward, it should be paired with an actual partner nonprofit before any claim about frequency or scope is published.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

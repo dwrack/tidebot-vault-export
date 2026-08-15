@@ -1,0 +1,28 @@
+PIECE 09 — Did-you-know / wildlife spotlight lane — "A Duck. In a Tree. Nobody Warned You."
+Product: Naturalist eco swamp tour
+Voice: EL-EchoRae (ElevenLabs)   Music: playful, bouncy, surprised (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Something flashes iridescent green and red in the branches, way above the waterline.   [wide shot: kayaks passing under overhanging branches, a flash of color in the leaves]
+ 3.5s  A guest squints up and asks what kind of parrot escaped.   [close-up: guest looking up, confused, half-joking]
+ 6.5s  It's a wood duck. It nests thirty feet up in a tree hollow, nowhere near the water.   [close-up: wood duck perched at the mouth of a tree cavity]
+10.5s  The ducklings jump out on day one and just bounce. No practice flight. No ramp.   [medium shot: guide gesturing up at the nest hollow, explaining]
+14.5s  Somewhere out here, a one-day-old duck already survived a fall further than most guests would try on a dare.   [closing wide shot: wood duck taking off from the branch, gliding down toward the water]
+
+ON-SCREEN TEXT TREATMENT:
+"WOOD DUCK" appears briefly as a small lower-third label at 6.5s, then clears.
+
+SHOT LIST:
+- Wide shot, flash of color in overhanging branches (opener)
+- Close-up, guest asking about the "parrot"
+- Close-up, wood duck at the tree cavity
+- Medium shot, guide gesturing up at the nest hollow
+- Closing wide shot, wood duck taking off, gliding down
+
+SOURCE GROUNDING: Original eco-tour concept, first piece in this series centered on the wood duck. Confirmed via a full search of all 17 prior slate documents that no prior piece references wood duck, tree-cavity nesting, or duckling nest-jumping. Distinct from the retired misidentification/guessing-game device: the guest's "parrot" comment is a single, one-off exclamation resolved immediately by the guide's next line, not a structured guessing bit with multiple wrong answers.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's specific, checkable claims (thirty feet up, day one, no practice flight) over a generic "surprising fact" framing. Then /copywriting-2.0 (3-test filter): an early draft's closer read "nature doesn't wait for anyone to be ready," flagged as a vague, unfalsifiable abstraction, rewritten to "a one-day-old duck already survived a fall further than most guests would try on a dare," a specific, visualizable comparison.
+
+PRODUCTION FLAG: documented wood duck behavior (cavity nesting well above water, precocial ducklings that jump from the nest within a day or two of hatching and are largely uninjured by the fall). Confirm wood duck sightings are reliably possible on NPB's actual route and season. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

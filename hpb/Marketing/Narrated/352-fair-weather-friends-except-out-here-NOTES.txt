@@ -1,0 +1,19 @@
+PIECE 352 — Sincere closer, mirrors the series' closing-piece tradition (240, 256, 272, 288, 304, 319, 336) — Sarah / "Fair-Weather Friends, Except Out Here"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, string-led closing bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a name for a friend who only shows up when things are easy.              [Sarah VO warm, soft, wide, group together on the boat]
+ 4.0s  Fair-weather friend. Usually said as an insult.                                  [insert, close on group laughing together]
+ 8.2s  Out here it just means the weather's actually fair, and everybody actually showed up.  [insert, guests looking at each other, present, phones down]
+12.0s  Funny how the insult and the compliment turned out to be the same words.          [closing line, wide, golden hour, boat heading toward dock, group content]
+
+On-screen text: Hook = "THERE'S A NAME FOR A FRIEND WHO ONLY SHOWS UP WHEN IT'S EASY" / Body = "out here, everybody actually showed up" / CTA: none
+
+Shot list:
+- [B-ROLL] Group together on the boat
+- [INSERT] Close on genuine, unposed laughter
+- [B-ROLL] Boat heading toward dock at golden hour
+
+Note: distinct from piece 336 (the boat easing off before the dock, a physical-moment closer) — this one is about the friend group itself, a different closer device. No pedaling reference. No vessel name used.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

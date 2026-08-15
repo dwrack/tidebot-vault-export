@@ -1,0 +1,19 @@
+PIECE 351 — Idiom (hand over fist), literal-rope-motion bit — The Groomsman (2nd appearance) / "Hand Over Fist"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3)   Music: rhythmic, physical percussion-led bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Hand over fist. That one's not a metaphor either, watch.                            [Groomsman VO chill, wide, crew hauling a dock line, hand over hand]
+ 3.6s  That's literally the motion. Somebody on a dock a thousand years ago named it exactly right.  [insert, close on hands pulling rope]
+ 7.4s  We use it for the rope. Guests use it for how fast the ice runs out.                 [insert, guests laughing, pointing at an empty cooler]
+11.2s  Either way, it's accurate.                                                            [closing line, wide, golden hour, boat pulling away from dock]
+
+On-screen text: Hook = "HAND OVER FIST. NOT A METAPHOR, WATCH." / Body = "guests use it for how fast the ice runs out" / CTA: none
+
+Shot list:
+- [INSERT] Close on hands hauling rope, hand over hand
+- [INSERT] Empty cooler reaction
+- [B-ROLL] Boat pulling away from dock
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

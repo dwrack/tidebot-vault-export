@@ -1,0 +1,28 @@
+PIECE 04 — Heartfelt / insider lane — "Five Minutes Before Anybody Boards"
+Product: Private BYOB party fleet
+Voice: EL-Sarah (ElevenLabs)   Music: low-key, purposeful, workmanlike warmth (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Ten minutes before boarding, the whole crew huddles by the gangway.   [wide shot: crew gathered near the dock before a shift, boat idle behind them]
+ 3.0s  Not a pep talk. A checklist. Who's on the boat, what they're celebrating, who to watch for seasickness.   [close-up: deckhand reading off a tablet, rest of the crew listening]
+ 7.5s  Takes about four minutes. Nobody waiting at the gate has any idea it happened.   [medium shot: guests waiting at the marina gate, unaware, chatting among themselves]
+11.5s  By the time the gate opens, the crew already knows more about this group than the group expects.   [close-up: crew member unlocking the gate, guests starting to walk through]
+15.5s  Nobody claps for the huddle. It just happens, every single shift.   [closing wide shot: group boarding, crew already in motion, the huddle long since broken up]
+
+ON-SCREEN TEXT TREATMENT:
+None. The insider, behind-the-scenes framing works better without any overlay breaking the fly-on-the-wall feel.
+
+SHOT LIST:
+- Wide shot, crew huddled near the dock before boarding (opener)
+- Close-up, deckhand reading off a tablet
+- Medium shot, guests waiting at the gate, unaware
+- Close-up, crew member unlocking the gate
+- Closing wide shot, group boarding, crew already in motion
+
+SOURCE GROUNDING: Sourced from idea #69 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Crew pre-shift briefing. Five minutes before every cruise: who's on the boat, what's the occasion, any special requests, any surprises planned. The crew should know more about the group than the group expects."), read directly against the source text (note the phrase "the crew should know more about the group than the group expects" is echoed almost verbatim in the piece's fourth line, since it's the idea bank's own strongest image). Checked against Pass 60's re-verified open list (idea #69 listed untapped) and against every prior pass's crew-culture coverage (#69-76 flagged as almost entirely untouched as far back as Pass 22 and Pass 27's own sourcing notes); this is the first piece in the series built entirely from the crew's side of the dock rather than the guests'.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain, procedural honesty, a checklist described as a checklist, not dressed up as a ritual. Then /copywriting-2.0 (3-test filter): an early draft's closer read "that's the kind of care you don't see, but you feel," flagged as an unfalsifiable claim about guest perception, rewritten to "Nobody claps for the huddle. It just happens, every single shift," which is a plain, checkable statement about the crew's own routine instead of a claim about how guests feel.
+
+PRODUCTION FLAG: illustrative treatment of a proposed pre-shift briefing (idea #69), not confirmed as this crew's current standing practice or exact timing. Confirm with ops whether a briefing of this kind currently happens before every cruise. No crew member named or identified, consistent with the crew-anonymity convention active since Pass 23.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

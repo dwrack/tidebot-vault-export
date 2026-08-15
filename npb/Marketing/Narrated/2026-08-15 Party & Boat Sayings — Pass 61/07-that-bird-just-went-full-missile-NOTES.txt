@@ -1,0 +1,28 @@
+PIECE 07 — Did-you-know / wildlife spotlight lane — "That Bird Just Went Full Missile"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: bright, quick, curious (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  From forty feet up, an osprey locks onto something in the water and just drops.   [wide shot: osprey circling high above the bayou]
+ 3.0s  Not a dive. A fall, wings tucked, straight down.   [close-up: osprey mid-plunge, wings pulled tight to its body]
+ 5.5s  A guest in the back kayak says it before the guide can. "That thing just went full missile."   [close-up: guest reacting, pointing, wide-eyed]
+ 9.0s  Talons out at the last second. Fish already caught before the splash even finishes.   [close-up: osprey hitting the water, fish in its talons, spray still settling]
+13.0s  It flies off holding breakfast head-first. Apparently aerodynamics matter even to a bird that just ate.   [closing wide shot: osprey flying low over the water, fish visible, carried head-forward]
+
+ON-SCREEN TEXT TREATMENT:
+"OSPREY" appears briefly as a small lower-third label at 3.0s, matching the series' fact-naming convention, then clears.
+
+SHOT LIST:
+- Wide shot, osprey circling above the bayou (opener)
+- Close-up, osprey mid-plunge, wings tucked
+- Close-up, guest's reaction and line
+- Close-up, osprey hitting the water, fish in talons
+- Closing wide shot, osprey flying off low, fish carried head-first
+
+SOURCE GROUNDING: Original eco-tour concept, first piece in this series centered on the osprey. Confirmed via a full search of all 17 prior slate documents' titles and bodies that no prior piece references osprey, and that this piece does not repeat the retired misidentification/guessing-game device (the guest's line is a reaction to a confirmed osprey, not a guess about what species it is). Distinct in mechanism from Pass 40 Piece 08 ("The Sound That Isn't the Engine," a bull alligator's water-dance bellow) and Pass 60 Piece 07 ("The Pink Bird Nobody Believes Is Real," a roseate spoonbill fact piece) — different animal, different behavior, different visual.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's love of a precise, visualizable physical detail (wings tucked, talons out at the last second, carried head-first) over a vague "amazing" claim. Then /copywriting-2.0 (3-test filter): an early draft's closer read "nature's own fighter jet," flagged as a worn comparison that can't be falsified or owned, rewritten to "It flies off holding breakfast head-first. Apparently aerodynamics matter even to a bird that just ate," which stays inside a specific, checkable image (real osprey behavior: carrying prey head-forward to reduce drag in flight).
+
+PRODUCTION FLAG: documented osprey hunting behavior (plunge-diving feet-first, carrying prey head-forward for aerodynamic efficiency). Confirm osprey sightings are reliably possible on NPB's actual eco-tour route and season before treating this as a guaranteed-sighting piece rather than an occasional one. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

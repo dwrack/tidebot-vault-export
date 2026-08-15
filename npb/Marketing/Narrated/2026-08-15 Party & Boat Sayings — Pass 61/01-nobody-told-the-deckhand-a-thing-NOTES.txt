@@ -1,0 +1,28 @@
+PIECE 01 — Heartfelt / funny, pre-booking lane — "Nobody Told the Deckhand a Thing"
+Product: Private BYOB party fleet
+Voice: EL-Jessica (ElevenLabs)   Music: warm, a little sly, quietly pleased (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A couple walks up still arguing about who's driving home later. Nothing about why they're here.   [wide shot: couple walking toward the marina gate, mid-conversation, casual]
+ 3.0s  A deckhand meets them at the ramp. "Happy anniversary, by the way."   [close-up: deckhand greeting them, casual, easy delivery]
+ 6.0s  They both stop mid-sentence. Neither of them said the word "anniversary" to anyone at this marina.   [close-up: couple, confused, looking at each other]
+ 9.5s  There's a box on the booking form that asks what you're celebrating. Somebody actually reads it before the boat leaves the dock.   [medium shot: deckhand glancing at a tablet, then back up at the couple]
+14.0s  They never do figure out how the word got there before they did.   [closing wide shot: couple stepping aboard, still working it out, deckhand already moving on to the next task]
+
+ON-SCREEN TEXT TREATMENT:
+None. The deckhand's line and the couple's confusion carry the beat without any overlay competing for attention.
+
+SHOT LIST:
+- Wide shot, couple walking toward the marina gate, mid-conversation (opener)
+- Close-up, deckhand's greeting
+- Close-up, couple's confused reaction
+- Medium shot, deckhand checking a tablet, explaining nothing out loud
+- Closing wide shot, couple boarding, still puzzling it out
+
+SOURCE GROUNDING: Sourced from idea #1 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("The 'What's Your Occasion?' field. Add a free-text field in FareHarbor asking what they're celebrating. Pipe it to Slack so the crew knows before they ever show up."). Checked directly against the idea-bank text and against Pass 60's own re-verified "genuinely open" list (idea #1 listed as untapped). Also checked against Pass 40 Piece 09, "The Guide Who Already Knows and Says Nothing" — that piece is a different idea entirely (idea #91, a guide discreetly managing space around a planned proposal); this piece is about the pre-booking occasion field reaching the crew before the guests arrive. No title or premise overlap found across all 17 prior slate documents (base pass through Pass 60, 204 prior piece titles checked).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain wit and Ogilvy's love of a concrete, checkable detail ("a box on the booking form") over a vague explanation. Then /copywriting-2.0 (3-test filter): an early draft closed with "it's like they read their minds," flagged as a lazy abstraction that can't be visualized or falsified, rewritten to "They never do figure out how the word got there before they did," which stays inside the scene and leaves the mechanism real but unexplained on camera.
+
+PRODUCTION FLAG: illustrative treatment of a proposed practice (idea #1: a FareHarbor free-text field piped to crew before the trip). Not confirmed as a currently live automation; confirm with ops whether the booking flow actually asks this question and whether it reaches crew before boarding. No crew member or guest named or identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

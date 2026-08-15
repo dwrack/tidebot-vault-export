@@ -1,0 +1,28 @@
+PIECE 11 — Myth vs. reality lane — "It's Not Coming for the Boat"
+Product: Naturalist eco swamp tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: calm, steady, myth-busting confidence (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody spots a dark snake coiled on a low branch and goes stiff.   [wide shot: kayaks approaching a low branch, snake visible, guests reacting]
+ 3.0s  "Is that going to jump in the boat?" The guide's heard the question a hundred different ways.   [close-up: guest asking, nervous, pointing]
+ 6.5s  Cottonmouths don't chase boats. That's not how they work, no matter what the internet says.   [close-up: snake, coiled and still on the branch]
+10.5s  It'll hold its ground if you corner it. Out here, on open water, nobody's cornering anything.   [medium shot: guide, calm, paddling steady, keeping a comfortable distance]
+14.5s  Kayaks glide right past. The snake never so much as shifts its weight.   [closing wide shot: kayaks continuing on, snake still on the branch, unmoved]
+
+ON-SCREEN TEXT TREATMENT:
+"COTTONMOUTH" appears briefly as a small lower-third label at 6.5s, then clears.
+
+SHOT LIST:
+- Wide shot, kayaks approaching the branch, guests reacting (opener)
+- Close-up, guest asking the question
+- Close-up, snake coiled and still
+- Medium shot, guide keeping a steady, respectful distance
+- Closing wide shot, kayaks continuing past, snake unmoved
+
+SOURCE GROUNDING: Original eco-tour concept, first piece in this series built from Script & Caption Bank Lane 8 (myth vs. reality), flagged as "format-incompatible with this series' timed-narration structure" by every pass since Pass 27 and left untouched by all 17 prior slate documents. This piece treats a Lane 8 myth-correction the same way the series already treats Lane 6/9 did-you-know facts (idea #40's duckweed piece and idea #40's water-dance piece in Pass 40 as precedent for handling a myth or misconception inside the timed format), rather than inventing a new device. First piece in the series centered on cottonmouth/water moccasin, confirmed via a full title and body search of all 17 prior documents.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's calm authority, correcting the myth without mocking the guest who asked. Then /copywriting-2.0 (3-test filter): an early draft's line read "cottonmouths are actually pretty chill creatures," flagged as vague and unfalsifiable ("chill" isn't a checkable claim), rewritten to "Cottonmouths don't chase boats. That's not how they work, no matter what the internet says," a direct, falsifiable correction of a specific, real misconception.
+
+PRODUCTION FLAG: documented cottonmouth/water moccasin behavior (defensive, not pursuit-driven; will stand its ground if cornered on land but does not chase watercraft). Handled deliberately without fear-mongering and without implying any baiting, chasing, or cornering of wildlife, consistent with the series' consent and safety standard. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 05 — Heartfelt lane — "The Captain Made a Stop First"
+Product: Private BYOB party fleet
+Voice: EL-Eric (ElevenLabs)   Music: warm, tender, unhurried (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Twenty minutes before a cruise, the captain isn't at the boat yet.   [wide shot: empty dock, boat idle, no captain in sight]
+ 3.0s  He's two blocks over, at a stand that only sells flowers on weekends.   [close-up: captain at a street flower stand, picking out a small bunch]
+ 6.5s  Nobody asked him to. It's not on the booking. It's not on the invoice.   [close-up: captain paying, tucking the flowers under one arm]
+10.0s  He hands them to the woman celebrating forty years married the second she steps aboard.   [medium shot: captain presenting the flowers, her face reacting]
+14.0s  She has no idea he was ever gone. She just knows the boat smelled different when she got on it.   [closing wide shot: couple settling in, flowers visible, boat pulling away]
+
+ON-SCREEN TEXT TREATMENT:
+None. A gesture this small doesn't need a caption explaining it.
+
+SHOT LIST:
+- Wide shot, empty dock, boat idle (opener)
+- Close-up, captain at the flower stand
+- Close-up, captain paying, tucking flowers under his arm
+- Medium shot, captain presenting flowers as she boards
+- Closing wide shot, couple settling in, boat pulling away
+
+SOURCE GROUNDING: Sourced from idea #70 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Empower the captain to spend money. Give every captain a $50 discretionary budget per shift to create moments. Buy flowers from a street vendor for a bride. Grab beignets from the truck. Don't require approval. Trust them."), read directly against the source text. The idea's own example uses a bride; this piece deliberately reassigns the gesture to a fortieth-anniversary couple to avoid reskinning the bachelorette-entrance and bachelorette-gift devices held at zero since Pass 23, and to avoid repeating idea #51 (a birthday dessert ambush) or the existing "Anyone Order a Dozen Wings?" piece (an unasked-for food delivery, idea #94's Uber Eats ambush). Checked against Pass 60's re-verified open list (idea #70 listed untapped); this is the first piece built from it.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain warmth with Ogilvy's specificity ("two blocks over," "a stand that only sells flowers on weekends") making the gesture concrete instead of vague. Then /copywriting-2.0 (3-test filter): an early draft's closer read "it's a small thing that means everything," flagged as an unfalsifiable platitude, rewritten to "She just knows the boat smelled different when she got on it," a sensory, checkable detail that carries the emotional weight without naming it.
+
+PRODUCTION FLAG: illustrative treatment of a proposed practice (idea #70's discretionary budget), not confirmed as a current, funded program for NPB captains. The forty-years-married occasion is illustrative, not a documented incident. No captain or guest named or identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

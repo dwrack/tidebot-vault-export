@@ -1,0 +1,19 @@
+PIECE 349 — Idiom (square meal), over-packing logistics bit — The Planner (2nd appearance) / "Three Square Meals"
+Voice: The Planner (EL-Lily.mp3)   Music: bright, playful bed   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group I plan for packs like the trip is three square meals, not two hours.   [Planner VO bright, wide, cooler packed heavy, planner checking a list]
+ 3.8s  I stopped fighting it. Now I just plan for it.                                     [insert, planner checking off items on a list, smiling]
+ 7.6s  Breakfast tacos before boarding, lunch on the boat, dessert somehow also on the boat.  [insert, food variety close-up]
+11.4s  Nobody's ever once left hungry. That's the actual metric I track.                  [closing line, wide, golden hour, guests eating happily]
+
+On-screen text: Hook = "GROUPS PACK LIKE IT'S THREE MEALS, NOT TWO HOURS" / Body = "nobody's ever once left hungry. that's the metric" / CTA: tag the friend who over-packs the cooler
+
+Shot list:
+- [INSERT] Planner's checklist
+- [B-ROLL] Packed cooler, food variety close-up
+- [B-ROLL] Guests eating happily
+
+Note: distinct from piece 217 (leftover veggie tray, about quantity uneaten) and piece 323 (food-category deadpan list) — this piece is about over-packing volume from the planning side, a different angle on food than either prior piece. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

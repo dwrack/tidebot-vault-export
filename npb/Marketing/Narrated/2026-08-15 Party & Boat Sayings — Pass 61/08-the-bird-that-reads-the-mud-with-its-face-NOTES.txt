@@ -1,0 +1,28 @@
+PIECE 08 — Did-you-know / wildlife spotlight lane — "The Bird That Reads the Mud With Its Face"
+Product: Naturalist eco swamp tour
+Voice: EL-Lily (ElevenLabs)   Music: curious, gentle, a little playful (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A white ibis wades through the shallows, curved bill sweeping side to side, never looking down.   [wide shot: ibis wading, bill sweeping through shallow water]
+ 3.5s  A kid in the front kayak asks if it's broken. It is not.   [close-up: kid pointing, curious, guide shaking head]
+ 6.5s  That bill's got nerve endings at the tip. It's feeling for crawfish under the mud before it ever sees one.   [close-up: bill sweeping through the shallows, close detail]
+11.0s  The guide calls it "reading the mud with its face." Not the official name. Just the one that stuck today.   [medium shot: guide gesturing, explaining, guests listening]
+14.5s  It pulls one out mid-sentence, like it's been listening the whole time.   [closing wide shot: ibis catching a crawfish, group watching]
+
+ON-SCREEN TEXT TREATMENT:
+"WHITE IBIS" appears briefly as a small lower-third label at 3.5s, then clears.
+
+SHOT LIST:
+- Wide shot, ibis wading, bill sweeping (opener)
+- Close-up, kid asking if it's broken
+- Close-up, bill sweeping through shallow water, detail shot
+- Medium shot, guide explaining
+- Closing wide shot, ibis catching a crawfish, group watching
+
+SOURCE GROUNDING: Original eco-tour concept, first piece in this series centered on the white ibis. Confirmed via a full search of all 17 prior slate documents that no prior piece references ibis. The kid's question ("is it broken") is checked against the retired kid-stumps-the-guide device: the kid asks, the guide isn't stumped, isn't charmed into a moment about the kid, and the piece's engine is the bird's own behavior, not the kid's line, so it does not reskin that retired device.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual specificity, the real mechanism (bill-tip nerve endings, tactile foraging) stated plainly rather than dressed up. Then /copywriting-2.0 (3-test filter): an early draft's guide line read "the guide always calls it reading the mud with its face," flagged as risking a reskin of the retired fixed-catchphrase device by implying a repeated signature line, rewritten to "Not the official name. Just the one that stuck today," which limits the phrase to a single day's guide rather than an institutional catchphrase.
+
+PRODUCTION FLAG: documented white ibis feeding behavior (tactile, nerve-rich bill used to probe for prey without visual confirmation). Confirm ibis sightings are reliably possible on NPB's actual route and season. No guide, guest, or child identified; standard filming/consent ask applies for any real child on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 12 — Sensory / did-you-know lane — "Somebody Flip a Switch Out Here?"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: atmospheric, building at dusk, then near-silent (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Last light, and the swamp's dead quiet except for paddle drips.   [wide shot: kayaks in fading light, quiet water]
+ 3.0s  Then, all at once, like a switch got flipped, every frog within a mile starts up at the same second.   [close-up: guests reacting, startled, looking around]
+ 7.0s  A guest actually asks if somebody hit a switch. Nobody controls this. It just happens at dusk.   [close-up: guest asking the question, guide shaking his head, amused]
+11.0s  Hundreds of frogs, and not a single one of them visible from the water.   [medium shot: dense reeds and cypress knees along the bank, nothing visibly moving]
+14.5s  The whole ride back happens inside that sound, and nobody on the boat says another word.   [closing wide shot: kayaks paddling back in near-dark, immersed in the noise]
+
+ON-SCREEN TEXT TREATMENT:
+None. The piece is built to be heard, not read; a label would work against the sound-on premise.
+
+SHOT LIST:
+- Wide shot, kayaks in fading light, quiet water (opener)
+- Close-up, guests startled by the sudden chorus
+- Close-up, guest's question, guide's amused headshake
+- Medium shot, dense bank vegetation, nothing visible
+- Closing wide shot, kayaks paddling back in near-dark
+
+SOURCE GROUNDING: Original eco-tour concept, first piece in this series centered on a dusk frog chorus. Confirmed via a full search of all 17 prior slate documents that no prior piece is built around frogs. Explicitly checked against Pass 60 Piece 08 ("The Sound That's Not the Boat, and Not the Birds," a cicada drone): different animal, different trigger (a sudden dusk onset versus a continuous daytime hum), different payoff (the group falling silent versus trying to locate the sound). Also distinct from Pass 40 Piece 08 (the alligator water-dance bellow, a single-animal, low-frequency, felt sound).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's sensory specificity paired with the Admire NOLA poetic lane's register for the closing hush. Then /copywriting-2.0 (3-test filter): an early draft's closer read "sometimes the swamp says more than any guide could," flagged as a vague, sentimental abstraction, rewritten to "The whole ride back happens inside that sound, and nobody on the boat says another word," a concrete, observable closing image that plays directly to the brief's "fun things people say out loud" from the opposite angle.
+
+PRODUCTION FLAG: dusk frog chorus onset (a rapid, near-simultaneous start to chorusing behavior at twilight) is documented amphibian behavior. Confirm timing and reliability against NPB's actual route and the specific tour time slot before treating as a guaranteed moment. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 02 — Practical, captain line lane — "Two Minutes, Port Side"
+Product: Private BYOB party fleet
+Voice: EL-Daniel (ElevenLabs)   Music: bright, urgent-but-easy, quick swell (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every golden-hour cruise hits the same sixty seconds where the light goes from good to unbelievable.   [wide shot: boat moving, golden light breaking across the water]
+ 3.0s  The captain doesn't announce it early. There's no warning built in ahead of time.   [close-up: captain glancing at the horizon, hand on the wheel]
+ 5.5s  Then, flat and quick: "Two minutes, port side. Get your photos now."   [close-up: captain speaking into the mic, no ceremony about it]
+ 9.0s  Fourteen phones come out at once. Nobody's arguing about who's blocking whose shot.   [medium shot: guests scrambling to the port rail, phones up]
+12.5s  By the time the color's gone, every single one of them already has the picture.   [closing wide shot: sunset fading fast, guests lowering phones, satisfied]
+
+ON-SCREEN TEXT TREATMENT:
+"TWO MINUTES, PORT SIDE" pops as a quote card the instant the captain says it at 5.5s, clears fast. No other text.
+
+SHOT LIST:
+- Wide shot, boat moving into golden light (opener)
+- Close-up, captain scanning the horizon
+- Close-up, captain's line into the mic
+- Medium shot, guests rushing to the rail, phones up
+- Closing wide shot, color fading, guests satisfied
+
+SOURCE GROUNDING: Sourced from idea #28 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Sunset countdown. If your cruise overlaps with sunset, make it a moment. 'Sunset in about two minutes, port side.' Don't let people miss it because they were refilling a drink."), read directly against the source text, not paraphrased from a prior pass's summary. Distinct from the adjacent idea #22, "the golden hour warning" (a ten-minute, open-ended "get your photos" line), which this piece does not draw on and which remains untapped separately. Checked against Pass 60's re-verified open list (idea #28 listed untapped) and against a full-text search of all 17 prior slate documents for "sunset" — every existing hit is an atmospheric closing-shot descriptor in an unrelated piece (toasts, dance floors, etc.), never the spine of a piece. This is the first piece in the series built around the captain's specific timed call.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain urgency, no adjectives doing the work the countdown itself should do. Then /copywriting-2.0 (3-test filter): an early draft's captain line read "This is the moment you came for, folks, get those cameras ready," flagged as brochure-adjacent and unfalsifiable ("the moment you came for"), rewritten to the flat, checkable "Two minutes, port side. Get your photos now."
+
+PRODUCTION FLAG: illustrative captain behavior drawn directly from idea #28's own line, not confirmed as a scripted or trained line every captain uses. The "two minutes" figure comes from the idea bank's own wording, not a measured or company-standard timing. No captain named or identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 61, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

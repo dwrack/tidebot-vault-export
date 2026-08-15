@@ -1,0 +1,18 @@
+PIECE 348 — Idiom (wide berth), dock-courtesy-between-boats bit — The Regular (2nd appearance) / "Wide Berth"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: calm, low-key groove bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Been on this boat enough times to know one rule that isn't posted anywhere.          [Regular VO flat deadpan, wide, two boats near the dock]
+ 3.8s  See a louder group than yours? Give them a wide berth. Let them have their moment.   [insert, deckhand waving another boat off politely]
+ 7.6s  Somebody gave you that same room on your loud trip. You just don't remember it.      [insert, guests laughing knowingly]
+11.4s  Wide berth. Boat courtesy, and also just regular courtesy.                            [closing line, wide, golden hour, two boats passing calmly]
+
+On-screen text: Hook = "THE RULE THAT ISN'T POSTED ANYWHERE" / Body = "somebody gave you that room too. you just don't remember" / CTA: none
+
+Shot list:
+- [B-ROLL] Two boats near the dock
+- [INSERT] Deckhand giving a courteous wave
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
