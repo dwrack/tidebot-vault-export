@@ -1,0 +1,14 @@
+PIECE 267 — Funny/Quotable lane (real-sourced) — The Groomsman / "What Does BYOB Actually Cover?"
+Voice: voice-en-GB-RyanNeural (free tier) ("The Groomsman," chill, dry, warm underneath)   Music: light, breezy acoustic bed   Length: 14.4s   CTA piece
+
+SCRIPT (timed to narration):
+ 0.0s  "So what's BYOB actually cover?" Somebody asks every single trip.     [Groomsman VO chill dry, wide, guest asking, cooler nearby]
+ 3.8s  Drinks, mixers, snacks, whatever gets you through two hours.         [insert, cooler being loaded, variety of items]
+ 7.6s  Nobody's checking what's in the cooler. Pack what you'd actually want. [insert, guests loading up, laughing]
+11.2s  Wide open. That's the actual rule.                                   [closing line, wide, golden hour, cooler closed, group ready]
+
+On-screen text: Hook = "WHAT DOES BYOB ACTUALLY COVER?" | Body = "nobody's checking what's in the cooler" | CTA = "Pack what you actually want. Book it."
+
+NOTE: real-sourced from Entity Canon.md's confirmed line ("BYOB cycleboat/pedal barge experience... guests bring their own drinks"), extended here to cover food/mixers — a reasonable but not separately confirmed generalization; flag for Connor if outside food specifically has a restriction. Deliberately distinct from piece 177 ("Wait, We Get To Bring Our Own?", Vol. 12), which is a first-timer surprise-reveal that BYOB exists at all — this piece assumes the guest already knows and is asking what it covers. First draft's closing line collided almost word-for-word with 177's own closer ("we just bring the boat") — rewritten during copywriting-2.0.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

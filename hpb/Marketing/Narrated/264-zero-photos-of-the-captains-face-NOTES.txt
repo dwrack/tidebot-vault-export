@@ -1,0 +1,14 @@
+PIECE 264 — Funny/Quotable lane — Roger (2nd appearance) / "Zero Photos Of The Captain's Face"
+Voice: voice-en-US-RogerNeural (free tier) ("Roger," mock-official delivery)   Music: quirky mock-mystery bed, playful   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Every video on this account. Same captain. Zero photos of his actual face. [Roger VO mock-official, wide, captain's back at the helm, silhouette]
+ 3.8s  He'll wave you into every shot. He will not be in one.                [insert, captain gesturing others forward, stepping back]
+ 7.6s  Nobody's cracked why. Everybody's stopped asking.                    [insert, guests shrugging, laughing]
+11.2s  You'll hear him before you ever see him.                             [closing line, wide, golden hour, captain's voice implied, silhouette]
+
+On-screen text: Hook = "ZERO PHOTOS OF THE CAPTAIN'S FACE" | Body = "he'll wave you into the shot, not himself" | CTA: none.
+
+NOTE: this is a meta bit about the account's own footage habits — only usable if it's actually true that the real captain avoids camera in existing footage. CONFIRM WITH CONNOR whether this is accurate before publishing; if the captain is happy to be filmed, swap this premise for a different crew member or pull it.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

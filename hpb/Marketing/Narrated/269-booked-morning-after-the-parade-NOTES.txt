@@ -1,0 +1,14 @@
+PIECE 269 — Funny/Quotable lane (new occasion — sports championship) — The Deckhand (2nd appearance) / "Booked The Morning After The Parade"
+Voice: voice-en-US-GuyNeural (free tier) ("The Deckhand," fast, hype, half out of breath)   Music: high-energy hype bed, celebratory horns/percussion   Length: 14.4s   CTA piece
+
+SCRIPT (timed to narration):
+ 0.0s  The parade wraps downtown. By afternoon, half the group's already on the water. [Deckhand VO fast hype, wide, group boarding in team gear/colors]
+ 3.8s  Same energy, different crowd, jerseys instead of cocktail dresses.    [insert, guests in jerseys, celebratory energy]
+ 7.6s  Houston wins, this boat fills up. That's just how it goes.           [insert, group cheering, high-fives]
+11.2s  Book it before the parade's even scheduled.                         [closing line, wide, golden hour, group celebrating]
+
+On-screen text: Hook = "THE PARADE ENDS. THE PARTY MOVES TO THE WATER." | Body = "Houston wins, this boat fills up" | CTA = "Book it before the parade's even scheduled."
+
+NOTE: first sports-championship occasion piece across seventeen volumes — genuinely seasonal/opportunistic, not evergreen like most of this series' occasion pieces; only usable in a real title-run year. Do NOT name a specific team or year in any rendered on-screen text — the script's own text stays generic ("Houston wins") for exactly this reason, so it doesn't go stale or wrong in an off year. Needs a genuine team-colors/jersey charter to shoot, ideally timed near a real championship run.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

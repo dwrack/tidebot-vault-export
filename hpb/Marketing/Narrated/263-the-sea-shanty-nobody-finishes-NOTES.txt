@@ -1,0 +1,14 @@
+PIECE 263 — Funny/Quotable lane — Delta Dream's voice / "The Sea Shanty Nobody Finishes"
+Voice: EL-Lily.mp3 ("Delta Dream's voice," bright, polished register)   Music: light acoustic/folk bed with a shanty-adjacent rhythm underneath the comedic pacing   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always starts a sea shanty. Nobody knows more than one verse. [Delta Dream VO bright polished, wide, guest starting to sing, others joining]
+ 3.8s  "Way hay, and up she rises" carries the whole boat for about four seconds. [insert, group singing, laughing, off-key]
+ 7.6s  Then it just becomes humming. Confident humming.                     [insert, guests mouthing along, laughing]
+11.2s  Nobody's ever finished one. Everybody's had fun trying.               [closing line, wide, golden hour, group laughing together]
+
+On-screen text: Hook = "THE SEA SHANTY NOBODY FINISHES" | Body = "then it just becomes confident humming" | CTA: none.
+
+NOTE: "Way hay, and up she rises" is a real, traditional public-domain sea shanty line ("What Do You Do With a Drunken Sailor") — safe to reference as a lyric fragment. Confirm any recorded music bed used underneath is separately cleared. See the volume doc's flagged open item on the "Delta Dream" character name overlapping a real, differently-owned vessel name — this piece never states the boat's name on camera, only uses it as the internal VO-character label.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 257 — Funny/Quotable lane (etymology cluster) — Roger / "Three Sheets To The Wind"
+Voice: voice-en-US-RogerNeural (free tier) ("Roger," mock-official delivery)   Music: playful pub-toast bed, light nautical horn stinger   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Three sheets to the wind." Everybody says it. Nobody knows why.       [Roger VO mock-official, wide, guest holding a drink, laughing]
+ 3.8s  A "sheet" is a rope. Loose sheets, sails flap, the whole ship staggers. [insert, dock line/rope coiled, close-up]
+ 7.8s  Now you know. Doesn't change how the toast goes tonight.               [insert, cheers, laughing]
+11.6s  Three sheets, coming right up.                                        [closing line, wide, golden light, toast raised]
+
+On-screen text: Hook = "\"THREE SHEETS TO THE WIND\" — WHY DO WE SAY THAT?" | Body = "a sheet is a rope, not a sail" | CTA: none.
+
+NOTE: etymology is accurate — a nautical "sheet" is the line controlling a sail's angle, not the sail itself; slack sheets let a ship lurch unsteadily, which is where the drunk analogy comes from. Safe factual claim, nothing to confirm with Connor. First of a three-piece etymology cluster this volume (see 258, 259).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

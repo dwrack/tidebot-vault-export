@@ -1,0 +1,14 @@
+PIECE 271 — Funny/Quotable lane — The Sunscreen Friend (2nd appearance) / "The New Guy's First-Day Cast-Off"
+Voice: voice-en-US-BrianNeural (free tier — not EL-Brian) ("The Sunscreen Friend," earnest, mildly amused, clearly loves everyone)   Music: warm, gently comedic bed, affectionate not mocking   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Cast off the line" sounds simple until it's your first day.         [Sunscreen Friend VO warm earnest, wide, new deckhand at the line, nervous energy]
+ 3.8s  He tossed it a beat too early. Boat wasn't ready. Rookie mistake.    [insert, line tossed, mild fumble, laughing crew]
+ 7.8s  Crew still brings it up. Probably always will.                      [insert, deckhand laughing, embarrassed but good-natured]
+11.6s  Everybody's got a first-day story. That one's his.                  [closing line, wide, golden hour, crew laughing together]
+
+On-screen text: Hook = "\"CAST OFF THE LINE\" — HIS FIRST DAY" | Body = "the crew still brings it up" | CTA: none.
+
+NOTE: distinct from piece 254 ("The Line Toss Nobody Catches On The First Try," Vol. 16), which is about a guest attempting to catch a tossed line at docking; this piece is about a crew member learning the "cast off" departure procedure. Both are invented illustrative devices, not confirmed real incidents — keep tone affectionate, and confirm with Connor this isn't read as making light of an actual safety procedure before treating it as a documented crew story.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

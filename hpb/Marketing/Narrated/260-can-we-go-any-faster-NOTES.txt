@@ -1,0 +1,14 @@
+PIECE 260 — Funny/Quotable lane — Mama Tried's voice / "Can We Go Any Faster?"
+Voice: EL-Brian.mp3 (premium) ("Mama Tried's voice," flat, deadpan list-comedian)   Music: slow groove bed, laid-back   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, somebody leans up front and asks if she can go any faster. [Mama Tried VO flat deadpan, wide, guest at bow, captain at helm]
+ 3.6s  She's a barge. Not a speedboat. Never was.                            [insert, wake gentle, unhurried]
+ 7.2s  That's the whole business model, actually.                           [insert, guests relaxed, drinks in hand]
+10.6s  Nowhere to be. Nowhere to rush to.                                    [closing line, wide, golden hour, slow cruise]
+
+On-screen text: Hook = "CAN WE GO ANY FASTER?" | Body = "that's the whole business model, actually" | CTA: none.
+
+NOTE: "she's a barge, not a speedboat" is a safe, generic framing of the actual vessel type — no specific speed claim made. First draft closed on the hedged "that's kind of the whole point," rewritten during copywriting-2.0 to the unhedged "the whole business model, actually" per the 3-test filter (Halbert's direct-statement rule — no qualifiers).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 272 — Funny/Quotable lane (sincere closer) — Sarah (2nd appearance) / "Everybody Looks Back At The Dock Once"
+Voice: EL-Sarah.mp3 ("Sarah," warm, soft, confident)   Music: quiet warm acoustic bed, sincere register, no comedic sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody looks back at the dock at least once as it gets smaller.   [Sarah VO warm soft confident, wide, boat pulling away, dock receding]
+ 3.8s  Nobody says why. Nobody has to.                                     [insert, guest turning to look back, quiet expression]
+ 7.6s  It's not the dock they're looking at. It's the two hours that haven't happened yet. [insert, group settling in, anticipation]
+11.6s  Then somebody laughs, and it starts.                                [closing line, wide, golden hour, group laughing, boat underway]
+
+On-screen text: Hook = "EVERYBODY LOOKS BACK AT THE DOCK ONCE" | Body = "it's not the dock, it's the two hours ahead" | CTA: none.
+
+NOTE: closes the volume on the same sincere, non-comedic register Vol. 15 (piece 240, "Everybody Signs It On The Way Out") and Vol. 16 (piece 256, "The Ride Back Is Always Quieter") used for their own closers — a distinct specific image (looking back at departure) rather than either prior closer's image. Keep this piece's music and captioning separate from the comedic-lane pieces in this same volume, same discipline prior volumes applied to their sincere pieces.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

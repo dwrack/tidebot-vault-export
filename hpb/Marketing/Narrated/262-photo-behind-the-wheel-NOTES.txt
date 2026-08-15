@@ -1,0 +1,14 @@
+PIECE 262 — Funny/Quotable lane — The Sunscreen Friend / "Everybody Wants The Photo Behind The Wheel"
+Voice: voice-en-US-BrianNeural (free tier — not EL-Brian) ("The Sunscreen Friend," earnest, mildly amused, clearly loves everyone)   Music: upbeat bright pop bed   Length: 14.6s   CTA piece
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody leaves without a photo behind the wheel. Nobody.               [Sunscreen Friend VO warm earnest, wide, guest stepping up to helm, captain stepping aside]
+ 3.8s  Captain hands it over for thirty seconds. Everybody looks like they own the place. [insert, guest posing at helm, big grin]
+ 7.8s  Line forms without anybody organizing it.                            [insert, guests waiting their turn, laughing]
+11.6s  Get your thirty seconds. Book the boat.                              [closing line, wide, golden hour, guest at wheel laughing]
+
+On-screen text: Hook = "EVERYBODY WANTS THE PHOTO BEHIND THE WHEEL" | Body = "thirty seconds, and you own the place" | CTA = "Get your thirty seconds. Book the boat."
+
+NOTE: "captain hands it over for thirty seconds" assumes the boat is safely stopped/idle when this happens — do not shoot or suggest guests at the wheel while underway. CONFIRM WITH CONNOR this is an actual allowed practice before treating it as documented policy rather than illustrative.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

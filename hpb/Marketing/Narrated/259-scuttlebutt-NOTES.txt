@@ -1,0 +1,14 @@
+PIECE 259 — Funny/Quotable lane (etymology cluster) — The Bestie / "Scuttlebutt"
+Voice: EL-Jessica.mp3 ("The Bestie," loud friend, mock-official one second, cracking up the next)   Music: bright gossip-y pop bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Scuttlebutt" was a water barrel. Sailors gathered there. So did the gossip. [Bestie VO loud, half-laughing, wide, group huddled, one whispering]
+ 3.8s  Out here the scuttlebutt's usually about somebody's ex.                [insert, guests leaning in, laughing]
+ 7.6s  Word travels the length of this boat in about ninety seconds.         [insert, reaction rippling down the deck]
+11.4s  Ask anybody. They already heard.                                      [closing line, wide, group laughing, golden light]
+
+On-screen text: Hook = "\"SCUTTLEBUTT\" WAS A WATER BARREL" | Body = "word travels this boat in ninety seconds" | CTA: none.
+
+NOTE: etymology is accurate — scuttlebutt was a cask with a hole cut in it for drinking water, and the sailors' gathering spot around it became slang for gossip. "Somebody's ex" is a generic, non-specific joke, not about any real guest. Third of a three-piece etymology cluster this volume (see 257, 258) — capped at three per volume, see the volume doc's structural note.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

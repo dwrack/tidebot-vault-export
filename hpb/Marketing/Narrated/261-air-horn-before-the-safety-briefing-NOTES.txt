@@ -1,0 +1,14 @@
+PIECE 261 — Funny/Quotable lane — The Announcer / "The Air Horn Gets Found Before The Safety Briefing"
+Voice: EL-Daniel.mp3 ("The Announcer," formal "news"/memo register, played straight)   Music: comedic sting bed, playful brass stab on the horn beat   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  The air horn gets found before the safety briefing even starts.       [Announcer VO formal deadpan, wide, guest holding air horn, mischievous look]
+ 3.8s  It's for emergencies. It has never once been used for an emergency.   [insert, deckhand's resigned face]
+ 7.6s  It has been used for a lot of birthdays.                              [insert, horn honk, guests laughing, covering ears]
+11.4s  The briefing still happens. Eventually.                              [closing line, wide, golden light, group laughing]
+
+On-screen text: Hook = "SOMEBODY FOUND THE AIR HORN" | Body = "never for an emergency, plenty for birthdays" | CTA: none.
+
+NOTE: invented illustrative device, not a documented specific incident. Keep the actual safety briefing genuine and unedited in any real footage — this piece jokes about the horn, not about skipping real procedure. CONFIRM WITH CONNOR that an air horn is in fact part of the boat's actual safety equipment before treating this as documented rather than illustrative. Opener rewritten during copywriting-2.0 to drop an exact "every trip, somebody..." frame collision it originally shared with piece 260 — caught on a full read-through of this batch's sixteen openers against each other.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

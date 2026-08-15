@@ -1,0 +1,14 @@
+PIECE 265 — Funny/Quotable lane — The Deckhand / "The No-Ice-Throwing Truce Lasts About Ten Minutes"
+Voice: voice-en-US-GuyNeural (free tier) ("The Deckhand," fast, hype, half out of breath)   Music: high-energy playful bed, quick percussive hits on the ice-toss beat   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "No throwing ice" lasts about ten minutes on every trip.              [Deckhand VO fast hype, wide, cooler open, ice visible]
+ 3.6s  Then one cube goes flying and it's over.                             [insert, ice cube tossed, guest laughing, dodging]
+ 7.2s  Nobody enforces the truce. Everybody breaks it.                      [insert, playful chaos, laughing]
+10.6s  It's not a rule. It's a countdown.                                   [closing line, wide, golden hour, group laughing]
+
+On-screen text: Hook = "THE NO-ICE-THROWING TRUCE" | Body = "it's not a rule, it's a countdown" | CTA: none.
+
+NOTE: keep genuinely light and low-stakes — do not depict this near the helm, stairs, or open water edge, so it doesn't read as endorsing real safety-rule-breaking.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
