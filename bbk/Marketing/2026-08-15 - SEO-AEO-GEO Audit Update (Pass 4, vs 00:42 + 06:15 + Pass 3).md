@@ -1,0 +1,71 @@
+# BBK SEO/AEO/GEO Audit — Pass 4, 2026-08-15 (vs. 00:42 full audit + 06:15 delta + Pass 3 ~09:20)
+
+**REPORT ONLY. Nothing changed live on the site, WordPress, GBP, or any ad account. This is a research/verification document for David to review. No edits, no publishing, nothing outbound.**
+
+This is the fourth SEO check run today on Buffalo Bayou Kayak. Ran `/seo-audit` and `/tech-seo` directly this pass (not just diffing prior docs), re-verified GSC/GA4/PSI status live, and cross-checked the staged blog folder and a few fresh SERP queries. Bottom line: **the live site itself is unchanged since Pass 3** (same 11 posts, same robots.txt, same schema, same verification tag) — expected, since nobody's touched WordPress. What's genuinely new this pass: **3 more blog drafts got staged** (12 total now, not 11), the newer drafts are running through a **Content-Gate quality score** that the original 3 June drafts never got, and live SERP research surfaced **one new positive earned mention** (htowndads.com) and **one live pricing-accuracy problem** worth flagging to David.
+
+---
+
+## What Actually Changed Since Pass 3 (~09:20)
+
+1. **3 more blog drafts staged**, all timestamped 07:26–07:28 today, on top of the 9 that existed at Pass 3:
+   - `2026-08-15 - bachelorette-group-kayaking-houston.md`
+   - `2026-08-15 - houston-kayak-cost-pricing-guide.md`
+   - `2026-08-15 - kayaking-with-kids-in-houston.md`
+
+   These are **bonus topics outside the original 12-brief numbering** (a separate session is drafting the 3 remaining numbered briefs — 9, 10, 11 — per the dispatch note; these three are not that work, they're additional angles). **Total staged drafts is now 12, not 11** as estimated in this task's dispatch text — worth correcting for the record. Still 0 of 12 published; confirmed fresh via a live `post-sitemap.xml` fetch this pass, same 11 Nov-2023 posts.
+
+2. **NEW finding: a Content-Gate quality layer now exists on 9 of the 12 drafts, but not the original 3.** Checked the frontmatter of all 12 files directly. Every draft staged today (the 03:01, 06:15–06:18, and 07:26–07:28 batches — 9 files) opens with a `/content-gate` score block: all 9 scored **PASS**, ranging 85–87/100 (threshold is 80). Sub-scores are itemized (Experience, Expertise, Authority, Trust, GEO-readiness, Brand-voice, On-page mechanics), each ran two scoring rounds with specific fixes noted between round 1 and round 2. The **3 original June 13 drafts — including the bat colony guide, which every pass today has called the single highest-value item in this report — carry no Content-Gate score at all**, because they predate that process. Practical read: 9 of the 12 staged posts are already quality-vetted and sitting at PASS, ready for David's brand/fact review before publish. The bat guide, the top-priority item, has NOT been run through the newer QA bar — worth doing before it publishes, even though it's the most time-sensitive piece (peak bat season is now).
+
+3. **NEW finding: htowndads.com already names Buffalo Bayou Kayak favorably**, and none of the 3 prior passes today flagged it. A fresh WebSearch for "kayaking with kids Houston" surfaced `htowndads.com/best-places-kayak-houston-families/` ("5 of the best places to take your kids kayaking in Houston"), which per the search snippet describes Buffalo Bayou Kayaks as "ideal for those looking to explore the beautiful Buffalo Bayou water trail and learn some history about Houston's landmarks... a great place for bird watching and bat watching with an expansive list of tour options and prime location near downtown." Note: a direct WebFetch of the article failed on this pass (local SSL cert error, not a site-side block), so this is confirmed via the search snippet's quoted text, not a full-page fetch — treat as high-confidence, not 100%, same caveat standard Pass 3 used for the Houstonia article. Worth a follow-up direct fetch to confirm whether it hyperlinks to buffalobayoukayak.com, and worth citing as real social proof inside the new `kayaking-with-kids-in-houston.md` draft once it's reviewed.
+
+4. **NEW finding: a possible pricing-accuracy problem in AI-summarized search results.** A WebSearch for "kayak rental Houston cost price" returned an AI-synthesized answer stating "Buffalo Bayou Area: The cost is $22 per person... standard rental duration is 1 hour." Checked BBK's actual live pricing directly against the `/watersports-rental/` page's own FAQPage JSON-LD (fetched and parsed fresh this pass): **BBK's real starting price is $20 for a single kayak/paddleboard for one hour, $40 for two hours; tandem is $35/one hour, $65/two hours; full-day $55 single / $85 tandem.** The $22 figure doesn't match any of BBK's actual live-quoted prices, and it's ambiguous whether the search summary is even specifically attributing that number to BBK vs. blending several "Buffalo Bayou area" providers. Flagging it because it's exactly the kind of AI-answer-layer inaccuracy a canonical, correct BBK pricing page is built to fix — which is precisely what the newly-staged `houston-kayak-cost-pricing-guide.md` draft is for. Real, concrete reason to prioritize that draft's review, beyond "it's a content gap."
+
+5. **paddlingmag.com and Houstonia** — did not re-check; Pass 3 already resolved both with direct fetches/quotes (BBK absent from both), and nothing suggests either changed in the ~5 hours since. No new information to add.
+
+6. **Technical crawl** — ran a fresh redirect/robots/sitemap/JSON-LD check. Everything matches Pass 3 exactly: clean redirects (bare domain 200/0 redirects, www → single 301), robots.txt still has the same two orphaned `Disallow:` lines (`/fhbr-console/`, `/cdn-cgi/`) sitting after the last named user-agent block, sitemap still 11 posts, bat tour page JSON-LD still valid (`Product` + `FAQPage` in one block, `BreadcrumbList` in a second — both parse clean). No new technical issues found. FAQ page word count still ~7,100 words worth of HTML (consistent with the ~4,400-word body content figure from the 00:42 audit).
+
+---
+
+## Data Gaps — Re-Checked Live, Still Present
+
+**GSC / GA4 MCP:** Confirmed absent a fourth time, checked three independent ways this pass:
+- Read the vault's `.mcp.json` directly: `gmail-bbk`, `gbp`, `meta-organic`, `playwright`, `opencx`, `clarity`. No Search Console or Analytics server.
+- Read `~/.claude.json` globally (parsed the full `mcpServers` list plus every per-project override across all vaults): no `search-console` or `analytics`-flavored MCP registered anywhere, for any business, including BBK's own per-vault addition (`opencx` only).
+- Ran a live ToolSearch for "search console analytics GSC GA4" — nothing surfaced beyond generic `WebSearch`.
+
+No GSC/GA4 numbers appear anywhere in this document, same honest standard as the three prior passes.
+
+**PageSpeed Insights:** Retried once this pass, directly against the keyless PSI v5 endpoint for the homepage (mobile strategy). Result: **still `429` / `RESOURCE_EXHAUSTED`**, same message: "Quota exceeded for quota metric 'Queries' and limit 'Queries per day'." No `PSI_KEY` configured in `~/.claude/.env` (checked directly — the only key present is `ELEVENLABS_API_KEY`; there is no `PSI_KEY` line). Per the standing instruction (confirmed three times today already), **not retrying a second time this pass** — the dedicated `tech-seo` skill runner (`~/Projects/tech-seo/psi-run.mjs`) hits the same keyless quota, so running it would just be a second retry against an already-confirmed-exhausted daily cap, not new information. No Core Web Vitals/Lighthouse data available for BBK on any of the 4 passes today.
+
+**`google-site-verification` tag:** Still live on the homepage, same value (`ZTdimCkZr-kTmPpOzczYnKjJzsqLccPSKlkof0W0bU4`), reconfirmed via a fresh curl this pass. Still unresolved — fourth time flagged today. Still David's 10-minute chase-down (or Connor's, if he built the site originally).
+
+---
+
+## Prioritized Fix List
+
+### Quick Wins (this week)
+
+1. **Publish `Marketing/Blog Drafts - Staged/2026-06-13 - houston-bat-kayak-tour-waugh-bridge.md`** — still the single highest-value item across all 4 passes today. Peak bat season is running right now; this page has sat finished since June. **New wrinkle this pass:** run it through `/content-gate` before publishing — it's the one priority draft that predates the QA process the other 9 already passed. Expected impact: gives AI answer engines and Google a citable BBK page for "Waugh Bridge bats" queries, currently owned by buffalobayou.org / 365thingsinhouston / TPWD.
+2. **Publish the other 11 staged drafts** (now 12 total, up from 9 at Pass 3) after David's review, in this order: `full-moon-kayak-dates-2026.md` (time-sensitive, direct booking intent), then `is-buffalo-bayou-safe-to-kayak.md` and `kayaking-for-beginners-in-houston.md` (fill briefs 3/8, zero live coverage today), then the 3 newest ones — `houston-kayak-cost-pricing-guide.md` has a real, live reason to move up the queue now (see finding #4 above: an inaccurate $22 price point is already circulating in AI search summaries; BBK's real price is $20/hr single). 9 of these 11 already carry Content-Gate PASS scores (85–87/100) — they're ready for brand/fact review, not a cold read. Expected impact: turns a 33-month-dead blog into a live content asset across 12 new URLs instead of 1, and gets a canonical, correct BBK pricing page live before more AI-summarized pricing confusion sets in.
+3. **Add a "From the Blog" link block to `/kayak-tours/houston-bat-bridge-kayak-tour/`**, pointing to the bat colony guide once published, plus reciprocal links from each new post back to the relevant tour/rental page with descriptive anchors ("Houston bat bridge kayak tour," not "book now"). Confirmed still undone this pass (zero links either direction, re-verified live). Do this at the same time as item 2, not after.
+4. **Chase down the `google-site-verification` meta tag** (`ZTdimCkZr-kTmPpOzczYnKjJzsqLccPSKlkof0W0bU4`) — fourth time this exact item has been flagged today across four separate passes. Ask David directly which Google account this belongs to. Expected impact: could resolve the entire GSC access gap that's blocking real keyword/CTR data in one login.
+5. **Clean up the two orphaned `Disallow:` lines in `robots.txt`** (`/fhbr-console/`, `/cdn-cgi/`) — move them under `User-agent: *`. Flagged in June, at 00:42, at 06:15, at Pass 3, and again now — five times. One FareHarbor support ticket.
+6. **New this pass — follow up on the htowndads.com mention.** A direct WebFetch failed this pass (local cert error, retry with a different fetch path), so confirm with a clean fetch whether `htowndads.com/best-places-kayak-houston-families/` actually hyperlinks to buffalobayoukayak.com. If it doesn't, a quick outreach ask (signed Connor/business per CLAUDE.md, not David) for a link is a much easier win than the paddlingmag/Houstonia cold pitches, since htowndads already speaks positively about BBK with zero pitch needed.
+7. **Carried from Pass 3 — confirm the paddlingmag.com and Houstonia non-mentions with David** and green-light outreach. Both confirmed absent via direct fetch/quoted text at Pass 3; nothing changed since. Still awaiting David's go-ahead to send.
+
+### Strategic Work (this quarter)
+
+1. **Draft and publish a combined "Is Buffalo Bayou Safe to Kayak?" pillar** on `/2023/11/02/are-alligators-safe-to-kayak-with/` — merge the staged `is-buffalo-bayou-safe-to-kayak.md` draft into an upgrade of the existing 2023 post rather than a separate competing URL. That post still ranks #1 in a live spot-check for this query cluster (confirmed at 00:42, unchanged since). Expected impact: one strong consolidated page with a real shot at a featured snippet / AI Overview citation.
+2. **Send the paddlingmag.com and Houstonia outreach**, pitch already built at Pass 3 (live Product/FAQPage schema on all 8 tour/rental pages, ~4,400-word FAQ page, bat colony guide once published). Signed Connor Champaign (Manager) or business name, never David, per CLAUDE.md.
+3. **Merge the 8 thin 2023 history posts into one "History of Buffalo Bayou" pillar with 301s.** Still fully open, unchanged since June — confirmed again via today's sitemap fetch.
+4. **Draft the remaining briefs with zero coverage** — brief 4 (fold into strategic item 1 above), 9 (Best Time of Year to Kayak in Houston), 10 (Houston Skyline Photo Spots), 11 (Team Building in Houston). Per the dispatch note, another session may be actively drafting these three right now — check the staged folder for new files dated after this pass before starting that work in a future session, to avoid duplication.
+5. **Run the 3 June drafts (bat guide, downtown guide, same-day guide) through `/content-gate`** before they publish, so all 12 staged posts meet the same bar the newer 9 already cleared. New recommendation this pass — those 3 are the oldest, most time-sensitive drafts and the only ones without a documented quality score.
+6. **Get a `PSI_KEY` added to `~/.claude/.env`.** Blocked on the keyless daily quota across all 4 passes today. Infrastructure fix, not a site fix.
+7. **Resolve GSC/GA4/GBP access.** Still the most-repeated line item across all four passes today. Every keyword/content finding in this document and its three predecessors is SERP inference because there's no first-party data connected anywhere in this environment.
+
+---
+
+## Notes on Scope
+
+This pass ran the `/seo-audit` and `/tech-seo` skills directly rather than only diffing prior docs, re-verified GSC/GA4/PSI status through three independent checks, re-fetched the homepage/robots.txt/sitemap/bat-tour-page JSON-LD live, and ran fresh WebSearch queries targeting the 3 newest staged drafts specifically (bachelorette, pricing, kids) since those topics hadn't been checked against live SERPs in any prior pass. It did not re-run the full 15/31-link crawl (Pass 3 already ran the wider 31-link version a few hours ago with no site changes since), did not re-check paddlingmag/Houstonia (already resolved at Pass 3), and did not evaluate the brand-voice or factual content of any of the 12 staged drafts beyond reading their Content-Gate score blocks — that's a separate review task. Did not touch the Google Ads account, GBP listing, or WordPress in any way.

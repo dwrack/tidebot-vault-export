@@ -1,0 +1,28 @@
+PIECE 09 — Did-you-know / historical lane — "Somebody Brought This Here on Purpose in 1884"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: quiet, curious, a touch wry on the reveal (mood only, no artist cited)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A patch of purple flowers floats past, pretty enough that a guest asks if it's planted for the tour.   [wide shot: kayaks passing a cluster of water hyacinth, purple blooms visible]
+ 3.5s  It wasn't planted for anything. It was a gift, in 1884, at a World's Fair a few miles from here.   [close-up: water hyacinth blooms, close detail]
+ 8.0s  Japan sent it to New Orleans as an ornamental. It's been taking over water in this country ever since.   [close-up: guide gesturing at the spread of the plant]
+12.5s  One flower show, a hundred and forty years ago, and it's still out here causing problems.   [medium shot: dense mat of water hyacinth along the bank]
+15.5s  Pretty is doing a lot of work to hide how much trouble it is.   [closing wide shot: kayaks paddling past, purple flowers trailing behind]
+
+ON-SCREEN TEXT TREATMENT:
+"WATER HYACINTH, 1884" appears as a small lower-third label at 3.5s, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks passing purple blooms (opener)
+- Close-up, water hyacinth detail
+- Close-up, guide gesturing at the spread of the plant
+- Medium shot, dense mat along the bank
+- Closing wide shot, kayaks paddling past, flowers trailing
+
+SOURCE GROUNDING: Original eco-tour concept. Dedup research across all 16 prior slate documents confirmed no piece has centered water hyacinth. Explicitly distinguished from Pass 40 Piece 07 ("It Looks Solid. It Is Not.," duckweed, a much smaller floating plant with a "looks like a lawn" visual gag and no origin story): this piece is a different plant, a different visual (purple blooms vs. a green carpet), and a different hook (a documented historical origin story, the plant's introduction at the 1884 New Orleans World's Cotton Centennial Exposition, rather than a surface-texture surprise).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's proof-driven historical specificity, an exact year and exact origin story beats a vague "invasive plant." Then /copywriting-2.0 (3-test filter): caught an early draft's closer "a beautiful mistake," flagged as a stock phrase, rewrote to "Pretty is doing a lot of work to hide how much trouble it is," which takes more of a position and is harder to imagine anyone else writing.
+
+PRODUCTION FLAG: original eco-tour concept. The 1884 New Orleans World's Cotton Centennial Exposition water hyacinth origin story is a widely documented historical account. Presence of water hyacinth specifically on NPB's actual route was not independently reconfirmed this pass; confirm before treating as guaranteed on every tour. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

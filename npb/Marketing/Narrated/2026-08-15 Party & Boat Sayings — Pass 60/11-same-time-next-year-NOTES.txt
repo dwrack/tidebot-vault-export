@@ -1,0 +1,28 @@
+PIECE 11 — Funny / running-joke, guide line lane — "Same Time Next Year?"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: light, easy, winding down (mood only, no artist cited)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Two hours in, the boat idles back toward the dock, tour winding down.   [wide shot: kayaks approaching the dock, tour winding down]
+ 3.0s  The guide says goodbye to each kayak by name, or by whatever nickname stuck for the day.   [close-up: guide waving off a kayak, casual]
+ 6.5s  Then, to the first-timers specifically, the same four words. "Same time next year?"   [close-up: guide saying the line, half-smiling]
+10.5s  Nobody's actually kept track of who came back. The guide just says it anyway.   [medium shot: guests laughing, climbing out onto the dock]
+13.0s  One guy did come back, exactly a year later. Guide didn't even remember saying it.   [closing wide shot: kayaks docked, group dispersing, easy energy]
+
+ON-SCREEN TEXT TREATMENT:
+"SAME TIME NEXT YEAR?" pops as a quote card at 6.5s, clears fast. No text on any other line.
+
+SHOT LIST:
+- Wide shot, kayaks approaching the dock (opener)
+- Close-up, guide waving off a kayak
+- Close-up, guide's line to a first-timer
+- Medium shot, guests laughing, climbing out onto the dock
+- Closing wide shot, kayaks docked, group dispersing
+
+SOURCE GROUNDING: Original eco-tour concept. Dedup research across all 16 prior slate documents confirmed no piece has centered a guide's specific sendoff line. Explicitly distinguished from Pass 16 Piece 10 ("Same Bayou, Never the Same Tour," a guide's philosophy about day-to-day variability, illustrated by wildlife) and Pass 24 Piece 11 ("The Ride Back Is Always Quieter," a mood observation with no spoken line): this piece centers one specific four-word sendoff quip and a single coincidental callback, a different engine from both.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain, dry comedic delivery. Then /copywriting-2.0 (3-test filter): flagged an early draft where the line was written as one specific guide's fixed personal catchphrase, which risked reskinning the retired fixed-catchphrase device (retired since Pass 23). Rewrote so the line is common across guides generally rather than tied to one individual, with the payoff resting on the closing coincidence rather than the line's repetition alone.
+
+PRODUCTION FLAG: illustrative, plausible guide sendoff behavior, not confirmed as a standard scripted line any current guide uses. No guide or guest identified on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

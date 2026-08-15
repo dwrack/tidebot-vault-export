@@ -1,0 +1,28 @@
+PIECE 12 — Funny / heartfelt lane — "The Kid's Narrating Better Than the Guide Is"
+Product: Naturalist eco swamp tour
+Voice: EL-Brian (ElevenLabs)   Music: playful, light, warm underneath (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A five-year-old in the front kayak starts narrating the whole tour before the guide gets a word in.   [wide shot: kayaks launching, kid in the front seat already talking]
+ 3.5s  "That's a turtle. That's a BIG turtle. That turtle looks mad."   [close-up: kid pointing, talking fast]
+ 7.0s  The guide tries to jump in with the actual fact. The kid's already moved on to the next thing.   [close-up: guide half-laughing, trying to get a word in]
+11.0s  Nobody in the group is listening to the guide anymore. Everybody's listening to the kid.   [medium shot: adults grinning, watching the kid instead of the water]
+14.0s  Somewhere around minute thirty, even the guide gives up and just lets the kid run the tour.   [closing wide shot: kid still talking, guide paddling along, amused]
+
+ON-SCREEN TEXT TREATMENT:
+The kid's lines ("THAT'S A BIG TURTLE. THAT TURTLE LOOKS MAD.") pop as a playful, handwritten-style quote card at 3.5s, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks launching, kid already talking (opener)
+- Close-up, kid pointing, narrating fast
+- Close-up, guide trying to jump in
+- Medium shot, adults watching the kid instead of the water
+- Closing wide shot, kid still talking, guide amused
+
+SOURCE GROUNDING: Original eco-tour concept. Explicitly distinct from the retired "kid's question stumps or charms the guide" device (originated Pass 15 Piece 09, formally retired since Pass 23, reaffirmed by every pass since): that device is a Q&A moment, a kid asks something, the guide answers or admits he doesn't know. This piece has no question and no answer on camera anywhere; the kid's unprompted running commentary is the whole engine, and the guide never gets to speak a fact at all. Dedup research across all 16 prior slate documents confirmed no piece has built this specific mechanic.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's quick comedic escalation paired with Halbert's plain, affectionate humor, never mocking the kid or the guide. Then /copywriting-2.0 (3-test filter): caught an early draft's closer "kids say the best stuff," flagged as a generic, unfalsifiable platitude, rewrote to "Even the guide gives up and just lets the kid run the tour," which is concrete and visualizable.
+
+PRODUCTION FLAG: original eco-tour concept, illustrative and affectionate, not a documented specific incident. Standard filming/consent ask applies for any real child appearing on camera, consistent with the series' consent standard (first raised explicitly in Pass 15).
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

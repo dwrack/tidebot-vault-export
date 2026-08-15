@@ -1,0 +1,28 @@
+PIECE 10 — Did-you-know / practical lane — "Little Mud Towers, and They're Not Empty"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: earthy, unhurried, minimal (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Along the bank, little mud chimneys stick up out of the grass, an inch or two tall.   [wide shot: kayaks passing the bank, small mud mounds visible]
+ 3.5s  A guest asks if something built those on purpose. Something did.   [close-up: mud chimney detail, close up]
+ 6.5s  Crawfish dig straight down to the water table, and the mud they push out builds the tower on top.   [close-up: guide pointing at a chimney, explaining]
+11.0s  Somewhere under every one of those is an actual crawfish, standing guard.   [medium shot: several chimneys scattered along the bank]
+13.5s  You've eaten these. You've just never seen where they live.   [closing wide shot: kayaks continuing past, chimneys receding behind]
+
+ON-SCREEN TEXT TREATMENT:
+"CRAWFISH CHIMNEY" appears as a small lower-third label at 6.5s, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks passing mud mounds along the bank (opener)
+- Close-up, chimney detail
+- Close-up, guide explaining
+- Medium shot, several chimneys scattered along the bank
+- Closing wide shot, kayaks continuing past
+
+SOURCE GROUNDING: Original eco-tour concept. Dedup research across all 16 prior slate documents confirmed no piece has centered crawfish or crawfish burrow chimneys anywhere in the series (crawfish appears once, in passing, as a local snack idea in Pass 27's sourcing notes for idea #27, never as its own fact piece). First piece to bring a genuinely iconic Louisiana animal into the wildlife/did-you-know rotation that hasn't been touched at all.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual specificity paired with a Halbert-style plain closing line. Then /copywriting-2.0 (3-test filter): caught an early draft's "Louisiana's tiniest architects," flagged as a cutesy stock phrase, rewrote to "You've eaten these. You've just never seen where they live," which lands harder and is more ownable, nobody else would phrase the connection quite that way.
+
+PRODUCTION FLAG: original eco-tour concept, first piece centered on crawfish burrow chimneys. Documented crawfish behavior. Confirm chimney visibility is reliably present on the actual route and in season before treating as guaranteed rather than occasional. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).
