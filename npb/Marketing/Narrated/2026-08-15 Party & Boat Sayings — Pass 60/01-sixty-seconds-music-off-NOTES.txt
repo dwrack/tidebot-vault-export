@@ -1,0 +1,28 @@
+PIECE 01 — Heartfelt / poetic, practical lane — "Sixty Seconds, Music Off"
+Product: Private BYOB party fleet
+Voice: EL-Eric (ElevenLabs)   Music: warm, unhurried, near-silent under the pause (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Forty minutes into a party cruise, right at the loudest point, the music just stops.   [wide shot: boat mid-party, music audibly cutting, guests turning to look]
+ 3.5s  No countdown. No announcement first. Just off.   [close-up: deckhand's hand lifting off the speaker]
+ 6.0s  For about a minute, all anybody hears is the water against the hull and the city somewhere behind them.   [medium shot: guests going quiet, looking out at the water]
+10.5s  Nobody checks their phone. Nobody asks when it's coming back.   [close-up: guests just looking, still, drinks forgotten in hand]
+13.5s  Then it comes back on, and the party picks up exactly where it left off.   [closing wide shot: music resuming, guests cheering, dancing again]
+
+ON-SCREEN TEXT TREATMENT:
+None. The piece's own hush would be undercut by text on screen; matches the Admire NOLA poetic lane's convention of letting VO and visual carry a quiet beat.
+
+SHOT LIST:
+- Wide shot, mid-party, music cutting out (opener)
+- Close-up, deckhand's hand lifting off the speaker
+- Medium shot, guests going quiet, looking at the water
+- Close-up, guests still, drinks forgotten in hand
+- Closing wide shot, music resuming, guests dancing again
+
+SOURCE GROUNDING: Sourced from idea #24 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("The quiet moment. At some point during the cruise, kill the music for 60 seconds. Let them hear the water, the city, the sounds of New Orleans from the river."). Before drafting this pass, three research agents plus a direct read of Pass 37, Pass 40, and Pass 59 (done personally) covered all 16 prior slate documents on disk (the unnumbered base pass, then 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 29, 36, 37, 40, 59 — 192 prior pieces total) and confirmed idea #24 has never been built into a piece. All prior "quiet moment" pieces in this series (the base pass's "Quiet Toast" and "Sound Off Rule," Pass 27's "The Loudest Thing for a Mile," Pass 29's "The Sound Everyone Makes When the Fog Lifts," Pass 59's "The Second Time, Nobody Has to Be Told") live on the eco-tour side. This is the first piece in the series to build a deliberate quiet beat into the party fleet's own footage.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain restraint, letting the silence itself do the work rather than a line that oversells it, layered with the Admire NOLA poetic lane's register for the pause. Then /copywriting-2.0 (3-test filter): caught an early draft's line "a moment nobody planned for" as too abstract to visualize or falsify, rewrote to "Nobody checks their phone. Nobody asks when it's coming back," which is concrete and checkable against the shot.
+
+PRODUCTION FLAG: illustrative treatment of a proposed practice (idea #24), not confirmed as standard, trained crew behavior on every cruise. Confirm with ops whether any current captain or deckhand already does this before treating as documented rather than a pitch. No crew member named or identified, consistent with the crew-anonymity convention active since Pass 23.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

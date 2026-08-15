@@ -1,0 +1,18 @@
+PIECE 321 — Funny/Quotable lane (pre-boarding parking-lot ritual) — The Deckhand / "The Tailgate Before The Boat"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: upbeat, hype pop bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Half the group's already grilling in the parking lot before we've even untied the ropes.  [Deckhand VO fast, wide, marina parking lot, portable grill, guests gathered]
+ 3.6s  Nobody planned it. It just happens. Someone brings a grill, somebody else brings buns.     [insert, grill smoke, guests laughing, plates being passed]
+ 7.6s  We've learned to add fifteen minutes to boarding time. Every single trip.                  [insert, deckhand checking watch, smiling, shaking head]
+11.4s  The boat leaves when the burgers are done. That's the real schedule.                       [closing line, wide, golden light, guests boarding with plates in hand]
+
+On-screen text: Hook = HALF THE GROUP IS ALREADY GRILLING BEFORE WE UNTIE THE ROPES / Body = we've learned to add fifteen minutes to boarding. every trip. / CTA: none
+
+Shot list:
+- [B-ROLL] Parking-lot grill/tailgate spread, wide
+- [INSERT] Deckhand checking watch, guests boarding with plates in hand
+
+Note: confirm portable grills are actually permitted in the marina lot before shooting or publishing — if open flame isn't allowed dockside, reshoot the visual as a cooler/tailgate spread instead. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

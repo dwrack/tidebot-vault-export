@@ -1,0 +1,18 @@
+PIECE 329 — Funny/Quotable lane (new social-unit archetype: rec-league team) — The Bestie / "Somebody's Softball Team Never Won A Game All Season"
+Voice: The Bestie (EL-Jessica.mp3)   Music: hype comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Zero and eleven. That's the record. They booked the boat anyway.                          [Bestie VO loud, mock-serious then cracking up, wide, team jerseys boarding]
+ 3.8s  "We didn't come here to win games. We came here to drink Gatorade wrong."                  [insert, guest in jersey holding a drink, laughing, quote on screen]
+ 7.6s  Somebody brought the team banner. It says "Least Improved" and they're proud of it.        [insert, banner visible, group laughing]
+11.4s  Worst season in league history. Best boat trip all year. Not close.                        [closing line, wide, golden hour, team group cheering]
+
+On-screen text: Hook = 0 AND 11. THAT'S THE RECORD. THEY BOOKED THE BOAT ANYWAY. / Body = worst season in league history. best trip all year. / CTA: none
+
+Shot list:
+- [B-ROLL] Jersey-wearing group boarding
+- [INSERT] Real custom banner/sign if the group brings one — confirm before shooting, don't fabricate one
+
+Note: fictionalized composite, not a specific real team. If shot with a real booked rec-league group, get their sign-off on referencing their record on camera. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

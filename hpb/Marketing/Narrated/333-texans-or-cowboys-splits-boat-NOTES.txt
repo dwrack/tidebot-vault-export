@@ -1,0 +1,18 @@
+PIECE 333 — Funny/Quotable lane (new device: Houston-specific rivalry banter) — The Groomsman / "Texans Or Cowboys, The Boat Splits Right Down The Middle"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: playful, energetic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Bring up Texans versus Cowboys on this boat and watch the whole deck take sides.  [Groomsman VO chill, dry, wide, guests gesturing, mock-arguing]
+ 3.8s  Doesn't matter that it's August and nobody's played a real game yet.              [insert, guests debating, laughing]
+ 7.6s  The argument's louder than the speaker. And that's saying something.             [insert, animated debate, playful]
+11.4s  We stay out of it. Switzerland doesn't have a jersey either.                      [closing line, wide, golden hour, group laughing, still arguing good-naturedly]
+
+On-screen text: Hook = BRING UP TEXANS VS. COWBOYS AND WATCH THE DECK TAKE SIDES / Body = louder than the speaker. and that's saying something. / CTA: none
+
+Shot list:
+- [B-ROLL] Guests mock-arguing, gesturing
+- [INSERT] Playful reaction shots
+
+Note: keep it strictly good-natured fan banter — don't film team logos/jerseys in a way that reads as sponsorship or endorsement. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

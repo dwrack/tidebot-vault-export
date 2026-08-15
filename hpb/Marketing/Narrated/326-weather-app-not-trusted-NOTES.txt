@@ -1,0 +1,18 @@
+PIECE 326 — Funny/Quotable lane (captain judgment / local-knowledge bit) — The Captain / "The Weather App Isn't The One He Actually Trusts"
+Voice: The Captain, 2nd appearance this volume (EL-Eric.mp3)   Music: calm, confident, low-key bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  He checks the app every morning. Then he looks at the water and ignores it half the time.  [Captain VO dry, wide, captain glancing at phone, then at the horizon]
+ 3.8s  Twenty years on this lake teaches you things a forecast can't. Which clouds mean nothing.   [insert, close on horizon/sky, captain's eyeline]
+ 7.6s  Which ones mean turn around now. The app's a suggestion. The sky's the actual answer.        [insert, captain scanning horizon]
+11.6s  That's not a policy. That's just twenty years of getting it right.                           [closing line, wide, golden hour, boat moving on calm water]
+
+On-screen text: Hook = HE CHECKS THE APP. THEN HE IGNORES IT HALF THE TIME. / Body = the app's a suggestion. the sky's the actual answer. / CTA: none
+
+Shot list:
+- [INSERT] Captain checking phone, then scanning horizon
+- [B-ROLL] Sky/cloud footage
+
+Note: "twenty years" is illustrative tenure phrasing, not a confirmed figure — get the real captain's actual years of experience before publishing and swap in the true number rather than guess high. No safety claim beyond ordinary captain judgment. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

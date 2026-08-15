@@ -1,0 +1,28 @@
+PIECE 06 — Funny / punchy lane — "Drink's in Your Hand Before You're Even Aboard"
+Product: Private BYOB party fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: light, wry, dock-side energy (mood only, no artist cited)   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most places, you board first, then you get a drink.   [wide shot: guests approaching the gangway]
+ 2.5s  Here, a deckhand's already got one ready at the top of the ramp.   [close-up: deckhand holding out a drink, guest not yet aboard]
+ 5.5s  One guy stops mid-step, drink in hand, one foot still on the dock.   [close-up: guest frozen mid-step, holding the drink, confused-happy]
+ 8.5s  "Wait, I'm not even on the boat yet."   [close-up: guest saying the line, deckhand shrugging]
+11.0s  "Boat doesn't know that."   [closing wide shot: guest stepping aboard, laughing, drink already half gone]
+
+ON-SCREEN TEXT TREATMENT:
+None. The guest's line and the deckhand's reply carry the beat without text on top of it.
+
+SHOT LIST:
+- Wide shot, guests approaching the gangway (opener)
+- Close-up, deckhand holding out a drink
+- Close-up, guest frozen mid-step, one foot on the dock
+- Close-up, guest's line
+- Closing wide shot, guest stepping aboard, laughing
+
+SOURCE GROUNDING: Sourced from idea #12 ("First drink poured before they board... The party starts before the boat leaves."). Dedup research across all 16 prior slate documents confirmed idea #12 has never been built into a piece as its own centered bit. Explicitly checked against and distinguished from the base pass's Piece 04 "Captain's House Rules" (a spoken three-rule list covering BYOB, playlist, and discretion, no physical drink-handoff gesture): that piece is about rules being stated, this piece is about a single physical gesture and the guest's reaction to it. No overlap in engine.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain deadpan exchange, the whole joke lives in two short lines of dialogue. Then /copywriting-2.0 (3-test filter): caught an early draft's closer "the party starts before the boat does," flagged as reading like a tagline lifted from the idea bank itself rather than something a person would say, rewrote to the deckhand's in-scene reply "Boat doesn't know that," which passes the nobody-else-could-say-it test.
+
+PRODUCTION FLAG: sourced from idea #12. Not confirmed as standing practice on every cruise or across the full fleet. No crew member or guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 07 — Did-you-know / wildlife spotlight lane — "The Pink Bird Nobody Believes Is Real"
+Product: Naturalist eco swamp tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: light, curious, building softly (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody spots pink in the trees and assumes it's a filter glitch on somebody's camera.   [wide shot: kayaks approaching a bright pink bird perched in cypress]
+ 3.5s  It's not. It's a roseate spoonbill.   [close-up: spoonbill in full color, spoon-shaped bill visible]
+ 6.0s  That pink comes from the shrimp and crawfish it eats, not from anything painted on.   [close-up: spoonbill's bill sweeping through shallow water]
+10.0s  Flamingos get the same trick from the same kind of diet. This one just did it without the zoo.   [medium shot: spoonbill lifting off, wings spread]
+14.0s  Nobody on this boat has ever seen a bird that color outside of a cartoon.   [closing wide shot: spoonbill flying low over the water, kayaks watching]
+
+ON-SCREEN TEXT TREATMENT:
+"ROSEATE SPOONBILL" appears as a small lower-third label at 3.5s, matching the series' fact-naming convention, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks approaching the pink bird (opener)
+- Close-up, spoonbill in full color, bill visible
+- Close-up, bill sweeping through shallow water
+- Medium shot, spoonbill lifting off, wings spread
+- Closing wide shot, spoonbill flying low, kayaks watching
+
+SOURCE GROUNDING: Original eco-tour concept, consistent with how every prior pass has treated eco-tour material (the 100-idea bank is NPB-general/party-fleet focused, so eco-tour pieces originate independently each pass). Dedup research across all 16 prior slate documents (192 prior pieces) confirmed no piece has ever centered the roseate spoonbill; the series' prior wildlife-spotlight pieces cover the anhinga (Pass 26), prothonotary warbler (referenced in Pass 27), barred owl (base pass and referenced in Pass 16), nutria and beaver (Pass 22, a retired misidentification device), gar (Pass 59), and the green heron's tool use (Pass 37). This is the first piece centered on the spoonbill.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual specificity and proof instinct, naming the actual pigment mechanism (diet-based carotenoids) instead of a vague "it's just naturally pink." Then /copywriting-2.0 (3-test filter): caught an early draft's line "prettier than anything on Bourbon Street," flagged as an unnecessary comparison reading like ad copy, rewrote to "Nobody on this boat has ever seen a bird that color outside of a cartoon," which is concrete and visualizable.
+
+PRODUCTION FLAG: original eco-tour concept, first piece in this series centered on the roseate spoonbill. The diet-based pigment fact (same carotenoid mechanism as flamingos) is documented biology. Confirm spoonbill sightings are reliably present on NPB's actual route before treating as a guaranteed moment rather than an occasional one. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

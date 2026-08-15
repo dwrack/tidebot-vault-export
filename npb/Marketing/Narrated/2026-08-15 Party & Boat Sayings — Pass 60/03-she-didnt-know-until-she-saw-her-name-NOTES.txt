@@ -1,0 +1,28 @@
+PIECE 03 — Heartfelt / birthday-group lane — "She Didn't Know Until She Saw Her Name"
+Product: Private BYOB party fleet
+Voice: EL-Daniel (ElevenLabs)   Music: bright, building, held back until the reveal (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The group told her they were doing brunch. They were not doing brunch.   [wide shot: group walking toward the marina, birthday guest trailing, unaware]
+ 3.5s  She sees the boat first. Then she sees the board.   [close-up: welcome board reading her name and "HAPPY BIRTHDAY"]
+ 7.0s  Nobody planned for her to read it out loud, but she does anyway, hand over her mouth.   [close-up: birthday guest reading the board, reacting]
+11.0s  The whole group already knew this part was coming. She's the only one who didn't.   [medium shot: friends grinning, already in on it]
+14.0s  That's the whole trick. Everybody in on it except the one person it's for.   [closing wide shot: group boarding together, birthday guest still catching up to what's happening]
+
+ON-SCREEN TEXT TREATMENT:
+None as an overlay. The welcome board's text ("HAPPY BIRTHDAY, [NAME]") appears only as an in-scene prop, keeping the reveal inside the shot rather than announced by graphic.
+
+SHOT LIST:
+- Wide shot, group walking to the marina, birthday guest trailing (opener)
+- Close-up, welcome board reveal
+- Close-up, birthday guest reading it, reacting
+- Medium shot, friends already in on it, grinning
+- Closing wide shot, group boarding together
+
+SOURCE GROUNDING: Sourced from idea #55 ("The surprise call-out. If the booking is a surprise, coordinate the reveal. Have the group arrive first, birthday person walks up to see the boat with their name on the welcome board. Be part of the surprise, not just the venue for it."). Dedup research across all 16 prior slate documents confirmed idea #55 has never been built into a piece. Explicitly checked against and distinguished from two adjacent prior pieces: Pass 15 Piece 01 "The Welcome Board" (idea #9, a general per-group chalkboard with no surprise element) and Pass 26 Piece 01 "The Board Remembers You" (idea #63/#64, a repeat-guest loyalty recognition, not a birthday surprise). This piece is the first to center the board as part of a coordinated surprise reveal for a guest of honor who doesn't yet know. This also carries the brief's "birthday-group lines" category without touching bachelorette logistics, gifts, or an entrance beat, all saturated since Pass 23 and held at zero again this pass (see main slate doc Status flags).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain emotional restraint, letting the image (hand over mouth) carry the feeling instead of naming it outright. Then /copywriting-2.0 (3-test filter): caught an early draft's line "it's a moment she'll never forget" as an unfalsifiable claim about someone else's future memory, rewrote to "That's the whole trick. Everybody in on it except the one person it's for," which is concrete and holds up under the falsify test.
+
+PRODUCTION FLAG: sourced from idea #55, a proposed practice. Requires the organizer to actually coordinate the surprise with crew in advance; not confirmed as standard practice on every birthday booking. No guest identified without a filming ask, consistent with the series' consent standard.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 05 — Heartfelt lane — "Exactly One Year Later"
+Product: Private BYOB party fleet
+Voice: EL-Sarah (ElevenLabs)   Music: warm, unhurried, building softly (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A text lands on an organizer's phone, same week, one year to the day.   [close-up: phone buzzing, notification visible]
+ 3.0s  "Hey, it's been a year since your crew hit the water with us. Time for round two?"   [close-up: text message on screen]
+ 7.0s  She has to actually think about it. Then she remembers exactly who was on that boat.   [medium shot: woman reading, expression shifting to a smile]
+11.0s  Half that group hasn't all been in the same place since.   [close-up: woman scrolling old photos on her phone]
+13.5s  She doesn't reply right away. She starts a group chat instead.   [closing shot: new group chat opening on her phone, old photo attached]
+
+ON-SCREEN TEXT TREATMENT:
+The text message itself appears briefly as a phone-screen overlay at 3.0s, then clears. No text on any other line.
+
+SHOT LIST:
+- Close-up, phone buzzing (opener)
+- Close-up, text message on screen
+- Medium shot, woman's expression shifting to a smile
+- Close-up, scrolling old photos
+- Closing shot, new group chat opening, old photo attached
+
+SOURCE GROUNDING: Sourced from idea #40 ("Anniversary text. One year later, text the organizer: 'Hey, it's been a year since your crew hit the water with us. Time for round two?' Simple CRM automation, massive emotional impact."). Dedup research across all 16 prior slate documents confirmed idea #40 has never been built into a piece. Explicitly checked against Pass 40 Piece 03 ("The Hangover Text Everybody Screenshots," idea #34, a next-morning follow-up text that becomes an organic guest-driven running joke a year later): this piece is a different mechanic, a company-initiated CRM text sent on a fixed one-year cadence, not a guest-carried joke. The two pieces both land on "a year later" as a beat, but from opposite directions, one is guest behavior, the other is a company touchpoint, so this was judged distinct enough to build rather than a reskin.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain, human warmth, letting the text message itself do the work rather than narrating around it. Then /copywriting-2.0 (3-test filter): caught an early draft's closer "and just like that, the memory gets a second chapter," flagged as greeting-card language, rewrote to the concrete "She starts a group chat instead."
+
+PRODUCTION FLAG: sourced from idea #40, a proposed CRM automation. Not confirmed as a currently automated practice; treat as a pitch pending ops confirmation before shooting as documented capability. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

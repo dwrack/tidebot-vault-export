@@ -1,0 +1,18 @@
+PIECE 332 — Funny/Quotable lane (new device: bachelorette/bachelor trivia game) — The Sunscreen Friend / "The Newlywed Game Nobody Studied For"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier — not EL-Brian)   Music: upbeat, playful bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody printed twenty trivia questions about the bride. Nobody studied.        [Sunscreen Friend VO earnest, amused, wide, guest holding printed cards]
+ 3.8s  "What's her go-to karaoke song?" Four different wrong answers. She's dying laughing.  [insert, guests guessing, bride reacting]
+ 7.6s  Half the group's answers are just guesses about themselves, not her.             [insert, playful chaos, cards being read]
+11.4s  Nobody wins the game. Everybody wins the footage.                                [closing line, wide, golden hour, whole group laughing, bride in the middle]
+
+On-screen text: Hook = TWENTY TRIVIA QUESTIONS ABOUT THE BRIDE. NOBODY STUDIED. / Body = nobody wins the game. everybody wins the footage. / CTA: none
+
+Shot list:
+- [INSERT] Printed trivia cards
+- [B-ROLL] Group guessing, bride reacting
+
+Note: needs a real bachelorette group willing to play the game on camera and sign releases — don't script fake trivia questions/answers and present them as if pulled from a real moment. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

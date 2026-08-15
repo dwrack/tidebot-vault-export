@@ -1,0 +1,18 @@
+PIECE 322 — Sincere-adjacent lane (mentorship moment) — The Deckhand / "The Deckhand Teaches A Kid To Tie One Knot"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier), warmer/slower than his usual register   Music: warm, light acoustic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip with kids, one of them ends up asking how the rope ties to the dock.  [Deckhand VO warmer than usual, wide, deckhand kneeling by a dock cleat, kid watching]
+ 4.2s  So I show them one knot. Just one. A cleat hitch. Takes about ten seconds.       [insert, close on hands, kid's hands trying the rope]
+ 8.6s  Doesn't matter if they get it right. They tell their whole family for a week.    [insert, kid running to tell a parent, pointing at the rope]
+12.4s  Small thing. Kids don't forget it though.                                        [closing line, wide, golden hour, kid proudly showing the knot to a parent]
+
+On-screen text: Hook = EVERY TRIP WITH KIDS, ONE OF THEM ASKS ABOUT THE ROPE / Body = one knot. ten seconds. they don't forget it. / CTA: none
+
+Shot list:
+- [INSERT] Hands demonstrating a cleat hitch, close
+- [B-ROLL] Kid excitedly telling a parent
+
+Note: requires an actual willing kid plus a guardian's signed minor release before filming, not just a verbal OK at the dock. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

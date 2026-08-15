@@ -1,0 +1,18 @@
+PIECE 335 — Funny/Quotable lane (new device: ops/shift-culture observational) — The Old Salt / "The Late-Shift Captain Always Gets The Rowdier Crowd"
+Voice: The Old Salt (EL-George.mp3)   Music: warm, wry bed   Length: 16.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Morning trips are calm. Coffee-in-hand calm. Evening trips are a different animal.  [Old Salt VO warm, wry, wide, evening boarding, energetic group]
+ 4.0s  Same lake, same boat. Whoever's got the sunset slot just gets more energy, every time.  [insert, contrast cut: calm morning boarding vs. energetic evening boarding]
+ 8.2s  Fifty trips in, I could tell you the crowd before I ever see the booking.            [insert, captain checking watch, knowing look]
+12.0s  Evening shift's earned. You work up to it.                                          [closing line, wide, golden hour, lively evening group]
+
+On-screen text: Hook = MORNING TRIPS ARE CALM. EVENING TRIPS ARE A DIFFERENT ANIMAL. / Body = fifty trips in, i could tell you the crowd before the booking / CTA: none
+
+Shot list:
+- [B-ROLL] Contrast cut, calm morning boarding vs. energetic evening boarding
+- [INSERT] Captain's knowing glance
+
+Note: "fifty trips in" is illustrative tenure phrasing, not a literal counted figure — same caution as piece 326, don't present it as a verified stat without confirming a real number first. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

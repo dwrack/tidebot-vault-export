@@ -1,0 +1,18 @@
+PIECE 324 — Funny/Quotable lane (extended-family deadpan bit) — Roger / "Everybody's Cousin Is Somehow On This Trip"
+Voice: Roger, 2nd appearance this volume (voice-en-US-RogerNeural.mp3, free tier)   Music: playful comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every family trip has at least one guest nobody can quite place.                    [Roger VO deadpan, wide, group boarding, mixed ages]
+ 3.6s  "That's my cousin." Which cousin. "You know, cousin Danny." We do not know Danny.    [insert, guest gesturing vaguely, others shrugging]
+ 7.4s  By the end of the trip Danny's the one leading the toast. Nobody remembers electing him.  [insert, guest mid-toast, group cheering]
+11.2s  Every family's got a Danny. Ours just gets one for two hours at a time.              [closing line, wide, golden hour, whole group laughing]
+
+On-screen text: Hook = EVERY FAMILY TRIP HAS A GUEST NOBODY CAN QUITE PLACE / Body = by the end of the trip, he's leading the toast / CTA: none
+
+Shot list:
+- [INSERT] Guest gesturing vaguely, explaining a relation
+- [B-ROLL] Impromptu toast moment
+
+Note: purely observational, no specific real guest identified or filmed without a release. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

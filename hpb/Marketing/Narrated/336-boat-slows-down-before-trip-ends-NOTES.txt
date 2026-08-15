@@ -1,0 +1,19 @@
+PIECE 336 — Sincere closer, mirrors the series' closing-piece tradition (240, 256, 272, 288, 304, 319) — Sarah / "The Boat Slows Down Before The Trip Actually Ends"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, string-led closing bed   Length: 16.2s
+
+SCRIPT (timed to narration):
+ 0.0s  About ten minutes out, before the dock's even in sight, the boat eases off.        [Sarah VO warm, soft, wide, boat slowing, water calming behind it]
+ 4.0s  Nobody asks for it. The captain just knows the good part shouldn't end on a schedule.  [insert, guests noticing the shift, relaxing further]
+ 8.2s  Those last few minutes move slower than the rest of the trip somehow.               [insert, close on guests' faces, content, unhurried]
+12.0s  That's not written in any policy. That's just somebody being kind with the extra time.  [closing line, wide, golden hour fading, boat gliding toward dock]
+
+On-screen text: Hook = ABOUT TEN MINUTES OUT, THE BOAT EASES OFF. / Body = not written in any policy. just somebody being kind. / CTA: none
+
+Shot list:
+- [B-ROLL] Boat slowing, wake calming
+- [INSERT] Guests' relaxed faces in the last minutes
+- [B-ROLL] Dock coming into view at dusk
+
+Note: distinct from piece 248 ("the captain slows down at the same bend in the lake, every time") — that piece is a mid-trip landmark habit, this one is the end-of-trip easing specifically, a different moment for a different reason. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

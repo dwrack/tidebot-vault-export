@@ -1,0 +1,18 @@
+PIECE 328 — Funny/Quotable lane (assumption-subversion character study) — The Announcer / "The Quiet Guy In The Polo Runs The Whole Party By Hour Two"
+Voice: The Announcer, 2nd appearance this volume (EL-Daniel.mp3)   Music: playful, building comedic bed   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  He boards quiet. Polo shirt, sunglasses, says maybe six words at the dock.       [Announcer VO formal, wide, guest boarding calm, low-key]
+ 3.8s  By hour two he's leading the toast, running the group photo, and somehow DJing.  [insert, same guest now animated, mid-toast or gesturing]
+ 7.6s  Every trip has one. You never can call it at boarding.                          [insert, group laughing around him]
+11.4s  The quiet ones are never actually quiet. They're just loading up.               [closing line, wide, golden hour, guest laughing with the group]
+
+On-screen text: Hook = HE SAYS SIX WORDS AT BOARDING. POLO SHIRT. SUNGLASSES. / Body = by hour two, he's running the whole party / CTA: none
+
+Shot list:
+- [INSERT] Quiet guest at boarding, subdued
+- [B-ROLL] Same guest animated later in the trip (contrast cut)
+
+Note: needs the same guest tracked at two points across one real trip for the before/after cut to land — flag for whoever's filming to hold on one subject through the full two hours. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,18 @@
+PIECE 327 — Funny/Quotable lane (new social-unit archetype: neighborhood friend group) — The Announcer / "The Whole Cul-De-Sac Rented It Out"
+Voice: The Announcer (EL-Daniel.mp3)   Music: light comedic bed, warm undertone   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Not a work trip. Not a birthday. Just eleven houses on the same street who all know each other.  [Announcer VO formal deadpan, wide, diverse-age group boarding]
+ 3.8s  Every neighborhood's got a group chat. This one decided to turn theirs into a boat.               [insert, guests greeting each other like old friends, kids and adults mixed]
+ 7.6s  No occasion required. Just a Tuesday, and a street that actually likes each other.                [insert, wide, guests spread across deck, relaxed]
+11.4s  Most neighbors wave from the driveway. These ones charter a boat.                                 [closing line, wide, golden hour, full group, mixed ages, laughing]
+
+On-screen text: Hook = NOT A BIRTHDAY. NOT WORK. ELEVEN HOUSES ON THE SAME STREET. / Body = most neighbors wave from the driveway. these charter a boat. / CTA: none
+
+Shot list:
+- [B-ROLL] Mixed-age group boarding together
+- [INSERT] Guests greeting each other like old friends
+
+Note: purely observational, no specific real neighborhood named or implied. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 323 — Funny/Quotable lane (Texas food-culture deadpan list) — Roger / "Kolaches, Boudin, and Not One Vegetable"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: playful comedic bed, dry brass stab   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Cooler audit, every single trip: kolaches, yes. Boudin, always. A vegetable, extremely rare.  [Roger VO mock-official, wide, cooler opened, food spread on a table]
+ 3.8s  Someone brings queso. Someone brings brisket, still warm somehow. Nobody brings a salad.        [insert, Texas food close-ups, guests serving themselves]
+ 7.6s  We've stopped expecting it. Twenty-six people, four food groups, and three of them are meat.    [insert, deckhand shrugging at camera]
+11.6s  This is a Houston boat. The vegetable was never invited.                                        [closing line, wide, golden hour, guests eating, laughing]
+
+On-screen text: Hook = COOLER AUDIT: KOLACHES YES. VEGETABLE, EXTREMELY RARE. / Body = twenty-six people, four food groups, three are meat / CTA: none
+
+Shot list:
+- [B-ROLL] Cooler/food spread, wide
+- [INSERT] Specific Texas foods (kolaches, boudin, brisket), close
+- [INSERT] Deckhand shrug reaction to camera
+
+Note: "twenty-six people" matches the real per-boat guest capacity in Brand Story & Values.md Section 3, kept accurate rather than rounded up. Distinct from piece 217 (the leftover veggie-tray bit) — that piece is about quantity uneaten, this one is about category imbalance from the start. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

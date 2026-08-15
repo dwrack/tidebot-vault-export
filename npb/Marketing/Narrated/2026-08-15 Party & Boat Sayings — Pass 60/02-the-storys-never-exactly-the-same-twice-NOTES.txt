@@ -1,0 +1,28 @@
+PIECE 02 — Funny / running-joke, captain line lane — "The Story's Never Exactly the Same Twice"
+Product: Private BYOB party fleet
+Voice: EL-George (ElevenLabs)   Music: light, wry, dry comedic timing (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a warehouse on this route the captain always points out.   [wide shot: boat passing a riverside warehouse, captain gesturing]
+ 3.5s  The story that goes with it isn't quite the same twice.   [close-up: captain mid-story, guests listening]
+ 6.5s  Third trip in two years, a repeat guest catches it. "Wait, last time the alligator in this story was way smaller."   [close-up: guest calling it out, grinning, captain caught]
+11.5s  The captain doesn't even pause. "It's grown. It's been a year."   [close-up: captain, deadpan, guests laughing]
+14.5s  Nobody's ever actually caught him more than once a summer.   [closing wide shot: boat continuing on, group still laughing]
+
+ON-SCREEN TEXT TREATMENT:
+The guest's callout ("WAIT, LAST TIME THE ALLIGATOR WAS WAY SMALLER") pops as a casual handwritten-style quote card at 6.5s, clears fast. No text on any other line.
+
+SHOT LIST:
+- Wide shot, boat passing the warehouse, captain gesturing (opener)
+- Close-up, captain mid-story, guests listening
+- Close-up, guest calling out the inconsistency, grinning
+- Close-up, captain's deadpan reply
+- Closing wide shot, boat continuing on, group still laughing
+
+SOURCE GROUNDING: Original concept, not sourced from a specific idea-bank number, though loosely adjacent to idea #19 ("Neighborhood narration, not a tour script... real stories beat Wikipedia"). Explicitly checked against Pass 17 Piece 05 ("Every Captain's Got a Line," sourced from idea #18, a three-captain intro-monologue compilation where all three answer "Probably" when asked if their stories are true): this piece does not reskin that device. No captain intro or compilation here, no "probably" tag, and the whole engine is one story's details drifting across repeat visits rather than a character introduction. The dedup research covering all 16 prior slate documents confirmed no piece has built a running joke around a single landmark story's inconsistency being caught by a repeat guest.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's dry, deadpan delivery, the captain's reply does the comedic work without any editorializing around it. Then /copywriting-2.0 (3-test filter): caught an early draft's closer "you gotta love a guy who commits to the bit" as telling the audience how to feel rather than showing it, rewrote to the falsifiable "Nobody's ever actually caught him more than once a summer."
+
+PRODUCTION FLAG: illustrative, not sourced from a documented specific captain's habit. No landmark, captain, or guest identified on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 08 — Sensory / did-you-know lane — "The Sound That's Not the Boat, and Not the Birds"
+Product: Naturalist eco swamp tour
+Voice: EL-Jessica (ElevenLabs)   Music: low, textural, building into stillness (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Halfway through the tour, a sound starts up that isn't the engine and isn't a bird.   [wide shot: kayaks gliding, guide tilting head, listening]
+ 3.5s  A rising, buzzing drone, coming from everywhere in the trees at once.   [close-up: guests looking around, trying to locate it]
+ 7.0s  Cicadas. Thousands of them, and not one of them visible.   [close-up: cypress canopy, dense green, nothing visibly moving]
+10.5s  The whole swamp sounds like it's got its own soundtrack running, and nobody's holding a speaker.   [medium shot: guide gesturing up at the canopy]
+14.0s  You can paddle for ten more minutes and never spot a single one making it.   [closing wide shot: kayaks continuing under the canopy]
+
+ON-SCREEN TEXT TREATMENT:
+"CICADAS" appears as a small lower-third label at 7.0s, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks gliding, guide listening (opener)
+- Close-up, guests looking around, trying to locate the sound
+- Close-up, dense canopy, nothing visibly moving
+- Medium shot, guide gesturing up at the canopy
+- Closing wide shot, kayaks continuing under the canopy
+
+SOURCE GROUNDING: Original eco-tour concept. Dedup research across all 16 prior slate documents confirmed no piece has centered the cicada chorus. Explicitly checked against and distinguished from Pass 40 Piece 08 ("The Sound That Isn't the Engine," a documented alligator bellow felt as vibration through the hull): that piece is about a felt, low-frequency animal sound from one specific animal; this piece is about an airborne insect chorus audible everywhere at once with no single visible source. Different mechanism, different sense, different payoff.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's specific-sensory-fact approach, "thousands of them, not one visible" beats a vague "loud bugs." Then /copywriting-2.0 (3-test filter): caught an early draft's line "nature's own DJ," flagged as a worn, generic phrase, rewrote to "nobody's holding a speaker," which is plainer and more ownable.
+
+PRODUCTION FLAG: original eco-tour concept, first piece centered on the cicada chorus as its own sensory anchor. Cicada activity is real but seasonal and time-of-day dependent; confirm timing against the actual route and typical tour hours before treating as guaranteed on every tour. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

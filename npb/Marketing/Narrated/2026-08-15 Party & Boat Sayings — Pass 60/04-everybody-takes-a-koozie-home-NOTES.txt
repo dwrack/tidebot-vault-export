@@ -1,0 +1,28 @@
+PIECE 04 — Funny / punchy, corporate lane — "Everybody Takes a Koozie Home"
+Product: Private BYOB party fleet
+Voice: EL-Lily (ElevenLabs)   Music: playful, light percussion, quick comedic timing (mood only, no artist cited)   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A corporate group books, and somebody asks if they can get the company logo on something.   [wide shot: corporate group boarding, business casual]
+ 3.0s  Thirty koozies show up in a box at the dock. Nobody explains it.   [close-up: box of koozies, deckhand setting it out]
+ 5.5s  "Figured y'all would want something that isn't a stress ball."   [close-up: deckhand handing a koozie to a guest, dry delivery]
+ 9.0s  By the second round, every hand on the boat has one.   [medium shot: guests holding drinks, koozies visible]
+11.5s  Three weeks later, one's still sitting on somebody's desk, next to the actual stress ball.   [closing shot: koozie on an office desk, stress ball beside it]
+
+ON-SCREEN TEXT TREATMENT:
+None. The deckhand's line and the closing desk shot carry the piece without needing text on top.
+
+SHOT LIST:
+- Wide shot, corporate group boarding (opener)
+- Close-up, box of koozies, deckhand setting it out
+- Close-up, deckhand handing one over
+- Medium shot, guests holding drinks, koozies visible
+- Closing shot, koozie on a desk next to a stress ball
+
+SOURCE GROUNDING: Sourced from idea #59 ("Branded koozie option. Offer to print 20 koozies with the company logo or event name for an extra $30. Takes no effort, feels premium, and every employee takes one home."). Dedup research across all 16 prior slate documents confirmed idea #59 has never been built into a piece; koozies have not appeared anywhere in the series (cooler-centric bits, a different device, were retired after 3 uses, but no piece has centered a branded koozie giveaway). Corporate-outing content is not flagged as saturated anywhere in the series' retirement inventory (only five prior corporate-touching pieces exist across 16 passes: Pass 17 Piece 03, Pass 24 Piece 05, Pass 37 Piece 01, Pass 40 Piece 02 and Piece 06), so a sixth corporate piece with a fresh mechanic was judged open ground.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's quick, visual comedic structure paired with Halbert's dry delivery on the deckhand's line. Then /copywriting-2.0 (3-test filter): caught an early draft's closer "branding that actually works," flagged as ad-copy language describing itself, rewrote to "next to the actual stress ball," a specific, checkable image that passes the falsify test.
+
+PRODUCTION FLAG: sourced from idea #59, an offered add-on. Not confirmed as a standing, automatically-included perk; treat as an offered upsell pending ops confirmation of real pricing and lead time before shooting as more than a concept. No company or guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 60, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

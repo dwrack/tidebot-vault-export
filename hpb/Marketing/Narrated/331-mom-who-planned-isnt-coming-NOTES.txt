@@ -1,0 +1,18 @@
+PIECE 331 — Sincere-adjacent register (new device: the absent organizer) — The Planner / "The Mom Who Planned The Whole Trip And Isn't Even Coming"
+Voice: The Planner (EL-Lily.mp3)   Music: warm, tender bed with a lift at the end   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  She booked it. Picked the date. Texted the group chat forty times.               [Planner VO bright, warm, wide, phone screen with group chat, then boat departing without her]
+ 4.0s  She's not on the boat. Somebody had to watch the kids.                           [insert, empty seat implying her absence, group waving]
+ 8.0s  The group FaceTimes her for the toast. She cries a little. So does everybody else.  [insert, phone propped up, guests raising drinks toward it]
+12.0s  Some people throw the party. Some people ARE the party, even from the driveway.  [closing line, wide, golden hour, group toasting toward the phone]
+
+On-screen text: Hook = SHE BOOKED IT. PLANNED IT. ISN'T EVEN ON THE BOAT. / Body = the group facetimes her for the toast / CTA: tag the person who planned yours.
+
+Shot list:
+- [INSERT] Phone/group-chat screen, generic and blurred, no real personal information
+- [B-ROLL] Guests toasting toward a propped phone
+
+Note: needs a real, willing booking group's consent to film an actual FaceTime moment — don't stage this with an actor playing an absent parent. If no real moment like this occurs on a shoot day, skip the piece rather than fake it. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
