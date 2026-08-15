@@ -1,0 +1,13 @@
+PIECE 154 — Toast, new angle (the designated non-drinker — distinct from every prior toast piece, none of which single out the sober guest), CTA piece — "A Toast To Whoever's Not Drinking"
+Voice: voice-en-GB-RyanNeural.mp3 ("The Groomsman")   Music: warm acoustic bed with a small swell on the toast   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one person who says "I'm good, I'm driving after."   [Groomsman VO dry, warm, wide, one guest visibly holding water/soda, group with drinks]
+ 3.2s  Nobody ever toasts that person. We're fixing that right now.   [close, Groomsman raising a glass toward that guest]
+ 6.4s  To the one who stayed sharp so everybody else didn't have to think about it.   [wide, group raising glasses toward the sober one]
+10.0s  You're the real MVP of the group chat tomorrow morning.   [group laughing, toasting, the sober guest smiling, a little embarrassed]
+13.4s  Cheers to you. Seriously.   [closing line, warm, glasses raised, sunset]
+
+On-screen text: Hook = "NOBODY EVER TOASTS THIS PERSON" · Body = "cheers to whoever's not drinking" · CTA = "Bring the whole group. Somebody's always got the ride home covered."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

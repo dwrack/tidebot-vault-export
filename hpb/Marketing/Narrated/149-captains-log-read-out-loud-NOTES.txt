@@ -1,0 +1,13 @@
+PIECE 149 — New device (deadpan reading of a real logbook's categories) — "The Captain's Log, Read Out Loud"
+Voice: EL-Eric.mp3 ("The Captain")   Music: dry observational comedic bed, minimal   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip gets a log. Most of it's boring on purpose.   [Captain VO dry, close, logbook or tablet in hand, checklist visible]
+ 2.8s  Passenger count. Weather. Headcount matches manifest. Routine.   [insert, checklist items, deadpan]
+ 5.6s  Then there's the incident line. Today's read: "guest attempted a cannonball off a stationary boat."   [insert, log entry close-up, deadpan]
+ 9.4s  Outcome: he missed the boat, hit the water, requested a redo.   [Captain, dry, small smirk]
+12.6s  That one's staying in the log.   [closing line, wide, captain closing the log, deck behind him]
+
+On-screen text: Hook = "EVERY TRIP GETS A LOG" · Body = "that one's staying in the log" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

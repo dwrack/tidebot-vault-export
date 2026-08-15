@@ -1,0 +1,13 @@
+PIECE 153 — Mock-official PSA, present-moment device (new territory — no prior piece has addressed phone use directly) — "Phones Down For Ninety Seconds"
+Voice: voice-en-US-RogerNeural.mp3 ("Roger")   Music: mock-ceremonial brass-stab opening easing into a quiet warm bed, back to upbeat on the close   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Attention aboard. This is a mandatory ninety-second announcement.   [Roger VO mock-official, formal, guests looking up from phones]
+ 3.0s  Phones down. Look at the actual sunset. The real one, not the one on your screen.   [group lowering phones, sunset visible behind them]
+ 7.0s  Ninety seconds. We timed it. That's all we're asking.   [close, Roger deadpan, timer graphic implied]
+10.2s  Nobody's ever mad they did it.   [wide, group watching sunset in silence, content faces]
+12.8s  Phones back up in three, two...   [closing line, wry, group laughing, phones raised again]
+
+On-screen text: Hook = "MANDATORY: PHONES DOWN FOR 90 SECONDS" · Body = "nobody's ever mad they did it" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

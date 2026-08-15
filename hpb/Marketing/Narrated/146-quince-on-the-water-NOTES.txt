@@ -1,0 +1,13 @@
+PIECE 146 — Festive register, new occasion type (quinceañera — not covered anywhere in the prior 144 pieces), CTA piece — "Quince On The Water"
+Voice: EL-Lily.mp3 ("Delta Dream's voice")   Music: bright celebratory bed, light Latin-pop-adjacent percussion, not a licensed track   Length: 16.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Fifteen, and she wanted the whole court on the water instead of a ballroom.   [Lily VO bright, wide, quinceañera court boarding in matching colors]
+ 3.0s  Fourteen damas and chambelanes. One boat. Zero room for a slow entrance.   [insert, court lined up, laughing, tight squeeze]
+ 6.4s  Her dad's toast started strong and didn't finish dry-eyed.   [close, dad mid-toast, voice breaking, daughter tearing up]
+ 9.8s  The waltz happened anyway. On a rocking deck, in heels.   [wide, first dance on deck, guests cheering]
+13.2s  Fifteen looks different on the water. It looks better.   [closing line, warm, group photo, sunset]
+
+On-screen text: Hook = "15 AND SHE WANTED THE COURT ON THE WATER" · Body = "fifteen looks different on the water" · CTA = "Ask about hosting a quince on Clear Lake."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

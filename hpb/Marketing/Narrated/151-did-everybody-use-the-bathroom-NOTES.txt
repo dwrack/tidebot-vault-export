@@ -1,0 +1,13 @@
+PIECE 151 — New device (adult field-trip-regression bit) — "Did Everybody Use The Bathroom"
+Voice: voice-en-US-GuyNeural.mp3 ("The Deckhand")   Music: fast upbeat comedic bed, playful percussion   Length: 13.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Thirty-year-old adults. Full field-trip energy the second they hit the dock.   [Deckhand VO fast hyped, wide, group boarding, excited chatter]
+ 2.6s  Somebody does a headcount without being asked to.   [insert, guest counting heads, mock-serious]
+ 5.2s  Somebody asks if we're stopping anywhere for snacks.   [close, guest asking, deckhand laughing]
+ 7.8s  Somebody straight up asks if everybody used the bathroom before we left.   [insert, guest asking loudly, group cracking up]
+10.6s  We didn't bring a permission slip. Energy's the same anyway.   [closing line, wide, group laughing, boat pulling away]
+
+On-screen text: Hook = "30-YEAR-OLDS. FULL FIELD-TRIP ENERGY." · Body = "we didn't bring a permission slip" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

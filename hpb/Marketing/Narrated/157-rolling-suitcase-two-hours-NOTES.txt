@@ -1,0 +1,13 @@
+PIECE 157 — Character study, new archetype (the overpacked guest — distinct from prior packing-adjacent pieces, none of which are about luggage) — "She Packed A Rolling Suitcase. For Two Hours."
+Voice: voice-en-GB-RyanNeural.mp3 ("The Groomsman")   Music: light comedic bed   Length: 13.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Two-hour trip. She showed up with a rolling suitcase.   [Groomsman VO dry, wide, guest wheeling a full-size suitcase down the dock]
+ 2.8s  Full-size. The kind you'd check at an airport.   [insert, suitcase, other guests staring]
+ 5.4s  Inside: four outfit changes, a curling iron, and enough snacks for a week.   [close, suitcase opened, contents revealed, deadpan]
+ 8.8s  She used two of the four outfits. Worth it, she said.   [wide, guest in a second outfit, confident, group laughing]
+11.8s  No judgment. Just no room to store it.   [closing line, wry, deckhand awkwardly finding a spot for the suitcase]
+
+On-screen text: Hook = "A ROLLING SUITCASE. FOR A 2-HOUR TRIP." · Body = "no judgment. just no room to store it" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

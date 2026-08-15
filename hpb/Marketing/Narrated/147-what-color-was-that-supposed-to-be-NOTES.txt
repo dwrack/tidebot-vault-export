@@ -1,0 +1,13 @@
+PIECE 147 — Comedic mishap, new occasion type (gender reveal — not covered anywhere in the prior 144 pieces) — "It's A... Wait, What Color Was That Supposed To Be"
+Voice: EL-Jessica.mp3 ("The Bestie")   Music: upbeat comedic pop bed, powder-pop foley cue   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Reveal balloon. Big countdown. Whole boat holding its breath.   [Bestie VO hyped, wide, group counting down, balloon held center]
+ 2.8s  Pink powder. Everyone's relieved — it's not glitter, house rules survive.   [pop, pink cloud, group cheering, deckhand visibly relieved]
+ 5.8s  Except it landed directly on the captain.   [reveal, captain covered in pink powder, deadpan]
+ 8.6s  He finished the trip pink. Didn't say a word about it.   [wide, captain at helm, still pink-dusted, unbothered]
+11.6s  Congratulations to the parents. And to the captain, for his composure.   [closing line, group laughing, captain small nod]
+
+On-screen text: Hook = "BIG REVEAL. BIG COUNTDOWN." · Body = "the captain finished the trip pink" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

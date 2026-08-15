@@ -1,0 +1,13 @@
+PIECE 148 — Mock-official register, new occasion type (graduation trip — not covered anywhere in the prior 144 pieces), CTA piece — "Pomp, Circumstance, and a Cooler"
+Voice: EL-Daniel.mp3 ("The Announcer")   Music: mock-ceremonial brass-stab opening resolving into upbeat pop, same family as pieces 93/109/125/144   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  She walked the stage Saturday morning. We gave her the real ceremony Saturday afternoon.   [Announcer VO formal-warm, wide, grad in cap boarding, still in gown]
+ 3.2s  Diploma in one hand. Seltzer in the other.   [close, grad holding both, laughing]
+ 6.0s  Somebody read the tassel-turning speech again. Off script this time.   [insert, friend mock-reading a "speech," group laughing]
+ 9.4s  Pomp and Circumstance played twice today. Once at ten AM. Once off somebody's phone.   [wide, group dancing to the same song, phone speaker held up]
+13.0s  Both ceremonies counted. Only one had a cooler.   [closing line, wry, group toast, sunset]
+
+On-screen text: Hook = "SHE WALKED THE STAGE SATURDAY MORNING" · Body = "only one ceremony had a cooler" · CTA = "Book the after-party the diploma actually deserves."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

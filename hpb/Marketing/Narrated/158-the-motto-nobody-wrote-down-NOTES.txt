@@ -1,0 +1,13 @@
+PIECE 158 — Crew culture, meta device (new territory — the company's unofficial, unwritten internal line, distinct from every prior crew-culture piece) — "The Motto Nobody Wrote Down"
+Voice: EL-Daniel.mp3 ("The Announcer")   Music: warm, slightly reverent bed, easing into upbeat as crew heads to the boat   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  We don't have an official motto. We've got an unofficial one.   [Announcer VO formal but warm, close, crew huddled before a trip]
+ 3.0s  Every new deckhand hears it their first week: "your job is to make sure nobody remembers the boat, just the day."   [insert, veteran crew member coaching a new hire]
+ 7.4s  Nobody wrote it down. It just gets passed along.   [wide, crew nodding, dock behind them]
+10.2s  Ask five different crew members, you'll hear it five slightly different ways.   [quick montage, different crew members reciting slightly different versions]
+14.0s  Same idea, every time.   [closing line, warm, crew heading to the boat together]
+
+On-screen text: Hook = "WE DON'T HAVE AN OFFICIAL MOTTO" · Body = "make them remember the day, not the boat" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,13 @@
+PIECE 152 — Texas heat/food culture, new territory (first piece about a pre-boarding snow cone stop) — "The Snow Cone Stop"
+Voice: voice-en-US-BrianNeural.mp3 ("The Sunscreen Friend")   Music: light playful bed, summery   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  It's a hundred degrees. The cooler's warm beer only. This is a crisis.   [Sunscreen Friend VO earnest, amused, guests fanning themselves, dock heat shimmer]
+ 3.0s  So somebody grabs snow cones dockside before we ever untie.   [insert, snow cone stand, guest carrying a tray aboard]
+ 6.0s  Tiger's blood for the bride. Blue coconut for everybody's inner child.   [close, colorful snow cones, guests grinning]
+ 9.4s  Gone in ten minutes. Melted before that, honestly.   [wide, guests eating fast, cups tilting, laughing]
+12.4s  Texas problem. Texas solution.   [closing line, wry, group toasting cups, sunset]
+
+On-screen text: Hook = "IT'S 100 DEGREES. THE COOLER'S JUST WARM BEER." · Body = "Texas problem, Texas solution" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

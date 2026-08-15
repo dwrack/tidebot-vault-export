@@ -1,0 +1,13 @@
+PIECE 156 — Closer, bittersweet register, new territory (the reluctant-to-disembark moment — no prior piece covers the return-to-dock beat itself) — "Nobody Wants To Get Off The Boat"
+Voice: voice-en-US-BrianNeural.mp3 ("The Sunscreen Friend")   Music: warm wistful acoustic bed, gentle   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Dock's right there. Nobody's moving.   [Sunscreen Friend VO earnest, amused, wide, boat tied up, group lingering on deck]
+ 2.8s  Somebody's stalling with "one more picture" for the fourth time.   [insert, guest posing again, group laughing]
+ 5.6s  Somebody's just standing there, not ready for it to be over.   [close, quiet guest looking out at the water]
+ 8.4s  The captain gives it an extra five minutes. Every time.   [wide, captain waiting patiently, small smile]
+11.6s  Two hours never feels like enough. That's kind of the point.   [closing line, warm, group finally stepping onto the dock, sunset]
+
+On-screen text: Hook = "THE DOCK'S RIGHT THERE. NOBODY'S MOVING." · Body = "two hours never feels like enough" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

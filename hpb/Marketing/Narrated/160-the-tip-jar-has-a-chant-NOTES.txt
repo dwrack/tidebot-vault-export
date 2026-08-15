@@ -1,0 +1,13 @@
+PIECE 160 — Closer, new device (a proposed call-and-response tip chant — flagged as an experiment, not an existing tradition) — "The Tip Jar Has A Chant"
+Voice: voice-en-US-GuyNeural.mp3 ("The Deckhand")   Music: fast upbeat comedic bed, crowd-chant energy, claps   Length: 13.6s
+
+SCRIPT (timed to narration):
+ 0.0s  New thing we're trying. The tip jar gets a chant now.   [Deckhand VO fast hyped, close, tip jar on the bar, deckhand grinning]
+ 2.8s  Crew starts it. "If the crew made it better—"   [Deckhand, hyped, call]
+ 5.2s  Whole boat finishes it. "—the crew gets a dollar!"   [wide, whole group yelling the response, laughing]
+ 8.2s  Half the group didn't know the words yet. Yelled it anyway.   [insert, guests mid-laugh, half-mumbling along]
+11.0s  We're keeping this one. Try it next trip.   [closing line, hyped, deckhand pointing at camera, tip jar filling]
+
+On-screen text: Hook = "NEW THING WE'RE TRYING: THE TIP JAR CHANT" · Body = "try it next trip" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

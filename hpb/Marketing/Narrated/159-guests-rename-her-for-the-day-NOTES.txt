@@ -1,0 +1,13 @@
+PIECE 159 — New device (guests joke-renaming the boat for their trip — distinct from piece 22, which is about why the boat carries its real name) — "Guests Try To Rename Her For The Day"
+Voice: EL-Lily.mp3 ("Delta Dream's voice")   Music: bright playful bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Her name's been Delta Dream since the day she launched.   [Lily VO bright, wide, the boat, name visible on the hull]
+ 2.6s  Every bachelorette party tries to rename her for the day anyway.   [insert, guest holding a sign or joking about a new name]
+ 5.4s  Today she was "The S.S. Hot Mess" for about four hours.   [close, guests laughing, mock-christening moment]
+ 8.6s  She answered to it. She's flexible like that.   [wide, boat cruising, guests toasting the "rename"]
+11.6s  Tomorrow she's back to Delta Dream. Tonight, whatever they want.   [closing line, warm, sunset, hull name visible again]
+
+On-screen text: Hook = "HER NAME'S BEEN DELTA DREAM SINCE SHE LAUNCHED" · Body = "tonight she's whatever they want" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

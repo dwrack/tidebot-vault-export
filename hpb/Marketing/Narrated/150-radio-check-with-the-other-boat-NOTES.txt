@@ -1,0 +1,13 @@
+PIECE 150 — New device (real VHF radio protocol between the two company boats) — "Radio Check With The Other Boat"
+Voice: EL-George.mp3 ("The Old Salt")   Music: wry warm acoustic bed with a light radio-static foley motif   Length: 15.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every day starts with a hail on channel one-six, boat to boat.   [Old Salt VO wry, close on VHF radio, static crackle]
+ 2.8s  Then you switch over. That's where the real conversation happens.   [insert, captain's hand switching the channel dial]
+ 6.0s  Mostly it's routine. Sometimes it's one captain roasting the other's playlist from a hundred yards out.   [radio crackle, captain smirking mid-transmission]
+10.2s  Both boats full. Both still finding time to talk trash.   [wide, two boats passing on open water, guests waving]
+13.4s  That's the job. Professional, mostly.   [closing line, Old Salt smiling, wide sunset]
+
+On-screen text: Hook = "CHANNEL 16. THAT'S HOW OUR BOATS TALK." · Body = "professional, mostly" · CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
