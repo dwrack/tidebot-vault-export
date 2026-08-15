@@ -1,0 +1,28 @@
+PIECE 04 — Branding / honest pitch lane — "The Line Nobody's Written Yet"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: warm funk bass groove, George Porter Jr. reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every cruise on this boat ends the same practical way: the dock, the goodbyes, the walk to the car.  [group disembarking, casual goodbyes]
+ 3.5s  It doesn't end with a line yet. Every other great bar in this city has one.  [crew waving guests off, no particular line said]
+ 7.0s  Something short. Something guests would actually repeat later, unprompted.  [text overlay: draft lines appearing and getting crossed out]
+10.5s  Not a slogan stapled to a receipt. A line somebody actually says, out loud, at the rail.  [captain standing at the rail, thinking, half-smiling]
+14.0s  This boat doesn't have one yet. It probably should.                  [closing wide shot: guests walking down the dock, boat idling behind them]
+
+ON-SCREEN TEXT TREATMENT:
+At 7.0s, two or three placeholder closing-line drafts appear on screen and get crossed out one by one (a playful brainstorming visual), clears before the next line. No other captions.
+
+SHOT LIST:
+- Group disembarking, casual goodbyes (opener)
+- Crew waving guests off, no scripted line said
+- Text overlay: draft closing-line ideas appearing and getting crossed out
+- Captain standing at the rail, thinking, half-smiling
+- Closing wide shot: guests walking down the dock, boat idling behind them
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #100: "End every cruise with the same line. Create a signature closing. Something the captain says every time, that becomes the thing people quote... Make it the last thing they hear before they step off the boat and into the rest of their trip." Not confirmed as an existing practice — no such line currently exists.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's honesty, making no claim NPB has this locked down, with a Schwartz identification instinct that a memorable sign-off is a real competitive differentiator worth building). Then /copywriting-2.0 (3-test filter) flagged and cut an earlier draft's ending, which had the captain actually deliver a finished closing line on camera — that would have quietly reintroduced the "invented ritual presented as fact" device this pass is meant to avoid. Rewritten so the piece stays honestly about the absence of a line rather than fabricating an instance of one. Deliberately shaped differently from the retired Pass 17 device ("Every Captain's Got a Line," a comedic bit about several captains each having their own personal catchphrase): this is a straight pitch that no unified signature line exists yet, not comedy about existing catchphrases.
+
+PRODUCTION FLAG: This is a strategy pitch, not a documented practice. No signature closing line currently exists. If David wants to build one, this piece could be re-cut once an actual line is chosen and tested by crew, but shouldn't air implying one already exists.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Schwartz) then /copywriting-2.0 (3-test filter, one structural cut logged above). Production flag: no signature line currently exists; this piece is a pitch, not a documentary claim.

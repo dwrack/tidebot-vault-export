@@ -1,0 +1,10 @@
+PIECE 181 — Funny/Quotable lane — Groomsman / Small-group normalization, sourced from real FareHarbor avg-pax data, CTA piece — "Three People Is A Full Boat To Us"
+Voice: The Groomsman (voice-en-GB-RyanNeural, free tier) — chill, dry, warm underneath   Music: warm-dry acoustic bed, light swell   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Most groups that book us aren't twenty people. Most are two or three.   [Groomsman VO dry warm, wide, small group of three boarding, relaxed]
+ 3.4s  A couple. A few coworkers who actually like each other. Two sisters and a cooler.   [insert, small group settling in, easy laughing]
+ 6.8s  You don't need a crowd to justify a boat. You need an afternoon.   [Groomsman, dry, warm, small smile]
+10.4s  Bring three people or bring thirty. We've never once asked which.   [closing line, warm, wide, small group cruising, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

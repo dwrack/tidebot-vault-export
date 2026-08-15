@@ -1,0 +1,30 @@
+PIECE 09 — Heartfelt / closing ritual lane — "One Word. Go."
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Lily (ElevenLabs)   Music: warm solo piano, Jon Batiste reference (clearance unconfirmed)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Right before the kayaks turn back toward the dock, the guide asks one thing.  [guide addressing the group, paddles resting]
+ 3.0s  One word. Whatever you're feeling right now.                        [guide gesturing around the circle]
+ 5.5s  Not a review. Not for anybody else. Just one word, out loud.        [close-up: first guest thinking, then answering]
+ 8.5s  "Quiet." "Small." "Church." Never the same word twice.              [quick cuts: different guests each saying a different single word]
+12.0s  Twelve people, twelve words, same swamp.                            [wide shot: full group in a loose circle on the water]
+14.5s  Say yours before you paddle back.                                   [closing wide shot: kayaks turning back toward the dock, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+Each guest's spoken word appears briefly as a single-word caption synced to the 8.5s beat, clearing before the next word appears. No other captions.
+
+SHOT LIST:
+- Guide addressing the group, paddles resting (opener)
+- Guide gesturing around the circle
+- Close-up: first guest thinking, then answering
+- Quick cuts: different guests each saying a different single word
+- Wide shot: full group in a loose circle on the water
+- Closing wide shot: kayaks turning back toward the dock, golden light
+
+SOURCE GROUNDING: An original, illustrative concept proposing a closing go-around ritual, not sourced from a specific vault doc and not confirmed as a current, standing part of the eco tour's routine. The example words ("quiet," "small," "church") are illustrative, not documented real guest quotes.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, unhyped honesty — the piece doesn't claim every word is profound, which reads as more believable than a piece where every guest sounds like a copywriter — with a Sugarman curiosity build withholding the actual words until the quick-cut reveal). Then /copywriting-2.0 (3-test filter): cut an original line, "and somehow, one word always says it better than a paragraph could," a generic writing-about-writing observation that fails the nobody-else-say-it test; removed, letting the quoted words do the work instead of a line explaining why they work.
+
+PRODUCTION FLAG: This go-around closing ritual is not confirmed as a current, standing part of the eco tour's routine. Confirm with a naturalist guide whether something like this already happens informally, or whether it's a genuine new practice worth adopting, before treating it as existing tour structure on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Sugarman) then /copywriting-2.0 (3-test filter, one cut logged above). Production flag: confirm this is or would be a real practice before treating it as existing tour structure.

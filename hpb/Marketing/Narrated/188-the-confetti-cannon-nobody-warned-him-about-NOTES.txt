@@ -1,0 +1,10 @@
+PIECE 188 — Funny/Quotable lane — Roger / Crew-culture prop-mishap bit, new device — "The Confetti Cannon Nobody Warned Him About"
+Voice: Roger (voice-en-US-RogerNeural, free tier) — mock-official delivery   Music: light comedic bed, confetti-pop sting   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Incident report. A guest brought a confetti cannon. Nobody told the deckhand.   [Roger VO mock-official deadpan, close, deckhand mid-cleanup, confetti everywhere]
+ 3.6s  It went off exactly once. It is still being found, weeks later.   [insert, deckhand finding confetti in an unlikely spot, deadpan reaction]
+ 7.4s  New house rule. Confetti cannons get a heads-up first. Sparklers, we already figured out.   [insert, deckhand holding up a hand, mock-stern]
+11.6s  We're not against celebration. We're against surprises with glitter in them.   [closing line, wry, wide, boat cruising, deckhand shaking head, smiling]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

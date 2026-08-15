@@ -1,0 +1,30 @@
+PIECE 02 — Punchy / observational lane — "The Two-Honk Hello"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: playful brass, Bonerama reference (clearance unconfirmed)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Party boats passing on this stretch of river have their own hello.   [wide shot: two party boats approaching from opposite directions]
+ 3.0s  Two short honks. Not a warning. A hello.                             [close-up: captain's hand near the horn button]
+ 5.5s  The other captain almost always answers back.                       [reaction shot: second boat's horn, guests looking over]
+ 7.5s  Nobody taught the guests this. They just catch on by the second time.  [guests on deck cheering, waving at the passing boat]
+10.5s  Strangers on the water, cheering strangers on the water.             [wide shot: both boats passing, guests waving across the gap]
+13.5s  That's a New Orleans thing. Not every city gets one.                 [closing wide shot: boats separating, wake trailing, sunset]
+
+ON-SCREEN TEXT TREATMENT:
+"TWO SHORT HONKS. A HELLO." appears briefly, synced to the 3.0s line only, clears within a second or two. No other captions.
+
+SHOT LIST:
+- Wide shot: two boats approaching from opposite directions (opener)
+- Close-up: captain's hand near the horn button
+- Reaction shot: second boat's horn, guests looking over
+- Guests on deck cheering, waving at the passing boat
+- Wide shot: both boats passing, guests waving across the gap
+- Closing wide shot: boats separating, wake trailing, sunset
+
+SOURCE GROUNDING: An original, illustrative concept describing an informal custom, not sourced from a specific vault doc, and not an official maritime signal (real horn signals under navigation rules mean specific maneuvers, not "hello" — this piece is careful not to claim otherwise).
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's specificity, a checkable detail like "two short honks" beats a vague "boats greet each other," with a light Schwartz identification touch on the closing line). Then /copywriting-2.0 (3-test filter): caught an early version of line 2 calling this "maritime tradition," which overclaims into official-sounding territory a boating-savvy viewer could flag as wrong; rewritten to describe it plainly as a hello, not a rule. Also softened line 3's original "always" to "almost always," since an unverified behavior claim should carry a hedge, not a guarantee.
+
+PRODUCTION FLAG: Describes an informal, observed custom on this stretch of river, not an official maritime signal and not a documented, trained NPB practice. Confirm with captains whether this is something they and other operators actually do before treating it as standing behavior. Do not caption this as "maritime law" or "official signal" on any live post.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Schwartz) then /copywriting-2.0 (3-test filter, two edits logged above). Production flag: confirm the custom is real and accurate before treating it as documented behavior.

@@ -1,0 +1,30 @@
+PIECE 06 — Funny / heartfelt ritual lane — "The Second Line Off the Boat"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: brass parade energy, PBRStreetGang reference (clearance unconfirmed)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The cruise ends the second the boat touches the dock. Except it doesn't, not for this group.  [boat docking, deckhand tying off]
+ 2.5s  Somebody hits play on a speaker before anyone's even standing up.    [close-up: guest reaching for a speaker, brass music starting]
+ 5.0s  Thirty seconds of brass, and suddenly nobody's walking off this boat normal.  [guests stepping onto the dock, dancing instead of walking]
+ 8.0s  Umbrellas out. Handkerchiefs if somebody packed one. Full second line, straight off a party boat.  [wide shot: group parading down the dock, umbrellas twirling]
+11.5s  Bachelorette or eightieth birthday, doesn't matter. Everybody gets thirty seconds of parade.  [group of different ages dancing together, laughing]
+14.5s  This city doesn't let you leave quietly. Not even from a dock.       [closing wide shot: group disappearing down the dock, still dancing, dusk]
+
+ON-SCREEN TEXT TREATMENT:
+None. The movement and music carry the piece; no captions needed.
+
+SHOT LIST:
+- Boat docking, deckhand tying off (opener)
+- Close-up: guest reaching for a speaker, brass music starting
+- Guests stepping onto the dock, dancing instead of walking
+- Wide shot: group parading down the dock, umbrellas twirling
+- Group of different ages dancing together, laughing
+- Closing wide shot: group disappearing down the dock, still dancing, dusk
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #95: "Second line off the boat. For bachelorettes and big birthdays, have a small speaker playing brass band music as the group walks off the boat to the parking lot... A 30-second second line. Pure New Orleans." Not confirmed as a current, standing practice.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Schwartz's identification play — the claim isn't "we play music," it's "this city doesn't let you leave quietly," an identity statement only a genuinely local operator can credibly make — with Sugarman's momentum in the line-by-line build from "touches the dock" to full parade). Then /copywriting-2.0 (3-test filter): cut an early draft's filler transition, "and just like that, the party keeps going," which does no work and fails the falsify test (a mood phrase, not a claim); removed entirely rather than replaced.
+
+PRODUCTION FLAG: Not confirmed as a current, standing practice. If this becomes real, ops needs a plan for the speaker/umbrellas being staged and ready dockside, and a call on whether it happens every cruise or only for flagged bachelorette/birthday bookings, since "every single time" is a bigger operational promise than "sometimes, when it fits."
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Schwartz/Sugarman) then /copywriting-2.0 (3-test filter, one cut logged above). Production flag: confirm this is or would be a real, staged practice before treating it as documented behavior.

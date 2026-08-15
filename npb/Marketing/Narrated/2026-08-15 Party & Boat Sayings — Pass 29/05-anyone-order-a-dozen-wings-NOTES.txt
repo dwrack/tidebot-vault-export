@@ -1,0 +1,30 @@
+PIECE 05 — Funny / surprise lane — "Anyone Order a Dozen Wings?"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: upbeat funk party groove, Flow Tribe reference (clearance unconfirmed)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Forty-five minutes into a hot cruise, somebody always says the same thing.  [guests fanning themselves, laughing, mid-cruise energy]
+ 3.0s  "I could eat."                                                       [guest saying the line, group laughing in agreement]
+ 5.0s  Nobody on the boat ordered anything.                                 [guests checking pockets, confused shrugs]
+ 7.5s  The dock disagrees.                                                  [wide shot: boat approaching dock, a to-go bag visibly waiting]
+ 9.5s  "Anyone order a dozen wings?" Yes. Obviously yes.                    [crew holding up the bag, guests cheering, scrambling for it]
+12.5s  Nobody remembers who called ahead. Everybody remembers the wings.    [closing wide shot: guests eating on deck, laughing, boat pulling back out]
+
+ON-SCREEN TEXT TREATMENT:
+None. Keeps the pacing snappy on a short, punchy piece.
+
+SHOT LIST:
+- Guests fanning themselves, mid-cruise energy (opener)
+- Guest saying "I could eat," group laughing in agreement
+- Guests checking pockets, confused shrugs
+- Wide shot: boat approaching dock, a to-go bag visibly waiting
+- Crew holding the bag up, guests cheering, scrambling for it
+- Closing wide shot: guests eating on deck, laughing, boat pulling back out
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #94: "The Uber Eats ambush. If a group mentions they're starving, have a crew member quietly order a pizza or po'boys to the marina, timed to arrive when the boat docks." Not confirmed as a current, standing practice.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's slippery slide, planting the ordinary complaint and delaying the payoff two lines, with Halbert's flat conversational delivery on the crew's line). Then /copywriting-2.0 (3-test filter): cut an overwritten original closer, "the best surprises are the ones you didn't see coming, and neither did your stomach," a generic surprise-marketing line that fails the nobody-else-say-it test; replaced with "nobody remembers who called ahead, everybody remembers the wings," specific to this exact bit.
+
+PRODUCTION FLAG: Not confirmed as a current, standing practice — this is a proposal. Before shooting, confirm with ops whether crew currently does or would do this (timing coordination with a nearby restaurant, who pays, how orders get placed without guests noticing) and whether it's a paid add-on or a genuine surprise gesture, since the piece's honesty depends on getting that distinction right on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, one rewrite logged above). Production flag: confirm this is or would be a real, coordinated practice before treating it as documented behavior.

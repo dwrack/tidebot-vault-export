@@ -1,0 +1,10 @@
+PIECE 190 — Funny/Quotable lane — Sunscreen Friend / New occasion type: Friendsgiving — "Friendsgiving Instead Of A Table"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural, free tier) — earnest, mildly amused, clearly loves everyone   Music: warm acoustic bed, cozy-but-outdoors feel   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody didn't want to host Friendsgiving this year. Fair. Nobody wants to do the dishes either.   [Sunscreen Friend VO earnest amused, wide, group boarding with foil-covered dishes]
+ 3.8s  So the table became a boat. The sides still made it. So did the cousin nobody invited on purpose.   [insert, dishes being set on a cooler-turned-table, guests laughing]
+ 8.0s  Houston in November means you can still do this in short sleeves.   [insert, guests relaxed, no jackets, warm light]
+11.8s  No dishes to do. Just a boat to dock.   [closing line, warm, wide, group toasting with plates in hand, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

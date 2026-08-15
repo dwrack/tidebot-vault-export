@@ -1,0 +1,30 @@
+PIECE 11 — Funny / observational lane — "The Sound of Twelve Phones at Once"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: light, bluesy, playful funk, Walter "Wolfman" Washington reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The guide never announces when a gator's close. The guests always seem to know anyway.  [wide shot: kayaks gliding quietly, guide alert but silent]
+ 2.5s  One person spots it first. Doesn't say a word.                      [guest's eyes widening, slow reach for a phone]
+ 5.0s  Just reaches for their phone. That's the whole signal.              [close-up: phone coming out]
+ 7.0s  Within a few seconds, most of the other phones are out too.         [quick cuts: phones emerging from several kayaks]
+ 9.5s  A boat full of strangers, perfectly synchronized, over one unbothered gator.  [wide shot: gator floating calmly, surrounded by phones]
+12.5s  It could not care less. That's kind of the whole appeal.            [closing wide shot: gator drifting off, guests lowering phones, smiling]
+
+ON-SCREEN TEXT TREATMENT:
+None. Pacing stays snappy on a short, punchy piece.
+
+SHOT LIST:
+- Wide shot: kayaks gliding quietly, guide alert but silent (opener)
+- Guest's eyes widening, slow reach for a phone
+- Close-up: phone coming out
+- Quick cuts: phones emerging from several kayaks
+- Wide shot: gator floating calmly, surrounded by phones
+- Closing wide shot: gator drifting off, guests lowering phones, smiling
+
+SOURCE GROUNDING: An original, illustrative comedic exaggeration of a common, plausible guest reaction, not sourced from a specific vault doc and not a documented or measured behavior count.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Bencivenga's proof instinct on specific, countable detail rather than a vague "everyone gets excited," with a light Sugarman beat withholding "gator" until the reveal). Then /copywriting-2.0 (3-test filter): cut an overwritten original line, "nature's biggest celebrity doesn't even know it's famous," a cute-but-empty personification that fails the falsify test; replaced with "it could not care less, that's kind of the whole appeal," truer to the animal's actual behavior. Also softened an original "eleven other phones" and "two seconds," stated as if measured, to "most of the other phones" and "a few seconds," since neither was ever an actual count.
+
+PRODUCTION FLAG: Illustrative comedic exaggeration of a common, plausible guest reaction, not a documented or measured behavior count. Fine to run as a lighthearted bit; don't caption it as a literal statistic.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga/Sugarman) then /copywriting-2.0 (3-test filter, two edits logged above).

@@ -1,0 +1,10 @@
+PIECE 189 — Funny/Quotable lane — Old Salt / Crew competence-flex, new device — "Headcount In Four Seconds"
+Voice: The Old Salt (EL-George.mp3) — older, wry, warm register   Music: dry folksy acoustic bed, quick comedic tick sound on the count   Length: 13.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Twenty-six people boarding, moving, talking. He counts life jackets without looking like he's counting.   [Old Salt VO wry warm, wide, deckhand scanning the deck casually while guests board]
+ 3.4s  Four seconds. Every head, every jacket, done before the first cooler's even opened.   [insert, deckhand's eyes moving quickly, subtle nod]
+ 6.8s  Nobody notices him doing it. That's kind of the point.   [Old Salt, wry, warm]
+10.0s  Twenty years on the water teaches you to count without counting out loud.   [closing line, wry, wide, deckhand smiling, boat pulling away from the dock]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

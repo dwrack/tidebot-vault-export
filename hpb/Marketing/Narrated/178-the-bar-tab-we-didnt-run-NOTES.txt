@@ -1,0 +1,10 @@
+PIECE 178 — Funny/Quotable lane — Roger / BYOB economics, sourced from real Brand Story bar-tab comparison, CTA piece — "The Bar Tab We Didn't Run"
+Voice: Roger (voice-en-US-RogerNeural, free tier) — mock-official delivery   Music: dry mock-official bed, cash-register-adjacent comedic sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Twenty people at a Houston bar runs a real tab. Ours, tonight, ran zero.   [Roger VO mock-official deadpan, wide, group boarding with coolers, no bar in sight]
+ 3.6s  We don't sell a drop. You bring the cooler, we bring the boat.   [insert, coolers being loaded, deckhand waving them aboard]
+ 7.2s  No markup. No last call. No line for the one bartender working a Saturday.   [insert, guests pouring their own drinks, laughing, zero waiting]
+11.0s  Same night out. Nobody ran a tab.   [closing line, wry, wide, group toasting on open water, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

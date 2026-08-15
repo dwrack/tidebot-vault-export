@@ -1,0 +1,10 @@
+PIECE 187 — Funny/Quotable lane — Deckhand / Guest-negotiation running joke, new device — "Ten More Minutes"
+Voice: The Deckhand (voice-en-US-GuyNeural, free tier) — fast, hype, half out of breath   Music: fast playful comedic bed   Length: 13.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every single trip, somebody asks the captain for ten more minutes. Every single one.   [Deckhand VO fast hyped, close, guest leaning toward the helm, pleading face]
+ 3.0s  Doesn't matter if it's the first hour or the last. Somebody's always asking for ten more.   [insert, different guest, same pleading gesture, laughing]
+ 6.4s  We've never once gotten exactly ten. Sometimes it's five. Sometimes it's twenty.   [insert, deckhand shrugging, grinning]
+ 9.8s  Nobody's ever asked for less time. Not once.   [closing line, hyped, deckhand grinning, wide shot, boat still moving, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

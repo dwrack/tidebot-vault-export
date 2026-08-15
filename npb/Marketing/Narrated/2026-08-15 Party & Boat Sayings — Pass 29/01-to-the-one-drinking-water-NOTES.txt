@@ -1,0 +1,30 @@
+PIECE 01 — Heartfelt / toast lane — "To the One Drinking Water"
+Product: Private BYOB Party Fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: warm, understated soul-jazz vocal feel, John Boutte reference (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one. The one holding water instead of a red cup.   [wide deck shot, group with drinks, one guest holding a water bottle]
+ 3.0s  Somebody always calls it out before the first toast.                 [guest gesturing playfully toward the water-bottle friend]
+ 5.5s  To the one keeping everybody's photos in focus.                      [group laughing, raising cups toward her]
+ 8.5s  She'll remember tonight better than any of us will.                  [close-up: guest smiling, a little embarrassed]
+11.5s  Cheers to the DD of the bayou.                                       [group clinking cups and water bottle together]
+14.0s  Every boat needs one. Every one deserves a toast.                    [closing wide shot: group toasting, bayou behind them, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+None. Pure VO and visual, matches the piece's warmth rather than interrupting it with captions.
+
+SHOT LIST:
+- Wide deck shot, group with drinks, one guest holding a water bottle (opener)
+- Guest gesturing playfully toward the water-bottle friend
+- Group laughing, raising cups toward her
+- Close-up: guest smiling, a little embarrassed
+- Clink shot: cups and water bottle together
+- Closing wide shot: group toasting, bayou behind them, golden light
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc. Grounded in `Brand Story & Values.md` Section 6's "no forced fun" rule, which is why the toast is written as something guests do organically rather than something crew initiates.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plainspoken warmth, addressing a real, overlooked person honestly, with a Bencivenga proof instinct on the specific detail "keeping everybody's photos in focus" instead of a vague compliment). Then /copywriting-2.0 (3-test filter): cut an early draft line, "she's always the real MVP," a cliché that fails the nobody-else-say-it test, and rewrote it to "she'll remember tonight better than any of us will," which is visualizable, falsifiable, and specific to this exact context.
+
+PRODUCTION FLAG: Written as an illustrative, organic guest moment, not a documented recurring event and not something crew prompts or scripts. Nothing here should be captioned in a way that implies staff orchestrates this toast.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Bencivenga) then /copywriting-2.0 (3-test filter, one rewrite logged above).

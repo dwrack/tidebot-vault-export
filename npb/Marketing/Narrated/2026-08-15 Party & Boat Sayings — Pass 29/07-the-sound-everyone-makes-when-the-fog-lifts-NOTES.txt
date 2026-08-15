@@ -1,0 +1,28 @@
+PIECE 07 — Sensory / poetic lane — "The Sound Everyone Makes When the Fog Lifts"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: ambient clarinet, near-silent, Aurora Nealand reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody teaches guests to do this. It just happens, most foggy mornings.  [wide shot: kayaks in fog at dawn, fog starting to thin]
+ 3.5s  The fog lifts off the water in one slow sheet.                       [close-up: fog rolling back, cypress silhouettes emerging]
+ 6.5s  And a boat full of strangers all make the exact same sound.          [guests' faces, quiet exhale, small reaction]
+ 9.5s  Not a word. Just breath.                                            [close-up: guest's face, soft exhale, eyes wide]
+11.5s  Nobody's ever caught it on a recording. You kind of have to be there.  [wide shot: full group, fog cleared, cypress and light]
+
+ON-SCREEN TEXT TREATMENT:
+None. Matches the Admire NOLA poetic lane's convention of letting VO and visual carry the piece without captions.
+
+SHOT LIST:
+- Wide shot: kayaks in fog at dawn, fog starting to thin (opener)
+- Close-up: fog rolling back off the water, cypress silhouettes emerging
+- Guests' quiet reactions
+- Close-up: single guest's soft exhale, eyes wide
+- Closing wide shot: full group, fog cleared, cypress and light
+
+SOURCE GROUNDING: An original, illustrative concept inspired by the register of Admire NOLA's Lane 1 poetic seeds (`Content/Script & Caption Bank.md`), not a direct quote from any Bank line and not sourced from a specific vault fact.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling the poetic register of the Admire NOLA Lane 1 notes, a short, literary line where a specific image does the work an adjective couldn't, with an Ogilvy instinct on the closer, an honest limitation rather than an oversell). Then /copywriting-2.0 (3-test filter) confirmed the piece passes clean and softened line 1's original "every single trip" to "most foggy mornings," since an absolute claim about a weather-dependent moment doesn't hold up to a literal fact-check and the piece doesn't need it to land.
+
+PRODUCTION FLAG: Describes a common, plausible guest reaction to fog lifting at dawn, not a documented or measured behavior. Treat as illustrative scene-setting rather than a literal claim about how every guest reacts.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (poetic register / Ogilvy) then /copywriting-2.0 (3-test filter, one softened claim logged above).

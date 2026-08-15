@@ -1,0 +1,30 @@
+PIECE 08 — Practical / sensory lane — "Two Taps Means Look Right"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Eric (ElevenLabs)   Music: sparse, mellow funk, Ivan Neville reference (clearance unconfirmed)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Before the kayaks even launch, the guide teaches one thing.          [guide at the dock, demonstrating with a paddle]
+ 2.5s  Not a safety briefing. A signal.                                    [close-up: guide tapping paddle twice on the water's surface]
+ 5.0s  Two taps on your paddle means look right, without a word.           [demonstration: paddle tap, ripple]
+ 7.5s  By the second sighting, guests are doing it to each other.          [guest in a kayak tapping their paddle, another guest turning to look]
+10.5s  A whole group, talking without talking.                            [wide shot: multiple kayaks, quiet, paddle taps rippling down the line]
+13.0s  Ten minutes in, and everyone already speaks it.                     [closing wide shot: group gliding quietly, cypress light]
+
+ON-SCREEN TEXT TREATMENT:
+"TWO TAPS = LOOK RIGHT" appears briefly at the 5.0s line only, small lower-third label, clears fast. No other captions.
+
+SHOT LIST:
+- Guide at the dock, demonstrating with a paddle (opener)
+- Close-up: guide tapping paddle twice on the water's surface
+- Demonstration ripple
+- Guest tapping their paddle to alert another guest
+- Wide shot: multiple kayaks, quiet, paddle taps rippling down the line
+- Closing wide shot: group gliding quietly, cypress light
+
+SOURCE GROUNDING: An original, illustrative concept proposing a taught nonverbal signal, not sourced from a specific vault doc and not confirmed as an actual, standing part of the pre-launch safety talk.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's specificity, a named, teachable mechanic beats a generic "we keep it quiet out here," with Bencivenga's proof instinct: the claim is checkable, guides either teach this or they don't). Then /copywriting-2.0 (3-test filter) flagged an original line 4, "guests start doing it themselves eventually," as too vague, and rewrote it to "by the second sighting," a specific, checkable claim rather than a fuzzy "eventually."
+
+PRODUCTION FLAG: This specific taught hand-signal system is not confirmed as an actual, standing part of the pre-launch safety talk. Confirm with a naturalist guide whether any nonverbal signal is currently taught, and if not, whether it's worth adopting before this airs as documented practice rather than a proposed teaching moment.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Bencivenga) then /copywriting-2.0 (3-test filter, one rewrite logged above). Production flag: confirm the signal is or would be actually taught before treating it as documented practice.

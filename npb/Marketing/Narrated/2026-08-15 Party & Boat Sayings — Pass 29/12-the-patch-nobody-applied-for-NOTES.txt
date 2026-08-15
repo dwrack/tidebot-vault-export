@@ -1,0 +1,30 @@
+PIECE 12 — Heartfelt / surprise lane — "The Patch Nobody Applied For"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: warm, mystical, understated piano, Dr. John reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most Tuesdays are a completely normal tour. Every once in a while isn't.  [wide shot: kayaks launching, ordinary morning]
+ 3.0s  Guide picks one guest, no pattern to it, no way to predict it.       [guide scanning the group, deciding]
+ 5.5s  At the very end, they get a small embroidered patch. Nothing's announced beforehand.  [close-up: small cypress-leaf patch in the guide's palm]
+ 9.0s  "For paying attention." That's the whole explanation given.         [guide handing it over, guest looking surprised]
+11.5s  Doesn't happen every trip. That's kind of why it means something when it does.  [guest holding the patch, smiling, group curious around them]
+15.0s  You can't book this part. You just have to be the one who noticed the heron first.  [closing wide shot: guest pinning the patch to a bag, boat behind them]
+
+ON-SCREEN TEXT TREATMENT:
+None until the close. Single caption "YOU CAN'T BOOK THIS PART" holds 2 seconds on the final frame, then clears.
+
+SHOT LIST:
+- Wide shot: kayaks launching, ordinary morning (opener)
+- Guide scanning the group, deciding
+- Close-up: small cypress-leaf patch in the guide's palm
+- Guide handing it over, guest looking surprised
+- Guest holding the patch, smiling, group curious around them
+- Closing wide shot: guest pinning the patch to a bag, boat behind them
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #93: "The random Tuesday gift." Not confirmed as a current, standing practice; no patch currently exists as a physical item.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's can't-book-it curiosity hook — the same device a prior pass used for a live musician piece, reused once more here because it genuinely fits this idea — with Halbert's plain honesty on the reward's actual value, "for paying attention," not an inflated superlative). Then /copywriting-2.0 (3-test filter): cut an original overclaim, "it's the most coveted item on any tour," an unfalsifiable superlative; rewrote it to "doesn't happen every trip, that's kind of why it means something when it does," which is both more honest and more specific.
+
+PRODUCTION FLAG: Sourced from idea #93. Not confirmed as a current, standing practice; no patch currently exists as a physical item. Before shooting, ops needs to decide whether to actually produce a patch (cost, design, supplier), define real selection criteria, and confirm frequency, since "doesn't happen every trip" is a promise about scarcity that needs to be operationally true, not just a nice line.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, one rewrite logged above). Production flag: no patch currently exists; needs ops decision before this is more than a concept.

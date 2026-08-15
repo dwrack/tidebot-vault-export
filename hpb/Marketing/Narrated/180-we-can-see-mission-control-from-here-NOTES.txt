@@ -1,0 +1,10 @@
+PIECE 180 — Funny/Quotable lane — Sunscreen Friend / Houston-geography texture, sourced from real Clear Lake / NASA proximity, new territory — "We Can See Mission Control From Here"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural, free tier) — earnest, mildly amused, clearly loves everyone   Music: warm breezy acoustic bed, light wonder swell   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks why it's called Clear Lake. Second question's usually about NASA.   [Sunscreen Friend VO earnest amused, wide, boat cruising open water, guest pointing toward shore]
+ 3.6s  Because Mission Control is basically down the road from where we dock.   [insert, guest looking impressed, shoreline in the distance]
+ 7.0s  People have flown to actual space closer to this water than most of you drove tonight.   [insert, guest laughing at the math, checking their phone map]
+11.2s  We just fly a little lower and a little slower.   [closing line, warm, wide, sunset over open water]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

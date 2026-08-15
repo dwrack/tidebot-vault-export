@@ -1,0 +1,10 @@
+PIECE 192 — Funny/Quotable lane — Mama Tried's voice / Milestone-birthday age-hiding bit, new device — "The Number Stays Off The Cake"
+Voice: Mama Tried's voice (EL-Brian.mp3, premium) — flat, deadpan list-comedian   Music: comedic syncopated bed, deadpan pause stings   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every milestone birthday boat has the same rule. The number does not go on the cake.   [Brian VO flat deadpan, wide, cake being carried out, no numbers visible]
+ 3.4s  It goes on a sash instead. Where it can be seen, argued with, and eventually thrown in the water.   [insert, sash reading a number, guest laughing, protesting]
+ 7.6s  Nobody's actually thrown the sash in the water. Every year, somebody threatens to.   [insert, guest dangling sash over the rail, friends grabbing it back]
+11.6s  The cake stays neutral. The sash takes the hit.   [closing line, flat deadpan, wide, group singing, candles lit, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

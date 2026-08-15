@@ -1,0 +1,30 @@
+PIECE 03 — Funny / wordplay lane — "Bring Your Own... What, Exactly"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: playful cabaret-funk energy, Boyfriend reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  BYOB. Everybody thinks they know what it stands for.                 [text overlay: B Y O B, guests boarding with coolers]
+ 3.0s  Bring your own bottle. Bring your own booze. Bring your own beer.    [quick cuts: different guests holding wine, a bottle, a case of beer]
+ 6.5s  One guest swore it stood for Bring Your Own Boat.                    [guest laughing, gesturing confused, group teasing him]
+ 9.5s  He was, technically, on a boat he did not bring.                     [reaction shot: group laughing at him, he shrugs]
+12.0s  Nobody's corrected him yet. It's funnier this way.                   [wide shot: group cheering, boat pulling away from dock]
+15.0s  Bring whatever you want. We'll bring the boat.                      [closing wide shot: boat cruising, guests raising drinks]
+
+ON-SCREEN TEXT TREATMENT:
+The letters "B Y O B" cycle through each word (Bottle / Booze / Beer) synced to line 2, playful kinetic type, clears by line 3. No other captions.
+
+SHOT LIST:
+- Guests boarding with coolers, BYOB text overlay (opener)
+- Quick cuts: different guests holding wine, a bottle, a case of beer
+- Guest's confused, funny reaction to the "Bring Your Own Boat" bit
+- Reaction shot: group laughing at him, he shrugs
+- Wide shot: group cheering, boat pulling away from dock
+- Closing wide shot: boat cruising, guests raising drinks
+
+SOURCE GROUNDING: An original, illustrative concept riffing on NPB's own BYOB acronym, not sourced from a specific vault doc and not a documented real guest quote.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's curiosity hook built on a familiar acronym, then a twist, with a Bencivenga instinct for a flat, provable closing statement rather than a punchline trying too hard). Then /copywriting-2.0 (3-test filter): cut an original closer, "you bring the fun, we bring the boat," generic enough that any party-boat competitor could say it (fails nobody-else-say-it); rewrote it to "bring whatever you want, we'll bring the boat," which keeps the literalism specific to this piece's own joke.
+
+PRODUCTION FLAG: Illustrative, not a documented real guest quote. If a real version of this moment exists on video or in a review, swap it in; otherwise caption clearly as a bit, not a testimonial.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Bencivenga) then /copywriting-2.0 (3-test filter, one rewrite logged above).

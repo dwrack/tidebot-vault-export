@@ -1,0 +1,30 @@
+PIECE 10 — Funny / insider lane — "What the Radio Says You're Not Supposed to Hear"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: low, funky, percussive, Cyril Neville reference (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Guides carry a radio for a reason nobody on the water thinks about.  [guide clipping a handheld radio to a life vest]
+ 3.0s  Mostly it's quiet. Then it crackles, and everyone's kayak turns toward the sound.  [close-up: radio crackling, guests glancing over]
+ 6.0s  "Got a big one sunning up ahead, if anyone's headed that way."       [radio audio beat, guide reacting, adjusting course]
+ 9.5s  That's not for the guests. It's guide to guide.                     [guide steering slightly, subtle course correction]
+11.5s  You're not supposed to hear it. You usually do.                     [wide shot: kayak group approaching the spot the radio mentioned]
+14.0s  The guides have their own group chat. You just caught a glimpse of it.  [closing wide shot: gator sunning, kayaks approaching quietly]
+
+ON-SCREEN TEXT TREATMENT:
+None. The radio audio cue and VO carry the piece without captions.
+
+SHOT LIST:
+- Guide clipping a handheld radio to a life vest (opener)
+- Close-up: radio crackling, guests glancing over
+- Radio audio beat, guide reacting, adjusting course
+- Guide steering slightly, subtle course correction
+- Wide shot: kayak group approaching the spot the radio mentioned
+- Closing wide shot: gator sunning, kayaks approaching quietly
+
+SOURCE GROUNDING: An original, illustrative concept built around real operational radio use by guides, not a transcribed real radio call and not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's overheard-secret curiosity hook, applied to something wholesome and true rather than manufactured drama, with Ogilvy's instinct for a specific, plausible line of dialogue instead of a vague "there's an alligator nearby"). Then /copywriting-2.0 (3-test filter): cut an overreaching original closer, "the swamp talks to itself, and today you're in on the secret," which personifies the swamp in a way that fails the falsify test (the swamp isn't talking, the guides are); rewritten to "the guides have their own group chat," a clearly figurative frame about the humans, not a literal claim about nature. Also cut an original line 6 that named a specific marker ("marker four") not confirmed as a real route landmark; replaced with "up ahead," which doesn't require verifying a waypoint that may not exist.
+
+PRODUCTION FLAG: Guides do carry radios for real operational and safety coordination; the example dialogue is illustrative, not a transcribed real radio call. Confirm real radio practice with a guide before treating this as documentary rather than a plausible dramatization.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 29, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Ogilvy) then /copywriting-2.0 (3-test filter, two edits logged above). Production flag: example dialogue is dramatized, not transcribed.

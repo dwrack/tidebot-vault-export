@@ -1,0 +1,10 @@
+PIECE 182 — Funny/Quotable lane — Announcer / Real booking-behavior stat, formal register played straight, new device — "Nobody Calls Anymore"
+Voice: The Announcer (EL-Daniel.mp3) — formal "news"/memo register, played straight   Music: dry mock-PSA bed   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A public service update. Almost nobody books this boat by phone anymore.   [Announcer VO formal played straight, close, phone ringing once, unanswered, on a desk]
+ 3.4s  Nine out of ten of you did it from your couch, at night, in under two minutes.   [insert, guest booking on a phone screen, casual, on a couch]
+ 7.4s  We still answer the phone. We just don't expect it to ring much.   [Announcer, dry, small smirk]
+11.0s  Whatever gets you on the water. We're not precious about the method.   [closing line, wry, wide, boat departing, sunset]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
