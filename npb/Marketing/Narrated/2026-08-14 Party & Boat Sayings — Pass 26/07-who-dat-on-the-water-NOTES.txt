@@ -1,0 +1,30 @@
+PIECE 07 — Punchy / seasonal lane — "Who Dat on the Water"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: brass game-day energy, Soul Rebels feel (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Game day, this boat's got one rule.                                       [group in black and gold boarding, face paint]
+ 3.0s  Somebody yells "who dat," the whole boat yells it back. Captain included.  [captain yelling, group responding]
+ 6.5s  Doesn't matter if the Saints are up by three or down by twenty.           [group cheering regardless, energetic]
+10.0s  Doesn't matter if there isn't even a game today.                          [group laughing, still chanting, no TV in sight]
+13.5s  Somebody starts it every single cruise, September through February.       [wide deck shot, black and gold everywhere]
+16.5s  Who dat indeed.                                                          [closing wide shot, boat on the water, flags waving]
+
+ON-SCREEN TEXT TREATMENT:
+"WHO DAT?" flashes in bold each time the chant happens on screen (lines at 3.0s and implicitly at the close), otherwise no text — the chant itself is the hook, captions would slow it down.
+
+SHOT LIST:
+- Black-and-gold boarding, face paint (opener)
+- Captain leading the chant, group responding
+- Group cheering regardless of the score
+- Group still chanting with no game or TV visible, making the point it's not really about the score
+- Wide deck shot, black and gold everywhere
+- Closing wide shot: boat on the water, flags waving
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #88: "Saints game day cruise. Time cruises around Saints games. Pre-game cruise, post-game cruise. Black and gold everything. Who Dat chants on the water. This city lives and dies with that team." Not confirmed as a current, scheduled offering.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga's proof-over-assertion instinct — "September through February" is a specific, checkable season window a skeptical viewer could verify, which lands harder than a vague claim of team loyalty). Then /copywriting-2.0 (3-test filter): a draft line, "the energy is unmatched," was unfalsifiable and could be said about literally any party boat; cut and rewritten to the concrete, checkable detail that the chant happens even with no game actually on, which is the specific, ownable claim.
+
+PRODUCTION FLAG: "Who dat" is real, externally verifiable New Orleans Saints fan culture, not invented company slang, the same category of real regional language this vault's Pass 23 used for "where y'at" and Pass 25 used for "making groceries." What's not confirmed: whether crew (specifically the captain) actually leads this chant, versus it only happening spontaneously among guests. Confirm with crew before scripting the captain's line as documented, standing behavior.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter). Production flag: confirm crew actually leads this chant before scripting it as standing captain behavior.

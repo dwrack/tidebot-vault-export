@@ -1,0 +1,11 @@
+PIECE 134 — Funny/Quotable lane — Logistics/decor comedy, new territory — "The Banner Took Longer Than The Ride"
+Voice: voice-en-US-GuyNeural ("The Deckhand")   Music: fast comedic ticking percussion easing into upbeat pop   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Guest brought a banner. Hand-painted. Individual letters.          [Deckhand VO hyped, close, banner unrolled on the dock]
+ 2.4s  Twenty minutes to hang it straight before we even left the dock.   [comedic montage, adjusting, remeasuring string]
+ 5.6s  Every zip tie got its own debate.                                  [close insert, hands fumbling a zip tie, mock-serious deliberation]
+ 8.2s  Ride's two hours total. The banner ate a sixth of it.              [captain checking a watch, deadpan reaction]
+11.2s  Worth it. Looked incredible in every single photo.                 [wide, boat pulling away, banner clearly visible, guests posing under it]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

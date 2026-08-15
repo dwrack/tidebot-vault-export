@@ -1,0 +1,30 @@
+PIECE 12 — Wildlife spotlight lane — "The Bird That Can't Waterproof Itself"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: light calm ambient bed, minimal   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every eco tour guide's got a favorite bird to introduce.                   [guide pointing up at a tree, guests looking]
+ 3.3s  Meet the anhinga. Can't waterproof its own feathers.                       [close-up: anhinga standing, wings spread]
+ 7.0s  So it stands there with its wings out, looking like it's making an announcement.  [wide shot: anhinga silhouette, wings fully spread]
+11.0s  It's not. It's just damp, and waiting to dry off.                          [guests laughing quietly, guide grinning]
+15.0s  Most dramatic-looking bird on the bayou. Least dramatic reason for it.      [wide golden shot, anhinga still drying]
+18.5s  Come meet the rest of the cast.                                           [closing wide swamp shot]
+
+ON-SCREEN TEXT TREATMENT:
+"MEET THE ANHINGA" appears as a lower-third caption on the reveal line only (3.3s), then clears. No other text — the visual punchline at 11.0s needs to land on its own.
+
+SHOT LIST:
+- Guide pointing up at a tree, guests looking (opener)
+- Close-up: anhinga standing, wings spread
+- Wide shot: anhinga silhouette, wings fully spread
+- Guests reacting, quiet laughter, guide grinning
+- Wide golden shot: anhinga still drying its wings
+- Closing wide swamp shot
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 9 (Wildlife spotlight, episodic "who's next?"): "Meet the anhinga: can't waterproof its own feathers, so it has to stand there with its wings spread to dry. Looks dramatic. Is just damp." Real bird biology, not invented for this piece. Never used as its own NPB piece in any of the nine prior passes, and structurally distinct from every misidentification/guessing-game device this vault's slate has already retired (this is a direct spotlight and reveal, not a gator/turtle/stick-style guessing bit).
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman's curiosity-loaded reveal structure — "looking like it's making an announcement" plants a specific, visual question the very next line resolves, rather than explaining the joke up front and killing the payoff). Then /copywriting-2.0 (3-test filter): a draft line, "such a unique and interesting bird," was a dead adjective stack that could describe any animal on any nature show. Cut and rewritten to the specific visual contrast between the bird's dramatic pose and its undramatic reason, "most dramatic-looking bird on the bayou, least dramatic reason for it," which passes all three tests (visualizable, falsifiable against the actual biology, and specific enough that no generic wildlife account could claim it as their own line).
+
+PRODUCTION FLAG: The anhinga fact itself is real and sourced above. What's not confirmed: whether anhingas are actually a species this specific NPB eco tour route regularly sees on the water. Confirm with guides before scripting "every guide's got a favorite bird" as a standing claim — if a different bird is the one guides actually feature regularly, swap the species and keep the piece's structure (the "dramatic pose, undramatic reason" device works for several swamp species, not just this one).
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag: confirm anhingas are a species actually seen on this specific eco tour route before locking as documented.

@@ -1,0 +1,30 @@
+PIECE 10 — Ghost lore / storyline lane — "The Name the Guide Won't Say After Dark"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: low ambient drone, single upright bass note, no brass, no melody   Length: 26.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's one story every guide tells the same way, word for word.          [guide's face, serious, evening light]
+ 4.0s  In 1915, a hurricane wiped three towns off this map in a single night.     [wide swamp shot, dusk, still water]
+ 8.5s  Locals blamed a hoodoo woman named Julia Brown, who used to sing that the day she died, she'd take the whole town with her.  [text overlay: "Julia Brown," period-style typeface]
+15.0s  She was buried the morning the storm hit.                                 [close-up: black water, no movement]
+18.5s  Frenier and Ruddock are still under this water. You're paddling right over them.  [wide shot: guide pointing at open water, guests quiet]
+23.5s  Guides call it Manchac. Everybody else just calls it spooky.               [closing wide shot, dusk fog on the water]
+
+ON-SCREEN TEXT TREATMENT:
+"JULIA BROWN" appears in a period-style typeface caption on the third line only (8.5s), styled like an old newspaper credit line. No other text anywhere in the piece, the story is meant to be heard, not read.
+
+SHOT LIST:
+- Guide's serious face, dusk light (opener)
+- Wide swamp shot at dusk, still water
+- "Julia Brown" name caption over the telling of her legend
+- Close-up: still black water, no movement
+- Wide shot: guide pointing at open water, guests gone quiet
+- Closing wide shot: dusk fog on the water
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 10 (Manchac ghost lore): "Manchac has a curse. In 1915 a hurricane wiped three towns off this map in one night. Locals blamed Julia Brown, a hoodoo woman who used to sing that the day she died, she'd take the whole town with her. She was buried the morning the storm hit," and "There are towns under this water. Frenier. Ruddock. Gone in a single night in 1915." This is real, documented Louisiana local legend tied to the 1915 New Orleans hurricane, not invented for this piece. Never used as its own piece in any of this vault's nine prior NPB passes.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert's A-pile discipline — "there's one story every guide tells the same way, word for word" is a pattern-interrupt opener that makes a viewer lean in to find out what the story even is, before any specific claim is made). Then /copywriting-2.0 (3-test filter): a draft line, "one of Louisiana's creepiest legends," was a hype-adjective with no proof behind it, the kind of line any ghost-tour operator anywhere could say. Cut and rewritten to the actual, checkable historical detail (1915, three towns, one night) that does the work an adjective can't, and that only this specific legend can truthfully claim.
+
+PRODUCTION FLAG: This is a real, documented local legend, reused with attribution from the Admire NOLA bank, not invented here. What's not confirmed: whether this specific site and legend are actually part of NPB's own eco tour route and guide script, as opposed to Admire NOLA's separate operation and route. Confirm with ops which route the NPB eco tour actually runs, and whether it passes near Manchac, before treating "every guide tells this" as fact rather than aspiration.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter). Production flag: confirm the NPB eco tour route actually passes near Manchac before treating this as this business's own guide script.

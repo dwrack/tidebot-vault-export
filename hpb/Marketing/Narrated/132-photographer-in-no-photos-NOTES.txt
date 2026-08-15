@@ -1,0 +1,11 @@
+PIECE 132 — Funny/Quotable lane — Character-study / photo-culture, new archetype — "The One Photo Nobody's In"
+Voice: voice-en-GB-RyanNeural ("The Groomsman")   Music: light observational comedic bed   Length: 13.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one. The photographer.                           [Groomsman VO dry, wide, someone constantly behind a phone camera]
+ 2.6s  Four hundred photos by the time we dock.                           [quick montage inserts, hands holding phones up]
+ 5.2s  She's in exactly zero of them.                                     [reveal, the photographer laughing behind her phone, never turning it around]
+ 7.6s  Somebody finally grabs her phone at the dock.                      [close, mock struggle, phone taken from her hands]
+10.2s  One photo. She's squinting. It's the best one.                    [final group photo, everyone including her, candid smiles]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

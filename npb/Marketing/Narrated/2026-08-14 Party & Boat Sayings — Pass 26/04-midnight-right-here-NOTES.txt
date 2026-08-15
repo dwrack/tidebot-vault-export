@@ -1,0 +1,31 @@
+PIECE 04 — Toast / seasonal lane — "Midnight, Right Here"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: soul-horn anthem, PJ Morton feel, building through the piece (clearance unconfirmed)   Length: 24.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Most people count down to midnight staring at a TV.                       [wide: dock at dusk, string lights, group boarding in formalwear]
+ 4.0s  This crowd counts it down on the river, watching fireworks go up over two different skylines.  [group on deck, city lights across the water]
+ 8.5s  Ten seconds out, the captain starts the count himself.                    [captain raising a glass, starting the countdown]
+12.0s  Everybody yells it back, off by half a second, every year.                [group counting down together, slightly out of sync, laughing]
+16.5s  Champagne at the exact wrong moment. Perfect timing anyway.               [champagne popping mid-count, laughter]
+20.5s  Same boat. Same river. Brand new year.                                    [wide fireworks-over-water closer]
+
+ON-SCREEN TEXT TREATMENT:
+No caption until the final beat. "NEW YEAR. SAME RIVER." holds on the fireworks-over-water closing shot for the last 2 seconds, the only text in the piece.
+
+SHOT LIST:
+- Dock at dusk, string lights, New Year's Eve setup (opener)
+- Group boarding in formalwear
+- Wide deck shot showing both skylines across the water
+- Captain raising a glass, starting the ten-second countdown
+- Group counting down together, slightly out of sync, laughing
+- Champagne popping mid-count
+- Wide closing shot: fireworks over the water
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #87: "NYE countdown on the water. Be on the river at midnight. Champagne toast. Fireworks view. Charge premium. This sells itself, but the execution has to be flawless." Not confirmed as a currently offered cruise.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy's factual-specific standard — "fireworks going up over two different skylines" is a real, checkable geographic detail about this stretch of river, and it does more selling than an adjective like "spectacular" ever could). Then /copywriting-2.0 (3-test filter): a draft closer, "the best way to start the year," was an unfalsifiable superlative any operator could claim. Cut and rewritten to "same boat, same river, brand new year," which is a provable, specific, ownable image rather than a ranking claim.
+
+PRODUCTION FLAG: The idea's own source note flags this explicitly: "the execution has to be flawless: timing the countdown, having the champagne ready, positioning the boat for the best fireworks view." This piece promises a specific, repeatable moment on camera. Do not shoot it until ops confirms an actual NYE sailing plan exists, including boat positioning for the fireworks view and a real protocol for the champagne timing. If no such plan exists yet, this piece is the pitch to build one, not a description of something that already happens.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm an actual NYE sailing/positioning plan exists before promising this moment on camera.

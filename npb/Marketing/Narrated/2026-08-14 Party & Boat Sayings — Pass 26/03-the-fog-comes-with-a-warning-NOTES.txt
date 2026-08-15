@@ -1,0 +1,33 @@
+PIECE 03 — Funny / seasonal lane — "The Fog Comes With a Warning"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: playful bounce-brass, Tank and the Bangas feel (clearance unconfirmed)   Length: 24.0s
+
+SCRIPT (timed to narration):
+ 0.0s  October on this boat comes with one extra prop.                           [captain wheeling out a fog machine, guests in costume watching]
+ 3.3s  The warning sticker on it says it all.                                    [close-up: sticker on the machine, slightly worn]
+ 6.5s  "Fog is inescapable. Plan makeup accordingly."                            [text overlay of the sticker's actual wording, comedic beat]
+10.0s  Nobody reads it until it's too late.                                      [fog rolling across the deck, guests laughing, waving through it]
+14.0s  Somebody's mascara ends up somewhere it shouldn't within the hour.         [guests laughing, makeup smudged, dancing in fog]
+18.0s  Worth it every single year.                                               [wide shot: costumed group dancing through fog, dusk light]
+21.0s  Come haunt the bayou with us.                                             [closer: boat silhouette in fog, dusk]
+
+ON-SCREEN TEXT TREATMENT:
+The sticker's own wording ("FOG IS INESCAPABLE. PLAN MAKEUP ACCORDINGLY.") is the only on-screen caption in the piece, styled like a real warning label, held for the joke's timing at 6.5s, then clears. No other captions, everything after that plays on footage and VO alone.
+
+SHOT LIST:
+- Captain wheeling out the fog machine, costumed guests watching (opener)
+- Sticker close-up
+- Fog rolling across the deck, guests laughing and waving through it
+- Smudged-makeup laughter, close-up
+- Wide costumed group dancing through fog, dusk light
+- Closing shot: boat silhouette in fog, dusk
+
+CASTING NOTE: N/A — this is a seasonal atmosphere piece, no specific guest needs to be identified, general costumed-group b-roll works.
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #86: "Halloween costume cruise. Crew dresses up. Fog machine on the water. Spooky playlist." The fog machine detail and the sticker gag are this pass's own invention built on top of that idea, not documented as existing.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman's slippery slide — "one extra prop" plants a small, specific curiosity that the next two lines resolve, rather than announcing the joke up front). Then /copywriting-2.0 (3-test filter): a draft line, "the fog machine is a fan favorite," was unfalsifiable vibe-filler with no proof behind it. Cut and rewritten by moving the actual joke onto a physical, quotable prop (the sticker's wording) instead of giving the captain an invented spoken catchphrase — this also keeps the piece clear of the retired "captain's fixed comedic one-liner" device this vault's prior passes flagged as saturated (see the master doc's Status flags).
+
+PRODUCTION FLAG: The sticker wording is a proposed prop, not existing signage — nobody has confirmed a fog machine is even stocked on the fleet. Before this ships as a real shot order: confirm a fog machine exists or would be added, and either print the real sticker wording or drop this device from the piece entirely.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag: confirm fog machine + sticker prop exist before treating as documented practice.

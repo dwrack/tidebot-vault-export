@@ -1,0 +1,28 @@
+PIECE 01 — Loyalty / heartfelt lane — "The Board Remembers You"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: warm trumpet-led instrumental, Kermit Ruffins feel, mellow, low under VO (clearance unconfirmed)   Length: 20.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Most groups get the standard dock greeting. Regulars get something better.  [captain checking the arrival board, guests walking up the dock]
+ 4.2s  "Y'all were here in October. Fourteen of you. Was that the bachelorette?"   [captain to guests, direct recall, guests surprised]
+ 8.8s  Nobody wrote that down for him.                                            [close-up: hands, no clipboard]
+11.3s  Come back a third time and the safety speech gets shorter. The "welcome back" gets longer.  [group boarding easily, familiar greeting with crew]
+16.5s  That's the whole loyalty program. Somebody just remembers you.             [wide shot: boat pushing off, captain and returning guest laughing]
+
+ON-SCREEN TEXT TREATMENT:
+No caption until the closer. Single line "SOMEBODY JUST REMEMBERS YOU" holds on the final frame for 2 seconds, then the piece ends. Nothing competes with the captain's recall line at 4.2s, that's the moment that has to land on voice alone.
+
+SHOT LIST:
+- Captain scanning the arrival board, dockside (opener)
+- Captain recalling the trip detail directly to the guests, guest reaction
+- Close-up: hands, no clipboard, nothing written down
+- Group boarding easily, familiar greeting with crew, less formal than a first-timer's boarding
+- Wide closing shot: boat pushing off, captain and returning guest laughing together
+
+CASTING NOTE: This needs a real repeat-guest booking and a captain who genuinely remembers a prior trip's detail. Don't script a placeholder number ("fourteen of you, October") as if it's guaranteed to happen, use the actual trip detail on shoot day. If no real repeat-guest moment can be captured naturally, this piece should be recast as a documentary follow rather than shot as a scripted scene.
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #63 ("The 'you're back' moment... text them: 'we pulled up your last cruise'") and idea #64 ("Captain's Circle... no formal program, just: 'you're part of the crew now'"). Neither idea is confirmed as current, standing practice at NPB. Confirm with ops whether any informal repeat-guest recognition is already happening before treating this as documentary rather than a recommendation to start.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga's proof hierarchy: a specific number, "fourteen of you, October," is more believable than the bare assertion "we remember our guests," because it's checkable and concrete — proof over claim. An Ogilvy factual-specific instinct underneath: the detail does the selling, not an adjective). Then /copywriting-2.0 (3-test filter): a draft closer, "we treat you like family," failed the can-nobody-else-say-it test — every hospitality business on earth claims this. Cut and rewritten to "somebody just remembers you," which is visualizable (a specific person recalling a specific detail), falsifiable (either it happens or it doesn't), and ownable to a small crew operation rather than any franchise.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga, Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm with ops whether repeat-guest recognition is already informal practice before treating this piece as documentary rather than a recommendation.

@@ -1,0 +1,11 @@
+PIECE 138 — Funny/Quotable lane — Operations/seasonal-read lane, new territory (answers Vol. 8's flagged weather roadmap) — "August Boat, Spring Boat"
+Voice: EL-George ("The Old Salt")   Music: warm wry acoustic bed, gentle seasonal-montage pacing   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  March boat and August boat are not the same trip.                  [Old Salt VO wry, warm, split visual: cool morning light vs. blazing midday]
+ 3.2s  March, we're watching the wind. August, we're watching the ice.    [close inserts: flag/wind indicator in March; ice restock in August]
+ 6.8s  By July we're loading twice the ice we loaded back in April.       [insert, cooler restock mid-trip, deckhand hauling bags]
+10.2s  Same boat. Same lake. Different math every season.                 [wide, seasonal contrast montage]
+13.2s  Been doing this awhile. Still catches me off guard some seasons.   [Old Salt, warm, small smile]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

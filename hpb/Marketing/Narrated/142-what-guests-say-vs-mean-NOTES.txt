@@ -1,0 +1,13 @@
+PIECE 142 — Funny/Quotable lane — New device: two-column translation/glossary bit — "What Guests Say vs. What They Mean"
+Voice: voice-en-GB-RyanNeural ("The Groomsman")   Music: dry wry comedic bed, a soft "ding" foley on each translation reveal   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "We'll just have one drink." Translation: bring the whole cooler.  [Groomsman VO dry, guest holding one drink, cut to an overloaded cooler]
+ 3.0s  "I'm not much of a dancer." Translation: give it twenty minutes.   [insert, reluctant guest, then dancing later, quick cut]
+ 6.0s  "I get seasick easy." Translation: never actually been on water this calm. [insert, nervous guest, then relaxed, calm water shot]
+ 9.2s  "We'll keep it low-key." Translation: it never once has.           [wry callback, deadpan]
+11.8s  We've learned to just nod and stock extra ice.                     [wide, deckhand loading extra ice, knowing look to camera]
+
+On-screen text note: this piece runs a two-line caption system instead of the usual hook/body — top line = "THEY SAY:" bottom line = "THEY MEAN:" for each beat, timed to the ding foley. First use of this text treatment in the series.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

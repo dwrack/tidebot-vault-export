@@ -1,0 +1,13 @@
+PIECE 144 — Funny/Quotable lane — New occasion type (divorce/new-chapter celebration), mock-official register, CTA piece — "Freedom Party"
+Voice: voice-en-US-RogerNeural ("Roger")   Music: mock-ceremonial brass-stab opening (matching pieces 93/109/125), resolving into a warm celebratory pop bed   Length: 16.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Attention aboard. We have an official announcement.                [Roger VO mock-official, formal, guests gathered, honoree center]
+ 3.0s  By the power vested in absolutely nobody, this cruise hereby declares you officially, wonderfully free. [Roger, deadpan mock-ceremonial, group cheering]
+ 7.4s  No paperwork required. Just vibes and a full cooler.               [wide, group toasting, celebratory]
+10.2s  We've had more of these trips than you'd think.                    [Roger, matter-of-fact, brief cutaway, celebratory mood]
+12.8s  New chapter. Same water.                                           [closing line, warm, sunset shot]
+
+On-screen text: Hook = "WE HAVE AN OFFICIAL ANNOUNCEMENT" · Body = "new chapter. same water." · CTA = "Starting over? Start it here."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

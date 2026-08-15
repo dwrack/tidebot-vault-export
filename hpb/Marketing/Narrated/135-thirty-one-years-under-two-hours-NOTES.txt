@@ -1,0 +1,12 @@
+PIECE 135 — Funny/Quotable lane — New occasion type (retirement party), CTA piece — "Thirty-One Years, Under Two Hours"
+Voice: EL-Daniel ("The Announcer")   Music: formal-warm brass-adjacent bed loosening into celebratory pop   Length: 15.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Thirty-one years at the same company. We gave him two hours on a boat. [Announcer VO formal but warm, honoree seated center, group gathered]
+ 3.4s  Somebody read his actual retirement letter out loud. Guests heckled every paragraph. [close, someone reading a printed letter, guests reacting]
+ 7.0s  He teared up at "thank you for the copier jokes."                  [close, honoree wiping his eyes, genuinely moved, laughing]
+10.4s  Thirty-one years deserved better than a sheet cake in a conference room. [wide, whole boat celebrating, sunset light]
+
+On-screen text: Hook = "31 YEARS. WE GAVE HIM 2 HOURS ON A BOAT." · Body = "deserved better than a sheet cake in a conference room" · CTA = "Book the send-off a career like that actually earned."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

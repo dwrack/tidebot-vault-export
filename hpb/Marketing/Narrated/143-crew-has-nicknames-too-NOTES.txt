@@ -1,0 +1,11 @@
+PIECE 143 — Funny/Quotable lane — Crew culture, behind-the-scenes (flips piece 90's device — guests naming crew, not captain naming guests) — "The Crew Has Nicknames Too"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend")   Music: warm light comedic bed   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Guests think we don't know they've nicknamed us.                   [Sunscreen Friend VO earnest, amused, deckhand overhearing guests talking]
+ 3.0s  One regular's called me "Ice Guy" for two years straight. I don't even mind anymore. [deckhand, wry acceptance, insert]
+ 6.4s  Another crew member's just "the guy with the whistle," even off the boat. [insert, crew member recognized in town, laughing]
+ 9.8s  We've got a captain who's been "Skip" so long nobody remembers his actual name. [wide, captain waving, guests calling out "Skip!"]
+13.0s  Comes with the job. We've made peace with it.                      [wide, crew laughing together on deck]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

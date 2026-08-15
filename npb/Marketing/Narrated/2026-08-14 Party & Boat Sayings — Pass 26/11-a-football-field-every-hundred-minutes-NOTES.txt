@@ -1,0 +1,28 @@
+PIECE 11 — Conservation / poetic lane — "A Football Field, Every Hundred Minutes"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs — same voice as Admire NOLA's own poetic lane, deliberate continuity)   Music: solo piano, very sparse, same restrained treatment as this vault's prior poetic pieces   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Your tour lasts about a hundred minutes.                                  [wide swamp vista, boat gliding, calm]
+ 3.5s  In that same hundred minutes, Louisiana loses a football field of wetland.  [black-water shot, cypress silhouette]
+ 8.0s  Not a metaphor. An actual measurement, happening while you're out here.    [close-up: water level against a cypress knee]
+12.5s  Nobody says that over the intercom. It's not that kind of tour.            [guide quiet, guests looking out, contemplative]
+16.5s  But it's why we're still doing this the slow way.                         [wide golden-hour closer, boat drifting through cypress]
+
+ON-SCREEN TEXT TREATMENT:
+No caption until the stat line. "1 FOOTBALL FIELD / 100 MINUTES" holds for 2 seconds on the black-water/cypress silhouette shot at 3.5s, then clears completely for the rest of the piece.
+
+SHOT LIST:
+- Wide swamp vista, boat gliding, calm (opener)
+- Black-water shot, cypress silhouette, stat caption overlaid
+- Close-up: water level against a cypress knee
+- Guide quiet, guests looking out, contemplative
+- Wide golden-hour closer, boat drifting through cypress
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 7 (Conservation / the disappearing swamp): "Louisiana loses a football field of wetland every hundred minutes. Do that math against your own lifetime." This is a real, documented Louisiana coastal-loss statistic, not invented for this piece. Never used as its own NPB piece in any of the nine prior passes.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga's proof-over-assertion instinct — timing the stat to match this specific tour's own runtime makes it land as an observed, lived fact rather than an imported marketing number, which is a stronger, more specific claim than the source lane's generic framing). Then /copywriting-2.0 (3-test filter): a draft closer, "we're fighting to save this place," overclaimed a conservation role NPB hasn't documented anywhere in this vault, and would fail the falsifiability test the moment anyone asked what specifically the company does. Cut and rewritten to "why we're still doing this the slow way," which is honest about what the business actually offers (a slow, low-impact tour) without claiming an activist role it hasn't earned.
+
+PRODUCTION FLAG: The underlying statistic is real and documented (via the Admire NOLA bank's own sourcing). The "hundred minutes" framing is written specifically to match NPB's own eco tour runtime, not the source lane's generic phrasing, so it needs its own confirmation: `Brand Story & Values.md` Section 3 confirms the private fleet cruise runs 1 hour 45 minutes (105 minutes), but the eco tour's exact duration is not separately confirmed anywhere in this vault. Confirm the actual eco tour runtime with ops before locking this script; if the real number is meaningfully different from 100 minutes, the framing needs to change to match the truth, not the other way around.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter). Production flag: confirm the actual eco tour runtime before locking the "hundred minutes" framing.

@@ -1,0 +1,30 @@
+PIECE 05 — Heartfelt / storyline lane — "Five Minutes, No Announcement"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: stripped-down acoustic guitar and strings, no brass, very low under VO (clearance unconfirmed)   Length: 25.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every crew's got a phrase for it: "give 'em five minutes."                [deckhand quietly signaling to captain, knowing look]
+ 4.0s  Means: kill the music, ease off toward the quiet stretch, and don't say a word about why.  [boat slowing, easing toward calmer water, group unaware]
+ 9.5s  The rest of the boat just thinks the view got better.                     [wide shot: cypress and open water, group looking out, relaxed]
+13.5s  One person on that boat knows exactly why the ring's in his pocket.        [close-up: hand in jacket pocket, nervous]
+17.5s  Nobody plans the applause. It just happens.                               [group reaction: hands over mouths, cheering, spontaneous]
+21.5s  Five minutes. That's the whole ask.                                       [wide closer: couple embracing, boat drifting, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+"GIVE 'EM FIVE MINUTES." captions the opening line only, then clears completely for the rest of the piece. The reaction plays without any text competing with it.
+
+SHOT LIST:
+- Deckhand's quiet signal to the captain (opener)
+- Boat easing toward calmer, quieter water
+- Wide relaxed group shot, cypress and open water
+- Close-up: hand in jacket pocket, nervous
+- Group reaction: hands over mouths, spontaneous cheering
+- Wide closing shot: couple embracing, boat drifting, golden light
+
+CASTING NOTE: This needs a real, consenting couple who has genuinely planned a proposal on board, or the piece should be held until one happens organically and the crew can ask the couple afterward whether the footage (non-identifying, if they'd prefer) can be used. Do not stage or invent a fake proposal purely for content — this is the same consent standard prior passes applied to bachelorette entrances and any moment involving a real guest's private milestone. If no real proposal is captured within a reasonable window, this piece should either wait or be reshot as a general "how it works" explainer without a specific couple in frame.
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #91: "Proposal packages. Coordinate with someone planning a proposal. Sunset cruise, specific song at the right moment, champagne ready, crew knows to give space then celebrate. Charge $200 extra." The crew phrase "give 'em five minutes" is this pass's own invention built on top of that idea, not confirmed as real crew language.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert's A-pile instinct — opening on insider crew language, "every crew's got a phrase for it," makes the viewer lean in to learn what it means, rather than opening on the product itself). Then /copywriting-2.0 (3-test filter): a draft closer, "a moment they'll never forget," failed the falsifiability test (unfalsifiable, and any venue on earth could say it about any proposal). Cut and rewritten to "five minutes, that's the whole ask," which is concrete, checkable against the actual process, and specific to how this particular request actually works rather than a generic sentiment.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter). Production flag: consent-gated — needs a real couple or must wait; confirm whether "give 'em five minutes" or any similar phrase is actual crew language before treating it as documented rather than a suggested bit.

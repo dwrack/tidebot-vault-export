@@ -1,0 +1,11 @@
+PIECE 133 — Funny/Quotable lane — Sincere register, new archetype (multi-gen family reunion) — "Grandma's One Request"
+Voice: EL-George ("The Old Salt")   Music: warm nostalgic bed building to a full family-dance swell   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Three generations on the boat today. Grandma's got one request.    [Old Salt VO warm, wide, family boarding, grandma seated up front]
+ 3.0s  One song. Doesn't matter what else plays, that one has to happen.  [close, grandma pointing at the speaker, smiling]
+ 6.2s  The teenagers who complained about coming are the first ones up.   [reveal, teens dancing, reluctant faces now grinning]
+ 9.6s  Even the captain mouths half the words.                           [captain at the helm, small grin, mouthing along]
+12.4s  Some songs aren't a request. They're a rule.                       [wide, whole family dancing, grandma in the middle]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

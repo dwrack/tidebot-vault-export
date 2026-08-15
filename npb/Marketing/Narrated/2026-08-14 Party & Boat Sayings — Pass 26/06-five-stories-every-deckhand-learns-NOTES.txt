@@ -1,0 +1,28 @@
+PIECE 06 — Did-you-know / crew culture lane — "Five Stories Every Deckhand Learns"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: funky mid-tempo groove, Dumpstaphunk feel (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  New deckhands get a job description. They also get a homework assignment.  [new deckhand, name tag, being briefed dockside]
+ 4.0s  Learn five real stories about this river. Not tour-guide stories. Kitchen-table stories.  [senior deckhand talking, gesturing toward the water]
+ 9.0s  The one about the warehouse. The one about the bend that eats anchors. The one nobody believes until they see it.  [quick cuts: pointing at landmarks, guests leaning in listening]
+14.5s  Six months in, every deckhand's got their own version, told a little different each time.  [different deckhand mid-story, guests laughing]
+19.0s  Same river. New storyteller every season.                                 [wide shot: deckhand and guests, boat moving, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+No captions anywhere in this piece. The story titles stay spoken, never written on screen, so it plays as something you listen to rather than a checklist you read.
+
+SHOT LIST:
+- New deckhand, name tag, being briefed dockside (opener)
+- Senior deckhand gesturing toward landmarks along the water
+- Quick cuts: pointing at landmarks, guests leaning in to listen
+- A different deckhand mid-story on a later trip, guests laughing
+- Wide closing shot: deckhand and guests, boat moving, golden light
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #72: "Crew storytelling training. Teach crew 5-6 great New Orleans stories they can tell naturally during the cruise. Not scripted tour guide stuff, but 'so one time, right over there...' stories. The best crews are the best storytellers." Not confirmed as a current, formal training practice.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman's discipline of deliberate curiosity — "the bend that eats anchors" plants a specific, vivid question the piece never fully answers, which is exactly what keeps a viewer curious enough to watch the account rather than scroll past). Then /copywriting-2.0 (3-test filter): a draft line, "our crew is trained in local history," was dead corporate phrasing that could describe any tour company's HR policy. Cut and rewritten to the concrete, sensory "kitchen-table stories" image, which is specific to how this brand actually wants its crew to sound.
+
+PRODUCTION FLAG: The specific story content named in this script ("the warehouse," "the bend that eats anchors") is illustrative only, invented for this piece, not documented fact or a confirmed real crew story. Confirm real stories with the actual current captains and deckhands before locking any specific claim as scripted narration — this piece should either use real, verified crew stories on shoot day, or the "one about the..." lines should be swapped for whatever the real stories turn out to be.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag: confirm real crew stories exist and match the script's placeholder story titles before shooting as documented.

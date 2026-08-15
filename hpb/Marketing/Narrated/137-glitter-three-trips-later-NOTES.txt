@@ -1,0 +1,11 @@
+PIECE 137 — Funny/Quotable lane — Deadpan list / callback device (references house rule in piece 49) — "Glitter Turns Up Three Trips Later"
+Voice: EL-Brian ("Mama Tried's voice")   Music: dry brass-stab list-comedy bed, same family as pieces 04/14/73/87/100/126   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  The rule is no glitter. Everybody agrees to the rule.              [Mama Tried voice deadpan, close, house-rules moment at boarding]
+ 3.0s  Found some in a life jacket buckle. Three trips later.             [insert, glitter caught in a buckle, deadpan reveal]
+ 6.0s  Found some in the captain's shoe. Four trips later.                [insert, glitter on a shoe, deadpan]
+ 8.8s  Found some in a completely different zip code once. We don't ask how. [beat, deadpan pause, dry cutaway]
+11.8s  The rule's still no glitter. The rule is losing.                   [wide, deck, crew deadpan shrug]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

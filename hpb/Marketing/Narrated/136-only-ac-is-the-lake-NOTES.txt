@@ -1,0 +1,11 @@
+PIECE 136 — Funny/Quotable lane — Captain-line / regional-pride heat joke — "The Only AC Out Here Is The Lake"
+Voice: EL-Eric ("The Captain")   Music: dry comedic bed with a breeze "whoosh" foley on the acceleration line   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  People ask if the boat has air conditioning.                       [Captain VO dry, at the helm, guests fanning themselves at the dock]
+ 2.6s  It's got twelve knots and open water. That's the AC.               [boat picking up speed, hair blowing, visible relief]
+ 5.6s  Works better than any unit I've ever stood under.                  [Captain deadpan, wide shot, open lake, breeze in the flags]
+ 8.4s  Dock's ninety-four degrees. Out here it's a whole different day.   [comparison shot, sweaty dock vs. breezy open water]
+11.2s  That's the whole trick. Just go faster.                            [Captain, small grin, throttle push, boat accelerating]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

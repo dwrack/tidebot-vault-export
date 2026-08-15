@@ -1,0 +1,30 @@
+PIECE 02 — Punchy / generous lane — "Whoever Sent You Gets the Free One"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: funk-brass groove, Galactic feel, upbeat (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody in your group has been here before.                              [group boarding, one guest looking around like they recognize it]
+ 3.3s  That means somebody sent you.                                             [guest pulling out phone, texting]
+ 5.8s  Whoever that was doesn't get a discount code. They get a free cruise.      [captain announcing to the group, guest reacting surprised]
+10.0s  Not ten percent off. Not a coupon. A whole boat, on us.                    [close-up: captain, direct to camera]
+14.0s  Send somebody, and next time it's your turn to ride free.                  [group cheering]
+17.0s  Tell your friend. Actually tell them.                                      [wide departure shot]
+
+ON-SCREEN TEXT TREATMENT:
+"A WHOLE BOAT. NOT A DISCOUNT." burns in bold at the 10.0s line, timed to the VO, then clears. No other on-screen text, the announcement carries the piece on voice and reaction shots.
+
+SHOT LIST:
+- Guest recognizing the dock, first hint they've been here before (opener)
+- Guest texting whoever referred them
+- Captain announcing the referral payoff to the group
+- Close-up: captain, direct to camera, delivering the specific terms
+- Group cheering
+- Wide closing departure shot
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #66: "A referral program that's actually generous. If someone sends you a new booking, give them a free cruise, not a 10% discount. Be unreasonable about it." This is a recommendation in the ideas doc, not a confirmed, current offer.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert's instinct for a concrete, slightly outrageous claim over a vague one — "not ten percent off, a whole boat, on us" reads as a real, specific offer rather than marketing copy, which is exactly the effect a starving-crowd generosity play needs). Then /copywriting-2.0 (3-test filter): a draft line, "we reward loyalty," failed the visualize test (no image, no specific number, nothing to picture); cut and rewritten to name the actual mechanism instead of describing it abstractly.
+
+PRODUCTION FLAG: This piece states a pricing/offer claim on camera. Do not shoot this as a real ad until ops locks the actual referral mechanic (full free cruise vs. a smaller incentive) and confirms it's a live, bookable program rather than an idea from the hospitality doc. Speaking an unconfirmed offer as fact on a public post is a real risk, not a style note, hold this piece until the offer is locked.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter). Production flag: pricing/offer claim, do not shoot until the referral program is a confirmed, live offer.

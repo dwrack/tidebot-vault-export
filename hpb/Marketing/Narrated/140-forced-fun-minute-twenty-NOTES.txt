@@ -1,0 +1,11 @@
+PIECE 140 — Funny/Quotable lane — Corporate lane, arc structure (before/after within one piece), distinct from pieces 11/80/93/117 — "Forced Fun Doesn't Survive Minute Twenty"
+Voice: EL-Daniel ("The Announcer")   Music: opens formal/stiff, loosens into upbeat pop by the "minute ten" mark   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Minute one: name tags. Forced smiles. One guy still checking his email. [Announcer VO formal-corporate, guests boarding stiffly]
+ 3.0s  Minute ten: somebody's manager attempts a cannonball. It does not go well. [comedic, mid-jump, group laughing]
+ 6.2s  Minute twenty: the guy from accounting is teaching everyone a dance move. [reveal, guest teaching a move, group joining in]
+ 9.6s  Nobody's checking email anymore.                                   [close, phone face-down on the seat, unattended]
+12.2s  Forced fun has a shelf life. Ours is about twenty minutes.         [Announcer, wry, wide shot, whole group loose and loud]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

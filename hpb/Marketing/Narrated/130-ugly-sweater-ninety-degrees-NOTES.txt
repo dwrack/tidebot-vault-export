@@ -1,0 +1,11 @@
+PIECE 130 — Funny/Quotable lane — Holiday-specific (Christmas) / regional-pride heat joke — "Ugly Sweater, Ninety Degrees"
+Voice: EL-Lily ("Delta Dream's voice")   Music: upbeat pop bed with light sleigh-bell-adjacent percussion   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  December in Houston. Ninety-two degrees on the dock.                [wide, sunny dock, holiday lights strung on the boat, guests boarding]
+ 2.8s  One guy shows up in the full ugly sweater. Reindeer, lights, the works. [close, guest in full sweater, already sweating]
+ 5.8s  By the second stop on the playlist, he's down to the vest version.  [him peeling off layers, laughing, still festive underneath]
+ 9.0s  By sunset he's just wearing one jingle bell, pinned to his shirt.   [close insert, single bell, deadpan]
+11.8s  Commitment's still there. The sweater didn't survive Houston.       [wide, group laughing, boat lights at dusk]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

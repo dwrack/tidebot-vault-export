@@ -1,0 +1,13 @@
+PIECE 141 — Funny/Quotable lane — Objection-kill lane (nervous first-timers/non-swimmers), sincere-Captain register, CTA piece — "What I Tell The Nervous Ones"
+Voice: EL-Eric ("The Captain")   Music: calm reassuring acoustic bed, small warm swell   Length: 16.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, somebody pulls me aside before we leave the dock.       [Captain VO, warmer register than usual, quiet one-on-one at the dock]
+ 3.0s  "I'm not really a water person. Is that okay?"                    [close, nervous guest, genuine, quiet]
+ 5.6s  I tell them the same thing every time. Coast Guard certified boat. Life jackets for anyone who wants one. [Captain, direct, calm and specific]
+ 9.8s  You don't have to swim. You don't have to pedal. Just sit down and let us handle it. [Captain, warm, reassuring]
+13.4s  By the second stop, they're the one asking when we're coming back.  [wide, that same guest relaxed, drink in hand, smiling]
+
+On-screen text: Hook = "SOMEBODY PULLS ME ASIDE BEFORE WE LEAVE THE DOCK" · Body = "you don't have to swim, you don't have to pedal" · CTA = "Nervous about the water? Ask us anything before you book."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

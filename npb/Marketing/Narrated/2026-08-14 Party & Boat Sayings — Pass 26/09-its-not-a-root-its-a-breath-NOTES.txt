@@ -1,0 +1,28 @@
+PIECE 09 — Did-you-know lane — "It's Not a Root, It's a Breath"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: minimal ambient swamp sound under a light acoustic pad   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every first-timer asks about the knees.                                   [guest pointing at cypress knees poking from the water]
+ 3.0s  Not roots. The tree's actually breathing through those.                   [close-up: cypress knees, water lapping]
+ 6.5s  Botanists still argue about exactly how. Nobody's fully cracked it.        [guide shrugging, guests listening, intrigued]
+10.5s  A tree older than your grandparents, still keeping a secret from actual scientists.  [wide shot: ancient cypress, guide gesturing up the trunk]
+15.0s  That's the kind of fact that gets repeated in the Uber home.               [guests smiling, boat moving on, closing shot]
+
+ON-SCREEN TEXT TREATMENT:
+No caption until the closer. "STILL UNSOLVED" holds briefly on the wide ancient-cypress shot at 10.5s, then clears, letting the last line play caption-free.
+
+SHOT LIST:
+- Guest pointing at cypress knees poking out of the water (opener)
+- Close-up: knees and water lapping against them
+- Guide shrugging, explaining, guests listening and intrigued
+- Wide shot: ancient cypress trunk, guide gesturing up its full height
+- Closing shot: guests smiling, boat moving on
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 6 (Did-you-know / swamp facts): "A cypress 'knee' isn't a root, it's the tree breathing. Botanists still argue about exactly how they work." This is a different fact from the two Lane 6 facts already centered in this vault's own slate: Spanish moss (used in Pass 23, Piece 08) and tannins/"swamp tea" (used in Pass 25, Piece 11). No overlap.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga's proof ladder, applied in reverse — honest uncertainty as the credibility move. "Botanists still argue about exactly how" is more believable than a fake-confident invented explanation, because it openly admits the actual limit of current science, which paradoxically makes the whole claim land as more truthful). Then /copywriting-2.0 (3-test filter): a draft line, "one of nature's coolest mysteries," was generic filler any nature documentary could say; cut and rewritten to the specific admission that this hasn't been fully explained by science, which passes falsifiability (it's a checkable claim about the state of botanical research) where the generic version didn't.
+
+PRODUCTION FLAG: None beyond standard attribution — this is a real botanical fact, sourced and cited above, not invented for this piece.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter).

@@ -1,0 +1,28 @@
+PIECE 08 — Poetic / did-you-know lane — "The Guide Quotes a Dead Guy"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: solo piano, sparse and contemplative, Jon Batiste feel (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every guide's got a line they didn't write.                               [guide steering, contemplative, water ahead]
+ 3.5s  Mark Twain called this river "a wonderful book that a man could not put down."  [text overlay: quote and attribution, black-water reflection]
+ 8.0s  Kate Chopin wrote her bayou stories not far from where you're sitting right now.  [wide shot: cypress bend, guide gesturing]
+12.5s  Neither of them had a motor. Same water, though.                          [close-up: paddle or water surface]
+16.0s  Some places earn a quote before they earn a caption.                      [wide swamp vista, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+Quote plus attribution appears as a clean serif lower-third, styled like a pull-quote, only on the Twain line (3.5s) and cued again briefly under the Chopin line (8.0s). No text anywhere else in the piece — it's built to feel read, not scrolled.
+
+SHOT LIST:
+- Guide steering, contemplative, water ahead (opener)
+- Twain quote overlay on a black-water reflection shot
+- Wide cypress bend, guide gesturing toward the water
+- Close-up: paddle or water surface
+- Wide swamp vista, golden light (closer)
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 3 (Famous quotes, local where possible): Mark Twain's line on the water ("The face of the water, in time, became a wonderful book...") and the note that Kate Chopin wrote her bayou stories a short drive from this region. This lane has never been the centerpiece of an NPB piece in any of the nine prior passes in this vault.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy's factual-specific discipline — a real, named, checkable attribution beats a vague claim; "this swamp inspired writers for generations" is unfalsifiable, while two specific, real authors and real quotes are not). The generic version above was rejected before it became a full draft, in favor of the named-author approach from the start. Then /copywriting-2.0 (3-test filter): every line checked against visualize/falsify/ownable — "neither of them had a motor, same water though" passed as the piece's strongest line (visualizable contrast, falsifiable historical fact, ownable specifically to a company operating literal boat tours on this water).
+
+PRODUCTION FLAG: Verify the Kate Chopin geographic claim ("not far from where you're sitting right now") against NPB's actual eco tour route before shooting as fact. Chopin's Louisiana bayou settings are real and well documented, but the specific proximity claim to this specific tour's water needs confirming against an actual map, not assumed from general regional association.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 26, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm the Chopin proximity claim against the actual tour route before locking as fact.

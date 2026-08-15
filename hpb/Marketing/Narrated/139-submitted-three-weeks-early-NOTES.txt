@@ -1,0 +1,11 @@
+PIECE 139 — Funny/Quotable lane — Playlist-logistics lane, 2nd angle (distinct from pieces 08/28/34/58) — "Submitted Three Weeks Early"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend")   Music: light playful comedic bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  She submitted the playlist three weeks before the trip.            [Sunscreen Friend VO earnest, amused, phone showing a shared playlist doc]
+ 2.8s  Ninety-four songs. Fully sequenced. Sunset songs tagged separately. [insert, scrolling the organized playlist]
+ 5.8s  By minute ten somebody's cousin has the aux and it's gone.         [reveal, someone else grabs the aux cord, playlist chaos]
+ 8.8s  She watches it happen like she predicted this exact outcome.       [close, her resigned, amused expression]
+11.6s  Ninety-four songs. We heard four of them.                          [deadpan closer, wide shot, group dancing to something unplanned]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
