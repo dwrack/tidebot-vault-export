@@ -3,6 +3,28 @@
 
 ---
 
+## Content-Gate Score
+
+**Band: PASS — CONTENT 90/100** (threshold is 80; no active caps). DOMAIN 26/40 est. from the Aug 2026 SEO/AEO/GEO audit — reported for reference, doesn't gate this page's band per the content-gate rubric (bands are CONTENT-only).
+
+Scored 2026-08-15 against `/content-gate`. **1 round** — passed as originally written, no revision needed. Strongest of the three staged drafts.
+
+**Sub-scores:** Experience 18/20 · Expertise 13/15 · Authority 7/10 · Trust 9/10 · GEO-readiness 19/20 · Brand-voice 9/10 · On-page mechanics 15/15.
+
+**Scored well:**
+- Dense with real, checkable specifics: named cross streets (Sabine Street), real pricing ($20/hr rentals, $55 tours), the 300,000-bat figure, Allen's Landing's 1837 founding date, named competitors with fair, non-disparaging detail
+- Trust: actively routes readers to competitors when they're the better fit (Riva Row for Woodlands residents, Armand Bayou for alligator-seekers) — matches the brand's honest-broker, non-combative voice and the Brand Story's "never bash competitors by name" rule
+- GEO-readiness: explicit "Buffalo Bayou Kayak" brand mentions in 2 FAQ answers, FAQPage schema live, self-contained extractable claims throughout
+- On-page mechanics: 3 inline internal links woven into body copy, single H1, clean title/meta lengths
+
+**Scored weaker (flagged, non-blocking):**
+- Authority (7/10): no bylines or press links; competitor-comparison honesty substitutes for external credibility signals
+- FAQ objections are plausible but unverified against real guest reviews — no cached social-listening report exists for BBK in this vault to check against
+
+**Caps:** none active — firsthand-experience signal present, no don't-say words, schema present, no NAP mismatch, no factual overclaim.
+
+---
+
 ## POST FIELDS
 
 ### POST TITLE (H1)

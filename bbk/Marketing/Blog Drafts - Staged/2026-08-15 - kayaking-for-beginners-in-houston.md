@@ -3,6 +3,30 @@
 
 ---
 
+## Content-Gate Score
+
+**Band: PASS — CONTENT 81/100** (threshold is 80; no active caps). DOMAIN 26/40 est. from the Aug 2026 SEO/AEO/GEO audit — reported for reference, doesn't gate this page's band per the content-gate rubric (bands are CONTENT-only).
+
+Scored 2026-08-15 against `/content-gate`. **1 round** — passed on the first score, no revision needed.
+
+**Sub-scores:** Experience 17/20 · Expertise 13/15 · Authority 6/10 · Trust 8/10 · GEO-readiness 16/20 · Brand-voice 9/10 · On-page mechanics 12/15.
+
+**Scored well:**
+- Strong firsthand detail: the barefoot-guest-in-dress-sandals anecdote, "we can't fish your AirPods off the bottom, and we've tried," the exact check-in address and sequence at Allen's Landing
+- FAQPage schema live, 5 self-contained Q&As covering real first-timer worries (what to wear, is it hard, what to bring, flipping, fitness)
+- No Nemesis don't-say words; casual, confident tone matches the Brand Story
+
+**Scored weaker (flagged, non-blocking — no cap triggered):**
+- Authority (6/10): body never explicitly names "Buffalo Bayou Kayak," relies on "we/our" throughout
+- On-page mechanics (12/15): only 1 inline internal link embedded in body copy against the rubric's 2+ target (2 more sit in the suggestions block but aren't woven into the text)
+- FAQ objections are plausible but unverified against real guest reviews — no cached social-listening report exists for BBK in this vault to check against
+
+**Caps:** none active — firsthand-experience signal present, no don't-say words, schema present, no NAP mismatch, no factual overclaim.
+
+Left as-written since it cleared the 80-point threshold cleanly with zero caps. The Authority and internal-linking gaps above are worth folding in if this post gets touched again, but aren't required for publish-readiness under this rubric.
+
+---
+
 ## POST FIELDS
 
 ### POST TITLE (H1)

@@ -3,6 +3,31 @@
 
 ---
 
+## Content-Gate Score
+
+**Band: PASS — CONTENT 86/100** (threshold is 80; no active caps). DOMAIN 26/40 est. from the Aug 2026 SEO/AEO/GEO audit — reported for reference, doesn't gate this page's band per the content-gate rubric (bands are CONTENT-only).
+
+Scored 2026-08-15 against `/content-gate`. **2 rounds:** round 1 scored 77/100 (REVISE — below the 80 threshold, no caps active); round 2, after the fixes below, scored 86/100 (PASS).
+
+**Sub-scores (final, round 2):** Experience 15/20 · Expertise 13/15 · Authority 8/10 · Trust 8/10 · GEO-readiness 19/20 · Brand-voice 9/10 · On-page mechanics 14/15.
+
+**Scored well:**
+- Real operator-only specifics ("two storm fronts back to back cost us nine trip days in a row"), honest hedging on alligators ("rare is not never") and water quality
+- Safety/conditions addressed accurately: flood risk as the real variable, life-vest policy, go/no-go call before check-in
+- FAQPage schema live, 5 self-contained Q&As matching the real query cluster ("is Buffalo Bayou safe," "alligators," "can you swim")
+- No Nemesis don't-say words; tone matches the "backyard bayou," pride-based brand voice
+
+**What round 1 flagged, fixed in round 2:**
+- Authority (6/10 → 8/10): body never named the brand. Added two explicit "Buffalo Bayou Kayak" mentions, one tied to guide expertise in the pre-launch checklist.
+- On-page mechanics (11/15 → 14/15): body had only 1 inline internal link against the rubric's 2+ target. Added a second link to the sibling "where to kayak in Houston" post.
+- Brand-voice (8/10 → 9/10): swapped "conditions and people" for "conditions and guests" to match the Brand Story's say-word list.
+
+**Caps:** none active in either round — firsthand-experience signal present (not 0), no don't-say words, schema present, no NAP mismatch, no factual overclaim.
+
+**Note:** FAQ scored against the query cluster's likely real objections (alligators, water quality, swimming, flooding). No cached social-listening report exists for BBK in this vault, so the FAQ wasn't checked against actual guest reviews/comments — worth a harvest run before the next content pass.
+
+---
+
 ## POST FIELDS
 
 ### POST TITLE (H1)
@@ -166,7 +191,7 @@ _(No published blog archive in this vault yet; these point to tour/rental pages 
 ## CONTENT (Markdown body)
 
 ```markdown
-Every week, somebody asks a version of the same question before they book: is it actually safe to get in the water down there?
+Every week, somebody asks a version of the same question before they book with Buffalo Bayou Kayak: is it actually safe to get in the water down there?
 
 Fair question, and we'd rather answer it straight than dodge it with a marketing line. Short version: yes, most of the time, and here's exactly what "most of the time" means so you're not guessing.
 
@@ -174,7 +199,7 @@ Fair question, and we'd rather answer it straight than dodge it with a marketing
 
 People land on three worries, almost always in this order: alligators, dirty water, and "what if it floods while I'm on it." We'll take them one at a time, no spin.
 
-One thing first, because it matters: we're not a swamp tour. We're not selling you danger. The bayou is flat water and we cap our groups on purpose so a guide can actually watch conditions and people, not just herd a crowd through. If any of the three worries above were routine problems, we wouldn't be running families and first-timers on this water every week.
+One thing first, because it matters: we're not a swamp tour. We're not selling you danger. The bayou is flat water and we cap our groups on purpose so a guide can actually watch conditions and guests, not just herd a crowd through. If any of the three worries above were routine problems, we wouldn't be running families and first-timers on this water every week. Still deciding where on the bayou to start? → [internal link: our local guide to kayaking around Houston → /where-to-kayak-in-houston] breaks down the other options too.
 
 ## Alligators: the one people actually worry about
 
@@ -198,7 +223,7 @@ Last spring, two storm fronts back to back cost us nine trip days in a row. Nobo
 
 ## What we actually check before every tour
 
-Nothing fancy. This is the actual routine:
+Nothing fancy. This is Buffalo Bayou Kayak's actual pre-launch routine, run by guides who've paddled this exact stretch enough times to know what normal looks like:
 
 - **Recent rainfall and current flow,** checked the morning of every tour.
 - **Weather radar,** watched through the afternoon for anything building.
