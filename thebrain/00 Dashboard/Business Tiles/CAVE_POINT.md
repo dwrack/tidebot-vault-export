@@ -7,19 +7,18 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "2★ unreplied 6 days; IG dormant 14 months"
-updated: 2026-08-14
+alert: "2★ unreplied 7 days"
+updated: 2026-08-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FareHarbor feed, no ad spend yesterday.
-- **⭐⭐ Yana Pieces (Aug 8) still unreplied, 6 days.** Guide "said maybe 4 words total," on her phone on the return leg while not paddling, took cave photos guests were never given a way to see. Coaching issue + a fixable photo-handoff gap.
-- GBP 4.9 (304).
-- **GSC roster bug fixed today**: was `https://www.cavepointpp.com/` (zero rows); correct is `sc-domain:cavepointpp.com`.
-- Owns its name: "cave point kayak tour" **#1.07, 33 clicks, 16.7% CTR**; "cave point paddle and pedal" #1.19 at 57% CTR.
-- **Biggest untapped query in the portfolio**: "cave point county park" — **1,033 impressions, position 10.0, 4 clicks, 0.39% CTR.** Stuck at the bottom of page 1.
-- IG @cavepointpp last posted **Jun 19, 2025 (14 months)** — dormant through its own peak season while ranking #1 for its money keyword.
+- Not on the FareHarbor scrape list.
+- **⭐⭐ Yana Pieces (Aug 8), 7 days unreplied.** Guide "maybe said 4 words total and on her phone on the way back while not paddling," took cave photos and never explained how to get them. Also flags 45 min each way for 10 min at the formations. Reply + pull the guide roster for that trip.
+- GBP 4.9 (304). That 2★ is the only unreplied review.
+- **GSC roster entry fixed today** → `sc-domain:cavepointpp.com`, and the numbers are strong: **"cave point kayak tour" at position 1.06 with 33 clicks**, "cave point paddle and pedal" #1.15, "kayaking cave point door county" #1.13, "cave point kayak rental" #1.33. It outranks DCKT on its own name term. This site has been invisible in the brief for as long as the roster bug existed.
+- **IG last posted June 2025.** Dormant — and it's the account with the #1 organic ranking. Missed layup.
+- No Meta campaigns under the "Cave Point" prefix yesterday.
 <!-- live:end -->
 
 ## Quick links

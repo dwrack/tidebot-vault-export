@@ -8,16 +8,16 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-14
+updated: 2026-08-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FareHarbor feed, no ad spend yesterday.
-- GBP 4.9 (18). **0 unreplied** — latest review 2023.
-- **GSC roster bug fixed today**: was pointed at `https://www.doorcountykayak.com/` (zero rows). Correct property is `sc-domain:doorcountykayak.com`.
-- GSC thin: "door county kayaks" #3.0 (3 clicks), "door county kayaking" #8.17, "kayak door county" #6.89. "abandoned shipwreck kayak tour" sits at #22.7 with 11 impressions, 0 clicks — a page-2 opportunity DCKT already owns content for.
-- No IG account in roster.
+- Not on the FareHarbor scrape list.
+- GBP 4.9 (18). Zero unreplied reviews.
+- **GSC roster entry fixed today** → `sc-domain:doorcountykayak.com`. Thin: 6 clicks for the window. Best is "door county kayaks" #3.00; "door county kayak tours" pulls 143 impressions at #6.59 but only 1 click.
+- "abandoned shipwreck kayak tour" showing at #22.83 — 12 impressions, no clicks. Content opportunity if the shipwreck tour is still running.
+- No Meta campaigns under the "Ebike" prefix yesterday. No IG account in the roster.
 <!-- live:end -->
 
 ## Quick links

@@ -7,19 +7,19 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "1★ unreplied 20 days; Meta dark; IG quiet 2 months"
-updated: 2026-08-14
+alert: "1★ unreplied 21 days"
+updated: 2026-08-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- No separate FH feed. Google Ads shared with LSKT (8497383499) — see that tile for spend.
-- **⭐ Matt Goit (Jul 25) unreplied, 20 days.** Claims AKT advertises on Groupon then won't honor it, redirects to its own site. Reply today and decide: honor it or pull the listing.
-- **⭐⭐⭐⭐ Jordan Pedalino (Jul 26) unreplied** — long, fair, and full of free ops intel: guide Michael's coworker no-showed so he hauled gear for 4 people alone; launch path behind the apartment complex is steep and **unlit on the return** (guests used phone flashlights); parking lot expensive and not included. Three concrete fixes in one review.
-- Also unreplied: Kelsha Stubbs 5★ (Aug 3).
-- GBP 4.8 (139).
-- **Meta dark all week** (shared Austin account, $0 spend over 7 days).
-- IG @austinkayaktours last posted **Jun 19, 2026 (~2 months)** — mid-season.
+- Not on the FareHarbor scrape list. Shares Google account 8497383499 with LSKT (spend booked to LSKT).
+- **⭐ Matt Goit (Jul 25), 21 days unreplied.** "Advertises and offers deal through sites like Groupon but will not honor them." Needs a decision as well as a reply: honor the listings or pull them, because a live listing you won't honor keeps generating this exact review.
+- Also unreplied: **4★ Jordan Pedalino (Jul 26)** — long and fair. Guide Michael carried all gear alone after his coworker no-showed and still earned 4 stars. Flags a dark unlit return path and expensive parking. Worth a real reply. Plus 5★ Kelsha Stubbs (Aug 3).
+- GBP 4.8 (139). 3 unreplied total.
+- **No GSC property** — zero organic visibility in this brief.
+- IG: two carousels Aug 14 pushing the bat tour, 10 and 7 likes.
+- **Meta account dark for a second week** (act_638850950128825, shared with LSKT).
 <!-- live:end -->
 
 ## Quick links

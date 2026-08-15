@@ -7,15 +7,15 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "IG dormant since Nov 2025; no GBP/GSC/Ads coverage"
-updated: 2026-08-14
+alert: "dormant — no data sources, IG silent since Nov 2025"
+updated: 2026-08-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- **No coverage at all**: no GBP location, no GSC site, no Google Ads or Meta account, no GA4 property. IG only.
-- **IG @houstonboozecruise last posted Nov 14, 2025 — 9 months dormant.** Final posts were a giveaway (19 likes / 7 comments, 38 reach).
-- Nothing to report until at least one channel is connected. This is the least-instrumented business in the portfolio.
+- **No GBP location, no GSC site, no Google Ads, no GA4, no Meta ad account.** Instagram only.
+- IG last posted **Nov 14, 2025** — 9 months dark. The final posts were a giveaway that actually worked (38 and 34 shares, 7 comments), so the audience was responsive when the account was active.
+- Nothing to report until this is either restarted or formally shelved. It's been carried as a placeholder in the brief for months.
 <!-- live:end -->
 
 ## Quick links

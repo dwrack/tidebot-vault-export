@@ -8,16 +8,17 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-14
+updated: 2026-08-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FareHarbor feed. **No Meta ad account exists** — never set up, not a permission gap.
-- GBP 4.9 (102). 4 unreplied 5★ (Amy Dunn Aug 13, Bowen Ames Aug 9, Nathan Margosian Jul 26, Elena Jakobsson Jul 19).
-- The 3★ banya no-show (Davey Jones, Aug 12) **was replied to and is being made right** — team is reaching out to everyone who booked the missed sessions.
-- IG posting daily and it shows: Aug 11 "four reasons you should probably just book it" → 29 likes, **9 comments unanswered**. Aug 14 sunset reel 19 likes.
-- But the *other* Aug 11 reel posted **0 likes, 0 comments**. Two posts same day, one landed, one vanished — don't double-post.
+- Not on the FareHarbor scrape list. No Meta ad account (never set up — not a permission gap).
+- **Best organic engagement in the portfolio.** Aug 9 carousel "kinda chic to have a no phone activity on your calendar": **57 likes, 14 comments**. Aug 11 "four reasons you should probably just book it": 32 likes, 9 comments. Aug 14 sunset reel: 32 likes, 2 comments. **25 comments across two posts need reply review.**
+- GBP 4.9 (102). 3 unreplied 5★ (Amy Dunn Aug 13, Bowen Ames Aug 9, Nathan Margosian Jul 26).
+- The Aug 12 3★ (missed banya appointment) was replied to same-week and handled well — refund outreach underway.
+- **No GSC property** — organic search invisible.
+- GSC started collecting @ebbandember TikTok impressions Aug 13.
 <!-- live:end -->
 
 ## Quick links

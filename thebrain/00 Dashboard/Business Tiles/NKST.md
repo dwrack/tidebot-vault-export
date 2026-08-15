@@ -2,24 +2,23 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 3
+revenue_today: 235
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH 403; 10 unreplied 5★ (Alex)"
-updated: 2026-08-14
+alert: "data stale — FH scrape failed; IG permission-denied"
+updated: 2026-08-15
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH: no numbers — 403. 7-day avg: 1.7 booked/day, $310/day.
-- **10 unreplied 5★ (Aug 10–13). Nine of ten name Alex (Alex Wallace) personally** — "storyteller extraordinaire," "go with Alex or just go home." Recognize him internally, then clear the batch.
-- **GSC roster bug fixed today**: was pointed at `https://www.neworleanskayakswamptours.com/` (returns zero rows). Correct property is `https://neworleanskayakswamptours.com/`. Organic has been invisible in this brief until now.
-- GSC reality: ~1,270 impressions → 11 clicks, all informational alligator content. "alligators vs crocodiles" 314 impr at 0.32% CTR, "are crocodiles more dangerous than alligators" 240 at 0.42%. Positions 5–9. Title/meta rewrite is the cheapest organic win in the portfolio.
-- GA4 (401824264) yesterday: 494 sessions, 490 users. Direct 380, Instagram 62, Google 25, Facebook 12, Reddit 7.
-- Watched page /airboat-vs-kayak-swamp-tour-new-orleans/: **94 impressions, 1 click, pos 9.28** vs baseline 0/0. Indexed and moving. GA4 views still <5.
-- IG @kayaknola could not be pulled — Meta API error #10 (permission denied). It's driving 62 sessions/day and we can't see it.
+- FH **Aug 13 fallback**: 3 booked, $235. 6-day avg 2.2/day, $338/day.
+- **10 unreplied 5★ (Aug 10–13)** — Alex named in 8 of them, and the copy is unusually good ("Go with Alex as your guide on this swamp tour or just go home"). GBP 4.9 (1,401). Best untapped testimonial pool in the portfolio.
+- **GSC roster entry fixed today** → `https://neworleanskayakswamptours.com/`. Informational content carries the site: "alligators vs crocodiles" 290 impr #9.36, "are alligators or crocodiles more dangerous" 286 impr #5.62, "are crocodiles more dangerous than alligators" 236 impr #6.57 — all sub-1% CTR. **"manchac swamp tour" is stuck at #29.25** and that's the money term.
+- GA4 (401824264) Aug 14: 435 sessions, 51 conv. Direct 344/19, **Instagram 34 sessions and 0 conversions**, Google 24/17, Facebook 20/5.
+- Watched page `/airboat-vs-kayak-swamp-tour-new-orleans/`: **95 impr, 1 click, pos ~9.5** (Aug 7–13). Flat WoW. GA4 views still <6. Title/meta rewrite + internal link from the Manchac tour page still not done.
+- **IG pull returned FB API code 10 (permission denied)** — real gap, needs a token check.
 <!-- live:end -->
 
 ## Quick links
