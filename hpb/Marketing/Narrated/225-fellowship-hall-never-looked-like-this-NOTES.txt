@@ -1,0 +1,14 @@
+PIECE 225 — Funny/Quotable lane (sincere register) — New occasion type: faith/church group charter, real-sourced — "Fellowship Hall Never Looked Like This"
+Voice: EL-Sarah ("Sarah," recurring toast/sincere voice)   Music: quiet warm acoustic bed, no comedic sting   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Some of the best conversations a group has never happen in a fellowship hall.                     [Sarah VO, warm sincere, wide, church/small-group boarding, casual dress, warm light]
+ 3.8s  They happen with phones down, the sun dropping, and nowhere else to be.                            [insert, group settled in, calm energy, water behind them]
+ 7.6s  No bar tab. No stage. Just your people and two hours nobody has to plan.                           [insert, coolers with water/snacks visible, easy conversation, laughter]
+11.6s  Bring your youth group. Bring your Sunday school class. Bring whoever needs an evening like this.  [closing line, warm wide shot, golden hour, group relaxed]
+
+On-screen text: Hook = "THE BEST CONVERSATIONS NEVER HAPPEN IN A FELLOWSHIP HALL" | Body = "just your people and two hours nobody has to plan" | CTA: "Bring your group. We'll handle the boat." (one of 4 CTA pieces this volume).
+
+NOTE: premise pulled almost verbatim from Marketing/Faith Group Campaign/Faith Group Landing Page.md, an already-drafted-for-publish page written as a deliberate sober reframe (no "party," "booze," or "BYOB" language). First piece in the series in this exact sincere-only register, zero comedic beats. Keep casting/captioning entirely separate from the party lane — do not cross-post with bachelorette/corporate hashtags. Consent required for featured group.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

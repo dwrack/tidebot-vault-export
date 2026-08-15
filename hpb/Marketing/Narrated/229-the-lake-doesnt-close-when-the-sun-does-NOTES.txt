@@ -1,0 +1,14 @@
+PIECE 229 — Funny/Quotable lane — Captain / New device: after-dark/evening trips, real-sourced — "The Lake Doesn't Close When The Sun Does"
+Voice: EL-Eric ("The Captain," dry, unbothered, deadpan authority)   Music: mellow groove bed, night-out energy, not sleepy   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody assumes the boat stops when the sun does. It doesn't.                              [Captain VO, dry unbothered, wide, boat departing at dusk, string lights visible]
+ 3.6s  Some of our best trips start after the heat finally lets go of the day.                       [insert, group boarding at dusk, city lights starting to show]
+ 7.2s  Same boat. Same crew. A different version of Clear Lake nobody talks about enough.            [insert, water at night, lights reflecting]
+10.8s  August in Houston, the smart move is the one that leaves after dark.                          [closing line, wide, night cruise, lights, easy energy]
+
+On-screen text: Hook = "THE LAKE DOESN'T CLOSE WHEN THE SUN DOES" | Body = "the smart move is the one that leaves after dark" | CTA: "Ask about evening slots — this month's the move." (one of 4 CTA pieces this volume).
+
+NOTE: real-sourced from Marketing/Booking Push — Aug 2026 Plan.md's own August recommendation to sell night cruises/charters through Labor Day, since daytime heat kills August walk-up demand. Deliberately avoids naming a specific new product ("night cruise" isn't a stated package name in Brand Story) — frames this as existing evening/sunset slots. NEEDS CONFIRMATION from Connor that evening/after-dark slots are operationally cleared (running lights, night-ops sign-off) before this airs; this document assumes it, doesn't confirm it.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

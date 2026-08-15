@@ -1,0 +1,14 @@
+PIECE 234 — Funny/Quotable lane — Announcer / New device: guest-side credit dispute, meta/closer — "Ask Four People Whose Idea This Was"
+Voice: EL-Daniel ("The Announcer," formal register, played straight)   Music: light comedic bed, mock-formal then warm   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask four people on this boat whose idea this was. Get four different answers.               [Announcer VO, formal played straight, wide, group debating good-naturedly, laughing]
+ 3.6s  All four are currently taking credit.                                                       [insert, guests pointing at each other, laughing]
+ 7.0s  It was actually the group chat, 11pm, a Tuesday. Nobody remembers who sent the link.         [insert, phone screen glimpse, laughter]
+10.6s  Everybody agrees on one thing: it was the right call.                                       [closing line, wide, golden light, group cheering]
+
+On-screen text: Hook = "ASK FOUR PEOPLE WHOSE IDEA THIS WAS" | Body = "everybody agrees on one thing: it was the right call" | CTA: none.
+
+NOTE: distinct from piece 170 ("The Saying Nobody Meant To Start," a one-trip inside-joke, Vol. 11) and piece 158 ("The Motto Nobody Wrote Down," a company-level meta device, Vol. 10) — this is specifically about credit for booking the trip, a guest-side device. Opener originally read "For the record" — changed during the copywriting-2.0 pass to avoid echoing "Public record"/"Public notice" used elsewhere in this same volume.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

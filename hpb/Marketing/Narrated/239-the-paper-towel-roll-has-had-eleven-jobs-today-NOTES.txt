@@ -1,0 +1,14 @@
+PIECE 239 — Funny/Quotable lane — Announcer (2nd appearance) / New device: deadpan single-object inventory — "The Paper Towel Roll Has Had Eleven Jobs Today"
+Voice: EL-Daniel ("The Announcer," formal register, played straight)   Music: dry comedic bed, list-style pacing   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Item: one roll of paper towels. Recorded uses today, so far: eleven.                       [Announcer VO, formal played straight, medium, paper towel roll visible on a table/counter, guests nearby]
+ 3.6s  Spill cleanup. Sunscreen blot. Emergency napkin. Impromptu pom-pom for a birthday chant.    [insert, quick cuts of the towel roll being used different ways]
+ 7.4s  Also: a phone stand. Also, briefly, a hat.                                                 [insert, comedic quick cut, laughter]
+11.0s  By the time the boat docks, there's maybe four sheets left, and nobody remembers using them.  [closing line, wide, group laughing, towel roll nearly empty]
+
+On-screen text: Hook = "THE PAPER TOWEL ROLL HAS HAD ELEVEN JOBS TODAY" | Body = "nobody remembers using them" | CTA: none.
+
+NOTE: new deadpan-list device, same comedic family as pieces 04/14/73/87/100/126/137/155, but the first built around a single mundane object's day rather than a category list. Title originally claimed "forty jobs" while the script only ever stated "eleven" — an internal inconsistency, same category piece 215 (Vol. 14) was built to avoid — retitled to match the script's actual, lower number in the copywriting-2.0 pass.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 226 — Funny/Quotable lane — Groomsman / New occasion type: back-to-school parents' night out, seasonal — "First Day Of School Ends At The Dock, Not At Pickup"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," chill, dry, warm underneath)   Music: light upbeat acoustic, relief/release energy   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  7am: backpacks, lunches, a hundred photos on the porch. 6pm: none of that is our problem anymore.  [Groomsman VO, chill dry, wide, group of parents boarding at sunset, relaxed]
+ 3.8s  First day of school isn't really the kids' holiday. It's the parents'.                             [insert, group laughing, coolers coming aboard]
+ 7.4s  Nobody's checking homework out here.                                                               [insert, sunset water, drinks in hand, easy laughter]
+10.8s  First day of school. First night back on the water.                                                [closing line, wide, golden hour, group cruising]
+
+On-screen text: Hook = "7AM: BACKPACKS. 6PM: NOT OUR PROBLEM." | Body = "first day of school. first night back on the water." | CTA: none.
+
+NOTE: seasonal device grounded in Marketing/Booking Push — Aug 2026 Plan.md's real (Aug 13, 2026) note that Texas schools go back "in ~2 weeks" — an approximate strategy-memo window, not a stated calendar date. Re-verify against the actual ISD calendar before scheduling. First draft's opening line ("the backpacks went back on the shelf" that same evening) didn't visualize cleanly and was rewritten to this 7am/6pm contrast in the copywriting-2.0 pass.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

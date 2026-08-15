@@ -1,0 +1,14 @@
+PIECE 238 — Funny/Quotable lane — Mama Tried's voice / New device: Houston-specific linguistic bit — "Kemah. Nobody Gets It Right The First Time."
+Voice: EL-Brian (premium) ("Mama Tried's voice," flat, deadpan list-comedian)   Music: dry comedic bed, deadpan delivery underneath   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Kemah. It's KEE-mah, not Kuh-MAH, no matter how confident you sound saying it wrong.  [Mama Tried's voice VO, flat deadpan, close, deckhand correcting a guest with a straight face]
+ 3.8s  We've heard three wrong versions today. All delivered with total confidence.          [insert, guests attempting it, laughing at themselves]
+ 7.6s  By hour two, half the boat's saying it right. The other half's committed to being wrong.  [insert, group laughing, saying it different ways]
+11.2s  Either way, everybody's headed to the same dock.                                     [closing line, wide, golden light, Kemah shoreline visible]
+
+On-screen text: Hook = "NOBODY GETS KEMAH RIGHT THE FIRST TIME" | Body = "everybody's headed to the same dock" | CTA: none.
+
+NOTE: "Kemah" is a real place name, correctly pronounced "KEE-mah" — line kept factually accurate on the actual pronunciation while joking about guests getting it wrong. Distinct from piece 221 ("Y'all," a general dialect-adoption bit, Vol. 14). First draft had the line self-contradict mid-sentence ("Not KEE-mah like it looks. Well — actually, yes, KEE-mah") which read as confusing rather than funny with captions on — rewritten to state the correct pronunciation once, cleanly, in the copywriting-2.0 pass.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

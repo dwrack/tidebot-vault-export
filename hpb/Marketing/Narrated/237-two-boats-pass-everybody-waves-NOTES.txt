@@ -1,0 +1,14 @@
+PIECE 237 — Funny/Quotable lane — Groomsman (2nd appearance) / New device: wordless guest-side visual moment, opportunistic — "Two Boats Pass, Everybody Waves Like They Know Each Other"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," chill, dry, warm underneath)   Music: light, observational bed, warm not comedic   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Delta Dream and Mama Tried don't cross paths often. When they do, everybody waves.  [Groomsman VO, chill dry warm, wide, two boats passing on open water, guests on both waving]
+ 3.8s  Nobody on either boat has met a single person on the other one.                     [insert, guests waving, laughing]
+ 7.4s  Doesn't matter. For about four seconds, it's the same party.                        [insert, both boats visible, wake crossing]
+11.0s  Then they're gone, and everybody just goes back to their own good time.             [closing line, wide, boats separating, golden light]
+
+On-screen text: Hook = "EVERYBODY WAVES LIKE THEY KNOW EACH OTHER" | Body = "for about four seconds, it's the same party" | CTA: none.
+
+NOTE: distinct from piece 150 ("Radio Check With The Other Boat," a real VHF protocol between crews, Vol. 10) — this is a guest-side, wordless visual moment, not a crew procedure. Grounded in Brand Story's real note that the two boats "can run simultaneously for bigger events," but that's not guaranteed daily — requires both boats on the water at the same time, opportunistic only, cannot be scheduled reliably.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

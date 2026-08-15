@@ -1,0 +1,14 @@
+PIECE 231 — Funny/Quotable lane — Deckhand / New device: boarding-logistics comedy — "Twelve Life Jackets, No Two The Same Size"
+Voice: voice-en-US-GuyNeural ("The Deckhand," fast, hype, half out of breath)   Music: quick upbeat bed, chaotic-but-fun boarding energy   Length: 13.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Twelve life jackets. Twenty-six people. Somehow it works out every single time.  [Deckhand VO, fast hype half out of breath, medium, deckhand handing out jackets fast, guests laughing]
+ 3.4s  Somebody always ends up in the one built for someone twice their size.           [insert, guest in oversized jacket, laughing]
+ 6.8s  Nobody cares. It floats the same either way.                                    [insert, group adjusting jackets, laughing]
+10.2s  Ninety seconds, and everybody's exactly where they need to be.                  [closing line, wide, boat pulling away, group settled]
+
+On-screen text: Hook = "TWELVE LIFE JACKETS, NO TWO THE SAME SIZE" | Body = "it floats the same either way" | CTA: none.
+
+NOTE: distinct from piece 35 ("Life Jacket, Not a Vibe Killer," the myth-bust about killing the mood) and piece 161 ("Ring Check," a different boarding-line bit) — this is specifically the sizing scramble itself. "Twenty-six" reflects the real stated boat capacity from Brand Story; life-jacket count ("twelve") is illustrative, not a confirmed inventory figure.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

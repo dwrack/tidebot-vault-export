@@ -1,0 +1,14 @@
+PIECE 233 — Funny/Quotable lane — Roger (2nd appearance) / New device: uninvited prop/mishap comedy, opportunistic catch — "Breaking: There's A Beer Pong Table Aboard"
+Voice: voice-en-US-RogerNeural ("Roger," mock-official delivery)   Music: comedic bed, mock-serious opening, playful by the end   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Breaking: there is currently a full beer pong table on a moving boat.  [Roger VO, mock-official deadpan, wide, table set up on deck, boat underway, guests playing]
+ 3.8s  Nobody asked permission. Nobody needed to.                            [insert, ball bouncing, guests reacting]
+ 7.2s  It survived one hard turn and two direct hits from the wake.         [insert, table wobbling, guests catching cups, laughing]
+10.6s  Some things just belong on this boat. We don't ask questions anymore.  [closing line, wide, group cheering, golden light]
+
+On-screen text: Hook = "THERE IS A BEER PONG TABLE ABOARD" | Body = "some things just belong on this boat" | CTA: none.
+
+NOTE: new prop-mishap device, distinct from piece 87 (float inflation station) and piece 134 (banner took longer than the ride). Opener originally read "Public notice," reused verbatim from piece 218 (Vol. 14) — changed to "Breaking" in the copywriting-2.0 pass. NEEDS a genuine group that brings an actual table/game setup — cannot be forced, catch it if it happens organically, same discipline as pieces 216/218.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

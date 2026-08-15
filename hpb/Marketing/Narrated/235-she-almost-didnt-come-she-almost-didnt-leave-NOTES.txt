@@ -1,0 +1,14 @@
+PIECE 235 — Funny/Quotable lane (sincere-adjacent) — Sunscreen Friend / New device: one guest's seasick-to-best-day arc, objection-kill adjacent — "She Almost Didn't Come. She Almost Didn't Leave."
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," earnest, mildly amused — free tier, not EL-Brian)   Music: gentle arc bed, builds from uncertain to warm   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  She spent the first twenty minutes convinced this was a mistake.                                [Sunscreen Friend VO, earnest amused, close, guest looking uneasy early, friends checking on her]
+ 3.8s  Somewhere around the second hour, she stopped checking her phone for the time.                  [insert, guest relaxing, smiling now]
+ 7.6s  By the end, she was the one asking if we could stay out a little longer.                        [insert, guest laughing with group, golden light]
+11.4s  You don't have to feel ready for this. Most people don't, right up until they are.               [closing line, warm, wide, group cruising]
+
+On-screen text: Hook = "SHE ALMOST DIDN'T COME. SHE ALMOST DIDN'T LEAVE." | Body = "most people don't feel ready, right up until they are" | CTA: "Nervous about the water? Come find out anyway." (one of 4 CTA pieces this volume).
+
+NOTE: distinct from piece 72 ("sea legs vs. seasickness," a medical-distinction PSA, Vol. 5) and piece 141 ("what I tell the nervous ones," the captain's own reassurance, Vol. 9) — this is one guest's own narrative arc, not a policy explanation. "Twenty minutes" and "second hour" are illustrative story beats, not measured claims. NEEDS a genuine first-timer arc caught across one real trip with continuity — cannot be staged in a single shot.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

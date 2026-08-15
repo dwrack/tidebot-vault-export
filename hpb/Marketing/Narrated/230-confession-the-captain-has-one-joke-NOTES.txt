@@ -1,0 +1,14 @@
+PIECE 230 — Funny/Quotable lane — Roger / New device: recurring captain bit, flagged invented — "Confession: The Captain Has One Joke"
+Voice: voice-en-US-RogerNeural ("Roger," mock-official delivery)   Music: light comedic bed, mock-serious opening, warm by the end   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Confession: the captain's had exactly one joke since this boat's first season.  [Roger VO, mock-official deadpan, medium, captain at the helm mid-delivery, guests half-groaning half-laughing]
+ 3.8s  Nobody's ever told him to retire it.                                            [insert, guests groaning, laughing anyway]
+ 7.2s  Somehow it still lands. Every time.                                             [insert, wide, group cracking up]
+10.6s  Some things you don't fix.                                                      [closing line, wide, golden light, captain grinning]
+
+On-screen text: Hook = "HE'S TOLD THE SAME JOKE SINCE BOAT ONE" | Body = "some things you don't fix" | CTA: none.
+
+NOTE: invented illustrative device, not a confirmed real captain habit — same discipline as piece 218's bell and piece 215's captain-sobriety claim (both Vol. 14). Confirm with Connor before treating as documented, or keep casting generic. Opener originally read "Public record," reused verbatim from pieces 214/223 (Vol. 14) — changed to "Confession" in the copywriting-2.0 pass to avoid template repetition across four now-similar short-opener pieces.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
