@@ -1,0 +1,28 @@
+PIECE 11 — Did-you-know / funny-eerie lane — "It's Not Not Blinking"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: low, atmospheric, a light comedic release at the end (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  An alligator holds still at the surface, staring dead at the group, and doesn't blink. Not once.   [wide shot: kayaks holding position, gator staring, motionless]
+ 4.0s  Then the guide explains: it's not not blinking.   [close-up: guests exchanging uneasy glances]
+ 6.5s  Gators have a clear inner eyelid. It slides across while the outer one stays open, so they can watch you without ever looking away.   [close-up: guide explaining, gesturing near their own eye for reference]
+12.0s  It's still watching. It just never looked away to do it.   [medium shot: gator's eye in close detail, unmoving]
+14.5s  Everybody paddles a little faster after that. Nobody says why.   [closing wide shot: kayaks moving on, guide grinning, gator settling back into stillness]
+
+ON-SCREEN TEXT TREATMENT:
+"THE INNER EYELID" appears as a small lower-third label at 6.5s, kept simple rather than the technical term (nictitating membrane), matching the series' plain-language convention for on-screen fact labels.
+
+SHOT LIST:
+- Wide shot, gator staring, motionless (opener)
+- Close-up: guests exchanging uneasy glances
+- Close-up: guide explaining, gesturing near their own eye
+- Medium shot: gator's eye in close detail
+- Closing wide shot: kayaks moving on, guide grinning, gator settling back
+
+SOURCE GROUNDING: Original eco-tour concept. This pass's dedup research agent confirmed no prior NPB slate piece across 15 passes has centered the alligator's nictitating membrane (clear inner eyelid); prior gator content covered general "gators can do that" surprises (Pass 14 Piece 07) and the water-dance bellow (Pass 40 Piece 08), both distinct facts from this one.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-hook title line (kept verbatim, flagged as the strongest hook in the piece). Then /copywriting-2.0 (3-test filter): caught "It's a little unsettling, until the guide explains" as rating the feeling instead of showing it, when the prior line already visualized the stare, rewrote to "Then the guide explains: it's not not blinking." Combined two separate biology sentences into one flowing spoken line, cutting a redundant clause ("protect their eyes at the same time" duplicated "watch you"). Caught "purely for vibes" in the closer as internet-caption-speak rather than something a person would actually say, rewrote to "Nobody says why."
+
+PRODUCTION FLAG: documented alligator biology (the nictitating membrane is real). The "everybody paddles a little faster" beat is a light, affectionate exaggeration, not a claim about actual danger; no gator baiting, chasing, or cornering is implied or shown, consistent with brand safety standards. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two catches logged above).

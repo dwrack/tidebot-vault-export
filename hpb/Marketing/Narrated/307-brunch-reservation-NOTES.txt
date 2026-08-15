@@ -1,0 +1,18 @@
+PIECE 307 — Funny/Quotable lane (comparison/contrarian, Houston-specific) — The Announcer / "We're Basically The Brunch Reservation You Couldn't Get"
+Voice: The Announcer (EL-Daniel.mp3)   Music: light comedic bed, dry brass stab   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Houston brunch on a Saturday: forty-five minute wait, table crammed by the kitchen. [Announcer VO formal deadpan, wide, boat at dock, group boarding]
+ 3.8s  This boat: no wait, no host stand, and the whole table is twenty-six people.        [insert, guests spreading out comfortably on deck]
+ 7.6s  Mimosas optional. You bring those yourself, along with everything else.             [insert, cooler being loaded, drinks poured]
+11.4s  Best reservation in town, and you don't have to check an app for it.                [closing line, wide, golden hour, full boat, guests toasting]
+
+On-screen text: Hook = HOUSTON BRUNCH: 45-MINUTE WAIT. THIS: NO WAIT. / Body = the whole table is twenty-six people / CTA: none
+
+Shot list:
+- [B-ROLL] Guests boarding, spreading out comfortably across the deck
+- [INSERT] Cooler being loaded, drinks poured
+
+Note: "forty-five minute wait" is an illustrative, commonly-true Houston brunch reference, not a cited statistic from any specific restaurant — keep it general in caption/comments if this draws pushback. No dollar figure stated anywhere in the piece. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

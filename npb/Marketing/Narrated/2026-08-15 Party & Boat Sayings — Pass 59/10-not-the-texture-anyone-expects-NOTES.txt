@@ -1,0 +1,26 @@
+PIECE 10 — Sensory / did-you-know lane — "Not the Texture Anyone Expects"
+Product: Naturalist eco swamp tour
+Voice: EL-Lily (ElevenLabs)   Music: airy, textural, understated (mood only, no artist cited)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always reaches up for the moss hanging off the cypress.   [wide shot: kayaks passing under Spanish moss draped branches]
+ 3.0s  They brace for something soft. It's not. It's wiry, almost scratchy, more like steel wool than a curtain.   [close-up: guest's hand touching the moss, mild surprise on their face]
+ 7.5s  It's not Spanish, and it's not moss either. It's an air plant, cousin to a pineapple.   [medium shot: moss swaying, close texture detail]
+11.5s  Nobody guesses that part. Everybody remembers it after they're told.   [closing wide shot: heavy moss-draped canopy, kayaks passing beneath]
+
+ON-SCREEN TEXT TREATMENT:
+"SPANISH MOSS" appears as a small lower-third label at 7.5s.
+
+SHOT LIST:
+- Wide shot, kayaks passing under moss-draped branches (opener)
+- Close-up: guest's hand touching the moss, surprise
+- Medium shot: moss texture detail
+- Closing wide shot: heavy moss-draped canopy, kayaks passing beneath
+
+SOURCE GROUNDING: Original eco-tour concept. The Spanish moss fact (not Spanish, not moss, an air plant related to the pineapple/Bromeliad family) is cited in Admire NOLA's own `Script & Caption Bank.md` Lane 6. This pass's dedup research agent confirmed no prior NPB slate piece across 15 passes has centered Spanish moss specifically.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's specific-sensory-fact-over-adjective approach ("steel wool" as a concrete comparison rather than a vague "surprisingly textured"). Then /copywriting-2.0 (3-test filter): cut the original fifth line ("The whole plant lives on air and rain, and still outweighs half the trees it's hanging from") entirely, flagged as an unverifiable-sounding claim that would fail the falsify test on a skeptical read, and as a fifth line the piece didn't need for pacing. "They brace for something soft. It's not. It's wiry, almost scratchy, more like steel wool than a curtain" flagged as the strongest, most ownable line in the piece.
+
+PRODUCTION FLAG: original eco-tour concept, first piece in this series centered on Spanish moss. Texture and botanical facts (air plant, Bromeliad family, not a parasite) are documented; the specific guest reaction shown is illustrative. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one cut logged above).

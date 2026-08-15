@@ -1,0 +1,28 @@
+PIECE 03 — Funny / heartfelt lane — "It's Your Boat Today"
+Product: Private BYOB party fleet
+Voice: EL-Jessica (ElevenLabs)   Music: bright, playful, building into the birthday guest's song choice (mood only, no artist cited)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every birthday cruise has one move before the music even starts.   [wide shot: group boarding, one guest wearing a birthday sash or crown, low-key]
+ 3.0s  A deckhand hands the birthday guest the aux cord, not the organizer, not a friend.   [close-up: deckhand handing the cord directly to the birthday guest]
+ 6.5s  "First song's yours. It's your boat today."   [close-up: deckhand saying the line, birthday guest reacting]
+ 9.5s  Whatever they pick, it plays. No veto.   [medium shot: birthday guest scrolling, choosing, hitting play]
+12.0s  For about three minutes, it actually is their boat.   [closing wide shot: whole group dancing to the birthday guest's song, guest of honor front and center]
+
+ON-SCREEN TEXT TREATMENT:
+"IT'S YOUR BOAT TODAY" pops as it's spoken, casual handwritten-style font, clears fast.
+
+SHOT LIST:
+- Wide shot, group boarding, birthday guest visible (opener)
+- Close-up: deckhand handing over the aux cord
+- Close-up: deckhand's line, birthday guest reacting
+- Medium shot: birthday guest choosing and hitting play
+- Closing wide shot: full group dancing to the birthday guest's pick
+
+SOURCE GROUNDING: Sourced from idea #53 ("Birthday person picks the first song. Publicly hand the aux cord (or playlist control) to the birthday person for the first song. It's their boat today."). Confirmed untapped across all 15 prior passes. This pass's dedup research flagged bachelorette logistics/gift/entrance variants (6+ prior pieces) and toast-as-spine (14+ prior pieces) as saturated and formally held at zero; this piece is deliberately birthday-flavored only, no bachelorette element, and centers a handoff moment rather than a toast, so it does not touch either saturated device.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain warmth, no oversell on the handoff. Then /copywriting-2.0 (3-test filter): caught the original opener "Every birthday cruise has one moment before the party officially starts" as failing the visualize test ("officially starts" reads brochure-adjacent), rewrote to "Every birthday cruise has one move before the music even starts." Caught an over-explained middle line ("No veto, no 'maybe something else'") as redundant, tightened to "No veto."
+
+PRODUCTION FLAG: illustrative handoff moment; not confirmed as a standing, trained crew practice on every birthday booking. No guest identified by name on screen or in on-screen text.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two catches logged above).

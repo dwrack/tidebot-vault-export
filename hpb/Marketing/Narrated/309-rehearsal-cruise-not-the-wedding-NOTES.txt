@@ -1,0 +1,18 @@
+PIECE 309 — New occasion type (wedding rehearsal dinner/cruise) — The Planner / "The Rehearsal Cruise, Not The Wedding"
+Voice: The Planner (EL-Lily.mp3)   Music: warm, string-and-acoustic bed, light and celebratory   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  This isn't the wedding. It isn't even the bachelorette. It's the night before.   [Planner VO bright polished, wide, wedding party boarding, dressed nice-casual]
+ 3.8s  Both families, actually relaxed, the night before anybody has to give a speech.  [insert, two families mingling, laughing together]
+ 7.6s  No seating chart. No timeline. Just the two families and a sunset.               [insert, sunset light, groups mingling freely]
+11.4s  Best part of most weddings happens the night before the wedding.                 [closing line, wide, golden hour, wedding party toasting]
+
+On-screen text: Hook = THIS ISN'T THE WEDDING. IT'S THE NIGHT BEFORE. / Body = both families, actually relaxed, before anybody gives a speech / CTA: soft — "book the rehearsal night" tag, optional
+
+Shot list:
+- [B-ROLL] Two families mingling casually, dressed nice-casual, not formal
+- [INSERT] Sunset light over the group, relaxed mingling
+
+Note: new occasion type for this series — a wedding rehearsal-dinner charter, distinct from the bachelorette, bachelor, vow-renewal, and "after the yes" occasions already covered in pieces 03/19/41/43/56/60/89/116/145/161/199/209/268. Confirm with Connor this is an occasion type actually booked or marketed today before treating it as more than a content angle. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

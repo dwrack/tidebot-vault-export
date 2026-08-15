@@ -1,0 +1,28 @@
+PIECE 07 — Heartfelt / running-pattern lane — "The Second Time, Nobody Has to Be Told"
+Product: Naturalist eco swamp tour
+Voice: EL-George (ElevenLabs)   Music: quiet, minimal, no percussion (mood only, no artist cited)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The first time the guide asks for quiet, it's a request. Voices down, paddles up.   [wide shot: kayaks gliding, guide holding up a hand, group quieting]
+ 3.5s  Twenty minutes later, an egret lands close, and the guide doesn't say a word.   [medium shot: egret landing near the kayaks]
+ 7.0s  The group's already silent before the guide even turns around.   [close-up: guests instinctively stilling their paddles, no cue given]
+10.0s  Nobody decided to get quiet. It just happened.   [medium shot: guide glancing back, mildly surprised, pleased]
+12.5s  By the second time, the water taught them faster than the guide did.   [closing wide shot: kayaks drifting silently past the egret]
+
+ON-SCREEN TEXT TREATMENT:
+None, matching the series' established convention for quiet-moment pieces (caption-free to let the moment breathe).
+
+SHOT LIST:
+- Wide shot, guide's first hush request, group quieting (opener)
+- Medium shot: egret landing close
+- Close-up: group stilling their paddles unprompted
+- Medium shot: guide noticing, mildly surprised
+- Closing wide shot: kayaks drifting silently past the egret
+
+SOURCE GROUNDING: Original eco-tour concept, not idea-bank sourced (consistent with prior passes' framing of eco-tour material as original since the 100-idea bank is NPB-general/party-fleet focused). This pass's dedup research agent confirmed this piece is structurally distinct from Pass 36 Piece 08 ("Let's Let Him Have His Morning Back"), which is a single guide-initiated hush request for a heron. This piece is about the group's own unprompted behavior the SECOND time quiet is called for, later in the same tour, without the guide asking again. That distinction is the whole spine of the piece and is flagged explicitly here so it is not mistaken for a close paraphrase of the retired-adjacent device.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's restraint (no oversell on a quiet moment). Then /copywriting-2.0 (3-test filter): caught "It just did" (an earlier draft's wording) as grammatically unclear on audio-only playback, no clear referent, rewrote to "It just happened." Flagged the closing line "By the second time, the water taught them faster than the guide did" as the strongest, most ownable line in the piece.
+
+PRODUCTION FLAG: illustrative behavioral pattern; not independently confirmed as documented on every tour or every guide's route. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

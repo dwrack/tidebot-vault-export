@@ -1,0 +1,18 @@
+PIECE 315 — New vantage point (people waiting to pick up returning guests) — The Sunscreen Friend / "The Question Waiting On The Dock Before The Lines Get Tied"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier — not EL-Brian)   Music: warm, unhurried acoustic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody's always waiting at the dock before we've even tied off. "How was it?" [Sunscreen Friend VO earnest amused, wide, boat approaching dock, someone waiting onshore]
+ 3.8s  They ask before the ramp's even down. Can't help it.                            [insert, person on dock leaning forward, waving]
+ 7.6s  Nobody answers with actual words. Just a group yell, and a wave.                [insert, guests on boat yelling back, waving]
+11.4s  That's the whole review, right there, before anyone's even off the boat.        [closing line, wide, golden hour, boat docking, person on shore laughing at the response]
+
+On-screen text: Hook = "HOW WAS IT?" — ASKED BEFORE THE LINES ARE EVEN TIED / Body = nobody answers with words. just a group yell. / CTA: none
+
+Shot list:
+- [B-ROLL] Boat approaching dock, someone waiting onshore
+- [INSERT] Guests yelling and waving back before disembarking
+
+Note: new vantage point for the series — told from the dock-side waiting perspective rather than from on the boat. Purely observational, no claim beyond the moment itself. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

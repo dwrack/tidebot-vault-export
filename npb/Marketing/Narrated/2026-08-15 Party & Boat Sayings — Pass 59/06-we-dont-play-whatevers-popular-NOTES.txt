@@ -1,0 +1,28 @@
+PIECE 06 — Funny / practical lane — "We Don't Play Whatever's Popular"
+Product: Private BYOB party fleet
+Voice: voice-en-GB-RyanNeural (free tier)   Music: brass and bounce, dock-side energy building into boarding (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Before anyone boards, the marina already has a soundtrack.   [wide shot: guests walking up the dock toward the boats, music audible]
+ 3.0s  It's not whatever's trending. It's brass and bounce.   [medium shot: speaker at the dock, guests noticing, some already moving to it]
+ 5.5s  A guest asks what the song is. A deckhand shrugs. "We don't really play whatever's popular down here."   [close-up: deckhand answering, casual]
+10.0s  Nobody asked for a lesson. They got one anyway, thirty seconds before boarding.   [medium shot: guest nodding, half-listening, half-already-into-it]
+13.5s  By the time they're on deck, nobody's still thinking about the song.   [closing wide shot: full group boarding, energy already up]
+
+ON-SCREEN TEXT TREATMENT:
+None, pacing and the deckhand's dry delivery carry the piece.
+
+SHOT LIST:
+- Wide shot, guests walking up the dock, music audible (opener)
+- Medium shot: speaker at the dock, guests noticing
+- Close-up: deckhand's line, casual delivery
+- Medium shot: guest reacting, half-into-it
+- Closing wide shot: full group boarding, energy up
+
+SOURCE GROUNDING: Sourced from idea #17 ("Arrival music matters. Don't play random background music at the dock. Play something that sets the tone: brass band, bounce, something unmistakably New Orleans. The vibe starts in the parking lot."). Confirmed untapped across all 15 prior passes. Distinct from Pass 14 Piece 02 ("The Aux Cord Chain of Custody," on-cruise playlist control) and this pass's own Piece 03 (birthday guest's first song, also on-cruise): this piece is entirely dock-side, before anyone boards.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's dry deckhand-shrug delivery. Then /copywriting-2.0 (3-test filter): caught "unmistakably New Orleans" (borrowed from the idea-bank text itself) as tourism-board adjective-stacking, cut it entirely, tightening "It's not whatever's trending. It's brass and bounce, the real stuff" down to "It's not whatever's trending. It's brass and bounce." Caught the original closer "the mood's already set" as brochure-adjacent abstraction, rewrote to "nobody's still thinking about the song," a more concrete, falsifiable state.
+
+PRODUCTION FLAG: illustrative crew answer; not a fixed scripted line. No guest or crew member identified on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two rewrites logged above).

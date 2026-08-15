@@ -1,0 +1,18 @@
+PIECE 318 — New device (real, newly-sourced spec fact, credibility) — The Planner (2nd appearance this volume) / "Rated For 28. We Only Book 26."
+Voice: The Planner (EL-Lily.mp3)   Music: warm, confident acoustic-pop bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  The boat's certified for twenty-eight people. We only ever book twenty-six.  [Planner VO bright polished, wide, boat at dock, guests boarding]
+ 3.8s  That's not a rounding error. That's margin, on purpose.                      [insert, close-up, life jackets stacked and counted]
+ 7.6s  Two empty spots, every single trip, that nobody's paying to fill.            [insert, deck with visible breathing room, not packed shoulder to shoulder]
+11.4s  Room to actually move. That's what the extra two seats buy you.              [closing line, wide, golden hour, guests spread comfortably across deck]
+
+On-screen text: Hook = THE BOAT'S RATED FOR 28. WE ONLY BOOK 26. / Body = not a rounding error. that's margin, on purpose. / CTA: none
+
+Shot list:
+- [INSERT] Life jackets stacked and counted, dockside
+- [B-ROLL] Deck with visible breathing room between guests, not crowded
+
+Note: NEW, NEWLY-SOURCED FACT THIS PASS. Pulled directly from Vessels/Delta Dream/Delta Dream Boat title.pdf (Certificate of Origin, Trident Pontoons, model 3510), which lists Delta Dream's manufacturer-rated maximum capacity as 28 whole persons. Brand Story & Values.md states both boats "hold 26 people." This piece treats the 2-person gap as a deliberate safety margin, the standard and reasonable reading — but CONFIRM WITH CONNOR that 26 is a deliberate policy choice below the rating, not a typo in either document, before this airs with the "28" number on screen. No vessel is named in the script itself. No title/certificate for Mama Tried exists anywhere in this vault's Vessels/ folder, so her rated capacity hasn't been independently confirmed — this piece's number is sourced from Delta Dream's paperwork only. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

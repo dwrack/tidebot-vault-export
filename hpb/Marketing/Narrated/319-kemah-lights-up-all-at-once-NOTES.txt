@@ -1,0 +1,18 @@
+PIECE 319 — Sincere closer, mirrors the series' closing-piece tradition (240, 256, 272, 288, 304) — Sarah (2nd appearance this volume) / "The Turn Where Kemah Lights Up All At Once"
+Voice: Sarah (EL-Sarah.mp3)   Music: warm, building acoustic bed, swelling gently on the lights-reveal beat, no comedic sting   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a turn on the way back where Kemah shows up all at once. Every light. [Sarah VO warm confident, wide, boat rounding a bend, Kemah skyline glowing at dusk]
+ 3.8s  Ferris wheel first. Then the whole boardwalk catches up behind it.            [insert, close-up, ferris wheel lights against darkening sky]
+ 7.8s  Nobody on the boat keeps talking through that part. Everybody just looks.     [insert, guests turned toward the lights, quiet for a beat]
+11.6s  Two hours on the water, and that's still the moment that gets the reaction.   [closing line, wide, golden hour to dusk, full boat facing the lit-up shoreline]
+
+On-screen text: Hook = THE TURN WHERE KEMAH LIGHTS UP ALL AT ONCE / Body = ferris wheel first. then the whole boardwalk. / CTA: none
+
+Shot list:
+- [B-ROLL] Boat rounding the bend toward the lit-up Kemah Boardwalk skyline at dusk
+- [INSERT] Guests turned quietly toward the lights, a beat of stillness
+
+Note: closes the volume on the sincere, non-comedic register this series uses for closers (240, 256, 272, 288, 304 before it) — a distinct specific image none of those five used. Confirm with Connor that HPB's actual route has a single identifiable turn/vantage point where the Kemah Boardwalk skyline comes into view this cleanly — some routes and times of day may not produce one clean reveal like this. Loosely inspired by, but not copied from, the real-performing "sunset, then the lights come on" line in Fresh Clip Batch — Aug 2026.md (clip hpb_05-lights-come-on.mp4), reworked here as a sincere narrated beat rather than reused ad copy. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,18 @@
+PIECE 310 — New device (family-reunion custom-shirt culture) — The Sunscreen Friend / "This Year's Reunion Shirt Has A Boat On It"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier — not EL-Brian)   Music: bright, warm family-gathering bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every family reunion has a shirt. This year's has the boat on it.       [Sunscreen Friend VO earnest amused, wide, group in matching custom shirts boarding]
+ 3.8s  Somebody's cousin designed it. Somebody's aunt ordered forty of them.   [insert, close-up, shirt design, family name and year]
+ 7.6s  Nobody agrees on the font, everybody's wearing it anyway.               [insert, group laughing, comparing shirts]
+11.4s  Next year's committee already has notes. There's always a committee.   [closing line, wide, golden hour, full family group in shirts]
+
+On-screen text: Hook = EVERY FAMILY REUNION HAS A SHIRT. THIS YEAR'S HAS THE BOAT ON IT. / Body = somebody's cousin designed it. somebody's aunt ordered forty. / CTA: none
+
+Shot list:
+- [INSERT] Close-up on custom reunion shirt design, family name/year visible (mockup design only, no real family name)
+- [B-ROLL] Full family group in matching shirts, mixed ages
+
+Note: real, common reunion tradition (custom shirts), told generically — no specific real family name or design referenced. Good candidate for the still-empty Brand Story & Values.md Section 7 if a crew member has an actual reunion-shirt story from a real charter. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

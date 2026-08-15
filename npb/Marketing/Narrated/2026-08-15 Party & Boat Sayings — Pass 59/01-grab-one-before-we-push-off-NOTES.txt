@@ -1,0 +1,28 @@
+PIECE 01 — Funny / practical lane — "Grab One Before We Push Off"
+Product: Private BYOB party fleet
+Voice: EL-Sarah (ElevenLabs)   Music: light, wry, dock-side energy (mood only, no artist cited)   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's one line every captain gives before the lines come off the dock.   [wide shot: captain untying the dock line, group still milling on deck]
+ 3.5s  "Bathrooms are right there. Grab one now, because the river doesn't have rest stops."   [close-up: captain gesturing toward the marina bathroom, half-grinning]
+ 7.5s  Two people jog back up the dock immediately. Nobody's mad about it.   [medium shot: two guests jogging back toward the marina building, laughing]
+11.0s  Everybody laughs the first time. Nobody's laughing when they didn't have to hold it for the next hour.   [medium shot: group settled in on deck, relaxed, drinks in hand]
+15.0s  Nobody wants to be the one still not back when the captain starts counting heads.   [closing wide shot: boat pulling away from the dock, full group aboard, captain doing a quick head count]
+
+ON-SCREEN TEXT TREATMENT:
+The captain's line pops as a quote card at 3.5s, casual handwritten-style font, clears fast. No text on any other line.
+
+SHOT LIST:
+- Wide shot, captain untying the dock line, group milling on deck (opener)
+- Close-up: captain gesturing toward the bathroom, half-grinning
+- Medium shot: two guests jogging back to the marina building, laughing
+- Medium shot: group settled on deck, relaxed, drinks in hand
+- Closing wide shot: boat pulling away, captain doing a head count
+
+SOURCE GROUNDING: Sourced from idea #9 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`... correction, sourced from idea #14 ("Bathroom confidence. Before anyone asks, announce: 'Bathrooms are right over there, grab one before we push off, because the river doesn't have rest stops.' Say it funny. Solve the anxiety before it exists."). A dedicated dedup research agent read all 15 prior slate documents (base pass, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 29, 36, 37, 40) in full before this pass was drafted and confirmed idea #14 has never been built into a piece across the series. This is the first.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain conversational bluntness for the captain's line and the opener. Then /copywriting-2.0 (3-test filter): caught the original closer "Everybody laughs the first time they hear it. Everybody's grateful an hour later." as a perfectly-parallel construction (an AI tell, fails the can-nobody-else-say-it test), rewrote to "Everybody laughs the first time. Nobody's laughing when they didn't have to hold it for the next hour." Also caught the original final line "Nobody wants to be the one who didn't listen" as too abstract to visualize, rewrote to "Nobody wants to be the one still not back when the captain starts counting heads," a concrete, falsifiable image.
+
+PRODUCTION FLAG: illustrative version of a practical pre-departure line; exact wording varies boat to boat and shift to shift, consistent with the series' established handling of similar in-the-moment crew lines (see Pass 40 Piece 05's note on this). Not a fixed, scripted catchphrase, so this does not reskin the series' retired fixed-catchphrase device. No captain or deckhand named or identified on screen, consistent with Pass 23 onward.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two rewrites logged above).

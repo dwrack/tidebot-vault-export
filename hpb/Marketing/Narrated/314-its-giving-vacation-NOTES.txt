@@ -1,0 +1,18 @@
+PIECE 314 — Funny/Quotable lane (modern slang, guest-voice via deadpan crew reaction) — The Regular / "It's Giving Vacation And We Haven't Left The Dock"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: dry, minimal comedic bed   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Boat's still tied to the dock. Somebody's already said "it's giving vacation."   [Regular VO flat deadpan, wide, boat at dock, lines still on, guest looking around]
+ 3.6s  We haven't moved. Nobody's had a drink yet. It's giving vacation anyway.         [insert, guest gesturing at the water, unbothered]
+ 7.2s  By the time we actually leave, it's apparently "giving main character energy."   [insert, guest posing, deadpan reaction from crew]
+10.6s  We just drive the boat. The narration's all guests, these days.                 [closing line, wide, golden hour, boat pulling away]
+
+On-screen text: Hook = BOAT'S STILL TIED TO THE DOCK. SOMEBODY SAID "IT'S GIVING VACATION." / Body = we haven't moved. it's giving vacation anyway. / CTA: none
+
+Shot list:
+- [INSERT] Boat still docked, lines visible, guest gesturing enthusiastically
+- [B-ROLL] Boat pulling away from dock as payoff
+
+Note: guest-voice slang bit, played entirely through the crew's deadpan reaction — no brand-voice line adopts the slang itself, consistent with Brand Story's "not trying too hard" rule. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

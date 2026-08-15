@@ -1,0 +1,28 @@
+PIECE 09 — Did-you-know / practical lane — "The Guide Answers Before Anyone Asks"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: still, contemplative, resolving into ease (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  First-timers take one look at the black water and go quiet. Not the good kind.   [wide shot: kayaks entering black, tannin-dark water]
+ 3.5s  Nobody's asked the question yet. The guide answers it anyway.   [close-up: guide glancing back at the group's expressions]
+ 6.5s  "It's not dirty. It's tea. Cypress and tupelo leaves, steeping a few hundred years."   [close-up: guide speaking, paddle dipping into the dark water]
+11.0s  The question never gets the chance to come up.   [medium shot: guests visibly relaxing, curiosity satisfied before it forms]
+13.5s  Everybody just paddles into it instead.   [closing wide shot: kayaks gliding into the dark water, unbothered now]
+
+ON-SCREEN TEXT TREATMENT:
+"TANNINS" appears as a small lower-third label at 6.5s.
+
+SHOT LIST:
+- Wide shot, kayaks entering dark water (opener)
+- Close-up: guide glancing back at the group
+- Close-up: guide's explanation, paddle in the water
+- Medium shot: guests relaxing
+- Closing wide shot: kayaks paddling into the dark water
+
+SOURCE GROUNDING: Original eco-tour concept. The tannin/black-water fact itself is a well-documented one, cited in Admire NOLA's own `Script & Caption Bank.md` Lane 6 ("Why is the water black? It isn't dirty, it's tea..."). This pass's dedup research agent confirmed no prior NPB slate piece across 15 passes has centered this specific fact. Structurally, this piece is deliberately distinct from the series' retired "honest FAQ answer" device: no guest ever asks a question on camera here. The fact is volunteered before a question can even form, not delivered as a Q&A exchange, which is the whole mechanic and the reason for the piece's title.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's proof-before-the-doubt-forms structure. Then /copywriting-2.0 (3-test filter): trimmed the opener from "First-timers get one look at the water and go quiet, but not the peaceful kind" to "First-timers take one look at the black water and go quiet. Not the good kind," more visual and more spoken. Tightened "The question that would've come up in a minute never gets the chance to" to "The question never gets the chance to come up." The guide's line flagged as the strongest, most ownable line in the piece.
+
+PRODUCTION FLAG: the tannin/black-water fact is documented; the specific unprompted-timing behavior (guide volunteering it before being asked) is illustrative, not a confirmed universal guide habit on every tour. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two rewrites logged above).

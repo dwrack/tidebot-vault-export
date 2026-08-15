@@ -1,0 +1,28 @@
+PIECE 12 — Funny / practical lane, running joke — "Nobody Can Hear the Guide's Paddle"
+Product: Naturalist eco swamp tour
+Voice: EL-Eric (ElevenLabs)   Music: light, playful, quieting toward the close (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  First five minutes on the water, every new paddler sounds like it. Splash, splash, splash.   [wide shot: kayaks launching, audibly splashy paddling]
+ 3.5s  The guide's paddle makes almost no sound at all.   [close-up: guide's paddle entering the water cleanly, minimal splash]
+ 6.5s  Someone finally asks how. "Feather it. Turn the blade flat on the way back."   [close-up: guide demonstrating the wrist turn]
+10.5s  Half the group tries it. Most still splash. One or two go quiet.   [medium shot: guests attempting the technique, mixed results]
+13.5s  By the end of the tour, you can tell who kept practicing just by listening.   [closing wide shot: kayaks gliding, noticeably quieter than the opening shot]
+
+ON-SCREEN TEXT TREATMENT:
+None, matching the series' practical-coaching convention (see Pass 40 Piece 10).
+
+SHOT LIST:
+- Wide shot, splashy launch (opener)
+- Close-up: guide's clean paddle stroke
+- Close-up: guide demonstrating the feathering technique
+- Medium shot: guests attempting it, mixed results
+- Closing wide shot: quieter group by the end
+
+SOURCE GROUNDING: Original eco-tour concept. Feathering (rotating the paddle blade to reduce drag and splash on the recovery stroke) is a real, teachable kayak-paddling technique. This pass's dedup research agent confirmed this is structurally distinct from Pass 40 Piece 10 ("You're Steering Like You're Mad at the Water," a direction/steering coaching joke) and from Pass 40 Piece 08 ("The Sound That Isn't the Engine," an alligator biology fact): this piece is about human paddle technique and sound, not animal behavior or steering direction.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain coaching-moment delivery, no oversell. Then /copywriting-2.0 (3-test filter): all five lines passed on first read; "Feather it. Turn the blade flat on the way back" flagged as the strongest, most ownable line in the piece, a real, specific, checkable piece of instruction nobody else could claim as generically as a vague "paddle correctly."
+
+PRODUCTION FLAG: illustrative coaching moment; feathering technique is real, the specific guide dialogue is not a confirmed verbatim line any current guide uses. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, no rewrites needed, one line flagged as strongest, logged above).

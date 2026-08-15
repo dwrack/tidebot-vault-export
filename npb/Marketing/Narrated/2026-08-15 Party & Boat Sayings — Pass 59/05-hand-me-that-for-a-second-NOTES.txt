@@ -1,0 +1,28 @@
+PIECE 05 — Funny / heartfelt lane, running-joke energy — "Hand Me That for a Second"
+Product: Private BYOB party fleet
+Voice: EL-Daniel (ElevenLabs)   Music: playful, building, comedic timing (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every cruise hits a stretch where everybody's too busy dancing to film it.   [wide shot: group dancing, mid-party, high energy]
+ 3.5s  A deckhand walks up to the organizer with one hand out. "Hand me that for a second."   [close-up: deckhand gesturing for the phone]
+ 7.5s  No explanation. The organizer just hands it over.   [close-up: organizer handing over the phone]
+10.0s  Twenty rapid-fire shots later, the deckhand hands it back like nothing happened.   [medium shot: deckhand snapping photos quickly, then returning the phone]
+13.5s  The organizer doesn't even look until the ride home, then can't stop scrolling.   [closing wide shot: organizer looking at their phone on the dock or in the car, smiling at the photos]
+
+ON-SCREEN TEXT TREATMENT:
+None. The withheld explanation is the whole engine of the piece; text would undercut it.
+
+SHOT LIST:
+- Wide shot, group dancing, high energy (opener)
+- Close-up: deckhand's ask, hand out for the phone
+- Close-up: phone handoff, no explanation
+- Medium shot: deckhand taking rapid-fire photos, handing the phone back
+- Closing wide shot: organizer scrolling through photos later
+
+SOURCE GROUNDING: Sourced from idea #31 ("Dedicated photographer moment. At peak golden hour or peak party energy, a crew member grabs a phone from the organizer and takes 20 rapid-fire photos... Don't wait to be asked."). Confirmed untapped across all 15 prior passes. Distinct from Pass 37 Piece 06 ("Nobody Wants the Edge of the Photo," a framing negotiation during a posed shot) and Pass 24 Piece 01 ("The Captain's Selfie Video," a captain-facing selfie clip): this is an unprompted candid photo run using the organizer's own phone, mid-party, no pose involved.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's slippery-slide structure (the withheld explanation is the pull). Flagged as the strongest piece in the batch by the mentor pass. Then /copywriting-2.0 (3-test filter): caught "peak energy" in the opener as an event-marketing abstraction that fails the visualize test, rewrote to "everybody's too busy dancing to film it." Caught "a little confused" as telling rather than showing (the bracketed visual already carries it), cut it from "The organizer just hands it over, a little confused" down to "The organizer just hands it over."
+
+PRODUCTION FLAG: illustrative version of an unprompted photo assist; not confirmed as trained standard practice on every cruise. No guest identified on screen; requires the standard filming ask before any guest's phone or face appears in actual footage for this content.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two catches logged above).

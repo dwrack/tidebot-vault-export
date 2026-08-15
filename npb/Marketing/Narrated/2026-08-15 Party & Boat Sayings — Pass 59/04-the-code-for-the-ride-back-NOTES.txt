@@ -1,0 +1,28 @@
+PIECE 04 — Heartfelt / practical lane — "The Code for the Ride Back"
+Product: Private BYOB party fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: quiet, warm, understated (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Right before anybody opens a rideshare app, the deckhand beats them to it.   [wide shot: group stepping off the boat onto the dock]
+ 3.5s  A deckhand hands the organizer a small card.   [close-up: deckhand handing over a small printed card]
+ 6.0s  "Code's good for five bucks off your ride back to the Quarter. Figured you'd earned that much."   [close-up: deckhand speaking, organizer reading the card]
+10.5s  Nobody asked for it. It wasn't on the website.   [medium shot: organizer showing the card to the group, mild surprise]
+13.5s  Small thing. It's the last thing they remember about the dock.   [closing wide shot: group walking off toward the parking lot, card still in hand]
+
+ON-SCREEN TEXT TREATMENT:
+None. The deckhand's line carries the piece, matching Pass 40 Piece 04's convention for quiet, unannounced perks.
+
+SHOT LIST:
+- Wide shot, group stepping off the boat onto the dock (opener)
+- Close-up: deckhand handing over the card
+- Close-up: deckhand's line, organizer reading
+- Medium shot: organizer showing the group, mild surprise
+- Closing wide shot: group walking toward the parking lot, card in hand
+
+SOURCE GROUNDING: Sourced from idea #41 ("The Uber code. Partner with a local rideshare or have a code ready. After the cruise, especially evening ones, say: 'We've got a code for $5 off your Uber back to the Quarter.' Safety plus generosity."). Confirmed untapped across all 15 prior passes. Distinct from idea #39 (rebooking incentive, dramatized by Pass 40 Piece 04) and idea #38 (mailed card, Pass 37 Piece 03): this is a dock-side rideshare discount, not a rebooking reward or a follow-up mailer.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's specificity (a real number, "five bucks," closes the believability gap better than a vague discount claim). Then /copywriting-2.0 (3-test filter): caught the original opener as logically tangled ("Last stop before anyone opens a rideshare app is the dock, not their phone"), rewrote to "Right before anybody opens a rideshare app, the deckhand beats them to it" for clarity and to set up the card reveal. Caught the closer's weak "still" transition, tightened "Small thing. Still what they remember about the dock" to "Small thing. It's the last thing they remember about the dock."
+
+PRODUCTION FLAG: sourced from idea #41, a proposed rideshare-discount perk. This is NOT confirmed as a current NPB practice and would require an actual rideshare partnership and a real discount code before it could be shot as anything beyond a concept pitch. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two rewrites logged above).

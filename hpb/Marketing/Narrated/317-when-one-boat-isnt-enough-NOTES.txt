@@ -1,0 +1,18 @@
+PIECE 317 — New device (real brand fact, stated plainly) — The Announcer (2nd appearance this volume) / "When One Boat's Not Enough, We Just Run Two"
+Voice: The Announcer (EL-Daniel.mp3)   Music: confident, upbeat pop bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Sometimes one boat isn't enough people. So we run both, same time, same water. [Announcer VO formal deadpan, wide, two boats departing together]
+ 3.8s  Same event, same lake, twenty-six on each. Fifty-two people, one party.        [insert, two boats side by side, guests waving between them]
+ 7.8s  Coordinating two captains, two crews, one afternoon. Not a common ask. Not a problem either. [insert, captains signaling to each other]
+11.6s  Big group? We've got a second boat for exactly this.                          [closing line, wide, golden hour, two boats docked together]
+
+On-screen text: Hook = ONE BOAT NOT ENOUGH? WE RUN BOTH, SAME TIME. / Body = fifty-two people. one party. two boats. / CTA: soft — "ask about a two-boat event" tag, optional
+
+Shot list:
+- [B-ROLL] Two boats departing or running side by side
+- [INSERT] Captains signaling to each other, guests waving boat-to-boat
+
+Note: real, sourced capability per Brand Story & Values.md Section 3 ("We can run them simultaneously for bigger events"). No vessel is named anywhere in the script. Confirm current combined-booking logistics and minimum-notice requirement with Connor before this runs as a bookable claim rather than just a fun fact. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

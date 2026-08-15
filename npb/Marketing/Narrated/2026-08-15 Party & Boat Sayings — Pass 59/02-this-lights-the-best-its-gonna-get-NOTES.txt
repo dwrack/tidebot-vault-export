@@ -1,0 +1,28 @@
+PIECE 02 — Funny / heartfelt lane — "This Light's the Best It's Gonna Get"
+Product: Private BYOB party fleet
+Voice: EL-Brian (ElevenLabs)   Music: warm, unhurried, building softly under the visual (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every cruise hits one stretch where the light turns gold and every phone comes out at once.   [wide shot: golden late-afternoon light on the water, boat cruising]
+ 3.5s  "This right here is the best it's gonna get. Get your photos the next ten minutes."   [close-up: deckhand calling it out, guests already reaching for phones]
+ 7.5s  Nobody argues. Cups get set down mid-sip.   [medium shot: guests setting drinks aside, phones up]
+10.0s  Ten minutes later the light's already flattened out, and every phone on the boat has the same background.   [medium shot: guests reviewing photos, comparing]
+13.5s  Nobody planned that shot. The boat did.   [closing wide shot: golden light fading, group settling back into the party]
+
+ON-SCREEN TEXT TREATMENT:
+The deckhand's line pops as a quote card at 3.5s, clears fast. No text on any other line.
+
+SHOT LIST:
+- Wide shot, golden light on the water, boat cruising (opener)
+- Close-up: deckhand calling it out, guests reaching for phones
+- Medium shot: guests setting drinks down, phones up
+- Medium shot: guests reviewing and comparing photos
+- Closing wide shot: light fading, group settling back into the party
+
+SOURCE GROUNDING: Sourced from idea #22 ("The golden hour warning. When the light gets incredible on the water... tell the group: 'Okay, this light right now is the best it's going to get. Get your photos in the next 10 minutes.' People will thank you for that photo."). Confirmed untapped across all 15 prior passes by this pass's dedup research agent. Distinct from idea #28 (sunset countdown specifically), which remains untapped; this piece is the mid-cruise golden-hour version, not a sunset-timed one.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-and-payoff structure (the "same background" reveal). Then /copywriting-2.0 (3-test filter): all five lines passed; "Nobody argues. Cups get set down mid-sip." flagged as the strongest, most ownable line in the piece (concrete, falsifiable, visualizable in one image).
+
+PRODUCTION FLAG: illustrative crew call; wording varies boat to boat, not a fixed catchphrase. No guest or crew member identified on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, no rewrites needed, one line flagged as strongest, logged above).

@@ -1,0 +1,28 @@
+PIECE 08 — Funny / did-you-know lane — "That's Not a Gator. That's Older."
+Product: Naturalist eco swamp tour
+Voice: EL-EchoRae (ElevenLabs)   Music: light, curious, a small comedic beat under the reveal (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Something long and armored rolls at the surface, and every kayak in the group turns at once.   [wide shot: kayaks turning toward a surfacing gar]
+ 3.5s  First guess is always the same word.   [close-up: guest pointing, mouthing "gator"]
+ 6.0s  "That's not a gator. That's older."   [close-up: guide correcting, mildly amused]
+ 8.5s  It's a gar. Older than alligators. It was doing this before they showed up.   [medium shot: gar surfacing again, guests watching, closer look]
+12.5s  Everybody relaxes. Then immediately wants to see it do that again.   [closing wide shot: group leaning in, watching the water]
+
+ON-SCREEN TEXT TREATMENT:
+"GAR" appears as a small lower-third label at 8.5s, matching the series' fact-naming convention (see Pass 40 Pieces 07 and 08).
+
+SHOT LIST:
+- Wide shot, kayaks turning toward the surfacing gar (opener)
+- Close-up: guest's first guess, mouthing "gator"
+- Close-up: guide's correction
+- Medium shot: gar resurfacing, group watching closely
+- Closing wide shot: group leaning in
+
+SOURCE GROUNDING: Original eco-tour concept. This pass's dedup research agent confirmed this is the first piece in the entire 15-pass series centered on gar. It is deliberately NOT a misidentification/guessing-game device (that device is formally retired, with four prior variants: gator/turtle/stick, nutria/beaver, a "hands" correction, and a guide's fake-out point): here the guide corrects a single silent guess in one clean beat, there is no ongoing group guessing game, and the piece's whole point is the factual reveal, not a repeated round of wrong guesses.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's headline-as-fact approach (the title line does the work, no dressing needed). Then /copywriting-2.0 (3-test filter): caught "showed up to the neighborhood" as slightly too cute for the fact-drop, and caught the original single run-on sentence as burying the strongest claim, split into "It's a gar. Older than alligators. It was doing this before they showed up," letting "older than alligators" land as its own beat. The title line, "That's not a gator. That's older," flagged as the single strongest, most ownable line in the piece.
+
+PRODUCTION FLAG: original eco-tour concept. Alligator gar are a real, ancient fish lineage present in Louisiana waterways; confirm gar sightings are reliably present and identifiable on NPB's actual eco-tour route before treating this as a guaranteed sighting rather than an occasional one. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 59, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, two catches logged above).

@@ -1,0 +1,18 @@
+PIECE 305 — Funny/Quotable lane (physical-comedy phrase-in-action) — The Deckhand / "'Hold My Beer' (And Then He Actually Does It)"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: upbeat, hype pop bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Hold my beer" gets said at least once a trip. Every single time.        [Deckhand VO fast, half out of breath, wide, guest handing off a drink to a friend]
+ 3.6s  Somebody's about to do something. Cannonball, dance move, doesn't matter. [insert, guest handing cup to a friend, stepping back for room]
+ 7.4s  The guy holding the beer never gets a vote. He just holds it.            [insert, friend holding two drinks, watching, resigned]
+11.2s  That's the whole job description. Hold the beer. Watch the legend happen. [closing line, wide, golden hour, guest mid-jump or big dance move, friend laughing holding drinks]
+
+On-screen text: Hook = "HOLD MY BEER" GETS SAID AT LEAST ONCE A TRIP / Body = the guy holding it never gets a vote / CTA: none
+
+Shot list:
+- [INSERT] Guest handing off a drink mid-motion, stepping back
+- [B-ROLL] Payoff moment (cannonball or big dance move), friend holding two drinks, watching
+
+Note: purely observational bit, no safety claim implied beyond normal supervised deck activity. Confirm whatever "something" gets filmed is actually permitted at the dock/spot in use before shooting — if diving or jumping off the boat isn't allowed there, shoot the payoff as a big dance move instead, not a jump. No pedaling reference anywhere in this piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
