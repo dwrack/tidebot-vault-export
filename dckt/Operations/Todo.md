@@ -159,7 +159,7 @@
 - [ ] Set up shop display + POS SKUs in FareHarbor / Square (whichever runs the retail side)
 
 ### Insurance — Lock It Down
-- [ ] Confirm current policy carrier + renewal date — who's the broker?
+- [x] Confirm current policy carrier + renewal date — who's the broker? **Resolved, Dump pass 41 (Aug 15 2026): carrier is Western National Insurance Group, broker/producer is Leavitt Select Insurance Services Inc. (serviceboise@leavitt.com, (435) 752-1351), certificate #26-27 dated 05/29/2026. Internal docs name Kurt Rupnow as the individual broker contact but no direct info for him exists in the vault.**
 - [ ] Verify coverage: general liability, watercraft, guide liability, property
 - [ ] If guides are W2: confirm workers' comp active. If 1099: independent contractor agreements signed
 - [ ] Get a second broker quote if Assured Partners is involved (Lone Star Kayak had an E&O gap with them)
