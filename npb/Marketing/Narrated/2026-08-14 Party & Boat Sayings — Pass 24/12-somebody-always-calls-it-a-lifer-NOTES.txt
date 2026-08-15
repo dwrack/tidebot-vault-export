@@ -1,0 +1,28 @@
+PIECE 12 — Did-you-know / heartfelt lane — "Somebody Always Calls It a Lifer"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: Tank and the Bangas-style current buzz, quirky energy (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Birders have a word for the first time you ever see a species.      [wide shot: guest with binoculars, scanning trees]
+ 3.5s  They call it a lifer. As in, once, for your whole life.             [close-up: guest's face, focused through binoculars]
+ 7.0s  Somebody on almost every tour has one. A warbler, a specific heron, whatever it is.  [bird in frame, guest reacting, pointing]
+11.5s  You'll know exactly when it happens. They go quiet, then they go loud.  [guest gasping, then grinning, turning to tell someone]
+16.0s  Doesn't matter if nobody else on the boat knows what a prothonotary warbler is.  [guest excitedly explaining to confused friends, laughing]
+20.0s  To them, it's a lifer. To everybody else, it's a nice yellow bird. Both are right.  [wide closing shot, guests laughing together, boat continuing]
+
+ON-SCREEN TEXT TREATMENT:
+"LIFER: your first-ever sighting of a species" appears as a caption card timed to line two, clears after, styled for saves.
+
+SHOT LIST:
+- Wide shot: guest scanning with binoculars (opener)
+- Close-up: guest's face, focused, waiting
+- Bird enters frame, guest reacts, pointing
+- The quiet-then-loud reaction beat, gasp then grin
+- Guest excitedly explaining to friends who don't share the excitement, everyone laughing
+- Closing: wide shot, guests laughing together, boat continuing
+
+SOURCE GROUNDING: "Lifer" is a real, documented term inside the birding community for a first-ever sighting of a species, used here the same way Pass 23 used "where y'at" and this pass uses "lagniappe" (Piece 09): real, externally verifiable subcultural language, not invented company slang. The prothonotary warbler reference connects to `Admire NOLA/Content/Script & Caption Bank.md` Lane 9's existing wildlife-spotlight fact ("A bird so yellow it looks like a rendering error"), reused here as a deliberate, attributed cross-pillar callback rather than an uncredited lift, consistent with how Pass 23 handled its Spanish-moss and "swamp doesn't perform" callbacks.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, factual specificity, a real, documented birding-community term rather than an invented one, plus a light Halbert touch in the final line's contrast). Then /copywriting-2.0 (3-test filter): a draft line, "It's a magical moment," failed all three tests at once, vague, unfalsifiable, and something any nature-tour competitor could equally claim. Cut and replaced with "they go quiet, then they go loud," a specific, visualizable, checkable behavior.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy, Halbert) then /copywriting-2.0 (3-test filter). No production flag, real documented term, organic guest behavior.

@@ -1,0 +1,28 @@
+PIECE 11 — Heartfelt / poetic lane — "The Ride Back Is Always Quieter"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: Professor Longhair-style slower instrumental, mellow (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  On the way out, everybody's talking. Pointing, asking questions, taking photos of everything.  [wide shot: boat heading out, group animated, pointing]
+ 4.0s  An hour later, heading back, the boat's a different boat.           [wide shot: boat turning back, same group, quieter]
+ 8.0s  Nobody's telling anyone to be quiet. It just happens on its own.    [close-up: guest looking out at water, relaxed, silent]
+12.0s  Fewer photos. More just looking.                                    [guest putting phone away, watching the water instead]
+15.5s  Something about ninety minutes on black water does that to people.  [wide shot, calm water, soft light]
+19.5s  The ride out is the excitement. The ride back is the part that stays with you.  [closing wide shot, boat gliding, golden light, quiet]
+
+ON-SCREEN TEXT TREATMENT:
+None. Same instinct as this pass's other quiet-moment piece (08), no caption competing with it.
+
+SHOT LIST:
+- Wide shot: boat heading out, group animated, pointing (opener)
+- Wide shot: boat turning back, same group, visibly quieter
+- Close-up: guest looking out at the water, relaxed, silent
+- Guest putting phone away, watching instead of shooting
+- Wide shot: calm water, soft light
+- Closing: wide golden-hour glide shot, quiet
+
+SOURCE GROUNDING: Genuinely new premise, not adjacent to any of the 84 pieces across eight prior passes. This is a direct-format homage to the Admire NOLA poetic lane itself (`Admire NOLA/Content/Narrated/01-poetic-NOTES.txt`, "Before It Puts Its Face On"), applied here as a true structural piece for NPB rather than a one-off borrowed line, since the brief specifically asked this slate be modeled exactly on that series.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman's short-opener rule, plus Schwartz channeling a real, common mood shift travelers recognize from immersive outdoor trips rather than inventing one). Then /copywriting-2.0 (3-test filter): a draft closer, "You'll remember the quiet more than the gators," failed the falsifiability test (an unfalsifiable prediction about any individual viewer's personal memory). Cut and rewritten to "The ride out is the excitement. The ride back is the part that stays with you," reframed to describe the tour's actual observable arc instead of presuming the viewer's memory.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Sugarman, Schwartz) then /copywriting-2.0 (3-test filter). No production flag, organic behavioral pattern.

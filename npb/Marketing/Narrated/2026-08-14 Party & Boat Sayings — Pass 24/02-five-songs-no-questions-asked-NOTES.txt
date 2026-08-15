@@ -1,0 +1,28 @@
+PIECE 02 — Funny / running joke lane — "Five Songs, No Questions Asked"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: Naughty Professor / Water Seed / Galactic-style funk-fusion, playful (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Before the trip, the booking email asks for one thing: five songs your group can't live without.  [phone screen: booking email, "your 5 songs" field]
+ 4.0s  Doesn't sound like a big ask. It turns into a forty-message group chat argument.  [phone screen: group chat blowing up, typing bubbles]
+ 8.5s  Somebody wants their wedding song. Somebody wants the one nobody else has heard of.  [quick cuts: two guests debating on phones]
+12.5s  Five songs, decided by committee, defended like a courtroom case.   [guest gesturing animatedly, friends laughing]
+16.5s  By the time the list gets sent in, everybody's already arguing about track order too.  [phone screen: final list being typed and sent]
+20.0s  All that, for five songs. Worth it when the first one hits on the water.  [wide shot: boat moving, group dancing, recognizing a song]
+
+ON-SCREEN TEXT TREATMENT:
+The "your 5 songs" form field appears as a real graphic on line one, clears immediately. Nothing else on screen, the group-chat chaos plays out in the visuals without captions.
+
+SHOT LIST:
+- Phone screen: booking email, the 5-songs field (opener)
+- Phone screen: group chat exploding with messages, typing bubbles
+- Quick cuts: two guests debating specific song picks on their phones
+- Guest defending a pick animatedly, friends laughing
+- Phone screen: the final list being typed and sent
+- Wide deck shot: a song hits, group reacts, dancing
+
+SOURCE GROUNDING: Not confirmed as current practice. Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #3, "The pre-cruise playlist ask: Email the booking contact a Spotify link and say 'Drop 5 songs your group can't live without.'" Distinct from Pass 14's "The Aux Cord Chain of Custody" (about handing physical control of the aux mid-cruise) and Pass 15's "The Surprise Song" (about dropping one surprise track); this piece is about the pre-trip ask itself and the group-chat debate it triggers, not about anything that happens on the water.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, curiosity/slippery-slide structure, each line pulls into the next: the ask, then the chaos, then the payoff). Then /copywriting-2.0 (3-test filter): a draft line, "Everyone takes it way too seriously," failed the visualize/specificity test, vague and generic. Cut and replaced with "defended like a courtroom case" plus the track-order detail, both concrete and recognizable only to a group that's actually lived this exact argument.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag: unconfirmed as current practice, confirm with ops.

@@ -1,0 +1,30 @@
+PIECE 10 — Funny / honest realism lane — "No Signal, No Problem"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: Sweet Crude-style soft, atmospheric (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Thirty minutes out, phones start doing something they never do at home.  [wide shot: swamp channel, guest glancing at phone]
+ 3.5s  Nothing. No bars, no signal, no notifications.                      [close-up: phone screen, "No Service"]
+ 6.5s  First reaction is always the same. Guests hold it up like it's broken.  [guest holding phone up, confused, half-laughing]
+10.0s  It's not broken. It's just the one place all week nobody can reach you.  [guest slowly putting phone away, small smile]
+14.5s  Twenty minutes later, most people have forgotten they were holding one at all.  [wide shot: guest pointing at wildlife, phone nowhere in sight]
+18.5s  No signal isn't a flaw out here. It's kind of the whole point.       [closing wide shot, calm water, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+"NO SERVICE" as a small, deadpan caption timed to the phone close-up only (line two), then clears.
+
+SHOT LIST:
+- Wide shot: guest glancing at phone on the water (opener)
+- Close-up: phone screen, no-service indicator
+- Guest holding phone up, confused, half-laughing reaction
+- Guest putting phone away, small smile
+- Wide shot: phone forgotten, guest fully engaged with wildlife
+- Closing: wide calm-water shot, golden light
+
+PRODUCTION FLAG: The dead-zone claim should be confirmed against actual carrier coverage on the water before this ships as stated fact. If coverage is patchy rather than fully absent, adjust the "no bars, no signal" language so it doesn't overstate (e.g. "spotty at best" instead of "nothing").
+
+SOURCE GROUNDING: Genuinely new premise, not adjacent to any of the 84 pieces across eight prior passes. Not sourced from a specific vault idea, built from a general, verifiable product truth (remote water routes commonly have degraded or no cell coverage) rather than an invented company bit.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Schwartz, channeling an existing, unspoken desire, guests already want to disconnect, this doesn't manufacture that want, it names it). Then /copywriting-2.0 (3-test filter): a draft closer, "You'll thank us for it," failed the falsifiability test (a presumptive claim about the viewer's future feelings). Cut and rewritten to "No signal isn't a flaw out here. It's kind of the whole point," which stays inside a checkable, observable fact instead of predicting the guest's reaction.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Schwartz) then /copywriting-2.0 (3-test filter). Production flag: confirm actual coverage before stating "no signal" as fact.

@@ -1,0 +1,28 @@
+PIECE 06 — Funny / running joke lane — "Hometown Roll Call"
+Product: Private BYOB Party Fleet
+Voice: voice-en-GB-RyanNeural (free tier)   Music: Rebirth Brass Band-style classic party anthem (clearance unconfirmed)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Early in the trip, somebody always asks where everybody's from.    [wide shot: group circled up on deck, chatting]
+ 3.0s  Not the crew. A guest. It happens on its own.                       [guest gesturing, asking the group, unprompted]
+ 6.0s  "Houston." "Atlanta." Somebody always says a town nobody's heard of.  [quick cuts: guests calling out hometowns, laughing]
+10.0s  That one gets the loudest cheer, every time.                        [group laughing and cheering for the obscure hometown]
+13.0s  By the mile marker, strangers from four states know each other's names.  [wide shot, mixed group laughing together]
+16.5s  Didn't plan that. The boat just makes room for it.                  [closing wide shot, sunset, group relaxed together]
+
+ON-SCREEN TEXT TREATMENT:
+None. Let the roll call play out in real voices without captions.
+
+SHOT LIST:
+- Wide shot: group circled up on deck, chatting (opener)
+- A guest asking where everyone's from, unprompted, organic
+- Quick cuts: hometowns called out one by one
+- The obscure/unexpected hometown getting the biggest cheer
+- Wide shot: mixed group bonding, laughing together
+- Closing: wide sunset shot, group relaxed together
+
+SOURCE GROUNDING: Not adjacent to any of the 84 prior pieces. Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #98, "Hometown shout-outs. Early in the cruise, ask where everyone's from... 'We've got Houston in the house, Atlanta over there, and someone from Omaha who clearly needed this vacation the most.'" Reframed here as a guest-initiated behavior rather than a crew-scripted line, since crew-scripted recurring lines are a retired device from Pass 23's self-audit; the humor and warmth come entirely from guest-to-guest interaction.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, curiosity build, withholding the payoff, the obscure hometown getting the loudest cheer, until it lands). Then /copywriting-2.0 (3-test filter): a draft line, "Everyone becomes best friends by the end," failed the falsifiability test (unfalsifiable overstatement). Cut and replaced with "strangers from four states know each other's names," specific and checkable.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). No production flag, this is organic guest behavior, not a company policy claim.

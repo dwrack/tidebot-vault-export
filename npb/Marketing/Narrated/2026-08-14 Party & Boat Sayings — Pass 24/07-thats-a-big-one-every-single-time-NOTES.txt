@@ -1,0 +1,28 @@
+PIECE 07 — Funny / running joke lane — "That's a Big One (Every Single Time)"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: Trombone Shorty & New Breed Brass Band-style current NOLA cut, upbeat (clearance unconfirmed)   Length: 20.0s
+
+SCRIPT (timed to narration):
+ 0.0s  First gator of the trip, somebody always says the same four words.  [wide shot: gator sighting ahead, guests leaning in]
+ 3.0s  "That's a big one."                                                 [guest pointing, saying the line, half-whispering]
+ 5.0s  Doesn't matter if it's four feet or fourteen. Every gator is the big one.  [close-up: modest-sized gator, guests reacting big]
+ 9.0s  The guide's learned not to correct anybody on this.                 [guide smiling, staying quiet, letting it ride]
+12.5s  Second gator, third gator, same four words again.                   [quick cuts: guests reacting to two more gators, same line]
+17.0s  Every gator's the big one. That's just how the boat sees it out here.  [wide shot, boat continuing, guests still buzzing]
+
+ON-SCREEN TEXT TREATMENT:
+None. A caption would spoil the deadpan timing of the repeated line.
+
+SHOT LIST:
+- Wide shot: first gator sighting, guests leaning in (opener)
+- The line delivered, half-whisper, pointing
+- Close-up: a modest-sized gator, guests reacting as if it's huge
+- Guide's knowing, quiet smile, not correcting anyone
+- Quick cuts: two more gators, same reaction, same line
+- Closing: wide continuing shot, guests still buzzing
+
+SOURCE GROUNDING: This is a genuinely new premise, not adjacent to any of the 84 pieces across eight prior passes. It deliberately avoids the retired "misidentification/guessing game" device (Pass 23's audit flagged gator/turtle/stick, nutria/beaver, the "hands" correction, and the fake-out point as four already-saturated variants of that device). This piece is not a guessing game, nobody is wrong about what animal it is; it's a behavioral pattern about size-hyperbole that's true regardless of the actual gator, a different comedic mechanism entirely.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, factual grounding, the joke works because it's an observable, checkable behavior pattern rather than an invented bit, plus Sugarman's repetition-for-comedic-effect structure). Then /copywriting-2.0 (3-test filter): a draft closer, "Everybody's an expert out here," failed the "never mock a real guest" brand-voice check (mildly mocking, and unfalsifiable). Cut and rewritten to "Every gator's the big one. That's just how the boat sees it out here," warmer and still specific.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy, Sugarman) then /copywriting-2.0 (3-test filter). No production flag, organic guest behavior.

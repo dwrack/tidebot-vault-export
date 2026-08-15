@@ -1,0 +1,30 @@
+PIECE 01 — Heartfelt / hospitality ritual lane — "The Captain's Selfie Video"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: Irma Thomas-style soul warmth, understated (clearance unconfirmed)   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every booking gets a confirmation email. Some get something else too.  [phone screen: booking confirmation email arriving]
+ 3.5s  Thirty seconds, captain, phone held up on the dock: "Can't wait to see y'all Saturday, Marcus."  [captain filming a quick, casual selfie video dockside]
+ 8.5s  It shows up in your texts an hour later. Nobody asked for it.        [guest reading phone, surprised smile]
+12.5s  First thing that happens, it gets forwarded to the group chat.       [phone screen: video being forwarded, "sent" checkmark]
+16.5s  Saturday, the captain steps up to a group that's already met him once.  [group boarding, recognizing captain, pointing and smiling]
+20.0s  Thirty seconds, sent early. Changes how the whole day starts.        [wide shot, group boarding, warm energy]
+
+ON-SCREEN TEXT TREATMENT:
+The confirmation email graphic appears on line one only. A small "forwarded" label appears on the phone screen on line four. Clears otherwise, nothing else on screen.
+
+SHOT LIST:
+- Phone screen: booking confirmation email arriving (opener)
+- Captain filming a casual, unscripted-feeling selfie video dockside, saying a real guest first name
+- Guest receiving the video by text, genuinely surprised
+- Phone screen: the video being forwarded into a group chat, "sent" checkmark
+- Wide shot: group boarding, recognizing the captain from the video, pointing and smiling
+- Closing: wide warm boarding shot, energy already up
+
+CASTING NOTE: Use a real guest first name in the demo video for authenticity, but treat it as illustrative unless shot with an actual consenting, booked guest. If shot for real use, confirm the guest is comfortable with their first name appearing on screen per the Social Capture Playbook consent standard.
+
+SOURCE GROUNDING: Not confirmed as current practice. Sourced directly from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #2, "Personalized booking confirmation video: Record a 15-second selfie video from the captain saying 'Can't wait to see y'all on Saturday, [Name]!' and text it after booking." Confirm with ops whether any captain currently does this before treating it as documented practice.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, specificity as the hook, a generic "we send a nice video" is forgettable, naming the exact guest and the exact dockside action sells it; Schwartz's channel-existing-desire also applies here, guests already want a booking experience that feels personal rather than transactional). Then /copywriting-2.0 (3-test filter): an early closer, "That's the kind of thing that makes people book again," failed the falsifiability test (any business could claim it), cut and rewritten to "Thirty seconds, sent early. Changes how the whole day starts," which stays specific to what's already shown on screen. Rest of the script passed clean.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Halbert, Schwartz) then /copywriting-2.0 (3-test filter). Production flag: unconfirmed as current practice, confirm with ops before scripting as documentary rather than aspirational.

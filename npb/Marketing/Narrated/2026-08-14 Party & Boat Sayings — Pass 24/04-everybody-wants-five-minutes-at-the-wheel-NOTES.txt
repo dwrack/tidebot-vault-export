@@ -1,0 +1,30 @@
+PIECE 04 — Funny / running joke lane — "Everybody Wants Five Minutes at the Wheel"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: Cha Wa-style Mardi Gras Indian funk (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks. Doesn't matter the group, doesn't matter the occasion.  [wide shot: guest eyeing the captain's wheel]
+ 3.5s  "Can I stand up there for a picture?"                                [guest asking, pointing at the helm, laughing]
+ 6.5s  Captain's hat goes on. Hands go on the wheel. Nobody's actually steering.  [guest at the wheel, captain's hat on, big grin]
+10.5s  Thirty seconds, one photo, everybody on the boat wants a copy of it.  [group crowding in for the photo, phones out]
+15.0s  By the end of the day there's a whole rotation of temporary captains.  [quick cuts: three different guests posing at the wheel]
+19.5s  Nobody's actually driving the boat. Everybody's driving the group chat.  [wide closing shot, group laughing, boat moving]
+
+ON-SCREEN TEXT TREATMENT:
+None. The joke lands better without a caption stepping on the punchline.
+
+SHOT LIST:
+- Wide shot: guest eyeing the wheel (opener)
+- Guest asking, pointing at the helm, laughing
+- Guest posing at the wheel, captain's hat on, boat idled or stopped
+- Group crowding in for the photo, phones out
+- Quick cuts: three different guests taking their turn at the wheel
+- Closing: wide shot, group laughing, boat underway again
+
+SOURCE GROUNDING: Not adjacent to any of the 84 pieces across eight prior passes. Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #54, "'Captain for a Minute' photo. Let the birthday person or guest of honor stand at the helm for a photo op. Captain's hat on. It's corny, it's perfect, it gets posted every time." Broadened here from birthday-specific to any guest, since the actual behavior isn't occasion-dependent.
+
+PRODUCTION FLAG: Confirm current safety policy before shooting this as depicted. Guests should only be at the helm with the boat idled or stopped and the captain still effectively in control, per `Brand Story & Values.md` Section 2, "safety isn't a talking point, it's the floor." This is a light confirm, not a new-practice request, most likely already happens informally; get the exact safe framing from a captain first.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, universal relatable behavior, a running gag any group-photo person recognizes). Then /copywriting-2.0 (3-test filter): a draft line, "It's the best photo op on the boat," failed the falsifiability test (unfalsifiable superlative). Cut and replaced with "a whole rotation of temporary captains," specific, visual, and checkable against actual behavior.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter). Production flag: confirm safe-helm-photo policy with a captain before shooting.

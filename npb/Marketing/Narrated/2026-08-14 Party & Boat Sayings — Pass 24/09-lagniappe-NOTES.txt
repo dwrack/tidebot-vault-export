@@ -1,0 +1,30 @@
+PIECE 09 — Did-you-know / cultural lane — "Lagniappe"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Brian (ElevenLabs)   Music: Preservation Hall Jazz Band-style quieter trad-jazz (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Louisiana has a word for a little something extra you didn't pay for.  [wide shot: calm bayou water, establishing]
+ 3.5s  Lagniappe. Old Creole word, still used all over south Louisiana.    [text-on-screen moment, guide gesturing while explaining]
+ 7.5s  On the water, it shows up as a few extra minutes down a side channel.  [boat turning down a quieter side channel]
+11.5s  Nothing scheduled. Just whatever's actually worth seeing that day.   [guide pointing out something unplanned, guests leaning in]
+15.5s  Some days it's an eagle's nest. Some days it's just better light on the water.  [wide shot, golden light on water, guests quiet, watching]
+20.0s  No extra charge. That's the whole point of the word.                [closing wide shot, boat continuing, calm]
+
+ON-SCREEN TEXT TREATMENT:
+"LAGNIAPPE" appears as a simple caption card with a one-line definition ("a little something extra, thrown in free"), timed to line two, styled for saves. Clears after.
+
+SHOT LIST:
+- Wide shot: calm bayou water, establishing (opener)
+- Guide introducing the word, caption card appears
+- Boat turning down a quieter side channel
+- Guide pointing out something unplanned, guests leaning in
+- Wide shot: golden light on water, guests quiet, watching
+- Closing: wide continuing shot, calm
+
+SOURCE GROUNDING: "Lagniappe" is a real, documented Louisiana Creole/French word for an unearned extra, still in everyday regional use, most famously noted by Mark Twain in "Life on the Mississippi" as a word he found nowhere else and admired. Used here the same way Pass 23 used "where y'at" and "throw me something": as real, externally verifiable regional language the crew could plausibly adopt, not an invented company term. The detour content is sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #30, "Captain's choice detour. If conditions allow, take an unannounced detour."
+
+PRODUCTION FLAG: Whether an actual detour happens on a given trip isn't confirmed as guaranteed daily practice. Scripted deliberately as "some days," not "every day," so it reads as a real but occasional practice rather than a promised perk. Confirm actual frequency with a guide before this posts.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, factual specificity, leading with a real, verifiable word and its real meaning rather than an invented company phrase). Then /copywriting-2.0 (3-test filter): a draft line, "It's our way of going above and beyond," failed the brand-voice check directly (generic, corporate-sounding phrase explicitly ruled out by the global writing style rules). Cut and rewritten to "No extra charge. That's the whole point of the word," which stays inside the actual definition of lagniappe instead of drifting into a marketing platitude.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm detour frequency before treating "some days" as fact.

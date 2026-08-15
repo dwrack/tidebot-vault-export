@@ -1,0 +1,30 @@
+PIECE 08 — Heartfelt lane — "The One Who's Hanging Back"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Lily (ElevenLabs)   Music: Jon Cleary-style solo piano, warm and understated (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most of the group is up front, pointing at everything.              [wide shot: group at the bow, engaged, pointing at wildlife]
+ 3.5s  One person's usually a little further back, a little quieter.       [guest sitting slightly apart, watching, not saying much]
+ 7.0s  Nobody makes a thing of it. A guide just drifts back and sits with them for a minute.  [guide moving back, sitting near the quiet guest]
+12.0s  Doesn't ask why. Just points out a heron, asks where they're from.   [guide pointing gently, guest starting to relax]
+16.5s  Ten minutes later, they're the one pointing something out to somebody else.  [same guest now leaning forward, pointing, smiling]
+21.0s  Nobody's left at the back of this boat for long.                    [wide closing shot, whole group together, engaged]
+
+ON-SCREEN TEXT TREATMENT:
+None. This is the one piece built to let a quiet moment breathe without a caption competing with it, same instinct as prior passes' unscripted-moment pieces (e.g. Pass 23's "Give It Up for the Guide" and "This Reminds Me of My Grandpa's Camp").
+
+SHOT LIST:
+- Wide shot: group engaged at the bow, pointing at wildlife (opener)
+- One guest sitting slightly apart, quieter, watching
+- Guide drifting back, sitting with the quieter guest
+- Guide pointing out a heron, asking where they're from, gently
+- Same guest now leaning forward, pointing something out to someone else
+- Closing: wide shot, whole group together, engaged
+
+PRODUCTION / CONSENT FLAG: Standard Social Capture Playbook filming ask applies. Keep the quieter guest's shots general (over-the-shoulder, wide, not a tight identifying close-up) unless they're visibly comfortable and consent is confirmed. This is lower-stakes than prior consent-flagged pieces (no grief, no medical disclosure, just a guest who's a little more reserved than the group), but the same care applies since it involves reading a guest's mood.
+
+SOURCE GROUNDING: This is a genuinely new premise, the first of nine passes centered on a quieter or more reserved guest rather than the loudest moment on the boat. Loosely sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #29, "The 'I see you' move. If a crew member notices someone hanging back, not fully in the party, bring them in gently." Adapted here from the original party-fleet framing (a big group, a wallflower) to the naturalist tour's smaller, quieter group dynamic, where "hanging back" reads as contemplative rather than left out. Not confirmed as a formal guide practice, flagged accordingly, not stated as documented company policy.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga, honesty and proof over assertion, showing the actual sequence rather than claiming "we make everyone feel included," plus Schwartz channeling a real, quiet fear a lot of solo or shy travelers carry about getting lost in a group). Then /copywriting-2.0 (3-test filter): a draft line, "We notice everyone," failed the falsifiability test (unfalsifiable blanket claim). Cut and replaced with the specific, observable sequence, drifts back, asks where they're from, ten minutes later the guest is pointing things out themselves, which passes all three tests.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga, Schwartz) then /copywriting-2.0 (3-test filter). Consent flag applies; production flag: not confirmed as formal guide practice.

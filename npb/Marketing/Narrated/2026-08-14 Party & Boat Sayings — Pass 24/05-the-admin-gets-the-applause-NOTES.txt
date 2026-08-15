@@ -1,0 +1,30 @@
+PIECE 05 — Heartfelt / corporate lane — "The Admin Gets the Applause"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: Corey Henry & The Treme Funktet-style current funk (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody on every corporate trip did the actual work of booking it.  [wide shot: corporate group boarding, one guest checking a clipboard/phone]
+ 4.0s  Usually not the boss. Usually the person whose title nobody remembers on the org chart.  [guest coordinating group, checking names off]
+ 8.5s  About twenty minutes in, a crew member finds a quiet second and says it out loud.  [crew member leaning over, speaking to the group]
+12.5s  "Y'all should know, Sarah put this whole thing together."           [group turning, clapping for the coordinator, she's surprised]
+17.0s  She didn't expect that. Neither did her boss, honestly.             [coordinator laughing, a little embarrassed, genuine]
+21.0s  Whoever plans the trip rarely gets the credit for it. Today, for once, she does.  [wide shot, group cheering, boat underway]
+
+ON-SCREEN TEXT TREATMENT:
+The coordinator's first name only, as a small lower-third graphic timed to the applause line ("Sarah"), then clears. Use a placeholder name unless the real coordinator has consented to being identified on camera.
+
+SHOT LIST:
+- Wide shot: corporate group boarding, coordinator visibly organizing (opener)
+- Coordinator checking names off, managing logistics
+- Crew member pulling the group's attention for a quiet moment
+- The shout-out line delivered, group turning to applaud
+- Coordinator's surprised, genuine, slightly embarrassed reaction
+- Closing: wide cheering shot, boat underway
+
+PRODUCTION / CONSENT FLAG: This piece names a specific real role on camera. Standard Social Capture Playbook filming ask applies ("Y'all good if I grab a few clips for our Instagram?"). The coordinator's actual name should only appear on screen with explicit consent; "Sarah" here is a placeholder for the format, not tied to any real booking, unless a specific consenting coordinator is cast for the shoot.
+
+SOURCE GROUNDING: Not adjacent to any of the 84 prior pieces, none are built around a corporate booking coordinator specifically. Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #61, "The 'your admin is a legend' move. If an executive assistant or office manager booked, publicly thank them on the boat. 'Sarah put this whole thing together, so let's give Sarah a round of applause.'" This is the first piece across all nine passes built without a toast at its center for a corporate group; the prior corporate piece, Pass 17's "The Corporate Toast Nobody Expected," used the retired toast-as-spine device. This one is a shout-out and applause, not a toast, deliberately distinct in structure.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga, proof over assertion, plus Blair Warren's instinct to make invisible, thankless work visible, which builds trust with future corporate bookers watching this). Then /copywriting-2.0 (3-test filter): a draft closer, "It's the little things," failed the falsifiability test (generic, any business could say it). Cut and rewritten to "Whoever plans the trip rarely gets the credit for it. Today, for once, she does," specific to the moment shown.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga, Blair Warren) then /copywriting-2.0 (3-test filter). Consent flag: real coordinator name only with explicit consent.

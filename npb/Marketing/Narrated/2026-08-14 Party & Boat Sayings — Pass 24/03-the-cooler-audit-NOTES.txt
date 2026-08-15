@@ -1,0 +1,28 @@
+PIECE 03 — Heartfelt / process, hospitality-proof lane — "The Cooler Audit"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: Kermit Ruffins-style warm trad-jazz, feel-good (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Groups bring their own cooler. That's the deal, BYOB.              [wide shot: guests carrying a cooler down the dock]
+ 3.0s  Before anybody boards, a deckhand looks inside it anyway.          [deckhand glancing into an open cooler, casual]
+ 6.0s  Not checking what's in it. Checking what's not.                    [close-up: deckhand's hand, extra ice bag nearby]
+ 9.5s  If the ice is running low, more goes in before the ropes come off.  [deckhand adding ice to the cooler, guest surprised]
+13.5s  Nobody paid extra for that. Nobody's cooler runs dry by hour two either.  [wide shot, guests reaching into a well-stocked cooler]
+17.5s  Small thing. Still the difference between a good day and a great one.  [closing shot, boat pulling away, group relaxed]
+
+ON-SCREEN TEXT TREATMENT:
+None. The process reads clean without captions competing with it.
+
+SHOT LIST:
+- Wide shot: guests carrying a cooler down the dock (opener)
+- Deckhand glancing inside an open cooler, casual, unhurried
+- Close-up: deckhand's hand, extra ice bag staged nearby
+- Ice topped off before departure, guest noticing, mildly surprised
+- Guests reaching into a well-stocked cooler mid-trip
+- Closing: wide shot, boat pulling away, group relaxed
+
+SOURCE GROUNDING: Not confirmed as current practice. Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #11, "The cooler audit: When the group arrives with their BYOB cooler, have a crew member casually check it... Don't let anyone run out of ice. Ever." Confirm with a captain or deckhand before treating as standard procedure. Structurally similar to Pass 23's "The Headcount That Never Adds Up" (a boring-but-important process piece used as safety/hospitality proof), a validated category distinct from the retired "fixed comedic one-liner" device.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga, proof over assertion, showing the actual ice check instead of claiming "we take care of our guests"). Then /copywriting-2.0 (3-test filter): a draft closer, "That's just how we do things here," failed the falsifiability and ownability tests (generic, any business could say it). Cut and rewritten to "Nobody's cooler runs dry by hour two either," specific and checkable.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 24, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter). Production flag: unconfirmed as current practice, confirm with ops.
