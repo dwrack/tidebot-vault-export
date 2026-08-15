@@ -1,0 +1,11 @@
+PIECE 70 — Funny/Quotable lane — Groomsman / practical FAQ — "Tip Jar Diplomacy"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: light acoustic-pop bed, warm, no big swells   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody hands the captain a card machine.                                    [Captain at the helm, guests nearby]
+ 2.6s  It's cash, Venmo, or whatever's left in your pocket by the time we dock.     [close on hands passing cash/phone to a crew member]
+ 6.0s  The crew's not on commission.                                               [Groomsman mid-line, casual]
+ 8.0s  They're also not NOT counting.                                              [Groomsman grinning, comedic pause]
+10.6s  Take care of the people who took care of your whole day.                    [wide shot, crew and guests high-fiving at the dock]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,29 @@
+PIECE 06 — Funny / running joke lane — "Don't Tell My Mother"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: Rebirth Brass Band-style playful bounce bed (clearance unconfirmed)   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Four words come up on almost every cruise.                        [group laughing, someone about to do something bold]
+ 3.0s  "Don't tell my mother."                                           [guest's line, on-screen text overlay of quote]
+ 5.5s  Said right before the dance move. Right before the second drink.  [guest dancing, cutaway to a drink being poured]
+ 9.5s  Right before the group photo nobody's printing but everybody's keeping.  [group posing for a photo, exaggerated pose]
+14.0s  We don't tell anybody's mother. That's not our job.                [captain or deckhand laughing, shaking their head]
+17.5s  Your secrets are safe. Your dance moves are not.                   [group laughing at a replayed video clip on someone's phone]
+
+ON-SCREEN TEXT TREATMENT:
+The quote "DON'T TELL MY MOTHER" stamps in bold each time it's implied by the visual beat (dance move, drink, photo pose) — a recurring caption gag that reappears three times across the piece rather than a single caption up front. Each stamp is quick, in and out within a beat, so it reads as a running bit rather than clutter.
+
+SHOT LIST:
+- Group laughing, pre-dare energy, someone about to do something bold
+- Quote line delivered, first caption stamp
+- Dance-move cutaway, second caption stamp
+- Drink-pour cutaway, folded into the same beat as the dance move
+- Exaggerated group photo pose, third caption stamp
+- Crew member's mock-serious "not our job" reaction, headshake, small smile
+- Closing: group laughing at a replayed clip on someone's phone (a genuinely common real behavior, easy to catch candidly)
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — this is an original catchphrase device built around a real, common thing people say before doing something minor and harmless in front of friends. Distinct from every prior pass's running-joke pieces (the boat bell in Pass 9, the aux cord chain of custody in Pass 14, the surprise song in Pass 15, the poker chip bet in Pass 16, the pronunciation correction in Pass 17) — none of those are built around a spoken catchphrase that recurs as an on-screen caption stamp across multiple unrelated moments in the same piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — a repeatable line that earns its own reappearance, pulling the viewer through multiple small payoffs instead of one big one). Then /copywriting-2.0 (3-test filter): passed clean. The closer ("Your secrets are safe. Your dance moves are not") is specific, visualizable against literal phone footage, and distinct enough that no generic "good times on the water" competitor caption could land the same joke.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

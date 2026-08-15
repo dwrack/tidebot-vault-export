@@ -1,0 +1,28 @@
+PIECE 08 — Funny / character lane — "I'm Never Getting in That Water"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Brian (ElevenLabs)   Music: Jon Cleary-style mellow instrumental bed, kept low (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody has to get in the water. Doesn't matter. Somebody still says it.  [guest looking at black water, gator nearby, wary]
+ 4.0s  "I am never getting in that water."                               [guest's line, on-screen text overlay of quote]
+ 6.5s  Said by someone who was never going to. Said with total conviction anyway.  [guide smiling, guest still staring at the water]
+11.0s  Guide's heard it a thousand different ways. Never gets old.        [guide chuckling softly, steering]
+14.5s  You're in a boat. Nobody's asking you to.                         [wide shot, gator sliding through the water alongside the boat]
+18.0s  Say it loud anyway. It's part of the tour.                        [group laughing, boat gliding on]
+
+ON-SCREEN TEXT TREATMENT:
+Quote-caption pill on the guest's declaration line only, styled slightly oversized and dramatic (bold, a touch theatrical) to match the mock-seriousness of a guest declaring total conviction about something nobody asked them to do. No text on any other line.
+
+SHOT LIST:
+- Guest eyeing black water, gator visible nearby, wary body language
+- Declaration line, on-screen quote
+- Guide's amused, patient reaction; guest still staring at the water
+- Guide chuckling, steering, low-key beat
+- Wide shot: gator sliding alongside the boat, no danger to guests, calm water
+- Closing: group laughing, boat gliding on
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — built from real, common guest behavior on wildlife tours (reflexive declarations about water/wildlife that have zero bearing on an actual boat tour where nobody's asked to enter the water). Distinct from Pass 9 Piece 11 ("Gator, Turtle, or Stick," a wildlife-ID guessing game) and Pass 16 Piece 07 ("No Guarantees, Just Good Odds," a wildlife-sighting FAQ) — this piece isn't about identifying or predicting wildlife at all, it's a character beat about a guest's own (unprompted) declaration.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga — let a guest's dramatic overreaction to zero actual risk play completely straight, since undercutting it with a wink would kill the joke). Then /copywriting-2.0 (3-test filter): flagged "a thousand different ways" and "never gets old" as candidates for a cut (both read close to unfalsifiable-absolute territory, the same failure mode caught in Pieces 02 and 05). Kept both after review — unlike those two cuts, these read clearly as idiomatic exaggeration ("a thousand," a common spoken-English hyperbole) rather than a literal, checkable claim, and Brand Story Section 4 explicitly allows "a little humor." The distinction: "nobody's ever mad about it" claims a verifiable fact about every guest's reaction; "heard it a thousand different ways" is plainly figurative in normal speech.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter).

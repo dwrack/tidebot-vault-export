@@ -1,0 +1,32 @@
+PIECE 05 — Funny / captain line lane — "Somebody Always Asks If We Can Go Faster"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-RogerNeural (free tier)   Music: The Soul Rebels-style chill funk bed, low-key (clearance unconfirmed)   Length: 19.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every cruise, somebody asks the same question.                    [guest leaning toward Captain Ben, mid-question]
+ 3.0s  "Can we go faster?"                                               [guest's line, on-screen text overlay of quote]
+ 5.0s  Captain's answer never changes.                                   [captain's small knowing smile]
+ 7.5s  "This is faster. You're just relaxed now."                        [captain's line, on-screen text overlay]
+10.5s  They laugh. Then they lean back.                                  [guest laughing, settling back into their seat]
+13.5s  Nobody asks twice.                                                [guest looking out at the water, content]
+16.5s  Turns out slower was the whole point.                             [wide shot, boat gliding through bayou, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+Dialogue-style quote captions on both the guest's question and the captain's answer, deadpan plain font (not the bouncy caption pill used on the more high-energy pieces in this pass) — the humor is in the flat, unbothered delivery, so the on-screen text should match that register rather than oversell it.
+
+SHOT LIST:
+- Guest leaning toward Captain Ben, mid-question (candid, not staged)
+- Question caption on screen
+- Captain's small, knowing smile — no exaggerated reaction, understated
+- Answer caption on screen
+- Guest laughing, settling back into their seat (Shot #2 variant, reaction beat)
+- Guest watching the water, relaxed, content (quiet beat, no text)
+- Wide golden-hour closer: boat gliding through the bayou (Shot #6-adjacent, mid-cruise version)
+
+PRODUCTION FLAG (read before shooting): like Piece 02, this line is not confirmed as an existing Ben bit. Confirm with Ben (or whichever captain gets asked this question most often — likely all of them, at some point) whether a real stock answer already exists, and use that instead if so. If not, this is a pitch line to test on real cruises before treating it as an established routine on camera.
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — built from the general brand principle in Brand Story & Values Section 3 ("1 hour 45 minutes on the water... enough time to actually settle in") reframed as a captain's in-the-moment answer to a guest who wants the opposite of what the product is designed to deliver. Distinct from every prior pass's captain-line pieces (Pass 9 Piece 01's toast, Pass 9 Piece 04's house rules, Pass 14 Piece 06's "one more song" negotiation, Pass 17 Piece 05's captain-intro compilation) — none of the prior pieces address speed, pacing, or the "can we go faster" question at all.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Schwartz — meet the guest's stated desire, then reframe it as something they already have, rather than refusing it outright). Then /copywriting-2.0 (3-test filter): cut "Nobody's ever mad about the answer" — the same unfalsifiable-absolute failure mode caught in Piece 02's original closer — and replaced with "They laugh. Then they lean back," which is concrete, visualizable, and checkable against real footage rather than an unverifiable claim about every guest's reaction.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Schwartz) then /copywriting-2.0 (3-test filter). Production flag above must be resolved before this is scheduled as a shot.

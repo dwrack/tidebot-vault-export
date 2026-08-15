@@ -1,0 +1,30 @@
+PIECE 07 — Funny / ritual, brand character lane — "A Toast to the Boat Herself"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: Hot 8 Brass Band-style bounce bed with a light tiki/steel-drum accent (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Eventually, somebody toasts the boat.                             [group raising cups, looking around the deck]
+ 3.0s  Not the captain. Not the group. The actual boat.                  [close-up: a hand touching the rail affectionately]
+ 6.5s  "To Freaky Tiki, for holding all of us and our decisions."         [guest's toast line, on-screen text overlay of quote]
+11.0s  Different boat, different name, same energy.                      [quick cuts: Twerkin Tiki, Bayou Boogie, Party Queen name signage/detail shots]
+14.5s  Four boats. Each one's basically a fifth friend at this point.     [wide shot: fleet at the marina, golden hour]
+18.5s  Toast her too. She's earned it.                                   [closing shot: the boat pulling away from the dock]
+
+ON-SCREEN TEXT TREATMENT:
+A quick lower-third boat-name tag ("FREAKY TIKI") flashes in during the toast line, styled like a name-tag graphic. During the fleet-montage beat (11.0s–14.5s), the tag cycles through the other three names as each boat cuts into frame ("TWERKIN TIKI" / "BAYOU BOOGIE" / "PARTY QUEEN"). No text after that point — let the marina wide shot and closing departure play clean.
+
+SHOT LIST:
+- Group raising cups, looking around the deck (establishing, low-key)
+- Close-up: a hand affectionately touching the boat's rail
+- Toast line delivered, name tag on screen
+- Fleet montage: quick cuts of the other three boats' name signage/detail shots, tags cycling
+- Wide shot: full fleet at the marina, golden hour
+- Closing: the boat pulling away from the dock
+
+CASTING/PRODUCTION NOTE: whichever boat is actually being filmed that day should get the toast — do not force the "Freaky Tiki" line and name tag if the crew is shooting on Twerkin Tiki, Bayou Boogie, or Party Queen that trip. Swap the boat name in the VO line and the on-screen tag to match whichever boat is real that day. This mirrors the same flexibility note Pass 9 Piece 01 used for its captain-toast casting ("keep the name generic... rather than force it if it's a different captain that day").
+
+SOURCE GROUNDING: Directly pulled from Brand Story & Values Section 3, "Fleet with personality" ("Freaky Tiki (25 cap), Twerkin Tiki (25 cap), Bayou Boogie (18 cap), Party Queen (22 cap). Each party boat has its own thing going on."). This piece turns that existing brand fact into an actual guest ritual rather than restating it as marketing copy. Distinct from Pass 9 Piece 06 ("Boat Names Aren't Random," a did-you-know piece explaining where the names came from) — this piece assumes the audience already knows the names have personality and builds a toast ritual on top of that fact instead of explaining it.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy — the product itself earns the affection, stated plainly and specifically, no forced sentimentality). Then /copywriting-2.0 (3-test filter): the toast line passed clean on all three tests — visualizable, falsifiable against real toast footage (either guests actually do this or they don't), and specific enough (the exact boat name, "our decisions") that no other operator's generic "our boats have character" copy could say it. No cuts.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter).

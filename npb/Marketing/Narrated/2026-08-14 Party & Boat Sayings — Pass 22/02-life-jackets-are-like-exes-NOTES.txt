@@ -1,0 +1,28 @@
+PIECE 02 — Funny / captain line lane — "Life Jackets Are Like Exes"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: Free Agents Brass Band-style light, comedic-timed bed (clearance unconfirmed)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain's got one line for the life jacket talk.            [Captain Poppa Charles holding up a life jacket, dockside]
+ 3.5s  "Life jackets are like exes. Hope you never need one again, but you're glad it's right there."  [captain delivering the line, group laughing]
+ 8.5s  It's corny. It works anyway.                                      [group laughing, someone repeating the line to a friend]
+11.5s  You laugh, then you actually put the thing on.                    [guests checking/putting on life jackets, attentive]
+15.0s  Funniest safety talk on the river. Still counts as one.           [captain nodding, thumbs up, boat pushing off]
+
+ON-SCREEN TEXT TREATMENT:
+Bold quote-caption pill on the captain's line only, styled like a stand-up punchline card (dark background, white bold text) — appears when the line lands, clears within a beat. No text on any other line; let the reactions carry the rest.
+
+SHOT LIST:
+- Captain holding up a life jacket dockside, addressing the group (Shot #1 variant)
+- The joke line delivered, group reaction beat (Shot #5)
+- Candid detail: a guest turning to repeat the line to a friend, laughing (Shot #4/#2 blend)
+- Guests actually putting jackets on, attentive (functional beat, doubles as safety-compliance footage if ever needed)
+- Captain thumbs-up, boat departing (Shot #6 reverse / #3)
+
+PRODUCTION FLAG (read before shooting): this line is not confirmed as an existing captain bit. Check with Poppa Charles, Ben, or Eddie whether any of them already has a stock life-jacket line during the safety talk — if so, use their real line instead of this one. If not, this is a pitch: coach one of them to adopt it, let it get a few real reps on actual cruises, and confirm it lands before treating it as an established routine on camera. Do not shoot this as if it's already a known bit if it isn't yet.
+
+SOURCE GROUNDING: Loosely adjacent to Unreasonable Hospitality idea #18 ("give them a character, not a job title" for the captain intro), applied here to the safety briefing instead of the intro. Distinct from Pass 9 Piece 04 ("Captain's House Rules," a mock numbered-list bit about BYOB/playlist/Instagram policy) — that piece never mentions life jackets or safety equipment specifically; this one is built entirely around one specific joke line about the life jacket itself.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — humor as the mechanism that gets a guest to actually absorb necessary safety info instead of tuning it out). Then /copywriting-2.0 (3-test filter): the original closer, "Nobody's ever not laughed," was cut — an unfalsifiable absolute with a double negative, impossible to verify and reads like ad copy, not something a real captain would say. Replaced with "It's corny. It works anyway" — honest, specific, matches the brand voice rule "when in doubt, read it out loud, if you wouldn't say it to someone at a bar, don't post it."
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag above must be resolved before this is scheduled as a shot.

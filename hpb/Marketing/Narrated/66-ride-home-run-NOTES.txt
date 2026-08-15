@@ -1,0 +1,11 @@
+PIECE 66 — Funny/Quotable lane — Deck-hand slang / post-trip ritual — "The Ride Home Run"
+Voice: en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: trap-pop hybrid, ~100 BPM, energy dropping off by the end to match the wind-down   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip ends the same way.                                               [boat pulling up to the dock at dusk]
+ 2.4s  Not with a toast. With everybody suddenly starving.                         [guests walking off the dock, sunburned, laughing]
+ 5.0s  Windows down, still in your swimsuit, arguing about where to stop.          [guests loading into a car, sandy flip-flops visible]
+ 8.4s  Queso, at nine PM, tastes different after a day on the water.               [close on food, hands reaching in, casual]
+11.6s  Nobody plans the ride home run. It just happens.                            [car pulling out of the marina lot, headlights on]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

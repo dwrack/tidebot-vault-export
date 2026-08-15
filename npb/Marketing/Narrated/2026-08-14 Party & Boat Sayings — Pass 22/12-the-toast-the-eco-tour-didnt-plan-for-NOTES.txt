@@ -1,0 +1,38 @@
+PIECE 12 — Heartfelt / ritual lane — "The Toast the Eco Tour Didn't Plan For"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: Preservation Hall Jazz Band-style quiet trad-jazz bed, near-silent under the VO (clearance unconfirmed)   Length: 23.5s
+
+SCRIPT (timed to narration):
+ 0.0s  This tour isn't built for toasts. No bell. No BYOB.                [quiet wide shot, boat gliding through still water]
+ 4.0s  Every so often, somebody brings one anyway.                       [guest's hand quietly holding a small flask or cup, non-identifying]
+ 7.5s  A flask, a quiet cup, a few words nobody else needed to hear.      [guest's back/silhouette, others giving space, no faces]
+12.0s  Guide doesn't announce it. Just slows the boat a little.          [guide's hand easing off the throttle, subtle]
+15.5s  Some toasts aren't for the whole boat. This one's just for them.  [wide shot, still water, cypress reflection]
+19.5s  We'll still give you the quiet for it.                            [closing shot, cypress reflection, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+None, at any point. This is the only piece across all six passes of this slate (72 pieces total) built to carry zero on-screen text by deliberate design — no quote captions, no fact chips, no lower-thirds. The moment this piece describes doesn't get captioned, quoted, or explained on screen. If this piece ever gets cut for social, resist the urge to add a caption "for engagement" — that would undercut the entire point of the piece.
+
+SHOT LIST (all non-identifying by design — see consent flag below):
+- Wide still-water establishing shot, quiet, no people in frame
+- A hand holding a small flask or cup — hand only, no face
+- A guest's back or silhouette, other guests visibly giving them space — no faces, no identifiable framing
+- The guide's hand easing off the throttle, a subtle, small gesture
+- Wide shot: still water, cypress reflection, no people
+- Closing: cypress reflection, golden light, boat continuing on
+
+CONSENT / PRODUCTION FLAG — READ BEFORE ANY FOOTAGE IS PLANNED:
+This piece scripts a private, personal toast. `SOPs/Deckhand — Social Capture Playbook.md`'s Consent section explicitly names this exact category of moment as one that should stay private: "Don't film bachelorette / private group moments that obviously feel like they should stay private (private toasts, breakdowns, etc.)." That rule applies here without exception.
+
+This means:
+- Do NOT point a camera at an actual guest during a real private toast to capture their face or their words.
+- Do NOT record the audio of what they actually say.
+- Every shot in the list above is written to be non-identifying (hands, backs, silhouettes, water, the guide's hand on the throttle) specifically so this piece can be built without violating that rule.
+- If a real moment like this happens on an actual tour, the right move is for the guide to check in with the guest afterward and ask if they'd be comfortable with even non-identifying footage being used — not to film in the moment and ask forgiveness later.
+- The safer default, and the one this note recommends: shoot this piece as a recreation, with a crew member standing in for the "guest" in the non-identifying shots (hand on a flask, back turned, etc.). That removes any real consent risk entirely while keeping the piece exactly as scripted. Flag this choice for David in the main slate doc's Next Steps rather than defaulting to "capture it if it happens."
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — built from the contrast between this product's design (per Brand Story & Values Section 1: "a slower, quieter, wildlife-and-naturalist trip... for people who want to learn the bayou, not throw a party on it") and Pass 9 Piece 09's "The Quiet Toast" and Section 2's "every occasion is valid" language from the party-fleet side. This piece deliberately does the opposite of Pass 9 Piece 09 (which is about the guide-initiated hush moment) — here, nothing is initiated by staff at all; the whole point is that this happens without any crew ritual around it, on a product that isn't built for toasts in the first place.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert — restraint; say less, let one specific, small, real detail carry all the weight rather than explaining the emotion). Then /copywriting-2.0 (3-test filter): the script itself passed clean at the line level — no unfalsifiable absolutes, no invented specifics. Following Pass 17's precedent on its absent-friends toast, this piece deliberately names no specific occasion or reason for the toast (not a memorial, not an anniversary, not anything specific) — that's not a gap to fill in later, it's the correct call, since naming a reason would require either inventing a sensitive detail that isn't the crew's to assign, or asking a real guide/deckhand to disclose something a real guest told them in confidence. The real editorial work on this piece was the consent flag above, not a word-level cut.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter). CONSENT FLAG ABOVE MUST BE RESOLVED — pick recreation-with-crew-standin or real-moment-with-after-the-fact-consent before any footage is planned. Do not shoot this by default-capturing a real private moment.

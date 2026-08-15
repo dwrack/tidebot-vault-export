@@ -1,0 +1,30 @@
+PIECE 11 — Did-you-know / funny lane — "Wait, Is That a Nutria or a Beaver?"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: Sweet Crude-style atmospheric bed (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Happens on almost every tour. Somebody spots one and guesses wrong.  [guest pointing at a swimming rodent, curious]
+ 3.5s  "Is that a beaver?"                                                [guest's line, on-screen text overlay of quote]
+ 5.5s  Guide's answer, every time: "Nope. Nutria. Look for the orange teeth."  [guide's line, on-screen text overlay of quote]
+10.5s  Twenty-pound swamp rodent. Nobody invited it. Everybody tolerates it now.  [close-up: nutria swimming, orange teeth visible if footage allows]
+15.0s  Not native. Not going anywhere. Still kind of a local celebrity.    [guests laughing, watching the nutria swim off]
+19.0s  Wrong guess, right lesson.                                         [wide shot, boat gliding past marsh grass]
+
+ON-SCREEN TEXT TREATMENT:
+A "fact chip" graphic ("NUTRIA — 20 LB SWAMP RODENT") appears at the 10.5s beat, styled consistent with prior passes' did-you-know pieces (small, clean, corner-anchored, not full-screen). Quote captions on the guest's guess and the guide's correction; fact chip only on the standalone fact line.
+
+SHOT LIST:
+- Guest pointing at a swimming rodent, curious, guessing out loud
+- Guess caption on screen
+- Guide's correction, fact chip appearing alongside
+- Close-up detail shot: nutria swimming, orange teeth visible if the footage genuinely allows it (don't force an unclear close-up that doesn't actually show the teeth — a clean wide shot of the animal is a fine fallback)
+- Guests laughing, watching it swim off, candid
+- Wide closer: boat gliding past marsh grass
+
+SOURCE NOTE (important — this fact is not invented): the nutria fact is reused directly from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 9 (Wildlife spotlight): "Nutria: a twenty-pound swamp rodent with orange teeth that nobody invited and everybody now tolerates." That line is preserved almost word-for-word in this script's 10.5s beat because it already passes the 3-test filter on its own — dramatizing it further would have made it less specific, not more.
+
+SOURCE GROUNDING (piece structure): the beaver/nutria mix-up framing device isn't from the Admire NOLA bank — it's original to this piece, built to give the existing fact a real scenario instead of presenting it as a stand-alone caption. Distinct from every prior pass's did-you-know pieces (Pass 9 Piece 06's boat names, Pass 14 Piece 07's gator facts) because this is the first piece in any pass built around a guest's specific wrong guess as the setup.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy — teach one real, sourced fact plainly and let it be interesting on its own merits, no embellishment needed). Then /copywriting-2.0 (3-test filter): passed clean, and deliberately left close to the original source wording rather than "improving" it, since the sourced line already visualizes, falsifies, and reads as something nobody else could say.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter).

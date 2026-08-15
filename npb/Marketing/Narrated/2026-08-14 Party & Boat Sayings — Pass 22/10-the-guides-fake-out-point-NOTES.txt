@@ -1,0 +1,30 @@
+PIECE 10 — Funny / running joke lane — "The Guide's Fake-Out Point"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: Jon Cleary-style mellow instrumental bed (clearance unconfirmed)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every guide's got a bit. This one's the fake-out.                  [guide pointing dramatically off the bow]
+ 3.0s  "Everybody look, right there, eleven o'clock—"                     [guide's line mid-build, guests craning their necks]
+ 6.0s  Whole boat leans. Cameras up. Dead silent.                         [guests leaning, phones raised, tense anticipation]
+ 9.5s  "...that's a log."                                                [guide's deadpan reveal, guests groaning/laughing]
+12.5s  Works every time. Even on people who've heard about it.            [group laughing, someone shaking their head]
+16.0s  You'll fall for it too. Everybody does.                           [wide shot, guide grinning, boat moving on]
+
+ON-SCREEN TEXT TREATMENT:
+A bold "11 O'CLOCK" pointer-style caption appears with the build line, mimicking a clock-position callout. It gets replaced at 9.5s by a big deadpan "IT'S A LOG" stamp for the reveal — the caption does the comedic timing alongside the VO rather than just captioning what's already being said.
+
+SHOT LIST:
+- Guide pointing dramatically off the bow, building anticipation
+- Build line, "11 O'CLOCK" pointer caption on screen
+- Guests leaning in, phones raised, tense silence (candid group reaction)
+- Reveal line, "IT'S A LOG" stamp on screen
+- Group groan-laugh reaction, genuine
+- Wide closer: guide grinning, boat moving on
+
+PRODUCTION FLAG (read before shooting): confirm this bit is something a real guide already does, or is willing to start doing on camera, before scripting it as an established running joke. This is the same category of flag as Piece 02 and Piece 05 in this pass — a proposed bit, not yet confirmed as existing crew behavior. If no guide currently does this, either coach one to try it on a real tour first, or reframe this piece's copy from "every guide's got a bit" to something more speculative before it ships.
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — built from a common real guiding technique (the deliberate misdirect-then-reveal bit) rather than any specific hospitality moment in that document. Distinct from Pass 9 Piece 11 ("Gator, Turtle, or Stick") and Pass 15 Piece 11 ("The No-Splash Rule" — hands correction) — those are both about guests misidentifying something real; this piece is about the guide deliberately misdirecting the group toward nothing, on purpose, as a bit.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Schwartz — build anticipation toward a big reveal, then subvert the audience's own expectation as the payoff, rather than delivering what was promised). Then /copywriting-2.0 (3-test filter): "Even on people who've heard about it" was deliberately kept rather than cut as redundant — a first-pass edit would flag it as restating "works every time," but it actually adds a distinct, specific, falsifiable claim (repeat guests still fall for it) that strengthens the joke instead of padding it.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Schwartz) then /copywriting-2.0 (3-test filter). Production flag above must be resolved before this is scheduled as a shot.

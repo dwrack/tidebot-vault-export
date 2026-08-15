@@ -1,0 +1,11 @@
+PIECE 78 — Funny/Quotable lane — Groomsman / first-date observational — "You Can Always Tell"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: light, playful pop bed, small swell on "one cooler"   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody's on a first date. You can always tell.                           [wide shot, two guests slightly separate from the main group]
+ 2.8s  They brought separate coolers.                                             [close on two distinct coolers, a few feet apart]
+ 5.4s  Sat on opposite sides for the first twenty minutes.                        [wide shot, two guests across the deck from each other]
+ 8.4s  By hour two, it's one cooler.                                              [same two guests now sharing a cooler, closer together, laughing]
+11.4s  That's the whole update.                                                   [Groomsman, dry, final beat]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

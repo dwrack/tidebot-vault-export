@@ -1,0 +1,13 @@
+PIECE 65 — Funny/Quotable lane — Captain-line / objection-kill — "The Weather Policy Nobody Reads"
+Voice: EL-Eric ("The Captain," recurring)   Music: light acoustic-guitar bed under the first half, swells into the standard party bed on the drizzle/roof shot   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  The forecast said fifty percent.                                            [Captain checking his phone at the dock, guests boarding behind him]
+ 2.6s  Fifty percent isn't a policy. It's a guess with a percentage sign on it.     [Captain shrugs, tucks phone away]
+ 6.2s  We watch the radar, not the little cloud icon.                              [close insert: marine/weather radar screen]
+ 9.4s  Lightning moves the trip. A little drizzle doesn't.                         [light rain on the boat's covered roof, party continuing underneath]
+13.0s  Bring a poncho just in case. Bring a good attitude regardless.               [Captain grinning under the roof, guests laughing, dry despite the weather]
+
+Note: does NOT state a specific cancellation/refund policy — that needs Connor's sign-off before airing. See Vol. 5 doc Open Items.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

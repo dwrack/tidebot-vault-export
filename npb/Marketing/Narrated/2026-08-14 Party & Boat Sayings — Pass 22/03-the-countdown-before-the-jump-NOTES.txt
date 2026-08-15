@@ -1,0 +1,30 @@
+PIECE 03 — Funny / running joke lane — "The Countdown Before the Jump"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: Big Freedia-style bounce bed with a percussion hit timed to the countdown (clearance unconfirmed)   Length: 20.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always dares somebody else to do something.              [group circling one guest, laughing, egging them on]
+ 3.0s  Nobody starts the countdown on purpose. It just starts.           [group beginning to chant, hands up]
+ 6.0s  Three. Two. One.                                                  [group chanting in unison, energy building]
+ 8.5s  Whatever happens next, the whole boat's in on it.                 [guest mid-dare, group cheering]
+12.0s  Half the time it's a shot. Half the time it's a dance move nobody planned.  [shot glass raised / impromptu dance move, group laughing]
+16.5s  Either way, everybody counts.                                     [group laughing, high-fiving, wide deck shot]
+
+ON-SCREEN TEXT TREATMENT:
+Big animated "3... 2... 1..." numbers, bold caps, timed exactly to the VO countdown beat (6.0s–8.0s), then clear immediately. No other on-screen text — the numbers are the only caption this piece needs, and they double as a sound-off hook since the countdown reads even muted.
+
+SHOT LIST:
+- Group circling/egging on one guest, building energy (candid group reaction, Shot #2 variant)
+- Chant starting, hands going up
+- Countdown numbers on screen, synced to VO and group chant
+- The dare/action moment itself — reaction shot on the group, not a staged "performance" shot
+- Detail cutaway: shot glass raised OR impromptu dance move (whichever is actually captured that trip — don't force both)
+- Wide closer: high-fives, laughing, full deck energy (Shot #3 variant)
+
+GUARDRAIL NOTE (important — read before shooting): an earlier draft of this piece had the dare land on a cannonball into the water. That was cut before this piece was finalized. This fleet's product is a private boat cruise, not a swim stop — nothing in Brand Story & Values or any ops document confirms swimming/jumping in as an offered or safe activity, and scripting it here would misrepresent the product and create a real liability/accuracy problem if anyone tried to recreate it. The dare in this script is deck-safe by design: a drink or a dance move, nothing that puts a guest in the water.
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — this is built from the general "engineer the energy curve" principle in idea #32 (the second wind / planned re-igniter), applied as a guest-initiated moment rather than a crew-initiated one. Distinct from Pass 14 Piece 06 ("One More Song, Captain") — that piece's on-screen caption uses the word "countdown" decoratively for a "LAST SONG..." caption gag; it is not a countdown-chant piece and shares no structural or verbal device with this one beyond the incidental word.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga — build tension toward a release beat, structure the whole piece around the countdown as its spine). Then /copywriting-2.0 (3-test filter): the line-level copy passed clean, but the filter's "can I falsify it" test caught the bigger structural problem — the cannonball reference implied an activity that isn't confirmed to exist on this product. Rewritten to the dance-move/shot dare, which keeps the same energy without the misrepresentation risk.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter).

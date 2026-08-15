@@ -1,0 +1,11 @@
+PIECE 79 — Funny/Quotable lane — Deckhand / logistics comedy — "Booking Said Twenty"
+Voice: en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: upbeat trap-pop hybrid, ~100 BPM, small comedic pause before the last line   Length: 13s
+
+SCRIPT (timed to narration):
+ 0.0s  Booking said twenty.                                                       [Deckhand, checking a clipboard/phone at the dock]
+ 2.4s  Twenty-six people got out of that Uber.                                    [guests piling out of a rideshare, laughing, more than expected]
+ 5.2s  We counted twice.                                                          [Deckhand, deadpan glance at camera]
+ 7.4s  Boat holds twenty-six. We know. We built it that way.                      [wide shot, full boat, everyone fitting comfortably]
+10.8s  Still counted twice.                                                       [Deckhand, small grin, final beat]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,28 @@
+PIECE 04 — Funny / toast lane — "Cheers to Whoever's Paying"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: Hot 8 Brass Band-style bounce bed (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone always yells it before the first toast even starts.       [group gathered, cups raised, energy building]
+ 3.0s  "Cheers to whoever's paying!"                                     [guest shouting the line, group laughing]
+ 5.8s  Nobody checks their phone to find out. Everybody already knows.   [group turning, laughing, looking at one guest]
+ 9.5s  It's always the same friend. The one who actually books things.   [organizer laughing, slightly embarrassed, cup raised]
+13.5s  So this toast is actually for them. They ran the group chat. They earned it.  [group toasting the organizer directly, genuine]
+18.0s  Somebody always makes it happen. Buy them a drink.                [closing wide shot, group cheering, sunset]
+
+ON-SCREEN TEXT TREATMENT:
+Quote-caption pill on the shouted line only ("CHEERS TO WHOEVER'S PAYING!"), high-energy bounce-in animation matching the group's shout. No text anywhere else in the piece — the redirect to the organizer plays better without a caption explaining the joke.
+
+SHOT LIST:
+- Group gathering, cups raised, pre-toast energy (Shot #2 variant)
+- The shouted line, group laughing (candid, not staged-to-camera)
+- Group turning and laughing toward one specific guest (whip pan or quick cut)
+- Organizer's embarrassed laugh, cup raised (Shot #5/#4 blend — a genuine reaction, not posed)
+- Group toasting the organizer directly — this should read as sincere, not just a punchline
+- Closing wide shot: group cheering, sunset (Shot #6)
+
+SOURCE GROUNDING: Directly adjacent to Unreasonable Hospitality idea #61 ("The 'your admin is a legend' move" — publicly thanking the person who organized), adapted from the corporate-outing context in idea #61 to the general party-fleet context, since idea #61 is written specifically for a corporate booking and this piece is written to work for any group type (bachelorette, birthday, friend group) without requiring a corporate setting. Distinct from Pass 17 Piece 03 ("The Corporate Toast Nobody Expected," a corporate executive-acknowledgment toast) because this piece is generic to any group and specifically about the person who did the *booking and planning*, not a boss/leadership acknowledgment.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy — state the real, observable behavior plainly, let the truth of it do the selling rather than exaggerating). Then /copywriting-2.0 (3-test filter): an early draft assumed the organizer was "she" by default, written with a bachelorette-party lens carried over from brainstorming. Caught on the "can nobody else say it" test in a broader sense — nothing about this script requires the organizer to be any particular gender, and defaulting to one without any actual person specified isn't earned by the content. Rewritten throughout to "they/them."
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter).

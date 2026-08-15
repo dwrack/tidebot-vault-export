@@ -1,0 +1,11 @@
+PIECE 75 — Funny/Quotable lane — Captain-line / referral — "We Don't Run TV Ads"
+Voice: EL-Eric ("The Captain," recurring)   Music: warm, confident pop bed, steady build   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  We don't run ads on TV. We've never needed to.                              [Captain, direct to camera, deck behind him]
+ 3.0s  Every group that gets on this boat brings the next group.                   [wide shot, guests boarding, waving to someone behind them]
+ 6.2s  Somebody's cousin. Somebody's coworker. Somebody's whole book club.          [quick cuts: different group types boarding across charters]
+ 9.8s  That's the entire marketing plan.                                           [Captain, small shrug, grin]
+12.6s  Tag the friend who needs to see this.                                       [wide shot, group cheering, on-screen text emphasis]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

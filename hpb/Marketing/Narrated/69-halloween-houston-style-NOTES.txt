@@ -1,0 +1,10 @@
+PIECE 69 — Funny/Quotable lane — Sunscreen Friend / holiday-specific — "Halloween, Houston-Style"
+Voice: en-US-BrianNeural ("The Sunscreen Friend," recurring, free tier — NOT EL-Brian)   Music: light, bouncy pop bed, low in the mix, small horn-stab on the last line   Length: 13s
+
+SCRIPT (timed to narration):
+ 0.0s  It's Houston. Halloween can still hit ninety degrees.                        [guest boarding in a full costume, visibly warm]
+ 2.8s  Somebody's still showing up in the full werewolf costume anyway.             [close on costume detail, mask/fur, whatever's committed]
+ 6.0s  By hour two, the mask's in the cooler and the tail's still on.               [mask sitting next to drinks in a cooler, guest still in costume bottom]
+ 9.8s  Commitment issues. Just not costume ones.                                    [guest laughing, fanning themselves, still in costume]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,11 @@
+PIECE 72 — Funny/Quotable lane — Mock-PSA / practical distinction — "A Brief Word on Sea Legs vs. Seasickness"
+Voice: en-US-RogerNeural ("Corporate/mock-PSA voice," recurring, free tier)   Music: mock-serious documentary bed, played straight, small comedic sting on the last line   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A brief word on the difference between sea legs and seasickness.            [Roger, dead serious, deck behind him]
+ 3.2s  Sea legs is walking funny for ten minutes after we dock.                    [guest wobbling slightly on the dock, laughing]
+ 6.4s  Seasickness is a whole different Tuesday.                                   [Roger, deadpan]
+ 8.6s  Clear Lake doesn't really do waves. Most people never learn the difference. [calm water shot, boat gliding smooth]
+12.2s  Most people.                                                                [Roger, single raised eyebrow, comedic hold]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

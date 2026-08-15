@@ -1,0 +1,30 @@
+PIECE 09 — Funny / heartfelt lane — "Can We Pet It?"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: Sweet Crude-style soft, atmospheric bed (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every few tours, a kid asks the question every guide's ready for.  [kid leaning over the rail, wide-eyed, pointing at a gator]
+ 3.5s  "Can we pet it?"                                                  [kid's line, on-screen text overlay of quote]
+ 5.5s  Guide never laughs at the question. Answers it like it's a good one.  [guide crouching to the kid's eye level]
+ 9.5s  "No, but you can look as long as you want. He's not going anywhere."  [guide's line, on-screen text overlay of quote]
+14.0s  Kid stares at that gator for the next ten minutes straight.        [kid watching intently, parent smiling behind]
+18.0s  Some questions don't need a yes. They just need a good answer.     [wide shot, gator drifting past, boat gliding on]
+
+ON-SCREEN TEXT TREATMENT:
+Soft, rounded font on both quote lines (the kid's question, the guide's answer) — a gentler visual treatment than the punchier, bolder captions used on the party-fleet pieces in this pass, matching the softer tone of this specific moment.
+
+SHOT LIST:
+- Kid leaning over the rail, wide-eyed, pointing at a gator (candid, general framing — see consent note)
+- Question caption on screen
+- Guide crouching down to the kid's eye level, patient expression
+- Answer caption on screen
+- Kid staring intently, parent smiling in the background (candid, general framing)
+- Wide closer: gator drifting past, boat gliding on
+
+CONSENT NOTE (per Social Capture Playbook): keep the kid's shots general and candid — over-the-shoulder, wide, from behind, or profile — rather than tight close-ups on their face, unless a parent has explicitly confirmed it's fine to use closer/identifiable footage. This matches the Playbook's standing rule on filming children.
+
+SOURCE GROUNDING: Not sourced from a specific Unreasonable Hospitality idea — built from a realistic, common exchange on any family-inclusive wildlife tour. Distinct from Pass 15 Piece 08 ("Grandma Sees It First," a sharp-eyed-elder character piece) and Pass 17 Piece 10 ("The Toddler's One Word," a toddler's single-word running joke) — this piece is a full two-line exchange between a kid and the guide, not a solo character beat, and the emotional center is the guide's patient answer rather than the kid's reaction alone.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert — a specific, real-sounding exchange between two people that needs no narrator to explain why it matters). Then /copywriting-2.0 (3-test filter): passed clean. Both quote lines are visualizable, plausible as real overheard dialogue (not a punchline dressed as dialogue), and specific to this product — a generic "kids love our tour" caption could never land the same way.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter).

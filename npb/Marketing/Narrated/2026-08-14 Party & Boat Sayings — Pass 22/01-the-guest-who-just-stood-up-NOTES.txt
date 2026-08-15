@@ -1,0 +1,30 @@
+PIECE 01 — Funny / heartfelt, ritual lane — "The Guest Who Just Stood Up"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: Rebirth Brass Band-style party anthem bed, kept low until the toast lands (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody assigns this toast. It just happens.                       [wide deck shot, group mid-conversation]
+ 3.5s  Somebody's cousin, or the quiet one, cup already in hand.         [close-up: cup raised, guest clearing their throat]
+ 7.0s  Nobody taps a glass. The boat just goes quiet on its own.         [group turning to listen, music fading naturally]
+11.0s  Ten seconds ago they were a stranger's cousin. Now it's the best line of the whole cruise.  [guest mid-toast, genuine, group reaction]
+15.5s  Somebody always stands up. We just don't know who yet.            [group cheering, cups raised together]
+19.0s  Bring your cup. You might be next.                                [closing wide shot, sunset, group toasting]
+
+ON-SCREEN TEXT TREATMENT:
+None. No captions at any point — this is the one piece in the set built to let the moment breathe without a caption competing with the toast itself. If sound-off performance data later shows this piece needs a caption to hold attention, that's a data-driven revision, not a default.
+
+SHOT LIST:
+- Wide deck shot: group mid-conversation, natural energy (establishing)
+- Close-up: a guest's cup being raised, throat-clear beat
+- Group reaction: heads turning toward the guest, music dipping naturally (not a hard cut)
+- Toast moment: guest mid-line, genuine, unscripted energy (Shot #5 variant — crew/guest moment)
+- Group cheer: cups raised together, candid (Shot #2)
+- Closing: wide sunset shot, group still toasting (Shot #6)
+
+CASTING NOTE: This works best as a real, unscripted toast caught on camera rather than a staged re-enactment — flag in #crew-content for deckhands to note (with consent) whenever a spontaneous toast happens mid-cruise, since this is a genuinely common real occurrence worth watching for rather than scheduling.
+
+SOURCE GROUNDING: No single Unreasonable Hospitality idea maps directly to this one — it's built from the pattern established across idea #21 (the crew-initiated toast) inverted: this piece is about the toast nobody on staff initiates. Distinct enough from Pass 9 Piece 01 ("The Toast Captain Ben Gives," a crew-led toast) and Pass 16 Piece 03 ("The Maid of Honor Phone Call," a planned toast) because the whole hook here is that nobody planned it and nobody knows in advance who's going to do it.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert — the specific, unnamed character device: "somebody's cousin, or the quiet one" instead of a generic "someone"). Then /copywriting-2.0 (3-test filter): passed clean on the first pass — every line is visualizable, falsifiable against real footage (either this happens on cruises or it doesn't), and specific enough that no generic "good vibes on the water" competitor reel could say it. No cuts.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 22, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter).
