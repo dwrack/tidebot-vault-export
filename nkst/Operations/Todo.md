@@ -1,6 +1,7 @@
 # NKST — Todo List
 
 ## High Priority
+- [ ] Rotate the shared `Cool6006!` password (2 Instagram accounts, Viator, Airbnb) and the plaintext PayPal password — see [[NKST — Password Rotation Plan (Aug 2026, STAGED)]] (David)
 - [ ] Build warm outreach list: Anna's, Turkey and the Wolf, The Columns, Little Dizzy's, etc. (Dylan)
 - [ ] Set group rate: $50/person for kayak and party barge (Dylan/David)
 - [ ] Dylan reaches out to 3-5 warm contacts this month (Dylan)
