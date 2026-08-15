@@ -45,10 +45,12 @@ Swept the vault after David's correction. The age-16 rule isn't only in the FAQ.
 
 The real question is whether **16 was the insurance carrier's number or ours.** The waiver draft flags that as unconfirmed. If World Insurance set it, 12 isn't ours to give.
 
+**Fleet class — RESOLVED, Dump pass 40 (2026-08-15).** One of the two sequence steps below is done. The self-checkout waiver draft self-declares the fleet: `Waiver — Self-Checkout E-Bike Rental (Wisconsin, Draft for Attorney Review).md` line 23, "The e-bike is a Class 2 fat-tire pedal-assist electric bicycle with a top assisted speed of approximately 20 mph," and line 263 confirms "Wisconsin does not impose a state-level minimum age for Class 2 e-bikes on public roads." Only Class 3 carries the state's 16-year floor. The fleet is Class 2, so the state-law side of the age question clears for 12. (Searched the vault for the actual bike brand/model/invoice to double-check the waiver's self-description — none exists anywhere, no RadPower/Aventon/QuietKat/Pedego/Trek hit, no purchase record. The waiver's own Class 2 declaration is the only source, but it's the same document David's team would rely on in an actual incident, so it's a legitimate basis to act on.)
+
 Sequence before anything goes live:
-1. Ask the carrier whether the policy specifies a minimum operator age
-2. Confirm the fleet's e-bike class (Wisconsin does set 16 for Class 3)
-3. If 12 clears both, update the two waivers and the guide quiz **before** the page
+1. ~~Confirm the fleet's e-bike class (Wisconsin does set 16 for Class 3)~~ **Done — Class 2, no state minimum.**
+2. **Ask the carrier whether the policy specifies a minimum operator age.** This is now the only open blocker. World Insurance (or whoever holds the DCKT policy) needs one phone call or email: does coverage require riders to be 16+, or is that just how the waiver draft was written before anyone checked? Nothing else moves until this comes back.
+3. If the carrier clears it, update the two waivers and the guide quiz **before** the page
 4. Then publish
 
 If 12 clears, it's a genuinely better answer for family bookings and worth the paperwork. Just not in that order.
@@ -57,8 +59,8 @@ If 12 clears, it's a genuinely better answer for family bookings and worth the p
 
 ## Actions
 
-- [ ] **Confirm with the carrier** whether the policy ties to a minimum operator age (blocks everything below)
-- [ ] **Confirm the e-bike fleet class** (Class 3 carries a Wisconsin 16-year minimum)
+- [ ] **Confirm with the carrier** whether the policy ties to a minimum operator age (blocks everything below — the only remaining blocker as of pass 40)
+- [x] ~~Confirm the e-bike fleet class~~ **Class 2, confirmed in the vault's own waiver draft (pass 40, Aug 15 2026). No Wisconsin state minimum applies.**
 - [ ] Once cleared: update both e-bike waivers + the Guide Certification Quiz answer key to match
 - [ ] **Confirm Michael got a reply.** Jul 22 to now is 20 days. Check info@doorcountykayaktours.com. If nobody answered, that booking is gone and it's worth knowing.
 - [ ] **Add the block below to the e-bike tour page** above the booking button, not in a footer policies link
