@@ -1,0 +1,15 @@
+PIECE 100 — Funny/Quotable lane — Mama Tried's voice / Holiday-specific (Father's Day), deadpan list — "Dad Joke Quota: Filled By Noon"
+Voice: EL-Brian ("Mama Tried's voice," recurring, premium)   Music: dry brass stab on each list item, same family as pieces 04/14/73/87, mute-drop on the last line   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Father's Day dad-joke count, so far.                                       [Mama Tried voice, deadpan, wide shot, dad-type guest mid-joke, group groaning]
+ 2.6s  One "is the boat cooler than the drinks." Confirmed groan.                 [close insert, group groan reactions]
+ 5.4s  One "row row row your boat," while actually rowing nothing.                [guest miming a rowing motion, laughing at himself]
+ 8.4s  Two "I'm not old, I'm vintage." Said with real confidence.                 [same dad-guest, thumbs up to camera]
+11.2s  Quota's filled. Every single year.                                         [wide shot, dad-guest laughing with family around him]
+
+On-screen text: Hook = "FATHER'S DAY DAD-JOKE COUNT, SO FAR" | Body = "quota's filled. every single year." | CTA: none.
+
+NOTE: seventh holiday in the series. Date-locked to Father's Day weekend. Companion piece in device (deadpan list) to pieces 04, 14, 73, 87 — but distinct subject matter, so it doesn't repeat a premise.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

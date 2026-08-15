@@ -1,0 +1,15 @@
+PIECE 112 — Funny/Quotable lane — Groomsman / Closer, photo-culture rarity bit — "The One Group Photo Where Everyone Actually Looks Good"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: light, dry comedic pluck under the "bad takes" montage, small warm pop swell on the final good photo   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Forty photos taken. One where everybody's eyes are open.                   [Groomsman, dry, wide shot, guests posing for a group photo, laughing between takes]
+ 3.0s  That one's the keeper. The other thirty-nine die quietly.                  [close insert, phone screen showing a photo gallery, most blurry or mid-blink]
+ 6.2s  Somebody's always mid-blink. Somebody's always looking at the cooler.      [comedic quick cuts of bad takes]
+ 9.2s  Take forty-one, though. That one's going up everywhere.                    [wide shot, the final good photo being taken, everyone actually looking at the camera]
+12.2s  One good photo a trip. That's the whole deal.                              [Groomsman, dry grin, final beat]
+
+On-screen text: Hook = "40 PHOTOS. ONE WHERE EVERYONE'S EYES ARE OPEN." | Body = "that one's going up everywhere" | CTA: none.
+
+NOTE: distinct from piece 26 (Golden Hour, phones-out photo culture), piece 59 (Photo Becomes Profile Picture), and piece 92 (Drone Guy). This is about the sorting ritual after the fact, not the taking. Closes the volume, same slot family as piece 96's closer.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

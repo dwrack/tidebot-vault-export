@@ -1,0 +1,15 @@
+PIECE 105 — Funny/Quotable lane — Announcer / Character bit, meta-toast comedy — "The Toastmaster Nobody Elected"
+Voice: EL-Daniel ("The Announcer," played mock-formal, straight)   Music: mock-formal string intro, same device family as piece 30, morphs into a warm party bed by the last line   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody elected him. He just stood up with a drink.                         [Announcer VO, mock-formal, wide shot, a guest standing up on the boat, tapping a glass]
+ 2.8s  Toast number one was thirty seconds. Toast number four was a full speech.   [guest gesturing dramatically, guests half-listening, half-laughing]
+ 6.0s  By toast six, he's thanking people who aren't even on the boat.            [comedic reaction shot, guests exchanging looks]
+ 9.2s  Nobody stops him. Somebody's recording it, actually.                       [guest filming on a phone, laughing]
+12.2s  Every group's got one. Today, it's him.                                    [wide shot, guest mid-toast, whole boat raising drinks anyway]
+
+On-screen text: Hook = "NOBODY ELECTED HIM. HE STOOD UP ANYWAY." | Body = "by toast six, he's thanking people not even here" | CTA: none.
+
+NOTE: comedy about toast culture itself, not an actual toast — distinct from every prior toast piece in the series (01, 07, 16, 19, 30, 32, 38, 48, 64).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

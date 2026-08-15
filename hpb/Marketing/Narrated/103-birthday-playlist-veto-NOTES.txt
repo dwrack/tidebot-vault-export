@@ -1,0 +1,15 @@
+PIECE 103 — Funny/Quotable lane — Deckhand / Birthday, third angle — "The Birthday Person Gets Playlist Veto Power"
+Voice: voice-en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: upbeat trap-pop hybrid, playful horn-stab on each "vetoed," big finish   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Birthday house rule nobody voted on: playlist veto power.                  [Deckhand, fast, hype, wide shot, guest scrolling a phone near the speaker]
+ 2.4s  One skip, no questions, no explanation needed.                             [close insert, guest hitting skip, mock-serious]
+ 4.8s  Somebody tried the same song three times. Vetoed three times.              [comedic reaction shot, group laughing]
+ 7.6s  That's the power. Use it wisely. Nobody does.                              [Deckhand, grinning]
+10.4s  Happy birthday. You run the aux now.                                       [wide shot, birthday guest holding the phone up like a trophy, group cheering]
+
+On-screen text: Hook = "THE BIRTHDAY PERSON GETS PLAYLIST VETO POWER" | Body = "one skip, no questions" | CTA: none.
+
+NOTE: third angle on birthday, distinct from piece 12 (Crown Duty, the crown ritual) and piece 88 (Birthday Tax, the cooler-cost custom). Needs an identifiable birthday guest.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

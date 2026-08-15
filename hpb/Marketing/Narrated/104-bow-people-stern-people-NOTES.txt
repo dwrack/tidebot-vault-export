@@ -1,0 +1,15 @@
+PIECE 104 — Funny/Quotable lane — Groomsman / Boat-tribe taxonomy — "Bow People And Stern People"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: light, playful pop bed, small comedic beat under the side-by-side reveal   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip splits into two types by the second stop.                       [Groomsman, dry, wide shot showing the boat, guests naturally clustered front and back]
+ 2.8s  Bow people. Wind in the face, standing the whole time, taking it all in.    [close on guests at the bow, standing, wind in hair]
+ 5.8s  Stern people. Seated, cooler within arm's reach, not moving for anyone.     [close on guests seated at the stern, relaxed, cooler nearby]
+ 9.0s  Nobody assigns you a side. You just end up there.                          [wide shot, both groups, distinct energy]
+11.8s  I've been on this boat six years. Still don't know which one I am.         [Groomsman, dry grin, final beat]
+
+On-screen text: Hook = "EVERY TRIP SPLITS INTO TWO TYPES" | Body = "bow people. stern people. no assigned seats." | CTA: none.
+
+NOTE: a new device for the series — sorting guests into a taxonomy rather than telling one story. Kept to exactly two types on purpose; a third type was cut in editing because it turned a clean binary joke into a longer list.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

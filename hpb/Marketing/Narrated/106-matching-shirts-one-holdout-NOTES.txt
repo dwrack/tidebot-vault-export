@@ -1,0 +1,15 @@
+PIECE 106 — Funny/Quotable lane — Sunscreen Friend / Coordination comedy — "Matching Shirts, One Holdout"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," recurring, free tier — NOT EL-Brian)   Music: warm acoustic-pop bed, goofy but affectionate, same family as piece 23   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody ordered custom shirts three weeks ago.                            [Sunscreen Friend VO, earnest, wide shot, group boarding in matching shirts]
+ 3.0s  Fourteen people in the same shirt. On brand, on time.                      [close insert, matching shirts, group smiling]
+ 6.0s  One person's in a plain white tee, looking mildly confused.                [close on the one guest without the shirt, sheepish]
+ 8.8s  She swears she never got the group chat message. Nobody believes her.      [group teasing, guest laughing, defensive]
+11.8s  Matching shirts optional. Getting teased about it is guaranteed.           [wide shot, whole group laughing together]
+
+On-screen text: Hook = "SOMEBODY ORDERED CUSTOM SHIRTS THREE WEEKS AGO" | Body = "she swears she never got the message" | CTA: "Book the whole crew, shirts optional → houstonpedalbarge.com" (group booking-intent, one of 4 CTA pieces this volume).
+
+NOTE: distinct from piece 56 (Field Guide To The Sashes, a roll-call list bit) and piece 54 (Theme Day, costume chaos). This is specifically about a coordinated shirt order and one accidental holdout.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

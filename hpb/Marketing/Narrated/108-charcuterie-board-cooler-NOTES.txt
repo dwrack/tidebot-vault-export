@@ -1,0 +1,15 @@
+PIECE 108 — Funny/Quotable lane — Old Salt / Snack-culture one-upmanship — "The Charcuterie Board Cooler"
+Voice: EL-George ("The Old Salt," recurring)   Music: warm, playful acoustic bed, small comedic pluck on each detail ("honey," "tiny knife"), resolves into a party bed   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most coolers get chips and a couple sandwiches.                            [Old Salt VO, wry, wide shot, a standard cooler being set down]
+ 2.8s  One guest brought an actual charcuterie board. On a boat.                  [close insert, an elaborate spread of meats, cheeses, crackers laid out]
+ 5.8s  Little jars of honey. A tiny knife for the brie.                           [close insert, honey jar, small cheese knife, comedic detail]
+ 8.8s  Nobody asked her to do that. Everybody's grateful she did.                 [guests gathering around the spread, delighted]
+11.8s  The bar's officially raised. Good luck, next trip's cooler.                [Old Salt, warm grin, final beat]
+
+On-screen text: Hook = "MOST COOLERS GET CHIPS. ONE GOT A CHARCUTERIE BOARD." | Body = "the bar's officially raised" | CTA: none.
+
+NOTE: distinct from piece 85 (La Croix cooler, an inclusivity/objection-kill piece) and piece 31 (Nobody Packed Enough Ice, a hero-worship gag). This is snack-culture one-upmanship, opportunistic — needs a guest who actually brings an elaborate spread.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

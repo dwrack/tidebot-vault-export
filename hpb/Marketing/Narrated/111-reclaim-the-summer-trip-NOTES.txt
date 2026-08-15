@@ -1,0 +1,15 @@
+PIECE 111 — Funny/Quotable lane — Sarah / New character archetype (post-breakup friend-group trip) — "Her Reclaim-The-Summer Trip"
+Voice: EL-Sarah ("Sarah," recurring)   Music: warm, uplifting acoustic-to-pop build, gentle swell on "just having a good time"   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Six months ago, this trip wasn't on anybody's calendar.                    [Sarah VO, warm, wide shot, a group of women boarding, one clearly the guest of honor]
+ 3.0s  Then a breakup happened, and the group chat did what group chats do.       [close insert, friends laughing, arms around her]
+ 6.2s  Nobody's talking about him today. That was the one rule.                   [guests toasting, genuine joy, sun on the water]
+ 9.4s  By the second hour she's not the girl who went through something. She's just having a good time. [close on her, laughing, genuinely relaxed]
+12.6s  Sometimes reclaiming your summer just takes a boat and the right people.   [wide shot, group together, golden light]
+
+On-screen text: Hook = "SIX MONTHS AGO THIS TRIP WASN'T ON ANYBODY'S CALENDAR" | Body = "the one rule: nobody's talking about him today" | CTA: "Plan her reclaim-the-summer trip → houstonpedalbarge.com" (friend-group booking-intent, one of 4 CTA pieces this volume).
+
+NOTE: the most emotionally specific piece in the series to date, and the highest discretion bar. Only shoot with a guest who has clearly and enthusiastically opted in — do not pitch this to anyone who seems unsure, and do not shoot it opportunistically the way most other pieces can be.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

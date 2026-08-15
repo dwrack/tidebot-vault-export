@@ -1,0 +1,15 @@
+PIECE 109 — Funny/Quotable lane — Announcer / House rule, formal-but-warm register — "No Sad Songs After Six"
+Voice: EL-Daniel   Music: formal-but-warm string intro on the rule reveal, settles into a genuinely upbeat pop bed by "happy stuff"   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Ship's rule, written down somewhere, mostly enforced by vibes.             [Announcer VO, formal but warm, insert of a handwritten sign near the speaker: "no sad songs after 6pm"]
+ 3.2s  No sad songs after six o'clock.                                            [close insert, the sign, guests reading it, nodding]
+ 5.6s  Breakup anthems are for the car ride home. Not the boat.                   [guest reaching for the aux, another guest gently redirecting them]
+ 9.0s  Six-oh-one, it's all the happy stuff, no exceptions.                       [wide shot, guests dancing, upbeat energy]
+12.0s  The rule's never once been broken. We checked.                            [Announcer, dry, small pause, final beat]
+
+On-screen text: Hook = "SHIP'S RULE: NO SAD SONGS AFTER 6PM" | Body = "the rule's never once been broken" | CTA: none.
+
+NOTE: deliberately avoids Roger's mock-PSA-announcement device, which is resting this volume. Framed as a rule discovered (a sign already posted), not a voice announcing it — an earlier draft opened with "attention, everyone" and was rewritten specifically to create daylight from Roger's register.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

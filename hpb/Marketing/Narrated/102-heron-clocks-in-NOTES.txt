@@ -1,0 +1,15 @@
+PIECE 102 — Funny/Quotable lane — Old Salt / Wildlife, second angle — "The Heron Who Clocks In Every Morning"
+Voice: EL-George ("The Old Salt," recurring)   Music: warm, wry acoustic bed, gentle, understated, same family as piece 76   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Same heron, same piling, almost every single morning.                      [Old Salt VO, warm, wide shot, a great blue heron standing on a dock piling]
+ 3.2s  We didn't name him. He just kind of named himself by showing up.           [close on the heron, unbothered, boat passing near it]
+ 6.4s  Doesn't move for the boat. Doesn't move for much of anything.              [heron standing still as the boat wake passes]
+ 9.4s  Twelve guests take his photo. He's seen it all before.                     [guests pointing, taking photos, heron indifferent]
+12.4s  Some regulars pay a bar tab. He just shows up for the view.                [Old Salt, warm smile, final beat]
+
+On-screen text: Hook = "SAME HERON, SAME SPOT, ALMOST EVERY MORNING" | Body = "he's seen it all before" | CTA: none.
+
+NOTE: distinct from piece 73 ("Local Wildlife Update," a deadpan list bit). This is a recurring-character mechanism, not a list. Check the Assets folder for existing wildlife/heron footage before scheduling a new shoot.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
