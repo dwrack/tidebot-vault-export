@@ -1,0 +1,15 @@
+PIECE 90 — Funny/Quotable lane — Captain-line / Nickname second angle — "The Captain Names Everyone By Sunset"
+Voice: EL-Eric ("The Captain," recurring)   Music: light, playful bed, small comedic beat under "Blue Hat"   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody introduces themselves to the captain by their real name.           [Captain at the helm, guests boarding, brief small talk]
+ 2.6s  Not on purpose. It just happens by hour two.                              [guests laughing, one guest gesturing dramatically at another]
+ 5.4s  Guy in the blue hat's now "Blue Hat." Sticks for the whole trip.          [Captain gesturing toward a guest in a blue hat]
+ 8.6s  By docking, half the boat's answering to a name I made up an hour ago.    [wide shot, Captain calling out a name, guest responding, laughing]
+12.0s  I never learn the real ones. I don't think anyone minds.                  [Captain, small grin, final beat]
+
+On-screen text: Hook = "NOBODY TELLS THE CAPTAIN THEIR REAL NAME" | Body = "half the boat's answering to a name he made up" | CTA: none.
+
+NOTE: distinct from piece 37 ("The Nickname That Never Dies," a friend-group nickname that outlives the trip) and piece 27 ("Vibe Curator, Chief Snack Officer," guests inventing mock job titles for each other). This one is captain-generated, in-the-moment, and forgotten by the next trip — a different mechanism and a different payoff.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

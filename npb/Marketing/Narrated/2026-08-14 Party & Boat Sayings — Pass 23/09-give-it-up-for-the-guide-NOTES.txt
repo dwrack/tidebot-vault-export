@@ -1,0 +1,30 @@
+PIECE 09 — Heartfelt / ritual lane — "Give It Up for the Guide"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Lily (ElevenLabs)   Music: Jon Cleary-style solo piano, warm and understated (clearance unconfirmed)   Length: 23.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody tells guests to clap at the end of a tour.                [wide shot: boat approaching the dock, tour winding down]
+ 3.5s  Sometimes they just do it anyway.                                [group starting to clap, guide looking surprised]
+ 6.5s  Somebody starts it. The rest of the boat picks it up in about two seconds.  [guests joining in, guide reacting, humble]
+11.0s  The guide never really knows what to do with that.               [guide laughing, waving it off, genuine]
+14.5s  Ninety minutes of pointing out birds and telling the truth about gators turns out to be worth clapping for.  [guide docking boat, guests still smiling]
+20.5s  Nobody plans that moment. It just happens when it's earned.      [closing wide shot, group disembarking, guide waving]
+
+ON-SCREEN TEXT TREATMENT:
+None. Same instinct as Pass 22's "The Guest Who Just Stood Up," a genuine, unscripted moment shouldn't compete with a caption.
+
+SHOT LIST:
+- Wide shot: boat approaching the dock, tour winding down (opener)
+- Clapping starts, guide visibly surprised
+- Applause spreading across the boat, guide reacting humbly
+- Guide laughing, waving it off, genuine (not performed)
+- Boat docking, guests still smiling
+- Closing wide shot: group disembarking, guide waving
+
+PRODUCTION FLAG: This isn't confirmed as something that happens on a predictable schedule. Flag in #crew-content for guides to note (with consent) whenever a spontaneous round of applause actually happens at tour's end, so this gets captured as a real moment rather than staged, the same approach Pass 22 used for its unplanned-toast piece.
+
+SOURCE GROUNDING: Distinct from every toast-based piece across the six prior passes; this is applause, not a spoken toast, and it's guest-initiated with zero crew scripting involved, unlike the eight-plus toast pieces already on file. Also distinct from the "guide has a stock line" device (retired for this pass), the guide says nothing scripted here at all.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, story-first structure, plus Bencivenga's proof-over-assertion). An early draft closed with "Every guide earns this," an unfalsifiable absolute. Copywriting-2.0 cut it during the 3-test pass and rewrote to "turns out to be worth clapping for," which stays specific to what the tour actually delivers (ninety minutes, real content) rather than a blanket claim about every single tour ever run.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag above needs a real captured instance before this ships as documentary rather than staged.

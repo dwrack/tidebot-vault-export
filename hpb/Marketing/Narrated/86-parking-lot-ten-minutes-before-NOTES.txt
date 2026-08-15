@@ -1,0 +1,13 @@
+PIECE 86 — Funny/Quotable lane — Groomsman / Logistics comedy — "Ten Minutes Before Boarding, In The Parking Lot"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: light, playful pop-funk bed, quick tempo matching the walk-fast energy   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Marina parking lot, ten minutes before boarding.                          [wide shot, parking lot, cars pulling in, people carrying coolers]
+ 2.6s  Three coolers, one inflatable flamingo, and someone's forgotten shoes.    [close on items being carried toward the dock]
+ 5.8s  Everyone's walking fast but nobody's actually late yet.                   [group speed-walking toward the dock, laughing]
+ 8.6s  That's the real warmup. Before the boat even leaves.                      [wide shot, group arriving at the gangway, still laughing]
+11.4s  The party starts in the parking lot. We just get the credit.              [Groomsman, dry, small grin]
+
+On-screen text: Hook = "TEN MINUTES BEFORE BOARDING, IN THE PARKING LOT" | Body = "the party starts in the parking lot" | CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

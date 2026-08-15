@@ -1,0 +1,26 @@
+PIECE 05 — Funny / running joke lane — "Throw Me Something"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: Big Freedia-style bounce, high energy (clearance unconfirmed)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every New Orleanian knows the parade line: "Throw me something, mister!"  [cooler opening, snacks and drinks inside]
+ 4.0s  Doesn't matter if it's February or July. Somebody yells it anyway.  [guest yelling the line, arm out, laughing]
+ 8.0s  Usually right when the cooler opens, or the chip bag gets passed.  [snack bag passing hand to hand, laughing]
+12.0s  Nobody's catching beads out here. They're catching a bag of chips.  [guest catching chip bag mid-air, laughing]
+16.0s  Old parade line. New excuse to use it.                            [wide deck shot, group laughing, cooler open]
+
+ON-SCREEN TEXT TREATMENT:
+None. The line is funniest heard cold; a caption would spoil the setup-payoff timing between the parade reference and the chip-bag payoff.
+
+SHOT LIST:
+- Cooler opening, snacks and drinks visible inside (opener)
+- Guest yelling the classic parade line, arm out, laughing
+- Snack bag passing hand to hand around the group
+- Chip bag catch mid-air, laughing (payoff beat)
+- Wide closing shot: group laughing, cooler open
+
+SOURCE GROUNDING: Distinct from every prior piece; no prior pass borrows a real, well-documented Mardi Gras parade catch-phrase and repurposes it for an in-boat joke. Grounded in real, verifiable New Orleans culture (the "throw me something, mister" call is genuine parade-crowd tradition) rather than an invented house ritual, reducing the "assume it exists" risk the Pass 23 research flagged in prior passes.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, curiosity-loaded opener borrowing a phrase most viewers already half-recognize). An early draft had the "something" being literally thrown toward a passing boat or dock rail, cut immediately during the copywriting-2.0 pass: not a confirmed or advertised activity, and it implies an unsafe action between moving boats, the same guardrail Pass 22 applied when it cut its cannonball-into-the-water line. Rewritten so the only thing crossing hands is a chip bag, on the boat, between guests already aboard. Closer line "old parade line, new excuse to use it" passed the 3-test filter clean: visualizable, falsifiable against real New Orleans parade culture, and not something a competitor an hour outside the city could authentically claim.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter), including the safety-motivated rewrite noted above.

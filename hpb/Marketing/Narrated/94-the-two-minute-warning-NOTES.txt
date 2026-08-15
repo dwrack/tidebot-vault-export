@@ -1,0 +1,15 @@
+PIECE 94 — Funny/Quotable lane — Deck-hand slang / Docking ritual — "The Two-Minute Warning"
+Voice: voice-en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: upbeat trap-pop hybrid, tempo increasing slightly to match the scramble   Length: 13s
+
+SCRIPT (timed to narration):
+ 0.0s  "Two minutes to the dock!"                                                [Deckhand yelling it out, hand cupped, guests scrambling]
+ 2.2s  Drinks get finished in record time.                                       [guest chugging the last of a drink, laughing]
+ 4.6s  Coolers get zipped. Playlists get one last song.                          [guests packing up fast, phone queuing a final track]
+ 7.6s  Nobody's ready for it to be over. Everybody's still moving fast anyway.   [wide shot, controlled chaos, everyone smiling]
+10.6s  Two minutes is never actually two minutes. Ask any deckhand.              [Deckhand, out of breath, grinning]
+
+On-screen text: Hook = "\"TWO MINUTES TO THE DOCK!\"" | Body = "two minutes is never actually two minutes" | CTA: none.
+
+NOTE: the companion piece to piece 13 ("Five More Minutes," the dock negotiation, guest POV, not wanting to leave) but a distinct moment and distinct POV — this is the crew's actual warning call and the scramble it triggers, not the emotional beat of not wanting the day to end.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

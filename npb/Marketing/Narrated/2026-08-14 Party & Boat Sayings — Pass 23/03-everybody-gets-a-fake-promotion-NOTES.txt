@@ -1,0 +1,26 @@
+PIECE 03 — Funny / running joke lane — "Everybody Gets a Fake Promotion"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: Rebirth Brass Band-style party anthem, comedic timing (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one person who isn't drinking today.          [group on deck, one guest holding water, others with drinks]
+ 3.5s  Nobody makes it weird. Somebody just hands them a job instead.  [guest getting playfully "deputized," laughing]
+ 7.5s  "You're in charge of the cooler." "You're holding everybody's phone." "You're second-in-command."  [quick cuts: cooler duty, phone-holding, mock salute]
+13.0s  By the time we dock, they've got three fake titles and zero regrets.  [guest laughing, mock-saluting a friend]
+17.5s  Nobody's left out on this boat. You just get promoted instead.  [group laughing together, wide deck shot]
+
+ON-SCREEN TEXT TREATMENT:
+Each fake title pops up as a small badge-style graphic timed to its line ("COOLER CAPTAIN," "PHONE PATROL," "SECOND-IN-COMMAND"), playful and hand-drawn feeling, then clears. Nothing corporate-looking.
+
+SHOT LIST:
+- Group on deck, one guest visibly not drinking (water bottle vs. everyone else's drinks)
+- Playful "deputizing" moment, friend handing over a mock responsibility
+- Three quick cuts: cooler duty, phone-holding, mock salute (one per fake title)
+- Guest laughing, mock-saluting a friend
+- Wide deck shot: whole group laughing together (closer)
+
+SOURCE GROUNDING: Distinct from prior passes. This isn't a captain-bestowed nickname (unlike Pass 14's "The Nickname That Sticks," which was crew-given and permanent), it's guest-to-guest banter that resets every trip. An early draft framed the titles as coming from the captain, which risked becoming another crew-scripted-bit, exactly the device the Pass 23 research flagged as overloaded (Ben, Poppa Charles, and Shannon already carry 4-5 signature moments each). Rewritten so no crew member needs to be named or scripted at all.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman's slippery-slide structure for the three-beat quick cuts, plus Blair Warren's "allay their fears," nobody sitting out the fun feels excluded). Then /copywriting-2.0 (3-test filter): all three quoted titles kept as written, they're concrete, funny, and specific to this exact dynamic (a designated non-drinker) rather than a generic inclusion message. Passed clean.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

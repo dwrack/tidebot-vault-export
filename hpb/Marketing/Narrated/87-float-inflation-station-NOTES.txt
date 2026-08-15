@@ -1,0 +1,13 @@
+PIECE 87 — Funny/Quotable lane — Deadpan list / Prop comedy — "The Float Inflation Station"
+Voice: EL-Brian ("Mama Tried's voice," recurring, premium — not the free-tier Sunscreen Friend Brian)   Music: dry brass stab on each list item, same device as piece 73, mute-drop on the last line   Length: 13s
+
+SCRIPT (timed to narration):
+ 0.0s  Pre-departure float count.                                                [Mama Tried voice, deadpan, wide shot of guests blowing up pool floats on the dock]
+ 2.4s  One flamingo. Deflating faster than the guy blowing it up.                [close on a half-inflated flamingo float, guest out of breath]
+ 5.4s  One unicorn, fully inflated, immediately claimed.                        [guest proudly holding an inflated unicorn float]
+ 8.2s  Two guests, zero floats, mild betrayal.                                  [two guests standing empty-handed, mock-offended]
+10.8s  Boarding in three minutes regardless.                                     [wide shot, everyone heading for the boat, floats and all]
+
+On-screen text: Hook = "PRE-DEPARTURE FLOAT COUNT" | Body = "two guests, zero floats, mild betrayal" | CTA: none.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

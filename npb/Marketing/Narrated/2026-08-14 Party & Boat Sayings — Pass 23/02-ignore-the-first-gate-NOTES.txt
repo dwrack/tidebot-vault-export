@@ -1,0 +1,28 @@
+PIECE 02 — Funny / heartfelt, ritual lane — "Ignore the First Gate"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: Kermit Ruffins-style warm trad-jazz, feel-good (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  First-timers get the address. Regulars get a text that reads like a friend's directions.  [phone screen, text bubble appearing]
+ 4.5s  "Park in the lot on the left. Ignore the first gate. Walk past the blue container."  [guest reading phone, walking the dock path]
+ 9.5s  By your second trip, you're the one saying it to somebody else.  [returning guest pointing, saying the line to a first-timer]
+14.0s  "Ignore the first gate." Everybody who's been here twice knows that line by heart.  [group walking together, laughing, nodding]
+18.5s  It's not a landmark. It's how you know you've been here before.  [wide shot, group arriving at dock, boat in background]
+
+ON-SCREEN TEXT TREATMENT:
+The exact arrival text ("Park in the lot on the left. Ignore the first gate. Walk past the blue container.") appears as a real text-bubble graphic, timed to the VO reading it aloud, then clears. Nothing else on screen.
+
+SHOT LIST:
+- Phone screen: text bubble arriving (opener)
+- Guest reading the phone, walking the dock path toward the marina
+- Returning guest pointing ahead, repeating the line to a first-timer
+- Group walking together, laughing, nodding along
+- Wide arrival shot: group at the dock, boat visible in the background (closer)
+
+PRODUCTION FLAG: This arrival text is not confirmed as something the business currently sends. It's sourced directly from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`, idea #6 ("Parking and arrival intel, not instructions"), an idea sitting in this vault, not a documented existing practice. Before this piece gets shot as if it's already real, confirm with ops whether this text (or one like it) is currently sent to booking contacts, or start sending it and film it as the real thing it becomes.
+
+SOURCE GROUNDING: Distinct from every prior piece; nothing across the six previous passes touches pre-arrival texting or the "regulars know something first-timers don't" device specifically through directions. Deliberately avoids inventing a company tradition from nothing, the underlying text is real material already sitting in the vault's Ideas doc, just not yet confirmed as implemented.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, specificity as the hook, real, concrete directions instead of a generic "here's our address"). Then /copywriting-2.0 (3-test filter): passed clean on the first pass, every line is visualizable (a real text, a real dock walk), falsifiable against whether the text is actually sent, and ownable, no competitor's generic arrival instructions read like a friend's directions the way this one does. No cuts.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter). Production flag above needs an ops confirm before scheduling a shoot.

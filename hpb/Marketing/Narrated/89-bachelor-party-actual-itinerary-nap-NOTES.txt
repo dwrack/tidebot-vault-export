@@ -1,0 +1,15 @@
+PIECE 89 — Funny/Quotable lane — Groomsman / Bachelor-party second angle — "The Bachelor Party's Actual Itinerary Was One Nap"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring, free tier)   Music: chill, mellow acoustic-guitar bed, no big swells, matches the low-key twist   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody expected a Vegas-level bachelor party story.                    [wide shot, guys boarding, mild energy, sunglasses]
+ 2.8s  What actually happened: somebody fell asleep by hour one.                 [guest asleep in a deck chair, sunglasses still on]
+ 5.6s  Nobody woke him up. Nobody even talked that loud.                         [group quietly chilling nearby, low-key vibe]
+ 8.6s  Best man's toast was basically just "good for him."                       [Groomsman, dry delivery, small grin, gesturing at the sleeping guest]
+12.0s  Turns out the wildest bachelor party story is that nobody has one.        [wide shot, calm, peaceful, guys just relaxed on the water]
+
+On-screen text: Hook = "EVERYONE EXPECTED A VEGAS-LEVEL STORY" | Body = "the wildest story is nobody has one" | CTA: none.
+
+NOTE: deliberately the opposite structure of piece 19 ("The Bachelor Party Gets A Toast Too," a toast-format piece). This one isn't a toast at all — it's a subverted-expectations bit built on a single quiet sight gag.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,30 @@
+PIECE 01 — Funny / running joke lane — "The Group Chat Goes Silent"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: Free Agents Brass Band-style light build, energy rising through the piece (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip starts in a group chat that's already a mess.        [phone screen mockup, chaotic texts scrolling]
+ 3.5s  Who's driving, who's late, who still hasn't Venmo'd anyone.     [close-up phone, guests laughing at messages]
+ 7.5s  Then everybody's actually on the boat.                          [wide shot, group boarding, energy shifting]
+11.0s  Nobody opens that chat again. Not once, not for two hours.      [group laughing, drinks up, no phones out]
+15.0s  That's the tell. Everybody's having a good time when the chat goes quiet.  [wide deck shot, full group vibing]
+19.5s  The group chat can wait. The bayou can't.                       [closing wide shot, sunset, group cheering]
+
+ON-SCREEN TEXT TREATMENT:
+None for the setup lines. One quote-caption pill on "That's the tell" only, bounce-in style, clears immediately after. Nothing else on screen.
+
+SHOT LIST:
+- Phone screen mockup: chaotic group chat, texts scrolling fast (opener)
+- Close-up phone: guests laughing at the messages together
+- Wide shot: group boarding, energy visibly shifting from the dock to the deck
+- Group laughing, drinks up, no phones visible
+- Wide deck shot: full group vibing, music up
+- Closing: wide sunset shot, group cheering
+
+CASTING NOTE: The phone-screen mockup should use fake/placeholder names and numbers, not a real guest's actual text thread, even with consent, to avoid any privacy complication. Style it clearly as a mockup rather than a real screen recording.
+
+SOURCE GROUNDING: This is a genuinely new premise, not adjacent to any of the 72 pieces across the six prior passes. It's built from a universal pre-trip behavior (chaotic planning group chats) rather than any invented company ritual or crew-scripted line, deliberately avoiding the "stock crew one-liner" and "invented tradition" devices flagged as overused in the Pass 23 research pass. Distinct from every prior toast-based or captain-line-based piece since no crew member speaks a scripted line here at all, the humor is entirely guest behavior.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, the starving-crowd relatable pain, everyone who's ever planned a group trip has lived this exact group chat). Then /copywriting-2.0 (3-test filter): the original closer, "That's the whole trick," failed the "can nobody else say it" test (any tour operator could claim that), cut and rewritten to "That's the tell. Everybody's having a good time when the chat goes quiet," which is specific to an observable, checkable behavior. Rest of the script passed clean, every line is visualizable (a real messy group chat, a real quiet boat) and falsifiable against actual guest behavior.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter).

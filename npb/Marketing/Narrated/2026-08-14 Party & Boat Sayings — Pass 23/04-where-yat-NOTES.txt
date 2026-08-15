@@ -1,0 +1,28 @@
+PIECE 04 — Did-you-know / funny, cultural lane — "Where Y'at"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: Trombone Shorty & New Breed Brass Band-style current NOLA cut, "NOLA's Sound" pillar (clearance unconfirmed)   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  First thing you hear stepping onto the dock: "Where y'at?"      [deckhand waving guests up the dock, greeting]
+ 4.0s  It's not really a question. It's just how New Orleans says hello.  [guest looking puzzled, deckhand grinning]
+ 8.0s  Takes about ten seconds to explain. Everybody's got it by the second try.  [quick explainer moment, guests repeating it, laughing]
+12.5s  Two hours in, guests are saying it to each other without thinking about it.  [guests high-fiving, saying the line unprompted]
+17.0s  Where y'at. Not a big deal. Just the city rubbing off on you a little.  [wide deck shot, golden hour, group laughing]
+
+ON-SCREEN TEXT TREATMENT:
+"WHERE Y'AT?" as a bold caption on the opening line only, so sound-off viewers catch the exact phrase. Clears immediately after, nothing else on screen.
+
+SHOT LIST:
+- Deckhand greeting guests dockside with the line (opener)
+- Puzzled guest reaction, deckhand grinning, quick explanation
+- Guests repeating the phrase back, laughing
+- Guests later using it on each other unprompted, high-five
+- Wide golden-hour closing shot, group laughing
+
+PRODUCTION FLAG: "Where y'at" is real, documented New Orleans dialect ("Yat"), not invented for this piece, it's genuine regional culture. What's unconfirmed is whether NPB crew currently greets guests with it as a matter of course. Confirm with a captain or deckhand before scripting this as existing practice, either it's already a habit worth capturing, or it's worth coaching someone to adopt, the same approach Pass 22 used for its life-jacket joke line.
+
+SOURCE GROUNDING: Distinct from every prior piece. None of the six prior passes use a real, externally verifiable New Orleans dialect term as their hook, most rely on invented company traditions (the bell, the French send-off phrase, the life-jacket joke). This piece deliberately grounds itself in something true regardless of whether NPB adopts it as a bit, reducing the "assume it exists" risk flagged in the Pass 23 research.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, the factual specific over the invented adjective, this is a real regional term rather than a manufactured company catchphrase, and Schwartz's channel-existing-desire framework, visitors already want an authentic taste of New Orleans culture, not a gift-shop version of it). Then /copywriting-2.0 (3-test filter): closer line "just the city rubbing off on you a little" kept as written, it's specific to this exact product (a boat seven miles from the Quarter with real local crew, not a theme-park operation an hour away) and can't be truthfully claimed by a competitor without the same proximity and crew.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter). Production flag above needs a quick crew confirm before scheduling a shoot.

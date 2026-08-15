@@ -1,0 +1,28 @@
+PIECE 08 — Funny / did-you-know lane — "Everybody Says the Same Thing at This Bend"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Brian (ElevenLabs)   Music: Dr. John-style darker, swampy cut, moody but not scary (clearance unconfirmed)   Length: 23.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's one bend in the bayou where the moss hangs low over black water.  [wide shot: cypress bend draped in Spanish moss]
+ 4.0s  Almost everybody says the same thing when we hit it.             [guide steering into the bend, guests looking up]
+ 7.5s  "Okay, this looks like a horror movie."                          [guest reaction, half-laughing, half-serious]
+11.0s  Nine times out of ten, word for word.                            [guide smiling, having heard it before]
+14.5s  Funny thing is, that moss isn't Spanish, isn't moss, and isn't even a parasite. It's a cousin of the pineapple.  [close-up: Spanish moss swaying, guest reaching up carefully]
+20.5s  Doesn't make the bend less spooky. Just means everybody's wrong about the moss.  [wide shot, boat continuing through the bend]
+
+ON-SCREEN TEXT TREATMENT:
+None until the fact line. Then a simple caption card reading "SPANISH MOSS: not Spanish. Not moss. Cousin of the pineapple." timed to the VO, styled for saves.
+
+SHOT LIST:
+- Wide establishing shot: the mossy bend, black water (opener)
+- Guide steering in, guests looking up
+- Guest's spoken reaction, half-laughing
+- Guide's knowing smile, having heard the line before
+- Close-up: Spanish moss swaying, fact caption on screen
+- Wide closing shot: boat continuing through the bend
+
+SOURCE GROUNDING: Distinct from every prior piece; no prior pass builds around a guest's spontaneous verbal reaction at one specific, repeatable location. This is also not a misidentification/guessing-game piece (the four already on file: gator/turtle/stick, nutria/beaver, the "hands" correction, the fake-out point), nobody is asked to guess anything here, the guide isn't correcting a guest's read of the wildlife, the reveal is a plant fact volunteered on its own.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, the real factual specific, "cousin of the pineapple" is a stronger, weirder, more checkable claim than a vague "it's actually a different kind of plant," plus Sugarman's curiosity build, the reveal is withheld until after the guest's own line lands). Then /copywriting-2.0 (3-test filter): passed clean. This is a direct, attributed reuse of a real fact from `Admire NOLA/Content/Script & Caption Bank.md` Lane 6, already vetted for accuracy in that source document, not invented for this piece.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter).

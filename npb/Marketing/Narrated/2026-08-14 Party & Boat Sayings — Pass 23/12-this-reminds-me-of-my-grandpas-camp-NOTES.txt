@@ -1,0 +1,30 @@
+PIECE 12 — Heartfelt / poetic lane — "This Reminds Me of My Grandpa's Camp"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: Professor Longhair-style slower instrumental cut, mellow (clearance unconfirmed)   Length: 23.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every so often, somebody goes quiet for a second on this tour.   [wide shot: calm water, guest looking out, contemplative]
+ 3.5s  Then they say something like, "this reminds me of my grandpa's camp."  [close-up: guest's face, soft smile]
+ 8.0s  Doesn't matter where they're from. Everybody's got a version of that memory somewhere.  [guide nodding, other guests listening]
+12.5s  A dock. Slow water. Somebody who taught them to be still.        [close-up: water, cypress knees, gentle light]
+17.0s  You don't book a swamp tour expecting a memory to show up.       [guest looking out over water, genuine]
+20.5s  But out here, it usually does.                                   [wide shot, boat drifting, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+None at any point. This is the one piece built to let the moment breathe entirely, same instinct as Pass 22's "The Guest Who Just Stood Up."
+
+SHOT LIST:
+- Calm water, guest gone quiet for a moment (opener)
+- Close-up: soft smile, the line lands
+- Guide and other guests listening, no reaction shot that reads as staged
+- Close-up: water and cypress knees, gentle light
+- Guest looking out, genuine
+- Wide closing shot: boat drifting, golden light
+
+GUARDRAIL NOTE: Kept deliberately light. No mention of loss, illness, or a grandparent who has passed, this is warm, present-tense nostalgia, not a grief moment. That keeps it well below the weight of the three prior consent-flagged pieces in this vault (the divorce toast and the cancer-treatment disclosure in Pass 16, the quiet eco-tour toast in Pass 22). Standard Social Capture Playbook consent ask still applies: don't push for a tight, identifying close-up unless the guest is visibly at ease sharing what they just said.
+
+SOURCE GROUNDING: Distinct from every prior heartfelt piece; the closest prior pieces (Pass 14's "I Didn't Expect to Cry Over a Bird," Pass 16's "The Guide Noticed") both center on a specific wildlife trigger or a sensitive disclosure the guide reacts to. This piece is about a guest's own unprompted memory, not tied to any single sighting, and the guide/crew play no active role, they simply let the moment happen.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, the short-opener rule, "Every so often, somebody goes quiet for a second" is deliberately plain and short so the ear slides into the next line without effort, plus Schwartz's channel-existing-desire framework, this doesn't manufacture nostalgia, it names a desire, connection to a real memory, that a lot of travelers already carry into any nature experience). Copywriting-2.0's main note on this piece wasn't a line-level cut, it was the guardrail decision above: an early direction considered specifying a grandparent who had passed, cut before it was ever written as a full line, since that crosses into the heavy personal-disclosure territory this pass is deliberately avoiding.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

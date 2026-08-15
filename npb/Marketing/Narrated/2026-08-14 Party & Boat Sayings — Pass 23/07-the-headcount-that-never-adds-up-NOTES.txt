@@ -1,0 +1,28 @@
+PIECE 07 — Funny / process, safety-credibility lane — "The Headcount That Never Adds Up"
+Product: Private BYOB Party Fleet
+Voice: voice-en-GB-RyanNeural (free tier)   Music: The Soul Rebels-style brass-funk, percussion-timed to the recount beats (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Before anybody leaves the dock, somebody's doing a headcount.    [deckhand counting heads, finger-count]
+ 3.5s  It never adds up the first time.                                 [deckhand recounting, puzzled expression]
+ 6.5s  Somebody's in the bathroom. Somebody's still taking a photo on the dock.  [cutaway: bathroom door, guest posing for photo]
+10.5s  Second count's usually right. Third one, just to be safe.        [deckhand recounting again, guests laughing at the process]
+14.5s  Not a formality. It's how you actually know everybody's on board before the ropes come off.  [deckhand giving thumbs up to captain]
+19.5s  Boring part of the job. Most important part too.                 [wide shot, boat pulling away, full group aboard]
+
+ON-SCREEN TEXT TREATMENT:
+A small running tally number ("12... 11... 12... 12") ticks in the corner, timed to the recounts on screen, then clears once the boat departs. Sound-off readable.
+
+SHOT LIST:
+- Deckhand counting heads, first pass (opener)
+- Puzzled recount, expression shift
+- Cutaway: bathroom door, guest posing for a dock photo (the missing two)
+- Third count, guests laughing at the process itself
+- Deckhand's thumbs-up to the captain
+- Wide closing shot: boat pulling away, full group aboard
+
+SOURCE GROUNDING: Distinct from every prior piece. None of the 72 prior pieces build a bit around the actual pre-departure safety headcount. This ties directly to `Brand Story & Values.md` Section 2 ("Safety isn't a talking point, it's the floor") rather than inventing a new company ritual, it documents a process that plausibly already happens on every charter regardless of whether it's been filmed before.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga, proof over assertion, this piece earns trust by showing the actual safety process on screen instead of just claiming "we're safety-focused" in a caption). Then /copywriting-2.0 (3-test filter): passed clean, every line is visualizable (an actual recount happening on camera), falsifiable (either this happens before every departure or it doesn't), and ownable, a competitor's ad claiming "we're safe" is generic wallpaper; showing the real headcount ritual, including the part where it's a little chaotic, is specific proof nobody else bothers to film.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter).

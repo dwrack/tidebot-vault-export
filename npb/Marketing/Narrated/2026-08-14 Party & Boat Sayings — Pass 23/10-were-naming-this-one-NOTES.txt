@@ -1,0 +1,30 @@
+PIECE 10 — Funny / heartfelt lane — "We're Naming This One"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: Sweet Crude-style soft, atmospheric track (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's already a gator out here everybody calls Big Sal.       [establishing shot: black water, calm]
+ 3.5s  This isn't that one.                                             [guide pointing out a different, smaller gator]
+ 5.5s  This is whatever the boat decides to name it, right now, on the spot.  [group looking at each other, brainstorming names]
+ 9.5s  Today it's Gerald. Nobody knows why. Somebody just said it and it stuck.  [guests laughing, guide repeating "Gerald" with a grin]
+14.5s  Next boat, it'll be somebody else's guess.                       [guide smiling, shrugging, boat moving on]
+17.5s  You don't get a say in Big Sal's name. You get a full vote on this one.  [wide shot, group laughing, boat continuing]
+
+ON-SCREEN TEXT TREATMENT:
+The name ("GERALD") pops up as a playful nameplate-style graphic the moment it's said, then clears. Swap this graphic to whatever name the group actually lands on when this gets re-shot.
+
+SHOT LIST:
+- Calm black water establishing shot (opener)
+- Guide pointing out a different gator, distinct from Big Sal
+- Group brainstorming names together, genuine debate
+- The name lands, guide repeats it grinning
+- Guide shrugging, moving on
+- Wide closing shot: group laughing, boat continuing
+
+CASTING NOTE: Designed to be re-shot with a different guessed name every time (whatever the group actually lands on), not scripted as "Gerald" for every posting. Keep the on-screen name graphic swappable in editing so this piece can run multiple times with real, different results.
+
+SOURCE GROUNDING: Explicitly differentiated from Pass 15's "Big Sal Has a Name" (Piece 07), which is about an established, recurring resident gator guides already greet by name every trip. This piece is the opposite structure on purpose: a different, ad hoc name every single time, decided by whichever group happens to be on board that day, not a fixed company tradition. The script calls this out directly in line two ("This isn't that one") specifically so it can't be mistaken for a repeat of the earlier piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, playful curiosity, "this is whatever the boat decides to name it" withholds the actual name for two full lines before the payoff). Then /copywriting-2.0 (3-test filter): passed clean on the line level; the main note from this pass was a continuity check rather than a wording fix, confirming the piece reads as clearly distinct from the established Big Sal continuity rather than risk feeling like an accidental repeat.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter).

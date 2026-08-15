@@ -1,0 +1,30 @@
+PIECE 11 — Funny / honest realism lane — "Nature's Beautiful Until It's Biting You"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: Preservation Hall Jazz Band-style quieter trad-jazz, light comedic sting on the bug-spray beat (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The swamp is beautiful. Nobody's arguing that.                   [wide shot: cypress trees, calm water, golden light]
+ 3.0s  It is also, at some point, going to bite you.                    [guest swatting at the air, laughing]
+ 6.0s  Somebody always says it: "Nature's beautiful until it's biting you."  [guest saying the line, half-laughing]
+10.5s  We hand out bug spray. Not everyone uses it in time.             [guide passing bug spray, guest reaching for it late]
+14.5s  It's honest. The swamp doesn't perform for you. It just is, mosquitoes included.  [wide shot, boat continuing, guests laughing it off]
+19.5s  Bring the spray. Bring a sense of humor too.                     [closing shot, guest laughing, swatting again]
+
+ON-SCREEN TEXT TREATMENT:
+None. A caption here would undercut the deadpan delivery.
+
+SHOT LIST:
+- Wide beautiful-swamp establishing shot (opener)
+- Guest swatting at the air, laughing
+- Guest delivering the line directly
+- Bug spray offered, offered a beat too late
+- Wide shot: guests laughing it off, boat continuing
+- Closing: guest laughing, swatting again
+
+PRODUCTION FLAG: Confirm bug spray is actually kept on board and offered to guests before scripting this as documented practice. Low risk either way, easy to confirm with a guide directly.
+
+SOURCE GROUNDING: Distinct from every prior piece; no prior pass undercuts the swamp's beauty with an honest, unglamorous annoyance. This runs counter to the usual myth-vs-reality device (guest expected worse, got something better), here the reveal goes the other way: the swamp is exactly as beautiful as advertised, and also has real bugs, both true at once.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga, honesty over overselling, undercutting idyllic swamp-tour marketing with a true, checkable annoyance builds more credibility than another pretty-water-only shot). Then /copywriting-2.0 (3-test filter): the closing line "the swamp doesn't perform for you, it just is, mosquitoes included" is a direct, attributed adaptation of `Admire NOLA/Content/Script & Caption Bank.md` Lane 1's "The swamp doesn't perform. It just is, and lets you watch." Reused deliberately as a cross-brand callback since both operate Louisiana water tours under related content operations, not lifted uncredited. Passed clean otherwise.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter).

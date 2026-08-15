@@ -1,0 +1,15 @@
+PIECE 92 — Funny/Quotable lane — Delta Dream's voice / Character bit, photo-culture second angle — "There's Always A Drone Guy"
+Voice: EL-Lily ("Delta Dream's voice," recurring)   Music: bright, modern pop bed with a subtle "aerial swell" moment when the drone shot lands   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got one. The drone guy.                                     [wide shot, guest unpacking a drone case on deck]
+ 2.6s  Nobody asked him to bring it. He brought it anyway.                       [drone lifting off the deck, guests glancing up]
+ 5.4s  By the end, everyone's in his shot whether they agreed to it or not.      [aerial-style wide shot of the boat, guests waving up]
+ 8.4s  He'll send the footage in the group chat. Eventually. Maybe.              [guest checking his phone, half-annoyed friends around him]
+11.4s  Somebody's always got the drone guy. This time it's yours.                [wide shot, boat from above, guests cheering up at camera]
+
+On-screen text: Hook = "EVERY GROUP'S GOT ONE. THE DRONE GUY." | Body = "he'll send the footage. eventually." | CTA: none.
+
+NOTE: distinct from piece 26 ("Everyone's A Photographer At Golden Hour," a phones-at-sunset bit) — this is a single character bit about drones specifically. Check the vault's Assets folder for existing usable aerial/drone b-roll before scheduling a new drone shoot; likely reusable. The unpacking/deck shots need a guest who actually brings a drone (opportunistic) or a lightly coordinated willing guest.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

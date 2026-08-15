@@ -1,0 +1,28 @@
+PIECE 06 — Funny / running joke lane — "Said It Before We Even Left the Dock"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: Hot 8 Brass Band-style bounce (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The boat hasn't even left the dock yet.                          [wide shot, boat still tied up, group boarding]
+ 3.0s  Someone's already calling it the best day of their life.         [guest exclaiming, arms up, still on the dock]
+ 6.5s  We haven't seen a single gator. Nobody's poured a drink yet.     [group looking around, cooler still closed]
+10.5s  Doesn't matter. Somebody always says it early.                   [guest laughing, saying the line to a friend]
+14.0s  By the time we're actually moving, they've said it twice more.   [boat pulling away, guest repeating the line]
+18.5s  Can't blame them. We'd say it too.                                [wide shot, boat pulling away from dock, sunset]
+
+ON-SCREEN TEXT TREATMENT:
+None. Let the hyperbole land in the VO without a caption competing for the joke.
+
+SHOT LIST:
+- Wide shot: boat tied up, group boarding (opener)
+- Guest exclaiming on the dock, arms up
+- Group looking around, cooler still closed, nothing's happened yet
+- Guest repeating the line to a friend, laughing
+- Boat pulling away, line repeated again
+- Wide closing shot: sunset departure
+
+SOURCE GROUNDING: Distinct from prior passes' expectation-reversal pieces (Pass 9's "wait, this is way better," Pass 15's "wait, it's just us"). Those pieces are structured around a wrong expectation getting corrected; this one isn't about correcting anything, it's about premature hyperbole happening before the product has even been delivered yet. Different comedic engine: the humor is in the timing (before departure), not a reveal.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, conversational specificity, "we haven't seen a single gator, nobody's poured a drink yet" is the kind of concrete, checkable detail Halbert insisted on over a vague "guests get excited early"). Then /copywriting-2.0 (3-test filter): an early closer, "Nobody's ever wrong about that," failed the falsifiability test (an unfalsifiable absolute nobody could verify from footage), cut and replaced with "Can't blame them. We'd say it too," which is honest, specific to the brand's own warm Nolan-style voice rather than a blanket claim, and passes all three tests.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 23, 2026-08-14. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter).

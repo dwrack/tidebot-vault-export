@@ -1,0 +1,15 @@
+PIECE 81 — Funny/Quotable lane — Deck-hand slang / Holiday-specific — "Auld Lang Syne, But Make It a Cooler"
+Voice: voice-en-US-GuyNeural ("The Deckhand," recurring, free tier)   Music: swelling pop-anthem countdown bed, horn stabs on "ten, nine, eight," big open chord at midnight   Length: 14s
+
+SCRIPT (timed to narration):
+ 0.0s  "Ten, nine, eight..."                                                      [Deckhand mid-countdown, guests gathered on deck, string lights, phone flashlights up]
+ 2.4s  Nobody remembers the words to Auld Lang Syne past line two.                [group singing badly, laughing, arms around each other]
+ 5.8s  Doesn't matter. Everybody's yelling it anyway.                             [wide shot, cheering, noisemakers — no confetti, deck stays clean]
+ 9.2s  Midnight on the water hits different than midnight in a bar line.          [fireworks over the water in the distance, reflections]
+12.4s  Happy New Year. Same water, better view.                                   [wide shot, group hugging, fireworks continuing]
+
+On-screen text: Hook = "NOBODY KNOWS THE WORDS PAST LINE TWO" | Body = "same water, better view" | CTA: none.
+
+NOTE: no confetti or glitter in any shot — keeps this consistent with the standing "No Glitter, No Confetti, No Exceptions" house rule (piece 49). Use noisemakers/horns instead. This is date-locked, Dec 31 only — one shot at it per year.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
