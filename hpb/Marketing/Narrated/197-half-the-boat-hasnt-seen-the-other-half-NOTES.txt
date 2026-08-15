@@ -1,0 +1,14 @@
+PIECE 197 — Funny/Quotable lane — Sarah / New occasion type, sincere register — "Half The Boat Hasn't Seen The Other Half Since Graduation"
+Voice: EL-Sarah ("Sarah," recurring)   Music: warm acoustic bed, gentle nostalgic swell   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Twenty years since graduation. Half this boat hasn't seen the other half since.   [Sarah VO warm soft, wide, guests reading name tags, squinting at faces, laughing]
+ 3.6s  Everybody checks the name tag first, then pretends they knew immediately.   [insert, guest reading a name tag, exaggerated recognition, laughing]
+ 7.4s  Somebody still owes somebody five dollars from senior year. They're settling it tonight.   [insert, playful exchange, both guests laughing]
+11.4s  Name tags come off by the second stop. Nobody needs them after that.   [closing line, warm, wide, group cruising, sunset]
+
+On-screen text: Hook = "HALF THE BOAT HASN'T SEEN THE OTHER HALF SINCE GRADUATION" | Body = "name tags come off by the second stop" | CTA: none.
+
+NOTE: distinct from piece 91 (Vol. 3, a tight six-person friend group, Old Salt voice, "quiet group chat" device) — this is a larger, formally organized class reunion built around name tags and an old running debt, not a small reconnecting friend group. An early draft of this closing line nearly duplicated piece 91's "took about four minutes to feel like no time passed" line almost word for word; caught in the copywriting-2.0 pass and rebuilt around the name-tag device instead.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

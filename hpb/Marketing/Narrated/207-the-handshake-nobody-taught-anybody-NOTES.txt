@@ -1,0 +1,14 @@
+PIECE 207 — Funny/Quotable lane — Sarah / New improvised-ritual device — "The Handshake Nobody Taught Anybody"
+Voice: EL-Sarah ("Sarah," recurring)   Music: warm acoustic bed, gentle nostalgic swell on closer   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somewhere in the first ten minutes, every group invents something. A handshake, a chant, a name for the cooler.   [Sarah VO warm soft, wide, guests laughing, working out an inside joke together]
+ 3.8s  Nobody plans it. It just happens, and by the end of the trip it's tradition.   [insert, guests doing an improvised handshake, cracking up at their own bit]
+ 7.6s  They'll do it again at the wedding. They'll do it again at the reunion.   [insert, the group repeating the gesture, laughing harder the second time]
+11.4s  It started on this boat. It doesn't end when the boat docks.   [closing line, warm, wide, group cruising, golden light]
+
+On-screen text: Hook = "SOMEWHERE IN THE FIRST TEN MINUTES, EVERY GROUP INVENTS SOMETHING" | Body = "it started on this boat. it doesn't end when the boat docks." | CTA: none.
+
+NOTE: distinct from piece 170 ("The Saying Nobody Meant To Start," Vol. 11), which is a spontaneous verbal catchphrase confined to one trip. This is a physical gesture or ritual explicitly framed as continuing beyond the boat, which piece 170 never claims. Needs two takes across the trip for the "did it again" beat to read as a real callback, not a single moment.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

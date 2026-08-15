@@ -1,0 +1,14 @@
+PIECE 202 — Funny/Quotable lane — Mama Tried's voice / New character device — "Every Group's Got A Boat Mom"
+Voice: EL-Brian (premium, "Mama Tried's voice," recurring)   Music: comedic syncopated bed, deadpan pause sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group has one. We call her boat mom. She's rarely actually anybody's mom.   [Brian VO flat deadpan, wide, one guest handing out sunscreen and snacks unprompted]
+ 3.6s  She's got the extra sunscreen. She's got the Advil. She's counted heads twice already.   [insert, guest checking a small bag, handing things out]
+ 7.4s  Nobody appointed her. She just showed up prepared, and everybody let her run it.   [insert, group laughing, deferring to her without question]
+11.2s  The captain runs the boat. Boat mom runs everybody on it.   [closing line, flat deadpan, wide, group cruising]
+
+On-screen text: Hook = "EVERY GROUP'S GOT A BOAT MOM" | Body = "the captain runs the boat. boat mom runs everybody on it." | CTA: none.
+
+NOTE: a generalized guest archetype, not describing any specific real person. Distinct from piece 27 ("Vibe Curator, Chief Snack Officer," Vol. 1), which assigns several mock-corporate titles to several different guests — piece 202 is one specific, real, widely-recognized cultural role given to one person. Keep the distinction clear in any caption so the two bits aren't merged.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

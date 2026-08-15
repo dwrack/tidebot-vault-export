@@ -1,0 +1,30 @@
+PIECE 02 — Funny / parody lane — "0700 Hours, Considerable Chaos"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-RogerNeural (free tier)   Music: wry, groovy blues-rock, Anders Osborne reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  If this boat kept an official log, Saturday would read like this.   [wide shot: boat departing dock, guests boarding with coolers]
+ 3.0s  "1100 hours. Guests boarded. Sobriety: optimistic."   [text overlay: mock log entry typed out, deadpan monospace font]
+ 6.0s  "1130 hours. First toast delivered. Content: unclear. Volume: not."   [guests toasting, laughing]
+ 9.0s  "1245 hours. Guest dancing on the cooler. Structural integrity: holding, for now."   [guest dancing near a cooler, others cheering]
+12.5s  "1400 hours. Returned to dock. Mission: a complete, unqualified success."   [boat approaching dock, sunset, guests still laughing]
+15.5s  No captain actually writes this. Somebody should.   [closing shot: boat docked, quiet, empty logbook prop resting on the console]
+
+ON-SCREEN TEXT TREATMENT:
+Each timestamped entry (lines 2-5) appears as a typewritten log line synced to the VO, deadpan monospace font, holds briefly then clears for the next.
+
+SHOT LIST:
+- Wide shot, boat departing dock, guests boarding with coolers (opener)
+- Text overlay: first mock log entry
+- Guests toasting, laughing
+- Guest dancing near the cooler, others cheering
+- Boat approaching dock at sunset, guests still laughing
+- Closing shot: boat docked, quiet, empty logbook prop on the console
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc. Grounded in Brand Story & Values.md Section 6's "not over-produced, no forced fun" rule, which is why line 6 explicitly says no captain actually writes this rather than letting the joke imply it's a real document.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's slippery slide — short opener, each log entry escalating slightly, momentum building to the punchline — with Halbert's plain honesty on the closer). Then /copywriting-2.0 (3-test filter): flagged line 5's "a complete, unqualified success" as a claim that would fail the falsify test if delivered straight, but confirmed it passes here because the whole piece is an explicit parody of stiff mission-report language, and the joke depends on the deadpan overclaim reading as satire, not as an actual assertion.
+
+PRODUCTION FLAG: This is a comedic device, not a real, existing document. Nothing here should be captioned or discussed in a way that implies NPB actually keeps a log like this. Line 6 makes that explicit on camera for exactly this reason.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, confirmed with reasoning above).

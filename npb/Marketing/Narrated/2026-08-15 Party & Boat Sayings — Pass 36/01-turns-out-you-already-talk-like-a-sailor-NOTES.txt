@@ -1,0 +1,28 @@
+PIECE 01 — Did-you-know / punchy lane — "Turns Out You Already Talk Like a Sailor"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: upbeat brass, TBC Brass Band reference (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  You've said "three sheets to the wind" your whole life and never once been on a sheet.   [wide shot: boat cruising, guests laughing on deck]
+ 3.3s  A "sheet" is the rope that controls the sail, not the sail itself. Let it go loose, it snaps wild in the wind.  [close-up: a line on the boat rail, wind moving it]
+ 7.5s  "Know the ropes." "All hands on deck." "Loose cannon." Every one of them started at sea, not in an office.  [quick cuts: guests gesturing mid-conversation, laughing]
+12.0s  You've been quoting sailors at every happy hour you've ever been to.  [guest raising a cup, laughing, pointing at a friend]
+14.5s  Today you finally get to say it on an actual boat.  [closing wide shot: cruise underway, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+Each idiom ("THREE SHEETS TO THE WIND," "KNOW THE ROPES," "ALL HANDS ON DECK," "LOOSE CANNON") appears briefly in quotes as it's spoken, clears fast, kinetic but not cluttered.
+
+SHOT LIST:
+- Wide shot, boat cruising, guests laughing on deck (opener)
+- Close-up: a line on the boat rail, wind moving it
+- Quick cuts: guests gesturing mid-conversation, laughing
+- Guest raising a cup, laughing, pointing at a friend
+- Closing wide shot: cruise underway, golden light
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc. The etymology claims are accurate common knowledge (a "sheet" is the rope that controls a sail, and all four quoted idioms have documented nautical origins), so no ops confirmation is needed before shooting.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's factual specificity — a checkable etymology beats a vague "these are old sailing words" — with a Bencivenga proof instinct on getting the mechanism right: a sheet is the rope, not the sail). Then /copywriting-2.0 (3-test filter): caught an overclaim in the original line 3, which said these idioms "started on a boat like this" — not true, since they're old tall-ship terms, not modern party-barge terms — rewritten to "started at sea, not in an office," which is both accurate and funnier.
+
+PRODUCTION FLAG: None beyond standard illustrative framing. Safe to shoot as written.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Bencivenga) then /copywriting-2.0 (3-test filter, one rewrite logged above).

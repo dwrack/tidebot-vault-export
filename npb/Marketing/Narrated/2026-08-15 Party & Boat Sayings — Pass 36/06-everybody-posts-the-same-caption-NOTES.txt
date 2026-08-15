@@ -1,0 +1,28 @@
+PIECE 06 — Funny / observational lane — "Everybody Posts the Same Caption"
+Product: Private BYOB Party Fleet
+Voice: voice-en-GB-RyanNeural (free tier)   Music: light, playful swamp-pop, Johnny Sansone reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody compares notes beforehand. The captions all turn out the same anyway.   [wide shot: several guests on phones, boat cruising]
+ 3.0s  "Sippin' on the Mississippi." Posted, on average, four times a weekend.   [phone screen mockup: caption text appearing]
+ 6.0s  "Bayou or bust." Somebody's always sure they thought of it first.   [second phone mockup: different caption appearing]
+ 9.0s  Nobody plans it. The captions just keep repeating themselves, one boat at a time.   [guests laughing, comparing phones]
+12.0s  Different boat, different week, same four captions.   [closing wide shot: cruise continuing, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+Each caption ("SIPPIN' ON THE MISSISSIPPI," "BAYOU OR BUST") appears as an actual phone-screen mockup synced to its line, clears before the next.
+
+SHOT LIST:
+- Wide shot, guests on phones, cruising (opener)
+- Phone mockup: first caption appearing
+- Phone mockup: second caption appearing
+- Guests laughing, comparing phones
+- Closing wide shot: cruise continuing, golden light
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's observational curiosity — the viewer wonders "wait, is that actually true?" then the piece proves it with two specific examples — with Ogilvy's instinct to use real, checkable-sounding specifics rather than a vague "people post similar things"). Then /copywriting-2.0 (3-test filter): flagged the original line 4, "Nobody plans the running joke. The river just keeps writing it for everybody," as a river-personification metaphor reading closer to inspirational ad copy than an ownable, specific claim — rewritten to "the captions just keep repeating themselves, one boat at a time," concrete and tied directly to the bit.
+
+PRODUCTION FLAG: The two captions are illustrative examples, not confirmed as the actual most-repeated real captions from guest posts. Verifying this against real guest social posts before shooting would make the piece fully checkable rather than just plausible.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Ogilvy) then /copywriting-2.0 (3-test filter, one line-4 rewrite logged above).

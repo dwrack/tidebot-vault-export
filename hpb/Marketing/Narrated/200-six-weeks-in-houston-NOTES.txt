@@ -1,0 +1,14 @@
+PIECE 200 — Funny/Quotable lane — The Groomsman / New occasion type, CTA piece — "Six Weeks In Houston, Already Invited On A Boat"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," free tier)   Music: warm-dry acoustic bed, light welcoming swell   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  New job. New apartment. Six weeks in Houston and already invited on a boat.   [Groomsman VO dry warm, wide, guest looking slightly unsure at boarding, friends pulling them along]
+ 3.6s  That's usually how it goes here. You don't get a Houston starter pack. You get invited somewhere.   [insert, guest being introduced around, visibly relaxing]
+ 7.4s  By the end of the trip they've got a group chat and an opinion about which boat's better.   [insert, guest laughing with new friends, exchanging numbers]
+11.2s  Welcome to Houston. Somebody already added you to the plans.   [closing line, warm, wide, group cruising, sunset]
+
+On-screen text: Hook = "SIX WEEKS IN HOUSTON. ALREADY INVITED ON A BOAT." | Body = "somebody already added you to the plans" | CTA = "New to Houston? This is how you meet people. Book a public tour."
+
+NOTE: works well on a standard public tour, low staging needed if a genuine newcomer guest is willing to share their story on camera — weaker if the "unsure" beat is performed by someone who isn't actually new to the city.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

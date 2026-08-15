@@ -1,0 +1,14 @@
+PIECE 201 — Funny/Quotable lane — The Deckhand / New occasion type, kept evergreen — "The Game Was On. Nobody Checked The Score."
+Voice: voice-en-US-GuyNeural ("The Deckhand," free tier)   Music: fast playful comedic bed   Length: 13.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Group booked us the same night as a playoff game. Not one person brought it up.   [Deckhand VO fast hyped, wide, group boarding in team jerseys, relaxed, no phones checking scores]
+ 3.2s  They wore the jerseys. They just didn't watch the game.   [insert, guest in jersey laughing, drink in hand, no screen in sight]
+ 6.4s  Somebody's phone buzzed with the score around sunset. Nobody looked.   [insert, phone buzzing on a cooler lid, ignored]
+ 9.8s  Turns out the best seat for the game was the one nobody used to watch it.   [closing line, hyped, grinning, wide, sunset]
+
+On-screen text: Hook = "THE GAME WAS ON. NOBODY CHECKED THE SCORE." | Body = "the best seat for the game was the one nobody used to watch it" | CTA: none.
+
+NOTE: deliberately avoids naming a specific team, game, or score — keeps the piece evergreen across seasons and avoids stating a result that could be wrong or age out. Same discipline as Vol. 12's NASA-proximity piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

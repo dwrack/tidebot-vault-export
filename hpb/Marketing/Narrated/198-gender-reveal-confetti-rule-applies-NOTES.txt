@@ -1,0 +1,14 @@
+PIECE 198 — Funny/Quotable lane — Roger / New occasion type, canon continuity with the no-confetti house rule — "Gender Reveals Welcome, Confetti Cannons Are Not"
+Voice: voice-en-US-RogerNeural ("Roger," free tier)   Music: dry mock-official bed, light comedic sting on "workaround"   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Public notice. Gender reveals are welcome. Confetti cannons are not.   [Roger VO mock-official deadpan, close, guest holding a wrapped box, deckhand eyeing it warily]
+ 3.6s  We've found a workaround. Two coolers, two colors, whichever one gets opened first.   [insert, two coolers side by side, pink and blue, guests gathered around]
+ 7.4s  Nobody's cleaning powder off the deck at sunset. Everybody still gets the moment.   [insert, guests cheering, cooler lid opening, zero mess]
+11.2s  New life, new rule. Boat stays exactly the same.   [closing line, wry, warm, wide]
+
+On-screen text: Hook = "GENDER REVEALS WELCOME. CONFETTI CANNONS ARE NOT." | Body = "new life, new rule, boat stays exactly the same" | CTA: none.
+
+NOTE: builds directly on the no-glitter/no-confetti house rule established in piece 49 (Vol. 1) and dramatized again in piece 188's confetti-cannon incident (Vol. 12) — deliberate continuity, not a fourth unrelated confetti bit. The two-cooler-color reveal is an invented workaround, not a confirmed real house offering — needs Connor's sign-off before it's promoted as a real service, and confirmation that powder/smoke reveal devices are actually barred for safety, not just assumed here.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

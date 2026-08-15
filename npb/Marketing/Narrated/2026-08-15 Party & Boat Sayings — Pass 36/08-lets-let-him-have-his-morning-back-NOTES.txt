@@ -1,0 +1,28 @@
+PIECE 08 — Heartfelt / practical lane — "Let's Let Him Have His Morning Back"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: atmospheric cello and folk, Leyla McCalla reference (clearance unconfirmed)   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a specific line guides use when it's time to paddle on from a sighting.   [wide shot: kayaks near a resting alligator]
+ 3.0s  Not "let's go." Not "we're done here."   [guide gesturing gently, guests watching]
+ 5.5s  "Let's let him have his morning back."   [close-up: guide speaking, guests nodding]
+ 7.5s  Small phrase. Big idea: out here, you're the guest, not the other way around.   [kayaks quietly paddling away]
+11.0s  Nobody claps. Nobody needs to. The gator never even noticed you left.   [closing wide shot: alligator undisturbed, kayaks receding]
+
+ON-SCREEN TEXT TREATMENT:
+None. Matches the quiet register of the piece.
+
+SHOT LIST:
+- Wide shot, kayaks near a resting alligator (opener)
+- Guide gesturing gently, guests watching
+- Close-up: guide speaking, guests nodding
+- Kayaks paddling quietly away
+- Closing wide shot: alligator undisturbed, kayaks receding
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc. Grounded in Brand Story & Values.md's respectful, non-intrusive wildlife-viewing ethic.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, honest phrasing — the line does its own work, no need to oversell it — with Ogilvy's specificity on what the line replaces: "not 'let's go,' not 'we're done here'" makes the contrast concrete instead of just asserting the line is special). Then /copywriting-2.0 (3-test filter): cut an original line 4, "says the whole philosophy in one sentence," flagged for the word "philosophy" reading as abstract marketing language, and rewrote it to "big idea: out here, you're the guest, not the other way around," concrete and visualizable as a role reversal.
+
+PRODUCTION FLAG: This specific etiquette line is not confirmed as an actual, standing part of guide practice. Confirm with a naturalist guide whether a consistent departure phrase like this is currently used, or whether it's worth adopting, before this airs as documented practice rather than a proposed line.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Ogilvy) then /copywriting-2.0 (3-test filter, one line-4 rewrite logged above).

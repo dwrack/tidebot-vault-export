@@ -1,0 +1,28 @@
+PIECE 10 — Funny / heartfelt lane — "Left. Your Other Left."
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Daniel (ElevenLabs)   Music: playful blues guitar, Little Freddie King reference (clearance unconfirmed)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody teaches tandem kayak couples how to talk to each other. They figure it out mid-swamp.   [wide shot: two-person kayak, paddling out of sync]
+ 3.0s  "Left. No, left. Your other left."   [close-up: guests laughing, correcting each other]
+ 5.5s  By minute ten, most pairs have invented an entire private language.   [kayak moving more smoothly, guests grinning]
+ 8.5s  One word means switch sides. Another means "my arms are done, you're paddling now." Nobody agreed to any of it.   [close-up: partners exchanging a knowing look mid-paddle]
+13.0s  An hour later, they're paddling like they've done this for years.   [closing wide shot: kayak gliding smoothly, in sync]
+
+ON-SCREEN TEXT TREATMENT:
+None. The dialogue and pacing carry it.
+
+SHOT LIST:
+- Wide shot, tandem kayak paddling out of sync (opener)
+- Close-up: guests laughing, correcting each other
+- Kayak moving more smoothly, guests grinning
+- Close-up: partners exchanging a knowing look mid-paddle
+- Closing wide shot: kayak gliding smoothly, in sync
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's story momentum — each line escalates the "private language" idea with a new specific example — with a light Halbert conversational touch on the quoted dialogue). A structural collision was caught and corrected during this pass, before /copywriting-2.0 even started: an earlier draft of line 4 had the couple inventing a two-tap paddle signal, which is the exact mechanic Pass 29's Piece 08 ("Two Taps Means Look Right") already built as a guide-taught spotting signal — a reskin risk even though the context differed (guest-invented shorthand vs. guide-taught instruction). Rewritten to use spoken shorthand ("one word means switch sides") instead of any tap-based gesture, so the device stays genuinely distinct. Then routed through /copywriting-2.0 (3-test filter): confirmed the rewritten piece passes clean.
+
+PRODUCTION FLAG: Illustrative comedic observation of a common, plausible guest dynamic, not a documented or measured behavior. Fine to run as a lighthearted bit.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert, one device-collision fix logged above) then /copywriting-2.0 (3-test filter, passed clean).

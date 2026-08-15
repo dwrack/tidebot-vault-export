@@ -1,0 +1,14 @@
+PIECE 196 — Funny/Quotable lane — The Bestie / New occasion type, CTA piece — "Galentine's Outranks Valentine's On This Boat"
+Voice: EL-Jessica ("The Bestie," recurring)   Music: fast comedic bed, playful sting on the closer   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  February 13th books out faster than February 14th. Every single year.   [Bestie VO loud amused, wide, group of women boarding, no partners, no dates in sight]
+ 3.4s  No boyfriends. No husbands. Just the group chat that's been together since college.   [insert, group toasting with drinks, loud genuine laughter]
+ 7.0s  Valentine's Day is one night for one person. Galentine's is every year for the people who actually show up.   [Bestie, mock-serious a beat, then cracking up]
+11.2s  We'll see the couples tomorrow. Tonight's the important reservation.   [closing line, loud, wide, sunset, group laughing]
+
+On-screen text: Hook = "FEB 13 BOOKS OUT FASTER THAN FEB 14" | Body = "tonight's the important reservation" | CTA = "Galentine's books out fast. Grab your date on the water — the girls, that is."
+
+NOTE: distinct from the existing "valentines-whole-boat-in-on-it" piece, which is couples-focused. This is explicitly the friend-group version — no romantic partners in frame, keep footage/captioning separate from the couples piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

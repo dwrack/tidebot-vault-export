@@ -1,0 +1,28 @@
+PIECE 09 — Poetic / seasonal lane — "The Cypress Only Do This Once a Year"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: moody swamp rock, Honey Island Swamp Band reference (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  For about two weeks each November, the cypress do something they don't do the other fifty.   [wide shot: cypress trees, still green]
+ 3.5s  Every needle turns the color of a low fire, all at once, like the whole swamp got the same memo.   [close-up: cypress branch, orange-rust color]
+ 7.5s  Then the needles drop, and the trees stand bare through winter, waiting on spring to start over.   [wide shot: bare cypress silhouettes]
+11.5s  Miss the two weeks, and it's a full year before you get another shot.   [close-up: a single falling needle, reflected in still water]
+14.0s  Come see fire that doesn't burn anything down.   [closing wide shot: fall-colored cypress reflected in still water]
+
+ON-SCREEN TEXT TREATMENT:
+None. Matches the Admire NOLA poetic lane's convention of letting VO and visual carry it.
+
+SHOT LIST:
+- Wide shot, cypress trees still green (opener)
+- Close-up: cypress branch turning orange-rust
+- Wide shot: bare cypress silhouettes
+- Close-up: a single falling needle, reflected in still water
+- Closing wide shot: fall-colored cypress reflected in still water
+
+SOURCE GROUNDING: An original, illustrative concept grounded in accurate bald cypress biology (one of the few conifers that drops its needles, turning rust-orange in fall). Addresses a gap explicitly flagged as open since Pass 27: "Lane 12 (seasonal) has no dedicated fall-cypress-color piece." This is the first piece in the series centered on fall cypress color.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling the poetic register of the Admire NOLA Lane 1 notes — short, literary, a specific image doing the work an adjective couldn't — with an Ogilvy instinct for factual grounding). Then /copywriting-2.0 (3-test filter): confirmed the piece passes clean, no cuts needed, and flagged that "about two weeks" should stay hedged with "about," since the exact window shifts year to year with weather.
+
+PRODUCTION FLAG: The two-week window is a general seasonal pattern, not a fixed calendar date; caption accordingly if this airs near the actual season.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (poetic register/Ogilvy) then /copywriting-2.0 (3-test filter, passed clean).

@@ -1,0 +1,28 @@
+PIECE 12 — Poetic / heartfelt lane — "Welcome to the Room With No Roof"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: atmospheric indie folk, Hurray for the Riff Raff reference (clearance unconfirmed)   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Right as the kayaks push off the dock, there's a line one guide likes to open with.   [wide shot: kayaks launching at dawn]
+ 3.0s  Not a safety talk. Not yet.   [guide paddling alongside the group]
+ 5.0s  "Welcome to the room with no roof."   [close-up: guide speaking, guests looking up at the open cypress canopy]
+ 7.5s  Nobody explains what it means. By the end of the tour, nobody has to ask.   [wide shot: canopy opening to sky, light streaming through]
+11.5s  You don't walk into this room. The paddle's the door.   [closing wide shot: kayaks gliding beneath cypress canopy, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+None. Matches the poetic lane's convention.
+
+SHOT LIST:
+- Wide shot, kayaks launching at dawn (opener)
+- Guide paddling alongside the group
+- Close-up: guide speaking, guests looking up
+- Wide shot: canopy opening to sky, light streaming through
+- Closing wide shot: kayaks gliding beneath the canopy, golden light
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling the Admire NOLA Lane 1 poetic register with an Ogilvy instinct for a specific, evocative image over a generic one — "the room with no roof" is concrete and visualizable rather than an abstract "peaceful and beautiful"). Then /copywriting-2.0 (3-test filter): flagged an early version of the closer, "Some rooms you walk into. This one you enter," as too close a structural echo of an existing Admire NOLA Bank Lane 1 seed ("Some places you visit. This one you enter") — same rhetorical template, borrowed rather than original. Rewritten to "you don't walk into this room, the paddle's the door," which keeps the room metaphor but lands on an original image instead of echoing another brand's specific line.
+
+PRODUCTION FLAG: This specific opening line is not confirmed as an actual, standing part of guide practice. Confirm with a naturalist guide whether a consistent launch-morning line like this is currently used, or whether it's worth adopting, before this airs as documented practice rather than a proposed line.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (poetic register/Ogilvy) then /copywriting-2.0 (3-test filter, one closer rewrite logged above).

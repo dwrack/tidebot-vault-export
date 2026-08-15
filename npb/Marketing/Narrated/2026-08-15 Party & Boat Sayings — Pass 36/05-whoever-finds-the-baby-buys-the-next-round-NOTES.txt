@@ -1,0 +1,28 @@
+PIECE 05 — Funny / tradition lane — "Whoever Finds the Baby Buys the Next Round"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: zydeco energy, Rockin' Dopsie Jr. & the Zydeco Twisters reference (clearance unconfirmed)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  It's July. There's technically no reason for a king cake to be on this boat.   [wide shot: guests boarding, cooler and a cake box visible]
+ 3.5s  Somebody brought one anyway. Somebody always does.   [close-up: cake box opening, guests curious]
+ 6.5s  Hidden inside: the plastic baby. Whoever finds it owes the next round. Old rule, wrong month.   [close-up: guest finding the plastic baby in their slice, surprised]
+10.5s  Doesn't matter that it's not Mardi Gras. The rule doesn't check a calendar.   [group laughing, pointing at the guest who found it]
+14.0s  Somebody's buying the next round in July, because of a plastic baby from February.   [closing wide shot: guest holding up the baby, group cheering, cruising]
+
+ON-SCREEN TEXT TREATMENT:
+None. Lets the visual gag (finding the baby) carry the beat.
+
+SHOT LIST:
+- Wide shot, guests boarding, cake box visible (opener)
+- Close-up: box opening, guests curious
+- Close-up: guest finding the baby, surprised
+- Group laughing, pointing at the guest who found it
+- Closing wide shot: guest holding up the baby, group cheering, cruising
+
+SOURCE GROUNDING: An original, illustrative concept built on a real, documented New Orleans tradition (the king cake baby), not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's real cultural specificity — a genuine tradition, transplanted off-season, is funnier and more ownable than an invented rule — with Ogilvy's factual grounding on the king-cake-baby custom itself, which is real and doesn't need embellishing). Then /copywriting-2.0 (3-test filter): cut the original closer, "New Orleans exports its traditions whether the season agrees or not," flagged as abstract and proclamation-y (fails the visualize test), and rewrote it to "somebody's buying the next round in July, because of a plastic baby from February," concrete, specific to this exact bit, and funnier.
+
+PRODUCTION FLAG: This is a proposed bit, not a documented, standing NPB practice — no king cake currently ships on off-season cruises. Before shooting, ops needs to decide whether to actually source an off-season king cake (bakeries do sell them, just not as commonly outside Carnival season), plan who hides the baby and how, and flag the choking-hazard consideration of a small plastic object inside food served on a moving boat.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Ogilvy) then /copywriting-2.0 (3-test filter, one closer rewrite logged above).

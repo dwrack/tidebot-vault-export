@@ -1,0 +1,14 @@
+PIECE 204 — Funny/Quotable lane — Sunscreen Friend / New vibe-check device — "The Boat Doesn't Lie"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," recurring, free tier — NOT EL-Brian)   Music: warm observational acoustic bed, gentle building swell   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  You can fake a lot of things at a bar. You cannot fake having fun on this boat.   [Sunscreen Friend VO earnest amused, wide, guests genuinely laughing, wind in hair, unposed]
+ 3.6s  No dark corner to hide in. No bad lighting to blame. Just water, wind, and whoever you actually are today.   [insert, candid guest reactions, golden light]
+ 7.6s  The people having a bad time can't hide it out here. Neither can the people having the best day of their year.   [insert, contrast of two different genuine guest expressions]
+11.6s  That's why we trust the boat photos more than the bar photos.   [closing line, warm, wide, group laughing, sunset]
+
+On-screen text: Hook = "YOU CANNOT FAKE HAVING FUN ON THIS BOAT" | Body = "that's why we trust the boat photos more" | CTA: none.
+
+NOTE: needs a broad consent pool — leans on candid, unposed reactions from multiple guests across a trip rather than one or two identifiable people.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

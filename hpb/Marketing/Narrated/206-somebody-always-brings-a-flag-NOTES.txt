@@ -1,0 +1,14 @@
+PIECE 206 — Funny/Quotable lane — Roger / New prop-tradition device — "Somebody Always Brings A Flag"
+Voice: voice-en-US-RogerNeural ("Roger," free tier)   Music: dry mock-official bed, light flag-snap foley accent   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Public log. We've had a Texas flag, a Louisiana flag, a Grateful Dead flag, and one flag nobody could identify.   [Roger VO mock-official deadpan, wide, guest raising a flag from the bow, wind catching it]
+ 3.8s  Nobody asks permission first. It just goes up like it's always been the rule.   [insert, flag snapping in the wind, guests cheering]
+ 7.6s  We've stopped trying to guess what the flag means. We just fly it.   [insert, deckhand shrugging, smiling, adjusting a flag mount]
+11.4s  Every group claims the boat for a couple hours. The flag's just proof.   [closing line, wry, wide, flag flying, sunset]
+
+On-screen text: Hook = "WE'VE HAD A TEXAS FLAG, A LOUISIANA FLAG, AND ONE NOBODY COULD IDENTIFY" | Body = "every group claims the boat for a couple hours — the flag's just proof" | CTA: none.
+
+NOTE: the specific flags named are illustrative examples of the kind that show up, not a documented incident log — keep delivery a loose, offhand list, same discipline as piece 188's confetti-cannon note in Vol. 12.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

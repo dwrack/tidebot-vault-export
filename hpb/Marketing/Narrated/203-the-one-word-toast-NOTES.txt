@@ -1,0 +1,14 @@
+PIECE 203 — Funny/Quotable lane — The Announcer / New toast-structure device — "The One-Word Toast"
+Voice: EL-Daniel ("The Announcer," recurring)   Music: dry mock-PSA bed, single comedic beat-drop   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Public record. The shortest toast we've ever heard took exactly one word.   [Announcer VO formal played straight, close, guest raising a glass, everyone waiting]
+ 3.4s  He stood up, raised his glass, and said, "Finally." Sat back down.   [insert, guest sitting back down immediately, group cracking up, clinking glasses anyway]
+ 7.0s  Nobody needed more than that. Everybody understood exactly what he meant.   [Announcer, dry, small smirk]
+10.6s  Some speeches run ten minutes. The good ones can run one word.   [closing line, wry, wide, group toasting, sunset]
+
+On-screen text: Hook = "THE SHORTEST TOAST WE'VE EVER HEARD WAS ONE WORD" | Body = "the good ones can run one word" | CTA: none.
+
+NOTE: the word doesn't have to be "Finally" — works with whatever single word a real guest lands on. Distinct from the existing "toast-that-never-starts," "toastmaster-nobody-elected," and "saying-nobody-meant-to-start" pieces, all of which are about a different toast/catchphrase failure mode.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

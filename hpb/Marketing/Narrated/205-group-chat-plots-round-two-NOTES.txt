@@ -1,0 +1,14 @@
+PIECE 205 — Funny/Quotable lane — Delta Dream's voice / New post-trip-behavior device — "The Group Chat Plots Round Two Before The Boat Docks"
+Voice: EL-Lily ("Delta Dream's voice," recurring)   Music: bright playful bed, cheeky reveal sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  The trip's not even over yet, and somebody's already typed it in the group chat. "When are we doing this again?"   [Lily VO bright playful, wide, guest texting while walking down the dock, still laughing]
+ 3.6s  Not next year. Not eventually. Somebody's picking a date before they've even left the parking lot.   [insert, guest checking a calendar app, friends leaning in]
+ 7.4s  We've never had a trip end without somebody already planning the next one.   [insert, group hugging goodbye at the dock, still talking excitedly]
+11.2s  The best compliment isn't the review. It's the group chat plotting round two.   [closing line, bright, wide, boat docked, golden light]
+
+On-screen text: Hook = "\"WHEN ARE WE DOING THIS AGAIN?\"" | Body = "the group chat plotting round two before we're even docked" | CTA: none.
+
+NOTE: distinct from pieces 10, 55, and 91 (Vols. 1 and 3), which cover pre-boat texting, the Monday-morning thread rename, and a years-later reunion respectively. This is the immediate, in-the-moment rebooking impulse before the group has even left the dock. "We've never had a trip end without somebody already planning the next one" is a warm generalization, not a literal tracked statistic — keep delivery illustrative.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

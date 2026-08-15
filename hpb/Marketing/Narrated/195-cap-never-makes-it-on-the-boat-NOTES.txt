@@ -1,0 +1,14 @@
+PIECE 195 — Funny/Quotable lane — Sunscreen Friend / New occasion type — "The Cap Never Actually Makes It On The Boat"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," recurring, free tier — NOT EL-Brian)   Music: warm breezy acoustic bed, light wonder swell   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Everybody says they'll wear the cap on the boat for photos. Nobody's ever actually done it.   [Sunscreen Friend VO earnest amused, wide, grad in casual clothes, cap dangling from a bag strap]
+ 3.6s  It gets one photo at the dock, then it goes in a bag for the rest of the day.   [insert, cap tossed onto a cooler lid, guest laughing]
+ 7.2s  The diploma stayed in the car. Nobody's checked on it since noon.   [insert, guests cruising relaxed, no formalwear anywhere in frame]
+11.0s  Four years of finals. One afternoon of nobody asking what's next.   [closing line, warm, wide, group cruising, golden light]
+
+On-screen text: Hook = "THE CAP NEVER ACTUALLY MAKES IT ON THE BOAT" | Body = "one afternoon of nobody asking what's next" | CTA: none.
+
+NOTE: seasonal — worth prompting the booking calendar around May/June and December graduation weekends so this one is genuinely catchable rather than staged, same discipline as piece 190's Friendsgiving flag in Vol. 12.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

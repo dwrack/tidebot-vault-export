@@ -1,0 +1,14 @@
+PIECE 194 — Funny/Quotable lane — The Captain / New occasion type, CTA piece — "Forty Years Of Alarms"
+Voice: EL-Eric ("The Captain," recurring)   Music: confident mid-tempo bed, dry, warm horn swell on closer   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Forty years at the same company. He clocked out on a Friday, and I had him on the water by six.   [Captain VO dry unbothered, close, guest walking down the dock in work clothes, tie loosened, sunset behind him]
+ 3.6s  Nobody made him a speech. Somebody handed him a drink and pointed at the horizon.   [insert, group toasting, deckhand pouring, easy laughter]
+ 7.4s  Retirement trips are the quietest ones I run. And somehow the ones people cry hardest at.   [Captain, dry, small warm smile]
+11.2s  Forty years of alarms. Zero of them go off out here.   [closing line, dry, wide, boat cruising calm water, sunset]
+
+On-screen text: Hook = "FORTY YEARS OF ALARMS. ZERO OF THEM GO OFF OUT HERE." | Body = "the quietest trips we run — the ones people cry hardest at" | CTA = "Reaching a milestone? Book the water."
+
+NOTE: "forty years" is an invented illustrative figure, not a documented real guest's tenure — keep generalized in captions, don't attach to a named guest unless they consent to sharing their real number.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

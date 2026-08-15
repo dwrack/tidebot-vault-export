@@ -1,0 +1,28 @@
+PIECE 11 — Funny / punchy lane — "The Sign Everybody Photographs Before They Even Launch"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Eric (ElevenLabs)   Music: light punchy brass, The New Orleans Nightcrawlers reference (clearance unconfirmed)   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Before a single paddle hits the water, almost everyone stops at the same sign.   [wide shot: guests gathered near a dock sign, kayaks staged behind them]
+ 3.0s  "Please remain seated. The alligators are not impressed."   [close-up: the sign, guests reading and laughing]
+ 6.0s  Nobody asks anybody to photograph it. Somebody always does anyway.   [guest taking a photo of the sign]
+ 9.0s  This sign gets photographed before a single gator does.   [quick cut: phone screen showing the photo of the sign]
+12.0s  The swamp hasn't even started, and it's already funny.   [closing wide shot: group launching into the water]
+
+ON-SCREEN TEXT TREATMENT:
+The sign's actual wording appears full-frame for one beat at 3.0s, styled like a real printed dock sign, clears before the next line.
+
+SHOT LIST:
+- Wide shot, guests gathered at a dock sign, kayaks staged behind (opener)
+- Close-up: the sign, guests reading and laughing
+- Guest taking a photo of the sign
+- Quick cut: phone screen with the photo
+- Closing wide shot: group launching into the water
+
+SOURCE GROUNDING: An original, illustrative concept, not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's dry, deadpan wit — the sign copy itself is the whole joke, delivered flat — with Sugarman's momentum in building from "everyone stops here" to the payoff). Then /copywriting-2.0 (3-test filter): flagged and cut the original line 4, "It's on more phones leaving this dock than any gator photo taken after it," which stated an invented, unmeasurable comparison as if it were a fact — a clean Bencivenga "yeah, right" fail. Rewrote it to "this sign gets photographed before a single gator does," which keeps the joke and the timing claim without faking a statistic.
+
+PRODUCTION FLAG: This specific sign and its wording are illustrative, not confirmed as real, existing dock signage. If a similar sign already exists at the launch point, swap in the real wording; if not, this is a proposal for something worth actually posting, not a documentary claim.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Sugarman) then /copywriting-2.0 (3-test filter, one line-4 rewrite logged above).

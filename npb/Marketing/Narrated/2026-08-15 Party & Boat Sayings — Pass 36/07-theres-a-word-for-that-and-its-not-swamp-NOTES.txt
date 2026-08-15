@@ -1,0 +1,28 @@
+PIECE 07 — Did-you-know / practical lane — "There's a Word for That, and It's Not Swamp"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Sarah (ElevenLabs)   Music: easy-going roots, The Iguanas reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most guides on this water won't call it just a "swamp." There's a more specific word for almost everything out here.   [wide shot: kayaks gliding through cypress]
+ 3.5s  This slow-moving channel is a bayou. That slightly higher ridge along the bank is a natural levee, built by flooding, not a bulldozer.  [close-up: water channel, then the raised bankline]
+ 8.0s  A cypress forest that's drowned and gone to open water gets its own real term too: a ghost forest.   [wide shot: standing dead cypress trunks in open water]
+12.0s  None of it's technically a swamp. That's just the word most people reach for first, guide included.   [guide gesturing while paddling, half-smiling]
+15.0s  Ten minutes in, you'll know the difference. That's the whole tour, one word at a time.   [closing wide shot: kayaks continuing through cypress, light streaming down]
+
+ON-SCREEN TEXT TREATMENT:
+Each term ("BAYOU," "NATURAL LEVEE," "GHOST FOREST") appears briefly as a small lower-third label synced to when it's introduced, clears fast.
+
+SHOT LIST:
+- Wide shot, kayaks gliding through cypress (opener)
+- Close-up: water channel, then raised bankline
+- Wide shot: standing dead cypress in open water
+- Guide gesturing while paddling, half-smiling
+- Closing wide shot: kayaks continuing, light through the canopy
+
+SOURCE GROUNDING: An original, illustrative concept grounded in real, accurate geography and ecology terms (bayou, natural levee, ghost forest), not sourced from a specific vault doc.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's factual specificity — real, correct terminology beats a vague "there's special vocabulary out here" — with Bencivenga's proof instinct that every term used has to actually be real and correctly applied). Two factual problems were caught and corrected during this pass, before /copywriting-2.0 even started: the original draft used "batture" for the raised bank, which is a real term but specifically means the land between a river levee and the river's low-water line — wrong geography for a bayou context — corrected to "natural levee." It also used "ghost swamp," which isn't a real term; corrected to "ghost forest," the actual ecological term for a stand of dead standing trees where saltwater has moved into what used to be fresh water. Then routed through /copywriting-2.0 (3-test filter): softened an original line 4 that called "swamp" "the general term tourists use" (a mild dig at guests, risks reading as mocking) to "guide included," keeping the self-deprecating joke without singling anyone out. Also rewrote an original closer claiming "most locals don't" know the difference (unverifiable, faintly boastful) to "that's the whole tour, one word at a time," concrete and provable.
+
+PRODUCTION FLAG: The terminology itself (bayou, natural levee, ghost forest) is accurate. The claim that "most guides on this water won't call it just a swamp" describes a specific, current guide practice that hasn't been confirmed. Check with a naturalist guide whether this vocabulary distinction is actually part of standard tour narration before treating it as documented practice rather than a proposed teaching moment.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy/Bencivenga, two factual corrections logged above) then /copywriting-2.0 (3-test filter, two further rewrites logged above).

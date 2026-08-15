@@ -1,0 +1,14 @@
+PIECE 208 — Funny/Quotable lane — The Announcer / New mismatched-friend-group toast device — "The Friend Group That Makes No Sense On Paper"
+Voice: EL-Daniel ("The Announcer," recurring)   Music: dry mock-PSA bed, warm toast swell on closer   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  On paper, this group makes no sense. An accountant, a bartender, two people who met at a gym, and someone's cousin.   [Announcer VO formal played straight, wide, eclectic group boarding, clearly different types]
+ 3.8s  Nothing about this should work as a friend group. And yet, here they are, seven years running.   [insert, group laughing together, clearly close]
+ 7.6s  We don't ask how mismatched groups end up this tight. We just notice they always are.   [Announcer, dry, small smirk]
+11.4s  To the friend groups that shouldn't work, and somehow always do.   [closing toast line, warm wry, wide, group toasting, sunset]
+
+On-screen text: Hook = "ON PAPER, THIS FRIEND GROUP MAKES NO SENSE" | Body = "to the friend groups that shouldn't work, and somehow always do" | CTA: none.
+
+NOTE: distinct from piece 118 ("Still Friends, Somehow," Vol. 8, exes who stayed close) and piece 107 ("Two Groups, One Boat," Vol. 3, strangers merging into one group). This is one existing, long-standing friend group whose members don't "match" on paper. "Seven years running" is an invented illustrative figure, not a documented friendship length tied to any real group.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

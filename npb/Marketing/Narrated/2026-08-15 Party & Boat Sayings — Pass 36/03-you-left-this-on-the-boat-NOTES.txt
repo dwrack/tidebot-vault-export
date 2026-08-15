@@ -1,0 +1,28 @@
+PIECE 03 — Heartfelt / practical lane — "You Left This on the Boat"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: warm, understated soul vocal feel, Charmaine Neville reference (clearance unconfirmed)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every so often, somebody leaves something behind on this boat.   [wide shot: empty boat after guests disembark, deckhand tidying up]
+ 3.0s  A phone charger. A pair of sunglasses. Once, an entire birthday cake.  [close-up: items found on a seat]
+ 6.5s  Somebody has to notice, then somebody has to text.   [crew member texting on a phone]
+ 9.5s  "Hey, you left your sunglasses. We'll hold them at the dock."   [text bubble overlay: the actual message, shown sending]
+12.5s  Small thing. Doesn't take long. Still means somebody was paying attention after you'd already gone.  [closing wide shot: boat idling at dock, quiet evening]
+
+ON-SCREEN TEXT TREATMENT:
+The text message itself appears as a real message-bubble overlay at 9.5s, sent-checkmark animation, clears after 2 seconds. This is the only piece in Pass 36 using a texted line as its centerpiece — the VO narrates around it rather than the whole piece living as on-screen text.
+
+SHOT LIST:
+- Wide shot, empty boat, deckhand tidying up (opener)
+- Close-up: items found on a seat
+- Crew member texting on a phone
+- Text bubble overlay: message sending
+- Closing wide shot: boat idling at dock, quiet evening
+
+SOURCE GROUNDING: Sourced from Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md, idea #99 (the "you left something" follow-up text). Flagged as untouched by any prior pass, and flagged in Pass 27's and Pass 29's own "still untapped" notes as an open format question — is a texted line compatible with this spoken-VO series? This piece resolves that by having the VO narrate the moment while an on-screen bubble shows the actual text.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, specific warmth with a Bencivenga proof instinct on line 2's specificity — "an entire birthday cake" is a concrete, visualizable, slightly funny detail a generic "and other items" would lose). Then /copywriting-2.0 (3-test filter): confirmed the piece passes clean, no cuts needed.
+
+PRODUCTION FLAG: Not confirmed as a current, standing practice. Before shooting, ops needs an actual lost-and-found process (who checks the boat after each cruise, who sends the text, from what number) so the piece describes something real rather than an aspirational gesture.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 36, 2026-08-15. VO lines routed through /copy-mentors (Halbert/Bencivenga) then /copywriting-2.0 (3-test filter, passed clean).

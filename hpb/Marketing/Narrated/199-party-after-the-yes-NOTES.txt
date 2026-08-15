@@ -1,0 +1,14 @@
+PIECE 199 — Funny/Quotable lane — Delta Dream's voice / New occasion type, CTA piece — "The Party After The Yes"
+Voice: EL-Lily ("Delta Dream's voice," recurring)   Music: bright playful bed, warm celebratory swell   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  He already asked. She already said yes. Tonight isn't the proposal — it's the party after it.   [Lily VO bright playful, wide, couple boarding, ring visible, relaxed instead of nervous]
+ 3.6s  Nobody's nervous tonight. That part's already over.   [insert, couple relaxed, laughing with friends]
+ 7.2s  This is the trip where everybody finally gets to celebrate, instead of just watching one guy sweat.   [insert, friends toasting the couple, ring catching the light]
+11.0s  The hard part happened somewhere else. The fun part happens out here.   [closing line, bright, wide, group cruising, sunset]
+
+On-screen text: Hook = "HE ALREADY ASKED. SHE ALREADY SAID YES." | Body = "the hard part happened somewhere else" | CTA = "Say yes on land. Celebrate the engagement on the water."
+
+NOTE: distinct from the existing "he-asked-at-sunset" piece, which is the live proposal moment itself. This is the celebration that follows, on a different day. Needs the couple's explicit consent, same bar as any proposal-adjacent piece.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
