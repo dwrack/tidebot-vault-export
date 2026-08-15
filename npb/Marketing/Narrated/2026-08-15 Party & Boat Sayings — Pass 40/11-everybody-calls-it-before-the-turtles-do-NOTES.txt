@@ -1,0 +1,28 @@
+PIECE 11 — Funny / running-joke lane — "Everybody Calls It Before the Turtles Do"
+Product: Naturalist eco swamp tour
+Voice: EL-Jessica (ElevenLabs)   Music: percussive call-and-response energy, Wild Tchoupitoulas reference (clearance unconfirmed)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every log with turtles on it works the same way. Get close enough, and they're gone.   [wide shot: turtles basking on a log, kayaks approaching]
+ 3.5s  First log, it just happens. A soft plop, one after another.   [close-up: turtles dropping off the log in sequence]
+ 6.5s  Second log, somebody in the group predicts it out loud half a second early.   [close-up: guest calling it before it happens]
+ 9.5s  By the third log, half the kayaks are calling it together, right before the turtles move.   [medium shot: multiple guests calling out together, laughing]
+13.0s  Nobody's watching the turtles anymore. Everybody's watching each other.   [closing wide shot: group laughing together, log empty behind them]
+
+ON-SCREEN TEXT TREATMENT:
+None. The escalating repetition (first log, second log, third log) carries the beat without text on top of it, matching Pass 37 Piece 09's approach to a similar structure.
+
+SHOT LIST:
+- Wide shot: turtles basking, kayaks approaching (opener)
+- Close-up: turtles dropping off the log
+- Close-up: guest predicting it early
+- Medium shot: group calling it together, laughing
+- Closing wide shot: group laughing, empty log behind them
+
+SOURCE GROUNDING: Original piece, not tied to a specific idea-bank number. Turtles startling off a basking log as kayaks approach is a real, common wildlife-viewing dynamic in this habitat, not previously centered as a piece's anchor in this series.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's escalation structure, first log, second log, third log, each beat shifting, with Halbert's plain, specific observation). Then /copywriting-2.0 (3-test filter): an early draft built the piece around the group inventing and repeating an onomatopoeia ("sploosh"), flagged as risking an echo of the retired "regional word catches on with guests" device in shape, even though the word itself wasn't a dialect term; rewrote to center the anticipatory group reflex instead, closing on "everybody's watching each other" rather than a word getting adopted.
+
+PRODUCTION FLAG: Illustrative, plausible group behavior around basking turtles, not independently confirmed as a documented recurring bit on NPB's specific route. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

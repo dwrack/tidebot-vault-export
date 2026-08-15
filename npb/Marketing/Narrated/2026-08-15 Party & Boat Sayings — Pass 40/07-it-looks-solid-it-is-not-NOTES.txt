@@ -1,0 +1,28 @@
+PIECE 07 — Funny / practical lane — "It Looks Solid. It Is Not."
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: Cajun fiddle, Michael Doucet reference (clearance unconfirmed)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Some mornings the whole channel is carpeted green, bank to bank.   [wide shot: kayaks approaching a duckweed-covered channel, solid green surface]
+ 3.5s  First-timers always ask the same thing. Can we get out and walk on it?   [close-up: guest looking at the surface, curious]
+ 7.0s  The guide doesn't even turn around. "It looks solid. It is not."   [close-up: guide speaking, paddling forward]
+10.5s  It's duckweed, a plant so small the whole surface looks like a lawn instead of a swamp.   [close-up: paddle dipping through the green, breaking it apart]
+14.0s  The paddle answers the question before the guide has to finish it.   [closing wide shot: kayak trail cutting a dark line through the green]
+
+ON-SCREEN TEXT TREATMENT:
+"DUCKWEED" appears briefly as a small lower-third label at 10.5s, matching the series' convention for naming a centered fact (see Pass 37 Piece 08's "TOOL-USING BIRD"), clears fast.
+
+SHOT LIST:
+- Wide shot: kayaks approaching a green-carpeted channel (opener)
+- Close-up: guest asking the question
+- Close-up: guide delivering the line
+- Close-up: paddle breaking through the duckweed
+- Closing wide shot: kayak trail cutting through the green
+
+SOURCE GROUNDING: Original piece, not tied to a specific 100-idea-bank number (the idea bank is NPB-general/party-fleet focused; eco-tour material is originated per pass, consistent with Pass 37's Pieces 06/08/09/12). Duckweed is the first fact in this series centered on a floating plant rather than a tree, bird, reptile, or mammal; verified against the full facts inventory (Spanish moss, tannin, cypress knees, cypress age, fall color, wetland-loss stats, nutria, anhinga, prothonotary warbler, barred owl, green heron tool-use, Manchac/Julia Brown, Twain/Chopin/Audubon, sailor idioms, king cake, bayou/levee/ghost-forest terms, swamp smell) with no overlap.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's dry, plain delivery, five words, no over-explanation, with Ogilvy's factual specificity naming the actual plant instead of a vague "algae" or "scum"). Then /copywriting-2.0 (3-test filter): cut an early draft's explanatory tag, "which sounds obvious once you know it," flagged as an unnecessary meta-comment undercutting the line, and let the guide's line stand alone.
+
+PRODUCTION FLAG: Illustrative guide behavior and first-timer question, not independently confirmed as a documented recurring exchange. Duckweed coverage is seasonal and route-dependent; confirm this specific visual is reliably present on NPB's actual eco tour route before treating as a guaranteed moment rather than an occasional one. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

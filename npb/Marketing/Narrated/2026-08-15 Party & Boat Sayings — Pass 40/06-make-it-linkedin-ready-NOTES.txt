@@ -1,0 +1,28 @@
+PIECE 06 — Funny lane — "Make It LinkedIn-Ready"
+Product: Private BYOB party fleet
+Voice: EL-Lily (ElevenLabs)   Music: playful, light percussion, comedic timing (mood only, no artist reference)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Corporate groups always want two photos, not one.   [wide shot: corporate group gathered for a photo, drinks visible]
+ 3.0s  The real one, red cups and all, headed straight to somebody's personal story.   [close-up: guests laughing, drinks in frame, phone held up]
+ 6.5s  Then somebody says it. "Okay, now one that's LinkedIn-ready."   [close-up: guest saying the line, others adjusting]
+10.0s  Cups disappear behind backs. Postures straighten. Nobody told them to do that.   [medium shot: guests hiding drinks, standing up straighter, laughing at themselves]
+13.5s  Ninety seconds later both photos exist, and only one gets a caption about "cross-functional bonding."   [closing wide shot: group relaxing back into the real party]
+
+ON-SCREEN TEXT TREATMENT:
+"MAKE IT LINKEDIN-READY" pops up in quotes as it's spoken, playful font, clears fast.
+
+SHOT LIST:
+- Wide shot: corporate group gathering for a photo (opener)
+- Close-up: real photo, cups visible, laughing
+- Close-up: guest saying the "LinkedIn-ready" line
+- Medium shot: guests hiding cups, straightening posture
+- Closing wide shot: group relaxing back into the real party
+
+SOURCE GROUNDING: Sourced from idea #62 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("LinkedIn-ready group photo. Take a professional-looking group photo that actually works for LinkedIn or a company newsletter... Send it to the organizer labeled 'newsletter-ready.'"). Distinct from Pass 37's Piece 06 ("Nobody Wants the Edge of the Photo," original, about framing/who's cut off); this piece is about two competing photos for two different audiences, not a framing negotiation.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's quick-cut comedic structure, real photo, the line, the transformation, the payoff, with Ogilvy's specificity, "cross-functional bonding" as a concrete, ownable parody phrase). Then /copywriting-2.0 (3-test filter): cut an early draft's closer, "some things never change," flagged as a generic, unfalsifiable platitude, replaced with the specific caption-joke payoff.
+
+PRODUCTION FLAG: The "LinkedIn-ready" phrasing and caption joke are illustrative color, not a documented guest quote. No company or guest identified on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

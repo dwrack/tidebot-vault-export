@@ -1,0 +1,28 @@
+PIECE 10 — Funny / punchy lane — "You're Steering Like You're Mad at the Water"
+Product: Naturalist eco swamp tour
+Voice: EL-George (ElevenLabs)   Music: eclectic blues/funk guitar, Snooks Eaglin reference (clearance unconfirmed)   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  First five minutes, every new paddler does the same thing. Fights the water instead of working with it.   [wide shot: kayaks launching, one kayak zigzagging]
+ 3.5s  The guide watches one guy zigzag across the whole channel twice.   [close-up: guide watching, amused]
+ 6.5s  "You're steering like you're mad at the water. Ease up."   [close-up: guide calling out, guest looking over, sheepish]
+10.0s  Three strokes later, the kayak straightens out on its own.   [medium shot: kayak gliding smoothly now]
+12.5s  Nobody teaches that in a safety briefing. It just gets said.   [closing wide shot: full group paddling in a smoother line now]
+
+ON-SCREEN TEXT TREATMENT:
+"YOU'RE STEERING LIKE YOU'RE MAD AT THE WATER" pops up in quotes as it's spoken, playful font, clears fast.
+
+SHOT LIST:
+- Wide shot: kayaks launching, one zigzagging (opener)
+- Close-up: guide watching, amused
+- Close-up: guide delivering the line
+- Medium shot: kayak straightening out
+- Closing wide shot: group paddling smoothly
+
+SOURCE GROUNDING: Original piece, not tied to a specific idea-bank number. Distinct from Pass 15's "The No-Splash Rule" and Pass 25's "Don't Move, Don't Move" (both about stillness/quiet for wildlife); this is a paddling-technique coaching moment, a mechanic not used elsewhere in the series.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, funny bluntness, the line reads like something an actual person would say, not scripted wisdom, with Sugarman's quick comedic timing across three short beats). Then /copywriting-2.0 (3-test filter): cut an early draft's line, "everyone struggles with a kayak their first time, it's totally normal," flagged as generic reassurance rather than a memorable, ownable line, replaced with the specific "you're steering like you're mad at the water."
+
+PRODUCTION FLAG: Illustrative first-timer coaching moment and guide line, not independently confirmed as a specific verbatim line any current guide uses. Safe to shoot as written; no guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

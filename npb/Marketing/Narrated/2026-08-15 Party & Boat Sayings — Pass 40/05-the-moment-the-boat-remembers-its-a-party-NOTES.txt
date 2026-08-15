@@ -1,0 +1,28 @@
+PIECE 05 — Funny / energy lane — "The Moment the Boat Remembers It's a Party"
+Product: Private BYOB party fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: upbeat zydeco, Rosie Ledet reference (clearance unconfirmed)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Forty-five minutes in, every single time, the energy dips.   [wide shot: group sitting, chatting quietly, energy lower]
+ 3.0s  Not dead. Just resting.   [close-up: guests relaxed, drinks in hand, low-key]
+ 5.0s  A deckhand leans toward the speaker. The words change boat to boat, but it's always some version of "y'all ready for round two?"   [close-up: deckhand speaking near the speaker]
+ 9.5s  Doesn't matter what song comes on next. The sentence alone does something.   [medium shot: heads turning, guests perking up]
+13.0s  By the second chorus, whoever was resting isn't anymore.   [closing wide shot: full group up, dancing again]
+
+ON-SCREEN TEXT TREATMENT:
+None. Pacing carries the beat; text would slow the energy shift.
+
+SHOT LIST:
+- Wide shot: group energy dipping, forty-five minutes in (opener)
+- Close-up: guests resting, drinks in hand
+- Close-up: deckhand leaning toward the speaker
+- Medium shot: heads turning, guests perking up
+- Closing wide shot: full group up and dancing again
+
+SOURCE GROUNDING: Sourced from idea #32 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("The second wind. When energy dips mid-cruise (it always does around the 45-minute mark), have a planned re-igniter... Engineer the energy curve.").
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's momentum-building structure, dip, small gesture, payoff, with Halbert's honest, unforced tone, "not dead, just resting" reads observational rather than scripted). Then /copywriting-2.0 (3-test filter): an early draft presented the line as a fixed, word-for-word crew catchphrase, flagged as risking a reskin of the retired fixed-catchphrase device, and was rewritten to explicitly note "the words change boat to boat," keeping the moment a documented pattern rather than a scripted bit.
+
+PRODUCTION FLAG: Not confirmed as standard, trained crew practice across every cruise; confirm with ops whether this energy-management move is actually taught or happens naturally before treating as documented company technique. No crew member named.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

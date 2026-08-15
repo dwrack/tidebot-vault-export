@@ -1,0 +1,28 @@
+PIECE 08 — Did-you-know / sensory lane — "The Sound That Isn't the Engine"
+Product: Naturalist eco swamp tour
+Voice: EL-Brian (ElevenLabs)   Music: low, atmospheric, subtle bass swell (mood only, no artist reference)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every spring, a big bull alligator bellows, and it's not the roar you're picturing.   [wide shot: kayaks on calm water, alligator visible at a distance]
+ 3.5s  It's low, low enough that the water on the gator's own back starts to shiver.   [close-up: alligator's back, water visibly trembling on the surface]
+ 7.5s  Researchers call it the water dance. The vibration comes from inside the animal, not the surface.   [medium shot: kayaks holding position, guests watching]
+11.5s  Some guides swear you can feel it through the hull before you hear it. Not confirmed. Just what they say.   [close-up: guest with a hand resting on the kayak hull, listening]
+15.0s  Either way, that's not a boat motor out there.   [closing wide shot: kayaks drifting, gator settling back into stillness]
+
+ON-SCREEN TEXT TREATMENT:
+"THE WATER DANCE" appears briefly as a lower-third label at 7.5s, matching the series' fact-naming convention, clears fast.
+
+SHOT LIST:
+- Wide shot: kayaks with a distant alligator (opener)
+- Close-up: water trembling visibly on the gator's back
+- Medium shot: kayaks holding position, guests watching
+- Close-up: guest with a hand on the hull, listening
+- Closing wide shot: kayaks drifting as the gator settles back into stillness
+
+SOURCE GROUNDING: Original piece, not tied to a specific idea-bank number. First fact in this series centered on alligator bellowing/infrasound; verified against the full facts inventory with no overlap (prior gator-adjacent pieces centered on size reactions or misidentification games, both retired devices, not this specific biological behavior).
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy's proof-driven specificity, naming the real phenomenon, "the water dance," rather than a vague "gators make noise," with Bencivenga's honesty about mechanism and its limits). Then /copywriting-2.0 (3-test filter): cut an early draft's line, "you'll feel it in your chest before your brain even processes what it is," flagged as an overclaimed, unfalsifiable sensory promise, replaced with the honestly hedged "some guides swear... not confirmed, just what they say."
+
+PRODUCTION FLAG: The water-dance bellow phenomenon itself is documented alligator biology (an infrasonic component of the mating bellow, typically spring season). The claim that guests can feel the vibration through the kayak hull is anecdotal and explicitly flagged as unconfirmed in the script itself, not presented as fact. Confirm bull-gator bellowing is reliably witnessed on NPB's actual spring-season route before treating this as a guaranteed rather than seasonal, occasional moment.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

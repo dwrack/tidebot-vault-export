@@ -1,0 +1,26 @@
+PIECE 12 — Poetic / sensory lane — "The Ten Degrees You Get for Free"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: airy acoustic, minimal, no percussion (mood only, no artist reference)   Length: 13.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The channel narrows, the cypress close in overhead, and the temperature just drops.   [wide shot: kayaks entering a dense, shaded cypress canopy]
+ 3.5s  No machine did that. No vent, no unit humming somewhere out of sight.   [close-up: dappled light and shade on the water]
+ 7.0s  Just leaves doing what leaves do, and about ten degrees you didn't pay extra for.   [close-up: guest visibly relaxing, shoulders dropping in the shade]
+10.5s  The only air conditioning out here runs on sunlight and shows up free.   [closing wide shot: kayaks gliding through the cool, shaded stretch]
+
+ON-SCREEN TEXT TREATMENT:
+None, matching the Admire NOLA poetic lane's convention of letting VO and visual carry it.
+
+SHOT LIST:
+- Wide shot: kayaks entering a dense cypress canopy (opener)
+- Close-up: dappled light and shade on the water
+- Close-up: guest relaxing in the shade
+- Closing wide shot: kayaks gliding through the cool, shaded stretch
+
+SOURCE GROUNDING: Original piece, not tied to a specific idea-bank number. First piece in this series anchored on temperature/touch rather than sight, sound, or smell (Pass 37's Piece 12, "The Smell Nobody Bottles," was the first sensory-smell anchor; this is the first sensory-temperature anchor). Closes the eco tour half of this pass on the same poetic register Pass 37 closed its own eco tour half with.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling the Admire NOLA Lane 1 poetic register directly, a concrete sensory image over an abstract description, "leaves doing what leaves do" beats a vague "natural cooling," with Bencivenga's plain-mechanism honesty on what's actually causing it). Then /copywriting-2.0 (3-test filter): cut an early draft's closer, "nature's own air conditioning," flagged as a worn, generic phrase that fails the nobody-else-could-say-it test, rewritten to "the only air conditioning out here runs on sunlight and shows up free."
+
+PRODUCTION FLAG: The shaded-canopy cooling effect is a real, observable microclimate phenomenon; the specific "ten degrees" figure is illustrative and approximate, not a verified measurement for this exact route. Soften or verify with an actual temperature reading before treating the number itself as a guaranteed, citable fact rather than a felt impression.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

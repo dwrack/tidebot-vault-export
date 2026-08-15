@@ -1,0 +1,28 @@
+PIECE 04 — Heartfelt lane — "The Perk Nobody Announced Until the Dock"
+Product: Private BYOB party fleet
+Voice: EL-Eric (ElevenLabs)   Music: quiet acoustic guitar, warm and understated (mood only, no artist reference)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody mentions anything about a discount when the group books.   [wide shot: guests boarding, unaware, casual energy]
+ 3.5s  The organizer spent three weeks in a group chat herding fourteen people into one Saturday.   [close-up: guest checking phone, logistics visible]
+ 7.5s  At the dock, on the way off, the deckhand pulls her aside.   [medium shot: deckhand catching the organizer's arm gently as she steps off]
+10.5s  "You did the hard part. Next one's on us."   [close-up: deckhand speaking, organizer's face shifting]
+13.5s  Nobody else on the boat even hears it.   [closing wide shot: rest of group already walking to their cars, organizer standing still a beat]
+
+ON-SCREEN TEXT TREATMENT:
+None. The deckhand's line is the whole piece; text on top of it would undercut the delivery, same convention as Pass 37's Piece 01.
+
+SHOT LIST:
+- Wide shot: guests boarding, casual, unaware (opener)
+- Close-up: organizer managing logistics on her phone
+- Medium shot: deckhand catching her arm at the dock
+- Close-up: deckhand speaking, organizer's face shifting
+- Closing wide shot: group walking to their cars, organizer still, processing
+
+SOURCE GROUNDING: Sourced from idea #39 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Rebooking incentive for the organizer. Don't discount the group. Reward the person who did the work... The organizer is your real customer."). Distinct from Pass 37's Piece 01 (idea #58, executive acknowledgment to a boss) and from Pass 26's "The Board Remembers You" (repeat-guest recognition); this piece is a first-time organizer receiving a private, unpublicized reward, not a public acknowledgment or a loyalty callback.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain warmth, four words, no embellishment, with Ogilvy's specificity, "three weeks," "fourteen people," "one Saturday," making the invisible labor concrete instead of asserted). Then /copywriting-2.0 (3-test filter): cut an early draft's closer, "a small thank you that meant everything," flagged as telling the audience the emotional conclusion rather than showing it, replaced with "nobody else on the boat even hears it," which keeps the moment private and lets the audience do the feeling.
+
+PRODUCTION FLAG: Not confirmed as a current, standing company practice; confirm with ops whether and how consistently this perk is actually extended before treating as documented rather than proposed. No guest identified or named on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -35,7 +35,7 @@ tags: [seo, copy, bachelorette]
 <ul>
 <li><strong><a href="https://nolapartybarges.com/the-freaky-tiki/">The Freaky Tiki</a></strong> — our biggest boat, up to 25 guests. Booming sound system, full-sized restroom onboard, and a tiki bar to stock your drinks in. The bachelorette favorite.</li>
 <li><strong><a href="https://nolapartybarges.com/the-twerkin-tiki/">The Twerkin' Tiki</a></strong> — up to 25 guests, same energy, its own personality.</li>
-<li><strong>The Party Queen</strong> — up to 22 guests.</li>
+<li><strong><a href="https://nolapartybarges.com/the-cajun-queen/">The Cajun Queen</a></strong> — up to 22 guests.</li>
 <li><strong>The Bayou Boogie</strong> — up to 18 guests, right-sized for a smaller crew.</li>
 </ul>
 
@@ -67,7 +67,7 @@ tags: [seo, copy, bachelorette]
 
 <p><strong>Will we see alligators?</strong> Usually, yes. It's the real bayou and they live here. Warm months are best.</p>
 
-<p><strong>What if it rains?</strong> The boats are covered, and our captains make the weather call. If we cancel, you don't pay.</p>
+<p><strong>What if it rains?</strong> The boats are covered.</p>
 
 ---
 

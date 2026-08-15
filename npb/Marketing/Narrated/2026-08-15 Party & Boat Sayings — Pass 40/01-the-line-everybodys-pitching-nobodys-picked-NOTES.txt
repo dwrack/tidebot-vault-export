@@ -1,0 +1,30 @@
+PIECE 01 — Funny / running-joke lane — "The Line Everybody's Pitching, Nobody's Picked"
+Product: Private BYOB party fleet
+Voice: EL-Daniel (ElevenLabs)   Music: funky brass, The Stooges Brass Band reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every crew huddle before a shift eventually turns into the same argument.   [wide shot: crew gathered near the container bar before a shift, relaxed]
+ 3.0s  One deckhand pitches "Whatever happens on the barge stays on the barge." Somebody groans.   [close-up: deckhand pitching, gesturing, second deckhand groaning]
+ 6.5s  Another tries "See you on the water." Too plain, somebody says.   [close-up: second crew member pitching, unimpressed reactions]
+10.0s  A third line gets floated, then walked back before it even finishes.   [medium shot: crew member starting to speak, stopping, laughing at themselves]
+13.0s  Nobody's landed on the one the boat says every single time. Not yet.   [wide shot: crew shrugging, boat visible behind them]
+15.5s  Ask again next season.   [closing shot: crew dispersing to start the shift, still half-arguing]
+
+ON-SCREEN TEXT TREATMENT:
+Each pitched line ("WHATEVER HAPPENS ON THE BARGE STAYS ON THE BARGE," "SEE YOU ON THE WATER") pops up in quotes as it's spoken, casual handwritten-style font, clears fast. No text on the closing line.
+
+SHOT LIST:
+- Wide shot, crew huddle near the container bar, pre-shift (opener)
+- Close-up: deckhand pitching the first line, second deckhand groaning
+- Close-up: second crew member pitching, unimpressed reactions
+- Medium shot: crew member starting a third pitch, aborting it, laughing
+- Wide shot: crew shrugging, boat visible behind them
+- Closing shot: crew dispersing to start the shift, still arguing
+
+SOURCE GROUNDING: Sourced from idea #100 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("End every cruise with the same line... create a signature closing"). This is the single most flagged-and-deferred idea in the series: Pass 29 pitched it and deliberately left it unresolved (Piece 04, "The Line Nobody's Written Yet"), Pass 36 reaffirmed it as still open, Pass 37 reaffirmed it again. No prior pass has ever dramatized the crew actually debating candidate lines; they've only noted the absence. This piece is the first to show real candidate lines being pitched and rejected, while still keeping the underlying claim honest: no finished signature line is delivered as settled company fact.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's escalating curiosity structure, three failed pitches building anticipation, with Halbert's plain honesty in the non-ending). Then /copywriting-2.0 (3-test filter): cut an early draft's closer, "and somehow that's the fun part," flagged as telling the audience how to feel rather than showing it, rewritten to "ask again next season," a plain, falsifiable statement of ongoing status that doesn't fake a resolution.
+
+PRODUCTION FLAG: No captain or deckhand is named on camera, consistent with the crew-anonymity convention since Pass 23. If NPB ever does adopt a real signature closing line, this piece and its premise would need revisiting; nothing here should be read as an existing company tradition.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

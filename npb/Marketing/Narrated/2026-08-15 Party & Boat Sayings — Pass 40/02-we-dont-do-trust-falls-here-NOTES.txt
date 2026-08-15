@@ -1,0 +1,28 @@
+PIECE 02 — Funny / practical lane — "We Don't Do Trust Falls Here"
+Product: Private BYOB party fleet
+Voice: EL-Sarah (ElevenLabs)   Music: wry, minimal groove, no vocals (mood only, no artist reference)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A corporate organizer emails ahead with an idea. "Could we maybe work in a trust fall?"   [close-up: phone screen showing an email being typed]
+ 3.5s  The captain writes back four words. "We really don't do that."   [close-up: captain reading the reply on a phone, half-smiling]
+ 7.0s  No explanation attached. None requested.   [wide shot: captain pocketing the phone, prepping the boat]
+ 9.5s  The group boards two hours later, and by the second song, nobody's thinking about icebreakers.   [wide shot: group boarding, loosening up]
+13.0s  Turns out the boat was the trust fall.   [closing wide shot: group dancing, relaxed, one guest catching another mid-laugh]
+
+ON-SCREEN TEXT TREATMENT:
+The email line ("COULD WE MAYBE WORK IN A TRUST FALL?") and the reply ("WE REALLY DON'T DO THAT.") appear as brief text-bubble overlays synced to when they're shown/spoken, clearing fast. No text after that point.
+
+SHOT LIST:
+- Close-up: phone screen, email being typed (opener)
+- Close-up: captain reading the reply, half-smiling
+- Wide shot: captain pocketing the phone, prepping the boat
+- Wide shot: group boarding, loosening up
+- Closing wide shot: group dancing, relaxed
+
+SOURCE GROUNDING: Sourced from idea #57 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("No corporate cringe. Don't force icebreakers or team-building games unless asked... let adults be adults"), and Section 6 of `Brand Story & Values.md` ("no forced fun, no DJ telling you when to cheer"). This is a single, one-off exchange with one specific organizer in this piece; it is deliberately not framed as an institutional catchphrase the captain repeats to every corporate group, to avoid reskinning the retired "fixed captain/guide catchphrase as the comedic engine" device.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain refusal-as-comedy, four words, no over-explaining, against the brand's own "no corporate cringe" rule as the frame). Then /copywriting-2.0 (3-test filter): cut an early draft's captain reply, "Ha, we don't really do the icebreaker thing, but I appreciate you asking!", flagged as over-explained and too polite to land as a line, tightened to the four-word "We really don't do that."
+
+PRODUCTION FLAG: The specific email exchange is illustrative, not a documented real incident. No organizer, company, or crew member is named on camera. This piece intentionally avoids implying the line is a repeated bit; if shot, keep it framed as one specific exchange, not a running gag across multiple bookings.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

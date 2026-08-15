@@ -1,0 +1,28 @@
+PIECE 09 — Heartfelt / practical lane — "The Guide Who Already Knows and Says Nothing"
+Product: Naturalist eco swamp tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: soulful roots rock, The Subdudes reference (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The guide got a message two days ago. Tonight there's a plan, and only one kayak knows it.   [wide shot: kayaks launching, one couple slightly separate, guide glancing back]
+ 4.0s  All morning, the guide keeps finding reasons to slow the group at one particular bend.   [medium shot: guide gesturing toward a quiet stretch, group drifting]
+ 8.0s  Somebody asks why we're stopping here again. "Just liked the light," the guide says.   [close-up: guest asking, guide answering, deadpan]
+12.0s  Then one kayak falls back a little further than the rest, and the guide stops narrating entirely.   [wide shot: one kayak pulling slightly behind, guide going quiet]
+15.5s  Everybody else keeps paddling like nothing's happening. Because nothing is, as far as they know.   [closing wide shot: group paddling on, unaware, the one kayak lingering behind in soft light]
+
+ON-SCREEN TEXT TREATMENT:
+None. The discretion is the point; text on top of it would spoil the restraint.
+
+SHOT LIST:
+- Wide shot: kayaks launching, one couple slightly separate (opener)
+- Medium shot: guide gesturing toward a scenic bend
+- Close-up: guest asking, guide's deadpan answer
+- Wide shot: one kayak falling behind, guide going quiet
+- Closing wide shot: group paddling on, unaware
+
+SOURCE GROUNDING: Sourced from idea #91 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Proposal packages. Coordinate with someone planning a proposal... crew knows to give space then celebrate."). Per the dedup research this pass, idea #91 has only ever appeared in a passing sourcing citation in one earlier pass with no piece built from it until now; also true of #86, #87, #88, #90 (Halloween, NYE, Saints game day, Mother's/Father's Day), all still genuinely untouched.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's restraint, the guide's deflection line does the emotional work without narrating the proposal directly, with Bencivenga's use of dramatic irony, the audience knows more than the other guests). Then /copywriting-2.0 (3-test filter): an early draft showed the actual proposal moment on camera, flagged as both a consent risk (identifying real guests in an intimate private moment) and structurally weaker since the reveal undercuts the "says nothing" premise; rewrote to keep the moment entirely off-screen.
+
+PRODUCTION FLAG: Not confirmed that NPB's eco tour currently offers or coordinates proposal logistics; this piece is illustrative of a plausible future offering, not a documented service. No guest is identified or shown in a way that would out a real couple's private moment; production would need explicit consent from any couple actually filmed for this to be shot as more than a staged reenactment.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

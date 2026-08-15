@@ -1,0 +1,28 @@
+PIECE 03 — Funny / heartfelt lane — "The Hangover Text Everybody Screenshots"
+Product: Private BYOB party fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: warm morning acoustic, light brass swell (mood only, no artist reference)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nine the next morning, a text lands on the organizer's phone.   [close-up: phone buzzing on a nightstand, morning light]
+ 3.0s  "Hope y'all aren't too hungover. Had a blast with your crew yesterday."   [close-up: text message on screen]
+ 7.0s  It was her sister's thirtieth, and half the group's already awake arguing about brunch.   [medium shot: woman reading, half-smiling, rough morning]
+10.5s  She reads it out loud. Somebody yells "put that on the cake next year."   [medium shot: group reacting, laughing]
+14.0s  A year later, somebody actually does.   [closing shot: a cake with the line written on it, playful, at a different gathering]
+
+ON-SCREEN TEXT TREATMENT:
+The text message ("HOPE Y'ALL AREN'T TOO HUNGOVER. HAD A BLAST WITH YOUR CREW YESTERDAY.") appears briefly as a phone-screen overlay at 3.0s, then clears. No text over the closing shot; let the cake carry it.
+
+SHOT LIST:
+- Close-up: phone buzzing on a nightstand, morning light (opener)
+- Close-up: the text message on screen
+- Medium shot: woman reading, rough morning, half-smiling
+- Medium shot: group reacting, yelling the cake line, laughing
+- Closing shot: a cake a year later, the line written on it in icing
+
+SOURCE GROUNDING: Sourced from idea #34 in `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` ("Follow-up text, not email... 'Hope y'all aren't too hungover. Had a blast with your crew yesterday.' Human, short, real."). Distinct from Pass 37's Piece 03 ("The Card She Read Out Loud," idea #38, a mailed handwritten card), which is a single quiet moment with no forward callback; this piece is built around the line becoming a running joke the group carries forward a full year, closer to the brief's "running jokes" category than a one-time appreciation beat.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Halbert's plain, unpolished specificity, the actual text wording rather than a generic "thanks for coming" line, with Sugarman's structural payoff, a joke planted early pays off a full act break later). Then /copywriting-2.0 (3-test filter): cut an early draft's closer, "and just like that, it became their thing," flagged as telling rather than showing, replaced with "a year later, somebody actually does," letting the cake image carry the payoff.
+
+PRODUCTION FLAG: Not confirmed as a currently standard, consistently sent follow-up text across all bookings; confirm with ops which bookings actually receive one before treating this as documented practice. The year-later cake callback is an illustrative dramatization to show the line outliving the trip, not a claim this specific incident happened. No guest identified by full name or face without a filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 40, 2026-08-15. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).
