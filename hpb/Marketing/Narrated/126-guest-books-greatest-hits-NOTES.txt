@@ -1,0 +1,12 @@
+PIECE 126 — Mama Tried's voice / Found-text list lane — "The Guest Book's Greatest Hits"
+Voice: EL-Brian ("Mama Tried's voice," premium, recurring)   Music: dry brass-stab list-comedy bed, mute-drop on the last line   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a guest book on board. People actually write in it.               [Mama Tried voice, deadpan, close insert, physical guest book on a small table near the cooler]
+ 3.0s  One entry just says "worth every penny of nothing, because BYOB."         [close insert, handwritten page, the entry highlighted]
+ 6.6s  Another one's just a drawing of a gator wearing sunglasses.               [insert, a doodle in the guest book, comedic]
+ 9.6s  Somebody wrote "10/10, Debra the flamingo carried this trip."            [insert, another entry, handwriting visible]
+13.0s  We didn't write any of these. We just read them out loud sometimes.       [wide shot, crew member flipping through the book on deck, laughing to themselves]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+Note: needs the guest book prop to actually exist on board, ideally with a few weeks of real entries collected before shooting. The specific entries above are placeholders showing the tone, not lines to write in yourself. See Open Items in the Vol. 8 doc.

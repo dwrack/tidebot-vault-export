@@ -1,0 +1,12 @@
+PIECE 123 — Sunscreen Friend / New archetype, recurring prop — "The Flamingo Has A Name"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," recurring)   Music: whimsical bouncy synth-pop, comedic sting on "Debra"   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  This inflatable flamingo has been on every trip since March.               [close insert, an inflatable flamingo prop visible on deck, well-worn]
+ 3.2s  Somebody named her Debra. Nobody remembers who.                          [guests interacting with the flamingo, laughing, calling out "Debra"]
+ 6.0s  She's been in probably four hundred photos at this point.                [quick montage insert, guests posing with the flamingo across trips]
+ 9.0s  Debra doesn't drink, doesn't complain, and never misses a trip.          [wide shot, flamingo propped up at the center of the group, guests toasting toward it]
+12.4s  Some crew members are human. Debra is not one of them.                   [close on flamingo, deadpan beat, group laughing behind it]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+Note: needs the flamingo prop to actually exist on board. Confirm with Connor before scheduling this shoot. See Open Items in the Vol. 8 doc.

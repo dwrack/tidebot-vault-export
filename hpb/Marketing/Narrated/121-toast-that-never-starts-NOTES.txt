@@ -1,0 +1,11 @@
+PIECE 121 — Announcer / Toastmaster-adjacent lane, 2nd angle — "The Toast That Never Actually Starts"
+Voice: EL-Daniel ("The Announcer," recurring)   Music: mock-orchestral/documentary-straight bed, comedic sting on "phase two/three"   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody taps their cup. Everybody quiets down.                           [Announcer VO, formal, guest tapping a cup with a spoon, group turning to listen]
+ 2.6s  Then the throat-clearing starts. That's phase two.                       [close insert, guest clearing throat dramatically, comedic pause, group smiling]
+ 5.4s  "So, um, where do I even start." Phase three.                            [guest fumbling for words, group waiting, barely holding back laughter]
+ 8.4s  By the time the actual toast begins, the ice in everyone's drink has melted. [funny insert, close on a drink, visibly melted ice]
+12.4s  The toast is never the toast. The runway to it is the real event.         [wide shot, group laughing, genuinely entertained, still waiting]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

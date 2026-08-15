@@ -1,0 +1,11 @@
+PIECE 127 — Old Salt / Regular, character-study lane — "Same Seat, Same Order, Every Time"
+Voice: EL-George ("The Old Salt," recurring)   Music: warm wry acoustic bed, gentle character-study pacing   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  This guy's been on eleven trips. Same seat every time.                    [Old Salt VO, wry, warm, guest walking straight to the same spot on deck without looking around]
+ 3.0s  Same joke to the crew at boarding. Word for word.                        [close insert, guest delivering a line to crew, crew mouthing along, already laughing]
+ 5.8s  Pulls the same drink from his own cooler, like it's a ritual.            [insert, guest pulling the same drink out of his own cooler, small satisfied smile]
+ 9.2s  We've stopped correcting him when he calls it "his" boat.                [Old Salt, dry, wry grin, shaking his head fondly]
+12.4s  At this point, honestly, it kind of is.                                 [wide shot, guest settled into "his" spot, completely at home]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,28 @@
+PIECE 03 — Funny / running joke lane — "Somebody Always Names the Cooler"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: Rebirth Brass Band-style classic party anthem (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  BYOB means the cooler's the guest of honor before anyone even boards.  [wide shot: guests loading a cooler onto the dock cart]
+ 3.5s  Somewhere between the parking lot and the boat, it gets a name.       [guest writing or taping a name on the cooler, laughing]
+ 7.0s  Not the group. The cooler. Big Steve. The Vault. Debbie, for some reason.  [quick cuts: three different coolers, three different handwritten names]
+11.5s  By hour two, somebody's defending its honor like it's part of the wedding party.  [guest gesturing dramatically, blocking someone from grabbing something]
+15.5s  Ask a deckhand. They'll tell you the cooler outlasts most of the toasts.  [deckhand nodding, gesturing at a sticker-covered, well-loved cooler]
+19.5s  Nobody named the boat that fast. The cooler always wins that race.     [wide closing shot: cooler front and center, group around it, boat moving]
+
+ON-SCREEN TEXT TREATMENT:
+The handwritten cooler names appear as small captions matching what's on screen on line three only ("Big Steve" / "The Vault" / "Debbie"), then clear. Nothing else on screen.
+
+SHOT LIST:
+- Cooler loaded onto the dock cart (opener)
+- Guest naming it, writing or taping a label on
+- Three quick cuts of different named coolers
+- Guest dramatically defending the cooler
+- Deckhand's knowing reaction, gesturing at a well-loved cooler
+- Wide closing shot: cooler front and center, group gathered around it
+
+PRODUCTION FLAG: Not confirmed as a pattern crew has actually noticed. This is an original premise grounded in the product mechanic itself (`Brand Story & Values.md` Section 3: "BYOB, for real. Guests bring whatever they want to drink"), not a sourced vault idea. Scripted as "ask a deckhand," which invites verification rather than asserting it as established fact; confirm with crew before treating as documentary. Distinct from Pass 24's Piece 03 ("The Cooler Audit"), which was a crew hospitality process (checking ice levels); this piece is entirely guest-driven behavior (naming and defending their own cooler) with no crew process involved, deliberately differentiated so the two pieces don't read as the same idea reskinned.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, curiosity build: "the cooler's the guest of honor" opens strange and gets resolved across the piece; Halbert's concrete, funny specificity, "Big Steve," "The Vault," "Debbie, for some reason," where the "for some reason" is the off-script human detail Halbert prizes over anything polished). Then /copywriting-2.0 (3-test filter): a draft line, "It becomes part of the group," was cut as vague and forgettable. Replaced with "Nobody named the boat that fast. The cooler always wins that race," a falsifiable, comparative claim that's ownable to this exact boat and this exact joke.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Sugarman, Halbert) then /copywriting-2.0 (3-test filter). Production flag: confirm cooler-naming is an actual noticed pattern with crew before treating as documented.

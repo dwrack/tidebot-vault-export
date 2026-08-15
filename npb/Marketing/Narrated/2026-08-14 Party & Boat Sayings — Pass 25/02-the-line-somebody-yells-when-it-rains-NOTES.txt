@@ -1,0 +1,28 @@
+PIECE 02 — Funny / running joke lane — "The Line Somebody Yells When It Rains"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: Big Freedia-style bounce, high energy (clearance unconfirmed)   Length: 23.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Radar shows a fifteen-minute pop-up shower. Every captain's seen this exact one before.  [wide shot: gray clouds rolling in over the bayou, boat still moving]
+ 3.5s  First drops hit, and it's never the captain who says something first.  [close-up: first raindrops hitting the water and deck]
+ 6.5s  It's always a guest. Somebody yells something before anyone can panic.  [guest standing up, arms out, laughing in the rain]
+10.5s  Nobody agreed on the words ahead of time. Different every trip. Same energy every time.  [quick cuts: two different trips, two different guests, both mid-shout, both laughing]
+15.5s  Music goes up, not down. Ponchos come out. The party doesn't pause for weather.  [deckhand handing out ponchos, speakers visible, group still dancing]
+19.5s  Fifteen minutes later, sun's back and somebody's already telling the story.  [wide shot: sun breaking through, group re-energized, guest recounting the rain]
+
+ON-SCREEN TEXT TREATMENT:
+None. The joke is in the unscripted chaos, a caption would flatten it.
+
+SHOT LIST:
+- Gray clouds rolling in, boat still moving (opener)
+- Close-up: first raindrops on water and deck
+- Guest standing up, unscripted reaction, arms out
+- Quick cuts: two different trips, two different guests improvising their own version of the moment
+- Deckhand handing out ponchos, music still going, group still dancing
+- Wide shot: sun breaking through, guest recapping the story to someone who missed it
+
+PRODUCTION FLAG: This observes a pattern (guests, not crew, tend to initiate the "keep the energy up" reaction during a pop-up shower) that isn't confirmed as something crew has actually noticed repeat. Confirm with a captain or deckhand before treating it as documented behavior rather than a plausible one-off. Also confirm ponchos are currently stocked on board before this scripts as standard equipment; sourced loosely from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #92 ("the rainstorm move"), adapted here from a crew-scripted line to an observed, guest-originated behavior so it doesn't reintroduce the "captain's fixed line for a recurring situation" device this slate retired after Pass 23.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, relatable universal behavior with real specificity, "fifteen-minute pop-up shower," "same energy every time"; Ogilvy's factual grounding, naming a specific, checkable weather pattern instead of a vague "sometimes it rains"). Then /copywriting-2.0 (3-test filter): a draft closer, "Nothing can stop this party," failed both the falsifiability and ownability tests, an empty boast any party-boat company could make. Cut and rewritten to "Fifteen minutes later, sun's back and somebody's already telling the story," which is specific, visualizable, and checkable against what's shown on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Halbert, Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm the guest-originated pattern and poncho stock with crew before treating either as documented.

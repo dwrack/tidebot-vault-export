@@ -1,0 +1,11 @@
+PIECE 128 — Old Salt / Crew's calm-before, sincere closer — "Before Anyone's Aboard"
+Voice: EL-George ("The Old Salt," recurring)   Music: soft ambient/minimal instrumental, small warm swell only on the final line   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  Forty minutes before boarding, it's just us and the cooler cart.          [Old Salt VO, quiet, wide shot, crew loading gear onto the boat, early morning light, nobody else around]
+ 3.4s  No music yet. No twenty-six voices. Just the dock and the water.         [close insert, crew working quietly, calm, methodical]
+ 7.0s  This is the only part of the day that's actually quiet.                 [wide shot, empty boat, still water, soft early light]
+10.0s  Then the first car pulls into the lot, and it's not quiet anymore.       [wide shot, headlights or a car door in the lot, first guests starting to arrive]
+13.2s  Best forty minutes of the job, if you ask me.                           [Old Salt, warm, small smile, final beat, boat about to come alive]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

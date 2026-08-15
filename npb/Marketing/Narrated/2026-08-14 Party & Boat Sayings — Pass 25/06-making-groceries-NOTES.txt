@@ -1,0 +1,28 @@
+PIECE 06 — Did-you-know / cultural lane — "Making Groceries"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: Free Agents Brass Band-style modern brass, playful (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  New Orleans has its own dialect. Not French, not Southern. Something else entirely.  [wide shot: guests on the boat, city skyline behind them]
+ 3.5s  Somebody local says it first: "we're making groceries later." Half the boat goes quiet.  [guest saying the phrase, confused reactions around them]
+ 7.5s  It just means grocery shopping. Old New Orleans English, still spoken like that today.  [guest explaining, others nodding, understanding dawning]
+12.0s  By the end of the cruise, the phrase gets used for everything. Making groceries. Making sunscreen. Making a playlist.  [quick cuts: guests using the phrase for random activities]
+16.5s  Nobody taught them that on purpose. It just stuck.                    [group laughing, repeating the phrase to each other]
+19.5s  Comes home with them too. Ask anyone who's used it since.            [closing wide shot: group leaving the boat, still laughing about it]
+
+ON-SCREEN TEXT TREATMENT:
+"MAKING GROCERIES" appears as a caption card with a one-line definition ("Yat dialect for grocery shopping") timed to line three, styled for saves. Clears after.
+
+SHOT LIST:
+- Wide establishing shot on the boat, skyline behind (opener)
+- Local guest using the phrase, confused reactions around them
+- Explanation moment, caption card
+- Quick cuts: the phrase getting reused for random activities
+- Group laughing, phrase catching on
+- Closing shot: group departing the boat, still using it
+
+SOURCE GROUNDING: "Making groceries" is a real, well-documented piece of New Orleans English (Yat dialect) for grocery shopping, not invented company slang, same treatment as Pass 24's "lagniappe" and "lifer." Whether a real guest or captain actually uses it on a given trip isn't confirmed as guaranteed; scripted as a plausible, recurring pattern rather than a promised bit. Confirm with crew whether this phrase actually comes up before treating it as documented in-house practice.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, factual specificity, leading with a real, documented dialect term instead of an invented company phrase; a light Sugarman touch, "half the boat goes quiet" plants a question the next line resolves). Then /copywriting-2.0 (3-test filter): a draft line, "It's such a fun New Orleans thing," was cut as vague and unfalsifiable. Replaced with "Comes home with them too. Ask anyone who's used it since," which is checkable (a viewer could actually verify by asking past guests) and ownable to this specific dialect fact.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy, Sugarman) then /copywriting-2.0 (3-test filter). Production flag: confirm the phrase actually comes up on trips before treating as documented practice.

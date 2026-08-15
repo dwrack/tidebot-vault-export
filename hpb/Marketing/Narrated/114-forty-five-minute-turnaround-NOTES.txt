@@ -1,0 +1,11 @@
+PIECE 114 — Announcer / Operations-culture lane — "The Forty-Five Minute Turnaround"
+Voice: EL-Daniel ("The Announcer," recurring)   Music: fast time-lapse percussion + clock-tick foley, resolving clean   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  Fourteen coolers off. Forty-five minutes on the clock.                     [time-lapse style, crew hauling coolers off the boat, quick cuts, clock graphic overlay]
+ 2.8s  Every cup. Every can. Every stray pool float.                             [crew bagging trash, wiping cup rings off surfaces]
+ 5.6s  Deck wiped, cushions flipped, speaker reset to zero.                       [crew flipping cushions, resetting the Bluetooth speaker dial]
+ 9.0s  Nobody waiting on the dock ever sees this part.                           [wide shot, empty spotless boat, nobody around, golden light]
+12.0s  Forty-five minutes later, no evidence anyone was ever here.               [new group boarding onto a fully reset boat, no trace of the last charter]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

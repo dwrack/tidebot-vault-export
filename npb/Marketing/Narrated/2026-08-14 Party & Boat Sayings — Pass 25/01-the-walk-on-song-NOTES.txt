@@ -1,0 +1,30 @@
+PIECE 01 — Heartfelt / bachelorette ritual lane — "The Walk-On Song"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: Trombone Shorty & New Breed Brass Band-style current NOLA cut, celebratory (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every bachelorette booking gets the same follow-up question.          [phone screen: booking confirmation, follow-up text arriving]
+ 3.0s  Not a song for the boat. A song for one specific person.              [text on screen: "what song when she walks up?"]
+ 6.5s  The maid of honor sends one track back, usually with a whole paragraph of context.  [MOH typing a long reply, laughing while typing]
+10.5s  Bride hits the top of the dock. Doesn't know yet. Then the first three notes hit.  [bride walking down the dock toward the boat, unaware]
+15.0s  Whole group loses it before she even says a word.                     [group reaction: hands up, screaming, bride startled and delighted]
+19.0s  One song, timed to a footstep. That's the whole ask.                   [wide shot: bride boarding to her song, group cheering]
+
+ON-SCREEN TEXT TREATMENT:
+The "what song when she walks up?" text graphic appears on line two only, then clears. Nothing else on screen, the reaction plays without captions competing with it.
+
+SHOT LIST:
+- Phone screen: booking follow-up text arriving (opener)
+- Text graphic: the song question
+- Maid of honor typing a long, enthusiastic reply
+- Bride walking down the dock toward the boat, unaware of what's coming
+- First notes hitting as she steps aboard, group reaction
+- Wide closing shot: bride boarding to her song, group cheering
+
+CASTING NOTE: Bride's name and specific song choice should stay general or use a placeholder unless a real, consenting couple is cast. Standard Social Capture Playbook filming ask applies ("Y'all good if I grab a few clips for our Instagram?"). This is a full-group public reaction on deck, not a private one-on-one moment, so it falls outside the Playbook's explicit caution against filming "private toasts, breakdowns, etc." — but crew should still stop filming if any guest seems uncomfortable.
+
+SOURCE GROUNDING: Not confirmed as guaranteed practice on every booking. Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #43, "The bride's entrance: play a specific walk-up song for the bride, ask the maid of honor in advance what song to play." Confirm with ops whether an advance MOH call for song selection is current practice before treating this as documented rather than a recommendation.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman's slippery-slide structure: "every bachelorette booking gets the same follow-up question" withholds the payoff — what question? — until line two; Halbert's instinct for specificity, "with a whole paragraph of context" is the kind of unscripted human detail that makes the scene believable rather than staged). Then /copywriting-2.0 (3-test filter): a draft closer, "It's a moment she'll never forget," failed the falsifiability test (unfalsifiable claim about someone's future memory, and any business could say it about any moment). Cut and rewritten to "One song, timed to a footstep. That's the whole ask," which is visualizable, checkable against whether the timing actually happens, and specific to this exact format.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Sugarman, Halbert) then /copywriting-2.0 (3-test filter). Production flag: advance MOH song call unconfirmed as guaranteed practice, confirm with ops before scripting as documentary.

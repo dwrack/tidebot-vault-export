@@ -1,0 +1,28 @@
+PIECE 10 — Heartfelt lane — "Somebody Always Says Thank You"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Daniel (ElevenLabs)   Music: Jon Cleary-style solo piano, warm and understated (clearance unconfirmed)   Length: 21.0s
+
+SCRIPT (timed to narration):
+ 0.0s  It's usually quiet right before it happens. Nobody plans it.         [wide shot: quiet bayou moment, guide idling the boat]
+ 3.5s  A heron lifts off, or a gator slides under, and somebody just says it out loud.  [wildlife moment, guest reacting]
+ 7.0s  "Thank you." Not to the guide. To whatever just happened.            [guest saying it quietly, half to themselves]
+10.5s  Nobody laughs at it. Everybody kind of gets it.                       [group reaction, understanding nods, no mockery]
+14.0s  Happens on almost every tour. Different person, same two words.      [wide shot: different guest on a different day, same gesture]
+18.0s  Some things out here just make people say thank you. Nobody's figured out why.  [closing wide shot: calm water, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+None. This is a quiet, sincere beat, no caption should sit on top of it.
+
+SHOT LIST:
+- Quiet idle moment on the water (opener)
+- Wildlife sighting, heron or gator
+- Guest quietly saying thank you
+- Group's understanding reaction, no mockery
+- Second example, different guest, different day
+- Closing wide shot: calm water, golden light
+
+SOURCE GROUNDING: Original observed pattern, not sourced from a specific vault idea. This is a light heartfelt beat, not a heavy personal-disclosure moment (no grief, illness, or divorce content), consistent with the slate's retirement of heavy-disclosure content beyond one light beat per pass. Confirm with guides whether this is something they've actually noticed before treating it as documented rather than illustrative.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Schwartz, channeling a real, quiet desire many nature-trip guests carry, wanting a genuine moment of gratitude, not manufacturing one; Ogilvy, factual restraint, stating the moment plainly instead of overselling it). Then /copywriting-2.0 (3-test filter): a draft line, "It's one of the most moving parts of the trip," was cut as an unfalsifiable superlative. Replaced with "Some things out here just make people say thank you. Nobody's figured out why," which stays honest about not having a tidy explanation, more credible and more ownable than a ranked claim.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Schwartz, Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm the pattern with guides before treating as documented.

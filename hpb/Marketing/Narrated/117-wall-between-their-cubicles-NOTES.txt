@@ -1,0 +1,11 @@
+PIECE 117 — Groomsman / Corporate lane, proximity-paradox — "The Wall Between Their Cubicles"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring)   Music: light indie-pop bed, understated build   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  These two share a cubicle wall. Three years.                              [two coworkers boarding separately, polite nod, corporate-casual outfits]
+ 2.6s  Before today, the longest conversation was about a printer.               [quick insert, deadpan reenactment of a stiff office hallway exchange]
+ 6.0s  One hour in and they've covered childhoods, exes, and a shared hatred of Mondays. [coworkers now sitting together on deck, animated, laughing, drinks in hand]
+ 9.8s  Monday they'll go back to nodding at each other in the hallway.           [wry beat, quick cut, mimed hallway nod, deadpan]
+13.0s  For today, though, you'd think they'd known each other for years.        [wide shot, coworkers clinking cans, genuinely relaxed and bonded]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

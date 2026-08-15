@@ -1,0 +1,11 @@
+PIECE 115 — Sensory ritual lane, new archetype — "The Ninety-Second Hush"
+Voice: EL-Lily ("Delta Dream's voice," recurring)   Music: warm ambient strings, dips to near-silence on the hush beat, swells back   Length: 16s
+
+SCRIPT (timed to narration):
+ 0.0s  Same thing happens every trip, right when the sun hits the water.          [wide shot, sunset beginning to hit the water, guests scattered on deck, golden light building]
+ 3.2s  Twenty-six people go quiet at the exact same moment.                       [guests, one by one, stop mid-conversation and turn toward the sunset]
+ 6.6s  Nobody says "look" or "get a picture." It just happens.                    [close shots, individual faces, quiet, watching the light on the water]
+10.0s  Ninety seconds, give or take. Then somebody laughs and it's a party again. [a guest laughs, breaking the silence, group snaps back to energy]
+13.6s  We've never once had to ask for that.                                      [wide shot, sun fully down, deck lights kicking on, group back to full volume]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

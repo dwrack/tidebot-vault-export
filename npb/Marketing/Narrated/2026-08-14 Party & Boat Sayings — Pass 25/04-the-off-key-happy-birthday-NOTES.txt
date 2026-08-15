@@ -1,0 +1,28 @@
+PIECE 04 — Funny / heartfelt, birthday-group lines lane — "The Off-Key Happy Birthday"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: Hot 8 Brass Band-style playful brass chaos (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every birthday group sings it. Nobody's ever once sung it on key.     [wide shot: group gathering around the birthday guest, phones raised]
+ 3.5s  Starts strong. By "happy birthday dear," three different keys are happening at once.  [group singing, visibly off-key, laughing at themselves]
+ 7.5s  Then the ending. Half the boat goes "and many more," half just trails off.  [close-up: mixed reactions, half singing, half unsure, laughing]
+12.0s  Birthday person always covers their face. Always still smiling behind their hands.  [birthday guest covering face, peeking through fingers, grinning]
+16.0s  Says they hate it. Every photo from the trip says otherwise.          [guest looking at phone, seeing the photo, laughing]
+19.5s  Off-key is kind of the whole tradition at this point.                 [wide closing shot: group laughing together, boat moving]
+
+ON-SCREEN TEXT TREATMENT:
+None. The joke lands on the sound and the reaction, a caption would step on both.
+
+SHOT LIST:
+- Group gathering around the birthday guest, phones raised (opener)
+- Mid-song off-key chaos, group leaning into it
+- The fumbled ending, half the group unsure of the words
+- Birthday guest covering their face, peeking through fingers
+- Guest reviewing the photo on their phone, laughing
+- Wide closing shot: group laughing together, boat continuing
+
+PRODUCTION FLAG: None needed. This is a universal, generic party behavior (an off-key group singalong) rather than a claim about NPB-specific practice, so it doesn't require ops confirmation the way premises sourced from the Ideas doc do. It is guest behavior, not a crew-performed bit, so it doesn't reintroduce the retired "captain's fixed scripted line" device.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, universal instantly-recognizable human behavior with no invented company angle needed; a light Bencivenga touch in the proof line, "every photo from the trip says otherwise" is a checkable claim about photo evidence, not just an assertion of enjoyment). Then /copywriting-2.0 (3-test filter): a draft line, "It's the best part of the day," was cut as an unfalsifiable superlative. Replaced with "Off-key is kind of the whole tradition at this point," which stays inside the observable, checkable pattern instead of ranking it against the rest of the trip.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Halbert, Bencivenga) then /copywriting-2.0 (3-test filter). No production flag beyond standard illustrative-content treatment.

@@ -1,0 +1,12 @@
+PIECE 124 — Groomsman / Myth vs. reality lane, pedaling objection — "Explaining This To A Friend Takes Four Tries"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," recurring)   Music: dry brass-stab list-comedy bed, resolving into warm pop bed   Length: 15s
+
+SCRIPT (timed to narration):
+ 0.0s  "So it's like a party bike, but on water?" No.                            [Groomsman, dry, guest on the phone trying to explain, gesturing, mildly exasperated]
+ 2.8s  "Okay, so everyone pedals the whole time?" Also no.                       [close insert, guest shaking head, mock-frustrated]
+ 5.8s  "So what do you actually do." Fair question.                             [wide shot, boat cruising, guests relaxed on deck, drinks in hand, nobody at the pedal stations]
+ 8.6s  You bring your people, your cooler, your playlist. The boat handles the rest. [group laughing, music playing, casual energy, cooler open]
+12.2s  Took four tries. Worth it.                                               [Groomsman, dry grin, phone call wrapping up]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+Note: the only piece in this volume that names pedaling — done as a direct myth-vs-reality bit per Brand Story's own instruction to address the pedaling misconception early, never as the pitch.

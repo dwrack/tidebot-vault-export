@@ -1,0 +1,28 @@
+PIECE 12 — Funny / running joke lane — "Everybody Leans the Same Way"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: Corey Henry & The Treme Funktet-style current funk, upbeat (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Ten people, one side of the boat, one alligator. Everybody already knows what happens.  [wide shot: boat with guests seated, calm water]
+ 3.0s  Something moves on the left. The whole boat leans left. Immediately.  [wide shot: gator or heron on the left side, guests all shifting weight]
+ 6.5s  Guide doesn't have to say a word. The boat says it for him.          [guide smiling, subtly adjusting the boat's balance]
+ 9.5s  Ask any guide. They can feel it happen before they see what everyone's looking at.  [guide gesturing, describing the feeling, nodding]
+13.5s  Happens the same way every single tour. Nobody's ever coordinated it on purpose.  [quick cuts: two different trips, same lean, same reaction]
+17.5s  Ten strangers, one boat, and somehow everybody moves like one animal.  [wide closing shot: group leaning together, laughing at themselves]
+
+ON-SCREEN TEXT TREATMENT:
+None. Physical comedy doesn't need a caption.
+
+SHOT LIST:
+- Guests seated, calm water (opener)
+- Wildlife appears on one side, whole group leans
+- Guide's knowing smile, adjusting balance
+- Guide describing the feeling
+- Two quick-cut examples from different trips
+- Wide closing shot: group laughing at their own reflex
+
+PRODUCTION FLAG: Confirm with a guide whether the boat's actual size and stability make this lean noticeable and safe to depict before shooting it as a visible, physical tilt, consistent with `Brand Story & Values.md` Section 2, "safety isn't a talking point, it's the floor." If the real boat doesn't tilt meaningfully or if leaning at all is something crew actively manages against for safety, adjust the script to "everybody shifts toward one side" rather than implying a visible tilt of the vessel.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert, universal, funny, instantly recognizable crowd behavior; Ogilvy, precise, checkable specific, "ten people, one side"). Then /copywriting-2.0 (3-test filter): a draft closer, "It's honestly hilarious to watch," was cut, an unfalsifiable, telling-not-showing line the brand's own copy rules flag directly. Replaced with "Ten strangers, one boat, and somehow everybody moves like one animal," visualizable, specific, and ownable to this exact scene.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Halbert, Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: confirm the boat's physical lean is safe and accurate to depict before shooting.

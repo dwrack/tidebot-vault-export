@@ -1,0 +1,12 @@
+PIECE 125 — Roger / Mock-official lane, new device — "The Boat's Report Card"
+Voice: voice-en-US-RogerNeural ("Roger," recurring — returning after resting through Vol. 7)   Music: game-show-style score-reveal sting, resolving into warm party bed   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  End of every charter, the crew hands out a report card.                   [Roger VO, mock-official, deadpan, score-card graphic overlay begins to build]
+ 2.8s  Not for the boat. For the group.                                         [graphic reveal, "GRADING: YOU" text insert over a wide shot of the group]
+ 5.2s  Vibes: A-plus. Punctuality: generous C. Aux cord etiquette: incomplete.   [comedic list insert, mock scorecard graphic with categories and grades appearing one by one]
+ 9.2s  Nobody's ever failed. A few groups have come close.                      [wide shot, guests laughing at their own "grades," pointing at each other]
+12.6s  Class dismissed. See you next charter.                                   [wide shot, group waving from the dock as they disembark]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
+Note: Roger's device is intentionally different this time — a scorecard reveal, not the mock-PSA-announcement format used in his prior 6 appearances. If this doesn't land in review, Roger should probably retire from the series rather than get a third format.

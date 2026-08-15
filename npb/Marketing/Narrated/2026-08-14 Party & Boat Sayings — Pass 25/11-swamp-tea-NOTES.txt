@@ -1,0 +1,28 @@
+PIECE 11 — Did-you-know / cultural lane — "Swamp Tea"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: Professor Longhair-style slower instrumental, mellow (clearance unconfirmed)   Length: 22.5s
+
+SCRIPT (timed to narration):
+ 0.0s  First question almost every guest asks: why is the water black?      [wide shot: black water, guide gesturing at it]
+ 3.0s  Locals have a nickname for it. Swamp tea.                            [guide smiling, saying the phrase]
+ 5.5s  Not dirty. Steeped. Tannins from cypress and tupelo leaves, doing that for a few hundred years.  [close-up: water, leaves floating, tannin color visible]
+10.5s  Same chemical process as the tea in your kitchen. Just running a much longer brew.  [wide shot: dark water reflecting cypress trees]
+15.0s  Once you hear "swamp tea," you can't unhear it. Every guest says it back for the rest of the trip.  [guest repeating the phrase, smiling, pointing at the water]
+19.5s  Not dirty water. Just an old, slow tea nobody's ever going to drink.   [closing wide shot: black water, cypress reflection, calm]
+
+ON-SCREEN TEXT TREATMENT:
+"SWAMP TEA" appears as a caption card with a one-line definition timed to line two, styled for saves. Clears after.
+
+SHOT LIST:
+- Black water establishing shot, guide gesturing (opener)
+- Guide saying the nickname, caption card
+- Close-up: water and leaves showing tannin color
+- Wide shot: dark water reflecting cypress trees
+- Guest repeating the phrase, pointing at the water
+- Closing shot: black water, cypress reflection, calm
+
+SOURCE GROUNDING: The tannin fact is real, externally documented science, the same fact used in Admire NOLA's `Content/Script & Caption Bank.md` Lane 6 ("Why is the water black? It isn't dirty, it's tea. Tannins from cypress and tupelo leaves, steeping for a few hundred years."). This piece adapts that same real, externally-sourced fact for NPB's own naturalist tour with different wording and adds the "swamp tea" nickname framing, which is not in the Admire NOLA source. Whether NPB's own guides actually use the nickname "swamp tea" isn't confirmed; scripted as "locals have a nickname for it," true of the region generally. Confirm with a guide whether NPB's crew already says this before treating it as established in-house language rather than a suggested framing.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, leading with real, verifiable science instead of an invented company phrase; Bencivenga, proof over assertion, "same chemical process as the tea in your kitchen" is a checkable, specific comparison). Then /copywriting-2.0 (3-test filter): a draft line, "It's one of the coolest facts on the tour," was cut as an unfalsifiable ranking. Replaced with "Once you hear 'swamp tea,' you can't unhear it. Every guest says it back for the rest of the trip," visualizable, falsifiable, and specific to the actual guest behavior shown on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy, Bencivenga) then /copywriting-2.0 (3-test filter). Production flag: confirm "swamp tea" is actually used by NPB's own guides before treating as established in-house phrase.

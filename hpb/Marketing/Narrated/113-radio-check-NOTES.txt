@@ -1,0 +1,11 @@
+PIECE 113 — Captain-line / Operations-culture lane — "Radio Check"
+Voice: EL-Eric ("The Captain," recurring)   Music: low marine-radio static/foley opening into confident understated pop bed   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, same time, I key the radio.                                    [Captain at the helm, hand on the radio mic, guests half-listening behind him]
+ 2.4s  Delta Dream to any station, we've got twenty-two aboard and a good crowd.  [close on Captain speaking into the mic, dry expression]
+ 6.2s  Another captain on Clear Lake says it back.                               [wide shot, another boat visible far off on the water, radio crackle]
+ 9.6s  Guests lean in like it's playoff commentary. It's two boats saying hi.     [guests leaning in, mock-serious listening faces, one guy cups his ear]
+13.2s  That's the whole broadcast. Carry on.                                     [Captain hangs up the mic, dry grin, wide shot of open water]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

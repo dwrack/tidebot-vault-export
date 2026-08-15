@@ -1,0 +1,11 @@
+PIECE 120 — Sunscreen Friend / Digital-detox lane, 2nd angle — "The Watch Nobody's Checking"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," recurring — not EL-Brian)   Music: light pizzicato/strings, playful reveal beat   Length: 14.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody's smartwatch keeps buzzing on their wrist.                        [close insert, smartwatch lighting up with notifications, wrist resting on the boat rail]
+ 2.8s  Texts. Emails. Something called "urgent."                                 [quick insert, notification previews on the watch face, blurred for privacy]
+ 5.4s  Nobody's looked at it in over an hour.                                    [wide shot, guest laughing with friends, watch buzzing, unnoticed]
+ 8.0s  They didn't forget the watch. They just stopped caring what it says.       [close on guest, relaxed, genuinely present, no phone in sight]
+11.4s  The watch is still working. Nobody else is.                              [wide shot, group laughing, golden light, watch still lit up in the corner of frame]
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

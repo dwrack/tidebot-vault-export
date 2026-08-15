@@ -1,0 +1,28 @@
+PIECE 08 — Did-you-know / cultural lane — "Swamp Time"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: Dr. John-style darker, swampy cuts, laid-back (clearance unconfirmed)   Length: 21.5s
+
+SCRIPT (timed to narration):
+ 0.0s  South Louisiana's got its own word for a schedule that isn't in a hurry.  [wide shot: calm bayou, boat moving unhurried]
+ 3.5s  Swamp time. Old phrase, still used by people who grew up out here.    [guide gesturing, explaining, calm delivery]
+ 7.0s  Nothing on this boat moves fast. Not the water, not the wildlife, not the guide.  [wide shot: slow-moving water, cypress passing]
+11.0s  About twenty minutes in, guests stop checking their phones for the time.  [guest glancing at phone, then setting it down, unbothered]
+15.0s  That's swamp time working on you, whether you asked for it or not.    [wide shot: guests relaxed, watching the water]
+18.5s  Most people bring it home for about a day before real life catches back up.  [closing wide shot: boat docking, calm light]
+
+ON-SCREEN TEXT TREATMENT:
+"SWAMP TIME" appears as a caption card with a one-line definition timed to line two, styled for saves. Clears after.
+
+SHOT LIST:
+- Calm bayou establishing shot (opener)
+- Guide explaining the phrase, caption card
+- Slow-moving water and cypress passing
+- Guest setting their phone down, unbothered
+- Wide shot: guests relaxed, watching the water
+- Closing shot: boat docking, calm light
+
+SOURCE GROUNDING: "Swamp time" is a real, documented colloquial phrase used across rural Louisiana and swamp-culture communities for an unhurried, flexible relationship with schedules, same real-language treatment as Pass 24's "lagniappe" and "lifer." The "twenty minutes in" phone-checking detail is illustrative and approximate, not a measured statistic; note it as an observed tendency, not a timed study, if this scripts for production.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, factual grounding with a real, verifiable term and a precise detail, "twenty minutes in"; Schwartz, channeling a real, existing desire, guests already want to slow down, this doesn't manufacture the want). Then /copywriting-2.0 (3-test filter): a draft closer, "You'll never want to check your phone again," was cut as an unfalsifiable prediction about the viewer's future behavior. Replaced with "Most people bring it home for about a day before real life catches back up," specific, checkable, and more credible for being honest that it doesn't last forever.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy, Schwartz) then /copywriting-2.0 (3-test filter). No further production flag beyond noting the "twenty minutes" detail is illustrative.

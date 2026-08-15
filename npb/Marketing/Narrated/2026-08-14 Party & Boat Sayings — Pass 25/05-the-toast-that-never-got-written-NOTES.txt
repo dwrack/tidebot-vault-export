@@ -1,0 +1,30 @@
+PIECE 05 — Heartfelt lane — "The Toast That Never Got Written"
+Product: Private BYOB Party Fleet
+Voice: voice-en-GB-RyanNeural (free tier)   Music: Soul Rebels-style brass-funk, warm build (clearance unconfirmed)   Length: 23.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always plans a toast ahead of time. Somebody's phone always dies first.  [guest looking at phone, screen black, confused]
+ 3.5s  No notes. No backup. Just a person standing up with nothing written down.  [guest standing up, empty-handed, slightly panicked]
+ 7.5s  First few words are rough. Everybody can tell they're making it up as they go.  [guest starting to speak, group leaning in, supportive]
+11.5s  Then it stops being a speech and starts being just true things about their friend.  [guest speaking more freely now, genuine, group reacting warmly]
+16.0s  Nobody remembers the planned toast that didn't happen. Everybody remembers this one.  [group visibly moved, some laughing, one wiping their eyes]
+20.0s  Best toasts on this boat are rarely the ones anybody wrote down.       [wide closing shot: group raising drinks together]
+
+ON-SCREEN TEXT TREATMENT:
+None. This is the pass's one quieter, more emotionally open moment, let it breathe without a caption competing with it.
+
+SHOT LIST:
+- Guest realizing their phone died or notes are gone (opener)
+- Standing up empty-handed
+- Rough opening lines, group leaning in supportively
+- Toast shifting into genuine, unscripted territory
+- Group's warm, moved reaction
+- Wide closing shot: group raising drinks together
+
+CONSENT NOTE: This shows a full-group toast, spoken out loud to the whole boat, being filmed. Per the Deckhand Social Capture Playbook's consent section, crew should not film "private toasts, breakdowns, etc." A toast given out loud to the whole group is not the private, one-on-one moment that guidance is aimed at, so this falls outside that restriction as scripted — but if a real toast turns emotionally raw or drifts into something that feels like it should stay private, crew should stop filming in the spirit of that same rule, even though this specific scenario wasn't the literal case it names. Standard filming ask applies regardless.
+
+SOURCE GROUNDING: Original premise grounded in general toast dynamics on the boat, not sourced from a specific vault idea. Flagged as an illustrative content pattern the crew can capture if it happens naturally, not something to manufacture or coach a guest into staging.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman, curiosity structure: phone dies, what happens next, resolved slowly across the piece; Schwartz, channeling a real, common anxiety, that a planned toast will flop, by showing an unplanned one land better instead). Then /copywriting-2.0 (3-test filter): a draft closer, "It's the moment everyone remembers," was cut as unfalsifiable and nearly identical to the sharper line already in the script. Rewritten to "Best toasts on this boat are rarely the ones anybody wrote down," specific to this boat's own observable pattern and ownable in a way a generic claim isn't.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Sugarman, Schwartz) then /copywriting-2.0 (3-test filter). Consent flag: standard filming ask plus the Playbook's private-moment judgment call applies.

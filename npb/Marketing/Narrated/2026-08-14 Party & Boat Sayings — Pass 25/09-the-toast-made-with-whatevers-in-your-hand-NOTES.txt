@@ -1,0 +1,28 @@
+PIECE 09 — Heartfelt / funny lane — "The Toast Made With Whatever's in Your Hand"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: Preservation Hall Jazz Band-style quieter trad-jazz (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always wants to toast something out here too. Just a quieter version.  [wide shot: small group on the eco tour boat, calm water]
+ 3.5s  Nobody brings champagne on this boat. Doesn't stop anybody.          [guest holding a water bottle, half-joking]
+ 7.0s  Water bottle works. So does a coffee thermos. One guy used his camera once.  [quick cuts: different guests raising whatever's in hand]
+11.5s  Doesn't matter what's in the hand. The gesture's the same as any boat on this bayou.  [guests clinking bottles and thermoses together, smiling]
+15.5s  Nobody planned it. Somebody just said "to this" and everybody understood.  [guest speaking the line, group nodding, quiet agreement]
+19.5s  Turns out you don't need a drink to mean it.                          [wide closing shot: quiet toast moment, calm water]
+
+ON-SCREEN TEXT TREATMENT:
+None.
+
+SHOT LIST:
+- Small eco tour group, calm water (opener)
+- Guest raising a water bottle
+- Quick cuts: different improvised "toast" items
+- Bottles and thermoses clinking together
+- Guest saying the simple line, group's quiet agreement
+- Wide closing shot: the toast moment, calm water
+
+PRODUCTION FLAG: This is not scripted as a stated "no alcohol" policy on the eco tour, that isn't confirmed anywhere in `Brand Story & Values.md`. The line "nobody brings champagne on this boat" is written as an observed tendency on this smaller, slower, per-seat product, not an asserted rule. Confirm actual policy with ops before this posts, and adjust the line if it turns out guests do sometimes bring alcohol on the naturalist tour.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga, proof over assertion, naming the actual specific objects, water bottle, thermos, camera, instead of claiming "it's just as special"; Sugarman, short opener and curiosity, "just a quieter version" invites the question "quieter how?"). Then /copywriting-2.0 (3-test filter): a draft line, "It's just as meaningful," was cut as an unfalsifiable comparison. Replaced with "Turns out you don't need a drink to mean it," concrete and checkable against what's actually shown on screen.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga, Sugarman) then /copywriting-2.0 (3-test filter). Production flag: confirm the eco tour's actual alcohol policy with ops before treating the "no champagne" line as fact.

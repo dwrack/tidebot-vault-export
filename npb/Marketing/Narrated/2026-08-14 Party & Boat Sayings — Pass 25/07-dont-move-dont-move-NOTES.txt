@@ -1,0 +1,28 @@
+PIECE 07 — Heartfelt / funny running joke lane — "Don't Move, Don't Move"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Lily (ElevenLabs)   Music: Sweet Crude-style soft, atmospheric (clearance unconfirmed)   Length: 20.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody tells the group to be quiet when something's close. It happens on its own.  [wide shot: boat gliding, guide pointing subtly]
+ 3.5s  One person whispers it first. "Don't move, don't move."               [guest whispering, hand slightly raised, guiding others' attention]
+ 6.5s  Whole boat goes still in about two seconds flat.                      [wide shot: entire group frozen, phones half-raised, dead quiet]
+ 9.5s  Doesn't matter if it's a heron or a gator sliding under. Same two words, every time.  [close-up: wildlife in frame, guests motionless]
+13.5s  The guide's not the one who says it. Never has to be.                 [guide smiling, staying quiet, letting the moment hold]
+17.0s  Whole boat goes quiet together, then exhales together right after.    [wide shot: group relaxing, quiet laughter, boat continuing]
+
+ON-SCREEN TEXT TREATMENT:
+None. A caption would compete with the quiet the piece is actually about.
+
+SHOT LIST:
+- Boat gliding, guide subtly pointing (opener)
+- Guest whispering the phrase, hand raised
+- Whole boat frozen, phones half-raised
+- Wildlife in frame, motionless guests
+- Guide's quiet, knowing smile
+- Wide shot: collective exhale after the moment passes
+
+SOURCE GROUNDING: Original observed pattern, not sourced from a specific vault idea. Grounded in the naturalist tour's real product mechanic (`Brand Story & Values.md` Section 1: "a slower, quieter, wildlife-and-naturalist trip"). Confirm with a guide whether this specific hushing pattern actually happens before treating it as documented rather than a plausible, illustrative moment.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy, factual grounding with a precise, checkable detail, "about two seconds flat"; Bencivenga, proof over assertion, showing the actual behavior instead of claiming "guests get so quiet"). Then /copywriting-2.0 (3-test filter): a draft line, "It's a magical hush that falls over everyone," was cut hard, vague and unfalsifiable, exactly the soft language the brand voice rules avoid. Replaced with "Whole boat goes still in about two seconds flat," which is visualizable, falsifiable, and specific.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 25, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy, Bencivenga) then /copywriting-2.0 (3-test filter). Production flag: confirm the pattern with a guide before treating as documented.
