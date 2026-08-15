@@ -1,0 +1,14 @@
+PIECE 251 — Funny/Quotable lane (new device) — The Sunscreen Friend (2nd appearance) / "Two Hours In, Everybody's Trading Numbers"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," earnest, mildly amused, clearly loves everyone)   Music: warm indie-pop bed, building warmth throughout   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Two hours ago, half this boat were strangers.                          [Sunscreen Friend VO warm earnest, wide, mixed group at start of trip, initial polite distance]
+ 3.6s  Now everybody's trading numbers like they've known each other for years.  [insert, guests exchanging phones, laughing]
+ 7.4s  Nobody plans that. The boat just does it.                              [insert, warm group shot, golden hour]
+11.0s  Best friends for two hours. Sometimes longer.                          [closing line, wide, group hugging goodbye at dock]
+
+On-screen text: Hook = "TWO HOURS AGO THEY WERE STRANGERS" | Body = "best friends for two hours, sometimes longer" | CTA: none.
+
+NOTE: works best with a charter combining two separate friend groups who don't already know each other. Related but distinct from piece 197 ("Half The Boat Hasn't Seen The Other Half"), which is about two halves of one boat not having met yet — this piece is specifically about the number-trading action at the end, a different beat. Shares the "nobody plans it, it just happens" structural beat with pieces 243, 248, and 250 in this same volume — flagged in the Vol. 16 doc as a pattern worth varying in Vol. 17.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

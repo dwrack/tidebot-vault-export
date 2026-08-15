@@ -1,0 +1,14 @@
+PIECE 245 — Funny/Quotable lane (new device) — Roger / "Port And Starboard, Guessed Wrong Every Time"
+Voice: voice-en-US-RogerNeural ("Roger," mock-official delivery)   Music: mock-official brass/marching stinger bed, playful   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain says "starboard." Half the boat looks left.                     [Roger VO mock-official, wide, captain gesturing, guests visibly confused]
+ 3.6s  Every trip, somebody's still got it backwards by the end.               [insert, guest pointing the wrong direction, laughter]
+ 7.2s  We've stopped correcting people. It's part of the trip now.             [insert, deckhand shrugging, amused]
+10.6s  Nobody's ever failed a quiz this badly and had this much fun.           [closing line, wide, group laughing, golden light]
+
+On-screen text: Hook = "\"STARBOARD.\" (HALF THE BOAT LOOKS LEFT.)" | Body = "we've stopped correcting people" | CTA: none.
+
+NOTE: universal, low-risk device — no factual claim to verify, just an observed pattern of new-guest behavior. Safe to shoot opportunistically on any trip. Distinct from piece 104 ("Bow People, Stern People"), which is about seating-personality types, not mislearned vocabulary.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 248 — Funny/Quotable lane (new device) — The Announcer / "The Captain Slows Down At The Same Bend In The Lake, Every Time"
+Voice: EL-Daniel ("The Announcer," formal news/memo register, played straight)   Music: sparse ambient bed with a formal "news"-register undertone   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a bend in the lake where the captain always eases off the throttle.  [Announcer VO formal deadpan-serious, wide, boat slowing, scenic bend in the water]
+ 3.8s  No announcement. No explanation. It just happens, same spot, every time.  [insert, guests noticing, quieting down, looking at the view]
+ 7.6s  That's usually when the good photos happen.                             [insert, phones coming out, sunset light on water]
+11.2s  Some things don't need a reason. They just need to keep happening.       [closing line, wide, golden hour, boat idling at the bend]
+
+On-screen text: Hook = "THE SAME BEND, EVERY TIME" | Body = "no announcement, it just happens" | CTA: none.
+
+NOTE: invented illustration, not a confirmed detail of this crew's actual route or habits — same discipline applied to pieces 158/160/163/230/240. CONFIRM WITH CONNOR whether there's an actual scenic slow-down point on the real route before treating this as documented rather than dramatized. Shares the "nobody plans it, it just happens" structural beat with pieces 243, 250, and 251 in this same volume — flagged in the Vol. 16 doc as a pattern worth varying in Vol. 17.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

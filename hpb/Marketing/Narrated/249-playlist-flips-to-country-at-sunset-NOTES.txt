@@ -1,0 +1,14 @@
+PIECE 249 — Funny/Quotable lane (new device) — Delta Dream's voice / "The Playlist Flips To Country The Second The Sun Drops"
+Voice: EL-Lily ("Delta Dream's voice," bright, polished)   Music: a pop-to-country crossfade bed that mirrors the joke structurally   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Right around sunset, the playlist always flips to country.              [Delta Dream VO bright polished, wide, sunset colors starting, aux cord in hand]
+ 3.8s  Nobody plans it. It just happens, right on schedule.                    [insert, guests reacting, someone singing along]
+ 7.4s  Pop gets you on the boat. Country gets you home.                       [insert, group swaying, golden light]
+10.8s  Every single trip, like clockwork.                                     [closing line, wide, deep sunset, group singing]
+
+On-screen text: Hook = "THE PLAYLIST FLIPS AT SUNSET" | Body = "pop gets you on the boat, country gets you home" | CTA: none.
+
+NOTE: opener rewritten during copywriting-2.0 — first draft read "Two hours in, the sun starts dropping," which duplicated the exact "Two hours..." opening frame used in piece 251 ("Two hours ago, half this boat were strangers"). Caught on a full read-through of this batch's sixteen openers against each other, rewritten to drop the shared frame entirely. Distinct from piece 28 ("Playlist, Same Three Songs"), which is about repetition, not a time-triggered genre shift.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

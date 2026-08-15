@@ -1,0 +1,14 @@
+PIECE 250 — Funny/Quotable lane (new device) — The Bestie (2nd appearance) / "Everybody Claps When The Motor Cuts Off"
+Voice: EL-Jessica ("The Bestie," loud friend, mock-official one second, cracking up the next)   Music: bright percussive swell bed, building on the applause beat   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The second the motor cuts off for photos, the whole boat claps.         [Bestie VO loud excited, wide, engine idling down, group reacting]
+ 3.6s  Nobody organizes it. It just happens.                                  [insert, guests clapping, laughing, spontaneous energy]
+ 7.0s  Like the silence itself deserved an ovation.                           [insert, quiet water, group grinning]
+10.4s  Then somebody yells "again!"                                          [closing line, wide, motor restarting, group laughing]
+
+On-screen text: Hook = "EVERYBODY CLAPS WHEN THE MOTOR CUTS OFF" | Body = "like the silence deserved an ovation" | CTA: none.
+
+NOTE: invented illustration, dramatized crowd behavior rather than a confirmed, filmed real moment — treat as an aspirational bit to capture opportunistically rather than a scripted, staged clap. Shares the "nobody plans it, it just happens" structural beat with pieces 243, 248, and 251 in this same volume — flagged in the Vol. 16 doc as a pattern worth varying in Vol. 17.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

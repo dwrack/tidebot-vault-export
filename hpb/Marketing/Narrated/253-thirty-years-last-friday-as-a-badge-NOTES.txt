@@ -1,0 +1,14 @@
+PIECE 253 — Funny/Quotable lane (new occasion type) — The Groomsman / "Thirty Years On The Job, Last Friday As A Badge"
+Voice: voice-en-GB-RyanNeural ("The Groomsman," chill, dry, warm underneath)   Music: warm nostalgic acoustic bed, celebratory undertone building toward the close   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Thirty years at the same job. Last Friday, badge and all.              [Groomsman VO chill dry warm underneath, wide, retiree boarding, group celebrating]
+ 3.8s  Nobody's asking what's next. Tonight's just tonight.                  [insert, group toasting, retiree relaxed, no clock, no schedule]
+ 7.6s  No alarm set for tomorrow, either.                                    [insert, sunset, laughter, easy atmosphere]
+11.2s  Thirty years earns exactly this. Book the send-off.                  [closing line, wide, golden hour, group cheering for retiree]
+
+On-screen text: Hook = "THIRTY YEARS. LAST FRIDAY, BADGE AND ALL." | Body = "tonight's just tonight" | CTA = "Thirty years earns this. Book the send-off."
+
+NOTE: first retirement-occasion piece across sixteen volumes and 240 prior pieces — a genuine gap given how many other life-stage milestones (graduation x4, quinceanera, Sweet Sixteen, multiple anniversaries, a military homecoming) this series already has on file. "Thirty years" is illustrative, not a claim about any real guest — adjust freely per whoever's actually being celebrated. Closing line strengthened during copywriting-2.0: first draft stopped at "Nobody's asking what's next" alone, which is a feeling rather than an image; added the concrete second beat ("No alarm set for tomorrow, either") per Ogilvy's specific-over-abstract principle.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

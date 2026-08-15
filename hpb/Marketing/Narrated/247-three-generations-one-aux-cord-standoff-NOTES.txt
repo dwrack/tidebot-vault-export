@@ -1,0 +1,14 @@
+PIECE 247 — Funny/Quotable lane (new device, occasion-adjacent) — The Sunscreen Friend / "Three Generations, One Aux Cord Standoff"
+Voice: voice-en-US-BrianNeural ("The Sunscreen Friend," earnest, mildly amused, clearly loves everyone)   Music: warm acoustic bed, gentle build, family-friendly throughout   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Grandma wants oldies. Mom wants 2000s pop. The teenager wants whatever's trending today.  [Sunscreen Friend VO earnest warm, wide, multi-generational family group boarding]
+ 3.8s  Three generations, one aux cord, zero agreements.                       [insert, phone passed hand to hand, playful debate]
+ 7.6s  Somehow it works out. It always works out.                             [insert, everyone dancing to something, mixed reactions, laughing]
+11.4s  By the end, even grandma's favorite made the cut.                      [closing line, wide, golden hour, family laughing together]
+
+On-screen text: Hook = "THREE GENERATIONS. ONE AUX CORD." | Body = "zero agreements, and it always works out" | CTA: none.
+
+NOTE: first genuine multi-generational family device in the series — distinct from piece 133 ("Grandma's One Request"), which is about one specific ask, not a generational dynamic. Closing line was rewritten during copywriting-2.0: first draft read "By the end, even grandma's throwing her hands up," which reads ambiguously as either dancing or frustration on a caption-only watch — fixed to be unambiguous. Keep the joke affectionate — no generation is the butt of it.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

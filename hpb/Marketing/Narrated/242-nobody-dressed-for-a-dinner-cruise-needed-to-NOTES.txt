@@ -1,0 +1,14 @@
+PIECE 242 — Funny/Quotable lane (real-sourced device) — The Old Salt / "Nobody Dressed For A Dinner Cruise Needed To"
+Voice: EL-George ("The Old Salt," older, wry, warm)   Music: light acoustic bed, warm humor undertone   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Every so often somebody shows up in a cocktail dress, looking for the dinner cruise.  [Old Salt VO wry warm, wide, dock area, guest in formalwear next to casual boarding crowd]
+ 3.8s  Wrong boat. And also the right one.                                      [insert, guide gesturing warmly toward the casual group]
+ 7.2s  No menu. No maitre d'. Just your cooler and whoever you brought.         [insert, coolers loading, casual clothes, easy energy]
+11.0s  Come as you are. That's the whole dress code.                           [closing line, wide, golden hour, mixed-casual group laughing]
+
+On-screen text: Hook = "LOOKING FOR THE DINNER CRUISE?" | Body = "no menu, no maitre d', just your cooler" | CTA = "Come as you are. That's the dress code."
+
+NOTE: premise pulled directly from Entity Canon.md's disambiguation line — "Not a luxury yacht or dinner cruise. HPB is a BYOB cycleboat/pedal barge experience... guests bring their own drinks and set their own vibe." First piece in the series sourced from that document. Keep tone warm, not mocking — the joke is on the mismatch, never on the guest. If restaging the "dressed up" figure, use a crew member rather than singling out a real guest without consent.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 241 — Funny/Quotable lane (real-sourced, brand-compliance device) — Mama Tried's voice / "Somebody Always Asks If This Is A Workout"
+Voice: EL-Brian ("Mama Tried's voice," flat, deadpan list-comedian)   Music: dry comedic sting under a minimal, mock-serious bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody asks this every single trip: "Is this a workout?"               [Mama Tried VO flat deadpan, wide, boat pulling from the dock, guests settling in]
+ 3.8s  No. Nobody's tracking steps. Nobody's counting anything.                 [insert, cooler opening, easy laughter, casual energy]
+ 7.6s  Bring a cooler. Leave the fitness tracker in the car.                    [insert, guest visibly relaxing, drink in hand]
+11.4s  Come find out yourself.                                                  [closing line, wide, golden light, group laughing on deck]
+
+On-screen text: Hook = "IS THIS A WORKOUT?" | Body = "nobody's counting anything out here" | CTA = "Come find out yourself."
+
+NOTE: pulled directly from Entity Canon.md's "never market as a workout or fitness experience" rule, and from this pass's own standing instruction not to sell pedaling as a feature. This piece exists specifically to deny the workout framing, not confirm it — see the copywriting-2.0 catch in the Vol. 16 doc, where the first draft's body line ("You'll get a light workout in without even trying") broke this exact rule and was rewritten. Do not intercut with footage that frames pedaling as exertion — no sweat, no strain, no close-ups on legs working.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

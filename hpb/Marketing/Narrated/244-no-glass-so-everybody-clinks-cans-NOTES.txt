@@ -1,0 +1,14 @@
+PIECE 244 — Funny/Quotable lane (new device) — The Captain / "No Glass, So Everybody Learned To Clink Cans"
+Voice: EL-Eric ("The Captain," dry, unbothered, deadpan authority)   Music: understated funky bass bed, deadpan comedic pacing   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  No glass allowed on the water. Coast Guard rule, not ours.               [Captain VO dry deadpan, wide, cans and plastic cups being handed around]
+ 3.8s  So every toast out here sounds a little different.                      [insert, cans meeting mid-air, dull clink instead of a glass ring]
+ 7.4s  Doesn't ring. Doesn't shatter. Just works.                              [insert, group laughing, cans raised]
+10.8s  You get used to the sound fast.                                         [closing line, wide, sunset, group toasting]
+
+On-screen text: Hook = "NO GLASS ON THE WATER" | Body = "every toast out here sounds a little different" | CTA: none.
+
+NOTE: "no glass on boats" is a common general boating-safety norm, not a confirmed house-specific policy of this operator. First draft attributed this directly to the business ("we don't allow glass on our boats") and was rewritten during copywriting-2.0 to avoid an unconfirmed claim, reframed as a general maritime norm instead. CONFIRM WITH CONNOR whether this is in fact this crew's stated rule before treating the line as documented policy rather than general-norm framing.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

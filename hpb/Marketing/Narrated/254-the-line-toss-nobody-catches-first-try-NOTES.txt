@@ -1,0 +1,14 @@
+PIECE 254 — Funny/Quotable lane (new device) — Roger (2nd appearance) / "The Line Toss Nobody Catches On The First Try"
+Voice: voice-en-US-RogerNeural ("Roger," mock-official delivery)   Music: playful percussive/comedic bed, matching the fumble-and-recover rhythm   Length: 14.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Coming back to the dock, same thing every time: deckhand tosses the line, guest tries to catch it.  [Roger VO mock-official, wide, deckhand throwing mooring line toward dock/guest]
+ 3.6s  First try almost never lands.                                         [insert, line missed, playful groan, laughter]
+ 7.0s  Second try, mostly. Third try, has to.                               [insert, guest finally catching it, cheering]
+10.4s  Everybody's a deckhand for about four seconds.                       [closing line, wide, group laughing, boat secured at dock]
+
+On-screen text: Hook = "THE LINE TOSS NOBODY CATCHES FIRST TRY" | Body = "everybody's a deckhand for four seconds" | CTA: none.
+
+NOTE: invented illustration dramatizing a generic docking moment, not a confirmed specific ritual of this crew — same flag as piece 248. Low risk either way (docking with a line toss is a standard boating mechanic), but CONFIRM the "guest tries to catch it" detail actually happens here before treating it as documented crew practice rather than plausible dramatization.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

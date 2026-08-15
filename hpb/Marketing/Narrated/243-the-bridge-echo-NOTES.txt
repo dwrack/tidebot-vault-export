@@ -1,0 +1,14 @@
+PIECE 243 — Funny/Quotable lane (new device) — The Deckhand / "The Bridge Echo"
+Voice: voice-en-US-GuyNeural ("The Deckhand," fast, hype, half out of breath)   Music: upbeat percussive bed, high energy throughout   Length: 14.2s
+
+SCRIPT (timed to narration):
+ 0.0s  There's one spot where we pass under a bridge, and somebody always yells just to hear it come back.  [Deckhand VO hype fast, wide, boat approaching a low bridge or overpass]
+ 3.8s  Every single trip. Never gets old.                                       [insert, guests cupping hands, yelling, laughing]
+ 7.2s  By the third trip of the day, the whole crew already knows who's going first.  [insert, deckhand grinning, anticipatory energy]
+10.8s  Some traditions just show up on their own.                              [closing line, wide, boat clearing the bridge, group cheering]
+
+On-screen text: Hook = "THE BRIDGE ECHO" | Body = "every trip, somebody yells just to hear it come back" | CTA: none.
+
+NOTE: needs a confirmed bridge or overpass on the actual Clear Lake/Seabrook route before this is scripted as a "known tradition" — verify which structure this is, or relocate the bit to whatever the real route offers. Shares the "nobody plans it, it just happens" structural beat with pieces 248, 250, and 251 in this same volume — flagged in the Vol. 16 doc as a pattern worth varying in Vol. 17.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

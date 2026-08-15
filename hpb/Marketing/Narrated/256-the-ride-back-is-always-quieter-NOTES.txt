@@ -1,0 +1,14 @@
+PIECE 256 — Funny/Quotable lane (sincere closer) — Sarah (2nd appearance) / "The Ride Back Is Always Quieter"
+Voice: EL-Sarah ("Sarah," warm, soft, confident)   Music: quiet warm acoustic bed, sincere closer register throughout, no comedic sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  The ride out is loud. Music up, everybody talking at once.            [Sarah VO warm soft confident, wide, boat departing, energetic group]
+ 3.8s  The ride back is always quieter. Nobody plans that either.            [insert, sunset, group leaning back, content, quieter energy]
+ 7.6s  Not tired. Just full, somehow.                                        [insert, close-ups, relaxed smiles, golden light]
+11.4s  Same two hours. Completely different boat by the end.                [closing line, wide, golden hour, group calm, water glowing]
+
+On-screen text: Hook = "THE RIDE OUT IS LOUD" | Body = "the ride back is always quieter" | CTA: none.
+
+NOTE: closes the volume on the same sincere, non-comedic register Vol. 15 used for its own closer (piece 240, "Everybody Signs It On The Way Out"). Keep this piece's music and captioning separate from the comedic-lane pieces in this same volume, same discipline Vol. 15 applied to its sincere pieces.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
