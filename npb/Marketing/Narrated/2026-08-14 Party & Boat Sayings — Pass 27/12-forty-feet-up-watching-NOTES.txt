@@ -1,0 +1,28 @@
+PIECE 12 — Wildlife spotlight lane — "Forty Feet Up, Watching"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: low ambient drone, subtle strings, nocturnal mood (clearance unconfirmed)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  You won't spot this one first. It'll spot you.                                        [wide shot: dense canopy, kayaks below]
+ 2.5s  The barred owl sits about forty feet up and doesn't move.                             [close-up: owl on a high branch, still]
+ 5.5s  It's not sleeping. It's tracking every stroke of your paddle.                          [owl's eyes, direct gaze toward the kayaker]
+ 8.5s  Nobody hears it land. Nobody hears it leave.                                            [owl taking flight in slow motion, no sound cue]
+10.5s  You'll spend the whole tour looking for movement. This bird's whole strategy is having none.  [wide shot: canopy stillness, guide pointing up]
+
+ON-SCREEN TEXT TREATMENT:
+None. No caption anywhere in this piece; the visual carries the reveal at each beat.
+
+SHOT LIST:
+- Wide shot: dense canopy, kayaks below (opener)
+- Close-up: the owl, still and watching, high on a branch
+- The owl's direct gaze toward the kayaker
+- Owl taking flight in slow motion, no sound cue implied
+- Wide closing shot: canopy stillness, guide pointing up
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 9 (wildlife spotlight): "The barred owl, forty feet up, watching you the entire time, silently judging your paddle technique." Prior passes used Lane 9's anhinga (Pass 26) and nutria (Pass 22) facts; the barred owl fact was still open.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy on the specific, checkable details, forty feet, silent flight, paired with a Sugarman personality-in-nature curiosity beat: "you won't spot this one first, it'll spot you"). Then /copywriting-2.0 (3-test filter) caught a real problem: the original line 3, "it's watching your paddle stroke, and it's not impressed," carried over the Bank's own "silently judging" framing closely enough to echo Pass 1's original heron joke from this slate's very first piece ("a heron stands so still, you'll drift right past, and never know you were judged"). Reskinning a ten-pass-old joke onto a new bird isn't genuinely new work, even if the species is different. Rewritten to the purely factual "it's tracking every stroke of your paddle," which keeps the slight unease of being watched without borrowing the old joke's judgment-based structure. Line 4, "nobody hears it land, nobody hears it leave," is a real fact (owls have specialized wing feathers built for near-silent flight) and was confirmed as the strongest line in the piece: visualizable, falsifiable, and something only a wildlife-focused tour, not a generic swamp tour ad, would bother to say.
+
+PRODUCTION FLAG: The barred owl's silent-flight biology and general high-perch behavior are real, well-documented facts. "About forty feet up" is an approximation carried over from the Bank's own phrasing, not a measured or guaranteed sighting height. Confirm with a guide or naturalist reference that barred owl sightings are common enough on this specific route to script this as a recurring "you'll likely see this" piece rather than an occasional-sighting one, and adjust the framing if sightings are rarer than the piece implies.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy/Sugarman) then /copywriting-2.0 (3-test filter, one rewrite logged above to avoid reskinning Pass 1's heron joke). Production flag: confirm sighting frequency on this specific route before scripting as a routine occurrence.

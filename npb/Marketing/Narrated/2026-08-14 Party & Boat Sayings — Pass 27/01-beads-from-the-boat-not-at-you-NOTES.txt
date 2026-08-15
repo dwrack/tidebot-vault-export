@@ -1,0 +1,30 @@
+PIECE 01 — Punchy / seasonal lane — "Beads From the Boat, Not at You"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: upbeat brass parade energy, Rebirth Brass Band feel (clearance unconfirmed)   Length: 19.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Carnival season, this boat loads something extra before it leaves the dock.  [crew loading crates of beads onto the boat, dockside]
+ 3.5s  Not for catching. For throwing.                                             [close-up: crate of beads, guest grabbing handfuls]
+ 5.5s  Every group on this boat becomes a float for the length of the cruise.      [guests on deck tossing beads toward the riverbank, waving]
+ 9.5s  Nobody on the batture expects a parade in July. In February, they do.       [wide shot: people on the levee catching beads, waving back]
+13.0s  You don't have to make it to St. Charles Avenue to throw beads.             [group laughing, tossing more, boat cruising past the bank]
+16.5s  The river gets its own parade route.                                        [closing wide shot: boat on the water, beads mid-air, dusk light]
+
+ON-SCREEN TEXT TREATMENT:
+None until the close. Single caption "THE RIVER GETS ITS OWN PARADE ROUTE" holds 2 seconds on the final frame, then clears. No other captions, the chant-free version of Piece 07's "who dat" convention from Pass 26: let the VO carry it.
+
+SHOT LIST:
+- Crew loading crates of beads onto the boat, dockside (opener)
+- Close-up: crate of beads, guest grabbing handfuls
+- Guests on deck tossing beads toward the riverbank, waving
+- Wide shot: people on the levee catching beads, waving back
+- Group laughing, more tossing, boat cruising past the bank
+- Closing wide shot: boat on the water, beads mid-air, dusk light
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #84: "Mardi Gras cruise with throws. During carnival season, stock the boat with beads and throws. Let guests throw beads at people on the riverbank. They'll feel like they're in a parade. Because they basically are." Not confirmed as a current, scheduled offering.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's slippery slide for the curiosity-loaded opener, "one extra thing," resolved two lines later; Ogilvy's specific-over-adjective instinct on "batture," the real Louisiana term for the land between the levee and the water, which does more work than a generic word like "riverbank" could). Then /copywriting-2.0 (3-test filter): the original line 3 claimed the float lasts "two hours," which is wrong (the real cruise runs 1 hour 45 minutes per `Brand Story & Values.md`) and therefore fails the falsify test for the wrong reason, a specific claim that's specifically incorrect; cut and rewritten to "for the length of the cruise," which is accurate and still concrete.
+
+PRODUCTION FLAG: This is the highest-risk concept in this pass, and it needs more than a content sign-off before it moves forward. Throwing objects from a moving boat toward people on the riverbank is a different risk category than anything used in any of this slate's prior 120 pieces: line-of-sight to bystanders, projectile risk, other river traffic, and possible permitting or insurance questions. Do not treat this as shoot-ready until ops and insurance have reviewed whether and how it could run safely (reduced speed, controlled distance, soft throws only, or possibly restricted to a specific stretch of the route). If that review comes back negative, this piece should be shelved rather than reworked, since the premise itself (beads thrown from the boat) is the whole idea.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Sugarman/Ogilvy) then /copywriting-2.0 (3-test filter). Production flag: safety and liability review required before this concept is scripted as a shot order.

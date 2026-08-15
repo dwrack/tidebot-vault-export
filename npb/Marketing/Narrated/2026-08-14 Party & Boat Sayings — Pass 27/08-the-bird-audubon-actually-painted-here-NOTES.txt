@@ -1,0 +1,28 @@
+PIECE 08 — Wildlife spotlight / quote lane — "The Bird Audubon Actually Painted Here"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Jessica (ElevenLabs)   Music: soft acoustic guitar, sparse, near-silent under VO (clearance unconfirmed)   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Audubon didn't paint his birds in a studio. He painted them in this exact swamp.  [wide shot: swamp canopy, birds flitting through]
+ 4.5s  This one's why he kept coming back.                                              [guide pointing, camera pans to a small yellow bird on a branch]
+ 6.5s  The prothonotary warbler. So yellow it looks like a rendering error.              [close-up: bright yellow bird against dark bark]
+ 9.5s  Two hundred years later, it's still doing the same commute through the same trees.  [bird flying between cypress knees]
+13.5s  Bourbon Street doesn't have these. It never will.                                [wide shot: kayaks gliding past, bird disappearing into foliage]
+
+ON-SCREEN TEXT TREATMENT:
+"PROTHONOTARY WARBLER" appears as a small lower-third label at the 6.5s line only, timed to the bird's name, clears after 2 seconds. No other on-screen text.
+
+SHOT LIST:
+- Wide shot: swamp canopy, birds flitting through (opener)
+- Guide pointing, camera finds the warbler on a branch
+- Close-up: the bird's bright yellow color against dark bark
+- Bird flying between cypress knees
+- Wide closing shot: kayaks gliding past, bird disappearing into foliage
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 3 ("John James Audubon painted his birds in these exact swamps, good for the birding reels") and Lane 9 ("The prothonotary warbler. A bird so yellow it looks like a rendering error. Bourbon Street does not have these," quoted near-directly). Prior passes used Lane 3's Twain/Chopin quotes (Pass 26) and Lane 9's anhinga and nutria facts; the Audubon quote and the warbler fact were both still open before this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy on the Audubon fact as a specific, checkable historical anchor, with a Sugarman curiosity beat: "this one's why he kept coming back" delays the payoff one full line before naming the bird). Then /copywriting-2.0 (3-test filter): the "rendering error" line was kept as a direct, credited quote from the Bank rather than paraphrased, since the original phrasing already passes all three tests cleanly and rewriting it for the sake of rewriting would have made it worse.
+
+PRODUCTION FLAG: The prothonotary warbler and its coloring are real, well-documented facts, and Audubon's Louisiana swamp work is real and well documented generally. The specific claim "in this exact swamp," however, needs verification: Audubon painted across multiple Louisiana locations near and beyond New Orleans, not necessarily the specific bayou NPB's tour runs. Confirm the geographic claim is defensible for this specific route before treating it as documentary fact rather than regional color language.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy/Sugarman) then /copywriting-2.0 (3-test filter, clean pass). Production flag: confirm the "this exact swamp" geographic claim before treating it as documentary fact.

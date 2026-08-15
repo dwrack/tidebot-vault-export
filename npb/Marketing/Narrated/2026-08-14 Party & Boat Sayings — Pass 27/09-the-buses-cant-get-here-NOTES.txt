@@ -1,0 +1,28 @@
+PIECE 09 — Punchy / access lane — "The Buses Can't Get Here"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: light rhythmic percussion, minimal, modern (clearance unconfirmed)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Most swamp tours in this city start with an hour on a highway.       [stock-style shot: tour bus on a highway, guests looking bored]
+ 3.5s  This one starts seven miles from the French Quarter.                 [marina shot, small kayak trailers instead of buses]
+ 6.0s  The big tour buses physically can't turn down this road.             [narrow marina road, small group loading gear]
+ 9.0s  That's not an accident. That's the whole reason to book the smaller trip.  [guide loading kayaks, small intimate group]
+12.5s  Same swamp everyone flies here for. Less than half the drive, no bus required.  [wide shot: kayaks launching into black water]
+
+ON-SCREEN TEXT TREATMENT:
+Single caption "SEVEN MILES FROM THE QUARTER" holds 2 seconds at the 3.5s line, clears before the next line. No other on-screen text.
+
+SHOT LIST:
+- Stock-feel shot: tour bus on a highway, bored-looking guests (opener)
+- Marina shot: small trailers, no buses in sight
+- Narrow marina road, small group loading gear
+- Guide loading kayaks, intimate group size
+- Wide closing shot: kayaks launching into black water
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 5 ("The tour buses can't get here. That's the point," used as the seed for this piece's structure) and `Brand Story & Values.md` Section 3's confirmed proximity claim (7 miles from the Quarter, 15-20 minutes, competitors 45-60 minutes in Slidell or Lafitte). This specific access/proximity framing has not been the centerpiece of any prior NPB narrated-slate piece; the proximity fact is heavily used in the brand doc but this is its first dedicated Narrated Video Slate treatment.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Schwartz's Sophistication-5 identification play, this is a crowded, sophisticated local swamp-tour market where "we're closer" only lands if it's specific and checkable, paired with Ogilvy's factual anchor on the real "seven miles" figure). Then /copywriting-2.0 (3-test filter) caught a real problem: the original closing line claimed "twenty minutes closer" than competitors, which doesn't match `Brand Story & Values.md`'s actual numbers (competitors run 45-60 minutes out, NPB runs 15-20, a gap of 25 to 45 minutes, not a flat 20). A specific-but-wrong number fails the falsify test worse than no number at all. Rewritten to "less than half the drive," which holds true across the entire documented range and survives a skeptical guest doing the math.
+
+PRODUCTION FLAG: The "seven miles from the French Quarter" and "15-20 minutes" figures are confirmed in `Brand Story & Values.md`. The specific claim that tour buses "physically can't turn down this road," however, is not verified and reads as a plausible exaggeration for effect rather than a measured fact. Confirm the actual road and marina access constraints with ops before treating it as a literal, checkable claim rather than a punchy simplification.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Schwartz/Ogilvy) then /copywriting-2.0 (3-test filter, one rewrite logged above). Production flag: confirm the "buses can't turn down this road" claim before scripting it as literal fact.

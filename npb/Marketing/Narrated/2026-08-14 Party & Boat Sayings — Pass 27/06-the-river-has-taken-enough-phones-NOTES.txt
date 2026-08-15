@@ -1,0 +1,30 @@
+PIECE 06 — Punchy / practical lane — "The River Has Taken Enough Phones"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: punchy brass stab, Hot 8 Brass Band feel, short and rhythmic (clearance unconfirmed)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Before every cruise leaves the dock, there's a stack of little pouches.   [crew holding waterproof phone pouches, offering to guests]
+ 3.5s  Waterproof. Free. Nobody has to ask for one.                              [close-up: guest taking a pouch, sliding phone in]
+ 6.0s  The river's taken enough phones already.                                 [captain gesturing at the water, half-joking]
+ 8.0s  Not today.                                                                [guest zipping the pouch shut, confident nod]
+ 9.5s  Dance however hard you want. Your phone's not going anywhere.             [guests dancing hard, phone visibly secure in the pouch]
+12.5s  Small thing. Saves someone's whole trip.                                  [closing wide shot: group having fun, one guest filming through the pouch]
+
+ON-SCREEN TEXT TREATMENT:
+None. Pure VO and visual, no captions at all, to keep the pacing snappy on the shortest piece in this pass.
+
+SHOT LIST:
+- Crew holding out waterproof pouches at the dock (opener)
+- Close-up: guest sliding their phone into a pouch
+- Captain gesturing at the water, half-joking
+- Guest zipping the pouch shut, confident nod
+- Guests dancing hard, phone visibly secure in the pouch
+- Closing wide shot: group having fun, someone filming through the pouch
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #97: "The lost phone save. Keep a waterproof phone pouch stash on board. At the start of every cruise, offer them free. 'The river has claimed enough phones. Not today.' Practical, funny, and genuinely useful." Not confirmed as a current, stocked amenity.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Bencivenga's proof instinct: "waterproof, free, nobody has to ask" are checkable specifics, not adjectives, paired with a Halbert punch on the two-word standalone beat "Not today."). Then /copywriting-2.0 (3-test filter): the whole script passed clean on the first review, no rewrites needed. "Waterproof. Free. Nobody has to ask for one." was flagged as the strongest single line: visualizable, falsifiable, and describes a specific amenity a generic party boat ad wouldn't bother naming.
+
+PRODUCTION FLAG: Not confirmed as a current stocked amenity. Confirm with ops that waterproof pouches are actually purchased and kept in stock, and that "free" is accurate (versus, say, a small deposit or a merch upsell) before this claim goes on camera.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga/Halbert) then /copywriting-2.0 (3-test filter, clean pass, no rewrites needed). Production flag: confirm waterproof pouches are an actual stocked, free amenity.

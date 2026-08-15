@@ -1,0 +1,30 @@
+PIECE 05 — Heartfelt / seasonal lane — "Not Every Cruise Has to Be a Rager"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: mellow acoustic brass, Preservation Hall Jazz Band feel, soft (clearance unconfirmed)   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most bookings on this boat are loud on purpose.                          [quick montage: bachelorette/birthday energy, fast cuts]
+ 2.5s  The second Sunday in May sounds different.                               [transition: mimosas being poured, calmer group boarding]
+ 4.5s  Mimosas instead of shots. A playlist nobody has to defend.               [close-up: mimosas, relaxed group settling into seats]
+ 7.5s  Somebody's mom gets the good seat up front.                              [mother figure seated at the bow, family gathered around]
+10.0s  Nobody's rushing this one. That's the whole point of booking it.         [wide shot, boat moving slow, family relaxed, cypress passing]
+13.0s  Bring your mom. Or your dad in June. Either way, slow it down.           [closing wide shot: family laughing softly, golden light]
+
+ON-SCREEN TEXT TREATMENT:
+None until the close. Single caption "SLOW IT DOWN" holds 2 seconds on the final frame, then clears.
+
+SHOT LIST:
+- Fast-cut montage of typical high-energy bookings, contrast setup (opener)
+- Transition to mimosas and a calmer boarding group
+- Close-up: mimosas being poured, group settling in
+- A mother figure seated at the bow, family gathered around her
+- Wide shot: boat moving slowly past cypress, family relaxed
+- Closing wide shot: soft golden-hour laughter
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #90: "Mother's Day and Father's Day packages. 'Bring your mom on the water' with brunch vibes, mimosas, and mellower music. Not every cruise needs to be a rager. Read the occasion." Not confirmed as an existing seasonal package.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Schwartz's identification play: this piece exists specifically to reach a reader who has never pictured themselves on this boat, because every other piece in this slate, and most of the prior nine passes, has been bachelorette or birthday energy). Then /copywriting-2.0 (3-test filter): cut "every time" from the original line "somebody's mom gets the good seat up front, every time." An absolute claim on a practice that isn't confirmed as standing behavior overclaims for no real benefit, and the image works fine without it.
+
+PRODUCTION FLAG: Not confirmed as an existing package or seasonal offering. If ops wants to build this, it needs an actual mellower drink/music program defined (what "mimosas instead of shots" and "a playlist nobody has to defend" mean operationally) before the piece claims one already exists.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Schwartz) then /copywriting-2.0 (3-test filter, one cut logged above). Production flag: no confirmed Mother's/Father's Day package exists yet.

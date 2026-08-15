@@ -1,0 +1,30 @@
+PIECE 04 — Warm / concierge lane — "We Called Ahead"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: easy funk groove, Dumpstaphunk feel, low under VO (clearance unconfirmed)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks the same question pulling back to the dock.   [group docking, one guest turning to ask the crew something]
+ 3.0s  "Where do we eat after this?"                                      [close-up: guest asking, crew nodding like they expected it]
+ 5.0s  We already called.                                                 [crew holding up a phone, thumbs up to the group]
+ 6.5s  Table for twelve, ten minutes from the dock, they know you're coming.  [group walking off the dock toward a restaurant, energized]
+10.0s  You planned the boat. We planned what happens after it.            [wide shot, group heading down the street, golden hour]
+13.0s  That's not a discount. That's just being from here.                [closing shot: restaurant door, group entering, string lights]
+
+ON-SCREEN TEXT TREATMENT:
+The line "WHERE DO WE EAT AFTER THIS?" appears as a text-bubble-style caption synced only to the 3.0s line, mimicking a quoted question, then clears. No other captions.
+
+SHOT LIST:
+- Group docking, a guest turning to ask the crew something (opener)
+- Close-up: the ask, crew already nodding like they expected it
+- Crew holding up a phone, thumbs up to the group
+- Group walking off the dock toward a restaurant, energized
+- Wide shot: group heading down the street at golden hour
+- Closing shot: restaurant door, group entering, string lights
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #79: "Restaurant handoff program. Partner with 3-4 restaurants near the marina. When a cruise ends, say 'We called ahead to [restaurant], they've got a table for 12 waiting for y'all.' You become the concierge for their entire evening." No restaurant partnership currently exists.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Bencivenga: the concrete, checkable proof "table for twelve, ten minutes from the dock" beats any version of "we know great spots nearby," paired with Halbert's flat, conversational directness in the crew's "we already called"). Then /copywriting-2.0 (3-test filter): all lines passed clean. The closing line, "that's not a discount, that's just being from here," was flagged as the strongest line in the piece: it visualizes an identity, it's falsifiable against what a non-local operator would actually do, and no competitor without real local relationships could truthfully say it.
+
+PRODUCTION FLAG: No restaurant partnership currently exists. The script deliberately avoids naming a specific restaurant so nothing here implies a real business relationship that hasn't been struck. Before shooting, either identify and clear a real 3-4 restaurant list per the original idea (including their consent to be shown or named), or hold this piece as a concept until that partnership exists.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga/Halbert) then /copywriting-2.0 (3-test filter, clean pass). Production flag: no restaurant partnership exists yet; needs a real handoff agreement before shoot.

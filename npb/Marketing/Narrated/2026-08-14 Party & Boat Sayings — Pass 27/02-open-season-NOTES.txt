@@ -1,0 +1,30 @@
+PIECE 02 — Funny / summer lane — "Open Season"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: high-energy bounce, Big Freedia feel (clearance unconfirmed)   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somewhere around the hour mark on a hot cruise, a bin comes out.   [crew hauling out a bin of water guns, guests noticing]
+ 3.5s  Nobody announces it. The captain just says two words.              [captain leaning in, guests perking up]
+ 6.0s  Open season.                                                       [text overlay OPEN SEASON, guests scrambling for water guns]
+ 8.0s  For the next ten minutes, nobody's safe. Not even the crew.        [deckhand getting soaked, laughing, chaos on deck]
+10.0s  Bring a dry shirt. Not for during. For after.                      [guests soaked, laughing, sun drying them off]
+13.0s  Ninety-five degrees just became the best part of the day.          [closing wide shot: boat cruising, water spray catching the light]
+
+ON-SCREEN TEXT TREATMENT:
+"OPEN SEASON" flashes bold, all caps, at the 6.0s line only, timed to the two-word VO line, clears within a second. No other on-screen text, keeps the pacing snappy.
+
+SHOT LIST:
+- Crew hauling out the water gun bin, guests noticing (opener)
+- Captain leaning in to say something, guests perking up
+- Chaos breaking out, guests scrambling for water guns
+- Deckhand getting soaked, laughing, general chaos on deck
+- Soaked guests laughing, sun drying them off
+- Closing wide shot: boat cruising, water spray catching the light
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #26: "Water gun arsenal. Keep a bin of water guns on board. On hot days, announce 'open season' at some point. Controlled chaos. Unforgettable." Never used in any of this slate's prior 10 passes despite sitting in the source doc since April 2026. Not confirmed as a current, stocked practice.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's slippery slide: plant "two words," hold the reveal one full beat, deliver "Open season." as its own standalone line rather than folding it into the sentence before it, which is what makes the pause land). Then /copywriting-2.0 (3-test filter): tightened the dry-shirt line to "Bring a dry shirt. Not for during. For after," a deliberate callback to Piece 01's "Not for catching. For throwing." construction, two instances across the pass, not enough to read as an overused device, but a small structural echo that ties the two punchy openers of this slate together.
+
+PRODUCTION FLAG: Confirm with ops whether water guns are actually stocked on the fleet before scripting this as documented behavior rather than a proposal. Worth thinking through the obvious logistics before greenlighting: what gets wet that shouldn't (speakers, BYOB coolers, anyone's phone that's out of a Piece 06-style waterproof pouch at that exact moment), and whether "open season" needs a built-in off switch for guests who'd rather sit this one out.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter). Production flag: confirm water guns are an actual stocked amenity before treating this as standing practice.

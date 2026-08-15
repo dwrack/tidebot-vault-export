@@ -1,0 +1,28 @@
+PIECE 11 — Sensory / poetic lane — "The Loudest Thing for a Mile"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: near-silent ambient bed, mostly natural sound, minimal (clearance unconfirmed)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask ten guests what stuck with them and most won't mention the alligator.   [wide shot: kayaks drifting in still black water, dawn]
+ 3.5s  They'll mention how quiet it got.                                          [close-up: paddle resting, no motion]
+ 5.5s  Thirty minutes in, the guide stops talking on purpose.                     [guide gesturing hush, quiet nod to the group]
+ 8.0s  The loudest thing for a mile is the drip off your own paddle.              [extreme close-up: a water droplet falling off the paddle blade, ripple]
+11.5s  Most people go their whole life without hearing that on purpose.           [wide shot: group sitting still, fog on the water]
+
+ON-SCREEN TEXT TREATMENT:
+None at all, by design. This piece intentionally carries no captions, matching both the Admire NOLA poetic lane's convention and the piece's own subject: the point is quiet, so nothing competes with it on screen.
+
+SHOT LIST:
+- Wide shot: kayaks drifting in still black water at dawn (opener)
+- Close-up: a resting paddle, no motion
+- Guide gesturing for quiet, a nod to the group
+- Extreme close-up: a water droplet falling from the paddle blade, ripple
+- Wide closing shot: group sitting still, fog on the water
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 1 (poetic / cinematic), the seed line "The loudest thing for a mile is the drip off your own paddle," quoted directly rather than paraphrased. This specific Lane 1 seed line has not been used in any prior NPB narrated-slate pass.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's slippery slide, short opener, then longer, then the payoff sentence, married to the Admire NOLA poetic register rather than Sugarman's usual punchier commercial voice). Then /copywriting-2.0 (3-test filter): confirmed the "ask ten guests" opener is a rhetorical device meant to be read as illustrative, not a literal survey claim, and flagged that it should be treated that way in production materials rather than cited as real data. Line 4 was confirmed as a direct, credited Bank quote and the strongest line in the piece.
+
+PRODUCTION FLAG: The Bank's Lane 1 line is sourced correctly and used as intended (a poetic seed, not a documented fact). What is not confirmed is the specific practice described in line 3, that the guide stops talking for a stretch thirty minutes into the tour on purpose. Confirm actual timing and whether this is standard guide practice before scripting it as documented routine rather than an aspirational description of what a good tour could do.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one clarification logged above). Production flag: confirm the guide's "thirty minutes in, stops talking on purpose" practice before treating it as standard routine.

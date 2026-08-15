@@ -1,0 +1,30 @@
+PIECE 03 — Warm / partnership lane — "The Sax Player Nobody Booked"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: live solo saxophone, Trombone Shorty feel, warm and understated (clearance unconfirmed)   Length: 22.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Once a week, this boat picks up a fifth passenger.                                    [musician's case being loaded onto the boat, guests curious]
+ 3.0s  No mic, no stage. Just a sax player from the Quarter, riding along for the whole cruise.  [musician settling in on the bow, guests watching]
+ 8.0s  He doesn't take requests. He reads the boat instead.                                   [musician glancing at the crowd, adjusting the song]
+10.5s  Slow group gets something slow. Loud group gets something loud.                        [contrast cut: mellow dancing vs. energetic dancing]
+13.5s  You can't book this. You just have to be on the right Tuesday.                         [guests looking surprised, checking with each other]
+17.5s  Live music, on the water. No extra charge, because you already booked the boat.         [wide closing shot: musician silhouette against sunset, boat cruising]
+
+ON-SCREEN TEXT TREATMENT:
+None until mid-piece. Single caption "YOU JUST HAVE TO BE ON THE RIGHT TUESDAY" holds 2 seconds at the 13.5s line, then clears well before the final line so the closing shot runs clean.
+
+SHOT LIST:
+- Musician's sax case loaded onto the boat, guests curious (opener)
+- Musician settling in on the bow, guests watching
+- Musician reading the crowd, adjusting his set
+- Contrast cut: mellow group dancing vs. an energetic group dancing
+- Guests reacting, surprised, checking with each other
+- Closing wide shot: musician silhouette against sunset, boat cruising
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #77: "Local musician residency. Partner with a local brass band or solo musician to do one live-music cruise per week. Not a full band, just a trumpet player or sax on the bow. It's New Orleans. Use it." Not confirmed as an existing arrangement.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Sugarman's can't-book-it curiosity hook, layered with Schwartz's identification play for a Sophistication-5 local market: the claim isn't "we have live music," which any competitor could copy-paste, it's "you had to be there," which nobody can). Then /copywriting-2.0 (3-test filter) caught two real problems: the original line 2 said the musician rides for "forty-five minutes of river," which undersells and directly contradicts the real 1h45m cruise length documented in `Brand Story & Values.md`; rewritten to "riding along for the whole cruise," a claim that can't be checked against the wrong number. Separately, the original closing line said "for the price of a seat you already bought," which describes the per-seat social boat's pricing model, not the private party fleet's whole-boat rental model this piece is actually about (this slate series has never touched the per-seat social boat and shouldn't start by accident here); rewritten to "no extra charge, because you already booked the boat," which is accurate to what a private-fleet guest actually purchases.
+
+PRODUCTION FLAG: This is a partnership pitch, not an existing arrangement. No musician has been booked, no weekly cadence is confirmed, and using a real musician's likeness, name, or performance on camera requires their own consent and an actual booking agreement, not just a shoot day. Do not cast or shoot this as documentary practice until that partnership is real.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Sugarman/Schwartz) then /copywriting-2.0 (3-test filter, two rewrites logged above). Production flag: no musician partnership currently exists; needs a real booking and consent before this is more than a concept.

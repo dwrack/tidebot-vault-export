@@ -1,0 +1,30 @@
+PIECE 10 — Conservation / hopeful lane — "The Trees We Put Back"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: solo cello, hopeful minor-to-major swell, sparse (clearance unconfirmed)   Length: 18.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Louisiana's lost over two thousand square miles of coast since the 1930s.   [wide aerial: open water, ghost stumps]
+ 3.5s  Most tours just tell you that and move on.                                 [guide gesturing at open water]
+ 6.0s  On some trips, we hand guests a cypress seedling instead.                  [close-up: hands holding a small cypress seedling]
+ 9.0s  You plant one tree. It won't fix the coast. It's still not nothing.        [guest planting the seedling in shallow mud, guide assisting]
+12.5s  Come back in twenty years and yours might be forty feet tall.              [wide shot: young cypress sapling against a stand of ancient ones]
+
+ON-SCREEN TEXT TREATMENT:
+"2,000+ SQ MI LOST SINCE THE 1930s" appears as a small lower-third stat label at the 0.0s line only, clears at 3.5s. No other on-screen text.
+
+SHOT LIST:
+- Wide aerial: open water and ghost stumps (opener)
+- Guide gesturing at the open water, the loss
+- Close-up: hands holding a small cypress seedling
+- Guest planting the seedling in shallow mud, guide assisting
+- Wide closing shot: young sapling against a stand of ancient cypress
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 7 (conservation / the disappearing swamp), specifically the line "We plant cypress on tours, because the ones this coast loses don't come back on their own." Pass 26 already used Lane 7's football-field-per-hundred-minutes statistic for a different piece; this piece deliberately uses a different Lane 7 line and a different coastal-loss statistic so the two conservation pieces don't repeat each other's numbers or framing.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Bencivenga: the coastal-loss claim needs a specific, checkable number, not a vague "the swamp is disappearing," paired with Halbert's honest, unhyped directness on the closing beats, "it won't fix the coast, it's still not nothing" deliberately underclaims rather than overclaims, which reads as more credible). Then /copywriting-2.0 (3-test filter): confirmed "you plant one tree, it won't fix the coast, it's still not nothing" as the strongest line in the piece, passing all three tests specifically because it refuses to oversell what one seedling actually does.
+
+PRODUCTION FLAG: Two separate things need verification here, not one.
+1. The coastal-loss figure ("over two thousand square miles since the 1930s") is a commonly cited order-of-magnitude statistic in Louisiana coastal-loss reporting, but it has not been independently re-verified against a primary source (e.g. USGS or the state's Coastal Protection and Restoration Authority) this pass. Confirm the exact figure and cite a real source before it's spoken on camera.
+2. More important: the seedling-planting activity itself is NOT confirmed as a current NPB or NKST practice. The Bank's Lane 7 line ("we plant cypress on tours") is written in the first person for the shared Admire NOLA content bank generally; it has not been confirmed that this specific activity is offered on NPB's eco tour. Do not shoot this piece, or publish any version of it implying this happens today, until ops confirms the activity actually exists as offered.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Bencivenga/Halbert) then /copywriting-2.0 (3-test filter, clean pass). Production flag: neither the exact coastal-loss figure nor the seedling-planting activity itself is confirmed; both need verification before this ships as fact.

@@ -1,0 +1,28 @@
+PIECE 07 — Did-you-know / poetic lane — "Before Columbus Left Spain"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: low cinematic strings, ambient, no percussion (clearance unconfirmed)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Some of the cypress you'll paddle past today are over a thousand years old.   [wide shot: massive ancient cypress trunk, kayak dwarfed beside it]
+ 4.0s  A few of them were already standing before Columbus ever left Spain.          [close-up: bark texture, sunlight filtering through the canopy]
+ 7.5s  They were here for the whole thing. Every flag that's flown over this state.  [slow pan up the trunk to the canopy]
+11.5s  They don't perform for you. They were just already doing this.               [kayaks drifting past quietly, tree towering overhead]
+14.5s  You're not visiting a landmark. You're paddling past a witness.              [wide shot, guide gesturing up at the tree, guests looking up in silence]
+
+ON-SCREEN TEXT TREATMENT:
+None. Consistent with the Admire NOLA poetic lane's convention (see `01-poetic-NOTES.txt`), the line stands on its own without a caption, letting the VO and the visual carry it uninterrupted.
+
+SHOT LIST:
+- Wide shot: ancient cypress trunk, kayak dwarfed beside it (opener)
+- Close-up: bark texture, sunlight filtering through the canopy
+- Slow pan up the trunk to the canopy
+- Kayaks drifting past quietly, tree towering overhead
+- Wide closing shot: guide pointing up, guests looking up in silence
+
+SOURCE GROUNDING: Sourced from `Admire NOLA/Content/Script & Caption Bank.md`, Lane 6 (did-you-know / swamp facts): "Some of these bald cypress are over a thousand years old. A few were standing before Columbus ever left Spain." This specific fact has not been the centerpiece of any prior NPB narrated-slate pass; prior passes used Lane 6's cypress-knee fact (Pass 26) and tannin/black-water fact (original pass and Pass 25's "swamp tea" variant), leaving this one open.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (channeling Ogilvy: the specific historical anchor, "before Columbus ever left Spain," does more work than any adjective like "ancient" or "old-growth" could). Then /copywriting-2.0 (3-test filter): all five lines passed clean. Line 2 was flagged as the strongest, a genuinely big claim made entirely believable by its specificity rather than by any hedge or intensifier.
+
+PRODUCTION FLAG: The underlying fact is real and general to old-growth Louisiana cypress stands (well documented in Louisiana coastal ecology literature). What is not confirmed is whether NPB's specific eco-tour route passes trees actually documented at that age, versus the tour passing younger cypress in general. Confirm with ops or a naturalist reference before scripting this as a claim about this specific tour route rather than old-growth cypress generally.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 27, 2026-08-14. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter, clean pass). Production flag: confirm the specific tour route passes trees of the claimed age before treating this as route-specific fact.
