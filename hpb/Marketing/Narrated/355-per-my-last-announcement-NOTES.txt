@@ -1,0 +1,19 @@
+PIECE 355 — Real spoken line, mock-corporate catchphrase bit — Roger / "Per My Last Announcement"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: dry comedic bed with a brass stab   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Roger's been saying "per my last announcement" since his old cubicle job.                [Roger VO mock-official, wide, Roger holding a mic, mock-serious stance]
+ 3.6s  Nobody told him he could stop. So he didn't.                                              [insert, Roger gesturing formally at guests, guests grinning]
+ 7.2s  Per his last announcement: the cooler's on the left, the bathroom's in the back.          [insert, Roger pointing at each, deadpan]
+11.0s  Per this announcement: same thing. He just likes saying it.                                [closing line, wide, golden hour, guests laughing at Roger's bit]
+
+On-screen text: Hook = "ROGER NEVER LEFT THE CUBICLE JOB, VOCABULARY-WISE" / Body = "per this announcement: he just likes saying it" / CTA: none
+
+Shot list:
+- [INSERT] Roger holding a mic, mock-serious stance
+- [INSERT] Roger pointing out the cooler, then the bathroom
+- [B-ROLL] Guests laughing at the bit
+
+Note: pairs with piece 356 (same character, same mock-corporate register, different punchline) — a matched set, not a repeat. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,30 @@
+PIECE 05 — Heartfelt / funny — "First Mate for a Day"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: warm, easygoing, a little proud (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest catches the dock line without being asked, coils it like he's done it a hundred times.   [wide shot: boat approaching the dock, guest reaching for the rope]
+ 3.5s  He hasn't. He just watched the deckhand do it once, on the way out.   [close-up: guest coiling the rope, slightly proud of himself]
+ 7.0s  The deckhand doesn't correct him. She just starts handing him things: a fender, a line, a life jacket for the next group.   [close-up: deckhand passing gear over, easy exchange]
+11.5s  By the time the boat's tied off, somebody's started calling him "first mate," and it sticks for the rest of the day.   [medium shot: guests laughing, guest wearing the title, grinning]
+15.0s  He didn't apply for the job. He just wouldn't stop being useful.   [closing wide shot: boat secured, guest still holding a coil of rope, waving off the compliment]
+
+ON-SCREEN TEXT TREATMENT:
+"FIRST MATE" pops as a small tag at 11.5s, clears fast. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: boat approaching the dock, guest reaching for the rope (opener)
+- Close-up: guest coiling the rope, pleased with himself
+- Close-up: deckhand handing over gear, easy exchange
+- Medium shot: guests laughing, calling him "first mate"
+- Closing wide shot: boat secured, guest holding the rope, waving off the compliment
+
+SOURCE GROUNDING: Original concept, built around the confirmed-untouched "first mate" saying identified in this pass's dedup survey. Checked against `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`, no numbered match. Checked against all 228 prior titles, no collision.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's show-the-proof approach (the guest's usefulness is demonstrated in specific actions, not asserted) and Halbert's plain, warm voice. Then /copywriting-2.0 (3-test filter): a draft closer, "that's what makes this crew feel like family," was cut as an unownable platitude any hospitality brand could claim. Replaced with "he didn't apply for the job. He just wouldn't stop being useful," which is specific, visualizable against the rope-coiling and gear-handing already shown, and can't be lifted by a competitor without the same setup.
+
+PRODUCTION FLAG: illustrative guest behavior and crew nickname, not a confirmed standing tradition. No guest or deckhand identified by name.
+
+DEVICES CHECK: distinct from Pass 24's "Everybody Wants Five Minutes at the Wheel" (guest steering time) and Pass 59's "It's Your Boat Today" (a crew-initiated VIP gesture) — this piece is about a guest's own unprompted helpfulness earning an informal title, not steering time and not a perk the crew decides to give. Confirmed distinct in both direction (who initiates) and content (helping vs. driving vs. receiving).
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga + Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

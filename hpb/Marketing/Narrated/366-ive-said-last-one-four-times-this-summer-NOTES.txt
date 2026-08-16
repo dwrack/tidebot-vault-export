@@ -1,0 +1,19 @@
+PIECE 366 — Real spoken line, regular's self-aware running joke — The Regular / "I've Said 'Last One' Four Times This Summer"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: deadpan comedic bed, light and easy   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every crew member eventually asks the regular the same question.                           [Regular VO flat deadpan, wide, crew member chatting with regular at the bar]
+ 3.4s  "Is this really your last one this summer?"                                                 [insert, crew member raising an eyebrow]
+ 6.4s  He's said "last one" four times already. Every single time, meant it.                       [insert, Regular checking his own phone calendar, mildly betrayed by himself]
+10.4s  Booked trip five before he'd finished answering the question.                                [closing line, wide, golden hour, Regular laughing at himself, boat cruising]
+
+On-screen text: Hook = "\"IS THIS REALLY YOUR LAST ONE THIS SUMMER?\"" / Body = "booked trip 5 before he finished answering" / CTA: tag the friend who says this every year.
+
+Shot list:
+- [INSERT] Crew member chatting with the Regular, raising an eyebrow
+- [INSERT] Regular checking his own phone calendar
+- [B-ROLL] Regular laughing at himself, boat cruising
+
+Note: distinct from piece 64 (same time next month — a recurring-booking-pattern observation) — this piece's device is the character's own repeated false claim, not an outside observation of a pattern. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 358 — Real spoken line, captain reassurance bit, Texas-flavored — The Captain (2nd appearance) / "Not My First Rodeo"
+Voice: The Captain (EL-Eric.mp3)   Music: dry comedic bed with a light twang accent   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks the captain if he's nervous, about the weather or the crowd or whatever.  [Captain VO dry, wide, guest asking captain a question at the dock]
+ 3.6s  Same four words back, every single time.                                                  [insert, captain pausing, unreadable expression]
+ 6.8s  "Not my first rodeo." Said by a guy who's never actually been to a rodeo.                 [insert, captain deadpan, guests laughing]
+10.6s  Doesn't matter. It's Texas. Everybody still buys it.                                       [closing line, wide, golden hour, boat departing calmly]
+
+On-screen text: Hook = "SAME FOUR WORDS, EVERY SINGLE TIME" / Body = "\"not my first rodeo.\" never been to one." / CTA: none
+
+Shot list:
+- [INSERT] Guest asking captain a nervous question
+- [INSERT] Captain deadpan, guests laughing
+- [B-ROLL] Boat departing calmly, golden hour
+
+Note: distinct from piece 212 (rodeo season, boots on a boat — a seasonal/attire piece) — this is a captain catchphrase, a different device entirely. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

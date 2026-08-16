@@ -1,0 +1,19 @@
+PIECE 367 — Real spoken line, family catchphrase that outlives its source — The Old Salt / "That's What My Grandfather Used To Say"
+Voice: The Old Salt (EL-George.mp3)   Music: wry, warm acoustic/folk bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Some grandfather said something dry on this boat, years back, one time.                    [Old Salt VO wry, warm, wide, older man leaning back, grandkids nearby]
+ 3.6s  Nobody remembers the whole story. Everybody remembers the line.                             [insert, family members half-recalling, laughing]
+ 7.0s  Kids say it now and don't even know it's a quote.                                            [insert, a kid repeating the line, adults cracking up]
+10.6s  Some lines outlive the guy who said them. This is one of them.                               [closing line, wide, golden hour, family together, older man smiling quietly]
+
+On-screen text: Hook = "NOBODY REMEMBERS THE STORY. EVERYBODY REMEMBERS THE LINE." / Body = "some lines outlive the guy who said them" / CTA: none
+
+Shot list:
+- [INSERT] Older man leaning back, grandkids nearby
+- [INSERT] A kid repeating the family line, adults cracking up
+- [B-ROLL] Family together, golden hour
+
+Note: distinct from piece 133 (grandma's one request — a specific ask) and piece 320 (grandmother outdances the boat — an energy/dancing bit) — this is a catchphrase-legacy device, different from either. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

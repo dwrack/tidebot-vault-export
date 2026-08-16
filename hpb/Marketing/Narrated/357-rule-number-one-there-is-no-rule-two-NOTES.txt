@@ -1,0 +1,19 @@
+PIECE 357 — Real spoken line, captain's scripted safety-briefing closer — The Captain / "Rule Number One, There Is No Rule Two"
+Voice: The Captain (EL-Eric.mp3)   Music: dry comedic bed, light brass stab on the quote   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  The safety briefing has a real rule number one.                                          [Captain VO dry, wide, captain addressing boarded guests, mic in hand]
+ 3.4s  Have fun and don't be an idiot. That's the whole rule.                                    [insert, guests nodding, a few laughing]
+ 7.0s  Then he says the line every single trip.                                                  [insert, captain pausing for effect]
+10.4s  "Rule number one. There is no rule two." Every trip. Still gets a laugh.                  [closing line, wide, golden hour, guests laughing, boat pulling away]
+
+On-screen text: Hook = "THE REAL RULE NUMBER ONE ON THIS BOAT" / Body = "\"there is no rule two.\" every trip. still lands." / CTA: none
+
+Shot list:
+- [INSERT] Captain addressing guests, mic in hand
+- [INSERT] Captain pausing for effect before the line
+- [B-ROLL] Guests laughing, boat pulling away
+
+Note: distinct from piece 44 (safety briefing nobody listens to) and piece 261 (air horn before the safety briefing) — those are about the fact of the briefing; this is the captain's actual closing punchline. An earlier draft had this line landing "four hundred times," an invented stat, cut for falsifiability. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

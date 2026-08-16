@@ -1,0 +1,19 @@
+PIECE 363 — Real spoken line, planner catchphrase bit — The Planner / "I Have A Timeline, And We're Already Behind It"
+Voice: The Planner (EL-Lily.mp3)   Music: bright, playful bed easing into warm on the last line   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every planner we work with says a version of the same sentence at check-in.               [Planner VO bright, polished, wide, planner checking a clipboard/phone at the dock]
+ 3.6s  "I have a timeline, and we're already behind it."                                          [insert, planner glancing at her watch, guests still arriving]
+ 7.0s  Nobody's ever actually been on time to their own party. Not once, not one time.             [insert, planner laughing despite herself]
+10.8s  Boat leaves anyway. Timeline survives. Somehow it always does.                              [closing line, wide, golden hour, full group aboard, planner relaxed]
+
+On-screen text: Hook = "\"I HAVE A TIMELINE, AND WE'RE ALREADY BEHIND IT\"" / Body = "the timeline survives anyway. somehow." / CTA: none
+
+Shot list:
+- [INSERT] Planner checking clipboard/phone, glancing at watch
+- [INSERT] Planner laughing at herself
+- [B-ROLL] Full group aboard, planner relaxed, golden hour
+
+Note: distinct from piece 16 (toast to the planner) and piece 122 (planner and the plus-one) — this is the planner's own spoken catchphrase, not a toast about her or a subplot involving someone else. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

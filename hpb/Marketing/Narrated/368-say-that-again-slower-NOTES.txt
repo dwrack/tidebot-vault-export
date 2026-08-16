@@ -1,0 +1,19 @@
+PIECE 368 — Sincere closer, mirrors the series' closing-piece tradition (240, 256, 272, 288, 304, 319, 336, 352) — Sarah / "Say That Again, Slower"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, string-led closing bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Every once in a while somebody says something during a toast that actually lands.          [Sarah VO warm, soft, wide, guest mid-toast, group quiet, listening]
+ 4.0s  The boat gets quiet. Somebody asks them to say it again, slower.                            [insert, close on the guest, group leaning in]
+ 8.0s  Not because they didn't hear it. Because they wanted to keep it a second longer.            [insert, guests nodding, present, phones down]
+11.8s  Say that again, slower. The whole reason we go out there.                                    [closing line, wide, golden hour, group together, quiet moment]
+
+On-screen text: Hook = "SOMETIMES A TOAST ACTUALLY LANDS" / Body = "say it again, slower. that's the whole reason." / CTA: none
+
+Shot list:
+- [B-ROLL] Guest mid-toast, group quiet and listening
+- [INSERT] Close on genuine, unposed listening — nobody performing for the camera
+- [B-ROLL] Group together at golden hour, quiet moment
+
+Note: distinct from piece 352 (fair-weather friend, an idiom played straight) — this closer's device is the unscripted repeat-it-slower moment itself, not a phrase's double meaning. No pedaling reference. No vessel name used.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

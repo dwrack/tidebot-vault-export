@@ -1,0 +1,19 @@
+PIECE 365 — Real spoken line, groomsman deadpan-submission bit — The Groomsman / "Whatever The Bride Wants, The Bride Gets"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: chill, warm lo-fi bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every request on this trip gets run through the groomsman first.                          [Groomsman VO chill, dry, wide, someone whispering a request to him]
+ 3.4s  He's got one answer, no matter what the request is.                                        [insert, groomsman nodding along, deadpan]
+ 6.6s  "Whatever the bride wants, the bride gets." Said it about the music. The snacks. The sunscreen.  [insert, quick cuts: speaker adjusted, snacks passed, sunscreen handed over]
+10.8s  Man's got one job today and he is nailing it.                                               [closing line, wide, golden hour, groomsman grinning, thumbs up]
+
+On-screen text: Hook = "EVERY REQUEST GOES THROUGH THE GROOMSMAN FIRST" / Body = "one job today. nailing it." / CTA: none
+
+Shot list:
+- [INSERT] Someone whispering a request to the groomsman
+- [B-ROLL] Quick cuts: speaker adjusted, snacks passed, sunscreen handed over
+- [B-ROLL] Groomsman grinning, thumbs up
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

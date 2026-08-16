@@ -1,0 +1,30 @@
+PIECE 06 — Heartfelt / funny, origin-story — "Let's Geaux"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: warm, local-pride energy, a little playful (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  One deckhand started saying it two years ago as a joke: "Let's geaux" instead of "let's go."   [wide shot: boat at the dock, deckhand untying the last line]
+ 3.5s  It's not clever. It's just how people spell things around here during football season.   [close-up: deckhand grinning, ropes coiled, ready to push off]
+ 7.0s  Somehow it never stopped. Every captain on this fleet says it now, whether they like it or not.   [medium shot: a different captain at the helm, saying it, half-rolling his eyes]
+11.5s  Regulars say it back before the boat's even left the dock.   [close-up: returning guest calling it out, grinning, recognized]
+14.5s  Nobody remembers whose idea it actually was anymore, and nobody's fixing that.   [closing wide shot: boat pulling away, the phrase fading into the engine noise]
+
+ON-SCREEN TEXT TREATMENT:
+"LET'S GEAUX" pops as a title card at 3.5s, clears by 6.5s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: boat at the dock, deckhand untying the last line (opener)
+- Close-up: deckhand grinning, ready to push off
+- Medium shot: a different captain at the helm, saying the line
+- Close-up: returning guest calling it back, recognized
+- Closing wide shot: boat pulling away
+
+SOURCE GROUNDING: Original concept, built around the "geaux" spelling convention, confirmed distinct from the already-used "who dat" (Pass 26) and "where y'at" (Pass 23) regional sayings by this pass's dedup survey, and confirmed completely untouched across all 228 prior titles. Checked against `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`, no numbered match.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's story-first structure (an origin story before the payoff) and Ogilvy's respect-the-reader restraint (the joke is admitted to be simple, not oversold). Then /copywriting-2.0 (3-test filter): a draft closer, "it's just part of the boat's personality now," was cut as vague brand-speak. Replaced with "nobody remembers whose idea it actually was anymore, and nobody's fixing that," which is concrete, a little funny, and specific to how phrases actually spread through a crew.
+
+PRODUCTION FLAG: illustrative origin story, not confirmed as an actual documented anecdote from NPB crew; treat as a proposed narrative device pending confirmation, not a stated company history. No deckhand or captain identified by name.
+
+DEVICES CHECK: this is an origin-story device (a phrase spreading across multiple crew members over time), explicitly distinct from the series' retired fixed-catchphrase-as-comedic-engine device (one crew member's memorized bit used repeatedly as the joke's engine). The humor here comes from the phrase's spread and stickiness across the whole crew and regulars, not one person's delivery.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

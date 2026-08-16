@@ -1,0 +1,19 @@
+PIECE 361 — Real spoken line, bachelorette hype-chant bit — The Bestie / "Say It With Your Chest"
+Voice: The Bestie (EL-Jessica.mp3)   Music: playful, bright pop bed, crowd-energy claps on the chant line   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody's about to give a toast and their voice drops to a whisper.                      [Bestie VO loud, wide, guest holding a drink, nervous, about to speak]
+ 3.4s  The whole boat yells the same four words back.                                             [insert, group leaning in, grinning]
+ 6.6s  "Say it with your chest!" And she does. Every time, without fail.                          [insert, guest's voice growing, laughing, more confident]
+10.4s  Works better than any pep talk we've got.                                                  [closing line, wide, golden hour, group cheering, glasses raised]
+
+On-screen text: Hook = "HER VOICE DROPS TO A WHISPER MID-TOAST" / Body = "\"say it with your chest!\" works every time." / CTA: none
+
+Shot list:
+- [INSERT] Nervous guest about to give a toast, quiet
+- [B-ROLL] Group leaning in, yelling the line back
+- [INSERT] Guest's voice and confidence growing
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

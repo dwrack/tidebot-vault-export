@@ -1,0 +1,30 @@
+PIECE 03 — Funny / heartfelt hybrid, captain line — "Don't Rock the Boat"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: funky, playful, a little swaggering (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  There's an actual nautical reason behind "don't rock the boat." Weight shifts, the boat shifts back.   [wide shot: boat cruising, guests dancing near the rail]
+ 3.5s  One woman's been dancing like she's trying to prove the saying wrong for twenty minutes straight.   [close-up: guest dancing enthusiastically, boat swaying slightly with the rhythm]
+ 7.5s  The deckhand watches the waterline, not the dancing. That's the only part of the job that matters here.   [close-up: deckhand's eyes tracking the boat's tilt, calm, unbothered]
+11.5s  Nobody tells her to stop. The boat just isn't going anywhere it shouldn't.   [medium shot: deckhand relaxed, guest still dancing, boat steady]
+14.5s  Turns out you can rock the boat a little. Just not the part that matters.   [closing wide shot: full group dancing, boat gliding smooth across the water]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "DON'T ROCK THE BOAT," pops in at 0.0s and clears by 3.0s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: boat cruising, guests dancing near the rail (opener)
+- Close-up: guest dancing hard, boat swaying slightly
+- Close-up: deckhand's eyes tracking the waterline
+- Medium shot: deckhand relaxed, guest still dancing, boat steady
+- Closing wide shot: full group dancing, boat gliding smooth
+
+SOURCE GROUNDING: Original concept, built around the confirmed-untouched "don't rock the boat" saying identified in this pass's dedup survey. Checked against all 228 prior titles, no collision (the closest prior piece, Pass 22's "The Guest Who Just Stood Up," is a spontaneous-toast moment, not a dancing/physics-of-the-idiom piece).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual-specific open (the actual physics of the idiom, not just the phrase) and Bencivenga's proof-first structure (the deckhand's real behavior is the proof that the boat's actually fine). Then /copywriting-2.0 (3-test filter): a draft closer, "and that's the vibe on this boat," was cut as vague and unownable. Replaced with "turns out you can rock the boat a little. Just not the part that matters," which pays off the wordplay concretely against what the piece already showed.
+
+PRODUCTION FLAG: illustrative deckhand habit (watching the waterline/weight distribution while guests dance), consistent with Brand Story & Values Section 2's safety standard but not a confirmed, precisely worded trained protocol; ops should confirm before treating the specific behavior as routine. No guest or deckhand identified by name.
+
+DEVICES CHECK: distinct from Pass 22's "The Guest Who Just Stood Up" (a spontaneous toast) — this piece centers the idiom's literal meaning and a dancing guest, not a toast moment, and doesn't repeat that piece's structure or payoff.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy + Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

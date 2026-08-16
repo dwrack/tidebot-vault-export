@@ -1,0 +1,28 @@
+PIECE 08 — Did-you-know / wildlife spotlight — "The Owl the Size of a Soda Can"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: hushed, a little mysterious, gentle reveal (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guide points into a cypress knothole and says there's an owl in there. Nobody can see it.   [wide shot: kayaks paused, guide pointing at a tree trunk]
+ 3.5s  That's the point. An Eastern screech owl is barely bigger than a can of soda, and it's built to disappear against bark.   [close-up: tight shot on the knothole, camouflaged owl barely visible]
+ 8.0s  It's not the hoot most people expect. It's more of a soft trill, almost like a horse whinnying from very far away.   [medium shot: guide gesturing, group listening closely]
+12.5s  Once someone finally spots it, they can't understand how they missed something staring right at them.   [close-up: guest's face lighting up, pointing, "there it is"]
+15.5s  Smallest bird on the tour. Hardest one to actually see.   [closing wide shot: owl blinking, barely distinguishable from the bark, kayaks drifting past]
+
+ON-SCREEN TEXT TREATMENT:
+"EASTERN SCREECH OWL" small lower-third label at 3.5s, clears fast. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: kayaks paused, guide pointing at the knothole (opener)
+- Close-up: camouflaged owl, barely visible against bark
+- Medium shot: guide explaining the call, group listening
+- Close-up: guest spotting it, pointing
+- Closing wide shot: owl blinking, kayaks drifting past
+
+SOURCE GROUNDING: First screech-owl piece in the series, confirmed distinct from Pass 27's barred-owl piece ("Forty Feet Up, Watching") by this pass's dedup survey — different species, different size, different call, different visual device (near-invisible camouflage vs. a visibly perched bird). Flagged as open ground in the survey. Confirmed against all 228 prior titles, no collision.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual specificity (a real, checkable size comparison and call description) and Sugarman's curiosity build (told it's there before it's shown). Then /copywriting-2.0 (3-test filter): a draft closer, "nature's best hide-and-seek player," was cut as a worn phrase any wildlife account could use. Replaced with "smallest bird on the tour. Hardest one to actually see," which is a specific, falsifiable claim tied directly to what the piece just showed.
+
+PRODUCTION FLAG: Eastern screech owl size (roughly 7-10 inches, comparable to a can of soda) and trilling/whinny call (as opposed to a hoot) are accurate general species facts. Confirm actual sighting frequency and whether this specific knothole behavior happens on NPB's route before treating this as a routine, guaranteed sighting rather than an occasional one. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

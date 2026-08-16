@@ -1,0 +1,19 @@
+PIECE 354 — Real spoken line, boarding-ritual bit — The Deckhand (2nd appearance) / "Watch Your Head, Watch Your Drink, In That Order"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: fast, upbeat comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every boarding gets the same two-part warning from us.                                  [Deckhand VO fast, close, deckhand at the gangway helping guests aboard]
+ 3.4s  Watch your head on the way in. Watch your drink the whole rest of the day.               [insert, guest ducking under the canopy, deckhand pointing at both]
+ 7.2s  We say it in that order for a reason. Only one of those two we can actually help with.    [insert, deckhand shrugging, guests laughing]
+11.0s  Head's on us. Drink's on you.                                                             [closing line, wide, golden hour, guests boarded, drinks in hand]
+
+On-screen text: Hook = "THE TWO-PART BOARDING WARNING" / Body = "head's on us. drink's on you." / CTA: none
+
+Shot list:
+- [INSERT] Guest ducking under canopy at boarding
+- [INSERT] Deckhand pointing at head, then at a drink, deadpan
+- [B-ROLL] Guests boarded, settling in with drinks
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

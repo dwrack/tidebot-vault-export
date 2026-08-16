@@ -1,0 +1,30 @@
+PIECE 02 — Funny / running-joke — "Man Overboard (Nothing's Actually Overboard)"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: bouncy, comedic timing (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone yells "man overboard!" and half the boat actually turns to look.   [wide shot: guests spinning around, half-panicked, half-laughing]
+ 3.0s  It's not a person. It's someone's hat, doing slow backstroke away from the boat.   [close-up: hat floating on the water, drifting]
+ 6.5s  The deckhand's already got the net out before anyone finishes the sentence.   [medium shot: deckhand scooping with a long-handled net, practiced motion]
+10.0s  Nobody explains why there's a net just for this. There's always a net just for this.   [close-up: net swinging back aboard, hat dripping, guest reaching for it, relieved]
+13.0s  By the third cruise of the day, "man overboard" doesn't mean what it used to.   [closing wide shot: boat cruising on, guest wringing out the hat, laughing]
+
+ON-SCREEN TEXT TREATMENT:
+None. The mismatch between the alarm and the actual stakes is the joke; captioning it would explain the punchline before the visual lands.
+
+SHOT LIST:
+- Wide shot: guests turning around at the shout (opener)
+- Close-up: hat floating away on the water
+- Medium shot: deckhand scooping with the net
+- Close-up: net swinging back aboard, hat dripping
+- Closing wide shot: boat cruising on, guest wringing out the hat
+
+SOURCE GROUNDING: Original concept, built around the confirmed-untouched "man overboard" saying identified in this pass's dedup survey. Checked against all 228 prior titles, no collision on hat-retrieval, net, or "man overboard" framing.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's conversational, mid-action open (the shout lands before any context) and Sugarman's short-first-sentence rule. Then /copywriting-2.0 (3-test filter): a draft closer, "it's all part of the fun out here," was cut as vague filler that any tour boat could say. Replaced with "by the third cruise of the day, 'man overboard' doesn't mean what it used to," which is specific to the repeated-incident pattern the piece actually shows.
+
+PRODUCTION FLAG: illustrative deckhand equipment (a net kept aboard for retrieving dropped items), not confirmed as standard-issue gear across the fleet; ops should confirm before treating as routine. Written and shot deliberately to keep the joke entirely about inanimate objects (a hat) — never implying an actual person-overboard situation is treated lightly, consistent with Brand Story & Values Section 2's "safety isn't a talking point, it's the floor." No guest or deckhand identified by name.
+
+DEVICES CHECK: distinct from the series' retired fixed-catchphrase-as-comedic-engine device — the phrase here is guest-initiated per incident, not a crew member's memorized bit, and the joke's engine is the gap between the phrase's literal alarm and the harmless reality, not a delivery style.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Halbert + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

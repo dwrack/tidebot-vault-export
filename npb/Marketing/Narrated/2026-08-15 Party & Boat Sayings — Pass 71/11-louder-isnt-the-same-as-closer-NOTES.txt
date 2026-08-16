@@ -1,0 +1,28 @@
+PIECE 11 — Myth vs. reality — "Louder Isn't the Same as Closer"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: calm, a little confident, understated (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks why we don't run airboats like the tours out past Lafitte.   [wide shot: kayaks moving quietly through still water]
+ 3.5s  An airboat isn't more exciting. It's just louder, and everything worth seeing clears out before it even arrives.   [close-up: guide answering, calm, direct]
+ 8.0s  A kayak makes almost no sound at all. That's not a limitation, it's the entire strategy.   [medium shot: paddle dipping silently into black water]
+11.5s  Herons that would've scattered a hundred yards out let this boat drift within a few feet.   [close-up: heron standing still, kayaks passing close]
+15.0s  The tour that sounds like less turns out to get you closer to more.   [closing wide shot: kayaks gliding past wildlife, completely undisturbed]
+
+ON-SCREEN TEXT TREATMENT:
+None. The guide's plain answer carries the correction without a caption spelling it out.
+
+SHOT LIST:
+- Wide shot: kayaks moving quietly through still water (opener)
+- Close-up: guide answering, calm and direct
+- Medium shot: paddle dipping silently into black water
+- Close-up: heron standing still as kayaks pass close
+- Closing wide shot: kayaks gliding past wildlife, undisturbed
+
+SOURCE GROUNDING: Directly sourced from `Admire NOLA/Content/Script & Caption Bank.md` Lane 8 (Myth vs. Reality), the exact listed line: "An airboat isn't 'more exciting.' It's louder. Everything you came to see clears out before it arrives." Third entry in this lane per this pass's dedup survey (after Pass 61's cottonmouth piece and Pass 70's fitness/no-experience piece), flagged as open room in the survey. Confirmed against all 228 prior titles, no collision.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's direct objection-handling (answer the real question guests actually ask) and Bencivenga's proof-first close (the heron-distance detail is the evidence, not an assertion). Then /copywriting-2.0 (3-test filter): a draft closer, "quiet is the real advantage out here," was cut as a claim any eco-tour competitor could make word for word. Replaced with "the tour that sounds like less turns out to get you closer to more," which plays off the piece's own established contrast and is specific to what was just shown.
+
+PRODUCTION FLAG: The general ecological logic (engine noise displacing wildlife before a boat arrives) is well-supported; the "a hundred yards" and "a few feet" figures are illustrative, not measured data, and should be confirmed with guides before stated as precise distances. No guide identified by name. No competitor airboat operator named or identifiable.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Halbert + Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

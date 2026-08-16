@@ -1,0 +1,28 @@
+PIECE 01 — Did-you-know / funny hook, captain line — "Sun's Over the Yardarm"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-BrianNeural (free tier)   Music: light, sunny, a little cheeky (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest checks his watch at 11:15 and asks if it's too early for a drink.   [wide shot: guest checking his watch at the dock, cooler nearby, ropes still tied]
+ 3.0s  Sailors had a rule for exactly this: "the sun's over the yardarm" means it's officially time.   [close-up: captain gesturing up toward the rigging, easy grin]
+ 7.0s  Nobody on this boat needs the rule explained twice.   [medium shot: coolers popping open, drinks already moving hand to hand]
+10.5s  It's BYOB. The only clock that matters is whatever you brought.   [close-up: guest cracking a can, laughing]
+13.5s  Two hundred years later, that old rule finally got the easy version.   [closing wide shot: boat pulling away from the dock, drinks raised toward the water]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "SUN'S OVER THE YARDARM," pops in at 3.0s and clears by 6.5s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: guest checking his watch at the dock, cooler nearby (opener)
+- Close-up: captain gesturing toward the rigging
+- Medium shot: coolers opening, drinks moving hand to hand
+- Close-up: guest cracking a can, laughing
+- Closing wide shot: boat pulling away, drinks raised
+
+SOURCE GROUNDING: Original concept, built around the real nautical idiom "the sun's over the yardarm," confirmed completely untouched across all 228 prior piece titles and NOTES contents by this pass's dedup survey (agent a1d124984f2a9c2c1). Checked against `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`, no direct numbered match; treated as an original saying-driven concept in the same pattern Pass 70 used for its own Pieces 03 and 05. Directly channels Brand Story & Values Section 3's real BYOB differentiator ("no $14 margaritas, no drink minimums, guests control the budget and the bar").
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-gap open (a real question — "too early for a drink?" — before the reveal) with an Ogilvy factual specific (the actual sailors' idiom, not an invented one). Then /copywriting-2.0 (3-test filter): an early closer, "somewhere out there, an old ship's rule just got a permission slip," was cut for being too abstract to visualize cleanly. Replaced with "two hundred years later, that old rule finally got the easy version," which lands the callback to BYOB concretely and can't be claimed by a competitor without their own BYOB policy.
+
+PRODUCTION FLAG: "the sun's over the yardarm" is a real, long-documented nautical idiom (traditionally tied to the sun clearing a ship's lowest yardarm around 11am, considered acceptable drinking hour); the exact "two hundred years" figure is illustrative, not a precisely sourced date, and should be softened or verified before treating as a stated historical fact on camera. No captain identified by name; illustrative captain gesture, not confirmed as a standing crew line.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

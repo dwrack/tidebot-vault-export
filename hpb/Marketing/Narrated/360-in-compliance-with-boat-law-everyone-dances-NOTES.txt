@@ -1,0 +1,19 @@
+PIECE 360 — Real spoken line, mock-legal rule bit — The Announcer (2nd appearance) / "In Compliance With Boat Law, Everyone Dances"
+Voice: The Announcer (EL-Daniel.mp3)   Music: mock-formal open, flips to upbeat dance-pop on the turn   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  A brief word on boat law, as read by the Announcer.                                       [Announcer VO formal, wide, speaker on, guests standing around on deck]
+ 3.4s  Subsection one: there is no dance floor.                                                   [insert, deckhand shrugging, gesturing at the open deck]
+ 6.6s  Subsection two: everyone dances anyway, floor or no floor.                                 [insert, one guest starting to move, others joining]
+10.4s  That second part isn't actually a law. It just always happens.                             [closing line, wide, golden hour, whole boat dancing]
+
+On-screen text: Hook = "A BRIEF WORD ON BOAT LAW" / Body = "not actually a law. just always happens." / CTA: none
+
+Shot list:
+- [INSERT] Deckhand gesturing at the open deck, no floor
+- [B-ROLL] Guests starting to dance, more joining
+- [B-ROLL] Whole boat dancing, golden hour
+
+Note: builds directly on piece 166 (no dance floor) rather than repeating its premise — this piece's punchline is the mock-law framing and the universal compliance joke, a new device layered on an established fact. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

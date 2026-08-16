@@ -1,0 +1,28 @@
+PIECE 04 — Funny / running-joke — "Shotgun for the Bow"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: upbeat, quick comedic pacing (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The second the boat clears the no-wake zone, somebody calls "shotgun" for the bow rail.   [wide shot: boat picking up speed, guests scrambling toward the front]
+ 3.0s  Not for the front seat. For the spot where the wind hits your face and the photo actually looks like something.   [close-up: guest planting themselves at the rail, hair blowing]
+ 7.0s  Whoever's slowest gets stuck mid-boat, which is also, somehow, always the best seat for the cooler.   [medium shot: guest settled near the cooler, unbothered, drink in hand]
+11.0s  Everybody swears they'll call it earlier next time. Nobody ever does.   [close-up: guests laughing, recapping the sprint to the bow]
+13.5s  The bow's free again in about four minutes, once everyone forgets why they were racing.   [closing wide shot: boat cruising, guests spread out, bow rail open again]
+
+ON-SCREEN TEXT TREATMENT:
+None. The scramble and the payoff carry the beat without a caption slowing it down.
+
+SHOT LIST:
+- Wide shot: boat picking up speed, guests scrambling forward (opener)
+- Close-up: guest at the bow rail, hair blowing
+- Medium shot: guest settled near the cooler, mid-boat
+- Close-up: guests laughing, recapping the sprint
+- Closing wide shot: bow rail open again, guests spread out
+
+SOURCE GROUNDING: Original concept, built around the confirmed-untouched "shotgun" saying identified in this pass's dedup survey. Checked against all 228 prior titles and against `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md`, no numbered match; no collision on bow-rail, wind, or dibs-calling framing.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's slippery-slide pacing (short scramble, then the specific twist) and Halbert's plain conversational voice. Then /copywriting-2.0 (3-test filter): a draft closer, "and the fun just keeps going," was cut as generic and unfalsifiable. Replaced with "the bow's free again in about four minutes, once everyone forgets why they were racing," which is visualizable, specific, and pays off the earlier "cooler seat" detail as an actual twist instead of a throwaway line.
+
+PRODUCTION FLAG: illustrative guest behavior, not a confirmed standing tradition or crew-taught bit. No guest identified by name. The "about four minutes" figure is illustrative pacing, not a measured or promised timing.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

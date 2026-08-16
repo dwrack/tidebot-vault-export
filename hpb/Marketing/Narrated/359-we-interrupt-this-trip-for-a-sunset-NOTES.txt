@@ -1,0 +1,19 @@
+PIECE 359 — Real spoken line, mock-breaking-news bit — The Announcer / "We Interrupt This Trip For A Sunset"
+Voice: The Announcer (EL-Daniel.mp3)   Music: mock-formal, percussive brass stab, easing into a warm bed on the sky shots   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  We interrupt this trip for a special announcement.                                        [Announcer VO formal, wide, boat cruising, light starting to turn gold]
+ 3.4s  The sky is doing something. Please direct all cameras aft.                                 [insert, guests turning to look, phones coming up]
+ 7.0s  This has been a public service announcement. Regular programming resumes never, because that was the best part.  [insert, guests taking photos, golden light]
+11.0s  We repeat: the sky is doing something. You're welcome.                                     [closing line, wide, golden hour sky, full boat looking back]
+
+On-screen text: Hook = "WE INTERRUPT THIS TRIP FOR A SPECIAL ANNOUNCEMENT" / Body = "the sky is doing something. you're welcome." / CTA: none
+
+Shot list:
+- [B-ROLL] Boat cruising, light starting to turn gold
+- [INSERT] Guests turning, phones coming up
+- [B-ROLL] Full boat looking back at golden-hour sky
+
+Note: distinct from piece 07 (sunset toast — a spoken toast moment) — this is a mock-news announcement format, different mechanic sharing only the golden-hour setting. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 353 — Real spoken line, pop-culture riff, character-spotting bit — The Deckhand / "We're Gonna Need A Bigger Boat"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: upbeat hype-pop bed with a comedic sting on the quote line   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every now and then a group walks up and the whole dock gets quiet for a second.        [Deckhand VO fast, wide, boat at dock, high-energy group approaching gangway]
+ 3.6s  Same headcount as the confirmation email. Feels like triple that.                       [insert, deckhand checking a clipboard/phone against the group, half-smiling]
+ 7.4s  There's a line every deckhand says under their breath at that point.                    [insert, deckhand leaning toward another crew member]
+11.2s  "We're gonna need a bigger boat." Same boat every time. Works anyway.                    [closing line, wide, golden hour, full group aboard, deckhand grinning at camera]
+
+On-screen text: Hook = "THE DOCK GOES QUIET FOR A SECOND" / Body = "same headcount as the email. feels like triple." / CTA: none
+
+Shot list:
+- [B-ROLL] Boat at dock, high-energy group approaching gangway
+- [INSERT] Deckhand checking clipboard/phone against the group
+- [INSERT] Deckhand leaning to another crew member, saying the line
+
+Note: deliberately does not claim any headcount above what's booked — the joke is about energy outpacing the manifest, not about exceeding capacity. An earlier draft had the deckhand counting "twenty-six on the sheet, thirty-one on the dock," which was cut because it implied the boat runs over its licensed passenger capacity. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

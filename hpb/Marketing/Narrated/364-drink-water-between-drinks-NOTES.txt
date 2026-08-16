@@ -1,0 +1,19 @@
+PIECE 364 — Real spoken line, catchphrase-goes-viral-on-the-boat bit — The Sunscreen Friend / "Drink Water Between Drinks"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier — not EL-Brian)   Music: warm, easygoing acoustic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every group's got a friend who says the same sentence roughly nine times a trip.           [Sunscreen Friend VO earnest, wide, friend handing out water bottles]
+ 3.6s  "Drink water between drinks." Nobody remembers who started saying it back.                 [insert, guest taking the water, nodding]
+ 7.2s  By hour two, guests are saying it to each other before she even gets there.                [insert, guests handing water to one another, laughing]
+10.8s  She started a chant and didn't even mean to.                                                [closing line, wide, golden hour, whole group with water bottles raised]
+
+On-screen text: Hook = "SHE SAYS IT ROUGHLY NINE TIMES A TRIP" / Body = "started a chant. didn't mean to." / CTA: none
+
+Shot list:
+- [INSERT] Sunscreen Friend handing out water bottles
+- [B-ROLL] Guests handing water to each other, laughing
+- [B-ROLL] Whole group with water bottles raised, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

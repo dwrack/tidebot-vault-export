@@ -1,0 +1,28 @@
+PIECE 07 — Did-you-know / wildlife spotlight — "The Log That's Actually a Traffic Jam"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: light, curious, quick reveal (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  From a distance it looks like one long log. It's actually six turtles arguing about personal space.   [wide shot: kayaks approaching a log lined with turtles]
+ 3.5s  River cooters and sliders stack up on the same sunny log every morning, shoulder to shell.   [close-up: turtles crowded together, one nudging another]
+ 7.5s  They're not friends. They're cold-blooded, and the sun's the only heater out here.   [medium shot: guide gesturing, explaining]
+11.5s  The second a kayak gets too close, all six vanish into the water in the same half-second.   [close-up: turtles sliding off in a rapid cascade, splashes]
+14.5s  Best photo on the whole route lasts about as long as it takes to notice it.   [closing wide shot: empty log, ripples where the turtles were, kayaks pausing]
+
+ON-SCREEN TEXT TREATMENT:
+"RIVER COOTERS / SLIDERS" small lower-third label at 3.5s, clears fast. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: kayaks approaching the turtle-lined log (opener)
+- Close-up: turtles crowded shoulder to shell
+- Medium shot: guide explaining the thermoregulation behavior
+- Close-up: turtles cascading off the log into the water
+- Closing wide shot: empty log, ripples, kayaks pausing
+
+SOURCE GROUNDING: First dedicated turtle-basking spotlight in the series, per this pass's dedup survey — turtles were previously only referenced as one option in the base pass's misidentification gag ("Gator, Turtle, or Stick") and never centered on their own. Confirmed against all 228 prior titles, no collision.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual specificity (real basking/thermoregulation behavior, not a generic "cute turtles" gesture) and Sugarman's curiosity-gap open (the log that isn't a log). Then /copywriting-2.0 (3-test filter): a draft closer, "nature moves fast when it wants to," was cut as a vague platitude. Replaced with "best photo on the whole route lasts about as long as it takes to notice it," which is specific, falsifiable against the half-second detail already established, and can't be claimed by a generic wildlife account.
+
+PRODUCTION FLAG: cooter/slider basking-for-thermoregulation behavior is a well-documented general reptile fact; the specific count ("six turtles") is illustrative, not a guaranteed number. Confirm actual species mix and typical group size on NPB's specific route before treating as a routine, guaranteed sighting. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

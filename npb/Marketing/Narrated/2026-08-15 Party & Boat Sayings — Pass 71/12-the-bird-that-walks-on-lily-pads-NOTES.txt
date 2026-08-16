@@ -1,0 +1,28 @@
+PIECE 12 — Did-you-know / wildlife spotlight — "The Bird That Walks on Lily Pads"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: bright, a little whimsical, warm close (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Something purple and impossible steps across the water without sinking, one long yellow foot at a time.   [wide shot: purple gallinule walking across floating vegetation]
+ 4.0s  It's not walking on water. It's walking on lily pads, and its toes are long enough to spread the weight out.   [close-up: gallinule's oversized feet, toes splayed across a pad]
+ 8.5s  Purple isn't even the half of it up close: green back, blue face shield, red and yellow beak, like it got dressed in the dark.   [medium shot: gallinule's full plumage catching the light]
+13.0s  It never asked to be the most colorful thing in a swamp full of gators and cypress. It just is.   [close-up: gallinule pausing, unbothered, continuing across the pads]
+16.0s  Most guests spend the whole ride back trying to describe it to someone who wasn't there.   [closing wide shot: kayaks moving on, gallinule receding into the reeds]
+
+ON-SCREEN TEXT TREATMENT:
+"PURPLE GALLINULE" small lower-third label at 4.0s, clears fast. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: gallinule walking across floating vegetation (opener)
+- Close-up: oversized feet, toes splayed across a lily pad
+- Medium shot: full plumage catching the light
+- Close-up: gallinule pausing, continuing across the pads
+- Closing wide shot: kayaks moving on, gallinule receding into the reeds
+
+SOURCE GROUNDING: First purple gallinule piece in the series, confirmed distinct from all wildlife species already covered (anhinga, prothonotary warbler, roseate spoonbill, green heron, barred owl, osprey, white ibis, wood duck, bald eagle, cottonmouth, red-shouldered hawk, alligator, swallow-tailed kite) by this pass's dedup survey. Confirmed against all 228 prior titles, no collision.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual specificity (real plumage colors and toe-length mechanics, not vague "beautiful bird" language) and Sugarman's building curiosity (the "impossible" opener resolved two lines later). Then /copywriting-2.0 (3-test filter): a draft closer, "a bird you won't forget seeing," was cut as a generic, unfalsifiable claim any wildlife spot could use. Replaced with "most guests spend the whole ride back trying to describe it to someone who wasn't there," which is specific, visualizable, and grounded in the piece's own established detail (the "dressed in the dark" plumage) rather than an assertion.
+
+PRODUCTION FLAG: Purple gallinule's long-toed lily-pad-walking behavior and multicolor plumage (purple body, green back, blue face shield, red-and-yellow beak, yellow legs) are accurate, well-documented species facts. Confirm actual sighting frequency and seasonal/habitat presence on NPB's specific route before treating this as a guaranteed sighting. No guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

@@ -1,0 +1,28 @@
+PIECE 09 — Did-you-know / conservation — "The Rodent Louisiana Imported by Accident"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Lily (ElevenLabs)   Music: curious, a little wry, turning slightly serious by the end (mood only)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Something that looks like a beaver with a rat's tail slides off the bank, and every guest asks the same thing: "what is that?"   [wide shot: nutria sliding into the water, kayaks nearby]
+ 4.0s  It's a nutria, and it's not supposed to be here. Louisiana brought them in on purpose in the 1930s, for fur farms.   [close-up: nutria swimming, orange front teeth visible]
+ 8.5s  The fur market collapsed. The nutria didn't go anywhere.   [medium shot: guide gesturing toward chewed-up marsh grass along the bank]
+12.0s  Now the state pays people to catch them, because a single nutria can eat a large share of its body weight in wetland plants every few days.   [close-up: bank vegetation stripped bare in patches]
+16.0s  The guests came for gators. The guide's the one who ends up talking about rodents the whole ride back.   [closing wide shot: kayaks continuing on, guide still explaining, group listening]
+
+ON-SCREEN TEXT TREATMENT:
+"NUTRIA" small lower-third label at 4.0s, clears fast. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: nutria sliding into the water (opener)
+- Close-up: nutria swimming, orange teeth visible
+- Medium shot: guide gesturing at chewed-up marsh grass
+- Close-up: bank vegetation stripped bare in patches
+- Closing wide shot: kayaks continuing, guide still explaining
+
+SOURCE GROUNDING: Confirmed distinct from Pass 22's "Wait, Is That a Nutria or a Beaver" (a misidentification gag) by this pass's dedup survey — that piece is a guessing game, this one centers the species' actual origin story and ecological impact, flagged as open ground in the survey. Confirmed against all 228 prior titles, no collision.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's specificity-as-proof (a real decade, a real collapsed market, a real state program) over vague "invasive species" language. Then /copywriting-2.0 (3-test filter): a draft closer, "it's a good reminder that nature has consequences," was cut as an unownable platitude. Replaced with "the guests came for gators. The guide's the one who ends up talking about rodents the whole ride back," which is concrete, a little funny, and specific to how this moment actually plays out on a tour.
+
+PRODUCTION FLAG: Nutria's 1930s Louisiana fur-farm introduction and subsequent population explosion and wetland damage is well-documented state history, and Louisiana's nutria control/bounty program is real and publicly documented. The "large share of its body weight every few days" eating-rate figure is illustrative and should be checked against a current state wildlife-agency source before stating a precise number on camera. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 71, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

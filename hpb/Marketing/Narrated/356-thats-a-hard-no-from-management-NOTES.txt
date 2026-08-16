@@ -1,0 +1,19 @@
+PIECE 356 — Real spoken line, mock-authority reveal bit — Roger (2nd appearance) / "That's A Hard No From Management"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: dry comedic bed, same family as piece 355   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody asks if we can just stay out a little longer.                                   [Roger VO mock-official, wide, guest asking Roger, hopeful]
+ 3.4s  "That's a hard no from management," Roger says, very seriously.                          [insert, Roger shaking head, mock-grave expression]
+ 6.8s  Guest asks who management is. Roger points at the captain, two feet away.                [insert, guest turning, spotting the captain, laughing]
+10.6s  Management said no. Management also drives the boat.                                      [closing line, wide, golden hour, captain waving, guests laughing]
+
+On-screen text: Hook = "\"THAT'S A HARD NO FROM MANAGEMENT\"" / Body = "management also drives the boat" / CTA: none
+
+Shot list:
+- [INSERT] Guest asking Roger a hopeful question
+- [INSERT] Roger pointing at the captain
+- [B-ROLL] Captain waving, guests laughing
+
+Note: pairs with piece 355 (matched set, see above). No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
