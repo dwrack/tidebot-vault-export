@@ -1,0 +1,14 @@
+PIECE 453 — Captain lines — "He Called the Safety Briefing 'The Rules of Engagement.' It Stuck."
+Voice: Roger — voice-en-US-RogerNeural.mp3 (free tier)   Music: confident, knowing bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Guest leans to his buddy: "here comes the rules of engagement."                             [wide, deckhand gathering the group for the briefing]
+ 3.6s  Deckhand hears it. Grins. Announces the next one that exact way, on purpose.                [insert, deckhand smirking, mouthing the phrase before the next briefing]
+ 7.4s  By the third stop, it's official. "Rules of engagement, everybody." Straight-faced.         [insert, deckhand announcing the phrase into the mic, no irony left in it]
+11.4s  Safety briefing hasn't had its real name in weeks.                                          [closing line, group listening attentively, deckhand finishing the briefing]
+
+On-screen text: Hook = "SAFETY BRIEFING GOT RENAMED 'RULES OF ENGAGEMENT'" | Body = "hasn't had its real name in weeks." | CTA: none.
+Shot list: deckhand gathering group for safety briefing / deckhand smirking, mouthing the phrase early / deckhand announcing "rules of engagement" into mic, straight-faced / group listening, briefing wraps.
+No pedaling reference. Safety briefing content stays real and taken seriously in the visual — the joke is the name only.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

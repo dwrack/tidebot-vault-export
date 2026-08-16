@@ -1,0 +1,14 @@
+PIECE 457 — Bachelorette-party lines — "She Said 'Batch Party' Instead of Bachelorette. Whole Boat Runs With It."
+Voice: The Sunscreen Friend — voice-en-US-BrianNeural.mp3 (free tier, not EL-Brian)   Music: upbeat, breezy comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody fumbles it. "This is the batch party, right?"                                      [wide, guest asking the question while boarding]
+ 3.6s  Bride laughs so hard she can't correct it.                                                  [insert, bride doubled over laughing, waving the correction off]
+ 7.4s  By the second stop, it's everywhere. "Batch party" this, "batch party" that.                [insert, quick cuts of different guests saying "batch party" throughout the boat]
+11.4s  The invite said bachelorette. This boat said batch party. Batch party won.                  [closing line, whole group chanting "batch party," bride laughing along]
+
+On-screen text: Hook = "SHE SAID 'BATCH PARTY.' NOBODY CORRECTED HER." | Body = "the invite said bachelorette. batch party won." | CTA: none.
+Shot list: guest asking "this is the batch party, right?" / bride doubled over laughing / quick cuts of guests saying "batch party" / whole group chanting it, bride laughing along.
+No pedaling reference. Distinct from other bachelorette-nickname pieces — mispronounces the event type itself, not a person or object.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

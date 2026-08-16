@@ -1,0 +1,14 @@
+PIECE 456 — Bachelorette-party lines — "Somebody Called the Signature Drink 'The Potion.' It's the Potion Now."
+Voice: The Planner — EL-Lily.mp3   Music: upbeat, breezy comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  First sip, a bridesmaid goes, "ooh, what's in this potion?"                                 [wide, bridesmaid taking a first sip, reacting]
+ 3.4s  Second round, everybody's ordering "another potion." Not the actual name.                   [insert, group holding up cups, calling out "potion" to the deckhand]
+ 7.0s  Deckhand starts calling it that too. When he's pouring, when he's announcing.                [insert, deckhand pouring, saying "potion's ready" over his shoulder]
+10.8s  Drink menu says one thing. This boat says potion.                                           [closing line, group cheersing with the same drink, all smiling]
+
+On-screen text: Hook = "THEY RENAMED THE SIGNATURE DRINK 'THE POTION'" | Body = "the menu says one thing. this boat says potion." | CTA: none.
+Shot list: bridesmaid's first sip, reacting / group holding up cups, calling out "potion" / deckhand pouring, saying "potion's ready" / group cheersing, smiling.
+No pedaling reference, no specific drink recipe or ingredient claim made on screen.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

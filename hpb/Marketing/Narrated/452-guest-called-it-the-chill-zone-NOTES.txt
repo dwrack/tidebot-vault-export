@@ -1,0 +1,14 @@
+PIECE 452 — Captain lines — "Guest Called It 'The Chill Zone.' Captain's Used It Every Trip Since."
+Voice: The Captain — EL-Eric.mp3   Music: dry, mock-official bed, minimal   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Guest asks why we're slowing down. Somebody answers, "oh, we're in the chill zone."         [wide, boat slowing, guest asking the question near the helm]
+ 3.6s  Captain hears it on the mic check. Says nothing. Files it away.                             [insert, captain glancing over, small nod, no comment]
+ 7.4s  Next trip, he announces it himself. "Coming up on the chill zone, y'all."                   [insert, captain speaking into the mic, deadpan, guests nodding along like it's normal]
+11.4s  No-wake zone's dead. It's the chill zone now.                                               [closing line, boat gliding slow past the no-wake marker, guests relaxed on deck]
+
+On-screen text: Hook = "GUEST NAMED IT. CAPTAIN KEPT IT." | Body = "no-wake zone's dead. it's the chill zone now." | CTA: none.
+Shot list: boat slowing, guest asking why near the helm / captain glancing over at mic check, small nod / captain announcing "the chill zone" on a later trip / boat gliding past no-wake marker, guests relaxed.
+No pedaling reference, no specific mph claim about the vessel's actual speed.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

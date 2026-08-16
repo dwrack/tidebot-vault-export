@@ -1,0 +1,14 @@
+PIECE 449 — Deck-hand slang — "She Called It 'The Launch Pad.' Now So Does Everybody."
+Voice: The Deckhand — voice-en-US-GuyNeural.mp3 (free tier)   Music: fast, upbeat comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "That's not the swim deck. That's the launch pad."                                       [wide, guest stepping to the swim deck edge before a feet-first jump]
+ 3.4s  Second guy jumps, yells "launch pad" on the way down. Nobody corrects him either.         [insert, second guest jumping feet-first, yelling the phrase mid-air]
+ 7.0s  By the second stop, deckhand's calling it into the radio to the other boat.               [insert, deckhand keying the radio, saying "clearing the launch pad" straight-faced]
+10.8s  Nobody's called it the swim deck since.                                                  [closing line, group lined up to jump, deckhand grinning, waving them forward]
+
+On-screen text: Hook = "SHE CALLED IT 'THE LAUNCH PAD.' NOW SO DOES THE CREW." | Body = "nobody's called it the swim deck since." | CTA: none.
+Shot list: guest at swim deck edge before jump / second guest jumping, yelling phrase mid-air / deckhand keying radio, saying phrase to other boat / group lined up to jump, deckhand waving forward.
+No pedaling reference. Jump stays a normal supervised feet-first entry, no rail-climbing.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

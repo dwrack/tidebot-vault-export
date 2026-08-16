@@ -1,0 +1,14 @@
+PIECE 450 — Deck-hand slang — "He Said 'Star-Bird.' Nobody Corrected Him."
+Voice: The Old Salt — EL-George.mp3   Music: warm, wry comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Guy asks which way's the "star-bird" side. Nobody laughs. Nobody corrects him.            [wide, guest pointing, asking the question mid-deck]
+ 3.6s  Second guy repeats it back dead serious. "Yeah, star-bird side, over there."               [insert, second guest nodding, pointing, repeating the phrase]
+ 7.4s  By the dock, the captain says it too. Once. Deadpan.                                       [insert, captain gesturing toward the correct side, saying the phrase flat, no smile]
+11.4s  Real word for starboard on this boat's "star-bird" now. Nobody's told him.                 [closing line, guest looking proud of himself, group grinning behind him]
+
+On-screen text: Hook = "HE SAID 'STAR-BIRD' INSTEAD OF STARBOARD" | Body = "nobody's told him he's wrong." | CTA: none.
+Shot list: guest pointing, asking which side is "star-bird" / second guest repeating it back, dead serious / captain gesturing toward correct side, saying phrase flat / guest proud, group grinning.
+No pedaling reference. Captain's use of the phrase is a single deadpan instance, not a permanent habit.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

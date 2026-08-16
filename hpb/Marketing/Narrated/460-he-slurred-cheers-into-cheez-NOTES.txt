@@ -1,0 +1,14 @@
+PIECE 460 — Toasts — "He Slurred 'Cheers' Into 'Cheez.' That's the Toast Word Now."
+Voice: The Groomsman — voice-en-GB-RyanNeural.mp3 (free tier)   Music: tender-to-rowdy comedic bed, builds fast   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Groomsman raises his cup, slurs it. "Cheez."                                                [wide, guest raising a cup, slurring the word, grinning]
+ 3.4s  Whole boat echoes it back, laughing. "Cheez!"                                                [insert, group raising cups together, repeating the slurred word]
+ 7.0s  Next toast, same word. On purpose this time. Glasses raised.                                [insert, a different guest starting a toast with "cheez" instead of "cheers"]
+10.8s  "Cheers" hasn't been said on this boat since. It's cheez now.                                [closing line, whole group toasting "cheez" together, laughing]
+
+On-screen text: Hook = "\"CHEERS\" GOT REPLACED BY \"CHEEZ.\" NOBODY WENT BACK." | Body = "it's cheez now. hasn't been cheers since." | CTA: none.
+Shot list: guest raising cup, slurring "cheers" into "cheez," grinning / group raising cups, repeating the slurred word / different guest starting a toast with "cheez" on purpose / whole group toasting "cheez" together.
+No pedaling reference. Only piece in the batch replacing a universal toast word rather than a boat-specific noun; anchored to this boat's own toast tradition.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 458 — Toasts — "She Flubbed the Toast Into 'To the Happy Cupcake.' Nobody Fixed It."
+Voice: The Bestie — EL-Jessica.mp3   Music: light comedic bed with a small rising sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Toast-giver's three drinks in. "To the happy... cupcake."                                   [wide, guest raising a glass mid-toast, catching herself, laughing]
+ 3.4s  Dead silence for half a second. Then the whole boat repeats it back.                        [insert, group pausing, then erupting, echoing "to the happy cupcake"]
+ 7.0s  Second toast of the night, somebody says it again. On purpose this time.                    [insert, a different guest raising a glass, saying the phrase deliberately]
+10.8s  That's the toast now. Cupcake and all.                                                      [closing line, whole boat raising glasses, toast-giver laughing at herself]
+
+On-screen text: Hook = "SHE FLUBBED THE TOAST INTO 'THE HAPPY CUPCAKE'" | Body = "that's the toast now. cupcake and all." | CTA: none.
+Shot list: guest catching her own flub mid-toast, laughing / group pausing then erupting, echoing it back / different guest repeating phrase deliberately / whole boat raising glasses, original toast-giver laughing.
+No pedaling reference. Distinct from existing toastmaster/toast-topping pieces — a single accidental word swap adopted on purpose.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 462 — Running jokes — "A Kid Called It 'Boat Dizzy.' Now Grown Adults Say It Too."
+Voice: The Old Salt — EL-George.mp3   Music: warm, low-key comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Kid leans over the rail. "I feel boat dizzy."                                                [wide, kid leaning over the rail, mom nearby]
+ 3.4s  Mom laughs, tells him to sit and drink some water. Doesn't correct the term.                 [insert, mom guiding the kid to a seat, handing him water, smiling]
+ 7.0s  An hour later, a grown man says the exact same thing. Straight-faced.                        [insert, adult guest sitting down, saying "I'm a little boat dizzy" to a friend]
+10.8s  "Seasick" hasn't been said on this boat in months. It's boat dizzy now.                      [closing line, group laughing, grown guest sipping water, kid pointing and grinning]
+
+On-screen text: Hook = "A KID CALLED IT 'BOAT DIZZY.' ADULTS SAY IT NOW TOO." | Body = "'seasick' hasn't been said in months." | CTA: none.
+Shot list: kid leaning over rail, saying the line, mom nearby / mom guiding kid to a seat, handing him water / adult guest using same phrase to a friend / group laughing, kid pointing and grinning.
+No pedaling reference. Seasickness handled lightly and briefly, no exaggerated illness depicted.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

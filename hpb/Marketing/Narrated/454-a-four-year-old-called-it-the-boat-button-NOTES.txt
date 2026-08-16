@@ -1,0 +1,14 @@
+PIECE 454 — Captain lines — "A Four-Year-Old Called It 'The Boat Button.' The Whole Crew Does Now."
+Voice: The Captain — EL-Eric.mp3   Music: warm, low-key comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Kid points at a cleat on the rail. "What's the boat button do?"                             [wide, kid pointing at a deck cleat, curious]
+ 3.4s  Captain doesn't correct him. "That's exactly what it is, bud."                              [insert, captain crouching to the kid's level, nodding seriously]
+ 7.0s  Deckhand starts calling it that too. Straight-faced. In front of adults.                    [insert, deckhand gesturing to the same cleat, saying "boat button" to a grown guest]
+10.8s  Kid left after that trip. "The boat button" didn't.                                         [closing line, deckhand tapping the cleat, grinning at the camera]
+
+On-screen text: Hook = "A FOUR-YEAR-OLD NAMED IT. THE CREW KEPT IT." | Body = "the kid left. 'the boat button' didn't." | CTA: none.
+Shot list: kid pointing at deck cleat, asking / captain crouching to kid's level, answering seriously / deckhand using phrase with a grown guest / deckhand tapping cleat, grinning.
+No pedaling reference. Hardware named stays a generic deck cleat, no safety-equipment claim implied.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

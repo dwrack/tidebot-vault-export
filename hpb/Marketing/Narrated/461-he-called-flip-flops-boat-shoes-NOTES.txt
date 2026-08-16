@@ -1,0 +1,14 @@
+PIECE 461 — Running jokes — "He Called Flip-Flops 'Boat Shoes.' Deckhand's Announcing It Now."
+Voice: The Regular — EL-Brian.mp3 (premium)   Music: dry, deadpan comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Guest kicks off his flip-flops. "Gotta lose the boat shoes for the swim deck."               [wide, guest kicking off flip-flops near the swim deck]
+ 3.4s  Deckhand overhears. Doesn't correct the term. Just nods along.                               [insert, deckhand nodding, no reaction, business as usual]
+ 7.0s  By the second stop, deckhand's on the mic. "Boat shoes off past this line."                  [insert, deckhand announcing the phrase into the mic, gesturing at the swim deck edge]
+10.8s  Flip-flops haven't been flip-flops on this boat in a month.                                  [closing line, group lined up barefoot at the swim deck, deckhand waving them through]
+
+On-screen text: Hook = "HE CALLED FLIP-FLOPS 'BOAT SHOES.' IT'S POLICY NOW." | Body = "flip-flops haven't been flip-flops in a month." | CTA: none.
+Shot list: guest kicking off flip-flops near swim deck / deckhand nodding along, no correction / deckhand announcing "boat shoes off past this line" into mic / group lined up barefoot, deckhand waving through.
+No pedaling reference. Anchors to the real swim-deck footwear rule rather than an invented policy.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

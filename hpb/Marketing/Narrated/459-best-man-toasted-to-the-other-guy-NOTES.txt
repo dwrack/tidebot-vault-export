@@ -1,0 +1,14 @@
+PIECE 459 — Toasts — "Best Man Toasted 'To the Bride and the Other Guy.' Groom Answers to It Now."
+Voice: The Announcer — EL-Daniel.mp3   Music: dry, mock-official bed with a light rimshot sting   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Best man raises his glass. "To the bride, and, uh, the other guy."                          [wide, best man mid-toast, groom laughing beside him]
+ 3.6s  Room loses it. Groom just raises his glass back, playing along.                             [insert, groom laughing, raising his own glass, group cracking up]
+ 7.4s  Second toast of the night calls him "the other guy" again. On purpose now.                  [insert, a different guest toasting, using the nickname deliberately]
+11.4s  Groom's answered to "the other guy" for the rest of the trip.                                [closing line, groom responding to the nickname across the deck, grinning]
+
+On-screen text: Hook = "BEST MAN TOASTED 'TO THE BRIDE AND THE OTHER GUY'" | Body = "groom's answered to it ever since." | CTA: none.
+Shot list: best man flubbing the groom's role mid-toast, groom laughing / groom raising his glass back, playing along / different guest using the nickname on purpose / groom responding to nickname across deck, grinning.
+No pedaling reference. Distinct from other groom-toast pieces — tracks a nickname born inside the toast, not the toast's emotional register.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

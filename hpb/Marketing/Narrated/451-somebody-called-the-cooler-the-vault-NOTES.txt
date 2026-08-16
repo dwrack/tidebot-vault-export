@@ -1,0 +1,14 @@
+PIECE 451 — Deck-hand slang — "Somebody Called the Cooler 'The Vault.' It's Been The Vault Since."
+Voice: The Deckhand — voice-en-US-GuyNeural.mp3 (free tier)   Music: playful, mischievous bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Don't touch the vault till we're past the no-wake zone."                                  [wide, guest guarding his own cooler, saying the line as a joke]
+ 3.4s  Said it about his own cooler, joking. Deckhand didn't blink, said it back straight.         [insert, deckhand nodding, repeating "the vault" with a straight face]
+ 7.0s  Second cooler shows up. Guest asks if it's "vault two."                                    [insert, a different guest carrying a second cooler aboard, asking the question]
+10.8s  Deckhand's called three different coolers "the vault" this month. Never the same cooler twice. [closing line, deckhand tapping a cooler lid, grinning at the camera]
+
+On-screen text: Hook = "SOMEBODY CALLED THE COOLER 'THE VAULT.' IT STUCK." | Body = "three coolers. never the same one twice." | CTA: none.
+Shot list: guest guarding cooler, saying line as a joke / deckhand repeating "the vault" straight-faced / different guest carrying second cooler aboard / deckhand tapping cooler lid, grinning.
+No pedaling reference. BYOB detail specific to Houston Pedal Barge's actual policy.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

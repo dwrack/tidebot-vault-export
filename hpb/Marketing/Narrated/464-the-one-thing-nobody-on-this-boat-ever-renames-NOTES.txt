@@ -1,0 +1,14 @@
+PIECE 464 — Closer, sincere — "The One Thing Nobody on This Boat Ever Renames"
+Voice: Sarah — EL-Sarah.mp3   Music: soft, warm, understated closing bed, minimal strings   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  This crew's heard a hundred made-up words turn into the whole boat's language by the dock.   [wide, crew going through normal pre-trip motions, calm]
+ 3.6s  Every single one of them, they lean into. On purpose. It's half the fun of the job.          [insert, deckhand grinning, using an invented word with a guest, easy and warm]
+ 7.4s  Except one. However many times they hear it, they never turn it into a bit.                  [insert, guest stepping toward the dock, pausing, turning back toward the crew]
+11.4s  "Thank you for today." Said quiet, right before somebody steps off. Crew just says thank you back. [closing line, golden hour, guest and deckhand exchanging a quiet nod, boat settled at the dock]
+
+On-screen text: Hook = "THIS CREW HAS RENAMED ALMOST EVERYTHING. ALMOST." | Body = "the one thing they never turn into a bit." | CTA: none.
+Shot list: crew going through normal pre-trip motions, calm / deckhand using an invented word with a guest, easy and warm / guest pausing at the dock, turning back toward crew / golden hour, guest and deckhand exchanging a quiet nod.
+No pedaling reference, no vessel name. Distinct from prior sincere closers — this one is about the volume's own device rather than a standalone observation.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

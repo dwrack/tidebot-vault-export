@@ -1,0 +1,14 @@
+PIECE 463 — Running jokes — "Somebody Called It 'The Recoat.' Now There's a Countdown For It."
+Voice: The Sunscreen Friend — voice-en-US-BrianNeural.mp3 (free tier, not EL-Brian)   Music: upbeat build bed, starts soft, builds   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Friend holds up the sunscreen bottle. "Time for the recoat, y'all."                          [wide, friend holding up the bottle, group turning toward her]
+ 3.6s  Second stop, somebody starts an actual countdown for it. "Recoat in five."                   [insert, guest counting down on fingers, group half-laughing, half-listening]
+ 7.4s  By the third stop, it's a whole bit. Everybody chanting it together.                         [insert, whole group chanting "recoat" together, passing the bottle around]
+11.4s  Nobody's called it "reapplying sunscreen" all trip. Just the recoat.                         [closing line, group laughing, bottle being passed hand to hand]
+
+On-screen text: Hook = "SOMEBODY CALLED IT 'THE RECOAT.' NOW IT HAS A COUNTDOWN." | Body = "nobody's called it sunscreen all trip." | CTA: Tag your friend who runs the recoat countdown.
+Shot list: friend holding up sunscreen bottle, group turning toward her / guest counting down on fingers, group half-laughing / whole group chanting "recoat," passing bottle around / group laughing, bottle passed hand to hand.
+No pedaling reference. Tracks the invented word and its ritual, not any character's established role.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

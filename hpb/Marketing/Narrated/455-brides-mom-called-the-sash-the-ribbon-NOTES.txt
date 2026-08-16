@@ -1,0 +1,14 @@
+PIECE 455 — Bachelorette-party lines — "Bride's Mom Called the Sash 'The Ribbon.' By the Dock, So Does the Bride."
+Voice: The Bestie — EL-Jessica.mp3   Music: bright, warm bachelorette bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Mom hands over the sash. "Here's your ribbon, sweetheart."                                  [wide, mom draping the sash over the bride, guests watching]
+ 3.4s  Bride laughs it off. Says it herself by the second stop.                                    [insert, bride adjusting the sash, saying "my ribbon" to a friend, laughing]
+ 7.0s  Whole bridal party's calling it the ribbon now. Not the sash.                                [insert, bridesmaids pointing to the sash, saying "ribbon" among themselves]
+10.8s  She told the valet not to lose her ribbon. Nobody blinked.                                   [closing line, bride stepping off the boat, saying the line to a dockside attendant, walking off proud]
+
+On-screen text: Hook = "MOM CALLED THE SASH 'THE RIBBON.' NOW SO DOES THE BRIDE." | Body = "she told the valet not to lose her ribbon." | CTA: Tag the parent who renames everything on sight.
+Shot list: mom draping sash over bride / bride adjusting sash, saying "my ribbon" to a friend / bridesmaids using the new word among themselves / bride stepping off boat, saying line to dockside attendant.
+No pedaling reference. Distinct from prior sash-object pieces — tracks the renamed word, not the object's handoff.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
