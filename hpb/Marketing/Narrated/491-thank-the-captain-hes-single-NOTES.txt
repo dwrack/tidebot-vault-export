@@ -1,0 +1,20 @@
+PIECE 491 — Toasts lane — "Also Thank the Captain. He's Single."
+Voice: The Captain (EL-Eric.mp3)   Music: dry comedic bed, light awkward-pause sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Groom whispers to the best man: "also thank the captain real quick."         [Captain VO dry deadpan, wide, groom leaning in, whispering to the best man]
+ 3.6s  Best man passes it to the mic-holder. One more hand, one more edit.          [insert, message relayed once more toward whoever's holding the mic]
+ 7.2s  Mic-holder announces: "also — thank the captain, he's single."               [insert, guest at the mic saying the line straight-faced, group turning to the captain]
+11.0s  Captain doesn't even look up from the wheel. Toast moves on regardless.      [closing shot, captain deadpan at the wheel, group laughing, toast continuing]
+
+On-screen text: Hook = "'ALSO THANK THE CAPTAIN.'" (0.0s) · Body = "arrived as: 'HE'S SINGLE.'" (7.2s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Groom leaning in, whispering the real message to the best man
+- [INSERT] Message relayed once more toward whoever's holding the mic
+- [INSERT] Guest at the mic delivering the mangled line, group turning to the captain
+- [B-ROLL] Captain deadpan at the wheel, not reacting, toast continuing
+- Note: No pedaling reference. Captain's reaction should read as unbothered, not embarrassed — keep the joke on the relay, not on the captain.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

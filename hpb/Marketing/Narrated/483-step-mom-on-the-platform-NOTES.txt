@@ -1,0 +1,20 @@
+PIECE 483 — Deck-hand slang lane — "Watch Your Step. There's a Step-Mom on the Platform."
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: playful, mildly awkward comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "Watch your step on the swim platform, it's wet." Deckhand, once, clean.     [Roger VO mock-official, wide, deckhand pointing at the wet swim platform]
+ 3.8s  Passed down the line. Somebody drops a word without meaning to.              [insert, message relayed across guests, one visibly mishearing]
+ 7.6s  Arrives at the far end: "there's a step-mom on the platform."                [insert, guest at the far end repeating it dead serious]
+11.6s  Three heads turn at once, scanning for whose stepmom that could be.          [closing shot, group visibly scanning faces, confused, then laughing it off]
+
+On-screen text: Hook = "WATCH YOUR STEP." (0.0s) · Body = "arrives as: 'there's a STEP-MOM on the platform.'" (7.6s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Deckhand pointing out the wet swim platform, giving the real warning
+- [INSERT] Message relayed across guests, one visibly mishearing mid-pass
+- [INSERT] Guest at the far end repeating "step-mom" completely straight-faced
+- [B-ROLL] Group scanning faces for whose stepmom is aboard, then laughing
+- Note: No pedaling reference. Swim-platform footage stays a normal supervised swim stop.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

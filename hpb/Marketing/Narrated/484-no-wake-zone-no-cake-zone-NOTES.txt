@@ -1,0 +1,20 @@
+PIECE 484 — Captain lines lane — "No Wake Zone. No Cake Zone."
+Voice: The Captain (EL-Eric.mp3)   Music: dry comedic bed, light horn stab on the punchline   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  "No wake zone the next five minutes." Captain, over the mic, once.           [Captain VO dry deadpan, wide, captain at the wheel speaking into the mic]
+ 4.0s  Message starts moving back through the group toward the cooler.              [insert, relay moving through seated guests toward the back of the boat]
+ 8.0s  Somebody near the cake hears "no cake zone" and starts hiding it.            [insert, guest sliding a birthday cake under a towel, looking around nervously]
+12.2s  Captain has no idea a cake almost went into witness protection.              [closing shot, captain still deadpan at the wheel, guest sheepishly uncovering the cake]
+
+On-screen text: Hook = "NO WAKE ZONE. FIVE MINUTES." (0.0s) · Body = "heard as: 'NO CAKE ZONE.'" (8.0s) · CTA: tag whoever's hiding the cake next time.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Captain at the wheel, giving the real no-wake-zone announcement
+- [INSERT] Message relayed backward through seated guests toward the cooler area
+- [INSERT] Guest sliding a birthday cake under a towel, looking around nervously
+- [B-ROLL] Captain still deadpan at the wheel, guest sheepishly uncovering the cake
+- Note: No pedaling reference. Cake needs to be a guest-brought item consistent with BYOB, not a boat-provided prop.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,31 @@
+PIECE 12 — Running joke, guest reaction — "Osprey"
+Voice: voice-en-US-RogerNeural   Music: building tension into a quick comedic release   Length: 16.5s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  An osprey folds its wings and drops straight down, feet first, for a fish it spotted from eighty feet up.   [wide shot: osprey diving toward the water]
+ 4.5s  Every tour, one guest switches into a full nature-documentary voice for exactly one sentence.   [medium shot: guest, deep voice, narrating dramatically, others turning to look]
+ 8.5s  "And here... the raptor... strikes."   [close-up: guest mid-impression, deadly serious, everyone else laughing]
+11.0s  The osprey has no idea it's being narrated. It just eats.   [medium shot: osprey rising from the water with a fish in its talons]
+13.5s  Ten out of ten impressions. Zero out of ten fish survive.   [wide shot: osprey flying off, boat applauding]
+
+ON-SCREEN TEXT: Quote card "TEN OUT OF TEN IMPRESSIONS" at 13.5s, clears with the shot.
+
+SHOT LIST:
+- Wide shot: osprey diving (opener)
+- Medium shot: guest launching into the bit
+- Close-up: guest mid-impression
+- Medium shot: osprey rising with a fish
+- Closing wide shot: osprey flying off, boat applauding
+
+SOURCE GROUNDING: Confirmed unused across all 288 prior NOTES.txt files.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — narrative-into-punchline structure). Mentor pass made two corrections: the original opening line implied the osprey dives without seeing its prey first, which isn't accurate (ospreys spot fish from height, then dive) — rewritten to "a fish it spotted from eighty feet up." The original also named a real, specific public nature documentarian by name for the guest's impression bit; replaced with a generic "nature-documentary voice" description, since no real public figure should appear in marketing content without a reason to reference them. /copywriting-2.0 confirmed the corrected lines pass the 3-test filter. Line to keep: "Ten out of ten impressions. Zero out of ten fish survive." — the strongest closer in the piece.
+
+DEVICES CHECK: First osprey piece in the series, and the first "guest does a bit" running joke built around wildlife commentary rather than a guide or crew line.
+
+PRODUCTION FLAG: Osprey is a real, documented Louisiana wetland species, but this pass does not confirm it as a regular sighting on NPB's specific route. Confirm with a guide before treating this as anything more than occasional. The eighty-foot dive-height figure is illustrative and within the commonly cited range for the species; verify the exact figure before using it as a stated fact rather than a rounded description. No wildlife baited, chased, or handled.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

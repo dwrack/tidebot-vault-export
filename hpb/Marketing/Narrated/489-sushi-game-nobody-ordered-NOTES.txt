@@ -1,0 +1,20 @@
+PIECE 489 — Bachelorette-party lines lane — "Shoe Game. Sushi Game."
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier)   Music: light, giggly comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "We're doing the shoe game at the dock!" Bridesmaid calls it out once.       [Sunscreen Friend VO earnest amused, wide, bridesmaid holding up a shoe, announcing]
+ 3.6s  Relayed guest to guest, the word softens on the way back.                    [insert, message passed across guests toward the stern]
+ 7.4s  One girl hears "sushi game" and asks where the food table is.                [insert, guest looking around hopefully for food, visibly let down]
+11.4s  No sushi. Just shoes and some very specific questions about the groom.       [closing shot, group laughing, actual shoe game starting at the dock]
+
+On-screen text: Hook = "SHOE GAME AT THE DOCK." (0.0s) · Body = "one girl heard: 'SUSHI GAME.'" (7.4s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Bridesmaid holding up a shoe, announcing the game
+- [INSERT] Message relayed across guests toward the stern
+- [INSERT] Guest looking around hopefully for food, visibly disappointed
+- [B-ROLL] Group laughing, actual shoe game starting at the dock
+- Note: No pedaling reference. Shoe game content stays PG — no specific questions scripted on camera, keep it to reactions.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

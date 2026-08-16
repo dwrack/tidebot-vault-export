@@ -1,0 +1,31 @@
+PIECE 09 — Disbelief-to-awe running joke — "Bald Eagle"
+Voice: voice-en-US-BrianNeural   Music: quiet build, a small swell of awe at the reveal   Length: 16.0s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  "That's just a big hawk." Someone says this every winter tour.   [medium shot: guest squinting upward, unconvinced]
+ 3.5s  The guide doesn't argue. Just hands over the binoculars.   [close-up: guide passing binoculars, small knowing smile]
+ 6.5s  White head. White tail. Not a hawk.   [close-up through binoculars: eagle perched, iconic markings clear]
+ 9.0s  "That's... that's an eagle." Same guest, every single time.   [medium shot: guest's expression shifting, mouth open]
+12.0s  Seven miles from Bourbon Street, and there's a bald eagle over the water.   [wide shot: eagle in flight over the bayou]
+
+ON-SCREEN TEXT: No text until 12.0s, small lower-third: "7 MILES FROM BOURBON STREET." Clears with the shot.
+
+SHOT LIST:
+- Medium shot: skeptical guest (opener)
+- Close-up: guide passing binoculars
+- Close-up through binoculars: eagle perched
+- Medium shot: guest's reaction shift
+- Closing wide shot: eagle in flight
+
+SOURCE GROUNDING: Confirmed unused across all 288 prior NOTES.txt files.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — disbelief-to-awe narrative arc). /copywriting-2.0 caught a real factual error in the original closer, "Thirty minutes from Bourbon Street" — this vault's own Brand Story & Values.md documents the actual distance as 7 miles, 15-20 minutes by Uber. The line failed the falsify test outright and was corrected to match the sourced fact exactly. Line to keep: "The guide doesn't argue. Just hands over the binoculars" — the strongest show-don't-tell beat in the piece.
+
+DEVICES CHECK: First bald eagle piece in the series. Same disbelief-to-awe structure other species pieces on file have used, applied here for the first time to this species.
+
+PRODUCTION FLAG: Bald eagles are documented in Louisiana wetlands, more commonly in winter, but this pass does not confirm them as a regular sighting on NPB's specific route. Confirm seasonality and frequency with a guide before treating this as anything more than occasional. No wildlife baited, chased, or handled.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,31 @@
+PIECE 10 — Deadpan guide-delivery running joke — "Cottonmouth"
+Voice: EL-EchoRae (ElevenLabs)   Music: low, calm, a little wry   Length: 15.5s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  The guide's voice doesn't change for this one.   [medium shot: guide, completely level expression, steering]
+ 2.5s  "That's a cottonmouth. Yes, it can bite. No, it doesn't want to."   [close-up: snake coiled on a low branch near the water, at a safe distance]
+ 6.5s  Same flat tone he'd use for a duck.   [medium shot: guide, same expression, pointing out something else entirely]
+ 9.0s  Somebody in the boat leans back anyway.   [medium shot: guest shifting away slightly, others laughing at the reaction]
+11.5s  He's seen this a thousand times. This is everybody's first.   [wide shot: boat gliding calmly past, guide unfazed at the wheel]
+
+ON-SCREEN TEXT: No text overlay. Let the deadpan delivery carry the piece without a punchline card undercutting it.
+
+SHOT LIST:
+- Medium shot: guide's level expression (opener)
+- Close-up: cottonmouth at a safe distance
+- Medium shot: guide, same flat tone, different subject
+- Medium shot: guest leaning back
+- Closing wide shot: boat gliding past calmly
+
+SOURCE GROUNDING: Confirmed unused across all 288 prior NOTES.txt files.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert — conversational, deadpan safety line). Mentor pass cut the original line "That's the joke" for telegraphing the punchline instead of letting the flat delivery land on its own. /copywriting-2.0 confirmed the remaining five lines pass the 3-test filter. Line to keep: "That's a cottonmouth. Yes, it can bite. No, it doesn't want to." — a real, useful safety fact delivered without alarmism.
+
+DEVICES CHECK: First cottonmouth piece in the series, and the first piece built around a guide's flat vocal delivery as the joke mechanism itself.
+
+PRODUCTION FLAG: Cottonmouths are a real, present species in Louisiana wetlands; this framing (guide pointing one out from a safe distance, never approaching) matches how a real tour would handle a sighting. No snake is baited, approached, or handled at any point. Filmed strictly from the boat, at distance.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

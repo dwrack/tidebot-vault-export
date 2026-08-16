@@ -1,0 +1,31 @@
+PIECE 02 — Running joke lane — "All Hands on Deck"
+Voice: EL-Lily (ElevenLabs)   Music: light build, anticipation, resolves into upbeat groove   Length: 17.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Fifteen minutes before she gets here, the deckhand says it.   [medium shot: deckhand checking a phone, glancing at the dock]
+ 3.5s  "All hands on deck." Every phone goes down. Everybody moves.   [wide shot: whole group springing into action, phones set down on a bench]
+ 7.5s  A sign goes up crooked, comes down, goes up straight.   [close-up: banner going up crooked, pulled down, put back up level]
+11.0s  Then the golf cart turns the corner, and everybody goes quiet at once.   [wide shot: golf cart approaching the dock, group freezing, holding the moment]
+14.5s  All hands on deck. On this boat, that's not a metaphor.   [wide shot: birthday guest stepping aboard to a cheer]
+
+ON-SCREEN TEXT: No text until 14.5s, small lower-third "ALL HANDS ON DECK." Clears with the shot.
+
+SHOT LIST:
+- Medium shot: deckhand checking the time (opener)
+- Wide shot: group springing into action
+- Close-up: banner correction
+- Wide shot: golf cart arriving, group going quiet
+- Closing wide shot: guest of honor boarding to a cheer
+
+SOURCE GROUNDING: Idiom "all hands on deck," confirmed unused across all 288 prior NOTES.txt files.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman). Mentor pass flagged the original line 4, "Then the golf cart pulls up, and it's showtime," as a stock ad phrase and rewrote it to a specific, felt beat instead. /copywriting-2.0 confirmed all five lines pass the 3-test filter with no further changes. Line to keep: "A sign goes up crooked, comes down, goes up straight" — the most visualizable, ownable detail in the piece.
+
+DEVICES CHECK: First "all hands on deck" piece in the series. New surprise-arrival-prep device, distinct from existing party-fleet pieces about a different beat in the trip timeline.
+
+PRODUCTION FLAG: Illustrative prep scene. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

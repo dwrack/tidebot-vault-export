@@ -1,0 +1,20 @@
+PIECE 490 — Toasts lane — "Raise It Up for Mark and Elena. For Markets and Lemurs."
+Voice: The Regular (EL-Brian.mp3, premium)   Music: warm toast bed, comedic swell on the punchline   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Raise it up for Mark and Elena." Best man says the names once, clean.       [Regular VO flat deadpan, wide, best man raising a glass, group raising theirs]
+ 4.0s  Someone repeats it back for the folks who didn't catch it over the engine.   [insert, guest relaying the toast line to the row behind them]
+ 8.2s  By the back, it's "raise it up for markets and lemurs." Glasses go up.       [insert, guest at the back raising a glass to "markets and lemurs," straight-faced]
+12.2s  Nobody corrects it. The whole back row toasted to markets and lemurs.        [closing shot, whole back section clinking glasses, laughing, committed to the bit]
+
+On-screen text: Hook = "'RAISE IT UP FOR MARK AND ELENA.'" (0.0s) · Body = "back row toasted: 'MARKETS AND LEMURS.'" (8.2s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Best man raising a glass, giving the real toast dedication
+- [INSERT] Guest relaying the toast line to the row behind them over engine noise
+- [INSERT] Guest at the back raising a glass to "markets and lemurs," straight-faced
+- [B-ROLL] Whole back section clinking glasses, laughing, fully committed to the bit
+- Note: No pedaling reference. "Mark and Elena" are illustrative placeholder names, swap for real couple's names if filmed on an actual trip with consent.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

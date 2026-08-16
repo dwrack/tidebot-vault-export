@@ -1,0 +1,31 @@
+PIECE 11 — Birthday-group line, eco tour — "Timed to the Gator"
+Voice: voice-en-US-GuyNeural   Music: playful build into a warm, off-key singalong feel   Length: 17.5s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  The guide already knows it's somebody's birthday. Been holding the moment the whole tour.   [medium shot: guide glancing back with a small knowing look]
+ 4.5s  Then a gator surfaces, right on cue, and the guide starts singing.   [wide shot: gator surfacing near the boat]
+ 8.5s  Eleven strangers on a swamp tour, singing happy birthday to a gator's entrance.   [wide shot: whole boat singing, laughing, off-key]
+12.5s  Best-timed birthday song this boat's had in weeks.   [medium shot: birthday guest laughing, hand over face]
+15.0s  The gator did not stay for cake.   [wide shot: gator submerging again, boat still laughing]
+
+ON-SCREEN TEXT: No text until 15.0s, small lower-third: "THE GATOR DID NOT STAY FOR CAKE." Clears with the shot.
+
+SHOT LIST:
+- Medium shot: guide's knowing glance (opener)
+- Wide shot: gator surfacing
+- Wide shot: whole boat singing
+- Medium shot: birthday guest's reaction
+- Closing wide shot: gator submerging, boat still laughing
+
+SOURCE GROUNDING: New birthday-group device, confirmed unused across all 288 prior NOTES.txt files. The only two prior birthday pieces in the series (the base pass's "birthday roast toast" and Pass 25's "off-key happy birthday") are both party-fleet pieces. This is the first birthday-group piece built for the eco tour, and the first anywhere in the series to tie a birthday song's timing to a wildlife sighting.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — narrative build to the punchline). /copywriting-2.0 softened the original closer's unverifiable superlative, "Best birthday song this guide's ever timed," to the bounded, more believable "Best-timed birthday song this boat's had in weeks." Line to keep: "The gator did not stay for cake." — the funniest, most ownable line in the piece.
+
+DEVICES CHECK: First device of its kind in the series: a birthday moment intentionally timed to a wildlife sighting rather than delivered as a standalone beat.
+
+PRODUCTION FLAG: This piece presents an illustrative bit a guide could plausibly do, not a confirmed existing company tradition. Confirm with ops/guides before treating the birthday-timed-to-a-sighting device as an actual practice to promote. No gator is baited, chased, or approached; shown surfacing naturally, boat keeps its distance throughout.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

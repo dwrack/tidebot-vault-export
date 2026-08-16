@@ -8,16 +8,17 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "dormant — no data sources, IG silent since Nov 2025"
-updated: 2026-08-15
+updated: 2026-08-16
 tile_type: business
 ---
 
 <!-- live:start -->
-- **No GBP location, no GSC site, no Google Ads, no GA4, no Meta ad account.** Instagram only.
-- IG last posted **Nov 14, 2025** — 9 months dark. The final posts were a giveaway that actually worked (38 and 34 shares, 7 comments), so the audience was responsive when the account was active.
-- Nothing to report until this is either restarted or formally shelved. It's been carried as a placeholder in the brief for months.
+- **No GBP location, no GSC site, no Google Ads, no GA4, no Meta ad account.** Instagram only. Nothing to pull.
+- IG last posted **Nov 14, 2025 — nine months dark.** The final run was a giveaway that actually worked: 38 and 34 shares, 7 comments on one post, 2 on another. The audience was responsive right up until the account stopped.
+- Carried as a placeholder in this brief for months now. It is either restarted or formally shelved; there's no third option and no data will appear until one of those happens.
+- If it restarts, the Seabrook/Kemah geo angle and the giveaway mechanic are the two things that demonstrably worked.
 <!-- live:end -->
 
 ## Quick links
 - IG: @houstonboozecruise
-- Note: no GBP / GSC / Ads coverage yet
+- Note: no GBP / GSC / Ads / GA4 / Meta coverage. Dormant.

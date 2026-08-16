@@ -1,0 +1,31 @@
+PIECE 06 — Bachelorette, toast device — "Your Toast, Your Rules"
+Voice: EL-Eric (ElevenLabs)   Music: soft build, a little emotional by the close   Length: 17.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  The mic gets handed to the bride. Everybody braces for the bride speech.   [medium shot: deckhand handing over a small speaker/mic, group leaning in]
+ 3.5s  "Your toast, your rules," the deckhand says, stepping back.   [close-up: deckhand's line, small grin, stepping out of frame]
+ 7.0s  She turns around and toasts her maid of honor instead.   [medium shot: bride turning to face her best friend, raising her cup toward her]
+10.5s  Nobody saw that coming. Half the boat is crying.   [wide shot: group reaction, maid of honor covering her mouth, others tearing up]
+13.5s  Your toast, your rules. Turns out the rule was: somebody else deserved it more.   [medium shot: bride and maid of honor hugging, cups still raised between them]
+
+ON-SCREEN TEXT: Quote card "YOUR TOAST, YOUR RULES" at 13.5s, clears with the shot.
+
+SHOT LIST:
+- Medium shot: mic handed to the bride (opener)
+- Close-up: deckhand's line, stepping back
+- Medium shot: bride turning to her maid of honor
+- Wide shot: group's emotional reaction
+- Closing medium shot: the two friends hugging
+
+SOURCE GROUNDING: New bachelorette device, confirmed unused across all 288 prior NOTES.txt files. Every existing bachelorette piece on file is built around the bride receiving a moment (a song, a survival kit, an energy bell curve); this is the first where the bride redirects the moment onto someone else in her own group.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — setup, twist, payoff narrative). /copywriting-2.0 fixed the original closer's tangled syntax ("Turns out the rule was somebody else deserved it") to a cleaner spoken line. Line to keep: "Nobody saw that coming. Half the boat is crying" — the most specific, visualizable line in the piece.
+
+DEVICES CHECK: First "bride flips her own toast" device in the series.
+
+PRODUCTION FLAG: Illustrative moment, not a confirmed real event. This device in particular would need a willing, informed bride and maid of honor before any real filming, given how personal the moment is. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,20 @@
+PIECE 487 — Bachelorette-party lines lane — "Toast Is Fired. Get the Manager."
+Voice: The Bestie (EL-Jessica.mp3)   Music: bright, chaotic-friendly comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Toast in five! Get your drinks up!" MOH yells it once, clear.               [Bestie VO loud excited, wide, MOH standing, yelling toward the group]
+ 3.8s  Passed friend to friend down the row, getting looser each time.              [insert, message relayed across three bridesmaids, each one adding energy]
+ 7.8s  Last one hears "toast is fired — get the manager." Face goes pale.           [insert, guest at the end going wide-eyed, standing up fast]
+11.8s  There's no manager. There's no fire. There's a toast in five minutes.        [closing shot, MOH laughing, guest sitting back down, relieved]
+
+On-screen text: Hook = "TOAST IN FIVE!" (0.0s) · Body = "arrives as: 'TOAST IS FIRED — GET THE MANAGER.'" (7.8s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] MOH standing, yelling the real five-minute toast warning
+- [INSERT] Message relayed across three bridesmaids, each one adding energy
+- [INSERT] Guest at the end going wide-eyed, standing up fast
+- [B-ROLL] MOH laughing, guest sitting back down, relieved
+- Note: No pedaling reference. Keep the "fired/manager" beat obviously comedic, no real complaint implied about the crew.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

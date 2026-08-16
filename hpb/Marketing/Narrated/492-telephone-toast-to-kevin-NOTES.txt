@@ -1,0 +1,20 @@
+PIECE 492 — Toasts lane — "Telephone Toast to Kevin"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: playful game-show comedic bed   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  "New game. I whisper a toast word down the boat. If it survives, we toast."  [Roger VO mock-official, wide, guest announcing the rules, holding up a hand for quiet]
+ 4.2s  Word goes in one end. Ten people. Ten chances to wreck it.                   [insert, whispering chain moving hand to hand across the length of the boat]
+ 8.6s  Comes out the other end as "Kevin." Nobody on this boat is named Kevin.      [insert, last guest announcing the final word, group bursting out laughing]
+12.6s  Toast gets raised to Kevin anyway. Whoever Kevin is, he's got a boat now.    [closing shot, whole group raising glasses "to Kevin," laughing]
+
+On-screen text: Hook = "TELEPHONE TOAST. GO." (0.0s) · Body = "came out the other end: 'KEVIN.'" (8.6s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Guest announcing the rules of the deliberate whisper-chain game
+- [INSERT] Whispering chain moving hand to hand across the length of the boat
+- [INSERT] Last guest announcing the final mangled word, group bursting out laughing
+- [B-ROLL] Whole group raising glasses "to Kevin"
+- Note: No pedaling reference. Original word should be a placeholder toast word chosen on the day, not scripted in advance, so the mutation is genuinely unrehearsed on the shoot.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

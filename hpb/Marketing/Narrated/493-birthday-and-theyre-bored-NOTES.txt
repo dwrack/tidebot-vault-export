@@ -1,0 +1,20 @@
+PIECE 493 — Running jokes lane — "We've Got a Birthday On Board. They're Bored."
+Voice: The Old Salt (EL-George.mp3)   Music: warm, communal comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Radio crackles: "we've got a birthday on board, say hi if you pass 'em."     [Old Salt VO wry warm, wide, deckhand on the radio, boat visible in the distance]
+ 3.8s  Message relayed across the OTHER boat's deck, word for word, mostly.         [insert, second boat's deckhand relaying it down their own guests]
+ 7.6s  Comes out as "we've got a birthday, and they're bored." Wrong entirely.      [insert, guests on the second boat looking confused, then waving anyway]
+11.4s  Whole second boat starts waving and cheering at total strangers. Works out.  [closing shot, both boats passing, waving and cheering at each other]
+
+On-screen text: Hook = "\"WE'VE GOT A BIRTHDAY ON BOARD.\"" (0.0s) · Body = "arrived as: 'THEY'RE BORED.'" (7.6s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Deckhand on the radio, calling out the real birthday heads-up
+- [INSERT] Second boat's deckhand relaying the message down their own guests
+- [INSERT] Guests on the second boat looking confused, then waving anyway
+- [B-ROLL] Both boats passing on the water, waving and cheering at each other
+- Note: No pedaling reference. Requires a second HPB trip genuinely on the water at the same time to shoot for real — otherwise stage with two boats from the fleet on a slow day.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

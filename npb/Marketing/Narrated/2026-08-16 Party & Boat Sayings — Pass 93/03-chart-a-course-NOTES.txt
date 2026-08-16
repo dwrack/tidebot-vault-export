@@ -1,0 +1,31 @@
+PIECE 03 — Birthday-group running joke, captain line — "Chart a Course"
+Voice: EL-George (ElevenLabs)   Music: light comedic bounce   Length: 15.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Six people, six different ideas of where this boat should go.   [medium shot: group huddled over a phone map, pointing in different directions]
+ 3.5s  The captain lets it go about four seconds.   [close-up: captain, arms crossed, amused, letting the debate run]
+ 6.5s  "Chart a course, birthday girl. Everybody else is just cargo today."   [medium shot: birthday guest grinning, pointing dramatically toward the water]
+10.5s  Nobody argues with cargo.   [wide shot: rest of the group throwing their hands up, laughing, giving in]
+12.5s  She picked the sandbar. Cargo's thrilled.   [wide shot: boat approaching a sandbar, whole group cheering]
+
+ON-SCREEN TEXT: Quote card "CHART A COURSE" at 6.5s under the captain's line, clears after 2 seconds.
+
+SHOT LIST:
+- Medium shot: group arguing playfully over a map (opener)
+- Close-up: captain, amused, letting it run
+- Medium shot: birthday guest pointing dramatically
+- Wide shot: group giving in, laughing
+- Closing wide shot: boat approaching the sandbar
+
+SOURCE GROUNDING: Idiom "chart a course," confirmed unused across all 288 prior NOTES.txt files. Used here as a phrase inside a captain-line running joke rather than a standalone literal-vs-figurative idiom explainer.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman). Mentor pass cut the original explainer line "The captain cuts it short with one line" for telegraphing the joke before the quote lands, replacing it with a shorter setup. /copywriting-2.0 confirmed all five lines pass the 3-test filter. Line to keep: "Nobody argues with cargo" — four words, completely ownable, the strongest line across this whole pass.
+
+DEVICES CHECK: New birthday-group device: the birthday guest gets designated tiebreaking authority over group disagreement, distinct from the existing "everybody wants five minutes at the wheel" piece (a wheel-time wish, not a routing decision).
+
+PRODUCTION FLAG: Illustrative group dynamic and captain line, not a confirmed scripted company policy. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

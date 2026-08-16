@@ -1,0 +1,20 @@
+PIECE 494 — Running jokes lane — "Clean Cannonball. Olympic Diver."
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: fast, hype comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "That was a clean cannonball." One guy says it, watching from the rail.      [Deckhand VO fast hype, wide, guest doing a cannonball off the swim platform]
+ 3.6s  Gets relayed forward, guy to guy, four people deep.                          [insert, message passed forward across four separate guests near the bow]
+ 7.6s  By guest four: "he's basically an Olympic diver." Straight face.             [insert, guest at the front repeating it completely seriously]
+11.6s  Guy who did the cannonball has no idea he's an Olympian now. Four hops in.   [closing shot, original guy toweling off, oblivious, group laughing behind him]
+
+On-screen text: Hook = "'THAT WAS A CLEAN CANNONBALL.'" (0.0s) · Body = "four people later: 'HE'S AN OLYMPIC DIVER.'" (7.6s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Guest doing a clean cannonball off the swim platform, others watching
+- [INSERT] Message passed forward across four separate guests near the bow
+- [INSERT] Guest at the front repeating the "Olympic diver" line seriously
+- [B-ROLL] Original guy toweling off, oblivious, group laughing behind him
+- Note: No pedaling reference. Cannonball stays a normal supervised swim-stop jump, no diving off rails or upper decks.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

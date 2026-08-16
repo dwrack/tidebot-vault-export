@@ -1,0 +1,33 @@
+PIECE 08 — Wildlife spotlight, guest reaction line — "Roseate Spoonbill"
+Voice: voice-en-GB-RyanNeural   Music: bright, a little playful   Length: 17.0s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  "That bird is pink. Why is it pink?"   [medium shot: guest pointing, wide-eyed, phone raised]
+ 2.5s  Roseate spoonbill. The color comes straight from what it eats: shrimp, little crustaceans.   [close-up: spoonbill wading, distinctive flat bill visible]
+ 7.0s  Same reason flamingos are pink.   [close-up: spoonbill's plumage in good light]
+ 9.0s  It feeds by swinging that bill side to side, feeling for the next bite blind.   [medium shot: bird sweeping its bill through shallow water]
+13.0s  Half the boat thought we made the color up.   [wide shot: guests laughing, comparing photos on their phones]
+15.5s  We didn't. Louisiana did.   [wide shot: spoonbill taking flight, pink against green marsh]
+
+ON-SCREEN TEXT: Small lower-third at 2.5s: "ROSEATE SPOONBILL." Clears after 2 seconds. Second card at 15.5s: "WE DIDN'T. LOUISIANA DID." Clears with the shot.
+
+SHOT LIST:
+- Medium shot: guest reacting, phone up (opener)
+- Close-up: spoonbill wading, bill visible
+- Close-up: plumage detail
+- Medium shot: bird feeding, bill sweeping
+- Wide shot: guests comparing photos
+- Closing wide shot: spoonbill in flight
+
+SOURCE GROUNDING: Confirmed unused across all 288 prior NOTES.txt files.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Ogilvy — factual specificity, a real diet-based cause for the color rather than a vague claim). Mentor pass split one run-on line into two shorter beats for spoken pacing. /copywriting-2.0 confirmed all six lines pass the 3-test filter. Line to keep: "We didn't. Louisiana did." — four words, the strongest closer in this pass.
+
+DEVICES CHECK: First roseate spoonbill piece in the series.
+
+PRODUCTION FLAG: Roseate spoonbills are a real, documented Louisiana wetland species, but this pass does not confirm them as a regular sighting on NPB's specific eco-tour route. Confirm with a guide before treating this as anything more than an occasional sighting. No wildlife baited, chased, or handled.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

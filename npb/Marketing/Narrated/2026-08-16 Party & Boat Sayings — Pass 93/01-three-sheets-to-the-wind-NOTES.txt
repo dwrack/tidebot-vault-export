@@ -1,0 +1,31 @@
+PIECE 01 — Funny/irreverent lane — "Three Sheets to the Wind"
+Voice: EL-Jessica (ElevenLabs)   Music: playful, upright bass and light percussion   Length: 16.5s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  A sheet isn't a sail.   [close-up: dock line coiled on a cleat]
+ 2.0s  It's the rope that controls one.   [close-up: hand tracing a line up toward a flag]
+ 4.5s  Three of them loose and flapping, and the whole rig goes wherever the wind wants.   [medium shot: pennant flags snapping in the wind on the boat]
+ 9.0s  That's the actual origin. Now it just means your cousin, by hour three.   [medium shot: one guest, mid laugh, drink in hand, being steered gently to a seat by a deckhand]
+13.0s  Nobody's driving this ship home three sheets to the wind.   [wide shot: captain at the wheel, relaxed, boat cutting smooth toward the dock]
+
+ON-SCREEN TEXT: Quote card "THREE SHEETS TO THE WIND" at 13.0s, clears with the shot.
+
+SHOT LIST:
+- Close-up: coiled dock line on a cleat (opener)
+- Close-up: hand tracing a line up toward a flag
+- Medium shot: pennant flags snapping in the wind
+- Medium shot: guest laughing, gently walked to a seat
+- Closing wide shot: captain at the wheel, boat heading back
+
+SOURCE GROUNDING: Idiom "three sheets to the wind," confirmed unused across all 288 prior NOTES.txt files on disk (base pass through Pass 92) by this pass's full filename audit.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Sugarman — short first sentence, slippery-slide pacing). Then /copywriting-2.0: line 4 originally read "That's where the saying comes from. Now it just means somebody" — failed the visualize test ("somebody" is abstract) — rewritten to name a concrete, funny stand-in ("your cousin, by hour three"). Line to keep: "Nobody's driving this ship home three sheets to the wind" — true (the captain always drives), reassuring, no oversell.
+
+DEVICES CHECK: First "three sheets to the wind" piece in the series. Same literal-meets-figurative idiom mini-scene device the series has used since Pass 71, applied to a new idiom.
+
+PRODUCTION FLAG: Illustrative guest behavior, not a scripted company ritual. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

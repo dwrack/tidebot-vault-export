@@ -1,0 +1,20 @@
+PIECE 481 — Deck-hand slang lane — "Cooler's Closed. Colonel's Closed."
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: fast, upbeat comedic bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Cooler's closed, two minutes, restocking!" First guy hears it clean.        [Deckhand VO fast hype, wide, deckhand calling out from behind the cooler, guest nodding]
+ 3.6s  He turns and passes it down. Next guy passes it again.                       [insert, message moving mouth to ear down a row of guests]
+ 7.4s  By the back row, it's "the Colonel's closed for two minutes."                [insert, guest at the back repeating it straight-faced]
+11.2s  Guy salutes. Nobody corrects him. The cooler's still just closed.            [closing shot, guest saluting toward the cooler, deckhand shaking his head, laughing]
+
+On-screen text: Hook = "COOLER'S CLOSED. TWO MINUTES." (0.0s) · Body = "by the back row: 'the Colonel's closed.'" (7.4s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Deckhand behind the cooler, calling out the two-minute restock
+- [INSERT] Message passed mouth to ear down a row of guests
+- [INSERT] Guest at the back repeating the mangled version straight-faced
+- [B-ROLL] Guest saluting toward the cooler, deckhand laughing and shaking his head
+- Note: No pedaling reference. Cooler restock detail matches HPB's actual BYOB policy — don't invent a menu item.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,31 @@
+PIECE 07 — Guest question + guide correction — "Spanish Moss"
+Voice: EL-Sarah (ElevenLabs)   Music: soft, curious   Length: 16.5s
+Product: Naturalist eco swamp tour
+
+SCRIPT (timed to narration):
+ 0.0s  "Is that killing the tree?" Somebody asks this every single tour.   [medium shot: guest pointing at a moss-draped cypress]
+ 3.5s  Spanish moss isn't Spanish, isn't moss, and it's not hurting that tree one bit.   [close-up: moss detail, swaying gently]
+ 7.5s  It's an air plant. Cousin to a pineapple, if you can believe that.   [close-up: guide holding a loose strand, showing the group]
+11.0s  No roots in the bark. It's just borrowing the view.   [wide shot: cypress fully draped, kayak or boat gliding past below]
+14.0s  Every tour, somebody asks. Every tour, the tree's fine.   [medium shot: guest nodding, satisfied, looking back up at the moss]
+
+ON-SCREEN TEXT: Small lower-third at 7.5s: "AIR PLANT, NOT A PARASITE." Clears after the line.
+
+SHOT LIST:
+- Medium shot: guest pointing up at the moss (opener)
+- Close-up: moss swaying
+- Close-up: guide holding a strand
+- Wide shot: draped cypress, boat gliding past
+- Closing medium shot: guest, satisfied
+
+SOURCE GROUNDING: Confirmed unused across all 288 prior NOTES.txt files. Note: the underlying fact (Spanish moss is an air plant, not a parasite, related to the pineapple family) also appears in the Admire NOLA reference bank's Lane 6 (did-you-know facts). This piece's phrasing was deliberately reworded during the copy-mentors pass to avoid echoing that bank's specific wording too closely.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga — factual correction structure). Mentor pass reworded the moss-fact line for originality against the sibling-brand reference bank. /copywriting-2.0 confirmed all five lines pass the 3-test filter with no further changes. Line to keep: "No roots in the bark. It's just borrowing the view" — the most ownable, visual line in the piece.
+
+DEVICES CHECK: First Spanish moss piece in the series, and the first flora (non-wildlife) spotlight since the series' fern and iris pieces.
+
+PRODUCTION FLAG: None beyond the standard consent and safety note. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

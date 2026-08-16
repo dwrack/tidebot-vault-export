@@ -1,0 +1,29 @@
+PIECE 04 — Affectionate running joke, idiom — "Loose Cannon"
+Voice: EL-Brian (ElevenLabs)   Music: warm, a little mischievous   Length: 16.0s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Two hundred years ago, a loose cannon rolling across a wooden deck could kill a man.   [close-up: rope securing a cooler or equipment on deck, tension detail]
+ 4.5s  Now it just means your friend Marcus.   [medium shot: one guest mid-story, arms flailing, telling an animated story]
+ 7.5s  Every group's got one. Every deckhand clocks them in the first sixty seconds.   [medium shot: deckhand, subtle knowing glance toward that guest]
+11.5s  Loose cannon. He's also the one everybody screenshots for the group chat later.   [wide shot: that same guest leading a toast, whole group laughing, phones out]
+
+ON-SCREEN TEXT: Quote card "LOOSE CANNON" at 11.5s, clears with the shot.
+
+SHOT LIST:
+- Close-up: rope securing gear on deck (opener)
+- Medium shot: animated guest mid-story
+- Medium shot: deckhand's knowing glance
+- Closing wide shot: guest leading a toast, phones out capturing it
+
+SOURCE GROUNDING: Idiom "loose cannon," confirmed unused across all 288 prior NOTES.txt files.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Bencivenga — the closing claim needs to survive a skeptical read). Historical opening fact kept as-is. /copywriting-2.0 caught the original closer, "Loose cannon. Best time on the boat, every single trip," as an unfalsifiable absolute claim reading like ad copy, and rewrote it to a concrete, funny, non-superlative line. "Marcus" is a fictional stock name for a running-joke character type, not a real guest or crew member. Line to keep: "Now it just means your friend Marcus" — the sharpest turn in the piece.
+
+DEVICES CHECK: First "loose cannon" piece in the series. Same literal-meets-figurative idiom family as Pieces 01 and 02 this pass.
+
+PRODUCTION FLAG: "Marcus" is a fictional placeholder, not a real person. No real guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

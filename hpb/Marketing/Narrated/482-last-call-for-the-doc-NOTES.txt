@@ -1,0 +1,20 @@
+PIECE 482 — Deck-hand slang lane — "Last Call for the Dock. There's a Doc on Board."
+Voice: The Old Salt (EL-George.mp3)   Music: warm, wry comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Last call for the dock, ten minutes." Deckhand says it once, clean.         [Old Salt VO wry warm, wide, deckhand at the stern calling toward the group]
+ 3.8s  It moves forward, guest to guest, over the wind and the speaker.             [insert, message relayed across three different guests, hands cupped to ears]
+ 7.8s  Guy up front turns around: "wait, is there a doctor on this boat?"           [insert, guest up front looking genuinely concerned, scanning faces]
+11.8s  There's no doc. There's a dock. Ten minutes. Nobody needed to worry.         [closing line, deckhand laughing, pointing toward the actual dock coming into view]
+
+On-screen text: Hook = "LAST CALL FOR THE DOCK." (0.0s) · Body = "'wait, is there a DOCTOR on this boat?'" (7.8s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Deckhand at the stern calling the ten-minute dock warning
+- [INSERT] Message relayed guest to guest, hands cupped to ears against the wind
+- [INSERT] Guest up front turning around, visibly concerned, scanning for a doctor
+- [B-ROLL] Deckhand laughing, pointing at the actual dock coming into view
+- Note: No pedaling reference. Keep the "doctor" beat light and immediately resolved, not played as real alarm.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

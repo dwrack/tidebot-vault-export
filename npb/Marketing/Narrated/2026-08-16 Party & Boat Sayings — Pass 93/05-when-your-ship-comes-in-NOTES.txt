@@ -1,0 +1,31 @@
+PIECE 05 — Sincere birthday/milestone toast, idiom — "When Your Ship Comes In"
+Voice: EL-Daniel (ElevenLabs)   Music: warm strings under narration, swells slightly at the toast   Length: 17.0s
+Product: Private BYOB party fleet
+
+SCRIPT (timed to narration):
+ 0.0s  Old sailors had a saying: your ship comes in loaded, and everything changes.   [wide shot: boat cutting through open water, golden light]
+ 4.0s  Today it's not cargo. It's her, and a new job half this boat hasn't heard about yet.   [medium shot: guest of honor, surprised expression, phone still in hand]
+ 8.5s  "To the ship that already came in."   [medium shot: captain or deckhand raising a cup, gathering the group's attention]
+11.0s  Whatever's in your hand, that's the toast.   [wide shot: whole group raising whatever they're holding, drinks, cans, cups]
+13.5s  Her ship came in. This boat just happened to be floating under it.   [medium shot: guest of honor, laughing, a little emotional, surrounded by the group]
+
+ON-SCREEN TEXT: No text until 8.5s, small lower-third under the toast line: "TO THE SHIP THAT ALREADY CAME IN." Clears after the toast beat.
+
+SHOT LIST:
+- Wide shot: boat in open water, golden light (opener)
+- Medium shot: guest of honor's surprised reaction
+- Medium shot: toast-giver raising a cup
+- Wide shot: whole group raising drinks
+- Closing medium shot: guest of honor, laughing, emotional
+
+SOURCE GROUNDING: Idiom "when your ship comes in," confirmed unused across all 288 prior NOTES.txt files. New sincere-toast birthday/milestone device, distinct from the series' existing "birthday roast toast" (comedic roast format) and "off-key happy birthday" (song format) — this is a genuine well-wish toast, an angle the series hasn't used before.
+
+COPY PASSES: Drafted, then routed through /copy-mentors (Halbert — conversational warmth for the toast). /copywriting-2.0 cut the original closer, "Her ship came in. This boat just happened to be there," for being a flat restatement that failed the burrito test, and rewrote it to keep the nautical metaphor concrete. Line to keep: "Whatever's in your hand, that's the toast" — a real, checkable brand truth (no fussy champagne requirement on a BYOB boat), not an invented sentiment.
+
+DEVICES CHECK: New device, first sincere (non-comedic) toast piece in the series built around a milestone the guest hasn't announced to the whole group yet.
+
+PRODUCTION FLAG: Illustrative toast scenario. The "new job half this boat hasn't heard about yet" detail is written for this piece specifically, not a claim about any real guest or event. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered. Pass 93, 2026-08-16.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

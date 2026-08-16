@@ -1,0 +1,20 @@
+PIECE 485 — Captain lines lane — "Turning at the Buoy. Turning Into a Boy Band."
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: playful, mock-dramatic comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Turning at the buoy up ahead." Captain says it plain, once.                 [Groomsman VO chill dry, wide, captain pointing at a marker buoy ahead]
+ 3.6s  Relayed back through the group, word starts drifting.                       [insert, message passed across three guests toward the stern]
+ 7.2s  By the stern: "we're turning into a boy band." Three guys stand up.          [insert, three guests standing, striking a pose, dead serious]
+11.0s  Boat just turns at the buoy. The pose was free content anyway.               [closing shot, boat turning normally at the buoy, guys still posing, laughing at themselves]
+
+On-screen text: Hook = "TURNING AT THE BUOY." (0.0s) · Body = "heard as: 'TURNING INTO A BOY BAND.'" (7.2s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Captain pointing out the marker buoy, giving the real turn call
+- [INSERT] Message relayed backward across three guests toward the stern
+- [INSERT] Three guests standing up and striking a pose, dead serious
+- [B-ROLL] Boat turning normally at the buoy, guys laughing at their own bit
+- Note: No pedaling reference. Buoy should read as a real navigation marker, not staged.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

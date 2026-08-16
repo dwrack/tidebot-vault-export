@@ -1,0 +1,20 @@
+PIECE 495 — Running jokes lane — "Grab Sunscreen. And Seven Other Things."
+Voice: The Bestie (EL-Jessica.mp3)   Music: upbeat, chaotic-friendly comedic bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Can someone grab me sunscreen?" One girl asks, once, simple.                [Bestie VO loud excited, wide, guest calling out, hand shading her eyes]
+ 4.0s  It moves down the boat. Somebody adds a request. Then another does.          [insert, message relayed across guests, each one adding a new item]
+ 8.4s  Reaches the cooler guy as eight separate things, sunscreen way down the list. [insert, guest by the cooler holding up fingers, counting off eight items]
+12.4s  He checks off all eight. Sunscreen's still item one. He didn't forget her.   [closing shot, cooler guy handing out items one by one, sunscreen first, group laughing]
+
+On-screen text: Hook = "'CAN SOMEONE GRAB SUNSCREEN?'" (0.0s) · Body = "arrived as: 8 SEPARATE REQUESTS." (8.4s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Guest calling out the original sunscreen request, hand shading her eyes
+- [INSERT] Message relayed across guests, each one visibly adding a new item
+- [INSERT] Guest by the cooler counting off eight items on his fingers
+- [B-ROLL] Cooler guy handing out items one by one, sunscreen first, group laughing
+- Note: No pedaling reference. All eight items should be things plausibly already on a BYOB boat (sunscreen, napkins, extra cup, phone charger, etc.) — no invented boat-provided menu.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

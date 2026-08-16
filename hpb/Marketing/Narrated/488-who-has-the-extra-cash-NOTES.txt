@@ -1,0 +1,20 @@
+PIECE 488 — Bachelorette-party lines lane — "Who Has the Extra Sash. Who Has the Extra Cash."
+Voice: The Planner (EL-Lily.mp3)   Music: bright, playful comedic bed   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Does anyone have the extra sash?" Bride asks the group once.                [Planner VO bright polished, wide, bride turning to the group, checking her own sash]
+ 3.6s  It moves down the row. One girl mishears clean through the wind.             [insert, message passed across three guests toward the back]
+ 7.0s  Comes back as "does anyone have extra cash?" Four wallets come out.          [insert, four guests reaching for wallets or phones at once]
+10.8s  Bride still needs the sash. She's just also $40 richer for a second.         [closing shot, bride laughing, waving off the cash, someone finally finds the sash]
+
+On-screen text: Hook = "'WHERE'S THE EXTRA SASH?'" (0.0s) · Body = "heard as: 'WHERE'S THE EXTRA CASH?'" (7.0s) · CTA: tag the friend who's always got cash on her.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Bride turning to the group, checking her own sash, asking for a spare
+- [INSERT] Message relayed across three guests toward the back
+- [INSERT] Four guests reaching for wallets or phones at once
+- [B-ROLL] Bride laughing, waving off the cash, someone finding the actual sash
+- Note: No pedaling reference. No specific dollar figure spoken on camera — "$40" stays on-screen text only, illustrative, not a real transaction.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

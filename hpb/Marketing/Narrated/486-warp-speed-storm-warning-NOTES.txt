@@ -1,0 +1,20 @@
+PIECE 486 — Captain lines lane — "Storm's Twenty Out. Warp Speed."
+Voice: The Announcer (EL-Daniel.mp3)   Music: mock-dramatic sting into a light comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Storm's twenty minutes out. Heading in early." Captain, once, over the mic. [Announcer VO formal news register, wide, captain checking the horizon, radio in hand]
+ 3.8s  Deckhand relays it forward. It changes hands twice more.                     [insert, message passed forward across guests near the bow]
+ 7.8s  Front of the boat: "storm's coming — warp speed!" One guy yells it.          [insert, guest up front yelling "warp speed," fist in the air]
+11.8s  Boat's doing the same speed it's done all day. Nobody's mad about the yell.  [closing line, boat cruising at normal speed, guest still grinning at himself]
+
+On-screen text: Hook = "STORM'S 20 OUT. HEADING IN." (0.0s) · Body = "arrives up front as: 'WARP SPEED.'" (7.8s) · CTA: none.
+Treatment: Impact, yellow #FFD400, heavy black outline.
+
+Shot list:
+- [B-ROLL] Captain checking the horizon, radio in hand, real weather call
+- [INSERT] Message passed forward across guests near the bow
+- [INSERT] Guest yelling "warp speed" with a fist in the air
+- [B-ROLL] Boat cruising at its normal speed, guest laughing at himself
+- Note: No pedaling reference. Weather call should read as routine caution, not real danger — keep tone light throughout.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
