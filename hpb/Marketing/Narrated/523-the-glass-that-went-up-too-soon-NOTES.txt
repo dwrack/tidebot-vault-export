@@ -1,0 +1,20 @@
+PIECE 523 — Toasts, the delayed take — The Old Salt / "The Glass That Went Up Too Soon"
+Voice: The Old Salt (EL-George.mp3)   Music: soft strings easing into a light comedic bounce on the catch   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Toast-giver chokes up mid-sentence — the whole boat goes quiet out of respect.                         [Old Salt VO wry warm, wide, toast-giver pausing, emotional, crowd stilling]
+ 3.8s  Nobody moves. Even the deckhand stops what he's doing.                                                 [insert, deckhand pausing mid-task, everyone frozen]
+ 7.6s  One uncle, half a drink in, doesn't catch the pause — starts raising his glass early.                  [insert, uncle lifting his glass a beat too soon, into the silence]
+11.8s  He catches himself mid-raise, glass frozen halfway, mouths "sorry" to the whole boat.                  [closing shot, uncle's glass stuck halfway up, sheepish, a few quiet laughs breaking the moment gently]
+
+On-screen text: Hook = "\"THE TOAST WENT QUIET.\"" / Body = "one glass went up a beat too early." / CTA: none.
+
+Shot list:
+- [B-ROLL] Toast-giver pausing mid-sentence, visibly emotional, boat going quiet
+- [INSERT] Deckhand pausing mid-task, whole boat still and respectful
+- [INSERT] Uncle lifting his glass a beat too soon into the silence
+- [CLOSE] Same uncle freezing mid-raise, mouthing "sorry," gentle laughs breaking the moment
+
+Note: This piece should read as warm, not mocking — the uncle's mistake is gentle and resolves kindly, not as embarrassment. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

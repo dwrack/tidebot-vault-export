@@ -1,0 +1,20 @@
+PIECE 516 — Captain lines, the delayed take — The Captain / "Rule's Mostly For Me"
+Voice: The Captain (EL-Eric.mp3)   Music: dry deadpan sting bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Nobody talks to the captain while docking. Rule's mostly for me." Flat, over the mic.                 [Captain VO dry deadpan, wide, captain at the wheel, delivering the line into the mic]
+ 3.6s  A ripple of laughs moves through the boat right on the beat.                                          [insert, guests laughing together near the rail]
+ 7.4s  One guy's got a single earbud in, still catching up, hasn't laughed yet.                               [insert, guest with one earbud, half-listening, delayed processing visible]
+11.4s  Boat's gone quiet again — that's exactly when he laughs, loud, by himself.                             [closing shot, guest laughing alone into the quiet, a few heads turning toward him instead of the captain]
+
+On-screen text: Hook = "\"RULE'S MOSTLY FOR ME.\"" / Body = "he laughed five seconds after everyone else stopped." / CTA: none.
+
+Shot list:
+- [B-ROLL] Captain at the wheel delivering the mic line deadpan
+- [INSERT] Ripple of guests laughing together on the beat
+- [INSERT] Guest with one earbud in, half-listening, not reacting yet
+- [CLOSE] Same guest laughing alone into a now-quiet boat, heads turning toward him
+
+Note: Docking sequence should read as a routine, safe approach, not a comedic mishap. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

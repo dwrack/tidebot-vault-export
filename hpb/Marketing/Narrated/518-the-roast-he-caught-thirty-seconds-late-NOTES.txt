@@ -1,0 +1,20 @@
+PIECE 518 — Captain lines, the delayed take — The Regular / "The Roast He Caught Thirty Seconds Late"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: slow-burn comedic bed, soft realization sting on the turn   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "Skipper's a different résumé. Captain's fine." Dry, said once, straight-faced.                        [Regular VO flat deadpan, wide, captain correcting a guest at the wheel, completely deadpan]
+ 3.8s  Guest laughs, nods, turns right back to his conversation like it's nothing.                            [insert, guest laughing, turning away, unbothered]
+ 7.6s  Half a minute goes by — conversation's already moved to something else entirely.                       [insert, guest mid-new-conversation, relaxed, unaware]
+11.8s  Then it lands. He turns back around slow, mouths "wait" at the captain's back.                         [closing shot, guest turning back, mouthing "wait," captain already facing forward, not reacting]
+
+On-screen text: Hook = "\"SKIPPER'S A DIFFERENT RÉSUMÉ.\"" / Body = "took him thirty seconds to realize he got roasted." / CTA: none.
+
+Shot list:
+- [B-ROLL] Captain correcting a guest at the wheel, deadpan delivery
+- [INSERT] Guest laughing it off, turning back to his conversation
+- [INSERT] Same guest thirty seconds later, mid-unrelated-conversation, relaxed
+- [CLOSE] Guest turning back around slowly, mouthing "wait," captain unbothered at the wheel
+
+Note: Keep the correction affectionate, not sharp — a gentle jab a captain would actually make, not a real scolding. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

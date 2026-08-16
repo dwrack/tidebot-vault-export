@@ -1,0 +1,20 @@
+PIECE 525 — Running jokes, the delayed take — The Deckhand / "Braced Two Seconds Late"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: fast comedic bed, soft "whoosh" sting on the wake   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Sit down, wake's coming!" Somebody yells it, same as every trip.                                      [Deckhand VO fast hype, wide, guest yelling the warning, boat picking up speed]
+ 3.6s  Everybody else is already braced, hands on the rail.                                                   [insert, group bracing together, ready]
+ 7.4s  One guy's still standing there mid-sentence, telling a story, hasn't reacted.                          [insert, guest mid-story, oblivious, still standing]
+11.4s  Wake hits. Two seconds later, he grabs the rail — after the bump already happened.                     [closing shot, guest lunging for the rail a beat too late, boat already leveled out, friends laughing]
+
+On-screen text: Hook = "\"SIT DOWN, WAKE'S COMING!\"" / Body = "he grabbed the rail after the bump was already over." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest yelling the standard wake warning, boat picking up speed
+- [INSERT] Group bracing together, hands already on the rail
+- [INSERT] Guest mid-story, still standing, not reacting to the warning
+- [CLOSE] Same guest lunging for the rail two seconds after the wake's already passed
+
+Note: Distinct from piece 369 ("The Rail-Grip Guy") — this is a one-time delayed reaction to a specific wake, not a standing character trait or running rail-grip habit. The wake itself should read as a normal, minor bump, not a staged safety incident. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

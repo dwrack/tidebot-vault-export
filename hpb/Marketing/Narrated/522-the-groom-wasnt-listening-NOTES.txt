@@ -1,0 +1,20 @@
+PIECE 522 — Toasts, the delayed take — The Groomsman / "The Groom Wasn't Listening"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: warm sentimental bed undercut by a light comedic sting on the elbow   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Best man lands the line — the whole boat laughs on the beat.                                          [Groomsman VO chill dry, wide, best man mid-toast, crowd already reacting]
+ 3.6s  Groom's not even looking at him, staring at the bride the whole time.                                  [insert, groom gazing at the bride, not tracking the toast at all]
+ 7.4s  Someone next to him elbows him, mouths "that was about you."                                           [insert, groomsman elbowing the groom, mouthing something]
+11.4s  Groom laughs a full two seconds after everyone else already stopped.                                   [closing shot, groom laughing alone, bride laughing at him laughing late]
+
+On-screen text: Hook = "\"THE BEST MAN LANDED THE LINE.\"" / Body = "the groom caught up two seconds later." / CTA: none.
+
+Shot list:
+- [B-ROLL] Best man mid-toast, crowd already laughing on the beat
+- [INSERT] Groom gazing at the bride, completely checked out of the toast content
+- [INSERT] Groomsman elbowing the groom, mouthing a heads-up
+- [CLOSE] Groom laughing two seconds late, bride laughing at his delay instead of the joke
+
+Note: Toast content should stay warm and generic, not a specific invented roast line about a real couple. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

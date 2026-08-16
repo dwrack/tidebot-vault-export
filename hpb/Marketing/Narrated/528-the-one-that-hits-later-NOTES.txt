@@ -1,0 +1,20 @@
+PIECE 528 — Closer, sincere register, the delayed take turned inward — Sarah / "The One That Hits Later"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, sincere bed — no comedic sting anywhere in this piece   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Ride back, and the trip's already turning into "what's next" talk before the dock's even in sight.     [Sarah VO warm soft, wide, group chatting, relaxed, boat heading in, dock in the distance]
+ 4.0s  Engine cuts at the dock. Quick, quiet, over before anyone thinks to notice it.                          [insert, captain cutting the engine, water going still, nobody looking at it directly]
+ 8.2s  Nobody says anything about it in the moment. Everybody's already gathering bags.                       [insert, guests gathering coolers and bags, moving toward the dock, unremarkable]
+12.2s  It's the one that shows up again that night, replaying on its own, after everything else already faded.  [closing shot, single guest looking back at the water from the parking lot, quiet beat, golden light]
+
+On-screen text: Hook = "\"THE TRIP ALREADY FELT LIKE IT WAS OVER.\"" / Body = "one moment showed up again that night." / CTA: none — closers run cold, matching series convention.
+
+Shot list:
+- [B-ROLL] Group chatting and relaxed on the ride back, dock visible in the distance
+- [INSERT] Captain cutting the engine, water going still, no one directly reacting to it
+- [INSERT] Guests gathering coolers and bags, ordinary end-of-trip movement
+- [CLOSE] Single guest pausing to look back at the water from the parking lot, golden light, quiet beat
+
+Note: Sincere register only — no joke, no CTA, no on-screen punchline. This is the one piece per volume that plays it straight, closing the delayed-take device on itself: the moment nobody reacts to live is the one that lasts. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

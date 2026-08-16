@@ -1,0 +1,20 @@
+PIECE 524 — Toasts, the delayed take — The Regular / "Dad Missed It Getting The Shot"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: wry, understated comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Five words, perfect toast, whole boat clinks glasses on the spot.                                     [Regular VO flat deadpan, wide, toast-giver delivering a short line, immediate reaction from crowd]
+ 3.6s  Dad of the bride's still adjusting his phone angle, trying to get the shot right.                      [insert, dad fiddling with phone camera settings, missing the moment live]
+ 7.4s  Glasses are already clinking around him — he never actually heard the line.                            [insert, glasses clinking, dad clinking along on autopilot, confused]
+11.6s  He leans over mid-clink: "Wait, what'd he say?" Nobody quite remembers it exactly anymore.             [closing shot, dad asking, guests shrugging and laughing, already onto the next toast]
+
+On-screen text: Hook = "\"FIVE WORDS. WHOLE BOAT CLINKED.\"" / Body = "dad missed it getting the shot." / CTA: none.
+
+Shot list:
+- [B-ROLL] Toast-giver delivering a short, perfect line, immediate reaction from the group
+- [INSERT] Dad adjusting his phone camera angle, missing the toast live
+- [INSERT] Glasses clinking around him, dad clinking along without having heard it
+- [CLOSE] Dad asking "what'd he say," guests shrugging and laughing, moving on
+
+Note: Toast line itself doesn't need to be scripted word-for-word on camera — the joke is that nobody quite remembers it, so it stays implied. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

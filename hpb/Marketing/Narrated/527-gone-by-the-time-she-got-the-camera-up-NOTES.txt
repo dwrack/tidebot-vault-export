@@ -1,0 +1,20 @@
+PIECE 527 — Running jokes, the delayed take — The Announcer / "Gone By The Time She Got The Camera Up"
+Voice: The Announcer (EL-Daniel.mp3)   Music: light comedic bed, quick cut energy   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "Look, that guy's standing up on it!" Someone points at a jet ski flying past.                          [Announcer VO formal straight, wide, guest pointing, jet ski visible in the background]
+ 3.6s  Half the boat already turned, already laughed, already turned back.                                    [insert, group looking, reacting, then returning to conversation]
+ 7.4s  One guest is still digging her phone out of her bag, hasn't looked yet.                                 [insert, guest fumbling in a bag for her phone, distracted]
+11.4s  She finally gets the camera up — jet ski's already a speck on the lake.                                 [closing shot, guest holding phone up at an empty stretch of water, jet ski long gone, friends laughing at her timing]
+
+On-screen text: Hook = "\"THAT GUY'S STANDING UP ON IT!\"" / Body = "her camera was ready for a jet ski that was already gone." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest pointing out the jet ski, boat reacting, jet ski visible passing by
+- [INSERT] Group looking, laughing, already turning back to conversation
+- [INSERT] Guest digging through a bag for her phone, distracted, missing it live
+- [CLOSE] Guest holding her phone up at empty water, jet ski long gone, friends laughing
+
+Note: Jet ski footage should be a real, incidental passerby — not staged or coordinated with another vessel/rider. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

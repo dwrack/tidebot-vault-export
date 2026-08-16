@@ -1,0 +1,20 @@
+PIECE 514 — Deck-hand slang, the delayed take — The Old Salt / "The Flinch, Two Seconds After"
+Voice: The Old Salt (EL-George.mp3)   Music: light bouncy comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Line's coming in hot," deckhand calls it plain, already swinging the rope.                           [Old Salt VO wry warm, wide, deckhand mid-throw with the dock line, calling the warning]
+ 3.6s  Two guests near the rail step back on reflex, no big deal, they know the drill.                       [insert, two guests casually stepping back, unbothered]
+ 7.4s  One girl's still framing a selfie, headphones in, doesn't hear a word of it.                          [insert, guest holding her phone up, oblivious, rope landing behind her]
+11.6s  Rope's tied off, nothing happened — that's when she flinches, a full two seconds late.                [closing shot, guest jumping at nothing, friends already laughing at her reaction, not the rope]
+
+On-screen text: Hook = "\"LINE'S COMING IN HOT.\"" / Body = "she flinched two seconds after it was over." / CTA: none.
+
+Shot list:
+- [B-ROLL] Deckhand mid-throw with the dock line, calling the safety warning
+- [INSERT] Two guests stepping back casually, already used to the routine
+- [INSERT] Guest holding phone up for a selfie, headphones in, missing the call entirely
+- [CLOSE] Same guest flinching two seconds after the rope's already safely tied off
+
+Note: This should read as a real, correctly executed dock-line procedure, not a staged near-miss — nothing here is actually unsafe. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

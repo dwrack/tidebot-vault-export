@@ -1,0 +1,20 @@
+PIECE 513 — Deck-hand slang, the delayed take — The Deckhand / "The Laugh That Showed Up Late"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: dry understated comedic bed, single sting on the late laugh   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "We don't gift-wrap. We do restock." Deckhand says it flat, doesn't break stride.                    [Deckhand VO fast hype, wide, deckhand pouring ice into the cooler, delivering the line without looking up]
+ 3.4s  Two guys nearby laugh right on cue, one raises his cup toward him.                                    [insert, two guests laughing immediately, one lifting a cup]
+ 7.0s  Third guy's still got his sunglasses halfway up his forehead, hasn't caught it yet.                   [insert, guest mid-adjusting sunglasses, blank, group already moved on]
+11.2s  Three seconds later he loses it into his drink, alone — deckhand's already three coolers down.        [closing shot, guest laughing solo into his cup, friends giving him a look, deckhand well down the deck]
+
+On-screen text: Hook = "\"WE DON'T GIFT-WRAP. WE RESTOCK.\"" / Body = "the laugh showed up three seconds late." / CTA: none.
+
+Shot list:
+- [B-ROLL] Deckhand pouring ice into the cooler, delivering the line deadpan mid-motion
+- [INSERT] Two guests laughing immediately, one lifting a cup toward the deckhand
+- [INSERT] Third guest mid-adjusting sunglasses, blank expression, oblivious to the joke
+- [CLOSE] Same guest laughing alone into his drink, three seconds behind, deckhand already down the deck
+
+Note: New device for this volume (the delayed take — a trigger lands on time for the group, one specific person is behind, the gap resolves in one concrete beat). Distinct from every idiom, quote, tally, prophecy, ruling, handoff, award, relay, chant, or small-system piece in prior volumes. Cooler-restock detail matches HPB's actual BYOB setup — don't invent a house drink or menu item.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,20 @@
+PIECE 526 — Running jokes, the delayed take — Roger / "The DJ Needed A Whole Chorus"
+Voice: Roger (voice-en-US-RogerNeural.mp3)   Music: upbeat music-comedy bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody belts the completely wrong lyrics, loud, full confidence.                                     [Roger VO mock-official, wide, guest singing wrong words loudly, oblivious]
+ 3.6s  The boat loses it immediately, someone repeats the wrong line back at him.                             [insert, group laughing, repeating the mangled lyric]
+ 7.4s  Guy running the aux cord doesn't get why it's funny, just nodding along.                                [insert, guest holding his phone, playing DJ, confused about the laughter]
+11.6s  Chorus loops back around. He hears it for himself this time and about drops the phone.                 [closing shot, guest realizing mid-chorus, nearly fumbling his phone, laughing at himself now too]
+
+On-screen text: Hook = "\"WRONG WORDS. FULL CONFIDENCE.\"" / Body = "the dj needed a whole chorus to get the joke." / CTA: Tag the friend who confidently sings the wrong lyrics every single time.
+
+Shot list:
+- [B-ROLL] Guest singing the wrong lyrics loudly, full confidence, oblivious
+- [INSERT] Group laughing immediately, repeating the mangled line back
+- [INSERT] Guest running the aux cord from his phone, confused, not in on the joke
+- [CLOSE] Same guest realizing mid-chorus, nearly fumbling his phone, laughing at himself
+
+Note: Song choice/lyrics should stay unnamed or generic to avoid a real licensing/attribution question in the written brief. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

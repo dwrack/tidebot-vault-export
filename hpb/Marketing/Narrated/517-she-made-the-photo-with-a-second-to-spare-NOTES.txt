@@ -1,0 +1,20 @@
+PIECE 517 — Captain lines, the delayed take — The Announcer / "She Made The Photo With A Second To Spare"
+Voice: The Announcer (EL-Daniel.mp3)   Music: warm, building acoustic-comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Cutting the engine for two minutes — this sunset's the whole reason we stop here." Captain, over the mic.  [Announcer VO formal straight, wide, captain cutting the throttle, sunset behind the wheelhouse]
+ 3.6s  Whole boat turns toward the rail at once, phones already up.                                          [insert, group turning together, phones lifting in sync]
+ 7.4s  One woman's still on FaceTime, hasn't looked up from the screen.                                       [insert, guest on a video call, back half-turned to the sunset]
+11.4s  She catches it a beat late, ends the call mid-sentence, squeezes into the photo right as the shutter goes.  [closing shot, guest hanging up fast, sliding into frame just as the group photo is taken]
+
+On-screen text: Hook = "\"THIS SUNSET'S THE WHOLE REASON WE STOP HERE.\"" / Body = "she made it into the photo with about a second to spare." / CTA: none.
+
+Shot list:
+- [B-ROLL] Captain cutting the throttle, sunset behind the wheelhouse
+- [INSERT] Group turning toward the rail together, phones lifting in sync
+- [INSERT] Guest on a video call, back turned to the sunset, missing the moment
+- [CLOSE] Same guest ending the call and sliding into the group photo just as the shutter goes
+
+Note: Sunset stop should read as a real, unstaged engine-cut moment, not a scheduled photo op announced in advance. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

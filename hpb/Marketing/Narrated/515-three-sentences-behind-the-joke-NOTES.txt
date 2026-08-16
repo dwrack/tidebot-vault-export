@@ -1,0 +1,20 @@
+PIECE 515 — Deck-hand slang, the delayed take — Roger / "Three Sentences Behind the Joke"
+Voice: Roger (voice-en-US-RogerNeural.mp3)   Music: light rhythmic comedic bed, percussion hit on the cough   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  "That's knot my problem," deckhand says, tying off, completely deadpan.                               [Roger VO mock-official, wide, deckhand tying a line, delivering the pun without cracking a smile]
+ 3.8s  The group next to him groans and laughs at the same time, right on cue.                               [insert, group groaning and laughing together immediately]
+ 7.6s  One groomsman's mid-bite of a chip, hasn't processed a word of it yet.                                 [insert, groomsman chewing, blank stare, oblivious to the joke landing around him]
+11.6s  Three sentences later it hits — he coughs a chip straight onto his own shirt.                          [closing shot, groomsman coughing, brushing crumbs off, friends already laughing at the new bit]
+
+On-screen text: Hook = "\"THAT'S KNOT MY PROBLEM.\"" / Body = "took him three sentences and a chip to the lungs." / CTA: none.
+
+Shot list:
+- [B-ROLL] Deckhand tying off a line, delivering the pun deadpan
+- [INSERT] Group groaning and laughing together immediately
+- [INSERT] Groomsman mid-bite of a chip, blank, not tracking the joke yet
+- [CLOSE] Same groomsman coughing crumbs onto his shirt, brushing off, laughing at himself
+
+Note: Real snack brand/packaging should stay generic or blurred if visible on camera. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
