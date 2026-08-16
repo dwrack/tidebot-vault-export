@@ -1,0 +1,19 @@
+PIECE 374 — Captain lines, the captain's non-answer to the tenure question — The Regular / "Long Enough"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: deadpan comedic bed, light and easy   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks the captain how long he's been doing this.                          [Regular VO flat deadpan, wide, guest asking captain a question, captain at the wheel]
+ 3.4s  He's got one answer and it never changes.                                                 [insert, captain glancing over, half-smile]
+ 6.8s  "Long enough." That's it. That's the whole answer.                                        [insert, guest waiting for more, captain already looking back at the water]
+10.6s  I've asked him myself. Four times. Same answer every time.                                [closing line, wide, golden hour, Regular laughing, shaking head]
+
+On-screen text: Hook = "\"HOW LONG HAVE YOU BEEN DOING THIS?\"" / Body = "\"long enough.\" that's the whole answer." / CTA: none
+
+Shot list:
+- [INSERT] Guest asking the captain the question
+- [INSERT] Captain's half-smile, eyes back on the water
+- [B-ROLL] Regular laughing, shaking his head, golden hour
+
+Note: deliberately states no actual number of years — a candidate version with a specific tenure figure was dropped pre-draft since it isn't verified anywhere in the vault. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

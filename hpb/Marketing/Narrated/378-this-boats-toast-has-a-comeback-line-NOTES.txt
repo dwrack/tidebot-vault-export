@@ -1,0 +1,19 @@
+PIECE 378 — Toasts, the crowd's scripted response rather than the toast itself — The Announcer / "This Boat's Toast Has a Comeback Line"
+Voice: The Announcer (EL-Daniel.mp3)   Music: warm celebratory bed with a light horn stab on "docked it"   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every toast on this boat gets the same response, whether you plan for it or not.          [Announcer VO formal, wide, guest raising a cup for a toast, group turning toward them]
+ 3.6s  Somebody finishes their toast. The whole boat yells the same two words back.               [insert, group leaning in, ready]
+ 7.2s  "Docked it." Every single toast. Nobody remembers who started it.                          [insert, whole group yelling the line together, cups raised]
+11.0s  Doesn't matter what the toast was about. That line's landing either way.                   [closing line, wide, golden hour, cups clinking together, group laughing]
+
+On-screen text: Hook = "EVERY TOAST GETS THE SAME COMEBACK" / Body = "\"docked it.\" every single time." / CTA: none
+
+Shot list:
+- [INSERT] Guest raising a cup, group turning to listen
+- [INSERT] Whole group yelling the comeback line together
+- [B-ROLL] Cups clinking, golden hour
+
+Note: cans only, no glass, consistent with the series' existing no-glass rule. First draft used "And that's the tea" as the comeback line — cut during copywriting-2.0 for failing the ownability test (an internet-wide phrase, not specific to this boat) — replaced with a boat-specific pun. Distinct from the whole toast-to-X and toastmaster family — this piece's device is the audience's response, not who gives the toast. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

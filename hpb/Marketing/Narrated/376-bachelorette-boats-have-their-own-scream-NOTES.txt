@@ -1,0 +1,19 @@
+PIECE 376 — Bachelorette-party lines, the recognition holler between two bachelorette crews — The Planner / "Bachelorette Boats Have Their Own Scream"
+Voice: The Planner (EL-Lily.mp3)   Music: high-energy pop bed with a crowd-cheer sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Two bachelorette boats pass each other on this lake more than you'd think.                [Planner VO bright, wide, two boats crossing paths, both full of matching-shirt groups]
+ 3.6s  There's a sound that happens every single time. Not a wave. A scream.                     [insert, both boats' groups screaming and waving at once, big energy]
+ 7.2s  Nobody taught anybody this. It just happens, every crossing.                               [insert, brides on each boat pointing at each other, cheering]
+11.0s  Strangers ten seconds ago. Best friends for exactly one scream.                            [closing line, wide, golden hour, boats passing, both groups still hollering]
+
+On-screen text: Hook = "TWO BACHELORETTE BOATS PASS. IT'S NEVER JUST A WAVE." / Body = "strangers for ten seconds. best friends for one scream." / CTA: none
+
+Shot list:
+- [B-ROLL] Two boats crossing paths, matching shirts visible on both
+- [INSERT] Both groups screaming and waving simultaneously
+- [INSERT] Brides on each boat pointing at each other, cheering
+
+Note: distinct from the existing "two boats pass, everybody waves" piece — this piece's device is a specific bachelorette-only recognition holler, not a general wave. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

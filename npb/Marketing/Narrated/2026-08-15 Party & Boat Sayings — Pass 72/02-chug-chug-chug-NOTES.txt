@@ -1,0 +1,29 @@
+PIECE 02 — Funny / running-joke — "Chug, Chug, Chug"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: high-energy, percussive, comedic build (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone starts the chant. "Chug, chug, chug." Within two seconds it's the whole boat.   [wide shot: group forming a loose circle, chanting, phones already up]
+ 3.0s  If the cup ever stops moving, the chant just restarts. There's no official rule. It just happens.   [close-up: guest pausing mid-drink, chant getting louder, restarting around them]
+ 7.5s  The engine's louder than eight people yelling. Somehow the chant always wins.   [medium shot: captain glancing back, grinning, engine wake visible behind the boat]
+11.5s  Nobody remembers who started it. Somebody always starts it.   [close-up: a different guest starting the next round, group turning toward them]
+14.0s  By the second round, it's not even about the drink anymore.   [closing wide shot: full group cheering, cups raised, boat cruising through open water]
+
+ON-SCREEN TEXT TREATMENT:
+None. The chant's own rhythm carries the beat, a text card would slow it down.
+
+SHOT LIST:
+- Wide shot: group forming a circle, chanting, phones up (opener)
+- Close-up: guest pausing mid-drink, chant restarting around them
+- Medium shot: captain glancing back, grinning, wake visible
+- Close-up: a different guest starting the next round
+- Closing wide shot: full group cheering, cups raised, boat cruising on
+
+SOURCE GROUNDING: Built around the party chant "chug, chug, chug," confirmed completely untouched across all 240 prior pieces by this pass's dedup verification. Distinct from Pieces 01 and 03 (also drink-adjacent) by centering the chant-as-social-contagion device rather than an individual-behavior gag or a running count.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's mid-action open (the chant is already happening in line one, no wind-up) and Sugarman's slippery-slide pacing across the five lines. Then /copywriting-2.0 (3-test filter): a draft closer, "that's just how good times work out here," was cut for reading like brochure copy and failing the falsifiability test. Rewrote to "by the second round, it's not even about the drink anymore," which is a concrete, checkable observation about group behavior rather than an unownable vibe claim.
+DEVICES CHECK: Distinct from Pass 71's "Man Overboard" running-joke device (a single recurring line with one punchline) — this piece's engine is a self-perpetuating group chant with no single instigator, a social-contagion structure not used elsewhere in the series per the dedup survey.
+
+PRODUCTION FLAG: Illustrative group behavior, not a scripted or company-endorsed chant. No guest, deckhand, or captain identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Halbert + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

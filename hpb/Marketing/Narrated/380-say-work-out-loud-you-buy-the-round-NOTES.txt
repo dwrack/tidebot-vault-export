@@ -1,0 +1,19 @@
+PIECE 380 — Running jokes, an enforced group rule with a real consequence — Roger / "Say 'Work' Out Loud, You Buy the Round"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: dry comedic bed with a brass stab   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Roger made a rule a few summers back and it just stuck.                                   [Roger VO mock-official, wide, Roger addressing the boat with a raised finger]
+ 3.6s  Say the word "work" out loud on this boat, you're buying the next round.                   [insert, Roger pointing at someone who slipped up, mock-stern]
+ 7.2s  Doesn't matter if it's your job, somebody else's job, any job.                              [insert, guest groaning, reaching for their wallet, group laughing]
+11.0s  Three people have paid for it today already. Roger's not one of them.                      [closing line, wide, golden hour, Roger smug, holding up a drink someone bought him]
+
+On-screen text: Hook = "SAY \"WORK\" OUT LOUD, YOU BUY THE ROUND" / Body = "three people have paid for it today. not roger." / CTA: tag the friend who'd owe the most rounds
+
+Shot list:
+- [INSERT] Roger addressing the boat, finger raised
+- [INSERT] Guest groaning, reaching for their wallet
+- [B-ROLL] Roger smug, holding a drink someone bought him
+
+Note: no dollar figure stated. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

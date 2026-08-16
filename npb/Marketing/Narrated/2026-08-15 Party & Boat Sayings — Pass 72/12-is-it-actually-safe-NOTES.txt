@@ -1,0 +1,29 @@
+PIECE 12 — Practical / FAQ, myth-busting — "Is It Actually Safe?"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: reassuring, steady, warm close (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Is it actually safe?" It's the question every single guest asks before they ask anything else.   [wide shot: guest at the dock, hesitant, looking out at the water]
+ 3.5s  Every boat's USCG certified. Every captain's licensed. That part isn't up for debate.   [close-up: guide checking gear before departure, methodical]
+ 7.5s  The gators aren't the risk people think they are. Nobody baits them, chases them, or gets close enough to find out otherwise.   [medium shot: gator drifting at a distance, unbothered, kayaks keeping their distance]
+12.0s  The actual risk on this trip is sunburn. Bring the sunscreen the guide keeps mentioning.   [close-up: guide handing over sunscreen, guest applying it, laughing]
+15.5s  People ask if it's safe right up until the moment the scariest part turns out to be getting here on time.   [closing wide shot: kayaks gliding calmly, guest visibly relaxed]
+
+ON-SCREEN TEXT TREATMENT:
+None. The plain, confident answer carries the beat.
+
+SHOT LIST:
+- Wide shot: guest at the dock, hesitant (opener)
+- Close-up: guide checking gear, methodical
+- Medium shot: gator at a distance, unbothered, kayaks keeping distance
+- Close-up: guide handing over sunscreen, guest applying it
+- Closing wide shot: kayaks gliding calmly, guest relaxed
+
+SOURCE GROUNDING: The underlying question is adapted from Script & Caption Bank Lane 11's "Is it safe?" FAQ line, read in full this pass. The source bank's exact line ("Four hundred plus tours, zero guest injuries") is a different operation's specific claim and is deliberately NOT reused here, since that figure is unverified for NPB and stating it as fact would violate the vault's standing guardrail against invented statistics. This piece answers the same real guest question using only facts confirmed in Brand Story & Values Section 2 (USCG certification, licensed captains, no baiting/chasing/cornering wildlife).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's answer-the-real-objection-first instinct (the exact question guests silently hold, addressed in the opening line) and Bencivenga's hierarchy-of-proof discipline (checkable facts like certification and licensing outrank an unsupported assertion, and an unverified statistic was deliberately excluded rather than risk a "yeah, right" failure). Then /copywriting-2.0 (3-test filter): a draft line stating a specific tour-count and injury figure (borrowed loosely from the bank source) was cut outright for being unverifiable for this specific company, a stronger cut than a normal rewrite, since a false-sounding-precise safety statistic is a worse failure than a vaguer true one. Replaced with the confirmed, checkable USCG/licensing facts instead.
+DEVICES CHECK: A direct-answer FAQ/myth-busting piece, distinct from Piece 10 (a scheduling question) by addressing a safety objection instead of a logistics one; distinct from Pass 71's Piece 11 ("Louder Isn't the Same as Closer," an airboat-comparison myth-vs-reality piece) by answering a guest's internal fear rather than correcting a comparison to a competitor's product.
+
+PRODUCTION FLAG: "USCG certified" and "licensed captains" are stated as general company facts per Brand Story & Values Section 2. The "no baiting, chasing, or cornering" claim is stated company practice per prior passes' consistent guardrail language and should be reconfirmed with ops as current policy before airing. No guide or guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Halbert + Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

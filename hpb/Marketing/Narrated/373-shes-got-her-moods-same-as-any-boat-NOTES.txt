@@ -1,0 +1,19 @@
+PIECE 373 — Captain lines, the captain's habit of talking about the boat like she has a personality — The Old Salt / "She's Got Her Moods, Same As Any Boat"
+Voice: The Old Salt (EL-George.mp3)   Music: warm acoustic/folk bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask the Old Salt about this boat and he won't talk numbers. He'll talk moods.             [Old Salt VO wry, warm, wide, older man resting a hand on the rail, looking out]
+ 3.6s  Some mornings she starts up easy. Some mornings she wants coaxing.                        [insert, engine starting, captain patient at the helm]
+ 7.2s  He talks about her like she's got opinions. After enough years, maybe she does.           [insert, Old Salt patting the rail affectionately]
+11.0s  Every boat's got a personality, if you're around her long enough to learn it.             [closing line, wide, golden hour, boat cruising smooth, Old Salt content]
+
+On-screen text: Hook = "HE DOESN'T TALK NUMBERS. HE TALKS MOODS." / Body = "every boat's got a personality, if you stick around" / CTA: none
+
+Shot list:
+- [INSERT] Engine starting, captain patient at the helm
+- [INSERT] Old Salt patting the rail
+- [B-ROLL] Boat cruising smooth, golden hour
+
+Note: nautical tradition of referring to vessels as "she." First-draft title was "She's a Little Stiff Today," cut during the copywriting-2.0 pass for an unintended drink-strength double meaning outside of script context. Distinct from the existing "the boat doesn't lie" piece (a reading-conditions honesty bit) — this piece's device is personality/mood. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

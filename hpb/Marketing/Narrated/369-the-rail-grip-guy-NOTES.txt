@@ -1,0 +1,19 @@
+PIECE 369 — Deck-hand slang, crew nickname for a guest type — The Deckhand / "The Rail-Grip Guy"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: fast, upbeat comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every boat's got one.                                                                    [Deckhand VO fast, wide, guest gripping the rail tight right after boarding]
+ 3.4s  Both hands on the rail before the lines are even off. Doesn't move for an hour.          [insert, guest frozen in place, deckhand hurrying past]
+ 7.0s  Crew's got a name for him. We call him the Barnacle.                                     [insert, deckhand mouthing "barnacle" to another crew member, grinning]
+10.6s  By the third lap he lets go. Every time. We still call him the Barnacle.                 [closing line, wide, golden hour, guest relaxed, arms up, laughing]
+
+On-screen text: Hook = "EVERY BOAT'S GOT THE BARNACLE" / Body = "by lap three, he lets go. every time." / CTA: tag the friend who does this
+
+Shot list:
+- [INSERT] Guest gripping the rail tight at boarding, knuckles visible
+- [INSERT] Deckhand mouthing "barnacle" to a crewmate, grinning
+- [B-ROLL] Same guest, arms up, laughing, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,29 @@
+PIECE 08 — Did-you-know / wildlife spotlight — "The Lizard Everyone Calls the Wrong Name"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: light, playful, quick reveal (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone spots a bright green lizard on a branch and asks if the swamp has chameleons.   [wide shot: kayaks pausing near overhanging branches]
+ 3.5s  It's not a chameleon. It's a green anole, and it only shifts between two colors: green and brown.   [close-up: anole perched, mid-color, throat fan slightly extended]
+ 8.0s  That little flash of red under its chin isn't decoration. It's a warning to every other anole nearby.   [medium shot: anole displaying its dewlap, guide gesturing]
+12.5s  It'll hold completely still for a photo, then vanish the second anyone reaches for a closer look.   [close-up: anole freezing, guest's hand approaching slowly]
+15.5s  Everyone calls it a chameleon anyway. It's stopped correcting people.   [closing wide shot: anole gone, empty branch, kayaks continuing past]
+
+ON-SCREEN TEXT TREATMENT:
+"GREEN ANOLE" small lower-third at 3.5s, clears by 7.5s.
+
+SHOT LIST:
+- Wide shot: kayaks pausing near overhanging branches (opener)
+- Close-up: anole perched, mid-color-shift
+- Medium shot: anole displaying its dewlap, guide gesturing
+- Close-up: anole freezing, guest's hand approaching
+- Closing wide shot: empty branch, kayaks continuing past
+
+SOURCE GROUNDING: Pass 71's "still untapped" section flagged "a green anole or other reptile beyond gators/cottonmouth/turtles" as open ground. This pass's dedup verification confirmed zero prior pieces center on the green anole across all 240 prior pieces.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-loaded open (the "is that a chameleon?" question most guests actually ask) and Ogilvy's factual-specific correction (a real, checkable limit: two colors, not infinite chameleon-style shifting). Then /copywriting-2.0 (3-test filter): a draft closer, "just another one of the swamp's little surprises," was cut for being generic and unfalsifiable. Rewrote to "everyone calls it a chameleon anyway. It's stopped correcting people," which personifies the correction as a punchline instead of stating it flatly, and passes the visualize test cleanly.
+DEVICES CHECK: First dedicated green anole piece in the series, confirmed distinct from all 17 previously covered species (13 base species plus Pass 71's turtle, screech owl, nutria, and purple gallinule additions).
+
+PRODUCTION FLAG: The green anole's two-color range (green/brown) and its red dewlap as a territorial signal are accurate, well-documented facts. Confirm actual sighting frequency along overhanging branches on NPB's specific route before treating as a routine sighting. No guide or guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

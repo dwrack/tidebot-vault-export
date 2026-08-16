@@ -1,0 +1,19 @@
+PIECE 383 — Running jokes, a recurring group's made-up-name ritual — The Groomsman / "They Introduce Themselves With a Fake Team Name Every Time"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: playful, upbeat comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  This one group's been booking the same trip for years, different occasion every time.     [Groomsman VO chill, dry, wide, group boarding, one person stepping forward like an announcer]
+ 3.6s  Every single time, they introduce themselves to the crew with a made-up team name.          [insert, guest announcing dramatically, "we're Bay City Thunder," group cheering behind him]
+ 7.2s  Never the same name twice. Never explained. Crew just goes with it now.                     [insert, deckhand nodding along, writing something down, playing along]
+11.0s  Last trip they were the Kemah Krewe. Nobody knows what they'll be next time.                 [closing line, wide, golden hour, whole group posing like a team photo, laughing]
+
+On-screen text: Hook = "THEY GIVE THE CREW A FAKE TEAM NAME EVERY TIME" / Body = "last trip: the kemah krewe. never the same twice." / CTA: tag your group and guess your team name
+
+Shot list:
+- [INSERT] Guest announcing a team name dramatically, group cheering behind him
+- [INSERT] Deckhand playing along, writing it down
+- [B-ROLL] Group team-photo pose, golden hour
+
+Note: "Bay City Thunder" and "the Kemah Krewe" are invented, harmless placeholder names — first draft used "Gulf Coast Mafia," cut during copywriting-2.0 for wrong-tone crime-adjacent word choice. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

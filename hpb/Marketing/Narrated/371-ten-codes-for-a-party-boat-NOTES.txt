@@ -1,0 +1,19 @@
+PIECE 371 — Deck-hand slang, crew shorthand told from the planner's outside view — The Planner / "Ten Codes for a Party Boat"
+Voice: The Planner (EL-Lily.mp3)   Music: bright, polished pop-adjacent bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Planning enough of these trips, you start learning the crew's shorthand.                 [Planner VO bright, wide, planner with a phone, chatting with a deckhand dockside]
+ 3.4s  A "four" means the cooler's getting low. A "two" means we need more water bottles.        [insert, deckhand holding up fingers to another crew member, quick nod]
+ 7.0s  Nobody taught me the code. I just started hearing it enough to know it.                   [insert, planner smiling, half-amused, jotting a note]
+10.8s  I've never once needed to use it. But I know what a "four" means now.                     [closing line, wide, golden hour, planner boarding with a group, waving]
+
+On-screen text: Hook = "THE CREW HAS ITS OWN SHORTHAND" / Body = "a \"four\" means the cooler's getting low" / CTA: none
+
+Shot list:
+- [INSERT] Deckhand holding up fingers, signaling a crewmate
+- [B-ROLL] Planner with a phone, chatting dockside
+- [B-ROLL] Planner boarding a group, golden hour
+
+Note: codes are logistics-only (cooler, water), not a safety-protocol stand-in — deliberate choice, an earlier draft had the code meaning "someone needs help, fast," which was cut for reading too close to an actual safety signal being played for laughs. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

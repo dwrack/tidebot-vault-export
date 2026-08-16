@@ -1,0 +1,29 @@
+PIECE 01 — Funny / captain line — "Bottoms Up"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: playful, a little cheeky, quick pace (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Bottoms up" means something different to every single person on this boat.   [wide shot: full group raising cups together on the back deck, mixed energy already starting]
+ 3.0s  Half the group slams it in one go. The other half treats it more like a suggestion.   [close-up: one guest chugging fast, another sipping slow, side by side]
+ 7.0s  The deckhand's seen every version of this. Nobody's wrong. Nobody's really right either.   [medium shot: deckhand watching, amused, not intervening]
+11.0s  One guy in every group treats it like a personal challenge from the boat itself.   [close-up: guest slamming an empty cup down, triumphant, friends cheering]
+13.5s  "Bottoms up" was never really a rule. It's just what happens when the drinks are already yours.   [closing wide shot: group laughing, cups raised again, boat cruising on]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "BOTTOMS UP," pops in at 0.0s and clears by 3.0s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: full group raising cups on the back deck (opener)
+- Close-up: one guest chugging fast, another sipping slow, side by side
+- Medium shot: deckhand watching, amused, not intervening
+- Close-up: guest slamming an empty cup down, friends cheering
+- Closing wide shot: group laughing, cups raised, boat cruising on
+
+SOURCE GROUNDING: Built around the common party/boat saying "bottoms up," confirmed completely untouched across all 240 prior pieces (20 prior passes: unnumbered base, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 29, 36, 37, 40, 59, 60, 61, 70, 71) by this pass's dedup verification (a targeted grep run before drafting, echoed from Pass 71's own "still untapped" list). Directly channels Brand Story & Values Section 2's "the guest runs the show" belief (BYOB means the guest decides the pace, not staff) — the closing line makes that literal instead of stating it as a slogan.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's short-first-sentence rule (a four-word quoted phrase to open, cold) with Schwartz's identification angle (Sophistication 5 — "we have the best drinks" is a claim any bar can make, so this leans on shared guest identity and behavior instead of a product claim). Then /copywriting-2.0 (3-test filter): a draft closer, "and that's just the energy on this boat," was cut for failing the "can nobody else say it" test — any bar could claim "energy." Rewrote to "it's just what happens when the drinks are already yours," which only a true BYOB operator can truthfully say and ties directly to the guest-runs-the-show belief.
+DEVICES CHECK: A common-phrase-behavior gag, distinct in structure from Pass 71's saying-driven pieces (Sun's Over the Yardarm, Man Overboard, Don't Rock the Boat) by centering on guest behavioral variation rather than a single running bit or a captain-delivered fact.
+
+PRODUCTION FLAG: "Bottoms up" needs no historical sourcing, it's a plain colloquial phrase, no idiom-origin claim is made on camera. No guest, deckhand, or captain identified by name. Illustrative guest behavior only.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Schwartz) then /copywriting-2.0 (3-test filter, one catch logged above).

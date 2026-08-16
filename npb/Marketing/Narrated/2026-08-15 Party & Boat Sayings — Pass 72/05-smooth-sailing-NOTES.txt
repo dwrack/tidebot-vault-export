@@ -1,0 +1,29 @@
+PIECE 05 — Heartfelt / funny hybrid, captain line — "Smooth Sailing"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: breezy, confident, playful undercurrent (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain says it at the dock. "Smooth sailing, folks." Then the boat actually leaves the marina.   [wide shot: captain at the helm, waving off the dock, guests settling in]
+ 3.5s  A wake rolls through around minute ten. Drinks tip. Nobody's mad about it.   [close-up: cup tilting, small splash on the deck, guest laughing instead of complaining]
+ 7.5s  "Smooth sailing" was never really a weather report. It's just what you say before a good time starts.   [medium shot: captain glancing back, half-grinning at his own line]
+11.5s  The boat's licensed, inspected, and driven by someone who knows this water. The wobble's just part of being on it.   [close-up: guest steadying their drink, still laughing]
+14.5s  Nobody remembers the wake by the time they're back at the dock. Everybody remembers the laugh.   [closing wide shot: boat cruising smooth again, group settled back in, sun on the water]
+
+ON-SCREEN TEXT TREATMENT:
+None. The gap between the promise and the reality is the joke; a caption would over-explain it.
+
+SHOT LIST:
+- Wide shot: captain at the helm, waving off the dock (opener)
+- Close-up: cup tilting, small splash, guest laughing
+- Medium shot: captain glancing back, half-grinning
+- Close-up: guest steadying their drink, still laughing
+- Closing wide shot: boat cruising smooth, group settled, sun on the water
+
+SOURCE GROUNDING: Built around the nautical reassurance "smooth sailing," confirmed completely untouched across all 240 prior pieces by this pass's dedup verification. Line 11.5s directly channels Brand Story & Values Section 2's safety standard ("safety isn't a talking point, it's the floor") by stating the real, checkable facts (USCG certification, licensed captains, referenced generally as "licensed, inspected") rather than treating safety as a marketing beat.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual-specific approach for the safety line (real, checkable facts instead of a reassurance adjective) and Bencivenga's proof-before-claim instinct (the "licensed, inspected" detail closes the "yeah, right" gap a joke about wobbling water might otherwise open). Then /copywriting-2.0 (3-test filter): a draft version of the safety line read "and you're always in good hands out here," flagged and cut as an unfalsifiable platitude. Rewrote to "the boat's licensed, inspected, and driven by someone who knows this water," which is checkable and can't be claimed by an unlicensed operator.
+DEVICES CHECK: An ironic-idiom-payoff structure (the phrase gets immediately undercut, then recontextualized as a genuine safety statement), distinct from Piece 01's individual-behavior gag and Piece 04's expectation-vs-reality arc.
+
+PRODUCTION FLAG: "USCG certified" and "licensed captains" are stated as general company facts per Brand Story & Values Section 2; this piece references them generally ("licensed, inspected") without restating the exact certification language, which should be verified word-for-word against current compliance documentation before airing. No captain identified by name; illustrative captain line, not confirmed as a standing script.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy + Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

@@ -1,0 +1,19 @@
+PIECE 372 — Captain lines, the captain's identical stock answer — The Captain / "Can I Drive?"
+Voice: The Captain (EL-Eric.mp3)   Music: dry comedic bed, light guitar   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody asks the captain if they can drive at least once a trip.                        [Captain VO dry, wide, guest gesturing toward the wheel, captain glancing over]
+ 3.4s  Same answer, every time, no matter who asks.                                              [insert, captain shaking head slightly, deadpan]
+ 6.8s  "Nope. But you can stand real close and pretend."                                         [insert, captain waving guest over next to the wheel, guest grinning]
+10.4s  Nobody's driven this boat who isn't me. Everybody's stood real close.                     [closing line, wide, golden hour, guest posing by the wheel, captain smirking]
+
+On-screen text: Hook = "\"CAN I DRIVE?\"" / Body = "nobody's driven it. everybody's stood close." / CTA: none
+
+Shot list:
+- [INSERT] Guest gesturing at the wheel
+- [INSERT] Captain waving the guest over next to the wheel
+- [B-ROLL] Guest posing by the wheel, golden hour
+
+Note: no implication a guest ever actually operates the vessel — keeps the liability read clean. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 384 — Sincere closer, mirrors the series' closing-piece tradition (240, 256, 272, 288, 304, 319, 336, 352, 368) — Sarah / "Worth It"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, string-led closing bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  By the time you're back at the dock, nobody's got much energy left to talk.               [Sarah VO warm, soft, wide, boat approaching dock, group quiet, sun low]
+ 4.0s  Sunburnt, salty, half asleep on each other's shoulders.                                    [insert, close on tired, content faces, golden light]
+ 8.0s  Somebody finally says the only two words that matter.                                      [insert, guest turning to a friend, quiet exchange]
+11.8s  "Worth it." That's the whole trip, right there.                                             [closing line, wide, golden hour, group walking off the boat together, tired and smiling]
+
+On-screen text: Hook = "NOBODY'S GOT MUCH ENERGY LEFT TO TALK" / Body = "\"worth it.\" that's the whole trip." / CTA: none
+
+Shot list:
+- [B-ROLL] Boat approaching dock, group quiet, sun low
+- [INSERT] Close on tired, content, unposed faces
+- [B-ROLL] Group walking off the boat together, golden hour
+
+Note: distinct from piece 368 (the "say it again, slower" toast-repeat moment) — this closer turns on the two words a group says to each other back at the dock, not a repeated toast line. No pedaling reference. No vessel name used.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

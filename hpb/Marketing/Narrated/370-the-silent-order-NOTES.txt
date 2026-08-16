@@ -1,0 +1,19 @@
+PIECE 370 — Deck-hand slang, crew code-word bit told from a regular's outside view — The Regular / "The Silent Order"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: deadpan comedic bed, light bass groove   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  After enough trips, you start picking up on things regulars aren't supposed to notice.   [Regular VO flat deadpan, wide, regular lounging, watching crew work]
+ 3.6s  Crew's got one word they yell when they need another hand right now.                     [insert, deckhand yelling toward the stern, another crew member turning instantly]
+ 7.2s  Doesn't sound urgent. Guests never clock it. Every deckhand drops what they're doing.     [insert, casual crew swap happening in the background, drink still being poured]
+11.0s  I'm not saying the word. Some things a regular keeps to himself.                          [closing line, wide, golden hour, Regular smirking at camera, boat cruising smooth]
+
+On-screen text: Hook = "AFTER ENOUGH TRIPS, YOU NOTICE THINGS" / Body = "not saying the word. some things stay mine." / CTA: none
+
+Shot list:
+- [B-ROLL] Regular lounging, watching crew work
+- [INSERT] Deckhand yelling toward the stern, crewmate reacting instantly
+- [INSERT] Casual crew swap in the background, unbothered
+
+Note: deliberately never reveals the actual word — the joke is the Regular's ownership of the secret, not the word itself. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

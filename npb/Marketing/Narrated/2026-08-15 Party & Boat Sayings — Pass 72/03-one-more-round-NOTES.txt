@@ -1,0 +1,29 @@
+PIECE 03 — Funny / running-joke, captain line — "One More Round"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: bouncy, mischievous (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody yells "one more round" for the fourth time in an hour. The deckhand's stopped counting. Out loud, anyway.   [wide shot: guests cheering, coolers open across the deck]
+ 3.5s  There's no bartender to cut anyone off. There's just however many cans made it onto the boat this morning.   [close-up: cooler lid open, cans stacked, visibly dwindling]
+ 7.5s  "One more round" isn't a request out here. It's just what people say right before they do exactly that.   [medium shot: guest cracking another can, no permission asked]
+11.5s  The only person actually counting is whoever packed the cooler, and they packed light this time.   [close-up: guest peering into a near-empty cooler, laughing]
+14.5s  Bring more than you think you need. "One more round" always shows up early.   [closing wide shot: boat cruising, group laughing, empty cans lined up along the rail]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "PACKING TIP," fades in under the final line at 14.5s, clears at 16.5s.
+
+SHOT LIST:
+- Wide shot: guests cheering, coolers open on the deck (opener)
+- Close-up: cooler lid open, cans stacked, dwindling
+- Medium shot: guest cracking another can, no permission asked
+- Close-up: guest peering into a near-empty cooler, laughing
+- Closing wide shot: boat cruising, empty cans lined up on the rail
+
+SOURCE GROUNDING: Built around the party saying "one more round," confirmed completely untouched across all 240 prior pieces by this pass's dedup verification. Doubles as a genuine practical tip (pack more drinks than planned), grounded in Brand Story & Values Section 3's BYOB differentiator ("no $14 margaritas, no drink minimums, guests control the budget and the bar") — the joke and the useful information are the same line.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's specificity-over-generality principle (the cooler running low is a checkable, concrete detail, not a vague claim about "fun") with Ogilvy's instinct to fold a real benefit into the line instead of appending a bolted-on CTA. Then /copywriting-2.0 (3-test filter): a draft closer, "so pack accordingly and enjoy the ride," was cut as a hedge that could appear in any packing-list email. Rewrote to "bring more than you think you need. 'One more round' always shows up early," which passes the ownability test because it only makes sense on a BYOB boat with no bar to restock from.
+DEVICES CHECK: Distinct from Piece 01 (individual-behavior gag) and Piece 02 (group-chant contagion) — this piece's engine is a scarcity running joke tied to a practical takeaway, a device the dedup survey found unused in the series to date.
+
+PRODUCTION FLAG: Illustrative cooler-packing scenario, not sourced from an actual guest incident. No guest or deckhand identified by name. The "packing tip" framing should be checked against current NPB packing guidance before treating as official advice.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

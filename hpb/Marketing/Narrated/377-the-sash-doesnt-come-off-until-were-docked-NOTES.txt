@@ -1,0 +1,19 @@
+PIECE 377 — Bachelorette-party lines, the group's enforced sash rule — The Groomsman / "The Sash Doesn't Come Off Until We're Docked"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: chill, warm lo-fi bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every bride tries to take the sash off at some point. Every time, same rule.              [Groomsman VO chill, dry, wide, bride reaching for the sash, group intercepting]
+ 3.6s  Doesn't matter how hot it is. Doesn't matter how many photos already exist.                [insert, groomsman gently redirecting the sash back onto her, deadpan]
+ 7.2s  Sash comes off at the dock. Not one minute before.                                         [insert, group enforcing it, laughing, bride rolling her eyes]
+11.0s  She fought it the whole ride. Wore it the whole ride. Every bride does.                     [closing line, wide, golden hour, bride laughing in the sash, boat approaching dock]
+
+On-screen text: Hook = "SHE TRIES TO TAKE IT OFF EVERY TIME" / Body = "sash comes off at the dock. not one minute before." / CTA: none
+
+Shot list:
+- [INSERT] Bride reaching for the sash, groomsman intercepting
+- [B-ROLL] Group enforcing the rule, laughing
+- [B-ROLL] Bride in the sash, boat approaching dock
+
+Note: distinct from the existing sash-meanings glossary piece — this one is an enforcement rule, not an explainer. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

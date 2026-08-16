@@ -1,0 +1,19 @@
+PIECE 379 — Toasts, a whole toast delivered entirely in nicknames — The Old Salt / "Nobody's Real Name Made It Into That Toast"
+Voice: The Old Salt (EL-George.mp3)   Music: warm, wry acoustic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody stood up to give a toast last week and never once said anyone's real name.       [Old Salt VO wry, warm, wide, guest standing with a drink, group listening]
+ 3.6s  Just nicknames. Every single person got the nickname version.                              [insert, guest pointing around the boat, mouthing nicknames, group laughing at each one]
+ 7.2s  Took the new girlfriend a minute to realize "Big Country" was her boyfriend.                [insert, someone leaning over to explain, girlfriend's face lighting up with realization]
+11.0s  Best toast I've heard all summer. Didn't use one real name.                                 [closing line, wide, golden hour, group cheering, cups raised]
+
+On-screen text: Hook = "HE GAVE A WHOLE TOAST WITHOUT ONE REAL NAME" / Body = "took her a minute to realize \"big country\" was her boyfriend" / CTA: none
+
+Shot list:
+- [INSERT] Guest pointing around the boat, mouthing nicknames
+- [INSERT] Girlfriend's face lighting up with realization
+- [B-ROLL] Group cheering, cups raised
+
+Note: "Big Country" is a generic invented nickname, not a real guest. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

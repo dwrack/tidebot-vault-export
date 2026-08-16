@@ -1,0 +1,29 @@
+PIECE 11 — Did-you-know / seasonal contrast — "Seven Miles From the Chaos"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Daniel (ElevenLabs)   Music: starts bright and a little chaotic, settles into calm (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Mardi Gras week, the Quarter turns into a stampede. Seven miles away, it's just you and whatever's already awake on the water.   [wide shot: quiet bayou, kayaks gliding, no crowds]
+ 4.0s  No beads flying. No barricades. Just cypress trees that have no idea what day it is.   [close-up: cypress reflection, still black water]
+ 8.0s  Guests come off a parade route wired and leave the water completely reset.   [medium shot: guide paddling alongside, calm pace]
+12.0s  Twenty minutes from the chaos and it might as well be a different city.   [close-up: heron standing still, unaffected by any of it]
+15.5s  The swamp doesn't know it's Mardi Gras. That's kind of the whole appeal.   [closing wide shot: kayaks continuing through calm water, distant skyline barely visible]
+
+ON-SCREEN TEXT TREATMENT:
+"7 MILES FROM THE QUARTER" small lower-third at 0.0s, clears by 3.5s.
+
+SHOT LIST:
+- Wide shot: quiet bayou, kayaks gliding, no crowds (opener)
+- Close-up: cypress reflection, still black water
+- Medium shot: guide paddling alongside, calm pace
+- Close-up: heron standing still
+- Closing wide shot: kayaks continuing, distant skyline barely visible
+
+SOURCE GROUNDING: Adapted from Script & Caption Bank Lane 12's seasonal line ("Mardi Gras week: the Quarter is a zoo. Thirty minutes away, it's you and the herons."), read in full this pass. The "thirty minutes" figure in the source bank belongs to a different swamp-tour operation; this piece replaces it with NPB's own documented differentiator, "7 miles" and "15-20 minutes" from Brand Story & Values Section 3 ("Closest swamp boat operation to the French Quarter... 7 miles. That's 15-20 minutes in an Uber"), rounded to "twenty minutes" for spoken cadence. Pass 71's "still untapped" note flagged the full seasonal bank, including Mardi Gras, as "essentially untouched" by the series; this pass's dedup verification confirmed zero prior pieces build a Mardi Gras-week contrast.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Schwartz's channel-existing-desire principle (guests already want a break from Mardi Gras crowds; this connects that existing want to the specific product rather than inventing a new desire) and Ogilvy's proximity-as-proof instinct (a real, stated distance instead of a vague "close by" claim). Then /copywriting-2.0 (3-test filter): a draft line, "it's the perfect antidote to the madness," was cut for reading like brochure copy and failing the "can nobody else say it" test, since any quiet activity could claim to be an "antidote." Rewrote to "the swamp doesn't know it's Mardi Gras. That's kind of the whole appeal," which personifies the swamp's indifference as the actual selling point.
+DEVICES CHECK: First seasonal-contrast piece in the series to use the Mardi Gras angle; confirmed distinct from all prior pieces, none of which reference Mardi Gras week specifically.
+
+PRODUCTION FLAG: The "7 miles / 15-20 minutes" figure is sourced directly from Brand Story & Values Section 3 and is treated as a confirmed company fact. The claim that guests "come off a parade route wired" is illustrative framing, not a documented guest quote. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Schwartz + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

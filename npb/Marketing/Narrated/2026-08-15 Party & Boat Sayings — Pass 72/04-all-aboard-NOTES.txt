@@ -1,0 +1,29 @@
+PIECE 04 — Funny / heartfelt hybrid, first-timer reaction — "All Aboard"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: warm, a little wistful opening, settling into fun (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  She'd pictured "all aboard" as a whole moment. A bell, maybe. Something dramatic.   [wide shot: guest walking up the dock toward the boat, expectant]
+ 3.5s  What she got was a deckhand saying "come on in, watch the gap" while holding a rope steady.   [close-up: deckhand extending a hand, casual, boat held steady against the dock]
+ 7.0s  No bell. No announcement. Just twenty people already halfway into their first drink.   [medium shot: guests already settled on deck, laughing, drinks in hand]
+11.0s  Turns out the real "all aboard" moment isn't a sound. It's everyone already having a good time before you finish stepping on.   [close-up: guest stepping aboard, immediately handed a seat, smiling]
+14.5s  She got her moment. Just not the one she was expecting.   [closing wide shot: boat pulling away from the dock, full group already loose and loud]
+
+ON-SCREEN TEXT TREATMENT:
+None. The contrast between expectation and reality carries the beat without a caption.
+
+SHOT LIST:
+- Wide shot: guest walking up the dock, expectant (opener)
+- Close-up: deckhand extending a hand, boat held steady
+- Medium shot: guests already settled, laughing, drinks in hand
+- Close-up: guest stepping aboard, handed a seat, smiling
+- Closing wide shot: boat pulling away, full group already loose
+
+SOURCE GROUNDING: Built around the boarding phrase "all aboard," confirmed completely untouched across all 240 prior pieces by this pass's dedup verification. Pass 71's own "still untapped" note specifically flagged that a future "all aboard" piece "needs a structural angle that avoids the retired fixed-catchphrase device" and suggested "a variation-across-captains or a first-time-guest's-reaction framing." This piece uses the first-time-guest's-reaction framing directly.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Schwartz's expectation-vs-reality structure (the reader/viewer is Problem Aware about generic boat tours and the piece resets that expectation) with Sugarman's story-first curiosity build. Then /copywriting-2.0 (3-test filter): a draft closer, "sometimes the best welcome isn't loud, it's real," was cut for failing the "can nobody else say it" test, any hospitality brand could claim that. Rewrote to "she got her moment. Just not the one she was expecting," which stays specific to this one guest's arc instead of generalizing into a slogan.
+DEVICES CHECK: Explicitly avoids the series' retired fixed-catchphrase-as-comedic-engine device per Pass 71's own guidance; uses a single first-timer's expectation-vs-reality arc instead of a repeated line across the piece.
+
+PRODUCTION FLAG: Illustrative guest expectation and deckhand line, not a transcribed real interaction. No guest or deckhand identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Schwartz + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

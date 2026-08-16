@@ -1,0 +1,29 @@
+PIECE 10 — Practical / FAQ — "Best Time to Book"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: calm, breezy, confident (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The question comes up every single day: "what's actually the best time to book this?"   [wide shot: guest scrolling booking options on their phone]
+ 3.0s  Same answer every time. Early morning. Before the heat, before the crowds, before the swamp decides to hide.   [close-up: guide answering, direct, no hesitation]
+ 7.0s  Afternoon trips still see plenty. Morning trips see more, because everything out here is still actually moving.   [medium shot: kayaks gliding through low morning fog]
+11.5s  The fog burns off by mid-morning. So does most of the wildlife's patience for being watched.   [close-up: mist lifting off black water, a bird taking off in the distance]
+15.0s  Ask around and you'll hear the same recommendation more often than not.   [closing wide shot: kayaks continuing through fog, sun just starting to break through]
+
+ON-SCREEN TEXT TREATMENT:
+None. The plain FAQ answer carries the beat.
+
+SHOT LIST:
+- Wide shot: guest scrolling booking options on their phone (opener)
+- Close-up: guide answering, direct
+- Medium shot: kayaks gliding through low morning fog
+- Close-up: mist lifting off black water, a bird taking off
+- Closing wide shot: kayaks continuing through fog, sun breaking through
+
+SOURCE GROUNDING: Adapted from Script & Caption Bank Lane 11's FAQ line ("Best time to go? Early morning. Cooler, foggier, and everything is actually awake and moving."), read in full this pass from `Admire NOLA/Content/Script & Caption Bank.md`. Pass 71 sourced Lane 11's "what do you bring" line directly; this pass's dedup verification confirmed the "best time to go" line in that same lane was still unused across all 240 prior pieces.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's direct objection-handling (answer the exact question guests actually type, in the same words) and Ogilvy's plain factual specificity (fog, heat, crowds, in that order, not adjectives). Then /copywriting-2.0 (3-test filter): a draft closer, "nine out of ten guides will say the same thing," was flagged for stating a precise, unverified fraction as fact, which fails the falsifiability test in the wrong direction (a specific-sounding number nobody actually measured). Rewrote to "ask around and you'll hear the same recommendation more often than not," which keeps the concrete, ownable claim without inventing a false statistic.
+DEVICES CHECK: A direct-answer FAQ piece, the same lane and device Pass 71 used for Piece 10 ("What You Actually Need to Bring"), applied here to a different Lane 11 line.
+
+PRODUCTION FLAG: Directly adapted from Script & Caption Bank Lane 11. Confirm current NPB scheduling and actual morning-vs-afternoon wildlife-activity guidance with ops before treating as official recommendation. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Halbert + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

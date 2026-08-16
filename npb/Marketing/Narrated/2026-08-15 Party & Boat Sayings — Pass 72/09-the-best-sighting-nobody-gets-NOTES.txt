@@ -1,0 +1,29 @@
+PIECE 09 — Did-you-know / wildlife spotlight — "The Best Sighting Nobody Gets"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: hushed, suspenseful, a little mysterious (mood only)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Most turtles on this route bask right out in the open. This one doesn't bask. It doesn't move at all.   [wide shot: still, dark water, no visible movement]
+ 4.0s  An alligator snapping turtle sits on the bottom with its mouth open, using a little pink tongue shaped exactly like a worm.   [close-up: illustrative shot of a turtle's open mouth, tongue lure visible against the dark water]
+ 9.0s  Fish swim toward the "worm." The mouth closes before they figure out the mistake.   [medium shot: guide explaining, hands miming the trap]
+13.0s  It can weigh over a hundred pounds, and most guests will never actually see one. That's the whole point of how it hunts.   [close-up: guide gesturing at the murky water, group looking, seeing nothing]
+16.0s  The best sighting on this tour might be the one nobody gets.   [closing wide shot: kayaks drifting on over still water, nothing visible below]
+
+ON-SCREEN TEXT TREATMENT:
+"ALLIGATOR SNAPPING TURTLE" small lower-third at 4.0s, clears by 8.5s.
+
+SHOT LIST:
+- Wide shot: still, dark water, no visible movement (opener)
+- Close-up: illustrative turtle mouth open, tongue lure visible
+- Medium shot: guide explaining, hands miming the trap
+- Close-up: guide gesturing at murky water, group seeing nothing
+- Closing wide shot: kayaks drifting on, nothing visible below
+
+SOURCE GROUNDING: Pass 71's "still untapped" section flagged "a first dedicated alligator-snapping-turtle piece (distinct from the river cooter/slider piece in this pass)" as open ground. This pass's dedup verification confirmed zero prior pieces center on this species, distinct from Pass 71's river cooter/slider basking piece and from the series' earlier "gator, turtle, or stick" misidentification gag.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's proof-and-mechanism structure (the tongue-lure hunting behavior is the mechanism that makes the size claim believable) and Sugarman's curiosity build (opening on stillness and absence before revealing why). Then /copywriting-2.0 (3-test filter): a draft closer, "sometimes what you don't see is the coolest part," was cut for reading like generic nature-doc narration. Rewrote to "the best sighting on this tour might be the one nobody gets," which is a sharper, ownable paradox specific to this species' ambush behavior.
+DEVICES CHECK: Uses an "the sighting is its own absence" structure, distinct from every other wildlife spotlight in the series, which center on a visible, identifiable animal. Confirmed distinct from Pass 71's river cooter/slider piece (a visible, social basking behavior) and the base pass's misidentification gag (a guessing game about a visible object).
+
+PRODUCTION FLAG: The alligator snapping turtle's tongue-lure ambush hunting and its large size (commonly cited over 100 lbs, with some individuals reported well beyond that) are documented species facts. This piece deliberately does not claim the species is confirmed present on NPB's specific route at any regular frequency, since its entire premise is that it is rarely if ever actually seen; confirm with ops whether this species has ever been documented on the route before airing, since an inaccurate "it's out there" claim would be worse than cutting the piece. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

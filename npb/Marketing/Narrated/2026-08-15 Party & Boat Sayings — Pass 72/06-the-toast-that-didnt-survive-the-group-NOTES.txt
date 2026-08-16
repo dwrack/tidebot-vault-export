@@ -1,0 +1,29 @@
+PIECE 06 — Heartfelt / funny, toast (fresh angle) — "The Toast That Didn't Survive the Group"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: warm, comedic timing with a heartfelt turn (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  She gets three sentences into a real toast before her best friend cuts in: "she also owes me twenty bucks."   [wide shot: guest standing, cup raised, mid-sentence]
+ 3.5s  The whole boat loses it. The original toast is basically over now.   [close-up: group laughing hard, guest trying to keep a straight face]
+ 7.0s  She never gets back to the sentimental part. Nobody seems to mind, including her.   [medium shot: guest laughing along, giving up on the speech]
+11.0s  The toast that actually happens is never the one anybody planned.   [close-up: cups clinking together, chaotic, genuine]
+13.5s  Somebody's getting that twenty back eventually. Just not today.   [closing wide shot: full group cheering, drinks raised, boat cruising on]
+
+ON-SCREEN TEXT TREATMENT:
+None. The interruption is the whole beat, a caption would kill the timing.
+
+SHOT LIST:
+- Wide shot: guest standing, cup raised, mid-sentence (opener)
+- Close-up: group laughing hard, guest trying to keep a straight face
+- Medium shot: guest laughing along, giving up on the speech
+- Close-up: cups clinking together, chaotic and genuine
+- Closing wide shot: full group cheering, drinks raised, boat cruising on
+
+SOURCE GROUNDING: Toast content has been held at zero since Pass 29 (8 passes running as of Pass 71), after 16 prior toast/cheers pieces across 7 earlier passes covered nearly every angle the series' own dedup surveys could identify (crew-led, guest-spontaneous, running-count, divorce, absent-friends, corporate, boat-itself, non-drinker, recorded/proxy, improvised, silence-as-toast, and more). Pass 71's own "still untapped" section named one live, unused angle: "a toast that gets rejected or good-naturedly interrupted." This pass's dedup verification confirmed zero hits for that specific interruption angle across all 240 prior pieces, and this piece builds it.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's mid-action open (the toast is already underway and already being derailed in line one) and Sugarman's curiosity-then-payoff structure (what does she owe, and does she get to finish?). Then /copywriting-2.0 (3-test filter): a draft closer, "and that's what makes this crew feel like a family," was cut as an unownable platitude any hospitality brand could claim. Rewrote to "somebody's getting that twenty back eventually. Just not today," which callbacks the specific joke instead of moralizing about it.
+DEVICES CHECK: Distinct from Pass 14's "the toast captain Ben gives" (a sincere, crew-delivered toast, and predates the no-crew-named-on-camera convention adopted from Pass 23 onward) and from every prior toast piece the dedup survey found, none of which use an interruption/hijack structure. No crew member appears or is named in this piece; the toast and the interruption are both guest-driven.
+
+PRODUCTION FLAG: Illustrative guest scenario and dialogue, not a transcribed real toast. Written to keep the humor entirely affectionate and guest-on-guest, consistent with Brand Story & Values Section 4's rule that humor never mocks a real guest or group type. No guest identified by name or closely enough to be recognized without a filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Halbert + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

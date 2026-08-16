@@ -1,0 +1,29 @@
+PIECE 07 — Did-you-know / wildlife comparison — "Two Birds, One Mistake"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: curious, brisk, a little wry (mood only)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Two birds show up on the same stretch of water, and half the boat calls both of them eagles.   [wide shot: kayaks paused, guide pointing at two different birds]
+ 4.0s  One's a bald eagle. The other's a red-shouldered hawk, about half the size, with a totally different scream.   [close-up: side-by-side framing, eagle first, then hawk]
+ 8.5s  Here's the trick: the hawk's the one that sounds like a movie eagle. The real eagle sounds almost like a seagull.   [medium shot: guide gesturing between the two, explaining]
+13.0s  Hollywood's been getting this wrong for decades. The swamp never got the memo.   [close-up: guest listening, surprised, glancing between the two birds]
+16.0s  By the end of the tour, most guests can finally tell the difference. Most, not all.   [closing wide shot: both birds visible at a distance, kayaks continuing on]
+
+ON-SCREEN TEXT TREATMENT:
+"BALD EAGLE / RED-SHOULDERED HAWK" small lower-third at 4.0s, clears by 8.0s.
+
+SHOT LIST:
+- Wide shot: kayaks paused, guide pointing at two different birds (opener)
+- Close-up: side-by-side framing, eagle then hawk
+- Medium shot: guide gesturing between the two, explaining
+- Close-up: guest listening, surprised, glancing between birds
+- Closing wide shot: both birds visible at a distance, kayaks continuing on
+
+SOURCE GROUNDING: Pass 71's "still untapped" section named "a dedicated bald eagle vs. red-shouldered hawk comparison piece" as open ground, noting Pass 70 had covered the hawk's film-sound convention but never built a direct side-by-side. This pass's dedup verification confirmed no comparison piece exists across all 240 prior pieces.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual-specific approach (a real, checkable fact about which bird makes which sound) with Schwartz's pattern-interrupt open (most viewers assume both large raptors are eagles, so the piece corrects a real, common misconception rather than introducing a species cold). Then /copywriting-2.0 (3-test filter): a draft closer, "nature's full of surprises like that," was cut as a generic platitude that fails the falsifiability test. Rewrote to "by the end of the tour, most guests can finally tell the difference. Most, not all," which is concrete, checkable in principle, and specific to this tour's own guests.
+DEVICES CHECK: Deliberately reuses the accurate "hawk sounds like the movie eagle" fact that Pass 70's Piece 07 ("The Sound Hollywood Uses for Eagle") established for the hawk alone, but restructures it inside a new side-by-side comparison device the dedup survey confirmed had never been built. This is the specific gap Pass 71 flagged as open, not a re-skin of Pass 70's piece.
+
+PRODUCTION FLAG: The red-shouldered hawk's call being used as a stock "eagle scream" in film and the bald eagle's actual higher, weaker call are well-documented ornithological facts. Confirm actual sighting frequency of both species together on the same NPB route before treating the "same stretch of water" framing as guaranteed. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 72, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy + Schwartz) then /copywriting-2.0 (3-test filter, one catch logged above).
