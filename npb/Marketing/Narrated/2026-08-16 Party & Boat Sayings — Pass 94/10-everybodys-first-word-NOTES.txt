@@ -1,0 +1,28 @@
+PIECE 10 — Guest-reaction montage — "Everybody's First Word"
+Product: Naturalist eco swamp tour
+Voice: voice-en-GB-RyanNeural   Music: playful, quick cuts (mood only, no artist cited)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  First gator of the tour. Everybody reacts differently.   [wide shot: gator surfacing near the boat]
+ 2.5s  One guy just says a curse word, quietly, like it slipped out.   [medium shot: guest's face, mouthing a word, embarrassed]
+ 5.5s  A kid just yells "GATOR" loud enough to startle the actual gator.   [medium shot: kid pointing and yelling, gator submerging slightly]
+ 9.5s  One guy goes completely silent and just points.   [medium shot: guest, wide-eyed, silent, finger extended]
+12.5s  Different words, same sentence underneath: I did not expect that to be real.   [wide shot: whole boat, mixed reactions, gator gliding past]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "EVERYBODY'S FIRST WORD," pops in at 12.5s under the closing line, clears with the shot.
+
+SHOT LIST:
+- Wide shot, gator surfacing (opener)
+- Medium shot, guest's quiet curse
+- Medium shot, kid yelling, gator reacting
+- Medium shot, silent guest pointing
+- Closing wide shot, whole boat's mixed reactions
+
+SOURCE GROUNDING: Confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Distinct from Pass 14 Piece 11 ("There, Right There"), which is about the whole boat leaning and whispering in sync; this piece is built around variance between guests, not synchrony.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman for the quick comedic escalation across three distinct reaction beats. Then /copywriting-2.0 (3-test filter): all five lines passed as drafted. The line to keep is "Different words, same sentence underneath: I did not expect that to be real," the strongest closer because it names the shared feeling without flattening the individual reactions into one joke.
+
+PRODUCTION FLAG: Illustrative composite of guest reactions, not describing specific real guests. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

@@ -1,0 +1,28 @@
+PIECE 11 — Birthday-group line, eco tour — "Make a Wish Before the First Gator"
+Product: Naturalist eco swamp tour
+Voice: EL-Eric (ElevenLabs)   Music: warm, quiet build (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The guide already knows whose birthday it is. Doesn't say anything yet.   [medium shot: guide glancing back with a small knowing look]
+ 3.5s  Right before the first likely spot, he leans back. "Make a wish. Gator's about to earn it."   [medium shot: guide, warm smile, addressing the birthday guest]
+ 8.5s  She closes her eyes for two full seconds on a moving kayak.   [close-up: guest, eyes closed, small smile]
+11.5s  Gator surfaces twenty feet out, right on schedule. Or close enough.   [wide shot: gator surfacing near the boat]
+14.5s  Nobody checks if wishes on gators actually work. Nobody wants to know.   [wide shot: whole group smiling, birthday guest looking thrilled]
+
+ON-SCREEN TEXT TREATMENT:
+No text until 14.5s, small lower-third: "NOBODY WANTS TO KNOW." Clears with the shot.
+
+SHOT LIST:
+- Medium shot, guide's knowing glance (opener)
+- Medium shot, guide addressing the birthday guest
+- Close-up, guest with eyes closed
+- Wide shot, gator surfacing
+- Closing wide shot, whole group's reaction
+
+SOURCE GROUNDING: New birthday-group device, confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Distinct from Pass 93 Piece 11 ("Timed to the Gator"), the only other eco-tour birthday piece on file, which is built around the guide singing happy birthday timed to a gator's surfacing; this piece has no song at all and is built around a private, silent wish-making moment instead.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert for the warm, conversational setup and Bencivenga for keeping the closing claim honest. Then /copywriting-2.0 (3-test filter): confirmed the closer, "Nobody checks if wishes on gators actually work. Nobody wants to know," passes the falsify test precisely because it refuses to claim the wish worked, it's a joke about not testing the claim, not an unfalsifiable claim itself. The line to keep is "Gator surfaces twenty feet out, right on schedule. Or close enough," honest about the coincidence rather than overselling it as guaranteed.
+
+PRODUCTION FLAG: Illustrative bit a guide could plausibly do, not a confirmed existing company tradition. Confirm with ops/guides before treating the wish-timing device as an actual practice to promote. No gator baited, chased, or approached.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

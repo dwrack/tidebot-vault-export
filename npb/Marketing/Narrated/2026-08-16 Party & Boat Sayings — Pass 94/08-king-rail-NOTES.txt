@@ -1,0 +1,28 @@
+PIECE 08 — Wildlife spotlight, heard-not-seen — "King Rail"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-GuyNeural   Music: quiet, a little suspenseful (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Some birds you spot. This one, you just hear.   [wide shot: dense marsh grass, no bird visible]
+ 3.0s  A clattering, rattling call, coming from somewhere in the reeds nobody can pinpoint.   [close-up: marsh grass swaying gently]
+ 7.0s  King rail. Guides go years between actual sightings.   [medium shot: guide scanning the reeds, listening]
+10.5s  You're not failing to spot it. Almost nobody does.   [medium shot: guests scanning too, straining to see]
+13.5s  Some of the best wildlife on this tour, you just have to take on faith.   [wide shot: boat drifting past the reeds, call fading behind]
+
+ON-SCREEN TEXT TREATMENT:
+No text overlay. The device is entirely about sound and absence; a text card would undercut the point by naming the bird visually before the VO does.
+
+SHOT LIST:
+- Wide shot, dense marsh reeds, empty frame (opener)
+- Close-up, reeds swaying, implying the call
+- Medium shot, guide scanning and listening
+- Medium shot, guests scanning too
+- Closing wide shot, boat drifting past, sound fading
+
+SOURCE GROUNDING: Confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Every prior wildlife piece on file involves a visual sighting, sometimes with a delayed reveal, but always eventually shown on camera. This is the first piece in the series where the subject is never shown at all.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga for honesty about scarcity (years between sightings, stated plainly) and Halbert for the reassuring, conversational tone. "You're not failing to spot it" directly answers an unspoken guest worry, hitting the "allay their fears" lever from Blair Warren's 27 words. Then /copywriting-2.0 (3-test filter): all five lines passed as drafted. The line to keep is "You're not failing to spot it. Almost nobody does," the most reassuring and ownable line in the piece.
+
+PRODUCTION FLAG: King rails are a real, documented and genuinely secretive Louisiana marsh species. This pass does not confirm king rail calls as a regular or reliable occurrence on NPB's specific eco-tour route. Confirm with a guide before treating this as anything more than an occasional, unpredictable occurrence. No wildlife baited, chased, or handled, and none is shown on camera by design.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

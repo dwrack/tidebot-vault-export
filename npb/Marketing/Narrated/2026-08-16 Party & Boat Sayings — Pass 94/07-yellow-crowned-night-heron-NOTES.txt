@@ -1,0 +1,28 @@
+PIECE 07 — Wildlife spotlight, nocturnal framing — "Yellow-Crowned Night-Heron"
+Product: Naturalist eco swamp tour
+Voice: EL-Brian (ElevenLabs)   Music: low, quiet, a little mysterious (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Most of the birds on this tour work the day shift. This one doesn't.   [medium shot: heron perched still, camouflaged against branches]
+ 3.5s  Yellow-crowned night-heron. Red eyes, pale crown, hunts mostly after dark.   [close-up: heron's distinctive head markings, red eye visible]
+ 8.0s  Crawfish and crabs, mostly. It's doing our job, on a different shift.   [close-up: heron poised, still, watching the water]
+12.0s  Catch it at sunrise and it looks half asleep. It's not. It's clocking out.   [wide shot: heron taking off low over the water at dawn light]
+15.5s  Night shift, same bayou.   [wide shot: boat gliding past as the heron disappears into the tree line]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third at 3.5s: "YELLOW-CROWNED NIGHT-HERON." Clears after 2 seconds.
+
+SHOT LIST:
+- Medium shot, heron perched, still (opener)
+- Close-up, head markings, red eye
+- Close-up, heron poised over water
+- Wide shot, heron taking off at dawn
+- Closing wide shot, boat gliding past, heron gone
+
+SOURCE GROUNDING: Confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Every prior heron-family piece on file (wood stork, snowy egret, the great blue heron's "eats like a local" piece, the tricolored heron) uses a visual-ID, guide-correction, or ID-difficulty structure. This piece is the first built around a nocturnal-specialist framing.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy for factual specificity, a real diet-based and behavior-based claim rather than a vague "cool bird" line. Then /copywriting-2.0 (3-test filter): all five lines passed as drafted. The line to keep is "It's doing our job, on a different shift," ownable because it directly parallels the guide's own working hours.
+
+PRODUCTION FLAG: Yellow-crowned night-herons are a real, documented Louisiana wetland species, but this pass does not confirm them as a regular sighting on NPB's specific eco-tour route. Confirm with a guide before treating this as anything more than an occasional sighting. No wildlife baited, chased, or handled.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

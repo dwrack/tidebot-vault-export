@@ -1,0 +1,28 @@
+PIECE 01 — Idiom, birthday-group captain line — "Take the Helm"
+Product: Private BYOB party fleet
+Voice: EL-George (ElevenLabs)   Music: warm, a little ceremonial (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Helm" used to mean the actual wheel. The thing that turns the whole boat.   [close-up: captain's hand resting on the wheel]
+ 3.0s  Nobody just walks up and takes it.   [medium shot: guest reaching toward the wheel, captain shifting slightly]
+ 5.5s  Except today. Birthday girl gets thirty seconds, captain's hand still on it the whole time.   [medium shot: captain guiding guest's hand onto the wheel, both hands visible]
+10.0s  She's not steering. She's just finally allowed to hold it.   [close-up: guest's face, delighted, hand on the wheel]
+13.0s  Thirty seconds. Then the captain takes his boat back.   [wide shot: captain retaking the wheel, guest laughing, stepping back]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "TAKE THE HELM," pops in at 13.0s under the closing line, clears with the shot.
+
+SHOT LIST:
+- Close-up, captain's hand on the wheel (opener)
+- Medium shot, guest reaching toward the wheel
+- Medium shot, captain guiding the guest's hand onto the wheel
+- Close-up, guest's delighted expression
+- Closing wide shot, captain retaking the wheel, guest stepping back laughing
+
+SOURCE GROUNDING: Built around the idiom "take the helm," confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit (six parallel background research agents covering all 25 prior passes, plus a direct read of Pass 92 and Pass 93). Explicitly distinct from Pass 24 Piece 04 ("Everybody Wants Five Minutes at the Wheel"): that piece is a running joke about guests requesting a photo op at the wheel with no captain involvement; this piece is an idiom explainer built around a supervised, captain-guided birthday moment, captain's hand never leaving the wheel.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga for the checkable etymology claim and Sugarman for the short opening sentence. Then /copywriting-2.0 (3-test filter): all five lines passed as drafted. The line to keep is "She's not steering. She's just finally allowed to hold it," concrete and honest about what's actually happening (a supervised touch, not real control).
+
+PRODUCTION FLAG: Illustrative captain bit, not a confirmed existing company tradition or safety-approved practice. Any real guest hand-on-wheel moment would need captain judgment and control retained at all times, exactly as scripted here. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

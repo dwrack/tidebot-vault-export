@@ -1,0 +1,28 @@
+PIECE 05 — Toast, multilingual device — "Twelve Ways to Say Cheers"
+Product: Private BYOB party fleet
+Voice: EL-Sarah (ElevenLabs)   Music: warm strings building into a full group cheer (mood only, no artist cited)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  One toast, going around the boat, and nobody says "cheers" the same way twice.   [wide shot: group forming a loose circle, drinks raised]
+ 3.5s  "Salud." "Prost." "Kanpai." Whatever your family says, that's the one you use.   [medium shot: three different guests each saying their own word, cups touching]
+ 8.0s  Nobody planned this. It just happens when there's more than one hometown on the boat.   [medium shot: guests laughing at the mix of languages]
+12.0s  Twelve people, one drink, six different words for the exact same thing.   [wide shot: whole group finishing the toast together]
+15.0s  Same toast. Everybody just says it like home.   [close-up: two guests clinking cups, smiling]
+
+ON-SCREEN TEXT TREATMENT:
+As each toast word is spoken (3.5s), it pops on screen in sequence, "SALUD," "PROST," "KANPAI," clearing quickly one after another so it doesn't clutter the frame.
+
+SHOT LIST:
+- Wide shot, group forming a toast circle (opener)
+- Medium shot, three guests, three different words, cups touching
+- Medium shot, group laughing at the mix
+- Wide shot, whole group finishing the toast
+- Closing close-up, two guests clinking cups
+
+SOURCE GROUNDING: New toast device, confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Every prior toast piece on file (roughly two dozen across the series) is built around a single spoken English toast line. This is the first multilingual toast-round device. Deliberately avoids "laissez les bons temps rouler" (already its own piece, Pass 17 Piece 01) and "who dat" (already its own piece, Pass 26 Piece 07) as toast words.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy for factual specificity (real, checkable words in real languages) and Sugarman for the short opening sentence. Then /copywriting-2.0 (3-test filter): caught the original opening line, "Toasts go all the way around this boat, and it's never the same word twice," as a longer, less concrete first sentence than Sugarman's rule calls for; rewrote to "One toast, going around the boat, and nobody says 'cheers' the same way twice," which slides into the second line faster. The line to keep is "Twelve people, one drink, six different words for the exact same thing," ownable because no single-language toast piece elsewhere in the series could say it.
+
+PRODUCTION FLAG: Illustrative toast scenario dependent on an actual mixed-hometown group; not every group will produce this naturally. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 06 — Bachelorette, running joke — "Every Boat's Got Two Maids of Honor"
+Product: Private BYOB party fleet
+Voice: EL-Daniel (ElevenLabs)   Music: light comedic bounce (mood only, no artist cited)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Who's the maid of honor?" the deckhand asks, mic in hand.   [medium shot: deckhand holding a small speaker, scanning the group]
+ 3.0s  Three hands go up.   [wide shot: three different guests raising their hands, looking at each other, confused]
+ 5.5s  Nobody warned him there'd be two co-maids of honor and one very confident cousin.   [medium shot: deckhand, amused, lowering the mic slightly]
+ 9.5s  "Alright. All three of you. Up here."   [medium shot: all three guests stepping forward together, laughing]
+12.5s  Every boat's got a maid of honor. This one's got three.   [wide shot: all three giving the toast together, whole group cheering]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "THREE MAIDS OF HONOR," pops in at 12.5s under the closing line, clears with the shot.
+
+SHOT LIST:
+- Medium shot, deckhand asking the question (opener)
+- Wide shot, three hands going up
+- Medium shot, deckhand's amused reaction
+- Medium shot, all three guests stepping forward
+- Closing wide shot, all three giving the toast, group cheering
+
+SOURCE GROUNDING: New bachelorette device, confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Every existing bachelorette piece on file (the bell curve, the poker-chip bet, the maid-of-honor phone call, bride-goes-last, the survival kit, the walk-on song, and Pass 93's toast-redirect device) is built around a single, clearly designated maid of honor or the bride herself. This is the first built around a headcount mixup over who actually holds that role.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman for the narrative setup-twist-payoff structure. Then /copywriting-2.0 (3-test filter): caught the original closer, "Every boat's got two maids of honor. This one's got three," as a flat restatement of the title that failed the burrito test; tightened to "Every boat's got a maid of honor. This one's got three," which keeps the punchline's math instead of just repeating the headline. The line to keep is "Nobody warned him there'd be two co-maids of honor and one very confident cousin," the most specific and visualizable line in the piece.
+
+PRODUCTION FLAG: Illustrative moment, not a confirmed real event. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

@@ -1,0 +1,28 @@
+PIECE 09 — FAQ, running joke — "Have You Ever Fallen In?"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-RogerNeural   Music: light, deadpan comedic (mood only, no artist cited)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Every single tour, somebody asks it.   [medium shot: guest, half-joking, half-curious, looking at the guide]
+ 2.5s  "Have you ever fallen in?"   [close-up: guest waiting for the answer]
+ 4.5s  The guide doesn't even pause. "Once. I don't tell that story anymore."   [close-up: guide, completely deadpan, still paddling]
+ 8.5s  Nobody's ever gotten more than that out of him.   [medium shot: guests exchanging looks, laughing, waiting for more]
+11.5s  Hundreds of tours. Still one story he's keeping.   [wide shot: guide paddling on, unfazed, boat gliding forward]
+
+ON-SCREEN TEXT TREATMENT:
+No text until 4.5s, small lower-third under the guide's line: "'ONCE. I DON'T TELL THAT STORY ANYMORE.'" Clears after 2 seconds.
+
+SHOT LIST:
+- Medium shot, guest about to ask (opener)
+- Close-up, guest waiting
+- Close-up, guide's deadpan answer
+- Medium shot, guests' reaction
+- Closing wide shot, guide paddling on
+
+SOURCE GROUNDING: Confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Distinct from every prior guide-line piece on file (the deadpan cottonmouth delivery, the weather-excuse running joke, the fake-out point), all of which have the guide answering directly; this is the first built around a guide deflecting a question rather than answering it.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert for the conversational deadpan delivery. Then /copywriting-2.0 (3-test filter): caught the original closer, "Fourteen tours a week for six years. One story he's keeping," as a fabricated, oddly precise operational figure stated as fact, a falsify-test failure since it invents specific scheduling data with no basis. Rewrote to "Hundreds of tours. Still one story he's keeping," which keeps the scale of the claim without asserting invented specifics. The line to keep is "The guide doesn't even pause. 'Once. I don't tell that story anymore,'" the strongest line in the piece because it withholds instead of explaining.
+
+PRODUCTION FLAG: Illustrative bit and guide backstory, not describing any real guide or real incident. No guide identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).

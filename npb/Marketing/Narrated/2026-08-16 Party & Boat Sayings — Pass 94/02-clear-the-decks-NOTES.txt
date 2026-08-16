@@ -1,0 +1,28 @@
+PIECE 02 — Idiom, running joke — "Clear the Decks"
+Product: Private BYOB party fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: upbeat build (mood only, no artist cited)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Old navy term: "clear the decks" meant get ready, something's about to happen.   [close-up: cooler being slid to the side]
+ 3.5s  On this boat, it means the exact same thing.   [medium shot: deckhand moving a cooler and folding a chair out of the way]
+ 7.0s  Chairs stacked, cooler pushed back, three feet of open deck.   [wide shot: cleared space in the middle of the boat]
+10.5s  That's not cleanup. That's the dance floor getting built.   [medium shot: first guest stepping into the cleared space]
+13.5s  Clear the decks. Something's about to happen.   [wide shot: whole group moving into the cleared space, energy shifting]
+
+ON-SCREEN TEXT TREATMENT:
+No text until 13.5s, small lower-third: "CLEAR THE DECKS." Clears with the shot.
+
+SHOT LIST:
+- Close-up, cooler being moved aside (opener)
+- Medium shot, deckhand clearing a chair
+- Wide shot, cleared deck space
+- Medium shot, first guest stepping in
+- Closing wide shot, whole group moving into the space
+
+SOURCE GROUNDING: Built around the idiom "clear the decks," confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Explicitly distinct from Pass 40 Piece 05 ("The Moment the Boat Remembers It's a Party"): that piece is about an energy shift with no idiom framing and no physical clearing action; this piece is specifically built around the literal act of moving the cooler and chairs.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman for the slippery-slide build, short lines escalating to the payoff. Then /copywriting-2.0 (3-test filter): all five lines passed as drafted, no rewrites needed. The line to keep is "That's not cleanup. That's the dance floor getting built," the sharpest reframe in the piece.
+
+PRODUCTION FLAG: Illustrative crew action, not a scripted or company-mandated ritual. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

@@ -1,0 +1,28 @@
+PIECE 03 — Idiom, before/after joke — "Shipshape"
+Product: Private BYOB party fleet
+Voice: EL-Lily (ElevenLabs)   Music: quick, tidy, a little comedic (mood only, no artist cited)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Shipshape" meant every rope coiled, every line stowed, nothing loose on deck.   [close-up: rope being coiled neatly on a cleat]
+ 3.5s  This boat gets ninety seconds of that. Right before the next group walks up.   [wide shot: deckhand quickly wiping down seats, straightening cushions]
+ 7.0s  Empty cans gone. Cushions squared. Somebody's forgotten flip-flop, gone too.   [close-up: deckhand tossing a stray flip-flop into a bin]
+11.0s  Ninety seconds, and it looks like nobody was ever here.   [wide shot: boat looking clean and ready, empty]
+13.5s  Shipshape. Then the next twelve people show up and start over.   [wide shot: new group walking down the dock toward the boat]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "SHIPSHAPE," at 13.5s under the closing line, clears with the shot.
+
+SHOT LIST:
+- Close-up, rope being coiled (opener)
+- Wide shot, deckhand wiping down seats
+- Close-up, stray flip-flop tossed into a bin
+- Wide shot, boat clean and ready
+- Closing wide shot, next group approaching the dock
+
+SOURCE GROUNDING: Built around the idiom "shipshape," confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Explicitly distinct from Pass 24 Piece 03 ("The Cooler Audit"), which is about checking cooler stock levels specifically, not a general deck turnaround.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy for the specific, checkable detail (ninety seconds, not "quickly"). Then /copywriting-2.0 (3-test filter): all five lines passed as drafted. The line to keep is "Ninety seconds, and it looks like nobody was ever here," concrete and visualizable even though the exact figure is illustrative.
+
+PRODUCTION FLAG: The ninety-second turnaround figure is illustrative, not a confirmed timed operational standard. Confirm actual turnaround time with ops before treating it as a stated fact rather than a rounded description. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

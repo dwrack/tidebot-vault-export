@@ -1,0 +1,28 @@
+PIECE 04 — Idiom, affectionate running joke — "Landlubber"
+Product: Private BYOB party fleet
+Voice: EL-Jessica (ElevenLabs)   Music: warm, a little playful (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Landlubber" used to be an insult. Somebody clumsy on a boat, better off on land.   [medium shot: guest wobbling slightly stepping aboard, deckhand steadying them]
+ 4.0s  One guest grabs the rail with both hands before the boat's even moved.   [close-up: guest's white-knuckle grip on the rail]
+ 7.5s  "You're fine. You're a landlubber. Everybody starts there."   [medium shot: deckhand, warm, reassuring, guiding the guest to a seat]
+11.5s  An hour later, same guest is standing up, drink in hand, not holding onto anything.   [wide shot: same guest now relaxed, dancing, hands free]
+15.0s  Landlubber's a starting point. Not a life sentence.   [wide shot: whole group, that guest now fully part of the fun]
+
+ON-SCREEN TEXT TREATMENT:
+No text until 15.0s, small lower-third: "LANDLUBBER'S A STARTING POINT." Clears with the shot.
+
+SHOT LIST:
+- Medium shot, guest wobbling while boarding (opener)
+- Close-up, white-knuckle grip on the rail
+- Medium shot, deckhand's reassurance
+- Wide shot, guest relaxed and dancing an hour later
+- Closing wide shot, whole group, guest fully at ease
+
+SOURCE GROUNDING: Built around the idiom "landlubber," confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Explicitly distinct from Pass 16 Piece 11 ("The Guest Who Almost Didn't Come," eco tour, fear of the water/experience generally) and Pass 15 Piece 05 ("Wait, It's Just Us?," about group privacy, not nervousness), neither of which is built around physical boat-nervousness or this idiom.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert for the reassuring, conversational deckhand line. This hits the "allay their fears" lever from Blair Warren's 27 words: a nervous first-time guest is told plainly that everyone starts there. Then /copywriting-2.0 (3-test filter): all five lines passed as drafted. The line to keep is "Landlubber's a starting point. Not a life sentence," the strongest, most ownable closer in the piece.
+
+PRODUCTION FLAG: Illustrative guest behavior, not describing a specific real guest. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, confirmed clean, no rewrites needed).

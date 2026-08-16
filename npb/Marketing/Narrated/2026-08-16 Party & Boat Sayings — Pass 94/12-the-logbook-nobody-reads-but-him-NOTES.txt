@@ -1,0 +1,28 @@
+PIECE 12 — Closing ritual, poetic — "The Logbook Nobody Reads But Him"
+Product: Naturalist eco swamp tour
+Voice: voice-en-US-BrianNeural   Music: quiet, warm strings (mood only, no artist cited)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Back at the dock, before he ties off, the guide writes one line in a notebook.   [close-up: worn notebook, pen, guide's hand writing]
+ 4.0s  Not the guest count. Not the weather. Just what he saw first that day.   [close-up: notebook page, handwriting, unreadable at this distance]
+ 8.5s  Six years of tours, six years of first sightings, one line at a time.   [medium shot: guide closing the notebook, tucking it away]
+12.0s  Nobody's ever asked to read it. He'd probably let them.   [wide shot: guide securing the boat, notebook in a dry bag]
+15.0s  Some things you keep for yourself, not for the guests.   [closing wide shot: dock at golden hour, boat tied off]
+
+ON-SCREEN TEXT TREATMENT:
+No text overlay. The piece is deliberately quiet and closes on image, not a caption card.
+
+SHOT LIST:
+- Close-up, notebook and pen, guide writing (opener)
+- Close-up, notebook page, handwriting
+- Medium shot, guide closing and stowing the notebook
+- Wide shot, guide securing the boat
+- Closing wide shot, dock at golden hour
+
+SOURCE GROUNDING: Confirmed unused across all 300 prior NOTES.txt files by this pass's full-text dedup audit. Deliberately reworded during the copy-mentors pass to avoid any echo of Pass 15 Piece 10 ("The Only Souvenir That Fits in a Pocket"): that piece is about a feather landing in the boat as a takeaway for guests; this piece is about a private, guest-facing-nothing ritual the guide keeps for himself.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman for the quiet narrative build. During drafting, the original closer read "Some souvenirs aren't for the guests," flagged for echoing Pass 15 Piece 10's language too closely even though the underlying mechanic is distinct; rewrote to "Some things you keep for yourself, not for the guests," which keeps the sentiment without the word collision. Then /copywriting-2.0 (3-test filter): confirmed the remaining lines pass. The line to keep is "Not the guest count. Not the weather. Just what he saw first that day," the most concrete and ownable line in the piece.
+
+PRODUCTION FLAG: Illustrative bit, not a confirmed existing guide practice. The six-year tenure figure is illustrative, not a confirmed real guide's record. No guide identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 94, 2026-08-16. VO lines routed through /copy-mentors then /copywriting-2.0 (3-test filter, one rewrite logged above).
