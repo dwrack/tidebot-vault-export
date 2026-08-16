@@ -1,0 +1,30 @@
+PIECE 10 — Myth vs. reality lane — "If You Can Sit Down, You Can Do This"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Daniel (ElevenLabs)   Music: calm, reassuring, steady confidence (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest at the dock admits she's never been in a kayak in her life. She looks nervous about it.   [wide shot: guest at the dock, hesitant, eyeing the kayaks]
+ 3.0s  The guide doesn't downplay it. He just hands her a paddle and says, "If you can sit down, you can do this."   [close-up: guide handing over a paddle, calm and direct]
+ 7.0s  No rapids. No current fighting back. The whole route is flat, slow water.   [medium shot: kayaks gliding on calm, still water]
+10.5s  Forty minutes in, she's steering better than the guy next to her who said he'd done this before.   [close-up: guest paddling confidently, small proud grin]
+14.0s  Turns out the only requirement was showing up.   [closing wide shot: full group of kayaks moving easily together through the bayou]
+
+ON-SCREEN TEXT TREATMENT:
+None. The guide's line and the visible outcome carry the correction; a caption spelling out "no experience needed" would read like brochure copy, against Brand Story & Values Section 4's rule against cruise-ship-ad language.
+
+SHOT LIST:
+- Wide shot: guest hesitating at the dock (opener)
+- Close-up: guide handing over the paddle, calm and direct
+- Medium shot: kayaks gliding on calm, still water
+- Close-up: guest paddling confidently, proud grin
+- Closing wide shot: full group moving easily together
+
+SOURCE GROUNDING: Sourced directly from `Admire NOLA/Content/Script & Caption Bank.md` Lane 8 (Myth vs. reality): "You don't need to be athletic. We put total first-timers on the water every single day. If you can sit down, you can do this." Checked against all 216 prior piece-title NOTES files via direct grep for "athletic," "never kayaked," "first time in a kayak," and "no experience," zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Claude Hopkins and Halbert's direct, plain-spoken objection-handling style. Then /copywriting-2.0 (3-test filter): an early closer, "anyone can do this tour," was cut as a generic, unfalsifiable marketing claim. Replaced with the specific, funnier comparison against the guy who claimed prior experience, which is visualizable, checkable against the scene, and not a line any generic outdoor-adventure account could claim.
+
+DEVICES CHECK: structurally, this is the same guest-question-then-factual-correction shape as Pass 61's Piece 11 ("It's Not Coming for the Boat," the cottonmouth myth-vs-reality piece), which Pass 61 itself checked against and confirmed distinct from the series' retired guest-expectations-wrong-then-corrected device. That retired device concerns a whole-tour expectation-subversion arc (guest expects the entire experience to be boring or bad, then everything is corrected), not a single, specific factual objection answered on request. This piece follows the same confirmed-safe Lane 8 shape Pass 61 established, the second piece in the series to use it.
+
+PRODUCTION FLAG: illustrative guide response to a real, common pre-tour objection (fitness/experience anxiety); not a scripted or trained line, wording would vary guide to guide. No guest or guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Hopkins, Halbert) then /copywriting-2.0 (3-test filter, one catch logged above). Devices check logged above.

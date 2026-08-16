@@ -1,0 +1,28 @@
+PIECE 02 — Funny / running-joke lane — "Nobody Says Turn It Up"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: building, groove-forward, energy climbing in small steps (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody on this boat ever says the word "louder."   [wide shot: boat cruising, group dancing, energy building]
+ 3.0s  A deckhand just watches feet. When enough of them start moving, the volume goes up one notch.   [close-up: deckhand's hand on the speaker dial, eyes on the dance floor]
+ 7.0s  No announcement. No "you guys want it louder?" Just more.   [medium shot: bass hits, more guests joining in]
+10.5s  If the group wants chill, it stays chill. Nobody's reading a script, just a room.   [close-up: contrast beat, a calmer stretch of guests, deckhand leaving it be]
+14.0s  By the third bump, half the boat's convinced the boat somehow knows what they want before they do.   [closing wide shot: full dance energy, group completely locked in]
+
+ON-SCREEN TEXT TREATMENT:
+None. The piece is built to be told entirely through action; there's no dialogue to caption and adding text would undercut the "nobody says anything" premise.
+
+SHOT LIST:
+- Wide shot: boat cruising, dancing beginning (opener)
+- Close-up: deckhand watching feet, hand resting on the speaker dial
+- Medium shot: bass hits, more guests joining in
+- Close-up: calmer contrast beat, deckhand leaving a quieter stretch alone
+- Closing wide shot: full dance energy, group locked in
+
+SOURCE GROUNDING: Sourced from idea #23, "Free second round energy. If the vibe is building and people are dancing, crank the music up one notch without being asked. Read the room." Confirmed untapped this pass by direct grep of all 216 prior piece-title NOTES files for "crank the music," "read the room," "one notch," and related phrasing, zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's show-don't-tell patience, the entire piece runs without a single line of spoken dialogue, letting the volume changes and the crowd's reaction carry the story. Then /copywriting-2.0 (3-test filter): an early closer, "the boat just knows how to read a room," was cut as an overused, unfalsifiable claim. Replaced with "half the boat's convinced the boat somehow knows what they want before they do," which keeps the same idea but makes it a specific, visualizable claim about the guests' reaction rather than an assertion about the boat itself.
+
+PRODUCTION FLAG: illustrative crew instinct, not a confirmed trained behavior; exact timing and wording of any real crew practice would vary crew to crew and shift to shift. No crew member identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

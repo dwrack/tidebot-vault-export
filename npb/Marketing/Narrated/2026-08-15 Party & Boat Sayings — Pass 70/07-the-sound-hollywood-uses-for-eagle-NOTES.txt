@@ -1,0 +1,28 @@
+PIECE 07 — Did-you-know / wildlife spotlight lane — "The Sound Hollywood Uses for Eagle"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: curious, a little wry, quick reveal (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A sharp, piercing scream cuts across the water, and every guest looks up expecting a bald eagle.   [wide shot: kayaks pausing, guests scanning the treeline]
+ 3.5s  It's not an eagle. Real eagles mostly just chirp, kind of a letdown for how big they are.   [close-up: guide gesturing, slight smile]
+ 7.5s  That scream belongs to a red-shouldered hawk, about a third the size of what everyone pictured.   [close-up: hawk perched, guests spotting it, smaller than expected]
+11.5s  It's the sound movies use whenever they want you to feel "eagle." Real eagles just don't deliver.   [medium shot: guide explaining, group amused]
+15.0s  Every guest on this tour just got fooled by the same trick Hollywood's been running for decades.   [closing wide shot: hawk taking off, group watching, still processing]
+
+ON-SCREEN TEXT TREATMENT:
+"RED-SHOULDERED HAWK" appears as a small lower-third label at 7.5s, matching the series' fact-naming convention, clears fast.
+
+SHOT LIST:
+- Wide shot: kayaks pausing, guests scanning the treeline (opener)
+- Close-up: guide's line, slight smile
+- Close-up: hawk perched, smaller than expected
+- Medium shot: guide explaining, group amused
+- Closing wide shot: hawk taking off, group still processing
+
+SOURCE GROUNDING: Original eco-tour concept, first hawk-species piece in the series (the vault's existing raptor pieces cover osprey, Pass 61 Piece 07, and bald eagle, Pass 61 Piece 10, both confirmed distinct species and distinct facts). Checked against all 216 prior piece-title NOTES files via direct grep for "hawk," "Hollywood," and "red-shouldered," zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's factual reveal combined with Sugarman's curiosity-gap structure, the sound is heard before its source is revealed. Then /copywriting-2.0 (3-test filter): an early closer, "nature's original sound effect," was cut as a worn, generic phrase. Replaced with "the same trick Hollywood's been running for decades," a specific, checkable, ownable claim.
+
+PRODUCTION FLAG: the "real eagle calls sound weak, so films substitute a hawk scream" convention is a widely repeated birding and film-trivia claim, most commonly cited specifically for red-tailed hawks rather than red-shouldered. Confirm the exact species convention against a documented source (an ornithology or film-sound-design reference) before publishing this as stated fact on camera; if red-tailed hawk is the more defensible species for the claim, swap the bird and keep the piece's structure. Separately, confirm red-shouldered hawks are reliably sighted or heard on NPB's actual eco tour route before treating this as a guaranteed moment rather than an occasional one. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy, Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above). Fact-verification flag logged above; confirm before this posts.

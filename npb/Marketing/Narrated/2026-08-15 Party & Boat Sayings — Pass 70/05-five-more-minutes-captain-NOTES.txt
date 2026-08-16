@@ -1,0 +1,30 @@
+PIECE 05 — Funny / running-joke lane — "Five More Minutes, Captain"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-BrianNeural (free tier)   Music: light, warm, a little cheeky (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  With ten minutes left on every single cruise, somebody asks the same question a different way.   [wide shot: boat nearing the marina, guests glancing at the dock ahead]
+ 3.5s  "Can we just... not go back yet?"   [close-up: guest, half-joking, half-serious, looking at the captain]
+ 6.0s  The captain checks his watch. There's another group already waiting at the dock.   [close-up: captain glancing at his watch, then toward the marina]
+ 9.5s  He never says no outright. He just starts steering slower.   [medium shot: captain easing back on the throttle, boat's wake softening]
+13.0s  Four minutes buys the whole boat one more song, and nobody argues with that math.   [closing wide shot: guests still dancing, boat gliding in slow, marina getting closer]
+
+ON-SCREEN TEXT TREATMENT:
+None. The guest's line and the captain's action carry the beat.
+
+SHOT LIST:
+- Wide shot: boat nearing the marina, guests glancing ahead (opener)
+- Close-up: guest's half-joking, half-serious question
+- Close-up: captain checking his watch, glancing toward the marina
+- Medium shot: captain easing off the throttle, wake softening
+- Closing wide shot: guests still dancing, boat gliding in slow
+
+SOURCE GROUNDING: Original concept, not sourced from a specific idea-bank number (checked against the full 100-idea list, no match). Checked against all 216 prior piece-title NOTES files via direct grep for "more minutes," "not go back," and "steering slower," zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's honesty about real constraints, the schedule and the waiting group are named plainly rather than glossed over, consistent with the global writing-style guidance to mention real limits (time, staffing, capacity) instead of writing as if resources are unlimited. Then /copywriting-2.0 (3-test filter): an early closer, "and everyone's happy," was cut as vague. Replaced with "four minutes buys the whole boat one more song, and nobody argues with that math," concrete, visualizable, and falsifiable against what's on screen.
+
+DEVICES CHECK: the repeated element in this piece is the guest's question, phrased a different way on every cruise, not a fixed line the captain delivers. The captain's own response is an action (slowing the boat down), not a memorized verbal punchline. Checked against the series' retired fixed-captain-catchphrase-as-comedic-engine device and confirmed structurally distinct on that basis, the same distinction Pass 61 documented for its own borderline pieces (03 and 08) rather than assumed without checking.
+
+PRODUCTION FLAG: original, illustrative behavior; not a confirmed standing practice or scheduling policy. No captain identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above). Devices check logged above.

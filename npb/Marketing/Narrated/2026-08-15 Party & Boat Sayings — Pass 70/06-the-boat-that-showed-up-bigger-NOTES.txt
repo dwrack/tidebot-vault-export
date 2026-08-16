@@ -1,0 +1,28 @@
+PIECE 06 — Heartfelt / loyalty lane — "The Boat That Showed Up Bigger"
+Product: Private BYOB Party Fleet
+Voice: voice-en-US-GuyNeural (free tier)   Music: warm, understated, a little proud (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guy books his third cruise with us, same as always, nothing special in the request.   [wide shot: marina, guest walking up alone, casual]
+ 3.5s  The booking goes out for the small boat. What shows up at the dock is the big one.   [close-up: guest looking at a larger boat than expected, slight double-take]
+ 7.0s  Nobody explains it. Nobody puts "loyalty upgrade" on a form anywhere.   [close-up: deckhand waving him aboard, no announcement, business as usual]
+10.5s  He just gets more room, a better sound setup, and a captain who already recognizes him from the dock.   [medium shot: guest settling in on the bigger boat, easy going aboard]
+14.5s  He'll mention it to his buddy on the ride out, and neither of them will know why it happened.   [closing wide shot: boat pulling out, guest relaxed, city receding behind him]
+
+ON-SCREEN TEXT TREATMENT:
+None. Keeping the upgrade unannounced on screen matches the unannounced nature of the gesture itself.
+
+SHOT LIST:
+- Wide shot: marina, guest walking up alone (opener)
+- Close-up: guest's double-take at the bigger boat
+- Close-up: deckhand waving him aboard, no fuss
+- Medium shot: guest settling in on the bigger boat
+- Closing wide shot: boat pulling out, city receding
+
+SOURCE GROUNDING: Sourced from idea #65, "Upgrade without asking. If a repeat group books during a slow period, give them the bigger boat, the better time slot, the extra hour. Don't announce it as a loyalty perk. Just do it. They'll notice." Confirmed untapped this pass by direct grep of all 216 prior piece-title NOTES files for "bigger boat," "upgrade," and "third cruise," zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's quiet-reveal patience, no line of dialogue announces the upgrade anywhere in the piece, matching the idea bank's own instruction not to announce it. Then /copywriting-2.0 (3-test filter): an early closer, "that's how you build a loyal customer," was cut as telling rather than showing, a marketing-department line rather than an observed moment. Replaced with "neither of them will know why it happened," which keeps the mystery intact and reads as something a real person would actually say.
+
+PRODUCTION FLAG: illustrative, not confirmed as a standing scheduling practice; would need real capacity and slow-period rules from ops before treated as routine rather than a pitch. No guest or crew member identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

@@ -1,0 +1,28 @@
+PIECE 08 — Heartfelt / wildlife spotlight lane — "A Few Dozen Eggs, Eighty Million Years of Practice"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Sarah (ElevenLabs)   Music: hushed, tender, a little in-awe (mood only)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A mound of mud and reeds sits a few feet off the bank, taller than it looks like it should be.   [wide shot: kayaks approaching a mounded nest area from a respectful distance]
+ 3.5s  A guest asks if it's just a pile of debris. It's a nursery.   [close-up: guest squinting at the mound, curious]
+ 6.5s  A mother alligator builds it herself, and she doesn't wander far from it all summer.   [close-up: nest mound detail, guide gesturing]
+10.5s  The guide keeps the kayaks well clear. This is the one spot on the whole route where distance isn't optional.   [medium shot: guide signaling the group to hold back, calm but clear]
+14.5s  Inside, a few dozen eggs are doing something that's been working for eighty million years without any help from us.   [closing wide shot: nest mound from a distance, kayaks holding position, quiet]
+
+ON-SCREEN TEXT TREATMENT:
+"ALLIGATOR NEST" appears as a small lower-third label at 3.5s, clears fast.
+
+SHOT LIST:
+- Wide shot: kayaks approaching at a respectful distance (opener)
+- Close-up: guest questioning the mound
+- Close-up: nest detail, guide gesturing
+- Medium shot: guide signaling the group to hold back
+- Closing wide shot: nest mound from a distance, kayaks holding position
+
+SOURCE GROUNDING: Original eco-tour concept. Checked against all 216 prior piece-title NOTES files via direct grep for "alligator nest," "gator nest," "mound of mud," and "nursery," zero collisions found. Explicitly checked against and distinguished from two existing pieces that touch alligator reproduction from a different angle: Pass 14's "Wait, Gators Can Do That" (a mother carrying hatchlings in her mouth, already-hatched behavior) and Pass 16's "Same Bayou, Never the Same Tour" (a mother gator with babies on her back, also post-hatching). Neither centers nest construction or eggs, which this piece is built around instead. First piece in the series to do so.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's fact-driven specificity over sentiment. Then /copywriting-2.0 (3-test filter): an early closer, "nature knows what it's doing," was cut as an unfalsifiable platitude. Replaced with "a few dozen eggs are doing something that's been working for eighty million years without any help from us," which pairs a specific, checkable egg count with a defensible long-timescale claim about crocodilian lineage rather than a vague gesture at "nature."
+
+PRODUCTION FLAG: this piece requires a real, confirmed nest-sighting and safe-distance protocol from guides before it's treated as a routine tour moment rather than an occasional one; alligator nesting season runs roughly early summer, not year-round, so this isn't a guaranteed sight on every eco tour. No baiting, chasing, cornering, or close approach is implied or shown, the piece explicitly states the opposite. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above). Devices check (vs. Pass 14 and Pass 16) logged above.

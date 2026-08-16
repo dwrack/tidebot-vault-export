@@ -1,0 +1,28 @@
+PIECE 01 — Heartfelt / funny lane — "Half the Boat Googles It by the Dock"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: warm, a little proud, storytelling energy (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain points out the same warehouse on the way out. Most just call it "the warehouse."   [wide shot: boat passing a riverside warehouse, captain gesturing]
+ 3.5s  This one doesn't. "See that? They filmed a chase scene there. My cousin got yelled at by the lead actor for standing in frame."   [close-up: captain mid-story, guests leaning in to listen]
+ 8.5s  Nobody asked for a movie-trivia lecture. Everybody stops talking anyway.   [medium shot: guests turning toward the captain, drinks paused mid-sip]
+12.0s  He's got about five of these lined up for the whole route.   [close-up: captain, easy grin, already scanning ahead for the next landmark]
+14.5s  By the time they dock, half the boat's already checking whether the story's true.   [closing wide shot: boat approaching the marina, guests still discussing, phones out]
+
+ON-SCREEN TEXT TREATMENT:
+None. The story and the reaction to it carry the beat; captioning the captain's line would flatten the timing of the joke.
+
+SHOT LIST:
+- Wide shot: boat passing the riverside warehouse, captain gesturing (opener)
+- Close-up: captain mid-story
+- Medium shot: guests leaning in, drinks paused mid-sip
+- Close-up: captain grinning, already scanning ahead
+- Closing wide shot: boat approaching the marina, guests discussing, phones out
+
+SOURCE GROUNDING: Sourced from `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` idea #19, "Neighborhood narration, not a tour script. As you pass landmarks, drop one killer local fact... Real stories beat Wikipedia." Confirmed untapped this pass by direct grep of all 216 prior piece-title NOTES files for "movie," "chase scene," and related phrasing, zero collisions found. Not inherited from any prior pass's own "still untapped" summary, which this pass found contained real errors elsewhere (see the main slate doc's Status Flags for the idea #22 and idea #53/#54 corrections).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain, specific storytelling voice, a real cousin, a real (unnamed) actor, a real reaction, instead of a generic "cool local fact" gesture. Then /copywriting-2.0 (3-test filter): an early closer, "and it becomes part of the trip," was cut as vague and unfalsifiable. Replaced with "half the boat's already checking whether the story's true," which is visualizable, checkable against what's shown, and specific enough that no generic tour-boat account could claim it as their own line.
+
+PRODUCTION FLAG: illustrative captain behavior, a rotation of local stories, not confirmed as current trained practice across the crew. No real movie, actor, or filming location is named or implied as identifiable; keep it that way in production. No captain identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

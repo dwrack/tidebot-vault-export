@@ -1,0 +1,30 @@
+PIECE 12 — Practical / guide-line, FAQ lane — "As Close As They Let Us"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: calm, grounded, a little reverent (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks, before the kayaks even launch, how close they'll actually get to a gator.   [wide shot: group at the dock, pre-launch, guide addressing them]
+ 3.5s  Every group asks a version of the same question, and the guide's answer never changes, because the policy doesn't.   [close-up: guide speaking plainly, group listening]
+ 7.5s  "As close as they let us. We don't chase them, we don't bait them, we don't corner them."   [close-up: guide's line, direct eye contact with the group]
+11.5s  Some tours out here feed gators for a better photo. This one doesn't, on purpose.   [medium shot: kayaks paddling at a respectful distance from a sunning gator]
+15.0s  Every gator on this route decides how close today gets. Nobody in a kayak does.   [closing wide shot: gator sliding off a bank into the water, unbothered, kayaks holding steady]
+
+ON-SCREEN TEXT TREATMENT:
+"AS CLOSE AS THEY LET US" pops as a quote card at 7.5s, clears fast.
+
+SHOT LIST:
+- Wide shot: group at the dock, pre-launch (opener)
+- Close-up: guide's plain answer
+- Close-up: guide's direct line
+- Medium shot: kayaks at a respectful distance from a sunning gator
+- Closing wide shot: gator sliding into the water, kayaks holding steady
+
+SOURCE GROUNDING: Sourced directly from `Admire NOLA/Content/Script & Caption Bank.md` Lane 11 (Practical/FAQ): "How close do you get to gators? As close as they let them. We don't chase, bait, or corner them." Checked against all 216 prior piece-title NOTES files via direct grep for "chase them," "corner them," and "bait them," zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's plain, unembellished honesty about a real policy rather than a sales pitch dressed as one. Then /copywriting-2.0 (3-test filter): an early closer, "and that's what makes this tour different," was cut as vague self-praise. Replaced with "every gator on this route decides how close today gets. Nobody in a kayak does," a concrete, specific statement of the actual policy's effect.
+
+DEVICES CHECK: this states a real operational policy that's repeated because it stays factually true every time, not a guide's personal catchphrase deployed for comedic branding. The setup line was deliberately written to emphasize the policy's consistency ("the guide's answer never changes, because the policy doesn't") rather than the guide's own delivery of a memorized bit, keeping the emphasis on the rule rather than a performance. Checked against the series' retired fixed-catchphrase-as-comedic-engine device and confirmed distinct on that basis.
+
+PRODUCTION FLAG: this states a real safety/ethics policy on camera; confirm current, exact wording with ops before using any version of this line as a direct quote in production. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above). Devices check logged above.

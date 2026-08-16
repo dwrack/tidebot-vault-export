@@ -1,0 +1,30 @@
+PIECE 11 — Funny / running-joke lane — "How Deep Do You Think This Is"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-EchoRae (ElevenLabs)   Music: playful, curious, quick reveal (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The guide stops the group and asks everyone to guess the water depth right here.   [wide shot: kayaks paused over black, still water]
+ 3.0s  Guesses come back fast. Twenty feet. Bottomless. One guy says "the trench."   [close-up: guests calling out guesses, half-joking]
+ 6.5s  It's about four feet. The black water is doing all the work of looking deep.   [close-up: guide holding a paddle upright, marking the shallow depth]
+10.0s  Every single tour, somebody's convinced they could touch bottom, and somebody else is convinced nobody ever will.   [medium shot: guests reacting, surprised, some laughing]
+13.0s  Both of them are wrong, and both of them will guess again at the next bend.   [closing wide shot: kayaks moving on, still guessing among themselves]
+
+ON-SCREEN TEXT TREATMENT:
+None.
+
+SHOT LIST:
+- Wide shot: kayaks paused over still, black water (opener)
+- Close-up: guests calling out guesses, half-joking
+- Close-up: guide marking the actual depth with a paddle
+- Medium shot: guests reacting, surprised
+- Closing wide shot: kayaks moving on, still guessing
+
+SOURCE GROUNDING: Original concept, not sourced from a specific idea-bank number (checked against the full 100-idea list, no match) or the Script & Caption Bank's water-color lane (which explains why the water is black, a fact this piece leans on but doesn't restate, treating it as already known rather than re-explaining it). Checked against all 216 prior piece-title NOTES files via direct grep for "how deep," "feet deep," and related phrasing, zero collisions found.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's slippery-slide curiosity build, a guess-then-reveal structure that pulls the viewer through each line. Then /copywriting-2.0 (3-test filter): an early closer, "it's all part of the mystery," was cut as vague, AI-flavored filler. Replaced with "both of them are wrong, and both of them will guess again at the next bend," a concrete, funnier callback that's specific to this exact running behavior.
+
+DEVICES CHECK: this is a numeric depth-guessing game, not an animal-identification guessing game. Checked against the series' existing "gator, turtle, or stick" misidentification device (the base pass) and confirmed structurally different, this piece never asks guests to identify a living thing, only to estimate a physical measurement, which the guide then corrects with a fact rather than a punchline about mistaken identity.
+
+PRODUCTION FLAG: original concept; the four-foot depth figure is illustrative, not researched. Confirm actual typical depth on NPB's specific eco tour route before publishing a specific number on camera. No guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above). Devices check logged above.

@@ -1,0 +1,28 @@
+PIECE 09 — Did-you-know / wildlife spotlight lane — "The Bird Shaped Like Scissors"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Eric (ElevenLabs)   Music: light, airborne, graceful (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Something white and black glides overhead without a single wingbeat, tail split clean in two.   [wide shot: kite soaring high above the treeline, kayaks below]
+ 3.5s  A guest says it looks like someone cut the bird's tail with scissors. That's basically the whole design.   [close-up: kite's forked tail, twisting mid-flight]
+ 7.5s  The swallow-tailed kite uses that tail like a rudder, snatching dragonflies out of the air without ever landing.   [close-up: kite banking sharply, mid-air catch]
+11.5s  It even drinks on the move, skimming the water's surface at full speed without slowing down.   [medium shot: kite dipping low over the water, brief skim]
+15.0s  Most days it never touches a branch, a rail, or the ground at all.   [closing wide shot: kite continuing to soar, kayaks small beneath it]
+
+ON-SCREEN TEXT TREATMENT:
+"SWALLOW-TAILED KITE" appears as a small lower-third label at 7.5s, clears fast.
+
+SHOT LIST:
+- Wide shot: kite soaring overhead, tail forked (opener)
+- Close-up: forked tail twisting mid-flight
+- Close-up: mid-air insect catch
+- Medium shot: kite skimming the water's surface
+- Closing wide shot: kite continuing to soar, kayaks small below
+
+SOURCE GROUNDING: Original eco-tour concept, first swallow-tailed kite piece in the series. Checked against all 216 prior piece-title NOTES files via direct grep for "scissors" and "forked tail," zero collisions found. Distinct from the series' existing raptor and bird-spotlight pieces (osprey, bald eagle, red-shouldered hawk added this same pass, prothonotary warbler, roseate spoonbill, green heron, white ibis, wood duck, anhinga, barred owl), no species overlap.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's precision, specific documented behaviors (rudder-tail maneuvering, mid-air insect catches, drinking while skimming) instead of generic praise words. Then /copywriting-2.0 (3-test filter): an early closer, "a truly graceful bird to watch," was cut as a dead adjective stack that could describe any bird on any nature program. Replaced with "most days it never touches a branch, a rail, or the ground at all," a specific, falsifiable behavioral claim.
+
+PRODUCTION FLAG: swallow-tailed kites are migratory, present in Louisiana roughly March through August; confirm actual seasonal presence and sighting frequency on NPB's specific route before treating this as a guaranteed, year-round moment rather than a seasonal one. No guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above). Seasonality flag logged above.

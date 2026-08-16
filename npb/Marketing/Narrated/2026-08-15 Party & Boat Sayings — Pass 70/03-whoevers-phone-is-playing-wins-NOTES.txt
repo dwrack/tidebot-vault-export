@@ -1,0 +1,28 @@
+PIECE 03 — Funny / running-joke lane — "Whoever's Phone Is Playing Wins"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: playful, quick, comedic timing (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The second the boat clears the dock, three phones try to pair to the same speaker at once.   [wide shot: boat pulling away, guests already reaching for phones]
+ 3.0s  Nobody announced a rule about it. There's just an unspoken one anyway: whoever connects first controls the party.   [close-up: phone screen searching for a connection, guests glancing at each other]
+ 7.0s  Somebody's song wins by accident. Somebody else pretends they weren't trying.   [close-up: guest reacting, mock-annoyed, laughing]
+10.5s  By song three, nobody remembers whose playlist it even was.   [medium shot: whole group dancing, energy building]
+13.5s  The DJ booth on this boat is just whoever moved fastest with their thumbs.   [closing wide shot: boat cruising, full party energy]
+
+ON-SCREEN TEXT TREATMENT:
+None. The visual chaos of the phones and the dancing carries the joke without needing a caption.
+
+SHOT LIST:
+- Wide shot: boat pulling away from the dock, phones coming out (opener)
+- Close-up: phone screen searching for a Bluetooth connection
+- Close-up: guest's mock-annoyed reaction, laughing
+- Medium shot: whole group dancing, energy building
+- Closing wide shot: boat cruising, full party energy
+
+SOURCE GROUNDING: Original concept, not sourced from a specific idea-bank number (checked against the full 100-idea list, no match). Checked against all 216 prior piece-title NOTES files via direct grep for "bluetooth," "pair," "connects first," and "DJ booth," zero collisions found. Distinct from this vault's existing aux-cord pieces (Pass 14's "The Aux Cord Chain of Custody" and Pass 59's "It's Your Boat Today"), which are both about who gets handed control of the music, not the accidental, unrefereed Bluetooth-pairing scramble this piece centers.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's fast comedic rhythm and quick escalation. Then /copywriting-2.0 (3-test filter): an early closer, "it's chaos but it works," was cut as vague filler that could describe almost any party scene. Replaced with "the DJ booth on this boat is just whoever moved fastest with their thumbs," a specific, visualizable, ownable image.
+
+PRODUCTION FLAG: illustrative universal behavior, not tied to a specific confirmed boat feature or policy; if a specific boat's sound system doesn't support open Bluetooth pairing by multiple guests, adjust the premise before shooting. No guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

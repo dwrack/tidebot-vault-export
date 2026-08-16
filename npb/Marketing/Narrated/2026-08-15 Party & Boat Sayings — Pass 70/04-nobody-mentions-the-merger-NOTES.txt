@@ -1,0 +1,28 @@
+PIECE 04 — Funny / heartfelt lane — "Nobody Mentions the Merger"
+Product: Private BYOB Party Fleet
+Voice: voice-en-GB-RyanNeural (free tier)   Music: light, dry, a little wry (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Three days before a corporate booking, somebody calls the person who planned it.   [wide shot: office setting, generic, phone in hand]
+ 3.0s  "What's success look like for this one?" Not a script question. An actual one.   [close-up: person on the phone, listening, genuine]
+ 6.5s  She doesn't say team bonding. She says, "Nobody talks about the merger for two hours. That's it."   [close-up: organizer on the phone, half-laughing, half-serious]
+11.0s  That's the whole brief. No icebreakers get planned. No games get forced.   [medium shot: boat later, group just talking, drinks in hand, nobody doing a trust fall]
+14.5s  Two hours later, nobody's mentioned the merger once.   [closing wide shot: group laughing together on the boat, completely at ease]
+
+ON-SCREEN TEXT TREATMENT:
+None. The organizer's line and the payoff carry the beat without needing a caption.
+
+SHOT LIST:
+- Wide shot: generic office setting, phone call beginning (opener)
+- Close-up: caller listening, genuine
+- Close-up: organizer's honest answer, half-laughing
+- Medium shot: boat later, group relaxed, no forced activities
+- Closing wide shot: group laughing together, completely at ease
+
+SOURCE GROUNDING: Sourced from idea #56, "Pre-event call with the organizer. Don't just take the booking. Call the person who planned it and ask: 'What does success look like for this outing?' Some want team bonding. Some want to blow off steam." Confirmed untapped this pass by direct grep of all 216 prior piece-title NOTES files for "success look like" and "merger," zero collisions found. Second corporate-focused piece in the series overall, alongside Pass 37's "Your Team Showed Up for You."
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy's specificity, the "merger" detail is what makes the organizer's answer feel like a real person's actual stress rather than a generic "work is hard" gesture. Then /copywriting-2.0 (3-test filter): an early closer, "and everyone had a great time," was cut as vague and unfalsifiable. Replaced with "two hours later, nobody's mentioned the merger once," a direct, checkable callback to the organizer's own stated goal.
+
+PRODUCTION FLAG: no real company, merger, or corporate client is named or identifiable, and none should be added in production. Illustrative pre-booking call; not confirmed as a standing practice for every corporate booking, would need confirming with ops before treated as routine. No organizer identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 70, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).
