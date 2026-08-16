@@ -2,6 +2,8 @@
 
 **Drafted via /seo-blog-writer. Staged for David's approval. Do not publish.**
 
+**CONTENT-GATE SCORE (run 2026-08-16): 84/100 — PASS (revised from an initial REVISE).** As originally drafted 2026-08-15, this post scored ~75 (REVISE) because 4 of 5 internal links pointed to pages that 404 live — wrong slug for the Cave Point tour page, and two links to content that was never published. Fixed 2026-08-16: corrected the Cave Point link to the real live URL (`/kayak-tours/cave-point-county-park/`), dropped the two links to non-existent pages (rewrote those sentences instead of linking to a 404), converted the "what to wear" reference to plain text pending that sibling post's publish, and added one explicit "Door County Kayak Tours" mention to the FAQ (this post previously had zero explicit brand-name mentions in body or FAQ, only the schema-persona footer). Breakdown after fixes: Experience 15/20, Expertise 13/15, Authority 8/10, Trust 8/10, GEO-readiness 17/20, Brand-voice 10/10, On-page mechanics 13/15.
+
 Target keyword: **lake michigan water temperature door county**, plus "is lake michigan cold in june," "best month to kayak door county warm water," "door county kayak season water temp"
 Angle: Month-by-month (May-October) water-temperature reference built to answer the "when should I book" question, not a packing list. Competitor Peninsula Kayak Company gives one vague line on water conditions ("conditions checked daily") with no real numbers; this fills that gap with an honest, decision-driving breakdown, then routes readers to book the month that fits what they want.
 GSC note: live GSC access wasn't available this pass. Content-gap evidence is drawn from the cached query data in `SEO Content/_old-blog-audit-and-linking-matrix.md` and from `Marketing/Competitor Content-Gap Analysis — Peninsula Kayak Company (June 2026).md`.
@@ -97,7 +99,7 @@ When does kayak tour season start and end in Door County?
 ```
 **A4:**
 ```
-Our season runs roughly mid-May through mid-October, weather dependent. Early and late season trips run on the calmer, more sheltered routes more often. Mid-summer, June through August, is when we run the fullest tour schedule and the widest range of trips, including Cave Point.
+Door County Kayak Tours runs roughly mid-May through mid-October, weather dependent. Early and late season trips run on the calmer, more sheltered routes more often. Mid-summer, June through August, is when we run the fullest tour schedule and the widest range of trips, including Cave Point.
 ```
 
 **Q5:**
@@ -120,7 +122,7 @@ No. Guests don't wear wetsuits on our guided sit-on-top tours. You stay dry and 
     {"@type": "Question", "name": "How cold is Lake Michigan in Door County?", "acceptedAnswer": {"@type": "Answer", "text": "It depends heavily on the month. Early season, think May and early June, the water is typically still in the upper 40s to 50s. By August it's usually warmed into the 60s and can push into the 70s in shallow, sheltered spots. It cools back down through September and October as the season winds down. None of that stops a guided sit-on-top tour, since you paddle on top of the water, not in it."}},
     {"@type": "Question", "name": "Is Lake Michigan too cold to kayak in June?", "acceptedAnswer": {"@type": "Answer", "text": "No, June is one of our busier months and a completely normal time to book. The water is typically still cool, often in the 60s depending on the week, but you're seated on top of a sit-on-top kayak wearing a life jacket the entire tour. Cool water affects your comfort if you get splashed, not your ability to paddle. We just recommend dressing for the water instead of the air temperature."}},
     {"@type": "Question", "name": "What's the best month to kayak Door County for warm water?", "acceptedAnswer": {"@type": "Answer", "text": "Late July and August tend to have the warmest water of the season, since Lake Michigan is slow to heat up and needs a full summer of sun to get there. That said, warmest isn't the same as best. May, June, September, and October all paddle well, they're just cooler and quieter, with smaller groups and easier parking at the launch."}},
-    {"@type": "Question", "name": "When does kayak tour season start and end in Door County?", "acceptedAnswer": {"@type": "Answer", "text": "Our season runs roughly mid-May through mid-October, weather dependent. Early and late season trips run on the calmer, more sheltered routes more often. Mid-summer, June through August, is when we run the fullest tour schedule and the widest range of trips, including Cave Point."}},
+    {"@type": "Question", "name": "When does kayak tour season start and end in Door County?", "acceptedAnswer": {"@type": "Answer", "text": "Door County Kayak Tours runs roughly mid-May through mid-October, weather dependent. Early and late season trips run on the calmer, more sheltered routes more often. Mid-summer, June through August, is when we run the fullest tour schedule and the widest range of trips, including Cave Point."}},
     {"@type": "Question", "name": "Do I need a wetsuit to kayak in Door County?", "acceptedAnswer": {"@type": "Answer", "text": "No. Guests don't wear wetsuits on our guided sit-on-top tours. You stay dry and on top of the water for the vast majority of the paddle, and a life jacket is required the entire time. Dressing in quick-dry layers instead of cotton handles the rest. We cover exactly what to wear in a separate guide."}}
   ]
 }
@@ -159,11 +161,11 @@ No. Guests don't wear wetsuits on our guided sit-on-top tours. You stay dry and 
 
 ## INTERNAL LINK SUGGESTIONS
 ```
-- "what to wear on a Door County kayak tour" → /blog/what-to-wear-kayaking-door-county/
-- "guided Cave Point kayak tour" → /cave-point-kayak-tour/
-- "Cave Point half-day tour" → /cave-point-half-day-kayak-tour/
-- "best time to visit Cave Point County Park" → /best-time-cave-point-county-park/
-- "kayaking while pregnant" → /blog/embracing-kayaking-during-pregnancy-a-guide-to-safe-paddling/
+- "what to wear on a Door County kayak tour" → HOLD, no live URL yet. The staged draft `2026-06-13 - what-to-wear-kayaking-door-county.md` hasn't been published, so /blog/what-to-wear-kayaking-door-county/ currently 404s. Wire this link when that post goes live; until then the body copy below references it in plain text, not as a hyperlink.
+- "guided Cave Point kayak tour" → /kayak-tours/cave-point-county-park/ (verified live 2026-08-16, was pointing at the wrong slug /cave-point-kayak-tour/, which 404s)
+- "Cave Point half-day tour" → dropped. No separate half-day URL exists live; the 2-hour and half-day options both book from /kayak-tours/cave-point-county-park/, so the half-day mention below now points there instead of a distinct (and 404ing) page.
+- "best time to visit Cave Point County Park" → dropped. No live page at that slug (confirmed 404, verified 2026-08-16). Removed from body rather than link to a page that doesn't exist.
+- "kayaking while pregnant" → /blog/embracing-kayaking-during-pregnancy-a-guide-to-safe-paddling/ (verified live 2026-08-16)
 ```
 
 ---
@@ -198,7 +200,7 @@ Last October, we had a guide come off a fall paddle and tell the group, half-jok
 
 Here's the part that actually matters for booking: none of the numbers above are a reason to skip a month. On a guided sit-on-top tour, you're sitting on top of a kayak, not swimming in the lake. A life jacket is required the entire time, no exceptions, guides included. You might feel a splash off the bow on a breezy day. You will not be submerged in 50-degree water for two hours.
 
-We dress guests for the water, not the forecast, and that's really the only adjustment cold water asks of you. If you want the specific packing list, we wrote a full guide on [internal link: what to wear on a Door County kayak tour → /blog/what-to-wear-kayaking-door-county/]. This post isn't that post. This one is about picking the month. That one's about what to put on once you have.
+We dress guests for the water, not the forecast, and that's really the only adjustment cold water asks of you. If you want the specific packing list, we've got a full guide on what to wear on a Door County kayak tour (internal link once that post is published — it's staged, not live yet). This post isn't that post. This one is about picking the month. That one's about what to put on once you have.
 
 Cold water is also, honestly, part of what makes the lake look the way it does. That cold, deep water is a big part of why our visibility runs 15 to 20 feet on a good day and why the sea caves at Cave Point stay dramatic instead of murky. You're not fighting the lake's temperature. You're paddling on top of the thing that makes it beautiful.
 
@@ -209,7 +211,7 @@ Depends what you're optimizing for, and there's a real answer here, not a shrug.
 - **Want the warmest water and the fullest schedule?** July and August. This is when the lake's closest to feeling like summer everywhere else feels, and when we're running the widest range of tours, Cave Point included.
 - **Want fewer people at the launch and a quieter cave entrance?** May, June, September, or October. The water's cooler, sure, but you're on top of it either way, and the tradeoff is smaller groups, easier parking, and a shoreline that doesn't feel like a beach day.
 - **Want fall color from the water?** Late September into October, and specifically our Inland Fall Paddle on Logan Creek. Cooler water, best color of the year.
-- **Booking around a specific trip, not just a temperature?** Check our [internal link: best time to visit Cave Point County Park → /best-time-cave-point-county-park/] guide, since crowd timing and cave-entry odds matter more there than the water temperature does.
+- **Booking around a specific trip, not just a temperature?** The [internal link: guided Cave Point kayak tour → /kayak-tours/cave-point-county-park/] page has the crowd-timing and cave-entry detail that matters more there than the water temperature does, for both the 2-hour and half-day options.
 
 We'd never talk you out of a shoulder-season trip to chase warmer water. Some of our favorite guest reactions happen in June and September, when the group is small enough that the guide actually gets to know everyone by name.
 
@@ -219,14 +221,14 @@ Water temperature almost never cancels a tour on its own. Wind, waves, and light
 
 If you're nervous about cold water, tell your guide before you launch. We'd rather know than guess. And if you're paddling while pregnant and wondering how water temperature factors into that decision, we've got a separate, honest answer for that too: [internal link: kayaking while pregnant → /blog/embracing-kayaking-during-pregnancy-a-guide-to-safe-paddling/].
 
-Pick the month that matches what you actually want out of the day, warm water and full crowds, or cooler water and quiet caves. Either way, you'll be paddling on top of Lake Michigan, not in it, and that's true in May just as much as it is in August. [internal link: guided Cave Point kayak tour → /cave-point-kayak-tour/] runs the whole season. Book the month that fits you.
+Pick the month that matches what you actually want out of the day, warm water and full crowds, or cooler water and quiet caves. Either way, you'll be paddling on top of Lake Michigan, not in it, and that's true in May just as much as it is in August. Door County Kayak Tours runs the [internal link: guided Cave Point kayak tour → /kayak-tours/cave-point-county-park/] the whole season. Book the month that fits you.
 ```
 
 ---
 
 **Schema author persona:** Drifty (Resident voice of Door County Kayak Tours), per established vault convention. Do not use David Rack's name anywhere in content, byline, or schema.
 
-Ready to publish. Copy each section into the WordPress editor.
+**Content-gate: PASS (revised 2026-08-16, see score note at top of file).** One hold item before copying into WordPress: the "what to wear" reference in the cold-water section is plain text, not a live link, until `2026-06-13 - what-to-wear-kayaking-door-county.md` is published — wire that link in at that point. Every other internal link has been verified live as of 2026-08-16.
 
 Cover image:
 - Suggested visual: a guide checking the shoreline at Cave Point on a cool, early-season morning, calm water, soft light, no beach-day cues.

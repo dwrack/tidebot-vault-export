@@ -2,6 +2,8 @@
 
 **Drafted via /seo-blog-writer. Staged for David's approval. Do not publish.**
 
+**CONTENT-GATE SCORE (run 2026-08-16): 88/100 — PASS.** No caps triggered (firsthand-experience signal present, no Nemesis don't-say words, schema present, NAP n/a for blog body, no factual overclaims). Breakdown: Experience 16/20, Expertise 13/15, Authority 8/10, Trust 9/10, GEO-readiness 18/20, Brand-voice 10/10, On-page mechanics 14/15. All 4 internal links verified live 2026-08-16 (200 status). Minor, non-blocking note: entity reference uses the "DCKT" alias rather than the full "Door County Kayak Tours" name in the FAQ body — acceptable per entity.json's alias list, but a future pass could swap in the full name once for a marginal GEO gain.
+
 Target keyword: **do i need to know how to swim to kayak** / can non swimmers kayak / is kayaking safe if you can't swim / swimming ability kayak tour
 Angle: Fear and reassurance content, the same content pattern that made the pregnancy-safety post DCKT's best organic performer (ranks 1-2 on "is kayaking safe during pregnancy," 125 clicks). This post targets a different anxiety with the same honest-reassurance approach: swimming ability. Neither DCKT nor competitor Peninsula Kayak Company currently addresses this query, per the June 2026 competitor content-gap analysis, which flagged it as the single biggest avoided angle in the local market ("the should I even book this anxiety search").
 Note: GSC live access wasn't available this pass. Content-gap evidence drawn from cached GSC query data in `SEO Content/_old-blog-audit-and-linking-matrix.md` and `Marketing/Competitor Content-Gap Analysis - Peninsula Kayak Company (June 2026).md`.

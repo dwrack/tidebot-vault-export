@@ -2,6 +2,8 @@
 
 **Drafted via /seo-blog-writer. Staged for David's approval. Do not publish.**
 
+**CONTENT-GATE SCORE (run 2026-08-16): 91/100 — PASS.** Strongest of the three drafts scored this pass — directly channels the Nemesis Framework's "assembly-line outfitter" language and the Brand Story's "Radar on, antenna up" principle without sounding like it's quoting an internal doc. No caps triggered. Breakdown: Experience 17/20, Expertise 14/15, Authority 9/10, Trust 9/10, GEO-readiness 19/20 (full brand name explicit in FAQ + body), Brand-voice 10/10, On-page mechanics 13/15 (one link held pending slug confirmation, see note at bottom of file — deduct resolves once that's fixed).
+
 Target keyword cluster: **what happens if kayak tips over, kayak capsize what to do, is it easy to flip a kayak, kayak tour safety door county**
 Angle: Demystify, don't dramatize. This is the same fear-to-conversion pattern as the pregnancy post (DCKT's best organic performer, pos 1-2, 125 clicks): find the anxious pre-booking question nobody else on the peninsula will touch honestly, and answer it straight. Competitor Peninsula Kayak Company avoids capsize language entirely in their content and FAQ. DCKT has no public content on this yet either. This post closes that gap.
 GSC live access wasn't available this pass, content-gap evidence drawn from cached GSC query data in `SEO Content/_old-blog-audit-and-linking-matrix.md` and the competitor content-gap analysis in `Marketing/Competitor Content-Gap Analysis — Peninsula Kayak Company (June 2026).md`.
@@ -230,7 +232,9 @@ The lake doesn't need to be something you white-knuckle through. Door County Kay
 
 ---
 
-Ready to publish. Copy each section into the WordPress editor.
+**Content-gate: PASS (scored 2026-08-16), score note at top of file.** One hold item before copying into WordPress: the "/blog/why-sit-on-top-kayaks/" link currently 404s (that post's slug isn't confirmed live yet) — confirm the real slug with David before pasting, or drop that one hyperlink and keep the sentence as plain text. Every other internal link (Eco Estuary, Cave Point, pregnancy post) verified live 2026-08-16.
+
+Ready to publish once that one link is resolved. Copy each section into the WordPress editor.
 
 Cover image:
 - Suggested visual: a guide's kayak paddled alongside a guest's sit-on-top kayak on calm, clear Door County water, both relaxed, no distress in frame.
