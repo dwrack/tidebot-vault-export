@@ -24,6 +24,7 @@
 
 
 ## Low Priority
+- [ ] [Guide log] Replenish waiver forms. _(Jaidyn (audio log), 2026-08-16)_
 - [ ] [Guide log] Rinse out kayak due to sand and mud from runoff. _(Jaidyn (audio log), 2026-06-18)_
 
 
