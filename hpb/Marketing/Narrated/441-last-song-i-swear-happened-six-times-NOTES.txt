@@ -1,0 +1,20 @@
+PIECE 441 — Bachelorette-party lines, a running tally — The Sunscreen Friend / "'Last Song, I Swear' Happened Six Times"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier, not EL-Brian)   Music: upbeat build bed, starts soft, builds   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "Okay, one more song and then we're done." First time, everybody believes her.                         [Sunscreen Friend VO earnest, wide, bridesmaid announcing, group nodding along]
+ 3.6s  Second time, a couple people side-eye her.                                                             [insert, bridesmaid announcing again, friends exchanging a look]
+ 7.4s  Sixth "last song," the whole boat's just accepted it's not happening.                                  [insert, bridesmaid dancing again, group laughing, no longer surprised]
+11.4s  She never once stopped after saying it.                                                                [closing line, group all dancing together, bridesmaid laughing at herself]
+
+On-screen text: Hook = "\"ONE MORE SONG, I SWEAR\" HAPPENED SIX TIMES" / Body = "never once stopped after saying it." / CTA: Tag your friend who says "last song" and means nothing by it.
+
+Shot list:
+- [B-ROLL] Bridesmaid announcing "one more song," group nodding along
+- [INSERT] Bridesmaid announcing again, friends exchanging a look
+- [INSERT] Bridesmaid dancing again, group no longer surprised
+- [B-ROLL] Whole group dancing together, bridesmaid laughing at herself
+
+Note: Checked directly against the monthly/annual promise pieces already on file (47, 64, 84, 429) — 441 stays distinct by tallying a promise made and broken repeatedly inside a single trip, not a callback across weeks or months.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

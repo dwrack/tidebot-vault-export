@@ -1,0 +1,20 @@
+PIECE 435 — Deck-hand slang, a running tally — The Deckhand / "The Cup Tower Deckhand Won't Touch"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: playful, mischievous bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Guy starts stacking his empty cups on the rail. Nobody asked him to.                                   [Deckhand VO fast hype, wide, guest placing an empty cup on the rail deliberately]
+ 3.4s  Two cups, nothing. Five cups, deckhand starts watching.                                                [insert, small stack of cups growing, deckhand glancing over]
+ 7.0s  Nine cups in, the whole boat's guarding it like it actually matters.                                   [insert, guests shielding the cup tower with their hands as the boat rocks slightly]
+10.8s  Eleven cups at the dock. Deckhand still won't touch it.                                                [closing line, deckhand grinning, hands up, guest proudly holding the tower]
+
+On-screen text: Hook = "ELEVEN CUPS. DECKHAND STILL WON'T TOUCH IT." / Body = "the whole boat's guarding it like it actually matters." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest placing an empty cup on the rail, deliberate
+- [INSERT] Stack growing to five cups, deckhand glancing over
+- [INSERT] Guests shielding the nine-cup tower with their hands
+- [B-ROLL] Deckhand grinning, hands up, guest proudly holding the eleven-cup tower
+
+Note: Cup tower is a static prop on the rail throughout, never balanced anywhere that reads as a hazard. First draft compared the tower to "the Stanley Cup" — cut for being an unearned regional reference; rewritten to a plain observation.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

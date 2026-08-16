@@ -1,0 +1,20 @@
+PIECE 445 — Running jokes, a running tally — The Bestie / "Nine Made-Up Awards by the Dock"
+Voice: The Bestie (EL-Jessica.mp3)   Music: loud, celebratory comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody starts handing out fake awards an hour into the trip. Nobody knows why.                       [Bestie VO loud friend, wide, guest announcing an award, group laughing]
+ 3.6s  "Most Likely to Fall In" goes to the guy who almost did, twice.                                        [insert, guest pointing dramatically at a laughing, embarrassed friend]
+ 7.4s  By the dock, they're nine awards deep. Somebody's writing them down.                                   [insert, guest scribbling a running list on a napkin, group cheering each new award]
+11.4s  Nine categories. Zero trophies. Everybody still fighting over who won.                                 [closing line, group arguing playfully, napkin held up like a trophy]
+
+On-screen text: Hook = "THIS BOAT MADE UP NINE AWARDS BY THE DOCK" / Body = "zero trophies. everybody still fighting over who won." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest announcing a fake award, group laughing
+- [INSERT] Guest pointing at a laughing, embarrassed friend
+- [INSERT] Guest scribbling a running list on a napkin
+- [B-ROLL] Group arguing playfully, napkin held up like a trophy
+
+Note: New running-joke mechanic — an invented scoreboard with a rising category count, distinct from the toast-topping duel (426) and the boat's "report card" bit (125).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

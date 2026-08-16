@@ -1,0 +1,20 @@
+PIECE 433 — Deck-hand slang, a running tally — The Deckhand / "Deckhand's Counting Every 'Watch This'"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: fast, upbeat comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Watch this" gets said a lot on this boat.                                                            [Deckhand VO fast hype, wide, guest yelling "watch this" before a totally normal jump]
+ 3.4s  Every trip, deckhand's silently counting.                                                             [insert, deckhand grinning, subtly tapping fingers to keep count]
+ 7.0s  Six by the second stop.                                                                                [insert, another guest yelling "watch this" before an unremarkable cannonball]
+10.8s  Nine by the dock. Not one of them was worth it.                                                        [closing line, deckhand laughing, guest doing an equally unimpressive jump in the background]
+
+On-screen text: Hook = "DECKHAND IS SILENTLY COUNTING EVERY 'WATCH THIS'" / Body = "nine by the dock. not one was worth it." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest yelling "watch this" before jumping off the swim deck
+- [INSERT] Deckhand grinning, tapping a silent count on his fingers
+- [INSERT] A second guest yelling "watch this" before an equally unremarkable jump
+- [B-ROLL] Deckhand laughing, another unimpressive jump in the background
+
+Note: New "running tally" device for this volume — the count builds across the whole trip and resolves on a specific number at the dock, not a single before/after prediction like Vol. 27's pieces.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

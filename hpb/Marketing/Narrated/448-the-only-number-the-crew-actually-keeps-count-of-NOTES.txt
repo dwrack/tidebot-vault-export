@@ -1,0 +1,20 @@
+PIECE 448 — Closer, sincere, a running tally — Sarah / "The Only Number the Crew Actually Keeps Count Of"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, understated closing bed, minimal strings   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  The crew keeps a lot of tallies. Most of them are jokes.                                               [Sarah VO warm soft, wide, crew going through normal pre-trip motions, calm]
+ 3.6s  One they don't joke about: how many hands they've steadied on the way down that ladder.                [insert, deckhand quietly offering a hand to a nervous guest stepping down, guest relieved]
+ 7.4s  Nobody sees that one. Nobody's supposed to.                                                            [insert, crew quietly helping guests settle in, unhurried, understated]
+11.4s  That's the only number this crew's ever actually kept count of.                                        [closing line, golden hour, boat pulling away, crew watching guests settle in]
+
+On-screen text: Hook = "THE CREW KEEPS A LOT OF TALLIES. MOST ARE JOKES." / Body = "that's the only number they've ever actually kept count of." / CTA: none.
+
+Shot list:
+- [B-ROLL] Crew going through normal pre-trip motions
+- [INSERT] Deckhand quietly offering a hand to a nervous guest on the ladder
+- [INSERT] Crew quietly helping guests settle in, unhurried
+- [B-ROLL] Boat pulling away, golden hour, crew watching guests settle in
+
+Note: No pedaling reference, no vessel name. Checked directly against piece 432 (an unspoken prediction of which trips will be remembered) — 448 stays distinct by being about an ongoing count of physical assists in the moment, not a read on future memory.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,20 @@
+PIECE 444 — Toasts, a running tally — The Groomsman / "'To the Bride' Turned Into a Chant by Number Six"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3)   Music: tender-to-rowdy comedic bed, builds fast   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody starts the toast simple: "To the bride."                                                      [Groomsman VO chill dry warm, wide, guest raising a glass, group echoing back]
+ 3.4s  Says it again two lines later. Whole boat echoes it back louder.                                       [insert, guest continuing toast, group echoing louder each time]
+ 7.0s  By "to the bride" number six, it's basically a chant now.                                              [insert, whole boat chanting together, glasses raised, energy building]
+10.8s  Toast was supposed to be thirty seconds. Chant added another two minutes.                              [closing line, group still chanting and laughing, toast-giver grinning, giving up on finishing]
+
+On-screen text: Hook = "\"TO THE BRIDE\" TURNED INTO A CHANT BY NUMBER SIX" / Body = "toast was supposed to be thirty seconds." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest raising a glass, starting the toast simple
+- [INSERT] Group echoing louder each repetition
+- [INSERT] Whole boat chanting together, glasses raised
+- [B-ROLL] Toast-giver grinning, giving up on finishing, group still chanting
+
+Note: Toast escalates through repetition rather than a duel between two people, distinct from piece 426's toast-topping duel.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

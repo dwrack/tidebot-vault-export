@@ -1,0 +1,20 @@
+PIECE 438 — Captain lines, a running tally — The Captain / "Six Requests, Six Nos, for the Captain's Hat"
+Voice: The Captain (EL-Eric.mp3)   Music: dry comedic bed with a light rimshot sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody asks to try on the captain's hat. Happens every trip.                                         [Captain VO dry deadpan, wide, guest reaching toward the captain's hat, captain calmly stepping back]
+ 3.4s  Captain's kept count for years now. Answer's always the same.                                          [insert, captain shaking his head slightly, small smile]
+ 7.0s  Six requests by the second stop. Six nos.                                                              [insert, split shot: multiple guests reaching, each getting the same head shake]
+10.8s  Birthday girl's the only exception. Everybody else, forget it.                                         [closing line, captain grinning, birthday guest proudly wearing the hat]
+
+On-screen text: Hook = "SIX PEOPLE ASKED TO WEAR THE CAPTAIN'S HAT. SIX NOS." / Body = "birthday girl's the only exception." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest reaching for the captain's hat, captain stepping back
+- [INSERT] Captain shaking his head slightly, small smile
+- [INSERT] Split shot, multiple guests reaching, each getting the same head shake
+- [B-ROLL] Birthday guest proudly wearing the hat, captain grinning
+
+Note: Checked directly against 287 (birthday-girl-gets-the-captains-hat) — 438 references that established exception rather than repeating it, and stays distinct by tallying every other request and its refusal.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,20 @@
+PIECE 437 — Captain lines, a running tally — Roger / "Captain's Tally of Four Occasions, One Boat"
+Voice: Roger (voice-en-US-RogerNeural.mp3)   Music: confident, knowing bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain asks what we're celebrating today. Gets four different answers.                                [Roger VO mock-official, wide, captain asking the group, several hands raised at once]
+ 3.6s  Birthday, promotion, divorce, and somebody's just having a Tuesday.                                    [insert, four guests each pointing to themselves, laughing]
+ 7.4s  Captain writes down all four. Doesn't ask which one's real.                                            [insert, captain jotting something on a clipboard, deadpan]
+11.4s  One boat, four occasions, zero follow-up questions.                                                    [closing line, captain nodding once, group cheering behind him]
+
+On-screen text: Hook = "CAPTAIN ASKED WHAT WE'RE CELEBRATING. GOT FOUR ANSWERS." / Body = "one boat, four occasions, zero follow-up questions." / CTA: none.
+
+Shot list:
+- [B-ROLL] Captain asking the group what they're celebrating
+- [INSERT] Four guests each pointing to themselves, laughing
+- [INSERT] Captain jotting something on a clipboard, deadpan
+- [B-ROLL] Captain nodding once, group cheering
+
+Note: New captain-line mechanic this volume — a tally of competing claims, distinct from 436's single repeated question and 438's repeated request.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

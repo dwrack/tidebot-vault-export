@@ -1,0 +1,20 @@
+PIECE 434 — Deck-hand slang, a running tally — The Old Salt / "One Guy, Four Nicknames, Two Hours"
+Voice: The Old Salt (EL-George.mp3)   Music: warm, running-gag comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Guy boards as "Kevin."                                                                                 [Old Salt VO wry warm, wide, guest boarding, waving, name tag or intro unremarkable]
+ 3.4s  By the first stop somebody's calling him "Captain Sunscreen."                                          [insert, guest slathered in sunscreen, group laughing, new nickname landing]
+ 7.2s  By the second stop he's "Kevin Overboard" for almost losing a hat over the rail.                       [insert, guest lunging for a hat near the rail, catching himself, group cheering]
+11.0s  Kid's had four names by the time we dock. Answers to all of 'em now.                                   [closing line, deckhand grinning, guest waving cheerfully to each new name called out]
+
+On-screen text: Hook = "HE HAD FOUR DIFFERENT NICKNAMES BY THE TIME WE DOCKED" / Body = "answers to all of 'em now." / CTA: Tag whoever picks up a new nickname every single trip.
+
+Shot list:
+- [B-ROLL] Guest boarding, introducing himself by his real name
+- [INSERT] Same guest covered in sunscreen, group laughing, first nickname lands
+- [INSERT] Same guest lunging for a hat near the rail, catching himself
+- [B-ROLL] Guest waving cheerfully as friends call out different names
+
+Note: Checked directly against 37 (nickname-that-never-dies, one nickname enduring across many trips) and 143 (crew-has-nicknames-too) — 434 stays distinct by tallying multiple nicknames landing on one guest inside a single trip.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

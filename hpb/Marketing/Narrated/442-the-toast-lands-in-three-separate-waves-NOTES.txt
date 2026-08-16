@@ -1,0 +1,20 @@
+PIECE 442 — Toasts, a running tally — The Announcer / "The Toast Lands in Three Separate Waves"
+Voice: The Announcer (EL-Daniel.mp3)   Music: light comedic bed with a small rising sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody yells "cheers" and the whole boat's supposed to clink at once.                                [Announcer VO formal, played straight, wide, guest raising a glass, calling for cheers]
+ 3.4s  First wave clinks immediately.                                                                         [insert, half the guests clinking right away]
+ 7.0s  Second wave's still finding their cup. Third wave just heard the word "cheers."                        [insert, guests scrambling for cups, another guest clinking late, confused]
+10.8s  Three waves, every trip. The captain's stopped expecting just one.                                     [closing line, guests laughing at the staggered clinking, captain shaking his head in the background]
+
+On-screen text: Hook = "THE TOAST NEVER LANDS IN ONE WAVE" / Body = "three waves, every trip." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest raising a glass, calling for cheers
+- [INSERT] Half the guests clinking immediately
+- [INSERT] Guests scrambling for cups, a late clink from a confused guest
+- [B-ROLL] Group laughing, captain shaking his head in the background
+
+Note: Closer rewritten during copywriting-2.0 pass to avoid duplicating piece 441's "never once" construction inside the same volume — see the main Vol. 28 doc's "How this was written" section.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

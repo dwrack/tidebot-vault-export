@@ -1,0 +1,20 @@
+PIECE 436 — Captain lines, a running tally — The Captain / "Captain's Tally Beats the Boat's Actual Top Speed"
+Voice: The Captain (EL-Eric.mp3)   Music: dry, mock-official bed, minimal   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody asks the captain how fast this thing goes. Every single trip.                                 [Captain VO dry deadpan, wide, guest approaching the helm, asking a question]
+ 3.6s  He's stopped answering out loud. Just keeps a tally in his head.                                       [insert, captain's small nod, a subtle finger tap on the wheel]
+ 7.4s  By the dock, the tally's higher than the boat's actual top speed.                                      [insert, captain glancing at the wheel, small smirk]
+11.2s  Never once told anybody the real number.                                                               [closing line, captain shrugging, deckhand laughing beside him]
+
+On-screen text: Hook = "CAPTAIN'S TALLYING HOW MANY TIMES HE'S BEEN ASKED THIS" / Body = "never once told anybody the real number." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest approaching the helm, asking the question
+- [INSERT] Captain's small nod, subtle finger tap on the wheel
+- [INSERT] Captain glancing at the wheel, small smirk
+- [B-ROLL] Captain shrugging, deckhand laughing beside him
+
+Note: No stated mph figure anywhere — the joke resolves on a number deliberately never shown on screen, so this makes no factual claim about the vessel's actual speed.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

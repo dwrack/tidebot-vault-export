@@ -1,0 +1,20 @@
+PIECE 446 — Running jokes, a running tally — The Sunscreen Friend / "'I Needed This' Said Five Times, Meant More Each Time"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier, not EL-Brian)   Music: warm, low-key comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  First stop, somebody leans back and says "I needed this." Sounds casual.                               [Sunscreen Friend VO earnest, wide, guest leaning back, relaxed, saying the line]
+ 3.4s  Third stop, same guy says it again. Sounds a little more true.                                         [insert, same guest, more relaxed, repeating the line]
+ 7.0s  Fifth time, he says it with his eyes closed.                                                           [insert, guest leaning back, eyes closed, genuine smile, sun on his face]
+10.8s  Nobody's counting except the friend who's watched him say it every single trip.                        [closing line, friend smiling knowingly, shaking his head]
+
+On-screen text: Hook = "HE SAID \"I NEEDED THIS\" FIVE TIMES" / Body = "meant it a little more each time." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest leaning back, relaxed, saying the line casually
+- [INSERT] Same guest repeating it, more relaxed
+- [INSERT] Guest leaning back, eyes closed, genuine smile
+- [B-ROLL] Friend smiling knowingly, shaking his head
+
+Note: Stays in the funny lane through the observing-friend device, distinct from piece 448's fully sincere closer.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

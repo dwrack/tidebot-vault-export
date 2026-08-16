@@ -1,0 +1,20 @@
+PIECE 447 — Running jokes, a running tally — The Old Salt / "'No Bars' Announced Four Times, Nobody Checked Again"
+Voice: The Old Salt (EL-George.mp3)   Music: wry, low-key comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  First guy holds up his phone. "I got no bars out here."                                                [Old Salt VO wry warm, wide, guest holding phone up, showing no signal]
+ 3.4s  Second guy checks his. Same thing. Third guy doesn't even bother looking.                              [insert, two more guests checking phones, one just laughing and putting it away]
+ 7.0s  Four announcements total. Nobody's checked it since.                                                   [insert, phones tucked away, group fully engaged, laughing]
+10.8s  Funny how fast everybody just forgets to check.                                                        [closing line, wide shot, group laughing together, phones nowhere in sight]
+
+On-screen text: Hook = "\"NO BARS\" GOT ANNOUNCED FOUR TIMES" / Body = "nobody's checked it since." / CTA: none.
+
+Shot list:
+- [B-ROLL] Guest holding phone up, showing no signal
+- [INSERT] Two more guests checking, one laughing and putting phone away
+- [INSERT] Phones tucked away, group fully engaged
+- [B-ROLL] Wide shot, group laughing together, no phones in sight
+
+Note: Checked directly against 110 (nobody-asks-wifi-password) — 447 stays distinct by tallying a repeated announcement rather than the absence of a question. Closer rewritten from a "stops mattering" line (implied a value pitch) to a plain observation.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

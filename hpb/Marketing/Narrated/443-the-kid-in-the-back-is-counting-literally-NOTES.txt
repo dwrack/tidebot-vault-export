@@ -1,0 +1,20 @@
+PIECE 443 — Toasts, a running tally — The Regular / "The Kid in the Back Is Counting 'Literally'"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: warm comedic bed, gentle swell under the toast   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Best man's toast gets emotional fast. Somebody's little cousin in the back is counting something.      [Regular VO flat deadpan, wide, best man mid-toast, kid in background holding up fingers]
+ 3.6s  "Literally" once. "Literally" twice.                                                                   [insert, best man mid-sentence, kid tracking with fingers]
+ 7.4s  Toast ends at "literally" number seven. Nobody else even noticed.                                      [insert, kid silently mouthing "seven," grinning to a friend]
+11.4s  Best toast of the summer. Also the most literal.                                                       [closing line, group applauding, kid still holding up seven fingers]
+
+On-screen text: Hook = "SOMEONE'S COUNTING HOW MANY TIMES HE SAYS \"LITERALLY\"" / Body = "toast ends at number seven." / CTA: none.
+
+Shot list:
+- [B-ROLL] Best man mid-toast, emotional, kid in background
+- [INSERT] Kid tracking the count on his fingers
+- [INSERT] Kid silently mouthing "seven," grinning to a friend
+- [B-ROLL] Group applauding, kid still holding up seven fingers
+
+Note: New toasts mechanic — a tally kept by a bystander with no stake in the toast, distinct from 442's group-action tally and 444's escalating chant.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
