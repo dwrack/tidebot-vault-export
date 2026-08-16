@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] [[Meta Ads Strategy — All Businesses]]
 - [ ] [[NKST — Facebook Ads Strategy & Copy]]
 - [ ] [[Meta Pixel Audit — All Businesses]]
+- [ ] Quota-burn fallout — triage the 1,604 staged drafts it wrote Aug 7-16 (salvage index: top 10-15 per vault by content-gate score, delete the rest)
+- [ ] Quota-burn fallout — clear the "Pass N" duplicate clutter (80 Dump Processing summaries in TheBrain root, 33 HPB video slates, 149 NBB posts, 126 CCK drafts, 101 HISK drafts)
 
 
 ## Waiting On
