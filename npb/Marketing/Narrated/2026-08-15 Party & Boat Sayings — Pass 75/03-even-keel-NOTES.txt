@@ -1,0 +1,30 @@
+PIECE 03 — Captain line / escalating running joke — "Even Keel"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: steady, deliberately un-escalating bed under an escalating joke (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody's drink goes overboard. "Even keel," the captain says, and doesn't even turn around.   [medium shot: guest lunging for a falling cup, captain unbothered at the helm]
+ 4.0s  The birthday chant starts. "Even keel."   [wide shot: group chanting, captain steady, same flat delivery]
+ 7.0s  Someone stands up for a better photo angle. "Even keel. Sit down, though."   [medium shot: guest half-standing, captain's calm correction]
+11.5s  Forty-five minutes of chaos. Same three words, same flat voice, every time.   [wide shot: full deck energy, captain calmly steering through it]
+15.0s  That's the job.   [close-up: captain's hand steady on the wheel]
+
+ON-SCREEN TEXT TREATMENT:
+"EVEN KEEL" appears as a small repeating tag each time the captain says it (0.0s, 4.0s, 7.0s), styled identically each time to sell the deadpan repetition. Clears for the final two lines.
+
+SHOT LIST:
+- Medium shot: dropped-drink catch, captain unbothered
+- Wide shot: birthday chant, captain steady
+- Medium shot: guest standing for a photo, captain's calm correction
+- Wide shot: full chaos, captain steering calmly
+- Closing close-up: captain's hand on the wheel
+
+SOURCE GROUNDING: Built around the real idiom "even keel," confirmed unused across all 264 prior pieces, carried forward from Pass 73's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's escalating-callback structure. Mentor pass tightened the summary line from "one captain who never changed his voice once" to "same three words, same flat voice, every time," a cleaner callback to the repeated tag. Then /copywriting-2.0: confirmed all five lines pass. The line to keep is "That's the job," the shortest line in the piece, landing precisely because everything before it earned the flatness.
+
+DEVICES CHECK: Third piece in the series to use a three-beat escalating running-joke structure (after Pass 73's "Batten Down the Hatches" and "Son of a Gun"), but a distinct mechanic: those two escalated the situation while the captain's reaction stayed literal; this one escalates the situation while the captain's exact words stay identical every time. A fourth use of any escalating three-beat shape in a future pass should find a new mechanic, not repeat this one.
+
+PRODUCTION FLAG: Illustrative captain demeanor and guest behavior, not a scripted or company-endorsed catchphrase. No captain named or identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

@@ -1,0 +1,28 @@
+PIECE 10 — Wildlife spotlight, guest reaction line — "The Armor That Jumps"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural   Music: playful surprise-sting bed (mood only)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Something rustles the bank and a guest yells "was that alive?"   [medium shot: leaves rustling at the waterline]
+ 4.0s  Nine-banded armadillo. When it's startled, it doesn't run. It jumps, straight up, three or four feet.   [wide shot: armadillo darting into brush]
+ 9.0s  Nobody expects the armored one to have hops.   [close-up: armadillo pausing before disappearing into cover]
+12.5s  So the shell was never its best trick.   [wide shot: boat drifting past, bank settling back to quiet]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "NINE-BANDED ARMADILLO," appears at 4.0s and clears by 9.0s. No other captions.
+
+SHOT LIST:
+- Medium shot: rustling leaves at the waterline (opener)
+- Wide shot: armadillo darting into brush
+- Close-up: armadillo pausing before cover
+- Closing wide shot: boat drifting past, bank settling
+
+SOURCE GROUNDING: Nine-banded armadillo confirmed unused across all 264 prior pieces by both dedup audits, and named explicitly on Pass 73's own "still untapped" wildlife list. The startle-jump behavior (armadillos can jump vertically several feet when startled, a real and well-documented trait, often cited as a road-collision hazard) is a real fact, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-gap structure. Mentor pass flagged the original closer, "now you'll never look at one the same way," as one of the most overused stock lines in short-form content, generic enough to appear under any surprising-animal-fact video on the internet. Rewrote to "So the shell was never its best trick," a line that pays off the curiosity gap the piece opened (armor vs. speed) instead of a generic emotional promise. Then /copywriting-2.0: confirmed all four lines pass.
+
+DEVICES CHECK: First armadillo piece in the series.
+
+PRODUCTION FLAG: Illustrative guest reaction, not a transcript of a real recorded sighting. Armadillo sightings on eco-tour routes are not confirmed as a regular or guaranteed occurrence; frame this piece to ops as a possible-moment concept, not a promised sighting.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

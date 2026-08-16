@@ -1,0 +1,28 @@
+PIECE 12 — Sensory/seasonal, guest whispered line — "Wait, Are Those Fireflies Over Water?"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural   Music: hushed, twinkling, minimal (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  On the right evening, right time of year, the bank starts blinking before the sky even finishes going dark.   [wide shot: dusk light over the bayou, first fireflies appearing at the treeline]
+ 4.5s  Fireflies aren't just a backyard thing. Some of the species out here live their whole life in wetlands like this one.   [medium shot: fireflies over the water's edge]
+ 9.5s  A guest whispers it before anyone else does: "wait, are those over the water?"   [close-up: guest's face faintly lit, watching]
+14.0s  Yeah. They are.   [wide shot: dozens of small lights blinking along the dark treeline]
+
+ON-SCREEN TEXT TREATMENT:
+No on-screen text for this piece. Sound and image only, consistent with the series' handling of quiet sensory beats.
+
+SHOT LIST:
+- Wide shot: dusk light, first fireflies at the treeline (opener)
+- Medium shot: fireflies over the water's edge
+- Close-up: guest's face, faintly lit, watching
+- Closing wide shot: dozens of lights along the dark treeline
+
+SOURCE GROUNDING: Fireflies over wetland habitat confirmed unused across all 264 prior pieces by this pass's dual dedup audit. Wetland-associated firefly species existing and being active at dusk over standing water is a real, documented phenomenon, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's sensory scene-setting (short, hushed, curiosity-loaded). No line failed the mentor pass; the hedged opening ("on the right evening, right time of year") was judged appropriate rather than a weakness, since it's doing real work flagging this as conditional, not a nightly guarantee. Then /copywriting-2.0: confirmed all four lines pass.
+
+DEVICES CHECK: First firefly piece in the series, and the first eco-tour piece in the entire slate history built around a dusk/evening moment rather than a daytime tour beat.
+
+PRODUCTION FLAG — READ BEFORE TREATING THIS AS A SHOT ORDER. This piece implies a dusk or evening tour departure. As of this pass, no vault document confirms NPB's naturalist eco swamp tour runs a dusk or evening timeslot, or that firefly activity has been observed on the actual tour route. This is the most speculative piece in the pass. Do not schedule, script for crew, or promise this experience to a guest without first confirming with ops (a) whether an evening departure exists or could exist on the current schedule, and (b) whether fireflies are actually present along the route in season. If neither can be confirmed, this piece should be held or rewritten as a proposed future offering rather than a description of the current tour.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, no rewrites needed).

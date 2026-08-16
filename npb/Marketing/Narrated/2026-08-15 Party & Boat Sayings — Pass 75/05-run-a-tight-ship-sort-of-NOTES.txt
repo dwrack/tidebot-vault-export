@@ -1,0 +1,28 @@
+PIECE 05 — Idiom, deckhand line — "Run a Tight Ship (Sort Of)"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: playful call-and-response energy, brass-forward (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Ask the deckhand what's not negotiable, and the list is short: life jackets, headcount, staying seated when we're moving.   [medium shot: deckhand doing a headcount, calm and clear]
+ 4.5s  Ask what is negotiable, and the list is everything else.   [wide shot: guests' own cooler, own chaos, own energy]
+ 8.0s  Your playlist, your drinks, how loud you want to get.   [medium shot: aux cord passed hand to hand, laughter]
+11.5s  A tight ship, run loose on purpose.   [wide shot: full party energy on deck, captain steady at the wheel in the background]
+
+ON-SCREEN TEXT TREATMENT:
+Two-column text pop-in at 0.0s-8.0s: "NOT NEGOTIABLE" (life jackets, headcount, stay seated) fades out as "NEGOTIABLE" (playlist, drinks, volume) fades in. Clears for the final line.
+
+SHOT LIST:
+- Medium shot: deckhand headcount (opener)
+- Wide shot: guests' own cooler and energy
+- Medium shot: aux cord passed hand to hand
+- Closing wide shot: full party energy, captain steady in background
+
+SOURCE GROUNDING: Built around the real idiom "run a tight ship," confirmed unused across all 264 prior pieces, carried forward from Pass 73's "still untapped" list. Directly channels Brand Story & Values Section 2's belief "the guest runs the show" and Section 4's safety-isn't-a-talking-point rule, making both literal instead of stating them as slogans.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga's proof-by-specific-list structure (a short, real, checkable list beats an adjective like "safe" or "fun"). No line failed the mentor pass; the negotiable/not-negotiable contrast structure already did the work. Then /copywriting-2.0: confirmed all four lines pass. The line to keep is the opener's specific list, "life jackets, headcount, staying seated when we're moving," which only carries its full weight paired against the "your playlist, your drinks" list that follows, since that pairing only makes sense on a private charter.
+
+DEVICES CHECK: First "run a tight ship" piece in the series. Distinct from the older-pass "Captain's House Rules" (three-rule joke format, a retired fixed-catchphrase device) since this piece is a two-column contrast structure, not a numbered rules bit, and doesn't repeat as a running gag across the piece.
+
+PRODUCTION FLAG: The specific "not negotiable" list (life jackets, headcount, staying seated) is illustrative safety framing, not a verified transcript of the actual pre-departure safety briefing. Confirm the real briefing content with crew before treating this as an accurate script.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, no rewrites needed).

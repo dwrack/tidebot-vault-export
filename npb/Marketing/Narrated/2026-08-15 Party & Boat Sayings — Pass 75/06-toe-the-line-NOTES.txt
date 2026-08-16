@@ -1,0 +1,28 @@
+PIECE 06 — Idiom, dockside running joke — "Toe the Line"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: cheeky, mock-serious opening that loosens up by the end (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a literal line painted on this dock. The deckhand points at it before anyone boards.   [close-up: painted line on the dock, deckhand gesturing]
+ 3.5s  "Toe the line" used to mean stand right here, wait your turn, don't get on before I say so.   [medium shot: guests queued behind the line, deckhand checking names]
+ 8.0s  Everything else on this boat is your call. This one rule isn't.   [wide shot: group finally stepping aboard together]
+12.0s  Toe the line for ten seconds. Then it's your boat.   [wide shot: boat pulling away, guests already loosening up]
+
+ON-SCREEN TEXT TREATMENT:
+"TOE THE LINE" pops in at 3.5s as a small quote card, clears by 8.0s. No other captions.
+
+SHOT LIST:
+- Close-up: painted dock line, deckhand gesturing (opener)
+- Medium shot: guests queued, deckhand checking names
+- Wide shot: group stepping aboard
+- Closing wide shot: boat pulling away, guests loosening up
+
+SOURCE GROUNDING: Built around the real idiom "toe the line," confirmed unused across all 264 prior pieces, carried forward from Pass 73's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's literal-wordplay device (same family as the series' earlier "Man Overboard" hat gag and "High and Dry," applied here to a different idiom at a different moment in the guest journey, pre-boarding rather than mid-cruise). No line failed the mentor pass. Then /copywriting-2.0: confirmed all four lines pass. The line to keep is "Everything else on this boat is your call. This one rule isn't," the clearest single statement of what NPB actually restricts versus what it doesn't.
+
+DEVICES CHECK: First "toe the line" piece in the series. Distinct from all prior boarding-ritual pieces (welcome board, bell-ring, headcount) since the device here is the idiom's literal double meaning, not a company ritual.
+
+PRODUCTION FLAG: The "literal line painted on the dock" is an illustrative prop/detail, not confirmed to exist at the actual marina. Confirm with ops before treating this as a real dockside feature; if no such line exists, this piece needs the visual reworked to a taped line, a verbal boundary, or cut entirely.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, no rewrites needed).

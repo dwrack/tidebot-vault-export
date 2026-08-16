@@ -1,0 +1,28 @@
+PIECE 04 — Idiom, guest-story running joke — "Come Hell or High Water"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: earnest build, a little triumphant by the close (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Her flight got cancelled at midnight. She rented a car and drove through the night instead.   [medium shot: guest arriving dockside, exhausted but grinning, pulled into a group hug]
+ 4.5s  He said he'd be here "come hell or high water." Turns out he wasn't kidding.   [medium shot: guest recounting the story to the group on deck, laughing]
+ 8.5s  Nobody made them come. They came anyway.   [wide shot: full group energy on deck]
+12.0s  Come hell or high water. Then straight into the bayou.   [wide aerial: boat pulling away from the dock, cypress line ahead]
+
+ON-SCREEN TEXT TREATMENT:
+No on-screen text until the closing line, where "COME HELL OR HIGH WATER" appears as a small lower-third at 12.0s and holds through the end of the shot.
+
+SHOT LIST:
+- Medium shot: guest arriving dockside, exhausted but grinning, group hug (opener)
+- Medium shot: guest recounting the story on deck
+- Wide shot: full group energy
+- Closing wide aerial: boat pulling away, cypress ahead
+
+SOURCE GROUNDING: Built around the real idiom "come hell or high water," confirmed unused across all 264 prior pieces, carried forward from Pass 73's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's starving-crowd opener (a real-feeling specific story does the work, not a product claim). Mentor pass flagged the original closer, "that's the kind of group that actually needed this day," as a generic emotional claim any tour company could post verbatim, and rewrote it to tie back to the idiom and a concrete visual: "Come hell or high water. Then straight into the bayou." Then /copywriting-2.0: confirmed all four lines pass. The line to keep is "Nobody made them come. They came anyway," the shortest, most falsifiable line in the piece.
+
+DEVICES CHECK: First "come hell or high water" piece in the series. Distinct from the older-pass "Guest Who Almost Didn't Come" (overcoming-fear device) since this piece is about logistics and commitment, not fear.
+
+PRODUCTION FLAG: Illustrative guest story, not a documented real trip. If a real version of this story exists in guest reviews or crew anecdotes, swap it in; do not present this specific scenario as a verified past event without confirming it first.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

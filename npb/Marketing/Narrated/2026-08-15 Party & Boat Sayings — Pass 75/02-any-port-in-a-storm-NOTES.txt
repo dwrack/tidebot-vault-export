@@ -1,0 +1,28 @@
+PIECE 02 — Captain line / idiom, reassurance — "Any Port in a Storm"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: tense hush that releases into a brass swell on the clear-up (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The forecast said fifty percent. Nobody on this dock believes a forecast.   [wide shot: guests boarding under a partly cloudy sky, coolers loading]
+ 3.5s  If it turns, we don't cancel. We find cover and wait it out.   [medium shot: captain checking the sky, calm, unhurried]
+ 7.5s  Any port in a storm. Ours just happens to have alligators nearby.   [wide shot: boat tucked against a shaded cypress bank, light rain starting]
+12.0s  Fifteen minutes later the sun's back, and nobody even checked their phone.   [wide shot: sun breaking through, guests cheering, boat moving again]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third at 7.5s: "ANY PORT IN A STORM." Clears by 12.0s. No other captions.
+
+SHOT LIST:
+- Wide shot: guests boarding under partly cloudy sky (opener)
+- Medium shot: captain checking sky, calm
+- Wide shot: boat waiting near cypress bank, rain starting
+- Closing wide shot: sun breaking through, boat moving again
+
+SOURCE GROUNDING: Built around the real idiom "any port in a storm," confirmed unused across all 264 prior pieces, carried forward from Pass 73's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga (a reassurance claim needs a specific, checkable detail, not an adjective). Mentor pass flagged the original closer, "everybody's glad they didn't leave," as an unproven emotional claim any tour company could paste onto any piece, and rewrote it to a specific checkable behavior: "nobody even checked their phone." Then /copywriting-2.0: confirmed all four lines pass. The line to keep is "Any port in a storm. Ours just happens to have alligators nearby," the one line only this company on this water could truthfully say.
+
+DEVICES CHECK: First "any port in a storm" piece in the series. Distinct from every prior weather-adjacent piece; none of the 264 prior pieces scripts a rain-contingency moment this directly.
+
+PRODUCTION FLAG: This piece scripts a specific weather-contingency policy ("we find cover and wait it out") as if it's a confirmed, standing operational practice. That has not been verified against ops or the captain roster this pass. Confirm the actual foul-weather protocol with Jeffrey/JT before treating this as an accurate policy statement rather than an illustrative concept.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

@@ -1,0 +1,28 @@
+PIECE 08 — Wildlife spotlight, guide running line — "The Heron That Won't Hold Still Long Enough to Name"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural   Music: curious, unresolved shimmer that resolves late (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "What kind of heron is that?" Somebody asks this every single tour.   [medium shot: guest squinting at a heron on the bank]
+ 4.0s  Tricolored heron. The light changes, and so does the answer.   [close-up: heron shifting angle, light catching it differently]
+ 8.0s  Blue-gray from one side, a rust patch from the other, white the second it takes flight.   [wide shot: heron taking off, colors visible in motion]
+13.0s  By the time you've named it, it's already a different bird to look at.   [wide shot: heron landing further down the bank]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "TRICOLORED HERON," appears at 4.0s and holds through 8.0s. No other captions.
+
+SHOT LIST:
+- Medium shot: guest squinting at heron (opener)
+- Close-up: heron in shifting light
+- Wide shot: heron taking flight, colors visible
+- Closing wide shot: heron landing further down the bank
+
+SOURCE GROUNDING: Tricolored heron confirmed unused across all 264 prior pieces by both dedup audits, distinct from the series' existing great blue heron piece and its anhinga piece. Color-shift-with-angle-and-light and the white underbelly visible in flight are real, documented features of the species, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's repeated-question curiosity device. No line failed the mentor pass. Then /copywriting-2.0: confirmed all four lines pass. The line to keep is "Blue-gray from one side, a rust patch from the other, white the second it takes flight," the most falsifiable and visualizable line in the piece, hard for a generic wildlife account to write without having actually watched this specific bird.
+
+DEVICES CHECK: First tricolored heron piece in the series. Confirmed structurally distinct from the existing great blue heron piece (a quiet poetic phones-down moment) since this piece's whole engine is a repeated guide question and a color-shift fact, not a reverent silence beat.
+
+PRODUCTION FLAG: Illustrative guest question, not a transcript of an actual recorded guide interaction. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, no rewrites needed).

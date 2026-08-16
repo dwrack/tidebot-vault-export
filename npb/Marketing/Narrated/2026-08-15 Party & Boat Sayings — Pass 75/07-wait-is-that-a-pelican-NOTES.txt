@@ -1,0 +1,28 @@
+PIECE 07 — Wildlife spotlight, guest reaction line — "Wait, Is That a Pelican?"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-George (ElevenLabs)   Music: airy, wonder-driven, light strings or synth pad (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest points at the sky mid-tour: "Wait, is that a pelican? Out here?"   [wide shot: guest pointing up, wide-winged bird soaring overhead]
+ 4.0s  American white pelican. Nine-foot wingspan, give or take, and yes, this far from the coast.   [medium shot: pelican gliding low over the water]
+ 8.5s  They ride the air instead of flapping through it. Doesn't look real until you've seen it.   [wide shot: pelican formation soaring, minimal wingbeats]
+13.0s  Nobody on this boat believed it either. Then it banked ten feet over the bow.   [wide shot: whole group looking up, phones raised, pelican banking close overhead]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "AMERICAN WHITE PELICAN," appears at 4.0s and clears by 8.5s. No other captions.
+
+SHOT LIST:
+- Wide shot: guest pointing, pelican overhead (opener)
+- Medium shot: pelican gliding low
+- Wide shot: pelican formation soaring
+- Closing wide shot: group looking up, pelican banking close
+
+SOURCE GROUNDING: American white pelican confirmed unused across all 264 prior pieces by both dedup audits, and named explicitly on Pass 73's own "still untapped" wildlife list. Wingspan fact (roughly nine feet, among the largest of any North American bird) and soaring/gliding behavior (pelicans conserve energy by riding thermals and formation-flying with minimal flapping) are real, verifiable facts about the species, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's slippery-slide curiosity structure (the guest's own spoken question is the short, punchy opener that pulls the viewer into the next line). Mentor pass flagged the original closer, "until now," as a generic curiosity-copy tic that doesn't resolve the gap it opens, and rewrote it to a specific visual payoff: "Then it banked ten feet over the bow." Then /copywriting-2.0: confirmed all four lines pass, with a production note on the specific distance rather than a copy rewrite.
+
+DEVICES CHECK: First pelican piece in the series, and the first eco-tour piece in this pass built around a guest's spoken disbelief line rather than pure narrator did-you-know delivery, a deliberate structural shift from the Pass 59-73 convention (see this pass's status flags in the main slate doc).
+
+PRODUCTION FLAG: The specific "ten feet over the bow" flyover distance is an illustrative dramatization of a possible close pass, not a guaranteed sighting distance or promised behavior. Do not present this as a predictable or guaranteed moment to guests; pelican proximity varies and is never engineered, baited, or guaranteed.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

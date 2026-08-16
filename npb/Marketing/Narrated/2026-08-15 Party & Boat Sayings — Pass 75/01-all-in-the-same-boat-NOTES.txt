@@ -1,0 +1,30 @@
+PIECE 01 — Captain line / idiom — "All in the Same Boat"
+Product: Private BYOB Party Fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: warm, rising, two competing moods that resolve into one groove by the end (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Two friend groups, one boat. On the dock, they were barely speaking.   [wide shot: two distinct guest clusters boarding, minimal mixing, arms crossed energy]
+ 3.5s  Ten minutes in, somebody's cousin does the trust fall nobody asked for.   [medium shot: guest mid-fall, group behind catching, surprised laughter]
+ 7.0s  By the halfway point, nobody remembers whose side they started on.   [wide shot: full deck mingling, dancing together]
+11.0s  Turns out "all in the same boat" isn't a figure of speech out here.   [close-up: captain glancing back at the merged group, small knowing smile]
+14.0s  It's the whole itinerary.   [wide aerial: boat cutting through bayou, everyone visible together on deck]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "ALL IN THE SAME BOAT," pops in at 11.0s under the payoff line and clears by 14.0s. No other captions.
+
+SHOT LIST:
+- Wide shot: two distinct guest clusters boarding, minimal mixing (opener)
+- Medium shot: trust-fall moment, group reaction
+- Wide shot: full deck mingling and dancing together
+- Close-up: captain's reaction glance
+- Closing wide aerial: full boat, full deck, everyone together
+
+SOURCE GROUNDING: Built around the real idiom "all in the same boat," confirmed completely untouched across all 264 prior pieces by this pass's dual dedup audit, and carried forward from Pass 73's own "still untapped" idiom list. Uses a literal-meets-figurative structure the series hasn't used on this specific idiom before.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's conversational story-into-payoff structure. Mentor pass flagged the original setup line, "Turns out 'all in the same boat' isn't just an expression out here," as slightly telling instead of landing the joke, and cut "just" for a tighter read. Then /copywriting-2.0 (3-test filter): all five lines pass. The line to keep is "Ten minutes in, somebody's cousin does the trust fall nobody asked for," the most visualizable and specific line in the piece, and one a competitor couldn't paste onto a generic party-boat ad without it reading false (it only works on a private boat with one real group, not a mixed-strangers cruise).
+
+DEVICES CHECK: First "all in the same boat" piece in the series. Distinct from Pass 36's idiom-etymology compilation (three sheets/know the ropes/all hands/loose cannon), which was a rapid-fire glossary rather than a full mini-scene built on one idiom.
+
+PRODUCTION FLAG: Illustrative guest behavior and captain reaction, not a scripted or company-endorsed moment. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

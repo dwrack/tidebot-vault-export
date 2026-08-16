@@ -1,0 +1,28 @@
+PIECE 11 — Wildlife/nature fact, guide stock answer — "Wood Eternal"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural   Music: reverent, slow, ancient-feeling pad (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always asks it: "why doesn't this wood just rot, sitting in water for centuries?"   [wide shot: ancient cypress trunk half-submerged]
+ 4.5s  Old-timers called bald cypress "wood eternal." There's a real reason for that.   [close-up: cypress bark texture]
+ 8.5s  A natural oil in the heartwood fights off rot and bugs most other trees can't survive.   [medium shot: guide pointing at trunk cross-section or knot]
+13.0s  That's why some of these were already old when your grandparents were born.   [wide shot: tour boat passing beneath massive canopy]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third at 4.5s: "BALD CYPRESS — 'WOOD ETERNAL.'" Clears by 8.5s. No other captions.
+
+SHOT LIST:
+- Wide shot: ancient half-submerged cypress trunk (opener)
+- Close-up: cypress bark texture
+- Medium shot: guide pointing at trunk detail
+- Closing wide shot: boat passing beneath the canopy
+
+SOURCE GROUNDING: Bald cypress heartwood rot-resistance, historically called "wood eternal" and prized for boats, shingles, and coffins because natural oils in the heartwood resist decay and insects, confirmed unused across all 264 prior pieces by both dedup audits, and named explicitly on Pass 73's own "still untapped" list. Distinct from the series' two existing cypress facts (cypress knees; a cypress tree's age relative to Columbus), which are about the tree's structure and age, not the wood's chemistry.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga (a specific mechanism, a natural oil in the heartwood, closes the believability gap a vague "it just doesn't rot" claim would leave open) and Ogilvy (the factual specific beats the adjective). Mentor pass flagged the original closer for a logic wobble ("before anyone here was born, or their grandparents" read as an unclear, redundant scope) and tightened it to a cleaner single comparison: "already old when your grandparents were born." Then /copywriting-2.0: confirmed all four lines pass.
+
+DEVICES CHECK: First "wood eternal" piece in the series, distinct from both prior cypress-fact pieces as noted above.
+
+PRODUCTION FLAG: Illustrative guest question, not a transcript of an actual recorded guide interaction. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga/Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

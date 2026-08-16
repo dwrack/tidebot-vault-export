@@ -1,0 +1,28 @@
+PIECE 09 — Wildlife spotlight, guide stock line — "They're Not Bees"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Sarah (ElevenLabs)   Music: light, buzzy-but-friendly percussion texture (mood only)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  The dragonflies show up in a cloud around the boat, and someone always ducks.   [medium shot: guest flinching, dragonflies swarming near the boat]
+ 4.0s  "They're not bees," the guide says, every time, before anyone finishes asking.   [close-up: guide, calm, mid-sentence]
+ 7.5s  They're eating the actual bugs that bite you. You're welcome.   [close-up: dragonfly perched on the boat rail]
+11.0s  Best bodyguards on the bayou, and they work for free.   [wide shot: swarm dispersing as the boat glides through]
+
+ON-SCREEN TEXT TREATMENT:
+No on-screen text until "THEY'RE NOT BEES" pops in as a quote card at 4.0s, clears by 7.5s. No other captions.
+
+SHOT LIST:
+- Medium shot: guest flinching, dragonflies swarming (opener)
+- Close-up: guide, calm, mid-sentence
+- Close-up: dragonfly perched on the rail
+- Closing wide shot: swarm dispersing, boat gliding through
+
+SOURCE GROUNDING: Dragonflies/damselflies confirmed unused across all 264 prior pieces by both dedup audits, and named explicitly on Pass 73's own "still untapped" wildlife list. Dragonflies preying on mosquitoes and other biting insects is a real, documented behavior, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (anticipate the objection inline: "they're not bees" resolves the flinch before the viewer finishes forming the same question) and Halbert (the guide's flat, repeated line is the conversational hook). No line failed the mentor pass. Then /copywriting-2.0: confirmed all four lines pass, with one ownability note logged below rather than a rewrite.
+
+DEVICES CHECK: First dragonfly/damselfly piece in the series. The "guide says the same reassurance every time" device is structurally close to a retired fixed-catchphrase pattern from earlier in the series (a captain's personal signature bit); this piece avoids that trap because the line is attached to a specific, repeatable guest reaction (flinching at a swarm) rather than presented as a personality quirk, and no guide is named or identified.
+
+PRODUCTION FLAG: None beyond the standard "no guide named" convention. Ownability note: "best bodyguards on the bayou" describes a real, shared natural fact any swamp-tour operator on this water could technically also say; what's ownable here is the delivery and the specific guest-flinch framing, not an exclusive claim on dragonfly behavior.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 75, 2026-08-15. VO lines routed through /copy-mentors (Sugarman/Halbert) then /copywriting-2.0 (3-test filter, no rewrites needed, one note logged).
