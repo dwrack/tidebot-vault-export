@@ -1,0 +1,20 @@
+PIECE 425 — Bachelorette-party lines, a standing prophecy — The Sunscreen Friend / "We Are Not That Bachelorette Party"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3)   Music: comedic irony bed, starts calm, flips loud   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always says it at the dock: "We are not gonna be that bachelorette party."                 [Sunscreen Friend VO earnest, wide, group boarding calmly, one guest saying the line to a friend]
+ 3.4s  First stop, everybody's on their best behavior.                                                     [insert, group sipping drinks politely, calm energy]
+ 7.2s  Second stop, sashes are crooked and somebody's already down a flip-flop.                             [insert, chaotic dancing, sash askew, one guest barefoot]
+11.0s  They were, in fact, exactly that bachelorette party.                                                 [closing line, whole group laughing hard, golden hour]
+
+On-screen text: Hook = "\"WE ARE NOT GONNA BE THAT BACHELORETTE PARTY\"" / Body = "they were, in fact, exactly that bachelorette party." / CTA: Tag whoever said this on your last trip.
+
+Shot list:
+- [B-ROLL] Group boarding calmly, one guest saying the line
+- [INSERT] Group sipping drinks politely at first stop
+- [INSERT] Chaotic dancing, crooked sash, barefoot guest at second stop
+- [B-ROLL] Whole group laughing hard, golden hour
+
+Note: Distinct from 376 (bachelorette boats have their own scream, a shared identity bit) — this piece turns on a specific denial made at the dock that gets disproven, the prophecy device applied as a self-own rather than a group ritual.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

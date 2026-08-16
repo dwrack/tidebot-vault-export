@@ -1,0 +1,20 @@
+PIECE 424 — Bachelorette-party lines, a standing prophecy — The Planner / "The Responsible One Leads the Chant by Stop Two"
+Voice: The Planner (EL-Lily.mp3)   Music: upbeat build bed, starts soft, builds   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  She said she was only here to keep everybody hydrated.                                              [Planner VO bright, wide, one bridesmaid holding a stack of water bottles, calm energy]
+ 3.4s  First stop, she's still handing out water bottles like it's her job.                                 [insert, same bridesmaid passing out water, organized, checklist energy]
+ 7.2s  Second stop, she's leading the whole boat in a chant she just made up, water bottle still in hand.   [insert, same bridesmaid on her feet mid-deck, leading a call-and-response, group echoing]
+11.0s  Nobody's more surprised by this than her.                                                            [closing line, bridesmaid laughing at herself, still holding the water bottle]
+
+On-screen text: Hook = "SHE SAID SHE WAS JUST THERE FOR THE WATER BOTTLES" / Body = "second stop, she's leading the chant." / CTA: none
+
+Shot list:
+- [B-ROLL] Bridesmaid holding water bottles, calm
+- [INSERT] Same bridesmaid handing out water, organized
+- [INSERT] Same bridesmaid mid-deck leading a chant, group echoing
+- [B-ROLL] Bridesmaid laughing at herself, water bottle still in hand
+
+Note: Distinct from 23 (the sunscreen friend, a fixed role) and 27 (vibe curator / chief snack officer, a nickname) — this piece is a transformation across the trip, the "responsible one" becoming the loudest one, which neither static-role piece covers. Guest stays on her feet on the open deck, not on a seat or rail, consistent with the boat's standing safety posture.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

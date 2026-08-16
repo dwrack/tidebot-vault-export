@@ -1,0 +1,20 @@
+PIECE 431 — Running jokes, a standing prophecy — The Deckhand / "The Boat Counts Down the Dock Into View"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: hype countdown bed, crowd-chant energy   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Nobody teaches you this. It just happens.                                                           [Deckhand VO fast hype, wide, dock coming into view in the distance]
+ 3.4s  Somebody spots the dock and starts counting down from ten.                                          [insert, guest pointing at the dock, starting the count]
+ 7.0s  The whole boat joins in before anybody decides to.                                                  [insert, whole group counting together, cups raised]
+10.8s  Every trip, same thing. Nobody remembers how it started.                                            [closing line, group cheering as the boat pulls up to the dock]
+
+On-screen text: Hook = "NOBODY TEACHES YOU THIS. IT JUST HAPPENS." / Body = "every trip, same thing." / CTA: none
+
+Shot list:
+- [B-ROLL] Dock coming into view in the distance
+- [INSERT] Guest pointing, starting the countdown
+- [INSERT] Whole group counting together
+- [B-ROLL] Group cheering as the boat pulls up
+
+Note: Distinct from 94 (the two-minute warning), 187 (ten more minutes), and 278 (five minutes, y'all) — those are crew-issued time announcements. This is a guest-invented ritual with no crew involvement, triggered by sighting the dock rather than a clock.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

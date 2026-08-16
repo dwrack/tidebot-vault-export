@@ -1,0 +1,20 @@
+PIECE 429 — Running jokes, a standing prophecy — The Old Salt / "He's One and Done. The Man Has a Standing Reservation."
+Voice: The Old Salt (EL-George.mp3)   Music: wry, running-joke comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "I'm one and done. This is not becoming a thing."                                                   [Old Salt VO wry, wide, guest boarding, saying it to a friend on the way up]
+ 3.4s  Books it again three weeks later.                                                                   [insert, same guest boarding again, different shirt, waving to the deckhand like a regular]
+ 7.2s  Deckhand's got his name on the list before he's even called.                                        [insert, deckhand checking a clipboard, guest's name already circled]
+11.0s  "One and done" is the running joke now.                                                             [closing line, guest laughing, shaking his head, group ribbing him]
+
+On-screen text: Hook = "\"I'M ONE AND DONE. THIS ISN'T BECOMING A THING.\"" / Body = "books it again three weeks later." / CTA: Tag your "one and done" friend.
+
+Shot list:
+- [B-ROLL] Guest boarding, saying the line to a friend
+- [INSERT] Same guest boarding again weeks later, different shirt
+- [INSERT] Deckhand checking a clipboard, guest's name already on it
+- [B-ROLL] Guest laughing, shaking his head, friends ribbing him
+
+Note: Distinct from 47 (do this every month, a kept promise), 64 (same time next month), and 84 (couple comes back every year) — those are positive return promises that get kept. This piece is the inverse: a denial of returning that gets disproven, a new structure for the running-jokes bucket.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

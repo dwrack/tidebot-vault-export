@@ -1,0 +1,20 @@
+PIECE 426 — Toasts, a standing prophecy — The Announcer / "Somebody's Gonna One-Up This Toast"
+Voice: The Announcer (EL-Daniel.mp3)   Music: competitive comedic bed with a small rising horn sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody stands up with a drink and the whole boat already knows what's coming.                     [Announcer VO formal, played straight, wide, guest standing up, glass raised]
+ 3.4s  Before the first toast even lands, somebody's already drafting a better one.                        [insert, second guest leaning to a friend, smirking, already thinking]
+ 7.0s  First toast finishes. Second one's already on their feet.                                           [insert, second guest standing up fast, cutting in]
+10.8s  Nobody remembers who started it. Everybody remembers who won.                                       [closing line, group laughing, both toasters raising glasses together]
+
+On-screen text: Hook = "SOMEBODY'S GONNA ONE-UP THIS TOAST" / Body = "nobody remembers who started it. everybody remembers who won." / CTA: none
+
+Shot list:
+- [B-ROLL] Guest standing up, glass raised, first toast starting
+- [INSERT] Second guest smirking, already planning
+- [INSERT] Second guest standing up fast as the first finishes
+- [B-ROLL] Both toasters, glasses raised together, group laughing
+
+Note: Distinct from 30 (best man's toast redacted), 105 (toastmaster nobody elected), and 129 (roast before toast) — those concern who gives or edits a toast. This piece is a toast-topping duel between two guests, a new mechanic for the toasts bucket.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

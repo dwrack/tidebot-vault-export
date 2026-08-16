@@ -1,0 +1,20 @@
+PIECE 432 — Closer, sincere, the crew's own accurate unspoken prediction — Sarah / "The Crew Already Knows Which Trips People Will Talk About for Years"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, understated closing bed, minimal strings   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Most days, the crew's just running the boat.                                                        [Sarah VO warm soft, wide, crew going through normal pre-trip motions]
+ 3.6s  Every so often, they can tell early this one's different.                                            [insert, crew glancing at each other, subtle, a beat longer than usual]
+ 7.4s  Nobody says it out loud. The crew just gets a little quieter.                                        [insert, crew quietly attentive, small unhurried gesture — refilling a cup, steadying someone's step]
+11.4s  Some trips, the crew already knows. They just quietly make sure it's a good one.                     [closing line, golden hour, boat pulling away from the dock, crew watching guests settle in]
+
+On-screen text: Hook = "THE CREW ALREADY KNOWS WHICH TRIPS PEOPLE WILL TALK ABOUT FOR YEARS" / Body = "they just quietly make sure it's a good one." / CTA: none
+
+Shot list:
+- [B-ROLL] Crew going through normal pre-trip motions
+- [INSERT] Crew exchanging a subtle glance
+- [INSERT] Crew quietly attentive — refilling a cup, steadying a step
+- [B-ROLL] Boat pulling away, golden hour, crew watching guests settle in
+
+Note: Follows this series' closing-piece tradition (240, 256, 272, 288, 304, 319, 336, 352, 368, 384, 400, 416) — sincere, non-comedic register. Distinct from 416 (a private two-word exchange withheld from the viewer): this closer's payoff is the crew's own accurate, unspoken prediction of which trips will matter, extending the volume's "standing prophecy" device into the sincere register rather than withholding a punchline. Original closing line read "they just let you have it" — cut in the copywriting-2.0 pass: "let you have it" is an everyday idiom for chewing someone out, which would misread as a joke inside a sincere closer. Rewritten to "they just quietly make sure it's a good one."
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

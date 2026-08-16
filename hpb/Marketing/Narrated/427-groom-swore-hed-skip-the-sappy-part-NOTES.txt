@@ -1,0 +1,20 @@
+PIECE 427 — Toasts, a standing prophecy — The Groomsman / "Groom Swore He'd Skip the Sappy Part"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3)   Music: tender-comedic bed, strums in then swells   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  He told the whole group: no crying, no sappy stuff, keep it light.                                  [Groomsman VO chill dry, wide, groom holding a drink, joking with friends]
+ 3.6s  Somebody hands him the mic anyway.                                                                  [insert, groom being handed a mic, reluctant grin]
+ 7.4s  Thirty seconds in, his voice cracks and the whole boat goes quiet.                                   [insert, groom mid-toast, emotional, friends watching closely]
+11.2s  Told everyone he'd skip the sappy part. Did not.                                                     [closing line, groom wiping his eyes, laughing, friends cheering and clapping him on the back]
+
+On-screen text: Hook = "HE SWORE HE'D SKIP THE SAPPY PART" / Body = "did not." / CTA: none
+
+Shot list:
+- [B-ROLL] Groom joking with friends, drink in hand
+- [INSERT] Groom handed the mic, reluctant
+- [INSERT] Groom mid-toast, voice cracking, boat quiet
+- [B-ROLL] Groom wiping his eyes, friends cheering
+
+Note: Distinct from 30 (best man's toast redacted) — different speaker (groom, not best man) and a different arc (a stated intention broken, not an edited/redacted toast).
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

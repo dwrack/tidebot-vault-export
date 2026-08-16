@@ -1,0 +1,20 @@
+PIECE 417 — Deck-hand slang, a standing prophecy — The Deckhand / "The Deckhand's Already Got a Call on the Cooler"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: fast, upbeat comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Two coolers come aboard. Deckhand's already got a call on one of 'em.                              [Deckhand VO fast hype, wide, two coolers being loaded up the ramp, deckhand eyeing them]
+ 3.4s  "That one's dead by the bridge." Nobody ever believes him.                                          [insert, deckhand pointing at the smaller cooler, guests laughing him off]
+ 7.0s  Bridge comes up. Cooler's bone dry. Every single time.                                              [insert, cooler lid open, empty ice water, guest checking it, deckhand not even looking]
+10.8s  He's not guessing. He's counting cups.                                                              [closing line, wide golden hour, deckhand grinning, tapping his temple]
+
+On-screen text: Hook = "THE DECKHAND ALREADY KNOWS WHICH COOLER DIES FIRST" / Body = "\"dead by the bridge.\" every single time." / CTA: none
+
+Shot list:
+- [B-ROLL] Two coolers loaded up the dock ramp
+- [INSERT] Deckhand pointing, calling it before shove-off
+- [INSERT] Empty cooler lid open at the bridge landmark
+- [B-ROLL] Deckhand grinning, golden hour
+
+Note: Distinct from 18 (whose cooler it is), 31 (nobody packed enough ice) and 316 (a bigger cooler) — none of those are a predicted race between two coolers called before the trip even starts. New "standing prophecy" device for this volume: the call is made first, the landmark confirms it.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

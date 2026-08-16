@@ -1,0 +1,20 @@
+PIECE 418 — Deck-hand slang, a standing prophecy — The Deckhand / "Called It Before You Tied Your Shoes"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: playful, mischievous bed with a light splash sting   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Deckhand scans the dock, picks the guy going in with his shirt still on.                           [Deckhand VO fast hype, wide, group boarding, deckhand's eyes landing on one guest in a polo]
+ 3.6s  Doesn't say a word about it. Just watches.                                                          [insert, deckhand smirking, watching from the stern, guest laughing with friends]
+ 7.2s  Forty minutes in: splash. Shirt's soaked, life vest still buckled, deckhand never looked up.         [insert, guest climbing back up the ladder dripping, vest on, group cracking up]
+11.0s  "Called it before you tied your shoes."                                                              [closing line, deckhand delivering the line straight-faced, guest wringing out his shirt, group laughing]
+
+On-screen text: Hook = "DECKHAND CAN CALL IT BEFORE YOU EVEN BOARD" / Body = "\"called it before you tied your shoes.\"" / CTA: none
+
+Shot list:
+- [B-ROLL] Group boarding, deckhand scanning faces
+- [INSERT] Deckhand smirking, watching one guest
+- [INSERT] Guest climbing back up the ladder soaked, life vest on
+- [B-ROLL] Group laughing, guest wringing out shirt
+
+Note: Distinct from 246 (a flip-flop overboard incident) and 279 (the no-diving rule) — those are about an object lost or a rule enforced; this is the deckhand predicting a specific person's spontaneous jump before it happens. Life vest visible throughout the swim beat, consistent with the trip's standard safety posture.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

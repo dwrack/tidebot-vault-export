@@ -1,0 +1,20 @@
+PIECE 422 — Captain lines, a standing prophecy — The Captain / "Captain Already Knows Who Actually Decides"
+Voice: The Captain (EL-Eric.mp3)   Music: confident, knowing bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Six people book the trip. Captain already knows who's actually deciding the day.                    [Captain VO dry, wide, group of six at the dock deciding something]
+ 3.4s  Watch who the whole group glances at before anyone says yes to anything.                             [insert, group members glancing toward one quiet guest before answering]
+ 7.0s  Not the loudest one on the dock. The one who's barely said a word.                                   [insert, quiet guest observed, others waiting on her]
+10.8s  Captain just tells the deckhand: "Keep her happy, we're golden."                                     [closing line, captain smiling at the wheel, deckhand nodding]
+
+On-screen text: Hook = "CAPTAIN ALREADY KNOWS WHO ACTUALLY DECIDES THE DAY" / Body = "\"keep her happy, we're golden.\"" / CTA: none
+
+Shot list:
+- [B-ROLL] Group of six at the dock
+- [INSERT] Group glancing toward one quiet guest
+- [INSERT] Close on the quiet guest, unbothered
+- [B-ROLL] Captain and deckhand exchanging a knowing look
+
+Note: Distinct from 234 (whose idea was this) — that's about origin, not ongoing authority. This piece is a real-time social read, not a retrospective joke. "Tells the deckhand" kept as a spoken line rather than "radios back," so the joke doesn't lean on any specific onboard equipment.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

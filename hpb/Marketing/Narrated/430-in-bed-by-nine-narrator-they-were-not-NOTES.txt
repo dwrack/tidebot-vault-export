@@ -1,0 +1,20 @@
+PIECE 430 — Running jokes, a standing prophecy — The Bestie / "In Bed by Nine. They Were Not."
+Voice: The Bestie (EL-Jessica.mp3)   Music: late-night comedic bed, phone-glow synth undertone   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "We're grown now. We'll be home, in bed by nine."                                                   [Bestie VO loud friend, wide, group boarding, saying it half-seriously]
+ 3.4s  Nine o'clock rolls around: group chat's still lit up.                                                [insert, phone screen close-up, messages stacking up]
+ 7.0s  Somebody's already floating the next trip.                                                          [insert, guest laughing, typing, showing a friend the screen]
+10.8s  In bed by nine. Sure you were.                                                                       [closing line, group laughing at themselves, golden hour fading to dusk]
+
+On-screen text: Hook = "\"WE'LL BE HOME, IN BED BY NINE.\"" / Body = "in bed by nine. sure you were." / CTA: none
+
+Shot list:
+- [B-ROLL] Group boarding, saying the line half-seriously
+- [INSERT] Phone screen, group chat messages stacking up
+- [INSERT] Guest typing, showing a friend the screen
+- [B-ROLL] Group laughing at themselves, dusk
+
+Note: New territory — no prior piece covers a post-trip evening-plans claim getting disproven by the group chat. Distinct from 55, 91, 205 (group-chat pieces about renaming or planning round two after the fact) since this piece's payoff is same-night, not the following week.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,20 @@
+PIECE 421 — Captain lines, a standing prophecy — Roger / "Captain Can Tell Before You Park the Car"
+Voice: Roger (voice-en-US-RogerNeural.mp3)   Music: dry, mock-official bed, minimal   Length: 14.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain can tell who's never set foot on a boat before they've even parked the car.                 [Roger VO mock-official, wide, parking lot, cars pulling in]
+ 3.4s  Something about how careful they walk down the ramp.                                                [insert, guest stepping cautiously down the dock ramp, hand on the rail]
+ 6.8s  Regulars don't look down once. First-timers check every step.                                       [insert, split framing: regular walking casually vs. first-timer watching their feet]
+10.6s  Captain's not judging. Just already knows who to keep an eye on.                                     [closing line, captain giving deckhand a small nod toward the first-timer]
+
+On-screen text: Hook = "CAPTAIN CAN TELL BEFORE YOU EVEN PARK THE CAR" / Body = "regulars don't look down once." / CTA: none
+
+Shot list:
+- [B-ROLL] Parking lot, guests walking toward the dock
+- [INSERT] Guest walking cautiously down the ramp, hand on rail
+- [INSERT] Split shot: casual regular vs. careful first-timer
+- [B-ROLL] Captain's small nod to the deckhand
+
+Note: Distinct from 40 and 72 (sea-legs / seasickness definitions, a term comparison) and from 78 (a general "you can always tell" bit) — this is captain-specific, tied to the parking lot and the ramp walk, and structured as a prediction confirmed by a specific physical tell rather than a general observation.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

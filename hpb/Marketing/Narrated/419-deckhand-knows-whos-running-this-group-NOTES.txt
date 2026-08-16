@@ -1,0 +1,20 @@
+PIECE 419 — Deck-hand slang, a standing prophecy — The Old Salt / "The Deckhand Knows Who's Running This Group"
+Voice: The Old Salt (EL-George.mp3)   Music: confident, low-key groove bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Ten seconds on the dock and the deckhand already knows who's really in charge.                     [Old Salt VO wry warm, wide, group walking down the dock together]
+ 3.4s  Not whoever's name is on the booking. Whoever the whole group keeps glancing at.                    [insert, deckhand watching, group members glancing toward one guest before boarding]
+ 7.0s  She hasn't said a word yet. Doesn't need to.                                                        [insert, close on the one guest, calm, others deferring, waiting for her nod]
+10.8s  Deckhand just nods. Yep. Her.                                                                        [closing line, deckhand grinning, group boarding behind the one guest]
+
+On-screen text: Hook = "TEN SECONDS ON THE DOCK, DECKHAND ALREADY KNOWS WHO'S IN CHARGE" / Body = "not whoever booked it. whoever they all look at." / CTA: none
+
+Shot list:
+- [B-ROLL] Group walking down the dock
+- [INSERT] Group glancing toward one guest before boarding
+- [INSERT] Close on that guest, calm, unhurried
+- [B-ROLL] Deckhand nodding, group boarding
+
+Note: Distinct from 122 (the planner and the plus-one) and 331 (the mom who planned isn't coming), which describe a role after the fact. This piece is the deckhand's real-time read of group hierarchy before a word is spoken — the prediction lands in the same beat it's made.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

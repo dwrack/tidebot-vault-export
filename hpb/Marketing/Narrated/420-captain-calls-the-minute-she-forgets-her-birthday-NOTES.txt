@@ -1,0 +1,20 @@
+PIECE 420 — Captain lines, a standing prophecy — The Captain / "Captain Calls the Minute She Forgets It's Her Birthday"
+Voice: The Captain (EL-Eric.mp3)   Music: warm comedic bed with a light ticking undertone   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain's run enough birthdays to call the exact minute.                                            [Captain VO dry deadpan, wide, birthday guest boarding in a sash and crown]
+ 3.6s  "Give her twelve minutes, she'll forget it's even her birthday."                                     [insert, captain at the wheel, saying it flat, deckhand smirking beside him]
+ 7.4s  Minute eleven: mid-story, crown crooked, laughing too hard to breathe.                               [insert, birthday guest laughing hard with friends, crown askew]
+11.2s  Minute twelve: somebody yells "happy birthday" and she actually jumps.                               [closing line, birthday guest startled then laughing, whole group cheering]
+
+On-screen text: Hook = "CAPTAIN CALLS THE EXACT MINUTE SHE FORGETS IT'S HER BIRTHDAY" / Body = "\"give her twelve minutes.\" he's never wrong." / CTA: none
+
+Shot list:
+- [B-ROLL] Birthday guest boarding, sash and crown
+- [INSERT] Captain at the wheel, deadpan line delivery
+- [INSERT] Birthday guest mid-story, crown crooked, laughing
+- [B-ROLL] Group yelling "happy birthday," guest startled and laughing
+
+Note: Distinct from 99 (moms front row), 103 (birthday playlist veto), and 192 (the number stays off the cake) — none of those turn on a timed prediction. This is the volume's prophecy device applied to a captain line for the first time.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

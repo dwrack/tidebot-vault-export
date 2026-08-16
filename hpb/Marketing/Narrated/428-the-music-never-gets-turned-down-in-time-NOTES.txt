@@ -1,0 +1,20 @@
+PIECE 428 — Toasts, a standing prophecy — The Regular / "The Music Never Gets Turned Down in Time"
+Voice: The Regular (EL-Brian.mp3)   Music: chaotic bassline-under-toast bed, settles at the end   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody yells "turn the music down, it's toast time!"                                              [Regular VO flat deadpan, wide, guest standing to give a toast, reaching for the glass]
+ 3.4s  Speaker's still going. Nobody can find the right phone.                                             [insert, guest fumbling through phones, speaker still thumping]
+ 7.0s  Toast happens anyway, half of it fighting a bassline.                                                [insert, guest giving the toast, leaning in to be heard, group laughing]
+10.8s  Music finally cuts off right as the last word lands. Hasn't missed yet.                              [closing line, sudden quiet, group cheering, toast-giver rolling their eyes]
+
+On-screen text: Hook = "THE MUSIC NEVER GETS TURNED DOWN IN TIME FOR THE TOAST" / Body = "hasn't missed yet." / CTA: none
+
+Shot list:
+- [B-ROLL] Guest standing to toast, reaching for a glass
+- [INSERT] Group fumbling through phones, speaker still going
+- [INSERT] Toast happening over the music, guests leaning in
+- [B-ROLL] Sudden quiet as music cuts, group cheering
+
+Note: Distinct from 412 (Vol. 26 — spill mid-toast, owe a re-toast), which is a mishap-triggered ruling. This piece has no mishap — it's a pre-toast prediction about timing that lands the same way every trip. Closing line changed from "every single time" to "hasn't missed yet" — 417 already closes on "every single time" earlier in this volume.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
