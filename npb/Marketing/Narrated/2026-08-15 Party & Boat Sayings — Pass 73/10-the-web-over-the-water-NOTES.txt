@@ -1,0 +1,29 @@
+PIECE 10 — Did-you-know / myth-busting — "The Web Over the Water"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural (free tier)   Music: curious, a little dramatic opening, settles into reassuring (mood only)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody spots a web stretched clean across the channel, easily three feet wide, and immediately wants to turn the kayak around.   [wide shot: large golden web strung between branches over the water, guest pointing, alarmed]
+ 4.0s  That's a golden silk orb-weaver. Everybody just calls it the banana spider.   [close-up: spider centered in its web, yellow-banded legs visible]
+ 8.0s  It won't do more to you than a mosquito bite you didn't even feel. Mosquitoes are the actual reason it's up there.   [medium shot: guide explaining, calm, unbothered]
+12.5s  Ounce for ounce, this silk is stronger than steel. Engineers study it for exactly that reason.   [close-up: web strands catching the light, visibly sturdy]
+16.0s  Nobody's turning the kayak around today. That web's not coming anywhere near this boat.   [closing wide shot: kayaks passing well clear of the web, guest visibly relaxed]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "GOLDEN SILK ORB-WEAVER," fades in at 4.0s and clears by 8.0s.
+
+SHOT LIST:
+- Wide shot: large web over the water, guest pointing, alarmed (opener)
+- Close-up: spider centered in its web, yellow-banded legs visible
+- Medium shot: guide explaining, calm, unbothered
+- Close-up: web strands catching the light, visibly sturdy
+- Closing wide shot: kayaks passing well clear of the web, guest visibly relaxed
+
+SOURCE GROUNDING: Golden silk orb-weavers (Trichonephila clavipes), commonly called banana spiders in Louisiana, are real and common in warm-season Louisiana wetlands. Confirmed completely unused across all 252 prior pieces by this pass's dedup verification, first arachnid spotlight in the series.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga (the claim "stronger than steel" is big and needs its mechanism right after it) with Sugarman's inline objection-handling (the guest's fear is answered before it's asked a second time). Mentor pass replaced a clinical original line, "the bite barely registers on a human," with the more concrete and connective "it won't do more to you than a mosquito bite you didn't even feel," which also sets up the very next line's mosquito payoff. Then /copywriting-2.0 (3-test filter): confirmed the silk line as the one to keep, "Ounce for ounce, this silk is stronger than steel," a real, checkable, specific claim (spider silk's tensile strength per unit weight is a well-documented fact).
+DEVICES CHECK: First dedicated arachnid spotlight in the series (17+ prior wildlife pieces were all vertebrates). Distinct in structure from the retired misidentification-game device, nothing here is misidentified; it's a real, common guest fear resolved with real information rather than a guessing bit.
+
+PRODUCTION FLAG: Golden silk orb-weavers are a warm-season sight in Louisiana (roughly spring through fall), not a year-round guarantee; note the seasonality before scheduling this piece to air in every quarter. No guide or guest identified. Piece is deliberately written so its resolution is "leave it be, keep paddling," never an approach-and-inspect moment, consistent with the series' no-handling standard.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

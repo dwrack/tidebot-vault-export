@@ -1,0 +1,29 @@
+PIECE 04 — Captain line / running joke — "Son of a Gun"
+Product: Private BYOB Party Fleet
+Voice: EL-Eric (ElevenLabs)   Music: deadpan comedic timing, light and bouncy (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Guest catches a falling chip bag one-handed without looking. Captain, from the wheel, without missing a beat: "son of a gun."   [wide shot: guest catching bag, captain glancing back]
+ 3.5s  Ten minutes later somebody nails a dance move that should've torn a hamstring. Same exact reaction. Same volume.   [close-up: captain saying the line again, totally flat delivery]
+ 8.0s  Turns out he's only got one gear for this. Doesn't matter what just happened.   [medium shot: guests noticing, laughing at the captain's consistency]
+12.0s  By the end of the cruise the guests are saying it for each other before he can.   [close-up: guest saying the line first, pointing at a friend's small feat]
+14.5s  Nobody asked him to have a catchphrase. He's got one anyway.   [closing wide shot: whole boat repeating the line together, laughing, cruising on]
+
+ON-SCREEN TEXT TREATMENT:
+None. The deadpan repetition is the whole joke, a caption would step on the timing.
+
+SHOT LIST:
+- Wide shot: guest catching a falling chip bag one-handed, captain glancing back (opener)
+- Close-up: captain repeating the line, totally flat delivery
+- Medium shot: guests noticing the pattern, laughing at the captain's consistency
+- Close-up: guest saying the line first, pointing at a friend's small feat
+- Closing wide shot: whole boat repeating the line together, laughing, cruising on
+
+SOURCE GROUNDING: Built around the real mild exclamation "son of a gun," confirmed completely untouched across all 252 prior pieces by this pass's dedup verification, and named explicitly on Pass 72's own "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (deadpan repetition as the engine, told as a story rather than a feature list). Mentor pass caught "a genuinely impressive dance move" as a rating-adjective standing in for a real picture, and rewrote it to "a dance move that should've torn a hamstring," which is visualizable and funnier. Then /copywriting-2.0 (3-test filter): confirmed the rewrite passes all three tests, no further changes needed. The line to keep is "Turns out he's only got one gear for this. Doesn't matter what just happened."
+DEVICES CHECK: A fixed-reaction running joke, distinct from the series' retired fixed-catchphrase-as-mascot device (Pass 22's "life jackets are like exes," the base pass's house rules) because the joke is the captain's genuine, unrehearsed flatness rather than a scripted bit, and the guests adopting the line themselves is the actual payoff, not the line itself.
+
+PRODUCTION FLAG: Illustrative captain and guest moments, not transcribed from a real trip. No captain or guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

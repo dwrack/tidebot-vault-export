@@ -1,0 +1,29 @@
+PIECE 09 — Did-you-know / plant spotlight — "The Fern That Comes Back From the Dead"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural (free tier)   Music: light, curious, gentle reveal (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Half the branches up there look like they're covered in dead, curled-up leaves.   [wide shot: cypress branch overhead, brown curled fern clumps visible]
+ 3.5s  That's resurrection fern. It's not dead. It's just been waiting for rain.   [close-up: dry, brown, tightly curled fern fronds]
+ 7.5s  Give it a few hours of real rain and the same brown clump turns fully green again. No new plant. Same one.   [medium shot: guide pointing to a greener patch nearby, same tree, still damp from last week's rain]
+12.5s  It can go bone dry for years and still come back. Every single time it's rained on.   [close-up: guide gesturing at the dry fern, explaining]
+15.5s  Not moss. Not dead. Just a plant that knows how to wait.   [closing wide shot: kayaks continuing under a canopy dotted with the dry, curled fern]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "RESURRECTION FERN," fades in at 3.5s and clears by 7.0s.
+
+SHOT LIST:
+- Wide shot: cypress branch overhead, brown curled fern clumps visible (opener)
+- Close-up: dry, brown, tightly curled fern fronds
+- Medium shot: guide pointing to a greener, damp patch nearby on the same tree
+- Close-up: guide gesturing at the dry fern, explaining
+- Closing wide shot: kayaks continuing under a canopy dotted with the dry, curled fern
+
+SOURCE GROUNDING: Resurrection fern (Pleopeltis polypodioides) is a real, common epiphytic fern found on live oaks and bald cypress across Louisiana. Confirmed completely unused across all 252 prior pieces by this pass's dedup verification.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (looks-dead-isn't is the whole slide, the reveal is the product). Mentor pass found this piece clean with no line-level rewrites required. Then /copywriting-2.0 (3-test filter): moved "bone dry" earlier in its sentence for better spoken rhythm ("It can go bone dry for years and still come back. Every single time it's rained on."), and named the closer, "Not moss. Not dead. Just a plant that knows how to wait," as the line to keep.
+DEVICES CHECK: First dedicated resurrection fern piece in the series, confirmed distinct from the Spanish moss piece (Pass 59, an air-plant fact) and the cypress-knee piece (Pass 26, a root-breathing fact): different organism, different mechanism (drought dormancy, not an air-plant adaptation or a root structure).
+
+PRODUCTION FLAG: Resurrection fern is a genuinely common Louisiana wetland species on live oak and cypress; still, confirm it's visibly present on NPB's specific route trees before treating the framing as guaranteed on every trip. No guide identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

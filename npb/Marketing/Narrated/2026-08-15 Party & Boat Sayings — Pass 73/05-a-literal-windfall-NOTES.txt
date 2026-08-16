@@ -1,0 +1,29 @@
+PIECE 05 — Running joke, idiom/pun — "A Literal Windfall"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: light, whimsical, quick payoff (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A gust off the water lands somebody else's ballcap right in the middle of the deck. Nobody knows whose boat it came from.   [wide shot: hat landing mid-deck, guests turning to look]
+ 3.5s  The group declares it treasure. Technically that's the actual definition: a windfall, something good the wind just handed you.   [close-up: guest holding the hat up like a trophy]
+ 8.5s  Three people immediately claim they saw it first. None of them did.   [medium shot: guests arguing playfully, pointing fingers]
+12.0s  It ends up on the loudest guy's head for the rest of the cruise, no vote taken.   [close-up: hat placed on a guest's head, group cheering]
+14.5s  Whoever lost that hat is out there wondering. This boat's not giving it back.   [closing wide shot: guest wearing the hat proudly, boat cruising on]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "WINDFALL (n.)," pops in at 3.5s and clears by 8.0s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: hat landing mid-deck, guests turning to look (opener)
+- Close-up: guest holding the hat up like a trophy
+- Medium shot: guests arguing playfully over who saw it first
+- Close-up: hat placed on a guest's head, group cheering
+- Closing wide shot: guest wearing the hat proudly, boat cruising on
+
+SOURCE GROUNDING: Built around the real word "windfall" (something good that arrives unearned, originally literal: fruit or wood blown down by wind), confirmed completely untouched across all 252 prior pieces by this pass's dedup verification, and named explicitly on Pass 72's own "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (a curiosity object drops in, the story unspools from there) with Ogilvy's factual-specific instinct on the definition line. Mentor pass tightened an original two-sentence definition into one line and sharpened it to fully literalize the pun (wind, quite literally, delivering the windfall), which the first draft hadn't exploited. Then /copywriting-2.0 (3-test filter): confirmed the sharpened definition line as the one to keep, "Technically that's the actual definition: a windfall, something good the wind just handed you."
+DEVICES CHECK: A pun-driven running joke, deliberately distinct from the series' heavily used "surprise perk" trope (loyalty upgrades, referral freebies, discount cards, all of which are company-granted). Nothing in this piece comes from NPB; it's a wind gust and a group's own logic.
+
+PRODUCTION FLAG: Illustrative scenario, not a transcribed or confirmed recurring occurrence. No guest, deckhand, or the other boat identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

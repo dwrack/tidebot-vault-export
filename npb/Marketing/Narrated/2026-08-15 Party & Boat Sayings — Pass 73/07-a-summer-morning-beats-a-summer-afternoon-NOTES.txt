@@ -1,0 +1,29 @@
+PIECE 07 — Practical / seasonal — "A Summer Morning Beats a Summer Afternoon"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Lily (ElevenLabs)   Music: calm, warm, a little wry on the closer (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  By July, a Louisiana afternoon is a wall of heat everywhere in this state. Except right here, at seven in the morning.   [wide shot: kayaks gliding in cool morning light, mist still on the water]
+ 4.0s  Cypress canopy blocks direct sun for most of the route. It runs several degrees cooler than the parking lot you just left.   [close-up: dappled light through cypress canopy, kayak passing through shade]
+ 8.5s  The wildlife runs on the same clock. Most of what you'll see is out and moving before nine, then it's gone.   [medium shot: a heron fishing, active, alert]
+13.0s  Come back at 2pm in August and you'll mostly see empty water and your own sweat.   [close-up: guide gesturing, half-joking, half-serious]
+16.0s  A summer morning out here beats a summer afternoon anywhere else in this state. That's not marketing. That's just physics.   [closing wide shot: kayaks gliding through cool shaded water, calm]
+
+ON-SCREEN TEXT TREATMENT:
+None. The plain seasonal-comparison line carries the beat without a caption.
+
+SHOT LIST:
+- Wide shot: kayaks gliding in cool morning light, mist still on the water (opener)
+- Close-up: dappled light through cypress canopy
+- Medium shot: a heron fishing, active, alert
+- Close-up: guide gesturing, half-joking, half-serious
+- Closing wide shot: kayaks gliding through cool shaded water, calm
+
+SOURCE GROUNDING: Adapts Script & Caption Bank Lane 12's line, "A summer morning out here beats a summer afternoon anywhere else in Louisiana," confirmed unused by this pass's dedup verification (Pass 72 used the same lane's Mardi Gras line; the fall-cypress line was left alone this pass since it overlaps closely with Pass 36's dedicated cypress-color piece).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga (the claim "beats a summer afternoon anywhere else" is a big one, and needs a mechanism right behind it, not just an assertion). Then /copywriting-2.0 (3-test filter): flagged the draft's "The wildlife knows it too" as a soft, any-nature-account abstraction that any generic wildlife page could say, and rewrote it to a checkable, tour-specific claim: "The wildlife runs on the same clock. Most of what you'll see is out and moving before nine, then it's gone." The line to keep is the closer, "That's not marketing. That's just physics," which earns its confidence because the two lines before it prove the temperature claim with an actual mechanism (canopy cover), not just an assertion.
+DEVICES CHECK: First piece to adapt this specific Script & Caption Bank Lane 12 line. Distinct from Pass 72's Mardi Gras seasonal piece (a chaos-vs-calm contrast built on proximity) by being a comfort-and-wildlife-activity practical argument instead.
+
+PRODUCTION FLAG: "Before nine" is an illustrative, not company-confirmed, cutoff time for wildlife activity; confirm the actual peak-activity window and current tour departure times with ops before treating this as official guidance. No guide identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

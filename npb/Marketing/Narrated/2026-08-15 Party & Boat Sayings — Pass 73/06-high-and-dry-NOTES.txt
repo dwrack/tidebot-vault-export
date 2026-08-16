@@ -1,0 +1,29 @@
+PIECE 06 — Running joke / superstition, idiom — "High and Dry"
+Product: Private BYOB Party Fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: playful, a little mock-suspenseful (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Every wake splashes somebody. Today it's everybody except one guy in the back corner.   [wide shot: wake hits, several guests laughing/getting splashed, one guest untouched]
+ 3.5s  Three wakes in, he's still completely dry. The rest of the boat's noticed.   [close-up: guest looking around, confused, bone dry]
+ 7.5s  Somebody starts calling him lucky. Somebody else starts calling him suspicious.   [medium shot: guests pointing, laughing, mock-accusing]
+11.5s  He's just standing high and dry while everyone else pays the wake tax.   [close-up: guest shrugging, genuinely baffled by his luck]
+14.5s  By the dock, they've named it after him. Nobody's letting this go.   [closing wide shot: group laughing, guest still dry, boat pulling in]
+
+ON-SCREEN TEXT TREATMENT:
+Small joke lower-third, "THE WAKE TAX," pops in at 11.5s and clears by 14.5s.
+
+SHOT LIST:
+- Wide shot: wake hits, several guests splashed, one guest untouched (opener)
+- Close-up: guest looking around, confused, bone dry
+- Medium shot: guests pointing, laughing, mock-accusing
+- Close-up: guest shrugging, genuinely baffled
+- Closing wide shot: group laughing, guest still dry, boat pulling in
+
+SOURCE GROUNDING: Built around the real idiom "high and dry," confirmed completely untouched across all 252 prior pieces by this pass's dedup verification, and named explicitly on Pass 72's own "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert (specific, slightly absurd, told the way a group would actually tell it at the dock). Mentor pass sharpened a vague closer, "it's officially a thing now," to the more concrete "Nobody's letting this go." Then /copywriting-2.0 (3-test filter): flagged "the wake tax" as the strongest phrase in the piece, passes all three tests (visualizable within the scene, checkable as a running bit, and ownable, only a wake-crossing party boat can say it), named it the line to keep.
+DEVICES CHECK: A superstition/running-joke piece, distinct from the series' retired misidentification-game device (gator/turtle/stick, nutria/beaver, gar/gator). Nothing here is guessed or corrected; it's a group building its own in-boat mythology around a real coincidence.
+
+PRODUCTION FLAG: Illustrative guest scenario, not a transcribed or confirmed recurring occurrence. No guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

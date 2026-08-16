@@ -1,0 +1,29 @@
+PIECE 02 — Running-joke / did-you-know, idiom — "Scuttlebutt"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: playful, a little sneaky, building (mood only)   Length: 17.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody spots a boat circling back twice and starts a rumor. By the stern, it's already a full story.   [wide shot: guests huddled at the stern, pointing at a distant boat, whispering]
+ 3.5s  That's called scuttlebutt. Real word. Sailors used to gather at the ship's water cask to gossip.   [close-up: guest miming a dramatic retelling to two others, wide eyes]
+ 8.0s  The cask was called the scuttlebutt. So was whatever got said standing next to it.   [medium shot: deckhand overhearing, smirking, saying nothing]
+12.0s  Nobody ever finds out why that boat circled back. Doesn't stop the story from getting three better by the dock.   [close-up: guest recounting the tale to a friend, embellishing with hand gestures]
+15.0s  Some things never change. Sailors still gossip. The cask's just a cooler now.   [closing wide shot: group laughing, boat continuing on, cooler visible on deck]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "SCUTTLEBUTT (n.) — gossip," fades in at 3.5s and clears by 8.0s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: guests huddled at the stern, pointing at a distant boat, whispering (opener)
+- Close-up: guest miming a dramatic retelling to two others, wide eyes
+- Medium shot: deckhand overhearing, smirking, saying nothing
+- Close-up: guest recounting the tale to a friend, embellishing with hand gestures
+- Closing wide shot: group laughing, boat continuing on, cooler visible on deck
+
+SOURCE GROUNDING: Built around the real nautical etymology of "scuttlebutt" (the cask of drinking water on a ship, and by extension the gossip exchanged around it), confirmed completely untouched across all 252 prior pieces by this pass's dedup verification, and named explicitly on Pass 72's own "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's slippery slide (a curiosity-loaded story where the real payoff is the etymology reveal, not the rumor itself). Mentor pass caught an original line 2 that crammed the definition and the origin into one breath and telegraphed the line-3 reveal ("...and the cask had a name"); split it so the cask's actual name lands as its own beat in line 3. Then /copywriting-2.0 (3-test filter): confirmed the closer, "Some things never change. Sailors still gossip. The cask's just a cooler now," as the line to keep, only a BYOB boat can truthfully make that specific callback.
+DEVICES CHECK: First dedicated "scuttlebutt" etymology piece. Distinct in structure from Pass 36's broad idiom-compilation piece (which listed several idioms quickly) by going deep on one word and one scene instead.
+
+PRODUCTION FLAG: Illustrative rumor scenario, not a transcribed guest interaction. No guest, deckhand, or the other boat identified. No claim this is a recurring or confirmed NPB occurrence.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

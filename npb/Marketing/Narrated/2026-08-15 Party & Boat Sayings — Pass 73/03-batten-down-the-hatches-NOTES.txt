@@ -1,0 +1,29 @@
+PIECE 03 — Captain line / escalating running joke — "Batten Down the Hatches"
+Product: Private BYOB Party Fleet
+Voice: EL-Jessica (ElevenLabs)   Music: bouncy, building energy (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain calls "batten down the hatches" right before crossing another boat's wake. Guests grab their drinks, brace, laugh it off.   [wide shot: captain gesturing ahead, guests grabbing cups]
+ 3.5s  By the second wake, someone yells it before the captain even says it.   [close-up: guest shouting the line first, pointing at the wake]
+ 7.5s  By the third one, it's not about the wake anymore. Somebody yells it before a dance move.   [medium shot: guest yelling the phrase, then attempting a big dance move]
+11.5s  Nobody explains it to the new person on the boat. They just start yelling it too, three wakes later.   [close-up: confused guest catching on, joining the chant]
+14.5s  By the end of the cruise, nobody says "hold on" anymore. They say this instead.   [closing wide shot: whole group yelling the line together, laughing, cruising through calm water]
+
+ON-SCREEN TEXT TREATMENT:
+None. The chant's own escalation carries the beat without a caption.
+
+SHOT LIST:
+- Wide shot: captain gesturing ahead, guests grabbing cups (opener)
+- Close-up: guest shouting the line first, pointing at the wake
+- Medium shot: guest yelling the phrase, then attempting a big dance move
+- Close-up: confused new guest catching on, joining the chant
+- Closing wide shot: whole group yelling the line together, laughing, cruising through calm water
+
+SOURCE GROUNDING: Built around the real nautical warning "batten down the hatches," confirmed completely untouched across all 252 prior pieces by this pass's dedup verification, and named explicitly on Pass 72's own "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's mid-action open (the phrase is already escalating by line one, no setup needed). Mentor pass found this piece clean with no line-level rewrites required. Then /copywriting-2.0 (3-test filter): flagged the original closer as slightly explainy ("it's just what this boat says instead of 'hold on'") and sharpened it to show instead of tell: "By the end of the cruise, nobody says 'hold on' anymore. They say this instead." The line to keep is "By the third one, it's not about the wake anymore. Somebody yells it before a dance move," the sharpest, most specific beat in the piece.
+DEVICES CHECK: An escalating-phrase running joke, distinct from Pass 72's "Chug, Chug, Chug" (a spontaneous chant with no captain origin) and from the series' retired fixed-catchphrase-as-mascot device, since this phrase begins as a real safety-adjacent captain line rather than an invented bit.
+
+PRODUCTION FLAG: Illustrative captain line and guest behavior. "Batten down the hatches" is not confirmed as a standing NPB captain script; treat as a concept pitch, not a transcript. No captain or guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

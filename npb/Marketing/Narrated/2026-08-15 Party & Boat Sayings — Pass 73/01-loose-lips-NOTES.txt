@@ -1,0 +1,29 @@
+PIECE 01 — Captain line / idiom — "Loose Lips"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: warm, a little conspiratorial, settles into playful (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Loose lips sink ships." That's the old saying.   [wide shot: guests boarding, captain nearby with a knowing grin]
+ 3.5s  Doesn't apply here. It's your group. Nobody else gets on this boat.   [close-up: captain gesturing around the deck, no other guests in frame]
+ 7.5s  Whatever gets said out here stays on this boat. There's no stranger on it to tell it to.   [medium shot: guests laughing, no phones aimed at them, relaxed]
+11.5s  Private means private. That's not a slogan, that's just who's allowed on board.   [close-up: deckhand checking a name off a private group's guest list, nobody else boarding]
+14.5s  So go ahead. Say the thing you'd never say at the office holiday party.   [closing wide shot: group laughing hard, boat cruising, sun out]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "LOOSE LIPS SINK SHIPS," pops in at 0.0s and clears by 3.5s. Nothing else captioned.
+
+SHOT LIST:
+- Wide shot: guests boarding, captain nearby with a knowing grin (opener)
+- Close-up: captain gesturing around the deck, no other guests in frame
+- Medium shot: guests laughing, no phones aimed at them, relaxed
+- Close-up: deckhand checking a name off a private group's guest list, nobody else boarding
+- Closing wide shot: group laughing hard, boat cruising, sun out
+
+SOURCE GROUNDING: Built around the real WWII-era phrase "loose lips sink ships," confirmed completely untouched across all 252 prior pieces (21 prior slate documents) by this pass's dedup verification, and named explicitly on Pass 72's own "still untapped" list. Directly channels Brand Story & Values Section 2's "private means private" belief, making it literal instead of stating it as a slogan (the piece's own closing line makes this point out loud).
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Schwartz's Sophistication 5 identification angle (every party boat can claim "fun," so this hooks on private-fleet identity and discretion instead of a product claim). Mentor pass flagged an original line 3, "Nobody on this boat is filming a documentary about you," as reaching for a laugh it hadn't earned given the setup, and rewrote line 2 instead to state plainly why the old warning doesn't apply here: "Doesn't apply here. It's your group. Nobody else gets on this boat." Then /copywriting-2.0 (3-test filter): confirmed the rest of the piece holds. The line to keep is "Private means private. That's not a slogan, that's just who's allowed on board," the only sentence a shared-boat competitor could never truthfully say (fails the "can nobody else say it" test for anyone but a true private charter).
+DEVICES CHECK: First "loose lips" piece in the series. Distinct from all 16+ prior toast pieces (this is not a toast) and from any occasion-specific piece (it isn't tied to a bachelorette, birthday, or corporate booking, it's a general private-fleet claim).
+
+PRODUCTION FLAG: Illustrative captain and deckhand behavior, not a scripted or company-endorsed line. No captain, deckhand, or guest identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Schwartz) then /copywriting-2.0 (3-test filter, one catch logged above).

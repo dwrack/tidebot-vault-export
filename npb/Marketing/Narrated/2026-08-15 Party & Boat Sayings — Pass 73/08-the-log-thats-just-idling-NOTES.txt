@@ -1,0 +1,29 @@
+PIECE 08 — Did-you-know / wildlife fact — "The Log That's Just Idling"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural (free tier)   Music: hushed, a little tense, curious (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  That "log" hasn't moved in ten minutes. Most guests assume it's asleep.   [wide shot: still gator shape at the waterline, unmoving]
+ 3.5s  It's not asleep. An alligator can slow its heart down to two or three beats a minute.   [close-up: gator's eye, barely visible, motionless]
+ 7.5s  That's not resting. That's idling: enough heartbeat to stay alive, plenty enough to watch you.   [medium shot: guide gesturing at the gator, explaining]
+11.5s  It hasn't moved in ten minutes. It could still close that gap before you'd notice.   [close-up: guide's hand indicating distance, cautionary but calm]
+15.0s  Two beats a minute and it still knows exactly where this kayak is.   [closing wide shot: kayaks paddling past at a respectful distance, gator unmoving]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "2-3 BEATS PER MINUTE," fades in at 3.5s and clears by 7.5s.
+
+SHOT LIST:
+- Wide shot: still gator shape at the waterline, unmoving (opener)
+- Close-up: gator's eye, barely visible, motionless
+- Medium shot: guide gesturing at the gator, explaining
+- Close-up: guide's hand indicating distance, cautionary but calm
+- Closing wide shot: kayaks paddling past at a respectful distance, gator unmoving
+
+SOURCE GROUNDING: Adapts Script & Caption Bank Lane 6's line, "An alligator can drop its heart to two or three beats a minute. That 'log' isn't asleep. It's idling," confirmed unused by this pass's dedup verification.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy (a single specific, checkable number does the whole ad). Mentor pass flagged an original line, "running just enough engine to stay alive and watch," for mixing a second metaphor (engine) into a sentence that had already committed to a heartbeat image, and cleaned it to one controlling image: "enough heartbeat to stay alive, plenty enough to watch you." Then /copywriting-2.0 (3-test filter): flagged an original line 4 as abstract ("everything you're not seeing it do... in under a second") and sharpened it to callback the opening line concretely: "It hasn't moved in ten minutes. It could still close that gap before you'd notice." The line to keep is the closer, "Two beats a minute and it still knows exactly where this kayak is."
+DEVICES CHECK: First use of the alligator heart-rate fact in the series, distinct from every other gator fact already used (nictitating eyelid, water-dance bellow, nest/eggs, hatchling-carrying, year-without-eating).
+
+PRODUCTION FLAG: The heart-rate figure is a real, commonly cited physiological fact about American alligators, not company-specific. Tone is written to convey watchful awe, not danger-marketing, consistent with Brand Story & Values Section 2's no-baiting, no-chasing standard. No guide identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter, one catch logged above).

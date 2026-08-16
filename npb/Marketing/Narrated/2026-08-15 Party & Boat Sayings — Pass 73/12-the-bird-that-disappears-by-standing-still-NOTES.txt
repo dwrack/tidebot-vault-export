@@ -1,0 +1,29 @@
+PIECE 12 — Did-you-know / wildlife spotlight — "The Bird That Disappears by Standing Still"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Sarah (ElevenLabs)   Music: hushed, curious, a small reveal at the end (mood only)   Length: 18.0s
+
+SCRIPT (timed to narration):
+ 0.0s  The guide points at a patch of reeds and says there's a bird standing right there. Nobody can find it.   [wide shot: reeds at the water's edge, guide pointing]
+ 4.0s  It's a bittern. When it feels watched, it points its bill straight up and freezes, striped like the reeds around it.   [close-up: bittern mid-freeze, bill vertical, blending into the reeds]
+ 8.5s  It'll even sway when the wind moves the reeds, matching them exactly.   [medium shot: reeds swaying, bird barely distinguishable]
+12.5s  Most guests never spot one. The ones who do usually don't believe it until the guide points a second time.   [close-up: guest squinting, finally seeing it, surprised]
+16.0s  It's not hiding behind anything. It's just standing there, betting you won't look twice.   [closing wide shot: bittern still frozen, kayaks drifting past unaware]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "AMERICAN BITTERN," fades in at 4.0s and clears by 8.0s.
+
+SHOT LIST:
+- Wide shot: reeds at the water's edge, guide pointing (opener)
+- Close-up: bittern mid-freeze, bill vertical, blending into the reeds
+- Medium shot: reeds swaying, bird barely distinguishable
+- Close-up: guest squinting, finally spotting it, surprised
+- Closing wide shot: bittern still frozen, kayaks drifting past unaware
+
+SOURCE GROUNDING: American and least bitterns are real, secretive marsh/wetland species documented in Louisiana, known for a reed-mimicking freeze posture (bill pointed skyward, body swaying with the wind). Confirmed completely unused across all 252 prior pieces by this pass's dedup verification.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Schwartz (a pattern interrupt: told the bird is right there, guest can't find it, that gap is the entire hook) with Sugarman's slow reveal. Mentor pass flagged an original line, "just to sell it," as too knowingly cute for a real survival behavior, verging on the bird performing for an audience it can't see, and rewrote it to "matching them exactly," which keeps the payoff without undercutting the fact. Then /copywriting-2.0 (3-test filter): confirmed the rest holds. The line to keep is the sway detail, "It'll even sway when the wind moves the reeds, matching them exactly," the most specific, hardest-to-fake claim in the piece.
+DEVICES CHECK: First bittern piece in the series. Distinct from the series' retired gator/turtle/stick misidentification-game device, this isn't a guessing game, it's a single-species camouflage fact told straight, matching the format of the owl, kite, and ibis spotlights already in the series.
+
+PRODUCTION FLAG: American and least bitterns are real, if secretive, Louisiana wetland/marsh species; confirm actual sighting frequency along NPB's specific route with ops before treating this as a routine sighting. No guide or guest identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Schwartz + Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

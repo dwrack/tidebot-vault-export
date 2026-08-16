@@ -1,0 +1,29 @@
+PIECE 11 — Did-you-know / wildlife spotlight — "The One That Swims Like It's Not Trying"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural (free tier)   Music: playful, quick, a little wistful on the closer (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Something surfaces, dives, and disappears again before anyone can get a phone up.   [wide shot: ripple on the water's surface, brief glimpse of a sleek shape]
+ 3.5s  River otter. They can hold their breath for up to eight minutes and swim like it costs them nothing.   [close-up: otter's head breaking the surface, brief, alert]
+ 7.5s  They're not out here working. They're out here playing, sliding down the same muddy bank over and over for no reason but fun.   [medium shot: guide pointing at a slick mud slide on the bank]
+12.5s  Most guests get maybe four seconds of an actual sighting. That's the whole show, and it's enough.   [close-up: otter diving again, gone]
+15.5s  Blink at the wrong moment and that's the whole tour, gone.   [closing wide shot: still water where the otter was, kayaks continuing on, everyone watching]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third, "RIVER OTTER," fades in at 3.5s and clears by 7.0s.
+
+SHOT LIST:
+- Wide shot: ripple on the water's surface, brief glimpse of a sleek shape (opener)
+- Close-up: otter's head breaking the surface, brief, alert
+- Medium shot: guide pointing at a slick mud slide on the bank
+- Close-up: otter diving again, gone
+- Closing wide shot: still water where the otter was, kayaks continuing on, everyone watching
+
+SOURCE GROUNDING: River otters are a real, if elusive, resident species of Louisiana bayous and swamps. Confirmed completely unused across all 252 prior pieces by this pass's dedup verification, first mammal spotlight beyond nutria in the series.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (a curiosity object that's gone before you can process it) with a Bencivenga proof beat on the breath-hold number. Then /copywriting-2.0 (3-test filter): caught a numeric inconsistency in the original draft closer, which said "five seconds" after the piece had already established "four seconds" two lines earlier, an internal contradiction that would read as sloppy. Cut it and rewrote to "Blink at the wrong moment and that's the whole tour, gone," which avoids the mismatch and lands harder as a closer.
+DEVICES CHECK: First river otter piece in the series, confirmed distinct from all 17+ previously covered species. A playful, positive-framing spotlight, distinct in tone from the myth-busting and did-you-know pieces around it.
+
+PRODUCTION FLAG: Confirm actual sighting frequency of river otters on NPB's specific route with ops before treating this as a routine or guaranteed sighting; the piece is written so its premise (a brief, few-second glimpse) still holds even on a rare-sighting basis. No guide identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 73, 2026-08-15. VO lines routed through /copy-mentors (Sugarman + Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).
