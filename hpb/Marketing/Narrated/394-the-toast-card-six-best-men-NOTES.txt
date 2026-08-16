@@ -1,0 +1,19 @@
+PIECE 394 — Toasts, a physical relic passed man to man — The Groomsman / "The Toast Card That's Been Passed to Six Different Best Men"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: warm, dry acoustic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  There's an index card that's been used for six different best man toasts on this boat.       [Groomsman VO chill dry, wide, worn index card being pulled from a jacket pocket]
+ 3.6s  Each best man crosses out a line, adds his own, hands it to whoever's next.                    [insert, groomsman crossing out a line with a pen, adding a new one]
+ 7.2s  Half the card's illegible now. Doesn't matter. Everybody just wings the illegible part.         [insert, groomsman squinting at the card, group laughing]
+10.8s  Six best men. One card. Never once been rewritten from scratch.                                  [closing line, wide, golden hour, groomsman raising the card, group raising cups]
+
+On-screen text: Hook = "SIX BEST MEN. ONE INDEX CARD." / Body = "half the card's illegible now. everybody just wings it." / CTA: none
+
+Shot list:
+- [INSERT] Worn index card pulled from a jacket pocket
+- [INSERT] Groomsman crossing out a line, adding one
+- [B-ROLL] Group raising cups, golden hour
+
+Note: Cans only, no glass, consistent with the series' no-glass rule. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

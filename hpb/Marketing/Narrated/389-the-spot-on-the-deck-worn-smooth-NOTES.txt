@@ -1,0 +1,19 @@
+PIECE 389 — Captain lines, a physical mark on the boat inherited across captains — The Captain / "The Spot on the Deck Every Captain Has Worn Smooth"
+Voice: The Captain (EL-Eric.mp3)   Music: dry, understated bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  There's one spot on this deck that's worn smoother than the rest of the wood.               [Captain VO dry, wide, close on a specific worn patch of deck near the helm]
+ 3.6s  Every captain who's ever run this boat has stood in the exact same spot.                     [insert, captain's boots planted on the worn patch]
+ 7.0s  Nobody measured it out. It just wore in, one captain at a time.                               [insert, captain glancing down at his own feet, dry half-smile]
+10.6s  Newest captain on this lake is standing in a spot older than he is.                            [closing line, wide, golden hour, boat cruising smooth, captain steady at the wheel]
+
+On-screen text: Hook = "ONE SPOT ON THIS DECK IS WORN SMOOTHER THAN THE REST" / Body = "every captain's stood in the exact same spot." / CTA: none
+
+Shot list:
+- [INSERT] Close on worn deck patch near the helm
+- [INSERT] Captain's boots planted on the worn spot
+- [B-ROLL] Boat cruising smooth, captain steady at the wheel, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

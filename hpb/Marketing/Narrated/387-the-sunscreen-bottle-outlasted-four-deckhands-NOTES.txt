@@ -1,0 +1,19 @@
+PIECE 387 — Deck-hand slang, a physical object handed down between crew members over seasons — The Sunscreen Friend / "The Sunscreen Bottle Has Outlasted Four Deckhands"
+Voice: The Sunscreen Friend (voice-en-US-BrianNeural.mp3, free tier — not EL-Brian)   Music: warm, playful acoustic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a sunscreen bottle that's been on this boat longer than half the current crew.      [Sunscreen Friend VO earnest, wide, half-empty sunscreen bottle sitting in a cupholder near the cooler]
+ 3.6s  Four deckhands have come and gone since somebody first left it behind. Nobody's claimed it. Nobody's tossed it. [insert, current deckhand grabbing it, tossing it to a sunburnt guest]
+ 7.2s  It's just... always there. Somebody always needs it by hour two.                             [insert, guest applying it, relieved]
+10.8s  Whoever the fifth deckhand is, they're inheriting a bottle older than their job.              [closing line, wide, golden hour, bottle back in its spot, guest laughing]
+
+On-screen text: Hook = "THIS SUNSCREEN BOTTLE HAS OUTLASTED FOUR DECKHANDS" / Body = "somebody always needs it by hour two." / CTA: none
+
+Shot list:
+- [INSERT] Sunscreen bottle sitting in cupholder near the cooler
+- [INSERT] Deckhand tossing it to a sunburnt guest
+- [B-ROLL] Bottle back in its spot, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

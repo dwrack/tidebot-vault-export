@@ -1,0 +1,19 @@
+PIECE 397 — Running jokes, an heirloom prop passed trip to trip within one recurring group — Roger / "The Plastic Crown Has Been Regifted at Every Trip This Group's Taken"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: playful, mock-ceremonial comedic bed with a brass stab   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  This group's had the same plastic crown on every single trip they've booked.                 [Roger VO mock-official, wide, dollar-store plastic crown sitting on a cooler]
+ 3.6s  Whoever embarrasses themselves worst gets crowned before we dock. Roger enforces it personally. [insert, Roger placing the crown on someone's head, mock-ceremonial]
+ 7.2s  Loser keeps it till the group's next trip. Then it gets regifted, no ceremony.                  [insert, crown being handed off in a parking lot, someone laughing, embarrassed]
+10.8s  It's been through this group's hands more times than any of them can count.                      [closing line, wide, golden hour, whole group posing, crown on the latest "winner"]
+
+On-screen text: Hook = "THIS GROUP'S HAD THE SAME PLASTIC CROWN EVERY TRIP" / Body = "loser keeps it till the next trip. no ceremony." / CTA: none
+
+Shot list:
+- [INSERT] Plastic crown sitting on the cooler
+- [INSERT] Roger crowning someone, mock-ceremonial
+- [B-ROLL] Whole group posing with the latest "winner," golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,19 @@
+PIECE 395 — Toasts, a rotating responsibility handed year to year within one recurring friend group — The Announcer / "The Toast Duty Gets Passed to a New Friend Every Year"
+Voice: The Announcer (EL-Daniel.mp3)   Music: formal-but-warm bed, mock-ceremonial   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  This friend group has a rule. Toast duty rotates, one new person a year.                     [Announcer VO formal, wide, group gathered, one person stepping forward with a drink]
+ 3.6s  Whoever gave the worst toast last year doesn't get a redo. The honor moves on regardless.      [insert, group laughing, gesturing at last year's toast-giver]
+ 7.2s  This year's pick didn't volunteer. Got nominated by group vote, dockside, ten minutes ago.      [insert, new toast-giver looking mildly panicked, group cheering him on]
+11.0s  Tradition doesn't care if you're ready. Your turn is your turn.                                  [closing line, wide, golden hour, new toast-giver raising his cup, committing to it]
+
+On-screen text: Hook = "TOAST DUTY ROTATES. ONE NEW PERSON A YEAR." / Body = "tradition doesn't care if you're ready. your turn is your turn." / CTA: none
+
+Shot list:
+- [INSERT] Group gesturing at last year's toast-giver, laughing
+- [INSERT] New toast-giver looking mildly panicked, group cheering him on
+- [B-ROLL] New toast-giver raising his cup, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

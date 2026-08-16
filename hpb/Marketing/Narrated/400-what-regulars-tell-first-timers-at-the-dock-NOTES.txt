@@ -1,0 +1,19 @@
+PIECE 400 — Closer, sincere, a real unscripted moment passed regular to first-timer at the dock — Sarah / "What the Regulars Tell the First-Timers on the Way Off the Boat"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, understated closing bed, minimal strings   Length: 15.8s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a specific moment, always right at the dock, right before everybody splits up.       [Sarah VO warm soft, wide, boat docking, group gathering their things, sun low]
+ 4.0s  A regular finds whoever's never done this before and says something quiet, just to them.       [insert, close on a brief, quiet exchange between two guests, unposed]
+ 8.0s  Not advice, really. Just something true they wish somebody had told them their first time.       [insert, first-timer nodding slowly, taking it in]
+11.8s  Nobody films it. Nobody's supposed to. This is the one time we did.                               [closing line, wide, golden hour, both guests smiling, walking off together]
+
+On-screen text: Hook = "THERE'S A MOMENT AT THE DOCK NOBODY FILMS" / Body = "something true, passed to whoever's never done this before." / CTA: none
+
+Shot list:
+- [B-ROLL] Boat docking, group gathering their things, sun low
+- [INSERT] Close, quiet unposed exchange between two guests
+- [B-ROLL] Both walking off together, golden hour
+
+Note: No pedaling reference. No vessel name used.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

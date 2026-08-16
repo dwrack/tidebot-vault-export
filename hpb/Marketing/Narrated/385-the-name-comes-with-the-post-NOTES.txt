@@ -1,0 +1,19 @@
+PIECE 385 — Deck-hand slang, a nickname tied to a boat position, not a person — The Deckhand / "The Name Comes With the Post"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: fast, upbeat comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every boat's got a seat that comes with a name attached.                                  [Deckhand VO fast, wide, deckhand pointing to the front-row seat]
+ 3.4s  Whoever's sitting up front today, we call him Bow. Doesn't matter who he actually is.      [insert, guest settling into the front seat, deckhand calling out "Bow!"]
+ 7.0s  Next trip somebody else takes that seat. Same name, brand new guy.                         [insert, a different guest in the same seat, same nickname called out]
+10.6s  The name's not his. It's the seat's. He's just borrowing it today.                          [closing line, wide, golden hour, guest laughing at being called Bow, deckhand grinning]
+
+On-screen text: Hook = "EVERY BOAT'S GOT A SEAT WITH A NAME ATTACHED" / Body = "the name's not his. it's the seat's." / CTA: none
+
+Shot list:
+- [INSERT] Guest settling into the front seat, deckhand pointing
+- [INSERT] Deckhand calling out "Bow!", grinning
+- [B-ROLL] Different guest, different trip, same seat, same nickname
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

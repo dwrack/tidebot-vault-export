@@ -1,0 +1,19 @@
+PIECE 398 — Running jokes, an object rotated hand to hand within one single trip — The Groomsman / "The Phone's Been in Six Different Hands, Nobody Remembers Whose Trip It Is"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: light, playful comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody's phone has been passed to six different people in the last ten minutes.            [Groomsman VO chill dry, wide, phone being handed from person to person for photos]
+ 3.6s  Everybody's taking the same photo. Nobody's checked whose phone it actually is.                [insert, phone changing hands again, guest snapping a photo]
+ 7.0s  Whoever ends up holding it when we dock has to find the owner.                                  [insert, guest looking at the phone, shrugging, scanning the group]
+10.6s  Last time this happened, it took four minutes to reunite a phone with its person.                [closing line, wide, golden hour, phone finally handed back, relieved laugh]
+
+On-screen text: Hook = "THE PHONE'S BEEN IN SIX HANDS, TEN MINUTES" / Body = "somebody's gotta find the owner before we dock." / CTA: tag the friend who always ends up holding the phone
+
+Shot list:
+- [INSERT] Phone handed person to person for photos
+- [INSERT] Guest scanning the group, phone in hand
+- [B-ROLL] Phone finally reunited with owner, relieved laugh, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

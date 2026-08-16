@@ -1,0 +1,19 @@
+PIECE 390 — Captain lines, watching the inheritance happen in real time, crew-to-crew training — The Old Salt / "He's Teaching the New Guy the Same Line His Old Captain Taught Him"
+Voice: The Old Salt (EL-George.mp3)   Music: warm, low-key acoustic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  New captain-in-training rode along today. Old Salt noticed something.                       [Old Salt VO wry warm, wide, veteran captain gesturing out at the water to a trainee captain]
+ 3.6s  He's pointing out the same landmark his own captain once pointed out to him.                  [insert, veteran gesturing toward a specific point on the shoreline, trainee captain nodding]
+ 7.2s  Same hand motion. Same pause before he says it.                                                [insert, close on the gesture, trainee mimicking it slightly]
+11.0s  Nobody taught him to do it that way on purpose. It just comes out that way now.                 [closing line, wide, golden hour, trainee captain and veteran both looking out at the water]
+
+On-screen text: Hook = "THE NEW CAPTAIN'S PICKING UP HIS OLD CAPTAIN'S HABITS" / Body = "nobody taught him to do it on purpose. it just comes out that way." / CTA: none
+
+Shot list:
+- [INSERT] Veteran gesturing at a landmark, trainee captain nodding
+- [INSERT] Close on the hand motion and the pause before he speaks
+- [B-ROLL] Both looking out at the water, golden hour
+
+Note: Trainee is crew being trained by a licensed captain, not a guest — no guest ever operates the vessel. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

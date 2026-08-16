@@ -1,0 +1,19 @@
+PIECE 388 — Captain lines, a specific line inherited captain-to-captain — The Old Salt / "The Line Every Captain on This Lake Learns From the One Before"
+Voice: The Old Salt (EL-George.mp3)   Music: warm, reflective acoustic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every captain out here learned one line from the captain before him.                       [Old Salt VO wry warm, wide, older captain at the wheel, younger guest-facing captain nearby]
+ 3.6s  Something he says right as the boat clears the no-wake zone, every single trip.              [insert, captain glancing back at the group, saying something short]
+ 7.2s  I asked him once where he got it. He said the guy before him said it first.                  [insert, Old Salt nodding, amused]
+11.0s  Don't know who said it first. Every captain since has said it exactly the same.               [closing line, wide, golden hour, boat opening up, group perking up]
+
+On-screen text: Hook = "EVERY CAPTAIN LEARNED ONE LINE FROM THE CAPTAIN BEFORE HIM" / Body = "nobody knows who said it first. everybody's still saying it." / CTA: none
+
+Shot list:
+- [INSERT] Captain saying something short as they clear the no-wake zone
+- [INSERT] Old Salt nodding, amused
+- [B-ROLL] Boat opening up, group perking up, golden hour
+
+Note: No guest ever at the helm — captain fully at the wheel throughout. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

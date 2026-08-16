@@ -1,0 +1,19 @@
+PIECE 399 — Running jokes, an inside joke passed to newcomers, deliberately mis-explained each time — The Regular / "New Guy Gets the Inside Joke Explained Wrong on Purpose"
+Voice: The Regular (EL-Brian.mp3, premium)   Music: dry comedic bed, playful   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody new joins this friend group's boat trip every year or two. Same thing happens.       [Regular VO flat deadpan, wide, new guest looking confused, group snickering]
+ 3.6s  Somebody asks why they keep yelling a made-up word every time the boat turns.                   [insert, group yelling the word together, new guest baffled]
+ 7.0s  Whoever explains it to him tells it completely wrong on purpose. Different wrong story every year. [insert, one friend leaning in, telling an exaggerated fake explanation, straight-faced]
+10.8s  Real story's boring. Nobody's told the new guy the real one yet.                                  [closing line, wide, golden hour, new guest nodding, fully convinced of the fake story, group cracking up behind him]
+
+On-screen text: Hook = "THEY TELL THE NEW GUY THE INSIDE JOKE WRONG. ON PURPOSE." / Body = "real story's boring. nobody's told him the real one yet." / CTA: none
+
+Shot list:
+- [INSERT] Group yelling the made-up word together, new guest baffled
+- [INSERT] Friend telling an exaggerated fake explanation, straight-faced
+- [B-ROLL] New guest fully convinced, group cracking up behind him, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

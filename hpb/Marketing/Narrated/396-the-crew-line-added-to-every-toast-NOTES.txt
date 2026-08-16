@@ -1,0 +1,19 @@
+PIECE 396 — Toasts, a crew catchphrase taught hire to hire — The Deckhand / "The One Line the Crew Adds to Every Toast, Taught to Every New Hire"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: upbeat, warm comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every new hire on this crew learns one line before their first toast.                        [Deckhand VO fast hype, wide, deckhand leaning in near a guest mid-toast]
+ 3.6s  Whoever's toasting, we wait for the pause, then all say it together.                           [insert, guest mid-toast, crew exchanging a look, waiting]
+ 7.2s  "And the boat agrees." That's it. Every toast, every trip.                                       [insert, whole crew saying the line together, guests turning, surprised, delighted]
+10.8s  New hire's first week, he already knew the line before he knew our names.                        [closing line, wide, golden hour, crew and guests laughing together, cups raised]
+
+On-screen text: Hook = "THE CREW HAS ONE LINE FOR EVERY TOAST" / Body = "\"and the boat agrees.\" every toast, every trip." / CTA: none
+
+Shot list:
+- [INSERT] Crew exchanging a look, waiting for the pause
+- [INSERT] Crew saying the line together, guests delighted
+- [B-ROLL] Crew and guests laughing, cups raised, golden hour
+
+Note: No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
