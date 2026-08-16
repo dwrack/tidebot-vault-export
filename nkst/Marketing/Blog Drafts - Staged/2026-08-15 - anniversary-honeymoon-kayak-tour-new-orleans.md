@@ -48,7 +48,7 @@ _Character count: 53/60_
 ```
 Anniversary, honeymoon, or proposal in New Orleans? Here's how a swamp kayak tour actually works for two: pricing, timing, and real logistics.
 ```
-_Character count: 145/160_
+_Character count: 142/160_
 
 ### FOCUS KEYWORDS
 ```
