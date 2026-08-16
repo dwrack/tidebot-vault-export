@@ -1,0 +1,13 @@
+PIECE 499 — Deck-hand slang — "Over, Under, and Pull."
+Voice: Roger — voice-en-US-RogerNeural.mp3 (free tier)   Music: rhythmic clap-percussion comedic bed   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  "Over, under, and pull." Deckhand ties the line off, talking through it.    [wide, deckhand looping the dock line, guest watching closely]
+ 4.0s  Guest starts clapping the rhythm of the knot like it's a beat.              [insert, guest clapping "over-under-pull" in time with the tying]
+ 7.8s  Two more guests clap in. Now it's a chant for tying a knot.                 [insert, small group clapping the same rhythm, deckhand grinning without looking up]
+11.6s  Knot's done in four seconds. The chant runs another twenty.                 [closing shot, knot finished, guests still clapping the beat, deckhand shaking his head]
+
+On-screen text: Hook = "'OVER, UNDER, AND PULL.'" Body = "THE KNOT TOOK 4 SECONDS. THE CHANT RAN 20." CTA: none.
+No pedaling reference. Dock-line footage should show a real, correctly tied knot.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

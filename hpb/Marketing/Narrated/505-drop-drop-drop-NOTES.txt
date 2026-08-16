@@ -1,0 +1,13 @@
+PIECE 505 — Bachelorette-party lines — "Drop. Drop. Drop."
+Voice: The Sunscreen Friend — voice-en-US-BrianNeural.mp3 (free tier)   Music: light, giggly comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Shoe game in five, everybody grab a shoe!" Bridesmaid calls it out.        [wide, bridesmaid holding up a shoe, waving the group over]
+ 3.6s  Somebody starts chanting "DROP! DROP! DROP!" before the rules even land.    [insert, guest starting the chant, a few others joining without knowing why]
+ 7.4s  Half the boat thinks it's a countdown for something else entirely.          [insert, confused guests looking around, one asking "drop what?"]
+11.2s  Turns out it's just the shoe game. Nothing dropped. Everybody sits down.    [closing shot, actual shoe game starting, group laughing at their own false alarm]
+
+On-screen text: Hook = "'SHOE GAME IN FIVE!'" Body = "HALF THE BOAT THOUGHT SOMETHING WAS ABOUT TO DROP." CTA: none.
+No pedaling reference. Shoe-game content stays to reactions only, no specific questions scripted on camera.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

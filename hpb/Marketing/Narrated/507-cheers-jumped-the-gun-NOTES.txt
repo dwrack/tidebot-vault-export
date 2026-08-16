@@ -1,0 +1,13 @@
+PIECE 507 — Toasts — "Cheers Jumped the Gun"
+Voice: Roger — voice-en-US-RogerNeural.mp3 (free tier)   Music: bright comedic bed with an early cymbal hit   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  "To eight years of friendship, and—" Groomsman's mid-sentence, glass up.    [wide, guest speaking, glass raised, group listening]
+ 3.8s  Somebody hears "friendship" and jumps straight to "CHEERS! CHEERS!"         [insert, guest starting the chant early, glass already tipping toward the middle]
+ 7.6s  Three more join before the actual sentence ever finishes.                  [insert, small group chanting and clinking glasses, speaker still holding his unfinished sentence]
+11.4s  Nobody ever hears the rest of that toast. Everybody still drank to it.      [closing shot, glasses clinking, speaker laughing, shrugging, taking the win anyway]
+
+On-screen text: Hook = "'TO EIGHT YEARS OF FRIENDSHIP, AND—'" Body = "NOBODY EVER HEARD THE REST OF THAT SENTENCE." CTA: none.
+No pedaling reference. "Eight years of friendship" is an illustrative placeholder, swap for the real relationship if filmed with consent.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

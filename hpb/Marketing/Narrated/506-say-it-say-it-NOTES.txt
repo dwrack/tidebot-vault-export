@@ -1,0 +1,13 @@
+PIECE 506 — Toasts — "Say It. Say It."
+Voice: The Groomsman — voice-en-GB-RyanNeural.mp3 (free tier)   Music: warm, tension-then-relief comedic bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Best man raises his glass, opens his mouth, and just... blanks.            [wide, best man standing, glass raised, going quiet]
+ 3.8s  Silence for a second. Then someone starts "SAY IT! SAY IT!"                [insert, guest starting the chant, a few more joining, clapping]
+ 7.6s  Whole boat's chanting a guy out of forgetting his own toast.               [insert, full group chanting, best man laughing, shaking his head]
+11.6s  He skips the whole speech and just yells "CHEERS." Chant did its job.       [closing shot, glasses raised, group cheering, best man visibly relieved]
+
+On-screen text: Hook = "BEST MAN RAISES HIS GLASS. THEN BLANKS." Body = "THE BOAT CHANTED HIM THROUGH IT." CTA: none.
+No pedaling reference. Keep the "blank" beat affectionate, not embarrassing — the crowd is helping, not mocking.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

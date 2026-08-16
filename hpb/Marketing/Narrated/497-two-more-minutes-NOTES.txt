@@ -1,0 +1,13 @@
+PIECE 497 — Deck-hand slang — "Two! More! Minutes!"
+Voice: The Deckhand — voice-en-US-GuyNeural.mp3 (free tier)   Music: fast, clap-driven comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Two minutes, then the cooler swap." Deckhand says it once, straight.       [wide, deckhand holding up two fingers by the cooler]
+ 3.6s  One guy starts clapping it out: "TWO! MORE! MIN-UTES!"                      [insert, guest clapping a rhythm, a few heads turning toward him]
+ 7.2s  Six people are chanting a boat announcement like it's a walkout song.       [insert, group clapping and chanting together, big grins]
+11.0s  Two minutes pass. Cooler swaps. Chant just stops. Nobody restarts it.       [closing shot, deckhand swapping the cooler, chant fading, guests back to talking]
+
+On-screen text: Hook = "TWO MINUTES TILL THE COOLER SWAP." Body = "SIX PEOPLE CHANTED IT LIKE A WALKOUT SONG." CTA: none.
+No pedaling reference. Cooler-swap detail matches HPB's actual BYOB policy — don't invent a menu item.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,13 @@
+PIECE 509 — Running jokes — "Whose Boat Is Louder"
+Voice: The Deckhand — voice-en-US-GuyNeural.mp3 (free tier)   Music: energetic call-and-response comedic bed   Length: 15.2s
+
+SCRIPT (timed to narration):
+ 0.0s  Two boats pass close enough to talk. One guy yells "WHOSE BOAT IS LOUDER?"  [wide, two boats passing on the water, guest yelling across]
+ 3.8s  His whole boat answers back before the other boat can even respond.        [insert, first boat chanting and cheering as one unit]
+ 7.6s  Second boat takes it as a challenge, starts chanting right back.           [insert, second boat's guests chanting back, both boats grinning]
+11.6s  Neither boat wins. Both captains just keep driving. Everybody's still smiling. [closing shot, both boats separating on the water, guests waving, still chanting faintly]
+
+On-screen text: Hook = "'WHOSE BOAT IS LOUDER?'" Body = "BOTH BOATS ANSWERED BEFORE EITHER COULD LOSE." CTA: none.
+No pedaling reference. REQUIRES a second HPB trip genuinely on the water at the same time — flagged for scheduling; otherwise stage with two fleet boats on a slow afternoon.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

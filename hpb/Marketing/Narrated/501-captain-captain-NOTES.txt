@@ -1,0 +1,13 @@
+PIECE 501 — Captain lines — "Captain. Captain."
+Voice: The Announcer — EL-Daniel.mp3   Music: building sports-chant comedic bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  "We're tied up. Storm's still ten minutes out." Captain, over the mic, once. [wide, captain securing the boat, dark clouds building behind him]
+ 4.0s  Somebody starts a slow clap. Then it's "CAP-TAIN. CAP-TAIN."                [insert, guest starting a slow clap, a few more joining the two-syllable chant]
+ 8.0s  Whole dock's chanting his name like he just landed a plane on a river.       [insert, full group chanting and clapping, captain visibly unbothered]
+12.0s  Captain just nods once, keeps coiling rope. He docks boats for a living.    [closing shot, captain calmly coiling rope, chant still going, storm clouds rolling in]
+
+On-screen text: Hook = "'WE'RE TIED UP. STORM'S TEN MINUTES OUT.'" Body = "THE DOCK STARTED CHANTING HIS NAME." CTA: none.
+No pedaling reference. Storm footage should read as routine, well-managed caution with real margin.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

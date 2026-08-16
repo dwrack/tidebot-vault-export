@@ -1,0 +1,13 @@
+PIECE 508 — Toasts — "Bow vs. Stern"
+Voice: The Captain — EL-Eric.mp3   Music: playful competitive comedic bed, call-and-response percussion   Length: 15.8s
+
+SCRIPT (timed to narration):
+ 0.0s  "On three, everybody say their names together." Toastmaster counts it down. [wide, guest holding up three fingers, counting down for the boat]
+ 4.0s  Bow says the names normal. Stern decides this is a contest now.             [insert, front half of the boat saying it plainly, back half visibly ramping up]
+ 8.0s  By round three, it's a full chant-off, bow versus stern, nobody backing down. [insert, both halves of the boat chanting louder each round, competitive grins]
+12.0s  Captain calls it a tie over the mic just to make it stop. Nobody's mad.      [closing shot, captain speaking flatly into the mic, both sides cheering like they won]
+
+On-screen text: Hook = "'ON THREE, EVERYBODY SAY THEIR NAMES.'" Body = "BY ROUND THREE IT WAS BOW VS. STERN." CTA: none.
+No pedaling reference. Couple's names should be a placeholder pair unless filmed with real, consenting guests.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

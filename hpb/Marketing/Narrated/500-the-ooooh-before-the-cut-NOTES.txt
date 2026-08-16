@@ -1,0 +1,13 @@
+PIECE 500 — Captain lines — "The 'Ooooh' Before the Cut"
+Voice: The Captain — EL-Eric.mp3   Music: rising tension building into a cheer swell   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Cutting the engine, swim stop in three." Captain, flat, over the mic.      [wide, captain's hand on the key, glancing back at the deck]
+ 3.6s  Somebody starts a low "OOOOOH," building like a crowd before a dunk tank.   [insert, guest starting a rising "ooooh," others turning to watch]
+ 7.4s  Whole back half of the boat is in on it before the engine even cuts.        [insert, group all doing the rising "ooooh" together, leaning in]
+11.4s  Engine cuts. "Ooooh" turns into applause. Captain doesn't turn around once.  [closing shot, engine cutting, guests clapping and cheering, captain still facing forward]
+
+On-screen text: Hook = "'CUTTING THE ENGINE. SWIM STOP IN THREE.'" Body = "THE 'OOOOH' STARTED BEFORE THE ENGINE EVEN SLOWED." CTA: none.
+No pedaling reference. Swim-stop footage should show the engine actually cutting, keep the safety sequence real.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

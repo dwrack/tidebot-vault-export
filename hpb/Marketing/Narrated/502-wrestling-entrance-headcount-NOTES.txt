@@ -1,0 +1,13 @@
+PIECE 502 — Captain lines — "Wrestling Entrance Headcount"
+Voice: The Regular — EL-Brian.mp3 (premium)   Music: mock-dramatic entrance stings, comedic   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "Count off so I know everybody's aboard." Captain, over the mic.            [wide, captain doing a headcount gesture toward the group]
+ 3.8s  First few numbers go normal. Then somebody yells theirs like an entrance.    [insert, first three guests calling numbers plainly, fourth guest yelling "FOUR!" dramatically]
+ 7.6s  By ten, everyone's shouting their number like an entrance intro.            [insert, guests yelling numbers with dramatic pauses and poses]
+11.8s  Captain just needed a headcount. He got a whole pay-per-view card instead.   [closing shot, captain checking a clipboard, unbothered, guests still posing after their numbers]
+
+On-screen text: Hook = "'COUNT OFF SO I KNOW EVERYBODY'S ABOARD.'" Body = "BY TEN, IT WAS A WHOLE PAY-PER-VIEW CARD." CTA: none.
+No pedaling reference. Headcount needs to read as a genuine safety step completed correctly.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

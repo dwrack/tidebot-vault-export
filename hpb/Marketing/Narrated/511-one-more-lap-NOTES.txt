@@ -1,0 +1,13 @@
+PIECE 511 — Running jokes — "One More Lap"
+Voice: The Announcer — EL-Daniel.mp3   Music: upbeat, good-natured comedic bed   Length: 15.4s
+
+SCRIPT (timed to narration):
+ 0.0s  Deckhand mentions they're heading back in twenty minutes. Just a heads-up.  [wide, deckhand giving the casual heads-up, group still relaxed]
+ 3.8s  One guy stands up like it's a filibuster: "ONE! MORE! LAP!"                 [insert, guest standing, starting the chant, arms raised]
+ 7.6s  Whole boat picks it up. Not a single person actually expects a second lap.  [insert, full group chanting "one more lap," clearly just enjoying the bit]
+11.6s  Boat still heads in on schedule. The chant was never actually a request.    [closing shot, boat heading toward the dock, chant fading into laughter, nobody upset]
+
+On-screen text: Hook = "'HEADING BACK IN TWENTY.'" Body = "NOBODY ACTUALLY WANTED A SECOND LAP. THEY JUST WANTED TO CHANT." CTA: none.
+No pedaling reference. Trip should end on the real, scheduled time — nobody's actually upset.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

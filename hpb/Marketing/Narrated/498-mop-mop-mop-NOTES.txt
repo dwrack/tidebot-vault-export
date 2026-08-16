@@ -1,0 +1,13 @@
+PIECE 498 — Deck-hand slang — "Mop. Mop. Mop."
+Voice: The Old Salt — EL-George.mp3   Music: playful bounce comedic bed   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Drink goes over. Deckhand doesn't flinch, just calls out "MOP!"             [wide, drink tipping, deckhand already turning for the mop]
+ 3.8s  Somebody near the spill hears it and yells it right back.                  [insert, guest yelling "MOP!" grinning, pointing at the puddle]
+ 7.6s  Four more join in. It's a full "MOP! MOP! MOP!" chant now.                 [insert, group chanting and clapping, deckhand walking over with the mop]
+11.6s  Deckhand mops it up mid-chant, doesn't even look up. Chant just dies out.   [closing shot, deckhand mopping, chant fading, guest laughing, wiping his own shoe]
+
+On-screen text: Hook = "DRINK GOES OVER. DECKHAND: 'MOP!'" Body = "FOUR PEOPLE TURNED IT INTO A CHANT." CTA: none.
+No pedaling reference. Spill should read as a normal, minor mishap, not staged as a real accident.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
