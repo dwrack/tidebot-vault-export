@@ -1,0 +1,19 @@
+PIECE 404 — Captain lines, a stock unfalsifiable non-answer to sighting claims — The Captain / "Whatever You Just Saw in the Water"
+Voice: The Captain (EL-Eric.mp3)   Music: dry, understated bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Every trip, somebody points at the water and asks what that was.                                [Captain VO dry, wide, guest pointing excitedly at a ripple, others leaning to look]
+ 3.6s  Captain's got one answer. Doesn't matter what they saw.                                          [insert, captain glancing over without slowing down]
+ 7.2s  "Could've been anything out here." Never confirms. Never denies.                                 [insert, captain delivering it flat, guests debating amongst themselves]
+11.0s  That answer hasn't changed on a single trip anyone remembers.                                     [closing line, wide, golden hour, guests still arguing, captain unbothered at the wheel]
+
+On-screen text: Hook = "SOMEBODY ALWAYS ASKS WHAT THAT WAS IN THE WATER" / Body = "\"could've been anything out here.\" never confirms, never denies." / CTA: none
+
+Shot list:
+- [INSERT] Guest pointing at a ripple, others leaning to look
+- [INSERT] Captain delivering the line flat, not slowing down
+- [B-ROLL] Guests still debating, captain unbothered at the wheel, golden hour
+
+Note: No guest ever at the helm. No wildlife named or claimed. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

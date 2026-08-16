@@ -1,0 +1,19 @@
+PIECE 401 — Deck-hand slang, an instant ruling for anything lost overboard — The Deckhand / "Donated to the Lake"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3)   Music: fast, upbeat comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Sunglasses go in. Hat goes in. Nobody's diving after either one.                              [Deckhand VO fast hype, wide, sunglasses sliding off a guest's head into the water]
+ 3.4s  There's one ruling for anything that hits the water on this boat.                              [insert, deckhand pointing, laughing, guest reaching instinctively then stopping]
+ 7.0s  "Donated to the lake." Case closed. No appeals.                                                 [insert, deckhand delivering the line straight-faced, group cracking up]
+10.6s  Guy lost a flip-flop in June. Lake's two-for-two this summer.                                   [closing line, wide, golden hour, group laughing, deckhand shrugging]
+
+On-screen text: Hook = "THERE'S ONE RULING FOR ANYTHING THAT HITS THE WATER" / Body = "\"donated to the lake.\" case closed. no appeals." / CTA: none
+
+Shot list:
+- [INSERT] Sunglasses sliding off into the water
+- [INSERT] Deckhand delivering the line straight-faced
+- [B-ROLL] Group laughing, deckhand shrugging, golden hour
+
+Note: No pedaling reference. Only low-stakes items (sunglasses, hat, flip-flop) — no phone, wallet, or keys, so nothing reads as a real loss.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

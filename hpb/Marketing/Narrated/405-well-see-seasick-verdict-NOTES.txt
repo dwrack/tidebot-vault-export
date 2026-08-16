@@ -1,0 +1,19 @@
+PIECE 405 — Captain lines, an instant deadpan retort to a seasickness boast — The Old Salt / "'We'll See.'"
+Voice: The Old Salt (EL-George.mp3)   Music: warm, dry comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody always says it before we've even left the dock. "I never get seasick."                  [Old Salt VO wry warm, wide, guest saying it confidently, chest out, dockside]
+ 3.6s  Captain's heard that line more times than he's heard his own name.                                [insert, captain glancing over, small smile]
+ 7.0s  "We'll see." Two words. Doesn't even break stride.                                                [insert, captain saying it and walking on, guest still confident]
+10.6s  Boat's flat calm today, so the guy never had to find out. Captain's still not wrong for saying it. [closing line, wide, golden hour, calm water, guest laughing at himself]
+
+On-screen text: Hook = "\"I NEVER GET SEASICK.\" CAPTAIN'S HEARD IT BEFORE." / Body = "\"we'll see.\" two words. never wrong for saying it." / CTA: none
+
+Shot list:
+- [INSERT] Guest confidently declaring it dockside, chest out
+- [INSERT] Captain's small smile, saying "we'll see," walking on
+- [B-ROLL] Calm water, guest laughing at himself, golden hour
+
+Note: Water kept calm throughout — no implication that conditions are ever rough. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

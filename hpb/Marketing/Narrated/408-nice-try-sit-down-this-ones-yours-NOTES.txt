@@ -1,0 +1,19 @@
+PIECE 408 — Bachelorette-party lines, an instant line pulling a deflecting bride back into her own toast — The Planner / "'Nice Try. Sit Down.'"
+Voice: The Planner (EL-Lily.mp3)   Music: bright, warm pop bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Bride tries to hand her own toast off to somebody else almost every time.                         [Planner VO bright, wide, bride gesturing to a friend, trying to pass off the moment]
+ 3.6s  Whole group's got one line ready the second she tries it.                                         [insert, group shaking heads, smiling, refusing to take the cup]
+ 7.0s  "Nice try. Sit down. This one's yours." Said with a smile, no exceptions.                          [insert, planner saying it, gently steering the bride back to center]
+10.8s  She always ends up giving the toast anyway. Every single time.                                    [closing line, wide, golden hour, bride laughing, finally raising her cup]
+
+On-screen text: Hook = "SHE TRIES TO PASS OFF HER OWN TOAST. NEVER WORKS." / Body = "\"nice try. sit down. this one's yours.\"" / CTA: none
+
+Shot list:
+- [INSERT] Bride gesturing to a friend, trying to deflect
+- [INSERT] Group refusing, smiling, shaking heads
+- [B-ROLL] Bride raising her cup, finally giving the toast, golden hour
+
+Note: Checked directly against piece 121 ("toast that never starts") — that piece is about a toast being perpetually delayed; this one is about a bride actively trying to redirect her own toast to someone else, a different mechanic. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

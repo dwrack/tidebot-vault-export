@@ -1,0 +1,20 @@
+PIECE 416 — Closer, sincere, a private crew-only exchange withheld from the viewer on purpose — Sarah / "What the Crew Says After the Last Guest Leaves"
+Voice: Sarah (EL-Sarah.mp3)   Music: soft, warm, understated closing bed, minimal strings   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  There's a moment every day that happens after every single guest has gone.                        [Sarah VO warm soft, wide, last guests walking up the dock, waving back, crew watching them go]
+ 4.0s  Boat's empty. Dock's quiet. It's just the crew for a minute.                                       [insert, crew coiling lines, wiping down the deck, unhurried]
+ 8.0s  Somebody always says the same two words before anybody heads home.                                 [insert, close, two crew members exchanging a brief, tired, genuine look]
+11.8s  We're not going to tell you what they are. Some things stay on the boat.                           [closing line, wide, golden hour fading to dusk, crew walking off together, lights of the dock behind them]
+
+On-screen text: Hook = "THERE'S A MOMENT THAT HAPPENS AFTER EVERY GUEST LEAVES" / Body = "some things stay on the boat." / CTA: none
+
+Shot list:
+- [B-ROLL] Last guests walking up the dock, waving back
+- [INSERT] Crew coiling lines, wiping down the deck, unhurried
+- [INSERT] Close, brief tired exchange between two crew members
+- [B-ROLL] Crew walking off together, dusk, dock lights behind them
+
+Note: Distinct from piece 400 (a regular passing something quiet to a first-timer) and all eleven prior closers — this closer turns on the crew's own private end-of-day exchange, withheld from the viewer on purpose, the first closer in the series to not resolve its own payoff on camera. No pedaling reference. No vessel name used.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

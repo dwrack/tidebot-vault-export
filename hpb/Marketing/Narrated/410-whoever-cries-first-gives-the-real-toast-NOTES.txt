@@ -1,0 +1,19 @@
+PIECE 410 — Toasts, an instant sorting ruling deciding who gives the real toast vs. the joke toast — The Announcer / "Whoever Cries First Gives the Real Toast"
+Voice: The Announcer (EL-Daniel.mp3)   Music: mock-formal, played-straight comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Some trips need two toasts. One real, one a joke. Somebody's got to sort that out.                [Announcer VO formal, wide, group discussing, two people pointed at]
+ 3.6s  This crew's got a rule. Whoever cries first at anything gives the real one.                       [insert, group laughing, pointing at the one known crier]
+ 7.2s  Everybody else fights for the joke slot. That one's the fun assignment.                           [insert, several people raising hands, competing for it]
+11.0s  Rule's held for three straight trips. Nobody's contested it once.                                 [closing line, wide, golden hour, the "crier" holding a cup, visibly emotional already]
+
+On-screen text: Hook = "TWO TOASTS. ONE REAL. ONE A JOKE. RULE DECIDES WHO." / Body = "whoever cries first at anything gives the real one." / CTA: none
+
+Shot list:
+- [INSERT] Group discussing, pointing at the designated crier
+- [INSERT] Several people competing for the joke-toast slot
+- [B-ROLL] The "crier" holding a cup, visibly emotional, golden hour
+
+Note: Checked directly against piece 105 ("toastmaster nobody elected") — that piece is about one informal toastmaster emerging; this is a standing rule splitting two toasts by a specific trigger, a different mechanic. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

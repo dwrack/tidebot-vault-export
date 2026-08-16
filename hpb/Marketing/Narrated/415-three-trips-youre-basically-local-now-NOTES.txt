@@ -1,0 +1,19 @@
+PIECE 415 — Running jokes, an instant welcoming ruling ending debate about tourist status — The Bestie / "Three Trips, You're Basically Local Now"
+Voice: The Bestie (EL-Jessica.mp3)   Music: warm, playful comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone's on their third trip this year, still calling herself a tourist.                         [Bestie VO loud, wide, guest laughing, gesturing at herself, "I'm just visiting"]
+ 3.6s  Regulars on board have got a ruling for exactly that situation.                                   [insert, a couple of regulars exchanging a look, already deciding]
+ 7.0s  "Three trips, you're basically local now." Ruling's final, no debate.                              [insert, bestie delivering it, guest protesting, laughing]
+10.8s  She tried to argue. Lost in about four seconds.                                                    [closing line, wide, golden hour, guest laughing, waving it off, accepting the title]
+
+On-screen text: Hook = "THREE TRIPS IN, STILL CALLING HERSELF A TOURIST." / Body = "\"three trips, you're basically local now.\" ruling's final." / CTA: tag whoever just crossed three trips
+
+Shot list:
+- [INSERT] Guest gesturing at herself, "I'm just visiting"
+- [INSERT] Regulars exchanging a look, delivering the ruling
+- [B-ROLL] Guest laughing, waving it off, accepting it, golden hour
+
+Note: "Three trips" kept as a specific, harmless count about a repeat guest, not a claim about the business itself. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

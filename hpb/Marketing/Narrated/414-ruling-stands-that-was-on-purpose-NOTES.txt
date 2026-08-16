@@ -1,0 +1,19 @@
+PIECE 414 — Running jokes, an instant ruling deployed whenever a fumble gets claimed as intentional — The Deckhand / "'Ruling Stands: That Was on Purpose'"
+Voice: The Deckhand (voice-en-US-GuyNeural.mp3, free tier)   Music: fast, playful comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Somebody trips, drops something, or messes up a dance move at least once a trip.                  [Deckhand VO fast hype, wide, guest stumbling slightly, catching themselves, laughing]
+ 3.6s  Every single time, they say the same thing. "That was on purpose."                                [insert, guest saying it, straight-faced, unconvincing]
+ 7.0s  Group's got a standing ruling on that claim. Same verdict, every time.                             [insert, group exchanging a look, already unimpressed]
+10.6s  "Ruling stands: that was on purpose." Nobody believes it. Everybody says it anyway.                [closing line, wide, golden hour, group laughing, guest taking a bow anyway]
+
+On-screen text: Hook = "\"THAT WAS ON PURPOSE.\" NOBODY BUYS IT. EVERYONE SAYS IT." / Body = "\"ruling stands: that was on purpose.\"" / CTA: none
+
+Shot list:
+- [INSERT] Guest stumbling slightly, catching themselves
+- [INSERT] Guest claiming it was on purpose, straight-faced
+- [B-ROLL] Group laughing, guest taking a bow, golden hour
+
+Note: Stumble is a normal footing wobble, not a safety incident — no implication of real injury or hazard. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

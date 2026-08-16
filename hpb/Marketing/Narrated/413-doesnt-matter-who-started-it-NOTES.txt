@@ -1,0 +1,19 @@
+PIECE 413 — Running jokes, an instant mock-judge ruling ending a splash-fight blame debate — Roger / "'Matters Who's Still Standing'"
+Voice: Roger (voice-en-US-RogerNeural.mp3, free tier)   Music: playful, splashy comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Water fight breaks out, and within ten seconds everybody's blaming somebody else.                 [Roger VO mock-official, wide, playful splash fight, guests pointing at each other]
+ 3.4s  Whoever's closest to Roger gets appointed judge on the spot. Every time.                           [insert, Roger gesturing to whoever's nearby, mock-ceremonial]
+ 6.8s  "Doesn't matter who started it. Matters who's still standing." Ruling stands.                     [insert, Roger delivering the verdict, group laughing, dripping]
+10.6s  Nobody's ever once accepted that as a real answer. Everybody laughs anyway.                       [closing line, wide, golden hour, group still soaked, cracking up together]
+
+On-screen text: Hook = "WATER FIGHT BREAKS OUT. EVERYBODY BLAMES SOMEBODY ELSE." / Body = "\"doesn't matter who started it. matters who's still standing.\"" / CTA: none
+
+Shot list:
+- [INSERT] Playful splash fight, guests pointing at each other
+- [INSERT] Roger delivering the mock-judge verdict
+- [B-ROLL] Group soaked, laughing together, golden hour
+
+Note: Splashing kept clearly playful and away from railings/edges — no roughhousing that reads as unsafe. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

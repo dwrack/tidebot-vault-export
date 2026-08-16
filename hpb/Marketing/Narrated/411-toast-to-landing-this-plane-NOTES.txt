@@ -1,0 +1,19 @@
+PIECE 411 — Toasts, an instant stock heckle-ruling for a toast running too long — The Groomsman / "'Toast to Landing This Plane'"
+Voice: The Groomsman (voice-en-GB-RyanNeural.mp3, free tier)   Music: warm, dry acoustic-comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Every toast on this boat gets about ninety seconds before the crowd steps in.                     [Groomsman VO chill dry, wide, someone mid-toast, going long, group starting to shift]
+ 3.6s  Past that, somebody in the back always says the same thing.                                       [insert, groomsman leaning toward a friend, about to say it]
+ 7.0s  "Toast to landing this plane." Whole boat laughs, toast wraps in ten seconds.                      [insert, groomsman saying it, toast-giver laughing, wrapping up fast]
+10.6s  Works every time. Nobody's ever been offended by it once.                                         [closing line, wide, golden hour, cups raised, everyone laughing together]
+
+On-screen text: Hook = "NINETY SECONDS. THEN THE CROWD STEPS IN." / Body = "\"toast to landing this plane.\" works every time." / CTA: none
+
+Shot list:
+- [INSERT] Toast-giver going long, group starting to shift
+- [INSERT] Groomsman delivering the line, toast-giver laughing
+- [B-ROLL] Cups raised, everyone laughing together, golden hour
+
+Note: Cans only, no glass, consistent with the series' no-glass rule. No pedaling reference.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
