@@ -1,0 +1,14 @@
+PIECE 471 — Bachelorette-party lines — "There's an Award for Who Cries First at the Toast Now."
+Voice: The Bestie — EL-Jessica.mp3   Music: bright, warm bachelorette bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Maid of honor, mid-toast: "and the Cries First award goes to..."   [wide, maid of honor mid-toast, glass raised, bride nearby]
+ 3.6s  Bride's already tearing up before her name's even said.   [insert, bride wiping her eyes, laughing at herself, friends noticing]
+ 7.4s  Group calls it before the toast even finishes. Unanimous, fast.   [insert, group pointing at the bride, laughing, calling the vote early]
+11.4s  She won her own toast award. Every single trip, apparently.   [closing line, bride laughing through tears, group toasting to her]
+
+On-screen text: Hook = "THERE'S AN AWARD FOR WHO CRIES FIRST." | Body = "she wins her own toast, apparently every time." | CTA: none.
+Shot list: maid of honor mid-toast, glass raised, bride nearby / bride wiping her eyes, laughing at herself / group pointing and calling the vote before the toast ends / bride laughing through tears, group toasting to her.
+No pedaling reference. Distinct from prior sincere-toast pieces by staying in the funny lane — the award device, not the emotion, is the joke.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

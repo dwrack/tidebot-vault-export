@@ -1,0 +1,30 @@
+PIECE 04 — Running joke, call-and-response contagion — "Aye Aye Captain"
+Product: Private BYOB Party Fleet
+Voice: EL-George (ElevenLabs)   Music: playful, builds with each repetition, brassy by the close (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Someone asks the deckhand for more ice. "Aye aye, captain," he says. He's not the captain.   [medium shot: deckhand grabbing the cooler, deadpan salute]
+ 3.5s  One guest laughs so hard she says it back before she even means to.   [medium shot: guest cracking up, blurting the line]
+ 6.5s  By the halfway mark, every single request on this boat gets the same answer. From everyone.   [wide shot: guests answering each other "aye aye captain" back and forth, laughing]
+11.0s  The actual captain never said it once. Didn't have to.   [close-up: captain at the wheel, amused, shaking his head]
+14.5s  It's not his joke anymore. It's the boat's.   [wide shot: full deck energy, chanting]
+
+ON-SCREEN TEXT TREATMENT:
+"AYE AYE CAPTAIN" pops in as a small repeating tag at 0.0s and again at 6.5s, styled identically both times to sell the spread. Clears for the final two lines.
+
+SHOT LIST:
+- Medium shot: deckhand's deadpan salute (opener)
+- Medium shot: guest laughing, blurting the line back
+- Wide shot: guests chanting it to each other
+- Close-up: captain's amused reaction
+- Closing wide shot: full deck chanting
+
+SOURCE GROUNDING: Built around the real nautical phrase "aye aye, captain," confirmed unused across all 264 prior pieces, carried forward from Pass 75's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-and-momentum structure. Mentor pass flagged the original line 2, "Somebody thinks that's the funniest thing they've heard all week," as an unproven, competitor-pasteable claim, and rewrote it to a specific, visualizable action: "One guest laughs so hard she says it back before she even means to." Then /copywriting-2.0 confirmed all five lines pass. The line to keep is the closer, "It's not his joke anymore. It's the boat's," the most ownable line, since it reframes the gag as belonging to the whole group.
+
+DEVICES CHECK: Fourth escalating multi-beat running-joke piece in the series (after Pass 73's "Batten Down the Hatches" and "Son of a Gun," and Pass 75's "Even Keel"). Deliberately uses a different mechanic than all three: those escalated the situation while one person's flat reaction stayed constant; this piece escalates by contagion, a crew member's line spreading to guests answering each other. A future pass should not use a fifth escalating-beat structure without another new mechanic.
+
+PRODUCTION FLAG: Illustrative deckhand behavior and guest reaction, not a scripted or company-endorsed catchphrase. No deckhand or captain named or identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO line routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, one catch logged above).

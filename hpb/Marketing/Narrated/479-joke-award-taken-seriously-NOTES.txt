@@ -1,0 +1,14 @@
+PIECE 479 — Running jokes — "Joke Award Got Taken So Seriously, She Asked to Keep the Trophy"
+Voice: The Announcer — EL-Daniel.mp3   Music: dry, mock-official bed with a light rimshot sting   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Deckhand hands out a joke award. Plastic cup, marker label, nothing serious.   [wide, deckhand handing over a labeled plastic cup]
+ 3.6s  She holds it like it's real. Won't put it down.   [insert, guest holding the cup carefully, showing it to friends]
+ 7.4s  By the dock, she asks the deckhand straight up if she can keep it.   [insert, guest asking the deckhand, deckhand pausing, clearly not expecting the question]
+11.4s  He says yes. She's still holding it in the parking lot.   [closing line, guest walking to her car, cup still in hand, deckhand shaking his head, smiling]
+
+On-screen text: Hook = "JOKE AWARD. SHE TOOK IT COMPLETELY SERIOUSLY." | Body = "still holding it in the parking lot." | CTA: none.
+Shot list: deckhand handing over a marker-labeled plastic cup as a joke / guest holding the cup carefully, showing friends / guest asking the deckhand if she can keep it, dockside / guest walking to her car, cup still in hand.
+No pedaling reference, no parking-lot claim beyond what's shown on screen.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

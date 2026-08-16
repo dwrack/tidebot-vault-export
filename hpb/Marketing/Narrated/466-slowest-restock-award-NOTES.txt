@@ -1,0 +1,14 @@
+PIECE 466 — Deck-hand slang — "Nobody Wants the Slowest Restock Award. He Got It Anyway."
+Voice: The Old Salt — EL-George.mp3   Music: warm, wry comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Cooler's empty for a full four minutes. Deckhand's got a name for that now.   [wide, guest staring into an empty cooler, deckhand walking up]
+ 3.6s  "Congratulations. You're this trip's Slowest Restock."   [insert, deckhand handing the guest a pool noodle like a trophy, straight-faced]
+ 7.4s  Guy holds the noodle up like he actually won something.   [insert, guest raising the pool noodle overhead, group laughing]
+11.4s  He's carrying that noodle around for the rest of the trip.   [closing line, guest walking the deck with the noodle, showing it to new arrivals]
+
+On-screen text: Hook = "AN AWARD NOBODY WANTS. HE GOT IT." | Body = "he's carrying it around the rest of the trip." | CTA: none.
+Shot list: guest staring into an empty cooler, deckhand walking up / deckhand handing over a pool noodle like a trophy, straight-faced / guest raising the pool noodle overhead, group laughing / guest carrying the noodle around, showing it off.
+No pedaling reference. BYOB cooler detail specific to Houston Pedal Barge's actual policy.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

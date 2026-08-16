@@ -1,0 +1,30 @@
+PIECE 09 — Wildlife spotlight, guide stock answer — "The Heron That Eats Like a Local"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-GuyNeural   Music: light, a little playful, food-forward (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "What's it even eating?" A guest asks, pretty much every tour.   [medium shot: yellow-crowned night-heron perched still, pale yellow crown visible]
+ 3.5s  Mostly crawfish. Same thing on half the menus in this city.   [close-up: heron's thick, heavy bill]
+ 7.0s  That bill isn't for show. It's built to crack a shell in one bite.   [medium shot: heron striking down at the water's edge]
+11.0s  Even the birds out here eat like locals.   [wide shot: heron settling back into stillness, cypress backdrop]
+14.0s  Bon appetit.   [wide shot: boat gliding past, heron unbothered]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "YELLOW-CROWNED NIGHT-HERON," appears at 3.5s and clears by 7.0s. No other captions.
+
+SHOT LIST:
+- Medium shot: heron perched, guest question (opener)
+- Close-up: heron's thick bill
+- Medium shot: heron striking at the water's edge
+- Wide shot: heron settling back into stillness
+- Closing wide shot: boat gliding past, heron unbothered
+
+SOURCE GROUNDING: Yellow-crowned night-heron confirmed unused across all 264 prior pieces (distinct from the series' existing great blue heron, tricolored heron, and green heron pieces). Its specialization in crustaceans, especially crawfish and crabs, and its reinforced bill built for crushing shells, are real, documented facts, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (a guest's own question as the hook) and Ogilvy (the New Orleans-specific detail beats a generic fact). No line failed the mentor pass. Then /copywriting-2.0 confirmed all five lines pass. The line to keep is "Mostly crawfish. Same thing on half the menus in this city," the most New-Orleans-specific and ownable line in the piece.
+
+DEVICES CHECK: First yellow-crowned night-heron piece in the series, distinct from the guide-repeats-the-line device used in Piece 08, since this piece answers a direct guest question once rather than using a recurring line.
+
+PRODUCTION FLAG: Illustrative guest question, not a transcript of a real recorded interaction. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Sugarman, Ogilvy) then /copywriting-2.0 (3-test filter, confirmed pass).

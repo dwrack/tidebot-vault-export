@@ -1,0 +1,30 @@
+PIECE 06 — Idiom, guest-behavior running joke — "Wide Berth"
+Product: Private BYOB Party Fleet
+Voice: EL-Brian (ElevenLabs)   Music: sly, building anticipation that resolves into a party groove (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Nautical rule: give a bigger, faster boat plenty of room. A wide berth.   [wide shot: boat passing another vessel with visible distance]
+ 3.5s  This crew's version: give the guy with his own personal cooler plenty of room, too.   [medium shot: guest with a separate cooler set slightly apart, others glancing at it]
+ 7.5s  No announcement. Guests just start walking wide around it.   [medium shot: guests giving the cooler a wide, deliberate berth]
+11.0s  Two hours later, that cooler's empty and he's everybody's best friend.   [wide shot: full group energy, that guest now in the middle of it]
+15.0s  Wide berth. Until it isn't.   [closing wide shot: group laughing together]
+
+ON-SCREEN TEXT TREATMENT:
+"WIDE BERTH" pops in as a quote card at 15.0s under the closing line, holding through the end of the shot.
+
+SHOT LIST:
+- Wide shot: boat giving another vessel room (opener)
+- Medium shot: guest's separate cooler, others eyeing it
+- Medium shot: guests giving it wide berth
+- Wide shot: full group energy, guest now in the middle
+- Closing wide shot: group laughing together
+
+SOURCE GROUNDING: Built around the real nautical term "wide berth," confirmed unused across all 264 prior pieces, carried forward from Pass 75's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga (proof-by-specific-action beats a vague statement). No line failed the mentor pass. Then /copywriting-2.0 flagged the original line 3, "Nobody said anything. Everybody just knew," for telling rather than showing, and rewrote it to "No announcement. Guests just start walking wide around it." The line to keep is the close, "Wide berth. Until it isn't," the cleanest wordplay in the piece.
+
+DEVICES CHECK: First "wide berth" piece in the series. No named guest used, consistent with the series' no-named-guest convention.
+
+PRODUCTION FLAG: Illustrative guest behavior, not a scripted or company-endorsed moment. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO line routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

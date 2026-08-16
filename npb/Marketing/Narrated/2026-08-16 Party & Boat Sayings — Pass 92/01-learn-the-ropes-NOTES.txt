@@ -1,0 +1,28 @@
+PIECE 01 — Captain/deckhand line, idiom — "Learn the Ropes"
+Product: Private BYOB Party Fleet
+Voice: EL-Lily (ElevenLabs)   Music: warm, easygoing, picks up a little energy by the close (mood only)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  "Learn the ropes" used to mean an actual rope and an actual knot.   [close-up: deckhand coiling a dock line before boarding]
+ 3.5s  Ten minutes in, a guest is doing it herself, badly, laughing the whole time.   [medium shot: guest attempting the coil, deckhand guiding her hands]
+ 7.5s  By the time the last line comes off the cleat, she's got it clean.   [close-up: finished coil, guest holding it up, proud]
+11.5s  This crew learned the ropes on a dock, five minutes before the music started.   [wide shot: boat pulling away, deckhand giving a thumbs up]
+
+ON-SCREEN TEXT TREATMENT:
+Quote card, "LEARN THE ROPES," pops in at 11.5s under the closing line and clears with the shot.
+
+SHOT LIST:
+- Close-up: deckhand coiling a dock line (opener)
+- Medium shot: guest attempting the coil, deckhand guiding her hands
+- Close-up: finished coil, guest proud
+- Closing wide shot: boat pulling away, deckhand's thumbs up
+
+SOURCE GROUNDING: Built around the real idiom "learn the ropes," confirmed completely untouched across all 264 prior pieces by this pass's three-batch direct-read audit, carried forward from Pass 75's "still untapped" idiom list. Uses the literal-vs-figurative idiom mini-scene device the series has used on other idioms since Pass 71, applied here for the first time to this specific one.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's story-into-payoff structure. Mentor pass flagged the original closing line for running long and repeating a detail the visual already showed, and tightened it. Then /copywriting-2.0 (3-test filter) flagged the tightened close as still a soft aphorism ("everybody... eventually") and cut it further to "This crew learned the ropes on a dock, five minutes before the music started," more visual and falsifiable. The line to keep is "By the time the last line comes off the cleat, she's got it clean," the most visualizable and specific line in the piece.
+
+DEVICES CHECK: First "learn the ropes" piece in the series.
+
+PRODUCTION FLAG: Illustrative guest behavior and dockside moment, not a scripted or company-endorsed ritual. No guest identified by name or face without the standard filming ask.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO line routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, one catch logged above).

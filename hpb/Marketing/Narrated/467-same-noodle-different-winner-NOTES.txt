@@ -1,0 +1,14 @@
+PIECE 467 — Deck-hand slang — "Same Pool Noodle. Different Winner Every Stop."
+Voice: The Deckhand — voice-en-US-GuyNeural.mp3   Music: playful, mischievous bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "This noodle's the trophy now. Whoever earns it, carries it."   [wide, deckhand holding up a pool noodle to the group]
+ 3.4s  First stop, it goes to the best cannonball. Deckhand just decides.   [insert, deckhand pointing at a guest mid-jump, holding the noodle out after]
+ 7.0s  Second stop, somebody else earns it. Noodle changes hands, no ceremony needed.   [insert, the noodle passed hand to hand between two different guests]
+10.8s  Four stops, four different champions. Same noodle the whole time.   [closing line, current holder waving the noodle like a flag, group cheering]
+
+On-screen text: Hook = "THIS NOODLE IS THE TROPHY NOW." | Body = "four stops, four champions, one noodle." | CTA: none.
+Shot list: deckhand holding up a pool noodle, announcing the rule / deckhand pointing out a winner after a cannonball, handing over the noodle / the noodle passed hand to hand between guests / current holder waving the noodle like a flag, group cheering.
+No pedaling reference. Cannonball stays a normal supervised swim-stop jump.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

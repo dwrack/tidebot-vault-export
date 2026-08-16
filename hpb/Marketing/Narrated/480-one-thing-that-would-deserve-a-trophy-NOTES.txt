@@ -1,0 +1,14 @@
+PIECE 480 — Closer, sincere — "The One Thing on This Boat That Would Actually Deserve a Trophy"
+Voice: Sarah — EL-Sarah.mp3   Music: soft, warm, understated closing bed, minimal strings   Length: 15.6s
+
+SCRIPT (timed to narration):
+ 0.0s  This crew hands out a dozen fake awards a day. Cups, noodles, a life jacket worn like a medal.   [wide, deckhand handing off a joke trophy, group laughing]
+ 3.6s  All of it's a bit. Everybody knows it, everybody plays along.   [insert, guests laughing, holding up their joke trophies together]
+ 7.4s  But there's one thing on this boat that would actually earn a real one.   [insert, deckhand quietly helping an older guest step down from the boat, no audience]
+11.4s  Nobody hands out a trophy for that. The crew just keeps doing it anyway.   [closing line, golden hour, deckhand and guest at the dock, quiet handshake, boat behind them]
+
+On-screen text: Hook = "THIS CREW HANDS OUT A DOZEN FAKE AWARDS A DAY." | Body = "the one thing that'd actually earn one." | CTA: none.
+Shot list: deckhand handing off a joke trophy, group laughing / guests holding up their joke trophies together / deckhand quietly helping an older guest step down from the boat, no audience / golden hour, deckhand and guest at the dock, quiet handshake.
+No pedaling reference, no vessel name. Distinct from prior sincere closers by turning this volume's own award device back on itself rather than introducing an unrelated observation.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

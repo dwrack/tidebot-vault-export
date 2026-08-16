@@ -1,0 +1,14 @@
+PIECE 470 — Captain lines — "Captain Gave Himself an Award. Nobody Argued."
+Voice: The Captain — EL-Eric.mp3   Music: dry, mock-official bed, minimal   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain docks it smooth on the first try. Announces his own award for it.   [wide, boat docking smoothly, captain on the mic]
+ 3.4s  "Best docking of the summer. Me. Unanimous."   [insert, captain gesturing at himself, completely straight-faced]
+ 7.0s  Nobody argues. One guy actually claps.   [insert, a guest clapping, a few others half-laughing, half-agreeing]
+10.8s  He's brought it up at the dock every trip since. Once, this time, on camera.   [closing line, captain shrugging, walking off the boat, still holding the title]
+
+On-screen text: Hook = "CAPTAIN GAVE HIMSELF AN AWARD." | Body = "unanimous. nobody argued." | CTA: none.
+Shot list: boat docking smoothly, captain speaking into the mic / captain gesturing at himself, straight-faced / guest clapping, others half-laughing / captain shrugging, walking off the boat.
+No pedaling reference, no specific docking-skill claim beyond this one instance — kept to a single trip, not framed as a permanent habit.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

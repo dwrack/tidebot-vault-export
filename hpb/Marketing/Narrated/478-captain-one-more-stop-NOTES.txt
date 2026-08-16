@@ -1,0 +1,14 @@
+PIECE 478 — Running jokes — "Someone's Counting the 'One More Stops' Now. There's a Title on the Line."
+Voice: The Regular — EL-Brian.mp3   Music: dry, deadpan comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Guy says "one more stop" for the fourth time this trip.   [wide, guest pointing ahead, saying the line to the group]
+ 3.4s  Someone starts tallying it on a napkin. Out loud, every time.   [insert, a guest marking a napkin with a pen, announcing the count]
+ 7.0s  Hits five. Group declares him "Captain One More Stop." Official.   [insert, group laughing, someone announcing the title, guest taking a mock bow]
+10.8s  He's still saying it. Count's just louder now.   [closing line, guest saying "one more stop" again, group counting along, laughing]
+
+On-screen text: Hook = "COUNTING THE 'ONE MORE STOPS.' THERE'S A TITLE ON THE LINE." | Body = "still saying it. count's just louder now." | CTA: none.
+Shot list: guest pointing ahead, saying "one more stop" to the group / a guest tallying it on a napkin, announcing the count out loud / group declaring the title, guest taking a mock bow / guest saying the line again, group counting along.
+No pedaling reference, no specific number of actual stops claimed on the trip beyond the joke count itself.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

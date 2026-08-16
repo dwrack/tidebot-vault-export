@@ -1,0 +1,28 @@
+PIECE 05 — Idiom, literal-meets-figurative — "Footloose"
+Product: Private BYOB Party Fleet
+Voice: EL-EchoRae (ElevenLabs)   Music: loose, barefoot-dance energy, builds through the piece (mood only)   Length: 15.5s
+
+SCRIPT (timed to narration):
+ 0.0s  First thing that comes off on this boat, before the music even starts, is everybody's shoes.   [medium shot: guests kicking off shoes, tossing them in a pile]
+ 3.5s  Footloose used to just mean free to move, nothing tying you down.   [wide shot: guests barefoot, starting to move]
+ 7.5s  By song two, there's no such thing as sitting still on this deck.   [wide shot: full group dancing, barefoot, deck energy]
+12.0s  No dress code. No shoes required. There's no door to leave them at anyway.   [wide aerial shot: boat moving through bayou, deck full of motion]
+
+ON-SCREEN TEXT TREATMENT:
+No on-screen text. Music and motion carry this one.
+
+SHOT LIST:
+- Medium shot: shoes coming off (opener)
+- Wide shot: guests barefoot, starting to move
+- Wide shot: full group dancing
+- Closing wide aerial: boat in motion, deck full of energy
+
+SOURCE GROUNDING: Built around the real idiom "footloose" (originally meaning free to move, unencumbered), confirmed unused across all 264 prior pieces, carried forward from Pass 75's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Halbert's conversational specificity. Mentor pass flagged the original closer for opening on an overused stock phrase, "come as you are," and cut it, moving straight to the sharper wordplay: "No dress code. No shoes required. There's no door to leave them at anyway." Then /copywriting-2.0 confirmed all four lines pass. The line to keep is the closer, the cleverest and most ownable line in the piece, since the "no door" twist only works on an open-air party boat.
+
+DEVICES CHECK: First "footloose" piece in the series. Distinct from prior dancing/deck-energy beats since the device here is the idiom's literal-vs-figurative double meaning, not a generic party-energy montage.
+
+PRODUCTION FLAG: Illustrative guest behavior (shoes coming off as a described first move), not confirmed as a universal or expected guest behavior. No guest identified by name or face.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO line routed through /copy-mentors (Halbert) then /copywriting-2.0 (3-test filter, confirmed pass).

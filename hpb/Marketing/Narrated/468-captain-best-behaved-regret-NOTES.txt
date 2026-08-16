@@ -1,0 +1,14 @@
+PIECE 468 — Captain lines — "Captain Announced 'Best Behaved' On the Mic. Immediately Regretted It."
+Voice: The Captain — EL-Eric.mp3   Music: dry, mock-official bed, minimal   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Captain, on the mic: "and the award for best behaved goes to seat four."   [wide, captain speaking into the mic, group looking around]
+ 3.6s  Seat four stands up, takes a bow. Captain visibly regrets saying it.   [insert, guest in seat four standing, bowing, captain shaking his head]
+ 7.4s  By the next stop, seat four's introducing himself as "the award winner."   [insert, guest greeting a new arrival, gesturing to himself, saying the title]
+11.4s  Captain made one joke. Guy's still using the title at the dock.   [closing line, guest stepping off the boat, saying the title to a dockside stranger]
+
+On-screen text: Hook = "CAPTAIN GAVE OUT AN AWARD ON THE MIC." | Body = "one joke. still using the title at the dock." | CTA: none.
+Shot list: captain speaking into the mic, group looking around for the winner / guest in seat four standing and bowing, captain shaking his head / guest introducing himself as "the award winner" to a new arrival / guest using the title with a dockside stranger while stepping off.
+No pedaling reference, no specific seating-chart claim implied beyond a single seat number.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

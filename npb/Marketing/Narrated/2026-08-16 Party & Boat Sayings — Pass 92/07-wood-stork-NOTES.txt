@@ -1,0 +1,28 @@
+PIECE 07 — Wildlife spotlight, guest reaction line — "Wood Stork"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Eric (ElevenLabs)   Music: airy, curious, slight comic lilt (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest squints at it and says exactly what everyone thinks: "that bird looks like it's having a rough week."   [medium shot: guest pointing at wood stork on a snag, its bald grey head visible]
+ 4.0s  Wood stork. The only stork native to North America, and yes, that head is supposed to look like that.   [medium shot: wood stork close-up, featherless head]
+ 8.5s  It doesn't hunt by sight. It feels for fish in the mud and snaps shut in about twenty-five milliseconds, one of the fastest reflexes of any animal.   [wide shot: stork wading, bill sweeping through shallow water]
+14.0s  Ugly is doing a lot of work out here.   [wide shot: stork taking off, wings spread wide, surprisingly graceful]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "WOOD STORK," appears at 4.0s and clears by 8.5s. No other captions.
+
+SHOT LIST:
+- Medium shot: guest pointing, stork's bald head visible (opener)
+- Medium shot: stork close-up
+- Wide shot: stork wading, bill sweeping through water
+- Closing wide shot: stork taking flight
+
+SOURCE GROUNDING: Wood stork confirmed unused across all 264 prior pieces. It is genuinely the only stork species native to North America, and its tactile ("grope") feeding method with an extremely fast bill-snap reflex is a real, documented behavior, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (the guest's own spoken line as the curiosity hook) and Bencivenga (a specific number beats a vague comparison). Mentor pass flagged the original line 3, "faster than you can blink," as vague, and rewrote it to a specific figure: "about twenty-five milliseconds, one of the fastest reflexes of any animal." Then /copywriting-2.0 confirmed all four lines pass. The line to keep is the closer, "Ugly is doing a lot of work out here," which pays off the guest's opening reaction with a twist.
+
+DEVICES CHECK: First wood stork piece in the series, and the first eco-tour piece in this pass built around a real spoken guest line, continuing Pass 75's structural shift.
+
+PRODUCTION FLAG: The twenty-five-millisecond bill-snap figure is a commonly cited estimate in ornithological sources but should be verified against a current citable source before this line is treated as a guaranteed on-screen fact. The guest's exact reaction line is illustrative, not a transcript. No guest identified by name or face.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Sugarman, Bencivenga) then /copywriting-2.0 (3-test filter, confirmed pass).

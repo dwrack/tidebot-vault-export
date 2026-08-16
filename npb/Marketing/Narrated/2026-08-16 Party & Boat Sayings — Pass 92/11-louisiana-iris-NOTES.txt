@@ -1,0 +1,28 @@
+PIECE 11 — Sensory/seasonal, guest question — "Louisiana Iris"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-BrianNeural   Music: soft, colorful, blooming feeling (mood only)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Wait, is that natural?" A guest asks it every single spring.   [wide shot: patches of purple and blue iris blooming along the bank]
+ 3.5s  Louisiana iris. Wild, not planted, and gone again in about three weeks.   [close-up: iris bloom close to the water line]
+ 7.5s  Miss it by a week and you'd never know it happened.   [medium shot: boat passing through the blooming patch]
+11.5s  Come at the right time and the swamp does the decorating for you.   [wide shot: full bank of blooming iris, boat gliding past]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "LOUISIANA IRIS," appears at 3.5s and clears by 7.5s. No other captions.
+
+SHOT LIST:
+- Wide shot: blooming bank, guest question (opener)
+- Close-up: iris bloom at the water line
+- Medium shot: boat passing through the blooms
+- Closing wide shot: full blooming bank
+
+SOURCE GROUNDING: Louisiana iris confirmed unused across all 264 prior pieces. It is a real native wetland wildflower closely associated with the state, and the short spring bloom window is a real, documented seasonal pattern, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman (a guest's question as the curiosity hook) and the brand's "sell the outcome, not the specs" voice rule. No line failed the mentor pass. Then /copywriting-2.0 confirmed all four lines pass. The line to keep is "Miss it by a week and you'd never know it happened," the sharpest and most urgent line without being a pushy sales line.
+
+DEVICES CHECK: First Louisiana iris piece, and the first plant-focused eco-tour piece to lead with a guest question rather than pure seasonal narration.
+
+PRODUCTION FLAG: The "about three weeks" bloom-window framing is illustrative; actual bloom timing varies year to year with weather and should be confirmed seasonally with guides rather than promised to guests as a fixed date range.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, confirmed pass).

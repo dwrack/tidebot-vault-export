@@ -1,0 +1,14 @@
+PIECE 465 — Deck-hand slang — "First One Back On the Boat Gets a Real Award Now"
+Voice: The Deckhand — voice-en-US-GuyNeural.mp3   Music: fast, upbeat comedic bed   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  "First one back on the boat gets the Fastest Feet award. Starting now."   [wide, group in the water at a swim stop, deckhand yelling from the deck]
+ 3.4s  Guy scrambles up the ladder like it's a race. Deckhand crowns him on the spot.   [insert, guest climbing the ladder fast, deckhand pointing and announcing him the winner]
+ 7.0s  Next stop, three people are sprinting for the ladder.   [insert, multiple guests racing for the ladder at the next swim stop]
+10.8s  Fastest Feet's been defended four stops running now.   [closing line, current title-holder pointing at himself, grinning, daring anyone to beat him]
+
+On-screen text: Hook = "FASTEST FEET AWARD. STARTING NOW." | Body = "defended four stops running." | CTA: none.
+Shot list: group in the water at a swim stop, deckhand calling out from the deck / guest climbing the ladder fast, deckhand crowning him winner / multiple guests racing for the ladder at the next stop / current title-holder pointing at himself, daring a challenge.
+No pedaling reference. Ladder climb stays a normal supervised reboard, no diving or rail-climbing.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,28 @@
+PIECE 02 — Captain line, idiom, reassurance — "Steady as She Goes"
+Product: Private BYOB Party Fleet
+Voice: EL-Sarah (ElevenLabs)   Music: brief tense hush that resolves into a light groove (mood only)   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A passing wake rocks the boat, and one guest grabs the rail like it's the end of the world.   [medium shot: guest lurching, gripping the rail, wide-eyed]
+ 3.5s  "Steady as she goes," the captain says, not even looking back.   [close-up: captain, relaxed hand on the wheel]
+ 7.0s  Ten seconds later she's laughing about it, phone already out for the group chat.   [medium shot: guest recovering, laughing, texting]
+11.0s  Steady as she goes. Every captain on this dock says it the exact same flat way.   [wide shot: boat cutting smooth through calm water]
+
+ON-SCREEN TEXT TREATMENT:
+No text until a small lower-third at 11.0s: "STEADY AS SHE GOES." Clears with the shot.
+
+SHOT LIST:
+- Medium shot: guest gripping the rail (opener)
+- Close-up: captain's calm hand on the wheel
+- Medium shot: guest recovering, laughing
+- Closing wide shot: boat cutting smooth through the water
+
+SOURCE GROUNDING: Built around the real idiom "steady as she goes," confirmed unused across all 264 prior pieces, carried forward from Pass 75's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Bencivenga (a reassurance claim needs a specific, checkable detail, not a vague mood word). Mentor pass flagged the original closer, "It's not a joke. It's just Tuesday out here," for being a soft cliche that also echoed a line from the Admire NOLA reference bank closely enough to risk reading as borrowed. Rewrote to a specific, checkable claim instead: "Every captain on this dock says it the exact same flat way." Then /copywriting-2.0 confirmed all four lines pass the 3-test filter. The line to keep is "'Steady as she goes,' the captain says, not even looking back," the most visual and ownable line, since the captain's exact lack of reaction is what makes the piece land.
+
+DEVICES CHECK: First "steady as she goes" piece in the series. Distinct from the fixed-catchphrase device retired since Pass 23, since this is framed as something every captain says, not one person's personality bit.
+
+PRODUCTION FLAG: Illustrative wake/reaction moment and captain demeanor, not a scripted or company-endorsed line. No captain named or identified.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO line routed through /copy-mentors (Bencivenga) then /copywriting-2.0 (3-test filter, one catch logged above).

@@ -1,0 +1,30 @@
+PIECE 03 — Idiom, dockside energy shift — "In the Doldrums"
+Product: Private BYOB Party Fleet
+Voice: EL-Daniel (ElevenLabs)   Music: still, heat-shimmer quiet that snaps into upbeat energy at the engine start (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Old sailors called it the doldrums: dead air, no wind, a ship going nowhere.   [wide shot: group standing on the dock, heat shimmer, fanning themselves]
+ 4.0s  This group's been standing in the sun for ten minutes. Phones out, nobody talking.   [medium shot: guests checking phones, half-hearted small talk]
+ 7.5s  Then the engine turns over.   [close-up: ignition, engine rumble starting]
+ 9.5s  Nobody's in the doldrums two minutes later.   [wide shot: full group energy spiking, cheering as the boat pulls out]
+12.5s  Turns out the cure was always just leaving the dock.   [wide aerial shot: boat moving into open bayou]
+
+ON-SCREEN TEXT TREATMENT:
+No on-screen text. Sound and image carry this one, consistent with the series' handling of quiet-to-loud beats.
+
+SHOT LIST:
+- Wide shot: group waiting on the dock, heat visible (opener)
+- Medium shot: guests checking phones, low energy
+- Close-up: ignition, engine starting
+- Wide shot: energy spike, cheering
+- Closing wide aerial: boat moving into open water
+
+SOURCE GROUNDING: Built around the real, genuinely nautical idiom "the doldrums" (a real equatorial belt of calm winds that stranded sailing ships for weeks), confirmed unused across all 264 prior pieces, carried forward from Pass 75's "still untapped" list.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy (the factual specific beats the adjective). No line failed the mentor pass. Then /copywriting-2.0 flagged the original line 2, "This group's been standing in the sun for ten minutes, and it shows," for telling instead of showing, and rewrote it to "Phones out, nobody talking," a concrete image. Line 4 was tightened to "Nobody's in the doldrums two minutes later" for a specific, checkable timeframe. The line to keep is the closer, "Turns out the cure was always just leaving the dock," the most ownable line in the piece.
+
+DEVICES CHECK: First "in the doldrums" piece in the series. Distinct from the retired honest-FAQ-answer device since this isn't answering a guest question, it's a scene built on an etymology hook and a visual punchline.
+
+PRODUCTION FLAG: Illustrative pre-departure energy and dock wait time, not a documented average wait. No guest identified by name or face.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Ogilvy) then /copywriting-2.0 (3-test filter, two catches logged above).

@@ -1,0 +1,28 @@
+PIECE 08 — Wildlife spotlight, guide stock line — "Snowy Egret"
+Product: Naturalist Eco Swamp Tour
+Voice: EL-Jessica (ElevenLabs)   Music: bright, a little wistful under the history line (mood only)   Length: 17.0s
+
+SCRIPT (timed to narration):
+ 0.0s  "Look at its feet," the guide says, every single time, before anyone even asks why.   [medium shot: guide pointing, snowy egret standing in shallow water]
+ 4.0s  Snowy egret. Black legs, and feet that look dipped in gold paint.   [close-up: bright yellow feet against dark water]
+ 8.5s  A hundred years ago, this bird's feathers were worth more than gold, by weight, for hats nobody needed.   [wide shot: egret preening, white plumage catching light]
+13.5s  It almost didn't make it. These days, it just steals the whole shot.   [wide shot: egret taking flight low over the water]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "SNOWY EGRET," appears at 4.0s and clears by 8.5s. No other captions.
+
+SHOT LIST:
+- Medium shot: guide pointing, egret in shallow water (opener)
+- Close-up: egret's yellow feet against dark water
+- Wide shot: egret preening, plumage catching light
+- Closing wide shot: egret in flight
+
+SOURCE GROUNDING: Snowy egret confirmed unused across all 264 prior pieces (distinct from the series' existing great blue heron, tricolored heron, and roseate spoonbill pieces). The bright yellow feet against black legs and the species' near-extinction from the plume trade around the turn of the 20th century are real, documented facts, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's repeated-line curiosity device and Bencivenga's proof-by-specific-history. No line failed the mentor pass. Then /copywriting-2.0 confirmed all four lines pass. The line to keep is "A hundred years ago, this bird's feathers were worth more than gold, by weight, for hats nobody needed," the boldest and most falsifiable claim in the piece.
+
+DEVICES CHECK: First snowy egret piece in the series. Uses the "guide repeats the same line every time" device, same shape as Pass 75's tricolored heron piece, but on a genuinely new species and fact set.
+
+PRODUCTION FLAG: Illustrative guide behavior, not a transcript of an actual recorded interaction. No guide identified by name.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Sugarman, Bencivenga) then /copywriting-2.0 (3-test filter, confirmed pass).

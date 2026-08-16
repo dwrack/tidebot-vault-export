@@ -1,0 +1,28 @@
+PIECE 12 — Wildlife spotlight, dockside/departure moment — "Barn Swallows Under the Dock"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-GB-RyanNeural   Music: light, quick, chirpy energy (mood only)   Length: 16.0s
+
+SCRIPT (timed to narration):
+ 0.0s  A guest points up before the boat's even left the dock: "are those nests?"   [wide shot: mud nests tucked under the dock's roofline]
+ 4.0s  Barn swallows. Same nests, most years, same birds coming back to them.   [close-up: swallow perched at the edge of a mud nest]
+ 8.0s  Watch the water on the way out. They'll skim it without ever stopping.   [wide shot: swallow swooping low across the water's surface]
+12.5s  The tour hasn't even started and it's already showing off.   [wide shot: boat pulling away under the dock roofline, swallows darting overhead]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "BARN SWALLOWS," appears at 4.0s and clears by 8.0s. No other captions.
+
+SHOT LIST:
+- Wide shot: mud nests under the dock roofline, guest question (opener)
+- Close-up: swallow at the edge of a nest
+- Wide shot: swallow skimming the water
+- Closing wide shot: boat pulling away, swallows overhead
+
+SOURCE GROUNDING: Barn swallows confirmed unused across all 264 prior pieces. Their mud-cup nesting under eaves and docks, their strong site fidelity, and their low, skimming flight over water are all real, documented species behaviors, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Sugarman's curiosity-loaded opener. No line failed the mentor pass. Then /copywriting-2.0 confirmed all four lines pass. The line to keep is the closer, "The tour hasn't even started and it's already showing off," the strongest bookend to the opening line.
+
+DEVICES CHECK: First barn swallow piece in the series, and the first eco-tour piece in the entire slate history built around the dock/pre-departure moment rather than a mid-tour or in-water sighting.
+
+PRODUCTION FLAG: Barn-swallow nest presence under a dock is a common, well-documented species behavior in general, but it is not confirmed as a current fixture at NPB's actual dock. Confirm with ops/crew before treating this as a guaranteed or regularly repeating sighting; if no such nests currently exist at the real dock, rework the visual to a confirmed nesting location or hold for a future season.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Sugarman) then /copywriting-2.0 (3-test filter, confirmed pass).

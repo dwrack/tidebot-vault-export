@@ -1,0 +1,14 @@
+PIECE 475 — Toasts — "Best Man Invented an Award to Avoid Finishing His Toast"
+Voice: The Announcer — EL-Daniel.mp3   Music: dry, mock-official bed with a light rimshot sting   Length: 14.6s
+
+SCRIPT (timed to narration):
+ 0.0s  Best man trails off mid-sentence. Pivots hard: "and now, an award."   [wide, best man visibly losing his train of thought]
+ 3.4s  Groom laughs, sees exactly what's happening.   [insert, groom laughing, shaking his head, clearly onto the move]
+ 7.0s  Best man hands out "Best Groomsman" to himself. Nobody stops him.   [insert, best man pointing at himself, group laughing, no objection]
+10.8s  Toast never had an ending. The award was the ending.   [closing line, group raising glasses to the self-awarded best man, laughing]
+
+On-screen text: Hook = "BEST MAN LOST HIS TOAST. INVENTED AN AWARD INSTEAD." | Body = "the award was the ending." | CTA: none.
+Shot list: best man visibly losing his train of thought mid-toast / groom laughing, recognizing the pivot / best man pointing at himself, awarding himself the title / group raising glasses to him, laughing.
+No pedaling reference. Distinct from piece 474 by being a solo escape-hatch move rather than a planned multi-award bit.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

@@ -1,0 +1,14 @@
+PIECE 473 — Bachelorette-party lines — "There's an Award for Who Brought the Real Gift. She's Won It Twice."
+Voice: The Sunscreen Friend — voice-en-US-BrianNeural.mp3   Music: warm, low-key comedic bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Gift table's all gag gifts. One bag's not like the others.   [wide, gifts laid out, one gift bag visibly different]
+ 3.6s  Bride opens it. Advil, snacks, a phone charger. Group goes quiet, then applauds.   [insert, bride pulling items out, holding up the charger, group reacting]
+ 7.4s  "The Actually Useful Gift award." Somebody says it out loud, official.   [insert, a guest announcing the award name, pointing at the gift-giver]
+11.4s  She's won it two trips running. Everybody just expects it now.   [closing line, gift-giver taking a small bow, group laughing and clapping]
+
+On-screen text: Hook = "AWARD FOR THE ONE REAL GIFT ON THE TABLE." | Body = "won it two trips running." | CTA: Tag the friend who always brings the real gift.
+Shot list: gag gifts laid out, one gift bag visibly different / bride pulling out Advil, snacks, a phone charger, group reacting / a guest announcing the award name out loud / gift-giver taking a bow, group clapping.
+No pedaling reference, no brand names on any gift item shown.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

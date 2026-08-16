@@ -1,0 +1,14 @@
+PIECE 476 — Toasts — "He's Been Toasted Six Times. Got an Award for That Too."
+Voice: The Groomsman — voice-en-GB-RyanNeural.mp3   Music: tender-to-rowdy comedic bed, builds fast   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Fourth toast of the day, and it's about the same guy again.   [wide, group raising glasses toward one guest, again]
+ 3.6s  He's stopped standing up for them. Just raises his glass from his seat.   [insert, guest half-standing, waving, sitting back down, unbothered]
+ 7.4s  Sixth toast lands. Somebody hands him an actual award for it.   [insert, a guest handing him a plastic cup labeled "trophy" with a marker]
+11.4s  Most Toasted Guest, six for six. He's not even surprised anymore.   [closing line, guest holding up the marked cup, group laughing, raising glasses one more time]
+
+On-screen text: Hook = "TOASTED SIX TIMES. GOT AN AWARD FOR THAT TOO." | Body = "six for six. not even surprised anymore." | CTA: none.
+Shot list: group raising glasses toward the same guest again / guest half-standing, waving, sitting back down / a guest handing him a marker-labeled plastic cup as a "trophy" / guest holding up the cup, group raising glasses one more time.
+No pedaling reference. Distinct from Vol. 29's toast-nickname piece — this tracks a tally-turned-award, not a slip-of-the-tongue nickname.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

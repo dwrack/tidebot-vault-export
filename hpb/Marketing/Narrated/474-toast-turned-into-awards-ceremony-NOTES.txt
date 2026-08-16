@@ -1,0 +1,14 @@
+PIECE 474 — Toasts — "Toast Turned Into a Full Awards Ceremony. Nobody Planned That."
+Voice: The Bestie — EL-Jessica.mp3   Music: light comedic bed with a small rising sting   Length: 15.0s
+
+SCRIPT (timed to narration):
+ 0.0s  Toast-giver raises her glass. "Also, I have three awards to give out."   [wide, guest mid-toast, pulling out her phone for "notes"]
+ 3.6s  Group laughs, assumes she's joking. She is not joking.   [insert, group laughing, phone clearly has a real list on it]
+ 7.4s  Three names called, three "trophies" handed out. A cup, a napkin, a hat.   [insert, quick cuts of three different props handed to three different guests]
+11.4s  Actual toast never finished. Awards show ran long instead.   [closing line, group cheering, toast-giver shrugging, glass still raised]
+
+On-screen text: Hook = "TOAST TURNED INTO A FULL AWARDS CEREMONY." | Body = "the actual toast never finished." | CTA: none.
+Shot list: guest mid-toast, pulling out her phone for "notes" / group laughing, realizing the list is real / quick cuts of three props handed to three different guests / group cheering, toast-giver shrugging with her glass still raised.
+No pedaling reference. Distinct from the series' toastmaster pieces — a toast overtaken by an unplanned ceremony, not a running MC role or a duel.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?

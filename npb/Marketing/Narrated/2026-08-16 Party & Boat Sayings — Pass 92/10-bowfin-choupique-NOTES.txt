@@ -1,0 +1,28 @@
+PIECE 10 — Wildlife/nature fact, guest reaction line — "Bowfin (Choupique)"
+Product: Naturalist Eco Swamp Tour
+Voice: voice-en-US-RogerNeural   Music: reverent, ancient-feeling, a little playful at the close (mood only)   Length: 16.5s
+
+SCRIPT (timed to narration):
+ 0.0s  Something surfaces, gulps air, and a guest already has her phone up: "did that fish just breathe?"   [medium shot: bowfin breaking the surface, gulping, submerging]
+ 4.0s  Bowfin. Around here, most people just call it choupique.   [close-up: fish silhouette under murky water]
+ 8.0s  It's been doing that exact move since before there were flowers on earth. Not an exaggeration.   [wide shot: still water, ripple where it surfaced]
+13.0s  A living fossil, and it still beats you to the bait every time.   [medium shot: guide gesturing at the water, smiling]
+
+ON-SCREEN TEXT TREATMENT:
+Small lower-third species label, "BOWFIN (CHOUPIQUE)," appears at 4.0s and clears by 8.0s. No other captions.
+
+SHOT LIST:
+- Medium shot: bowfin surfacing, guest reaction (opener)
+- Close-up: fish silhouette under murky water
+- Wide shot: still water, ripple where it surfaced
+- Closing medium shot: guide gesturing at the water
+
+SOURCE GROUNDING: Bowfin confirmed unused across all 264 prior pieces (distinct from the series' existing gar mention, Pass 59 Piece 08, which was a single-line correction, never a dedicated species piece). The bowfin's ability to gulp air at the surface, its ancient lineage often described as a "living fossil," and its real Louisiana Cajun-French common name "choupique" are all real, not invented for this piece.
+
+COPY PASSES: Drafted, then routed through /copy-mentors, channeling Ogilvy (the factual specific, "choupique," beats a generic nickname claim) and Bencivenga (a bold deep-time claim needs the "not an exaggeration" pushback to survive the "yeah, right" test). No line failed the mentor pass. Then /copywriting-2.0 confirmed all four lines pass. The line to keep is "It's been doing that exact move since before there were flowers on earth. Not an exaggeration," the boldest and most falsifiable line in the piece.
+
+DEVICES CHECK: First bowfin piece in the series, and the first fish-focused eco-tour piece in the entire slate history.
+
+PRODUCTION FLAG: The "before there were flowers on earth" framing is a genuinely defensible claim about the bowfin's ancient lineage, but the exact comparative timeline should be verified against a current source before treating it as a precise on-screen fact rather than an illustrative deep-time comparison. The guest's exact reaction line is illustrative, not a transcript.
+
+STATUS: STAGED DRAFT — pending David's approval. No audio generated, no video rendered (this machine has no ffmpeg and no ElevenLabs key). Pass 92, 2026-08-16. VO lines routed through /copy-mentors (Ogilvy, Bencivenga) then /copywriting-2.0 (3-test filter, confirmed pass).

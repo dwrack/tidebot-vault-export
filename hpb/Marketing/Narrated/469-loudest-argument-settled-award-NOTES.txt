@@ -1,0 +1,14 @@
+PIECE 469 — Captain lines — "Argument About Who's Loudest Got Settled With an Award."
+Voice: Roger — voice-en-US-RogerNeural.mp3   Music: confident, knowing bed   Length: 14.8s
+
+SCRIPT (timed to narration):
+ 0.0s  Two guys arguing who's louder. Captain cuts in: "there's an award for that now."   [wide, two guests mid-argument, captain stepping in]
+ 3.6s  Makes them both yell on three. Picks a winner right there.   [insert, both guests yelling on cue, captain pointing at one, decisive]
+ 7.4s  Loser demands a rematch. Captain says the ruling's final.   [insert, the other guest protesting, captain waving him off, unmoved]
+11.4s  Award's final. Rematch request denied, officially, twice now.   [closing line, winner holding his arms up, loser still arguing, group laughing]
+
+On-screen text: Hook = "ARGUMENT SETTLED WITH AN AWARD." | Body = "rematch denied. officially. twice." | CTA: none.
+Shot list: two guests mid-argument about who's louder, captain stepping in / both guests yelling on cue, captain picking a winner / losing guest protesting, captain waving him off / winner celebrating, loser still arguing, group laughing.
+No pedaling reference. This is a fresh dispute-ending device (an award, not a ruling), distinct from the series' prior instant-ruling pieces.
+
+Feedback wanted: voice? pacing? text style/placement? footage choices? music level?
