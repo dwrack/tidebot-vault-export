@@ -5,20 +5,22 @@
   "start": "2026-08-01",
   "end": "2026-08-15"
  },
- "generatedAt": "2026-08-17T17:17:35.637Z",
+ "generatedAt": "2026-08-17T21:54:46.776Z",
  "rail": "manual",
  "approved": false,
  "paid": false,
  "totals": {
-  "grand": 1010,
-  "tourPay": 1010,
+  "grand": 1175,
+  "tourPay": 1110,
   "tips": 65,
   "adjustments": 0
  },
  "rows": [
   {
    "name": "Chelsea Hines",
-   "fhUsername": "chelseahines",
+   "fhUsernames": [
+    "chelseahines"
+   ],
    "rate": 110,
    "standard": 1,
    "extended": 2,
@@ -39,15 +41,18 @@
   },
   {
    "name": "River Bourne",
-   "fhUsername": "riverbourne",
+   "fhUsernames": [
+    "riverbourne"
+   ],
    "rate": 100,
-   "standard": 2,
+   "standard": 3,
    "extended": 0,
-   "pax": 15,
-   "tourPay": 200,
-   "tips": 0,
+   "pax": 25,
+   "tourPay": 300,
+   "tips": 65,
    "adjustments": [],
    "dates": [
+    "2026-08-01 09:00 Manchac Swamp Wildlife Kayak Tour (10p) $100 + $65.00 tip",
     "2026-08-04 09:00 Manchac Swamp Wildlife Kayak Tour (4p) $100",
     "2026-08-08 09:00 Manchac Swamp Wildlife Kayak Tour (11p) $100"
    ],
@@ -55,11 +60,13 @@
    "payoutVerified": false,
    "slackId": null,
    "adjTotal": 0,
-   "total": 200
+   "total": 365
   },
   {
    "name": "Alexis Hingle",
-   "fhUsername": "alexishingle",
+   "fhUsernames": [
+    "alexishingle"
+   ],
    "rate": 100,
    "standard": 1,
    "extended": 0,
@@ -78,7 +85,9 @@
   },
   {
    "name": "Stephanie Lazensky",
-   "fhUsername": "stephanielazensky",
+   "fhUsernames": [
+    "stephanielazensky"
+   ],
    "rate": 100,
    "standard": 1,
    "extended": 0,
@@ -97,7 +106,9 @@
   },
   {
    "name": "Abbie Marks",
-   "fhUsername": "abbiemarks",
+   "fhUsernames": [
+    "abbiemarks"
+   ],
    "rate": 100,
    "standard": 1,
    "extended": 0,
@@ -116,10 +127,8 @@
   }
  ],
  "blockers": [
-  "No guide assigned: 2026-08-01 09:00 Manchac Swamp Wildlife Kayak Tour (10 pax). Assign crew in FareHarbor, or pass the guide manually, before anyone gets paid.",
-  "$65.00 in gratuity sits on departures with no guide credited. That money belongs to whoever ran those tours.",
   "Chelsea Hines is owed $510 but has no PayPal address on file. Run: node payroll-roster.mjs",
-  "River Bourne is owed $200 but has no PayPal address on file. Run: node payroll-roster.mjs",
+  "River Bourne is owed $365 but has no PayPal address on file. Run: node payroll-roster.mjs",
   "Alexis Hingle is owed $100 but has no PayPal address on file. Run: node payroll-roster.mjs",
   "Stephanie Lazensky is owed $100 but has no PayPal address on file. Run: node payroll-roster.mjs",
   "Abbie Marks is owed $100 but has no PayPal address on file. Run: node payroll-roster.mjs"
@@ -133,8 +142,22 @@
    "start": "2026-08-01T09:00:00",
    "item": "Manchac Swamp Wildlife Kayak Tour",
    "pax": 10,
-   "crew": [],
-   "kind": "standard"
+   "crew": [
+    "riverbourne"
+   ],
+   "kind": "standard",
+   "manual": {
+    "pk": 1882908950,
+    "date": "2026-08-01",
+    "time": "09:00",
+    "item": "Manchac Swamp Wildlife Kayak Tour",
+    "pax": 10,
+    "crew": [
+     "riverbourne"
+    ],
+    "source": "David, 2026-08-17",
+    "note": "FareHarbor had no crew assigned; carried the period's only $65 of gratuity."
+   }
   },
   {
    "pk": 1882908962,

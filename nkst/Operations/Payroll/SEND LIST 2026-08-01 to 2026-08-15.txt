@@ -1,12 +1,12 @@
 NKST PayPal send list — 2026-08-01 → 2026-08-15
 Memo for every payment: NKST tours 2026-08-01 → 2026-08-15
 
-*** DO NOT SEND — 7 blocker(s) unresolved ***
+*** DO NOT SEND — 5 blocker(s) unresolved ***
 
    510.00   NO PAYPAL ON FILE                  Chelsea Hines
-   200.00   NO PAYPAL ON FILE                  River Bourne
+   365.00   NO PAYPAL ON FILE                  River Bourne
    100.00   NO PAYPAL ON FILE                  Alexis Hingle
    100.00   NO PAYPAL ON FILE                  Stephanie Lazensky
    100.00   NO PAYPAL ON FILE                  Abbie Marks
 
-TOTAL $1,010 to 5 guides
+TOTAL $1,175 to 5 guides
