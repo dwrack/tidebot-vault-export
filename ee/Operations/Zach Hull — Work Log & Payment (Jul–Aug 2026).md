@@ -61,19 +61,24 @@ Without per-day hours this can't be split cleanly. Ask Zach for hours by day, or
 | Aug 4 | "Stacked my schedule this week and next... wasn't anticipating being working right now" | His availability is thin. Don't assume he can take a big block |
 | Aug 15 | Sent name + email, presumably for payment setup | Done |
 
-## Priority list (posted to #marina-maintenance 2026-08-17, awaiting Jonah's confirm)
+## Priority list — live in #marina-maintenance
 
-Dock cleats are top, per Davey.
+Posted 2026-08-17. Channel `C0BQ5RS1BLL`, message ts `1787003341.672729` (also at `~/.config/ee-punchlist/marina-maintenance-post.json`). **Edit this message in place, don't repost.** Davey has to pin it by hand, the bot has no `pins:write`.
 
-1. **Dock cleats** — the slips Zach documented 8/4. Blocked on him sharing the list
-2. **Loose dock screws + boards** — 4.5in screws dropped in the floating home 8/17
+Dock cleats are top, per the last dock walk.
+
+**Marina**
+1. **Dock cleats** — the slips Zach documented 8/4. Blocked on him sharing the list. New standing ask: he reports which slips got done at EOD each day
+2. **Loose dock screws + boards** — 4.5in screws in the floating home as of 8/17. Long ones only where necessary
 3. **Slip padding** as found (slip 90 done)
-4. **Water thing** removed, covered with clean wood, no sign
-5. **Storage closet** cleared → 3rd changing room, curtains
-6. **TP holder** down, patch and paint
-7. **Sauna door ball** — find a source to reorder
 
-Status: posted to Slack `#marina-maintenance` for Jonah to confirm the order. The text to Zach (same list + the two confirm questions + a request for his availability) is **held until Jonah replies**.
+**Sauna**
+4. **Water thing** removed and covered. **OPEN: plain wood or signage?** Davey called plain wood / no sign on 8/13, now reopened
+5. **Storage closet** already cleared, becomes the 3rd changing room. **OPEN: curtains (ask Jacqueline) or finish the drywall and cap the utilities?**
+6. **TP holder** now free-standing. Patch done, still needs finishing
+7. **Sauna door ball** — handled. Two ordered (old style + magnetic), landing at David's Wednesday
+
+Status: the text to Zach is **held** until items 4 and 5 get a call.
 
 ## Related
 
