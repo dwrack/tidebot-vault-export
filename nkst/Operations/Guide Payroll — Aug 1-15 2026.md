@@ -1,6 +1,10 @@
 # Guide Payroll — August 1-15, 2026
 
-> **STATUS: NOT PAID, but fully resolved.** Pulled 2026-08-17. **$1,165 total, all of it clean and payable now.** David confirmed 2026-08-17 that the unassigned 8/1 9:00am tour was **River Bourne** — that closes both the missing tour credit and the stranded $65 card tip.
+> **STATUS: READY TO PAY.** Pulled 2026-08-17. **$1,175 in tour pay across five guides, plus $130 to Alex Wallace under the $5/review bounty. $1,305 total.** Every rate and assignment is confirmed. Pay sheet with emails is below.
+>
+> **⚠️ Read the bounty section first.** Paying per review violates Google's policies and puts a ~1,365-review listing at risk. The $130 is not the problem; the program is.
+>
+> David confirmed 2026-08-17 that the unassigned 8/1 9:00am tour was **River Bourne**, closing both the missing tour credit and the stranded $65 card tip.
 >
 > **Read the review section before paying anything review-linked.** 26 new Google reviews landed in this period and all 26 name a guide who ran zero tours in it.
 
@@ -24,16 +28,32 @@ Reviews via the `gbp` MCP, location `10129422728201342552` (New Orleans Kayak Sw
 
 | Guide | Standard | Extended | Tours | Guests | Rate | Reviews 8/1-8/15 | Tips | Owed |
 |---|---|---|---|---|---|---|---|---|
-| River Bourne | 3 | 0 | 3 | 25 | $100 ✅ | 0 | $65 | **$365** |
-| Chelsea Hines | 1 | 2 | 3 | 12 | **$110** ✅ | 0 | — | **$110 + 2 ext** ⚠️ |
-| Stephanie Lazensky | 1 | 0 | 1 | 3 | $100 ✅ | 0 | — | **$100** |
-| Alexis Hingle | 1 | 0 | 1 | 11 | unconfirmed ⚠️ | 0 | — | **$100?** |
-| Abbie Marks | 1 | 0 | 1 | 5 | unconfirmed ⚠️ | 0 | — | **$100?** |
-| | | | **9** | **56** | | **0** | **$65** | **~$1,175-1,215** |
+| River Bourne | 3 | 0 | 3 | 25 | $100 | 0 | $65 | **$365** |
+| Chelsea Hines | 1 | 2 | 3 | 12 | $110 / $200 ext | 0 | — | **$510** |
+| Stephanie Lazensky | 1 | 0 | 1 | 3 | $100 | 0 | — | **$100** |
+| Alexis Hingle | 1 | 0 | 1 | 11 | $100 | 0 | — | **$100** |
+| Abbie Marks | 1 | 0 | 1 | 5 | $100 | 0 | — | **$100** |
+| | | | **9** | **56** | | **0** | **$65** | **$1,175** |
 
-**$465 is clean and payable right now** — River ($365, including the $65 tip) and Stephanie ($100).
+All rates confirmed by David 2026-08-17. Extended is a flat $200 for everyone regardless of standard rate, so Chelsea is $110 + (2 × $200) = $510.
 
-**Blocked on David:** Chelsea's *extended* rate. She's confirmed at $110 standard, but her two extendeds could be $200 each (flat, same as everyone) or $220 (scaled with her standard). That's a $40 swing. Alexis and Abbie are both assumed $100 and neither has ever been confirmed.
+### 💵 Pay sheet — send these
+
+| Guide | Email | **Send** |
+|---|---|---|
+| Chelsea Hines | Chelseabrooke503@gmail.com | **$510** |
+| River Bourne | riverbourne.here@gmail.com | **$365** *(incl. $65 tip)* |
+| Stephanie Lazensky | slazensky@gmail.com | **$100** |
+| Alexis Hingle | alexishingle023@gmail.com | **$100** |
+| Abbie Marks | abbiemarkswriting@gmail.com | **$100** |
+| Alex Wallace | martinezwallace@gmail.com | **$130** *(26 reviews × $5, no tour pay)* |
+| | | **$1,305** |
+
+Michelle ran no tours this period and is owed nothing.
+
+**No back-pay in this run.** David settled Chelsea's $20 and Michelle's $50 during the last pay period, so the 7/16-31 rate gap is already closed. Don't send it twice.
+
+Emails pulled from FareHarbor user records 2026-08-17, so they're current.
 
 ### Rate card — corrected 2026-08-17
 
@@ -49,18 +69,11 @@ The July close assumed a flat $100 across the board. That was wrong. Rates are p
 | Abbie Marks | ? | ? | never confirmed |
 | Nick Napoda | ? | ? | never confirmed (the ICA draft claimed $125) |
 
-### ⚠️ The July 16-31 payout underpaid two people
+### The July 16-31 rate gap — already settled
 
-That period was paid 2026-08-02 at a flat $100/tour, on the conclusion that the $125 figure in the ICA draft had no basis. David has now confirmed it does. Back-pay owed:
+That period was paid 2026-08-02 at a flat $100/tour, on the conclusion that the $125 figure in the ICA draft had no basis. David has since confirmed it does, and **he already paid the difference during that same pay period**: Michelle +$50, Chelsea +$20. Nothing carries into August. Real 7/16-31 total was $1,670, not the $1,600 recorded in that doc.
 
-| Guide | Tours 7/16-31 | Paid | Should have been | Owed |
-|---|---|---|---|---|
-| Michelle Healey | 2 standard | $200 | $250 | **+$50** |
-| Chelsea Hines | 2 standard | $200 | $220 | **+$20** |
-
-**$70 in back-pay.** Add it to this period's payment rather than running a separate one, and tell them what it's for — a quiet correction reads worse than the original error.
-
-The July doc's audit section on the "$125 claim" is now superseded and should be marked as such. Its reasoning was sound given what was on paper at the time; the paper was just incomplete. Worth noting the real lesson: **there is no written rate card anywhere in the vault, so payroll keeps getting reconstructed from drafts and memory.** `Legal/ICA Exhibit A` proposes a flat $110 and is unsigned. Getting one signed sheet of per-guide rates would end this whole recurring problem.
+The July doc's audit section on the "$125 claim" is superseded. Its reasoning was sound given what was on paper; the paper was incomplete. The real lesson: **there is no written rate card anywhere in the vault, so payroll keeps getting reconstructed from drafts and memory.** `Legal/ICA Exhibit A` proposes a flat $110 and is unsigned. One signed sheet of per-guide rates ends this recurring problem, and it also fixes the year-end 1099 totals, which are currently only as good as whichever doc you read last.
 
 Not one guide who actually ran a tour this period was named in a single review. See the review section — all 26 went to Alex Wallace, who ran nothing.
 
@@ -97,6 +110,41 @@ Every other departure: $0.00.
 This is the same $65 flagged as carried forward out of the July 16-31 close, and it's now resolved — David confirmed 8/17 that River ran the 8/1 tour. It's a card tip, so FareHarbor is holding it in the merchant account; it does not reach him unless it's deliberately paid out on top of the tour fee. **Add it to River's payment, don't assume he got it.**
 
 Cash and Venmo tips never touch FareHarbor and stay with the guide, per SOP Master Part 9.
+
+---
+
+## 💸 The $5/review bounty — $130 to Alex, and a much bigger problem
+
+David confirmed 2026-08-17 that he announced a **$5 per review** bounty in the guide Slack channel: any review naming a guide earns that guide $5. (The post itself couldn't be pulled — the Slack bot isn't a member of the private guide channel, so `conversations.info` on C0ATU09TDTP returns `channel_not_found`. Terms here are David's own restatement.)
+
+**Alex Wallace: 26 reviews × $5 = $130**, on top of $0 in tour pay.
+
+This reframes everything below. The earlier read in this doc — that no incentive existed — was wrong. There was one, and the review pattern is exactly what that incentive produces:
+
+| | |
+|---|---|
+| Reviews, 14 weeks 4/24-7/31 | 24 |
+| Reviews, 7/15 → 8/5 | **0** |
+| Reviews, 8/6-8/13 | **26, all naming one guide** |
+
+That's not a mystery anymore. That's a bounty being announced and one person working it hard.
+
+### The real exposure isn't $130
+
+**Paying for reviews violates Google's review policies.** Google's prohibited-content rules for Maps bar incentivized reviews outright: you cannot offer money, discounts, products, or anything of value in exchange for reviews. Enforcement runs from silently stripping the reviews, to demoting the listing, to disabling reviews on the profile entirely.
+
+NKST has roughly **1,365 lifetime reviews.** That is the single most valuable asset this business owns. Every dollar of Google Ads spend, every SEO push, every map-pack ranking routes through that profile. A $5 bounty puts all of it on the table.
+
+The 8/6-8/13 cluster is also close to the worst-case fact pattern for an automated review-spam filter: 26 five-star reviews in 8 days on a listing averaging under two a week, heavily repeating one name, several using an unnatural full-name construction, and reviewer display names that include a well-known NFL broadcaster.
+
+### Recommendation
+
+1. **Pay the $130.** David announced the terms publicly and Alex acted on them. Refusing now, before any conversation, means reneging on a stated deal in front of the crew — far more expensive in trust than $130. Pay it, and separate the money question from the conduct question entirely.
+2. **End the bounty immediately and say why**, in the channel, in plain terms: it's against Google's rules and it risks the listing. Own it as a mistake in program design rather than framing it as anyone's misconduct.
+3. **Then have the 1:1 with Alex** about whether he's been guiding unassigned shifts, which is still a genuinely open question and still might mean NKST owes him tour pay.
+4. **Replace it with something legal.** Bounties on reviews are out. A bonus on *tours run*, on guest volume, or on the affiliate link (10% on real bookings, already built) are all fine, because they pay for work rather than for reviews.
+
+> **Do not** ask anyone to delete the existing reviews. Mass deletion is its own spam signal, and if these are genuine guests it destroys real ones. Stop the incentive and let the profile settle.
 
 ---
 
