@@ -61,6 +61,20 @@ Without per-day hours this can't be split cleanly. Ask Zach for hours by day, or
 | Aug 4 | "Stacked my schedule this week and next... wasn't anticipating being working right now" | His availability is thin. Don't assume he can take a big block |
 | Aug 15 | Sent name + email, presumably for payment setup | Done |
 
+## Priority list (posted to #marina-maintenance 2026-08-17, awaiting Jonah's confirm)
+
+Dock cleats are top, per Davey.
+
+1. **Dock cleats** — the slips Zach documented 8/4. Blocked on him sharing the list
+2. **Loose dock screws + boards** — 4.5in screws dropped in the floating home 8/17
+3. **Slip padding** as found (slip 90 done)
+4. **Water thing** removed, covered with clean wood, no sign
+5. **Storage closet** cleared → 3rd changing room, curtains
+6. **TP holder** down, patch and paint
+7. **Sauna door ball** — find a source to reorder
+
+Status: posted to Slack `#marina-maintenance` for Jonah to confirm the order. The text to Zach (same list + the two confirm questions + a request for his availability) is **held until Jonah replies**.
+
 ## Related
 
 - [[Punch List — Action Plan (Aug 2026)]]
