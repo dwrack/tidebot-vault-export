@@ -33,7 +33,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 2 | Manchac: Pip & Brian took over kayak ops. Meeting Michael asked for 8/15 | all | open |
 | 3 | 1099 contracts w/ per-role duties. Jeff's duty list 7/7, pushed 7/28 | David | open |
 | 4 | Parked: sell both pedal boats, buy one 50-passenger | David | parked |
-| 35 | Shared PA for David + Michael, 2 days each per week. Phones + marketing execution, remote, NOT another New Orleans ops hire. Would give item #7 an owner who isn't Jeff or JT | David + Michael | new 8/17 |
+| 35 | Shared **in-person** assistant for David + Michael. 6 hrs/day, weekdays (~30 hrs/wk). Local to David + Michael, NOT offshore and NOT another New Orleans ops hire. Phones + marketing execution. Gives item #7 an owner who isn't Jeff or JT. Open: W2 vs 1099 classification (set hours + direction + their equipment = W2), and 30 hrs/wk sits on a benefits threshold — CPA question | David + Michael | new 8/17 |
 
 ## Sales / OpenCX
 | # | Item | Owner | Status |
