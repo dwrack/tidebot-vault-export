@@ -1,6 +1,8 @@
 # Guide Payroll — July 16-31, 2026
 
-> **STATUS: PAID — 2026-08-02.** David ran the full $1,600 via PayPal, Michelle at $100/tour (the $125 claim was audited and found to have no basis — see below). All five guides paid as listed in the table.
+> **STATUS: PAID — 2026-08-02. Period total $1,670, not $1,600.**
+>
+> **CORRECTION (2026-08-17):** the audit below concluded Michelle's $125 rate had no basis and recommended $100. David has since confirmed **$125 is correct**, and that **Chelsea is $110**, not $100. He paid both differences within this same pay period — Michelle +$50, Chelsea +$20 — so the table below understates what actually went out. Nothing is still owed. Rates are per-guide, not flat; see [[Operations/Guide Payroll — Aug 1-15 2026]] for the corrected rate card. Treat the "$125 claim" section below as superseded.
 >
 > **Carried into Aug 1-15:** the $65 card tip from 8/1 still needs passing through to whoever ran that tour, and that guide is still unidentified in FareHarbor.
 >
