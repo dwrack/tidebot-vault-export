@@ -2,26 +2,25 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 3
-revenue_today: 281
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 22
+ad_spend_yday: 19
 status: yellow
-alert: "$209.85 Meta over 7 days, zero tracked purchases"
-updated: 2026-08-16
+alert: "$216.56 over 7 days for zero purchases; 4 unreplied reviews"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH Aug 15: 3 booked, $281 (6-day avg 2.8 / $291). Flat. Ran 12 tours for $1,299, well above its recent run rate.
-- **The ad problem: act_1015419897308486 has spent $209.85 over 7 days with ZERO tracked purchases.** 25,561 video views, 1,702 link clicks, 1,149 landing page views, nothing measurable at the end of it.
-- Root cause is objective, not creative. `Bat Bridge Kayak Tour - Traffic` ($22.11 yesterday) is a **traffic** campaign and `HPB | Engagement | Followers Reboost` ($10.47) is an **engagement** campaign. **There is no purchase-objective campaign in the account at all.** Either add one or move the budget somewhere that converts.
-- The traffic campaign isn't bad at its job: 7.51% CTR, 272 link clicks at $0.08, 201 landing page views at $0.11. It's just pointed at the wrong goal.
-- GBP 4.8 (581). **2 unreplied 5★, both from Aug 15** — Laila Pantoja and Devo Green, both naming Chad.
-- **Chad is named in 4 of the last 10 reviews.** He's the brand's biggest asset and he's uncredited everywhere except Google.
-- The Aug 14 5★ (Mariah Reeves) buys two fixable complaints: **there is no visible sign at the put-in** (guests navigate by spotting the life jacket rack) and the gator route is full of litter and sunken shopping carts. The reply already promised better signage. Worth closing out.
-- IG: Aug 7 image post hit **72 likes** against a 6-13 baseline. Bat tour and sunset tour content is the engine.
-- No GSC property, no Google Ads account.
+- **`act_1015419897308486` has spent $216.56 in 7 days for zero tracked purchases.** Flagged the same way on Aug 16 and nothing changed. Yesterday: $19.08 on `Bat Bridge Kayak Tour - Traffic`, which bought 248 link clicks and 1,019 video views. **The campaign objective is Traffic. There is no purchase campaign in the account at all.** 50,308 impressions and 1,811 link clicks over the week, none of it measurable against revenue.
+- Either stand up a conversion campaign this week or move the ~$30/day to LSKT, where Google is returning 9.81x.
+- **4 unreplied 5★:** Cassie Tanzey (Aug 17, Chad), G. Douglas (Aug 16), Laila Pantoja (Aug 15, Chad), Devo Green (Aug 15, Chad).
+- **Chad is named in 5 of the last 10 reviews.** By far the strongest single-guide signal at this business. Build creative around him.
+- **Two recurring operational complaints from otherwise-positive reviews:** Mariah Reeves (Aug 14) said there was **no visible sign at the put-in**, they only found it by spotting the life jacket rack, plus hard parking. Nicole Blanchard (Jul 29) paid for **4 headlights that were never handed over**. Signage is a one-time fix; the headlight miss is a checklist problem.
+- The litter on the gator route also came up again in Mariah's review. It's not your fault but it's shaping the experience.
+- No Google Ads account, no GSC property, no GA4. Meta and GBP are the only channels here.
+- GBP 4.8 (583 reviews). FH Aug 17: no data (403). Last clean day Aug 15: 3 booked / $281, 12 tours ran / $1,299.
 <!-- live:end -->
 
 ## Quick links

@@ -7,16 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "dormant — no data sources, IG silent since Nov 2025"
-updated: 2026-08-16
+alert: "no GBP, no GSC, no ads, no FH; IG-only and IG is down"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- **No GBP location, no GSC site, no Google Ads, no GA4, no Meta ad account.** Instagram only. Nothing to pull.
-- IG last posted **Nov 14, 2025 — nine months dark.** The final run was a giveaway that actually worked: 38 and 34 shares, 7 comments on one post, 2 on another. The audience was responsive right up until the account stopped.
-- Carried as a placeholder in this brief for months now. It is either restarted or formally shelved; there's no third option and no data will appear until one of those happens.
-- If it restarts, the Seabrook/Kemah geo angle and the giveaway mechanic are the two things that demonstrably worked.
+- **The least-instrumented business in the portfolio.** No GBP location, no GSC property, no Google Ads, no Meta ad account, no GA4, no FareHarbor. The roster has exactly one ID for it: an Instagram user ID.
+- **Instagram did not pull this session.** The `meta-organic` MCP server isn't connected, so even the one channel this brand has is invisible today.
+- Net effect: there is nothing to report and no way to know if that's good or bad. This tile will stay uninformative until at least a GBP listing exists.
+- Cheapest fix with the highest payoff: **create the Google Business Profile.** Every sister brand's strongest organic signal comes from GBP, and HBC has none.
 <!-- live:end -->
 
 ## Quick links

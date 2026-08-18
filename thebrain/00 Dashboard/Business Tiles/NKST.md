@@ -2,24 +2,25 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 2
-revenue_today: 310
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "ran 1 tour on a peak Saturday; IG permission-denied"
-updated: 2026-08-16
+alert: "ranking #22 for its own brand name; FH data stale"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH Aug 15: 2 booked, $310 (6-day avg 2.2 / $338). Flat on bookings, but it **ran only 1 tour** while NPB ran 85, DCKT 36 and LSKT 31 on the same Saturday. That is an operations question, not a demand one: staffing, capacity, or listings.
-- GBP 4.9 (1,398). **1 unreplied 5★** — Mark Gallagher, Aug 10: "Alex is the best best best best best guide! Would give ten stars if I could." The Aug 15 reply sweep cleared 9 of the 10.
-- **Alex is named in 8 of the last 10 reviews** and the copy is unusually quotable. Best untapped testimonial pool in the portfolio. Still unmined.
-- **GSC is all informational, no commercial intent.** "are alligators or crocodiles more dangerous" 311 impr at #5.68 → 1 click. "alligators vs crocodiles" 254 impr → 1 click. "are alligators dangerous" 202 impr → 2 clicks. All sub-1% CTR. Meanwhile **"manchac swamp tour" is stuck at #28.2** and that's the term that sells trips.
-- GA4 (401824264) Aug 15 sessions: direct 152, **instagram.com 68**, google 32, facebook.com 26, reddit 3. Instagram sends real volume. GA4 does not capture FareHarbor bookings on this property, so ignore its conversion column.
-- Watched page `/airboat-vs-kayak-swamp-tour-new-orleans/`: **87 impressions Aug 8–14, still 0 clicks**, position ranging #5.29 to #16.06. Baseline was 0 impressions, so **this moved** — it's ranking now and converting none of it. GA4 views still under 5. The title/meta rewrite plus an internal link from the Manchac tour page is the cheapest win available and is two weeks overdue.
-- **IG pull failed again: FB API code 10, permission denied.** Second straight day. Token scope check needed.
+- **FH Aug 17: no data** (403). Last clean day Aug 15: 2 booked / $310, and it **ran only 1 tour** while NPB ran 85, DCKT 36 and LSKT 31 on the same Saturday. Still an unanswered operations question.
+- **Brand-term failure: "new orleans kayak swamp tours" ranks #22.38.** 58 impressions, 3 clicks. You should not be on page three for your own name. Commercial terms are off page one too: "kayak new orleans" #19.4, "kayaking in new orleans" #18.0.
+- **The trivia trap keeps getting worse.** "which is more dangerous alligator or crocodile" pulled **951 impressions for 2 clicks** (0.21% CTR) at position 6.9. Add "are crocodiles more dangerous than alligators" (223), "are alligators or crocodiles more aggressive" (343), "are alligators dangerous" (214) and it's ~1,700 impressions for 5 clicks. Enormous reach, no commercial intent, no conversion path.
+- GA4 (401824264) Aug 17: 202 sessions. **instagram.com 90 is now the #1 source**, ahead of direct (42) and google (37). IG was 68 on Aug 15, so it's climbing. This site runs on Instagram.
+- Watched page `/airboat-vs-kayak-swamp-tour-new-orleans/`: **72 impressions Aug 10-16, still 0 clicks.** Position swinging #7.6 to #25.7. GA4 views under 8. Three weeks ranking, zero clicks. **The title/meta rewrite is a month overdue.**
+- **New ammunition for that page:** Celeste Lessig's 5★ from Aug 17 makes the exact argument the post is supposed to make: "You are able to traverse in unique places kayaks can go versus larger vessels like the airboats." Paste it in. She's unreplied.
+- **Alex is named in 8 of the last 10 reviews.** Best untapped testimonial pool in the portfolio. Still unmined.
+- Meta spend: $0. GBP 4.9 (1,399), 1 unreplied 5★.
 <!-- live:end -->
 
 ## Quick links

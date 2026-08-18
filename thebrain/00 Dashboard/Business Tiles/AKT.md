@@ -7,19 +7,19 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta dark all week; Groupon decision still open"
-updated: 2026-08-16
+alert: "Meta account dark; no GSC property of its own"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- Not on the FareHarbor scrape list. Bookings run through the Lone Star setup.
-- **Meta account act_638850950128825 spent $0 yesterday and $0 all week.** Shared with LSKT. Google 8497383499 (also shared) returned 5.91 ROAS on $82.38, so the Austin market is converting and Meta is simply switched off.
-- GBP 4.8 (139). Zero unreplied in the recent-10 window.
-- **The Jul 25 1★ (Matt Goit, "advertises Groupon deals but won't honor them") was finally replied to Aug 15 21:31**, pointing him to info@austinkayaktours.com. The reply is fine. **The underlying decision is still open: honor the Groupon listings or pull them.** This has been sitting for three weeks.
-- The Jul 26 4★ (Jordan Pedalino) is a detailed, fair writeup with three fixable complaints: the walk-back path is unlit and people use phone flashlights, parking is expensive and not disclosed up front, and the launch area behind the apartment complex reads as sketchy. Guide Michael carried the night solo after a no-show coworker. **Two of those three are cheap fixes.**
-- No GSC property. Organic search is invisible for this brand.
-- IG: **doubled up on Aug 14** with two near-identical bat-tour carousels four hours apart (16 likes and 7 likes). Looks like a scheduling mistake.
+- Shares Google account 8497383499 with LSKT, which returned **9.81x ROAS yesterday** on $50.46. Shares Meta account `act_638850950128825`, which is **fully dark**, zero delivery for 7 days.
+- **No GSC property in the roster.** Meanwhile LSKT's domain ranks **#3 for "austin kayak tours"**, this brand's exact name. AKT's own search visibility is invisible to this brief because there's nothing to query.
+- **1 unreplied 5★:** Sheila Simpsen, Aug 17. Strong copy: "Our guides Gregory and Enola shared interesting facts about Austin and the bat colony. They also gave us the freedom to freely explore the area, **not something other tours were free to do**. Bucket list worthy!" That middle clause is a competitive differentiator handed to you for free. Use it in ad copy.
+- GBP 4.8 (140 reviews). The two recent negatives are both handled: Matt Goit's 1★ about Groupon (replied Aug 15) and Jordan Pedalino's detailed 4★ about the dark path and paid parking (replied Aug 15).
+- **Jordan's 4★ named two fixable operational problems:** no lighting on the walk back up the hill in the dark, and expensive parking not included or disclosed. Both are cheap to fix and both will keep costing stars until they are.
+- Guides named: Michael, Tristan, Celeste, Gregory, Enola, Aiden, Derek, Rafi. Deep bench, all praised.
+- No FareHarbor account of its own, no GA4.
 <!-- live:end -->
 
 ## Quick links

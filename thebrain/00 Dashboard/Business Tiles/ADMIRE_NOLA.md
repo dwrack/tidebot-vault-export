@@ -6,20 +6,19 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-16
+status: yellow
+alert: "review volume stalled; no ad spend running"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- Not on the FareHarbor scrape list. No Google Ads account of its own; NOLA spend runs through the Gravity Trails umbrella 4378232023 ($160.72 yesterday, **9.19 ROAS**, unsplit by brand).
-- Meta: only `New Sales Campaign` ran in act_87863118 at **$0.44** on 42 impressions. Effectively dormant. Whether that campaign belongs to Admire NOLA or elsewhere isn't clear from the name.
-- **GSC owns the plantation angle.** "swamp and plantation tour" **#1.20**, "new orleans plantation" **#2.00**, "new orleans swamp and plantation tour" #2.22, "plantation tour new orleans" #5.35 (2 clicks / 20 impr), "plantations near me" #5.00. This is a real differentiated position — nobody else in the portfolio ranks on plantation terms.
-- Weak spot: "swamp tours new orleans" **#6.91 on 34 impressions for 1 click**. NPB ranks #7.76 on the same term. Two properties in the same range, neither winning it.
-- GBP 4.9 (427). Zero unreplied. **Most recent review is Sep 2025** — 11 months of silence on a business with a 427-review base.
-- ReplyAgent sent its daily report this morning flagging **"Manual Approval Needed"** on AI-generated comments. Nothing auto-posts, but the queue is waiting on a human.
-- IG @admirenola is active and posting daily long-form swamp history reels (Manchac curse, tannin water, no-baiting policy). Well-written, near-zero engagement: **2-9 likes, 0 comments across the last 5 posts.** Good content reaching nobody.
+- No FareHarbor, no Google Ads, no GA4. GBP + GSC + IG only, and IG didn't pull this session.
+- GBP 4.9 (427 reviews). **Zero unreplied.** Newest review in the recent 10 is **Sept 2025**, nearly a year stale. For a 427-review listing that's a real slowdown worth diagnosing.
+- Meta prefix "Admire NOLA" had **no campaigns running** in `act_87863118` yesterday. The account's only spend went to NPB.
+- ReplyAgent has **2 daily reports stacked awaiting manual approval** (Aug 17 and Aug 18).
+- Guides named across reviews: Nick (3), AJ (2). Both consistently praised for wildlife spotting and natural history.
+- No GSC data pulled this cycle for admirenola.com beyond the roster entry; nothing surfaced as an anomaly.
 <!-- live:end -->
 
 ## Quick links

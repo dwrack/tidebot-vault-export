@@ -6,20 +6,19 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-16
+status: yellow
+alert: "no FH, no ads, no IG account; effectively unmonitored"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- Not on the FareHarbor scrape list. No Google Ads account of its own. No `Bike Bar` campaign ran in act_87863118 yesterday.
-- **GSC is small but clean.** "party bike new orleans" **#1.25**, "paddle bar near me" **#1.00**, "nola bike bar" #2.11 (4 clicks / 9 impr), "bike bar new orleans" #3.88. Total volume is tiny — 13 clicks across the whole week — but almost everything sits page one.
-- The gap is upstream: "bike tour new orleans" (15 impr) is at **#12.00** and "new orleans bike bar" at **#13.50**. Those are the terms with volume and it's not competitive on them.
-- GBP 4.8 (179). Zero unreplied. **The most recent review is from June 2025** — 14 months with no new reviews on a business that's presumably still running. That's the thing to fix.
-- Reviews consistently name guides: **Bob** in 3 of the last 10, Colin in 2, Bryan/Brian in 2.
-- The Mar 2025 review from Sarah Samaranayake is a marketing asset sitting unused: bachelorette group, Bluetooth speaker, three breweries, crawfish stops, plus a genuinely useful note about waving at neighbors.
-- **No Instagram account** in the roster.
+- No FareHarbor account, no Google Ads, no GA4, no Instagram in the roster. The only live signals are GBP and GSC.
+- GBP 4.8 (179 reviews). **Zero unreplied.** But the newest review in the recent 10 is from **June 2025**, over a year ago. Either review volume has died or the listing has gone quiet.
+- GSC is tiny but the brand split is worth fixing: **"nola bike bar" ranks #1 while "new orleans bike bar" sits at #13.5.** Same business, two obvious phrasings, twelve positions apart. One title/H1 change closes it.
+- "party bike new orleans" #1.25 / 2 clicks and "bike tour new orleans" #12.3 / 15 impressions are the only real commercial terms showing.
+- Meta prefix "Bike Bar" had **zero campaigns running** in `act_87863118` yesterday.
+- Guides named in reviews: Bob (4 of 10), Colin, Bryan. Bob is the recurring favorite.
 <!-- live:end -->
 
 ## Quick links

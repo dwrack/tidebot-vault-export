@@ -2,27 +2,25 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 3
-revenue_today: 319
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 30
+ad_spend_yday: 35
 status: yellow
-alert: "Google conv values still $1 flat; 0 conv yesterday"
-updated: 2026-08-16
+alert: "conversion values still $1 flat; 0 conversions yesterday; TikTok pull down"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH Aug 15: 3 booked, $319 (6-day avg 1.8 / $419). Ran **17 tours for $2,104**, a strong operating day against light new bookings.
-- **Google Ads 2986009791 conversion values are still broken.** 7-day: 3 conversions, **$3 total value** — a flat $1 per conversion, 0.02 ROAS. Flagged yesterday, unchanged. Every ROAS figure from this account is fiction until FareHarbor values pass through. Yesterday: $19.82 spend, **0 conversions**, 7.53% CTR at $0.46 CPC.
-- Meta `HPB | Engagement | Followers Reboost` $10.47 → 2,424 video views, 2,484 post engagements, **10 link clicks at $1.05 each**, zero purchases. It's an engagement campaign doing engagement. It is not a booking channel and shouldn't be measured as one.
-- Sitting in act_1015419897308486, which has **spent $209.85 over 7 days with zero tracked purchases** across both HPB and Buffalo Bayou. No purchase-objective campaign exists in the account.
-- GBP 4.9 (974). **1 unreplied 5★** — Tammy Coleman, Aug 15: "We had a marvelous time today. Thank you Julian."
-- **Julian is named in 4 of the last 10 reviews**, Dustin in 2, Blake in 2.
-- The Jul 27 1★ (no captain for a last-minute Sunday booking) got a long, combative three-part reply. It's factually defensible but the tone is rough and it's public. Worth a second look.
-- IG: Aug 13 "Looking for plans this weekend?" got **52 likes / 24 shares**, best in weeks. Aug 15 post at 9 likes.
-- **TikTok not pulled.** Playwright browser refused connection on 127.0.0.1:9222. Not a session expiry — the local CDP browser isn't running. Third day.
-- No GSC property.
+- **Google: $25.24 yesterday, 0 conversions.** 488 impressions, 29 clicks, 5.94% CTR. 7-day is $129.14 for 3 conversions.
+- **Conversion values are still $1 flat and have been for weeks.** 7-day shows 3 conversions worth **$3 total**, ROAS 0.02, while `all_conversions` reports **64.99**. Smart Bidding cannot optimize against this and neither can you. Fix the value parameter in the FareHarbor conversion tag before spending another dollar here.
+- Meta: `HPB | Engagement | Followers Reboost` spent $10.25 for **2,851 video views and 11 link clicks**. Objective is Engagement, so it buys engagement and nothing else. Its account (`act_1015419897308486`, shared with Buffalo Bayou) burned **$216.56 over 7 days for zero purchases.**
+- **TikTok not pulled.** The Playwright browser isn't running (ECONNREFUSED on 127.0.0.1:9222). This is not the expired-session case, the debug browser itself needs launching first. @houstonpedalbarge has been dark in this brief for multiple days.
+- **1 unreplied 5★:** Tammy Coleman, Aug 15 ("Thank you Julian").
+- GBP 4.9 (974 reviews). The July 27 1★ from Stephanie Hardin (no captain available on a last-minute Sunday booking) got a long combative three-part reply. It reads defensively and it's public. Worth a look.
+- **Julian is named in 4 of the last 10 reviews**, Dustin and Blake in two each. Julian is the face of this brand right now.
+- FH Aug 17: no data (403). Last clean day Aug 15: 3 booked / $319, 17 tours ran / $2,104.
 <!-- live:end -->
 
 ## Quick links

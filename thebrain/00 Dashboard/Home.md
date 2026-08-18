@@ -1,34 +1,36 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-16 07:05 CDT (Live GBP, Google Ads, Meta, GSC/GA4, IG. **FareHarbor is fixed** — clean scrape, all 6 accounts, zero errors. **Best booking day of the month: 106 bookings, $11,052 booked, 182 tours ran for $33,042.** Both aging negatives (Cave Point 2★, Austin Kayak 1★) got answered last night. DCKT Google CPA recovered to $22.38 from $83.61. What's left is plumbing: 4 scheduled loops failing, Buffalo Bayou/Houston Meta burned $209.85 in 7 days for zero purchases, LSKT+AKT Meta account is fully dark, HPB conversion values still $1 flat, NKST Instagram still permission-denied, TikTok still down.)*
+*Last refresh: 2026-08-18 07:10 CDT (Live GBP, Google Ads, Meta, GSC/GA4. **FareHarbor is blocked again**: 403 on all 6 accounts (third failure in four days), no bookings or revenue since Aug 15. A **1★ landed at DCKT at 1:54am** and it's the third review in six weeks with the same Cave Point complaint. Buffalo Bayou/Houston Meta is now **$216.56 over 7 days for zero purchases**. LSKT/AKT Meta is fully dark while LSKT's Google returns 9.81x. DCKT Google CPA doubled to $27.57. 14 unreplied reviews. IG organic and TikTok both unavailable this session.)*
 
 ## Right now
-- [[Daily Briefings/2026-08-16|Today's brief]]
+- [[Daily Briefings/2026-08-18|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Scale `NPB | Purchase | Retargeting` (act_87863118).** $14.24 spent, $359.31 returned — **25.2x ROAS**, 11.46% CTR. The account's 7-day ROAS is only 1.91, so this one campaign is carrying everything. NPB also booked 44 / $5,601 yesterday vs an 18.3 / $3,839 average. (Same story at DCKT: act_10153674414451399 did 12 purchases for $935 on $104 spend, 8.96 ROAS, and nobody is scaling it either.)
-2. **Buffalo Bayou / Houston Meta has spent $209.85 in 7 days for ZERO tracked purchases (act_1015419897308486).** Both live campaigns are optimized for the wrong objective — `Bat Bridge Kayak Tour - Traffic` and `HPB | Engagement | Followers Reboost`. There is no purchase campaign in the account at all. 25,561 video views bought nothing measurable. Add a conversion campaign or move the money.
-3. **Four scheduled loops are failing, two from one missing Python module.** `Daily Ad Spend Report` is dead 560 hours (since Jul 23) and `Loop Watchdog` exits 1, both throwing `ModuleNotFoundError: No module named 'yaml'` in `~/Projects/ad-spend-report/`. One `pip install pyyaml` likely fixes both. Also: `com.npb.keywordmonitor` MODULE_NOT_FOUND, `com.djl.imessage-channel` NOT LOADED. (And before payroll closes today: **Tristan Olstad passed 40 hrs at DCKT and was still clocked in.**)
+1. **Reply to the DCKT 1★ from 1:54am today, and treat it as a product problem.** Amalia Lia: "It's just paddling along the shore for 2 hours... I would maybe pay $35 for this tour." That's the **third review in six weeks** making the same complaint about the Cave Point route (Cave Point 2★ Aug 8, 4★ last Aug). Two brands, one route. Shorten the paddle, re-price it, or fix the pre-booking copy. 13 more unreplied 5★ are stacked behind it (DCKT 5, Buffalo Bayou 4).
+2. **FareHarbor has failed 3 of the last 4 days and the error changed.** Aug 16 was a 30s timeout; Aug 14 and Aug 17 are **403 blocks** on `POST /booking-original` for all six accounts. That's auth, not latency. Last clean data is Aug 15 (106 booked / $11,052). Two days blind in peak season. Fix `~/Projects/fareharbor-brief/scrape.js` before anything else.
+3. **Two Meta accounts are wasting or leaving money: $216.56 burned, 9.81x ignored.** `act_1015419897308486` (Buffalo Bayou/HPB) spent $216.56 in 7 days for **zero purchases** and still has no purchase campaign, only Traffic and Engagement objectives. Meanwhile `act_638850950128825` (LSKT/AKT) returned **zero rows for 7 days straight** while LSKT's Google account posted **9.81x ROAS on 19.51% CTR** yesterday. Move the Houston money to Austin. (Also unscaled: DCKT's Meta retargeting did $5.03 → $166.96, **33.2x**, second week running.)
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-15) | 7-day avg | Δ |
+| Signal | Yesterday (08-17) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 8 (0 customer) | not tracked | flat |
-| Unreplied GBP reviews (recent-10 scan) | 4 (0 negative) | — | 2 negatives cleared |
-| FH bookings booked (6 FH biz) | **106** | 57.2 | **+48.8** |
-| FH revenue booked (6 FH biz) | **$11,052** | $8,549 | **+$2,503** |
-| FH tours ran / ran revenue | 182 / $33,042 | — | — |
-| Total ad spend (Google + Meta) | $529.76 | $500.73 | +$29.03 |
-| Google Ads conversions | 21.14 | 18.93 | +2.21 |
-| Meta purchases | 3 | 2.29 | +0.71 |
+| Gmail unread (main inbox) | 39 (0 customer) | not tracked | — |
+| Unreplied GBP reviews (recent-10 scan) | 14 (1 negative) | — | +10 vs 08-15 |
+| FH bookings booked | **no data (403)** | 59.8 (5 clean days) | — |
+| FH revenue booked | **no data (403)** | $8,427 | — |
+| Total ad spend (Google + Meta) | $471.88 | $501.47 | -$29.59 |
+| Google Ads spend | $393.82 | $416.92 | -$23.10 |
+| Google Ads conversions | 19.50 | 20.12 | -0.62 |
+| Meta spend | $78.06 | $84.55 | -$6.49 |
+| Meta purchases | 2 | 2.0 | flat |
+| Meta purchase value | $177.51 | $190.94 | -$13.43 |
 <!-- pulse:end -->
-*Best booking day of the month and ad spend barely moved — roughly 21x booked revenue over total spend. NPB and LSKT both tripled their weekly average. The one sour note: NKST ran **1 tour** on a peak Saturday while its sister brands ran 31, 36 and 85. Averages are 6-day, not 7 — Aug 14 FareHarbor data is permanently lost.*
+*Spend and conversions are both essentially flat vs the week. The problem today isn't performance, it's that FareHarbor is blind and $30/day of Houston Meta is still buying nothing. FH averages are 5-day: Aug 14, 16 and 17 are all lost.*
 
 ## Business tiles
 
@@ -36,13 +38,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-16]] (today)
-- [[Daily Briefings/2026-08-15]] (1 day ago)
-- [[Daily Briefings/2026-08-14]] (2 days ago)
-- [[Daily Briefings/2026-08-13]] (3 days ago)
-- [[Daily Briefings/2026-08-12]] (4 days ago)
-- [[Daily Briefings/2026-08-11]] (5 days ago)
-- [[Daily Briefings/2026-08-09]] (7 days ago)
+- [[Daily Briefings/2026-08-18]] (today)
+- [[Daily Briefings/2026-08-16]] (2 days ago)
+- [[Daily Briefings/2026-08-15]] (3 days ago)
+- [[Daily Briefings/2026-08-14]] (4 days ago)
+- [[Daily Briefings/2026-08-13]] (5 days ago)
+- [[Daily Briefings/2026-08-12]] (6 days ago)
+- [[Daily Briefings/2026-08-11]] (7 days ago)
 <!-- briefs:end -->
 
 ## Maps

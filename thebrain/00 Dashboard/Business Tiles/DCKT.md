@@ -2,24 +2,28 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 30
-revenue_today: 2636
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 205
-status: green
-alert: null
-updated: 2026-08-16
+ad_spend_yday: 168
+status: yellow
+alert: "1★ posted 1:54am today; Google CPA doubled; FH data stale"
+updated: 2026-08-18
 tile_type: business
 ---
 
 <!-- live:start -->
-- FH Aug 15: 30 booked, $2,636 (6-day avg 23.5). Ran 36 tours for $7,358. Solid, steady.
-- **Google CPA recovered.** 8672151991 did $191.71 → 8.57 conv at **$22.38 CPA**, down from $83.61 on Aug 14 and $64.23 on Aug 13. Still above the $13.09 7-day but the blowout is over. The search-terms pull can wait a day.
-- **Meta is the best ad dollar in the portfolio and nobody is scaling it.** act_10153674414451399: $104.36 over 7 days → **12 purchases worth $935.12, $8.70 per purchase, 8.96 ROAS**. Yesterday it spent $13.13. `Tailored web traffic campaign 7/8/2026` alone drove 230 link clicks at $0.04 and 211 landing page views on $9.58.
-- GBP 4.9 (985). **Zero unreplied** in the recent-10 window. **Lucas** is named in 3 of the last 10, Tristan in 2.
-- GSC: "door county kayak tours" **#1.32** (24 clicks), "kayaking door county" #1.54, "cave point kayak tour" #2.14, "door county kayak" #1.86. Blog terms carrying weight: "best hikes in door county" #3.96, "door county bike trails" #3.00. **"fish creek wi" has 510 impressions at #11.93 for only 4 clicks** — a page-one push away from real traffic.
-- **Payroll period ends today and Tristan Olstad crossed 40 hrs while still clocked in** (Homebase store 9203446641, alert Sat 12:41pm CDT). Decide before the period closes.
-- IG posting steadily. Aug 13 reel 40 likes. Aug 9 carousel has 3 comments needing review.
+- **1★ at 1:54am today from Amalia Lia, unreplied.** "It's just paddling along the shore for 2 hours. Nothing too exciting really, I got bored a lot. I would maybe pay $35 for this tour." **Third review in six weeks with this exact complaint** about the Cave Point route (Cave Point 2★ Aug 8, 4★ "K" last Aug). This is a product and expectation-setting problem, not a review problem.
+- **6 unreplied reviews total**, the biggest queue in the portfolio: the 1★ plus Hillary Wehe (Aug 18), Kimberly Alexander (Aug 17), Becky Tibbetts (Aug 17), Donell Kelling (Aug 16), Amy Knox (Aug 16).
+- Hillary Wehe's 5★ is worth reading in full: the team let a family with a broken-down vehicle park on site. "Good people and culture!" That's a brand story, not just a review.
+- **Google CPA nearly doubled: $27.57 yesterday vs $14.16 on the 7-day.** ROAS fell to 1.59 from 2.83 on $151.67 spend. Clicks held at 220 (3.43% CTR), conversions fell to 5.5. Conversion-side problem, not traffic. Check search terms today.
+- **Meta is the star and nobody is scaling it.** `Door County Detours - General Retargeting - TourPPC` did **$5.03 → $166.96 yesterday, 33.2x ROAS.** Second week running it posts a 30x+ day and stays at $5.
+- Account `act_10153674414451399` 7-day: $103.32 → $918.25, **8.89 ROAS**, 11 purchases. Best-performing Meta account in the portfolio by a distance.
+- The other DCKT campaign, `Tailored web traffic campaign 7/8/2026`, spent $11.26 for one $10.55 purchase (0.94 ROAS) on an **11.81% CTR** and 304 link clicks. Great traffic, wrong offer or wrong landing page.
+- GSC strong: "door county kayak tours" #1.32 / 25 clicks, "door county kayaking" #7.29 / 14 clicks, "kayak tours door county" #1.00. **Content gap: "fish creek wi" pulled 524 impressions at #11.8 for 5 clicks.**
+- **Cannibalization alert:** `doorcountykayak.com` (DC Ebike) pulled 144 impressions for "door county kayak tours" at #6.44 while this site ranks #1.32 for it. Two owned properties competing.
+- FH Aug 17: no data (403). Last clean day Aug 15: 30 booked / $2,636, 36 tours ran / $7,358.
+- Guides named this week: Lucas, Jackson, Tristan, Casey, Leah. Tristan came up from Texas to cover and got named twice.
 <!-- live:end -->
 
 ## Quick links
