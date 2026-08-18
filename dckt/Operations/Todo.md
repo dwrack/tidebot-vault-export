@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] [Guide log] Replace the snapped right rudder cable on the identified tandem kayak. _(Torey (audio log), 2026-08-18)_
 - [ ] [Guide log] Inspect and repair the slight crack in the hull of one single kayak. _(Sara (audio log), 2026-07-13)_
 - [ ] [Guide log] Replace broken paddle _(Kelly (audio log), 2026-06-18)_
 - [ ] [Guide log] Address the leak in the identified kayak. _(Jessica (audio log), 2026-06-14)_
