@@ -1,15 +1,16 @@
-# Approval Backlog — 2026-08-18
+# Approval Backlog — 2026-08-19
 
-**3 items** across 3 surfaces have been staged longer than 5 days.
+**7 items** across 4 surfaces have been staged longer than 5 days.
 
 Nothing here has been sent, posted, or published. Each one is waiting on you.
 
 | Age | Surface | Waiting | What |
 |--:|---|--:|---|
-| 🔴 95d | Staged for approval | 1 | 2026-05-13 — FareHarbor DNS Request (SPF DKIM DMARC).md — drafts waiting on a yes/no |
-| 🔴 65d | Staged for approval | 1 | 2026-06-13 — Jeff & David Call — Extracted Action Items (for filing).md — drafts waiting on a yes/no |
-| 6d | Staged for approval | 1 | 2026-08-11 — Manager Operating Standards (Keep-Start-Stop + Send Me a Brief).md — drafts waiting on a yes/no |
+| 🔴 96d | Staged for approval | 1 | 2026-05-13 — FareHarbor DNS Request (SPF DKIM DMARC).md — drafts waiting on a yes/no |
+| 🔴 66d | Staged for approval | 1 | 2026-06-13 — Jeff & David Call — Extracted Action Items (for filing).md — drafts waiting on a yes/no |
+| 7d | Staged for approval | 1 | 2026-08-11 — Manager Operating Standards (Keep-Start-Stop + Send Me a Brief).md — drafts waiting on a yes/no |
+| 5d | Family approvals | 4 | Approvals.md — nothing here has been sent |
 
-Another **49** waiting items have not crossed the 5-day line yet.
+Another **43** waiting items have not crossed the 5-day line yet.
 
 _Kill anything you are never going to do. A queue you have decided against is worse than an empty one._
