@@ -7,19 +7,21 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "route expectation gap now showing up on DCKT's listing too"
-updated: 2026-08-18
+alert: "route complaint now 4 reviews deep across 2 brands"
+updated: 2026-08-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- **The route complaint has jumped brands.** Cave Point's own 2★ from Yana Pieces (Aug 8, replied) said "45 min each direction with nothing on the way to see to spend 10 minutes by the cliffs." **DCKT just took a 1★ at 1:54am today saying the same thing.** Add the 4★ from "K" last Aug ("anticlimactic... a long distance only to reach a small cave") and that's three, across two listings. The tour itself needs a decision: shorten the paddle, re-price it, or reset expectations pre-booking.
-- **Best search performance in the portfolio.** "cave point kayak tour" ranks **#1.08 with 29 clicks on 17.2% CTR.** "cave point paddle and pedal" #1.14 / 37.9% CTR. "kayaking cave point door county" #1.22 / 44.4% CTR.
-- **The one real gap: "cave point door county" pulled 148 impressions at #9.6 for 3 clicks.** That's the biggest-volume term on the property and the only one off page one's top slot.
-- "are there bears in door county" showed 84 impressions at #3.00. Informational, but it's ranking well and could feed a Door County trip-planning cluster.
-- GBP 4.9 (304 reviews). **Zero unreplied.** Yana's 2★ got a genuinely good reply on Aug 15.
-- No Google Ads, no GA4. Meta prefix "Cave Point" had no campaigns running yesterday.
-- Guides named: Evan (2), Gordon (2), Levi. All positive. The negatives are never about the guide, always about the route.
+- **Zero unreplied reviews right now — but this brand is the origin of the portfolio's biggest product problem.** The Cave Point route has now drawn the same complaint four times across two brands: Cave Point 2★ Aug 8, Cave Point 4★ Aug 2025, Cave Point 2★ Oct 2024, and **DCKT 1★ Aug 18**.
+- The Aug 8 2★ from Yana Pieces is the clearest statement of it: **"You paddle long way to and back (like 45 min each direction with nothing on the way to see) to spend 10 minutes by the cliffs formations. They should drop way closer."** She also flagged a guide who "said 4 words total and was on her phone on the way back," and photos taken that were never delivered.
+- The reply to that one was genuinely good and admitted the tradeoff. But four guests saying the same thing is a route design decision, not a reply-writing exercise. **Either drop closer, add a stop, or set the expectation on the booking page.**
+- The photo-delivery complaint has now appeared at **two brands** (Cave Point Aug 8, LSKT 1★ Jul 2024). LSKT solved it by having guides use the guest's own phone. Roll that policy here.
+- 4.9 stars on 304 reviews, so the average is fine — the risk is that the negatives are all pointed at one fixable thing.
+- **GSC is excellent and worth defending:** "cave point kayak tour" **#1.09 / 147 impressions / 25 clicks (17% CTR)**, "cave point paddle and pedal" #1.12, "kayak cave point door county" #1.11, "cave point kayak" #1.0.
+- **Two clean position wins available:** "cave point door county" sits at **#9.48 on 120 impressions for 3 clicks**, and "cave point county park kayaking" at **#22.6**. Both are high-intent and both are one page away.
+- Fun one: "are there bears in door county" ranks #2.89 on 73 impressions. Blog traffic doing its job.
+- No ad spend yesterday. No FareHarbor account of its own.
 <!-- live:end -->
 
 ## Quick links

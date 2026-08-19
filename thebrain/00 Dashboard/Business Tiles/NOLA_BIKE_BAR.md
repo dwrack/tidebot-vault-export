@@ -6,19 +6,18 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "no FH, no ads, no IG account; effectively unmonitored"
-updated: 2026-08-18
+status: green
+alert: null
+updated: 2026-08-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- No FareHarbor account, no Google Ads, no GA4, no Instagram in the roster. The only live signals are GBP and GSC.
-- GBP 4.8 (179 reviews). **Zero unreplied.** But the newest review in the recent 10 is from **June 2025**, over a year ago. Either review volume has died or the listing has gone quiet.
-- GSC is tiny but the brand split is worth fixing: **"nola bike bar" ranks #1 while "new orleans bike bar" sits at #13.5.** Same business, two obvious phrasings, twelve positions apart. One title/H1 change closes it.
-- "party bike new orleans" #1.25 / 2 clicks and "bike tour new orleans" #12.3 / 15 impressions are the only real commercial terms showing.
-- Meta prefix "Bike Bar" had **zero campaigns running** in `act_87863118` yesterday.
-- Guides named in reviews: Bob (4 of 10), Colin, Bryan. Bob is the recurring favorite.
+- **Quiet and clean.** Zero unreplied reviews, no ad spend, no FareHarbor account of its own, nothing on fire.
+- 4.8 stars on 179 reviews. Most recent review is from June 2025 — **review velocity is the real issue here, not review sentiment.** Fourteen months with no new Google review on an active tour product means nobody is asking guests to leave one.
+- GSC is thin but ranks where it should: "nola bike bar" #1.0, "party bike new orleans" #1.5, "bike tour new orleans" #11.8. Oddly, **"new orleans bike bar" sits at #13.5** while "nola bike bar" is #1 — same intent, wildly different position. That's a straightforward on-page fix.
+- Meta campaigns with the `Bike Bar` prefix returned no spend yesterday.
+- The best guest review on file (Sarah Samaranayake, bachelorette, six ladies) explicitly praises the Bluetooth speaker and the neighborhood route, and asks future riders to be respectful to residents. That's your positioning and your ops note in one.
 <!-- live:end -->
 
 ## Quick links

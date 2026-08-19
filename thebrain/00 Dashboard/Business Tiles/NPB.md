@@ -5,21 +5,24 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 32
+ad_spend_yday: 47
 status: yellow
-alert: "data stale - FH scrape 403 since Aug 15"
-updated: 2026-08-18
+alert: "FH blind 3rd day; Messenger leads at $4.76 untracked"
+updated: 2026-08-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- **FH Aug 17: no data.** 403 block on all six accounts, third failure in four days. Last clean day was Aug 15: **44 booked / $5,601, 85 tours ran / $19,493**, the biggest single-brand day in the portfolio.
-- Meta yesterday: $32.23 across two campaigns, **0 purchases**. `NPB | Purchase | Retargeting` spent $15.31 on an 8.92% CTR and 55 outbound clicks with nothing to show, two days after its 25.2x day. `NPB | Messenger | TOF` spent $16.92 for 2 conversations and 1 lead.
-- Account `act_87863118` 7-day: $271.95 spend, 3 purchases, $418.31 value, **1.54 ROAS**. That account also carries NKST, Bike Bar and Admire NOLA.
-- **Messenger leads are unauditable.** 57 conversations started in 7 days and no path from any of them to a booking. Either wire the handoff or stop paying for it.
-- GBP 4.9 (3,548 reviews). **Zero unreplied** in the recent 10, cleanest review queue in the portfolio.
-- GSC healthy: "nola party barge" #2.21 / 21 clicks, "party boat new orleans" #1.29, "party barge new orleans" #1.00. Nothing broken here.
-- ReplyAgent has **2 daily reports stacked awaiting manual approval** (Aug 17 and Aug 18).
+- **FareHarbor blind for the third straight day.** Last clean read was Aug 15: **44 booked / $5,601, 85 tours ran / $19,493** — by far the biggest revenue engine in the portfolio, and you can't see it. Aug 18 failed on a 30s timeout, Aug 17 on a 403.
+- **Zero unreplied reviews.** The only business with a fully clean queue. 4.9 stars on **3,548 reviews**.
+- Meta spent **$47.28** yesterday across two campaigns, both performing well on engagement and neither on purchases:
+  - `NPB | Purchase | Retargeting` — $23.46, **8.97% CTR at $0.11 CPC**, 82 link clicks, 76 landing page views, 906 video views. No purchase fired.
+  - `NPB | Messenger | TOF` — $23.82, **5 conversations started at $4.76 each**, 2 of them reaching depth-3. That is the cheapest lead in the entire portfolio and it is counted as a conversion nowhere.
+- The Messenger number is the thing to act on. If a $4.76 conversation closes at even 20%, that's a $24 CAC on a barge booking. Nobody is measuring it.
+- Google spend sits under the `Gravity Trails | NOLA` umbrella ($153.26 yesterday, **6.06x on the week**) and can't be split out per-brand at the account level.
+- GSC is dominant and boring in the best way: "nola party barge" #2.15 / 20 clicks, "party boat new orleans" #1.25, "new orleans party boat" #1.0, "party barge new orleans" #1.0, "boat ride" #1.0. Also newly surfacing on **"bachelorette activities new orleans" at #2** — one impression, one click, worth a page.
+- **ReplyAgent auto-paused for NPB** after 3 days with no approved comments. Reports from Aug 17, 18 and 19 are stacked unapproved.
+- IG (@nolapartybarge) not pulled — server down.
 <!-- live:end -->
 
 ## Quick links

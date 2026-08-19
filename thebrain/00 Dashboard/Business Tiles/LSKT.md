@@ -5,22 +5,22 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 50
+ad_spend_yday: 41
 status: yellow
-alert: "9.81x on Google while its Meta account sits fully dark; legal report unread"
-updated: 2026-08-18
+alert: "Soward legal report on final reminder; FH blind; brand term #17"
+updated: 2026-08-19
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Best ad dollar in the portfolio and it's underfunded.** Google account 8497383499 did **$50.46 → $494.96 yesterday. 9.81x ROAS, 19.51% CTR, $1.26 CPC, $12.62 CPA.** 7-day is 5.57x on $481.81. Yesterday beat the week by 76%.
-- **Meta account `act_638850950128825` is completely dark.** Zero rows for yesterday and zero for the last 7 days. Not an error, no delivery. Demand is proven on search and Meta is contributing literally nothing. This is the clearest under-served channel across all 13 businesses.
-- **Legal: "TENTATIVE: Soward v. Lone Star Kayak Tours" report is still unread** and the email is flagged as a final reminder. Pull it today.
-- **Brand-term problem, same as NKST: "lone star kayak tours" ranks #16.1.** 30 impressions, 3 clicks. Off page one for its own name.
-- **Cross-brand oddity:** this domain ranks **#3 for "austin kayak tours"**, which is the sister brand's name. AKT has no GSC property of its own in the roster, so LSKT is absorbing that traffic. Worth deciding on purpose rather than by accident.
-- Bat-tour terms are the money and they're mid-page: "austin bat kayak tour" #8.6, "kayak bat tour austin" #7.93, "guided sunset bat kayak tour in austin" #4.33. All page one, none top three.
-- FH Aug 17: no data (403). Last clean day Aug 15 was a monster: **24 booked / $1,905, 31 tours ran**, roughly 3x its weekly average.
-- GBP 4.8 (158). Zero unreplied. Newest review in the recent 10 is July 2024, so review generation has stalled hard for a business running 9.81x ads.
+- **The Soward legal report is on its final reminder and still unopened.** Subject line reads "TENTATIVE: Soward v. Lone Star Kayak Tours... one last reminder — your report is still waiting for you." Open it today. "Last reminder" usually means the link goes away.
+- **Google is performing well: 4.44x on the week** ($432.38 → $1,920.05), **14.75% CTR**, $24.94 CPA. Yesterday: $41.19, 1 conversion, 2.63x on a 12% CTR. Small budget, strong efficiency.
+- **Meta has been completely dark for 8 straight days.** `act_638850950128825` returns zero rows for both yesterday and last_7d. This is the account that should be receiving Houston's wasted $30/day.
+- **Brand-term problem: "lone star kayak tours" ranks #17.18** on its own name — 28 impressions, 2 clicks. Same failure mode as NKST. Two brands, same fix.
+- Meanwhile the account ranks fine on generic intent: "paddle boarding lessons" #7.8 (**60% CTR**), "austin kayak tours" #3.0, "guided kayak tours" #3.0, "guided sunset bat kayak tour in austin" #4.4, "austin bat kayak tour" #8.45.
+- Odd one worth checking: **"honey island kayak tour" ranks #7.75 on this domain** — that's an NKST product in Louisiana showing up on the Austin site.
+- **Zero unreplied reviews.** 4.8 on 158, but newest is from June 2024 — **over two years without a new Google review** on an operating business. That's the single biggest fixable gap here.
+- FH blind 3rd day. Aug 15 last clean: **24 booked / $1,905, 31 ran / $2,248** — third-highest booking volume in the portfolio.
 <!-- live:end -->
 
 ## Quick links
