@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at": "2026-08-19T11:26:37.470Z",
+    "for_date": "2026-08-18",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {},
+  "errors": {
+    "buffalobayoukayak": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "doorcountykayaktours": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "houstonpedalbarge": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "lonestarkayaktours": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n",
+    "neworleanskayakswamptours": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"",
+    "neworleanspedalbarge": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n"
+  }
+}
