@@ -8,18 +8,16 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-19
+updated: 2026-08-20
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Zero unreplied reviews.** 4.9 stars on 427 reviews. Latest is Sept 2025 — like Bike Bar, **the problem is review velocity, not sentiment.**
-- **Owns the plantation cluster in GSC:** "new orleans plantation tour" #1.25, "swamp and plantation tour" #1.17, "new orleans plantation" #2.0, "new orleans plantation and swamp tours" #3.0, "best swamp and plantation tours new orleans" #8.0. Small volume, near-perfect positions.
-- "plantation tour new orleans" is the biggest term at #5.35 / 20 impressions / 3 clicks. Moving that from #5 to #2 is the highest-leverage SEO move on this property.
-- Also picking up "party boat new orleans" at #8 — cross-brand overlap with NPB worth checking isn't cannibalizing.
-- **ReplyAgent daily report for Aug 19 is awaiting manual approval** in the inbox.
-- No ad spend yesterday. Google sits under the Gravity Trails NOLA umbrella.
-- IG (@admirenola) not pulled — server down.
+- Quiet. **0 unreplied reviews**, 4.9 average across 427.
+- No dedicated ad spend; rolls into the Gravity Trails NOLA umbrella account.
+- **GSC identity is clear and it isn't kayaking — it's plantation tours.** "plantation tour new orleans" #5.81 / 3 clicks, "new orleans plantation tour" **#1.21**, "new orleans plantation" #2.0, "swamp and plantation tour" #1.13, "new orleans swamp tours" #1.0.
+- That combined swamp-and-plantation intent is a distinct, high-ticket segment the other NOLA brands don't serve. **"best swamp and plantation tours new orleans" sits at #8** — one page of content away from page-one on a phrase with real purchase intent.
+- ReplyAgent daily reports for this brand are arriving in the inbox and still need manual approval.
 <!-- live:end -->
 
 ## Quick links

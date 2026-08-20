@@ -6,20 +6,19 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "cannibalizing DCKT on its own #1 brand term"
-updated: 2026-08-19
+status: green
+alert: null
+updated: 2026-08-20
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Actively competing with DCKT in organic search.** `doorcountykayak.com` pulled **126 impressions for "door county kayak tours" at position #6.57** while `doorcountykayaktours.com` ranks **#1.12** for that exact query. Two properties you own, bidding against each other. Flagged yesterday, still live.
-- Same overlap on "kayak door county" (#6.60, 42 impressions), "door county kayak rental" (#7.64), "kayak rentals door county" (#8.76), "kayak tour door county" (#8.62).
-- **Where it should actually be pointed:** "bike rental door county" #9.0 and "bike rentals door county wi" #10.2 — its own product, both stuck on page one's bottom half. The ebike terms are the ones with no internal competitor.
-- Recommendation: strip or de-optimize the kayak-tour targeting on this domain and push it entirely at bike rental intent. It's costing DCKT clicks and gaining nothing.
-- Also showing: "abandoned shipwreck kayak tour" at **#24.7 on 7 impressions** — that's a DCKT product and a real content angle, on the wrong domain.
-- **Zero unreplied reviews.** 4.9 stars, but only **18 reviews total** and the newest is from July 2023. Effectively dormant on the review front.
-- No ad spend yesterday. No FareHarbor account of its own.
+- **0 unreplied reviews**, but the review base is tiny — 18 total, and the most recent is from 2023. This brand is effectively dormant on the reputation side.
+- No ad spend. No Meta campaigns carry the "Ebike" prefix.
+- **The one thing this property actively does is compete with DCKT.** `doorcountykayak.com` pulled **138 impressions for "door county kayak tours" at #6.52** — a term the DCKT site ranks **#1.35** for. It also shows up for "door county kayak rental" (#7.23), "kayak rentals door county" (#8.71), and "kayak tour door county" (#8.43).
+- Net effect: this domain is splitting kayak-intent traffic away from the site that actually converts it, and ranking worse on every one of those terms. **Either redirect the kayak-intent pages to DCKT or de-optimize them and let this domain own ebike terms only.**
+- Where it should be strong, it's thin: **"bike rentals door county wi" sits at #10.25** on 4 impressions. That's the term this brand exists to win.
+- Also spotted: "abandoned shipwreck kayak tour" at #24.2 with 9 impressions and 0 clicks — that's DCKT/Death's Door content intent landing on the wrong domain.
 <!-- live:end -->
 
 ## Quick links

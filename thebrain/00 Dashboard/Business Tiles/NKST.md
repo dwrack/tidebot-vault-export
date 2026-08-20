@@ -7,22 +7,21 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "FH blind 3rd day; brand term ranks #19.95"
-updated: 2026-08-19
+alert: "FH blind day 5; 2 reviews unreplied"
+updated: 2026-08-20
 tile_type: business
 ---
 
 <!-- live:start -->
-- **FH blind 3rd day.** Aug 15 last clean: 2 booked / $310, 1 ran / $540 — the smallest FH volume in the group.
-- **1 unreplied review:** ⭐⭐⭐⭐⭐ Celeste Lessig, Aug 17. Long and specific, about River as guide: "interactive experience immersed into nature... you can clearly see how important safety and expertise is to this company." Worth a real reply, not a one-liner.
-- Alex is named in **7 of the last 10 reviews** and one guest wrote "Go with Alex as your guide on this swamp tour or just go home." That's a guide worth building content around.
-- **Brand-term problem: "new orleans kayak swamp tours" ranks #19.95.** 44 impressions, 3 clicks. Your own name should not be on page two. Check for a title/canonical issue.
-- **The alligator content is a CTR disaster, not a ranking one.** "which is more dangerous alligator or crocodile" — **815 impressions at #6.95 for 2 clicks (0.25% CTR)**. Plus 304 impressions on "are alligators or crocodiles more aggressive" (#7.08), 194 on "are alligators dangerous" (#5.94), 92 more. **~1,400 impressions, 5 clicks.** Page-one rankings that nobody clicks. Rewrite titles and metas before writing anything new.
-- **Watched page — Airboat vs Kayak comparison: it broke through.** Baseline (2026-06-02) was 0 clicks and **0 impressions**. Aug 11-16 it pulled **54 impressions at avg position ~10.9**, best day #7.6. Still 0 clicks, GA4 views under 6. Google is testing it on page one and the title isn't earning the click. Rewrite the title tag now — the ranking is already paid for.
-- **GA4 Aug 18: 351 sessions, 345 users.** Direct 244, **Instagram 39**, Google 32, Facebook 26, and small AI-referral traffic (chatgpt.com 1, copilot.com 2). Instagram is the #2 source and IG reporting is dark.
-- Top pages (8 days): home 1,048 views · Manchac Mystic tour 175 (**12min avg session**) · /tours/ 115 · Honey Island 60 · alligators-vs-crocodiles 52.
-- ⚠️ GA4 "conversions" on this property are broken (39 conversions on 32 Google sessions). Do not read them as bookings — FareHarbor is the only source of truth.
-- No direct ad spend yesterday. Google runs under the Gravity Trails NOLA umbrella.
+- **FareHarbor blind, day 5.** Last clean: Aug 15, 2 booked / $310.
+- **2 unreplied, both 5★ and both good copy:** Bonafried (Aug 19, "Alex is the king of the swamp. Definitely get a tour from him.") and Celeste Lessig (Aug 17, a long detailed one praising River and specifically calling out safety and expertise).
+- **Alex is carrying this brand.** He is named in six of the last ten reviews by name. That's not a guide, that's a marketing asset — put him in the ads.
+- **The organic problem is blunt: you rank #27.4 for your own brand name.** "new orleans kayak swamp tours" — 61 impressions, 5 clicks, **average position 27.4.** "kayak new orleans" #17.5, "kayaking new orleans" #14.9, "best swamp tour new orleans" #17.0. The money terms are all off page one.
+- The one that isn't: **"kayaking in new orleans" sits at #3.07.** And "manchac swamp tours" at #2.4.
+- **Blog traffic is huge and pointed the wrong way.** "which is more dangerous alligator or crocodile" pulled **917 impressions at #7.06 for 2 clicks.** Great top-of-funnel volume, zero booking intent, and it's outranking your own service pages.
+- **Watched page — the airboat-vs-kayak comparison finally moved.** Baseline (Jun 2) was 0 impressions, 0 clicks. Aug 12-18: **66 impressions, 0 clicks, position climbing #11.8 → #6.17.** It's indexed and on page one now. **A 0% CTR across 66 page-one impressions is a title/meta problem, not a ranking problem.** Rewrite them.
+- **GA4 yesterday: 149 sessions, 147 users. Instagram is the #2 source at 45 sessions** — ahead of Google (26), behind only direct (50). Organic IG is genuinely producing here, which makes the IG blackout worse than it looks.
+- Reminder: this property does not capture FareHarbor bookings, so its "conversions" metric is an engagement event. Ignore it.
 <!-- live:end -->
 
 ## Quick links

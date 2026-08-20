@@ -7,21 +7,20 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta dark 8 days; 1 unreplied 5★"
-updated: 2026-08-19
+alert: "Meta dark 9 days in peak bat season"
+updated: 2026-08-20
 tile_type: business
 ---
 
 <!-- live:start -->
-- **1 unreplied review:** ⭐⭐⭐⭐⭐ Sheila Simpsen, Aug 17. "Our experience made it into the next day's conversations. **Bucket list worthy!**" Names guides Gregory and Enola, and praises being given freedom to explore "not something other tours were free to do." That's a differentiator handed to you — reply and then put it on the tour page.
-- **Meta dark for 8 straight days.** Shares `act_638850950128825` with LSKT; zero rows yesterday and zero over 7 days.
-- Google shares `8497383499` with LSKT: $41.19 spend yesterday, 2.63x; **4.44x and $24.94 CPA on the week.** Can't be split per-brand at account level.
-- **No GSC property and no GA4 property.** This brand's organic performance is entirely invisible — it only shows up as a query on the LSKT domain ("austin kayak tours" #3.0). Worth adding a Search Console property.
-- Two open service problems in recent reviews, both already replied to but neither confirmed fixed:
-  - **1★ Matt Goit (Jul 25): Groupon deals not being honored.** The reply says "we do honor our Groupon deals, something got dropped." If that's a booking-flow bug it's still costing sales silently.
-  - **4★ Jordan Pedalino (Jul 26):** guide Michael's coworker no-showed and he hauled gear for four people alone. Also flagged the **unlit path back up the hill in the dark** and expensive parking not disclosed at booking. The lighting one is a safety issue, not a comfort issue.
-- 4.8 stars on 140 reviews, and unlike its sister brands the review flow is current (three since June).
-- No FareHarbor account of its own.
+- **1 unreplied, and it's a good one.** Sheila Simpsen, 5★, Aug 17: guides **Gregory and Enola**, "Our experience made it into the next day's conversations. Bucket list worthy!" She also called out that your guides let them freely explore, "not something other tours were free to do." That's a differentiator worth putting in ad copy.
+- **Meta dark 9 straight days** — `act_638850950128825` empty for both windows, during peak bat season. Same account as LSKT.
+- Google spend runs through the shared Lone Star account ($67.63 yesterday, **3.19 ROAS on the week**), so no clean per-brand split.
+- **No GSC property at all for this domain**, so organic visibility here is unmeasured. LSKT's property is picking up "austin kayak tours" at #2.73, which suggests the Austin intent is being captured by the sister site.
+- 4.8 average across 140 reviews. Two recent negatives were handled well and both point at fixable ops, not guides:
+  - **Jordan Pedalino (4★, Jul 26):** the walk back from the water is dangerously dark — guests used phone flashlights to get up the hill. Parking is expensive and not disclosed up front. **Both are still open.** Lighting is cheap; disclosing parking is free.
+  - **Matt Goit (1★, Jul 25):** Groupon deals not being honored at booking. Reply says you do honor them, so something is broken in the redemption flow.
+- Guides earning named praise: Gregory, Enola, Michael, Tristan, Celeste, Rafi, Aiden, Derek. **Michael hauled gear for four guests by himself after a no-show coworker and still got a glowing writeup** — that's worth acknowledging internally.
 <!-- live:end -->
 
 ## Quick links

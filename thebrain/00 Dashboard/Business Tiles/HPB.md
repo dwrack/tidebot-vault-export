@@ -5,23 +5,25 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 32
+ad_spend_yday: 29
 status: yellow
-alert: "Google 0.02 ROAS on settled week; FH blind; TikTok+IG dark"
-updated: 2026-08-19
+alert: "FH blind day 5; $346 Houston spend, 0 tracked bookings"
+updated: 2026-08-20
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Google Ads is genuinely broken here, and this one is not attribution lag.** Over a full settled week: **$130.52 spent, 2 conversions, $2.00 in conversion value. 0.02 ROAS.** Yesterday: $22.36, zero conversions.
-- The tell is in the data — `all_conversions` reads **57** against 2 real ones. The account is firing a soft signal (calls, page views, something) and counting almost nothing that produces revenue. **Fix the conversion action before adding a single dollar.** 6.03% CTR at $0.82 CPC means the traffic side is fine.
-- Meta: `HPB | Engagement | Followers Reboost` spent **$9.80 for 2,626 video views and 4 link clicks.** As a follower play that's cheap; as demand generation it's nothing. It sits inside the Houston account that has burned **$215.92 in 7 days for zero purchases**.
-- **1 unreplied review:** ⭐⭐⭐⭐⭐ Tammy Coleman, Aug 15 — "We had a marvelous time today. Thank you Julian."
-- Julian is named in **4 of the last 10 reviews** (with Blake, Alexis, Dustin, Maurice). Consistent crew, consistently named.
-- **Worth revisiting: the 1★ from Stephanie Hardin (Jul 27)** about a no-captain booking. The reply is three stacked rebuttals including "very weird energy from someone who was so understanding over the phone." It reads as combative next to every other reply in the portfolio, and it's public on a 974-review profile. Consider softening it.
-- **TikTok not pulled — the Playwright debug browser isn't running** (`ECONNREFUSED 127.0.0.1:9222`). This is the one business with a TikTok pull wired in and it's been dark two days. Start Chrome with remote debugging on 9222.
-- IG (@houstonpedalbarge) not pulled — server down. **No GSC property, no GA4 property.**
-- FH blind 3rd day. Aug 15 last clean: 3 booked / $319, 17 ran / $2,104.
+- **FareHarbor blind, day 5.** Last clean: Aug 15, 3 booked / $319, 17 ran / $2,104.
+- **The Houston money problem, third briefing running: $346 spent across two platforms in 7 days for zero tracked bookings.**
+  - Meta `act_1015419897308486`: **$212.55 over 7 days on Traffic and Engagement objectives only — there is still no purchase campaign in this account.** 1,791 link clicks, 0 purchases.
+  - `HPB | Engagement | Followers Reboost` alone: **$69.60 for 61 link clicks. That's $1.14 per click to buy followers.**
+  - HPB Google: **$133.69 over 7 days for 2 conversions worth $2.00 — a 0.01 ROAS.**
+- **Before cutting the Google spend, fix the tracking.** `all_conversions` shows **108.99 actions at $108.99** (call-type), versus 2 tracked purchase conversions. The phone may well be ringing — but nothing on the booking side is being measured, so you can't tell a bad campaign from a blind one.
+- **1 unreplied:** Tammy Coleman, 5★, Aug 15, "We had a marvelous time today. Thank you Julian."
+- 4.9 average across **974 reviews** — a strong base. Guides named repeatedly: **Julian** (4 reviews), Dustin, Maurice, Blake, Alexis.
+- The Stephanie Hardin 1★ from Jul 27 got a long, combative three-part reply that argues with the customer and accuses her of manipulating photos. It's factually defensible and reputationally expensive. **Worth revisiting how negative replies get written for this brand.**
+- **No GSC property and no GA4 property.** Organic visibility is entirely unmeasured.
+- TikTok (@houstonpedalbarge) not pulled — the Playwright browser isn't running (`ECONNREFUSED` on port 9222), so there wasn't even a session to check.
 <!-- live:end -->
 
 ## Quick links
