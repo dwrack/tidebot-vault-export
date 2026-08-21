@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "scraped_at": "2026-08-21T18:14:10.533Z",
+    "scraped_at": "2026-08-21T18:43:45.140Z",
     "for_date": "2026-08-20",
     "timezone": "America/Chicago",
     "shortnames_attempted": [
@@ -15,7 +15,7 @@
   "results": {
     "buffalobayoukayak": {
       "shortname": "buffalobayoukayak",
-      "pulled_at": "2026-08-21T18:10:24.330Z",
+      "pulled_at": "2026-08-21T18:39:55.777Z",
       "bookings": {
         "money": [],
         "counts": [],
@@ -42,17 +42,32 @@
           "Report type",
           "Saved reports",
           "Share",
+          "Print",
           "Advanced reports help",
           "Bookings",
+          "Report accurate as of a few seconds ago",
           "Generate",
           "Advanced",
           "Custom Range",
-          "Today",
-          "This Week",
-          "This Week-to-date"
+          "Today"
         ],
-        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/?date_filter=2026-08-20_2026-08-20",
-        "page_title": "Bookings | Buffalo Bayou Kayak Tours"
+        "page_url": "https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/59218661/",
+        "page_title": "Bookings | Buffalo Bayou Kayak Tours",
+        "generated": true,
+        "table": {
+          "empty": true,
+          "header": [],
+          "items": [],
+          "totals": {
+            "item": null,
+            "bookings": 0,
+            "pax": 0,
+            "subtotal": 0,
+            "tax": 0,
+            "total": 0,
+            "total_paid": 0
+          }
+        }
       },
       "payments": {
         "money": [
@@ -895,9 +910,130 @@
     },
     "doorcountykayaktours": {
       "shortname": "doorcountykayaktours",
-      "pulled_at": "2026-08-21T18:10:54.571Z",
+      "pulled_at": "2026-08-21T18:40:30.786Z",
       "bookings": {
-        "money": [],
+        "money": [
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$3,953.31",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$181.73",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$4,135.04",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$3,828.62",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$64.85",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$3,763.77",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$0.00",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "from Affiliate | Cave Point Kayak Tour",
+            "value": "$456.31",
+            "line": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$350.00",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$19.25",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$369.25",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$369.25",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$7.61",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$361.64",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$0.00",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "19\t51\t$3,953.31\t$181.73\t$4,135.04\t$3,828.62\t$64.85\t$3,763.77\t$0.00\t$456.31 | E-Bike Rental: Cave Point / Whitefish Bay D",
+            "value": "$0.00",
+            "line": "2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$4,303.31",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$200.98",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$4,504.29",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$4,197.87",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$72.46",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$4,125.41",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          },
+          {
+            "label": "E-Bike Rental: Cave Point / Whitefish Bay Dunes | 2\t5\t$350.00\t$19.25\t$369.25\t$369.25\t$7.61\t$361.64\t$0.00\t$0.00",
+            "value": "$456.31",
+            "line": "2 items\t21\t56\t$4,303.31\t$200.98\t$4,504.29\t$4,197.87\t$72.46\t$4,125.41\t$0.00\t$456.31"
+          }
+        ],
         "counts": [
           {
             "label": "Settings | Help",
@@ -936,8 +1072,54 @@
           "Saved reports",
           "Share"
         ],
-        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-08-20_2026-08-20",
-        "page_title": "Bookings | Door County Kayak"
+        "page_url": "https://fareharbor.com/doorcountykayaktours/dashboard/reports/advanced/bookings/59218679/",
+        "page_title": "Bookings | Door County Kayak",
+        "generated": true,
+        "table": {
+          "empty": false,
+          "header": [
+            "Item",
+            "# of Bookings",
+            "# of Pax",
+            "Subtotal",
+            "Total Tax",
+            "Total",
+            "Total Paid",
+            "Processing Fees",
+            "Total Paid after Processing Fees",
+            "Payable to Affiliate",
+            "Receivable from Affiliate"
+          ],
+          "items": [
+            {
+              "item": "Cave Point Kayak Tour",
+              "bookings": 19,
+              "pax": 51,
+              "subtotal": 3953.31,
+              "tax": 181.73,
+              "total": 4135.04,
+              "total_paid": 3828.62
+            },
+            {
+              "item": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+              "bookings": 2,
+              "pax": 5,
+              "subtotal": 350,
+              "tax": 19.25,
+              "total": 369.25,
+              "total_paid": 369.25
+            }
+          ],
+          "totals": {
+            "item": "2 items",
+            "bookings": 21,
+            "pax": 56,
+            "subtotal": 4303.31,
+            "tax": 200.98,
+            "total": 4504.29,
+            "total_paid": 4197.87
+          }
+        }
       },
       "payments": {
         "money": [
@@ -2054,7 +2236,7 @@
     },
     "houstonpedalbarge": {
       "shortname": "houstonpedalbarge",
-      "pulled_at": "2026-08-21T18:11:25.542Z",
+      "pulled_at": "2026-08-21T18:41:04.714Z",
       "bookings": {
         "money": [],
         "counts": [],
@@ -2081,17 +2263,32 @@
           "Report type",
           "Saved reports",
           "Share",
+          "Print",
           "Advanced reports help",
           "Bookings",
+          "Report accurate as of a few seconds ago",
           "Generate",
           "Advanced",
           "Custom Range",
-          "Today",
-          "This Week",
-          "This Week-to-date"
+          "Today"
         ],
-        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-08-20_2026-08-20",
-        "page_title": "Bookings | Houston Pedal Barge"
+        "page_url": "https://fareharbor.com/houstonpedalbarge/dashboard/reports/advanced/bookings/59218699/",
+        "page_title": "Bookings | Houston Pedal Barge",
+        "generated": true,
+        "table": {
+          "empty": true,
+          "header": [],
+          "items": [],
+          "totals": {
+            "item": null,
+            "bookings": 0,
+            "pax": 0,
+            "subtotal": 0,
+            "tax": 0,
+            "total": 0,
+            "total_paid": 0
+          }
+        }
       },
       "payments": {
         "money": [
@@ -2805,9 +3002,90 @@
     },
     "lonestarkayaktours": {
       "shortname": "lonestarkayaktours",
-      "pulled_at": "2026-08-21T18:11:58.709Z",
+      "pulled_at": "2026-08-21T18:41:35.388Z",
       "bookings": {
-        "money": [],
+        "money": [
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$400.00",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$33.00",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$433.00",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$433.00",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$8.83",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$424.17",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$0.00",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$0.00",
+            "line": "2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$400.00",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$33.00",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$433.00",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$433.00",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$8.83",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$424.17",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "Sunset Congress Avenue Bat Bridge Tour | 2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "1 item\t2\t8\t$400.00\t$33.00\t$433.00\t$433.00\t$8.83\t$424.17\t$0.00\t$0.00"
+          }
+        ],
         "counts": [],
         "headline": [
           "FareHarbor",
@@ -2833,16 +3111,53 @@
           "Report type",
           "Saved reports",
           "Share",
+          "Download CSV",
+          "Print",
           "Advanced reports help",
           "Bookings",
+          "Report accurate as of a few seconds ago",
           "Generate",
-          "Advanced",
-          "Custom Range",
-          "Today",
-          "This Week"
+          "Advanced"
         ],
-        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/?date_filter=2026-08-20_2026-08-20",
-        "page_title": "Bookings | Lone Star Kayak Tours"
+        "page_url": "https://fareharbor.com/lonestarkayaktours/dashboard/reports/advanced/bookings/59218716/",
+        "page_title": "Bookings | Lone Star Kayak Tours",
+        "generated": true,
+        "table": {
+          "empty": false,
+          "header": [
+            "Item",
+            "# of Bookings",
+            "# of Pax",
+            "Subtotal",
+            "Total Tax",
+            "Total",
+            "Total Paid",
+            "Processing Fees",
+            "Total Paid after Processing Fees",
+            "Payable to Affiliate",
+            "Receivable from Affiliate"
+          ],
+          "items": [
+            {
+              "item": "Sunset Congress Avenue Bat Bridge Tour",
+              "bookings": 2,
+              "pax": 8,
+              "subtotal": 400,
+              "tax": 33,
+              "total": 433,
+              "total_paid": 433
+            }
+          ],
+          "totals": {
+            "item": "1 item",
+            "bookings": 2,
+            "pax": 8,
+            "subtotal": 400,
+            "tax": 33,
+            "total": 433,
+            "total_paid": 433
+          }
+        }
       },
       "payments": {
         "money": [
@@ -2858,163 +3173,183 @@
           },
           {
             "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
-            "value": "$32.48",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "value": "$162.38",
+            "line": "Sunset Congress Avenue Bat Bridge Tour\t8/21/26 at 7:00 PM – 9:00 PM\t$162.38\t\t\t\t\t\t\t\t$162.38"
           },
           {
             "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "value": "$162.38",
+            "line": "Sunset Congress Avenue Bat Bridge Tour\t8/21/26 at 7:00 PM – 9:00 PM\t$162.38\t\t\t\t\t\t\t\t$162.38"
+          },
+          {
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$194.86",
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
+          },
+          {
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
-            "value": "$32.48",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
+            "value": "$194.86",
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:",
+            "label": "One Hour Watersports Rental\t8/21/26 at 11:00 AM – 12:00 PM\t$32.48\t\t\t\t\t\t\t\t$32.48 | Sunset Congress Avenue Bat Bridge Tour",
             "value": "$0.00",
-            "line": "Totals\t$32.48\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t$0.00"
+            "line": "Totals\t$194.86\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$194.86\t$0.00"
           },
           {
             "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$119.08",
+            "line": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08"
+          },
+          {
+            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "value": "$119.08",
+            "line": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08"
+          },
+          {
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t",
             "value": "$54.12",
             "line": "Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:00 PM – 9:00 PM\t\t-$54.12\t\t\t\t\t\t\t\t-$54.12"
           },
           {
-            "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
+            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t",
             "value": "$54.12",
             "line": "Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:00 PM – 9:00 PM\t\t-$54.12\t\t\t\t\t\t\t\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$54.12",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
+            "value": "$119.08",
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
+          },
+          {
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
-            "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
+            "value": "$119.08",
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
-            "value": "$0.00",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
-          },
-          {
-            "label": "Pmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds\tPmts\tRefunds | Sunset Congress Avenue Bat Bridge Tour\t8/23/26 at 7:0",
+            "label": "Austin Skyline Tour\t8/22/26 at 10:00 AM – 12:00 PM\t\t\t$119.08\t\t\t\t\t\t$119.08 | Sunset Congress Avenue Bat Bridge Tour\t8/23/",
             "value": "$54.12",
-            "line": "Totals\t$0.00\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t-$54.12"
+            "line": "Totals\t$0.00\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$119.08\t-$54.12"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$32.48",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$54.12",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$0.00",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$0.00",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$0.00",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$0.00",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$0.00",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$0.00",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
-          },
-          {
-            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$32.48",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
+            "value": "$194.86",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$54.12",
-            "line": "$32.48\t-$54.12\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$32.48\t-$54.12"
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$119.08",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$0.00",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$313.94",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
+          },
+          {
+            "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
+            "value": "$54.12",
+            "line": "$194.86\t-$54.12\t$119.08\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$313.94\t-$54.12"
           }
         ],
         "counts": [],
@@ -3745,6 +4080,11 @@
             "line": "$0.00"
           },
           {
+            "label": "No-show | Set check-in per customer...",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
             "label": "Set check-in per customer... | 1",
             "value": "$0.00",
             "line": "$0.00"
@@ -3795,9 +4135,130 @@
     },
     "neworleanskayakswamptours": {
       "shortname": "neworleanskayakswamptours",
-      "pulled_at": "2026-08-21T18:12:32.444Z",
+      "pulled_at": "2026-08-21T18:42:06.852Z",
       "bookings": {
-        "money": [],
+        "money": [
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$55.00",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$0.00",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$55.00",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$55.00",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$1.34",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$53.66",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$0.00",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | Bayou Kayak Rentals",
+            "value": "$0.00",
+            "line": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$90.00",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$0.00",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$90.00",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$90.00",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$2.01",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$87.99",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$0.00",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t1\t$55.00\t$0.00\t$55.00\t$55.00\t$1.34\t$53.66\t$0.00\t$0.00 | Manchac Swamp Wildlife Kayak Tour",
+            "value": "$0.00",
+            "line": "1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$145.00",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$145.00",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$145.00",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$3.35",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$141.65",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          },
+          {
+            "label": "Manchac Swamp Wildlife Kayak Tour | 1\t1\t$90.00\t$0.00\t$90.00\t$90.00\t$2.01\t$87.99\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "2 items\t2\t2\t$145.00\t$0.00\t$145.00\t$145.00\t$3.35\t$141.65\t$0.00\t$0.00"
+          }
+        ],
         "counts": [],
         "headline": [
           "FareHarbor",
@@ -3824,15 +4285,61 @@
           "Report type",
           "Saved reports",
           "Share",
+          "Download CSV",
+          "Print",
           "Advanced reports help",
           "Bookings",
-          "Generate",
-          "Advanced",
-          "Custom Range",
-          "Today"
+          "Report accurate as of a few seconds ago",
+          "Generate"
         ],
-        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/?date_filter=2026-08-20_2026-08-20",
-        "page_title": "Bookings | New Orleans Kayak Swamp Tours"
+        "page_url": "https://fareharbor.com/neworleanskayakswamptours/dashboard/reports/advanced/bookings/59218736/",
+        "page_title": "Bookings | New Orleans Kayak Swamp Tours",
+        "generated": true,
+        "table": {
+          "empty": false,
+          "header": [
+            "Item",
+            "# of Bookings",
+            "# of Pax",
+            "Subtotal",
+            "Total Tax",
+            "Total",
+            "Total Paid",
+            "Processing Fees",
+            "Total Paid after Processing Fees",
+            "Payable to Affiliate",
+            "Receivable from Affiliate"
+          ],
+          "items": [
+            {
+              "item": "Bayou Kayak Rentals",
+              "bookings": 1,
+              "pax": 1,
+              "subtotal": 55,
+              "tax": 0,
+              "total": 55,
+              "total_paid": 55
+            },
+            {
+              "item": "Manchac Swamp Wildlife Kayak Tour",
+              "bookings": 1,
+              "pax": 1,
+              "subtotal": 90,
+              "tax": 0,
+              "total": 90,
+              "total_paid": 90
+            }
+          ],
+          "totals": {
+            "item": "2 items",
+            "bookings": 2,
+            "pax": 2,
+            "subtotal": 145,
+            "tax": 0,
+            "total": 145,
+            "total_paid": 145
+          }
+        }
       },
       "payments": {
         "money": [
@@ -3984,7 +4491,613 @@
         "page_title": "Payments | New Orleans Kayak Swamp Tours"
       },
       "payouts": {
-        "money": [],
+        "money": [
+          {
+            "label": "8/9/26 | 8/16/26",
+            "value": "$0.00",
+            "line": "$0.00"
+          },
+          {
+            "label": "8/16/26 | $0.00",
+            "value": "$500.00",
+            "line": "$500.00"
+          },
+          {
+            "label": "$0.00 | $500.00",
+            "value": "$1,000.00",
+            "line": "$1,000.00"
+          },
+          {
+            "label": "$500.00 | $1,000.00",
+            "value": "$1,500.00",
+            "line": "$1,500.00"
+          },
+          {
+            "label": "$1,500.00 | Payouts",
+            "value": "$10,126.90",
+            "line": "$10,126.90 total"
+          },
+          {
+            "label": "Next Payout\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$235.00",
+            "line": "Next Payout\t$235.00\t-$5.06\t$229.94\t$0.00\t8/21/26\t8/21/26\tScheduled"
+          },
+          {
+            "label": "Next Payout\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$5.06",
+            "line": "Next Payout\t$235.00\t-$5.06\t$229.94\t$0.00\t8/21/26\t8/21/26\tScheduled"
+          },
+          {
+            "label": "Next Payout\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$229.94",
+            "line": "Next Payout\t$235.00\t-$5.06\t$229.94\t$0.00\t8/21/26\t8/21/26\tScheduled"
+          },
+          {
+            "label": "Next Payout\tGross\tFees\tNet Total | Deposited\tTax\tScheduled For\tIncludes Activity Before\tDeposit Status",
+            "value": "$0.00",
+            "line": "Next Payout\t$235.00\t-$5.06\t$229.94\t$0.00\t8/21/26\t8/21/26\tScheduled"
+          },
+          {
+            "label": "Payout ID\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$480.00",
+            "line": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated"
+          },
+          {
+            "label": "Payout ID\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$10.02",
+            "line": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated"
+          },
+          {
+            "label": "Payout ID\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$469.98",
+            "line": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated"
+          },
+          {
+            "label": "Payout ID\tGross\tFees\tNet Total | Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status",
+            "value": "$0.00",
+            "line": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\t",
+            "value": "$500.00",
+            "line": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\t",
+            "value": "$10.70",
+            "line": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\t",
+            "value": "$489.30",
+            "line": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded"
+          },
+          {
+            "label": "Deposited\tTax\tPaid On\tIncludes Activity Before\tDeposit Status | #18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\t",
+            "value": "$0.00",
+            "line": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded"
+          },
+          {
+            "label": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated | #18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19",
+            "value": "$635.00",
+            "line": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded"
+          },
+          {
+            "label": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated | #18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19",
+            "value": "$13.27",
+            "line": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded"
+          },
+          {
+            "label": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated | #18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19",
+            "value": "$621.73",
+            "line": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded"
+          },
+          {
+            "label": "#18662246\t$480.00\t-$10.02\t$469.98\t$0.00\t8/20/26\t8/20/26\tInitiated | #18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19",
+            "value": "$0.00",
+            "line": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded"
+          },
+          {
+            "label": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded | #18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18",
+            "value": "$1,536.25",
+            "line": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded"
+          },
+          {
+            "label": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded | #18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18",
+            "value": "$33.91",
+            "line": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded"
+          },
+          {
+            "label": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded | #18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18",
+            "value": "$1,502.34",
+            "line": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded"
+          },
+          {
+            "label": "#18653218\t$500.00\t-$10.70\t$489.30\t$0.00\t8/19/26\t8/19/26\tSucceeded | #18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18",
+            "value": "$0.00",
+            "line": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded"
+          },
+          {
+            "label": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded | #18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t",
+            "value": "$310.00",
+            "line": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded"
+          },
+          {
+            "label": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded | #18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t",
+            "value": "$6.48",
+            "line": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded"
+          },
+          {
+            "label": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded | #18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t",
+            "value": "$303.52",
+            "line": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded"
+          },
+          {
+            "label": "#18644031\t$635.00\t-$13.27\t$621.73\t$0.00\t8/18/26\t8/18/26\tSucceeded | #18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t",
+            "value": "$0.00",
+            "line": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded"
+          },
+          {
+            "label": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded | #18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8",
+            "value": "$130.00",
+            "line": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded"
+          },
+          {
+            "label": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded | #18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8",
+            "value": "$3.08",
+            "line": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded"
+          },
+          {
+            "label": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded | #18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8",
+            "value": "$126.92",
+            "line": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded"
+          },
+          {
+            "label": "#18635165\t$1,536.25\t-$33.91\t$1,502.34\t$0.00\t8/17/26\t8/17/26\tSucceeded | #18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8",
+            "value": "$0.00",
+            "line": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded"
+          },
+          {
+            "label": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded | #18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/2",
+            "value": "$690.00",
+            "line": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded"
+          },
+          {
+            "label": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded | #18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/2",
+            "value": "$14.01",
+            "line": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded"
+          },
+          {
+            "label": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded | #18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/2",
+            "value": "$675.99",
+            "line": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded"
+          },
+          {
+            "label": "#18626283\t$310.00\t-$6.48\t$303.52\t$0.00\t8/16/26\t8/16/26\tSucceeded | #18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/2",
+            "value": "$0.00",
+            "line": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded"
+          },
+          {
+            "label": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded | #18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/",
+            "value": "$190.00",
+            "line": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded"
+          },
+          {
+            "label": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded | #18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/",
+            "value": "$3.91",
+            "line": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded"
+          },
+          {
+            "label": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded | #18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/",
+            "value": "$186.09",
+            "line": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded"
+          },
+          {
+            "label": "#18607772\t$130.00\t-$3.08\t$126.92\t$0.00\t8/14/26\t8/14/26\tSucceeded | #18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/",
+            "value": "$0.00",
+            "line": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded"
+          },
+          {
+            "label": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded | #18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/",
+            "value": "$310.00",
+            "line": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded"
+          },
+          {
+            "label": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded | #18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/",
+            "value": "$6.19",
+            "line": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded"
+          },
+          {
+            "label": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded | #18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/",
+            "value": "$303.81",
+            "line": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded"
+          },
+          {
+            "label": "#18598416\t$690.00\t-$14.01\t$675.99\t$0.00\t8/13/26\t8/13/26\tSucceeded | #18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/",
+            "value": "$0.00",
+            "line": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded"
+          },
+          {
+            "label": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded | #18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/2",
+            "value": "$195.00",
+            "line": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded"
+          },
+          {
+            "label": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded | #18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/2",
+            "value": "$4.31",
+            "line": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded"
+          },
+          {
+            "label": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded | #18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/2",
+            "value": "$190.69",
+            "line": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded"
+          },
+          {
+            "label": "#18579622\t$190.00\t-$3.91\t$186.09\t$0.00\t8/11/26\t8/11/26\tSucceeded | #18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/2",
+            "value": "$0.00",
+            "line": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded"
+          },
+          {
+            "label": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded | #18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\t",
+            "value": "$380.00",
+            "line": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded"
+          },
+          {
+            "label": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded | #18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\t",
+            "value": "$7.82",
+            "line": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded"
+          },
+          {
+            "label": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded | #18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\t",
+            "value": "$372.18",
+            "line": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded"
+          },
+          {
+            "label": "#18570344\t$310.00\t-$6.19\t$303.81\t$0.00\t8/10/26\t8/10/26\tSucceeded | #18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\t",
+            "value": "$0.00",
+            "line": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded"
+          },
+          {
+            "label": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded | #18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSu",
+            "value": "$350.76",
+            "line": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded"
+          },
+          {
+            "label": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded | #18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSu",
+            "value": "$8.02",
+            "line": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded"
+          },
+          {
+            "label": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded | #18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSu",
+            "value": "$342.74",
+            "line": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded"
+          },
+          {
+            "label": "#18561119\t$195.00\t-$4.31\t$190.69\t$0.00\t8/9/26\t8/9/26\tSucceeded | #18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSu",
+            "value": "$0.00",
+            "line": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded"
+          },
+          {
+            "label": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded | #18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSu",
+            "value": "$0.76",
+            "line": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded"
+          },
+          {
+            "label": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded | #18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSu",
+            "value": "$0.76",
+            "line": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded"
+          },
+          {
+            "label": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded | #18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSu",
+            "value": "$0.00",
+            "line": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded"
+          },
+          {
+            "label": "#18542007\t$380.00\t-$7.82\t$372.18\t$0.00\t8/7/26\t8/7/26\tSucceeded | #18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSu",
+            "value": "$0.00",
+            "line": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded"
+          },
+          {
+            "label": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded | #18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSuccee",
+            "value": "$675.00",
+            "line": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded"
+          },
+          {
+            "label": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded | #18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSuccee",
+            "value": "$14.02",
+            "line": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded"
+          },
+          {
+            "label": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded | #18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSuccee",
+            "value": "$660.98",
+            "line": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded"
+          },
+          {
+            "label": "#18532508\t$350.76\t-$8.02\t$342.74\t$0.00\t8/6/26\t8/6/26\tSucceeded | #18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSuccee",
+            "value": "$0.00",
+            "line": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded"
+          },
+          {
+            "label": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded | #18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucce",
+            "value": "$335.87",
+            "line": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded"
+          },
+          {
+            "label": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded | #18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucce",
+            "value": "$8.39",
+            "line": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded"
+          },
+          {
+            "label": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded | #18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucce",
+            "value": "$327.48",
+            "line": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded"
+          },
+          {
+            "label": "#18522972\t-$0.76\t$0.76\t$0.00\t$0.00\t8/5/26\t8/5/26\tSucceeded | #18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucce",
+            "value": "$0.00",
+            "line": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded"
+          },
+          {
+            "label": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded | #18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tS",
+            "value": "$1.54",
+            "line": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded"
+          },
+          {
+            "label": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded | #18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tS",
+            "value": "$1.54",
+            "line": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded"
+          },
+          {
+            "label": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded | #18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tS",
+            "value": "$0.00",
+            "line": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded"
+          },
+          {
+            "label": "#18513268\t$675.00\t-$14.02\t$660.98\t$0.00\t8/4/26\t8/4/26\tSucceeded | #18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tS",
+            "value": "$0.00",
+            "line": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded"
+          },
+          {
+            "label": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded | #18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSuccee",
+            "value": "$2.41",
+            "line": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded"
+          },
+          {
+            "label": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded | #18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSuccee",
+            "value": "$2.41",
+            "line": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded"
+          },
+          {
+            "label": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded | #18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSuccee",
+            "value": "$0.00",
+            "line": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded"
+          },
+          {
+            "label": "#18503808\t$335.87\t-$8.39\t$327.48\t$0.00\t8/3/26\t8/3/26\tSucceeded | #18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSuccee",
+            "value": "$0.00",
+            "line": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded"
+          },
+          {
+            "label": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded | #18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded",
+            "value": "$180.00",
+            "line": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded"
+          },
+          {
+            "label": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded | #18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded",
+            "value": "$3.72",
+            "line": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded"
+          },
+          {
+            "label": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded | #18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded",
+            "value": "$176.28",
+            "line": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded"
+          },
+          {
+            "label": "#18494366\t$1.54\t-$1.54\t$0.00\t$0.00\t8/2/26\t8/2/26\tSucceeded | #18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded",
+            "value": "$0.00",
+            "line": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded"
+          },
+          {
+            "label": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded | #18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucc",
+            "value": "$190.00",
+            "line": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded"
+          },
+          {
+            "label": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded | #18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucc",
+            "value": "$3.91",
+            "line": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded"
+          },
+          {
+            "label": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded | #18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucc",
+            "value": "$186.09",
+            "line": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded"
+          },
+          {
+            "label": "#18484788\t-$2.41\t$2.41\t$0.00\t$0.00\t8/1/26\t8/1/26\tSucceeded | #18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucc",
+            "value": "$0.00",
+            "line": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded"
+          },
+          {
+            "label": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded | #18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/2",
+            "value": "$277.50",
+            "line": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded"
+          },
+          {
+            "label": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded | #18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/2",
+            "value": "$5.72",
+            "line": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded"
+          },
+          {
+            "label": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded | #18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/2",
+            "value": "$271.78",
+            "line": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded"
+          },
+          {
+            "label": "#18475156\t$180.00\t-$3.72\t$176.28\t$0.00\t7/31/26\t7/31/26\tSucceeded | #18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/2",
+            "value": "$0.00",
+            "line": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded"
+          },
+          {
+            "label": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded | #18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/2",
+            "value": "$325.00",
+            "line": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded"
+          },
+          {
+            "label": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded | #18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/2",
+            "value": "$6.48",
+            "line": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded"
+          },
+          {
+            "label": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded | #18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/2",
+            "value": "$318.52",
+            "line": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded"
+          },
+          {
+            "label": "#18465440\t$190.00\t-$3.91\t$186.09\t$0.00\t7/30/26\t7/30/26\tSucceeded | #18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/2",
+            "value": "$0.00",
+            "line": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded"
+          },
+          {
+            "label": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded | #18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/2",
+            "value": "$920.00",
+            "line": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded"
+          },
+          {
+            "label": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded | #18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/2",
+            "value": "$19.28",
+            "line": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded"
+          },
+          {
+            "label": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded | #18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/2",
+            "value": "$900.72",
+            "line": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded"
+          },
+          {
+            "label": "#18455821\t$277.50\t-$5.72\t$271.78\t$0.00\t7/29/26\t7/29/26\tSucceeded | #18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/2",
+            "value": "$0.00",
+            "line": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded"
+          },
+          {
+            "label": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded | #18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/",
+            "value": "$400.00",
+            "line": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded"
+          },
+          {
+            "label": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded | #18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/",
+            "value": "$7.90",
+            "line": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded"
+          },
+          {
+            "label": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded | #18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/",
+            "value": "$392.10",
+            "line": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded"
+          },
+          {
+            "label": "#18446123\t$325.00\t-$6.48\t$318.52\t$0.00\t7/28/26\t7/28/26\tSucceeded | #18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/",
+            "value": "$0.00",
+            "line": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded"
+          },
+          {
+            "label": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded | #18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/",
+            "value": "$375.00",
+            "line": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded"
+          },
+          {
+            "label": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded | #18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/",
+            "value": "$7.73",
+            "line": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded"
+          },
+          {
+            "label": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded | #18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/",
+            "value": "$367.27",
+            "line": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded"
+          },
+          {
+            "label": "#18436647\t$920.00\t-$19.28\t$900.72\t$0.00\t7/27/26\t7/27/26\tSucceeded | #18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/",
+            "value": "$0.00",
+            "line": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded"
+          },
+          {
+            "label": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded | #18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/2",
+            "value": "$530.00",
+            "line": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded"
+          },
+          {
+            "label": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded | #18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/2",
+            "value": "$10.85",
+            "line": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded"
+          },
+          {
+            "label": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded | #18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/2",
+            "value": "$519.15",
+            "line": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded"
+          },
+          {
+            "label": "#18427248\t$400.00\t-$7.90\t$392.10\t$0.00\t7/26/26\t7/26/26\tSucceeded | #18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/2",
+            "value": "$0.00",
+            "line": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded"
+          },
+          {
+            "label": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded | #18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/",
+            "value": "$285.00",
+            "line": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded"
+          },
+          {
+            "label": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded | #18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/",
+            "value": "$6.01",
+            "line": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded"
+          },
+          {
+            "label": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded | #18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/",
+            "value": "$278.99",
+            "line": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded"
+          },
+          {
+            "label": "#18417663\t$375.00\t-$7.73\t$367.27\t$0.00\t7/25/26\t7/25/26\tSucceeded | #18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/",
+            "value": "$0.00",
+            "line": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded"
+          },
+          {
+            "label": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded | #18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/",
+            "value": "$146.25",
+            "line": "#18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/26\tSucceeded"
+          },
+          {
+            "label": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded | #18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/",
+            "value": "$4.00",
+            "line": "#18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/26\tSucceeded"
+          },
+          {
+            "label": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded | #18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/",
+            "value": "$142.25",
+            "line": "#18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/26\tSucceeded"
+          },
+          {
+            "label": "#18407805\t$530.00\t-$10.85\t$519.15\t$0.00\t7/24/26\t7/24/26\tSucceeded | #18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/",
+            "value": "$0.00",
+            "line": "#18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/26\tSucceeded"
+          },
+          {
+            "label": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded | #18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/2",
+            "value": "$10,345.00",
+            "line": "27 rows\t$10,345.00\t$218.10\t$10,126.90\t$0.00"
+          },
+          {
+            "label": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded | #18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/2",
+            "value": "$218.10",
+            "line": "27 rows\t$10,345.00\t$218.10\t$10,126.90\t$0.00"
+          },
+          {
+            "label": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded | #18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/2",
+            "value": "$10,126.90",
+            "line": "27 rows\t$10,345.00\t$218.10\t$10,126.90\t$0.00"
+          },
+          {
+            "label": "#18398094\t$285.00\t-$6.01\t$278.99\t$0.00\t7/23/26\t7/23/26\tSucceeded | #18388499\t$146.25\t-$4.00\t$142.25\t$0.00\t7/22/26\t7/22/2",
+            "value": "$0.00",
+            "line": "27 rows\t$10,345.00\t$218.10\t$10,126.90\t$0.00"
+          }
+        ],
         "counts": [],
         "headline": [
           "FareHarbor",
@@ -4074,9 +5187,170 @@
     },
     "neworleanspedalbarge": {
       "shortname": "neworleanspedalbarge",
-      "pulled_at": "2026-08-21T18:13:05.214Z",
+      "pulled_at": "2026-08-21T18:42:40.312Z",
       "bookings": {
-        "money": [],
+        "money": [
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$1,231.19",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$0.00",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$1,231.19",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$1,171.31",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$23.16",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$1,148.15",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$0.00",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "from Affiliate | The Bayou Boogie",
+            "value": "$0.00",
+            "line": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$598.85",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$0.00",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$598.85",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$598.85",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$11.68",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$587.17",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$0.00",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "4\t8\t$1,231.19\t$0.00\t$1,231.19\t$1,171.31\t$23.16\t$1,148.15\t$0.00\t$0.00 | The Freaky Tiki",
+            "value": "$0.00",
+            "line": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$118.00",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$0.00",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$118.00",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$118.00",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$2.54",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$115.46",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$0.00",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "1\t10\t$598.85\t$0.00\t$598.85\t$598.85\t$11.68\t$587.17\t$0.00\t$0.00 | The Twerkin' Tiki",
+            "value": "$0.00",
+            "line": "1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$1,948.04",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$1,948.04",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$1,888.16",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$37.38",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$1,850.78",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          },
+          {
+            "label": "The Twerkin' Tiki | 1\t2\t$118.00\t$0.00\t$118.00\t$118.00\t$2.54\t$115.46\t$0.00\t$0.00",
+            "value": "$0.00",
+            "line": "3 items\t6\t20\t$1,948.04\t$0.00\t$1,948.04\t$1,888.16\t$37.38\t$1,850.78\t$0.00\t$0.00"
+          }
+        ],
         "counts": [],
         "headline": [
           "FareHarbor",
@@ -4102,16 +5376,71 @@
           "Report type",
           "Saved reports",
           "Share",
+          "Download CSV",
+          "Print",
           "Advanced reports help",
           "Bookings",
+          "Report accurate as of a few seconds ago",
           "Generate",
-          "Advanced",
-          "Custom Range",
-          "Today",
-          "This Week"
+          "Advanced"
         ],
-        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/?date_filter=2026-08-20_2026-08-20",
-        "page_title": "Bookings | New Orleans Party Barge"
+        "page_url": "https://fareharbor.com/neworleanspedalbarge/dashboard/reports/advanced/bookings/59218761/",
+        "page_title": "Bookings | New Orleans Party Barge",
+        "generated": true,
+        "table": {
+          "empty": false,
+          "header": [
+            "Item",
+            "# of Bookings",
+            "# of Pax",
+            "Subtotal",
+            "Total Tax",
+            "Total",
+            "Total Paid",
+            "Processing Fees",
+            "Total Paid after Processing Fees",
+            "Payable to Affiliate",
+            "Receivable from Affiliate"
+          ],
+          "items": [
+            {
+              "item": "The Bayou Boogie",
+              "bookings": 4,
+              "pax": 8,
+              "subtotal": 1231.19,
+              "tax": 0,
+              "total": 1231.19,
+              "total_paid": 1171.31
+            },
+            {
+              "item": "The Freaky Tiki",
+              "bookings": 1,
+              "pax": 10,
+              "subtotal": 598.85,
+              "tax": 0,
+              "total": 598.85,
+              "total_paid": 598.85
+            },
+            {
+              "item": "The Twerkin' Tiki",
+              "bookings": 1,
+              "pax": 2,
+              "subtotal": 118,
+              "tax": 0,
+              "total": 118,
+              "total_paid": 118
+            }
+          ],
+          "totals": {
+            "item": "3 items",
+            "bookings": 6,
+            "pax": 20,
+            "subtotal": 1948.04,
+            "tax": 0,
+            "total": 1948.04,
+            "total_paid": 1888.16
+          }
+        }
       },
       "payments": {
         "money": [
@@ -4137,63 +5466,63 @@
           },
           {
             "label": "The Twerkin' Tiki\t8/21/26 at 2:00 PM – 3:45 PM\t$236.00\t\t\t\t\t\t\t\t$236.00 | The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$",
-            "value": "$131.75",
-            "line": "The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$131.75\t\t\t\t\t\t\t\t$131.75"
+            "value": "$491.06",
+            "line": "The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$491.06\t\t\t\t\t\t\t\t$491.06"
           },
           {
             "label": "The Twerkin' Tiki\t8/21/26 at 2:00 PM – 3:45 PM\t$236.00\t\t\t\t\t\t\t\t$236.00 | The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$",
-            "value": "$131.75",
-            "line": "The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$131.75\t\t\t\t\t\t\t\t$131.75"
+            "value": "$491.06",
+            "line": "The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$491.06\t\t\t\t\t\t\t\t$491.06"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
-            "value": "$544.75",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
+            "value": "$904.06",
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
-            "value": "$544.75",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
+            "value": "$904.06",
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
-            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$13",
+            "label": "The Twerkin' Tiki\t8/21/26 at 4:00 PM – 5:45 PM\t$177.00\t\t\t\t\t\t\t\t$177.00 | The Freaky Tiki\t8/21/26 at 6:00 PM – 7:45 PM\t$49",
             "value": "$0.00",
-            "line": "Totals\t$544.75\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$544.75\t$0.00"
+            "line": "Totals\t$904.06\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$904.06\t$0.00"
           },
           {
             "label": "Item\tAvailability\tCredit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmt",
@@ -4277,53 +5606,53 @@
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$1,553.93",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "value": "$1,913.24",
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
-            "value": "$1,553.93",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "value": "$1,913.24",
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           },
           {
             "label": "Credit Card\tCredit Card (Employee) \tAffiliate (Reseller)\tAffiliate (Referral)\tTotal | Pmts\tRefunds\tPmts\tRefunds\tPmts\tRef",
             "value": "$0.00",
-            "line": "$1,553.93\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,553.93\t$0.00"
+            "line": "$1,913.24\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$0.00\t$1,913.24\t$0.00"
           }
         ],
         "counts": [],
@@ -5250,13 +6579,13 @@
           },
           {
             "label": "Late Arrival - 5 past the hour | 1 10%",
-            "value": "$670.71",
-            "line": "5 signed\t\t$670.71\t$0.00"
+            "value": "$1,030.02",
+            "line": "5 signed\t\t$1,030.02\t$0.00"
           },
           {
             "label": "Late Arrival - 5 past the hour | 1 10%",
             "value": "$0.00",
-            "line": "5 signed\t\t$670.71\t$0.00"
+            "line": "5 signed\t\t$1,030.02\t$0.00"
           },
           {
             "label": "James Emery | Tiffany Smith",
@@ -5297,6 +6626,16 @@
             "label": "1 signed | Stephanie Jones",
             "value": "$0.00",
             "line": "$59.88\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$359.31",
+            "line": "$359.31\t$0.00"
+          },
+          {
+            "label": "Set check-in per customer... | 0 signed",
+            "value": "$0.00",
+            "line": "$359.31\t$0.00"
           },
           {
             "label": "Erica Tucker | Dairen Lykes",
