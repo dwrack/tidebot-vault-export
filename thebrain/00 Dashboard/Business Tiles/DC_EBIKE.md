@@ -6,19 +6,19 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-20
+status: yellow
+alert: "still cannibalizing DCKT's #1 brand term"
+updated: 2026-08-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- **0 unreplied reviews**, but the review base is tiny — 18 total, and the most recent is from 2023. This brand is effectively dormant on the reputation side.
-- No ad spend. No Meta campaigns carry the "Ebike" prefix.
-- **The one thing this property actively does is compete with DCKT.** `doorcountykayak.com` pulled **138 impressions for "door county kayak tours" at #6.52** — a term the DCKT site ranks **#1.35** for. It also shows up for "door county kayak rental" (#7.23), "kayak rentals door county" (#8.71), and "kayak tour door county" (#8.43).
-- Net effect: this domain is splitting kayak-intent traffic away from the site that actually converts it, and ranking worse on every one of those terms. **Either redirect the kayak-intent pages to DCKT or de-optimize them and let this domain own ebike terms only.**
-- Where it should be strong, it's thin: **"bike rentals door county wi" sits at #10.25** on 4 impressions. That's the term this brand exists to win.
-- Also spotted: "abandoned shipwreck kayak tour" at #24.2 with 9 impressions and 0 clicks — that's DCKT/Death's Door content intent landing on the wrong domain.
+- **Still eating DCKT's own brand term.** `doorcountykayak.com` pulled **127 impressions for "door county kayak tours" at position #6.70** while doorcountykayaktours.com ranks **#1.35** for the identical query. Two of your domains competing for one term, and the weaker one is absorbing over a hundred impressions a week.
+- Fix is a canonical or a redirect, not more content. This has been flagged in every brief this week.
+- The domain does rank for terms DCKT doesn't own as cleanly: **"door county kayak" #4.05 / 3 clicks**, "door county kayak and bike" #2.80, "door county kayak rentals" #8.56, "kayak rentals door county" #9.35, "bike rentals door county wi" #10.25. **Rentals is the lane** — if this domain has a job, it's rentals and bikes, not guided kayak tours.
+- Interesting orphan: **"abandoned shipwreck kayak tour" pulled 9 impressions at #25.33 with 0 clicks.** Door County has genuinely famous shipwrecks and nobody in the portfolio has a page for them. That's a content gap worth one afternoon.
+- Reviews: **0 unreplied.** Only 18 lifetime at 4.9, and the most recent is from 2023. This profile is going stale — no new reviews in over two years while sister brands pull dozens a month.
+- No ad spend, no FareHarbor line in the nightly scrape.
 <!-- live:end -->
 
 ## Quick links

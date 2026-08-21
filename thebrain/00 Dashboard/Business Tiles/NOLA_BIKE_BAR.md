@@ -8,16 +8,16 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-20
+updated: 2026-08-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- Quiet and clean. **0 unreplied reviews**, 4.8 average across 179.
-- No Meta spend attributable yesterday; no dedicated Google account (rolls into the Gravity Trails NOLA umbrella).
-- GSC is small but the positions are excellent where it matters: **"pedal bike bar" #1.0**, "nola bike bar" #1.0, "new orleans bike tour at night" #1.0, "party bike new orleans" #1.5.
-- **The gap is volume, not rank.** "bike tour new orleans" pulled 16 impressions at **#12.25** — that's the head term for this category and it's the one place you're not on page one. Everything else you already own outright.
-- Reviews skew heavily toward named guides (Bob, Bryan, Colin) and toward the neighborhood-and-breweries angle rather than the party angle. Sarah Samaranayake's long review is the best positioning document this brand has — it sells local character over tourist trap, and even coaches future guests to wave at neighbors.
+- **Clean day. 0 unreplied reviews, no ad spend, no issues.** 179 lifetime reviews at 4.8.
+- **GSC owns the small footprint it competes for:** "nola bike bar" **#1.0**, "pedal bike bar" **#1.0**, "new orleans pedal pub" **#1.0**, "new orleans bike tour at night" **#1.0**, "new orleans bike bar" #5.33 / 2 clicks.
+- The gap is category terms, not brand terms: **"bike tour new orleans" sits at #11.93** on 14 impressions and **"new orleans bike tour" at #8.0**. That's the demand pool, and you're on page two of it.
+- No FareHarbor account in the nightly scrape, no Meta spend, no Google Ads. This brand runs on GBP and organic alone right now.
+- Guides named in the review history: Bob (four separate reviews), Colin, Bryan/Brian. Bob is the recurring name — same pattern as Alex at NKST and Chad at Buffalo Bayou.
 <!-- live:end -->
 
 ## Quick links

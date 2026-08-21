@@ -7,20 +7,20 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta dark 9 days in peak bat season"
-updated: 2026-08-20
+alert: "Meta dark 10 days; 1 unreplied 5★ since Aug 17"
+updated: 2026-08-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- **1 unreplied, and it's a good one.** Sheila Simpsen, 5★, Aug 17: guides **Gregory and Enola**, "Our experience made it into the next day's conversations. Bucket list worthy!" She also called out that your guides let them freely explore, "not something other tours were free to do." That's a differentiator worth putting in ad copy.
-- **Meta dark 9 straight days** — `act_638850950128825` empty for both windows, during peak bat season. Same account as LSKT.
-- Google spend runs through the shared Lone Star account ($67.63 yesterday, **3.19 ROAS on the week**), so no clean per-brand split.
-- **No GSC property at all for this domain**, so organic visibility here is unmeasured. LSKT's property is picking up "austin kayak tours" at #2.73, which suggests the Austin intent is being captured by the sister site.
-- 4.8 average across 140 reviews. Two recent negatives were handled well and both point at fixable ops, not guides:
-  - **Jordan Pedalino (4★, Jul 26):** the walk back from the water is dangerously dark — guests used phone flashlights to get up the hill. Parking is expensive and not disclosed up front. **Both are still open.** Lighting is cheap; disclosing parking is free.
-  - **Matt Goit (1★, Jul 25):** Groupon deals not being honored at booking. Reply says you do honor them, so something is broken in the redemption flow.
-- Guides earning named praise: Gregory, Enola, Michael, Tristan, Celeste, Rafi, Aiden, Derek. **Michael hauled gear for four guests by himself after a no-show coworker and still got a glowing writeup** — that's worth acknowledging internally.
+- **Meta dark 10 straight days** — shares `act_638850950128825` with LSKT, and the whole account returned empty for last_7d. Peak bat season, zero paid social.
+- Shares Google Ads with LSKT (`8497383499`): **$53.48 yesterday for 0 conversions**, 7-day **$435.52 → $1,236.46, 2.84 ROAS**. Reported under LSKT to avoid double-counting.
+- **1 unreplied 5★ since Aug 17: Sheila Simpsen**, guides Gregory and Enola. "They also gave us the freedom to freely explore the area, not something other tours were free to do... Bucket list worthy!" **That freedom-to-explore line is a differentiator against every competitor bat tour** — it belongs in the ad copy, not just a review reply.
+- Recent negative history is worth remembering while it's fresh: Jordan Pedalino's 4★ (Jul 26) called out three concrete fixables — **the launch path is unlit and steep in the dark, parking isn't included and is expensive, and a coworker no-showed leaving Michael to haul gear for four people alone.** The reply promised lighting was being looked at. Was it?
+- Matt Goit's 1★ (Jul 25) was a Groupon honoring failure; the reply said to email info@austinkayaktours.com. Worth confirming whether he ever did and whether the Groupon flow actually works now.
+- Reviews: 140 lifetime at 4.8.
+- No GSC property and no GA4 for this brand — Austin organic is only visible through the LSKT domain.
+- Guides named recently: Gregory, Enola, Michael, Tristan, Rafi, Aiden, Derek, Celeste.
 <!-- live:end -->
 
 ## Quick links

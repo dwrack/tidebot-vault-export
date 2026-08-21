@@ -5,22 +5,22 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 68
+ad_spend_yday: 53
 status: yellow
-alert: "FH blind day 5; Meta dark 9 days"
-updated: 2026-08-20
+alert: "Meta dark 10 days in peak bat season; FH blind day 6"
+updated: 2026-08-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- **FareHarbor blind, day 5.** Last clean: Aug 15, 24 booked / $1,905, 31 ran / $2,248 — a strong day, and the trend since is invisible.
-- **0 unreplied reviews.** 4.8 average across 158.
-- **Google is working: $67.63 yesterday → $54.12 (1 conversion). 7-day: $446.74 → $1,423.18, 3.19 ROAS, 12.83 conversions at $34.81 CPA.** CTR is a remarkable **15.57%** on the week, which means the keyword-to-ad match is tight.
-- **Meta has been completely dark for 9 straight days.** `act_638850950128825` returns empty for both yesterday and last_7d. This is peak bat season and the paid social side is contributing nothing. Turn it on or formally kill the account so it stops reading as a permission gap.
-- **You rank #16.1 for your own brand name.** "lone star kayak tours" — 30 impressions, 3 clicks, **position 16.1.** That is the single most fixable SEO problem across all 13 businesses. A brand should never be on page two for itself.
-- Bat terms are close but not there: "austin bat kayak tour" #8.64, "kayak bat tour austin" #8.58, "guided sunset bat kayak tour in austin" #5.17. All page one bottom — one content push from the top three.
-- Odd but useful: **"paddle boarding lessons" converted 3 clicks off 5 impressions at #7.8 (60% CTR).** Tiny volume, enormous intent. Worth a dedicated page.
-- Note this account is shared with Austin Kayak Tours, so the $67.63 covers both brands.
+- **Meta has been completely dark for 10 straight days.** `act_638850950128825` returned empty for last_7d again. This is peak bat season in Austin and the account is off. Turn something on or formally kill it so it stops reading as a permission gap.
+- **Google is carrying Austin alone and doing fine: $435.52 over 7 days → $1,236.46, 2.84 ROAS, 11 conversions, $39.59 CPA.**
+- **Yesterday is worth one look, not a decision: $53.48 for 45 clicks and 0 conversions, at an 18.37% CTR on only 245 impressions.** That click-through rate is way out of family with the rest of the account. Probably a narrow high-intent segment, possibly something misconfigured. Glance at what's serving before the weekend.
+- **Own-brand ranking is improving but still bad: "lone star kayak tours" moved from #16.1 to #13.23.** A brand ranking on page two for its own name is a fixable problem — usually a title tag and a homepage H1.
+- Real demand sitting on page one and page two, unclaimed by Meta: **"austin bat kayak tour" #8.82**, **"kayak bat tour austin" #8.5**, "sunset bat watching kayak tour" **#4.17 / 2 clicks**, "guided sunset bat kayak tour in austin" #5.17. "kayaking austin" pulled **59 impressions at #13.46**.
+- Nice cross-brand signal: **"honey island kayak tour" ranked #7.75 on this domain** — that's NKST's product showing up on the Austin site. Worth checking whether that's intentional.
+- Reviews: **0 unreplied.** 158 lifetime at 4.8.
+- **FH blind, day 6.**
 <!-- live:end -->
 
 ## Quick links

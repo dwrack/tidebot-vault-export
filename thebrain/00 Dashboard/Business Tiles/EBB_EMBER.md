@@ -6,20 +6,20 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-08-20
+status: yellow
+alert: "3 unreplied 5★; no ad accounts, no GSC, no GA4"
+updated: 2026-08-21
 tile_type: business
 ---
 
 <!-- live:start -->
-- **2 unreplied, both 5★:** Christin Bradford (Aug 19, "Incredible rejuvenating time here... SPA TOUR!") and Jennifer Barber, LICSW (Aug 17, "Really amazing spot! Will be back with more friends next time.").
-- 4.9 average across 104 reviews. **The review quality here is the best in the portfolio** — guests write long, specific, sensory copy about the space. Amy Dunn's is literally song lyrics.
-- **One open service failure worth verifying.** Davey Jones' 3★ (Aug 12): booked a banya experience, **the banya attendant never showed and nobody responded to the phone number.** Your reply said the schedule wasn't updated correctly and that you're reaching out to all affected customers. **Confirm that outreach actually happened** — a no-show on a premium add-on is the kind of thing that turns into a chargeback.
-- That same review flags the walk from the MAX rail as brutal. Cheap fix: add a line to the booking confirmation recommending a rideshare.
-- **No Meta ad account** (never set up — this is a real gap, not a permission problem). No Google Ads, no GSC property, no GA4.
-- Given the review quality and the 4.9 rating, this is the brand with the widest gap between **product strength and marketing infrastructure.** Everything guests say is great; nothing is measured or amplified.
-- Repeated theme across five-star reviews: guests compare it favorably to saunas **abroad**, and multiple mention wanting to come back **in winter**. That's a seasonal campaign that writes itself.
+- **3 unreplied 5★:** tipa stan (Aug 20, rating only), Christin Bradford (Aug 19, "Incredible rejuvenating time here. The Sauna has a beautiful view of the harbor... SPA TOUR!"), Jennifer Barber LICSW (Aug 17, "Really amazing spot! Will be back with more friends next time").
+- Christin's is worth a real reply — **"SPA TOUR!" is a customer inventing your positioning for you.** Portland has saunas; it doesn't have a floating one people describe as a tour.
+- **The one thing to actually watch here is the banya scheduling failure.** Davey Jones' 3★ (Aug 12): booked a banya experience, the practitioner never showed, no response to his outbound message. The reply said "it was completely our bad that the schedule wasn't updated correctly. We're reaching out to all of the customers who booked these missed sessions." **Confirm that outreach actually happened** — that reply made a promise to more than one person.
+- Same review flags a real friction point: the walk from the MAX rail is bad enough that he "regretted it immensely." If public transit is a meaningful arrival path, the booking confirmation should say "take a Lyft" plainly.
+- 105 lifetime reviews at 4.9. The 5★ content is unusually good — pristine facilities, heated bathroom floors, river swims between rounds, warm crowd. This brand's reviews sell better than its ads would.
+- **No Meta ad account and no Google Ads account** — never set up, not a permission gap. No GSC property, no GA4, no FareHarbor line. **This business is invisible to every channel except GBP.**
+- For a brand whose guests keep saying "unique experience" and "worth every penny," running zero paid and zero measurable organic is the most obvious unexploited position in the portfolio.
 <!-- live:end -->
 
 ## Quick links
