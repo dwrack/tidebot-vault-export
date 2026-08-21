@@ -56,12 +56,27 @@ Paste these in under "Bot Token Scopes."
 
 ## User Token Scopes (xoxp)
 
-Only one. This token acts as Davey, so it stays read-only on purpose.
+This token acts as Davey. Two scopes, both deliberate.
 
-- search:read
+- search:read     search across channels and DMs (bot tokens cannot search at all)
+- chat:write      post as Davey, for messages he wants coming from him personally
 
-Do NOT add write scopes here. If a future task genuinely needs one, we add it
-then, deliberately.
+Nothing else. Do not add file, channel-management, or admin scopes here. The bot
+token covers all of that, and anything the bot does is clearly attributable to
+the app rather than to Davey.
+
+### How posting identity works
+
+The `slack_post_message_advanced` tool takes a `post_as` parameter:
+
+- `post_as: "claude"` (default) posts as the app. Obviously automated.
+- `post_as: "me"` posts as Davey via the user token. Indistinguishable from him
+  typing it, so it is used only when he asks for that specific message to come
+  from him.
+
+Worth knowing: a Slack message can only be edited by whoever posted it. There is
+no scope that makes a posted message editable by other people. When something
+needs to be team-editable, it goes in a canvas, not a message.
 
 ## After changing scopes
 
