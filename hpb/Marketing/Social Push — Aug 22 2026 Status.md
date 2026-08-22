@@ -47,3 +47,20 @@ Post these by hand-pace from the HPB account only after David approves, 1-2 per 
 
 ## Competitor note
 Three accounts are actively posting "Houston BYOB party boat" on TikTok this summer: @houstontidesandvibes ("Houston's newest BYOB party boat", 686 views best), @gulfcoastpartyboats, and the @HoustonPartyBoats tag. None has broken 1K views. HPB's 1.9M / 379K / 189K history is a real edge if the account posts the winning formula again.
+
+### Round 2 candidates (search "things to do in houston this weekend"), David wants 10-14 total over a few days
+| Post | Likes | Draft comment |
+|---|---|---|
+| @tht_boi_yurei, "15 mins from Buffalo Bayou who knew" hidden gem | 52.1K | "Houston hides its best stuff 15 minutes from wherever you're standing" |
+| @theedrunkenlaboratory, things to do besides clubbing | 27K | "The 'besides clubbing' category is criminally underrated in this city" |
+| @spacecitymarket.htx, free margaritas market | 6.5K | "Free margs and AC in August is the most Houston combo possible" |
+| @hdzdulxe, Houston Museum of Natural Science | 2.6K | "The chemistry floor gets everybody, no shame" |
+| @baowinn, Thompson rooftop pool staycation | 2.2K | "Rooftop pool in August is self care, not a luxury" |
+| @stufftodoinhtx, Buffalo Bayou Cistern Undercurrents | 1.7K | "The Cistern is the one thing every out-of-towner should get dragged to" |
+| @beaucoupjuice, "add this to your Houston list" | 245 | "List is getting long at this point and I'm not mad about it" |
+| @dad_dangerously, weekend event roundup | 107 | "Pre-season football AND jazz social clubs in one weekend, this city is unserious (in a good way)" |
+
+Pacing: 2-3/day over 5 days from @houstonpedalbarge, varied times, each typed by hand in-session. Nothing mentions the boat.
+
+## Standing routine (David, Aug 22): "what to do in Houston this weekend" posts
+Every Thursday/Friday: find that week's Houston weekend roundup posts on TikTok + IG, leave 3-4 genuine comments from HPB (no boat mention). Wired into the Thu/Fri morning brief as a draft list; posting happens in-session because it needs the logged-in HPB browser.
