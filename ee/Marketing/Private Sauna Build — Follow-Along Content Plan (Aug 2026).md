@@ -1,6 +1,8 @@
 # Private Sauna Build — Follow-Along Content Plan (Aug 2026)
 
-*Companion to [[Sauna V2 — Design Notes (Aug 2026)]] and [[Private Saunas — Slack Pin Draft (Aug 2026)]]. Owner: TBD (see Decisions). Status: proposal, nothing filmed yet.*
+*Companion to [[Sauna V2 — Design Notes (Aug 2026)]] and [[Private Saunas — Slack Pin Draft (Aug 2026)]]. Status: GREEN-LIT Aug 21. Target opening mid-October 2026.*
+
+*Locked Aug 21: names are **Sunrise** and **Sunset** (not East/West). Mistakes and constraints get published. Daily site clips come from Grant's crew, unpaid ask. Series ownership goes to Lemonade PDX at the Sept 15 handoff.*
 
 ---
 
@@ -36,6 +38,8 @@ Five reasons, in the order they actually matter.
 
 **Voice rules.** Same quiet register as the 532 grid. Lowercase covers, no exclamation points, no "we're SO excited." No hype-build energy, no timelapse-with-trap-music. The tone is a builder's notebook: a number, a problem, a decision. Never call it wood-fired (it's gas). Never say "float" as a noun for the experience. It's the Columbia, not the ocean.
 
+**Second audience: other sauna builders.** Davey's call, and it changes the edit. Builders are the ones who watch a floating-platform load calc all the way through, and they are the ones who share it. So keep the technical detail in — real numbers, real fixes, the header problem, the BTU math — instead of sanding it down for a general audience. Guests will still watch a clean 30-second Reel; builders will watch the six-minute YouTube cut. Make both from the same footage. That also means YouTube long-form is worth doing here even though it isn't worth doing for the ritual content.
+
 **The recurring hook shape:** state a real constraint, then leave it open.
 - "the heater lands on top of the glass floor. one of them has to move."
 - "the rock cage adds 690 pounds. that number has to be in the float calc before we order the platform."
@@ -47,22 +51,26 @@ Five reasons, in the order they actually matter.
 
 Tied to real build stages, not calendar dates. Some of these have already passed and get reconstructed from renderings, emails, and the concept sketch.
 
-| # | Milestone | Post | Format | Status |
-|---|---|---|---|---|
-| 1 | Why two saunas | Origin + the plan. Renderings, sketch, the slip-32 site. | Carousel | **Can film now** (drafted below) |
-| 2 | The site | Stand at slip 32, point west, explain the pool that gets created | Reel, phone, Davey | **Can film now** |
-| 3 | Design constraints | Round window: square pane → octagon frame → trimmed round. Kyle's method. | Reel or carousel | Needs Kyle's coast-build photos |
-| 4 | The two personalities | Sunrise faces the mountain / Sunset faces the water. Renderings side by side. Ask the audience which one they'd book. | Carousel | **Can film now** — best early engagement post |
-| 5 | Framing | Grant's crew, stud walls, the window header problem | Reel | **Happening now — camera needed this week** |
-| 6 | The heater math | 60,000 BTU minimum, and why glass drove it | Reel, static + text | Anytime |
-| 7 | The rock cage | 316L stainless, custom, +345 lbs per stove | Carousel | On Nippa reply |
-| 8 | Float + load | Platform build, the weight calc, launch day on the water | Reel — **highest-value shot of the whole series** | Not yet ordered |
-| 9 | Glass goes in | The big round window landing, the two-wall glass on Sunset | Reel | Later |
-| 10 | Interior wood | Bench install, the wood decision and why | Reel | Later |
-| 11 | First fire | Stove lit, first steam, nobody in it yet | Cinematic reel, no talking | Later |
-| 12 | Reveal + booking opens | Full walkthrough both saunas, waitlist email fires same hour | Reel + email + blog | Opening |
+Back-timed from a **mid-October open**. Eight weeks, two posts a week, ~16 slots for 12 milestones — the spare slots absorb slippage.
 
-Milestones 1-4 can all be shot and scheduled in one afternoon from material we already have. That's three weeks of content banked before we touch the job site.
+| # | Milestone | Post | Format | Week |
+|---|---|---|---|---|
+| 1 | Why two saunas | Origin + the plan. Renderings, sketch, the slip-32 site. | Carousel | **Aug 25** — drafted below |
+| 2 | The site | Stand at slip 32, point west, explain the pool that gets created | Reel, phone, Davey | **Aug 25** |
+| 3 | Design constraints | Round window: square pane → octagon frame → trimmed round. Kyle's method. | Reel or carousel | Sep 1 — needs Kyle's coast-build photos |
+| 4 | The two personalities | Sunrise faces the mountain / Sunset faces the water. Renderings side by side. Ask the audience which one they'd book. | Carousel | Sep 1 — best early engagement post |
+| 5 | Framing | Grant's crew, stud walls, the window header problem | Reel | **Sep 8 — happening now, camera needed this week** |
+| 6 | The heater math | 60,000 BTU minimum, and why glass drove it | Reel, static + text | Sep 8 |
+| 7 | The rock cage | 316L stainless, custom, +345 lbs per stove | Carousel | Sep 15 — on Nippa reply, and it's handoff week |
+| 8 | Float + load | Platform build, the weight calc, launch day on the water | Reel — **highest-value shot of the whole series** | **Sep 22 — paid shooter** |
+| 9 | Glass goes in | The big round window landing, the two-wall glass on Sunset | Reel | Sep 29 |
+| 10 | Interior wood | Bench install, the wood decision and why | Reel | Oct 6 |
+| 11 | First fire | Stove lit, first steam, nobody in it yet | Cinematic reel, no talking | Oct 6 |
+| 12 | Reveal + booking opens | Full walkthrough both saunas, waitlist email fires same hour | Reel + email + blog | **Oct 13 — paid shooter** |
+
+Milestones 1-4 can all be shot and scheduled in one afternoon from material we already have. That's two weeks of content banked before we touch the job site.
+
+**Hard dates that gate everything else:** the pillar page has to be live before post #1 goes out (Aug 25), and float launch day is the one shot that cannot be re-created. Find out from Grant when the platform goes in the water the moment the load calc closes.
 
 ---
 
@@ -91,16 +99,15 @@ Milestones 1-4 can all be shot and scheduled in one afternoon from material we a
 
 ## 5. Who shoots it
 
-The build outlasts the SMM transition, which is the real risk. Kimberlynn is out Sept 15; Lemonade PDX picks up after. If nobody owns the camera between those, the series stops.
+Resolved Aug 21. The build outlasts the SMM transition, so the handoff is the fragile part.
 
-Proposed split:
 - **Davey** — site visits, the decision moments, on-camera pieces. You're there anyway.
-- **Grant / Kerf crew** — the daily clip. Ask for one 30-second video a day texted to a single thread. Offer to pay for it if it makes it stick. This is the cheapest content in the plan and the hardest to get without asking directly.
-- **Kimberlynn (through Sept 15)** — cut and schedule milestones 1-6, and hand over a labeled folder plus this doc.
-- **Lemonade PDX (Sept 15 on)** — takes the series over mid-build. Put it in the $3K scope explicitly, not as an assumed extra.
-- **A paid shooter** — one half-day, twice: float launch day and the reveal. Those two are worth real money and can't be re-shot.
+- **Grant / Kerf crew** — one 30-second clip a day, texted to a single thread. Unpaid ask; framed as documenting their own work, which it is. Draft ask in the appendix.
+- **Kimberlynn (through Sept 15)** — cuts and schedules milestones 1-6, then hands over a labeled `Assets/Photos/` folder plus this doc. Her last build post is the rock cage.
+- **Lemonade PDX (Sept 15 on)** — owns the series from the handoff through the reveal. Goes into the $3K scope as a named deliverable, not an assumption. Draft ask in the appendix.
+- **Paid shooter** — one half-day twice: float launch (Sep 22ish) and reveal (Oct 13ish). Neither is re-shootable.
 
----
+**The handoff is the single biggest risk in this plan.** It lands the same week as milestone 7, three weeks from the payoff. Lemonade PDX should be looped in before Sept 15, not on it.
 
 ## 6. What the series is driving toward
 
@@ -140,13 +147,51 @@ Caption:
 
 ---
 
-## 8. Decisions needed
+## 8. Decisions — status
 
-1. Green-light the series, yes or no. It only works as a commitment.
-2. Who owns the camera and the calendar after Sept 15 — is this written into Lemonade PDX's scope?
-3. Will you ask Grant for a daily clip, and do we pay for it?
-4. Do we publish real constraints and mistakes, or only the clean version? The plan above assumes real. It's the whole reason it works.
-5. Naming: Sunrise/Sunset or East/West. Marketing needs this locked before post #1.
-6. Do we build /private-sauna-rental-portland now as the waitlist destination, or run the series to the homepage and lose the capture?
-7. Target opening window — needed to back-time the reveal, the waitlist email, and any press pitch.
-8. Do we bring Early Bird in now so the build is a pitch rather than an announcement?
+| # | Item | Answer |
+|---|---|---|
+| 1 | Run the series | **Yes** |
+| 2 | Owner after Sept 15 | **Lemonade PDX**, written into scope. Ask drafted below. |
+| 3 | Daily clip from Grant | **Yes, unpaid ask.** Draft below. |
+| 4 | Publish mistakes | **Yes** — and lean technical, other sauna builders are a target audience |
+| 5 | Naming | **Sunrise / Sunset.** Tell Kyle and Grant so drawings match. |
+| 6 | Pillar page as waitlist destination | **Build it now, thin.** Ask to Jess drafted below. |
+| 7 | Opening | **Mid-October 2026.** Calendar back-timed in section 3. |
+| 8 | Early Bird | Open — see below |
+
+**On #8:** Early Bird Communications is the PR firm on retainer. Mack John (mack@hiearlybird.com) is the day-to-day contact, Jordan Culberson (jordan@) is the other. Biweekly meetings. The point of bringing them in now rather than at open: a build in progress is a story a reporter can visit and photograph, and a finished sauna is a press release nobody runs. Two named saunas, a custom round window, and a floating platform on the Columbia is a local-desk pitch. If we wait until October, the only angle left is "new thing now open," which is the weakest version of it. Recommend raising it at the next biweekly.
+
+**Still open elsewhere, and it blocks build content:** the interior wood decision, true floor-to-ceiling glass, and the differentiation tier are all unresolved in the design notes. Each one is a post. They're also each a purchase order. Deciding them on camera is better content than deciding them in email.
+
+---
+
+## Appendix — asks to send
+
+### A. Lemonade PDX (Hannah Kang) — add the build series to scope
+
+> Hey Hannah,
+>
+> One thing to fold into the scope before you start. We're building two private saunas on a new floating platform, framing is underway now, target open is mid-October. We're documenting the whole build as a follow-along series on IG, and it runs straight through your start date.
+>
+> Kimberlynn will hand you a labeled footage folder and the plan doc. What we'd want from you from Sept 15 on: 2 posts a week off site footage, the reveal push in mid-October, and a waitlist email tied to it. Roughly six weeks of it.
+>
+> Sending the plan doc separately. Let me know if that changes the scope number.
+
+### B. Grant McElroy (Kerf Builds) — the daily clip
+
+> Hey Grant,
+>
+> Small favor while you're building. Could you or someone on the crew shoot one 30-second video a day on site and text it to me? Doesn't need to be good. Someone cutting, a wall going up, whatever changed that day. Hold the phone still and let it run.
+>
+> We're documenting the build, and honestly the framing and the float engineering are the interesting part. Happy to credit Kerf on everything that goes out.
+>
+> One ask: if something goes sideways, shoot that too. That's the stuff people actually watch.
+
+### C. Jess — build the private sauna page
+
+> Hey Jess,
+>
+> Need /private-sauna-rental-portland live before Aug 25, even if it's thin. It's the destination for a build follow-along series that starts that week, and it needs a waitlist form on it.
+>
+> Minimum viable version: the two renderings, a short paragraph on Sunrise and Sunset, "opening mid-October," and an email capture. We'll fill it out as the build goes. Can you get that up this week?
