@@ -13,6 +13,7 @@
 
 
 ## Low Priority
+- [ ] [Guide log] Investigate green single seater kayak, number 3, for any underlying issues, as a guest found it 'slow' and 'hard to paddle.' _(Amy (audio log), 2026-08-22)_
 - [ ] [Guide log] Take guest's shirt upstairs _(Elizabeth (audio log), 2026-06-13)_
 
 
