@@ -1,6 +1,6 @@
 # Marketing Canvas — Initiative Board
 
-Paste-ready for the #marketing canvas. Owners marked `?` are proposals, confirm before posting.
+Paste-ready for the #marketing canvas. Every row has an owner.
 
 **Rules**
 - One owner per row. Never two.
@@ -15,32 +15,22 @@ Paste-ready for the #marketing canvas. Owners marked `?` are proposals, confirm 
 
 | Initiative | Owner | Next action | Due | Assets | Thread |
 |---|---|---|---|---|---|
-| /thank-you page | Davey ? | Build confirmation URL in Periode | Aug 29 | — | link |
+| Website structure | Jess | Scope thank-you, /cold-plunge, /blog, design framework | Aug 29 | Site Updates Master Spec | link |
 | Google Ads waste | Davey | Neg "sauna near me", $10/day to Tourist | Aug 22 | Acct 237-223-4368 | link |
-| Meta Page + IG share | Davey | Share assets to act_1425635901791284 | Aug 22 | — | link |
-| Boost Jul 17 reel | Davey | $300 test once share lands | Sep 5 | IG post | link |
-| Member party email | Jess ? | Approve + schedule | Sep 5 | ActiveCampaign | link |
-| Kimberlynn handoff | Jonah | Name successor | Aug 29 | — | link |
-| /cold-plunge-portland | Jess | Build page | Sep 12 | Cold Plunge Page Draft | link |
+| Meta Page + IG share | Davey | Verify share landed, then close | Aug 22 | act_1425635901791284 | link |
+| Lemonade PDX handoff | Jess | Close contract, hand off from Kimberlynn | Aug 29 | — | link |
 | Title + meta CTR fix | Jess | Rewrite 5 page titles | Sep 5 | Site Updates Master Spec | link |
-| /memberships traffic | Jess ? | Add links from home + FAQ | Sep 5 | — | link |
-| Review replies | Hannah ? | Clear 3 open, set weekly cadence | Aug 22 | GBP | link |
-| Rain angle content | Kimberlynn | Shoot rain b-roll, 3 reels | Sep 5 | Portland Downpour AB Test | link |
-| Private sauna build doc | Kimberlynn | Footage every week | Weekly | #private-saunas-build | link |
-| Travel Portland collab | Kimberlynn | Report if live + numbers | Aug 22 | @lifted_pdx | link |
-| Aug 11 reel, 0 likes | Kimberlynn | Check if publish broke | Aug 22 | — | link |
-| Lodging outreach | Hannah ? | Send first 10 | Aug 29 | Lodging Outreach Tracker | link |
-| Human Access Project | L ? | Confirm auction donation | Aug 29 | — | link |
+| /memberships traffic | Jess | Link from home + FAQ | Sep 5 | — | link |
+| Review replies | Davey | Clear 3 open, set weekly cadence | Aug 22 | GBP | link |
+| Rain angle content | Lemonade PDX | Shoot rain b-roll, 3 reels | Sep 5 | Portland Downpour AB Test | link |
+| Sauna build insider look | Lemonade PDX | Footage every week | Weekly | #private-saunas-build | link |
+| Creator wrap-up | Kimberlynn | Follow up, build updated creator list | Aug 29 | Creator Outreach Playbook | link |
+| Aug 11 reel, dead | Kimberlynn | Delete + repost, 24h apart | Aug 22 | — | link |
+| Lodging outreach | Hannah | Send first 10 | Aug 29 | Lodging Outreach Tracker | link |
+| Human Access Project | L | Confirm auction donation | Aug 29 | — | link |
+| SMS drip | L | Build SMS into drip campaign | Sep 5 | Twilio | link |
+| YouTube analytics API | Davey | Enable API | Aug 29 | — | link |
 
 ## Parking Lot
 
-No owner, no date. Claim one or it stays here.
-
-| Item | Status |
-|---|---|
-| Blog / journal + pillar pages | Planned, nothing built |
-| SMS marketing | Twilio approved, nothing sending |
-| YouTube | Analytics API off, zero uploads |
-| Rose Festival auction, Oct 8 | Unanswered in inbox |
-| Sharon Doka collab | Replied, no call booked |
-| Star News story | Jonah + Maggie Grainger, in progress |
+Empty. Everything is claimed or killed.
