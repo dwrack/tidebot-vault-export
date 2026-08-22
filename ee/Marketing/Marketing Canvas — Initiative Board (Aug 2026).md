@@ -31,7 +31,6 @@ Paste-ready for the #marketing canvas. Owners marked `?` are proposals, confirm 
 | Aug 11 reel, 0 likes | Kimberlynn | Check if publish broke | Aug 22 | — | link |
 | Lodging outreach | Hannah ? | Send first 10 | Aug 29 | Lodging Outreach Tracker | link |
 | Human Access Project | L ? | Confirm auction donation | Aug 29 | — | link |
-| SendGrid cancel | L | Confirm it's dead | Aug 22 | — | link |
 
 ## Parking Lot
 
@@ -45,5 +44,3 @@ No owner, no date. Claim one or it stays here.
 | Rose Festival auction, Oct 8 | Unanswered in inbox |
 | Sharon Doka collab | Replied, no call booked |
 | Star News story | Jonah + Maggie Grainger, in progress |
-| 1859 Magazine ad | Deadline Aug 14 passed |
-| Portland Mercury print | No, unless someone objects |
