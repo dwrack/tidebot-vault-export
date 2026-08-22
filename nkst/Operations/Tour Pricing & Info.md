@@ -16,6 +16,23 @@ Source: Google Drive import — March 2026 (KAYAKING INFO.docx + Auto text for p
 
 **Note:** All TripAdvisor bookings include transportation.
 
+## Private Tour Rates
+
+Full ladder including Extended and Combo: [[Operations/Private Tour Rate Card]] (set 2026-08-21).
+
+Standard 2 hour, Manchac or Honey Island:
+
+| Party size | Private rate |
+|---|---|
+| 1 | $250 flat |
+| 2 | $350 flat |
+| 3 | $450 flat |
+| 4-6 | $120/person |
+| 7-12 | $110/person |
+| 13-20 | $105/person |
+
+Transport add-on is $25/person on top, same as public. Over 20 guests, escalate for a manual quote.
+
 ---
 
 ## Pick-Up Location

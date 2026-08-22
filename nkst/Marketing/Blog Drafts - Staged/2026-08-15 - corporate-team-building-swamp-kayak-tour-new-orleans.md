@@ -85,7 +85,7 @@ how much does a corporate kayak team building event cost in new orleans
 ```
 **A2:**
 ```
-Pricing depends on group size and whether you book the standard small-group format or a private large-group event. NKST does not publish a flat corporate rate online; the accurate way to get a number is to contact NKST directly with your headcount and preferred date.
+A private swamp kayak tour is $120 per person for 4 to 6 people, $110 per person for 7 to 12, and $105 per person for 13 to 20. A team of 15 comes to $1,575. Round-trip transportation from the French Quarter is $25 per person on top. Teams larger than 20 get quoted individually, since they need multiple vans and guide crews.
 ```
 
 **Q3:**
@@ -113,7 +113,7 @@ Yes. Most NKST guests have never kayaked before any given tour. Tandem kayaks pu
   "@type": "FAQPage",
   "mainEntity": [
     {"@type": "Question", "name": "what are good team building activities in new orleans", "acceptedAnswer": {"@type": "Answer", "text": "Outdoor, physical, low-ego activities tend to work better than indoor icebreakers for team building in New Orleans. NKST runs a silent-kayak swamp scavenger hunt (Swamp Bingo) 30 minutes from downtown, where tandem kayaking forces real coordination and communication between coworkers who might not otherwise interact."}},
-    {"@type": "Question", "name": "how much does a corporate kayak team building event cost in new orleans", "acceptedAnswer": {"@type": "Answer", "text": "Pricing depends on group size and whether you book the standard small-group format or a private large-group event. NKST does not publish a flat corporate rate online; the accurate way to get a number is to contact NKST directly with your headcount and preferred date."}},
+    {"@type": "Question", "name": "how much does a corporate kayak team building event cost in new orleans", "acceptedAnswer": {"@type": "Answer", "text": "A private swamp kayak tour is $120 per person for 4 to 6 people, $110 per person for 7 to 12, and $105 per person for 13 to 20. A team of 15 comes to $1,575. Round-trip transportation from the French Quarter is $25 per person on top. Teams larger than 20 get quoted individually, since they need multiple vans and guide crews."}},
     {"@type": "Question", "name": "can you customize a team building event at nkst", "acceptedAnswer": {"@type": "Answer", "text": "Yes. NKST's own team-building page states tours can be tailored to include specific team-building exercises or environmental education add-ons, on top of the standard Swamp Bingo wildlife-and-plant identification format."}},
     {"@type": "Question", "name": "is kayaking a good team building activity for people who have never kayaked", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Most NKST guests have never kayaked before any given tour. Tandem kayaks put two coworkers in the same boat, which means the team building is not a forced exercise, it is just what happens when two people have to paddle in sync to go in a straight line."}}
   ]
@@ -212,7 +212,7 @@ It's a worse fit if your group needs to stay in business casual with laptops nea
 
 ## What it costs and how to book
 
-NKST doesn't publish a flat corporate rate online, because the honest answer depends on your group size, whether you want the standard small-group format (8-12 per boat group) or a private large-group event, and whether you want the customized add-ons. **[internal link: our large-group / family reunion page → /the-best-swamp-tour-for-your-family/]** gives a sense of how NKST handles bigger private groups, capacity for 40 or more with multiple boats and guides, which is the same infrastructure a bigger corporate offsite would use.
+NKST publishes real private rates now, $120 per person for 4 to 6, $110 for 7 to 12, and $105 for 13 to 20, with transportation at $25 per person on top. What still varies is your group size, whether you want the standard small-group format (8-12 per boat group) or a private large-group event, and whether you want the customized add-ons. **[internal link: our large-group / family reunion page → /the-best-swamp-tour-for-your-family/]** gives a sense of how NKST handles bigger private groups, capacity for 40 or more with multiple boats and guides, which is the same infrastructure a bigger corporate offsite would use.
 
 The honest advice: reach out early. Two to three weeks ahead is usually enough for a standard-size team. If you're trying to get 40 or more people on the water for a company-wide offsite, give it more lead time so NKST can actually staff it right.
 

@@ -94,8 +94,8 @@ A 2-person booking that converts to private is $350 instead of $130 on a slot th
 
 ## Open items
 
+- [x] **Sent to Kevin Schmitt (FareHarbor Enterprise Account Manager, kevin.schmitt@fareharbor.com) on 2026-08-21.** Asked for dashboard items + website publish, live by **Friday Aug 28**. Told him dashboard is the priority if the site side runs long. Open question back to him: can FareHarbor do flat-rate-then-per-person on a single item, or does each tier need its own item? If it needs separate items, tier breaks may shift.
 - [ ] Build the FareHarbor private items to match this card. The live $450 flat 1-3 item is retired.
-- [ ] Fix the Meta ad copy in [[NKST Meta Ads Master Plan]] — it currently reads "1-20 people, starting at $450." True entry is now $250, and 20 people is $2,100.
-- [ ] Push the card into the chatbot private-tour trigger ([[NKST — Chatbot & SMS Script v2]], keywords: private, group rate, corporate, bachelorette) and the group qualifying script in [[NKST — Sales Process & SMS Playbook]].
-- [ ] Update [[SOPs/NKST — Operations Contractor SOP (After Automation)]] — private pricing no longer escalates to owner under 20 guests.
-- [ ] Blog drafts in `Marketing/Blog Drafts - Staged/` quote private pricing as "confirm directly." They can now quote real numbers.
+- [x] **Vault sweep done 2026-08-21.** Updated to the new numbers: Meta Ads Master Plan (Upsell Ad 3), Chatbot & SMS Script v1 + v2 (Branch 11), Sales Process & SMS Playbook (Flow C), both Operations Contractor SOPs, the Contractor Position Description, the Crew Assignment & Minimum Headcount Policy, `Operations/Tour Pricing & Info.md`, all three FAQ docs, and the two staged blog drafts (bachelorette + corporate). FAQ JSON-LD re-validated on both drafts.
+- [ ] **Not yet pushed to OpenCX.** The chatbot scripts are updated in the vault, but Magnolia's live training scenarios still carry the old "pricing depends on group size, let me connect you" answer. Push the new ladder as a training scenario.
+- [ ] Contractor escalation rule changed: private groups **up to 20** are now quoted straight off this card with no owner escalation. Make sure Connor knows.

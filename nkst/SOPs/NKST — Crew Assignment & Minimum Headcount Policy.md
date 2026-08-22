@@ -31,8 +31,8 @@ This is not a hard "never run it" rule — it's a trigger for the offer sequence
 
 1. **Reschedule (no cost to the guest).** Check FareHarbor for a nearby departure that already has a fuller group and offer to move them there. This is the default, trust-preserving option — lead with it.
 2. **Private/guaranteed departure (if they want to keep their original time).** Offer to run their exact slot as a private tour:
-   - **Manchac standard tour:** $450 flat for 1-3 guests (existing FareHarbor private-tour item — confirmed live in the system but not currently published anywhere customer-facing or trained to staff. That's the actual gap this document closes.)
-   - **Extended/Combo:** currently priced on a shared ladder ($400 / $600 / $900 for 1 / 2 / 3 guests) — **flagged for review**, since this ladder doesn't appear to account for the Combo's $25/person Whitney admission cost. Confirm with management whether Combo needs its own private tier before quoting it.
+   - **All private rates now live on [[Operations/Private Tour Rate Card]] (set 2026-08-21).** Standard 2-hour: $250 / $350 / $450 flat for 1 / 2 / 3 guests, then $120pp (4-6), $110pp (7-12), $105pp (13-20).
+   - The old $450 flat 1-3 item and the shared $400 / $600 / $900 Extended/Combo ladder are **both retired.** The Combo ladder was underpriced because it ignored the $25/person Whitney admission; the new card bakes admission into every Combo number.
 
 **Timing:** Raise this 48-72 hours before departure once FareHarbor shows the booking is under threshold — by text or email, not a phone call, and never at pickup. Raising it day-of reads as a bait-and-switch; the guest has already mentally locked in the price they paid.
 
@@ -50,5 +50,5 @@ With 4 guides and a schedule that can run 8am/9am/9:30-10am/11:30am/2pm/4:30pm, 
 ## 4. Open Items
 
 - Confirm current 4 active guides' names and Combo/Extended qualification (feeds the Roster tracker).
-- Confirm whether the Extended/Combo private-rate ladder needs to be split to reflect Combo's higher cost.
+- ~~Confirm whether the Extended/Combo private-rate ladder needs to be split to reflect Combo's higher cost.~~ **Resolved 2026-08-21** - Combo has its own ladder with admission included. See [[Operations/Private Tour Rate Card]].
 - Decide whether the reschedule/private-rate offer gets automated (e.g. a FareHarbor-triggered text) or stays manual.

@@ -65,7 +65,7 @@ The contractor is responsible for:
 
 - Following up on group leads within a reasonable window of inquiry capture
 - Qualifying the group: size, date, occasion, shuttle needs, custom requests
-- Providing quotes based on current pricing; escalating custom or private tour pricing to the owner
+- Providing quotes based on current pricing, including private groups up to 20 guests straight off [[Operations/Private Tour Rate Card]]; escalating only groups over 20 or anything priced off-card
 - Booking confirmed groups in FareHarbor
 - Managing the group relationship through to tour day
 
@@ -313,7 +313,7 @@ The following decisions belong to the owner. The contractor surfaces relevant in
 - Capital expenditures
 - Changes to the FareHarbor product catalog
 - Public statements on behalf of the company
-- Custom pricing for private tour buyouts
+- Private tour buyouts over 20 guests, or any private quote that departs from [[Operations/Private Tour Rate Card]]
 - Any matter involving the LDWF permit beyond routine quarterly reporting
 
 ---

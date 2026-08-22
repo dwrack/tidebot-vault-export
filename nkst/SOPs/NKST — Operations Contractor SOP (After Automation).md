@@ -269,7 +269,7 @@ Group inquiries still require a human. Automation captures the lead — you conv
    - Automation warmed them up — now you close
    - Confirm: group size, date, tour preference, shuttle, any occasion (birthday, bachelorette, corporate)
    - Provide custom quote if their group size or needs fall outside the automated response
-   - If they want a private tour: escalate pricing discussion to owner
+   - If they want a private tour: quote it yourself straight off [[Operations/Private Tour Rate Card]]. No owner escalation up to 20 guests.
 4. Once group confirms: create the booking in FareHarbor manually
 5. GHL will pick up the booking via webhook and run the normal pre-tour sequence
 6. Log the group in GHL pipeline — update their stage as the booking progresses
@@ -391,7 +391,7 @@ Send owner a brief report covering:
 - Pricing changes or new product creation
 - Capital expenditures
 - LDWF permit questions beyond routine reporting
-- Custom group pricing (private tours, large groups)
+- Private groups over 20 guests, or any private quote that departs from [[Operations/Private Tour Rate Card]]
 - Negative reviews describing safety incidents or legal claims
 - Any situation where automation has a systemic failure (entire workflow broken, not just one record)
 - Media inquiries

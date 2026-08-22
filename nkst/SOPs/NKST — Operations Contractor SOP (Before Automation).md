@@ -129,7 +129,14 @@ Do this every morning, in this order, before the first tour of the day.
    - Extended Manchac 4-Hour: $130 (+ $25 shuttle)
    - Whitney + Swamp Combo: $195 (shuttle included)
    - Honey Island 2-Hour: $65 (+ $25 shuttle) — **summer only**
-3. If the group wants a private tour, escalate to owner for custom pricing discussion.
+3. If the group wants a private tour, quote it off [[Operations/Private Tour Rate Card]] (2-hour Manchac):
+   - 1 / 2 / 3 guests: $250 / $350 / $450 flat
+   - 4-6 guests: $120/person
+   - 7-12 guests: $110/person
+   - 13-20 guests: $105/person
+   - Shuttle is $25/person on top, same as public tours
+   - Extended 4-hour and Whitney Combo have their own ladders on the card
+   - **Over 20 guests: do not quote.** Multiple vans and guide crews, escalate to owner.
 4. Follow up on every group inquiry within 24 hours if you don't hear back after initial quote.
 
 ---
