@@ -10,7 +10,7 @@ Built 2026-08-22. All 149 clips in `Assets/Videos`, `Assets/Shorts`, and `NPB vi
 
 | Item | Do this |
 |---|---|
-| Handle | New account **@freakytikinola** (the existing @nolapedalbarge handle buries the product). Cross-post from the old account. |
+| Handle | New account **@nolafreakytiki** (the existing @nolapedalbarge handle buries the product). Cross-post from the old account. |
 | Bio | "Private BYOB tiki boat. 25 people. Gators included. 15 min from the Quarter. Call/text 504-264-1056" |
 | Bio link | Straight to the Freaky Tiki FareHarbor booking item, not the homepage |
 | Pinned comment on every post | "Saturdays go first. Call or text 504-264-1056 or DM your date." |
@@ -114,3 +114,17 @@ Then #9, #11, #12, #14-20, then the bench.
 5. **Guest UGC loop.** Print "#freakytiki 504-264-1056" on the tiki bar. Ask every group to post. Repost theirs; Nashville's viral hits are all guest-shot.
 
 Consent: a sign at the dock plus a verbal "we film for social, wave us off if you'd rather not" at boarding.
+
+## Drive it until it catches (the iteration loop)
+
+Every clip ships as 3 hook variants (v1, v2, v3) in `Ready to Post/`. Same footage, different first-frame text. TikTok treats each as a new post, so repeating a clip costs nothing and the algorithm re-tests it.
+
+1. **Post v1.** Log it in `Posting Tracker.csv` (date, file, hook, sound).
+2. **Read at 48h.** Views, completion %, shares, saves, profile visits. Completion and shares matter more than views.
+3. **Under 1,000 views at 48h:** post v2 of the same clip 3-4 days later with a different sound. Under 1,000 again: post v3. Three strikes, bench the clip.
+4. **1,000-10,000:** it's working. Post v2 within a week anyway (different sound), then move on.
+5. **Over 10,000 or it's getting shared:** that's a catch. Immediately: (a) pin it, (b) reply to the top 5 comments with a video reply using the alt-angle or bench clips, (c) re-cut the same moment as a 3-second loop with no text, (d) post the other two variants over the next 10 days, (e) run it as a Spark Ad at $20/day to the bach audience.
+6. **Hook families to re-roll when a clip stalls:** POV ("POV: the bride..."), Fake-rule ("Rules of the boat, #4"), Deadpan caption ("hydration is important"), Callout ("tag the friend who..."), Question ("would you?"), Gone-wrong framing ("swamp tour gone wrong"). The `Scripts/freaky_tiki_tiktok_build.py` CLIPS list holds the hooks; add a 4th string and rerun with `--variants 4`.
+7. **Weekly:** sort the tracker by shares. Whatever's winning becomes next week's default hook family.
+
+Rebuild anytime: `python3 Scripts/freaky_tiki_tiktok_build.py` (all), or `--only bride-sends-it,drone-gator`.

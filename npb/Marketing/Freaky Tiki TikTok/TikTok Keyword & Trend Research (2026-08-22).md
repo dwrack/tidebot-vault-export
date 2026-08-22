@@ -181,7 +181,7 @@ Per pillar:
 - Pin a comment with the number. Bio link to the Freaky Tiki booking page, not the homepage.
 
 ### Two structural notes
-- Handle: @nolapedalbarge buries the product. Launch @freakytikinola as the dedicated channel; pedal barge account cross-posts.
+- Handle: @nolapedalbarge buries the product. Launch @nolafreakytiki as the dedicated channel; pedal barge account cross-posts.
 - The gator is the unfair asset. Nobody in Miami, Nashville, Havasu or Tampa can film an alligator next to a champagne gun. Lead with it in the first frame of at least 1/3 of posts.
 
 ---

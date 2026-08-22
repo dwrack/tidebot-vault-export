@@ -64,3 +64,20 @@ Pacing: 2-3/day over 5 days from @houstonpedalbarge, varied times, each typed by
 
 ## Standing routine (David, Aug 22): "what to do in Houston this weekend" posts
 Every Thursday/Friday: find that week's Houston weekend roundup posts on TikTok + IG, leave 3-4 genuine comments from HPB (no boat mention). Wired into the Thu/Fri morning brief as a draft list; posting happens in-session because it needs the logged-in HPB browser.
+
+## TikTok scheduled (Aug 22 session, logged in as HPB)
+| Clip | Goes live | Caption hook |
+|---|---|---|
+| hpb_06-two-weekends-left | Aug 23, 10:30am | Two weekends left before school starts 👀 |
+| hpb_03-boardwalk-then-this | Aug 24, 12:15pm | Do the Kemah Boardwalk. Then do this 👀 |
+| hpb_08-bachelorette | Aug 25, 11:05am | Bachelorette parties book this one out first 👀 |
+All tagged Seabrook, Texas. Remaining for next session: 01, 02, 04, 05, 07 (Aug 26-30).
+
+## Comments posted log
+| Date | Post | Comment | Status |
+|---|---|---|---|
+| Aug 22 | @tht_boi_yurei "15 mins from Buffalo Bayou" (52K) | Houston hides its best stuff 15 minutes from wherever you're standing | posted |
+| Aug 22 | @laurennicolegrace Kemah fireworks | (skipped: the post is an ad for Boardwalk FantaSea yacht, a competitor) | skipped |
+| Aug 22 | @_deseraed Discovery Green boat rides (17K) | Houston really does have way more water stuff than people give it credit for | posted |
+
+Next session (Aug 23+): schedule clips 01/02/04/05/07, post 2-3 comments/day from the candidate list, Thu/Fri "Houston this weekend" roundups.
