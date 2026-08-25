@@ -1,10 +1,10 @@
 # Revenue Breakdown & Forecast — Aug 2026
 
-Built 2026-08-25 from the Periode payments export (Nov 7 2025 – Jul 18 2026, the true financial record: 4,296 payments), GA4 property 524300531 (Feb 2026 onward, web checkouts only), and live Google Ads / Meta ad account pulls.
+Built 2026-08-25 from Periode payments exports covering opening day through today (Nov 7 2025 – Aug 25 2026, the true financial record: 5,209 payments across two exports, deduped by Payment ID), GA4 property 524300531 (Feb 2026 onward, web checkouts only), and live Google Ads / Meta ad account pulls.
 
 ## Headline
 
-**$211,705 net revenue in the first ~8.5 months** (Nov 7 – Jul 18), net of $16.3K refunds. Payment processing fees on top: $6,425. Best month by far: January ($51.1K). Summer floor: ~$19-20K. August is rebounding hard, tracking $26-30K.
+**~$261K net revenue since opening** (Nov 7 – Aug 25), net of ~$18.3K refunds. Best month by far: January ($51.1K). But the story is August: **$33,076 actual through Aug 25, pacing ~$41K** — on track to be the second-best month ever, in what was supposed to be the seasonal floor. July's back half more than doubled its front half ($1,174/day vs $669/day); the summer slump reversed hard in mid-July and hasn't let up.
 
 ## Monthly net revenue (Periode, net of refunds)
 
@@ -18,13 +18,13 @@ Built 2026-08-25 from the Periode payments export (Nov 7 2025 – Jul 18 2026, t
 | Apr 2026 | $23,501 | 444 | $53 | 214 |
 | May 2026 | $20,297 | 385 | $53 | 163 |
 | Jun 2026 | $18,576 | 478 | $39 | 193 |
-| Jul 1-18 2026 | $11,372 | 253 | $45 | 116 |
-| Jul full (est) | ~$19,500 | ~430 | | |
-| Aug 2026 (est) | ~$26-30K | | | |
+| Jul 2026 | **$27,802** | 547 | $51 | | 
+| Aug 1-25 2026 | **$33,076** | 619 | $53 | |
+| Aug full (pace) | ~$41,000 | ~770 | | |
 
-July estimate: $11,372 over 18 days = $632/day pace. August estimate: GA4 shows $18,406 through Aug 25 in web checkouts alone; GA4 has historically captured 55-72% of true revenue (see calibration below), and it structurally misses membership renewals (~$2K/mo), punch passes, and some gift cards. True Aug 1-25 is likely $21-25K, full month $26-30K.
+July and August are actuals from the fresh export (transaction-date filter, deduped against the 7/18 export). July split: $11,372 in Jul 1-17 ($669/day) vs $16,430 in Jul 18-31 ($1,174/day) — the inflection is mid-July. August daily average: $1,323, with the last 7 days holding $1,100-2,150/day.
 
-**Seasonality index (Jan = 100):** Nov(launch) 15 → Dec 39 → Jan 100 → Feb 62 → Mar 53 → Apr 46 → May 40 → Jun 36 → Jul ~38 → Aug ~55-60. The summer slide bottomed in June. August breaking back above April levels mid-summer is the anomaly worth noticing: that's the first month with Google Ads running all month, the attribution bridge live, and the content push.
+**Seasonality index (Jan = 100):** Nov(launch) 15 → Dec 39 → Jan 100 → Feb 62 → Mar 53 → Apr 46 → May 40 → Jun 36 → Jul 54 → Aug ~80. The "summer floor" thesis is dead: June was the bottom, and Aug is pacing to beat every month except January. What changed mid-July: Google Ads went live (7/18), the viral IG month (July: 2,388 GA4 sessions vs June's 1,239), the content push, punch pass relaunch. Growth this steep against seasonality means the winter comp should be aggressive, not cautious.
 
 ## Revenue by type (all time, Nov–Jul 18)
 
@@ -112,27 +112,43 @@ People costs (the actual marketing budget):
 
 Once Lemonade starts, marketing runs ~$3.7-4K/mo before PR — versus ~$600/mo now. That's the step-change to budget for.
 
+## Jul 18 – Aug 25 window detail (fresh export, 913 payments)
+
+| Type | Amount |
+|---|---|
+| Booking items | $44,365 |
+| Membership invoices | $2,826 |
+| Gift cards | $2,359 |
+| Punch passes | $1,853 |
+| Refunds | -$2,046 (4.3% of gross — half the lifetime rate) |
+
+Products in the window: Social Sauna $27,825, Private Sauna $12,126, Summer Sunset Sauna $1,910, Punch Pass $1,853 (finally selling after months at zero), Gift Cards $1,753, Ember 1+2 $2,975, Banya $862.
+
 ## Forecast (Sept 2026 – Jan 2027)
 
-Assumptions: Aug lands ~$27K net; fall/winter is the season (Jan 2026 = $51K proves demand); Jan 2026 had launch-novelty and a viral IG month in it, so don't bank a repeat at full value; memberships keep grinding up ~$150-300 MRR/mo; V2 saunas NOT included (capacity currently caps Social Sauna revenue — if V2 ships mid-winter the upside case gets bigger).
+Assumptions: Aug lands ~$40-41K (actual pace, not estimate); the mid-July inflection (ads + IG + content) is at least partly durable; last year's seasonality still applies on top (Jan 2026 = 2.75x June 2026); Jan 2026 had launch-novelty/viral juice so the winter multiplier is discounted; memberships grind up slowly; V2 saunas NOT included — and capacity is now the live question, because Jan's $51K is the only proof of what the current boat can absorb, and Aug is already pacing 80% of that.
 
 | Month | Conservative | Base | Upside |
 |---|---|---|---|
-| Sept | $22K | $25K | $28K |
-| Oct | $25K | $29K | $34K |
-| Nov | $27K | $32K | $38K |
-| Dec | $28K | $34K | $42K |
-| Jan 2027 | $38K | $46K | $58K |
-| **5-mo total** | **$140K** | **$166K** | **$200K** |
+| Sept | $32K | $37K | $43K |
+| Oct | $34K | $41K | $48K |
+| Nov | $36K | $44K | $52K |
+| Dec | $38K | $47K | $56K |
+| Jan 2027 | $45K | $55K | $68K |
+| **5-mo total** | **$185K** | **$224K** | **$267K** |
 
-Base case logic: Aug momentum (+45% over July) carried into the strongest 5 months of the calendar, discounted from a naive "last year + growth" because Jan 2026's $51K likely had one-time launch/viral juice in it. Dec includes the gift card surge (Dec 2025 sold $3.2K of gift cards on a customer base one-third the current size).
+Base case logic: hold Aug's ~$41K pace roughly flat through fall (conservative already assumes a ~20% giveback of the summer surge), then layer the winter ramp at a discounted multiplier. Even the conservative case has every month beating the same month's spring equivalent by 60%+. Dec includes the gift card surge (Dec 2025 sold $3.2K of gift cards on a customer base one-third the current size). The realistic cap on Base/Upside is capacity, not demand: if slots sell out, revenue plateaus wherever fill does — which is exactly the argument for V2 landing before January.
 
-What would move it up: V2 capacity online before January; punch pass actually selling; membership count breaking 50 ($6K+ MRR floor); Google Ads scaling past a proven ROAS.
-What would move it down: refund/cancellation rate staying at 8%; losing the IG engine in the Kimberlynn→Lemonade handoff (Sept-Oct is exactly when the handoff risk and the seasonal ramp collide).
+What would move it up: V2 capacity online before January; punch pass momentum continuing; membership count breaking 50 ($6K+ MRR floor); Google Ads scaling past a proven ROAS.
+What would move it down: the summer surge proving to be a one-time viral spike; losing the IG engine in the Kimberlynn→Lemonade handoff (Sept-Oct is exactly when handoff risk and the seasonal ramp collide); capacity ceiling binding earlier than expected.
 
 ## Gaps to close
 
-1. Fresh Periode export (Jul 18 → today) to replace the Aug estimate with actuals — 5-minute admin task, or chase Erik for API payments access.
-2. Kimberlynn rate + Early Bird retainer so the marketing P&L line is real.
-3. Refund root-cause: pull the ~$16K of refunds by reason/weather.
-4. Fixed opex (moorage, insurance, gas, labor) lives outside this doc — this is revenue + marketing only. A true cash forecast needs those.
+1. Kimberlynn rate + Early Bird retainer so the marketing P&L line is real.
+2. Refund root-cause: pull the ~$18K of lifetime refunds by reason/weather (though the rate is improving: 4.3% in the last window vs 7.7% lifetime).
+3. Fixed opex (moorage, insurance, gas, labor) lives outside this doc — this is revenue + marketing only. A true cash forecast needs those.
+4. Capacity math: verify max weekly sellable seats against the winter schedule so the forecast ceiling is a number, not a guess.
+
+## Data pipeline note
+
+Fresh payments data can be pulled anytime via the Chrome bridge → merchant.periode.no → Reporting → CSV → Generate Sales CSV (transaction-date filter). Exports land in `Operations/Sales Data/`. Export small windows and dedupe by Payment ID against prior exports; a 10-month range crashes the tab.
