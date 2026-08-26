@@ -1,3 +1,5 @@
+**KILLED 2026-08-25 by David. Do not send. Kept for record only.**
+
 # STAGED DRAFT — NOT SENT — pending David's approval (filed 2026-08-15, Dump pass 41)
 
 This is a draft only. Nothing has been sent. Do not send this until David reviews and approves it.

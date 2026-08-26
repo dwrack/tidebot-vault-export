@@ -11,6 +11,8 @@
 - [ ] Exterior boat railing at the rear is bending, assess if safety issue (if so, prioritize)
 - [ ] Email Eric at Periode about membership abuse: members using guest passes without being present
 - [ ] Ask Eric for enforcement fix in the booking system
+- [ ] Decide on Klaviyo (yes/no) as the E&E CRM, recommended over Attio back in May and still undecided. Details: [[CRM Overview — Klaviyo vs Attio (May 2026)]]
+- [ ] Verify the July Google Ads plan was actually applied in the account: $25/day, Vancouver WA only (not BC), $1/day on "things to do in portland". Details: [[Google Ads Keyword Plan & Budget Decisions (2026-07-18)]]
 
 ## Medium Priority
 - [ ] Ask Dustin for cost to purchase/design/build the plunge pod (Dustin)

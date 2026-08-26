@@ -1,3 +1,5 @@
+**Status 2026-08-25: NOT sent to guides yet. David confirmed neither the comp letter nor the Sunday overview went out; he is still working on them.**
+
 # Guide Slack Morning Posts — July 19 to Aug 2
 
 David's layout, finalized 7/19. One post per morning in the guide channel. Sunday opener is the one long post; everything after is 30 seconds a read, one topic, one or two questions. Merging the price sheet into Wednesday opened Thursday and Friday, which now carry the two topics David added: the Honey Island read and the Bayou Bienvenue cypress planting.

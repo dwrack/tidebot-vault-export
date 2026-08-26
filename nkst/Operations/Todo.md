@@ -38,5 +38,17 @@
 - [ ] Keep NKST as SEO funnel, operate under new brand
 - [ ] Workshop rebrand in fall when season slows down
 
+## Added from Apple Notes filing (Aug 25 2026)
+- [ ] Confirm whether the Sunday overview letter + daily guide Slack posts (Jul 19-Aug 2) actually went out — see [[Guides/Slack Morning Posts — July 19 to Aug 2]]; the Apple Notes version reads like a draft
+- [ ] Close the ICA rollout open items before the comp packet sends (Nick & Michelle $125→$110 conversation, weather go/no-go owner, entity name on header) — see [[Guides/Guide Compensation — ICA Rollout Notes & Dylan Ball Drop (Aug 2026)]]
+- [ ] Rewrite hooks + subtitles for the 3 Kayak NOLA IG posts — links in [[Ideas/Instagram Hooks & Subtitles]]
+- [ ] Kick off gamified review push (target 200+ over Wild Louisiana) + QR codes in vans — see [[Ideas/Ideas Backlog — Gamified Reviews & Bigger Picture (Aug 2026)]]
+
+### Questions for Alexis
+- [ ] Why does the extended tour only have 10 spots available?
+- [ ] What combo and extended tour days are the busiest?
+- [ ] Are waterproof phone cases stocked? Hats? Sunscreen?
+- [ ] What needs to be done?
+
 ---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*

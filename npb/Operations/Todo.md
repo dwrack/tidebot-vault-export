@@ -123,4 +123,12 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 
 ---
 
+## Added Aug 25, 2026 (filed from Apple Notes)
+
+- [ ] Run full boat deep clean: detail boats, powerwash + oil roof, fully detail bathrooms — see [[Boat Deep Clean — Full Detail Checklist (Jul 2026)]] — **Owner: Jeff/JT**
+- [ ] Insurance: get the NPB DBA on the policy + confirm navigable area matches where the boats run — see [[Insurance DBA & Navigable Area — Open Loop (Jul 2026)]] — **Owner: David**
+- [ ] DECIDE: family-facing brand name for the social eco trip (party boat name turns families away) — see [[Eco Trip Naming — Family-Facing Brand Needed (Jul 2026)]] — **Owner: David**
+
+---
+
 *Updated April 19, 2026 from JT Sides Q&A + David's prioritization. See plan: `resilient-munching-spring.md`*
