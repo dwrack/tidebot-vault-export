@@ -2,7 +2,8 @@
 type: tracker
 business: NOLA Party Barge
 slack_channel: helm-npb (C0BR5FPMFJL)
-slack_pin_ts: PENDING
+slack_pin_ts: 1787850469.993329 (JT-call items pinned 8/27)
+canvas: F0BRJ3RND71 (channel canvas, edit via DJL claude bot canvases.edit)
 created: 2026-08-17
 cadence: weekly, Mondays
 sources:
@@ -99,7 +100,10 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 44 | Merch: captain's hat first (unique design, required), t-shirts second | David + JT | new 8/27 |
 | 45 | Invite JT to one David+Michael working session per week | David | new 8/27 |
 
-**Dates:** Sept 12-14ish visit (Thu-Mon, working the weekend at the marina); Sept 30 video production day. JT's "cousin trips" observation → check search volume, possible group-booking angle.
+| 46 | Marina sale-readiness: curb-appeal 30-day list + Sept-visit walkthrough. Plan at Operations/Marina — Sale-Readiness Plan.md | David + Michael + JT | new 8/27 |
+| 47 | Weekly Monday roll-up post in #helm-npb (moved/stalled/this week's 3) — script staged on mbp-2, launchd load pending David | David | new 8/27 |
+
+**Dates:** Sept 12-14ish visit (Thu-Mon, working the weekend at the marina); Sept 30 video production day. Cousin trips: research done 8/27, plan at Marketing/Cousin Trips — Research & Content Plan.md.
 
 ## Off the pin (route through Scott Kitner first)
 - $110k admiralty surety bond for the limitation-of-liability action — nobody could source it (3/24)
