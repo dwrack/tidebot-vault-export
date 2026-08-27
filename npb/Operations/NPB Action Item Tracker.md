@@ -89,12 +89,12 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | # | Item | Owner | Status |
 |---|---|---|---|
 | 36 | Daily morning check-in in #helm-npb: today's plan, wins, problems, photo of the space | JT | new 8/27 |
-| 37 | Crew one-on-ones, 10-15 min self-assessments, recorded + JT's take. First round Thu 8/28, then quarterly | JT | new 8/27 |
+| 37 | Crew one-on-ones, 10-15 min self-assessments, recorded + JT's take. First round Fri 8/29, then quarterly | JT | new 8/27 |
 | 38 | Exit interview w/ the captain Ben scared off — "what would it take to get you back?" | JT | new 8/27 |
 | 39 | Kayak rental photos + MTV-Cribs-style check-in walkthrough video | JT | new 8/27 |
 | 40 | Church group buyout — follow up and close | JT | new 8/27 |
 | 41 | Captain Ben: yelling, fight in front of full dock, drove off new captain. One-on-one first, David/Michael ride his boat during Sept visit, then decide | JT → David + Michael | new 8/27 |
-| 42 | Give JT Slack access to Claude/Tidebot for outreach (churches, 504 salons) | David | new 8/27 |
+| 42 | Give JT Slack access to Claude/Tidebot for outreach (churches, 504 salons) | David | DONE 8/27 — JT can start any #helm-npb message with "claude"; sends still gated on David's "go" |
 | 43 | Email address with JT's name on it (asked before, got buried) | David | new 8/27 |
 | 44 | Merch: captain's hat first (unique design, required), t-shirts second | David + JT | new 8/27 |
 | 45 | Invite JT to one David+Michael working session per week | David | new 8/27 |
