@@ -90,25 +90,25 @@ Skip the established-creator DMs for now (they have pull, unlikely to bite on tr
 
 ---
 
-## FINAL COPY awaiting approval
+## FINAL COPY v2 — "Creative Residency" reframe (awaiting approval)
+
+**Why v2:** Davey flagged v1 as possibly needy / unprofessional (2026-08-27). v1 apologized for the trade deal three times. v2 reframes the role as **The Ebb & Ember Creative Residency**: one spot, one season, selective. Residencies are portfolio currency in the art/film world and are expected to comp in access rather than cash, so the deal stops needing a defense. Same honest terms, confident posture. v1 drafts superseded.
 
 ### 1. PSU School of Film email
 
 **To:** psufilm@pdx.edu
 **Cc:** kwon3@pdx.edu (Jungmin Kwon, fall internship coordinator)
-**Subject:** Student gig: shoot and edit for Portland's floating sauna (trade to start)
+**Subject:** The Ebb & Ember Creative Residency - one film student, fall term
 
 > Hi,
 >
-> We're Ebb & Ember, the floating sauna on the Columbia River here in Portland. We're looking for one student who shoots and edits video to become our creative collaborator, and we'd love to get this into the School of Film weekly opportunities email.
+> We run Ebb & Ember, the floating sauna on the Columbia River. This fall we're opening one spot in our creative residency: a film student who wants a location, a working brand, and total creative freedom to build a body of work.
 >
-> The honest deal: it starts as a trade, not a paycheck. They get a full sauna membership (8 guest passes, so shoots can double as sauna nights with friends), unlimited access to a one-of-a-kind location, creative freedom over reels and short-form content, and hands-on work with AI production tools. Hours start small and grow. For the right person it becomes paid work, we hire slowly on purpose.
+> The resident gets a full membership (8 guest passes, so shoots double as sauna nights with friends), open access to the sauna, the river, and the build of our second boat, and our AI production stack. They shoot and edit what they want, we publish the best of it under both names. Residents who stand out move into paid work with us.
 >
-> Good fit: 18+, runs the whole loop themselves (shoot, edit, caption), curious about AI in the edit process. We're building a second sauna right now, so there's plenty to point a camera at.
+> Requirements are simple: 18+, shoots and edits end to end. Selection is simpler: send your best 60 seconds to sauna@ebbandember.com. We pick one.
 >
-> Students can send anything they've made to sauna@ebbandember.com. Past work is the whole application.
->
-> Could you include this in the weekly email, or point me to the right format if you need it structured differently?
+> Could this run in the School of Film weekly opportunities email? Happy to reformat if you need it structured differently.
 >
 > Thanks!
 > The Ebb & Ember team
@@ -117,22 +117,24 @@ Skip the established-creator DMs for now (they have pull, unlikely to bite on tr
 
 ### 2. IG DM to @sva_psu (from @ebbandember)
 
-> Hey! We're Ebb & Ember, the floating sauna on the Columbia. We're looking for one student who shoots AND edits to become our creative collaborator. Starts as a trade: full membership with 8 guest passes, total creative freedom, a location nobody else in Portland gets to shoot. Becomes paid for the right person. Figured your club is exactly where that person is hiding. Mind sharing with members? Anyone interested can DM us or send past work to sauna@ebbandember.com.
+> Hey! Ebb & Ember here, the floating sauna on the Columbia. We're opening one creative residency spot this fall: full membership with guest passes, open access to shoot the sauna and the build of our second boat, total creative freedom, and a path to paid work for the resident who stands out. One student gets it. The application is just your best 60 seconds, sent to sauna@ebbandember.com. Thought your members should hear about it first.
 
 ### 3. Handshake posting
 
-**Title:** Creative Collaborator (Video) - Ebb & Ember Floating Sauna
+**Title:** Creative Resident (Video) - Ebb & Ember Floating Sauna
 **Type:** Part-time / internship-style, in person, Portland OR
 
-> Ebb & Ember is a floating sauna on the Columbia River in Portland. We're looking for one creative person to shoot and edit our short-form content.
+> Ebb & Ember is a floating sauna on the Columbia River in Portland. Each season we host one creative resident: a filmmaker who shoots and edits short-form video with full creative freedom and a location no one else in Portland gets to work with.
 >
-> This starts as a trade arrangement: a full sauna membership (8 guest passes), a seat on a small team, unlimited access to shoot a location no one else in Portland has, and creative freedom over reels and short-form video. No cash to start, we're upfront about that. Hours begin small and grow, and for the right person this becomes paid work. We're also mid-build on a second sauna, so there's a documentary-style build story to capture.
+> The residency comes with a full sauna membership (8 guest passes), open access to the sauna, the river, and the live build of our second boat, and hands-on work with our AI production pipeline. It is a portfolio residency, not a salaried role; residents who stand out move into paid work with us.
 >
-> You: 18+, shoot and edit end to end (phone-first is fine if the eye is there), comfortable with short-form formats, and interested in using AI tools in your workflow.
+> You: 18+, shoot and edit end to end (phone-first is fine if the eye is there), fluent in short-form, curious about AI in the edit.
 >
-> To apply, send anything you've made to sauna@ebbandember.com. Your past work is the whole application. No cover letter needed.
+> To apply, send your best 60 seconds to sauna@ebbandember.com. Your work is the whole application. No cover letter.
 
 **Setup note:** needs a free employer account at portlandstate.joinhandshake.com (approval via HirePSU@pdx.edu). One account can also post to UO and PNCA/Willamette later if we want.
+
+**Optional amplifier (Davey's call):** announce the residency with a 30-second reel on @ebbandember (we have the reel recipe + footage), then the PSU email and club DM just link to it. The medium proves the brand is worth a resident's time better than any paragraph.
 
 ---
 
