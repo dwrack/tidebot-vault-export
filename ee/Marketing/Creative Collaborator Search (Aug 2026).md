@@ -58,7 +58,7 @@ The sauna is the pay. A floating sauna at golden hour is the best free set in Po
 >
 > Thanks!
 > The Ebb & Ember team
-> sauna@ebbandember.com
+> davey@ebbandember.com
 
 ## DRAFT: Gig board / FB group post
 
@@ -70,7 +70,7 @@ The sauna is the pay. A floating sauna at golden hour is the best free set in Po
 >
 > You should be 18+, comfortable with short-form (reels/TikTok), able to cut your own footage, and into using AI tools in your workflow.
 >
-> Send anything you've made to sauna@ebbandember.com. Past work is the whole application.
+> Send anything you've made to davey@ebbandember.com. Past work is the whole application.
 
 ---
 
@@ -106,18 +106,18 @@ Skip the established-creator DMs for now (they have pull, unlikely to bite on tr
 >
 > The resident gets a full membership (8 guest passes, so shoots double as sauna nights with friends), open access to the sauna, the river, and the build of our second boat, and our AI production stack. They shoot and edit what they want, we publish the best of it under both names. Residents who stand out move into paid work with us.
 >
-> Requirements are simple: 18+, shoots and edits end to end. Selection is simpler: send your best 60 seconds to sauna@ebbandember.com. We pick one.
+> Requirements are simple: 18+, shoots and edits end to end. Selection is simpler: send your best 60 seconds to davey@ebbandember.com. We pick one.
 >
 > Could this run in the School of Film weekly opportunities email? Happy to reformat if you need it structured differently.
 >
 > Thanks!
 > The Ebb & Ember team
-> sauna@ebbandember.com
+> davey@ebbandember.com
 > ebbandember.com
 
 ### 2. IG DM to @sva_psu (from @ebbandember)
 
-> Hey! Ebb & Ember here, the floating sauna on the Columbia. We're opening one creative residency spot this fall: full membership with guest passes, open access to shoot the sauna and the build of our second boat, total creative freedom, and a path to paid work for the resident who stands out. One student gets it. The application is just your best 60 seconds, sent to sauna@ebbandember.com. Thought your members should hear about it first.
+> Hey! Ebb & Ember here, the floating sauna on the Columbia. We're opening one creative residency spot this fall: full membership with guest passes, open access to shoot the sauna and the build of our second boat, total creative freedom, and a path to paid work for the resident who stands out. One student gets it. The application is just your best 60 seconds, sent to davey@ebbandember.com. Thought your members should hear about it first.
 
 ### 3. Handshake posting
 
@@ -130,7 +130,7 @@ Skip the established-creator DMs for now (they have pull, unlikely to bite on tr
 >
 > You: 18+, shoot and edit end to end (phone-first is fine if the eye is there), fluent in short-form, curious about AI in the edit.
 >
-> To apply, send your best 60 seconds to sauna@ebbandember.com. Your work is the whole application. No cover letter.
+> To apply, send your best 60 seconds to davey@ebbandember.com. Your work is the whole application. No cover letter.
 
 **Setup note:** needs a free employer account at portlandstate.joinhandshake.com (approval via HirePSU@pdx.edu). One account can also post to UO and PNCA/Willamette later if we want.
 

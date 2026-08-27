@@ -85,6 +85,22 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 33 | Inbox rot: 11-day unanswered lead, TikTok message requests unmonitored | Jeff + JT | open |
 | 34 | NKST bookings not coming through, flagged 8/2 | David | open |
 
+## From JT call 8/27 (David + Michael + JT — full notes: JT Call — Action Items (Aug 27 2026).md)
+| # | Item | Owner | Status |
+|---|---|---|---|
+| 36 | Daily morning check-in in #helm-npb: today's plan, wins, problems, photo of the space | JT | new 8/27 |
+| 37 | Crew one-on-ones, 10-15 min self-assessments, recorded + JT's take. First round Thu 8/28, then quarterly | JT | new 8/27 |
+| 38 | Exit interview w/ the captain Ben scared off — "what would it take to get you back?" | JT | new 8/27 |
+| 39 | Kayak rental photos + MTV-Cribs-style check-in walkthrough video | JT | new 8/27 |
+| 40 | Church group buyout — follow up and close | JT | new 8/27 |
+| 41 | Captain Ben: yelling, fight in front of full dock, drove off new captain. One-on-one first, David/Michael ride his boat during Sept visit, then decide | JT → David + Michael | new 8/27 |
+| 42 | Give JT Slack access to Claude/Tidebot for outreach (churches, 504 salons) | David | new 8/27 |
+| 43 | Email address with JT's name on it (asked before, got buried) | David | new 8/27 |
+| 44 | Merch: captain's hat first (unique design, required), t-shirts second | David + JT | new 8/27 |
+| 45 | Invite JT to one David+Michael working session per week | David | new 8/27 |
+
+**Dates:** Sept 12-14ish visit (Thu-Mon, working the weekend at the marina); Sept 30 video production day. JT's "cousin trips" observation → check search volume, possible group-booking angle.
+
 ## Off the pin (route through Scott Kitner first)
 - $110k admiralty surety bond for the limitation-of-liability action — nobody could source it (3/24)
 - AssuredPartners broker E&O claim

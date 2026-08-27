@@ -1,5 +1,22 @@
 # Ebb & Ember — Todo List
 
+## Downpour Productization (added 2026-08-27 — brief: [[Downpour Productization — Project Brief (Aug 2026)]])
+- [ ] Message Grant: measure + photo-document the Downpour during a V2 site day, quote build cost for unit #2 (draft ready, awaiting Davey's go)
+- [ ] Attorney (fold into §18 work): selling entity — ETE vs new entity, diverted-opportunity risk; plus trademark knockout on "The Downpour" / "The Portland Downpour" / "PDX Downpour" (Davey)
+- [ ] Grant per-unit agreement: build fee, IP assignment for the design, quality spec, warranty owner
+- [ ] Product liability insurance quote (before first sale)
+- [ ] Build BOM + cost sheet template so Grant's numbers drop in
+- [ ] Identify the $14k / 4-month-backorder competitor and document their offer
+- [ ] After cost sheet: pricing call (match $14k on availability vs undercut ~$12k), then /downpour product page on the new site
+
+## Website Rebuild + Kimberlynn (added 2026-08-27)
+- [ ] Davey: talk to Jess about Kimberlynn extension (V2 build-diary series thru Oct 15-30) BEFORE the Kimberlynn message sends — collides with Lemonade PDX contract Jess is negotiating
+- [ ] Send held Kimberlynn draft after Jess convo (stay-on invite + "got any horizontal footage?") — draft approved in session 2026-08-27
+- [ ] Safety videos with Kimberlynn: Davey back ~Sept 3, shoot ~week of Sept 8 (her last contracted week if no extension)
+- [ ] Hire videographer for the hero + B-roll shoot: [[B-Roll Shot List — Photographer Brief (Aug 2026)]]
+- [ ] Group reviews the 4 prototypes (pitch page link in [[Website Rebuild — Prototypes (Aug 2026)/README]]), pick a direction → full Astro build
+- [ ] Confirm identity/consent of the crew member visible in the ET prospectus hero clip (IMG_8738 folder wasn't in the June clearance)
+
 ## High Priority
 - [ ] Install carbon monoxide detector
 - [ ] Install fire alarm
