@@ -2,26 +2,23 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 2
+revenue_today: 260
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 2
 status: yellow
-alert: "IG is now #1 traffic source and IG is dark; 3 unreplied; FH blind day 6"
-updated: 2026-08-21
+alert: "IG still #1 traffic source (58 sessions); meta-organic MCP unavailable this run"
+updated: 2026-08-27
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Instagram passed Google as this site's top traffic source yesterday: 52 sessions vs 29.** Direct 27, facebook.com 17, m.facebook.com 7, reddit.com 3. That's 76 of 139 sessions from Meta-owned surfaces. **And the `meta-organic` MCP has been disconnected four days**, so the biggest channel is the invisible one. Fix the connector before optimizing anything else here.
-- **3 unreplied 5★, all naming Alex:** Josh Dillon (Aug 20, "will ask for him every time I go"), Bonafried (Aug 19, "Alex is the king of the swamp"), Celeste Lessig (Aug 17, long detailed one about River — the strongest long-form testimonial in the whole portfolio right now, use it on the site).
-- **Alex has now been named in 7 straight reviews.** That's not a guide, that's a marketing asset. Put him in the ad creative.
-- **GSC is still upside down: strong on trivia, weak on money terms.** Own brand "new orleans kayak swamp tours" sits at **#24.74** (improving from #27.4, still off page two). "kayak new orleans" #17.13. "kayaking new orleans" #14.54. Only "kayaking in new orleans" is respectable at #2.64.
-- Meanwhile the crocodile content prints impressions and nothing else: **"which is more dangerous alligator or crocodile" 913 impressions at #7.16 for 2 clicks**, "are alligators or crocodiles more aggressive" 363 more at #7.34 for 1. Great blog traffic, zero booking intent.
-- **The one query actually worth chasing: "manchac swamp" — 100 impressions at #7.75 for 2 clicks.** You run trips into Manchac. `/tours/swamp-kayak-tours/manchac-mystic-kayak-tour/` is already your #2 page by views (177 over 8 days, 746s average session). Push that page at that term.
-- **Watched page — "Airboat vs Kayak" reached the top 5 and still gets 0 clicks.** Aug 13-19: **62 impressions, 0 clicks**, position improving **#10.69 → #4.83**. Baseline was 0/0. The ranking problem is solved; the snippet problem isn't. Rewrite the title tag and meta description.
-- **FH blind, day 6.** No booking visibility.
-- Note: this GA4 property does not capture FareHarbor bookings. Nothing in the traffic numbers is revenue.
+- **FH data restored** (used a correctly-dated `fh-bookings-*.json`, not the stale cache): 2 bookings / $260 yesterday, roughly flat vs the ~2.4/day, ~$436/day 7-day avg.
+- **Instagram is still the #1 traffic source: 58 sessions Aug 26 vs Google's 31 and direct's 39.** Same pattern flagged in recent briefs. The `meta-organic` MCP tool wasn't available this session (not found via search) so IG content performance itself is still unmeasured, even though GA4 confirms it's driving the most sessions.
+- **3 unreplied 5★, all naming Alex:** Josh Dillon (Aug 20), Bonafried (Aug 19), Celeste Lessig (Aug 17, long-form testimonial worth reusing on-site).
+- **Watched page — "Airboat vs Kayak" comparison, real movement since baseline.** GSC impressions went from 0 (baseline) to ~60 over Aug 19-24 (position averaging mid-single-digits to teens), but clicks are still ~1 total. GA4 views flat vs baseline (3 → 3 over the 8-day window). The indexing/ranking problem looks solved; the click-through problem isn't — worth a title tag / meta description rewrite.
+- **Own brand term still weak:** "new orleans kayak swamp tours" #22.2 / 3 clicks. Manchac-specific terms pulling real impressions ("manchac swamp" 53 impr / #5, "manchac swamp tour" 31 impr / #28) — you run trips there, worth pushing the Manchac tour page at these terms.
+- Note: this GA4 property does not capture FareHarbor bookings. Traffic numbers above are sessions/engagement, not revenue.
 <!-- live:end -->
 
 ## Quick links

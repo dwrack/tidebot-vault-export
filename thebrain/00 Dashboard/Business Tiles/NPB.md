@@ -2,24 +2,23 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 19
+revenue_today: 6001
 lead_time_days: 0
-ad_spend_yday: 42
-status: yellow
-alert: "FH blind day 6; Meta retargeting 3.46 ROAS holding"
-updated: 2026-08-21
+ad_spend_yday: 186
+status: green
+alert: "$6,001 booked yday (+62% vs avg); Meta retargeting 8.3 ROAS/7d"
+updated: 2026-08-27
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Reviews are fully caught up — 0 unreplied, the only brand in the portfolio at zero.** 3,548 lifetime reviews, 4.9 average. Whatever the reply cadence is here, it's the one to copy to DCKT and Buffalo Bayou.
-- **Meta retargeting is quietly the second-best paid line you own.** `NPB | Purchase | Retargeting`: **$20.70 → $59 yesterday (2.85 ROAS)**. 7-day: **$138.01 → $477.31, 3.46 ROAS, 4 purchases.** 8.9% CTR, $0.12 CPC — the creative is working.
-- **`NPB | Messenger | TOF` is not a zero, don't read it as one.** $137.14 over 7 days bought **49 messaging conversations at $2.80 each**, plus 1 lead. Those never show as pixel purchases. Worth actually finding out what share of them book — right now nobody knows, and that decides whether $20/day is smart or wasted.
-- `New Sales Campaign` spent $2.13 over 7 days on 208 impressions. It's effectively off. Either fund it or archive it so it stops cluttering the account.
-- **GSC: "nola party barge" slipped from #1.92 to #2.13** on 200 impressions / 16 clicks. Small move, worth watching a few more days. "party boat new orleans" **#1.29 / 5 clicks**, "new orleans party boat" **#1.0**, "party barge new orleans" **#1.0**.
-- New long-tail showing up: **"bachelorette activities new orleans" at #2** on its first impression. That's the highest-intent segment you have and you're ranking for it accidentally. Worth a real page.
-- **FH blind, day 6.** Aug 15 last clean: NPB alone ran 85 trips for $19,493. That's the single largest revenue line in the portfolio going unmeasured five days running.
+- **Best FH day in the recent window: 19 bookings / $6,001, +62% vs the 7-day avg ($3,707).** Cross-checked against the portfolio's own automated digest email — matches. FH scrape is fresh again (used a separate, correctly-dated `fh-bookings-*.json` file, not the stale cache — see brief Coverage Gaps).
+- **Google Ads is the strongest paid line in the whole portfolio right now.** Under the Gravity Trails|NOLA umbrella (4378232023), NPB's FH search campaigns hit **23.65 ROAS (National, $46.63 spend)** and **36.01 ROAS (Local, $33.34 spend)** yesterday alone. Full account: $153.93 yesterday → $2,303.51 value, 14.96 ROAS.
+- **Meta retargeting still strong.** `NPB | Purchase | Retargeting`: $20.62 yesterday. 7-day: $137.05 → 6 purchases worth $1,136.92, **8.3 ROAS**.
+- `NPB | Messenger | TOF`: $125.15 over 7 days, 37 messaging conversations started, 1 tracked lead. Still unclear what share of these convert to bookings — same open question as before.
+- Reviews: **3 unreplied, all 5★** (Zeal Beale, Jas — both Aug 24; April Hardin, Aug 23). Not urgent but the fastest reply cadence in the portfolio has slipped slightly.
+- GSC stable: "nola party barge" #3.2 / 8 clicks, "nola barge" #1.0 / 3 clicks.
 <!-- live:end -->
 
 ## Quick links

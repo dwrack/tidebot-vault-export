@@ -1,37 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-08-21 07:31 CDT (Live GBP, Google Ads, Meta, GSC/GA4. **FareHarbor is down for the 6th day** — Aug 20 returned a **403**, the fifth straight failed pull (Aug 16-20 all lost). Last clean data is Aug 15. The **DCKT 1★ is now unreplied at 3 days 10 hours** and the total review queue jumped to **21**, up 5 overnight. Houston burned **$367 across Meta and Google in 7 days for 1 tracked conversion worth $1.00**, while DCKT's Meta retargeting climbed to **12.99 ROAS on $34** and stays capped at ~$5/day. Austin Meta dark 10 straight days. **Instagram is now NKST's #1 traffic source (52 sessions vs Google's 29) — and IG is the channel we can't see.** Spend flat at $509.73. IG organic and TikTok both unavailable again.)*
+*Last refresh: 2026-08-27 07:00 CDT (Live GBP, Google Ads, Meta, GSC/GA4. FareHarbor restored — a fresher `fh-bookings-*.json` scrape series (not the stale cache file) shows real Aug 26 numbers: 48 bookings / $9,001, cross-checked clean against the portfolio's own automated digest email. **DCKT's 1★ is now unreplied at 9 days**, and DCKT's entire 10-review reply backlog has gone stale since ~Aug 17. Houston is still burning **$351.80 across Meta and Google in 7 days for 1 tracked conversion worth $1.00**. Austin/LSKT's Meta account is still dark — and a re-check shows the shared Google Ads account's spend was previously over-attributed to LSKT; splitting by campaign name puts LSKT's real spend at $11.40/day, with Buffalo Bayou and HPB campaigns riding the same account. Buffalo Bayou's FH bookings are down 44% vs 7-day avg (small dollar base). IG organic and TikTok both unavailable again this run.)*
 
 ## Right now
-- [[Daily Briefings/2026-08-21|Today's brief]]
+- [[Daily Briefings/2026-08-27|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **FareHarbor re-auth. Day 6 blind, five straight failed pulls, and a 403 means retrying won't fix it.** Aug 20 failed with `403` on `POST /booking-original` across all six brands — same as Aug 19 and Aug 17; Aug 16 and 18 were 30s timeouts. **Aug 16 through 20 are all gone.** Last clean read is **Aug 15: 106 booked / $11,052, and 182 trips ran for $32,502** — that's the volume moving unobserved every day. The 403 is a dead session cookie: `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup`, then approve the 2SV text. Ten minutes.
-2. **Reply to DCKT's 1★ — now 3 days 10 hours old — and clear a queue that grew to 21 overnight.** Amalia Lia, Aug 18 1:54am: "just paddling along the shore for 2 hours... I would maybe pay $35." Still the **fourth review across two brands with the same sentence about the same route** (Cave Point 2★ Aug 8, 4★ Aug 2025, 2★ Oct 2024). DCKT's own queue went 6 → 9 overnight with three new 5★ on Aug 20. Portfolio total: DCKT 9, Buffalo Bayou 4, NKST 3, Ebb & Ember 3, AKT 1, HPB 1. Shorten the transit, add a stop, or rewrite the booking page.
-3. **Houston spent $367 in 7 days for one $1.00 conversion while a 12.99 ROAS sits capped at $5/day.** Meta `act_1015419897308486` ran **$214.02 on Traffic and Engagement objectives only, no purchase campaign** — 1,774 link clicks, 0 purchases, including $71.75 to buy followers at $1.09/click. HPB Google added **$153.32 for 1 conversion worth $1.00 (0.01 ROAS)**. Meanwhile DCKT Meta retargeting did **$34.14 → $443.48 on the week (12.99 ROAS, up from 8.09)** while `Tailored web traffic` got double the budget for a 0.48 ROAS. And Austin's `act_638850950128825` has been **dark 10 straight days** in peak bat season. Move the money.
+1. **Door County Kayak Tours — reply to Amalia Lia's 1★, now 9 days unreplied, and clear a reply backlog that's gone fully stale.** "Just paddling along the shore for 2 hours... I would maybe pay $35 for this tour." Same route complaint as three prior Cave Point reviews (2★ Aug 8, 4★ Aug 2025, 2★ Oct 2024). Worse: every one of DCKT's 10 most recent reviews is unreplied, not just this one — the queue stopped moving around Aug 17.
+2. **Houston Pedal Barge — $351.80 combined spend over 7 days for effectively zero tracked bookings.** Google Ads PMax burned $142.29 for 1 conversion worth $1.00 (0.01 ROAS, same phantom conversion flagged in prior briefs). Meta's shared account adds $209.51 across a Traffic-objective campaign (Buffalo Bayou's actual "Bat Bridge Kayak Tour," 1,635 link clicks, zero purchases) and an Engagement/Followers campaign — no purchase-objective campaign exists at all. Fix the conversion tracking or build a real purchase campaign.
+3. **Lone Star / Austin Kayak Tours — Meta account act_638850950128825 is still dark heading into Labor Day weekend**, peak Austin bat season. Zero spend, zero campaigns, yesterday and 7-day both. Correction to prior reporting: splitting the shared Google Ads account by actual campaign name shows LSKT's real spend was only $11.40 yesterday, not the ~$62/day previously attributed — Buffalo Bayou and HPB campaigns were riding inside the same account.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (08-20) | 7-day avg | Δ |
+| Signal | Yesterday (08-26) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 50 (capped, 0 customer complaints) | 50 (capped) | — |
-| Unreplied GBP reviews (recent-10 scan) | **21 (1 negative)** | 16 on 08-19 | **+5** |
-| FH bookings booked | **no data (403, day 6)** | 106 on 08-15 (last clean) | — |
-| FH revenue booked | **no data (403, day 6)** | $11,052 on 08-15 (last clean) | — |
-| Total ad spend (Google + Meta) | $509.73 | $494.99 | +$14.74 |
-| Google Ads spend | $422.17 | $409.87 | +$12.30 |
-| Google Ads conversions | 8.28 ⚠️ lag | 21.92 | -13.64 ⚠️ |
-| Google Ads conv value | $963.31 | $1,915.89 | -$952.58 ⚠️ |
-| Meta spend | $87.56 | $85.12 | +$2.44 |
-| Meta purchases | 3 | 2.14 | +0.86 |
-| Meta purchase value | $245.84 | $136.36 | +$109.48 |
+| Gmail unread (main inbox) | 10 | — (not tracked) | — |
+| Unreplied GBP reviews (recent-10 scan) | 29 (1 negative) | — (not tracked) | — |
+| FH bookings booked (6 tracked biz) | 48 | 48.4 | -0.4 |
+| FH revenue booked (6 tracked biz) | $9,001 | $6,822 | +$2,179 |
+| Total ad spend (Google + Meta, tracked accounts) | $308.62 | $368.42/day | -$59.80 |
+| Total ad-attributed conversions | ~7.7 | ~13.8/day | -6.1 ⚠️ likely lag |
 <!-- pulse:end -->
-*Spend is flat for the fourth day running. The two things that actually moved: the review queue jumped 5 overnight, and DCKT's Meta retargeting ROAS climbed from 8.09 to 12.99 while still starved. Google's yesterday conversions are attribution lag — the 7-day settles at 2.89 (DCKT) and 7.95 (Gravity NOLA). FH averages are stale since Aug 15.*
+*NPB's $6,001 in FH revenue (vs $3,707 avg, +62%) is the whole reason revenue is up despite bookings being flat. Gravity Trails/NOLA Google Ads (mostly NPB) is the strongest paid line in the portfolio: $153.93 yesterday for $2,303.51 value, 14.96 ROAS. DCKT's Meta retargeting is even better: $4.53 for $193, 42.6 ROAS. See today's brief for the full breakdown.*
 
 ## Business tiles
 
@@ -39,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-08-21]] (today)
-- [[Daily Briefings/2026-08-20]] (yesterday)
-- [[Daily Briefings/2026-08-19]] (2 days ago)
-- [[Daily Briefings/2026-08-18]] (3 days ago)
-- [[Daily Briefings/2026-08-16]] (5 days ago)
-- [[Daily Briefings/2026-08-15]] (6 days ago)
-- [[Daily Briefings/2026-08-14]] (7 days ago)
+- [[Daily Briefings/2026-08-27]] (today)
+- [[Daily Briefings/2026-08-21]] (6 days ago)
+- [[Daily Briefings/2026-08-20]] (7 days ago)
+- [[Daily Briefings/2026-08-19]] (8 days ago)
+- [[Daily Briefings/2026-08-18]] (9 days ago)
+- [[Daily Briefings/2026-08-16]] (11 days ago)
+- [[Daily Briefings/2026-08-15]] (12 days ago)
 <!-- briefs:end -->
 
 ## Maps

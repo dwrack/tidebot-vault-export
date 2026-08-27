@@ -7,19 +7,16 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "ReplyAgent auto-paused — no approved comments in 3 days"
-updated: 2026-08-21
+alert: "ReplyAgent pause status unconfirmed this run — Gmail tool returned blank subjects"
+updated: 2026-08-27
 tile_type: business
 ---
 
 <!-- live:start -->
-- **The ReplyAgent automation auto-paused this morning.** Email: "⚠️ AI Agent Paused - No Approved Comments in 3 Days. Action required to resume AI automation." Two daily reports are sitting unapproved (Aug 20 and Aug 21), both flagged "Manual Approval Needed — the AI comments generated below are NOT auto-posted."
-- **So nothing has gone out for three days.** Decide today: approve the queue and keep it running, or turn it off. A paused automation you're still being billed for is the worst of both.
-- Reviews: **0 unreplied.** 427 lifetime at 4.9. Caught up.
-- **GSC is doing real work on plantation terms:** "new orleans plantation tour" **#1.21**, "plantation tour new orleans" #5.28 / 3 clicks, "new orleans plantation" #2.0, "new orleans swamp and plantation tour" #2.44, "new orleans swamp tours" **#1.0**.
-- Odd tail worth noting: "atv excursions near me" #3.0 and "atv near me" #7.0 are pulling impressions. Wrong product, wrong intent — but it means the domain has authority Google is willing to spend somewhere. Point it at plantation and swamp combos instead.
-- No ad spend. No FareHarbor line in the nightly scrape.
-- Guides named in review history: Nick (three reviews), AJ (two). Both consistently praised for wildlife spotting and natural-history depth.
+- **ReplyAgent pause status not reverified this run.** Prior briefs flagged the automation as auto-paused (no approved comments in 3+ days). The Gmail pull this run returned blank subject/sender fields for all messages (tool limitation, see Coverage Gaps in the daily brief), so this couldn't be confirmed either way — check manually.
+- Reviews: **0 unreplied** (10 most recent all replied). 427 lifetime at 4.9.
+- **GSC still doing real work on plantation terms:** "plantation tour new orleans" #4.5 / 3 clicks, "plantation new orleans" #6.0, "plantation tours new orleans" #2.0.
+- No ad spend distinguishable from the shared act_87863118 account this run. No FareHarbor shortname in this scrape.
 <!-- live:end -->
 
 ## Quick links

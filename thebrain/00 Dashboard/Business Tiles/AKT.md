@@ -7,20 +7,17 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta dark 10 days; 1 unreplied 5★ since Aug 17"
-updated: 2026-08-21
+alert: "Meta still dark; Google spend $0 yday; 2 unreplied 5★ (oldest 10 days)"
+updated: 2026-08-27
 tile_type: business
 ---
 
 <!-- live:start -->
-- **Meta dark 10 straight days** — shares `act_638850950128825` with LSKT, and the whole account returned empty for last_7d. Peak bat season, zero paid social.
-- Shares Google Ads with LSKT (`8497383499`): **$53.48 yesterday for 0 conversions**, 7-day **$435.52 → $1,236.46, 2.84 ROAS**. Reported under LSKT to avoid double-counting.
-- **1 unreplied 5★ since Aug 17: Sheila Simpsen**, guides Gregory and Enola. "They also gave us the freedom to freely explore the area, not something other tours were free to do... Bucket list worthy!" **That freedom-to-explore line is a differentiator against every competitor bat tour** — it belongs in the ad copy, not just a review reply.
-- Recent negative history is worth remembering while it's fresh: Jordan Pedalino's 4★ (Jul 26) called out three concrete fixables — **the launch path is unlit and steep in the dark, parking isn't included and is expensive, and a coworker no-showed leaving Michael to haul gear for four people alone.** The reply promised lighting was being looked at. Was it?
-- Matt Goit's 1★ (Jul 25) was a Groupon honoring failure; the reply said to email info@austinkayaktours.com. Worth confirming whether he ever did and whether the Groupon flow actually works now.
-- Reviews: 140 lifetime at 4.8.
-- No GSC property and no GA4 for this brand — Austin organic is only visible through the LSKT domain.
-- Guides named recently: Gregory, Enola, Michael, Tristan, Rafi, Aiden, Derek, Celeste.
+- **Meta still dark** — shares `act_638850950128825` with LSKT, zero data yesterday and 7-day.
+- **Google spend effectively $0 yesterday.** No AKT-named campaigns had impressions in the shared account (8497383499) — that account's active spend yesterday split to LSKT ($11.40), Buffalo Bayou ($15.78), and HPB ($13.68), none of it AKT.
+- **2 unreplied 5★:** Mallory DeGood (Aug 24), Sheila Simpsen (Aug 17, "freedom to freely explore the area... Bucket list worthy!" — good line for ad copy).
+- No FareHarbor shortname in this scrape for AKT specifically (unlike LSKT). No GSC property, no GA4.
+- Reviews: 141 lifetime at 4.8.
 <!-- live:end -->
 
 ## Quick links

@@ -2,26 +2,22 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 2
+revenue_today: 417
 lead_time_days: 0
-ad_spend_yday: 20
+ad_spend_yday: 37
 status: yellow
-alert: "$142/7d Meta for 0 purchases; 4 unreplied 5★"
-updated: 2026-08-21
+alert: "bookings -44% vs 7d avg (small base); Meta traffic-only campaign still 0 purchases; 5 unreplied"
+updated: 2026-08-27
 tile_type: business
 ---
 
 <!-- live:start -->
-- **`Bat Bridge Kayak Tour - Traffic` spent $142.27 over 7 days and produced zero purchases.** 1,708 link clicks, 1,200 landing page views, 26,101 impressions at a 7.34% CTR — **the creative and the targeting are both working.** There is just no purchase objective and no conversion campaign behind it. You are buying qualified traffic and then dropping it.
-- Yesterday: $19.73, 226 link clicks, 0 purchases. Same shape.
-- **This is the single easiest fix in the portfolio:** the audience is proven, the click cost is $0.083, and a purchase-objective campaign against the existing pixel would tell you within a week whether those 1,700 clicks are worth anything.
-- **4 unreplied 5★, oldest six days:** Cassie Tanzey (Aug 17, Chad), G. Douglas (Aug 16, "amazing time w the kids"), Laila Pantoja (Aug 15, Chad), Devo Green (Aug 15, Chad).
-- **Chad is named in three of the four**, and in four more from earlier in the month. Same pattern as Alex at NKST — a guide who is measurably driving the review flow. Feature him.
-- Two operational notes from recent reviews that keep repeating: **the put-in has no visible signage** (Mariah Reeves, Aug 14: "we only saw life jackets on a rack and the crew member near them, so we figured that was the spot") and **litter in the bayou** on the gator route. The signage one is cheap and the reply already promised it.
-- Also unresolved: Nicole Blanchard's 4★ (Jul 29) paid for 4 headlamps that were never handed out. The reply offered a refund by phone. Nobody knows if she called.
-- No GSC property, no GA4. **FH blind, day 6.**
-- 583 lifetime reviews at 4.8.
+- **FH bookings down 44% vs 7-day avg: 2 vs 3.6.** Revenue impact is small ($417 vs $542 avg, -$125) given the tiny base rate — treat as a watch item, not a fire drill, but it's a real drop by the numbers.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** 7-day: $141.29 spent, 1,635 link clicks, zero tracked purchases. Yesterday: $21.04, 235 link clicks, 0 purchases. Same shape flagged in prior briefs, still unfixed — the audience and creative clearly work, there's just no conversion campaign catching them.
+- **Google Ads spend also flows through this brand now** ($15.78 yesterday, split out of the shared 8497383499 account) — previously not attributed to Buffalo Bayou at all since roster shows a null Google Ads ID for this business. Zero conversions tracked on it yesterday.
+- **5 unreplied 4-5★, oldest now 12 days:** Dean Muscarella (4★, Aug 23), Cassie Tanzey (Aug 17), G. Douglas (Aug 16), Laila Pantoja (Aug 15), Devo Green (Aug 15).
+- No GSC property, no GA4.
 <!-- live:end -->
 
 ## Quick links
