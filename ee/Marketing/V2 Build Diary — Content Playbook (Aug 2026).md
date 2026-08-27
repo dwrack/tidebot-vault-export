@@ -31,16 +31,16 @@ Videos go to a dedicated Slack channel (suggest **#v2-build**) same day. Vertica
 - A "Wall" video gets a same-day response from Davey or Jonah in the channel: unblock, decide, or acknowledge. If walls sit unanswered, Grant stops filming them, and we lose the whole early-warning system.
 - Neither of us gives content notes to Grant. Notes go to the SMM, who translates or ignores.
 
-## SMM role (Kimberlynn now, Lemonade PDX after Sept 15)
+## SMM role: Kimberlynn leads the Build Diary
 
-Kimberlynn works through Sept 15, so her job is to **build the machine, not run it long-term**:
+Per Davey (8/27): Kimberlynn takes the lead on this program, start to finish. It is NOT a design-then-hand-off to Lemonade PDX; it's hers:
 
-- Pressure-test this doc (see feedback asks below).
+- Pressure-test this doc (see feedback asks below), then make it her own.
 - Set up the capture kit: tripod, phone mount, a shared album or Drive folder that Slack uploads mirror into.
-- Cut the first 1-2 weekly recap reels to set the template (hook-first, Inter captions, BASAL end card, per our reel recipe).
-- Write the format into her Lemonade PDX handoff package as a named, running program.
+- Cut the weekly recap reels (hook-first, Inter captions, BASAL end card, per our reel recipe).
+- Own cadence, posting, and the Grant relationship on the content side.
 
-After Sept 15, Lemonade PDX inherits: pull from #v2-build, cut recaps, post per cadence below.
+Open item: Kimberlynn's engagement is currently slated to end Sept 15 and the build will run past that. Davey to sort scope/terms with her directly (extension for this program, or per-project arrangement). Lemonade PDX's general SMM scope is unaffected; this program sits outside it.
 
 ## Posting cadence (capture daily, post weekly)
 
@@ -72,15 +72,30 @@ Ongoing (grab when it happens, never staged):
 - [ ] Mistakes and re-dos (with Grant's OK per clip)
 - [ ] Final walkthrough POV, door open to the river
 
+## Timelapse plan (the whole build, start to finish)
+
+Two layers:
+
+1. **Fixed hero timelapse (automated, months-long): LIVE as of 2026-08-27.** The always-on Mac runs `com.ebbember.v2-timelapse` (launchd), pulling a still from the wired "Ebb boat" Blink cam every 15 min, 6am-9pm, into `~/ebb-timelapse/frames/YYYY-MM-DD/`. Stitch with ffmpeg monthly. Current framing has two dock pilings blocking center frame; Davey adjusting the cam on 8/28 so the build area sits clear. Rule stands: once adjusted, lock it and never move it. Optional upgrade later: a Brinno-class construction cam (~$200) for a second, higher angle.
+2. **Grant's phase timelapses.** Phone/GoPro on tripod per work session (already in the daily system above). These give the close-up texture the fixed cam can't.
+
+Rules: lock the hero framing on day one and never move it. Pull and review a test week of frames before trusting a month of them.
+
 ## Ownership
 
 | What | Who |
 |---|---|
 | Capture (2 videos/day + passive) | Grant |
 | Same-day watch + respond | Davey + Jonah |
-| Kit, templates, first edits, handoff doc | Kimberlynn (thru 9/15) |
-| Ongoing edit + post | Lemonade PDX (from 9/15) |
+| Hero timelapse rig + stitching | Davey/Claude (automated) |
+| Program lead: kit, templates, edits, posting, cadence | Kimberlynn |
+| Brand unison: look, voice, type, end cards match brand system | Hannah (ours-here) |
+| Design | Kyle |
 | Supplier co-tags, PR moments | Davey + Early Bird |
+
+**Hannah's lane:** one-time pass, not ongoing production. She sets the visual guardrails so build content reads as Ebb & Ember (BASAL end cards, Inter captions, color/tone), reviews the first weekly recap, and ties it into the signage/design language she and Jess already own. After that, the templates carry it.
+
+**Kyle's lane:** design. He works with Hannah on the visual system (templates, end cards, graphics) and any designed assets the build content needs.
 
 ## Feedback asks for Kimberlynn
 
@@ -89,6 +104,7 @@ Ongoing (grab when it happens, never staged):
 3. What's missing from the shot list?
 4. Best mechanics for Slack-to-edit file flow so nothing gets lost?
 5. Anything here that dies in practice that we can't see?
+6. Whether she wants to lead this through the full build, and what scope/terms make that work given her Sept 15 end date.
 
 ## Open questions
 
