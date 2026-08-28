@@ -50,7 +50,7 @@ We send **3.21 automated messages per session**, and in 607 of 986 sessions the 
 | Session close-out messages | 632 | 16 (2.5%) |
 | **5-step booking follow-up drip** | **1,703** | **0 (0.0%)** |
 
-That drip has now sent seventeen hundred messages and generated **not one reply**. Zero. Here's why:
+That drip went live 2026-08-10 and sent all 1,703 of those messages between **Aug 11 and Aug 17**, roughly 340 a day for four straight days. It back-blasted a backlog of ~344 old contacts with five messages each inside a single week, then went quiet. It generated **not one reply**. Zero. Here's why:
 
 > "Hi! Just circling back on your party booking inquiry, did you get a chance to look at the details we sent?"
 > "Wanted to check back in, anything holding you up on the booking?"
@@ -64,7 +64,11 @@ And the timing is desperate: **94% of nudges fire within 10 minutes of the guest
 
 There is not one funny line in 1,678 AI messages. Every response reads like a rate sheet PDF. We sell a BYOB party boat full of bachelorettes on a bayou with alligators in it, and the copy sounds like a dental office confirming an appointment.
 
-The Nolan voice already exists in `Sales Agent Identity & Playbook.md`. **It is not what's running.** The live OpenCX prompt opens with "You are a customer support agent" and tells the bot to avoid emojis and stay professional. We wrote the good version and never shipped it.
+The Nolan voice **is** already running. I pulled the live OpenCX prompt and it's 3,616 words of solid Nolan playbook, not the stale generic one sitting in the vault. So the problem isn't that we never shipped it.
+
+The problem is the live prompt is written for a conversation that almost never happens. It's a six-step consultative flow: greet, ask 3-5 discovery questions, recommend, handle objections, close. Real conversations average 2.6 messages. The instruction to collect contact info is one line buried in **Step 6**, in a branch the bot reaches maybe never. And there's no rule at all for the single most common opening move in the entire corpus, someone typing "How much" as their first and only message. With no rule, the bot defaults to reciting the price reference from Priority 7.
+
+Also, on humor, the live prompt has nine "never do this" tone restrictions and zero license to be funny. It's a boat full of bachelorettes and the copy is scared of itself.
 
 ---
 

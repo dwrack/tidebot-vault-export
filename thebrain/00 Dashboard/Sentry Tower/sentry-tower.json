@@ -1,0 +1,32 @@
+{
+  "last_run": "2026-08-28",
+  "scan_number": 1,
+  "sources_ok": ["apple-itunes-rss", "product-hunt", "hacker-news"],
+  "sources_thin": ["google-play"],
+  "clone_stacks": [
+    {"category": "Business", "job": "invoice + estimate", "count_in_top18": 5},
+    {"category": "Business", "job": "document scanner", "count_in_top18": 6},
+    {"category": "Utilities", "job": "storage/photo cleaner", "count_in_top18": 5},
+    {"category": "Food & Drink", "job": "recipe save + meal plan", "count_in_top18": 7},
+    {"category": "Finance", "job": "budgeting", "count_in_top18": 5},
+    {"category": "Lifestyle", "job": "dating", "count_in_top18": 9, "verdict": "network effect, excluded"}
+  ],
+  "thesis_proof": [
+    {"app": "Cal AI", "chart": "Health & Fitness grossing #10", "note": "photo-based calorie tracker beating rank of most legacy trackers"},
+    {"app": "PictureThis", "chart": "Education grossing #3", "note": "single vision call, outgrosses Quizlet/Babbel/Pimsleur"}
+  ],
+  "targets": [
+    {"rank": 1, "name": "Contractor estimate + invoice", "score": 23, "demand": 5, "collapse": 5, "stale": 5, "open": 5, "fit": 3, "incumbents": ["Invoice Maker", "Invoice Simple", "SimplyWise", "Invoice2go", "Joist", "GetPaid"], "risk": "Intuit/QuickBooks ships it", "status": "open"},
+    {"rank": 2, "name": "Camera roll cleaner", "score": 22, "demand": 5, "collapse": 5, "stale": 5, "open": 5, "fit": 2, "incumbents": ["Cleanup", "Cleaner Guru", "AI Cleaner", "Cleanup App", "Swipewipe"], "risk": "Apple ships into Photos; needs paid UA", "unlock": "Needle2 14MB on-device agentic LLM (Show HN, 537pts)", "status": "open"},
+    {"rank": 5, "name": "GPS audio tour", "score": 21, "demand": 3, "collapse": 5, "stale": 4, "open": 4, "fit": 5, "incumbents": ["GuideAlong", "Parkwolf", "Wanderlog"], "note": "only target where David owns distribution: NOLA/Houston/Austin/Door County routes, guides, past-guest lists, 12 GBP listings", "status": "open"},
+    {"rank": 3, "name": "Recipe capture + meal planner", "score": 20, "demand": 5, "collapse": 5, "stale": 4, "open": 4, "fit": 2, "incumbents": ["ReciMe", "mise", "Osta", "MealPrepPro", "Pepper", "Mealime", "Mob"], "status": "open"},
+    {"rank": 4, "name": "Scanner that skips the PDF", "score": 20, "demand": 5, "collapse": 5, "stale": 4, "open": 4, "fit": 2, "incumbents": ["CamScanner", "iScanner", "Adobe Scan", "Tiny Scanner"], "risk": "already crowded with AI entrants", "status": "open"},
+    {"rank": 6, "name": "Voice-to-action assistant", "score": 18, "demand": 4, "collapse": 5, "stale": 3, "open": 3, "fit": 3, "incumbents": ["Pocket AI", "Hey Noah"], "status": "open"},
+    {"rank": 8, "name": "Identify-anything camera", "score": 17, "demand": 4, "collapse": 5, "stale": 4, "open": 2, "fit": 2, "incumbents": ["PictureThis", "PlantIn"], "status": "open"},
+    {"rank": 7, "name": "Money coach", "score": 15, "demand": 5, "collapse": 3, "stale": 3, "open": 2, "fit": 2, "incumbents": ["Rocket Money", "Copilot", "Monarch", "YNAB", "EveryDollar"], "risk": "Plaid plumbing is the real moat", "status": "open"},
+    {"rank": 10, "name": "Fax / print utility", "score": 14, "demand": 3, "collapse": 1, "stale": 5, "open": 4, "fit": 1, "status": "not recommended"},
+    {"rank": 9, "name": "AI study companion", "score": 13, "demand": 4, "collapse": 4, "stale": 2, "open": 2, "fit": 1, "incumbents": ["Gauth", "Quizlet"], "status": "not recommended"}
+  ],
+  "seen_apps": [],
+  "prd_built": []
+}

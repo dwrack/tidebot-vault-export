@@ -8,7 +8,7 @@
 
 | Workflow | ID | Sent | Replies | Verdict |
 |---|---|---|---|---|
-| 5-step booking follow-up | `93f61197-288f-4d92-aa34-07d3f0147bb0` | 1,703 | **0** | **Turn off today** |
+| 5-step booking follow-up | `93f61197-288f-4d92-aa34-07d3f0147bb0` | 1,703 (Aug 11-17) | **0** | **Turn off today** |
 | "Are you still there?" (3-min) | `57746bc8-cb28-4b6c-8b37-2b713f67c320` | 781 | 68 (8.7%) | Keep the trigger, replace the copy |
 | Session close-outs | `c66cb577-f586-486a-b28b-edf3096f2c06` | 632 | 16 (2.5%) | Stop announcing closures |
 | Old "friendly wave" | `b9fbe200-...` | 30 | 0 | Off |
@@ -20,7 +20,7 @@ Median time from a guest going quiet to our first nudge: **3.3 minutes.** 94% la
 
 ## Step 1: kill the zero
 
-Deactivate `93f61197-288f-4d92-aa34-07d3f0147bb0` before anything else. It has sent 1,703 messages and produced zero replies across three months. It is not neutral, it is actively training people that our DMs are noise.
+Deactivate `93f61197-288f-4d92-aa34-07d3f0147bb0` before anything else. It went live Aug 10 and dumped all 1,703 messages between Aug 11 and Aug 17, about 340 a day: a backlog of ~344 contacts hit with five messages each in six days. Zero replies. That is not a drip, that is a burst, and it is actively training people that our DMs are noise.
 
 ## Step 2: the new cadence
 
@@ -51,7 +51,7 @@ The 3-minute "are you still there?" is the only nudge currently earning anything
 - One OpenCX tag per touch, so replies attribute cleanly.
 - Weekly: pull tagged sessions, match names against FareHarbor bookings.
 - Scoreboard is **replies per 100 sent** and **bookings per 100 sent**, per touch.
-- Kill any touch sitting at zero after three weeks. That's the rule that would have caught the 1,703 a long time ago.
+- Kill any touch sitting at zero after three weeks, and cap any sequence at 50 sends/day so a backlog can never get blasted like this again. That cap is the rule that would have caught the 1,703 on day one.
 
 ## Open items
 
