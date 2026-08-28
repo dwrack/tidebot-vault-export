@@ -55,6 +55,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Monitor water conditions (green film, depth, hyacinth growth) on primary routes to anticipate future accessibility issues and adjust route planning as needed. _(Lexi (audio log), 2026-08-28)_
 - [ ] [Guide log] Fix the shifted paddle box on the second trailer by unbolting and shimming it back into place. _(Stephanie (audio log), 2026-08-10)_
 - [ ] [Guide log] Improve the process for verifying transportation needs for guests booked through Fair Harbor, especially for international guests where direct phone contact is difficult, to prevent discrepancies. _(Lexi Hingle (audio log), 2026-08-07)_
 - [ ] [Guide log] When parking the trailer, ensure sufficient space is left from the fence for easy maneuvering. _(Michelle (audio log), 2026-07-31)_
