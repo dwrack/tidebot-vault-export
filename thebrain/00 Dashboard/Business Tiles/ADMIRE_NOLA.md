@@ -7,16 +7,21 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "ReplyAgent pause status unconfirmed this run — Gmail tool returned blank subjects"
-updated: 2026-08-27
+alert: "ReplyAgent pause status unconfirmed this run — dedicated Gmail inbox is empty"
+updated: 2026-08-28
 tile_type: business
+goal_q4_metric: build_on_ranking_plantation_terms
+goal_q4_target: null
+goal_q4_baseline: null
+goal_q4_note: "Build content around the plantation terms already ranking (#2.0 and #4.5) instead of opening new lanes. Confirm whether ReplyAgent is actually paused."
+goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **ReplyAgent pause status not reverified this run.** Prior briefs flagged the automation as auto-paused (no approved comments in 3+ days). The Gmail pull this run returned blank subject/sender fields for all messages (tool limitation, see Coverage Gaps in the daily brief), so this couldn't be confirmed either way — check manually.
+- **ReplyAgent pause status not reverified this run.** Prior briefs flagged the automation as auto-paused (no approved comments in 3+ days). The dedicated `gmail-admirenola` inbox is empty (0 unread), so nothing to cross-check either way — check manually.
 - Reviews: **0 unreplied** (10 most recent all replied). 427 lifetime at 4.9.
-- **GSC still doing real work on plantation terms:** "plantation tour new orleans" #4.5 / 3 clicks, "plantation new orleans" #6.0, "plantation tours new orleans" #2.0.
-- No ad spend distinguishable from the shared act_87863118 account this run. No FareHarbor shortname in this scrape.
+- **GSC still doing real work on plantation terms:** "plantation tour new orleans" #4.6 / 2 clicks, "plantation new orleans" #6.1, "plantation tours new orleans" #1.7.
+- No ad spend distinguishable from the shared act_87863118 account this run — no Admire NOLA-prefixed campaigns had spend yesterday. No FareHarbor shortname in this scrape.
 <!-- live:end -->
 
 ## Quick links

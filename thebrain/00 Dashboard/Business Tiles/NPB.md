@@ -10,6 +10,11 @@ status: yellow
 alert: "2 high-value bachelorette inquiries unreplied since yesterday afternoon (Sept 26 & Oct 3); 3 unreplied 5★ reviews"
 updated: 2026-08-28
 tile_type: business
+goal_q4_metric: weekly_booked_revenue
+goal_q4_target: 30000
+goal_q4_baseline: 25900
+goal_q4_note: "Lift the Google budget cap; FH search campaigns at 23-36 ROAS may be throttled."
+goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->

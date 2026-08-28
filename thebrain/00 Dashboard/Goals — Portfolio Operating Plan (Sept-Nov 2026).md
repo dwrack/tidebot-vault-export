@@ -64,11 +64,11 @@ Combined, this tier burns roughly **$1,400/month on ad spend with effectively ze
 - **Number: $4.5k/week** (from $3.8k), driven entirely by that one fix.
 - **Fix goal:** 5 unreplied reviews, oldest 12 days. Clear and hold 48 hours.
 
-### Austin Kayak Tours (AKT) — needs a decision, not a goal
-AKT has 141 reviews at 4.8, no GSC property, no GA4, no FareHarbor line, zero ad spend, and shares both ad accounts with LSKT. **Question to answer by Sept 15: is AKT a real operating business or a second front door for Lone Star?**
-- If it is real, it needs its own booking flow and its own budget, and it gets a revenue number.
-- If it is a front door, say so, point it at LSKT's funnel, and stop counting it as a business you owe attention.
-Right now it is neither, which is why it quietly does nothing.
+### Austin Kayak Tours (AKT) — DECIDED 2026-08-28: front door for Lone Star
+Not a separate business. It has 141 reviews at 4.8 and genuine brand equity, but no booking flow, no Search Console, no GA4, no FareHarbor line, and it shares both ad accounts with LSKT anyway.
+- **It gets no independent revenue number.** Its results roll into LSKT's $5.5k/week.
+- **The one move:** point AKT's traffic at LSKT's booking flow and keep the reviews replied to. That 4.8 across 141 reviews is a real asset feeding a funnel, not a business waiting to be launched.
+- **Stop counting it** as a business owed weekly attention. That is the whole point of the decision.
 
 ---
 
@@ -100,11 +100,11 @@ This is the most obvious gap you have. **4.9 stars, 106 reviews, and it is invis
 
 ## Tier 4 — Decide. Stop paying attention rent on undecided things.
 
-### Houston Booze Cruise (HBC)
-No GBP, no Search Console, no ads, no GA4, no FareHarbor. One Instagram ID. It appears in every brief as a coverage gap and costs you a line of attention every single day for nothing.
-- **Decide by Sept 15: live or shelved.**
-- If live: it needs a Google Business Profile this month. Every sister brand's strongest organic signal is GBP (NPB 3,551 reviews, HPB 974, BBK 584) and this has none.
-- If shelved: say so out loud and drop it from the brief.
+### Houston Booze Cruise (HBC) — DECIDED 2026-08-28: LIVE
+It is a real business, so it gets treated like one. Right now it has no GBP, no Search Console, no ads, no GA4, no FareHarbor. One Instagram ID. That is not a business, that is a logo.
+- **Goal: a live, verified Google Business Profile by Sept 30.** Every sister brand's strongest organic signal is GBP (NPB 3,551 reviews, HPB 974, BBK 584) and this has none. Nothing else here matters until that exists.
+- **Then:** get it on FareHarbor so bookings are countable, and start the review flywheel. A Houston booze cruise with zero reviews loses to one with forty, every time.
+- **Owner:** Houston already runs through Connor, but he is stretched across three businesses. If HBC is genuinely live, it needs its own person or it will stay a logo.
 
 ### Door County Ebike
 - 18 lifetime reviews, most recent from **2023**, while sister brands pull dozens a month. The profile is dead.
@@ -156,9 +156,21 @@ A captain reports the number **even when it is bad**, and nothing bad happens fo
 Everything above is delegable except these five:
 
 1. Hire the NKST and DCKT captains.
-2. Make the AKT call (business or front door).
-3. Make the HBC call (live or shelved).
+2. ~~Make the AKT call.~~ **Done 2026-08-28: front door for LSKT.**
+3. ~~Make the HBC call.~~ **Done 2026-08-28: live, GBP by Sept 30.**
 4. Approve the DCKT/Cave Point route change. It is a product decision, not a manager decision.
 5. Raise the NPB Google budget cap.
 
-Five decisions. Everything else on this page belongs to someone with a name.
+Three decisions left. Everything else on this page belongs to someone with a name.
+
+---
+
+## What is already wired (2026-08-28)
+
+The plan is not just a document. Three pieces are live:
+
+1. **`helm-config.json`** now carries a `goal` block per business (target, baseline, and the one fix that matters). Backup at `helm-config.json.bak-20260828`.
+2. **`monday-goals.mjs`** leads each Monday post with the quarter goal and the pace, then asks for this week's slice of it instead of an invented number. Door County gets a "protect the line" variant since it is holding, not growing. Dry-run verified; first live post is **Mon Sept 1, 8:00 CT** to all six helm channels.
+3. **The morning-brief skill** now carries the `goal_q4_*` tile fields forward verbatim and grades each business against its goal in the daily brief. Fix goals that nobody touches get a standing "no movement since" line that gets louder, not quieter.
+
+**To revert the Monday post to its old wording:** delete the `goal` keys from `helm-config.json`. The script falls back to the original open-ended prompt on its own. No code change needed.
