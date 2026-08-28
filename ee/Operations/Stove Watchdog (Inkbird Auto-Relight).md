@@ -20,8 +20,11 @@ Automated fix for the misfire problem: when the sauna drops below 165°F during 
 ## Setup status (2026-08-27)
 
 - [x] Watchdog built, Blink snapshot + flame detection tested (correctly read ON from a live flame)
-- [ ] Davey: create Tuya IoT account, link INKBIRD app by QR, run the Desktop setup script
-- [ ] Claude: calibration pass (`probe`), confirm live temp read + set point write, then enable the launchd job
+- [x] ~~Tuya IoT cloud API route~~ DEAD END: the INKBIRD iPhone app's QR scanner can't complete Tuya's "Link App Account" authorization (shows raw token text, no Confirm screen; app update didn't fix it). Re-pairing into Smart Life needs someone at the stove; Davey away for a week and doesn't want to depend on crew.
+- [ ] Plan B in progress: Android emulator on the always-on Mac running the INKBIRD app; watchdog drives set point changes via adb UI automation. Play Store-image route (official channel) since APK sideloading was ruled out. SDK installing at `~/android/` on davids-mbp-2.
+- [ ] Inside the emulator, first retry the two shortcuts that could still unlock the clean Tuya cloud API: Tuya Smart app login with INKBIRD credentials, and the Android INKBIRD app scanning the link QR via virtual camera.
+- [ ] Davey: provide INKBIRD app login (via hidden-input command), be ready for a possible Google 2FA tap for Play Store sign-in
+- [ ] Claude: calibration pass, supervised set point cycle, then arm (`touch ~/.config/ee-stove-watchdog/armed`)
 
 ## Known limits
 
