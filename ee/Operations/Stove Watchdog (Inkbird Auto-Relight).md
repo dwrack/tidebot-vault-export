@@ -1,6 +1,6 @@
 # Stove Watchdog — Inkbird Auto-Relight
 
-Automated fix for the misfire problem: when the sauna drops below 162°F during working hours, the watchdog checks the stove cam, and if the flame is out it cycles the Inkbird set point (190 → 90 → 190) to force a re-ignition, then verifies the flame relit on camera. Retries every 5 minutes until it works. Davey gets a Slack DM when it misfires and again when it's confirmed relit.
+Automated fix for the misfire problem: when the sauna drops below 165°F during working hours (deliberately above the Inkbird app's 162°F alert — if that phone alert ever fires, the watchdog missed it and someone should look manually), the watchdog checks the stove cam, and if the flame is out it cycles the Inkbird set point (190 → 90 → 190) to force a re-ignition, then verifies the flame relit on camera. Retries every 5 minutes until it works. Davey gets a Slack DM when it misfires and again when it's confirmed relit.
 
 ## How it works
 
