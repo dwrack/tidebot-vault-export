@@ -50,6 +50,13 @@
 - Scoreboard: recovered bookings per strategy per week. Kill anything at zero after 3 weeks, double down on the top 2.
 - Sequence: ship #1, #3, #5 first (they're pure OpenCX workflow config), then #6 once opt-in lists exist, then the paid/organic nets (#7, #8).
 
+## Status (2026-08-27)
+
+- **#1 SHIPPED.** New workflows live: "IG/Messenger — 2h in-window nudge" and "IG/Messenger — 20h last-call nudge". Deactivated the old Day 1 (24h) and Day 3 (72h) nudges — both fired after the Meta window closed, so they were almost certainly never delivering.
+- **#3 REVISED to email-only (2026-08-28, David's call).** OpenCX can't send SMS yet, so the bot never asks for phone numbers or promises texts. It now offers to email details/booking links to interested prospects and quotes to 8+ groups. One ask max, saves to contact record. Revisit phone capture if/when OpenCX gets an SMS channel (toll-free verification still pending anyway).
+- **#5 blocked on Meta config.** OpenCX has no tool for Meta's recurring-notification opt-in template. Needs OpenCX support confirmation + Meta page settings.
+- **#8 can't live in OpenCX** — no comment trigger exists there. Needs a small Meta Pages API job (private replies to new commenters) on the always-on Mac. Buildable next.
+
 ## Open items
 
 - Toll-free SMS verification (888-618-9606) still pending — SMS strategies wait on it.
