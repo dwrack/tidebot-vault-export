@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta still dark; Google spend $0 yday; 2 unreplied 5★ (oldest 11 days)"
-updated: 2026-08-28
+alert: "Meta still dark; Google spend $0 yday; 2 unreplied 5★ (oldest 12 days, flagged yesterday, still untouched)"
+updated: 2026-08-29
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,10 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
+- **Decision made 2026-08-28: front door for LSKT.** Execution check — the "keep reviews replied" half of that decision hasn't happened: Sheila Simpsen's 5★ (Aug 17) was flagged yesterday and is still unreplied, now 12 days old.
 - **Meta still dark** — shares `act_638850950128825` with LSKT, zero data yesterday and 7-day.
-- **Google spend effectively $0 yesterday.** No AKT-named campaigns had impressions in the shared account (8497383499) — that account's active spend yesterday split to LSKT ($6.90), Buffalo Bayou ($14.68), and HPB ($15.56), none of it AKT.
+- **Google spend effectively $0 yesterday.** No AKT-named campaigns had spend in the shared account (8497383499) — that account's active spend split to LSKT ($48.70), Buffalo Bayou ($46.04), and HPB ($10.86), none of it AKT.
 - **2 unreplied 5★:** Mallory DeGood (Aug 24), Sheila Simpsen (Aug 17, "freedom to freely explore the area... Bucket list worthy!" — good line for ad copy).
-- No FareHarbor shortname in this scrape for AKT specifically (unlike LSKT). No GSC property, no GA4.
+- No FareHarbor shortname in this scrape for AKT specifically. No GSC property, no GA4.
 - Reviews: 141 lifetime at 4.8.
 <!-- live:end -->
 

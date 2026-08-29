@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 8
-revenue_today: 677
+bookings_today: 6
+revenue_today: 319
 lead_time_days: 0
-ad_spend_yday: 32
+ad_spend_yday: 66
 status: yellow
-alert: "6 unreplied reviews (oldest 13 days); Meta traffic-only campaign still 0 purchases despite $17.59/day spend"
-updated: 2026-08-28
+alert: "6 unreplied reviews (oldest 14 days); revenue -44% vs avg despite more bookings; Meta traffic-only campaign still 0 purchases"
+updated: 2026-08-29
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,10 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Good FH day: 8 bookings / $677, above the ~3.6/day, ~$542/day 7-day avg.** Bookings recovered strongly after softening earlier in the week.
-- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $17.59, 216 link clicks, 0 tracked purchases. Same shape flagged in prior briefs, still unfixed — the audience and creative clearly work, there's just no conversion campaign catching them.
-- **Google Ads spend flows through the shared 8497383499 account** (roster-mapped to LSKT/AKT only, but actively running Buffalo Bayou campaigns): $14.68 yesterday across a brand-search and generic-local campaign — the generic-local one converted (1 conv, $119.08, 31.8 ROAS). This account isn't in the roster's Google Ads mapping for this business — worth adding.
-- **6 unreplied 4-5★, oldest now 13 days:** Julio Alberto (Aug 27), Dean Muscarella (4★, Aug 23), Cassie Tanzey (Aug 17), G. Douglas (Aug 16), Laila Pantoja (Aug 15), Devo Green (Aug 15).
+- **Goal pace: $3,955/wk booked vs $4,500 target — 88% of goal.** Close, but yesterday's mix (more bookings, less revenue) is worth watching.
+- **Bookings up but revenue down: 6 bookings (+40% vs the 4.3/day avg) but only $319 (-44% vs the $565/day avg).** More bookings at lower ticket value yesterday — worth a look if it continues.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $20.13, 221 link clicks, 0 tracked purchases. Same shape flagged across multiple briefs, still unfixed.
+- **Google Ads spend, split from the shared 8497383499 account at the campaign level:** $46.04 yesterday (PMax $40.37 + Brand search $4.26 + Generic-Local $1.41) — the PMax campaign converted (1 conv, $129.90, 3.2 ROAS). This account still isn't in the roster's Google Ads mapping for this business.
+- **6 unreplied 5★/4★, oldest now 14 days:** Julio Alberto (Aug 27), Dean Muscarella (4★, Aug 23), Cassie Tanzey (Aug 17), G. Douglas (Aug 16), Laila Pantoja (Aug 15), Devo Green (Aug 15) — unchanged from yesterday.
 - No GSC property, no GA4.
 <!-- live:end -->
 

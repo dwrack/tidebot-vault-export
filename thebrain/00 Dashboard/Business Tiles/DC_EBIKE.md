@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "DCKT brand-term cannibalization not reverified this run"
-updated: 2026-08-28
+alert: "DCKT brand-term cannibalization still not reverified"
+updated: 2026-08-29
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Cannibalization vs DCKT's brand term not reverified this run.** Prior briefs flagged `doorcountykayak.com` pulling impressions for "door county kayak tours" while doorcountykayaktours.com ranks #1 for the same query. This run's top-10 GSC pull for this domain again didn't surface that term — needs a direct re-check, not assumed fixed either way.
-- Top queries this run are rental-intent: "door county kayaking" 2 clicks/37 impr, "door county kayak" 1/17, "door county kayak rentals" 1/6. Still looks like rentals/ebikes is the real lane for this domain.
-- Reviews: **0 unreplied.** Only 18 lifetime at 4.9, most recent from 2021 — profile is stale while sister brands pull dozens a month.
+- **Goal: commit_domain_to_rentals (decide by Sept 15). No movement since 2026-08-28.**
+- **Cannibalization vs DCKT's brand term still not reverified.** This run's top-10 GSC pull again didn't surface "door county kayak tours" for this domain — still needs a direct re-check, not assumed fixed either way.
+- Top queries again rental-intent: "door county kayak rentals" 1/6, "door county kayak tours" 1/52, "door county kayaking" 1/24. Still looks like rentals/ebikes is the real lane.
+- Reviews: **0 unreplied.** Only 18 lifetime at 4.9, most recent from 2021.
 - No ad spend distinguishable, no FareHarbor shortname in this scrape.
 <!-- live:end -->
 

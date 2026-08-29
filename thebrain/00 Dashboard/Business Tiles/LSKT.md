@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 5
-revenue_today: 460
+bookings_today: 9
+revenue_today: 847
 lead_time_days: 0
-ad_spend_yday: 7
+ad_spend_yday: 49
 status: yellow
-alert: "bookings -39% vs 7d avg; Meta still dark heading into Labor Day"
-updated: 2026-08-28
+alert: "Bookings recovered (+17% vs 7d avg); Meta still dark heading into Labor Day"
+updated: 2026-08-29
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,11 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **FH bookings down 39% vs 7-day avg: 5 vs 8.2/day ($460 vs $664, -31%).** Worth watching into the weekend — under the 40% hard-alert threshold but a real dip.
-- **Meta (`act_638850950128825`) is still completely dark** — zero campaigns, zero spend, yesterday and full 7-day. Flagged across multiple briefs, running into Labor Day weekend / peak bat season. Check account status/billing directly.
-- **Confirmed again: LSKT's real Google Ads spend is much smaller than a naive account-total read.** The shared account (8497383499) also runs active Buffalo Bayou and Houston Pedal Barge campaigns. Splitting by actual campaign name: LSKT's true spend yesterday was **$6.90** ($4.59 "Bat - Local" + $2.06 PMax + $0.25 Brand), while the account's full total was $37.15. Buffalo Bayou took $14.68 and HPB took $15.56 of that same account. Roster's Google Ads mapping for 8497383499 should be corrected to reflect this.
+- **Goal pace: $4,410/wk booked vs $5,500 target — 80% of goal.** Still behind the +20% ask, but yesterday was the strongest single day recently.
+- **Booking dip from yesterday's brief reversed: 9 bookings / $847, +17% vs the 7-day avg** ($847 vs $630, +34% revenue).
+- **Meta (`act_638850950128825`) is still completely dark** — zero campaigns, zero spend, yesterday and 7-day. Running into Labor Day weekend / peak bat season. Check account status/billing directly.
+- **Real Google Ads spend, split from the shared account (8497383499) at the campaign level:** LSKT's true spend yesterday was **$48.70** ($38.39 PMax + $6.64 "Bat" search + $3.67 Brand search) → 3 conversions, $324.75 value. Buffalo Bayou took $46.04 and HPB took $10.86 of that same account yesterday; AKT took $0. Splits sum exactly to the account total ($105.60).
 - Reviews: **0 unreplied** (10 most recent all replied). 158 lifetime at 4.8.
-- Real demand still sitting unclaimed by Meta: "kayaking near me" 39 impressions at #9.9.
+- Real demand still sitting unclaimed by Meta: "kayaking near me" 34 impressions at #9.7.
 <!-- live:end -->
 
 ## Quick links

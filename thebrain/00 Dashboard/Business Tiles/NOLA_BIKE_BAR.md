@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-08-28
+updated: 2026-08-29
 tile_type: business
 goal_q4_metric: win_category_terms
 goal_q4_target: null
@@ -18,10 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Clean day. 0 unreplied reviews (10 most recent all replied), no issues surfaced.** 179 lifetime reviews at 4.8.
-- **GSC owns the small footprint it competes for:** "nola bike bar" #3.3 / 5 clicks (62% CTR), "party bike new orleans" #1.0, "pedal bar new orleans" #1.0, "pedal tavern new orleans" #1.3.
+- **Goal: win_category_terms. No movement since 2026-08-28.** No category-intent campaign or content has been started yet.
+- **Clean day again. 0 unreplied reviews (10 most recent all replied).** 179 lifetime reviews at 4.8.
+- **GSC owns the small footprint it competes for:** "nola bike bar" #3.6 / 4 clicks, "new orleans bike bar" #3.0 / 3 clicks, "party bike new orleans" #1.0 / 3 clicks.
 - Category terms are still the gap, not brand terms — worth a look at broader "bike tour new orleans" intent.
-- No FareHarbor shortname in this scrape, no Google Ads. No campaign-level Meta spend attributed to this brand's prefix ("Bike Bar") in yesterday's pull on the shared act_87863118 account. This brand still runs mostly on GBP and organic.
+- No FareHarbor shortname in this scrape, no Google Ads. No campaign-level Meta spend attributed to this brand's prefix ("Bike Bar") in yesterday's pull.
 <!-- live:end -->
 
 ## Quick links
