@@ -1,4 +1,4 @@
-# Approval Backlog — 2026-08-29
+# Approval Backlog — 2026-08-30
 
 **55 items** across 11 surfaces have been staged longer than 5 days.
 
@@ -6,18 +6,18 @@ Nothing here has been sent, posted, or published. Each one is waiting on you.
 
 | Age | Surface | Waiting | What |
 |--:|---|--:|---|
-| 🔴 106d | Staged for approval | 1 | 2026-05-13 — FareHarbor DNS Request (SPF DKIM DMARC).md — drafts waiting on a yes/no |
-| 🔴 76d | Staged for approval | 1 | 2026-06-13 — Jeff & David Call — Extracted Action Items (for filing).md — drafts waiting on a yes/no |
-| 🔴 17d | Staged for approval | 1 | 2026-08-11 — Manager Operating Standards (Keep-Start-Stop + Send Me a Brief).md — drafts waiting on a yes/no |
-| 🔴 15d | Family approvals | 6 | Approvals.md — nothing here has been sent |
-| 13d | Staged for approval | 1 | 2026-08-15 — Discover Card Number in Plaintext Apple Note (STAGED).md — drafts waiting on a yes/no |
-| 13d | Staged for approval | 1 | 2026-08-15 — Dump Cadence Change Proposal (STAGED).md — drafts waiting on a yes/no |
-| 11d | Staged for approval | 1 | 2026-08-17 — Guide Story Engine (Day-in-the-Life + Weird Stuff).md — drafts waiting on a yes/no |
-| 11d | Staged for approval | 1 | 2026-08-17 — Reddit & FB Group Push (Staff Incentive Variant).md — drafts waiting on a yes/no |
-| 11d | Staged for approval | 1 | 2026-08-17 — Staff Motivation Play (End of Season Push).md — drafts waiting on a yes/no |
-| 11d | Reddit drafts | 11 | pending.md — tick to post |
-| 5d | Review replies | 30 | 2026-08-24.md — drafted, not posted to Google |
+| 🔴 107d | Staged for approval | 1 | 2026-05-13 — FareHarbor DNS Request (SPF DKIM DMARC).md — drafts waiting on a yes/no |
+| 🔴 77d | Staged for approval | 1 | 2026-06-13 — Jeff & David Call — Extracted Action Items (for filing).md — drafts waiting on a yes/no |
+| 🔴 18d | Staged for approval | 1 | 2026-08-11 — Manager Operating Standards (Keep-Start-Stop + Send Me a Brief).md — drafts waiting on a yes/no |
+| 🔴 16d | Family approvals | 6 | Approvals.md — nothing here has been sent |
+| 🔴 14d | Staged for approval | 1 | 2026-08-15 — Discover Card Number in Plaintext Apple Note (STAGED).md — drafts waiting on a yes/no |
+| 🔴 14d | Staged for approval | 1 | 2026-08-15 — Dump Cadence Change Proposal (STAGED).md — drafts waiting on a yes/no |
+| 12d | Staged for approval | 1 | 2026-08-17 — Guide Story Engine (Day-in-the-Life + Weird Stuff).md — drafts waiting on a yes/no |
+| 12d | Staged for approval | 1 | 2026-08-17 — Reddit & FB Group Push (Staff Incentive Variant).md — drafts waiting on a yes/no |
+| 12d | Staged for approval | 1 | 2026-08-17 — Staff Motivation Play (End of Season Push).md — drafts waiting on a yes/no |
+| 12d | Reddit drafts | 11 | pending.md — tick to post |
+| 6d | Review replies | 30 | 2026-08-24.md — drafted, not posted to Google |
 
-Another **7** waiting items have not crossed the 5-day line yet.
+Another **6** waiting items have not crossed the 5-day line yet.
 
 _Kill anything you are never going to do. A queue you have decided against is worse than an empty one._
