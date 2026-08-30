@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "Zero instrumentation persists; no GBP yet; IG pull unavailable this session"
-updated: 2026-08-29
+updated: 2026-08-30
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null

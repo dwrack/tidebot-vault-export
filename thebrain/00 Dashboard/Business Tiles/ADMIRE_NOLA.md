@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "ReplyAgent pause status still unconfirmed — dedicated Gmail inbox is empty"
-updated: 2026-08-29
+updated: 2026-08-30
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28.**
+- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — 2 days sitting.
 - **ReplyAgent pause status still not reverified.** The dedicated `gmail-admirenola` inbox is empty again (0 unread) — nothing to cross-check either way. Still needs a manual check, not another brief cycle of "unconfirmed."
 - Reviews: **0 unreplied** (10 most recent all replied). 427 lifetime at 4.9.
-- **GSC still doing real work on plantation terms:** "plantation tour new orleans" #3.8 / 2 clicks, "swamp and plantation tour new orleans" #1.4 / 1 click.
+- **GSC still doing real work on plantation terms:** "plantation tour new orleans" #4.6 / 2 clicks, "swamp and plantation tour new orleans" #1.6 / 1 click.
 - No ad spend distinguishable from the shared act_87863118 account this run. No FareHarbor shortname in this scrape.
 <!-- live:end -->
 

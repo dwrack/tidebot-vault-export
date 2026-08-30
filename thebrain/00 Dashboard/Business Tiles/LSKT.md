@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 9
-revenue_today: 847
+bookings_today: 16
+revenue_today: 873
 lead_time_days: 0
 ad_spend_yday: 49
 status: yellow
-alert: "Bookings recovered (+17% vs 7d avg); Meta still dark heading into Labor Day"
-updated: 2026-08-29
+alert: "Strong booking day; Meta still dark heading into Labor Day"
+updated: 2026-08-30
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,12 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $4,410/wk booked vs $5,500 target — 80% of goal.** Still behind the +20% ask, but yesterday was the strongest single day recently.
-- **Booking dip from yesterday's brief reversed: 9 bookings / $847, +17% vs the 7-day avg** ($847 vs $630, +34% revenue).
+- **Goal pace: $4,273/wk booked vs $5,500 target — 78% of goal.** Roughly flat vs yesterday's 80% — still behind the ask.
+- **Another strong booking day: 16 bookings / $873, +85% vs the trailing avg** (~8.7/day, ~$610/day).
 - **Meta (`act_638850950128825`) is still completely dark** — zero campaigns, zero spend, yesterday and 7-day. Running into Labor Day weekend / peak bat season. Check account status/billing directly.
-- **Real Google Ads spend, split from the shared account (8497383499) at the campaign level:** LSKT's true spend yesterday was **$48.70** ($38.39 PMax + $6.64 "Bat" search + $3.67 Brand search) → 3 conversions, $324.75 value. Buffalo Bayou took $46.04 and HPB took $10.86 of that same account yesterday; AKT took $0. Splits sum exactly to the account total ($105.60).
+- **Real Google Ads spend, split from the shared account (8497383499) at the campaign level:** LSKT's true spend yesterday was **$41.17** ($27.56 "Bat" search + $13.60 PMax + $0.01 Brand search) → 1 conversion, $97.42 value. Buffalo Bayou took $52.66 and HPB took $26.05 of that same account yesterday; AKT took $0. Splits sum to the account total ($119.87, ±rounding).
 - Reviews: **0 unreplied** (10 most recent all replied). 158 lifetime at 4.8.
-- Real demand still sitting unclaimed by Meta: "kayaking near me" 34 impressions at #9.7.
+- Real demand still sitting unclaimed by Meta: "kayaking near me" 33 impressions at #10.0.
 <!-- live:end -->
 
 ## Quick links
