@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28.** Still no GBP location for this business — the standing gap gets louder the longer it sits.
+- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28** — 2 days sitting. Still no GBP location for this business — the standing gap gets louder the longer it sits.
 - **Still the least-instrumented business in the portfolio.** No GBP, no GSC property, no Google Ads, no Meta ad account, no GA4, no FareHarbor. The roster holds exactly one ID: an Instagram user ID.
-- **Instagram did not pull this run again** — no `mcp__meta-organic__*` tool connected in this session. The one visible channel is invisible again.
+- **Instagram did not pull this run again** — no `mcp__meta-organic__*` tool connected in this session, third day running. The one visible channel is invisible again.
 - Decision is made (live), the follow-through isn't: needs an owner to actually stand up the GBP before Sept 30.
 <!-- live:end -->
 
