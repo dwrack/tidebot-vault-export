@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta still dark; Google spend $0 yday; 2 unreplied 5★ (oldest 13 days, flagged repeatedly, still untouched)"
-updated: 2026-08-30
+alert: "Meta still dark; 2 unreplied 5★ (oldest 14 days, flagged repeatedly, still untouched)"
+updated: 2026-08-31
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Decision made 2026-08-28: front door for LSKT.** Execution check — the "keep reviews replied" half of that decision still hasn't happened: Sheila Simpsen's 5★ (Aug 17) has now sat unreplied for 13 days across three straight flags.
+- **Decision made 2026-08-28: front door for LSKT.** Execution check — the "keep reviews replied" half of that decision still hasn't happened: Sheila Simpsen's 5★ (Aug 17) has now sat unreplied for 14 days across four straight flags.
 - **Meta still dark** — shares `act_638850950128825` with LSKT, zero data yesterday and 7-day.
-- **Google spend effectively $0 yesterday.** No AKT-named campaigns had spend in the shared account (8497383499) — that account's active spend split to Buffalo Bayou ($52.66), LSKT ($41.17), and HPB ($26.05), none of it AKT.
+- **Shared Google Ads account (8497383499) not split to campaign level this run** — account-wide $92.63 yesterday, 5.67 ROAS, but not attributed to AKT specifically. Prior brief found $0 AKT-named campaign spend in this account.
 - **2 unreplied 5★:** Mallory DeGood (Aug 24), Sheila Simpsen (Aug 17, "freedom to freely explore the area... Bucket list worthy!" — good line for ad copy).
 - No FareHarbor shortname in this scrape for AKT specifically. No GSC property, no GA4.
 - Reviews: 141 lifetime at 4.8.

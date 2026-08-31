@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 58
-revenue_today: 10417
+bookings_today: 21
+revenue_today: 4964
 lead_time_days: 0
-ad_spend_yday: 37
+ad_spend_yday: 46
 status: yellow
-alert: "4 unreplied 5★ reviews (new one just landed); Google Ads umbrella still has NKST's disapproved ads"
-updated: 2026-08-30
+alert: "4 unreplied 5★ reviews unchanged; Google Ads umbrella still has NKST's stuck ads (day 4)"
+updated: 2026-08-31
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,13 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $34,252/wk booked vs $30,000 target — 114% of goal.** Up from 101% yesterday, driven by the best FH day of the week.
-- **Charter lead Dan Polheber (20 guests) is no longer sitting unread** — appears to have been handled since yesterday's flag.
-- **Best FH day of the week: 58 bookings / $10,417, +136% vs the trailing avg (~24.6/day).** Portfolio-wide total (97 bookings / $13,772) cross-checked exactly against the automated digest email.
-- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $14.78 yesterday → 1 purchase, $59.88 value, 4.05 ROAS (7-day: 6.1 ROAS). `NPB | Messenger | TOF`: $21.35 → 9 messaging conversations started.
-- **Google Ads runs under the Gravity Trails|NOLA umbrella (4378232023, $220.23 yesterday, 5.81 ROAS)** — not broken out to NPB specifically; tile ad spend above reflects Meta only. That same account still has 3 disapproved ads unresolved since Aug 28 on an NKST campaign — see NKST tile.
-- Reviews: **4 unreplied, all 5★** (Bri — new today, Aug 30; Zeal Beale, Jas — both Aug 24; April Hardin, Aug 23) — one more than yesterday, none replied to since.
-- GSC stable: "nola party barge" #2.7 / 11 clicks, "nola barge" #1.0 / 4 clicks.
+- **Goal pace: $34,748/wk booked vs $30,000 target — 116% of goal.** Slightly up from 114% — still comfortably ahead.
+- **21 bookings / $4,964 yesterday**, a normal day after Saturday's huge 58-booking spike — no red flag here.
+- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $19.66 yesterday → 1 purchase, $59 value, 3.0 ROAS. `NPB | Messenger | TOF`: $26.03 → 8 messaging conversations started.
+- **Google Ads runs under the Gravity Trails|NOLA umbrella (4378232023, $182.07 yesterday, 2.08 ROAS; $1,154.60/6.43 ROAS over 7 days)** — not broken out to NPB specifically. That same account still has 3 ads stuck at zero impressions for a full week on an NKST campaign — see NKST tile, now day 4 unresolved.
+- Reviews: **4 unreplied, all 5★** (Bri — Aug 30; Zeal Beale, Jas — both Aug 24; April Hardin, Aug 23) — unchanged since yesterday.
+- GSC stable: "nola party barge" #2.6 / 12 clicks, "party barge" #2.4 / 4 clicks.
 <!-- live:end -->
 
 ## Quick links
