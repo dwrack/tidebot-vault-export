@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "ReplyAgent pause status still unconfirmed"
-updated: 2026-08-31
+updated: 2026-09-01
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — 3 days sitting.
+- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — 4 days sitting.
 - **ReplyAgent pause status still not reverified.** The `gmail-admirenola` inbox wasn't checked separately this run — still needs a manual check, not another brief cycle of "unconfirmed."
 - Reviews: **0 unreplied** (10 most recent all replied). 427 lifetime at 4.9.
 - **GSC still doing real work on plantation terms:** "oak alley plantation and swamp tour" #3.2 / 2 clicks, "swamp and plantation tour new orleans" #1.5 / 1 click, "plantation tour new orleans" #4.5 / 1 click.

@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 21
-revenue_today: 4964
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 46
+ad_spend_yday: 38
 status: yellow
-alert: "4 unreplied 5★ reviews unchanged; Google Ads umbrella still has NKST's stuck ads (day 4)"
-updated: 2026-08-31
+alert: "data stale — FH scrape missing; 5 unreplied reviews (+1 new)"
+updated: 2026-09-01
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,11 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $34,748/wk booked vs $30,000 target — 116% of goal.** Slightly up from 114% — still comfortably ahead.
-- **21 bookings / $4,964 yesterday**, a normal day after Saturday's huge 58-booking spike — no red flag here.
-- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $19.66 yesterday → 1 purchase, $59 value, 3.0 ROAS. `NPB | Messenger | TOF`: $26.03 → 8 messaging conversations started.
-- **Google Ads runs under the Gravity Trails|NOLA umbrella (4378232023, $182.07 yesterday, 2.08 ROAS; $1,154.60/6.43 ROAS over 7 days)** — not broken out to NPB specifically. That same account still has 3 ads stuck at zero impressions for a full week on an NKST campaign — see NKST tile, now day 4 unresolved.
-- Reviews: **4 unreplied, all 5★** (Bri — Aug 30; Zeal Beale, Jas — both Aug 24; April Hardin, Aug 23) — unchanged since yesterday.
+- **Goal pace: unavailable this run.** FareHarbor's nightly scrape failed outright (0 of 6 businesses, Playwright timeouts) — no fresh booking data to compute pace against. Last known: 116% of goal as of Aug 31.
+- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $17.51 yesterday → 1 purchase, $59 value, 3.0 ROAS. `NPB | Messenger | TOF`: $19.62 → 8 messaging conversations started. `New Sales Campaign` only spent $0.46 but landed 3 purchases worth $1,015.40 combined — worth checking if this campaign can take more budget.
+- **Google Ads runs under the Gravity Trails|NOLA umbrella (4378232023, $238.55 yesterday, 2.31 ROAS; $1,231.72/6.06 ROAS over 7 days)** — not broken out to NPB specifically. NKST's previously-stuck ad group inside this account was not re-checked at campaign level this run.
+- Reviews: **5 unreplied, all 5★** (new: Bayley REHMAN, Aug 31; Bri — Aug 30; Zeal Beale, Jas — both Aug 24; April Hardin, Aug 23).
 - GSC stable: "nola party barge" #2.6 / 12 clicks, "party barge" #2.4 / 4 clicks.
 <!-- live:end -->
 
