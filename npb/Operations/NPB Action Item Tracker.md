@@ -30,7 +30,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 ## Strategic
 | # | Item | Owner | Status |
 |---|---|---|---|
-| 1 | NPB down ~20%. Aug/Sep defend plan + ad budget call | David + Michael | open |
+| 1 | NPB down ~20%. Aug/Sep defend plan + ad budget call. **Plan drafted 9/1: Operations/Defend Plan — Sept-Oct 2026.md** — blocked on current FareHarbor 30-day pull | David + Michael | open |
 | 2 | Manchac: Pip & Brian took over kayak ops. Meeting Michael asked for 8/15 | all | open |
 | 3 | 1099 contracts w/ per-role duties. Jeff's duty list 7/7, pushed 7/28 | David | open |
 | 4 | Parked: sell both pedal boats, buy one 50-passenger | David | parked |
