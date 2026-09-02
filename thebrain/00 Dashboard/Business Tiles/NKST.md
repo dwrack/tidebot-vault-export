@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 465
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 38
 status: yellow
-alert: "data stale — FH scrape missing; IG still unmeasured"
-updated: 2026-09-01
+alert: "GA4 returned zero sessions yesterday; 3 unreplied reviews unchanged; IG still unmeasured"
+updated: 2026-09-02
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,12 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's nightly scrape failed outright (0 of 6 businesses, Playwright timeouts) — no fresh booking data to compute pace against. Last known: 192% of goal as of Aug 31.
-- **NKST's previously-stuck ad group inside the Gravity Trails|NOLA umbrella (4378232023, campaign "LP Kayak NO - B") was not re-checked at campaign level this run** — no fresh confirmation of its status either way. [Check campaign](https://ads.google.com/aw/ads?campaignId=755835084&ocid=59855752).
-- **GA4 sessionSource (yesterday): google 8 sessions/17 conversions, direct 6 sessions/0, instagram.com 5 sessions/0, facebook.com + m.facebook.com 2 sessions/0.** Google still converts far harder per-session than Instagram. No `meta-organic` MCP connected this session, so IG content performance is still unmeasured.
-- **3 unreplied 5★, all naming Alex:** Josh Dillon (Aug 20), Bonafried (Aug 19), Celeste Lessig (Aug 17) — unchanged for two weeks now.
-- **Watched page — "Airboat vs Kayak" comparison, still flat.** GSC (date-dimension, Aug 23-29): 51 impressions / 1 click. GA4 (Aug 23-31): 2 pageviews / 2 sessions. Indexing looks fine; click-through still isn't happening.
-- **Own brand term still weak:** "new orleans kayak swamp tours" #25.8 / 6 clicks.
+- **Goal pace: unavailable this run.** FareHarbor's JSON scrape came back with empty booking arrays (scraper regression) — no clean trailing data to compute pace against. Last known: 192% of goal as of Aug 31 (now 2 days stale). Single-day read: $465 booked yesterday off 1 booking, 12.2x return on $38.19 ad spend.
+- **GA4 returned zero rows for sessionSource yesterday** — either a data-processing delay or genuinely no sessions recorded; flagging rather than guessing. No `meta-organic` MCP connected this session either, so IG content performance is still unmeasured.
+- **See today's brief Action Item #2:** fresh TLDR data suggests comparison pages (exactly this business's watched page and its planned "Kayak vs Motorboat" build) are losing AI-citation share to product pages. Worth reading before greenlighting the next comparison page here.
+- **3 unreplied 5★, all naming Alex, unchanged:** Josh Dillon (Aug 20), Bonafried (Aug 19), Celeste Lessig (Aug 17) — now over two weeks.
+- **Watched page — "Airboat vs Kayak" comparison — first real signal since baseline.** GSC (date-dimension, Aug 25-30): 33 impressions / 2 clicks (baseline was 0/0 as of June 2). GA4 (Aug 25-Sep 1): 2 pageviews / 2 sessions — roughly flat vs. the ~3-view baseline, not a spike.
+- **Own brand term still weak:** "new orleans kayak swamp tours" #23.7 / 5 clicks.
 - Note: this GA4 property does not capture FareHarbor bookings. Traffic numbers above are sessions/engagement, not revenue.
 <!-- live:end -->
 

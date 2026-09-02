@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 357
 lead_time_days: 0
-ad_spend_yday: 21
-status: yellow
-alert: "data stale — FH scrape missing; 8 unreplied reviews now (oldest 17 days, +1 new); Meta traffic-only campaign still 0 purchases"
-updated: 2026-09-01
+ad_spend_yday: 91
+status: green
+alert: "review backlog cleared to 0; Meta traffic-only campaign still 0 purchases"
+updated: 2026-09-02
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's nightly scrape failed outright (0 of 6 businesses, Playwright timeouts) — no fresh booking data to compute pace against. Last known: 46% of goal as of Aug 31, a trend worth a direct look once data resumes.
-- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $20.61, 243 clicks, 166 landing page views, 0 tracked purchases. Same shape flagged across multiple briefs, still unfixed.
-- **Shared Google Ads account (8497383499) not split to campaign level this run** — account-wide $97.94 yesterday, 4.79 ROAS.
-- **8 unreplied 5★/4★, oldest now 17 days:** new — Joshelle Birch (Aug 31); Yoon Htike (Aug 30), Julio Alberto (Aug 27), Dean Muscarella (4★, Aug 23), Cassie Tanzey (Aug 17), G. Douglas (Aug 16), Laila Pantoja (Aug 15), Devo Green (Aug 15).
+- **Goal pace: unavailable this run.** FareHarbor's JSON scrape came back with empty booking arrays (scraper regression) — no clean trailing data to compute pace against. Last known: 46% of goal as of Aug 31 (now 2 days stale), a trend worth a direct look once clean data resumes. Single-day read: $357 booked yesterday off 1 booking, 3.9x return on $91.16 ad spend.
+- **Review backlog cleared overnight — 0 unreplied**, down from 8 (oldest was 17 days). Whoever caught this up, it worked — worth repeating the cadence.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $18.69, 224 clicks, 140 landing page views, 0 tracked purchases. Same shape flagged across multiple briefs, still unfixed.
+- **Shared Google Ads account (8497383499) not split to campaign level this run** — account-wide $102.75 yesterday, 2.11 ROAS.
 - No GSC property, no GA4.
 <!-- live:end -->
 

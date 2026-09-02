@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "Meta still dark; 2 unreplied 5★ (oldest 15 days, flagged repeatedly, still untouched)"
-updated: 2026-09-01
+updated: 2026-09-02
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Decision made 2026-08-28: front door for LSKT.** Execution check — the "keep reviews replied" half of that decision still hasn't happened: Sheila Simpsen's 5★ (Aug 17) has now sat unreplied for 15 days across five straight flags.
+- **Decision made 2026-08-28: front door for LSKT.** Execution check — the "keep reviews replied" half still hasn't happened: Sheila Simpsen's 5★ (Aug 17) has now sat unreplied for 16 days across six straight flags.
 - **Meta still dark** — shares `act_638850950128825` with LSKT, zero data yesterday and 7-day.
-- **Shared Google Ads account (8497383499) not split to campaign level this run** — account-wide $97.94 yesterday, 4.79 ROAS, but not attributed to AKT specifically.
-- **2 unreplied 5★:** Mallory DeGood (Aug 24), Sheila Simpsen (Aug 17, "freedom to freely explore the area... Bucket list worthy!" — good line for ad copy).
+- **Shared Google Ads account (8497383499) not split to campaign level this run** — account-wide $102.75 yesterday, 2.11 ROAS, but not attributed to AKT specifically.
+- **2 unreplied 5★, unchanged:** Mallory DeGood (Aug 24), Sheila Simpsen (Aug 17, "freedom to freely explore the area... Bucket list worthy!" — good line for ad copy).
 - No FareHarbor shortname in this scrape for AKT specifically. No GSC property, no GA4.
 - Reviews: 141 lifetime at 4.8.
 <!-- live:end -->
