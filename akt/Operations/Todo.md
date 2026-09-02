@@ -4,6 +4,7 @@
 
 
 ## Medium Priority
+- [ ] [Guide log] Need to get more bug spray as supplies are running low. _(Mark (audio log), 2026-09-02)_
 - [ ] [Guide log] The adjustable clamp on one of the paddles is sticky and needs to be addressed soon before it becomes a bigger issue. _(Alex (audio log), 2026-08-22)_
 - [ ] [Guide log] Investigate the shuttle issue (pickup problem). _(Andrew (audio log), 2026-08-12)_
 - [ ] [Guide log] Send post-trip media (photos/videos) to guests as promised. _(peterjosephhatchell (audio log), 2026-08-06)_
