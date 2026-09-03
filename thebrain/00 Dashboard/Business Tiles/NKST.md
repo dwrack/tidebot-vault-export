@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 1
-revenue_today: 465
+bookings_today: 3
+revenue_today: 590
 lead_time_days: 0
-ad_spend_yday: 38
+ad_spend_yday: 0
 status: yellow
-alert: "GA4 returned zero sessions yesterday; 3 unreplied reviews unchanged; IG still unmeasured"
-updated: 2026-09-02
+alert: "sister GBP listing has a fake address, suspension risk; brand-term rank worsened to #28.9"
+updated: 2026-09-03
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,12 +18,13 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's JSON scrape came back with empty booking arrays (scraper regression) — no clean trailing data to compute pace against. Last known: 192% of goal as of Aug 31 (now 2 days stale). Single-day read: $465 booked yesterday off 1 booking, 12.2x return on $38.19 ad spend.
-- **GA4 returned zero rows for sessionSource yesterday** — either a data-processing delay or genuinely no sessions recorded; flagging rather than guessing. No `meta-organic` MCP connected this session either, so IG content performance is still unmeasured.
-- **See today's brief Action Item #2:** fresh TLDR data suggests comparison pages (exactly this business's watched page and its planned "Kayak vs Motorboat" build) are losing AI-citation share to product pages. Worth reading before greenlighting the next comparison page here.
-- **3 unreplied 5★, all naming Alex, unchanged:** Josh Dillon (Aug 20), Bonafried (Aug 19), Celeste Lessig (Aug 17) — now over two weeks.
-- **Watched page — "Airboat vs Kayak" comparison — first real signal since baseline.** GSC (date-dimension, Aug 25-30): 33 impressions / 2 clicks (baseline was 0/0 as of June 2). GA4 (Aug 25-Sep 1): 2 pageviews / 2 sessions — roughly flat vs. the ~3-view baseline, not a spike.
-- **Own brand term still weak:** "new orleans kayak swamp tours" #23.7 / 5 clicks.
+- **Goal pace: $3,495/wk booked vs $4,000 target — 87% of goal.** Trailing 7-day sum (Aug 26-Sep 2, 6 of 7 days valid).
+- **New today: sister GBP listing "Plantation & Swamp Tours New Orleans" has a fake address ("Swamp Tour Street"), live since Aug 11 — real suspension risk that can cascade to this business's main 1,401-review profile.** Needs your Google account specifically. See today's brief Action Item #1. Same audit found the wrong primary category (should be "Tour operator," not "Canoe & kayak tour agency") and that Wild Louisiana has overtaken NKST on reviews (5.0★/1,785 vs. 4.9★/1,401, down 15 since Aug 11).
+- **Review backlog cleared to 0 overnight** — Josh Dillon, Bonafried, Celeste Lessig all got replies between 11:17-11:20pm Sep 2, after sitting unreplied for over two weeks.
+- **Own brand term got worse, not better:** "new orleans kayak swamp tours" now #28.9 / 6 clicks (was #23.7) — consistent with the wrong-GBP-category finding above.
+- **See today's brief Action Item #5:** new TLDR data says AI-citation strength concentrates in long-form video, not the 30-second clips the AEO plan currently leads with. Relevant to this business's watched comparison page and any future video content.
+- **Watched page — "Airboat vs Kayak" comparison:** GSC (date-dimension, Aug 26-Sep 1): 55 impressions / 2 clicks — impressions climbing, clicks still flat. GA4: 2 pageviews / 2 sessions, roughly flat vs. baseline.
+- **GA4 sessionSource returned data again** (was zero rows Sep 2) but t.co (Twitter) showed 6,851 sessions with only 8 conversions — looks like bot/referral-spam traffic, not real audience. No `meta-organic` MCP connected this session, so IG content performance is still unmeasured.
 - Note: this GA4 property does not capture FareHarbor bookings. Traffic numbers above are sessions/engagement, not revenue.
 <!-- live:end -->
 
