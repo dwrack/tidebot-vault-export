@@ -64,7 +64,16 @@ Also note **Bayou Swamp Tours is listed "Open 24 hours"** under "Tour operator" 
 
 "Swamp Tour Street" is not a real street. A fabricated address is a **listing-suspension trigger, and suspensions can cascade across every listing on the account** — including the 1,401-review primary. This has been flagged as open since Aug 11 and is the only item here with downside risk attached to *not* acting.
 
-Options: correct it to a real address the business actually staffs, or delete the listing. Do not leave it as-is.
+**Recommended fix: convert it to a service-area business.** In the GBP dashboard, remove the street address entirely and set it as a service-area business covering Greater New Orleans.
+
+This is better than either obvious alternative:
+
+- **Better than deleting it.** The listing carries **43 real reviews** (guests name guide Jacob by name). Deleting is permanent and throws away earned review equity to solve a field-level problem.
+- **Better than entering a real address.** Pointing it at 740 N Rampart or Esplanade stacks another listing onto an address already in the 70116 cluster, making fix #3 worse. A service-area business has no street address to collide with.
+
+It is also simply the correct structure: a tour operator that shuttles guests to a launch site 35 minutes away is, by Google's own definition, a service-area business rather than a storefront.
+
+Do not leave it as-is.
 
 **Also found today — a sixth listing not in the Aug 11 inventory:** `New Orleans Plantation & Swamp Tours` — 4.8 (36) — Tour agency — **no address**. A review on it names guide **Nick**, who is an NKST guide, so this is almost certainly a controlled listing. Confirm ownership and fold it into the consolidation decision below.
 
@@ -200,7 +209,15 @@ curl -fsSL https://nodejs.org/dist/v22.11.0/node-v22.11.0-darwin-arm64.tar.gz -o
 
 That needs your password, so it's yours to run. Once `node` resolves, restart Claude Code and the `gbp` tools should register — which unblocks reading live categories/attributes/insights and writing changes programmatically, plus GSC, GA4, and PSI for every future audit.
 
-**Until then, every change in this document has to be made by hand in the GBP dashboard.** All of them can be; none require API access.
+### Dashboard access is also wrong (checked 2026-09-02)
+
+Attempted the browser route as a fallback. The Google account currently signed into Chrome manages **two businesses, both in Milwaukee** — `Brew City Kayak | Milwaukee Kayak Rentals & Tours` and `Milwaukee Kayak Tours`. Neither NKST nor any of the six NOLA cluster listings appear in that account's Business Profile Manager.
+
+The `gbp` MCP config points at a token file for **`dwrack81@gmail.com`**, so that is the likely owning account — inferred from the config filename, not confirmed against the live listing.
+
+**Net: there is currently no working path to edit any NKST listing** — the API route is dead (no `node`) and the signed-in browser account has no access. The first unblocking step is signing into the owning Google account, not installing Node.
+
+**Once access exists, every change in this document can be made by hand in the GBP dashboard.** None require API access.
 
 ---
 
