@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "DCKT brand-term cannibalization still not reverified"
-updated: 2026-09-02
+updated: 2026-09-03
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,10 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals (decide by Sept 15). No movement since 2026-08-28** — now 5 days sitting.
-- **Cannibalization vs DCKT's brand term still not reverified.** "door county kayak tours" now shows for this domain at #10.0 / 1 click — the two properties are competing for the same query, still needs a direct decision.
-- Top queries again rental-intent: "kayak door county" #8.2/1 click. Volume is thin across the board.
-- Reviews: **0 unreplied.** Only 18 lifetime at 4.9, most recent from 2023.
+- **Goal: commit_domain_to_rentals (decide by Sept 15). No movement since 2026-08-28** — now 6 days sitting.
+- **Cannibalization vs DCKT's brand term still not reverified.** "door county kayak" #3.4/1 click and "door county kayaking" #6.1/1 click both still show for this domain — the two properties are still competing for the same query, still needs a direct decision.
+- Reviews: **0 unreplied.** Most recent from 2023.
 - No ad spend distinguishable, no FareHarbor shortname in this scrape.
 <!-- live:end -->
 
