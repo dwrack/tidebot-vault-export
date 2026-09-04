@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 9
-revenue_today: 1950
+bookings_today: 16
+revenue_today: 4537
 lead_time_days: 0
-ad_spend_yday: 42
+ad_spend_yday: 45
 status: green
 alert: null
-updated: 2026-09-03
+updated: 2026-09-04
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,11 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $39,758/wk booked vs $30,000 target — 133% of goal.** Trailing 7-day sum (Aug 26-Sep 2, 6 of 7 days valid), still comfortably ahead despite a softer $1,950 day yesterday.
-- **Review backlog cleared to 0 overnight** — the 5 that were sitting unreplied (Bayley REHMAN, Bri, Zeal Beale, Jas, April Hardin) all got thank-yous between 8:48-8:57pm Sep 2.
-- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $20.63 yesterday, 194 clicks, 71 landing page views. `NPB | Messenger | TOF`: $21.04, 8 messaging conversations started.
-- **Google Ads runs under the Gravity Trails|NOLA umbrella (4378232023, $372.07 yesterday, 1.36 conv, 1.14 ROAS — a soft day; $1,577.59/18.4 conv/3.66 ROAS over 7 days)** — not broken out to NPB specifically.
-- GSC stable: "nola party barge" #3.0 / 14 clicks, "party barge" #1.5 / 3 clicks.
+- **Goal pace: $35,933/wk booked vs $30,000 target — 120% of goal.** Down slightly from 133% two days ago, still comfortably ahead. Yesterday was a strong day: 16 bookings, $4,537.
+- **Review backlog holding at 0.**
+- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $23.36 yesterday, 1 purchase, $119.77 value, 5.13x ROAS. `NPB | Messenger | TOF`: $21.17, 4 messaging conversations started.
+- **Google Ads (Gravity Trails|NOLA umbrella, 4378232023) shows $384.68 spend, 0 tracked conversions yesterday** — reads as an anomaly on paper, but doesn't match reality: yesterday's FareHarbor day was strong and Meta logged real purchases same-day. Treat as the known FareHarbor-pixel tracking gap, not a real performance drop. 7-day: $1,847.31/16.4 conv/2.87 ROAS.
+- GSC stable: "nola party barge" #3.2 / 14 clicks, "party barge" #1.2 / 3 clicks.
 <!-- live:end -->
 
 ## Quick links
