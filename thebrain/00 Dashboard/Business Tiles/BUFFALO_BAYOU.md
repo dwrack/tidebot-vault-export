@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 4
-revenue_today: 579
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 20
-status: green
-alert: null
-updated: 2026-09-04
+ad_spend_yday: 19
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-09-05
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $3,496/wk booked vs $4,500 target — 78% of goal.** FareHarbor's scrape is clean again (2SV blocker fixed) — this is a real number for the first time in 3 days.
+- **Goal pace: unavailable this run.** FareHarbor's scrape failed completely yesterday (3rd failure in 9 days) — no real booking data to compute a trailing 7-day pace against.
 - **Review backlog holding at 0 unreplied.**
-- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $19.67, 224 link clicks, 152 landing page views, 0 tracked purchases. Same gap flagged across multiple briefs, still unfixed — this is the goal note's whole point.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $18.65, 193 link clicks, 128 landing page views, 0 tracked purchases. Same gap flagged across multiple briefs, still unfixed — this is the goal note's whole point.
 - No Google Ads, no GSC property, no GA4 for this business.
 <!-- live:end -->
 
