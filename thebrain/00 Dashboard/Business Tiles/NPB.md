@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 16
-revenue_today: 4537
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 45
-status: green
-alert: null
-updated: 2026-09-04
+ad_spend_yday: 40
+status: yellow
+alert: "data stale — FH scrape missing; internal bot flags 1.29x return under 5x floor"
+updated: 2026-09-05
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,11 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $35,933/wk booked vs $30,000 target — 120% of goal.** Down slightly from 133% two days ago, still comfortably ahead. Yesterday was a strong day: 16 bookings, $4,537.
+- **Goal pace: unavailable this run.** FareHarbor's scrape failed completely yesterday (3rd failure in 9 days) — no real booking data to compute a trailing 7-day pace against.
+- **Internal DJL bot flags this business under its own 5x return floor: 1.29x on $191 total ad spend yesterday.** Can't cross-check against real bookings today since FareHarbor's scrape failed — worth a look once data is back.
 - **Review backlog holding at 0.**
-- **Meta retargeting still the strongest paid line in the portfolio.** `NPB | Purchase | Retargeting`: $23.36 yesterday, 1 purchase, $119.77 value, 5.13x ROAS. `NPB | Messenger | TOF`: $21.17, 4 messaging conversations started.
-- **Google Ads (Gravity Trails|NOLA umbrella, 4378232023) shows $384.68 spend, 0 tracked conversions yesterday** — reads as an anomaly on paper, but doesn't match reality: yesterday's FareHarbor day was strong and Meta logged real purchases same-day. Treat as the known FareHarbor-pixel tracking gap, not a real performance drop. 7-day: $1,847.31/16.4 conv/2.87 ROAS.
-- GSC stable: "nola party barge" #3.2 / 14 clicks, "party barge" #1.2 / 3 clicks.
+- **Meta retargeting spent $20.18 yesterday with zero purchases logged** (215 clicks, 918 post engagements) — a change from the prior day's 1 purchase, worth watching for a second day. `NPB | Messenger | TOF`: $19.60, 9 messaging conversations started.
+- **A customer (Charyse W) sent a second follow-up with no reply yet**, and Joe Vasold's private Bayou Boogie booking inquiry is also sitting. See today's brief.
+- GSC stable: "nola party barge" #3.6 / 13 clicks.
 <!-- live:end -->
 
 ## Quick links
