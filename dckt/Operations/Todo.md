@@ -43,6 +43,7 @@
 - [ ] Air filters replaced on both vans before season (D/B)
 
 ## Medium Priority
+- [ ] [Guide log] Fix loose skeg on Kayak 7. _(Mark (audio log), 2026-09-05)_
 - [ ] [Guide log] Double-check the specific kayak mentioned for loose seating next time. _(Alex (audio log), 2026-08-14)_
 - [ ] [Guide log] Inspect and repair the blue tandem kayak with a hairline crack near the drain plug. _(Lucas (audio log), 2026-08-11)_
 - [ ] [Guide log] Replace fraying bungee cord on the front of one tandem kayak. _(Ryan (audio log), 2026-08-08)_
