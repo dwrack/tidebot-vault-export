@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-06 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scrape failed completely for all 6 tracked businesses for the 2nd straight day — and the failure mode escalated from timeouts (Sep 4) to active 403/WAF blocking (Sep 5), blocking goal-pace tracking for 6 of 13 businesses. The portfolio's own ad-spend digest flagged NKST at 0.0x ROAS on $133 spend. DCKT's review-reply backlog is still 10 unreplied, now 17 days old. The NKST fake-address GBP listing is still unresolved, 26 days since flagged. HPB's 7-day Google Ads ROAS kept sliding (0.37, down from 0.54) while it keeps spending against its own "stop" note. No `meta-organic` MCP connected this session and the Playwright browser refused to connect, so Instagram and TikTok weren't pulled.)*
+*Last refresh: 2026-09-07 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scrape has now failed 4 consecutive runs — last real data is Sep 3 — but this morning's DCKT labor email surfaced the actual fix command (re-run the scraper's 2SV auth setup). NKST is still flagged at 0.0x Google+Meta return, now a repeat flag. Buffalo Bayou is newly flagged at 1.79x return, under its 2x floor. DCKT's review-reply backlog is still 10 unreplied, now 18 days old. HPB keeps spending against its own "stop" note; 7-day ROAS slid further to 0.18x. No `meta-organic` MCP connected this session and the Playwright browser refused to connect, so Instagram and TikTok weren't pulled.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-06|Today's brief]]
+- [[Daily Briefings/2026-09-07|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **FareHarbor scrape failed completely for all 6 tracked businesses for the 2nd straight day — and the failure mode got worse.** Sep 4 was timeouts; Sep 5 came back with 403/WAF-block responses. First move: the scraper likely needs a real logged-in session, not just a headless nav retry.
-2. **New Orleans Kayak Swamp Tours flagged by the portfolio's own bot: 0.0x Google+Meta ROAS on $133 spend yesterday, under its 5x floor.** Review the SmartAds campaign spending against NKST inside the Gravity Trails account.
-3. **Door County Kayak Tours — review-reply backlog is 10 unreplied, now 17 days old.** DCKT's own 48-hour SLA is running roughly 8x over. [Reply here](https://business.google.com/n/5837086547118336383/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkcWJHVkNiSFZtVHpRNVZGOTNNa1ExUm5kQmMzYxAB).
+1. **FareHarbor scrape has failed 4 consecutive runs (last real data: Sep 3) — and the fix is now known.** This morning's DCKT labor email says: run `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup` and approve the 2SV text.
+2. **New Orleans Kayak Swamp Tours — Google+Meta return still 0.0x on $111 spend yesterday, under the 5x floor.** Repeat flag from the prior day ($133/0.0x). Review the SmartAds campaigns inside the Gravity Trails umbrella account.
+3. **Door County Kayak Tours — review-reply backlog holds at 10 unreplied, now 18 days old.** DCKT's own 48-hour SLA is running roughly 9x over. [Reply here](https://business.google.com/n/5837086547118336383/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkcWJHVkNiSFZtVHpRNVZGOTNNa1ExUm5kQmMzYxAB).
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (09-05) | 7-day avg | Δ |
+| Signal | Yesterday (09-06) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 18 | 50+ (hit cap, prior 6 days) | well down |
-| Unreplied GBP reviews (12 biz, recent-10 scan) | ~20 (all 5★) | ~24 (recent range 21-30) | roughly flat |
-| FH bookings (6 tracked biz) | unavailable — scrape failed (2nd day) | 58.4/day (last 5 good pulls) | n/a |
-| FH revenue (6 tracked biz) | unavailable — scrape failed (2nd day) | $8,837/day (last 5 good pulls) | n/a |
-| Total ad spend (Google + Meta) | $563 (per portfolio digest) | ~$448/day (Google-only 7-day avg) | up, not apples-to-apples |
-| Total ad-attributed conversions | ~13 Google + 1 Meta purchase | — (attribution unreliable) | — |
+| Gmail unread | 32 | — (18 reported yesterday) | up |
+| Unreplied GBP reviews (12 biz, recent-10 scan) | 21 (all 4-5★) | ~20-24 (prior range) | roughly flat |
+| FH bookings (6 tracked biz) | unavailable — scrape failed (4th run) | ~28/day (last 3 partial pulls, Sep 1-3) | n/a |
+| FH revenue (6 tracked biz) | unavailable — scrape failed (4th run) | ~$5,564/day (last 3 partial pulls, Sep 1-3) | n/a |
+| Total ad spend (Google + Meta) | $526 (per portfolio digest) | ~$529/day (Google-only 7-day avg) | roughly flat, not apples-to-apples |
+| Total ad-attributed conversions | ~8.8 Google + ~2 Meta purchases | — (attribution unreliable) | — |
 <!-- pulse:end -->
-*FareHarbor's scrape failed completely for all 6 tracked businesses for the 2nd straight day — Sep 4 timed out, Sep 5 came back with active 403/WAF blocks. No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright browser refused the connection outright, so TikTok wasn't pulled either.*
+*FareHarbor's scrape has now failed 4 consecutive runs — last real data is Sep 3. This morning's DCKT labor email surfaced the fix: re-run the scraper's 2SV auth setup. No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright browser refused the connection outright, so TikTok wasn't pulled either.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-06]] (today)
-- [[Daily Briefings/2026-09-05]] (1 day ago)
-- [[Daily Briefings/2026-09-04]] (2 days ago)
-- [[Daily Briefings/2026-09-03]] (3 days ago)
-- [[Daily Briefings/2026-09-02]] (4 days ago)
-- [[Daily Briefings/2026-09-01]] (5 days ago)
-- [[Daily Briefings/2026-08-31]] (6 days ago)
+- [[Daily Briefings/2026-09-07]] (today)
+- [[Daily Briefings/2026-09-06]] (1 day ago)
+- [[Daily Briefings/2026-09-05]] (2 days ago)
+- [[Daily Briefings/2026-09-04]] (3 days ago)
+- [[Daily Briefings/2026-09-03]] (4 days ago)
+- [[Daily Briefings/2026-09-02]] (5 days ago)
+- [[Daily Briefings/2026-09-01]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
