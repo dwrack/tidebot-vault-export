@@ -1,5 +1,7 @@
 # Sauna V2 — Custom Rock Cage Spec (Nippa G-Series)
 
+> **OBSOLETE 2026-09-08.** Nippa replied Aug 21: gas stoves not being sold ("changes being made") and no accessory rock surrounds. We pivoted to Torch (2× 80k NG, order #XBOFD). The Part B free-standing skirt concept may carry over to Torch (they allow free-standing surrounds) but would need re-drawing for Torch dims. Current state: `Private Saunas (V2) — Build Status (Sept 2026).md`. The fabrication spec below (316L, slots, thermal expansion, passivation) is still good reference if a skirt gets re-specced.
+
 Created 2026-08-12. For the two V2 saunas ("Sunrise" and "Sunset"), each getting a Nippa natural-gas stove.
 
 Related: [[Sauna V2 — Design Notes (Aug 2026)]], Sauna V2 Build Plan memory

@@ -1,5 +1,7 @@
 # Sauna V2 — Design Notes (Aug 2026)
 
+> **SUPERSEDED 2026-09-08** by `Private Saunas (V2) — Build Status (Sept 2026).md`. This doc stops at the builder's Aug 12 reply; since then: Nippa dead → Torch 80k stoves ordered, dims/glass/siding specified, floats delivered, mid-Oct target. Kept for design rationale.
+
 Source: builder's reply to Hannah's post-call summary, received 2026-08-12. Builder's comments were the green inline notes. Concept sketch + reference photos attached to the original email (not yet saved to the vault).
 
 Related: [[Sauna V2 Build Plan]] memory, Operations/City Floating Sauna/
