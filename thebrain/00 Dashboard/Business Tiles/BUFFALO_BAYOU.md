@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 54
+ad_spend_yday: 22
 status: yellow
-alert: "data stale — FH scrape missing (4th consecutive run); ad digest now flags 1.79x return, under 2x floor — new flag today"
-updated: 2026-09-07
+alert: "data stale — FH scrape missing (5th consecutive run); Meta traffic campaign still has no purchase objective"
+updated: 2026-09-08
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,10 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scrape has now failed 4 consecutive runs — last real data is Sep 3.
-- **New flag today: portfolio digest shows a 1.79x Google+Meta return on $54.32 spend, under the 2x floor** — wasn't flagged as Tier-1 yesterday.
+- **Goal pace: unavailable this run.** FareHarbor's scrape has now failed 5 consecutive runs — last real data is Sep 4.
 - **Review backlog holding at 0 unreplied.**
-- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $22.42, 222 link clicks, 174 landing page views, 0 tracked purchases. Same gap flagged across multiple briefs, still unfixed — this is the goal note's whole point.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $22.30, 281 clicks, 171 landing page views, 0 tracked purchases. Same gap flagged across multiple briefs, still unfixed — this is the goal note's whole point.
 - No Google Ads, no GSC property, no GA4 for this business.
 <!-- live:end -->
 

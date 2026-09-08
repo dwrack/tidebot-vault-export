@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "8 unreplied, unchanged; oldest 21 days; no paid channels by design"
-updated: 2026-09-07
+alert: "8 unreplied, unchanged; oldest 22 days; no paid channels by design"
+updated: 2026-09-08
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 10 days sitting. No GSC property, GA4, or Meta campaign stood up yet.
-- **Review backlog holds at 8 unreplied, all 5★, no new ones since yesterday.** Oldest: Jennifer Barber (Aug 17, now 21 days). Also open: Grigoriy Ostapenko (Sep 3), tipa stan (Aug 20), Lisa Rice (Aug 27), Erica Dorn (Aug 27), Grigoriy Ostapenko's earlier review (Aug 26), Christin Bradford (Aug 19), Jess Astrella (Sep 4). See today's brief Action Item #6.
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 11 days sitting. No GSC property, GA4, or Meta campaign stood up yet.
+- **Review backlog holds at 8 unreplied, all 5★, unchanged from yesterday.** Oldest: Jennifer Barber (Aug 17, now 22 days). Also open: Christin Bradford (Aug 19), tipa stan (Aug 20), Grigoriy Ostapenko x2 (Aug 26, Sep 3), Lisa Rice (Aug 27), Erica Dorn (Aug 27), Jess Astrella (Sep 4). See today's brief Action Item #5.
 - **No Meta ad account and no Google Ads account** — never set up, not a permission gap. No GSC property, no GA4, no FareHarbor line.
 <!-- live:end -->
 
