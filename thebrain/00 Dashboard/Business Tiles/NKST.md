@@ -5,10 +5,10 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 111
+ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing (4th consecutive run); portfolio digest flags repeat 0.0x return on $111 spend, under 5x floor; fake-address GBP still live (~27 days)"
-updated: 2026-09-07
+alert: "data stale — FH scrape missing (5th consecutive run); umbrella Google Ads spend ($379 yesterday, 1.8x ROAS) not split to NKST this run"
+updated: 2026-09-08
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,13 +18,13 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scrape has now failed 4 consecutive runs — last real data is Sep 3.
-- **The portfolio's own digest bot flagged this again: 0.0x Google+Meta return on $111 spend, under the 5x floor — a repeat flag from the prior day's $133/0.0x.** Runs inside the Gravity Trails umbrella via SmartAds; no campaign-level breakdown pulled this run. See today's brief Action Item #2.
-- **Sister GBP listing "Plantation & Swamp Tours New Orleans" fake-address issue not reverified this run** — carried forward, now roughly 27 days since flagged (Aug 11).
+- **Goal pace: unavailable this run.** FareHarbor's scrape has now failed 5 consecutive runs — last real data is Sep 4.
+- **Gravity Trails umbrella account (4378232023, covers NPB/NKST/Admire NOLA/Bike Bar) improved to 1.8x ROAS yesterday / 1.9x over 7 days** — better than the 0.0x flagged in prior briefs, but no campaign-level pull this run means the NKST-specific number can't be confirmed. No Meta spend under the "NKST" campaign prefix yesterday.
+- **Sister GBP listing "Plantation & Swamp Tours New Orleans" fake-address issue not reverified this run** — carried forward, now roughly 28 days since flagged (Aug 11).
 - **Review backlog holding at 0.**
 - **Own brand term still thin:** "new orleans kayak swamp tour" only 2 clicks this week.
-- **Watched page — "Airboat vs Kayak" comparison:** GSC by date (Aug 30-Sep 5): 67 impressions, 1 click — the first real click and a meaningful jump from the ~0/0 baseline set June 2. GA4: 1 pageview in the aligned window.
-- **GA4 sessionSource (yesterday):** Google remains the real driver (196 sessions, 138 "conversions" — likely a low-bar GA4 event, not real bookings); Instagram #2 source (83 sessions, 0 conversions); direct (52 sessions, 13 conversions).
+- **Watched page — "Airboat vs Kayak" comparison:** GSC by query (Aug 31-Sep 7): 3 queries, 0 clicks, 3-5 impressions. GA4: page did not appear in the pagePath report (effectively 0 views). Still flat vs the ~0 click / ~3 view baseline set June 2 — no meaningful movement.
+- **GA4 sessionSource (Sep 7):** Google leads (104 sessions, 64 conversions — a GA4 event, not confirmed bookings, per this property's known FH gap); Instagram #2 (61 sessions, 0 conversions); direct (40 sessions, 26 conversions).
 <!-- live:end -->
 
 ## Quick links
