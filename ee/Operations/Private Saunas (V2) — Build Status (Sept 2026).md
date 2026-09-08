@@ -4,6 +4,8 @@
 
 Target: **mid-October launch** (stated in Slack Aug 31). Jonah + Davey traveling much of September, incl. Oslo sauna tour Sept 22-23.
 
+Money: see `Private Saunas (V2) — Cost Rollup (Sept 2026).md` — $11,030 committed so far (stoves all-in $10,130 paid + $900 Zen Sauna open), Grant's quote is the big missing number. Stoves: NG confirmed by Paul 9/8, ship date/tracking coming.
+
 ---
 
 ## Who's who
@@ -36,7 +38,7 @@ Everything is waiting on **Davey + Jonah design sign-off**. Hannah asked Sept 3 
 - Aug 31: Kyle's math — 65k Torch only heats ~450 cu ft; adjusted room volume is ~650. **Undersized.** Davey requested upgrade to the 80k; Paul agreed to invoice the difference instead of cancel/reorder, said "should ship this week." Hannah entered the CC for the difference Sept 1.
 - Sept 2: Paul asked NG vs LP (invoice had it mixed up). **Sept 8: Davey confirmed natural gas**, asked for ship date + tracking. Awaiting reply.
 - Rock cage per Torch: no bolt-on/attached surround, but a **free-standing surround rock cage is possibly OK** (Jonah's call notes, Aug 21). Crown concept is dead; skirt concept could carry over but must be re-drawn for Torch dims (TS-85F ≈ 21"L × 12"W — much narrower than the Nippa). Whether we still want it is an open decision.
-- **Ventilation strategy required per the Torch manual** (Kyle flagged it IMPORTANT). No owner, no plan on file. Needs to exist before walls close up.
+- **Ventilation strategy required per the Torch manual** (Kyle flagged it IMPORTANT). Grant's materials sheet already shows passive vents (2 alder intakes low near heater + 2 exhausts high on opposite wall, per room) — question sent to Kyle 9/8 whether that satisfies the Torch manual. Confirm before walls close up.
 - Torch manual: https://drive.google.com/file/d/1160Deosh1WaCanjGzMEjpOYu5_JHbais/view
 
 ---
@@ -53,9 +55,9 @@ Everything is waiting on **Davey + Jonah design sign-off**. Hannah asked Sept 3 
 - Lighting: Grant runs LED strip conduit; licensed electrician (Neil) does panel connection.
 
 **Open — these are the sign-off items:**
-- Window sizing + CAD mismatch (Davey's Sept 6 flag). Round window glass: 50×50 with a straight top bench, 60×60 with an angled/round bench cut, bigger only if the top bench terminates early. Kyle: "we can just run with it since time is essential."
-- Interior wood species. Kyle proposes clear WRC (incl. 2x6 WRC flooring) and says "thermawood not recommended" because it only comes in 1x and benches need 2x. **That premise conflicts with our own research: Disdero Lumber (Clackamas, 503-239-8888) lists Thermory 2x6 Thermo-Alder (~$11/lf) and 2x6 Thermo-Aspen (~$13/lf) — bench-rated 2x thermowood exists locally.** The commercial concerns that drove the research (WRC off-gassing at heat, cupping/gaps at 18-24 months daily-use) haven't been answered, just set aside. Decide deliberately before Hannah/Grant order wood — which is imminent.
-- Free-standing rock skirt for the Torch stoves: yes/no. If yes, re-spec and put the added weight in the float math.
+- Window sizing + CAD mismatch (Davey's Sept 6 flag). Round window glass: 50×50 with a straight top bench, 60×60 with an angled/round bench cut, bigger only if the top bench terminates early. Kyle: "we can just run with it since time is essential." **Mockups of both options: https://claude.ai/code/artifact/7e48d6b4-912a-427e-9b05-63864987d69d** — Davey reviewing.
+- Interior wood species. Kyle proposes clear WRC/Port Orford; his "thermawood only comes in 1x" premise conflicts with Disdero Lumber (Clackamas, 503-239-8888) stocking Thermory 2x6 Thermo-Alder (~$11/lf) and Thermo-Aspen (~$13/lf). **Davey leans thermowood (9/8).** Pricing ask sent to Kyle 9/8; Jonah + Kyle to weigh in before wood ordered.
+- ~~Free-standing rock skirt for the Torch stoves~~ **DROPPED 9/8 (Davey).** Stock Torch rock only (included in the order). Simplifies the float load story too.
 - Differentiation tier (inverse colors / different woods / gable-vs-shed / cedar shingle) — never formally picked, though inverse cedar-black theme was in the Aug pin draft as locked.
 
 ---
