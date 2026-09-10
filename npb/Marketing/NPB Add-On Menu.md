@@ -64,6 +64,24 @@ Created 2026-09-10. Goal: +$37 per head via add-ons. Prioritized by ease of laun
 | 49 | Marina cabana / tent rental for the after-party | $75 |
 | 50 | Drinks sold on board: daiquiris, jello shots, welcome cocktail | $10-15 pp, ATC permit |
 
+## 51. Costume bins for rent (Tier 2, David's add 2026-09-10)
+- Themed bins, one per group, fits up to 12: Pirate, Tiki/Hawaiian, Mardi Gras, 70s Disco, Cowboy. Launch with Pirate + Tiki.
+- Contents: hats, vests, sashes, bandanas, sunglasses, leis, eyepatches, foam swords, cheap wigs. Hard or wipeable only.
+- Price: $45/bin/trip, or $60 bundled with photo package (~$4-5 pp on a full boat).
+- Cost: ~$120-150 per bin, pays back in 3 rentals.
+- Ops: bins at marina check-in, deckhand hands over at boarding, 30-sec count at dock, spray after each trip, weekly wash. Lost-item fee on waiver, no deposit.
+- FareHarbor: one add-on field with theme dropdown.
+- Why: costumed groups = social content for Jeff; make photo package the default bundle.
+
+## 52. Rage room in a marina storage unit (Tier 3, David's add 2026-09-10)
+- "Smash then sail" pre-game for bachelor/bachelorette and cousin groups. Fits destination-marina vision.
+- Build: one 10x20 unit, plywood-lined walls, rubber mat floor, work light, shop vac. ~$1,500.
+- Smash stock: thrift stores, FB Marketplace free piles, restaurant supply seconds. ~$5-10 breakables per session.
+- Price: $40 pp / 15 min, $150 group of 4 with extra crate.
+- Staffing: one attendant, deckhand downtime SOP between departures.
+- Gear: coveralls, face shield, gloves, closed-toe shoes, waiver.
+- GATES: own liability line (GL lapsed 6/7/26, Berkley dispute live), marina landlord OK, occupational license scope, noise on neighbors (walk it with JT).
+
 ## Realistic stack to $100
 Mixer kit $12 @ 60%, photo package $15 @ 40%, bow seats $8 @ 30%, prepaid tip $5 @ 50%, cooler $25/group @ 40%, sunset premium $10 on half the trips. Lands around +$27 to +$32 before merch. On-board drink sales (#50) close the gap once the permit lands.
 
