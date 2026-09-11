@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "link outreach automation status + ReplyAgent pause still unconfirmed"
-updated: 2026-09-10
+updated: 2026-09-11
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,11 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — now 13 days sitting.
+- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — now 14 days sitting.
 - **The "admirenola link outreach — weekly batch" automation status not reverified this run** — carried forward from prior briefs, still needs a check.
 - **ReplyAgent pause status still not reverified.**
 - Reviews: **0 unreplied** (10 most recent all replied).
-- **GSC still doing real work on plantation terms (8-day window):** "new orleans plantation tour" #1.9 / 1 click, "new orleans swamp and plantation tour" #1.8 / 1 click, "plantation and swamp tour new orleans" #1.75 / 1 click.
+- **GSC still doing real work on plantation terms (8-day window):** "new orleans plantation tour" #1.9 / 1 click, "new orleans swamp and plantation tour" #1.8 / 1 click, "plantation and swamp tour new orleans" #1.75 / 1 click — unchanged.
 - No ad spend distinguishable from the shared act_87863118 account this run. No FareHarbor shortname in this scrape.
 <!-- live:end -->
 

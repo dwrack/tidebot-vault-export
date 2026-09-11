@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Meta still dark; review backlog fully cleared this run"
-updated: 2026-09-10
+alert: "Meta still dark; shares Google Ads with LSKT"
+updated: 2026-09-11
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Decision made 2026-08-28: front door for LSKT.** Execution check — the "keep reviews replied" half finally happened this run.
+- **Decision made 2026-08-28: front door for LSKT.** No change to the arrangement.
 - **Meta still dark** — shares `act_638850950128825` with LSKT, zero data yesterday. See LSKT tile.
-- **Shared Google Ads account (8497383499) not split to campaign level this run** — full account total ($56.58 yesterday, 6.19x ROAS) shown under LSKT's tile.
-- **Review backlog fully cleared — 0 unreplied**, down from 3 (Emilee Johnson, Mallory DeGood, Sheila Simpsen all now show replies).
+- **Shared Google Ads account (8497383499) not split to campaign level this run** — full account total ($65.61 yesterday, 6.68x ROAS) shown under LSKT's tile.
+- **Review backlog still clean — 0 unreplied** (Emilee Johnson, Mallory DeGood, Sheila Simpsen all confirmed replied again).
 - No FareHarbor shortname in this scrape for AKT specifically. No GSC property, no GA4.
 <!-- live:end -->
 
