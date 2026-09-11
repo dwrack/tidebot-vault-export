@@ -32,7 +32,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 |---|---|---|---|
 | 1 | NPB down ~20%. Aug/Sep defend plan + ad budget call. **Plan drafted 9/1: Operations/Defend Plan — Sept-Oct 2026.md** — blocked on current FareHarbor 30-day pull | David + Michael | open |
 | 2 | Manchac: Pip & Brian took over kayak ops. Meeting Michael asked for 8/15 | all | open |
-| 3 | 1099 contracts w/ per-role duties. Jeff's duty list 7/7, pushed 7/28 | David | open |
+| 3 | 1099 contracts w/ per-role duties. Jeff's duty list 7/7, pushed 7/28. **9/10: David said it out loud, every accountability push (logs, check-ins, 1-on-1s) rests on this. Blocks #20, #36, #52** | David | open |
 | 4 | Parked: sell both pedal boats, buy one 50-passenger | David | parked |
 | 35 | Shared **in-person** assistant for David + Michael. 6 hrs/day, weekdays (~30 hrs/wk). Local to David + Michael, NOT offshore and NOT another New Orleans ops hire. Phones + marketing execution. Gives item #7 an owner who isn't Jeff or JT. Open: W2 vs 1099 classification (set hours + direction + their equipment = W2), and 30 hrs/wk sits on a benefits threshold — CPA question | David + Michael | new 8/17 |
 
@@ -104,6 +104,24 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 47 | Weekly Monday roll-up post in #helm-npb (moved/stalled/this week's 3) — script staged on mbp-2, launchd load pending David | David | new 8/27 |
 
 **Dates:** Sept 12-14ish visit (Thu-Mon, working the weekend at the marina); Sept 30 video production day. Cousin trips: research done 8/27, plan at Marketing/Cousin Trips — Research & Content Plan.md.
+
+## From Jeff call 9/10 (David + Jeff — full notes: Jeff Call — Team Comms & JT (Sep 10 2026).md)
+| # | Item | Owner | Status |
+|---|---|---|---|
+| 48 | Crew one-on-ones Fri 9/11, crew in 10 min early on assigned boats. Jeff confirms with crew 9/10 | Jeff (+JT) | new 9/10 |
+| 49 | Standing meetings: **Mon 5pm + Thu 5pm CT**, David + Jeff + JT + Michael. Mon = weekend recap + week checklist, Thu = pre-weekend. Replaces ad-hoc drop-everything asks. Closes #23/#24 | David to send invites | new 9/10 |
+| 50 | Weekly achievable checklist (1-2 items/person, Mon-Thu) in the #helm-npb canvas; Claude reads the week's messages and flags what was promised but untouched | David + Claude | new 9/10 |
+| 51 | Sophia +$100/wk for nightly 5pm FareHarbor booking reset. Jeff said yes, needs to be offered to her | Jeff | new 9/10 |
+| 52 | JT: decide whether the role stays with him or gets a goal-oriented replacement. Data: Fri one-on-ones + Sept visit. Blocked on David + Michael | David + Michael | new 9/10 |
+| 53 | JT unreachable on Slack/text/group thread, only via NPB line. Raise directly at the first Monday meeting, not by text | David | new 9/10 |
+| 54 | Deckhand upsell experiment: "make another $500 today" question, photography first (see photography pilot) | JT + Jarrett | new 9/10 |
+| 55 | Reddit tasks got zero uptake from crew. Either pay for it (#10) or drop the crew ask (#11) | David | new 9/10 |
+| 56 | David + Jeff hold mid-week asks for the Mon/Thu meeting instead of drop-everything pings. The actual root cause per Jeff. Behavior change, not a task | David + Jeff | new 9/10 |
+| 57 | Write down JT's weekday job. Hired for phones, weekday ops bolted on, nobody could say what it is. Prerequisite for #52 | Jeff | new 9/10 |
+| 58 | Bench hire: carry one extra captain/deckhand so Ben (#41) or anyone can be cut without a coverage hole | Jeff | new 9/10 |
+| 59 | Jeff tidies Slack: mute non-NPB workspaces/channels, star #helm-npb. His own words, unassigned on the call | Jeff | new 9/10 |
+| 60 | Mon 5pm meeting vs. Jeff trying to take Mondays off. Ask him, move to Tue if needed | David | new 9/10 |
+| 61 | Who went to work for Brian (Manchac)? Name garbled on the call. Find out if it's a former NPB/NKST guide and why | Jeff | new 9/10 |
 
 ## Off the pin (route through Scott Kitner first)
 - $110k admiralty surety bond for the limitation-of-liability action — nobody could source it (3/24)

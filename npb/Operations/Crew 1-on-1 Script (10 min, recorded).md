@@ -17,7 +17,7 @@ Created 2026-09-09 for the Fri 9/11 round. First round was JT on 8/29. Cadence a
 - If they give a one-word answer: "Give me an example." Every question has a follow-up for that.
 - Manager records a 60-second take on each person AFTER they leave, same video. Strengths, weaknesses, keep/coach/cut.
 
-## The 7 questions
+## The 8 questions
 
 1. **Tell me about one trip this week that went well. What did you do on it?**
    Follow-up: what did the guests say when they got off?
@@ -40,6 +40,10 @@ Created 2026-09-09 for the Fri 9/11 round. First round was JT on 8/29. Cadence a
 
 7. **Anything I didn't ask that I should know about?**
    Leave it open. This is where you hear about the coworker problem.
+
+8. **If we wanted you to make an extra $500 this week, what would we have to sell or change on the boat?**
+   David's question (added 9/10). Photos, drinks, merch, whatever they say. Don't argue with the answer, write it down.
+   Follow-up: would you actually want to do that, or would it be a hassle?
 
 ## Scoring after (manager only, 60 sec on camera)
 
