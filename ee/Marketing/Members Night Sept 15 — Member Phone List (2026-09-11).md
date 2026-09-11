@@ -93,3 +93,13 @@ Pulled 2026-09-11 from the Periode merchant API (active Ember 1 + Ember 2 subscr
 
 - 24 STOPPED memberships (15 Ember 1, 9 Ember 2). Say the word if you want past members too, the July invite copy said current and past.
 - Ember 3 and Ember 4 have zero subscribers.
+
+## SMS send log (Google Voice, sauna@ (503) 308-1293, 2026-09-11 ~4:20-4:29pm)
+
+Message: "Hey {First}! Ebb & Ember here. Member Night is this Tuesday 9/15, 5-8pm on the water. Hama Hama oysters, Landmass wine, Stray cider, Cowbell cheese, Little T bread, Hetty Alice beer. Space is limited, so RSVP here if you haven't yet: https://ebbandember.activehosted.com/f/1" + invite graphic (Assets/Member Night 2026-09/member-night-sept-15-invite.jpg)
+
+**Delivered (26):** Jess, Hannah, Mack, Jordan, Grant, Andy, Amye, Areil, Shirin, Grigoriy, Hayley, Kennedy, Libby, Mary-Carroll, Miriam, Katie, Anastasia, Nastja, Shannon, Alisha, Allison, Danesh, Eric, Josiah, Laura, Nathan
+
+**Second pass (text only, varied wording, ~4:49-4:55pm after rate limit cleared):** Amy, Ryan, Tyler, Zach, Kimberlynn delivered. Sergei skipped on Davey's call. Google Voice lesson: ~26 near-identical MMS in 10 min trips "You've sent too many messages"; vary wording and space sends out.
+
+**Replies so far:** Mary-Carroll: "I'm coming and RSVP'ed! Can't wait :)". Eric: can't make it, headed to China & Vietnam Sunday.
