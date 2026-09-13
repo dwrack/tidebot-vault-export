@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-12 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scrape is now down for a 4th straight day — last good data is Sep 9. Today's DCKT Labor Bot email confirms it again and repeats the same fix that's sat unrun since Sep 10. DCKT's review-reply backlog just broke its own 48-hour SLA goal — 3 unreplied 5★s stacked (Larry Anderson, Kelli Lammert, mary williamson). A Homebase alert flags Lea Rosner still clocked in past 40 hours at DCKT — live overtime cost. HPB's Google Ads waste hit a new low yesterday: $24.84 for 2 clicks and 0 conversions (5th+ consecutive bad day). DCKT's Google Ads account is dark for a 4th straight day. Two NPB customer emails (a refund request and a wedding venue lead) have sat unread since Thursday. 7 unreplied 5★ reviews across the portfolio, up from 4. No `meta-organic` MCP connected this session, and the Playwright browser wasn't reachable, so Instagram and TikTok weren't pulled.)*
+*Last refresh: 2026-09-13 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scrape is back online after 4 days down — fresh data for Sep 12 confirms goal-pace numbers portfolio-wide for the first time since Sep 9. New issue: the Gravity Trails | NOLA Google Ads account (runs NPB/NKST/Admire NOLA/Bike Bar) had a card decline on Sep 12 and needs the payment method fixed today. DCKT's review-reply backlog broke its own 48-hour SLA — Larry Anderson's 5★ is now ~59 hours unanswered, Kelli Lammert's crosses 48h within hours. HPB's Google Ads is still stuck at 0.54 ROAS for a second straight week. Meta is dark across both the Door County and Austin ad accounts. Cave Point's oldest unreplied review just hit 19 days. No `meta-organic` MCP connected this session, and the Playwright MCP hadn't finished connecting, so Instagram and TikTok weren't pulled.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-12|Today's brief]]
+- [[Daily Briefings/2026-09-13|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Portfolio-wide — FareHarbor scrape is now on day 4 of failure.** Last good data is Sep 9. Today's DCKT Labor Bot email repeats the same fix that's sat unrun since Sep 10: run `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup` and approve the 2SV text. Every goal-pace number is blind until this runs.
-2. **DCKT — review-reply backlog just broke the tile's own 48-hour SLA goal.** 3 unreplied 5★s are stacked (Larry Anderson now ~38 hours, Kelli Lammert, mary williamson from today). Reply to Larry Anderson before it crosses 48 hours.
-3. **Houston Pedal Barge — Google Ads burned $24.84 yesterday for 2 clicks and 0 conversions** (avg CPC $12.42, 10x normal). 5th+ consecutive bad day — 7-day ROAS still 0.54, unchanged from last week. Pause the campaign or fix the conversion action on customer 2986009791.
+1. **Gravity Trails | NOLA Google Ads (customer 437-823-2023) — bank declined the Visa ending 0062 on Sep 12.** This account runs Google Ads for NPB, NKST, Admire NOLA, and NOLA Bike Bar ($335.49 spent yesterday, 2.96x ROAS over 7 days). Update the payment method today before it lapses.
+2. **DCKT — review-reply SLA is broken, not just at risk.** Larry Anderson's 5★ (Sep 11) is now ~59 hours unanswered, 11 hours past the tile's own 48-hour goal. Kelli Lammert's 5★ crosses 48 hours in ~3.5 hours. Reply to both now.
+3. **HPB Google Ads (customer 2986009791) still underwater — 0.54 ROAS over 7 days, unchanged from last week.** $148.35 spent for $80 in tracked value. Pause the campaign or rebuild conversion tracking before spending more.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 29 | — (mixed inbox: newsletters, automated reports, personal mail) | +12 |
-| Unreplied GBP reviews (recent-10 scan, 12 biz) | 7 | 4 (yesterday's brief) | +3 |
-| FH bookings (6 tracked biz) | — (scraper down, day 4) | ~35.3/day (4 usable days of last 9) | can't compute — ongoing outage |
-| FH revenue (6 tracked biz) | — (scraper down, day 4) | ~$7,138/day (same 4 usable days) | can't compute — ongoing outage |
-| Total ad spend (Google + Meta) | $569.11 ($492.09 Google + $77.02 Meta) | — (7-day Meta trend not pulled) | +$105.92 |
-| Total ad-attributed conversions | ~11 real (Gravity Trails + LSKT/AKT + NPB Meta) | — (attribution not tracked) | +2 vs ~9 |
+| Gmail unread | 33 | 7 (yesterday's brief count) | — (different scan window) |
+| Unreplied GBP reviews (recent-10 scan, 12 biz) | 9 | 7 (yesterday's brief) | +2 |
+| FH bookings (6 tracked biz) | 86 | 57.3/day (4 usable days of last 7) | +29 |
+| FH revenue (6 tracked biz) | $10,709 | $9,488/day (same 4 usable days) | +$1,221 |
+| Total ad spend (Google + Meta) | $516.99 ($459.27 Google + $57.72 Meta) | $451.44/day (Google only — Meta 7-day not pulled this run) | +$7.83 (Google only) |
+| Total ad-attributed conversions | ~11.8 (10.83 Google + ~1 Meta) | 9.18/day (Google only) | +1.65 (Google only) |
 <!-- pulse:end -->
-*FareHarbor is down for a 4th straight day — same fix command queued since Sep 10, still unrun (see Top 3 #1). Last known-good data is Sep 9. No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright browser wasn't reachable (ECONNREFUSED), so TikTok wasn't pulled either. 7 unreplied 5★ reviews across the portfolio, up from 4.*
+*FareHarbor is back online after 4 days down — fresh Sep 12 data confirms goal-pace numbers portfolio-wide for the first time since Sep 9. New issue: Gravity Trails | NOLA's Google Ads payment method was declined Sep 12 (see Top 3 #1). No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright MCP hadn't finished connecting, so TikTok wasn't pulled either. 9 unreplied 4-5★ reviews across the portfolio — no 1-3★ reviews sitting unanswered anywhere.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-12]] (today)
-- [[Daily Briefings/2026-09-11]] (1 day ago)
-- [[Daily Briefings/2026-09-10]] (2 days ago)
-- [[Daily Briefings/2026-09-09]] (3 days ago)
-- [[Daily Briefings/2026-09-08]] (4 days ago)
-- [[Daily Briefings/2026-09-07]] (5 days ago)
-- [[Daily Briefings/2026-09-06]] (6 days ago)
+- [[Daily Briefings/2026-09-13]] (today)
+- [[Daily Briefings/2026-09-12]] (1 day ago)
+- [[Daily Briefings/2026-09-11]] (2 days ago)
+- [[Daily Briefings/2026-09-10]] (3 days ago)
+- [[Daily Briefings/2026-09-09]] (4 days ago)
+- [[Daily Briefings/2026-09-08]] (5 days ago)
+- [[Daily Briefings/2026-09-07]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
