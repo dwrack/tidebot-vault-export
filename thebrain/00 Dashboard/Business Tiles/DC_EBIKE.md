@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "DCKT brand-term cannibalization confirmed again; decision deadline (Sept 15) now 3 days out"
-updated: 2026-09-12
+alert: "DCKT brand-term cannibalization confirmed again; decision deadline (Sept 15) now 2 days out"
+updated: 2026-09-13
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals (decide by Sept 15, now 3 days out). No movement since 2026-08-28** — now 15 days sitting.
-- **Cannibalization vs DCKT's brand term confirmed again this run.** "door county kayak" #3.7 / 2 clicks and "door county kayak tours" #6.8 / 1 click both still show for this domain (8-day window) — still competing for the same query as DCKT.
+- **Goal: commit_domain_to_rentals (decide by Sept 15, now 2 days out). No movement since 2026-08-28** — now 16 days sitting, and the decision deadline is close.
+- **Cannibalization vs DCKT's brand term confirmed again this run.** "door county kayak" #3.7 / 1 click and "door county kayak tours" #6.8 / 1 click both still show for this domain (8-day window) — still competing for the same query as DCKT.
 - Reviews: **0 unreplied.** Most recent Jul 2023 (Sydney Halverson).
-- No ad spend distinguishable — shares DCKT's dark Meta account (act_10153674414451399, $0 yesterday, 4th straight day). No FareHarbor shortname in this scrape.
+- No ad spend distinguishable — shares DCKT's dark Meta account (act_10153674414451399, $0 yesterday). No FareHarbor shortname in this scrape.
 <!-- live:end -->
 
 ## Quick links

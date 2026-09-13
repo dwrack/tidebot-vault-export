@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 21
+ad_spend_yday: 19
 status: yellow
-alert: "data stale — FH scrape now day 4; Meta traffic campaign still has no purchase objective"
-updated: 2026-09-12
+alert: "Meta traffic campaign still has no purchase objective; pace below goal"
+updated: 2026-09-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scrape is down for a 4th straight day. Last known-good pace was 71% of goal (Sep 9 data), softest of the FH-tracked Houston businesses.
+- **Goal pace: $447.75/day booked vs $643/day target ($4,500/wk) — 70% of goal.** FareHarbor is back online after 4 days down; this is based on 4 of the last 7 days (Sep 6, 7, 10 scrapes failed) — roughly consistent with the last known-good 71%, still the softest of the FH-tracked Houston businesses.
 - **Review backlog still fully cleared — 0 unreplied.**
-- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $21.43, 238 clicks, 134 landing page views, 0 tracked purchases — same gap flagged across multiple briefs, still unfixed.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $19.22, 218 clicks, 148 landing page views, 0 tracked purchases — same gap flagged across multiple briefs, still unfixed.
 - No Google Ads, no GSC property, no GA4 for this business.
 <!-- live:end -->
 
