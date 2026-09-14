@@ -1,9 +1,9 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-13 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scrape is back online after 4 days down — fresh data for Sep 12 confirms goal-pace numbers portfolio-wide for the first time since Sep 9. New issue: the Gravity Trails | NOLA Google Ads account (runs NPB/NKST/Admire NOLA/Bike Bar) had a card decline on Sep 12 and needs the payment method fixed today. DCKT's review-reply backlog broke its own 48-hour SLA — Larry Anderson's 5★ is now ~59 hours unanswered, Kelli Lammert's crosses 48h within hours. HPB's Google Ads is still stuck at 0.54 ROAS for a second straight week. Meta is dark across both the Door County and Austin ad accounts. Cave Point's oldest unreplied review just hit 19 days. No `meta-organic` MCP connected this session, and the Playwright MCP hadn't finished connecting, so Instagram and TikTok weren't pulled.)*
+*Last refresh: 2026-09-14 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. The Gravity Trails | NOLA card-decline issue from Sep 12 appears resolved — spend flowed normally yesterday. DCKT's review-reply SLA breach is worse, not better: Larry Anderson's 5★ is now ~83 hours unanswered, Kelli Lammert's ~68.5 hours, both past the 48-hour goal. DCKT's Google Ads also flatlined for a second straight day ($0 spend). HPB's Google Ads is still stuck at 0.53 ROAS, unchanged from last week. Cave Point's oldest unreplied review just crossed 20 days. NKST and HPB both show FareHarbor bookings down 40%+ vs trailing average yesterday (small-n caveat applies to both). No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright MCP returned ECONNREFUSED, so TikTok wasn't pulled either.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-13|Today's brief]]
+- [[Daily Briefings/2026-09-14|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
