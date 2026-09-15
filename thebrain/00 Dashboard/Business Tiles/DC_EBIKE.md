@@ -6,7 +6,7 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: red
+status: yellow
 alert: "Decision deadline is TODAY (Sept 15) — no decision made; DCKT brand-term cannibalization confirmed again"
 updated: 2026-09-15
 tile_type: business
