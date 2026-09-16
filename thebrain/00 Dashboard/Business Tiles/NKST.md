@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "FH revenue down 73% vs trailing avg yesterday (small-n); 1 unreplied 5★ (Nicky Nickelson, ~5.8 days); NKST-prefixed Meta still dark"
-updated: 2026-09-15
+alert: "2 unreplied 5★ (Alison Alsleben new, Nicky Nickelson ~7 days); NKST-prefixed Meta still dark"
+updated: 2026-09-16
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,12 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $655.60/day booked vs $571/day target ($4,000/wk) — 115% of goal.** Based on 5 of the last 7 days (Sep 8, 9, 11, 12, 13). Yesterday specifically was soft again: 1 booking / $180, down 73% from the 5-day average of 3.4 bookings / $655.60 — small-n so one slow day swings this hard, part of a portfolio-wide Monday dip (see today's brief Action Items #7).
+- **Goal pace: $598.60/day booked vs $571.43/day target ($4,000/wk) — 105% of goal.** Based on 5 of the last 7 days (Sep 9, 11, 12, 13, 14). Yesterday specifically: 2 bookings / $900, down 33% on bookings but up 50% on revenue vs the 5-day average of 3.0 bookings / $598.60 — small-n, one big-ticket booking swings this.
 - No NKST-prefixed Meta campaign spent yesterday, again.
-- **1 unreplied 5★ (Nicky Nickelson, Sep 9, now ~5.8 days)** — still open, a standout "1,000,000/10" review praising guide Stephanie on the extended Manchac tour.
-- GA4 sessionSource for yesterday: google led (28 sessions/48 conversions), direct (25/11), Instagram (24 sessions/0 conversions — down from 83 the prior day, one data point not yet a trend). Three single-session sources (reddit.com, bing, yahoo) each logged outsized conversion counts (10, 7, 8) worth a look at what's actually converting there.
-- **Watched page — "Airboat vs Kayak" comparison:** still flat vs baseline. GSC this window shows only 1 query (0 clicks, 2 impressions), and GA4 shows 0 pageviews for the page this window (down from the ~3-view baseline) — not a real move yet either direction.
-- Branded query "new orleans kayak swamp tours" sits at #23.35 / 2 clicks — still a poor rank for the brand's own name, the goal note's core complaint stands.
+- **2 unreplied 5★: Alison Alsleben (fresh) and Nicky Nickelson (Sep 9, now ~7 days).** Alison Alsleben's review also flags real product feedback worth routing to ops: she wants the option to book a single kayak instead of being defaulted into a tandem when two people book together.
+- GA4 sessionSource for yesterday: google led (53 sessions/74 conversions), instagram (36/0), direct (35/43), facebook (26/0), reddit.com (8 sessions/9 conversions — a small-n source again punching above its weight, worth a look at what's converting there).
+- **Watched page — "Airboat vs Kayak" comparison:** first real movement since the baseline. GSC this window shows 1 click on Sep 12 (47 total impressions across the 8-day window) — the first click recorded since the June 0-click baseline. GA4 still shows the page below the site's top-pageviews cutoff, so traffic is thin, but worth watching.
+- Branded query "new orleans kayak swamp tours" sits at #24.79 / 2 clicks — still a poor rank for the brand's own name, the goal note's core complaint stands.
 <!-- live:end -->
 
 ## Quick links

@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 22
+ad_spend_yday: 18
 status: yellow
-alert: "Meta traffic campaign still has no purchase objective; FH bookings down 75% vs trailing avg yesterday"
-updated: 2026-09-15
+alert: "Meta traffic campaign still has no purchase objective; FH bookings/revenue roughly flat vs trailing avg yesterday"
+updated: 2026-09-16
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $469.20/day booked vs $643/day target ($4,500/wk) — 73% of goal.** Based on 5 of the last 7 days (Sep 8, 9, 11, 12, 13); yesterday itself was down 75% (1 booking/$130) as part of a portfolio-wide Monday dip (see today's brief Action Items #7) — still the softest of the FH-tracked Houston businesses.
+- **Goal pace: $371.20/day booked vs $642.86/day target ($4,500/wk) — 58% of goal.** Based on 5 of the last 7 days (Sep 9, 11, 12, 13, 14); yesterday itself was roughly flat vs trailing avg (3 bookings/$390 vs 3.6/$371.20, -17% bookings/+5% revenue) — one of the few businesses not down hard in yesterday's broad soft day.
 - **Review backlog still fully cleared — 0 unreplied.**
-- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $22.01, 230 clicks, 142 landing page views, 0 tracked purchases — same gap flagged across multiple briefs, still unfixed.
+- **`Bat Bridge Kayak Tour - Traffic` still has no purchase objective behind it.** Yesterday: $17.61, 207 clicks, 170 outbound clicks, 119 landing page views, 0 tracked purchases — same gap flagged across multiple briefs, still unfixed.
 - No Google Ads, no GSC property, no GA4 for this business.
 <!-- live:end -->
 

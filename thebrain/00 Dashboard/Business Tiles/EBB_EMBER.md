@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "3 unreplied 5★ (Lisa Woldin ~92h, past SLA; 2 fresh from yesterday)"
-updated: 2026-09-15
+alert: "3 unreplied 5★ (Lisa Woldin ~5 days, past SLA; 2 more from Sep 14)"
+updated: 2026-09-16
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 18 days sitting. No GSC property, GA4, or Meta campaign stood up yet.
-- **Review backlog grew to 3 unreplied 5★, and the oldest is now well past a de facto 48-hour SLA.** Lisa Woldin (Sep 11, ~92h) still needs a reply — [reply here](https://business.google.com/n/16140834048343808850/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sbk5sbDRhWFY1U2sxcVpVOHdabEZYYW5odVNrRRAB). Two fresh 5★ also came in yesterday: Andrew Vasquez (~34h, a long detailed review praising the Wavelink water monitor) and Jessi Sells (~18h, praises the roof-jump into the river).
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 19 days sitting. No GSC property, GA4, or Meta campaign stood up yet.
+- **Review backlog still sitting at 3 unreplied 5★, none replied since yesterday.** Lisa Woldin (Sep 11, ~5 days) still needs a reply — [reply here](https://business.google.com/n/16140834048343808850/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sbk5sbDRhWFY1U2sxcVpVOHdabEZYYW5odVNrRRAB). Andrew Vasquez (~2 days, a long detailed review praising the Wavelink water monitor) and Jessi Sells (~2 days, praises the roof-jump into the river) round out the backlog.
 - **No Meta ad account and no Google Ads account** — never set up, not a permission gap. No GSC, no GA4, no FareHarbor line.
 <!-- live:end -->
 
