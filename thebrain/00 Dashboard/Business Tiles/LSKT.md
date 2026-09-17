@@ -5,10 +5,10 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 63
-status: yellow
-alert: "Meta still dark heading into bat season's close; FH bookings down 74% / revenue down 83% vs trailing avg yesterday — steepest drop in the portfolio"
-updated: 2026-09-16
+ad_spend_yday: 47
+status: red
+alert: "FareHarbor washout — 0 bookings / $0 revenue yesterday, -100% vs trailing avg, while paid demand held; new GSC indexing alert (canonical mismatch)"
+updated: 2026-09-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,11 +18,13 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $910.40/day booked vs $785.71/day target ($5,500/wk) — 116% of goal.** Based on 5 of the last 7 days (Sep 9, 11, 12, 13, 14); yesterday itself was down 74% on bookings / 83% on revenue (2 bookings/$157) — the steepest single-day drop anywhere in the portfolio, part of a broad soft day but worth a specific ops/weather check here. See today's brief Action Items #6.
+- **Goal pace: $4,673/wk booked vs $5,500 target — 85% of goal.** 6-day avg ($667.50/day, Sep 11-16) times 7. **Yesterday itself was a complete washout: 0 bookings / $0 revenue, a 100% drop vs the trailing average** — the steepest single-day crash anywhere in the portfolio today. Escalated to red. See today's brief Action Items #1.
+- **This wasn't a demand problem.** The shared Google Ads account spent normally the same day ($46.65, 43 clicks, 0.56 conv) — something on the booking/ops side blocked conversions or a tour got scrubbed. Worth a same-day ops/weather check.
 - **Meta (`act_638850950128825`) is still completely dark heading into the close of bat season** — zero campaigns, zero spend, confirmed again today.
-- **Shared Google Ads account (8497383499, covers LSKT/AKT):** yesterday $63.00 spend, 49 clicks, 2 conv, $259.80 value, 4.12x ROAS. 7-day: $504.36 / 396 clicks / 19.04 conv / $4,770 value / 9.46x ROAS — still the best-performing account in the portfolio by a wide margin even though yesterday's daily ROAS ran well under the 7-day pace. Full account total shown here under LSKT; no campaign-level split this run.
+- **Shared Google Ads account (8497383499, covers LSKT/AKT), 7-day:** $494.43 / 397 clicks / 19.6 conv / $4,936.74 value / 9.98x ROAS — still the best-performing account in the portfolio by a wide margin.
+- **New GSC indexing alert (9/16): "duplicate, Google chose different canonical than user"** on lonestarkayaktours.com — see today's brief Action Items #4.
 - Reviews: **0 unreplied** (10 most recent all replied).
-- GSC: "lone star kayak tours" #1 / 5 clicks (8-day window). "kayaking austin" pulling 51 impressions but only 1 click at #12.57 — still room to move up on a bigger-volume category term.
+- GSC: "lone star kayak tours" #1 / 4 clicks (8-day window).
 <!-- live:end -->
 
 ## Quick links
