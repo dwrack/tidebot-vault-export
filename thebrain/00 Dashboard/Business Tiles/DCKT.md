@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "review SLA breach still unresolved (Larry Anderson ~5d, Kelli Lammert ~5d, mary williamson ~4d); Google Ads still $0; FH bookings down 41% vs trailing avg yesterday"
-updated: 2026-09-16
+status: red
+alert: "Google Ads fully dark 7+ days; weekly pace 44% of goal, worst in portfolio; review SLA backlog now 4 (oldest ~6d)"
+updated: 2026-09-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,11 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $547.00/day booked vs $1,000/day target ($7,000/wk) — 55% of goal.** Based on 5 of the last 7 days (Sep 9, 11, 12, 13, 14). Yesterday itself was down 41% on bookings / 54% on revenue (4 bookings/$251) — part of a broad portfolio-wide soft day, but DCKT and LSKT both took the hardest hits.
-- **Review-reply backlog has not moved and keeps aging.** Larry Anderson's 5★ (Sep 11) is now ~5 days unanswered. Kelli Lammert's 5★ (Sep 11) is ~5 days. mary williamson's (Sep 12) is ~4 days, also past any reasonable SLA. See today's brief Action Items #4 for reply links.
-- **Google Ads (8672151991) is still dark** — $0 spend, 0 impressions both yesterday and across the full last-7-days pull, now going on multiple days. This looks broken, not paused. See today's brief Action Items #3.
+- **Goal pace: $3,067/wk booked vs $7,000 target — 44% of goal, worst pace in the portfolio.** 6-day avg ($438.17/day, Sep 11-16) times 7. Yesterday itself: 3 bookings/$106, down 53% on bookings / 76% on revenue vs the 6-day average.
+- **Google Ads (8672151991) is fully dark for the full trailing 7 days now** — $0 spend, 0 impressions both yesterday and the last-7-days pull. Escalated to red today given the pace impact. See today's brief Action Items #2.
+- **Review-reply backlog now 4 and still aging.** Sharon Pitt (9/16, fresh), mary williamson (9/12), Kelli Lammert (9/11), Larry Anderson (9/11, ~6 days, oldest here).
 - **Meta (act_10153674414451399) logged $0 again** — same account also covers Cave Point and Door County Ebike, both dark too.
-- GSC: "door county kayak tours" #2 / 23 clicks (8-day window) — still biggest single-term volume in the portfolio.
+- GSC: "door county kayak tours" #1 / 21 clicks (8-day window) — still biggest single-term volume in the portfolio, unaffected by the ad outage.
 <!-- live:end -->
 
 ## Quick links
