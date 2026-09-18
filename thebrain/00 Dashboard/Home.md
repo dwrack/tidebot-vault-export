@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-17 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. Cave Point's 1★ (no-show complaint) got replied yesterday, closing the portfolio's only 1-3★ item — but its 23-day-old 5★ from Donele Jones is still the single oldest open review anywhere. LSKT had a total FareHarbor washout yesterday (0 bookings/$0 revenue, -100% vs trailing avg) even though its shared Google Ads account spent normally the same day. DCKT's Google Ads is now fully dark for a full week-plus and its review backlog keeps aging; weekly pace is 44% of its Q4 target, worst in the portfolio. NKST also took a hard FH hit (-75% revenue). Three new GSC indexing alerts fired for NPB, Admire NOLA, and LSKT. No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright MCP returned ECONNREFUSED, so TikTok wasn't pulled either.)*
+*Last refresh: 2026-09-18 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scraper failed completely for 9/17 — all 6 tracked businesses timed out, second full outage in 8 days — so every goal-pace number is blind this run rather than reused stale. DCKT's Google Ads is confirmed $0 spend / 0 impressions for 8+ straight days, still unresolved. HPB's TikTok pull failed again with the browser not running at all (ECONNREFUSED), second run in a row. DCKT did clear its entire 4-review reply backlog yesterday, a genuine win. Ebb & Ember's review backlog grew by one. No `meta-organic` MCP connected this session, so Instagram wasn't pulled.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-17|Today's brief]]
+- [[Daily Briefings/2026-09-18|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Lone Star Kayak Tours — FareHarbor booked $0 / 0 bookings yesterday,** a 100% drop vs the 6-day trailing average ($667.50/day). Google Ads on the shared account spent normally that day, so demand existed — check ops/weather, not marketing.
-2. **DCKT — Google Ads (8672151991) $0 spend / 0 impressions for the full trailing 7 days**, fully dark for a week-plus. Weekly FH pace is now 44% of its $7,000 Q4 target, worst in the portfolio.
-3. **NKST — FareHarbor booked revenue down 75% yesterday** ($180 vs 6-day avg $632/day), bookings down 33%.
+1. **Portfolio-wide — FareHarbor scraper failed completely for 9/17,** all 6 tracked businesses timed out on the same page. Second full outage in 8 days (also 9/10). Blocks booking/revenue visibility and every goal-pace number until fixed.
+2. **DCKT — Google Ads (8672151991) confirmed $0 spend / 0 impressions for the full trailing 7 days,** at least 8 straight dark days during active season. Check for a paused campaign, exhausted budget, or billing hold.
+3. **HPB — TikTok pull failed again,** Playwright's browser isn't running at all (`ECONNREFUSED`), not a login issue. Second consecutive run with this exact failure. Needs a manual relaunch.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 22 | ≥50 (yesterday's brief, hit cap) | -28 (not apples-to-apples) |
-| Unreplied GBP reviews (recent-10 scan, 12 biz with GBP) | 18 (all 5★, zero 1-3★ open) | 16 (yesterday's brief) | +2 |
-| FH bookings (6 tracked biz) | 27 | 51.2/day (5-day avg, Sep 11-15) | -24.2 |
-| FH revenue (6 tracked biz) | $6,717 | $8,128.80/day (5-day avg, Sep 11-15) | -$1,411.80 |
-| Total ad spend (Google + Meta) | $445.95 ($372.68 Google + $73.27 Meta) | ~$414.06/day (Google only — Meta 7-day not pulled this run) | +$31.89 (not apples-to-apples) |
-| Total ad-attributed conversions | ~7.3 tracked purchases (5.33 Google + 2 Meta) + 2 Meta messaging convos started | 8.72/day (Google only) | roughly flat on Google |
+| Gmail unread | 10 | — | — |
+| Unreplied GBP reviews (all biz, 4-5★ only) | 15 | — | — |
+| FH bookings (all biz) | — (scrape failed) | ~47/day (Sep 11-16) | — |
+| FH revenue (all biz) | — (scrape failed) | ~$7,894/day (Sep 11-16) | — |
+| Total ad spend (G+M) | $399.62 | ~$405/day (Google only, 7d) | Meta 7-day avg not pulled this run |
+| Total ad-attributed conversions | ~9 | ~7.6/day (Google only, 7d) | Meta 7-day avg not pulled this run |
 <!-- pulse:end -->
-*Cave Point's 1★ from Lyndz W got replied yesterday, closing out the portfolio's only open 1-3★ review — zero negative reviews sitting open anywhere today. Its 23-day-old 5★ from Donele Jones is still the single oldest open item in the portfolio. LSKT had a total FareHarbor washout yesterday (0 bookings/$0 revenue), the steepest single-day drop in the portfolio, while its shared Google Ads account spent normally the same day. DCKT's Google Ads is fully dark for a week-plus and its weekly FH pace is now 44% of its Q4 target, worst in the portfolio. NKST also took a hard hit (-75% revenue). Three new GSC indexing alerts fired for NPB, Admire NOLA, and LSKT. No `meta-organic` MCP connected this session, so Instagram wasn't pulled; the Playwright MCP returned ECONNREFUSED, so TikTok wasn't pulled either. 18 unreplied reviews across the portfolio, all 5★.*
+*FareHarbor's scraper failed completely for 9/17 (all 6 tracked businesses, second outage in 8 days), so every goal-pace number is marked unavailable this run rather than reused stale. Zero 1-3★ reviews are sitting open anywhere in the portfolio. DCKT cleared its full 4-review reply backlog yesterday. Ebb & Ember's backlog grew by one (Carolyn Lee, new). DCKT's Google Ads is confirmed dark for 8+ straight days. HPB's TikTok pull failed again — Playwright's browser isn't running. No `meta-organic` MCP connected this session, so Instagram wasn't pulled.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-17]] (today)
-- [[Daily Briefings/2026-09-16]] (1 day ago)
-- [[Daily Briefings/2026-09-15]] (2 days ago)
-- [[Daily Briefings/2026-09-14]] (3 days ago)
-- [[Daily Briefings/2026-09-13]] (4 days ago)
-- [[Daily Briefings/2026-09-12]] (5 days ago)
-- [[Daily Briefings/2026-09-11]] (6 days ago)
+- [[Daily Briefings/2026-09-18]] (today)
+- [[Daily Briefings/2026-09-17]] (1 day ago)
+- [[Daily Briefings/2026-09-16]] (2 days ago)
+- [[Daily Briefings/2026-09-15]] (3 days ago)
+- [[Daily Briefings/2026-09-14]] (4 days ago)
+- [[Daily Briefings/2026-09-13]] (5 days ago)
+- [[Daily Briefings/2026-09-12]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "Meta still dark; shares Google Ads with LSKT, which had a FareHarbor washout yesterday"
-updated: 2026-09-17
+status: green
+alert: null
+updated: 2026-09-18
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -20,7 +20,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 <!-- live:start -->
 - **Decision made 2026-08-28: front door for LSKT.** No change to the arrangement.
 - **Meta still dark** — shares `act_638850950128825` with LSKT, zero campaigns yesterday. See LSKT tile.
-- **Shared Google Ads account (8497383499) not split to campaign level this run** — full account total ($46.65 yesterday, 2.14x ROAS; 9.98x on the 7-day) shown under LSKT's tile, which had a full FareHarbor booking washout yesterday despite this account spending normally.
+- **Shared Google Ads account (8497383499) not split to campaign level this run** — full account total ($62.99 yesterday, 1.29x ROAS; 9.31x on the 7-day) shown under LSKT's tile. FareHarbor couldn't confirm bookings either way (scrape failed for 9/17).
 - **Review backlog still clean — 0 unreplied** (Emilee Johnson, Mallory DeGood, Sheila Simpsen all confirmed replied again).
 - No FareHarbor shortname in this scrape for AKT specifically. No GSC property, no GA4.
 <!-- live:end -->
