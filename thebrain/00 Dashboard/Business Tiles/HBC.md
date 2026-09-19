@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Zero instrumentation persists; no GBP yet, 12 days to deadline; IG pull unavailable this session"
-updated: 2026-09-18
+alert: "Zero instrumentation persists; no GBP yet, 11 days to deadline; IG pull unavailable this session"
+updated: 2026-09-19
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28** — now 21 days sitting. Still no GBP location for this business — Sept 30 is 12 days out.
+- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28** — now 22 days sitting. Still no GBP location for this business — Sept 30 is 11 days out.
 - **Still the least-instrumented business in the portfolio.** No GBP, no GSC property, no Google Ads, no Meta ad account, no GA4, no FareHarbor. The roster holds exactly one ID: an Instagram user ID.
 - **Instagram did not pull this run again** — no `meta-organic` tool found in this session (searched, no match). The one visible channel is invisible again.
 - Decision is made (live), the follow-through isn't: needs an owner to actually stand up the GBP before Sept 30.
