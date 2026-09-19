@@ -22,25 +22,25 @@ Chez Pierre Bakery Lakeview.
 | 2 | Cafe Porche & Snowbar \| Coffee, Brunch, Pastries & Snowballs | Brunch restaurant | Faubourg Lafayette | 4.9 | 668 | 504-481-2535 | `8437514516267716873` | `ChIJsXLDV3alIIYRCdFWqb8SGHU` | @cafeporche | **Disqualified** - has cafeporchesnowbar.com |
 | 3 | City Donuts & Café | Donut shop | Uptown/Carrollton | 4 | 1034 | 504-372-5811 | `17946551155319176092` | `ChIJEc1xormlIIYRnPss3DD1Dvk` | @city.donuts | **Built** - /city-donuts-caf/ |
 | 4 | Pal's Lounge | Bar | Bayou St. John | 4.6 | 708 | 504-488-7257 | `15489332774993295258` | `ChIJU9mY_1ivIIYRmndKxRcq9dY` | @palsloungenola | **Built** - /pal-s-lounge/ |
-| 5 | Don Leoncio Cigars Bar | Cigar shop | Central Business District | 4.4 | 602 | 504-527-6557 | `6929254245760707317` | `ChIJ1cxmNg2mIIYR9SrvFAaoKWA` | @donleonciocigars | Not started |
-| 6 | Two Sisters Soul Food in Treme | Soul food restaurant | Tremé / Lafitte | 4.2 | 629 | 504-302-2400 | `13474455342148048429` | `ChIJ-0-JRPgCnogRLVaZMr7h_ro` | — | Not started |
+| 5 | Don Leoncio Cigars Bar | Cigar shop | Central Business District | 4.4 | 602 | 504-527-6557 | `6929254245760707317` | `ChIJ1cxmNg2mIIYR9SrvFAaoKWA` | @donleonciocigars | **Built** - /don-leoncio-cigars-bar/ |
+| 6 | Two Sisters Soul Food in Treme | Soul food restaurant | Tremé / Lafitte | 4.2 | 629 | 504-302-2400 | `13474455342148048429` | `ChIJ-0-JRPgCnogRLVaZMr7h_ro` | — | **Built** - /two-sisters-soul-food-in-treme/ |
 | 7 | Holy Crepes! | Creperie | French Quarter | 4.7 | 295 | 504-370-3790 | `14865451748631571826` | `ChIJzTYEOLanIIYRcu3k1pqxTM4` | — | **Built** - /holy-crepes/ |
 | 8 | The Upper Quarter | Bar | French Quarter | 4.7 | 358 | — | `2708417510080229773` | `ChIJnd-d_QumIIYRjbHHJ2A7liU` | — | **Built** - /the-upper-quarter/ |
 | 9 | Matassa's Market | Grocery store | French Quarter | 4.4 | 426 | 504-412-8700 | `13567540052451992451` | `ChIJrcpoEhCmIIYRgyNJNsuVSbw` | — | **Disqualified** - has matassas.com |
 | 10 | Markey's Bar | Bar | Bywater | 4.5 | 489 | 504-943-0785 | `11289249334413817094` | `ChIJZc-4LS6mIIYRBvWM5nR4q5w` | @markeysbar | **Built** - /markey-s-bar/ |
 | 11 | little bar on gravier | Bar | Central Business District | 4.8 | 414 | 504-333-6665 | `8886745612695476133` | `ChIJTT_ySMKnIIYRpZf5_QwQVHs` | @littlebarongravier | **Built** - /little-bar-on-gravier/ |
-| 12 | The John | Bar | Marigny | 4.3 | 571 | 504-942-7159 | `14689826712279967989` | `ChIJB9Ob4ximIIYR9eh9lZC_3Ms` | @thejohnneworleans | Not started |
+| 12 | The John | Bar | Marigny | 4.3 | 571 | 504-942-7159 | `14689826712279967989` | `ChIJB9Ob4ximIIYR9eh9lZC_3Ms` | @thejohnneworleans | **Built** - /the-john/ |
 | 13 | Seal's Class Act | Bar | Seventh Ward | 4.4 | 398 | 504-940-3055 | `14466709210050295837` | `ChIJc2nwPqmoIIYRHXjr7WATxMg` | — | **Skipped** - unusable photo set |
-| 14 | Small Mart Cafe | Vegetarian restaurant | Marigny | 4.8 | 291 | 504-766-8740 | `10318325183535408495` | `ChIJybfNcBemIIYRb2WY6RUOMo8` | @smallmart | Not started |
-| 15 | New Orleans Snowball | Dessert shop | Gentilly Terrace | 4.5 | 627 | 504-309-5346 | `17836780027783982559` | `ChIJ_YXvYsGoIIYR363YlO74iPc` | — | Not started |
+| 14 | Small Mart Cafe | Vegetarian restaurant | Marigny | 4.8 | 291 | 504-766-8740 | `10318325183535408495` | `ChIJybfNcBemIIYRb2WY6RUOMo8` | @smallmart | **Built** - /small-mart-cafe/ |
+| 15 | New Orleans Snowball | Dessert shop | Gentilly Terrace | 4.5 | 627 | 504-309-5346 | `17836780027783982559` | `ChIJ_YXvYsGoIIYR363YlO74iPc` | — | **Built** - /new-orleans-snowball/ |
 
 ## Reserve (same filter, next in line)
 
 | # | Name | Category | Neighborhood | Rating | Reviews | Phone | Google CID | Place ID | Instagram | Status |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 16 | Bertha's Place Bar & Restaurant | Bar | South 7th Ward | 4.4 | 676 | 504-593-9777 | `744074729154507232` | `ChIJfYnLPAamIIYR4HGZHQZ8Uwo` | — | Not started |
-| 17 | Boondock Saint | Bar | French Quarter | 4.7 | 382 | 504-525-4950 | `16945655822175602701` | `ChIJCRPOIA6mIIYRDYjONjAQK-s` | — | Not started |
-| 18 | Norma's Sweets Bakery | Bakery | Mid-City | 4.3 | 531 | 504-309-5401 | `4186319242771503510` | `ChIJaeRKofalIIYRlhnH1SvLGDo` | @normassweetsbakery | Not started |
+| 16 | Bertha's Place Bar & Restaurant | Bar | South 7th Ward | 4.4 | 676 | 504-593-9777 | `744074729154507232` | `ChIJfYnLPAamIIYR4HGZHQZ8Uwo` | — | **Built** - /bertha-s-place-bar-restaurant/ |
+| 17 | Boondock Saint | Bar | French Quarter | 4.7 | 382 | 504-525-4950 | `16945655822175602701` | `ChIJCRPOIA6mIIYRDYjONjAQK-s` | — | **Built** - /boondock-saint/ |
+| 18 | Norma's Sweets Bakery | Bakery | Mid-City | 4.3 | 531 | 504-309-5401 | `4186319242771503510` | `ChIJaeRKofalIIYRlhnH1SvLGDo` | @normassweetsbakery | **Built** - /norma-s-sweets-bakery/ |
 | 19 | St Roch Tavern | Bar | St. Roch | 4.6 | 365 | 504-945-0194 | `16889174108622425988` | `ChIJZxwxPiGmIIYRhA8qfl5mYuo` | — | Not started |
 | 20 | B J's Lounge | Lounge bar | Bywater | 4.6 | 388 | — | `6322551488828945749` | `ChIJeVGaBtKnIIYRVTXErRQ3vlc` | — | Not started |
 | 21 | Stop Jockin Snoballs | Restaurant | St. Bernard Area | 4.6 | 318 | 504-206-0992 | `3069577457259685840` | `ChIJp9J0yUuvIIYR0KeCHm9UmSo` | @stopjockinsnoballs | Not started |
@@ -70,6 +70,25 @@ Chez Pierre Bakery Lakeview.
 | Crescent Counter | https://crescentcounter.restaurants-us.com/ |
 | Soul's Seafood Market | https://souls-seafood-market.wheree.com/ |
 | Seafood Zone | https://www.boilseafoodhouse.com/ |
+
+## Where Round 2 landed
+
+**14 sites built** and pushed to `dwrack/nola-sites`, branch `claude/site-generator`,
+one commit each. The round-trip test stays green on all seven Round 1 originals.
+
+| Outcome | Count | Which |
+|---|---|---|
+| Built | 14 | Markey's Bar, City Donuts, Pal's Lounge, Holy Crepes!, The Upper Quarter, little bar on gravier, Small Mart Cafe, New Orleans Snowball, Bertha's Place, Boondock Saint, Norma's Sweets Bakery, Don Leoncio, The John, Two Sisters |
+| Disqualified, already have a website | 3 | Beach On Bourbon, Cafe Porche & Snowbar, Matassa's Market |
+| Skipped, unusable photos | 1 | Seal's Class Act |
+
+Two of the fourteen are thinner than the rest because Google never served review
+bodies for them on any pass: **Don Leoncio** and **Two Sisters** have no quote band
+and no star-rating bars. Everything else on those pages is real.
+
+Three have data worth confirming before a walk-in, all flagged on their cards:
+The Upper Quarter's phone (not on their Google profile), Don Leoncio's hours
+(third-party), and Two Sisters' hours (third-party, and Google only gave Saturday).
 
 ## Website verification, Sept 19 2026
 

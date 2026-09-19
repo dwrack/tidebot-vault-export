@@ -1,7 +1,7 @@
 # NOLA Website Outreach — Project Hub
 
 **Date:** September 19, 2026
-**Status:** Round 1 built (7). Round 2 in progress on branch `claude/site-generator`, built from the recovered audit list. Outreach not started. Offer and pricing not yet decided.
+**Status:** Round 1 built (7). Round 2 built (14), branch `claude/site-generator`, from the recovered audit list. 21 previews total. Outreach not started. Offer and pricing not yet decided.
 **Repo:** `dwrack/nola-sites` (GitHub Pages, previews are `noindex` + `robots.txt` Disallow)
 **Related:** [[Prospect Cards — Round 1]] · [[Prospect Cards — Round 2]] · [[Round 2 Prospects]] · [[Outreach Scripts]]
 
@@ -126,5 +126,28 @@ Filter: the sweep's `food_bar_cafe` bucket, site status NONE / NONE (social only
   - **No Places API key, so the pipeline was rerouted rather than run.** Places API (New) is disabled on the one Google project available here and it is billable, so turning it on is David's decision. `tools/scrape_maps.js` (Playwright against the Maps place page) plus `tools/from_scrape.py` (hands the result to fetch.py's own `skeleton()`) now do the same job. `test_roundtrip.py` stays green on all seven originals throughout.
   - **Three prospects disqualified on inspection**: Beach On Bourbon, Cafe Porche & Snowbar and Matassa's Market all own live websites that are simply not linked on their Google profile. Builds for them were deleted, not shipped. Three reserves promoted.
   - **Could not do:** Instagram photos (instaloader is broken against current Instagram and logging in as David unattended was not appropriate), popular times (Google no longer serves the chart to a signed-out browser, verified against Mother's Restaurant which Round 1 has data for), and menu prices (none of these businesses publish a menu anywhere, so every menu block is a highlights list with a "prices as posted" note rather than invented numbers).
+
+  - **14 sites built and pushed**, one commit each, to `dwrack/nola-sites` branch `claude/site-generator`. `test_roundtrip.py` green on all seven originals throughout. Preview paths, with the photo source for every one being the business's own public Google profile:
+
+| Site | Preview | Google | Photos used |
+|---|---|---|---|
+| Markey's Bar | `/markey-s-bar/` | 4.5 / 490 | 10 Google profile |
+| City Donuts & Café | `/city-donuts-caf/` | 4.0 / 1,034 | 10 Google profile |
+| Pal's Lounge | `/pal-s-lounge/` | 4.6 / 709 | 10 Google profile |
+| Holy Crepes! | `/holy-crepes/` | 4.7 / 295 | 10 Google profile |
+| The Upper Quarter | `/the-upper-quarter/` | 4.7 / 358 | 10 Google profile |
+| little bar on gravier | `/little-bar-on-gravier/` | 4.8 / 415 | 10 Google profile |
+| Small Mart Cafe | `/small-mart-cafe/` | 4.8 / 293 | 10 Google profile |
+| New Orleans Snowball | `/new-orleans-snowball/` | 4.5 / 627 | 10 Google profile |
+| Bertha's Place | `/bertha-s-place-bar-restaurant/` | 4.4 / 678 | 10 Google profile |
+| Boondock Saint | `/boondock-saint/` | 4.7 / 382 | 10 Google profile |
+| Norma's Sweets Bakery | `/norma-s-sweets-bakery/` | 4.3 / 536 | 10 Google profile |
+| Don Leoncio | `/don-leoncio-cigars-bar/` | 4.4 / 602 | 14 Google profile |
+| The John | `/the-john/` | 4.3 / 571 | 14 Google profile |
+| Two Sisters | `/two-sisters-soul-food-in-treme/` | 4.2 / 629 | 14 Google profile |
+
+  - **Menu prices.** Only Two Sisters has real ones, because one of their profile photos is the Sunday menu lying on a table. Every other site's menu block is a highlights list with a note saying prices are as posted. No prices were invented anywhere.
+  - **Two sites are thinner than the rest.** Don Leoncio and Two Sisters have no quote band and no star-rating bars, because Google served the review-less page layout for both on every attempt. The template omits those blocks cleanly. Worth one more scraping pass each if either says yes.
+  - **Still to verify before anyone walks in:** The Upper Quarter's phone number (not on their Google profile, taken from directories), Don Leoncio's hours and Two Sisters' hours (both third-party), and Two Sisters' name and street number, which differ between their own menu and their Google listing. All flagged on the individual cards.
   - **Seal's Class Act skipped on photo grounds.** Six of its ten profile photos are customers with faces clearly visible, one is a portrait of a single person, and the other four are food shots that contradict a review saying food is not served. Nothing usable for a hero. Details in [[Round 2 Prospects]].
   - **Vault sync did not reach `main`.** `scripts/sync-vault-export.js` exported 2,333 files but the push was rejected. The local export diverged from `origin/main` on 2026-04-20 and is 629 commits ahead / 219 behind; main's last vault-sync commit is from April. Merging risked clobbering the Todo.md edits the cloud side has been making since, so the work was pushed to branch `mac-vault-sync-2026-09-19` instead. **This needs David's call: the Mac's vault export has not reached GitHub main in five months.**

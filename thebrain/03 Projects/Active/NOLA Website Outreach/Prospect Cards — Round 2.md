@@ -191,3 +191,141 @@ Preview base URL: `https://dwrack.github.io/nola-sites/`
 - _(none yet)_
 
 ---
+
+## 9. Bertha's Place
+
+**Preview:** `/bertha-s-place-bar-restaurant/`
+**Address:** 1355 St Bernard Ave, New Orleans, LA 70116 (Seventh Ward)
+**Phone:** (504) 593-9777
+**Google:** 4.4 stars, 678 reviews (444 five-star) · Instagram: none found
+**Hours:** Tue 7pm–12am · Fri–Sat 7pm–3am · **Closed Sun, Mon, Wed, Thu**
+**Best time to walk in:** Tuesday 7:00–8:30pm, right at open on the quiet night. Friday and Saturday are the money nights and nobody will have two minutes.
+**Likely decision-maker:** The owner, a woman who reviewers say introduces herself to strangers and walks them around the room. She is the entire pitch and she is on site.
+
+**Why they need this:** 678 reviews on a three-nights-a-week schedule, which is a remarkable ratio, and nothing online. The room is bookable for parties and they cater, and that is the highest-value thing they sell with nowhere to send anyone who wants it. Right now a party enquiry only happens if you already know the number.
+
+**The hook:** "Your sign says where customers become family. Your reviews say the same thing in their own words. There is nowhere online that says it at all."
+
+**Show them first:** the story paragraph, which retells the review about the band from across the street. She will recognise the night. Then the party and catering line in the menu block.
+
+**Watch for:** **Two things to confirm.** The sign in their own photos gives an older address on Basin St while Google has them on St Bernard Ave; the site uses Google's, so check which is right before this goes anywhere. And confirm the three-day schedule is current rather than a scraping artefact, because the site's live open/closed pill depends on it.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 10. Boondock Saint
+
+**Preview:** `/boondock-saint/`
+**Address:** 731 St Peter St, New Orleans, LA 70116 (French Quarter, between Bourbon and Royal)
+**Phone:** (504) 525-4950
+**Google:** 4.7 stars, 382 reviews (310 five-star) · Instagram: none found
+**Hours:** 12pm–1am, seven days
+**Best time to walk in:** 12:00–2:00pm any day. A Quarter pub at noon has staff, no crowd, and the owner is around per the reviews.
+**Likely decision-maker:** The owner is described in reviews as "always super nice" and present. Marsha is the bartender people name. Either will point you to the other.
+
+**Why they need this:** 4.7 stars from 382 reviews, an Irish pub with genuine pricing in the most over-priced few blocks in the city, and no website. **boondocksaint.com is parked and listed for sale on Dynadot right now**, so the domain is both the problem and a cheap part of the fix.
+
+**The hook:** "Your .com is sitting on a domain broker's for-sale page. That is a two hundred dollar problem attached to a four-point-seven-star pub."
+
+**Show them first:** the headline, which is a reviewer's own sentence about there being no happy hour because everything is already happy hour priced. Then pull up the Dynadot page for boondocksaint.com on the same phone.
+
+**Watch for:** The film connection is in the copy once, lightly. If the owner has a licensing worry about leaning on the name, that line comes out easily. Merch is listed in the menu block; confirm they still sell shirts.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 11. Norma's Sweets Bakery
+
+**Preview:** `/norma-s-sweets-bakery/`
+**Address:** 2925 Bienville St, New Orleans, LA 70119 (Mid-City)
+**Phone:** (504) 309-5401
+**Google:** 4.3 stars, 536 reviews (340 five-star) · Instagram: @normassweetsbakery
+**Hours:** Mon–Thu, Sat 7am–7pm · Fri 7–8am and 9am–7pm · Sun 8am–3pm
+**Best time to walk in:** Weekday 2:00–4:00pm, after the lunch counter rush and well before the 7pm close.
+**Likely decision-maker:** Unknown. Family operation with the bakers in the back. Ask at the register who runs it.
+
+**Why they need this:** Three businesses in one room, bakery plus Cuban and Honduran sandwich counter plus grocery, and the Google category only says "bakery". Nobody searching baleadas, cemitas or Cuban sandwich in Mid-City finds them. The guava and cream cheese king cake is a seasonal product people drive across the city for, and there is nowhere to pre-order one.
+
+**The hook:** "Google has you down as a bakery. You are a bakery, a Cuban sandwich counter and a grocery, and two of those three are invisible."
+
+**Show them first:** the four "what to order" cards, because they cover all three businesses at once. Then the king cake tip about the guava and cheese pan out of season.
+
+**Watch for:** Google returns their Friday hours as two spans jammed together (7–8am then 9am–7pm), which read as Closed until it was fixed by hand. Confirm what Friday morning actually is; it may just be a bad entry on their profile, which is a free fix to offer them.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 12. Don Leoncio Cigars Bar
+
+**Preview:** `/don-leoncio-cigars-bar/`
+**Address:** 430 Canal St, New Orleans, LA 70130 (CBD)
+**Phone:** (504) 527-6557
+**Google:** 4.4 stars, 602 reviews · Instagram: @donleonciocigars
+**Hours:** Mon–Thu 12pm–11pm · Fri–Sat 12pm–12am · Sun 12pm–8pm — **from third-party directories.** Google only ever returned Saturday (12pm–12am), which agrees. Confirm the rest.
+**Best time to walk in:** 12:00–2:00pm any weekday, right at open before the afternoon smokers settle in.
+**Likely decision-maker:** Small business per the profile, so the owner is likely behind the counter or rolling. Ask whoever is at the roller's bench.
+
+**Why they need this:** 602 reviews on Canal Street with no website, and donleoncio.com is a parked lander. They are a cigar bar, a full bar and a kitchen, and Google files them as "cigar shop", so nobody searching for a lounge or a whiskey bar on Canal finds them.
+
+**The hook:** "Google has you down as a shop. You have a bar, a kitchen and a room full of leather chairs, and none of that shows up in a search."
+
+**Show them first:** the "what to order" row, because it puts the cigar, the whiskey, the beer and the fried shrimp next to each other and makes the point in one screen.
+
+**Watch for:** **This site has no review quotes and no star-rating bars.** Google served the layout without review bodies on every attempt, twice. The page omits those blocks cleanly, but it is thinner than the others, and if the owner says yes it is worth one more pass to get review copy in. Hours also need confirming.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 13. The John
+
+**Preview:** `/the-john/`
+**Address:** 2040 Burgundy St, New Orleans, LA 70116 (Marigny)
+**Phone:** (504) 942-7159
+**Google:** 4.3 stars, 571 reviews (345 five-star, 34 one-star) · Instagram: @thejohnneworleans
+**Hours:** Mon–Sat 10am–3am · Sun 10am–12am
+**Best time to walk in:** 10:00–11:30am, right at open. It is one of very few bars in the city open at ten, so the room is empty and whoever opened it is the one to talk to.
+**Likely decision-maker:** Unknown. Ask the opening bartender; at a 10am open that is usually someone senior.
+
+**Why they need this:** 571 reviews, open seventeen hours a day, cash only, with a beer pong table and an arcade machine, and none of that is findable. The cash-only thing in particular costs them walk-ins who turn round at the door, and a page that says it up front turns a bad surprise into a planned stop.
+
+**The hook:** "You're cash only and open at ten in the morning. Both of those are reasons people would come, and neither one is anywhere they'd look."
+
+**Show them first:** the stats bar, where "Cash / only, no cards" sits next to the review count. Then the toilets photo in the gallery, because it shows somebody actually looked at the place.
+
+**Watch for:** **Read the recent one-star reviews before going.** One is a detailed allegation of discriminatory treatment by a door/security guard. That is not on the site and should not be raised as part of a sales pitch, but walking in without knowing about it would be a mistake. 34 one-stars against 345 five-stars.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 14. Two Sisters Soul Food in Treme
+
+**Preview:** `/two-sisters-soul-food-in-treme/`
+**Address:** 1610 Basin St, New Orleans, LA 70116 (Tremé)
+**Phone:** (504) 302-2400
+**Google:** 4.2 stars, 629 reviews · Instagram: none found
+**Hours:** ~11am–5pm, closed Saturday — **unconfirmed.** Google returned only "Saturday: Closed"; 11am–5pm comes from the restaurant's own Facebook posts. **Confirm before relying on the open/closed pill.**
+**Best time to walk in:** Mid-afternoon, roughly 2:30–4:00pm, after the lunch service and before close.
+**Likely decision-maker:** The sisters. Profile says Black-owned; it is a family dining room and somebody takes your order at the table, so just ask.
+
+**Why they need this:** 629 reviews and the only Round 2 business whose real menu prices we have, because one of their profile photos is the Sunday menu sitting on a table. Dinners at $15.50 with rice, gravy and a vegetable included is a genuinely competitive number that nobody can see. They also cater, with nowhere to send an enquiry.
+
+**The hook:** "Your prices are your best argument and the only place they exist online is a customer's blurry photo of a menu on a table."
+
+**Show them first:** the menu block. It is the only Round 2 preview with real numbers on it and it will land immediately.
+
+**Watch for:** **Three things to reconcile.** The menu photo is headed "Two Sistas N Treme'" and gives 1614 Basin St; Google says "Two Sisters Soul Food in Treme" at 1610. Hours are unconfirmed. And the prices are off a Sunday menu, so other days may differ. All three are good reasons for a second conversation rather than problems.
+
+**Touch log:**
+- _(none yet)_
+
+---
