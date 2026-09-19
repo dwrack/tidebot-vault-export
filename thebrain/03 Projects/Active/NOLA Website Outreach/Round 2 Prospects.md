@@ -18,19 +18,19 @@ Chez Pierre Bakery Lakeview.
 
 | # | Name | Category | Neighborhood | Rating | Reviews | Phone | Google CID | Place ID | Instagram | Status |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Beach On Bourbon | Bar | French Quarter | 4.4 | 3117 | — | `8160903279676329652` | `ChIJcz2iCwymIIYRtI5tZ0taQXE` | @beachonbourbon_ | Not started |
-| 2 | Cafe Porche & Snowbar \| Coffee, Brunch, Pastries & Snowballs | Brunch restaurant | Faubourg Lafayette | 4.9 | 668 | 504-481-2535 | `8437514516267716873` | `ChIJsXLDV3alIIYRCdFWqb8SGHU` | @cafeporche | Not started |
-| 3 | City Donuts & Café | Donut shop | Uptown/Carrollton | 4 | 1034 | 504-372-5811 | `17946551155319176092` | `ChIJEc1xormlIIYRnPss3DD1Dvk` | @city.donuts | Not started |
-| 4 | Pal's Lounge | Bar | Bayou St. John | 4.6 | 708 | 504-488-7257 | `15489332774993295258` | `ChIJU9mY_1ivIIYRmndKxRcq9dY` | @palsloungenola | Not started |
+| 1 | Beach On Bourbon | Bar | French Quarter | 4.4 | 3117 | — | `8160903279676329652` | `ChIJcz2iCwymIIYRtI5tZ0taQXE` | @beachonbourbon_ | **Disqualified** - has thebeachonbourbon.com |
+| 2 | Cafe Porche & Snowbar \| Coffee, Brunch, Pastries & Snowballs | Brunch restaurant | Faubourg Lafayette | 4.9 | 668 | 504-481-2535 | `8437514516267716873` | `ChIJsXLDV3alIIYRCdFWqb8SGHU` | @cafeporche | **Disqualified** - has cafeporchesnowbar.com |
+| 3 | City Donuts & Café | Donut shop | Uptown/Carrollton | 4 | 1034 | 504-372-5811 | `17946551155319176092` | `ChIJEc1xormlIIYRnPss3DD1Dvk` | @city.donuts | **Built** - /city-donuts-caf/ |
+| 4 | Pal's Lounge | Bar | Bayou St. John | 4.6 | 708 | 504-488-7257 | `15489332774993295258` | `ChIJU9mY_1ivIIYRmndKxRcq9dY` | @palsloungenola | **Built** - /pal-s-lounge/ |
 | 5 | Don Leoncio Cigars Bar | Cigar shop | Central Business District | 4.4 | 602 | 504-527-6557 | `6929254245760707317` | `ChIJ1cxmNg2mIIYR9SrvFAaoKWA` | @donleonciocigars | Not started |
 | 6 | Two Sisters Soul Food in Treme | Soul food restaurant | Tremé / Lafitte | 4.2 | 629 | 504-302-2400 | `13474455342148048429` | `ChIJ-0-JRPgCnogRLVaZMr7h_ro` | — | Not started |
-| 7 | Holy Crepes! | Creperie | French Quarter | 4.7 | 295 | 504-370-3790 | `14865451748631571826` | `ChIJzTYEOLanIIYRcu3k1pqxTM4` | — | Not started |
-| 8 | The Upper Quarter | Bar | French Quarter | 4.7 | 358 | — | `2708417510080229773` | `ChIJnd-d_QumIIYRjbHHJ2A7liU` | — | Not started |
-| 9 | Matassa's Market | Grocery store | French Quarter | 4.4 | 426 | 504-412-8700 | `13567540052451992451` | `ChIJrcpoEhCmIIYRgyNJNsuVSbw` | — | Not started |
-| 10 | Markey's Bar | Bar | Bywater | 4.5 | 489 | 504-943-0785 | `11289249334413817094` | `ChIJZc-4LS6mIIYRBvWM5nR4q5w` | @markeysbar | Not started |
-| 11 | little bar on gravier | Bar | Central Business District | 4.8 | 414 | 504-333-6665 | `8886745612695476133` | `ChIJTT_ySMKnIIYRpZf5_QwQVHs` | @littlebarongravier | Not started |
+| 7 | Holy Crepes! | Creperie | French Quarter | 4.7 | 295 | 504-370-3790 | `14865451748631571826` | `ChIJzTYEOLanIIYRcu3k1pqxTM4` | — | **Built** - /holy-crepes/ |
+| 8 | The Upper Quarter | Bar | French Quarter | 4.7 | 358 | — | `2708417510080229773` | `ChIJnd-d_QumIIYRjbHHJ2A7liU` | — | **Built** - /the-upper-quarter/ |
+| 9 | Matassa's Market | Grocery store | French Quarter | 4.4 | 426 | 504-412-8700 | `13567540052451992451` | `ChIJrcpoEhCmIIYRgyNJNsuVSbw` | — | **Disqualified** - has matassas.com |
+| 10 | Markey's Bar | Bar | Bywater | 4.5 | 489 | 504-943-0785 | `11289249334413817094` | `ChIJZc-4LS6mIIYRBvWM5nR4q5w` | @markeysbar | **Built** - /markey-s-bar/ |
+| 11 | little bar on gravier | Bar | Central Business District | 4.8 | 414 | 504-333-6665 | `8886745612695476133` | `ChIJTT_ySMKnIIYRpZf5_QwQVHs` | @littlebarongravier | **Built** - /little-bar-on-gravier/ |
 | 12 | The John | Bar | Marigny | 4.3 | 571 | 504-942-7159 | `14689826712279967989` | `ChIJB9Ob4ximIIYR9eh9lZC_3Ms` | @thejohnneworleans | Not started |
-| 13 | Seal's Class Act | Bar | Seventh Ward | 4.4 | 398 | 504-940-3055 | `14466709210050295837` | `ChIJc2nwPqmoIIYRHXjr7WATxMg` | — | Not started |
+| 13 | Seal's Class Act | Bar | Seventh Ward | 4.4 | 398 | 504-940-3055 | `14466709210050295837` | `ChIJc2nwPqmoIIYRHXjr7WATxMg` | — | **Skipped** - unusable photo set |
 | 14 | Small Mart Cafe | Vegetarian restaurant | Marigny | 4.8 | 291 | 504-766-8740 | `10318325183535408495` | `ChIJybfNcBemIIYRb2WY6RUOMo8` | @smallmart | Not started |
 | 15 | New Orleans Snowball | Dessert shop | Gentilly Terrace | 4.5 | 627 | 504-309-5346 | `17836780027783982559` | `ChIJ_YXvYsGoIIYR363YlO74iPc` | — | Not started |
 
@@ -103,6 +103,22 @@ Norma's Sweets Bakery (no domain).
 
 Worth doing this check before every build. Building a site for somebody who already
 has one wastes the work and makes the walk-in pitch land badly.
+
+## Seal's Class Act, skipped and why
+
+Scraped fine (4.4 stars, 399 reviews, 273 of them five stars) but not built. Of the ten
+photos on the Google profile, six are customers with their faces clearly visible and one
+is a straight portrait of a single person. The remaining four are close-up food shots in
+styrofoam, which also contradict a reviewer stating plainly that food is not served there.
+
+That leaves nothing usable for a hero and nothing honest for a "what to order" row. A
+preview whose gallery is mostly identifiable strangers is not something to hand an owner
+on a phone, so it was dropped rather than shipped thin.
+
+Worth revisiting if someone can shoot two or three photos of the room on a walk-in, or if
+the owner has their own. The business itself is a good target: Seventh Ward lounge, open
+to 3am and to 5am on Fridays, closed Tuesdays, and there is a daiquiri operation next door
+under the same name.
 
 ## Notes on status values from the sweep
 

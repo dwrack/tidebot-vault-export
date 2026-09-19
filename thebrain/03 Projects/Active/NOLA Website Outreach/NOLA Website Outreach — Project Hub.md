@@ -1,9 +1,9 @@
 # NOLA Website Outreach — Project Hub
 
 **Date:** September 19, 2026
-**Status:** Sites built (7). Generator pipeline ready on branch `claude/site-generator`. Round 2 blocked on the audit list and a Places API key. Outreach not started. Offer and pricing not yet decided.
+**Status:** Round 1 built (7). Round 2 in progress on branch `claude/site-generator`, built from the recovered audit list. Outreach not started. Offer and pricing not yet decided.
 **Repo:** `dwrack/nola-sites` (GitHub Pages, previews are `noindex` + `robots.txt` Disallow)
-**Related:** [[Prospect Cards — Round 1]] · [[Outreach Scripts]]
+**Related:** [[Prospect Cards — Round 1]] · [[Prospect Cards — Round 2]] · [[Round 2 Prospects]] · [[Outreach Scripts]]
 
 ---
 
@@ -97,16 +97,22 @@ The seven originals were hand-built. They are now data files: `sites/<slug>.json
 
 Full instructions: `tools/README.md` in that repo.
 
-**What it needs to run, and why it did not run on 2026-09-19:**
-- A Google Maps Platform key with Places API (New) enabled, in `GOOGLE_MAPS_API_KEY`. None exists in any repo or environment.
-- Network access to Google and Instagram. The cloud session's network policy blocks google.com, maps.googleapis.com photo media, googleusercontent, instagram.com, and cdninstagram. Run it on David's machine, or open those hosts in the environment settings.
-- The audit list. It is not in the vault export, `nola-sites`, or `tidebot`. It lives in the local "GMB audit New Orleans" session. Export it as one line per business (`Name, New Orleans` or the ChIJ place id) into `prospects.txt` and run `tools/fetch.py --list prospects.txt`.
+**What it actually needed, resolved 2026-09-19 on David's Mac:**
+- *The audit list.* Found. It was never in the vault export or either repo; it is at `TheBrain/03 Projects/NOLA Web Studio/candidates.csv`, 345 rows, written 2026-09-11. Copied into [[Round 2 Prospects]]. The companion note in that folder is evicted from iCloud and would not re-download, so only the CSV was read.
+- *A Places API key.* Still missing, and worked around rather than solved. The only Google key on this machine is `PSI_KEY` in `~/.claude/.env`, a PageSpeed Insights key on project 305859912611. Places API (New) is disabled on that project and it is a billable API, so enabling it is David's call, not an autonomous one. `tools/fetch.py` therefore cannot run at all.
+- *The substitute.* `tools/scrape_maps.js` reads the Maps place page with Playwright and `tools/from_scrape.py` feeds the result through fetch.py's own `skeleton()`, so the JSON that comes out is identical in shape to the API path and `test_roundtrip.py` stays green. This also recovers the 5-to-1 star breakdown, which the API never had.
+- *Instagram.* Dead end. instaloader 4.13.2 fails on every public profile with a schema error from Instagram's side (`ig_business_category_subvertical has been deleted`). Anonymous access is not possible and logging in as David was not something to do unattended. Every photo on every Round 2 site is from Google.
+- *Popular times.* Not obtainable. Google no longer renders the popular-times chart for a signed-out browser. Confirmed by scraping Mother's Restaurant, which Round 1 has real popular-times data for, and getting nothing. Every walk-in window in [[Prospect Cards — Round 2]] is reasoned from posted hours instead, and says so.
 
 Not in the API and left blank for new sites (the page hides the block): popular times, the 5-to-1 star breakdown, the topic cloud. The originals got those from the Maps page itself.
 
 ## Round 2 candidates
 
-Not yet pulled. See the pipeline section above for what unblocks this. Target: no-website listings with 200+ reviews and 4.0+ rating.
+Pulled and verified. Full table in [[Round 2 Prospects]], one card per business in [[Prospect Cards — Round 2]].
+
+Filter: the sweep's `food_bar_cafe` bucket, site status NONE / NONE (social only) / SQUATTER, 200+ reviews, 4.0+ rating, minus the seven already built. 48 rows cleared that bar.
+
+**Check the domain before building.** Three of the top fifteen turned out to own a live website that simply is not linked on their Google profile, which is what made the sweep read them as having none: Beach On Bourbon (thebeachonbourbon.com), Cafe Porche & Snowbar (cafeporchesnowbar.com), Matassa's Market (matassas.com). Cafe Porche is the instructive one, a JS app with an empty HTML title, so a status-code check alone reads it as parked. They were dropped and three reserves promoted in their place.
 
 ---
 
@@ -115,3 +121,10 @@ Not yet pulled. See the pipeline section above for what unblocks this. Target: n
 - **2026-09-17** — v3 of all seven sites pushed to `dwrack/nola-sites` (menus with prices, live open status, popular-times chart, rating bars, topic cloud, lightbox, deep links, schema). Desktop reveal animation and copy fixes were still being debugged.
 - **2026-09-19** — Project hub, prospect cards, and outreach scripts written. No outreach yet.
 - **2026-09-19** — Generator pipeline built on `nola-sites` branch `claude/site-generator`: extract, build, fetch, themes, byte-exact round-trip test. Copy fixes applied on that branch (Chez Pierre stat now 4.3 to match the rating, verify against the live listing; Viet Orleans 852 everywhere; "Inc" dropped from Ryan's). Round 2 blocked: no audit list reachable, no Places key, Google and Instagram blocked by the cloud network policy.
+- **2026-09-19 (afternoon, David's Mac)** — Round 2 unblocked and building. Ran on the Mac specifically because Google and Instagram are blocked from the cloud environment.
+  - **Audit list found.** `TheBrain/03 Projects/NOLA Web Studio/candidates.csv`, 345 rows from the 2026-09-11 sweep. Copied into [[Round 2 Prospects]] with name, category, neighbourhood, rating, reviews, phone, CID and place id. The sibling note in that folder is an iCloud stub that would not download; only the CSV was read.
+  - **No Places API key, so the pipeline was rerouted rather than run.** Places API (New) is disabled on the one Google project available here and it is billable, so turning it on is David's decision. `tools/scrape_maps.js` (Playwright against the Maps place page) plus `tools/from_scrape.py` (hands the result to fetch.py's own `skeleton()`) now do the same job. `test_roundtrip.py` stays green on all seven originals throughout.
+  - **Three prospects disqualified on inspection**: Beach On Bourbon, Cafe Porche & Snowbar and Matassa's Market all own live websites that are simply not linked on their Google profile. Builds for them were deleted, not shipped. Three reserves promoted.
+  - **Could not do:** Instagram photos (instaloader is broken against current Instagram and logging in as David unattended was not appropriate), popular times (Google no longer serves the chart to a signed-out browser, verified against Mother's Restaurant which Round 1 has data for), and menu prices (none of these businesses publish a menu anywhere, so every menu block is a highlights list with a "prices as posted" note rather than invented numbers).
+  - **Seal's Class Act skipped on photo grounds.** Six of its ten profile photos are customers with faces clearly visible, one is a portrait of a single person, and the other four are food shots that contradict a review saying food is not served. Nothing usable for a hero. Details in [[Round 2 Prospects]].
+  - **Vault sync did not reach `main`.** `scripts/sync-vault-export.js` exported 2,333 files but the push was rejected. The local export diverged from `origin/main` on 2026-04-20 and is 629 commits ahead / 219 behind; main's last vault-sync commit is from April. Merging risked clobbering the Todo.md edits the cloud side has been making since, so the work was pushed to branch `mac-vault-sync-2026-09-19` instead. **This needs David's call: the Mac's vault export has not reached GitHub main in five months.**
