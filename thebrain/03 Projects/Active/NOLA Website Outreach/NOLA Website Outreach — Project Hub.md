@@ -1,7 +1,7 @@
 # NOLA Website Outreach — Project Hub
 
 **Date:** September 19, 2026
-**Status:** Sites built (7). Outreach not started. Offer and pricing not yet decided.
+**Status:** Sites built (7). Generator pipeline ready on branch `claude/site-generator`. Round 2 blocked on the audit list and a Places API key. Outreach not started. Offer and pricing not yet decided.
 **Repo:** `dwrack/nola-sites` (GitHub Pages, previews are `noindex` + `robots.txt` Disallow)
 **Related:** [[Prospect Cards — Round 1]] · [[Outreach Scripts]]
 
@@ -61,9 +61,10 @@ Decisions still open:
 - [ ] **Confirm the preview URL loads on a phone** over cellular, not just wifi. The sandbox could not reach github.io, so this is unverified as of today.
 - [ ] **Verify each business really has no website.** The audit flagged the Google profile's website field as empty, which is not the same thing. Mother's Restaurant is a nationally known 88-year-old institution and almost certainly has a site; if so, either drop it or reframe the pitch as a redesign. Cajun Mike's is worth a second check too.
 - [ ] **Fix the data mismatches** in the preview copy before showing them to an owner who knows their own numbers:
-  - Chez Pierre: hero badge says 4.3 stars, stats bar says "4.7 stars on Google." One is wrong.
-  - Viet Orleans: header says 852 reviews, stats bar says 837.
-- [ ] **Drop "Inc" from Ryan's Irish Pub** everywhere in the page. That is the legal name from the Google listing, not what anyone calls it.
+  - Chez Pierre: hero badge said 4.3, stats bar said 4.7. Now 4.3 in both on the generator branch; confirm which is right against the live listing.
+  - Viet Orleans: 837 vs 852. Now 852 everywhere on the generator branch.
+- [x] **Drop "Inc" from Ryan's Irish Pub.** Done on the generator branch (folder slug unchanged).
+- [ ] **Merge `claude/site-generator` into `main`** on `nola-sites` once the local session's uncommitted work, if any, is pushed. It touches only three of the seven pages plus new `tools/` and `sites/` folders.
 - [ ] **Photo rights.** Every gallery is built from the business's public Google profile photos, some of which are customer uploads. For a preview that is fine. Before a site goes live under the owner's domain, ask them for their own photos or get an okay on the specific images used. Put this in the onboarding step, not the pitch.
 - [ ] **Add a "Preview" ribbon or footer line** to each page ("Preview built for [Business] by David Rack. Not yet live.") so anyone who stumbles on it knows what it is, and so the owner sees it was made for them specifically.
 - [ ] Print a one-page leave-behind (QR code to the preview, the offer in three lines, David's cell). Owners are rarely in when you walk in; the leave-behind is what the cook hands them.
@@ -86,9 +87,26 @@ Track: visits made, owners actually reached, yeses, and the objection that kille
 
 ---
 
+## Build pipeline (Round 2 and beyond)
+
+The seven originals were hand-built. They are now data files: `sites/<slug>.json` in `dwrack/nola-sites` (branch `claude/site-generator`), rendered by `tools/build.py`. The round-trip test proves the generator reproduces all seven byte for byte, so any new site is:
+
+1. `tools/fetch.py "Name, New Orleans" --instagram handle` pulls the Google profile (name, address, phone, hours, rating, reviews, CID, up to 12 photos at 1600px) and the top 8 Instagram posts by likes, picks a theme by place type, and writes the JSON with every copy field marked TODO plus a photo contact sheet.
+2. Pick photos from the contact sheet, write the copy (headline, story, what to order, menu, tip), run `tools/build.py <slug>`.
+3. Places that already have a website are skipped automatically.
+
+Full instructions: `tools/README.md` in that repo.
+
+**What it needs to run, and why it did not run on 2026-09-19:**
+- A Google Maps Platform key with Places API (New) enabled, in `GOOGLE_MAPS_API_KEY`. None exists in any repo or environment.
+- Network access to Google and Instagram. The cloud session's network policy blocks google.com, maps.googleapis.com photo media, googleusercontent, instagram.com, and cdninstagram. Run it on David's machine, or open those hosts in the environment settings.
+- The audit list. It is not in the vault export, `nola-sites`, or `tidebot`. It lives in the local "GMB audit New Orleans" session. Export it as one line per business (`Name, New Orleans` or the ChIJ place id) into `prospects.txt` and run `tools/fetch.py --list prospects.txt`.
+
+Not in the API and left blank for new sites (the page hides the block): popular times, the 5-to-1 star breakdown, the topic cloud. The originals got those from the Maps page itself.
+
 ## Round 2 candidates
 
-Not yet pulled. The audit list lives in the local session that built Round 1 (the "GMB audit New Orleans" session on David's machine). Export the remaining no-website listings with 200+ reviews and 4.0+ rating to this note when Round 1 has two yeses.
+Not yet pulled. See the pipeline section above for what unblocks this. Target: no-website listings with 200+ reviews and 4.0+ rating.
 
 ---
 
@@ -96,3 +114,4 @@ Not yet pulled. The audit list lives in the local session that built Round 1 (th
 
 - **2026-09-17** — v3 of all seven sites pushed to `dwrack/nola-sites` (menus with prices, live open status, popular-times chart, rating bars, topic cloud, lightbox, deep links, schema). Desktop reveal animation and copy fixes were still being debugged.
 - **2026-09-19** — Project hub, prospect cards, and outreach scripts written. No outreach yet.
+- **2026-09-19** — Generator pipeline built on `nola-sites` branch `claude/site-generator`: extract, build, fetch, themes, byte-exact round-trip test. Copy fixes applied on that branch (Chez Pierre stat now 4.3 to match the rating, verify against the live listing; Viet Orleans 852 everywhere; "Inc" dropped from Ryan's). Round 2 blocked: no audit list reachable, no Places key, Google and Instagram blocked by the cloud network policy.
