@@ -329,3 +329,91 @@ Preview base URL: `https://dwrack.github.io/nola-sites/`
 - _(none yet)_
 
 ---
+
+## 15. Mick's Irish Pub
+
+**Preview:** `/mick-s-irish-pub/`
+**Address:** Mid-City, New Orleans · **Phone:** (504) 482-9113
+**Google:** 4.5 stars, 377 reviews (252 five-star) · Instagram: none found
+**Hours:** 11am–2am, seven days
+**Best time to walk in:** 11:00am–1:00pm, right at open, any weekday.
+**Likely decision-maker:** Unknown. Ask the opening bartender.
+
+**Why they need this:** 377 reviews, an 11am open, a shuffleboard table with New Orleans Shuffleboard League plaques above it, and no website. They play in the same league as Markey's, which is a second reason to pitch both in the same week and mention each to the other.
+
+**The hook:** "You and Markey's are in the same shuffleboard league and neither of you has a website. I built both."
+
+**Show them first:** the hero, which is their own back bar with the hand-lettered board, the Gnarly Barley surfboard and the NO IRISH NEED APPLY plaque. It proves a person looked.
+
+**Watch for:** Nothing outstanding. This is the cleanest build of the four added in this batch.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 16. Vic's Kangaroo Cafe
+
+**Preview:** `/vic-s-kangaroo-cafe/`
+**Address:** 636 Tchoupitoulas St, New Orleans, LA 70130 (Warehouse District) · **Phone:** (504) 524-4329
+**Google:** 4.5 stars, 341 reviews (243 five-star) · Instagram: none found
+**Hours:** Mon–Thu 5pm–4am · Fri–Sat 11am–5am · Sun 11am–4am — **from published listings.** Google publishes **Saturday only** for this business.
+**Best time to walk in:** Weekday around 5:00–6:30pm, right at open.
+**Likely decision-maker:** Unknown, but an owner post on Google dated Aug 19 2026 advertised a 35th anniversary party, so ownership is active on the listing.
+
+**Why they need this:** Thirty-five years on Tchoupitoulas, fifteen taps, an Australian theme nobody else in the city has, and no website. They are two blocks from the Convention Center, which is a conference-visitor search they lose entirely.
+
+**The hook:** "Google only knows what day you're open on Saturdays. Thirty-five years in and it can't tell anyone when you're open the rest of the week."
+
+**Show them first:** the missing hours on their own Google listing, on your phone. It is a free fix you can do with them in two minutes, and it earns the rest of the conversation. Then the hero.
+
+**Watch for:** **Hours are the live issue.** The site uses published-listing hours because Google's are nearly empty; confirm the real week before pitching, since the open/closed pill depends on them. Three photos had Google Maps viewer chrome burned into them; two were dropped and the jambalaya shot was cropped (uncropped original kept in `img/_originals/`).
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 17. B J's Lounge
+
+**Preview:** `/b-j-s-lounge/`
+**Address:** 4301 Burgundy St, New Orleans, LA 70117 (Bywater) · **Phone:** (504) 945-9256 — **from directories, not the Google profile.**
+**Google:** 4.6 stars, 388 reviews · Instagram: @bjslounge
+**Hours:** 1pm–4am daily — **from directories.** Google returned Saturday only. Yelp corroborates Sunday 1pm–4am.
+**Best time to walk in:** 1:00–3:00pm, right at open. Monday is red beans night, so Monday afternoon is the warmest.
+**Likely decision-maker:** Unknown. Neighborhood bar, ask at the bar.
+
+**Why they need this:** 388 reviews, 4.6 stars, and the Google profile has no phone, near-empty hours and no website. Their Monday red beans with live music is a recurring event with nowhere to advertise it.
+
+**The hook:** "Your Google listing has no phone number and one day of hours on it. Monday red beans is your best night and there's nowhere online that says it's happening."
+
+**Show them first:** the empty phone field on their own Google listing. Then the hero, which is their side-wall mural.
+
+**Watch for:** **The thinnest data of any Round 2 site.** Google served the no-review layout on all three attempts, so there is no quote band, no review cards and no star bars. Phone and hours both need confirming. Also: the copy describes the mural without naming who it depicts, because that could not be verified. Ask.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 18. Tastee Restaurant Deli-Donuts
+
+**Preview:** `/tastee-restaurant-deli-donuts/`
+**Address:** 2549 Esplanade Ave, New Orleans, LA 70119 (Seventh Ward) · **Phone:** (504) 949-8690
+**Google:** 4.2 stars, 461 reviews (279 five-star) · Instagram: none found
+**Hours:** Mon–Sat 5am–5pm · Sun 5am–1pm. **Verified twice**, by the scrape and by the hand-lettered OPEN sign in their own window.
+**Best time to walk in:** 2:00–4:00pm weekday. The 5am open means the morning is their rush and the afternoon is quiet.
+**Likely decision-maker:** Unknown, counter operation. Ask who runs it.
+
+**Why they need this:** 461 reviews, open at 5am every day, and doing two businesses at once, a donut case and a burger griddle, with no website. Kastleburgers are a specific New Orleans thing people search by name.
+
+**The hook:** "You open at five in the morning and you're the only place on Esplanade doing Kastleburgers and donuts off the same counter. Neither fact is findable."
+
+**Show them first:** the menu block. It is one of only two Round 2 sites with real prices on it, read straight off their own board.
+
+**Watch for:** **Donut and drink prices are from the in-store board photo; the griddle prices are not on that board and are deliberately left blank.** If they want burger and poboy prices on the page, that is a five-minute edit and a good reason for a second visit. Worth confirming the board prices are current, since a photo has no date on it.
+
+**Touch log:**
+- _(none yet)_
+
+---

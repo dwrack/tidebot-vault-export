@@ -73,22 +73,37 @@ Chez Pierre Bakery Lakeview.
 
 ## Where Round 2 landed
 
-**14 sites built** and pushed to `dwrack/nola-sites`, branch `claude/site-generator`,
+**18 sites built** and pushed to `dwrack/nola-sites`, branch `claude/site-generator`,
 one commit each. The round-trip test stays green on all seven Round 1 originals.
 
 | Outcome | Count | Which |
 |---|---|---|
-| Built | 14 | Markey's Bar, City Donuts, Pal's Lounge, Holy Crepes!, The Upper Quarter, little bar on gravier, Small Mart Cafe, New Orleans Snowball, Bertha's Place, Boondock Saint, Norma's Sweets Bakery, Don Leoncio, The John, Two Sisters |
+| Built | 18 | Markey's Bar, City Donuts, Pal's Lounge, Holy Crepes!, The Upper Quarter, little bar on gravier, Small Mart Cafe, New Orleans Snowball, Bertha's Place, Boondock Saint, Norma's Sweets Bakery, Don Leoncio, The John, Two Sisters, Mick's Irish Pub, Vic's Kangaroo Cafe, B J's Lounge, Tastee Deli-Donuts |
 | Disqualified, already have a website | 3 | Beach On Bourbon, Cafe Porche & Snowbar, Matassa's Market |
 | Skipped, unusable photos | 1 | Seal's Class Act |
 
-Two of the fourteen are thinner than the rest because Google never served review
-bodies for them on any pass: **Don Leoncio** and **Two Sisters** have no quote band
-and no star-rating bars. Everything else on those pages is real.
+Don Leoncio and Two Sisters were thin on the first pass and have since been fixed:
+re-scraping caught the other page layout and both now carry a real quote, review cards
+and star bars. **B J's Lounge** is the one that stayed thin. Google served the
+no-review layout on all three attempts, so it has no quote band and no rating bars.
 
-Three have data worth confirming before a walk-in, all flagged on their cards:
-The Upper Quarter's phone (not on their Google profile), Don Leoncio's hours
-(third-party), and Two Sisters' hours (third-party, and Google only gave Saturday).
+Two sites now carry real menu prices, both read off a photograph of the business's own
+board: **Two Sisters** (their Sunday sheet) and **Tastee** (the in-store digital board,
+donuts and drinks only, the griddle side is deliberately blank).
+
+**Confirm before walking in, all flagged on the individual cards:**
+
+| Site | What needs checking |
+|---|---|
+| The Upper Quarter | phone is not on their Google profile, taken from directories |
+| Vic's Kangaroo Cafe | Google publishes Saturday only; the rest of the week is from listings |
+| B J's Lounge | phone and hours both from directories; no review data at all |
+| Tastee | griddle prices unknown; board prices are from an undated photo |
+| Two Sisters | their own menu says "Two Sistas N'Treme'" and 1614 Basin St, Google says 1610 |
+| Bertha's Place | their sign photo carries an old address on Basin St |
+
+Google's own data has been wrong or missing often enough in this round that it is worth
+treating the hours block as a question for the owner rather than a fact, every time.
 
 ## Website verification, Sept 19 2026
 
