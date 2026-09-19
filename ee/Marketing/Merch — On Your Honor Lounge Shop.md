@@ -107,6 +107,12 @@ Rough starting order: 20 towels, 24 bottles, 15 sauna hats, 24 beanies, 30 tees,
 
 ---
 
+## Vendor Outreach
+
+Sample requests went out to 100+ companies across every category on September 19, 2026. The full list, contacts, template, and reply log live in `Merch — Sample Outreach Tracker.md`. That note also adds a few sauna-specific items the research surfaced: Finnish löyly scents, changing robes, venik whisks, hygrometers, and bathhouse body care.
+
+---
+
 ## Open Questions
 
 - [ ] Ask Jordan for the Pals merch contact (already on the todo) and get minimums and per-unit costs for tee, beanie, cap, towel
