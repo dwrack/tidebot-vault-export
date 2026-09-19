@@ -2,13 +2,13 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 0
+bookings_today: 2
+revenue_today: 179
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "FH scrape failed for 9/17, goal pace unavailable; Google Ads now confirmed 8+ days dark; review backlog fully cleared yesterday"
-updated: 2026-09-18
+alert: "Google Ads dark 9th straight day — top action item; goal pace fallen to 35% of target"
+updated: 2026-09-19
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,11 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scraper failed completely for 9/17 (all 6 tracked businesses, timeouts) — second full outage in 8 days. Last good 6-day avg (Sep 11-16) was $438.17/day ($3,067/wk, 44% of the $7,000 target, worst pace in the portfolio), but reusing that number would be stale, not current.
-- **Google Ads (8672151991) confirmed dark again** — $0 spend, 0 impressions both yesterday and the last-7-days pull, now at least 8 straight days. Still the top action item. See today's brief Action Items #2.
-- **Review-reply backlog fully cleared yesterday.** All 4 open reviews (Sharon Pitt, mary williamson, Kelli Lammert, Larry Anderson) got replies on 9/17 — a genuine win, downgraded status from red to yellow accordingly (Google Ads outage keeps it off green).
+- **Goal pace: $2,472/wk booked vs $7,000 target — 35% of goal, worst pace in the portfolio.** Trailing 6-day avg (Sep 12,13,14,15,16,18) is $353.17/day — down from 44% a few days ago.
+- **Google Ads (8672151991) confirmed dark for the 9th straight day** — $0 spend, 0 impressions both yesterday and the last-7-days pull. Still the top action item portfolio-wide. See today's brief Action Items #1.
+- **Review-reply backlog stays clear** — 0 unreplied, all 4 reviews from last week's backlog remain replied.
 - **Meta (act_10153674414451399) logged $0 again** — same account also covers Cave Point and Door County Ebike, both dark too.
-- GSC: "door county kayak tours" #1 / 20 clicks (8-day window) — still biggest single-term volume in the portfolio, unaffected by the ad outage.
+- GSC: "door county kayak tours" #2.3 / 20 clicks (8-day window) — still biggest single-term volume in the portfolio, unaffected by the ad outage.
 <!-- live:end -->
 
 ## Quick links

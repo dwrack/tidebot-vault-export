@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-18 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR. FareHarbor's scraper failed completely for 9/17 — all 6 tracked businesses timed out, second full outage in 8 days — so every goal-pace number is blind this run rather than reused stale. DCKT's Google Ads is confirmed $0 spend / 0 impressions for 8+ straight days, still unresolved. HPB's TikTok pull failed again with the browser not running at all (ECONNREFUSED), second run in a row. DCKT did clear its entire 4-review reply backlog yesterday, a genuine win. Ebb & Ember's review backlog grew by one. No `meta-organic` MCP connected this session, so Instagram wasn't pulled.)*
+*Last refresh: 2026-09-19 (Live GBP, Google Ads, Meta, GSC/GA4, Gmail, TLDR, FareHarbor. FH scraper recovered — 9/18 was a strong booking day, $12,519/65 bookings, well above the 6-day average. DCKT's Google Ads is confirmed $0 spend / 0 impressions for the 9th straight day, still the top unresolved item. HPB's TikTok pull failed on `ECONNREFUSED` — no browser reachable at all, second run in a row. Three GSC indexing alerts (NPB, Admire NOLA, LSKT) from 9/16 remain unverified for a 3rd day. No `meta-organic` MCP connected this session, so Instagram wasn't pulled.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-18|Today's brief]]
+- [[Daily Briefings/2026-09-19|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Portfolio-wide — FareHarbor scraper failed completely for 9/17,** all 6 tracked businesses timed out on the same page. Second full outage in 8 days (also 9/10). Blocks booking/revenue visibility and every goal-pace number until fixed.
-2. **DCKT — Google Ads (8672151991) confirmed $0 spend / 0 impressions for the full trailing 7 days,** at least 8 straight dark days during active season. Check for a paused campaign, exhausted budget, or billing hold.
-3. **HPB — TikTok pull failed again,** Playwright's browser isn't running at all (`ECONNREFUSED`), not a login issue. Second consecutive run with this exact failure. Needs a manual relaunch.
+1. **DCKT — Google Ads (8672151991) confirmed $0 spend / 0 impressions for the 9th straight day.** Goal pace has fallen to 35% of the $7,000/wk target. Check for a paused campaign, exhausted budget, or billing hold.
+2. **HPB — approve the pending GA4↔Google Ads integration (proposed 9/18, sitting unread)** — the exact tracking fix the standing goal note demands before spending further. Still burning cash on unclear conversions in the meantime ($42.21 yesterday, 0.83x historical ROAS).
+3. **Cave Point — reply to Donele Jones' 5★ review (Aug 25),** now 25 days open, the single oldest unreplied review anywhere in the portfolio.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 10 | — | — |
-| Unreplied GBP reviews (all biz, 4-5★ only) | 15 | — | — |
-| FH bookings (all biz) | — (scrape failed) | ~47/day (Sep 11-16) | — |
-| FH revenue (all biz) | — (scrape failed) | ~$7,894/day (Sep 11-16) | — |
-| Total ad spend (G+M) | $399.62 | ~$405/day (Google only, 7d) | Meta 7-day avg not pulled this run |
-| Total ad-attributed conversions | ~9 | ~7.6/day (Google only, 7d) | Meta 7-day avg not pulled this run |
+| Gmail unread | 35 | 33.3 | +1.7 |
+| Unreplied GBP reviews (12 biz w/ GBP) | 16 | 12.9 | +3.1 |
+| FH bookings (6 tracked biz) | 65 | 46.3/day | +18.7 |
+| FH revenue (6 tracked biz) | $12,519 | $7,989.50/day | +$4,529.50 |
+| Total ad spend (G+M) | $585.41 | ~$476.27/day | +$109.14 |
+| Total ad-attributed conversions | ~13.8 | ~10.16/day | +3.64 |
 <!-- pulse:end -->
-*FareHarbor's scraper failed completely for 9/17 (all 6 tracked businesses, second outage in 8 days), so every goal-pace number is marked unavailable this run rather than reused stale. Zero 1-3★ reviews are sitting open anywhere in the portfolio. DCKT cleared its full 4-review reply backlog yesterday. Ebb & Ember's backlog grew by one (Carolyn Lee, new). DCKT's Google Ads is confirmed dark for 8+ straight days. HPB's TikTok pull failed again — Playwright's browser isn't running. No `meta-organic` MCP connected this session, so Instagram wasn't pulled.*
+*FareHarbor recovered after 9/17's full outage — 9/18 was the strongest booking day of the week, well above the 6-day average, corroborated by FareHarbor's own digest email. Zero 1-3★ reviews are sitting open anywhere in the portfolio; the backlog is entirely 5★ across NPB (5), NKST (3), HPB (3), Ebb & Ember (4), and Cave Point (1, now 25 days old). DCKT's Google Ads is confirmed dark for 9 straight days. HPB's TikTok pull failed on `ECONNREFUSED` — no browser reachable, needs a manual relaunch. No `meta-organic` MCP connected this session, so Instagram wasn't pulled.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-18]] (today)
-- [[Daily Briefings/2026-09-17]] (1 day ago)
-- [[Daily Briefings/2026-09-16]] (2 days ago)
-- [[Daily Briefings/2026-09-15]] (3 days ago)
-- [[Daily Briefings/2026-09-14]] (4 days ago)
-- [[Daily Briefings/2026-09-13]] (5 days ago)
-- [[Daily Briefings/2026-09-12]] (6 days ago)
+- [[Daily Briefings/2026-09-19]] (today)
+- [[Daily Briefings/2026-09-18]] (1 day ago)
+- [[Daily Briefings/2026-09-17]] (2 days ago)
+- [[Daily Briefings/2026-09-16]] (3 days ago)
+- [[Daily Briefings/2026-09-15]] (4 days ago)
+- [[Daily Briefings/2026-09-14]] (5 days ago)
+- [[Daily Briefings/2026-09-13]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

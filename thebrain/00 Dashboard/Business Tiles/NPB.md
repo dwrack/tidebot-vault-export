@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 41
+revenue_today: 9426
 lead_time_days: 0
-ad_spend_yday: 40
+ad_spend_yday: 47
 status: yellow
-alert: "FH scrape failed for 9/17, goal pace unavailable; 4 unreplied 5★ (Ashley martinez back in window, now oldest ~9 days)"
-updated: 2026-09-18
+alert: "5 unreplied 5★ (Reece Botha new 9/18); GSC indexing alert unverified 3rd day"
+updated: 2026-09-19
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,11 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scraper failed completely for 9/17 (all 6 tracked businesses, timeouts) — second full outage in 8 days. Last good 6-day avg (Sep 11-16) was $4,981.17/day ($34,868/wk, 116% of the $30,000 target), but reusing that number would be stale, not current.
-- **Meta spend $40.19 yesterday** across `NPB | Purchase | Retargeting` ($22.08, 152 clicks, 68 outbound clicks, 5 tracked purchases worth $1,391.62, 63x pixel ROAS) and `NPB | Messenger | TOF` ($18.11, 123 clicks, 6 messaging conversations started). A separate unmapped "New Sales Campaign" ($0.66, 2 purchases worth $185.88) is attributed to Admire NOLA by convention.
-- **4 unreplied 5★: Rachel Oldendorf (9/15), Jerica Long (9/14, "we come again n again n again"), Faraz Ansari (9/12), Ashley martinez (9/9, now ~9 days, oldest here)** — Ashley's review re-entered the most-recent-10 scan window.
-- **GSC indexing alert from 9/16 ("blocked due to other 4xx issue") not reverified this run** — the index_status API only returns permission level, not per-URL crawl detail. Needs a manual Search Console check.
-- GSC: "nola party barge" #2.1 / 20 clicks (8-day window) — still the strongest brand-term volume in the portfolio.
+- **Goal pace: $35,467/wk booked vs $30,000 target — 118% of goal.** Trailing 6-day avg (Sep 12,13,14,15,16,18 — excluding 9/17's total scraper outage) is $5,067/day. Yesterday alone ($9,426) nearly doubled that pace, the best single day of the week.
+- **Meta spend $46.74 yesterday** across `NPB | Purchase | Retargeting` ($23.56, 176 clicks, 69 outbound clicks, 4 tracked purchases worth $831.31, 35x pixel ROAS) and `NPB | Messenger | TOF` ($23.18, 187 clicks, 11 new messaging conversations). A separate unmapped "New Sales Campaign" ($0.38) is attributed to Admire NOLA by convention.
+- **5 unreplied 5★, backlog grew by one: Reece Botha (9/18, new today), Rachel Oldendorf (9/15), Jerica Long (9/14, "we come again n again n again"), Faraz Ansari (9/12), Ashley martinez (9/9, now ~10 days, oldest here).**
+- **GSC indexing alert from 9/16 ("blocked due to other 4xx issue") unverified for a 3rd straight day** — the index_status API only returns permission level, not per-URL crawl detail. Needs a manual Search Console check this weekend.
+- GSC: "nola party barge" #2.1 / 25 clicks (8-day window) — still the strongest brand-term volume in the portfolio.
 <!-- live:end -->
 
 ## Quick links

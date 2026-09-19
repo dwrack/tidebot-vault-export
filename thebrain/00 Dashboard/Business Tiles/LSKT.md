@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 0
-revenue_today: 0
+bookings_today: 8
+revenue_today: 460
 lead_time_days: 0
-ad_spend_yday: 63
+ad_spend_yday: 131
 status: yellow
-alert: "FH scrape failed for 9/17, can't confirm whether yesterday's washout continued or recovered; goal pace unavailable"
-updated: 2026-09-18
+alert: "Yesterday's Google CPA ~2x the 7-day avg; Meta still fully dark heading into bat season close"
+updated: 2026-09-19
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,13 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scraper failed completely for 9/17 (all 6 tracked businesses, timeouts) — second full outage in 8 days. Can't confirm whether the 9/16 booking washout (0 bookings/$0 revenue) continued or recovered. Last good 6-day avg (Sep 11-16) was $667.50/day ($4,673/wk, 85% of the $5,500 target).
-- **Demand kept showing up regardless of the FH outage.** The shared Google Ads account spent normally yesterday too ($62.99, 49 clicks, 1 conv, 1.29x ROAS) — a second straight day of Google traffic with no FH confirmation either way.
+- **Goal pace: $4,432/wk booked vs $5,500 target — 81% of goal.** Trailing 6-day avg (Sep 12,13,14,15,16,18) is $633.17/day.
+- **Shared Google Ads account (8497383499, covers LSKT/AKT) yesterday: $131.26 spend, 72 clicks, 2 conv, $65.63 CPA, 1.37x ROAS** — CPA roughly 2x the 7-day avg ($31.63), though still profitable. 7-day: $556.63 / 419 clicks / 17.6 conv / 8.13x ROAS — still the best-performing account in the portfolio by a wide margin.
 - **Meta (`act_638850950128825`) is still completely dark heading into the close of bat season** — zero campaigns, zero spend, confirmed again today.
-- **Shared Google Ads account (8497383499, covers LSKT/AKT), 7-day:** $491.80 / 396 clicks / 17.6 conv / $4,579.51 value / 9.31x ROAS — still the best-performing account in the portfolio by a wide margin.
-- **GSC indexing alert from 9/16 ("duplicate, different canonical") not reverified this run** — the index_status API only returns permission level, not per-URL crawl detail. Needs a manual Search Console check.
+- **GSC indexing alert from 9/16 ("duplicate, different canonical") unverified for a 3rd straight day** — the index_status API only returns permission level, not per-URL crawl detail. Needs a manual Search Console check.
 - Reviews: **0 unreplied** (10 most recent all replied).
-- GSC: "lone star kayak tours" #1 / 4 clicks (8-day window); "kayak tours austin" #3.3 / 2 clicks; "bat kayak tour austin" #10.0 / 1 click, still just outside page 1 — the category-term goal note's target.
+- GSC: "lone star kayak tours" #1 / 2 clicks (8-day window); "kayak tours austin" #3.3 / 2 clicks; "bat kayak tour austin" #9.7 / 1 click, still just outside page 1 — the category-term goal note's target.
 <!-- live:end -->
 
 ## Quick links
