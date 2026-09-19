@@ -41,19 +41,29 @@ the pattern worth catching.
 Not watched: `Gas station` and `GAs station 2`. Despite the names those are the indoor
 ticket counter with staff at the desk. No reason to point an AI judge at that.
 
-Tested against 10 real clips from today's boarding rush. All ten correctly cleared,
-zero false positives, and it read the scene right ("some walking toward boats, some
-toward parking area; no fuel containers"). Measured volume is 48 clips/day across the
-two cameras, about $1/day to judge.
+**It runs free, entirely on the Mac.** No API, no cloud vision, no per-use cost. The
+detector is numpy and ffmpeg: mask fuel-can red, filter to can-shaped blobs, track them
+across frames, and score how far they travel toward the vehicles. A can sitting in
+storage doesn't move, so requiring motion throws out every static red object for free.
+
+Biggest false-alarm source was guests in orange and red clothing walking to their cars
+after a tour. Capping green in the colour mask separates an orange shirt (240,140,40)
+from a red jerrican (200,30,30), and a shape filter drops torsos, which are much taller
+than wide. That took the lot camera from 7 false alarms in 24 clips down to zero.
+
+Measured: fires on a can carried toward the lot on both cameras, stays silent on a can
+carried back toward the boats, and 0 false alarms across 34 real clips.
 
 ## Still open
 
-- [ ] **Where does fueling actually happen?** No frame I pulled shows a fuel pump or
-      dispenser. It looks like fuel moves in portable cans, not off a dock pump. If
-      there's a pump somewhere, say which camera sees it.
 - [ ] Turn on the every-15-minutes schedule (`com.npb.marina-watch.plist`, staged, not
-      loaded)
-- [ ] Nothing has been posted to Slack yet
+      loaded). Nothing has posted to Slack yet.
+- [ ] **Night is the real gap.** Blink goes infrared after dark, colour disappears, and
+      a colour-based detector is blind. If fuel is walking off at night this won't see
+      it. Fixing that means either a brightness-and-shape detector for IR, or flipping
+      `engine` to `claude` for the overnight hours only (a few dollars a month).
+- [ ] A can that isn't red, or one inside a bag or cooler, goes straight past it. That's
+      the honest ceiling of colour matching.
 
 ## Related
 
