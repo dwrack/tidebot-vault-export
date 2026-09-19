@@ -71,6 +71,39 @@ Chez Pierre Bakery Lakeview.
 | Soul's Seafood Market | https://souls-seafood-market.wheree.com/ |
 | Seafood Zone | https://www.boilseafoodhouse.com/ |
 
+## Website verification, Sept 19 2026
+
+The sweep's `own_site` column is not reliable on its own. Three of the primary 15
+turned out to own a live website that simply is not linked on their Google profile,
+which the sweep read as "no website". Each was checked by resolving the obvious
+domains and reading the rendered page, not just the HTTP status.
+
+**Disqualified, they already have a site:**
+
+| Name | Their site | How it was missed |
+|---|---|---|
+| Beach On Bourbon | thebeachonbourbon.com (Squarespace) | not linked on the Google profile |
+| Cafe Porche & Snowbar | cafeporchesnowbar.com | JS app, empty HTML title, so a status check alone reads as parked |
+| Matassa's Market | matassas.com ("French Quarter Grocery Since 1924") | matassasmarket.com redirects to it |
+
+**Checked and still good targets** (the domain is parked, squatted, or belongs to someone else):
+
+| Name | What is on the obvious domain |
+|---|---|
+| Don Leoncio Cigars Bar | donleoncio.com is a parked lander |
+| Holy Crepes! | holycrepesnola.com is a parked lander |
+| Small Mart Cafe | smallmartcafe.com redirects to a gambling site |
+| little bar on gravier | littlebar.com is a bar in Hoboken NJ |
+| New Orleans Snowball | neworleans.com is the city tourism board |
+| City Donuts, Pal's Lounge, Two Sisters, The Upper Quarter, Markey's Bar, The John, Seal's Class Act | no obvious domain resolves |
+
+**Backfill promoted from the reserve** to keep the list at 15, all domain-checked:
+Bertha's Place Bar & Restaurant (no domain), Boondock Saint (domain listed for sale),
+Norma's Sweets Bakery (no domain).
+
+Worth doing this check before every build. Building a site for somebody who already
+has one wastes the work and makes the walk-in pitch land badly.
+
 ## Notes on status values from the sweep
 
 - **NONE (social only)** — no website anywhere, Facebook or Instagram is the whole web presence. Best pitch.
