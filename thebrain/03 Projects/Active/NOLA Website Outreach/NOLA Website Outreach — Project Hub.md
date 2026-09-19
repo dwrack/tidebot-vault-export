@@ -1,9 +1,9 @@
 # NOLA Website Outreach — Project Hub
 
 **Date:** September 19, 2026
-**Status:** Sites built (7). Generator pipeline ready on branch `claude/site-generator`. Round 2 blocked on the audit list and a Places API key. Outreach not started. Offer and pricing not yet decided.
+**Status:** Round 1 built (7). Round 2 built (18), branch `claude/site-generator`, from the recovered audit list. 25 previews total. Outreach not started. Offer and pricing not yet decided.
 **Repo:** `dwrack/nola-sites` (GitHub Pages, previews are `noindex` + `robots.txt` Disallow)
-**Related:** [[Prospect Cards — Round 1]] · [[Outreach Scripts]]
+**Related:** [[Prospect Cards — Round 1]] · [[Prospect Cards — Round 2]] · [[Round 2 Prospects]] · [[Outreach Scripts]]
 
 ---
 
@@ -97,16 +97,22 @@ The seven originals were hand-built. They are now data files: `sites/<slug>.json
 
 Full instructions: `tools/README.md` in that repo.
 
-**What it needs to run, and why it did not run on 2026-09-19:**
-- A Google Maps Platform key with Places API (New) enabled, in `GOOGLE_MAPS_API_KEY`. None exists in any repo or environment.
-- Network access to Google and Instagram. The cloud session's network policy blocks google.com, maps.googleapis.com photo media, googleusercontent, instagram.com, and cdninstagram. Run it on David's machine, or open those hosts in the environment settings.
-- The audit list. It is not in the vault export, `nola-sites`, or `tidebot`. It lives in the local "GMB audit New Orleans" session. Export it as one line per business (`Name, New Orleans` or the ChIJ place id) into `prospects.txt` and run `tools/fetch.py --list prospects.txt`.
+**What it actually needed, resolved 2026-09-19 on David's Mac:**
+- *The audit list.* Found. It was never in the vault export or either repo; it is at `TheBrain/03 Projects/NOLA Web Studio/candidates.csv`, 345 rows, written 2026-09-11. Copied into [[Round 2 Prospects]]. The companion note in that folder is evicted from iCloud and would not re-download, so only the CSV was read.
+- *A Places API key.* Still missing, and worked around rather than solved. The only Google key on this machine is `PSI_KEY` in `~/.claude/.env`, a PageSpeed Insights key on project 305859912611. Places API (New) is disabled on that project and it is a billable API, so enabling it is David's call, not an autonomous one. `tools/fetch.py` therefore cannot run at all.
+- *The substitute.* `tools/scrape_maps.js` reads the Maps place page with Playwright and `tools/from_scrape.py` feeds the result through fetch.py's own `skeleton()`, so the JSON that comes out is identical in shape to the API path and `test_roundtrip.py` stays green. This also recovers the 5-to-1 star breakdown, which the API never had.
+- *Instagram.* Dead end. instaloader 4.13.2 fails on every public profile with a schema error from Instagram's side (`ig_business_category_subvertical has been deleted`). Anonymous access is not possible and logging in as David was not something to do unattended. Every photo on every Round 2 site is from Google.
+- *Popular times.* Not obtainable. Google no longer renders the popular-times chart for a signed-out browser. Confirmed by scraping Mother's Restaurant, which Round 1 has real popular-times data for, and getting nothing. Every walk-in window in [[Prospect Cards — Round 2]] is reasoned from posted hours instead, and says so.
 
 Not in the API and left blank for new sites (the page hides the block): popular times, the 5-to-1 star breakdown, the topic cloud. The originals got those from the Maps page itself.
 
 ## Round 2 candidates
 
-Not yet pulled. See the pipeline section above for what unblocks this. Target: no-website listings with 200+ reviews and 4.0+ rating.
+Pulled and verified. Full table in [[Round 2 Prospects]], one card per business in [[Prospect Cards — Round 2]].
+
+Filter: the sweep's `food_bar_cafe` bucket, site status NONE / NONE (social only) / SQUATTER, 200+ reviews, 4.0+ rating, minus the seven already built. 48 rows cleared that bar.
+
+**Check the domain before building.** Three of the top fifteen turned out to own a live website that simply is not linked on their Google profile, which is what made the sweep read them as having none: Beach On Bourbon (thebeachonbourbon.com), Cafe Porche & Snowbar (cafeporchesnowbar.com), Matassa's Market (matassas.com). Cafe Porche is the instructive one, a JS app with an empty HTML title, so a status-code check alone reads it as parked. They were dropped and three reserves promoted in their place.
 
 ---
 
@@ -115,3 +121,46 @@ Not yet pulled. See the pipeline section above for what unblocks this. Target: n
 - **2026-09-17** — v3 of all seven sites pushed to `dwrack/nola-sites` (menus with prices, live open status, popular-times chart, rating bars, topic cloud, lightbox, deep links, schema). Desktop reveal animation and copy fixes were still being debugged.
 - **2026-09-19** — Project hub, prospect cards, and outreach scripts written. No outreach yet.
 - **2026-09-19** — Generator pipeline built on `nola-sites` branch `claude/site-generator`: extract, build, fetch, themes, byte-exact round-trip test. Copy fixes applied on that branch (Chez Pierre stat now 4.3 to match the rating, verify against the live listing; Viet Orleans 852 everywhere; "Inc" dropped from Ryan's). Round 2 blocked: no audit list reachable, no Places key, Google and Instagram blocked by the cloud network policy.
+- **2026-09-19 (afternoon, David's Mac)** — Round 2 unblocked and building. Ran on the Mac specifically because Google and Instagram are blocked from the cloud environment.
+  - **Audit list found.** `TheBrain/03 Projects/NOLA Web Studio/candidates.csv`, 345 rows from the 2026-09-11 sweep. Copied into [[Round 2 Prospects]] with name, category, neighbourhood, rating, reviews, phone, CID and place id. The sibling note in that folder is an iCloud stub that would not download; only the CSV was read.
+  - **No Places API key, so the pipeline was rerouted rather than run.** Places API (New) is disabled on the one Google project available here and it is billable, so turning it on is David's decision. `tools/scrape_maps.js` (Playwright against the Maps place page) plus `tools/from_scrape.py` (hands the result to fetch.py's own `skeleton()`) now do the same job. `test_roundtrip.py` stays green on all seven originals throughout.
+  - **Three prospects disqualified on inspection**: Beach On Bourbon, Cafe Porche & Snowbar and Matassa's Market all own live websites that are simply not linked on their Google profile. Builds for them were deleted, not shipped. Three reserves promoted.
+  - **Could not do:** Instagram photos (instaloader is broken against current Instagram and logging in as David unattended was not appropriate), popular times (Google no longer serves the chart to a signed-out browser, verified against Mother's Restaurant which Round 1 has data for), and menu prices (none of these businesses publish a menu anywhere, so every menu block is a highlights list with a "prices as posted" note rather than invented numbers).
+
+  - **14 sites built and pushed**, one commit each, to `dwrack/nola-sites` branch `claude/site-generator`. `test_roundtrip.py` green on all seven originals throughout. Preview paths, with the photo source for every one being the business's own public Google profile:
+
+| Site | Preview | Google | Photos used |
+|---|---|---|---|
+| Markey's Bar | `/markey-s-bar/` | 4.5 / 490 | 10 Google profile |
+| City Donuts & Café | `/city-donuts-caf/` | 4.0 / 1,034 | 10 Google profile |
+| Pal's Lounge | `/pal-s-lounge/` | 4.6 / 709 | 10 Google profile |
+| Holy Crepes! | `/holy-crepes/` | 4.7 / 295 | 10 Google profile |
+| The Upper Quarter | `/the-upper-quarter/` | 4.7 / 358 | 10 Google profile |
+| little bar on gravier | `/little-bar-on-gravier/` | 4.8 / 415 | 10 Google profile |
+| Small Mart Cafe | `/small-mart-cafe/` | 4.8 / 293 | 10 Google profile |
+| New Orleans Snowball | `/new-orleans-snowball/` | 4.5 / 627 | 10 Google profile |
+| Bertha's Place | `/bertha-s-place-bar-restaurant/` | 4.4 / 678 | 10 Google profile |
+| Boondock Saint | `/boondock-saint/` | 4.7 / 382 | 10 Google profile |
+| Norma's Sweets Bakery | `/norma-s-sweets-bakery/` | 4.3 / 536 | 10 Google profile |
+| Don Leoncio | `/don-leoncio-cigars-bar/` | 4.4 / 602 | 14 Google profile |
+| The John | `/the-john/` | 4.3 / 571 | 14 Google profile |
+| Two Sisters | `/two-sisters-soul-food-in-treme/` | 4.2 / 629 | 14 Google profile |
+
+  - **Menu prices.** Only Two Sisters has real ones, because one of their profile photos is the Sunday menu lying on a table. Every other site's menu block is a highlights list with a note saying prices are as posted. No prices were invented anywhere.
+  - **Two sites are thinner than the rest.** Don Leoncio and Two Sisters have no quote band and no star-rating bars, because Google served the review-less page layout for both on every attempt. The template omits those blocks cleanly. Worth one more scraping pass each if either says yes.
+  - **Still to verify before anyone walks in:** The Upper Quarter's phone number (not on their Google profile, taken from directories), Don Leoncio's hours and Two Sisters' hours (both third-party), and Two Sisters' name and street number, which differ between their own menu and their Google listing. All flagged on the individual cards.
+  - **Pipeline bug worth knowing about for Round 3.** `fetch.py`'s `skeleton()` fills the review cards with the top three scraped reviews by star rating. Where a place only yields three reviews, that puts the negative ones straight onto the page. The John was rendering two one-stars, one of them a detailed allegation about a security guard, and New Orleans Snowball was rendering a two-star about a card surcharge. Both are fixed, and every Round 2 page now filters to four stars and up, but **check this on any new site before showing it to an owner.**
+  - **Seal's Class Act skipped on photo grounds.** Six of its ten profile photos are customers with faces clearly visible, one is a portrait of a single person, and the other four are food shots that contradict a review saying food is not served. Nothing usable for a hero. Details in [[Round 2 Prospects]].
+  - **Vault sync did not reach `main`.** `scripts/sync-vault-export.js` exported 2,333 files but the push was rejected. The local export diverged from `origin/main` on 2026-04-20 and is 629 commits ahead / 219 behind; main's last vault-sync commit is from April. Merging risked clobbering the Todo.md edits the cloud side has been making since, so the work was pushed to branch `mac-vault-sync-2026-09-19` instead. **This needs David's call: the Mac's vault export has not reached GitHub main in five months.**
+
+- **2026-09-19 (evening, David's Mac)** — Round 2 extended to 18 and audited. Four more sites plus a QA pass, run in parallel.
+  - **Four added:** Mick's Irish Pub (4.5 / 377), Vic's Kangaroo Cafe (4.5 / 341), B J's Lounge (4.6 / 388), Tastee Restaurant Deli-Donuts (4.2 / 461). All domain-checked first, all committed separately. Cards in [[Prospect Cards — Round 2]].
+  - **The two thin sites are fixed.** Don Leoncio and Two Sisters were built without review quotes because Google kept serving the page layout that carries no review data. Re-scraping caught the other layout for both, so they now have a real quote, review cards and star bars. Hand-written copy untouched.
+  - **A QA pass found real defects and they are fixed.** Google's review truncation renders as "… More", where *More* is Google's own link text, and that had been carried into 33 review and quote fields across every site. Four quotes had non-adjacent sentences spliced together under a named customer's name. Several claims had nothing behind them, including New Orleans Snowball's entire positioning ("every other stand in town shuts for winter"), Pal's "busiest bar in Bayou St. John", and Bertha's catering. All removed or rewritten.
+  - **Two wrong-location photos caught.** Two Sisters' hero and a gallery image were both the sister restaurant in New Orleans East, signage reading "Two Sistas N Da East" with a different street number and phone. Bertha's lead gallery image was their sign carrying an old Basin St address. Handing an owner a phone showing someone else's storefront is the worst possible version of this pitch; both are out.
+  - **Menu prices on Tastee were rebuilt from source.** The page arrived with 24 priced items that matched no photograph in the set. Everything priced there is now read directly off their in-store board, and the griddle side, which has no board photo, is deliberately blank.
+  - **Hours keep being the weak point.** Google published Saturday only for Vic's and for B J's, and nothing usable for Two Sisters. Where the site uses published-listing hours instead, the footer or the prospect card says so. Treat the hours block as a question for the owner rather than a fact.
+  - **Test fix:** `tools/test_roundtrip.py` crashed with `FileNotFoundError` whenever a site's JSON existed without a built `index.html`, which is the normal mid-build state and broke the shared test for everyone whenever two people worked at once. Unbuilt slugs now report SKIP.
+  - **Round 3 is pre-verified.** Nine more candidates domain-checked and written up in [[Round 2 Prospects]]. Hot Bennys is the warmest: they built a site, stopped paying, and `eathotbennys.com` now serves "check your payment settings if this page is yours".
+- **2026-09-19 (cloud, late)** — Round 2 verified from the cloud side: 25 `sites/*.json`, 25 built pages, round-trip test green on all, no TODO placeholders. The three Round 2 notes above were pulled from the Mac's `mac-vault-sync-2026-09-19` branch into this outreach branch. That sync branch is the vault's true current state (637 export commits since April, 2,240 files newer than `main`); merging it to `main` is David's call and is documented in the final session summary.
+
