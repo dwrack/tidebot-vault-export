@@ -109,7 +109,7 @@ Rough starting order: 20 towels, 24 bottles, 15 sauna hats, 24 beanies, 30 tees,
 
 ## Vendor Outreach
 
-Sample requests went out to 100+ companies across every category on September 19, 2026. The full list, contacts, template, and reply log live in `Merch — Sample Outreach Tracker.md`. That note also adds a few sauna-specific items the research surfaced: Finnish löyly scents, changing robes, venik whisks, hygrometers, and bathhouse body care.
+Sample requests were drafted for 100+ companies across every category on September 19, 2026 (60 as Gmail drafts, the rest via web forms). The full list, contacts, template, and reply log live in `Merch — Sample Outreach Tracker.md`. That note also adds a few sauna-specific items the research surfaced: Finnish löyly scents, changing robes, venik whisks, hygrometers, and bathhouse body care.
 
 ---
 
