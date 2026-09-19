@@ -1,0 +1,79 @@
+# Round 2 Prospects — NOLA Website Outreach
+
+Source: the Round 1 GMB sweep. The audit list **was found** on this Mac at
+`TheBrain/03 Projects/NOLA Web Studio/candidates.csv` (345 rows, generated Sept 11 2026),
+alongside `NOLA No-Website GMB Sweep (Sept 2026).md` (present but evicted from iCloud and
+would not re-download this session, so only the CSV was read).
+
+Filter applied: bucket `food_bar_cafe`, site status NONE / NONE (social only) / SQUATTER,
+200+ reviews, 4.0+ rating, minus the seven already built in Round 1. 48 rows cleared that
+bar; the 15 below are the top by the sweep's own `score` column with no real website of
+their own.
+
+Round 1, already built, do not touch: Mother's Restaurant, Cajun Mikes Pub & Grub,
+Banks Meat Market, Lucky Jean Seafood, Ryan's Irish Pub Inc, Viet Orleans Bistro,
+Chez Pierre Bakery Lakeview.
+
+## Primary 15
+
+| # | Name | Category | Neighborhood | Rating | Reviews | Phone | Google CID | Place ID | Instagram | Status |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Beach On Bourbon | Bar | French Quarter | 4.4 | 3117 | — | `8160903279676329652` | `ChIJcz2iCwymIIYRtI5tZ0taQXE` | @beachonbourbon_ | Not started |
+| 2 | Cafe Porche & Snowbar \| Coffee, Brunch, Pastries & Snowballs | Brunch restaurant | Faubourg Lafayette | 4.9 | 668 | 504-481-2535 | `8437514516267716873` | `ChIJsXLDV3alIIYRCdFWqb8SGHU` | @cafeporche | Not started |
+| 3 | City Donuts & Café | Donut shop | Uptown/Carrollton | 4 | 1034 | 504-372-5811 | `17946551155319176092` | `ChIJEc1xormlIIYRnPss3DD1Dvk` | @city.donuts | Not started |
+| 4 | Pal's Lounge | Bar | Bayou St. John | 4.6 | 708 | 504-488-7257 | `15489332774993295258` | `ChIJU9mY_1ivIIYRmndKxRcq9dY` | @palsloungenola | Not started |
+| 5 | Don Leoncio Cigars Bar | Cigar shop | Central Business District | 4.4 | 602 | 504-527-6557 | `6929254245760707317` | `ChIJ1cxmNg2mIIYR9SrvFAaoKWA` | @donleonciocigars | Not started |
+| 6 | Two Sisters Soul Food in Treme | Soul food restaurant | Tremé / Lafitte | 4.2 | 629 | 504-302-2400 | `13474455342148048429` | `ChIJ-0-JRPgCnogRLVaZMr7h_ro` | — | Not started |
+| 7 | Holy Crepes! | Creperie | French Quarter | 4.7 | 295 | 504-370-3790 | `14865451748631571826` | `ChIJzTYEOLanIIYRcu3k1pqxTM4` | — | Not started |
+| 8 | The Upper Quarter | Bar | French Quarter | 4.7 | 358 | — | `2708417510080229773` | `ChIJnd-d_QumIIYRjbHHJ2A7liU` | — | Not started |
+| 9 | Matassa's Market | Grocery store | French Quarter | 4.4 | 426 | 504-412-8700 | `13567540052451992451` | `ChIJrcpoEhCmIIYRgyNJNsuVSbw` | — | Not started |
+| 10 | Markey's Bar | Bar | Bywater | 4.5 | 489 | 504-943-0785 | `11289249334413817094` | `ChIJZc-4LS6mIIYRBvWM5nR4q5w` | @markeysbar | Not started |
+| 11 | little bar on gravier | Bar | Central Business District | 4.8 | 414 | 504-333-6665 | `8886745612695476133` | `ChIJTT_ySMKnIIYRpZf5_QwQVHs` | @littlebarongravier | Not started |
+| 12 | The John | Bar | Marigny | 4.3 | 571 | 504-942-7159 | `14689826712279967989` | `ChIJB9Ob4ximIIYR9eh9lZC_3Ms` | @thejohnneworleans | Not started |
+| 13 | Seal's Class Act | Bar | Seventh Ward | 4.4 | 398 | 504-940-3055 | `14466709210050295837` | `ChIJc2nwPqmoIIYRHXjr7WATxMg` | — | Not started |
+| 14 | Small Mart Cafe | Vegetarian restaurant | Marigny | 4.8 | 291 | 504-766-8740 | `10318325183535408495` | `ChIJybfNcBemIIYRb2WY6RUOMo8` | @smallmart | Not started |
+| 15 | New Orleans Snowball | Dessert shop | Gentilly Terrace | 4.5 | 627 | 504-309-5346 | `17836780027783982559` | `ChIJ_YXvYsGoIIYR363YlO74iPc` | — | Not started |
+
+## Reserve (same filter, next in line)
+
+| # | Name | Category | Neighborhood | Rating | Reviews | Phone | Google CID | Place ID | Instagram | Status |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 16 | Bertha's Place Bar & Restaurant | Bar | South 7th Ward | 4.4 | 676 | 504-593-9777 | `744074729154507232` | `ChIJfYnLPAamIIYR4HGZHQZ8Uwo` | — | Not started |
+| 17 | Boondock Saint | Bar | French Quarter | 4.7 | 382 | 504-525-4950 | `16945655822175602701` | `ChIJCRPOIA6mIIYRDYjONjAQK-s` | — | Not started |
+| 18 | Norma's Sweets Bakery | Bakery | Mid-City | 4.3 | 531 | 504-309-5401 | `4186319242771503510` | `ChIJaeRKofalIIYRlhnH1SvLGDo` | @normassweetsbakery | Not started |
+| 19 | St Roch Tavern | Bar | St. Roch | 4.6 | 365 | 504-945-0194 | `16889174108622425988` | `ChIJZxwxPiGmIIYRhA8qfl5mYuo` | — | Not started |
+| 20 | B J's Lounge | Lounge bar | Bywater | 4.6 | 388 | — | `6322551488828945749` | `ChIJeVGaBtKnIIYRVTXErRQ3vlc` | — | Not started |
+| 21 | Stop Jockin Snoballs | Restaurant | St. Bernard Area | 4.6 | 318 | 504-206-0992 | `3069577457259685840` | `ChIJp9J0yUuvIIYR0KeCHm9UmSo` | @stopjockinsnoballs | Not started |
+| 22 | Mick's Irish Pub | Bar | Mid-City | 4.5 | 377 | 504-482-9113 | `14852256992530933155` | `ChIJAYI_wHuvIIYRoyWeSAvRHc4` | @micksirishpub | Not started |
+| 23 | Vic's Kangaroo Cafe | Bar | Warehouse District | 4.5 | 341 | 504-524-4329 | `11441889457153076011` | `ChIJ0WVlSHKmIIYRK2vl7NbByZ4` | — | Not started |
+| 24 | Who Dat Wings & More Express | Chicken wings restaurant | St. Claude | 4.2 | 373 | 504-354-8714 | `11555956295391442967` | `ChIJHQCFcB6pIIYRF_i-SgYBX6A` | — | Not started |
+| 25 | Vitascope Hall | Bar & grill | Warehouse District | 4 | 329 | 504-561-1234 | `15164678019871408963` | `ChIJPY4NyN-lIIYRQwOcK1DCc9I` | — | Not started |
+| 26 | Henry's Uptown Bar | Bar | Uptown/Carrollton | 4.5 | 250 | 504-324-8140 | `10625735429938387008` | `ChIJWSbQXVakIIYRQJjCchMydpM` | @henrysuptownbar | Not started |
+| 27 | Tastee Restaurant Deli-Donuts | Donut shop | Seventh Ward | 4.2 | 461 | 504-949-8690 | `11829163144844145247` | `ChIJA6djvFWvIIYRX_KT5jShKaQ` | — | Not started |
+| 28 | Hot Bennys | Cafe | Central Business District | 4 | 255 | — | `5196814209395526281` | `ChIJ7YppL_enIIYRiQq5Uv3KHkg` | @hotbennys | Not started |
+| 29 | Grit's Bar | Bar | Uptown/Carrollton | 4.1 | 214 | 504-899-9211 | `10816822444675023364` | `ChIJ6Tovt1CkIIYRBMJTFbQSHZY` | — | Not started |
+| 30 | C&A Seafood | Seafood restaurant | Gert Town | 4.2 | 271 | 504-822-8497 | `7711055431281591957` | `ChIJMRog2-6lIIYRlcbiUA8sA2s` | — | Not started |
+| 31 | Igor’s Bar & Grill | Bar | Faubourg Lafayette | 4.2 | 235 | 504-568-9811 | `3651572892134461527` | `ChIJ4Wuub5OlIIYRV9Ae0zL-rDI` | — | Not started |
+| 32 | Tastee Restaurant | Fast food restaurant | Lakeview | 4 | 212 | 504-483-9080 | `12367729873191645374` | `ChIJObq9Ig6vIIYRvjCT6coAo6s` | — | Not started |
+| 33 | Daiquiri Chef | Bar | New Orleans East Area | 4.5 | 228 | 504-324-6184 | `1894527793653620197` | `ChIJ7zSrfUioIIYR5R3Unf22Sho` | @daiquiri_chef | Not started |
+| 34 | Tapps II | Bar | 11th Ward | 4.5 | 204 | — | `3289350266683919188` | `ChIJ3TAytr2lIIYRVAuIy6Mepi0` | — | Not started |
+
+## Eligible but they already own a website (skip, fetch.py skips these too)
+
+| Name | Their site |
+|---|---|
+| Chinese Kitchen | https://chinakitchenla.com/ |
+| Quartermaster Deli | https://quartergrocerydeli.com/ |
+| Molly's Irish Pub | https://mollystoulouse.com/ |
+| Chill Out Cafe LLC | https://chilloutcafellc.gotoeat.net/ |
+| St. Coffee | https://stcoffee.restaurants-us.com/ |
+| Crescent Counter | https://crescentcounter.restaurants-us.com/ |
+| Soul's Seafood Market | https://souls-seafood-market.wheree.com/ |
+| Seafood Zone | https://www.boilseafoodhouse.com/ |
+
+## Notes on status values from the sweep
+
+- **NONE (social only)** — no website anywhere, Facebook or Instagram is the whole web presence. Best pitch.
+- **NONE** — no website and no social either. Google profile is all they have.
+- **SQUATTER** — a spam or parked domain ranks for their name in Google. The pitch changes from
+  "you need a site" to "someone else owns your name online."
