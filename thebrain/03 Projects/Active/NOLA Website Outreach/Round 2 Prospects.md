@@ -139,6 +139,39 @@ the owner has their own. The business itself is a good target: Seventh Ward loun
 to 3am and to 5am on Fridays, closed Tuesdays, and there is a daiquiri operation next door
 under the same name.
 
+## Round 3 shortlist, domain-verified 2026-09-19
+
+Next ten off the same filter, minus everything already built. Each obvious domain was
+resolved and the page actually read, because a bare 200 means nothing: three Round 2
+prospects were lost to sites that were live but unlinked on Google, and several of the
+domains below return 200 while belonging to somebody else entirely.
+
+**Verified clear, no website:**
+
+| Name | Category | Area | Rating / reviews | What is on the obvious domain |
+|---|---|---|---|---|
+| Mick's Irish Pub | Bar | Mid-City | 4.5 / 377 | nothing resolves |
+| Vic's Kangaroo Cafe | Bar | Warehouse District | 4.5 / 341 | nothing resolves |
+| Tastee Restaurant Deli-Donuts | Donut shop | Seventh Ward | 4.2 / 461 | nothing resolves |
+| B J's Lounge | Lounge bar | Bywater | 4.6 / 388 | bjs.com is BJ's Wholesale Club |
+| Who Dat Wings & More Express | Chicken wings | St. Claude | 4.2 / 373 | whodat.com is an unrelated Wix site |
+| St Roch Tavern | Bar | St. Roch | 4.6 / 365 | stroch.com is a business association in **Québec City**, in French |
+| Stop Jockin Snoballs | Restaurant | St. Bernard Area | 4.6 / 318 | GoDaddy parking lander, domain created March 2026, never built |
+| Henry's Uptown Bar | Bar | Uptown | 4.5 / 250 | GoDaddy parking lander since 2008. henrysbaruptown.com was scooped and now redirects to poker spam |
+| Hot Bennys | Cafe | CBD | 4.0 / 255 | **had a site and lost it.** eathotbennys.com is a dead Readymag page reading "check your payment settings if this page is yours". hotbennys.com is listed for sale on Afternic |
+
+**Disqualified, already have a site:**
+
+| Name | Their site |
+|---|---|
+| Vitascope Hall | Hyatt Regency dining page; it is a hotel outlet, not independent |
+
+Two notes worth carrying forward. Several third-party directories list a *parking lander*
+as a business's official website, which is exactly the false positive that has to be read
+rather than status-checked. And Hot Bennys is the warmest lead of the group: they paid for
+a site, stopped paying, and currently have nothing, which is a much easier conversation
+than persuading someone who has never had one.
+
 ## Notes on status values from the sweep
 
 - **NONE (social only)** — no website anywhere, Facebook or Instagram is the whole web presence. Best pitch.
