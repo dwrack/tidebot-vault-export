@@ -122,3 +122,72 @@ Preview base URL: `https://dwrack.github.io/nola-sites/`
 - _(none yet)_
 
 ---
+
+## 6. little bar on gravier
+
+**Preview:** `/little-bar-on-gravier/`
+**Address:** 510 Gravier St, New Orleans, LA 70130 (CBD)
+**Phone:** (504) 333-6665
+**Google:** 4.8 stars, 415 reviews (348 five-star) · Instagram: @littlebarongravier
+**Hours:** Sun–Thu 11am–2am · Fri–Sat 11am–3am
+**Best time to walk in:** 11:00am–12:30pm any weekday, right at open and before the lunch crowd wanders over. This block is dead until the offices let out.
+**Likely decision-maker:** Reviews name Shannon behind the bar. Ask for her; if she is not the owner she will know when they are in.
+
+**Why they need this:** Highest rating in Round 2 at 4.8 with 415 reviews, and nothing online. littlebar.com belongs to a bar in Hoboken, New Jersey, so anyone searching the name lands on a different state. A CBD bar that opens at 11am is competing for hotel guests and conference people who search on a phone, and it is invisible to all of them.
+
+**The hook:** "Search little bar and you get a place in New Jersey. Four hundred and fifteen reviews, 4.8 stars, and New Jersey wins."
+
+**Show them first:** the hero, which is their own awning at night, then the live status pill. A bar that opens at 11am gets real value out of a header that says "Open now" before anyone calls.
+
+**Watch for:** The lowercase name is deliberate and it is kept lowercase everywhere on the site. Do not let anyone "fix" it. Video poker is mentioned in the facts list; check they are comfortable having that on a public page.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 7. Small Mart Cafe
+
+**Preview:** `/small-mart-cafe/`
+**Address:** 2700 Chartres St, New Orleans, LA 70117 (Marigny / Bywater edge)
+**Phone:** (504) 766-8740
+**Google:** 4.8 stars, 293 reviews (263 five-star, 90%) · Instagram: @smallmart
+**Hours:** Tue–Fri 8am–5:30pm · Sat–Sun 8am–1:30pm · **Closed Mondays**
+**Best time to walk in:** Tuesday to Thursday, 2:00–4:00pm. After the breakfast rush, well before the 5:30 close, and not on a weekend when they shut at 1:30.
+**Likely decision-maker:** The owner is on site and named repeatedly in reviews as the reason the room feels the way it does. Ask for them directly.
+
+**Why they need this:** This is the strongest pitch in Round 2. 4.8 stars, 90% five-star, and **smallmartcafe.com currently redirects to a gambling site**. They are not missing a website, they have lost their name to a squatter, and the fix is a page they own plus the right domain.
+
+**The hook:** "Type smallmartcafe.com into your phone right now. I'll wait." Then show them the preview.
+
+**Show them first:** the redirect on your own phone, then the hero. The gap between those two things is the entire sale and it takes fifteen seconds.
+
+**Watch for:** Vegan is the whole identity in the copy because it is what nearly every review is about. Confirm they see themselves that way rather than as a general cafe; if they do not, the story paragraph needs a rewrite before it goes live. Also confirm the Monday closure is permanent and not seasonal.
+
+**Touch log:**
+- _(none yet)_
+
+---
+
+## 8. New Orleans Snowball
+
+**Preview:** `/new-orleans-snowball/`
+**Address:** 4313 Elysian Fields Ave, New Orleans, LA 70122 (Gentilly)
+**Phone:** (504) 309-5346
+**Google:** 4.5 stars, 627 reviews (448 five-star) · Instagram: none found
+**Hours:** 10am–7pm, seven days, year round
+**Best time to walk in:** Weekday 10:00–11:30am, right at open, before the after-school and afternoon rush. Avoid a hot weekend afternoon entirely.
+**Likely decision-maker:** Unknown. Family stand. Ask at the window who handles the business side.
+
+**Why they need this:** 627 reviews and a banner on their own building reading OPEN YEAR ROUND, which is the single most valuable and most searchable fact about them, and it exists nowhere online. Every competitor in the city shuts in October. Someone googling "sno balls open in December New Orleans" should land on them and currently lands nowhere. They also sell po-boys, hot plates, seafood, wings and catering, none of which their Google category suggests.
+
+**The hook:** "In January you are the only sno-ball stand open in New Orleans and nobody can find that out on a phone."
+
+**Show them first:** the headline, which is just their own banner rewritten, then the kitchen column in the menu. Most people do not know they do po-boys and catering, and catering is the highest-ticket thing they sell.
+
+**Watch for:** A reviewer states they add a $1 surcharge on debit card transactions and points out that debit surcharges are illegal. Worth raising gently, not as part of the pitch. It is the kind of thing that generates one-star reviews, and they have 31 of them. Not mentioned anywhere on the site.
+
+**Touch log:**
+- _(none yet)_
+
+---
