@@ -55,6 +55,7 @@
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Investigate the check engine light on the black van. _(Joshua (audio log), 2026-09-20)_
 - [ ] [Guide log] Investigate and clear the clogs at Shell Bank and The Woods on Lilies. _(Stephanie (audio log), 2026-08-31)_
 - [ ] [Guide log] Switch out the lopsided trailer in the front (most accessible pickup spot) with a different one. _(Chelsea (audio log), 2026-08-29)_
 - [ ] [Guide log] Monitor water conditions (green film, depth, hyacinth growth) on primary routes to anticipate future accessibility issues and adjust route planning as needed. _(Lexi (audio log), 2026-08-28)_
