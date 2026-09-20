@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 8
-revenue_today: 460
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 131
+ad_spend_yday: 0
 status: yellow
-alert: "Yesterday's Google CPA ~2x the 7-day avg; Meta still fully dark heading into bat season close"
-updated: 2026-09-19
+alert: "Total MCP outage — no live data this run; FH scrape also stale"
+updated: 2026-09-20
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,12 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $4,432/wk booked vs $5,500 target — 81% of goal.** Trailing 6-day avg (Sep 12,13,14,15,16,18) is $633.17/day.
-- **Shared Google Ads account (8497383499, covers LSKT/AKT) yesterday: $131.26 spend, 72 clicks, 2 conv, $65.63 CPA, 1.37x ROAS** — CPA roughly 2x the 7-day avg ($31.63), though still profitable. 7-day: $556.63 / 419 clicks / 17.6 conv / 8.13x ROAS — still the best-performing account in the portfolio by a wide margin.
-- **Meta (`act_638850950128825`) is still completely dark heading into the close of bat season** — zero campaigns, zero spend, confirmed again today.
-- **GSC indexing alert from 9/16 ("duplicate, different canonical") unverified for a 3rd straight day** — the index_status API only returns permission level, not per-URL crawl detail. Needs a manual Search Console check.
-- Reviews: **0 unreplied** (10 most recent all replied).
-- GSC: "lone star kayak tours" #1 / 2 clicks (8-day window); "kayak tours austin" #3.3 / 2 clicks; "bat kayak tour austin" #9.7 / 1 click, still just outside page 1 — the category-term goal note's target.
+- **Goal pace: unavailable this run.** Total MCP outage today — no fresh FareHarbor, Ads, or GSC data. Last confirmed (9/18): pacing at $4,432/wk booked vs $5,500 target, 81% of goal.
+- **Meta (`act_638850950128825`) was still fully dark as of 9/18, heading into the close of bat season** — unconfirmed today.
+- GSC indexing alert from 9/16 ("duplicate, different canonical") now unverified for a 4th straight day.
 <!-- live:end -->
 
 ## Quick links

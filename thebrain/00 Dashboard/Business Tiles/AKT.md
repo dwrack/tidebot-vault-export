@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-09-19
+status: yellow
+alert: "Total MCP outage — no live data this run"
+updated: 2026-09-20
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -19,10 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Decision made 2026-08-28: front door for LSKT.** No change to the arrangement.
-- **Meta still dark** — shares `act_638850950128825` with LSKT, zero campaigns yesterday. See LSKT tile.
-- **Shared Google Ads account (8497383499) not split to campaign level this run** — full account total ($131.26 yesterday, 1.37x ROAS; 8.13x on the 7-day) shown under LSKT's tile.
-- **Review backlog still clean — 0 unreplied** (Emilee Johnson, Mallory DeGood, Sheila Simpsen, Kelsha Stubbs, Howard Nichols, Ella Messa, Rachel Domangue, Diane Gonzolas all confirmed replied again).
-- No FareHarbor shortname in this scrape for AKT specifically. No GSC property, no GA4.
+- Total MCP outage today — GBP reviews and shared ad-account data could not be pulled. Last known (9/19): review backlog clean, 0 unreplied.
 <!-- live:end -->
 
 ## Quick links
