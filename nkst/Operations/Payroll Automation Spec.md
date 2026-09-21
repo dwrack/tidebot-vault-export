@@ -27,8 +27,9 @@ Locked with David 2026-08-17. Build target: `~/Projects/fareharbor-brief/payroll
 | River Bourne | $100 | $200 |
 | Alexis Hingle | $100 | $200 |
 | Abbie Marks | $100 | $200 |
+| Josh Smith (FH login `poboy`) | $100 | $200 |
 
-Extended tours are a flat $200 for everyone regardless of standard rate. Nick confirmed $125 on 2026-08-17 (was previously unconfirmed; the unsigned ICA Exhibit A draft was right on this one).
+Extended tours are a flat $200 for everyone regardless of standard rate. **Whitney Plantation combo tours also pay a flat $200** (David, 2026-09-16, confirmed for Stephanie's 9/14 combo; applied to everyone until David says otherwise). Nick confirmed $125 on 2026-08-17 (was previously unconfirmed; the unsigned ICA Exhibit A draft was right on this one).
 
 Any guide not listed = STOP and ask David. Do not default to $100.
 
@@ -83,7 +84,7 @@ Usage: `node payroll-run.mjs` (last completed period, dry run) → review → `-
 
 ## Open items
 
-1. **Identify 5 crew slugs** — `poboy`, `davidryan`, `mj`, `alex`, `river`. Name + rate each, or mark as settled/not owed.
+1. **Identify remaining crew slugs** — `davidryan`, `mj`, `alex`, `river`. Name + rate each, or mark as settled/not owed. (`poboy` = Josh Smith, $100, resolved 2026-09-16.)
 2. **Assign the 8/1 Manchac tour** — 10 pax, $65 tip, currently paid to nobody.
 3. **PayPal addresses for 6 guides** — only Michelle's is known and it's unverified. Either add `users:read.email` to the TideBot Slack app and re-run `payroll-roster.mjs --write`, or paste them.
 4. **Confirm River's Slack account** — workspace has three Rivers; `@riverbourne.here` ("river b.", U0B0C988FAR) matches the FareHarbor slug but is not bound automatically.
