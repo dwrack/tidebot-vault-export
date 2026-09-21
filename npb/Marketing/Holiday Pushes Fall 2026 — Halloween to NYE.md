@@ -93,12 +93,20 @@ Covered in `2027 Sponsorship + Events Plan (Sept 2026)`, Track B. Flyer at `Holi
 
 ---
 
+## Don't-drop-it safety net (set 2026-09-11)
+
+- Slack thread: #helm-npb (C0BR5FPMFJL), ts 1789169840.050899.
+- Fixed in-thread nudges were scheduled then cancelled 9/11 (replaced by the smart job below).
+- Scheduled DMs to David (channel D0AUDSVHH4Y): Q0C172C2QE9 (Mon 9/14 8:30 CT), Q0C0W9XEVC7 (Thu 9/17 8:30 CT).
+- Tracker #62 to #65, Open Loops OL-032 and OL-033 (chief-of-staff brief surfaces them daily).
+- LIVE on mbp-2: launchd `com.npb.holiday-nudge` runs `~/Projects/tidebot/scripts/npb_holiday_nudge.py` at 9:15 and 15:15 daily through 9/21. Nudges Jeff + Michael in-thread if silent 24h (max once/day), DMs David at 72h silence, DMs David when feedback lands. State `~/.local/state/npb-holiday-nudge.json`. Unload: `launchctl unload ~/Library/LaunchAgents/com.npb.holiday-nudge.plist`.
+
 ## Open items
 
 - [ ] David: confirm heated boats, indoor room capacity, deposit terms before the flyer or any corporate email goes out.
-- [ ] David: approve h01 (test sent to dwrack81 on 9/10), then full send.
+- [ ] Slack review loop (David's call 9/10): post each email to #helm-npb one at a time for Jeff + Michael feedback, wait, then the next. Order: h01 Halloween (posted 9/11, thread ts 1789167905.847049) -> h02 Friendsgiving/Thanksgiving -> h03 NYE -> corporate 1:1 template + 13-name list (Jeff reviews). Send h01 only after thumbs up in the thread.
 - [ ] JT: build the Halloween ticketed item in FareHarbor.
 - [ ] JT: NYE items in FareHarbor by Nov 1.
 - [ ] Jeff: pirate gear reel this week.
-- [ ] Jeff: send the 13 corporate Gmail drafts after David's ok.
+- [ ] Jeff: review the 13 corporate Gmail drafts in the Slack thread (step 4 of the loop), then send from info@.
 - [ ] Fix SES sender (boto3) or retire it and rely on SendGrid.

@@ -71,6 +71,8 @@ See you soon!
 
 ---
 
+> See also: [[Online Waiver Reminder Text]] – the waiver-signing text that goes out with or after this reminder (added 2026-09-11).
+
 ## 🌧️ Weather Hold / Cancellation
 *Trigger: weather cancellation decision made*
 
