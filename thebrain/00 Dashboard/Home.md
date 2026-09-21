@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-20 (Total MCP outage — Gmail, GBP, Google Ads, Meta, GSC, and GA4 all failed on 3 separate attempts. General internet confirmed fine via direct curl/WebFetch, so this is the auth/server layer, not the network. FareHarbor's nightly scrape didn't run either — newest file is still 9/18 data. HPB's TikTok pull failed again on `ECONNREFUSED`, 3rd run in a row. No live numbers today; see [[Daily Briefings/2026-09-20|today's brief]] for the full outage writeup.)*
+*Last refresh: 2026-09-21 (MCPs back up — full data pull today. Only gaps: no `meta-organic` server connected (Instagram organic skipped) and HPB's TikTok pull failed again on `ECONNREFUSED`, still needs a manual browser relaunch. FareHarbor scrape has 2 missing days this week (9/17, 9/19) but is otherwise current through 9/20.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-19|Today's brief]]
+- [[Daily Briefings/2026-09-21|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Portfolio-wide — every authenticated data source is down at once.** Gmail, GBP, Google Ads, Meta, GSC, and GA4 all failed 3 straight attempts; FareHarbor's overnight scrape didn't run either. Run `claude mcp list` and check the scraper cron.
-2. **HPB TikTok — 3rd consecutive failed pull.** Playwright still returns `ECONNREFUSED`. Needs a manual relaunch of the debug browser, not another retry.
-3. **DCKT — carried forward, unconfirmed today.** Google Ads was dark for 9 straight days as of 9/18; likely day 10 now but can't be reverified until access is back.
+1. **Door County Kayak Tours — Google Ads + Meta both confirmed $0 spend**, yesterday and across the trailing 7 days. Pacing $2,558/wk vs $7,000/wk goal (37%), worst in the portfolio.
+2. **NOLA Party Barge — new 1★ review from Joy Nix (9/20) unreplied.** [Reply here](https://business.google.com/n/16753778394051046706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jemFXNWpVbEZhWmsxeVIyTXphMUpHVFZBNFFVRRAB).
+3. **Lone Star Kayak Tours — Meta ad account still fully dark** (shared with AKT) heading into the close of bat season, even as Google Ads on the same account runs at 4.25 ROAS.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | — | — | — |
-| Unreplied GBP reviews (all biz) | — | — | — |
-| FH bookings (all biz) | — | — | — |
-| FH revenue (all biz) | — | — | — |
-| Total ad spend (G+M) | — | — | — |
-| Total ad-attributed conversions | — | — | — |
+| Gmail unread | 12 | — | — |
+| Unreplied GBP reviews (all biz) | 3 (1× 1★, 2× 5★) | — | Down sharply from 15 on 9/18 |
+| FH bookings (all biz) | 36 | 36.2/day (5 of 7 days) | ~flat |
+| FH revenue (all biz) | $5,547 | $7,144/day (5 of 7 days) | -$1,597 (-22%) |
+| Total ad spend (G+M) | $432.24 | $396.64/day (Google only, 7d) | — |
+| Total ad-attributed conversions | ~4.4 (Google, yday) | ~7.5/day (Google only, 7d) | — |
 <!-- pulse:end -->
-*Total outage today — every authenticated data source (Gmail, GBP, Google Ads, Meta, GSC, GA4) failed on 3 separate attempts, and FareHarbor's nightly scrape didn't run. General internet confirmed fine (curl/WebFetch both worked instantly), so this sits at the MCP server/auth layer. HPB's TikTok pull failed again on `ECONNREFUSED`, 3rd run in a row. No `meta-organic` MCP connected this session either. Full writeup in today's brief.*
+*No `meta-organic` MCP connected this session (Instagram organic skipped). HPB's TikTok pull failed again on `ECONNREFUSED` — browser not running, needs a manual relaunch. FareHarbor scrape missing 2 of the last 7 days (9/17, 9/19). Full writeup in today's brief.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-20]] (today)
-- [[Daily Briefings/2026-09-19]] (1 day ago)
-- [[Daily Briefings/2026-09-18]] (2 days ago)
-- [[Daily Briefings/2026-09-17]] (3 days ago)
-- [[Daily Briefings/2026-09-16]] (4 days ago)
-- [[Daily Briefings/2026-09-15]] (5 days ago)
-- [[Daily Briefings/2026-09-14]] (6 days ago)
+- [[Daily Briefings/2026-09-21]] (today)
+- [[Daily Briefings/2026-09-20]] (1 day ago)
+- [[Daily Briefings/2026-09-19]] (2 days ago)
+- [[Daily Briefings/2026-09-18]] (3 days ago)
+- [[Daily Briefings/2026-09-17]] (4 days ago)
+- [[Daily Briefings/2026-09-16]] (5 days ago)
+- [[Daily Briefings/2026-09-15]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

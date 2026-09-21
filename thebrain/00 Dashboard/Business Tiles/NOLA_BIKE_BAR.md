@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Total MCP outage — no live data this run; FH scrape also stale"
-updated: 2026-09-20
+alert: "No movement on win_category_terms since 2026-08-28 (24 days)"
+updated: 2026-09-21
 tile_type: business
 goal_q4_metric: win_category_terms
 goal_q4_target: null
@@ -18,8 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: win_category_terms. No movement since 2026-08-28** — now 23 days sitting. No category-intent campaign or content started yet.
-- Total MCP outage today — GSC and GBP reviews could not be pulled to reconfirm. Last known (9/19): 0 unreplied, category terms still unclaimed.
+- **Goal: win_category_terms. No movement since 2026-08-28** — now 24 days sitting. No category-intent campaign or content started yet.
+- GSC confirms it: brand term "nola bike bar" is at position 2.6 (near-max), but no category-intent term ("bike tour new orleans," "pedal bar new orleans") is ranking above position 5 yet.
+- 0 unreplied reviews.
 <!-- live:end -->
 
 ## Quick links

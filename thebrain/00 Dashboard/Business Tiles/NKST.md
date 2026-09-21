@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "Total MCP outage — no live data this run; FH scrape also stale"
-updated: 2026-09-20
+status: green
+alert: null
+updated: 2026-09-21
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** Total MCP outage today — no fresh FareHarbor, GA4, or GSC data. Last confirmed (9/18): pacing at $4,612/wk booked vs $4,000 target, 115% of goal.
-- **As of 9/18 (unconfirmed today): 3 unreplied 5★** (Miranda parker, Alison Alsleben, Nicky Nickelson) and brand term "new orleans kayak swamp tours" still weak at #34.3.
-- Watched page ("Airboat vs Kayak" comparison) not pulled this run — last known state (9/19): still flat vs baseline.
+- **Goal pace: $4,162/wk booked vs $4,000 target — 104% of goal.** Built on 5 of the last 7 days (9/17, 9/19 scrapes failed). Down slightly from the last confirmed $4,612/wk (9/18), still above target.
+- **0 unreplied reviews** — the 3-review backlog from 9/18 (Miranda parker, Alison Alsleben, Nicky Nickelson) cleared in Friday night's batch run. Brand term "new orleans kayak swamp tours" still weak at position 24.4.
+- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 GSC clicks across all 7 days (4-11 impressions/day), GA4 views not in the top 50 pages this run (page sits around its ~3-view baseline).
 <!-- live:end -->
 
 ## Quick links
