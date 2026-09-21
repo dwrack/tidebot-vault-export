@@ -31,3 +31,7 @@
 5. Verdict: bookings held → make permanent (~$2k/mo saved). Bookings dipped beyond noise → un-pause (everything is PAUSED, not removed, one-click revert).
 
 Midpoint sanity check Sep 15: FH bookings not cratering, no competitor ads appeared.
+
+## Sep 19 interim read
+
+The test leaked: no brand negatives were added, so brand searches kept triggering ads through the generic phrase keywords (brand-term spend $52/day to $45/day). Full numbers and the proposed fix: [[NOLA Brand-Pause Test - Interim Read (Sep 19 2026)]]. Do not write the Sep 22 verdict off bookings alone.
