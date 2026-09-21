@@ -71,6 +71,7 @@ These still need Davey/Jonah judgment — just assisted with drafts:
   - Feasible because every Blink clip carries Blink's own CV `person` tag and a thumbnail, so headcount can be sampled without downloading video. Both APIs (Blink + Périod merchant) are already working.
   - Tooling lives at `~/.config/blink-ee/` — see the `reference_blink_cameras` memory for the setup and the pagination/py3.12 gotchas.
   - Deferred deliberately: capacity changes once V2 is on the water, so a baseline taken now would be measuring a fleet that no longer exists.
+  - 2026-09-19: the live alerting half got built anyway, see `Operations/Occupancy Watcher/`. It logs every sweep to `log.csv` on the always-on Mac, so the dataset will be waiting when this analysis comes off the shelf.
 
 ---
 
