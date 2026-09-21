@@ -109,7 +109,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | # | Item | Owner | Status |
 |---|---|---|---|
 | 48 | Crew one-on-ones Fri 9/11, crew in 10 min early on assigned boats. Jeff confirms with crew 9/10 | Jeff (+JT) | new 9/10 |
-| 49 | Standing meetings: **Mon 5pm + Thu 5pm CT**, David + Jeff + JT + Michael. Mon = weekend recap + week checklist, Thu = pre-weekend. Replaces ad-hoc drop-everything asks. Closes #23/#24 | David to send invites | new 9/10 |
+| 49 | Standing meetings: **Tue + Thu 8:30am PT (10:30 CT)**, David + Jeff + JT + Michael. Tue = weekend recap + week checklist, Thu = pre-weekend. Replaces ad-hoc asks. Closes #23/#24. **DONE 9/11: recurring invite sent from info@nolapartybarges.com, Meet hpd-kwow-fsz, starts Tue 9/15** | David | done 9/11 |
 | 50 | Weekly achievable checklist (1-2 items/person, Mon-Thu) in the #helm-npb canvas; Claude reads the week's messages and flags what was promised but untouched | David + Claude | new 9/10 |
 | 51 | Sophia +$100/wk for nightly 5pm FareHarbor booking reset. Jeff said yes, needs to be offered to her | Jeff | new 9/10 |
 | 52 | JT: decide whether the role stays with him or gets a goal-oriented replacement. Data: Fri one-on-ones + Sept visit. Blocked on David + Michael | David + Michael | new 9/10 |
@@ -120,8 +120,12 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 57 | Write down JT's weekday job. Hired for phones, weekday ops bolted on, nobody could say what it is. Prerequisite for #52 | Jeff | new 9/10 |
 | 58 | Bench hire: carry one extra captain/deckhand so Ben (#41) or anyone can be cut without a coverage hole | Jeff | new 9/10 |
 | 59 | Jeff tidies Slack: mute non-NPB workspaces/channels, star #helm-npb. His own words, unassigned on the call | Jeff | new 9/10 |
-| 60 | Mon 5pm meeting vs. Jeff trying to take Mondays off. Ask him, move to Tue if needed | David | new 9/10 |
+| 60 | ~~Mon 5pm vs. Jeff's Mondays off~~ moot, meetings landed on Tue/Thu mornings | — | closed 9/11 |
 | 61 | Who went to work for Brian (Manchac)? Name garbled on the call. Find out if it's a former NPB/NKST guide and why | Jeff | new 9/10 |
+| 62 | Fall holiday emails review loop: Halloween email posted in #helm-npb 9/11 for Jeff + Michael feedback (thread ts 1789169840.050899). After feedback: post Friendsgiving/Thanksgiving, then NYE, then corporate 1:1 template + 13 names. Send each via SendGrid only after thumbs-up. Auto-nudge runs on mbp-2 if the thread goes quiet. Plan: Marketing/Holiday Pushes Fall 2026 | Jeff + Michael (feedback), David (send) | new 9/11 |
+| 63 | 13 corporate holiday-party drafts sitting in info@ Drafts (Deloitte, Jones Walker, Ochsner, PBF, Entergy, Shell, Salesforce, KW, hotels, concierge assoc). Jeff reviews in the Slack thread, then sends. Flyer facts (heated boats, tiers, deposit) need David's confirm first | Jeff, David | new 9/11 |
+| 64 | JT: build the Halloween ticketed FareHarbor item (Bass Pirates, Sat Oct 31 8pm, 40 seats, $55) and tag Oct 30/31 private slots. NYE items by Nov 1 | JT | new 9/11 |
+| 65 | SES win-back runner has failed every Tuesday since Aug 25 (no boto3 for /usr/bin/python3). SendGrid copy is the live one (w07 sent 9/8). Fix or retire the SES launchd job | David | new 9/11 |
 
 ## Off the pin (route through Scott Kitner first)
 - $110k admiralty surety bond for the limitation-of-liability action — nobody could source it (3/24)
