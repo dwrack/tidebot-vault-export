@@ -5,10 +5,10 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 76
+ad_spend_yday: 66
 status: yellow
-alert: "Meta act_638850950128825 still fully dark, heading into bat season close"
-updated: 2026-09-21
+alert: "Meta act_638850950128825 still fully dark, heading into bat season close; FH data stale"
+updated: 2026-09-22
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,804/wk booked vs $5,500 target — 51% of goal.** Built on 5 of the last 7 days (9/17, 9/19 scrapes failed); down from the last confirmed $4,432/wk (81%, 9/18) — worth watching if it holds.
-- **Meta (`act_638850950128825`, shared with AKT) returned zero campaigns yesterday — still fully dark heading into the close of bat season.** Google Ads on the same shared account is healthy: $76.40 spend yesterday, 4.25 ROAS; $625.20 over 7 days, 7.11 ROAS.
+- **Goal pace: unavailable this run.** FareHarbor scrape hit a Cloudflare 403 block across all 6 tracked businesses today. Last confirmed: $2,804/wk booked vs $5,500 target (51%) as of 9/20.
+- **Meta (`act_638850950128825`, shared with AKT) returned zero campaigns yesterday — still fully dark, 25 days after the goals doc flagged it as an urgent "check billing today" item.** Google Ads on the same shared account is healthy: $65.66 spend yesterday, 7.53 ROAS; $629.07 over 7 days, 4.04 ROAS.
 - 0 unreplied reviews.
 <!-- live:end -->
 

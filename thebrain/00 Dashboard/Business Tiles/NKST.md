@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-09-21
+status: yellow
+alert: "FH data stale — scrape blocked by Cloudflare"
+updated: 2026-09-22
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $4,162/wk booked vs $4,000 target — 104% of goal.** Built on 5 of the last 7 days (9/17, 9/19 scrapes failed). Down slightly from the last confirmed $4,612/wk (9/18), still above target.
-- **0 unreplied reviews** — the 3-review backlog from 9/18 (Miranda parker, Alison Alsleben, Nicky Nickelson) cleared in Friday night's batch run. Brand term "new orleans kayak swamp tours" still weak at position 24.4.
-- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 GSC clicks across all 7 days (4-11 impressions/day), GA4 views not in the top 50 pages this run (page sits around its ~3-view baseline).
+- **Goal pace: unavailable this run.** FareHarbor scrape hit a Cloudflare 403 block across all 6 tracked businesses today. Last confirmed: $4,162/wk booked vs $4,000 target (104%) as of 9/20.
+- **0 unreplied reviews.** Brand term "new orleans kayak swamp tours" improved to position 17.1 (from 24.4) — worth watching if it holds.
+- Instagram is the #1 session source (59 sessions yesterday vs Google's 42) and still unmeasured — no `meta-organic` MCP connected this session, same standing gap flagged in the goals doc since 8/28.
+- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 GSC clicks across all 6 days of data returned, 4-11 impressions/day, consistent with the 0-click baseline. GA4 views not in the top 50 pages this run either.
 <!-- live:end -->
 
 ## Quick links

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "No movement on measurable_front_door_by_oct_15 since 2026-08-28 (24 days)"
-updated: 2026-09-21
+alert: "No movement on measurable_front_door_by_oct_15 since 2026-08-28 (25 days)"
+updated: 2026-09-22
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 24 days sitting. No GSC property, GA4, or Meta campaign stood up yet.
-- **Review backlog now clear** — the 4-review backlog (Lisa Woldin included) all got replied to Friday night (9/19). Good sign of life on GBP, but the actual goal (search/GA4/Meta instrumentation) hasn't moved.
-- 4.9 stars, 116 total reviews now — still invisible to every channel but GBP.
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 25 days sitting. No GSC property, GA4, or Meta campaign stood up yet. Oct 15 is 23 days out.
+- Review backlog stays clear, 0 unreplied.
+- 4.9 stars, 116 total reviews — still invisible to every channel but GBP.
 <!-- live:end -->
 
 ## Quick links

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Google Ads + Meta both $0 spend — still dark; pacing 37% of $7k/wk goal, worst in portfolio"
-updated: 2026-09-21
+alert: "Google Ads + Meta both $0 across the full 7-day window now; FH data stale"
+updated: 2026-09-22
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,558/wk booked vs $7,000 target — 37% of goal, worst in the portfolio.** Built on 5 of the last 7 days (9/17, 9/19 scrapes failed).
-- **Google Ads (8672151991) confirmed $0 spend, 0 impressions both yesterday and across the trailing 7 days — still fully dark.** Meta (act_10153674414451399, shared with DC Ebike/Cave Point) also $0 yesterday. See today's brief Action Items #1.
+- **Goal pace: unavailable this run.** FareHarbor scrape hit a Cloudflare 403 block across all 6 tracked businesses today. Last confirmed: $2,558/wk booked vs $7,000 target (37%, worst in portfolio) as of 9/20.
+- **Google Ads (8672151991) and Meta (act_10153674414451399) are both now confirmed $0 across the entire trailing 7 days, not just yesterday — escalated from prior runs.** See today's brief Action Item #4.
 - Review-reply backlog is clean, 0 unreplied.
 <!-- live:end -->
 
