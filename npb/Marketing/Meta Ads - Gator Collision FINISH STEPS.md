@@ -84,13 +84,26 @@ $63 a seat. BYOB on the bayou. 4.9 stars, 3,800+ reviews.
 
 **Call to action:** Book Now
 
-### 3. Clear the error
+### 3. Get yourself Advertiser role on the ad account (this blocks everything)
 
-The ad currently shows **"Permission Error ... (#1487194)"** in Review. It appeared right
-after I opened and cancelled the creative wizard, not when I changed the Page or Instagram
-account, so my read is that cancelling left a partial creative spec on the ad. Completing
-the creative in step 1 and 2 should overwrite it. If it survives that, it is a real
-permissions problem on the ad account and worth a Business Settings look.
+**Correction to what I first told you.** I originally guessed the `#1487194` permission
+error came from cancelling the creative wizard. That was wrong. Trying to duplicate the ad
+on 2026-09-22 returned the real cause:
+
+> To create or edit ads for ad account 87863118, contact an admin to get permission with
+> **Advertiser role or higher**. (#200.2490585)
+
+You are logged in as Michael Fischer (`100002046915131`), and that user's role on
+`act_87863118` is below Advertiser. Reading the account works, and the draft edits appear
+to save because Ads Manager holds them in a local draft layer, but anything that actually
+writes through the ads API is refused. That includes duplicating an ad, and very likely
+publishing this campaign.
+
+Fix it in Business Settings on whichever Business Manager owns `act_87863118` (the account
+displays as Gravity Trails / Admire NOLA): Users → your profile → Ad accounts → set to
+Advertiser or Admin. If someone else is the admin there, they have to grant it.
+
+Until that is done, do not bother with the steps below. They will not stick.
 
 ### 4. Two optional cleanups
 
