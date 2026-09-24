@@ -81,4 +81,4 @@ https://maunakea.fareharborsites.com/nolapartybarges-dummy/wp-login.php?action=j
 That page says "This site has been archived or suspended." Going back to
 `nolapartybarges.com/wp-admin/` shows the login screen again, so no session was set on the live
 domain. The Jetpack connection is still registered to the `nolapartybarges-dummy` site, just on a
-new FareHarbor host. Still blocked; reply to Ilco drafted in chat 2026-09-24, not yet sent.
+new FareHarbor host. Still blocked; reply sent to Ilco 2026-09-24 on FH ticket 5811968.
