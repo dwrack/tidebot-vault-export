@@ -12,11 +12,16 @@ Built 2026-09-19. Counts guests on the deck cameras every 10 minutes, compares t
 
 ## Alert rules
 
-- **Session over:** guests on camera > seats booked, on 2 sweeps in the same session. One alert per session.
-- **Unbooked:** 1+ guests on the deck on 2 sweeps in the same hour with no session within 20 min either side.
+Changed 2026-09-22 per Davey: alerts only when there are more people than there should be, posted to #periode, tagging Davey and Jonah.
+
+- **The one rule:** guests on camera > seats booked (0 when nothing is booked), on 3 sweeps spanning at least 20 minutes. The 20-minute part is deliberate: sailboaters cut through the deck to use the restroom and are gone in 5, guests settle in. One alert per session, or per 2-hour block when nothing is booked.
+- Street clothes never count as guests, so a boater walking through in a jacket is "clothed" and ignored either way.
+- **Monday Banya quiet block:** Mondays 4:45pm to 9:30pm are logged but never alerted. Danesh's Banya sessions don't go through Periode, so the ledger reads them as unbooked (that's what fired 4 alerts on 2026-09-21).
+- **Boat watch (added 2026-09-22):** the vision pass also reports any boat/dinghy/kayak/jet ski tied off or holding at the swim float or alongside the sauna boat (marina slips and the channel don't count). If it's still there on the next sweep (2 in a row, ~10 min) it alerts, any time of day, Banya block included. One per 2-hour block. Weekend boaters walking into the sauna off a boat was the trigger for this.
+- Sunrise, sunset, moonlight, equinox and any other Periode product are covered automatically, the ledger doesn't care about product name (Private Sauna is the only special case, 10 seats). Banya is the gap: it isn't in Periode, so there's nothing to compare against.
 - First 15 min and last 5 min of each session are ignored. Groups overlap at turnover and it would false-alarm all day.
 - Private Sauna bookings count as 10 seats.
-- Daily summary at 10:15pm: booked vs peak seen, per session.
+- Daily summary is off (`daily_summary: true` in config.json turns it back on).
 
 ## The honest limit
 
@@ -49,11 +54,11 @@ launchctl bootout gui/501/com.ebbember.occupancy-watcher                        
 launchctl bootstrap gui/501 ~/Library/LaunchAgents/com.ebbember.occupancy-watcher.plist   # resume
 ```
 
-Send alerts to a channel instead of Davey's DM: put `{"slack_target": "C0XXXXXXX"}` in `config.json` (the Claude bot has to be in that channel).
+Alerts go to #periode (`C0BJR4XS03V`). To move them: `{"slack_target": "C0XXXXXXX"}` in `config.json` (the Claude bot has to be in that channel). Who gets tagged: `"mention": ["U0B1CAVT1TM", "U0B1H0WRHJ8"]` (Davey, Jonah).
 
 ## Open items
 
-- Alerts go to Davey's DM while it calibrates. Move to a team channel once a few days of alerts look right.
+- The always-on Mac went offline 2026-09-19 ~5pm to 2026-09-20 9:16am (asleep or off network, not rebooted), so nothing was watched overnight and the Sunday 7am unbooked group (stills in `Incidents/`) was only found by hand afterward.
 - Lounge and Ebb boat are battery cams. 90+ snapshots a day each will drain them faster than normal, watch the battery level in the Blink app for the first two weeks. If it's ugly, drop those two to every other sweep.
 - Bookings Jonah or staff create in the Periode admin: confirmed they generate the same email? Unverified. If not, those sessions will read as over.
 - The Ebb boat cam still has two pilings down the middle of frame (see Camera Coverage Review). Re-aiming it would help this count more than anything else.

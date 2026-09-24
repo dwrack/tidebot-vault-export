@@ -20,7 +20,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 <!-- live:start -->
 - **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — now 25 days sitting.
 - GSC confirms the plantation terms are still holding: "plantation tour new orleans" pos 3.5, "new orleans plantation tour" pos 1.2 — no new content built on top of them yet.
-- 0 unreplied reviews. ReplyAgent pause status still not reverified.
+- 0 unreplied reviews. ReplyAgent verified 2026-09-24: product Active, agent runs daily 8am, 0 ever posted, 66 customer-pose drafts found; guidelines rewritten, limit 2/day, daily monitor on mbp-2 reports to #helm-admire (see Admire NOLA/Marketing/ReplyAgent — Reddit Comment Monitor).
 <!-- live:end -->
 
 ## Quick links

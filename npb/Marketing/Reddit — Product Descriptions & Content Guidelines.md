@@ -14,7 +14,7 @@ These are the source of truth for anything the AI writes in a Reddit comment. Ev
 | Fact | Value |
 |---|---|
 | Departs from | 2101 Paris Road, New Orleans, LA (Bayou Bienvenue) |
-| Distance | ~7 miles from the French Quarter, 15 to 20 min drive |
+| Distance | ~7 miles from the French Quarter, 15 to 20 min drive, no bridge. Most other swamp tours that advertise "15 minutes from downtown" launch on the Westbank or toward Slidell, 15+ miles out, and bridge traffic makes that 30 to 45 min each way (David, 2026-09-24). State it as a distance fact, never as "they lie." |
 | Water | Bayou Bienvenue, NOT Bayou St. John, NOT the Mississippi |
 | Standard duration | 1 hr 45 min on the water |
 | BYOB | Yes, bring your own everything. Bar setup on board |
@@ -86,7 +86,7 @@ All four are the same core product at $63+ per person. Difference is capacity.
 
 ## Things people ask that we answer well
 
-- "Where do I see gators without driving to Slidell / Marrero?" → 15 min from the Quarter.
+- "Where do I see gators without driving to Slidell / Marrero?" → 15 min from the Quarter, no bridge. The "15 minutes" the Westbank tours advertise is really 15 miles plus the bridge.
 - "What do we do for a bachelorette that isn't another bar crawl?" → private boat, your music, your drinks.
 - "Is there anything BYOB?" → yes, that's the whole model.
 - "We have 20 people, what fits?" → Freaky Tiki or Twerkin' Tiki, 25 cap.
