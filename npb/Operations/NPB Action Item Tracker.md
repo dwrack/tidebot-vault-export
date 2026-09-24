@@ -63,7 +63,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 18 | Finish Blink cam installs, off the flood-light breaker | Jeff | open |
 | 19 | Storm prep checklist for future storms | Jeff | open |
 | 20 | Captain Slack trip logs. "No log = less tour pay" in writing | Jeff | open |
-| 21 | Tips certification for captains + crew via insurance | David | open |
+| 21 | TIPS certification for captains + crew (insurance requires it; prerequisite to serving drinks). Louisiana ATC course link posted in #nola-party-barge 9/25, $20/3hr, certs due Oct 9 in that thread | David / Jeff | in progress |
 | 22 | Sailboat that drifted into the pull-out spot — bill their insurance? | Jeff | open |
 
 ## Comms discipline
