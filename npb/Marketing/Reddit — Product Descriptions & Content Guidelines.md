@@ -83,6 +83,7 @@ All four are the same core product at $63+ per person. Difference is capacity.
 | Louisiana Coastal Birding Tour | Birding, photography, or naturalist questions |
 | Jingle on the Bayou | December only, holiday lights question |
 | Gift cards | Someone's buying a gift for a NOLA trip |
+| Kayak rentals at the marina (2101 Paris Road) | Someone wants to paddle Bayou Bienvenue on their own, no guide, or asks for kayaking close to the city. Same launch as the boats. No price or hours quoted until verified (David, 2026-09-25). |
 
 ## Things people ask that we answer well
 
