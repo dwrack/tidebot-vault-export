@@ -99,9 +99,26 @@ to save because Ads Manager holds them in a local draft layer, but anything that
 writes through the ads API is refused. That includes duplicating an ad, and very likely
 publishing this campaign.
 
-Fix it in Business Settings on whichever Business Manager owns `act_87863118` (the account
-displays as Gravity Trails / Admire NOLA): Users → your profile → Ad accounts → set to
-Advertiser or Admin. If someone else is the admin there, they have to grant it.
+**Good news: you can fix this yourself, no one else needed.** Checked 2026-09-22.
+
+The owning Business Manager is **Daves Businesses**, portfolio ID `10153674406626399`, and
+you are a **full admin** of it. Meta states plainly that you "can manage everything,
+including settings, people, tools and business assets" and "can delete the business
+portfolio at any time."
+
+The catch is that portfolio admin does not grant asset access in Meta's model. Each ad
+account needs its own assignment, and you do not have one on `87863118`. Only three people
+are assigned to it, all Full access: **Claude2**, **David Rack**, **Jeffrey Chitek**.
+
+To fix, 20 seconds:
+
+> business.facebook.com → Settings → Accounts → **Ad accounts** → **Gravity Trails /
+> Admire NOLA** → **Assign people** → yourself → **Full access** → Save.
+
+Two notes while you are in there. **Claude2 looks like an automation identity**, the same
+pattern as the claude-gmail API user on the Google Ads side, so leave it alone. And Door
+County Kayak Tours sits in this same portfolio, which is exactly why Ads Manager kept
+auto-attaching its product catalog to your campaign.
 
 Until that is done, do not bother with the steps below. They will not stick.
 
