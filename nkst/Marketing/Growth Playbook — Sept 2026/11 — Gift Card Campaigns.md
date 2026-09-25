@@ -59,7 +59,7 @@ Every rule below needs a yes/no before the page goes live. The **recommended** a
 | 2 | Delivery | Instant email + printable PDF | The printable template must be built (see Part 6) |
 | 3 | Valid on which items? | Every public tour, the Extended, the Whitney combo, the shuttle, private tours, Bayou Bienvenue rentals ("Bayou Kayak Rentals" is already a FareHarbor item), and add-ons | Confirm the rental item accepts gift cards. The staged blog draft already promises it. |
 | 4 | Partial redemption | Yes, with the remaining balance kept on the card | FareHarbor default [VERIFY] |
-| 5 | Price changes after purchase | Card value stays in dollars. If a seat goes from $65 to $69, the recipient pays the $4 difference. | **Flag:** "One Seat $65" reads like a voucher. Either rename it "$65 Gift Card" or add the line "covers one seat at today's price." Tied to open question 1 (the $65 vs. $69 drift). |
+| 5 | Price changes after the card is bought | Card value stays in dollars. If a seat goes from $65 to $69, the recipient pays the $4 difference. | **Flag:** "One Seat $65" reads like a voucher. Either rename it "$65 Gift Card" or add the line "covers one seat at today's price." Tied to open question 1 (the $65 vs. $69 drift). |
 | 6 | Cash back / refunds | No cash value, and no refund of the card itself | Standard, but state it plainly |
 | 7 | Tour cancelled by us (weather) | Full value returned to the card, or rebook | Matches the "full refund when we cancel" rule |
 | 8 | Guest cancels a booking made with a card | The cancellation policy applies, and value returns to the card when eligible | **Blocked by open question 2** (48-hr policy conflict) |
@@ -191,7 +191,7 @@ Each occasion gets an email, an SMS and a social caption. **SMS goes only to con
 - **Email body:**
   > Dinner's nice. This is different. Give your person a morning together in a cypress swamp, just the paddle drips, the birds and each other. Date Morning covers two seats and the shuttle. Want no one else on the water? Just You Two is a private tour for the two of you.
   > **[Choose your anniversary gift]**
-- **SMS:** `NOLA Kayak Swamp Tours: Anniversary gift for two: a quiet morning in the swamp. Date Morning card, $180, emailed now: [link] Reply STOP to opt out`
+- **SMS:** `NOLA Kayak Swamp Tours: Anniversary gift: a quiet swamp morning for two. Date Morning card, $180, emailed now: [link] Reply STOP to opt out`
 - **Social caption:**
   > Anniversary idea: two kayaks side by side, a swamp that goes quiet when you stop paddling, and no phones for two hours. Date Morning gift card covers two seats and the ride. Private tours for two, too.
 
@@ -245,7 +245,7 @@ Each occasion gets an email, an SMS and a social caption. **SMS goes only to con
 - **Email body:**
   > She doesn't need another candle. Give her a morning on the water with you: two kayaks, a naturalist guide, and herons at eye level. Every card of $130 or more plants a bald cypress in her name at Bayou Bienvenue.
   > **[Give Mom the swamp]**
-- **SMS:** `NOLA Kayak Swamp Tours: Mother's Day gift she'll actually use: a swamp morning for two. Cards over $130 plant a cypress: [link] Reply STOP to opt out`
+- **SMS:** `NOLA Kayak Swamp Tours: Mother's Day: a swamp morning for two. Cards over $130 plant a cypress in her name: [link] Reply STOP to opt out`
 - **Social caption:**
   > Mother's Day idea: two seats, one quiet morning, and a bald cypress planted in her name. Gift cards are emailed instantly and printable tonight.
 
@@ -269,7 +269,7 @@ Each occasion gets an email, an SMS and a social caption. **SMS goes only to con
 - **Email body:**
   > Looking for a year-end thank-you that isn't another branded tumbler? Give your team or clients a morning in a Louisiana cypress swamp. Orders of 10 or more come with a custom card insert with your logo, and you can plant a bald cypress at Bayou Bienvenue for every card. Your gift literally takes root. Reply or call Ray at (504) 571-9975 and we'll put it together.
   > **[Request a corporate gift quote]**
-- **SMS:** only to opted-in business contacts: `NOLA Kayak Swamp Tours: Year-end client gifts: swamp tour cards + a cypress planted for each. 10+ cards, custom insert: [link] Reply STOP to opt out`
+- **SMS:** only to opted-in business contacts: `NOLA Kayak Swamp Tours: Client gifts: swamp tour cards + a cypress planted for each. 10+ cards, custom insert: [link] Reply STOP to opt out`
 - **Social caption (LinkedIn-style):**
   > Year-end gifting for New Orleans teams: swamp tour gift cards, a custom insert with your logo, and a bald cypress planted at Bayou Bienvenue for every card. Local, memorable, and it leaves something behind. Message us for a quote.
 

@@ -137,15 +137,15 @@ Placeholders: `{{guide_name}}` has a fallback version for when it's empty. `{lin
 ### R1 — SMS (tour end +75 min)
 **With a guide name:**
 ```text
-Hi {{first_name}}, Ray at New Orleans Kayak Swamp Tours. Thanks for paddling with {{guide_name}} today. An honest Google review helps us a lot: {link:review_google} Reply STOP to opt out.
+Hi {{first_name}}, Ray at New Orleans Kayak Swamp Tours. Thanks for paddling with {{guide_name}}. An honest Google review helps: {link:review_google} Reply STOP to opt out.
 ```
-*(~185 chars, 2 segments. The guide name is worth the second segment. A/B test 2 tries a shorter version.)*
+*(~168 chars, so 2 segments with a long first name or guide name. We think the guide name is worth the second segment. In the first month, test it 50/50 against the version below, and measure review rate and guide mentions.)*
 
 **Without a guide name:**
 ```text
-Hi {{first_name}}, Ray at New Orleans Kayak Swamp Tours. Thanks for paddling with us today. An honest Google review helps a lot: {link:review_google} Reply STOP to opt out.
+Hi {{first_name}}, Ray at New Orleans Kayak Swamp Tours. Thanks for paddling with us. An honest Google review helps: {link:review_google} Reply STOP to opt out.
 ```
-*(~170 chars)*
+*(~158 chars)*
 
 **Follow-on SMS, sent 1 minute later (same step. It's what makes it non-gating: the review ask goes out first and doesn't depend on the answer):**
 ```text
