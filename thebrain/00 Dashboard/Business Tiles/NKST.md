@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 5
+revenue_today: 990
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "FH data stale — scrape blocked by Cloudflare"
-updated: 2026-09-22
+status: green
+alert: null
+updated: 2026-09-25
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape hit a Cloudflare 403 block across all 6 tracked businesses today. Last confirmed: $4,162/wk booked vs $4,000 target (104%) as of 9/20.
-- **0 unreplied reviews.** Brand term "new orleans kayak swamp tours" improved to position 17.1 (from 24.4) — worth watching if it holds.
-- Instagram is the #1 session source (59 sessions yesterday vs Google's 42) and still unmeasured — no `meta-organic` MCP connected this session, same standing gap flagged in the goals doc since 8/28.
-- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 GSC clicks across all 6 days of data returned, 4-11 impressions/day, consistent with the 0-click baseline. GA4 views not in the top 50 pages this run either.
+- **Goal pace: ~$6,307/wk booked vs $4,000 target (158%).** Estimate based on a 3-day average (9/18, 9/20, 9/24) — FH scrape still has gaps this week, treat as directional.
+- **2 unreplied 5★ reviews** — "Houston Pedal Barge" (reviewer name, 9/18, 7 days old) and Peter Pravikoff (9/24, fresh). Brand term "new orleans kayak swamp tours" sits at position 12.6.
+- GA4 shows Google (50 sessions, 84 conversions) and Instagram (50 sessions, 0 tracked conversions) roughly tied for top traffic source yesterday. IG still unmeasured for engagement itself — no `meta-organic` MCP connected this session, same standing gap since 8/28. Notable: small volumes of AI-assistant referral traffic (chatgpt.com, reddit.com, duckduckgo) are now showing up in GA4 — worth watching for AEO purposes.
+- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** One new GSC impression appeared ("best airboat tours new orleans," position 4, 0 clicks) — first ranking signal since baseline was set 6/2, but no traffic yet. GA4 shows 0 sessions to this exact path in the trailing 8 days.
 <!-- live:end -->
 
 ## Quick links

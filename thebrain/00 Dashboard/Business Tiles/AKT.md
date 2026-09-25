@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-09-22
+updated: 2026-09-25
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Decision made 2026-08-28: front door for LSKT.** No change to the arrangement.
-- Review backlog clean, 0 unreplied. Shares Meta act_638850950128825 with LSKT — that account is still fully dark, see LSKT's tile.
+- Review backlog clean, 0 unreplied. GSC brand term "lonestar kayak tours" pos 1. Shares Meta act_638850950128825 with LSKT — that account is still fully dark, see LSKT's tile.
 <!-- live:end -->
 
 ## Quick links

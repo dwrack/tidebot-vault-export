@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-22 (FareHarbor scrape failed completely today — Cloudflare 403 block across all 6 tracked businesses, worse than last week's timeouts. All booking/revenue figures below are frozen at 9/20. No `meta-organic` server connected (Instagram organic skipped) and HPB's TikTok pull failed again on `ECONNREFUSED`, still needs a manual browser relaunch.)*
+*Last refresh: 2026-09-25 (first clean FareHarbor pull since 9/20 — 9/24 data is fresh, but 9/17/19/21/22/23 are still gaps, so weekly pace figures are 3-day estimates. No brief ran 9/23 or 9/24, so several issues below sat unworked for 3 extra days. No `meta-organic` server connected (Instagram organic skipped) and HPB's TikTok pull failed on `ECONNREFUSED` — Playwright browser itself isn't running, not a login issue.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-22|Today's brief]]
+- [[Daily Briefings/2026-09-25|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Buffalo Bayou Kayak — manager quit, staffing collapse cancelled a booking and sparked a public review fight.** 1★ from N. Smith (9/21) after a same-day cancellation with 3 hours' notice.
-2. **Buffalo Bayou Kayak — 2 unreplied 5★ reviews, unresolved from yesterday's call-out.** Melvin Rodriguez (9/19) now 3 days old, Linpeng Zheng (9/21) 1 day.
-3. **Door County Kayak Tours — Google Ads + Meta both confirmed $0 across the full trailing 7 days now**, not just yesterday. Worst pace in the portfolio (37% of $7k/wk goal as of last confirmed data).
+1. **Buffalo Bayou Kayak — still unresolved 3+ days later.** Staffing crisis (manager quit), booking pace at 41% of $4,500/wk target, 2 more unreplied 5★ reviews now 4-6 days old, and the public 1★ reply thread from 9/21 is still combative in tone.
+2. **Portfolio-wide review reply backlog grew from 3 to 9 unreplied since 9/22.** Nobody worked the queue in 3 days. Start with NPB's 1★ (Joy Nix, 9/20, now 5 days old).
+3. **Door County Kayak Tours — Google Ads + Meta both still $0**, now over a week fully dark on both channels, while booking pace sits at just 31% of the $7,000/wk target — worst in the portfolio.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 20 | — | +8 vs yesterday |
-| Unreplied GBP reviews (all biz) | 3 (1× 1★ NPB, 2× 5★ Buffalo Bayou) | — | Unchanged — same 3 reviews, none cleared |
-| FH bookings (all biz) | unavailable (scrape blocked) | 36.2/day (5 of last 7 days, through 9/20) | — |
-| FH revenue (all biz) | unavailable (scrape blocked) | $7,144/day (same 5-day basis) | — |
-| Total ad spend (G+M) | $358.46 | ~$390/day (Google only, 7d) | — |
-| Total ad-attributed conversions | ~8 (Google, yday) | — | — |
+| Gmail unread | 22 | 20 (9/22) | +2 |
+| Unreplied GBP reviews (all biz) | 9 (1× 1★ NPB, 8× 5★ across NKST/HPB/Buffalo Bayou/Ebb & Ember) | 3 (9/22) | +6 |
+| FH bookings (all biz) | 34 | 45/day (3-day basis: 9/18, 9/20, 9/24) | -11 |
+| FH revenue (all biz) | $6,242 | $8,103/day (same 3-day basis) | -$1,861 |
+| Total ad spend (G+M) | $703.86 | Google only: $419.52/day (7d) | — |
+| Total ad-attributed conversions | ~7 (5 Google + 2 FB purchases) + 12 FB Messenger convos on NPB | — | — |
 <!-- pulse:end -->
-*FareHarbor scrape failed completely today — Cloudflare 403 block across all 6 tracked businesses. No `meta-organic` MCP connected this session (Instagram organic skipped). HPB's TikTok pull failed again on `ECONNREFUSED` — browser not running, needs a manual relaunch. Full writeup in today's brief.*
+*First clean FareHarbor pull since 9/20 (9/24 data), but 9/17/19/21/22/23 remain gaps — weekly pace figures are 3-day estimates, directional not precise. No `meta-organic` MCP connected this session (Instagram organic skipped). HPB's TikTok pull failed on `ECONNREFUSED` — Playwright browser not running, needs a manual relaunch. Full writeup in today's brief.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-22]] (today)
-- [[Daily Briefings/2026-09-21]] (1 day ago)
-- [[Daily Briefings/2026-09-20]] (2 days ago)
-- [[Daily Briefings/2026-09-19]] (3 days ago)
-- [[Daily Briefings/2026-09-18]] (4 days ago)
-- [[Daily Briefings/2026-09-17]] (5 days ago)
-- [[Daily Briefings/2026-09-16]] (6 days ago)
+- [[Daily Briefings/2026-09-25]] (today)
+- [[Daily Briefings/2026-09-22]] (3 days ago)
+- [[Daily Briefings/2026-09-21]] (4 days ago)
+- [[Daily Briefings/2026-09-20]] (5 days ago)
+- [[Daily Briefings/2026-09-19]] (6 days ago)
+- [[Daily Briefings/2026-09-18]] (7 days ago)
+- [[Daily Briefings/2026-09-17]] (8 days ago)
 <!-- briefs:end -->
 
 ## Maps

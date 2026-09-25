@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "No movement on build_on_ranking_plantation_terms since 2026-08-28 (25 days)"
-updated: 2026-09-22
+alert: "No movement on build_on_ranking_plantation_terms since 2026-08-28 (28 days)"
+updated: 2026-09-25
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — now 25 days sitting.
-- GSC confirms the plantation terms are still holding: "plantation tour new orleans" pos 3.5, "new orleans plantation tour" pos 1.2 — no new content built on top of them yet.
-- 0 unreplied reviews. ReplyAgent verified 2026-09-24: product Active, agent runs daily 8am, 0 ever posted, 66 customer-pose drafts found; guidelines rewritten, limit 2/day, daily monitor on mbp-2 reports to #helm-admire (see Admire NOLA/Marketing/ReplyAgent — Reddit Comment Monitor).
+- **Goal: build_on_ranking_plantation_terms (+ confirm ReplyAgent pause). No movement since 2026-08-28** — now 28 days sitting.
+- GSC confirms the plantation terms are still holding: "plantation tour new orleans" pos 2.5, 4 clicks — no new content built on top of it yet.
+- 0 unreplied reviews. ReplyAgent is NOT paused — it generated 2 more draft Reddit comments this morning (r/AskNOLA, 343 posts analyzed), still sitting in preview mode pending manual approval in the dashboard. Worth reconciling against the 9/24 note that guidelines were rewritten with a 2/day limit.
 <!-- live:end -->
 
 ## Quick links
