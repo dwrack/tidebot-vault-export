@@ -5,6 +5,12 @@
 ## The idea in one line
 Three Door County locals keep the lake company all winter: a loon, a gull and a sturgeon. They react to our summer footage, hype the businesses that stay open, and remind everyone their $20 is melting before Dec 31.
 
+## Cast update (David, 9/26), which replaces the table below where they differ
+- **Sturgeon:** now a married couple, **Roe-bert and his wife Barb**. Grumpy old-timers who bicker like 100-year-old spouses: he complains, she corrects him.
+- **Gull:** personality unchanged, name still open. Frontrunners: Squall Paul, Herring Hank, Gulligan, Gustav, Frye.
+- **Loon:** personality unchanged, name still open. Frontrunners: Common Carl, Dive Bar Dave, Tux, Lonnie, Yodel.
+- **New: a great blue heron, the snowbird (name TBD).** In fall it packs up and flies to New Orleans (real heron migration). There it meets the NKST heron, who shows off the swamp and NKST's tours, as an intentional cross-promo between DCKT and NKST, run as IG Collabs. In March it flies home and kicks off DCKT's season countdown. In summer it's the calm, patient one for sauna and nature posts. The NKST mascot session has been told about the storyline.
+
 ## The cast
 
 | | **Lou the Loon** | **Gary the Gull** | **Old Sturg** (lake sturgeon) |
