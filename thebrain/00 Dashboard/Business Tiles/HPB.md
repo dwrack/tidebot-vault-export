@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$3,885/wk booked vs $4,000 target (97%), cooling from the 174% estimate on 9/20.** Estimate based on a 3-day average (9/18, 9/20, 9/24) — treat as directional given FH scrape gaps.
-- **Google Ads (2986009791) dropped to $0 spend yesterday again** — the same recurring pattern flagged 9/22. 7-day: $42.21 spend, 2 conv, $21.11 CPA, 1.9 ROAS. Meta (shared w/ Buffalo Bayou) still running: $9.23 yesterday, still only "Followers Reboost" — no purchase campaign, 28 days after the goals doc flagged it.
-- **2 unreplied 5★ reviews** — Vivian M and Diana Pdrz, both 9/19 (6 days old).
-- **TikTok still failing — Playwright `ECONNREFUSED` connecting to the local browser.** Not a TikTok login expiry, the browser itself isn't running. Needs a manual relaunch, not another automated retry.
+- **Goal pace: ~$3,019/wk booked vs $4,000 target (75%), cooling further from 97% two days ago.** Estimate based on a 4-day average (9/18, 9/20, 9/24, 9/25) — treat as directional given FH scrape gaps. Yesterday's revenue ($60) is down 86% vs the $555 4-day average, the worst day of the week.
+- **Google Ads (2986009791) dropped to $0 spend again** — the same recurring pattern flagged since 9/22. 7-day: $42.21 spend, 2 conv, $21.11 CPA, 1.9 ROAS. Meta (shared w/ Buffalo Bayou) still running: $8.84 yesterday, still only "Followers Reboost" — no purchase campaign, 29 days after the goals doc flagged it.
+- **3 unreplied 5★ reviews** — Oscar Garcia, Vivian M, and Diana Pdrz, all 9/19 (7 days old).
+- **TikTok still failing — Playwright `ECONNREFUSED` connecting to the local browser (127.0.0.1:9222).** Same failure as yesterday, not a TikTok login expiry. Needs a manual relaunch, not another automated retry.
 <!-- live:end -->
 
 ## Quick links
