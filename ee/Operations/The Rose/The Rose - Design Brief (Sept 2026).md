@@ -57,6 +57,7 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 33 | Roof | **Crown lounge on top of the sauna**, three options in the model: flat deck, sunken fire circle, terraced bowl. The flue rises through the center inside glass |
 | 34 | Jump petal | **Deck level on the left to 35 ft above water on the right** (Jonah wants height; 35 ft allows a double back flip). Needs 16-17 ft of water across the landing at the lowest river stage (10 m platform standard) and a naval architect's check on a 35 ft element on a float. Consider a dedicated pile for the tall petal |
 | 35 | Swim reach | **Stem boom runs ~150 m north, under the Hawthorne, to the fire station pier.** It's the Portland Fire & Rescue Station 21 fireboat pier, so the fire bureau's berth access and the bridge owner (Multnomah County) are now in the conversation |
+| 36 | Jump petal height | **Scaled back to ~20 ft above water** (v0.12), in proportion with the rose; supersedes the 35 ft version. Landing needs roughly 12-13 ft of water at low river |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
@@ -283,6 +284,45 @@ One brain: **Q-SYS Core 8 Flex** (audio zones, relays for the dosing unit and ca
 8. 12:00 Exhaust purge, lights to 2700K, doors open to the terraces
 
 **Sensory equipment budget:** ~$37K to ~$105K before install.
+
+## Interior acoustics plan (v0.13 geometry)
+
+**Goal:** a hot room that feels calm and warm at every occupancy. Target reverb 0.5-0.7 s whether it's empty or full, crowd noise under ~65 dBA, and the host's voice clear without a mic.
+
+**Where we are (estimate, Sabine, ~180 m3 room, ~230 m2 of wood surface):**
+
+| Occupancy | Bare wood | With ~35 m2 of treatment |
+|---|---|---|
+| Empty | ~1.3 s (echoey) | ~0.7 s |
+| Half (~28) | ~0.9 s | ~0.6 s |
+| Full (~57) | ~0.7 s | ~0.5 s |
+
+People are the best absorber in the room, so a full session is fine even untreated. The problem is quiet and half-full sessions, which are most of them. The target is about 35 m2 of absorptive surface, roughly 15% of the room.
+
+**1. Absorb in three places**
+- **Upper ceiling (the bud):** slatted thermo-wood over 50-100 mm stone wool, with 10-20 mm gaps. This is the biggest, least-touched surface. Stone wool is non-combustible and fine at sauna temperatures. The foil vapor barrier goes behind the wool, never in front of it, or it reflects.
+- **Bench risers:** slotted riser boards with wool behind them. The same cavities already house the speakers and transducers, so one detail does two jobs.
+- **Upper walls behind the top tier:** above head height, where hands and wet towels don't reach.
+
+**2. Break up the round shape.** Round rooms focus sound to the middle and let whispers crawl around the wall.
+- Make the lobe walls **faceted** (flat 1-1.5 m panels), never smooth arcs. This is the single biggest fix.
+- Run the petal ribs down the ceiling as **timber diffusers**, at irregular spacing.
+- The stone altar and pistil cages at the center already scatter sound from the focal point.
+- Tilt the bridge-view glass 5-8 degrees so it doesn't flutter-echo with the wall opposite.
+
+**3. Keep outside noise out.** The roof lounge now sits right on top of the hot room.
+- **Float the crown deck** on rubber isolation pads over the insulated roof, so footsteps, the fire circle and roof chatter don't drum on the ceiling. The 100-150 mm of insulation the heat needs anyway helps a lot.
+- **Isolate the benches** and the transducer blocking from the hull with elastomer pads.
+- The **doors** open onto the amphitheaters, where there's fire and chatter. Tight heat seals already help; add soft-close hardware.
+
+**4. Make it tunable.** Build the ceiling absorbers as **removable cassettes**. Measure reverb after the build (a sine-sweep test, or a consultant's $3-10K commissioning), then add or pull cassettes until it sounds right. Partition drapes in wool felt add absorption when they're down.
+
+**5. Set it through operations.**
+- House sound stays low (60-65 dBA). Bass goes through the benches, not the air.
+- Run silent sessions and quiet hours; the Aufguss sessions are the loud ones.
+- A decibel meter on the host's iPad, so "too loud" is a number, not an argument.
+
+**Budget:** about $15-35K for slat-and-wool ceiling and riser treatment, plus $3-10K for acoustic ray-trace and commissioning (est.).
 
 ## 8. 3D printing: what gets printed
 

@@ -51,6 +51,14 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 **Direction:** "I like the unfurling so far the best. Also maybe there is a way to stand on the top of the sauna too, as a roof. More lounge space." "This should stretch all the way over to the other dock under the bridge." "Give me a few different versions of the roof lounge area, maybe another sunken fire pit with a circular lounge space." "The jump petal should be a petal that comes from the ground on the left to the highest point on the right." "Jonah probably wants the highest point higher... max out at 35 feet, or whatever height would allow for a double back flip."
 **What changed:** Unfurling is the default petal character. The sauna's top is now a crown lounge ringed by upright petals, in three versions: flat crown deck, sunken fire circle, terraced bowl. The jump petal rises from deck level on the south side to a launch platform 35 ft above the water on the north side. The stem boom now runs ~150 m north, past Audrey McCall Beach and under the Hawthorne, to the fire station pier. Site overlay redrawn for the full reach.
 
+## v0.12: Jump petal in proportion
+**Direction:** "The jump petal is way too tall. Make it more proportional to the rose."
+**What changed:** Peak dropped from 35 ft to about 20 ft above the water (5.6 m above the deck), just above the roof rail. Same sweep from the deck on the left up to the launch on the right, with fewer, gentler steps.
+
+## v0.13: No launch platform
+**Direction:** "Remove the weird platform on top of the jump petal and update our main model."
+**What changed:** The flat launch platform at the top of the jump petal is gone. The petal's own tip is the high jump point.
+
 ---
 
 ## For the video later
