@@ -2,13 +2,13 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 2
-revenue_today: 121
+bookings_today: 1
+revenue_today: 60
 lead_time_days: 0
 ad_spend_yday: 9
 status: yellow
-alert: "Google Ads $0 again yesterday (recurring); TikTok pull still failing — browser not connected"
-updated: 2026-09-25
+alert: "Revenue down 86% vs trailing avg; Google Ads $0 again; TikTok still down"
+updated: 2026-09-26
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000

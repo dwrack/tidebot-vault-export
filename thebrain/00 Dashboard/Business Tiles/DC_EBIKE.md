@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Decision deadline (Sept 15) now 10 days overdue"
-updated: 2026-09-25
+alert: "Decision deadline (Sept 15) now 11 days overdue"
+updated: 2026-09-26
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals — decision deadline (Sept 15) passed 10 days ago. No movement since 2026-08-28** — now 28 days sitting with zero decision made.
-- GSC shows this domain (doorcountykayak.com) still ranking mostly thin — best query only 1-2 clicks, several 0-click long-tail impressions. Cannibalization question against DCKT's brand terms remains unverified.
+- **Goal: commit_domain_to_rentals — decision deadline (Sept 15) passed 11 days ago. No movement since 2026-08-28** — now 29 days sitting with zero decision made.
+- GSC shows this domain (doorcountykayak.com) still ranking mostly thin — best query only 1 click, several 0-click long-tail impressions. Cannibalization question against DCKT's brand terms remains unverified.
 - GBP still shows 18 reviews, newest still 2022 — no revival activity.
 <!-- live:end -->
 

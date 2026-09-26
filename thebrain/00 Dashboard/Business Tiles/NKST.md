@@ -3,12 +3,12 @@ business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
 bookings_today: 5
-revenue_today: 990
+revenue_today: 850
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-09-25
+updated: 2026-09-26
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$6,307/wk booked vs $4,000 target (158%).** Estimate based on a 3-day average (9/18, 9/20, 9/24) — FH scrape still has gaps this week, treat as directional.
-- **2 unreplied 5★ reviews** — "Houston Pedal Barge" (reviewer name, 9/18, 7 days old) and Peter Pravikoff (9/24, fresh). Brand term "new orleans kayak swamp tours" sits at position 12.6.
-- GA4 shows Google (50 sessions, 84 conversions) and Instagram (50 sessions, 0 tracked conversions) roughly tied for top traffic source yesterday. IG still unmeasured for engagement itself — no `meta-organic` MCP connected this session, same standing gap since 8/28. Notable: small volumes of AI-assistant referral traffic (chatgpt.com, reddit.com, duckduckgo) are now showing up in GA4 — worth watching for AEO purposes.
-- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** One new GSC impression appeared ("best airboat tours new orleans," position 4, 0 clicks) — first ranking signal since baseline was set 6/2, but no traffic yet. GA4 shows 0 sessions to this exact path in the trailing 8 days.
+- **Goal pace: ~$6,218/wk booked vs $4,000 target (155%).** Estimate based on a 4-day average (9/18, 9/20, 9/24, 9/25) — FH scrape still has gaps this week, treat as directional.
+- **3 unreplied 5★ reviews** — "Houston Pedal Barge" (reviewer name, 9/18, now 8 days old — oldest unreplied review in the portfolio), Peter Pravikoff (9/24, 2 days), and "I S." (9/25, fresh). Brand term "new orleans kayak swamp tours" sits at position 12.8.
+- GA4 traffic-source data quality flag: yesterday shows 3,862 sessions from `t.co` with only 4 conversions — almost certainly referral spam, not real traffic. Real channels: direct (110 sessions), Instagram (46), Google (42). Some of the "conversions" columns (direct 51, google 70) look like an event-counting overcount, don't take at face value.
+- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 rows returned on the page-filtered GSC query this window, and the page doesn't appear in NKST's top-80 GA4 pages for the trailing 8 days — the one impression seen two days ago didn't convert into anything durable.
 <!-- live:end -->
 
 ## Quick links
