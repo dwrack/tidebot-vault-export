@@ -26,6 +26,33 @@ These are the findings that change the plan. Everything else in this doc is deta
 7. **Round rooms focus sound** (whispering gallery, hot spot in the middle). The petal plan is the fix, but only if petal walls are **faceted or convex**, never smooth arcs.
 8. **Never glycol fog, never neat oil on stones.** Eucalyptus oil flashes at 39-54C, below room temperature. Scent rides on water, diluted, and the cannons fire cool air from outside the wall.
 
+## Decisions (Davey, 2026-09-26)
+
+| # | Item | Decision |
+|---|---|---|
+| 1 | Occupancy | **Full bloom.** ~57 inside + ~40 on the terraces, about 95-100 total. Designed as A-3 assembly from the start |
+| 2 | Heat | **EOS natural gas, custom.** EOS sells gas heaters through its KUSATEK line, built as standard or bespoke units. See section 6 |
+| 3 | Certification | **Certify the room with the stove in it, not the stove itself.** The engineer and inspector sign off the space: clearances, combustion air, flue, gas piping, ventilation, fire separation |
+| 4 | Petals | **Petals fan out and run from the deck up past the terraces.** The petals are the walls and the terrace guards. Done in model v0.2 |
+| 5 | Doors | **3 doors**, in the clefts where petals overlap, none beside the bridge petal |
+| 6 | Stones | **Stones curve outward like pistils.** A cage of 12 steel stamens fanning up and out from the altar, stones clustered along them and knotted at the tips. The flue is the center of the flower |
+| 7 | Leaves | **Three swim-out leaves off the Stem**, alternating sides, each tied to the slide by a short petiole walkway |
+| 8 | This week | Sensory test in the current sauna (spec in section 15) + model revision 2 (done) |
+| 9 | Name | Keep brainstorming (section 16) |
+
+## Model v0.2 (2026-09-26)
+
+What changed from v0.1, in both the 3D viewer and the STL script:
+- **Outer petals:** five flared shells, 3.75 m tall with rounded rims curling back at the top. They start ~4.75 m out at the deck and flare to ~6 m, overlapping in a spiral. The slit where one petal overlaps the next is the doorway, so you slip in between petals. The rims rise ~1.1 m above the terraces, so the petals are the guards.
+- **The void between the hot room and the petal skin is the cool service ring:** amps, transducer feeds, scent cannons, drape motors, ducts, and the stair up to the terraces. That solves "where do the electronics live" for free.
+- **Bridge petal is glass** with three ribs.
+- Pit widened to 2.0 m radius so the Aufguss host has room to work. Tier rise 45 cm. Ceiling dropped to 2.15 m at the wall (about 1.4 m over the top bench).
+- 3 doors (was 4). Seats inside now ~57 (fewer aisles).
+- Float grew to **49 ft** so the fire lounges fit outside the petal bases. Petals still stay inside the float edge.
+- One low, wide gas stone altar with the pistil stone cage and a flue up through the oculus (replaces the 5-module crown).
+- Three leaf floats along the Stem.
+- New STL: `rose_petals.stl` (lifts off with the roof). `leaf_floats.stl` replaces `leaf_float.stl`. The STL slide leaves from a different petal than the viewer's; cosmetic, fix in v0.3.
+
 ## 3. Site: the puzzle pieces
 
 The whole area is one composition. The Rose is the bloom; everything else is the garden around it.
@@ -35,7 +62,7 @@ The whole area is one composition. The Rose is the bloom; everything else is the
 | **The Rose** | 40-48 seat communal sauna + 5 roof terraces | Own piles, beside Holman Dock | Bridge-facing petal is glass |
 | **The Thorn** | 6-8 seat private sauna, charred wood, spiked roofline | Own small hex float, gangway to the Rose | Private bookings, proposals, the "after" room for wedding parties |
 | **The Stem** | Green enclosed waterslide from a petal terrace to the river | Off the river-side petal | Summer only, swim season July to Sept. See section 10 before anyone gets attached |
-| **The Leaf** | Leaf-shaped swim-out float where the slide lands, with a ladder | 15-20 m off the Rose | Doubles as the swim float the City wanted in Phase 1 |
+| **The Leaves** | Three leaf-shaped swim-out floats off the Stem, one where the slide lands, each with a ladder | Along the slide, 10-25 m off the Rose | Double as the swim float the City wanted in Phase 1 |
 | **Fire lounges** | Two sunken conversation rings on the deck between petals | Rose deck, river side | Parks fuel ban applies; electric/ethanol "fire" or a water-mist flame effect may be the only legal option |
 | **Carved shoreline** | Terraced seating cut into the bluff/bank, facing the Rose and bridge | Holman upland / bluff | Public-benefit piece for the City: free to sit, watch, picnic |
 | **Service** | Changing, showers, restrooms, electrical room, storage | Phase 1 trailer; Phase 2 permanent on the gravel lot | Same ops package as the pilot plan |
@@ -91,6 +118,18 @@ The drapes do two jobs: they shrink the heated volume on slow days (less power, 
 **Operational rule:** drapes only move between sessions, never with people seated under them.
 
 ## 6. Heat
+
+> **Updated 2026-09-26: Davey chose EOS natural gas.** The electric analysis below stays as the fallback if gas is refused.
+>
+> **EOS gas = the KUSATEK line.** EOS lists KUSATEK gas-powered heater systems "as a standard solution, as well as an individual special solution." Models named: KUSATHERM 90, 120 and 240. Up to **1,400 kg of stone per unit**, max height 80 cm (low and wide, which suits a sunken altar), a "HOT button" for Aufguss stone temperature, natural gas. Installed at Therme Erding (the world's largest spa) and Badewelt Sinsheim (Guinness record largest sauna). Output in kW isn't published. Contact: EOS Saunatechnik GmbH, Driedorf, Germany, +49 2775 82 0, info@eos-sauna.de. US channel is ThermaSol. Source: eos-sauna.com/en/wellness-facilities/gas-powered-sauna-heaters
+>
+> **Certification, per Davey: we certify the room with the stove in it, not the stove.** The engineer of record and inspector sign off the space: clearances, combustion air, the flue out the oculus, gas piping on a float, CO detection, ventilation. What to expect so it doesn't surprise us: KUSATEK units carry German gas approval (DVGW), not a US listing, and Oregon's gas code expects appliances to be listed or approved. The standard fix is a **one-time field evaluation label** (CSA or Intertek inspects the installed unit on site). It's a fee and a visit, not a redesign. Ask EOS/ThermaSol if any US installs already went through it.
+>
+> **Sizing:** ~105 kW is about **360,000 BTU/hr**. The biggest off-the-shelf US gas sauna stoves are 80-85K BTU (Scandia, Torch), so a KUSATHERM, or several Torch units in one altar, is the only way to get there. NW Natural service sized for ~400K BTU/hr down the gangway.
+>
+> **Holman conflict to manage quietly:** Parks dock rules ban stoves, heaters and flame on docks. That rule covers the Parks dock. The Rose on its own piles and its own DSL lease is a separate structure, the way our Columbia boats are. The LOI needs to say that plainly.
+>
+> **Pistil stone cage:** custom, ours, around the KUSATEK core. The EOS stone capacity and clearances govern, so send them the pistil drawing and have them approve the cage before fabrication.
 
 **Bottom line:** the Rose needs roughly **100-110 kW of electric heat** with all five petals open, and Holman has no power at all. The heater decision is really a power decision.
 
@@ -387,12 +426,64 @@ Answer by number. Some are also in the chat.
 14. **Who leads:** Hannah B leads Holman. Does she lead the Rose too, or does this sit with you and Kyle?
 15. **Budget ceiling:** what total are you willing to raise and borrow for the whole garden? That decides float size, the Thorn and the slide.
 
+## 15. Sensory test in the current sauna (this week)
+
+Goal: feel the two riskiest ideas before designing around them, and get teaser footage. Budget ~$1.2-1.8K. Installer: Grant or Zach Hull.
+
+**Kit**
+| Item | Qty | Est. |
+|---|---|---|
+| Clark Synthesis AW339 all-weather tactile transducer | 2 | ~$500 |
+| 2-channel class-D install amp, 150 W/ch | 1 | $200-400 |
+| miniDSP 2x4 HD (low-pass at ~100 Hz, limiter) or an amp with built-in LPF | 1 | ~$225 |
+| Bluetooth receiver + tinned, silicone-jacketed 14 AWG speaker wire | 1 | ~$80 |
+| Temperature logger probe for the bench cavity | 1 | ~$30 |
+| Fog-ring / vortex cannon, run on air only (no glycol fog) | 1 | ~$300 |
+| Food-grade fir and rose-geranium oils, cotton pads | | ~$60 |
+
+**Install**
+1. Bolt both transducers to a 2x6 block between bench joists on the underside of the **lowest** bench, never to the slats. Drip shield above each. Probe in the same cavity.
+2. Amp, DSP and receiver **outside** the hot room, in a dry box.
+3. Scent cannon **outside the sauna** first, on the cool-down deck, firing cool air across the lounge. Scent comes from a few drops on a cotton pad inside the chamber. Never in the hot room on day one.
+
+**Test**
+- 3 sessions over two weeks: a quiet drone, a slow heartbeat, river sounds. Low volume only.
+- Watch the cavity temp. Stop if it passes ~55C.
+- Ask 5 guests per session: could you feel it, was it too much, would you pay more for it.
+- Film it for stage-1 teasers: no founder names, no Holman.
+
+## 16. Name bank (brainstorm, not cleared)
+
+Top three picks first.
+
+1. **Hawthorn** - hawthorn is in the rose family (Rosaceae), and the Hawthorne Bridge stands over it. Two meanings, one word. (The bridge is spelled with an e, after Dr. J.C. Hawthorne; the plant without. Pick one on purpose.)
+2. **Nootka** - after Rosa nutkana, the wild rose native to the Pacific Northwest. Local, botanical, ownable.
+3. **Testout** - after the Madame Caroline Testout rose Portland planted along 20 miles of streets in 1905, the origin of the Rose City name.
+4. **Corolla** - the botanical word for the ring of petals. Also a car, which hurts.
+5. **The Rose by Ebb & Ember** - plain and clear.
+6. **Rosarium** - Latin for rose garden; fits the whole site with Thorn, Stem and Leaves.
+7. **Rosa** - short, warm, hard to trademark.
+8. **Bloom** - verb and noun; "the Bloom" as the sunset ritual.
+9. **Rose Hip** - playful; also the tea at the door.
+10. **Pistil** - named after the heart of the flower and the stones.
+11. **Wildrose** - loose, outdoorsy.
+12. **Floribunda** - a rose class that blooms in clusters; long but lovely.
+13. **Ember Rose** - ties directly to the brand.
+14. **Rosewater** - a sauna on the water, named for a scent.
+15. **Madame** - short for Madame Testout; a bit of attitude.
+16. **The Garden** - the collection name, with the Rose as the flagship.
+17. **Nutkana** - the Latin half of Nootka; more ownable, harder to say.
+18. **Thornrose** - the Grimm name for Sleeping Beauty (Dornröschen). Dreamy, a little dark.
+
+All still need the attorney's trademark check before anything public.
+
 ## Status
 
 - [x] Concept, research (4 tracks), parametric model, STL files for a 1:60 print (2026-09-26)
 - [x] Interactive 3D model published: https://claude.ai/artifact/VPwztPdkTQfPb23vPh2yzz (local copy: `The Rose - 3D Model.html`)
 - [ ] Davey answers section 14
-- [ ] Revision 2 of the model: widen pit to 2.0 m, 45 cm tier rise, faceted petal walls, accessible route, Stove Crown
+- [x] Revision 2 of the model (flared petals, 3 cleft doors, pistil stones, 3 leaves, wider pit, 45 cm tiers)
+- [ ] v0.3: faceted hot-room walls (acoustics), accessible route, align STL slide with viewer
 - [ ] Print the scale model
 - [ ] Naval architect shortlist (no outreach until approved)
 - [ ] Sensory prototype in the existing sauna
