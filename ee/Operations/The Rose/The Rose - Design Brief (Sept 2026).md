@@ -40,6 +40,65 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 8 | This week | Sensory test in the current sauna (spec in section 15) + model revision 2 (done) |
 | 9 | Name | Keep brainstorming (section 16) |
 
+## Decisions, round 3 (Davey, 2026-09-26, v0.8 to v0.9)
+
+| # | Item | Decision |
+|---|---|---|
+| 22 | Movement | **Dropped.** Petals are fixed |
+| 23 | Guards | **No guards on jump edges.** Glass rail only on the dock-side lounge petals where jumping isn't allowed. Davey's framing: a water structure in a grey area of the code. Carry-forward: insurer sign-off, depth markings at every jump edge, lifeguards |
+| 24 | Water entry | **Stepped entry petals** under each slide petal, deck level to below the water |
+| 25 | Petals | **Amphitheater petals:** the inside of each non-slide petal is stadium seating arching up from a fire pit at the bottom. Saddle rim gives jump heights ~1 to 2.9 m into the cove |
+| 26 | Doors | **Offset screen petals** hide the dock-side doors |
+| 27 | Lounges | Dock-side petals = chill lounges facing the bridge. Furniture still open (the bug-chair try was a miss; if we revisit, commission a real furniture artist) |
+| 28 | Rejected | Outside spiral stadium ramp; bug chairs; bloom/bud movement |
+| 30 | Layout | **Jump petal centered between the two slide petals**, facing the cove; north slide petal keeps a glass base for the bridge view (v0.10) |
+| 31 | Leaves | **Bigger leaf floats** (about 2x), for lounging on the water (v0.10) |
+| 32 | Petal character | **Unfurling** is the favorite so far (v0.11 default) |
+| 33 | Roof | **Crown lounge on top of the sauna**, three options in the model: flat deck, sunken fire circle, terraced bowl. The flue rises through the center inside glass |
+| 34 | Jump petal | **Deck level on the left to 35 ft above water on the right** (Jonah wants height; 35 ft allows a double back flip). Needs 16-17 ft of water across the landing at the lowest river stage (10 m platform standard) and a naval architect's check on a 35 ft element on a float. Consider a dedicated pile for the tall petal |
+| 35 | Swim reach | **Stem boom runs ~150 m north, under the Hawthorne, to the fire station pier.** It's the Portland Fire & Rescue Station 21 fireboat pier, so the fire bureau's berth access and the bridge owner (Multnomah County) are now in the conversation |
+| 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
+
+## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
+
+Full log with Davey's words per version: `Iterations/CHANGELOG.md`.
+
+| # | Item | Decision |
+|---|---|---|
+| 10 | Thorn sauna | **Removed** |
+| 11 | Roof | **No flat roof deck.** The five petals rise, bend out and open flat; the open petals are the hangout decks. Hot-room roof is a closed bud |
+| 12 | Petal guards | **No glass windscreen on the petals** (looked wrong). Code still wants 42 in guards on occupied decks, so this needs a quieter answer: a raised petal-edge lip plus cable/net, or cap the decks as supervised zones. Engineer's call |
+| 13 | Fires | **Sheltered, inside each petal:** a cupped outer petal under every open petal holds a fire nook and bench. Each petal = deck above, fire nook below |
+| 14 | Glass | **Bridge petal glass** from deck to bend; its fire nook gets a glass windbreak |
+| 15 | Pistils | **Wire cages** curving up and out, a heating pipe running up through each and looping back down, stones in and around them. This is a custom heat exchanger around the gas burner: EOS/KUSATEK builds it bespoke, we certify the room |
+| 16 | Symmetry | **Explore wild.** Four petal characters in the model: Classic, Wind-swept, Wild bloom, Unfurling. Pick or mix |
+| 17 | Slides | **Two petals are group slides**, petal-shaped, drooping side by side into the swim cove |
+| 18 | Movement | **Explore petals that open and close.** Bloom/Bud modes in the model. See below |
+| 19 | Second sauna | **The Bud across the river**: a permanently closed rose on the west bank, facing the Rose |
+| 20 | Drapes | **Partition drapes only**, circle drape removed. Two modes: full, or two petals curtained off |
+| 21 | Site | Holman = **Kerr Public Dock** on Google Maps. Rose moors off the dock's outer tip; swim cove between the Rose and the shore |
+
+### Keeping swimmers in (from the Google Maps look at the dock)
+- The dock is one long float (~95 m in current imagery) angling out northwest from the Esplanade. Boats moor along its shore side mid-dock. Audrey McCall Beach is just north, then the Hawthorne Bridge.
+- The Willamette flows north here, toward the bridge. **Anything that floats, swimmers included, drifts downstream to the north.**
+- Plan: the Rose moors off the dock tip with the dock between it and the channel. The slide petals face the shore and land in the calm water between the Rose and the beach.
+- **The Stem becomes the downstream swim boundary:** a floating boom from the flower to the shore, curving around the north side of the cove. The three Leaves float inside it as rest and climb-out platforms.
+- **A lane line on the upstream (south) side** from the dock to the shore keeps swimmers away from the moored boats.
+- The result is a swim cove of roughly 95 x 60 ft (estimate from imagery). To-scale overlay: `The Rose - Site Overlay (Holman-Kerr Dock).png`.
+- Unknowns: cove depth (the slides land nearer the shore, where it shallows), whether the City allows a boom tied to the beach, boat traffic to the dock tip, and the Audrey McCall Beach users. Soundings first.
+
+### Open and closed: two experiences, one building
+- **The Bloom (open):** summer, day, sunset. Petal decks, slides, fire nooks below. Social.
+- **The Bud (closed):** winter, rain, night. Petals rise and lean in, closing a covered ring between the hot room and the petals, a warm cloister out of the wind. Lit from inside, it glows like a lantern. The shell becomes a sound room for quiet sets.
+- **The Opening:** a daily sunset ritual, a few minutes long, watched from the shore. Petals move only when empty.
+- **Reality check:** petals that carry 8 people each at 100 psf and also move means engineered hydraulic actuators, locking pins and a controls safety case. Precedent: the Milwaukee Art Museum's Burke Brise Soleil opens and closes daily. Estimate +$300K to +$1M. Cheaper routes: move only the slide petals, go seasonal (crane or manual changeover twice a year), or make only lightweight fabric/printed petal tips kinetic.
+
+### The Bud across the river
+- A permanently closed, smaller sauna (~20-24) on the west bank. The RiverPlace/Hawthorne Bowl site from the City siting brief fits.
+- Dark, quiet, silent sessions: the introvert to the Rose's extrovert.
+- Paddle between them (our kayak DNA). When the Rose opens at dusk, the Bud glows back.
+- Separate site, separate permit path. Estimate $0.7-1.5M.
+
 ## Model v0.2 (2026-09-26)
 
 What changed from v0.1, in both the 3D viewer and the STL script:
@@ -60,7 +119,7 @@ The whole area is one composition. The Rose is the bloom; everything else is the
 | Piece | What it is | Where | Notes |
 |---|---|---|---|
 | **The Rose** | 40-48 seat communal sauna + 5 roof terraces | Own piles, beside Holman Dock | Bridge-facing petal is glass |
-| **The Thorn** | 6-8 seat private sauna, charred wood, spiked roofline | Own small hex float, gangway to the Rose | Private bookings, proposals, the "after" room for wedding parties |
+| ~~The Thorn~~ | Removed 2026-09-26 | | |
 | **The Stem** | Green enclosed waterslide from a petal terrace to the river | Off the river-side petal | Summer only, swim season July to Sept. See section 10 before anyone gets attached |
 | **The Leaves** | Three leaf-shaped swim-out floats off the Stem, one where the slide lands, each with a ladder | Along the slide, 10-25 m off the Rose | Double as the swim float the City wanted in Phase 1 |
 | **Fire lounges** | Two sunken conversation rings on the deck between petals | Rose deck, river side | Parks fuel ban applies; electric/ethanol "fire" or a water-mist flame effect may be the only legal option |
@@ -483,7 +542,10 @@ All still need the attorney's trademark check before anything public.
 - [x] Interactive 3D model published: https://claude.ai/artifact/VPwztPdkTQfPb23vPh2yzz (local copy: `The Rose - 3D Model.html`)
 - [ ] Davey answers section 14
 - [x] Revision 2 of the model (flared petals, 3 cleft doors, pistil stones, 3 leaves, wider pit, 45 cm tiers)
-- [ ] v0.3: faceted hot-room walls (acoustics), accessible route, align STL slide with viewer
+- [x] v0.3 to v0.7 in the viewer (see Iterations/CHANGELOG.md)
+- [ ] STL files are at v0.4 classic geometry (open petals, bud roof, fire cups). Wild variants, slide petals, stem boom and the Bud are viewer-only so far
+- [ ] Pick a petal character, then v0.8: faceted hot-room walls (acoustics), accessible route, petal-edge guard solution
+- [ ] Soundings and current in the cove before slide design
 - [ ] Print the scale model
 - [ ] Naval architect shortlist (no outreach until approved)
 - [ ] Sensory prototype in the existing sauna

@@ -7,9 +7,9 @@ Three Door County locals keep the lake company all winter: a loon, a gull and a 
 
 ## Cast update (David, 9/26), which replaces the table below where they differ
 - **Sturgeon:** now a married couple, **Roe-bert and his wife Barb**. Grumpy old-timers who bicker like 100-year-old spouses: he complains, she corrects him.
-- **Gull:** personality unchanged, name still open. Frontrunners: Squall Paul, Herring Hank, Gulligan, Gustav, Frye.
+- **Gull: Gustav** (David OK'd 9/26), the deadpan winter hater. Named for a gust of wind.
 - **Loon:** personality unchanged, name still open. Frontrunners: Common Carl, Dive Bar Dave, Tux, Lonnie, Yodel.
-- **New: a great blue heron, the snowbird (name TBD).** In fall it packs up and flies to New Orleans (real heron migration). There it meets the NKST heron, who shows off the swamp and NKST's tours, as an intentional cross-promo between DCKT and NKST, run as IG Collabs. In March it flies home and kicks off DCKT's season countdown. In summer it's the calm, patient one for sauna and nature posts. The NKST mascot session has been told about the storyline.
+- **New: a great blue heron, the snowbird (name TBD).** In fall it packs up and flies to New Orleans (real heron migration). There it meets the NKST heron, who shows off the swamp and NKST's tours, as an intentional cross-promo between DCKT and NKST, run as IG Collabs. In March it flies home and kicks off DCKT's season countdown. In summer it's the calm, patient one for sauna and nature posts. The NKST mascot session has been told about the storyline. The NKST heron is **Hank the Heron**: deadpan and unimpressed, secretly glad his friend visits. Ours is the chatty "ope" Midwesterner. Joint Collabs are planned for the arrival (late Oct/early Nov), meeting Earl the gator (Nov), levee bonfires (Dec), Mardi Gras (Feb 9), the send-off (early Mar), and Hank visiting Door County (Jul). Details are in the NKST vault: `Marketing/Mascots 2026-27 — Content Plan + Mascots (DRAFT).md`.
 
 ## The cast
 

@@ -16,6 +16,24 @@ The neighbors who actually live in Manchac have opinions about you: a heron, two
 | **Mawmaw Snap** (alligator snapping turtle) | The old-timer | Way older than anyone. Slow, gravelly, a bit of a gossip. Knows every storm, every story and every family on the bayou. | **"Back When"**: history, the Julia Brown and Frenier 1915 story (told true), how the swamp got here, how the land is disappearing, plus throwbacks over old 2017 to 2019 footage. | "I remember when this was all cypress, baby. Then they logged it. Then it grew back. Y'all keep up." |
 | **Cookie** (barred owl) | Night and deep thinking | Curious and a little spooky. Named for the barred owl's real call, "who cooks for you?" She asks the big questions. | **"After Dark"**: eerie fog and dusk clips, bird calls, and conservation explainers (cypress, Two Swamps, Bayou Bienvenue). | "Who cooks for you? Nobody, apparently. Anyway, here's why the swamp is shrinking." |
 
+## Cross-brand storyline: the snowbird heron (DCKT x NKST)
+*From the DCKT mascot session, David's decision 9/26. Both names are still his to confirm.*
+
+- **The story:** DCKT has its own great blue heron, a snowbird. Every fall it leaves Door County (real behavior: great blue herons do migrate toward the Gulf Coast), flies to New Orleans, and meets Hank, who shows it the swamp. In March it flies home and kicks off DCKT's season countdown. In summer, Hank visits Door County to return the favor.
+- **The pairing (proposed):** old friends who are a mismatched pair. The DCKT heron is a chatty, polite Midwesterner who says "ope," gets cold at 65°F and loves everything. Hank is deadpan and unimpressed by everything, and secretly glad the visitor showed up. The DCKT heron's likely names are still TBD on the DCKT side.
+- **Joint posts** (IG Collabs between the NKST side account and DCKT):
+
+| When | Post |
+|---|---|
+| Late Oct / early Nov | **Arrival:** the DCKT heron lands at Manchac. Hank: "You're early." Cast-reveal adjacent. |
+| Nov | First paddle: the visitor sees Spanish moss and Grandpa Earl for the first time (Earl doesn't move). |
+| Dec | **Holiday visit:** the levee bonfires, and the visitor tries gumbo with Lil Pinch. |
+| Feb 9 | Mardi Gras: the visitor in beads, overwhelmed. Can fold into the Junior x Alfred crossover. |
+| Early Mar | **Send-off:** Hank sees them off and pretends he doesn't care. This hands off to DCKT's countdown. |
+| Jul | **Hank visits Door County,** complaining about the cold water. It's DCKT's post, with NKST as the Collab. |
+
+- **Rule:** each brand only describes its own tours. The DCKT heron posts show NKST tours as NKST's, and Hank's Door County trip shows DCKT tours as DCKT's. No bundled offers, and no bats.
+
 **Voices**
 - **Poppy picks her character first.** Junior, Lil Pinch or Cookie fit a kid's voice best, but it's her call. The other kids can pick next.
 - **ElevenLabs** voices whoever the kids don't take, one fixed voice per character. It's allowed only for these cartoon characters, never for ads or anything posing as a real person.

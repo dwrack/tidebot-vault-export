@@ -80,7 +80,7 @@
 - **Wildlife is common, not guaranteed.** Grandpa Gator can literally refuse to show up. That's the joke and the honesty at the same time.
 - **No bashing competitors by name.** Airboats as a *category* are fair game ("too loud, Earl's trying to sleep"), since that's the brand position. Never name a company.
 - **No cross-brand mixing.** No bats (Austin only). NPB party content stays on NPB's side, and crossovers are clearly two different brands meeting.
-- **Size claim: SETTLED 2026-09-26 by David.** Say Manchac is "the second-largest bald cypress swamp in the US." Never say "largest in the world." FareHarbor still has Michael's 9/25 "largest in the world" wording on Manchac, Extended Manchac and Private Extended Manchac, and it needs reverting (with David's OK, since it's a live edit).
+- **Size claim: SETTLED 2026-09-26 by David.** Say Manchac is "the second-largest bald cypress swamp in the US." Never say "largest in the world." FareHarbor still has Michael's 9/25 "largest in the world" wording on Manchac, Extended Manchac and Private Extended Manchac, David said 9/26 to leave FareHarbor as is for now, so FareHarbor and social will say different things until that's revisited.
 - **Kids' voices:** voice only. No faces, no real names or school details on the account, no voice cloning of the kids in ElevenLabs, and the raw recordings stay in a local folder, not the vault.
 - **No guide promises.** The characters never say a guide will text or call anyone.
 
