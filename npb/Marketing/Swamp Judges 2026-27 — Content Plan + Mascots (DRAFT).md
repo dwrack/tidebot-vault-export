@@ -35,12 +35,13 @@ Three swamp critters sit on a log in Bayou Bienvenue and score every boat party 
 Character rules:
 - **The scorecards and captions carry every joke,** so every post works with the sound off. ElevenLabs voices go on top, one saved voice per judge, never changed.
 - These are the only synthetic voices allowed. They're never used for ads, and never for anything that sounds like a real person. David's kids don't voice anyone on this page, since it carries 21+ party footage.
-- **Label them as AI.** Turn on TikTok's AI-generated content label and Meta's "AI info" label for any post with animated judges.
+- **Label them as AI.** Turn on TikTok's AI-generated content label and Meta's "AI info" label on every Judges post. Meta counts realistic AI audio, so the ElevenLabs voices qualify.
+- **Instagram originality is the biggest risk.** Since Apr 30, 2026, repost-heavy accounts stop getting recommended to non-followers. The judges, scorecards and voices are the content, and someone else's clip is only the prompt. Use Remix, never re-upload, and post an original Chambers skit or our own footage every week.
 - **Punch up, never down.** Judges roast outfits, choices, the city, the heat, and each other. Never bodies, weight, race, or anyone who didn't choose to be on camera. They never score anyone under 21 or anyone who looks it.
 - **No drinking scores.** Nobody gets points for how much they drank, for chugging, or for games. Drinks can sit in the frame, but they never become the joke.
 - No safety claims, no promises about what the crew will do, and never "the captain will wait."
 - Alfred lives in **Bayou Bienvenue**, not Bayou St. John. Fix the old YouTube Ep 1 script to match.
-- Crossover with NKST: Junior (Alfred's baby cousin) shows up once a month, but only on clean gator-only clips, never on party footage.
+- Crossover with NKST: Beaux Bleu (the heron, a sax player) vs Alfred is a natural rivalry. Junior (Alfred's baby cousin) shows up once a month, but only on clean gator-only clips, never on party footage.
 
 ## Series
 
