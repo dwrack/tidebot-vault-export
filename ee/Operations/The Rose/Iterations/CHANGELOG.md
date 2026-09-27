@@ -106,6 +106,18 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 ## Renders and flythrough (v0.24)
 `Renders/The Rose v0.24 - flythrough.mp4` (33 s, 1280x720, 30 fps) and nine stills, all from the model's own renderer. Path: whole site, under the Hawthorne, from the river, the cove, the fire ceiling, the crown and DJ, the roof lifting, the hot room, aerial. Frames captured in the browser via `window.__fly(i,n)` in the viewer, stitched with ffmpeg (motion interpolation from 13 fps). Re-run for any version.
 
+## v0.25: Deep rose, no flue, the petal is the stair
+**Direction:** "What are the triangle things on the climbing wall?" (the fire-ceiling nozzles; not what was meant) "Just remove those. Remove the center pipe up the middle of the sauna; the gas furnace will have a small vent on the side. Make the roof floor the same rose color, and make it a deeper red like a real rose." "Connect the spiral jump petal to the top of the rose, that can be how people get up there." "Change the brown walls to red too."
+**What changed:** Flame nozzles and crown poofers gone. The center flue is gone; the stove vents through a small stack on the north wall in the service ring. The crown floor, the hot-room roof plate, the exterior walls and the DJ booth are all rose. The whole palette moved to a deep rose red. The jump petal's high end now bridges onto the crown with a short petal ramp: that's the main way up. Fire-ceiling camera removed.
+
+## v0.26: Unmirrored, three bridges, the petal spirals onto the crown
+**Direction:** "You still have the layout wrong, it looks reversed from Google Maps. There should be the Marquam south of us and then the Tilikum, which is beautiful, behind it; north of us is the Hawthorne." And: "Study rose petals, how they spiral inward. The plank needs to disappear and the spiral climbing petal should flow into the top of the rose as the only access."
+**What changed:** The model's axes were a mirror image of the map (east and west swapped when viewed from above). Fixed by flipping the display, so the east bank, I-5 and the Esplanade are now east of the river and downtown is west, as on the map. A compass sits in the corner of the viewer. The Marquam moved to its real ~600 m south, and the Tilikum Crossing (cable-stayed, two towers) stands ~1.45 km south behind it, with OMSI and its submarine pier between. Banks and river extended to match. The jump petal now rises to a ~5 m peak, then tightens inward and downward like an inner rose petal and lands on the crown rim: that petal is the only way up. The plank bridge is gone.
+
+## v0.27: Spiral petals, offered
+**Direction:** "Show me a version of that idea before I commit." (the whole flower reading as an inward spiral)
+**What changed:** A 'Spiral' petal character, not the default: the three amphitheaters lean the same way, each rim climbs toward its trailing edge and each petal sits higher than the last (2.0, 2.6, 3.2 m), and the high ends curl inward over the next petal; the jump petal completes the turn onto the crown. Side-by-side renders against Classic in the archive; a seventh panel on the lineup page.
+
 ---
 
 ## For the video later

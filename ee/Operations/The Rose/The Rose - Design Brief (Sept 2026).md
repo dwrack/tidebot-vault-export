@@ -84,6 +84,13 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 60 | DJ roof | Petal canopy over the nested booth (v0.23) |
 | 61 | Wind | PDX normals: NNW-NW May-Sep, ESE-SE Oct-Mar, S in April. Summer wind blows down-river toward the dock (smoke from the north fires crosses the crown); winter east wind blows off the bank over the water (smoke clears every seat, dock-side lounges take the brunt, east door needs a wind lobby); SSW storm fronts drive the mooring case. Wind layer in the model (v0.24). Still needed: an anemometer on the dock for a season |
 | 62 | Mood light | Translucent GFRP petals lit from inside by RGBW strips along the ribs; crown, sepals, slide and stem the same; under-float uplights for the calyx; show desk drives color per round. Dream version: a two-layer skin with dyed water pumped through (one test petal). Cheaper: thermochromic paint near the fires (v0.24) |
+| 63 | Fire ceiling | **Not the flame nozzles under the jump petal** (removed). Davey means something else; still to define |
+| 64 | Flue | **No center flue.** Gas stove vents through a side stack on the north wall. EOS/KUSATEK to confirm a horizontal or short-vertical vent is allowed for their unit (most gas sauna stoves want a vertical flue; a power vent may be needed) |
+| 65 | Color | **Deep rose red** on petals, walls, roof floor, crown and booth. No charred cedar |
+| 66 | Way up | **The jump petal lands on the crown**: its high end bridges onto the roof lounge. Spiral stairs stay as the second route |
+| 67 | Model orientation | v0.21-v0.25 were mirrored (my axes were a left-handed frame). Fixed in v0.26; compass added. The site overlay PNG was always correct because it was drawn on real imagery |
+| 68 | Bridges | Hawthorne ~110 m north; Marquam ~600 m south; Tilikum ~1.45 km south behind it (the beautiful one, the reveal from the south). OMSI between the Marquam and the Tilikum |
+| 69 | Way up | **The jump petal spirals inward onto the crown and is the only access** (v0.26). No plank, no spiral stairs. Peak ~5 m above deck mid-sweep |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
