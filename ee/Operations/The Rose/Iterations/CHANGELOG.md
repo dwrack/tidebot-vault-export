@@ -59,6 +59,10 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 **Direction:** "Remove the weird platform on top of the jump petal and update our main model."
 **What changed:** The flat launch platform at the top of the jump petal is gone. The petal's own tip is the high jump point.
 
+## v0.14: Acoustics in the model
+**Direction:** "Think about how we can make sure the interior acoustics aren't too loud or reflective." Then: "Yes" (show it in the model).
+**What changed:** Hot-room lobe walls are now faceted into flat ~1.2 m panels instead of smooth arcs. Irregularly spaced timber ribs run across the ceiling over a dark slatted stone-wool absorber. Bench risers are slotted, with wool (and the speakers) behind. Estimated reverb goes from ~1.3 s empty to ~0.7 s empty and ~0.5 s full. Full plan in the brief under "Interior acoustics plan".
+
 ---
 
 ## For the video later

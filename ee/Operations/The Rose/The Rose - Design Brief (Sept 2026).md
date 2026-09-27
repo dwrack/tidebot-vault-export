@@ -322,6 +322,8 @@ People are the best absorber in the room, so a full session is fine even untreat
 - Run silent sessions and quiet hours; the Aufguss sessions are the loud ones.
 - A decibel meter on the host's iPad, so "too loud" is a number, not an argument.
 
+**In the model (v0.14):** faceted walls, irregular ceiling ribs over a slatted absorber ceiling, slotted risers. Not yet modeled: tilted window glass, isolation pads under the crown deck.
+
 **Budget:** about $15-35K for slat-and-wool ceiling and riser treatment, plus $3-10K for acoustic ray-trace and commissioning (est.).
 
 ## 8. 3D printing: what gets printed
