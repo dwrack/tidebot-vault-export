@@ -81,6 +81,9 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 57 | NA shortlist | **Five firms:** Elliott Bay Design Group, Glosten, Art Anderson Associates, Impact Naval Architects, Jensen Maritime (Crowley). No outreach until the team approves Holman |
 | 58 | Fire roses | Both finishes modeled (blackened steel / polished stainless). Toggle in the model, renders in Iterations/v0.22 |
 | 59 | Fire ceiling | **Flame runners under the jump petal's curl, over the water** (swimmers float under a ceiling of fire), plus a poofer ring on the crown's parapet tips (v0.22). Both gas, both on the show desk |
+| 60 | DJ roof | Petal canopy over the nested booth (v0.23) |
+| 61 | Wind | PDX normals: NNW-NW May-Sep, ESE-SE Oct-Mar, S in April. Summer wind blows down-river toward the dock (smoke from the north fires crosses the crown); winter east wind blows off the bank over the water (smoke clears every seat, dock-side lounges take the brunt, east door needs a wind lobby); SSW storm fronts drive the mooring case. Wind layer in the model (v0.24). Still needed: an anemometer on the dock for a season |
+| 62 | Mood light | Translucent GFRP petals lit from inside by RGBW strips along the ribs; crown, sepals, slide and stem the same; under-float uplights for the calyx; show desk drives color per round. Dream version: a two-layer skin with dyed water pumped through (one test petal). Cheaper: thermochromic paint near the fires (v0.24) |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)

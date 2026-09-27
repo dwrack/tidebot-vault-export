@@ -95,6 +95,17 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 **Direction (Davey's answers to the open questions):** the petal characters looked too alike; the Bud is a phase-2 site and there are two more sites; the stem walkway only to the leaves; push the float as big as the site allows; five naval-architecture firms; see both fire-rose finishes; a fire ceiling somewhere.
 **What changed:** Petal characters now really differ: Wild bloom runs amphitheater rims from 1 m to 4.5 m with tight and wide arcs; Wind-swept has every rim climbing the same direction with a strong lean; Unfurling keeps two petals half-closed with tall rims. The stem walkway and rail stop at the last leaf; beyond that it's a swim boom. Each amphitheater fire now burns inside a steel fire rose whose center-facing petals lean over the flame as reflectors, in blackened steel or polished stainless (toggle). Fire ceiling: gas flame runners under the jump petal's outward curl, over the cove, plus a poofer ring on the crown parapet tips.
 
+## v0.23: A roof on the DJ booth
+**Direction:** "We need a roof on the DJ booth."
+**What changed:** One petal-shaped canopy rises from behind the nested booth, arches over the DJ and the show desk, and curls down at the lip on two slim posts, open to the crowd. Rain cover for the gear; reads as one more petal.
+
+## v0.24: Wind and light
+**Direction:** "Think about lighting: mood lighting so the rose can change color, and how that's reflected in the petals, by osmosis or?" And: "Predominant wind direction and how it works with the petals and seating. Make wind models and get accurate wind stats for the area."
+**What changed:** Wind layer with three PDX regimes (summer from the NNW, winter Gorge wind from the ESE, storm fronts from the SSW) from the WRCC/NWS 1991-2020 normals; arrows over the site and smoke drifting downwind from every fire, so you can see which seats get smoked. Petal glow: the petals, crown, sepals and slide light from inside in rose, ember, violet or sage. Lighting and wind write-ups on the page.
+
+## Renders and flythrough (v0.24)
+`Renders/The Rose v0.24 - flythrough.mp4` (33 s, 1280x720, 30 fps) and nine stills, all from the model's own renderer. Path: whole site, under the Hawthorne, from the river, the cove, the fire ceiling, the crown and DJ, the roof lifting, the hot room, aerial. Frames captured in the browser via `window.__fly(i,n)` in the viewer, stitched with ffmpeg (motion interpolation from 13 fps). Re-run for any version.
+
 ---
 
 ## For the video later
