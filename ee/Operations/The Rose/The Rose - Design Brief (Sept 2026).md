@@ -69,6 +69,12 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 45 | Stem leaves | **Compound, botanically right:** four leaves on the swim side, each five leaflet floats on a stalk (v0.19) |
 | 46 | Thorns | **Working parts:** hooked cleats along the stem for anchor and lane lines, grab handles for tired swimmers, solar navigation lights at the tips (v0.19). Also a fender if a boat drifts in |
 | 47 | Stem walkway | **Yes, walkable** to the leaves: 1.5 m deck on the boom, rail on the river side (v0.19; supersedes the swim-only note). Needs a wider float section than a plain boom |
+| 48 | DJ | Three placements in the model (crown / floating petal / hidden). Pick pending (v0.20) |
+| 49 | Sound layer | Speaker and transducer positions drawn in the model (v0.20). Counts: 18 seat transducers, 10 zone speakers + 1 sub inside; 6 amphitheater, 4 crown, 2 jump, 1 kids' slide speakers + 2 subs outside |
+| 50 | Weight / mooring | **No new pilings at Holman.** The Rose floats on its own hull (the dock carries none of its 150,000 lb), but mooring loads (est. 3,000-6,000 lb sideways in a flood current) exceed a small-craft dock. Options: helical riverbed anchors (no pile driving), or **Rose 1.0** at ~30 ft (~50-60K lb, loads down ~2/3). Decision: model both side by side; full Rose becomes the 2.0 for a bigger site (Zidell or a marina slip) |
+| 51 | Rose 1.0 keeps | Big hot room, jump petal, slide petal (Davey). Roof lounge optional |
+| 52 | DJ, permanent | **Nested in the crown's south rim** (v0.21): half-sunk, head at shoulder height, facing north to the crowd, the cove and the Hawthorne. Power, Dante audio, DMX, gas-valve control and smoke lines run up the flue chase; the show desk lives here. Alternatives kept in the model |
+| 53 | Site model | Rebuilt from the map (v0.21): I-5 decks behind the Esplanade, beach north of the dock, Hawthorne 110 m north, Marquam 470 m south, downtown across 300 m of river |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
@@ -588,6 +594,35 @@ Top three picks first.
 18. **Thornrose** - the Grimm name for Sleeping Beauty (Dornröschen). Dreamy, a little dark.
 
 All still need the attorney's trademark check before anything public.
+## 17. Fire nooks: directing the heat (Sept 27)
+
+The fire sits at the bottom of each amphitheater petal, with people on steps rising behind and above it. An open fire ring sends most of its heat straight up, so the top steps get the view and none of the warmth. Three ways to fix that, and they stack:
+
+1. **A reflector back-wall.** A curved steel or stone wall behind the fire (a quarter-sphere or parabolic shell, ~1.2 m tall, fire at its focus) throws radiant heat outward across the steps instead of up. This is how outdoor "wood-fired reflector" hearths and the Finnish kota work. Polished stainless is the strongest reflector but glares; blackened steel or basalt is gentler and still gives 30-40% more radiant heat toward the seats. The petal's own cupped shape already helps: line the inside of the fire cup with it.
+2. **Tilt the fire, not the people.** Raise the fire pan 0.3-0.4 m and tilt the reflector 15-20 degrees back so the reflected heat sweeps the upper steps. Radiant heat drops with distance squared, so aiming matters more than size.
+3. **Heated steps.** The honest answer for the top rows. Run the fire's exhaust heat, or a gas or hydronic loop, under the step treads (the rubber surface conducts poorly, so it's a warm-tread strip on the front edge, not the whole step). Every step warm, no glare, no smoke in anyone's face.
+
+Also: a wind-side glass or petal-skin lip so the heat doesn't get blown off the steps, and a chimney effect kept low (a fire that roars up looks great and warms nobody).
+
+**Each fire as a metal rose.** Yes. A steel rose whose petals are the reflector: closed bud when off, petals opening around the flame when lit (fixed, or a slow actuator). The petals face the steps, so they are the reflector by shape. Five fire roses, five artists.
+
+## 18. Commissions inside the Rose (credit and collaboration)
+
+Davey's question: don't let me take all the design credit, or should I? My view: **keep the flower, give away the details.** The Rose stays one author's idea (ET/Ebb & Ember, Davey as concept), and inside it there are named commissions, the way a garden has a designer and the sculptures have artists. That's how Meow Wolf, Burning Man honoraria and the Portland Rose Test Garden's named roses all work, and it's the strongest PR story: one rose, many hands.
+
+Commission list (each a contained brief, a budget, a credit plaque):
+- **Five fire roses** (metal artists, 5 commissions, ~$8-20K each)
+- **Pistil stone cage** (a blacksmith or kinetic-sculpture artist; the visual heart of the hot room)
+- **Petal skins** (a muralist or textile artist for the pattern of the outer petals; printed or painted)
+- **The thorn cleats** (one metal artist, a run of ~30)
+- **The leaf floats** (a woodworker or boat builder; the veins as inlay)
+- **Lighting design** (a lighting artist for the sundial rib shadows)
+- **Scent** (a Portland perfumer, the house scent)
+- **Sound** (a composer for the 12-minute rounds; a resident DJ series)
+- **Signage and depth marks** (a type designer)
+- **The Bud** across the river, eventually, as a full separate commission
+
+Rules: one visual language (a palette and material book we give every artist), a curator role (Davey, or a curator Davey hires), a per-commission contract with credit, and the commissions announced as part of the build-in-public story. Credit line on the building: "The Rose, an Ebb & Ember project. Fire roses by ___, pistils by ___..."
 
 ## Status
 

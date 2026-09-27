@@ -2,6 +2,8 @@
 
 _2026-09-27. The whole project on one sheet: every workstream, what's done, what's open, and the order things have to happen in. Status marks: **done**, **in progress**, **open**, **blocked** (waiting on something else). Confidential while Holman is off the record._
 
+**Fork (2026-09-27):** Holman can take no new pilings. Two tracks now run side by side: **Rose 1.0** (~30 ft, riverbed anchors, Holman) and the **full Rose** (2.0, a site with room for piles). Both live in the same model; the sizes page shows them together: https://claude.ai/artifact/W9RF3nKMB3fnWVJ4Bh1PhY
+
 **Where we are in one line:** concept and 3D model are far along (v0.17, 17 iterations in one day), research is done, and nothing has been engineered, permitted, priced by a real vendor, or funded. The next real move is a naval architect's feasibility study, which needs Davey's go.
 
 ---
@@ -29,7 +31,10 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 ## 2. Site and the City
 | Item | Status | Notes |
 |---|---|---|
-| Site: off the tip of Holman (Kerr Public Dock) | assumed | Overlay done; nothing surveyed |
+| Site: off the tip of Holman (Kerr Public Dock) | assumed | Overlay done; nothing surveyed. Imagery shows 2 pile guides at the outer tip and at least 1 mid-dock; ask Topper/City for the pile schedule and rated mooring load |
+| Site photos from Davey's iPhone | open | Drop into `Site Photos/` (the Photos library isn't readable from here) |
+| Mooring without new piles: helical anchor feasibility, DSL view on anchors vs piles | open | The gating question for Rose 1.0 at Holman |
+| Bigger site for the full Rose (Zidell bargeway, marina slip) | open | From the City siting brief |
 | Team approval of the Holman strategy | **blocked** | Everything outbound waits on this (Hannah B leads) |
 | Draft LOI from the City | open | File not yet in the vault; Davey to drop it in |
 | Signing entity (ET LLC vs new entity) | open | Conversation with Jonah |
@@ -95,7 +100,8 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Revenue model (sessions, buyouts, weddings) | rough | Needs Periode data on current buyout demand |
 | Funding stack: presale, community round, partners, grants, debt | on paper | Brief section 11 |
 | Travel Portland grant ($25-50K) | open | Check the window |
-| Presale ladder pricing | draft | Jordan gut-check |
+| Presale ladder pricing | draft | Superseded by `The Rose - Community Funding Plan (Sept 2026).md` (Seed subscription, sliding-scale Petal, First Bloom, gates-not-dates contingency, sponsor elements, climbing-wall bid); Jordan gut-check still owed |
+| Brand: Elevated Tides leads; sites named for rose parts (Rose / Thorn / Bud) | open, Davey's call 2026-09-27 | Brand owner + selling entity need Jonah and the attorney before any money is taken. Funding Plan sections 1 and 6 |
 | Bank/SBA conversation | open | After NA study |
 
 ## 7. Marketing and pre-sale
