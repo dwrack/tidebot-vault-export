@@ -6,3 +6,4 @@ One line per daily run of `~/.claude/scripts/replyagent-monitor/monitor.py` (run
 - 2026-09-24 | drafts 2 (blocked 0) | queued 2 | posted 0 (removed 0) | ok
 - 2026-09-25 | drafts 4 (blocked 0) | queued 2 | posted 0 (removed 0) | PROBLEMS: Queued 28h and never posted: r/AskNOLA "First Visit???". Reddit account connected? / Queued 28h and never posted: r/AskNOLA "Swamp Tour Next Week". Reddit account connected?
 - 2026-09-26 | drafts 6 (blocked 0) | queued 2 | posted 0 (removed 0) | PROBLEMS: Queued 52h and never posted: r/AskNOLA "First Visit???". Reddit account connected? / Queued 52h and never posted: r/AskNOLA "Swamp Tour Next Week". Reddit account connected?
+- 2026-09-27 | drafts 8 (blocked 0, warn 7) | queued 2 | posted 0 (removed 0) | ok
