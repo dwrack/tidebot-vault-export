@@ -75,6 +75,12 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 51 | Rose 1.0 keeps | Big hot room, jump petal, slide petal (Davey). Roof lounge optional |
 | 52 | DJ, permanent | **Nested in the crown's south rim** (v0.21): half-sunk, head at shoulder height, facing north to the crowd, the cove and the Hawthorne. Power, Dante audio, DMX, gas-valve control and smoke lines run up the flue chase; the show desk lives here. Alternatives kept in the model |
 | 53 | Site model | Rebuilt from the map (v0.21): I-5 decks behind the Esplanade, beach north of the dock, Hawthorne 110 m north, Marquam 470 m south, downtown across 300 m of river |
+| 54 | The Bud | **Phase 2, separate site.** Davey has two more sites in mind as well, so the Rose is the first of a series (2026-09-27) |
+| 55 | Stem walkway | **Walkway only as far as the last leaf**; beyond that the stem is a swim boom (v0.22) |
+| 56 | Float size | **Push as big as the site allows.** The limits are the DSL rule (a structure may not reach more than 25% of the waterway width), the fireboat lane, and what the anchors can hold with no new piles. 55 ft is the working target for the full Rose; the anchor study decides |
+| 57 | NA shortlist | **Five firms:** Elliott Bay Design Group, Glosten, Art Anderson Associates, Impact Naval Architects, Jensen Maritime (Crowley). No outreach until the team approves Holman |
+| 58 | Fire roses | Both finishes modeled (blackened steel / polished stainless). Toggle in the model, renders in Iterations/v0.22 |
+| 59 | Fire ceiling | **Flame runners under the jump petal's curl, over the water** (swimmers float under a ceiling of fire), plus a poofer ring on the crown's parapet tips (v0.22). Both gas, both on the show desk |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
@@ -623,6 +629,28 @@ Commission list (each a contained brief, a budget, a credit plaque):
 - **The Bud** across the river, eventually, as a full separate commission
 
 Rules: one visual language (a palette and material book we give every artist), a curator role (Davey, or a curator Davey hires), a per-commission contract with credit, and the commissions announced as part of the build-in-public story. Credit line on the building: "The Rose, an Ebb & Ember project. Fire roses by ___, pistils by ___..."
+## 19. Where the Rose sits on the dock (three options)
+
+| Option | How it sits | For | Against |
+|---|---|---|---|
+| **A. Off the dock tip** (current) | Moored just past the outer end, a short gangway to the tip | Deepest water under the slides and the jump wall; the cove stays between the Rose and the beach; clear bridge view; shortest walk from the dock | Most exposed to current and boat wakes, so the biggest mooring loads; projects farthest into the river (the 25% rule and the fireboat lane); everything arrives across one gangway |
+| **B. Along the dock's outer (river) side** | Parallel to the dock, river side | The dock is a fender between the Rose and the beach traffic; long side-tie, easy service access from the dock | The Rose sits between the dock and the channel, so the swim cove would be on the wrong side of the dock; the boats that moor on the dock's outer side lose their spots; full wake exposure |
+| **C. Along the dock's inner (shore) side** | Parallel to the dock, in the cove | Most sheltered water, smallest mooring loads, the cove becomes the Rose's yard, kids' slide and steps land in calm water | Almost certainly too shallow for the jump wall and slide exit (soundings decide); the small boats moor here now; blocks the beach's view of the river; hot-room window loses the bridge behind the dock |
+
+My read: A for the full Rose, C is worth a look for Rose 1.0 if the soundings show 3 m or more in the cove. B is the weakest. All three need the same two numbers first: depth in the cove and current at the tip.
+
+## 20. Name, shortlist for the attorney
+
+The three that lead: **Nootka** (Rosa nutkana, the wild rose of the Pacific Northwest; ownable, local, no conflicts found), **Testout** (Portland's founding rose; a story, harder to say), and **Hawthorn** (rose family plus the bridge, but the Hawthorne name is everywhere in Portland, so a weak mark). Public nickname stays "the Rose" whatever the mark is. Recommend sending Nootka and Testout to the attorney.
+
+## 21. Curating the commissions (to talk through)
+
+Three ways to run it:
+1. **Davey curates.** Fastest, one taste, and the one people expect from an art piece with an author. Cost: your time, maybe 2-4 hours a week through design.
+2. **A curator on contract.** A Portland public-art curator (RACC alumni, PICA, or an independent) runs the calls, shortlists, budgets and credits; you pick from their shortlist. $15-30K for the program. Keeps you at the decisions, not the inbox.
+3. **An open call with a jury.** You, Jonah, Kyle, one outside artist, one City person. The most Portland answer and the best PR, slowest.
+
+My pick: 2 with you holding the final say on every piece. Questions to settle: paid commissions or honoraria plus credit; who owns the pieces (ET, or artist-owned and leased); and whether the fire roses are one artist's set of five or five artists.
 
 ## Status
 

@@ -22,6 +22,11 @@ Each run:
 
 Manual run from either Mac: `python3 ~/.claude/scripts/replyagent-monitor/monitor.py --dry-run`
 
+## Slack report format (David, 2026-09-27)
+Every line in the daily #helm report is a clickable Reddit link so managers can open the thread, upvote, and reply from their own accounts. Stage emojis: 📝 waiting on approval, ⏳ approved and queued, ✅ posted and live, ❌ removed, ⛔ blocked (do not approve, reason given), 🆕 new since yesterday, 🚨 pipeline problem. Soft-rule warnings (word count, superlatives, openers) are no longer shown in Slack, only counted in [[ReplyAgent — Monitor Log]].
+
+The monitor also keeps a **pinned message** in the #helm channel with every comment ReplyAgent has ever posted for us (newest first, live ones only), updated in place each morning, and rewrites [[ReplyAgent — Posted Comments]] in this folder with the full history including removed ones. That is the running list to keep engaging with.
+
 ## Approving a draft
 Approve in the dashboard, or by API:
 `curl -X POST https://www.replyagent.ai/api/products/<productId>/ai-comments/<commentId>/approve -H "Authorization: Bearer $(cat ~/.config/replyagent/api_key)" -H "Content-Type: application/json" -d '{"scheduleType":"immediate"}'`

@@ -25,8 +25,8 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Accessible route (wheelchair to at least one tier and one lounge) | open | Not designed. Needs to be in v0.18, not a retrofit |
 | Changing, showers, restrooms, host station, storage | open | Phase 1 ops trailer; nothing drawn |
 | Lighting design (exterior "glow" and interior) | on paper | Brief section 7 |
-| Name | open | Name bank in brief section 16; attorney check needed |
-| The Bud across the river | idea only | Separate site and permit path; park it until the Rose has a lease |
+| Name | open | Send Nootka and Testout to the attorney (brief section 20) |
+| The Bud across the river | phase 2 site | Separate site and permit path. Davey has two more sites in mind: the Rose is the first of a series |
 
 ## 2. Site and the City
 | Item | Status | Notes |
@@ -52,7 +52,7 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Item | Status | Notes |
 |---|---|---|
 | Weights and center of gravity spreadsheet | open | I can draft from the model; the NA finalizes |
-| Naval architect feasibility + stability study | **open, the first real spend** | $15-40K; shortlist EBDG, Glosten, Art Anderson, Impact |
+| Naval architect feasibility + stability study | **open, the first real spend** | $15-40K; shortlist of 5: EBDG, Glosten, Art Anderson, Impact, Jensen Maritime |
 | Engineer of record (Oregon PE) | open | Title 28 requires one for float, moorage, gangway |
 | Architect of record (A-3 assembly) | open | Kyle for the sauna interior |
 | Float design (concrete/EPS pods, ring frame) | open | Topper or Bellingham Marine quote |

@@ -32,6 +32,8 @@ NPB's cast runs on party energy (Alfred the gator, the Bayou Weatherman, bachelo
 
 ## 3. Hank the Heron (the mascot)
 
+> **Renamed 2026-09-27 (David): the heron is now Beaux Bleu**, a flashy, sax-playing New Orleanian, not deadpan Hank. He hosts DCKT's snowbird heron Doris every winter. See [[Mascots 2026-27 — Content Plan + Mascots (DRAFT)]]. The Hank text below is the old version.
+
 **Why:** the playbook says anthropomorphize the thing people already search for and already see. NPB took the gator. For NKST the better fit is the **great blue heron**, the bird on basically every Manchac tour, standing dead still in the shallows. A gator mascot would just be NPB's Alfred again; the heron gives NKST its own face and matches the calmer, watchful, naturalist tone.
 
 **Character:** **Hank, a great blue heron** with a deadpan, patient personality. He has seen everything on this bayou and is mildly unimpressed by all of it. He is the narrator of the world, the one who has watched the airboats come and go and prefers the quiet kayaks because they do not scare off lunch. Hank can voice-over Shorts, "rate" guests' paddling form, deliver the swamp fact, and generally be the channel's recurring wink. He is naturalist comedy, not party comedy.

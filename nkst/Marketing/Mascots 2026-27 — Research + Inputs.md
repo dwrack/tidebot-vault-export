@@ -19,7 +19,7 @@
 - Oct to Feb is when people dream about trips. Mar to Aug is when they book. **NOLA twist:** NKST's busiest season is fall, and the true peak is Mar to Apr (FareHarbor analysis). So the "booking" beats land in Sep to Nov and Feb to Apr, not only in spring.
 
 ## What NKST already has to build on
-- **Hank the Heron** is already written into `Marketing/YouTube Cast & Series 2026.md`: a deadpan great blue heron who has seen it all and prefers kayaks because they don't scare off lunch. It also plants a "Hank vs. Alfred" crossover seed with NPB. Keep Hank as the lead so the YouTube and social casts are the same characters.
+- **Hank the Heron** is already written into `Marketing/YouTube Cast & Series 2026.md`: a deadpan great blue heron who has seen it all and prefers kayaks because they don't scare off lunch. It also plants a "Hank vs. Alfred" crossover seed with NPB. **Update 9/27:** David renamed him **Beaux Bleu**, a flashy, sax-playing New Orleanian (zen vs flashy with DCKT's snowbird heron, Doris). The YouTube doc still says Hank and needs the same rename.
 - **Julia Brown and Frenier (1915)** Manchac bridge legend. It's our biggest organic search term, and there's already a rule: tell it true, no ghost-hunt theater.
 - **532 Content Grid** (Aug 2026): kayak vs airboat, gators (what's real, what's baited), the swamp itself, logistics from the Quarter, and the eerie angle. The mascots can voice most of these rows.
 - **Social Strategy pillars** (Apr 2026): "Did you know NOLA has this?", wildlife reactions, the disappearing swamp, guide bios, swamp vs city humor.
@@ -83,6 +83,12 @@
 - **Size claim: SETTLED 2026-09-26 by David.** Say Manchac is "the second-largest bald cypress swamp in the US." Never say "largest in the world." FareHarbor still has Michael's 9/25 "largest in the world" wording on Manchac, Extended Manchac and Private Extended Manchac, David said 9/26 to leave FareHarbor as is for now, so FareHarbor and social will say different things until that's revisited.
 - **Kids' voices:** voice only. No faces, no real names or school details on the account, no voice cloning of the kids in ElevenLabs, and the raw recordings stay in a local folder, not the vault.
 - **No guide promises.** The characters never say a guide will text or call anyone.
+
+## NPB sync (9/27)
+- NPB's side page is **Swamp Judges** (@swampjudges proposed), a national comedy page with 21+ party clips. Its judges are Alfred (grumpy bull gator in Bayou Bienvenue, big and dark, scarred eye, gavel), a roseate spoonbill ("Miss Rosalie" proposed) and **Lil Pinch, shared with NKST**.
+- Kids stay off Swamp Judges. So Lil Pinch is ElevenLabs on both pages, and Poppy picks from the other NKST characters.
+- Junior never appears in party-footage posts. Junior x Alfred crossovers post on the NKST page, or as clean gator-only clips.
+- NKST's side handle must not use "swamp judges."
 
 ## Open questions
 1. **Side account handle.** Ideas: @swampneighbors, @manchaclocals, @thequietswamp. David creates it on IG and TikTok, then links it to the main accounts in the bio.
