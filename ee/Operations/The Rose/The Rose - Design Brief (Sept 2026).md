@@ -58,6 +58,17 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 34 | Jump petal | **Deck level on the left to 35 ft above water on the right** (Jonah wants height; 35 ft allows a double back flip). Needs 16-17 ft of water across the landing at the lowest river stage (10 m platform standard) and a naval architect's check on a 35 ft element on a float. Consider a dedicated pile for the tall petal |
 | 35 | Swim reach | **Stem boom runs ~150 m north, under the Hawthorne, to the fire station pier.** It's the Portland Fire & Rescue Station 21 fireboat pier, so the fire bureau's berth access and the bridge owner (Multnomah County) are now in the conversation |
 | 36 | Jump petal height | **Scaled back to ~20 ft above water** (v0.12), in proportion with the rose; supersedes the 35 ft version. Landing needs roughly 12-13 ft of water at low river |
+| 37 | Jump petal form | **Unfurls outward over the water, back side is an overhanging climbing wall** starting below the waterline (deep-water soloing: falls land in the river). Needs ~3-4 m of water under the whole wall, and the petal base now sits past the float edge, so it needs its own float lobe or pile (v0.15) |
+| 38 | Base | **Green calyx:** float deck in sepal green, pointed sepals between the petals curling to the water (v0.16). Real-world: green-stained or thermally modified decking, sepals as light composite or printed shells on the float edge |
+| 39 | Slides | **One slide petal**, shaped like a blown rose's outer petal about to drop (v0.17). GFRP shell, see Materials Plan |
+| 40 | Jump petal safety | Climbing holds only where the fall line is over open water, 4 ft past the float edge; no sepals under it (v0.17) |
+| 41 | Materials | `The Rose - Materials Plan (Sept 2026).md`. Playground rubber (PIP) for treads, decks, lounges, leaf floats; never in the hot room or on the slide channel |
+| 42 | Plan | `The Rose - Master Plan (Sept 2026).md` is now the one-sheet status of every workstream |
+| 43 | Stem | **One boom, dock to dock:** Rose north edge to the fire station pier tip under the Hawthorne, ~150 m (v0.18). Two mooring points, plus mid-span anchors |
+| 44 | Sepals | **Five, symmetric** (v0.19). One is the **kids' sepal slide**: 12-degree ramp into the water, feathered side lobes are climb-out steps. Sited at the low end of the jump petal; climbing holds only on the tall half |
+| 45 | Stem leaves | **Compound, botanically right:** four leaves on the swim side, each five leaflet floats on a stalk (v0.19) |
+| 46 | Thorns | **Working parts:** hooked cleats along the stem for anchor and lane lines, grab handles for tired swimmers, solar navigation lights at the tips (v0.19). Also a fender if a boat drifts in |
+| 47 | Stem walkway | **Yes, walkable** to the leaves: 1.5 m deck on the boom, rail on the river side (v0.19; supersedes the swim-only note). Needs a wider float section than a plain boom |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)

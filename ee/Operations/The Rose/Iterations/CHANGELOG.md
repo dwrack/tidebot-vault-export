@@ -63,6 +63,26 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 **Direction:** "Think about how we can make sure the interior acoustics aren't too loud or reflective." Then: "Yes" (show it in the model).
 **What changed:** Hot-room lobe walls are now faceted into flat ~1.2 m panels instead of smooth arcs. Irregularly spaced timber ribs run across the ceiling over a dark slatted stone-wool absorber. Bench risers are slotted, with wool (and the speakers) behind. Estimated reverb goes from ~1.3 s empty to ~0.7 s empty and ~0.5 s full. Full plan in the brief under "Interior acoustics plan".
 
+## v0.15: Jump petal unfurls, climbing wall
+**Direction:** "I also want the petal that is the jump petal to unfurl outwards like a petal leaf, not just straight up. With the back side of it a gentle outsloped climbing wall, that if you fell off, you would fall off in the water."
+**What changed:** The jump petal now curls outward as it rises (about 2 m of outward flare at the top), so it reads like an opening petal and its tip hangs over the water. Its back is a gently overhanging climbing wall with holds, starting below the waterline. Falls land in the river, deep-water-soloing style.
+
+## v0.16: Green calyx
+**Direction:** "Isn't there a green leafy surround on a rose at the base of it? Should we make the yellow base more of that green color."
+**What changed:** The float deck and float edge are now sepal green (a rose's calyx). Four pointed sepals reach out between the petals and curl down to the water. The gap at the gangway stays clear.
+
+## v0.17: One slide, a petal about to fall
+**Direction:** "I only want 1 petal slide. Make the petal slide look more like an unfurled petal. Use an actual rose that has opened up and the petals have started to almost fall off as a physical example." And: "The climbing jump petal looks like it is over the base somewhat. If you fell off, would you only fall in the water?"
+**What changed:** One slide petal. It's built from the shape of a blown rose's outer petal: narrow at the attachment, rising to a lip, then flopping outward and down as a broad rounded blade with a spoon-shaped middle (the channel), edges rolling back under, a shallow notch at the tip, and faint veins. The north petal is an amphitheater again. On the jump petal, climbing holds now only exist where the fall line is over open water, at least 4 ft past the float edge; the sepals under it are removed.
+
+## v0.18: Stem, dock to dock
+**Direction:** "If you look at the map, it should actually have the stem connecting the end of the rose to the other dock under the bridge."
+**What changed:** The stem is one continuous boom from the north edge of the Rose to the tip of the fire station pier under the Hawthorne, about 150 m, with the leaf floats along it. Site overlay redrawn to match, with the v0.17 petal roles (one slide, jump petal between, north petal glass).
+
+## v0.19: Botany pass
+**Direction:** "The green leaves at the base should be more symmetrical, I see only 2. Keep the look of a rose. Are there actual leaves on a rose stem, or just thorns? Make it more realistic. What could the thorns be, any use? Leaves just on the inside for now." Then: "What could the feathered edges provide? Maybe one sepal is a gentle slide into the water for kids too scared to do the big petal." And: "The stem, you should be able to walk to the leaves on."
+**What changed:** Five symmetric sepals (reach shortened so none sits under the climbing wall's fall line). One sepal is a kids' slide: a shallow 1 m drop over 5.6 m with feathered side lobes as climb-out steps, placed at the low end of the jump petal; climbing holds moved to the tall half only. Stem leaves are now botanically right: four compound leaves on the swim side, each a stalk with five leaflet floats. Hooked thorns along the stem alternate sides, each with a solar nav light at the tip; they double as anchor cleats and swimmer grab handles. The stem carries a 1.5 m walkway with a rail on the river side. Reference sketch: `The Rose - Botany Reference.png`.
+
 ---
 
 ## For the video later
