@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 5
-revenue_today: 850
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-09-26
+status: yellow
+alert: "data stale — FH scrape missing"
+updated: 2026-09-27
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$6,218/wk booked vs $4,000 target (155%).** Estimate based on a 4-day average (9/18, 9/20, 9/24, 9/25) — FH scrape still has gaps this week, treat as directional.
-- **3 unreplied 5★ reviews** — "Houston Pedal Barge" (reviewer name, 9/18, now 8 days old — oldest unreplied review in the portfolio), Peter Pravikoff (9/24, 2 days), and "I S." (9/25, fresh). Brand term "new orleans kayak swamp tours" sits at position 12.8.
-- GA4 traffic-source data quality flag: yesterday shows 3,862 sessions from `t.co` with only 4 conversions — almost certainly referral spam, not real traffic. Real channels: direct (110 sessions), Instagram (46), Google (42). Some of the "conversions" columns (direct 51, google 70) look like an event-counting overcount, don't take at face value.
-- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 rows returned on the page-filtered GSC query this window, and the page doesn't appear in NKST's top-80 GA4 pages for the trailing 8 days — the one impression seen two days ago didn't convert into anything durable.
+- **Goal pace: unavailable this run** — FareHarbor scrape failed for 9/26, second failure in 3 days. Last known pace (off 9/25 data): ~$6,218/wk vs $4,000 target (155%).
+- **2 unreplied 5★ reviews visible this pull** — Peter Pravikoff (9/24, 3 days) and "I S." (9/25, 2 days). The "Houston Pedal Barge"-named reviewer from 9/18 flagged in prior briefs as the portfolio's oldest unreplied review no longer appears on the first page — worth a manual check on whether it was replied or just pushed off-page.
+- GA4 traffic-source flag resolved: the `t.co` referral-spam spike from prior briefs is gone, back to 16 sessions yesterday. The low-volume-channel "conversions" overcount persists (reddit, chatgpt.com, yahoo all showing conversions far exceeding sessions) — still don't take those at face value.
+- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 clicks across the whole trailing window, and GA4 shows only 2 views vs a ~3-view baseline.
 <!-- live:end -->
 
 ## Quick links

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Zero instrumentation persists; no GBP yet, 4 days to deadline"
-updated: 2026-09-26
+alert: "Zero instrumentation persists; no GBP yet, 3 days to deadline"
+updated: 2026-09-27
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28** — now 29 days sitting. Still no GBP location for this business — Sept 30 is **4 days out**, this is the last realistic window.
+- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28** — now 30 days sitting. Still no GBP location for this business — Sept 30 is **3 days out**, this is the last realistic window.
 - **Still the least-instrumented business in the portfolio.** No GBP, no GSC property, no Google Ads, no Meta ad account, no GA4, no FareHarbor. The roster holds exactly one ID: an Instagram user ID.
 - Instagram still didn't pull this run — no `meta-organic` MCP connected this session, portfolio-wide gap, not specific to HBC.
 - Decision is made (live), the follow-through isn't: needs an owner to actually stand up the GBP before Sept 30.
