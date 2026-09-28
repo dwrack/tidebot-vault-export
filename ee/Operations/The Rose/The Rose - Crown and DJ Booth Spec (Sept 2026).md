@@ -250,3 +250,40 @@ At 62% scale the crown is ~4.1 m across and ~13 m². After the booth, stair head
 6. **Vinyl:** build an isolated turntable shelf, or digital-only house rule?
 7. **Rose 1.0 crown:** listening lounge, no dance floor (my pick)?
 8. **Model it:** want this layout drawn as v0.30 (hearth arc, bench ring, dance disc, service stair, bud hood, updated speaker positions)?
+
+---
+
+## 14. What if the jump petal is a ramp? (2026-09-28)
+
+Davey's question: make the jump petal a ramp up to the crown. Measurements from model v0.29. All heights above water; the float deck is 0.51 m above water and rides the river, so these heights hold at any river stage.
+
+**Fixed heights today**
+
+| Point | Above float deck | Above water |
+|---|---|---|
+| Hot-room wall top | 2.15 m | 2.66 m |
+| Crown deck | 3.15 m | **3.66 m (12 ft)** |
+| Jump petal peak | ~5.0 m | **~5.5 m (18 ft)** |
+| Today's jump petal walk to the crown | ~14 m of path, stair-steep | |
+
+**Ramp rules that set the length (IBC 1012)**
+- Exit ramp: 1:12 max. Non-exit pedestrian ramp: 1:8 max.
+- Max 0.76 m (30 in) of rise per run, then a 1.52 m (60 in) landing. Landings top and bottom.
+- Guards both sides where the drop is over 0.76 m, handrails both sides, 36 in minimum clear width (44 in once the crown counts over 50 people).
+
+**The three ways to do it**
+
+| | Crown height (water) | Ramp length | Laps of the full Rose (47 m) | Notes |
+|---|---|---|---|---|
+| A. 1:12 exit ramp, crown as is | 3.66 m | ~47 m (5 runs, 4 landings) | **1 full lap** | Also makes the crown wheelchair accessible |
+| B. 1:12, crown lowered 0.5 m (thin plenum) | 3.16 m (10.4 ft) | ~39 m | ~0.85 lap | Booth can't sink 0.6 m anymore without cutting into the hot-room ceiling. Saves 8 m, costs the nested booth |
+| C. 1:8 ramp, not an exit | 3.66 m | ~34 m | ~0.75 lap | Still needs the service stair as the exit |
+
+**The jump on a ramp petal**
+- An exit ramp needs guards the whole way. The jump happens from a gated gap in the guard, not an open edge.
+- Two jumps: a **ramp-top launch at crown level, 3.66 m (12 ft)**, and a short stair (not ramp) up the petal tip to **~5.5 m (18 ft)** for the big jump. The tip stays sculpture-steep because it isn't part of the route.
+- Depth under each (rule of thumb, verify with soundings and an aquatic safety consultant): diving-platform standards want ~3.8 m under a 5 m platform. Plan 3.5 m+ under the 12 ft launch and 4 m+ under the 18 ft tip, at the lowest river stage.
+
+**Rose 1.0.** Ramp length does not shrink with the flower: the hot room needs the same head height, so the crown rise stays ~3.15 m. On Rose 1.0 (29 m lap) a 1:12 ramp is 1.6 laps and a 1:8 ramp is 1.2 laps. Rose 1.0 gets stairs, or a crown you reach from the dock.
+
+**Recommendation.** Option A, built as the Spiral petal character (v0.28): the amphitheater rims already curl into each other as a walkway. Grade that walkway at 1:12 and it becomes one continuous ramp that climbs once around the whole flower, over the jump petal and onto the crown. The rose becomes a literal inward spiral, the roof becomes accessible, and the rolled petal edges are the guards. Keep the service stair as the second exit (still required over 49 people). Cost: ~47 m x ~1.4 m of ramp (~66 m2, about twice the crown's area) inside the float edge; the naval architect weighs it.
