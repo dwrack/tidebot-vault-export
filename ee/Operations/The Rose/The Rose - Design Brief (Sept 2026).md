@@ -677,3 +677,4 @@ My pick: 2 with you holding the final say on every piece. Questions to settle: p
 - [ ] Print the scale model
 - [ ] Naval architect shortlist (no outreach until approved)
 - [ ] Sensory prototype in the existing sauna
+- [ ] Crown + DJ booth detail pass: [[The Rose - Crown and DJ Booth Spec (Sept 2026)]] (2026-09-28), 8 decisions at the bottom
