@@ -126,6 +126,10 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 **Direction:** "Take one of the leaves on the stem and put it on the other side of the stem, that can be additional boat parking. The walkway can also be more boat parking."
 **What changed:** The second compound leaf now hangs off the river side of the stem, with boats rafted along its leaflets. The stem walkway has cleats every ~6 m on its river edge and boats tied alongside. Three leaves stay on the swim side for lounging. Davey: pull-up traffic only, no overnight moorage. The placeholder boat blocks (at the leaf, along the walkway, at the dock and the marina) were removed at his request; cleats stay.
 
+## v0.30: Stained glass, after Ulaman
+**Direction:** Jonah sent the Ulaman Bali pods ("the closest thing to Avatar on Earth"). Davey: "Something similar for the top of either the DJ booth or the rose, with red stained glass or windows. Save this photo to pull the idea from."
+**What changed:** Reference saved to `Inspiration/`. Leaded glass in red and amber, two places: leaf-shaped panes set into each of the ten crown bud petals (lead cames as veins, colors alternating around the ring, lit from inside the hot room), and an 8-ray star laid across the DJ canopy. A roof-plate star was tried first and dropped: it sat hidden under the crown skirt. Both glow harder at night. Renders in `v0.30/`.
+
 ---
 
 ## For the video later

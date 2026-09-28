@@ -93,6 +93,8 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 69 | Way up | **The jump petal spirals inward onto the crown and is the only access** (v0.26). No plank, no spiral stairs. Peak ~5 m above deck mid-sweep |
 | 70 | Spiral petals | Offered (v0.27-28): amphitheaters overlap and curl, outer rows become a rim walkway into the next petal. **Not committed** |
 | 71 | Boat tie-up | One leaf on the river side of the stem plus cleats along the walkway (v0.29). **Pull-up traffic only, no overnight moorage** (Davey). That keeps it a transient courtesy dock, like Riverplace's public dock, which is the lightest permit class; still keep the fireboat lane clear |
+| 72 | Swings | Ideas listed 2026-09-28: petal-tip rope swings over the cove, swings under the jump petal's curl, low sepal swings for kids, hanging fire-nook benches, a crown two-seater facing the bridge, leaf-arch swings, thorn-cleat swings on the walkway, and one whole small petal as a 6-person swing on a steel arch from the crown. Over-water swings need 3 m of depth under the arc and follow the jump-petal insurance call. Not yet in the model; Davey to pick |
+| 73 | Stained glass | From Jonah's Ulaman (Bali) reference, saved in `Inspiration/`: red and amber leaded-glass stars, lit from inside at night. In the model (v0.30): an 8-point star in the sauna roof plate (glows from the hot room, seen from every amphitheater) and a star laid across the DJ canopy. This may be what "fire ceiling" was reaching for: a ceiling that glows like fire |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
