@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 7
+revenue_today: 1355
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-09-27
+alert: "GA4 t.co referral spike (2,936 sessions, 96% of daily traffic) — previously thought resolved, back worse"
+updated: 2026-09-28
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run** — FareHarbor scrape failed for 9/26, second failure in 3 days. Last known pace (off 9/25 data): ~$6,218/wk vs $4,000 target (155%).
-- **2 unreplied 5★ reviews visible this pull** — Peter Pravikoff (9/24, 3 days) and "I S." (9/25, 2 days). The "Houston Pedal Barge"-named reviewer from 9/18 flagged in prior briefs as the portfolio's oldest unreplied review no longer appears on the first page — worth a manual check on whether it was replied or just pushed off-page.
-- GA4 traffic-source flag resolved: the `t.co` referral-spam spike from prior briefs is gone, back to 16 sessions yesterday. The low-volume-channel "conversions" overcount persists (reddit, chatgpt.com, yahoo all showing conversions far exceeding sessions) — still don't take those at face value.
-- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 clicks across the whole trailing window, and GA4 shows only 2 views vs a ~3-view baseline.
+- **Goal pace: $5,490/wk booked vs $4,000 target — 137% of goal.** Based on a thin 3-day FH basis (9/20, 9/24, 9/25) due to repeated scrape failures — directional, not precise.
+- **GA4 `t.co` referral spike is back, worse than before** — 2,936 sessions yesterday, 96% of the property's total traffic, dwarfing every real channel (direct 100, Facebook 44, Instagram 42, Google 40). A prior brief marked this resolved. Don't trust this property's session totals until it's investigated — almost certainly bot/referrer spam, not real visitors. The low-volume-channel "conversions" overcount also persists (themardigrasschoolofcooking.com: 1 session, 17 conversions) — still don't take those at face value.
+- 0 unreplied reviews on this pull's first page.
+- Watched page ("Airboat vs Kayak" comparison): **still flat vs baseline.** 0 clicks across the whole trailing 8-day window, impressions 5-16/day, position 7-9.6.
 <!-- live:end -->
 
 ## Quick links

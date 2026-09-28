@@ -2,13 +2,13 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 0
+bookings_today: 7
+revenue_today: 557
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing; Google Ads + Meta both still $0, now 10+ days dark on both channels"
-updated: 2026-09-27
+alert: "Google Ads + Meta both still $0, now 10+ days dark on both channels; pacing worst in the portfolio at 33%"
+updated: 2026-09-28
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run** — FareHarbor scrape failed for 9/26, second failure in 3 days. Last known pace (off 9/25 data): ~$2,046/wk vs $7,000 target (29%, worst in the portfolio).
+- **Goal pace: $2,310/wk booked vs $7,000 target — 33% of goal, worst in the portfolio.** Based on a thin 3-day FH basis (9/20, 9/24, 9/25) due to repeated scrape failures — directional, not precise.
 - **Google Ads (8672151991) and Meta (act_10153674414451399, shared with DC Ebike and Cave Point) are both still confirmed $0, now 10+ days fully dark on both channels.** See today's brief Action Item #5. Check whether the ad pause is intentional or a billing failure, this is peak fall paddling season.
-- **1 new unreplied 5★ overnight** — Stephanie (9/26). First review-reply gap here in weeks.
+- **1 unreplied 5★** — Stephanie (9/26), now 2 days old. First review-reply gap here in weeks.
+- GSC: brand term "door county kayak tours" holding position 2.8, 19 clicks/8d — strongest brand-term performer in the portfolio.
 <!-- live:end -->
 
 ## Quick links

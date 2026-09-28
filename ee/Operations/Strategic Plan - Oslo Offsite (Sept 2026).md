@@ -127,6 +127,28 @@ Periode (booking), ActiveCampaign (email), Slack (team), Google Ads, the attribu
 
 ---
 
+## Backcast from 2031 (decided 2026-09-28)
+
+**The picture:** Elevated Tides runs a network of Portland water sites. The Rose is the landmark, the boat is the proof site. Davey + Jonah are owners, not operators. It has to fund both retirements, pay real income, give time back, build sellable/fundable equity, and leave a landmark Portland knows.
+
+| When | What has to be true |
+|---|---|
+| **2031** | 3-4 sites operating under ET. A GM runs daily ops across sites. Market-rate owner pay + distributions + retirement contributions every year. Marina rebuilt, seller note paid or refinanced. Books a buyer or investor would trust |
+| **2029** | Rose 1.0 has run at least one full season. 2nd new site secured. GM hired. Dock rebuild done or financed. Owner pay at market, retirement plans funded yearly. Outside capital raised for the Rose |
+| **Oct 2027** | E&E $500K+ TTM with V2. Hire 1 + hire 2 in place. Holman Phase 1 live, Rose 1.0 feasibility done. Restated OAs signed (incl. buy-sell + valuation). Monthly P&L per entity. Owner pay flowing. Marina capital plan financed |
+| **Dec 2026** | Dustin closed, OA term sheet out, V2 selling, hire 1 started, P&L + cash forecast live, retirement plan type picked with the CPA |
+
+**What this changes in the 90 days:**
+- **P&L + cash forecast comes back as a rock.** Equity value, retirement funding and outside capital all depend on clean books. The winter revenue plan becomes team execution, not a rock.
+- **Hire 1 is a site manager who can grow into GM**, not a handyman. Write the post that way.
+- **The OAs need a buy-sell, a valuation method and owner-vs-operator roles.** If you're owners in 2031, the document should already say who does what and how either of you gets out.
+- **Retirement:** ask the CPA which plan fits each entity before the year-end deadlines.
+- **Missing number:** what does each of you need per year (pay + retirement contribution) by 2031? That number sets the revenue target for the whole network.
+
+**Biggest risk:** the marina. $1.365M note plus $1.2-1.9M CapEx competes for the same cash as the Rose, owner pay and retirements. The marina capital plan has to be solved before the network can grow.
+
+---
+
 ## The sequence (what unlocks what)
 
 ```
@@ -180,7 +202,7 @@ Seven is too many. **Cut to 5.** My pick for what drops: 6 moves to January, and
 8. Holman: push for winter 2026-27, or target spring/summer 2027?
 9. Rose 1.0: green-light the naval architect study in Q4, or wait for Q1?
 10. Each of you: your one lane, and 3 things you stop doing.
-11. The 3-5 year picture in one sentence: a place, a network of sites, or a company that designs and sells sauna experiences?
+11. ~~The 3-5 year picture in one sentence~~ **ANSWERED 2026-09-28:** a network of Portland water sites under ET, owners not operators. See "Backcast from 2031".
 
 ---
 
