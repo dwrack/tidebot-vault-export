@@ -118,6 +118,14 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 **Direction:** "Show me a version of that idea before I commit." (the whole flower reading as an inward spiral)
 **What changed:** A 'Spiral' petal character, not the default: the three amphitheaters lean the same way, each rim climbs toward its trailing edge and each petal sits higher than the last (2.0, 2.6, 3.2 m), and the high ends curl inward over the next petal; the jump petal completes the turn onto the crown. Side-by-side renders against Classic in the archive; a seventh panel on the lineup page.
 
+## v0.28: Overlapping spiral petals
+**Direction:** "The three smaller petals that aren't the jump petal should be more connected and a little overlapping, so they create more of that curl and let guests move between them: three somewhat unified groups, while still a bit disconnected for smaller groups."
+**What changed (Spiral option only):** each amphitheater now sweeps 150 degrees. Its inner rows stop a little past the peak; the outer two rows carry on as a walkway that curls down into the leading edge of the next petal. The three amphitheaters become one continuous curl you can walk around at rim level, while each fire pit still has its own bowl. Still an option, not the default.
+
+## v0.29: Boat parking
+**Direction:** "Take one of the leaves on the stem and put it on the other side of the stem, that can be additional boat parking. The walkway can also be more boat parking."
+**What changed:** The second compound leaf now hangs off the river side of the stem, with boats rafted along its leaflets. The stem walkway has cleats every ~6 m on its river edge and boats tied alongside. Three leaves stay on the swim side for lounging. Davey: pull-up traffic only, no overnight moorage. The placeholder boat blocks (at the leaf, along the walkway, at the dock and the marina) were removed at his request; cleats stay.
+
 ---
 
 ## For the video later

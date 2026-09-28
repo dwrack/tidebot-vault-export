@@ -91,6 +91,8 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 67 | Model orientation | v0.21-v0.25 were mirrored (my axes were a left-handed frame). Fixed in v0.26; compass added. The site overlay PNG was always correct because it was drawn on real imagery |
 | 68 | Bridges | Hawthorne ~110 m north; Marquam ~600 m south; Tilikum ~1.45 km south behind it (the beautiful one, the reveal from the south). OMSI between the Marquam and the Tilikum |
 | 69 | Way up | **The jump petal spirals inward onto the crown and is the only access** (v0.26). No plank, no spiral stairs. Peak ~5 m above deck mid-sweep |
+| 70 | Spiral petals | Offered (v0.27-28): amphitheaters overlap and curl, outer rows become a rim walkway into the next petal. **Not committed** |
+| 71 | Boat tie-up | One leaf on the river side of the stem plus cleats along the walkway (v0.29). **Pull-up traffic only, no overnight moorage** (Davey). That keeps it a transient courtesy dock, like Riverplace's public dock, which is the lightest permit class; still keep the fireboat lane clear |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)

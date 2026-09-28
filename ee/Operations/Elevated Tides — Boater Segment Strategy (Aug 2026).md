@@ -1,5 +1,8 @@
 # Elevated Tides — Boater Segment Strategy
 
+> **Raft-Up Sessions PARKED 2026-09-28** (Davey + Jonah, Oslo offsite). Other rails (slip premium, Dock Galley) still open.
+
+
 **Status:** Davey's raw idea, worked into a first framework (2026-08-27). Internal only; none of this belongs on any shared page.
 
 ## The two customers on one waterfront

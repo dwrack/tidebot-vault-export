@@ -1,5 +1,8 @@
 # The Downpour — Productization Project
 
+> **PARKED 2026-09-28** (Davey + Jonah, Oslo offsite). No work until revisited. Still worth doing: get the IP assignment from Grant.
+
+
 **Status:** Davey's directive 2026-08-27. Reverse-document the existing Downpour, build more, market them for sale. Build partner: Grant, alongside the V2 sauna build.
 
 ## What exists today
