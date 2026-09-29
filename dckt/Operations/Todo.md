@@ -1,6 +1,7 @@
 # DCKT — Todo List
 
 ## High Priority
+- [ ] Fix FareHarbor revenue in DCKT EOD labor report — session is stale, revenue showing "not available". Refresh: `cd ~/Projects/fareharbor-brief && FH_HEADED=1 node scrape.js --setup` and approve the 2SV text. _(2026-09-29)_
 - [ ] [Guide log] Replace the snapped right rudder cable on the identified tandem kayak. _(Torey (audio log), 2026-08-18)_
 - [ ] [Guide log] Inspect and repair the slight crack in the hull of one single kayak. _(Sara (audio log), 2026-07-13)_
 - [ ] [Guide log] Replace broken paddle _(Kelly (audio log), 2026-06-18)_
