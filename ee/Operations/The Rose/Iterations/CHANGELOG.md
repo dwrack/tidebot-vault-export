@@ -174,3 +174,12 @@ _2026-09-29_
 **Still open, visible in the model:** the lap passes the bridge window at ~1.3 m behind glass; the stem's first ~5 m drops steeply from the lap to the water; nothing can pass under the lap, so all water access happens on the low third or by ladders at the jump gaps; there's no service stair yet; crowd-on-one-side heel check for the naval architect. Built on v0.33 (the other session's rose-window redraw), not v0.32. Spec: `The Rose - Crown and DJ Booth Spec (Sept 2026).md` s.14-15.
 
 **Reverted (2026-09-29):** Davey: "You are losing the vision... it looks chaotic and not visually appealing anymore. The ramp really fucked it up." The lap turned the flower into a ring, clipped every amphitheater short, and cluttered the silhouette with guards. The live model opens on v0.33 again; v0.34 stays in the strip as a marked detour. Lesson: code constraints get met out of sight, they don't get to shape the flower. Crown access is open again, to be talked through before touching the model.
+
+## v0.35: DJ in the middle, under the rose
+_2026-09-29_
+
+**Davey:** "i think we should remove the roof fire pit and put the dj booth in the middle of the room with a roof that has the rose on it."
+
+**What changed:** Crown default is now the flat deck (fire circle and terraced bowl stay in the model as options, off by default). DJ default is 'Center of the crown': round booth at the middle of the roof lounge, open to the cove, crowd ringed around it at 2.5-3 m. New `roseRoof()`: a shallow leaded-glass dome 4.2 m across on four slim posts, 2.3 m over the deck, UV-mapped so the v0.34 traced rose window sits centred on top; lead rim came. The petal canopy still exists for the nested option. Renders in `v0.35/`.
+
+**Open:** the Crown and DJ Booth Spec (Sept 2026) assumed the nested booth; its access/egress notes (jump-petal-only access, service stair) still apply and need a pass for the central booth.
