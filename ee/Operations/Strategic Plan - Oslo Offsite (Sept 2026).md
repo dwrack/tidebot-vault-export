@@ -74,6 +74,7 @@ Davey + Jonah, last day in Oslo after ISC26. Built from the vault as of today: r
 | **Fleet revenue** | Dock Galley, Oyster Hour, event perimeter moorage (all concepts) | Nothing until insurance answers | Galley open (honor-system cooler first) | |
 | **Events (Raft-Up, Sound Bath)** | **Raft-Up PARKED 2026-09-28.** Sound Bath still a concept | **Ask the insurer first.** Marine event rider + OSMB/USCG permit check | 2-4 events summer 2027 | Signature annual event |
 | **Maintenance** | Ramp wheel, cleats, slip padding | Facility hire owns it | Preventive calendar, winterization | |
+| **ETE charter boat** | **Added 2026-09-29.** Jonah wants to buy a boat for bareboat charter | Attorney + insurer check, budget, boat spec | **Live by May 1, 2027** (see the charter section below) | One of the network's revenue lines |
 | **Brand** | Prospectus artifact, pitch deck draft (Aug) | | ET is the lead brand for new projects | ET = the name on every site |
 
 **My call:** the marina carries the debt and the upside, so it's the balance-sheet story, not the fun one. Keep new fun there to low-cost, low-liability items (Galley, slip bundles). Hold events until insurance says yes in writing.
@@ -159,6 +160,41 @@ V2 live (Nov)  -> winter capacity -> Dec/Jan revenue -> funds hire 1
 Hire 1 (Nov-Dec) -> frees Davey + Jonah -> Holman/Rose gets real attention in 2027
 Holman team approval + LOI -> Coast Guard COI -> Rose 1.0 feasibility -> presale
 ```
+
+---
+
+## 1-month goals (through ~Oct 29): the Dustin-out celebration
+
+Added 2026-09-29 (Davey + Jonah). These trigger on the Dustin close.
+
+| Goal | Who | Done means |
+|---|---|---|
+| Buy pump foils | Davey + Jonah | Foils bought and in the water once Dustin is out |
+| Work out more | Davey + Jonah | Set a weekly number and hold each other to it (number TBD) |
+
+---
+
+## New project: ETE bareboat charter boat (live by May 1, 2027)
+
+Added 2026-09-29, Jonah's idea. ETE buys a yacht/boat and rents it out as a bare-bones charter. The experience needs designing, plus a listing on our sites and maybe a site of its own.
+
+**Check these before buying anything:**
+- **Legal structure.** A true bareboat (demise) charter hands full control of the vessel to the renter. If we supply the captain or crew, it's a passenger-for-hire operation, and USCG rules and licensing apply. USCG actively goes after "fake bareboat" charters. Get a maritime attorney to confirm the setup.
+- **Insurance.** Same rule as Raft-Up: the insurer says yes in writing first (charter liability, renter qualifications, damage deposit).
+- **Money + authority.** A purchase over $10K is blocked until the Dustin close and needs the new OA's CapEx rules. It also competes for the same cash as the marina CapEx (see "Biggest risk" above).
+- **Moorage.** Does it live on an ET slip? If so, that's a slip we don't rent to someone else.
+
+**Backwards from May 1, 2027:**
+| By | Milestone |
+|---|---|
+| Oct 31 | Dustin closed. Attorney + insurer questions asked. Budget and entity (ETE) agreed |
+| Nov 30 | Boat spec picked (size, type, sail vs power, capacity). Rough unit economics: price/day vs note, insurance, moorage, maintenance |
+| Jan 31 | Boat bought (off-season). Survey, title, registration done |
+| Mar 15 | Outfitted. Charter agreement, renter checklist, deposit + damage policy, check-in/out process designed |
+| Apr 15 | Listing live: ET site page + a charter platform. Standalone site only if the ET page isn't enough (it rides on the Jan website rebuild) |
+| May 1 | First charter out |
+
+**Open decisions:** budget ceiling, boat type, who runs handoffs/cleaning (hire 1?), standalone site or ET page, pricing.
 
 ---
 

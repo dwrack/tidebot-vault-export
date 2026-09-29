@@ -287,3 +287,28 @@ Davey's question: make the jump petal a ramp up to the crown. Measurements from 
 **Rose 1.0.** Ramp length does not shrink with the flower: the hot room needs the same head height, so the crown rise stays ~3.15 m. On Rose 1.0 (29 m lap) a 1:12 ramp is 1.6 laps and a 1:8 ramp is 1.2 laps. Rose 1.0 gets stairs, or a crown you reach from the dock.
 
 **Recommendation.** Option A, built as the Spiral petal character (v0.28): the amphitheater rims already curl into each other as a walkway. Grade that walkway at 1:12 and it becomes one continuous ramp that climbs once around the whole flower, over the jump petal and onto the crown. The rose becomes a literal inward spiral, the roof becomes accessible, and the rolled petal edges are the guards. Keep the service stair as the second exit (still required over 49 people). Cost: ~47 m x ~1.4 m of ramp (~66 m2, about twice the crown's area) inside the float edge; the naval architect weighs it.
+
+---
+
+## 15. One full lap: lower the crown so the ramp becomes a walkway (2026-09-28)
+
+Davey: "Any reason it couldn't wrap around the whole rose? Can we reduce the height of the interior sauna? I think we have room." Supersedes the section 14 recommendation. Drawn in model v0.34.
+
+**The key number is 1:20.** Anything 1:20 or flatter is a sloped walking surface in code, not a ramp: no landings every 30 in, no handrails required (guards still required where the drop passes 0.76 m). One lap just inside the float edge is ~44-47 m, so a single 1:20 lap climbs **2.2-2.35 m**.
+
+| Layer | Today | Proposed | Saved |
+|---|---|---|---|
+| Ceiling above top bench | 1.40 m | **1.20 m** (Aufguss standard 1.05-1.20) | 0.20 |
+| Wall height (ceiling at wall) | 2.15 m | 1.95 m | |
+| Roof + plenum + crown floor | 1.00 m | **0.55 m** (0.20 CLT, 0.15 insulation, 0.20 floating floor) | 0.45 |
+| Hot room sunk into the hull | 0 | **0.30 m down** (float ~1.3-1.4 m deep under the hot room) | 0.30 |
+| **Crown above float deck** | **3.15 m** | **2.20 m** | **0.95** |
+| Crown above water | 3.66 m (12 ft) | **2.71 m (8.9 ft)** | |
+
+**Costs:** door noses need a local raised head (2.03 m clear vs 1.95 m wall); the booth sinks 0.3 m, not 0.6; sunken hot room needs deeper concrete (a keel, helps stability), a pumped floor drain, more insulation, and a 0.3 m step down at each door.
+
+**Open issues (none are dealbreakers):** the lap is a wall around the flower, so gangway, stem, slide exit and swim access join on the low third; nothing can pass under it; 30 people on the high half is the worst heel case (naval architect, 4 degree limit); run the lowest sector past the bridge window; the slide launches from the lap; ~65 m2 more walkway and guard windage.
+
+**Jumps:** gated gaps along the climb at ~1.0, 1.5, 2.0, 2.7 m above water; petal-tip stair to the 5.5 m (18 ft) big jump. Depth rule of thumb 3.5 m+ under upper gaps, 4 m+ under the tip at low river (verify with soundings).
+
+**Rose 1.0:** 29 m lap climbs only ~1.45 m at 1:20; needs 1.5 laps, a 1:12 ramp, or stairs. **Still needed:** service stair behind the booth as the second exit.

@@ -2,6 +2,8 @@
 
 _2026-09-27. How we fund the Rose with the community from day one: what we pre-sell, how we protect ourselves if the build slips, how sponsors buy into pieces of the design and the build itself, and how the whole thing sits under the Elevated Tides brand. Companion to the Design Brief (sections 11 and 12) and the Master Plan (section 6). Confidential while Holman is off the record._
 
+**Raise target (Davey, 2026-09-29): $2.5-3.5M across every strategy.** Stack in the Parts Catalog doc, section 4.
+
 **The one idea:** sell time and belonging, never dates. Every founding product is priced today and starts its clock the day the Rose opens. Money is refundable until the build is real, and if the Rose never opens, every holder gets made whole or better at the saunas we already run. That is how you keep the pressure without setting a trap.
 
 ---
@@ -59,6 +61,8 @@ This is the part that lets us take money early without lying to anyone. Write it
 **The pressure valve (Davey's "a little pressure is good"):** the public count is a promise we make to ourselves. Publish Seeds, Petals and First Blooms sold, weekly, in the build diary. When the number is big enough, it becomes the argument to the City and the bank. It also becomes embarrassing not to build. That is the point.
 
 ## 4. Sponsors: buying a piece of the design
+
+_Superseded 2026-09-29 by `The Rose - Parts Catalog & Raise Stack (Sept 2026).md`: the full zone-by-zone catalog (functional elements, patron-funded art commissions, intimate parts, in-kind trades), the Parts Board, and the $2.5-3.5M raise stack. The rules below still hold._
 
 Rule from the brief, kept: **never sell the Rose's name. Sell the parts.** Each element gets a brief, a number, a credit and a plaque. Sponsor credit appears on the element, on the founders' wall, in the build diary, and in the opening press.
 

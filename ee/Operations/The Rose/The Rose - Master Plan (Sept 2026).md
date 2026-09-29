@@ -98,7 +98,7 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Budget ceiling from Davey | **open** | Decides float size, jump petal, roof lounge |
 | Real quotes: float, timber, gas, slide, rubber | open | After engineering |
 | Revenue model (sessions, buyouts, weddings) | rough | Needs Periode data on current buyout demand |
-| Funding stack: presale, community round, partners, grants, debt | on paper | Brief section 11 |
+| Funding stack: presale, community round, partners, grants, debt | drafted | Raise target $2.5-3.5M (Davey 2026-09-29). Stack + sellable-parts catalog in `The Rose - Parts Catalog & Raise Stack (Sept 2026).md` |
 | Travel Portland grant ($25-50K) | open | Check the window |
 | Presale ladder pricing | draft | Superseded by `The Rose - Community Funding Plan (Sept 2026).md` (Seed subscription, sliding-scale Petal, First Bloom, gates-not-dates contingency, sponsor elements, climbing-wall bid); Jordan gut-check still owed |
 | Brand: Elevated Tides leads; sites named for rose parts (Rose / Thorn / Bud) | open, Davey's call 2026-09-27 | Brand owner + selling entity need Jonah and the attorney before any money is taken. Funding Plan sections 1 and 6 |
