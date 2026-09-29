@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 3
+revenue_today: 199
 lead_time_days: 0
-ad_spend_yday: 25
+ad_spend_yday: 21
 status: yellow
-alert: "data stale — FH scrape timed out again; staffing crisis unresolved 7+ days; 4 unreplied 5★"
-updated: 2026-09-28
+alert: "FH data recovered (3 bookings/$199); staffing crisis unresolved; 4 unreplied 5★"
+updated: 2026-09-29
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run** — FareHarbor scrape timed out again for this business specifically (other 5 businesses succeeded off 9/27 data). Last known pace (off the thin 3-day basis): ~$1,402/wk vs $4,500 target (31%).
-- **Manager quit, staffing crisis ongoing — the 6pm tour cancelled with 3 hours' notice (N. Smith, 1★, 9/21) is now 7 days old, and the public reply thread is still combative** ("Go 'Stros!", accusing the guest of a "half truth"). Ties directly to the goals doc's flagged risk: Connor covers HPB/BBK/AKT with no first mate at Buffalo Bayou.
-- **4 unreplied 5★ reviews** — Elena Xintavelonis Marcou (new, 9/27), Linpeng Zheng (9/21, 7 days), Melvin Rodriguez and Robert Gordon (both 9/19, now 9 days). Nobody has cleared the queue.
-- `Bat Bridge Kayak Tour - Traffic` still has no purchase objective — $24.52 spent yesterday, 350 clicks, same standing gap since 8/28 (31 days).
+- **Goal pace: $1,223/wk booked vs $4,500 target — 27% of goal.** FH data recovered this run (3 bookings/$199 on 9/28) after timing out in the prior brief. 4-day basis (9/24, 9/25, 9/27, 9/28) — directional, not precise.
+- **Manager quit, staffing crisis ongoing — the 6pm tour cancelled with 3 hours' notice (N. Smith, 1★, 9/21) is now 8 days old**, and the public reply thread is still combative. Ties directly to the goals doc's flagged risk: Connor covers HPB/BBK/AKT with no first mate at Buffalo Bayou.
+- **4 unreplied 5★ reviews** — Elena Xintavelonis Marcou (9/27), Linpeng Zheng (9/21, 8 days), Melvin Rodriguez and Robert Gordon (both 9/19, now 10 days). Nobody has cleared the queue.
+- `Bat Bridge Kayak Tour - Traffic` still has no purchase objective — $20.68 spent yesterday, 272 clicks, same standing gap since 8/28 (32 days).
 <!-- live:end -->
 
 ## Quick links

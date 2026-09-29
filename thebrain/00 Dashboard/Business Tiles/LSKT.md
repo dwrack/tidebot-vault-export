@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 3
-revenue_today: 140
+bookings_today: 6
+revenue_today: 3794
 lead_time_days: 0
-ad_spend_yday: 110
+ad_spend_yday: 117
 status: yellow
-alert: "Google Ads CPA nearly doubled to $103.45 (vs $53.87 7d avg); FH bookings down 78%; Meta act_638850950128825 still fully dark 30+ days"
-updated: 2026-09-28
+alert: "Google Ads conversions collapsed to 0 ($112 spend, 67 clicks); Meta shows first spend in 30+ days ($5.24)"
+updated: 2026-09-29
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $7,072/wk booked vs $5,500 target — 129% of goal.** Based on a thin 3-day FH basis (9/20, 9/24, 9/25) — directional, not precise. Yesterday itself was weak: 3 bookings vs a 13.7/day trailing avg, a 78% drop.
-- **Google Ads CPA nearly doubled to $103.45 yesterday** (106 clicks, 1.06 conv, $110.09 spend) vs the 7-day avg of $53.87 CPA / 2.2 ROAS. ROAS fell to 1.02. Worth a same-day campaign check.
-- **Meta (`act_638850950128825`, shared with AKT) returned zero campaigns again — still fully dark, 30+ days after the goals doc flagged it as an urgent "check billing today" item.** Real money left on the table during peak bat season.
+- **Goal pace: $10,568/wk booked vs $5,500 target — 192% of goal.** 4-day FH basis (9/24, 9/25, 9/27, 9/28) — heavily skewed by yesterday's $3,794 outlier day (vs a $1,510/day avg); treat as noisy, not a real trend, until the week fills in.
+- **Google Ads conversions collapsed to 0 yesterday** (67 clicks, $112.22 spend, $0 tracked conversions) — a full drop-off from the prior day's already-elevated $103.45 CPA / 1.06 conversions. Worth a same-day check on conversion tracking or the landing page before assuming demand died. See today's brief Action Item #7.
+- **Meta (`act_638850950128825`, shared with AKT) shows its first spend in over 30 days** — $5.24 on "Kayaks Awareness: In-Market - TourPPC." Still tiny, but no longer the "fully dark" flag from prior briefs. Worth confirming this holds and scales.
 - 0 unreplied reviews.
 <!-- live:end -->
 
