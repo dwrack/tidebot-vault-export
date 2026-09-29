@@ -136,3 +136,17 @@ All on 2026-09-26, one working session. Davey's directions are in his words, lig
 - Every version's screenshot is taken from the same aerial camera at dusk, plus night, so they cut together cleanly.
 - Good sequence: v0.1 dusk → v0.2 → v0.3 → v0.4 → v0.5 wild → v0.6 bud closing → v0.7 night → v0.8 → v0.9 amphitheaters, then the site overlay and the petal lineup.
 - For motion: screen-record the published page; the version strip swaps models in place, and the Bloom control animates the open/close.
+
+## v0.31: The canopy glass is a rose
+_2026-09-29_
+
+**Davey:** "8 ray star should be a rose"
+
+**What changed:** The DJ canopy's 8-ray star is gone. In its place a leaded-glass rose laid over the canopy skin: a six-lobe amber heart, then three rings of rose-glass petals (7, 9, 11), each petal outlined in lead came that follows the canopy curve. Lighter rose glass than the crown leaves so it separates from the canopy red. Glows at night with the rest of the glass. Renders in `v0.31/`.
+
+## v0.32: Rose window as a line design
+_2026-09-29_
+
+**Davey:** "that is a weird rose silhouette or glass roof. you can't do any better with a line design?"
+
+**What changed:** The stacked 3D lobes are gone. The rose is now drawn the way a stained-glass artist would draw it: a 2D line design (five rings of nested petals, each with a lead vein, spiraling into a tight heart, inside a heavy outer came) rendered onto a glass skin that hugs the canopy curve. Fills are five close shades of rose red so the pieces read as separate panes. Glows at night. Renders in `v0.32/`.
