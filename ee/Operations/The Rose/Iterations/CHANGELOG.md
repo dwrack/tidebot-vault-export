@@ -192,3 +192,10 @@ _2026-09-29_
 **What changed:** Only the jump petal's lean. Before, every part of the wall bowed out by the same curve for its height. Now the amount of lean follows how tall the petal is at that spot: near plumb at the low end (the top of the wall ~0.2 m out, was ~0.5 m) and hard over the water at the peak (the top ~3.0 m out, was ~2.2 m; the top of the wall leans ~40 degrees there). In between it ramps smoothly. The walking surface follows the same curl, so the petal unfurls more where it's steep. The holds and climbers follow the wall. Nothing else changed from v0.35.
 
 **Note:** the Drawing Set (v2) still draws this wall straight down. That was a simplification in the drawings, not a design change; it needs to be redrawn to match.
+
+## v0.37: The climbing wall flows into the top of the sauna
+_2026-09-29_
+
+**Davey:** "The outside climbing petal should flow into the outside of the top of the sauna."
+
+**What changed:** The cause of the old gap: past the peak the jump petal curls inward toward the crown, but the climbing wall on its back never followed the curl. It kept going straight, so 80% of the way along, the wall stood ~3 m outside the petal's edge with green deck showing between. Now the wall is attached to the petal's outer edge the whole way. Up to the peak its hem runs below the waterline as before. Past the peak the hem lifts out of the river and lands on the sauna's upper skirt (the bud petals that slope down from the crown rim), rising out of it in one smooth concave sweep, so the outside of the climbing petal and the outside of the top of the sauna read as one surface. At the crown end the wall shrinks to nothing on the crown deck. The v0.36 lean is kept. Holds sit only where the fall line is 4 ft or more past the float edge.
