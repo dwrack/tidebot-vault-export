@@ -208,3 +208,14 @@ Ranked by bang for effort:
 - **Open:** reuse the Lone Star Twilio number, or add an HPB number on the same account (recommended).
 - **Open:** Connor owns the 30-min quarterly refresh?
 - **Status:** David is reviewing the plan before any build starts.
+
+---
+
+## Build status (Sep 29, 2026)
+
+- **Live in AWS:** capture API, 15-min flow runner, popup widget, per-brand unsubscribe, booked-stop endpoint, error alerts. Code: `~/Projects/fh-lead-engine` (multi-brand rollout: `ROLLOUT.md` there).
+- **Tested:** welcome email landed in Gmail inbox (not spam). Booked, unsubscribe, and runner paths verified.
+- **Previews:** `Marketing/Lead Gift Flow Previews/index.html`
+- **Waiting on FareHarbor** (draft in houstonpedalbarge@gmail.com, not sent): create CREW25 ($25, 2+ guests, expires Oct 31), add the header script, gift card promo question, booking webhook.
+- **Must build before Oct 17:** booking sync (first countdown email goes out that day).
+- **SMS:** off until the number question is settled.
