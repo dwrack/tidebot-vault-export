@@ -183,3 +183,12 @@ _2026-09-29_
 **What changed:** Crown default is now the flat deck (fire circle and terraced bowl stay in the model as options, off by default). DJ default is 'Center of the crown': round booth at the middle of the roof lounge, open to the cove, crowd ringed around it at 2.5-3 m. New `roseRoof()`: a shallow leaded-glass dome 4.2 m across on four slim posts, 2.3 m over the deck, UV-mapped so the v0.34 traced rose window sits centred on top; lead rim came. The petal canopy still exists for the nested option. Renders in `v0.35/`.
 
 **Open:** the Crown and DJ Booth Spec (Sept 2026) assumed the nested booth; its access/egress notes (jump-petal-only access, service stair) still apply and need a pass for the central booth.
+
+## v0.36: The climbing wall leans with the petal
+_2026-09-29_
+
+**Davey:** "It needs to go from not leaning out that much where it isn't steep to more significantly leaned as it gets steeper."
+
+**What changed:** Only the jump petal's lean. Before, every part of the wall bowed out by the same curve for its height. Now the amount of lean follows how tall the petal is at that spot: near plumb at the low end (the top of the wall ~0.2 m out, was ~0.5 m) and hard over the water at the peak (the top ~3.0 m out, was ~2.2 m; the top of the wall leans ~40 degrees there). In between it ramps smoothly. The walking surface follows the same curl, so the petal unfurls more where it's steep. The holds and climbers follow the wall. Nothing else changed from v0.35.
+
+**Note:** the Drawing Set (v2) still draws this wall straight down. That was a simplification in the drawings, not a design change; it needs to be redrawn to match.

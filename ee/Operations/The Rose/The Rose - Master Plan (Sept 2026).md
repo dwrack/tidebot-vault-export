@@ -110,7 +110,8 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Stage plan (tease, waitlist, reveal, build in public) | done on paper |
 | Sensory prototype in the current sauna (2 transducers + scent ring) | open, this week if Davey OKs |
 | Name cleared by attorney | open |
-| Jordan scope note for the reveal | open (draft only) |
+| Jordan scope note for the reveal | parked | Not ready. Review prep + readiness checklist in `The Rose - Review Prep for Jordan and Kimberlynn (Sept 2026).md`; no outreach until it's green |
+| Kimberlynn on the Rose content system | parked | Terms open since 9/15; settle that first, then the Rose. Same doc, section 5 |
 | Iteration video from the archive | archive ready, video not cut |
 | Photoreal renders (Higgsfield / Blender) | open; needs Higgsfield login or Blender install |
 | Waitlist page | open, after stage 1 |
