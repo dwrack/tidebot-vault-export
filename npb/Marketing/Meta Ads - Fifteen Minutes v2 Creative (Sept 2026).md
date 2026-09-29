@@ -79,3 +79,42 @@ budgets, and do not edit the existing copy while the test is running.
 | Weather Kill | 3 | $76.24 |
 | Planner's Win | 3 | $76.60 |
 | Anti-Bourbon | 2 | $115.40 |
+
+---
+
+## Deployed 2026-09-29
+
+Published live as a second ad inside each of the four existing ad sets. Each v2 ad was made
+by duplicating that ad set's own v1 ad and swapping only the video, so every ad set keeps
+its own copy and the copy test stays intact.
+
+| Ad set | New ad | Ad ID |
+|---|---|---|
+| Nightlife & Bars \| Gator Collision | NPB \| Gator Collision v2 \| Fifteen Minutes | 52580588269500 |
+| Nightlife & Bars \| Weather Kill | NPB \| Weather Kill v2 \| Fifteen Minutes | 52580590663500 |
+| Nightlife & Bars \| Planner's Win | NPB \| Planner's Win v2 \| Fifteen Minutes | 52580591969300 |
+| Nightlife & Bars \| Anti-Bourbon | NPB \| Anti-Bourbon v2 \| Fifteen Minutes | 52580592661300 |
+
+Budgets untouched: $40/day per ad set, $160/day total. Adding a second ad to an ad set does
+not raise spend, it splits the existing budget across two creatives.
+
+### Meta defaults that had to be refused during this build
+
+Worth knowing because they are on by default and each one would have broken the test:
+
+- The duplicate dialog pre-checks **"Add new creative"** (and on one ad **"Add an image -
+  Increase conversions"**). Unchecked every time. Letting Meta inject its own creative into
+  a controlled creative test defeats the point.
+- After the upload, Meta pre-checks **"Publish this upload to current active ads as related
+  media"** with Select all on, which would have pushed v2 into the existing v1 ads as extra
+  media. Unchecked.
+- **Advantage+ creative generation** offered AI-generated variants. Left unselected.
+- Immediately after publishing, Meta offered to raise each ad set from **$40 to $67/day**
+  (total $160 to $268/day). Declined.
+
+### One thing left alone on purpose
+
+The account had a pre-existing unpublished draft, **"New Orleans Kayak Swamp - Video views"
+(Updated: Ad status)**, which carries an error and belongs to a different brand. It was
+deselected in the publish dialog and left exactly as found. It is still sitting in
+"Review and publish (1)". Someone should decide what to do with it, but it is not ours.
