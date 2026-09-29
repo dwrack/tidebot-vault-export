@@ -2,6 +2,7 @@
 
 Research: [[00 Ebb & Ember Own Baseline]], [[01 YouTube Findings]], [[02 TikTok Instagram Threads Findings]], [[03 Industry Trends and Channel Playbook]]. Raw data in `raw/`.
 Status: planning only. Nothing launched, nothing posted.
+Owner: Kimberlynn (Lemonade PDX not engaged, per Davey 2026-09-29).
 
 ## The answer in five lines
 
@@ -90,7 +91,7 @@ Targets are blank on purpose. Set them after four weeks of real data instead of 
 **Before launch (this week to Oct 5)**
 - Run the Apify scrape after the Sept 27 credit reset (`scripts/apify_sauna_trends.py`, capped at $4) to fill gaps.
 - Log Profile 9 into Threads and redo the Threads research.
-- Decide who owns production (see decisions).
+- Kimberlynn owns production (update 2026-09-29: Lemonade PDX is out, Kimberlynn stays on for now). Confirm her scope covers about 3 reels/week plus creator hosting.
 - Set up the DM keyword tool and UTM naming.
 
 **Oct**: series 1-3 live, 3 reels/week, first 4 creator visits, GBP weekly.
@@ -100,7 +101,7 @@ Targets are blank on purpose. Set them after four weeks of real data instead of 
 ## Decisions for Davey
 
 1. Build on the existing @ebbandember accounts (recommended) or also start a separate sauna-culture media brand?
-2. Who produces this? Kimberlynn is past her end date and Lemonade PDX's scope is 1-2 reels/month. This plan needs about 3 reels/week plus creator hosting.
+2. ~~Who produces this?~~ Settled 2026-09-29: Kimberlynn stays on, Lemonade PDX is out. Open part: does her current scope and hours cover about 3 reels/week plus 4-6 creator visits a month, or do we trim the plan to fit?
 3. Budget for creator visits: free sessions only, or also a paid fee for the top 1-2 creators?
 4. OK to price out a Viator/GetYourGuide listing for TikTok GO booking?
 5. OK to buy a DM automation tool (ManyChat-type, roughly $15-50/mo range, confirm current pricing)?
