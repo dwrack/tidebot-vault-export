@@ -13,6 +13,7 @@
 - [ ] Ask Eric for enforcement fix in the booking system
 
 ## Medium Priority
+- [ ] DJ canopy glass should look like a rose for Ebb & Ember build
 - [ ] Ask Dustin for cost to purchase/design/build the plunge pod (Dustin)
 - [ ] Explore whether 4" toilet flange is right solution for plunge pod dump drain (Dustin)
 - [ ] Review 30-gallon tub option for cold plunge station
