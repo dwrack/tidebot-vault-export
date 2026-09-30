@@ -241,3 +241,15 @@ _2026-09-30_
 - Rows 0-1 by the fire stay as seats; the outer seats stay between the stair and the ramp.
 
 **Honest numbers:** the rim ramp averages ~21 degrees and hits ~33 degrees in its steep middle stretch; that's a jumpers' ramp with grippy rubber, not an accessible route. The stair is the real way up. No rails on either yet.
+
+## v0.41: A gentler, even ramp into the deck by G6
+_2026-09-30_
+
+**Davey:** "the jump petal incline looks way too steep, lets tone it down so it flows more evenly into the floor just above the g6 area"
+
+**What changed (P1 only):**
+- The rim height now follows distance walked, not angle, so the grade is even the whole way. A long flat tail feathers into the float deck just inside G6, and the top rounds over at the jump point.
+- The peak moved later along the petal (u 0.58 to 0.68), and the curl toward the crown starts later (u 0.45 to 0.55), so the climb gets ~12 m instead of ~9.6 m and the jump tip still sits out over the water.
+- T2 rim ramp: ~22 degrees average, ~28 at most (was ~27 average, ~34 at most). Peak height unchanged at 5.0 m.
+
+**Tradeoffs:** the jump tip now reaches ~1.4 m past the float edge (was ~2.3 m), so jumpers push out a little to clear it. The rim from the peak down to the crown landing is shorter and steeper (~21 degrees); T1 stair is still the way up and down. A truly gentle ramp (~10 degrees) would need ~27 m of petal or a much lower jump.

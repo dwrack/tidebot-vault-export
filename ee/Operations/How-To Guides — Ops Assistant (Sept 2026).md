@@ -1,17 +1,19 @@
 # How-To Guides: Ops Assistant (Sept 2026)
 
-Status: DRAFT for Davey + Jonah. Built 2026-09-30. Pairs with [[Master Action List (Sept 2026)]] (item numbers H1-H55).
+Status: DRAFT for Davey + Jonah. Built 2026-09-30. Pairs with [[Master Action List (Sept 2026)]] (item numbers H2-H60). Updated 2026-09-30 with Davey's answers.
 
 How this file works: **Part A** is 17 reusable SOPs. **Part B** is one card per task: which SOP, who to contact, what done looks like, when to escalate. Where an SOP already exists in the vault, the guide points to it instead of rewriting it.
 
 ## Ground rules (read first)
 
 1. **Nothing goes out without an OK.** Every email, text, Slack post, review reply, or vendor order gets drafted first and approved by Davey or Jonah (SOP-3). No exceptions in the first 90 days.
-2. **Logins live in 1Password.** Never paste a password, code, or API key into Slack, email, a doc, or this vault. If you see one posted somewhere, tell Davey.
-3. **Sign as the business.** "Ebb & Ember" (or "Elevated Tides" for marina stuff). No founder names on anything public.
-4. **Brand words.** Always "Ebb & Ember" with the ampersand. It's a sauna session, never "a float." Don't mention the fuel type. Location is Portland, Oregon, on the Columbia River.
-5. **Write it down.** If a task is waiting on someone, it goes in `Open Loops.md` the same day.
-6. **Not your lane:** Dustin exit, owner pay, legal, pricing, strategy, The Rose / Holman Dock, Slip 7, anything that speaks for Davey or Jonah on money or people. If a task drifts into one of these, stop and flag it.
+2. **Access is staged.** Day 1 you get sauna@ebbandember.com. Other tools (Periode, ActiveCampaign, Meta, Google Ads, Slack channels) get added as tasks need them and trust builds. Ask for access, don't borrow someone's login.
+3. **Month 1: ask before you buy anything.** Every purchase gets an owner OK first. After month 1, routine buys go on auto up to a limit the owners set.
+4. **Logins live in 1Password.** Never paste a password, code, or API key into Slack, email, a doc, or this vault. If you see one posted somewhere, tell Davey.
+5. **Sign as the business.** "Ebb & Ember" (or "Elevated Tides" for marina stuff). No founder names on anything public.
+6. **Brand words.** Always "Ebb & Ember" with the ampersand. It's a sauna session, never "a float." Don't mention the fuel type. Location is Portland, Oregon, on the Columbia River.
+7. **Write it down.** If a task is waiting on someone, it goes in `Open Loops.md` the same day.
+8. **Not your lane:** Dustin exit, owner pay, legal, pricing, strategy, The Rose / Holman Dock, Slip 7, anything that speaks for Davey or Jonah on money or people. If a task drifts into one of these, stop and flag it.
 
 ---
 
@@ -75,7 +77,7 @@ Sheet: "Punch List Items" (Google Sheets, link in 1Password/bookmarks). Channel:
 2. New item from Slack or a meeting: add a row the same day.
 3. Done item: mark x, add who confirmed it and the date.
 4. Once a day (work days): **edit the one pinned Slack post in place.** Never post a new one. Format: Done this week / In progress (owner) / Blocked (on whom).
-5. Grant's lists (ET + E&E) live in the same sheet on their own tab so Grant can see status.
+5. The old Grant fix lists (ET + E&E, now facilities-hire work) live in the same sheet on their own tab.
 6. **Done** = sheet and pinned post match, no row without an owner.
 
 ### SOP-7: Member night / themed event logistics
@@ -145,14 +147,17 @@ Use for: temp display, Harvia battery, door ball, lock bridge, mats, gas techs, 
 3. Action items go onto the Master Action List / punch sheet.
 4. Save in the vault next to the recording reference. Owners review before anything is shared further.
 
-### SOP-14: Buying supplies and parts
-1. Check the spend limit (not set yet, see Master Action List Q3).
+### SOP-14: Buying supplies, parts, and subscriptions
+1. Month 1: everything needs an owner OK. After that, check the auto-buy limit (not set yet, see Master Action List Q6).
 2. Link + price + quantity + who installs, posted to Davey or Jonah.
 3. Buy with the method they name. Never enter card numbers yourself unless they set you up with a company card.
 4. Receipt to the bookkeeping folder the owners name. Log the delivery date.
 5. Recurring items (trash bags, TP, cleaning supplies): keep a simple reorder list with par levels. Reference: `Operations/Cleaning, Stocking & Maintenance.md`.
+6. Subscriptions (water filter, TP, paper towels): check the exact product on site first (filter model, dispenser size), count how fast it runs out, pick a delivery interval, compare 2 suppliers. Owner approves, then set it up to ship to the address they name.
+7. Log every subscription (item, supplier, interval, cost, account email) in one table in `Operations/` so it can be paused or cancelled later.
 
 ### SOP-15: "Did it actually ship?" check
+Needs read-only Ads access, which comes after trust is built. Until then Davey or Claude runs it.
 1. Find the approved change (e.g. `Operations/Google Ads Keyword Plan & Budget Decisions (2026-07-18).md`).
 2. Look at the live system (read-only access, or ask Claude to check).
 3. Table: approved vs live, one row per setting.
@@ -166,6 +171,21 @@ Folder: `Operations/Vendor Insurance Certs/` + its README (Linnea is the worked 
 4. Calendar reminder 30 days before expiry on the sauna@ calendar.
 5. Anyone without a cert: flag before their next on-site day.
 
+### SOP-18: Cleaners (code + oversight)
+**Cleaners code (H27):**
+1. The sauna lock auto-locks. The code change needs Bluetooth, so do it on site with the lock app (login in 1Password).
+2. Create a separate cleaners code. Never reuse the guest code.
+3. Give it to the cleaners in person or by a message the owner approves. Never post it in Slack, email threads, or the vault.
+4. Test it on the door. Put "cleaners code set [date]" on the punch sheet (no digits).
+5. If the guest code changes, check the cleaners code still works.
+**Oversight (H59):**
+1. Get the cleaners' schedule (which days, what time). Put it on the sauna@ calendar.
+2. Write a one-page checklist from `Operations/Cleaning, Stocking & Maintenance.md`: sauna benches, floors, bathroom, shower, lounge reset, trash, restock.
+3. After each visit (or the next day you're on site), walk it with the checklist. Photos of anything missed.
+4. Log each visit: date, done/missed items. Jonah uses the log to pay them.
+5. Restock soap, shampoo/conditioner, paper towels, TP when under par.
+6. Two misses in a month: send the log to Jonah. You don't give the cleaners feedback on pay or their contract.
+
 ### SOP-17: Weekend sauna hosting (W-2 only)
 Not written yet. The vault's `SOPs/... Pre-Tour Preparation` and `... Guest Communication Templates` were copied from the kayak business and don't fit a sauna. Use these for now: `SOPs/How We Run Things — Ebb and Ember.md`, `SOPs/Culture Quiz — Ebb and Ember.md`, `Operations/Cleaning, Stocking & Maintenance.md`, `SOPs/Ebb and Ember — SOP Coast Guard & Compliance.md` (incident report). The hire's first weekends are shadow shifts; they write the hosting SOP from those.
 
@@ -175,18 +195,17 @@ Not written yet. The vault's `SOPs/... Pre-Tour Preparation` and `... Guest Comm
 
 | # | Task | SOP | Contact / tool | Done looks like | Escalate if |
 |---|---|---|---|---|---|
-| H1 | Member meeting write-up | 13 | Recording from Davey (location TBD) | Write-up in vault, actions on the list | Anything about ownership, Dustin, or money comes up. Skip it, note "owner topic at [time]" |
 | H2 | Waiver medical language | 8 | Periode waiver settings | Approved text live, test waiver signed | Owners haven't approved in 7 days |
 | H3 | Event waivers on iPad | 8 | Entrance iPad | 100% of guests signed before the dock | Someone refuses |
 | H4 | Mario parts + stove schedule | 4 | Mario (Hannah has the thread) | Parts list, order confirmation, monthly schedule on the calendar | Stove fails again before parts arrive |
 | H5 | Emergency gas tech list | 12 | Web search, calls | 3-5 names with phone, hours, rate in `Operations/` | None answer after-hours calls |
-| H6 | CO alarm | 14 | Grant installs | Alarm installed + tested, one per V2 stove on the V2 list | Any alarm sounds: guests off the boat, call Davey/Jonah |
+| H6 | CO alarm | 14 | Owner OK to buy; Facilities hire installs | Alarm installed + tested, one per V2 stove on the V2 list | Any alarm sounds: guests off the boat, call Davey/Jonah |
 | H7-H10 | Periode asks | 1 | Erik Kvanli | Fix confirmed and tested | 14 days no reply |
-| H11 | Signage to print | 4 | Jess (Slack), sign printer | Signs printed and handed to Grant for install. 10 river-safety signs = 1 per ramp, 1 per life ring (7), 1 at the sauna walk-up | Jess blocked on an owner decision |
+| H11 | Signage to print | 4 | Jess (Slack), sign printer | Signs printed and handed to the facilities hire for install. 10 river-safety signs = 1 per ramp, 1 per life ring (7), 1 at the sauna walk-up | Jess blocked on an owner decision |
 | H12 | Boater discount email | 2 | Owners set %, Dockwa list via Jonah | Sent to slip holders + houseboat list | Pricing not decided |
 | H13 | Weekly newsletter template | 2 | ActiveCampaign | Reusable template + 1 approved send | Unsub spike |
 | H14 | Referral announcement | 2 | Periode (25% referral live), ActiveCampaign | Sent to members | Referral terms unclear |
-| H15 | Dockwa follow-ups | 3 | `../Elevated Tides/Dockwa Contacts.md`, Jonah | 5 drafts approved and sent, each slip holder's status updated | Hurt's 12-month clause and Fitzpatrick's $925 are Jonah's call |
+| H15 | Dockwa follow-ups | 3 | `../Elevated Tides/Dockwa Contacts.md`, Jonah | 5 drafts approved by Jonah. Drafts only for now; Jonah decides on direct texting after you start | Hurt's 12-month clause and Fitzpatrick's $925 are Jonah's call |
 | H16 | Lodging outreach | 10 | Lodging tracker | First 7 sent, logged | Any "what's the commission?" reply |
 | H17 | Safety + welcome videos | 11 | Kimberlynn | Videos cut and approved | Script questions on safety claims: owners approve wording |
 | H18 | Reviews + monthly summary | 12, 3 | Google Business Profile, email surveys, `Marketing/_reviews_export` | Reply drafts approved and posted; summary to owners by the 5th | Any review mentions injury or safety |
@@ -194,15 +213,15 @@ Not written yet. The vault's `SOPs/... Pre-Tour Preparation` and `... Guest Comm
 | H20 | Twilio A2P status | 5 | Ask Claude "check the Twilio campaign status" | VERIFIED noted, or FAILED sent to Davey | FAILED |
 | H21 | Current alarm instructions | 4 | Manufacturer support | Install instructions PDF to Facilities | No reply in 14 days |
 | H22 | Punch sheet cleanup | 6 | Punch sheet | Every row: owner, High/Med/Low, date. Zach rows reassigned | Nobody to assign a row to |
-| H23 | Grant list sorted | 6 | Grant's Apple Note (read-only) | One tab, ramp wheels on top, statuses | Ramp wheels not scheduled |
+| H23 | Old Grant lists sorted | 6 | The "Tasks for @Grant" Apple Note (owners share it) | One tab, ramp wheels on top, statuses | Ramp wheels not scheduled |
 | H24 | Open Loops current | 5 | `Open Loops.md` | Every row dated, June items resolved or re-dated | |
 | H25 | Next member night | 7 | Sept 15 files | Recap filed | No date from owners by T-4 weeks |
-| H26 | Insurance application | 4 | Jonah | Application submitted, payment confirmed | Needs a signature or payment |
-| H27 | Door lock research | 12 | Lock label/app, manufacturer | Make, model, firmware, bridge price, auto-lock test result | Never share the door code in writing |
-| H28 | Anti-slip mats | 12 | Grant installs | Mats quoted, bought, screwed down | |
-| H29 | Parking package | 4, 12 | Jess designs, Grant installs | Sign copy + quotes approved | Towing language needs owner/legal OK |
+| H26 | Sauna insurance renewal | 4, 12 | Davey + Jonah, current carrier/broker | Current policy summarized (carrier, limits, renewal date), changes listed (V2 saunas, events, capacity), renewal quote in front of owners before the renewal date | Anything needing a signature, payment, or a coverage decision |
+| H27 | Cleaners code | 18 | Lock app on site (Bluetooth) | Code works on the door, cleaners have it | Never write the code down anywhere shared |
+| H28 | Anti-slip mats | 12, 14 | Facilities hire installs | Mats quoted, bought, screwed down | |
+| H29 | Parking package | 4, 12 | Jess designs, Facilities hire installs | Sign copy + quotes approved | Towing language needs owner/legal OK |
 | H30 | Insurance certs | 16 | Each vendor | Cert on file for every on-site vendor | Vendor has no insurance |
-| H31 | Merch samples + Pals contact | 10 | Merch tracker; Jordan (Early Bird PR) for Pals | 24 requests sent, replies logged | Minimums or pricing need a decision |
+| H31 | Figure out merch | 10, 12 | Merch tracker + `Merch — Vendor Sample Outreach (Sept 2026).md`; Jordan (Early Bird PR) for Pals | Samples requested, then a one-pager: what to sell, vendor, unit cost, minimums | Minimums or pricing need a decision |
 | H32 | Event brand partners | 10 | Target list + framework | Tier A pitches out, logged | Any brand wants to talk money |
 | H33 | Creator + UGC outreach | 10, 11 | Playbooks, Kimberlynn | Weekly invites out, reposts logged with permission | |
 | H34 | V2 build diary clips | 11 | Grant (Slack) | Daily clips filed + cataloged | Grant stops sending |
@@ -215,7 +234,7 @@ Not written yet. The vault's `SOPs/... Pre-Tour Preparation` and `... Guest Comm
 | H45 | FAQ additions | 3 | Jess posts on the site | Live on /faq | Alcohol answer not decided |
 | H46 | World Sauna Day plan | 7 | WORLDSAUNA code in Periode | Plan to owners by Jan 15 | Confirm dates in writing before touching the code |
 | H47 | Silent night + yoga concepts | 7, 12 | Programming Activations SOP | Proposal with partner, slot, price idea | Partner needs a contract |
-| H48 | Spigot photo | 4 | Mario, Grant (Downpour location) | Photo delivered to Mario | |
+| H48 | Spigot photo | 4 | Mario | Photo delivered to Mario | |
 | H49 | Lounge fan | 4 | Manufacturer | Answer on app/smart switch | |
 | H50 | Prospectus clip consent | 11 | Crew member (Davey names them) | Written OK filed, or clip swapped | |
 | H51 | sauna@ inbox | 9 | Gmail sauna@ | Inbox under a day behind | See SOP-9 |
@@ -223,12 +242,15 @@ Not written yet. The vault's `SOPs/... Pre-Tour Preparation` and `... Guest Comm
 | H53 | Weekend hosting | 17 | On site | Shadow shifts done, hosting SOP drafted | Any injury: Coast Guard SOP incident steps |
 | H54 | Davey <> Jonah note edits | 5 | Owners | Weekly suggested-edit list sent | |
 | H55 | Trash bags + supplies | 14 | Reorder list | Par levels never hit zero | |
+| H56-H58 | Water filter, TP, paper towel subscriptions | 14 | Check product on site first | Each subscription approved, running, logged in the table | Cost jumps or item discontinued |
+| H59 | Cleaner oversight | 18 | Cleaners, Jonah | Weekly visit log + checklist results | Two misses in a month |
+| H60 | Rain garden water flow | 12 | Owners (details TBD) | One-pager: water source, flow path, plant list, cost, who builds, any marina/city permit question | Anything touching the river or needing a permit |
 
 ---
 
 ## Before the hire starts (owner homework)
 
-- Answer the 14 questions at the bottom of the Master Action List.
+- Answer the 7 remaining questions at the bottom of the Master Action List.
 - Rotate the passwords that were posted in Slack (O4) and put everything in 1Password.
-- Decide which H items are the 3-4 contract projects (hiring doc lists 6 candidates; H1, H7-H10, H15, H17, H25 map to them).
+- Decide which H items are the 3-4 contract projects (hiring doc lists 6 candidates; H7-H10, H15, H17, H25 map to them. The member meeting write-up is off the list).
 - Confirm the Slack channel for the pinned punch-list post.

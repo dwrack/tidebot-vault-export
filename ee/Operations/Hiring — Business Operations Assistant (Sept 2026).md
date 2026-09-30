@@ -122,22 +122,19 @@ Future pay bands are not set. Decide them before you promise anything specific i
 
 Signed as the business. No founder names (About-page rule until the Dustin exit closes). v1 is in this file's history.
 
-Hook line options (pick one for the first line under the title):
-- A (Ogilvy, specific): "Your office has a 42-degree river."
-- B (Schwartz, identity): "For the person who reorganized the supply closet at the yoga studio without being asked."
-- C (Halbert, conversational): "We need someone to keep a floating sauna from sinking under its own to-do list."
+Hook line: A (Ogilvy, specific), picked + edited by Davey 2026-09-30.
 
 > **Operations Assistant, Ebb & Ember (Portland, OR)**
 > Part-time, 20-30 hrs/week, $25-35/hr. Contract through Jan 1, then a W-2 role if it's a fit.
 >
-> Your office has a 42-degree river.
+> Your office is a floating sauna on the Columbia River, with a view of Mt. Hood.
 >
-> Ebb & Ember is Portland's floating sauna on the Columbia. Guests get hot, climb down into Cascade snowmelt, then sit on the deck doing nothing for a while. We opened January 1, 2026. More than half our guests have already come back. Two new private saunas go on the water this fall.
+> Ebb & Ember is Portland's floating sauna. Guests get hot, climb down into Cascade snowmelt, then sit on the deck doing nothing for a while. We opened January 1, 2026. More than half our guests have already come back. Two new private saunas go on the water this fall.
 >
 > Guests see the calm. You'd run the part they don't see.
 >
 > **What you'll do**
-> - Be on camera. Walk a first-timer through the ritual in a 60-second video. Host the safety video. Recap member night.
+> - Be on camera. Walk a first-timer through the ritual in a 60-second video. Host the safety video. Film a quick highlights clip after member nights.
 > - Throw the parties. Member nights, Women's Wednesday, whatever we dream up next. You own the checklist from invite to cleanup.
 > - Host sessions on some weekends. Greet guests, hand them a waiver, tell them the cold plunge is optional (it is).
 > - Pitch the neighbors: hotels, local brands and creators we'd love to have out on the dock.
@@ -147,17 +144,16 @@ Hook line options (pick one for the first line under the title):
 >
 > **You're probably the person who**
 > - Reorganized the front desk at your last studio, gym or restaurant without being asked
-> - Can't leave a loose end alone
-> - Lives in Slack and has used Claude or ChatGPT for real work (and can tell when it's wrong)
-> - Writes emails that sound like a person
+> - Is an excellent communicator, and keeps what gets said out loud in sync with what's written in Slack
+> - Is comfortable learning, using and updating our shared business brain: the docs, lists and systems that run the place
 > - Doesn't mind a camera, and maybe secretly likes it
 > - Lives in Portland and can get to our dock on NE Bridgeton Rd on short notice
 >
-> No sauna experience needed. We'll teach you the ritual on day one.
+> No sauna experience needed.
 >
 > **What you get**
 > - $25-35/hr, plus an Ember 2 membership. You should know the product.
-> - Weekdays remote. Some weekends on the river. Not all of them.
+> - A flexible schedule: some weekdays remote, some weekends in person on the river. It shifts with our events, parties, experiences and aufguss rituals.
 > - A path up. We're growing, and we'd rather promote the person who already knows how it runs than hire from outside.
 > - A job where "go take a sauna" counts as a break.
 >
@@ -276,4 +272,4 @@ Either way: unsure at the decision point = no.
 
 11. Jonah (CPA): W-2 from day 1 (A) or contract through Jan 1 (B).
 12. Owner prep: a prioritized task list + how-to guides so the hire has real work on day 1. Spun off to its own session 2026-09-30.
-    - DRAFTED 2026-09-30: [[Master Action List (Sept 2026)]] (55 hire items, 22 physical, 17 owner-only, 14 open questions) + [[How-To Guides — Ops Assistant (Sept 2026)]] (17 SOPs + a card per task). Needs Davey + Jonah to answer the questions and pick the 3-4 contract projects.
+    - DRAFTED 2026-09-30: [[Master Action List (Sept 2026)]] (59 hire items, 22 physical, 16 owner-only) + [[How-To Guides — Ops Assistant (Sept 2026)]] (18 SOPs + a card per task). Davey answered 14 questions 9/30; 7 left. Needs Davey + Jonah to answer the questions and pick the 3-4 contract projects.

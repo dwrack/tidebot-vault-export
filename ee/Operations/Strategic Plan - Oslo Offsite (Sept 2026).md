@@ -49,6 +49,19 @@ Davey's personally owned **sauna Airstream**, currently in **Door County, WI**. 
 - Option 2: **cabanas on the shoreline**
 - [ ] Carry both into the Holman LOI / City conversation (Hannah B leads)
 
+### How these rank against the plan and the hire (added 2026-09-30)
+
+| Tier | Item | Fits which part of the plan | Who does the work | When |
+|---|---|---|---|---|
+| **1. Now** | V2 privates launch (website, photos, Periode, insurance) | Rock #3, "V2 selling before Thanksgiving." Winter capacity funds hire 1 | Hire: photos, Periode setup, insurance quote (H26, H61-H63). Jess: website pages. Owners: pricing + final sign-off | Oct-Nov |
+| **2. Quote now, decide after the close** | Sauna Airstream to Portland | Needs CapEx authority + OA rules, so it waits on the Dustin close (O1). Insurance quote rides with H26 | Hire: insurance + freight quotes (H26, H64). Owners: ownership setup + dock (O18) | Quotes in Oct. Decide Nov. Place it in spring 2027 |
+| **3. Design in winter, build in spring** | Marina slip cabanas | Low-risk ET revenue on slips we already control. Insurer says yes in writing first | Hire: research + unit economics (H65). Owners: go/no-go + budget (O19) | Research Jan. Build Mar-Apr. Live by Memorial Day 2027 |
+| **4. Stays in the Holman track** | Rose "leafs" / shoreline cabanas | Holman LOI + Rose 1.0 feasibility (rock #7) | Owners + Hannah B only. **Never in the hire's view** (O15) | With the LOI |
+
+**Rule:** nothing in tiers 2-4 takes owner hours away from rocks 1-3 before the Dustin close and V2 launch.
+
+**On the $300K each:** that's $600K a year in owner income, more than the whole Oct 2027 target of $500K+ TTM revenue for E&E. It can't come from the boat alone, even with V2. It needs the network (V2 + Airstream + cabanas + marina + Rose), market-rate owner pay, and the two of you out of operator roles. Decision 7 (the 1-year revenue target) has to be set from this number backward. Jonah (CPA) should turn "$300K each" into a revenue and margin target per entity.
+
 ---
 
 ## The map: every category, where it stands, what I'd do
@@ -178,7 +191,7 @@ Periode (booking), ActiveCampaign (email), Slack (team), Google Ads, the attribu
 - **Hire 1 is a site manager who can grow into GM**, not a handyman. Write the post that way.
 - **The OAs need a buy-sell, a valuation method and owner-vs-operator roles.** If you're owners in 2031, the document should already say who does what and how either of you gets out.
 - **Retirement:** ask the CPA which plan fits each entity before the year-end deadlines.
-- **Missing number:** what does each of you need per year (pay + retirement contribution) by 2031? That number sets the revenue target for the whole network.
+- **Missing number, ANSWERED 2026-09-30:** $300K income each ($600K combined), wanted **sooner, not 2031**. Still open: pre-tax or after-tax, and whether retirement contributions count inside the $300K. That number sets the revenue target for the whole network.
 
 **Biggest risk:** the marina. $1.365M note plus $1.2-1.9M CapEx competes for the same cash as the Rose, owner pay and retirements. The marina capital plan has to be solved before the network can grow.
 
@@ -268,7 +281,7 @@ Seven is too many. **Cut to 5.** My pick for what drops: 6 moves to January, and
 4. Intercompany loan: amortize at $4,678/mo, or convert to equity?
 5. Facility hire: W-2 or contractor, budget, reports to whom, who writes the post?
 6. V2: lock windows + wood this week. Who sends the final sign-off to Grant/Kyle?
-7. 1-year revenue target: is $500K+ trailing 12 months right, lower, or higher?
+7. 1-year revenue target: is $500K+ trailing 12 months right, lower, or higher? *(Now has to be backed out from the $300K each goal, see the offsite notes.)*
 8. Holman: push for winter 2026-27, or target spring/summer 2027?
 9. Rose 1.0: green-light the naval architect study in Q4, or wait for Q1?
 10. Each of you: your one lane, and 3 things you stop doing.
