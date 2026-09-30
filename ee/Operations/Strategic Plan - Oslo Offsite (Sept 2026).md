@@ -17,6 +17,16 @@ Davey + Jonah, last day in Oslo after ISC26. Built from the vault as of today: r
 
 ---
 
+## Offsite notes: what Davey + Jonah agreed (captured 2026-09-30)
+
+### Personal goals (the "why" everything else serves)
+- **Play more.**
+- **Travel more.**
+- **Be monetarily free = $300,000 income.** (Open: $300K each or combined? Pre-tax?)
+- **Timing: sooner, not later.** These are near-term goals, not 2031 goals.
+
+---
+
 ## The map: every category, where it stands, what I'd do
 
 ### 1. Ownership, governance, legal

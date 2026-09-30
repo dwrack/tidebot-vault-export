@@ -65,6 +65,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 20 | Captain Slack trip logs. "No log = less tour pay" in writing | Jeff | open |
 | 21 | TIPS certification for captains + crew (insurance requires it; prerequisite to serving drinks). Louisiana ATC course link posted in #nola-party-barge 9/25, $20/3hr, certs due Oct 9 in that thread | David / Jeff | in progress |
 | 22 | Sailboat that drifted into the pull-out spot — bill their insurance? | Jeff | open |
+| 66 | **Costume trunks for guest rental on the boats, ready by Sat Oct 10.** Wigs, boas, masks, capes. JT sends a buy list + rental price. TideBot DM sent 9/30 (D0ATQER30TD, ts 1790768892.156079). If no reply by 10/1, Claude iMessages him. | JT | new 9/30 |
 
 ## Comms discipline
 | # | Item | Owner | Status |

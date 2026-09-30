@@ -123,7 +123,7 @@ Future pay bands are not set. Decide them before you promise anything specific i
 Signed as the business. No founder names (About-page rule until the Dustin exit closes).
 
 > **Business Operations Assistant, Ebb & Ember (Portland, OR)**
-> Part-time contract, 20-30 hrs/week, $25-35/hr, with a path to a W-2 role
+> Contract through Jan 1, 20-30 hrs/week, $25-35/hr, converting to a part-time W-2 role if it's a fit
 >
 > Ebb & Ember is a floating sauna on the Columbia River. People come here to slow down: heat, cold river water, a quiet lounge, and nobody checking their phone. We've grown fast since opening, with a membership base that keeps coming back and two new private saunas going on the water this fall.
 >
@@ -157,10 +157,10 @@ Signed as the business. No founder names (About-page rule until the Dustin exit 
 ## Interview filters
 
 1. "Walk me through the last list you managed. What was on it and what did you do with the stuff that got stuck?"
-2. Work sample (paid, 1 hr): give them 10 real, anonymized items from this list. Ask them to sort by priority, draft 2 emails (one guest, one vendor chase), and flag what they'd escalate. That tells you more than the interview.
+2. Tools walkthrough: "Share your screen and show me how you'd organize this week's to-dos. Now show me something you've used AI for."
 3. "A member brought 3 guests and wasn't there. How do you handle the email?"
 4. "What tools do you use to keep yourself organized?" Wrong answer: "my memory."
-5. On-camera test (step 2, after the resume screen): ask for a 60-second phone video, "Welcome to your first sauna session." Legal guardrails: same prompt for everyone at that stage, score it with a short written rubric on job-related stuff only (clarity, warmth, energy, following the prompt), never on looks, age, accent or anything personal. Offer an alternative (live video call) to anyone who asks for an accommodation. No AI scoring of the videos. Delete the videos of anyone not hired after the search closes.
+5. On-camera test (step 3, after the resume screen, full details in Hiring process): ask for a 60-second phone video, "Welcome to your first sauna session." Legal guardrails: same prompt for everyone at that stage, score it with a short written rubric on job-related stuff only (clarity, warmth, energy, following the prompt), never on looks, age, accent or anything personal. Offer an alternative (live video call) to anyone who asks for an accommodation. No AI scoring of the videos. Delete the videos of anyone not hired after the search closes.
 6. Reference check question: "Did they finish things without being reminded?"
 
 ## Where to post
@@ -183,9 +183,85 @@ Wellness-adjacent channels first: Portland yoga/fitness studio job boards, Indee
 
 **1099 risk note:** Oregon tests contractor status strictly (ORS 670.600). Assigned tasks through Slack, weekend shifts on our site, and our systems all look like an employee. A 1099 start is a known misclassification risk. Keep it short (60-90 days is typical), put the W-2 conversion date in writing, and have Jonah sign off as CPA before the offer.
 
+| 8 | Content release | Yes, in the offer |
+| 9 | 40/60 fun split | Yes |
+| 11 | Facilities hire | Jonah is handling it separately |
+| 10 | W-2 conversion | Project contract through Jan 1, 2027, then W-2 if it's a fit (updated from 1 year). Hire slowly, fire quickly |
+
+**Contract phase (now through Jan 1, 2027):** keep it genuinely project-based so the 1099 holds up. Defined deliverables with a price or hour cap, they pick their own hours, they invoice, they use their own phone/laptop. Hold the scheduled stuff (weekend hosting shifts, daily Slack task queue) until they're W-2. At a ~4-5 week search, a start in early November gives about 8 weeks to decide, which is plenty if the projects are real.
+
+Contract projects (pick 3-4):
+1. Shoot the safety video + 2-3 welcome / "first time here?" videos with Kimberlynn
+2. Plan and run the next member or themed night, invites through day-of
+3. Partnership outreach batch: 20 lodging, brand or creator targets from the existing trackers, drafts for approval
+4. Periode + waiver cleanup: guest-pass enforcement ask, waiver medical updates, member records
+5. Boater / houseboat discount email + slip-holder welcome kit for Elevated Tides
+6. Write up the member meeting recording + get the Open Loops list current
+
+Jan 1 decision: score them on the scorecard. Yes = W-2 part-time, at-will, with the full day-1 role, weekend hosting, and a 6-month review. Unsure = no.
+
+## Hiring process (hire slowly)
+
+Target: ~4-5 weeks from posting to start. Every step cuts the pool, so Davey + Jonah only spend real time on the last 3-4 people.
+
+| Step | What | Who | Cuts to |
+|---|---|---|---|
+| 1 | Scorecard agreed (below). No interviews until both of you sign off on it | Davey + Jonah | — |
+| 2 | Post (1-2 weeks open), then resume + note screen against the scorecard | Davey (Claude can pre-sort) | ~12 |
+| 3 | Phone video (details below), rubric-scored | Davey + Jonah separately, then compare | ~6 |
+| 4 | 30-min video call: the list question, the guest-pass email question, a tools walkthrough, "why us" | Davey or Jonah | ~3-4 |
+| 5 | In-person sauna invite on a busy day (details below) | Whoever's on site | ~2 |
+| 6 | 2 reference calls each. Ask: "Would you hire them again?" and "Did they finish things without reminders?" | Davey | 1 |
+| 7 | Offer: content release, Ember 2, W-2 or contract terms (see Employment terms) | Davey + Jonah | — |
+
+### Step 3: the phone video
+
+What we send (same text to everyone):
+
+> Thanks for applying. Being on camera is a real part of this job, so the next step is a short phone video. Record 60-90 seconds, one take is fine, no editing needed. Pretend you're welcoming someone to their first ever sauna session: say hi, tell them what to expect, and give them one tip. Then add 15 seconds on why this job caught your eye. Send it back within 5 days as a link or attachment. If a recorded video doesn't work for you, tell us and we'll do a short live video call instead.
+
+What it asks of them: about 20-30 minutes total. No sauna knowledge needed, no script, no special gear. We're not grading production.
+
+Rubric (1-5 each): warmth, clarity, natural on camera, followed the prompt, energy that fits a calm wellness space. Never looks, age, accent, or background.
+
+Guardrails: same prompt for everyone at this stage, offer the live-call alternative, no AI scoring of videos, delete the videos of anyone not hired once the search closes.
+
+### Step 5: the in-person sauna invite
+
+Invite the final 2-3 to come in as a **guest** on a busy day (a full Saturday), comped session + time in the lounge, and 20 minutes with whoever's on site afterward. You're watching how they carry themselves in the space, how they talk to other guests and staff, and whether they light up about it.
+
+Keep it a guest visit, not a tryout: no hosting, cleaning, or working the door. If they do real work it has to be paid (Oregon wage law). Have them sign the normal waiver like every guest.
+
+### Scorecard (score 1-5, anything under 3 on a must-have is a no)
+
+| Must-have | What a 5 looks like |
+|---|---|
+| Finisher | Has a real story of closing out a messy list, not just starting things |
+| Guest warmth | Would make a nervous first-timer feel at home |
+| On camera | Natural in the video, clearly enjoys it |
+| Writing | Guest email is warm, vendor email is short and direct |
+| Systems | Learns new software fast, organized without being told |
+| Tech + AI fluency | Comfortable on a computer, already uses Slack (or similar), has used Claude or other AI tools for real work and can explain how they check its output |
+| Wellness fit | Actually cares about sauna / cold / slowing down. Would use the Ember 2 |
+
+Nice-to-have: studio/gym/hospitality background, Portland wellness network, basic video editing.
+
+## Employment terms: pick one
+
+Davey is open to W-2 from the start (2026-09-30). Jonah (CPA) makes the call.
+
+| | A. W-2 from day 1 (recommended) | B. Contract through Jan 1, then W-2 |
+|---|---|---|
+| Fire quickly? | Yes. Oregon is at-will, plus a written 90-day introductory period | Yes. Contract just ends |
+| Tax risk | None | Low only if the work stays project-based (no set shifts, they pick hours, they invoice) |
+| Weekend hosting | Day 1 | Waits until W-2 |
+| Role | Full day-1 list | 3-4 defined projects (listed above) |
+| Check-ins | Day 30, day 60, keep-or-part at day 90 | ~4 weeks in, mid-December, decide Jan 1 |
+
+Either way: unsure at the decision point = no.
+
 ## Still open
 
-8. Face-of-brand terms: add a content release to the offer (we can keep using videos they appear in after they leave), and plan so the brand isn't built on one person. Kimberlynn keeps the brand voice, they're a recurring host, not the logo.
-9. The 40/60 fun split: right, or should it tilt more toward the backstage work early on?
-10. When does the 1099 convert to W-2 (60 days? 90?)
-11. Facilities hire timing, now that Zach is on the way out.
+11. Jonah (CPA): W-2 from day 1 (A) or contract through Jan 1 (B).
+12. Owner prep: a prioritized task list + how-to guides so the hire has real work on day 1. Spun off to its own session 2026-09-30.
+    - DRAFTED 2026-09-30: [[Master Action List (Sept 2026)]] (55 hire items, 22 physical, 17 owner-only, 14 open questions) + [[How-To Guides — Ops Assistant (Sept 2026)]] (17 SOPs + a card per task). Needs Davey + Jonah to answer the questions and pick the 3-4 contract projects.
