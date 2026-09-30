@@ -1,5 +1,11 @@
 # NKST — Todo List
 
+## From guide logs (recovered 2026-09-30, sync was down since Jul 24)
+_Audio-log items. Some were invented by a transcription bug, review before acting._
+- [ ] [Guide log] Deep clean and air out all life jackets from the shipping container and the van, as they are very smelly. Investigate current protocol for life jacket maintenance. _(river (audio log), 2026-08-22)_
+- [ ] [Guide log] Address the health hazard posed by extreme heat in the shipping container where life vests are stored. Consider solutions for improved ventilation, a fan, or an alternative storage method for deep summer conditions. _(river (audio log), 2026-08-08)_
+- [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
+
 ## High Priority
 - [ ] Rotate the shared `Cool6006!` password (2 Instagram accounts, Viator, Airbnb) and the plaintext PayPal password — see [[NKST — Password Rotation Plan (Aug 2026, STAGED)]] (David)
 - [ ] Build warm outreach list: Anna's, Turkey and the Wolf, The Columns, Little Dizzy's, etc. (Dylan)

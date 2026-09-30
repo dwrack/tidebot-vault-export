@@ -1,5 +1,16 @@
 # DCKT — Todo List
 
+## From guide logs (recovered 2026-09-30, sync was down since Jul 24)
+_Audio-log items. Some were invented by a transcription bug, review before acting._
+- [ ] [Guide log] Replace the snapped right rudder cable on the identified tandem kayak. _(Torey (audio log), 2026-08-18)_
+- [ ] [Guide log] Fix loose skeg on Kayak 7. _(Mark (audio log), 2026-09-05)_
+- [ ] [Guide log] Double-check the specific kayak mentioned for loose seating next time. _(Alex (audio log), 2026-08-14)_
+- [ ] [Guide log] Inspect and repair the blue tandem kayak with a hairline crack near the drain plug. _(Lucas (audio log), 2026-08-11)_
+- [ ] [Guide log] Replace fraying bungee cord on the front of one tandem kayak. _(Ryan (audio log), 2026-08-08)_
+- [ ] [Guide log] Repair one dry bag with a small tear. _(Tyler (audio log), 2026-08-08)_
+- [ ] [Guide log] Paddle number three blade is a little bit loose, needs attention. _(Captain Matt (audio log), 2026-08-02)_
+- [ ] [Guide log] Add lubricant to kayak 7's rudder. _(Josh (audio log), 2026-08-02)_
+
 ## High Priority
 - [ ] 🔴 **E-bike minimum age conflict — resolve before publishing anything.** David says 12 if they fit the bike. Both Wisconsin e-bike waivers (drafts pending attorney review) and the Guide Certification Quiz say 16. **Update Aug 15 (pass 40):** fleet class confirmed Class 2 (self-declared in `Waiver — Self-Checkout E-Bike Rental` line 23), which carries no Wisconsin state age minimum, that half of the blocker is closed. Only open step now: ask the carrier whether the policy itself sets a minimum operator age. If it clears, update the two waivers + quiz FIRST, then the page. (D)
 - [ ] **E-bike page: publish age + weight limits** once the above clears. Confirmed Aug 11 that neither the 285 lb weight limit nor any age minimum appeared anywhere on /e-bike-tours/, despite this being logged at **725 emails / high priority** in the FAQ Database. **Update Aug 14:** the live page has changed since Aug 11 — it now reads "Young adults ages 14-18 are welcome to ride their own bike accompanied by an adult." That's a third number (not the old 16, not David's proposed 12), it's not the minimum-age answer Michael Parham actually asked, and the 285 lb weight limit is still nowhere on the page. Someone edited this outside our staged fix. Worth finding out who and why before publishing the drafted block on top of it. **Re-checked Aug 15 (pass 40): identical text, still live, one full day later — this is now a settled edit, not a transient one, and still nobody's claimed making it.** Copy-paste page block + FAQ schema + draft reply still ready in `Marketing/Ebike Page Gap — Age & Weight Not Published (Aug 2026).md` (D/B)
