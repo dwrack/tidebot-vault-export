@@ -22,8 +22,8 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Sensory layer (touch, sound, scent, light) | designed on paper | Brief section 7; prototype pending |
 | Acoustics | designed + in model | Brief "Interior acoustics plan" |
 | Calyx, sepals, stem boom, leaf floats | done in model | |
-| Accessible route (wheelchair to at least one tier and one lounge) | open | Not designed. Needs to be in v0.18, not a retrofit |
-| Changing, showers, restrooms, host station, storage | open | Phase 1 ops trailer; nothing drawn |
+| Accessible route (wheelchair to at least one tier and one lounge) | open | Not designed. Now part of section 9 (land to water), not a retrofit |
+| Changing, showers, restrooms, host station, storage | open | **On land, up top** (Davey 2026-09-30). Planned in section 9 |
 | Lighting design (exterior "glow" and interior) | on paper | Brief section 7 |
 | Name | open | Send Nootka and Testout to the attorney (brief section 20) |
 | The Bud across the river | phase 2 site | Separate site and permit path. Davey has two more sites in mind: the Rose is the first of a series |
@@ -125,6 +125,102 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Cleaning, stones, gas maintenance, rubber recoat cycle | open |
 | Booking model in Periode (sessions, buyouts, swim-only) | open |
 | Season plan (swim July-Sept, sauna year-round) | open |
+
+## 9. Site plan: land to water, pathways and doors (added 2026-09-30)
+
+_Davey 2026-09-30: arrival, check-in and lockers live on land above the dock, and all the land up top is ours to design. Keep this overall plan and its to-do list here for future work. The detail is in `The Rose - Pathways and Capacity (Sept 2026).md` (sections 8-9 cover doors and the land side)._
+
+**The idea in one line:** land is the dry, shod, clothed world (arrive, check in, lockers, change, rinse, toilets, food); the dock is the robe walk; the Rose is barefoot, wet and hot. One-way loops wherever possible so people never walk against each other.
+
+### The guest journey (draft)
+1. **Arrive** on the bluff or gravel lot (bike, transit, rideshare, a little parking). Steelhead show nights share the lots from summer 2027.
+2. **Check in** at a host pavilion: wristband that opens a locker and runs a tab. No phones or wallets on the water.
+3. **Lockers + changing:** gendered rooms plus all-gender cabins.
+4. **Rinse** (required pre-sauna shower), robe and sandals.
+5. **Robe walk:** bluff, down to the dock, along the public dock (~60-70 m), S1 gangway onto the Rose. Covered robe drop at the dock head for rain.
+6. **The ritual on the Rose:** in through the hot-room vestibules, out the big door to the cold water, rest in the amphitheaters, crown later.
+7. **Back up:** warm showers, changing, lockers, food/drink on the bluff, leave.
+
+### Land-side program (planning sizes, est.; confirm once the session model is set)
+| Space | Rough size | Why |
+|---|---|---|
+| Check-in / host pavilion | 1 desk per ~50 arrivals in 15 min | Wristbands, waivers, towels |
+| Lockers | ~1.5x people on site at peak: ~150 at a 100-person round, ~250 for 170-person events | Sessions overlap while one group leaves and the next arrives |
+| Changing | Gendered rooms + ~8-12 all-gender cabins | Peak is the 15 min before a round |
+| Showers | ~10 heads for pre-rinse (100 people over ~20 min at 2 min each); ~15-20 if a whole session leaves together | Pre-rinse keeps the river and benches clean |
+| Toilets | Land block sized by the plumbing code, **plus 1-2 near the water** | A guest 2 hours into the ritual won't walk 100 m back up. Float or dock-head WC needs a pump-out or sewer line |
+| Towels / laundry, staff room, storage, gas meter + utilities | BOH yard | Staff routes stay separate from guests |
+| Food / drink on the bluff | Concession container (Phase 1) | Health + Fire Marshal; OLCC parked |
+| Accessible route | Bluff to dock to Rose | The existing dock gangway's slope at low water decides this. Check it on the site visit |
+
+### Doors: easy and quick to open, big enough to empty fast (the numbers are in the Pathways doc, section 8)
+- **Everyday doors (D1, D2): 0.9 m, light, glazed, no latch** (roller catch, soft closer), swing out. Each gets a **small vestibule** hidden in its screen petal (P6, P7), so the outer and inner doors are never open together. That cuts heat loss from latecomers and early leavers by most of the ~4 MJ a round would otherwise lose.
+- **Round-change door: a wide petal door, ~1.8 m (a pair of leaves)** on the cove side (now likely D1 facing the cold petal, see section 10), opened by the host only at the end of a round. It leads straight to the cold steps and the river. It's also the hot room's big egress door.
+- **One-way flow:** the round leaves by the big door toward the water while the next round enters through the vestibules at the same time. The turnover is ~1 minute instead of ~1.5 minutes today, and the heat loss about halves (~5.7 MJ vs ~10.4 MJ, est.). The burner makes that back in ~1-2 min.
+- **What still limits flow is the room beyond the door, not the door.** The big door needs a ~1.5 m stepped aisle inside and a wide deck to the water outside, or it just moves the jam.
+- **Code check:** egress doors want 80 in (2.03 m) clear height; the model's doors are 2.0 m. Lower doors hold heat better (~16% less loss at 1.8 m), but code likely wins.
+
+### To do (future work, in order)
+- [ ] **Land survey + base map** of the bluff, gravel lot, beach, and the existing dock ramp (slopes at high and low river). Everything land-side needs it. Ties to Holman Pilot Plan Phases 1-2.
+- [ ] **Session model**: round length, rounds per session, session length, overlap. This sets locker, shower and changing counts.
+- [ ] **Land-side concept plan**: 2-3 layouts for the pavilion, lockers, changing, showers, toilets, BOH on the bluff + gravel lot (Phase 1 trailer vs Phase 2 building).
+- [ ] **Robe walk**: rain cover at the dock head, privacy on a shared public dock, night lighting, where shoes come off.
+- [ ] **Toilets at the water**: float WC vs dock-head WC; pump-out vs sewer.
+- [ ] **Inner lane on the float** (1.1 m ring between hot room and fire roses). Pathways doc, Fix 1.
+- [ ] **Stem root at G2** + fix the D3 / kids' slide / ramp-foot pile-up. Pathways doc, Fix 2.
+- [ ] **Doors in the model**: vestibules in P6/P7, big petal door on the cove side, stepped aisles inside, cold steps outside.
+- [ ] **Accessible route** end to end: lot, bluff, dock, gangway, Rose, one tier, one lounge.
+- [ ] **Staff + service routes**: towels, gas, stove service, DJ load-in, trash, stretcher route.
+- [ ] **Crown service stair** (crown spec decision 2).
+- [ ] **Stem to the fire pier as an emergency route?** (Pathways decision 4)
+- [ ] **Interactive site plan artifact**: land + dock + Rose with layers (guest journey, staff, egress, accessible, crowd density at 100/170, round-turnover timer). Build once the survey and session model exist.
+- [ ] **Crowd/egress simulation** by the fire engineer (Pathfinder or similar) once drawings are real.
+
+## 10. The cold side: plunge buckets, river falls and rinse showers (added 2026-09-30)
+
+_Davey 2026-09-30: the back of the sauna, opposite the swim cove, gets the plunge buckets, river-pumped waterfalls and rinse showers. A few fresh-water showers go under the slide petal too._
+
+**Where:** the river side of the flower (west/southwest), across from the swim cove.
+- **Recommendation: turn P5 (the southwest lounge petal) into the cold petal.** It sits between doors D1 and D2, so it's a few steps from either door, and it faces away from the cove.
+- The west lounge P4 stays a lounge with the river and downtown view.
+- The petal's inner face becomes the wall of the falls, and its rim becomes the spillway. The water pours off the edge of a rose petal, so the falls add to the flower instead of bolting onto it.
+
+**What goes in the cold petal:**
+| Element | Spec (from the Waterfall Plunge brief where it applies) |
+|---|---|
+| River falls | 3 falls off the petal rim: a 2 ft sheet, a column, an angled massage jet. Drop 7-8 ft, push button, 180 s cycle, one ~8,000 GPH pump + manifold, moss and stone on the petal's inner face. Same system as The Cascade on the current docks |
+| Plunge buckets | 4-6 tipping buckets on pull chains, ~10-20 L each, hung from the petal ribs, refilled from the same river manifold |
+| Cold rinse | 2-3 plain river-water rain heads for people who want cold without the drama |
+| Deck | Drained grating or PIP rubber, falling to the river. River water goes straight back to the river |
+
+**Fresh-water showers under the slide (P2, cove side):**
+- 3-4 heads under the slide's rising curve. This is the rinse after a river swim, before going back into the heat.
+- Lukewarm fresh water off a small heater on the gas service. No soap on the float: soap stays on land.
+- Check the headroom under the slide (needs ~2.1 m at the heads) once it's in the model.
+
+**The ritual loop this sets up:**
+1. Gangway, then a rinse at the slide showers.
+2. Hot room.
+3. Out to the cold petal (falls, buckets), or around to the cove to swim.
+4. Rinse under the slide after a swim.
+5. Rest in the amphitheaters or on the crown.
+6. Repeat.
+
+**What it changes elsewhere:**
+- **The big round-change door should face the cold petal, not the cove.** Most people go cold first. My pick is D1 (west): D2 is where the gangway lands, and swimmers can take the inner lane around to the cove. This replaces the cove-side door in section 9 and Pathways decision 10.
+- **Spray and wind:** summer wind is NNW, so spray from the falls blows toward D2 and the gangway. The petal's side walls need to catch it.
+- **Sound:** the falls are good white noise for the lounges. Mount the pump off the hull on isolators so it doesn't hum through the float.
+- **Summer water temperature:** the Willamette runs warm in late summer (often around 70°F in August; check the USGS gauge). The falls will feel cool, not cold, in August. If that matters, one chilled bucket line is the cheap fix.
+- **Fresh water supply:** the dock has no water. Options are the fire-station potable line the Holman plan already asks for, or tanks on the float refilled from land.
+
+### To do
+- [ ] Pick the petal: P5 as the cold petal (my pick), or split it between P5 and the D1 pocket.
+- [ ] Move the big petal door to D1 facing the cold side (update the Pathways doc and section 9).
+- [ ] Model it: falls off the P5 rim, buckets on the ribs, showers under P2, drained deck.
+- [ ] Learn from The Cascade build on the current docks (Grant, ~Nov-Dec 2026) before sizing the Rose version.
+- [ ] Headroom and drainage under the slide.
+- [ ] Fresh-water source + small heater for the slide showers.
+- [ ] Pump intake cage off the hull, same screen approach as The Cascade brief.
 
 ---
 

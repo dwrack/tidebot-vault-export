@@ -262,3 +262,94 @@ _2026-09-30_
 **What changed:** T1 is now seat-steps instead of a plain stair. Same route (from the deck by fire rose F1, wrapping around the fire along the inside of P1, up to crown height at C7), but rows 2-4 climb in 8 bench-height steps (~39 cm rise, ~87 cm deep), so every step is a seat. Rows 0-1, on the fire side, are an aisle doing the same climb in 16 half steps (~20 cm) for walking. The seat steps sit against the rim ramp (T2), which works as their backrest.
 
 **Open:** bench length per step is ~1 m (2 people side by side); widening the band would take seats from the lower stadium rows. People sitting on the steps face along the petal with the fire beside them, not straight at it.
+
+## v0.43: Guards over anything hard
+_2026-09-30_
+
+**Davey:** "anything over a hard surface should have a railing obvi for the jump petal."
+
+**What changed (P1 only):** 42 in (1.07 m) glass guards with a slim steel top rail and posts, placed automatically wherever a fall from the jump petal would land on something hard and the drop is more than 30 in (0.76 m, the usual code trigger for a guard):
+- outer edge of the rim ramp T2, where it's over the float deck or the sauna roof (open where the fall line is 4 ft or more past the float edge: the jump edge)
+- inner edge of T2, above the seat steps and seat rows
+- fire-side edge of the T1 aisle where it climbs high over the deck and roof
+Low stretches near the deck (under 30 in) stay open.
+
+## v0.44: Buoyed climb and jump zones; stepping stones gone
+_2026-09-30_
+
+**Davey:** "make a bouyed section where climbers would fall inside and jumpers would fall outside." Then: "remove the weird green stepping stones around the bottom of the flower"
+
+**What changed:**
+- **S13 buoy line:** orange and white floats arc ~1.5 m outside the top of the climbing wall W1 and close back to the float edge at both ends.
+- **S11 Climbers' fall zone:** the pen of water between the wall and the buoy line. A climber who peels off lands inside it.
+- **S12 Jump landing zone:** outside the line. Jumpers push off the rim and land here; a looser arc of yellow buoys ~7 m out marks its outer edge. Needs ~12-13 ft of water at low river (soundings still owed).
+- The 12 flattened green lobes along the kids' sepal slide G6 (meant as feathered climb-out steps) are removed; they read as stepping stones. G6 now needs another climb-out idea.
+
+**Open:** jumpers need to clear ~1.5 m of pen plus the wall's overhang, so the push-off distance from the rim matters; worth a test with a lifeguard lead before fixing the line position.
+
+## v0.45: The stem walks onto the flower
+_2026-09-30_
+
+**Davey:** "where does the stem start on the rose? it seems to be cut off from any walking access, wtf?" Then, after a plan sketch: "i do like updating the walkability of the stem onto the rose platform."
+
+**What was wrong:** the stem was placed in v0.9 as a swim boom and never moved when v0.19 made it walkable. It started under the back wall of the bridge petal P3, on a hump ~0.6 m above the deck, with no deck leading to it.
+
+**What changed:**
+- The stem now grows out of the gap between the bridge petal P3 and the west lounge P4 (sepal G2, the river side).
+- Sepal G2 lies flat as the **stem landing**: same green as the deck and flush with it (~1.45-1.6 m wide), running from beside the hot room out to the float edge, where the 1.5 m stem walkway picks up. No step, no hump.
+- The boom leaves the float at water level, runs out past P3's rim, then bends north to the fire station pier as before. The leaves, thorns, cleats and walkway end are unchanged.
+- New camera: "Stem landing". G2 relabeled "Sepal (stem landing)".
+
+**Open:** the doors aren't settled, so nothing on the deck changed. From the gangway, the G2 gap still has no flat deck route to it (see `The Rose - Pathways and Capacity (Sept 2026).md`, the inner lane). The other four sepals still curl to the water.
+
+## v0.46: No railing on the stem
+_2026-09-30_
+
+**Davey:** "remove the railing on the stem."
+
+**What changed:** the posts and top rail along the stem walkway's river side are gone. The 1.5 m walkway is open on both sides, like a dock. The boat cleats, thorns, leaves and the G2 landing are unchanged.
+
+## v0.47: Green wall and a standing lounge between P4 and P5
+_(built on v0.46; first drafted as a second 'v0.45' while another session published v0.45-v0.46, renumbered)_
+_2026-09-30_
+
+**Davey:** "in between the west lounge petal and southwest lounge petal, i want to push that little wall back to the sepal petal, make it green and add hang out space to just stand"
+
+**What changed:**
+- P6 (the screen petal in front of door D1) moved back ~0.5 m, from r 6.85 m to r 7.35 m, so it stands on sepal G3 at the float edge. It's now calyx green, so from the water it reads as part of the base instead of another petal.
+- **G7 Standing lounge (new label):** the ~2.5 m deep pocket between door D1 and the wall, with P4 on one side and P5 on the other. Open deck to stand around in, with a wood lean ledge at 42 in along the inside of the wall. No seats on purpose.
+
+## v0.48: The slide petal for groups (E5)
+_2026-09-30_
+
+**Davey (via the slide-petal session):** groups of 2-5 climb together up the heel, a launch pad, a steep drop, a flat runout, and a tip that curls under.
+
+**What changed (P2 only):** buildFallenPetal replaced with the slide-petal session's drop-in (`Iterations/_candidates/slide-petal-group-stair-and-curled-exit.js`; background in `The Rose - Slide Petal Study (Sept 2026).md`):
+- 3-lane ship's-ladder stair (~65 deg, 9 treads) up the heel's inner face, ~1.9 m wide at the foot tapering out to ~2.7 m at the lip.
+- 4 handrails formed as petal veins, 0.9 m over the nosings, curling over the crest as grab handles; a grab bar across the launch pad.
+- Petal moved ~1.2 m out from the hot room (heel base r 6.05 m, was 4.95) to open a ~1 m climbing slot.
+- New exit: steep drop, ~2.3 m runout at ~5 deg about 0.5 m above the water, tip curls under the surface at ~14.5 m from center (mesh reaches ~15.2 m).
+- 2 interim curved ribs under the blade replace the 2 steel legs (engineering to size).
+
+**Clearance checks (measured in the model):** nearest slide surface is 2.7 m clear of the S1 gangway edge (2.6 m up at that point) and 2.2 m clear of the G6 kids' sepal slide edge at deck level. No crowding.
+
+## v0.49: Rain curtains under the slide petal
+_2026-09-30_
+
+**Davey:** "add some rain waterfalls under the slide pedal"
+
+**What changed:** three perforated rain rails (slim steel tubes) run under the slide blade P2, following its curve from just past the lip out toward the runout. Each drops an animated curtain of rain into the water below, with faint foam where it lands, so you can swim under the slide into a downpour. New label R1 Rain curtains. Where a curtain is over the float deck it lands on the deck instead.
+
+**Open:** water source and flow rate (river pump + filter vs. potable), whether it runs during slide sessions or only between them, and winter shutoff. Relates to the parked Downpour idea.
+
+## v0.50: Walk-under waterfall pad; real people
+_2026-09-30_
+
+**Davey:** "the actual waterfall should be over the pad under the stairs where kids and people can walk under it." Then: "also can you make up more realistic people instead of the little white blobs"
+
+**What changed:**
+- **R2 Waterfall pad (new):** a green pad at deck level under the slide petal's heel and the start of its blade (r ~7.0-9.35 m, ~3.5 m wide, rounded petal shape), carried past the float edge on a small float extension. Headroom 2.4-3 m. A darker wet zone marks where the water lands.
+- **R1 Rain curtains:** the three rain rails now run only over the pad, so the curtains land on it and you walk under them. The v0.49 curtains over open water and the foam patches are gone.
+- **People:** the white blobs are replaced everywhere with ~1.7 m figures (legs, arms, torso, head, hair; 6 skin tones; swimsuits and trunks in 8 colors). Anyone on a hot room tier, amphitheater row or seat step sits, facing the stove or their petal's fire. Kids are ~1.2 m. People lying on leaves and the slide keep their pose.
+
+**Open:** the two support ribs cross the pad's edges; the walking lane between them is ~2.3 m. Drainage off the pad back to the river (or filtered return) is still to design.

@@ -105,18 +105,46 @@ Rough week: **~40% fun work, ~60% the work that keeps things running.** The fun 
 
 **NOT theirs:** Dustin exit, owner pay, legal, pricing, strategy, anything Slip 7, The Rose / Holman (off the record), anything that speaks for Davey or Jonah on money or people.
 
-## Career path (the pitch)
+## Career path (internal, 2026-09-30)
 
-The Oslo plan says 2031 = a network of Elevated Tides sites run by operators, not owners. That's the honest pitch: every new site needs someone who already knows how the machine runs.
+Public version lives in [[Hiring — Job Description + Social Post (Sept 2026)]]. Pay bands stay vague (Davey's call). The public copy says "new saunas and experiences" and "every site we run," nothing about specific sites, Holman, or the Oslo plan.
 
-| When | Role | Scope |
-|---|---|---|
-| Now | Business Operations Assistant | Executes assigned tasks, 20-30 hrs, $25-35/hr |
-| ~Year 1 | Operations Coordinator | Owns a lane (guest experience or vendor ops), small spend limit, full-time option |
-| ~Year 3 | Operations Manager | Runs day-to-day for Ebb & Ember, manages contractors + the facilities hire |
-| ~Year 5 | Site GM / Director of Ops | Opens or runs a new ET site |
+| When | Role | Unlocks when they... | Ties to |
+|---|---|---|---|
+| Now | Operations Assistant | — | Assigned tasks, 20-30 hrs |
+| Year 1 | Operations Coordinator | Close their list without reminders for 6+ months; weekend hosting runs smooth | Owns a lane, small spend limit, W-2, full-time option, trains weekend hosts |
+| Year 3 | Operations Manager | Can run a month without Davey or Jonah on the dock | V2 privates + new programs at full volume; manages hosts, vendors, works with the facilities hire |
+| Year 5 | General Manager | Hits a budget + guest targets for a full year | ETE charter boat (May 2027 target) and new experiences need an operator |
+| Year 10 | Director of Operations | Has built GMs under them | Oslo plan: 2031 = ET site network, "owners not operators" |
 
-Future pay bands are not set. Decide them before you promise anything specific in an interview (question 3 below).
+Owner decision before promising year 5-10 out loud: is there profit share or a bonus pool at GM / Director level? Leave it out of public copy until you decide.
+
+## Year 0: the rotation (months 1-12, added 2026-09-30)
+
+A testing ground. They touch most of how the place runs, we find out what they're great at, and at month 12 they pick (and earn) a lane for the Coordinator role.
+
+Each quarter has one **focus area** (about half their hours). The daily basics (inbox, Slack, lists) run all year underneath. Start ~Nov puts guest-facing work first, right as winter peak hits.
+
+| Months | Focus | What they do | What we learn |
+|---|---|---|---|
+| 1-3 (Nov-Jan) | **Guests + front of house** | Inbox, Periode, waivers, weekend hosting, first-timer walkthroughs, first on-camera videos | Are guests happy around them? Can they handle a full Saturday? |
+| 4-6 (Feb-Apr) | **Events + experiences** | Member nights, themed nights, aufguss support, World Sauna Day (Apr 25-27), partner events | Can they run a night start to finish? |
+| 7-9 (May-Jul) | **Brand + growth** | Content with Kimberlynn, creator + UGC outreach, lodging + brand partnerships, website updates with Jess | Do they bring in people and ideas, or only execute? |
+| 10-12 (Aug-Oct) | **Ops + projects** | Vendors, Grant's build list, punch list, Elevated Tides slip-holder admin, simple monthly numbers (bookings, reviews, events) | Can they keep 20 threads moving without reminders? |
+
+**Monthly 30-min check-in (Davey or Jonah):** score the month's area 1-5 on two things, skill and energy. Energy matters as much as skill: the lane they light up in is the one they'll own well.
+
+**Month 12:** the two highest-scoring areas become their Coordinator lane. Anything they scored low on gets handed to the next hire.
+
+## Full-time vs a second hire
+
+**Recommendation: one person, 20-30 hrs to start, full-time by month 4-6 if it's working.** The rotation only works if one person sees the whole workflow. Two ops people splitting it means two half-pictures.
+
+The gap full-time won't cover is weekend + event coverage. Fill that later with **part-time weekend hosts** (hourly, lower rate) who report to this person. That's also their first taste of managing, which is the Year 1 job.
+
+**Decided (Davey, 2026-09-30): one person.** No second hire or finalist bake-off for now.
+
+Budget at full-time: 40 hrs x $30 = ~$5,200/mo before payroll tax.
 
 ## Job posting (v2, copy-mentors + copywriting-2.0 pass, 2026-09-30)
 
@@ -129,7 +157,7 @@ Hook line: A (Ogilvy, specific), picked + edited by Davey 2026-09-30.
 >
 > Your office is a floating sauna on the Columbia River, with a view of Mt. Hood.
 >
-> Ebb & Ember is Portland's floating sauna. Guests get hot, climb down into Cascade snowmelt, then sit on the deck doing nothing for a while. We opened January 1, 2026. More than half our guests have already come back. Two new private saunas go on the water this fall.
+> Ebb & Ember is Portland's floating sauna. Guests get hot, climb down into Cascade snowmelt, then sit on the deck doing nothing for a while. We opened January 1, 2026. Two new private saunas go on the water this fall.
 >
 > Guests see the calm. You'd run the part they don't see.
 >
@@ -160,7 +188,7 @@ Hook line: A (Ogilvy, specific), picked + edited by Davey 2026-09-30.
 > **To apply**
 > Email davey@ebbandember.com with your resume and a few lines about a time you took something messy and got it under control. Skip the cover letter. If it's a fit, we'll ask for a short phone video next.
 
-Before posting, confirm: (1) OK to say "more than half our guests have already come back" publicly (from the 58% repeat rate, internal Periode analysis). (2) Contract line matches Jonah's W-2 vs contract call.
+Before posting, confirm: (1) Contract line matches Jonah's W-2 vs contract call.
 
 ## Interview filters
 

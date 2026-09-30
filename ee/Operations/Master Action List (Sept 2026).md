@@ -40,7 +40,7 @@ Sorted by priority. This is the day-1 queue.
 | H9 | Periode: SMS follow-up through Periode | E&E | P2 | New Hire | S | Live note P2 | Yes | SOP-1 |
 | H10 | Periode: door code on waiver page, gift card → membership payment, monthly bookkeeping report | E&E | P3 | New Hire | S | All "in progress with Periode," no follow-up on file | Yes | SOP-1 |
 | H11 | Signage: get first round to print. Covers the 10 river-safety signs, exit door, no lifeguard, changing room, life ring "emergency only" sticker, bathroom/shower | E&E | P2 | Jess designs, New Hire chases + orders, Facilities hire installs | L | Promised 8/21, 8/28, 9/8. Nothing printed. Laminated temps are up | Assist | SOP-4 |
-| H12 | Boater + houseboat sauna discount email (owners set the %) | ET | P2 | New Hire drafts | M | Live note P2. No % found in email, vault, or past sessions. Only reference: "mirror Sesame Collective?" (Sesame = 15% customers, 30% employees) (Q3) | Yes | SOP-2 |
+| H12 | Tell marina tenants about the 20% sauna discount: boaters, floating-home tenants (and neighbors). Set up a Periode discount code, draft the email/text + a dock flyer, Jonah approves, send to the Dockwa list | ET | P2 | New Hire drafts, Jonah approves | M | 20% across the board (Davey to Jonah, 2026-04-07); reassess at year end. Only sent 1:1 so far, never announced to all tenants | Yes | SOP-2 |
 | H13 | Weekly newsletter: build a repeatable template in ActiveCampaign | E&E | P2 | New Hire | L | Live note P2 "hone weekly newsletter" | Yes | SOP-2 |
 | H14 | Member referral announcement email (25% referral is live in Periode) | E&E | P2 | New Hire drafts | M | L offered a member email in Slack; no answer | Yes | SOP-2 |
 | H15 | Dockwa: 5 stale slip-holder follow-ups (Schnur, Hurt, Dawson, Mick, Fitzpatrick). Drafts for Jonah | ET | P2 | New Hire drafts, Jonah approves | M | Open since May. Hurt clause + Fitzpatrick $925 math need Jonah. Drafts only; Jonah decides on direct texting after the hire starts | Assist | SOP-3 |
@@ -88,16 +88,22 @@ Sorted by priority. This is the day-1 queue.
 | H57 | Set up a toilet paper subscription | E&E | P2 | New Hire (owner approves) | S | New 9/30 | Yes | SOP-14 |
 | H58 | Set up a paper towel subscription (match the dispenser) | E&E | P2 | New Hire (owner approves) | S | New 9/30 | Yes | SOP-14 |
 | H59 | Cleaner oversight: get the cleaners' schedule, inspect their work against a checklist, log each visit so Jonah can pay accurately, keep soap/shampoo/paper stocked | E&E | P2 | New Hire | S/visit | Jonah asked for this help in #sauna-improvements (Jul). New 9/30 | W-2 | SOP-18 |
-| H60 | Rain garden water flow: help figure out the design (where water comes from, where it goes, plants, cost, who builds) | E&E | P2 | New Hire researches, owners decide | L | New 9/30. Details from the owners' talk aren't written down anywhere Claude can see (Q5) | Yes | SOP-12 |
+| H60 | Waterfall plunge (river-pumped falls, "rain" room) support: measure the spot by the lounge (outlet distance, clear water under the intake), get live quotes for the BOM (8,000 GPH pump + spare, screen cage, 2" manifold, weirs, timer relay, button, GFCI), moss/fern wall options for the shaded wall, file The Well photos for Grant + Kyle. Brief: `Operations/Waterfall Plunge — Design Brief (Sept 2026).md` | E&E | P3 | New Hire researches, owners decide, Grant builds after V2 (~Nov-Dec) | L | Brief has design decisions; name + exact spot still open | Yes | SOP-12 |
+| H61 | Gates at the top of the ramps: options + quotes (lock type, code/keypad vs key, who gets access, signage on the gate) | ET | P2 | New Hire researches, owners decide | M | New 9/30. Related: Slack thread on keeping non-bookers out of the sauna space | Yes | SOP-12 |
+| H62 | Marina Wi-Fi: map where coverage is needed (docks, ramps, parking, cameras), get 2-3 quotes (mesh/outdoor access points, ISP) | ET | P2 | New Hire researches, owners decide | M | New 9/30. Lounge already has internet | Yes | SOP-12 |
+| H63 | Parking lot cameras: coverage plan + quotes. Match the existing Blink system unless there's a reason not to | ET | P2 | New Hire researches, Davey decides | M | New 9/30. Current Ebb cams cover the dock/lounge, not the lot. Needs H62 if Wi-Fi | Yes | SOP-12 |
 | H61 | V2 photo shoot: book the shoot once the 2 privates are finished (Kimberlynn or a photographer), file to `Assets/Photos/<date>/`, flag any faces for the privacy hold | E&E | P1 | New Hire | M | Offsite 9/30. Needed for website + Periode listing | Yes | SOP-11 |
 | H62 | V2 in Periode: draft the 2 private-sauna products (names, descriptions, photos, capacity, slots). Owners set pricing (O8) and approve before go-live | E&E | P1 | New Hire drafts, owners approve | M | Offsite 9/30. Rock #3: bookable before Thanksgiving | Yes | SOP-1 |
 | H63 | V2 website pages: write the brief for Jess (copy, photos from H61, booking link from H62). Update the current Squarespace site, not the full rebuild | E&E | P1 | New Hire → Jess | M | Offsite 9/30. Full rebuild stays parked to Jan | Yes | SOP-2 |
-| H64 | Sauna Airstream freight: get 2-3 quotes to ship it from Door County, WI to Portland (dimensions, weight, trailer vs flatbed) | E&E | P3 | New Hire | M | Offsite 9/30. Quotes only, no booking | Yes | SOP-12 |
+| H64 | Sauna Airstream freight: get 2-3 quotes to ship it from Door County, WI to Portland (dimensions, weight, trailer vs flatbed) | E&E | P1 | New Hire | M | Offsite 9/30. At the marina in 1-3 months. Quotes only, owners book | Yes | SOP-12 |
+| H71 | Willamette Sauna Festivaali (Milwaukie): confirm the 2027 dates, exhibitor/vendor signup and deadlines, and what they need to bring a floating sauna in. Plan for towing the Airstream float down from the marina | E&E | P2 | New Hire | M | Offsite 9/30. 3-6 month goal | Yes | SOP-12 |
+| H72 | Winter revenue push: December gift card campaign + 12+ posts/month in Nov with Kimberlynn. Target Sept-Dec at or above ~$169K (rock #5) | E&E | P1 | New Hire drafts, owners approve | L | Plan 9/28. Gift cards sold $3.2K last Dec on a much smaller base | Yes | SOP-2 |
 | H65 | Marina slip cabanas: research + unit economics (who else does it, build/buy cost per unit, price per day, how many slips, what the insurer needs) | ET | P3 | New Hire researches, owners decide | L | Offsite 9/30. Start in Jan. Target live by Memorial Day 2027 | Yes | SOP-12 |
 | H66 | Food concept research: oyster/ceviche bar, juice bar, focaccia, perpetual soup. Oregon/Multnomah permits (raw shellfish especially), commissary kitchens, 3-5 local pop-up partners who could test it with us, what similar spots charge. No alcohol on our license | ET / E&E | P4 | New Hire researches, owners decide | L | Offsite 9/30. No timing set, do it when there's room | Yes | SOP-12 |
 | H67 | Social sauna rebuild downtime (~5 Grant days): pick the closure days with owners (slowest days, Tue first), block Periode ahead of time, email/text members + upcoming bookings, reschedule anyone affected | E&E | P1 | New Hire (owners approve dates) | M | Offsite 9/30. Right after V2 | Yes | SOP-1 |
-| H68 | IV hydration research: Oregon rules (medical director, who can place IVs), 3-5 Portland mobile IV companies that would run it on site for a revenue share, their pricing + insurance | E&E | P2 | New Hire researches, owners decide | M | Offsite 9/30. Confirm IV drips vs retail packets first (O22) | Yes | SOP-12 |
+| H68 | IV hydration research: Oregon rules (medical director, who can place IVs), 3-5 Portland mobile IV companies that would run it on site for a revenue share, their pricing + insurance | E&E | P2 | New Hire researches, owners decide | M | Offsite 9/30. IV drips confirmed 9/30. Get both models priced: own business vs operator % | Yes | SOP-12 |
 | H69 | Practitioner build-to-suit research: demand (local LMTs, therapists, practitioners looking for space), what Portland rooms rent for, lease vs session-split models, insurance/license checklist for tenants | ET / E&E | P2 | New Hire researches, owners decide | M | Offsite 9/30 | Yes | SOP-12 |
+| H70 | ~~Look up the ET upland zone~~ **DONE 9/30 by Claude: CE (Commercial Employment) + c/h/x overlays. All planned uses allowed.** See the Title 28 brief | ET | done | Claude | S | | | |
 
 ---
 
@@ -129,6 +135,9 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | F20 | Rearrange cameras per the Camera Coverage Review + add 1 on the V2 cold plunge | E&E | P3 | Davey | M | Wait for V2 to land |
 | F21 | Oil stairs, shower curtain upgrade | E&E | P4 | Facilities hire (Jonah) | M | Open |
 | F22 | ET exterior signage + replace CNW signs | ET | P4 | Jess designs, Facilities hire installs | L | Open |
+| F23 | Install ramp-top gates (after H61) | ET | P2 | Facilities hire (Jonah) or vendor | L | New 9/30 |
+| F24 | Install marina Wi-Fi (after H62) | ET | P2 | Vendor / Davey | M | New 9/30 |
+| F25 | Install parking lot cameras (after H63) | ET | P2 | Davey / Facilities hire | M | New 9/30 |
 
 ---
 
@@ -152,12 +161,21 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | O14 | Occupancy vs bookings analysis | P4 | Davey | Deferred until V2 is built |
 | O15 | The Rose / Holman Dock / City talks (incl. Brandon's 8/18 email, and the Rose "leafs" vs shoreline cabanas options from the 9/30 offsite) | n/a | Davey + Jonah + Hannah B | Off the record. Never in the hire's view |
 | O16 | Downpour productization, Raft-Up | n/a | Davey | PARKED 2026-09-28 |
-| O18 | Sauna Airstream: ownership setup (lease / sell / contribute to ETE, run past Todd + Jonah), floating dock build or buy, where it moors | P3 | Davey + Jonah | Offsite 9/30. After Oct 16 (new OA CapEx rules) |
+| O18 | Sauna Airstream: ownership setup (lease / sell / contribute to ETE, run past Todd + Jonah), floating dock (option: the brick float) or buy/build, where it moors, tow plan to Milwaukie | P1 | Davey + Jonah | Offsite 9/30. After Oct 16 (new OA CapEx rules) |
 | O19 | Marina slip cabanas: go/no-go + budget, after H65 and a written yes from the insurer | P3 | Davey + Jonah | Offsite 9/30. Decide by Feb 2027 |
 | O20 | Food: where it lives (marina / E&E deck / Holman), run it ourselves or a partner, go/no-go on a pop-up test, and when | P4 | Davey + Jonah | Offsite 9/30. No timing set. After H66 |
 | O21 | Grant's queue sign-offs: social rebuild layout (seat count gained, door side, bench design), waterfall go, marina Rose scope + budget (spend over $10K after Oct 16) | P1 | Davey + Jonah | Offsite 9/30 |
-| O22 | IV hydration: IV drips or retail packets? Own it or partner? Which entity holds the medical liability? | P2 | Davey + Jonah (+ Todd Key) | Offsite 9/30. 1-3 month plan |
-| O23 | Practitioner spaces: where, how many rooms, rent model, who builds (Grant is booked through Dec) | P2 | Davey + Jonah | Offsite 9/30. 1-3 month plan |
+| O22 | IV hydration (nurse-run drips, decided 9/30): build our own (hire nurses + medical director) or bring in an operator for a %? Which entity holds the medical liability? | P2 | Davey + Jonah (+ Todd Key) | Offsite 9/30. 1-3 month plan |
+| O23 | Practitioner spaces: where (option: Grant builds out the gifted floating structure, bigger than the brick, ours to use as we please), how many rooms, rent model, and where it sits in Grant's queue | P2 | Davey + Jonah | Offsite 9/30. 1-3 month plan |
+| O24 | Building on the water: book one BDS early-assistance meeting covering the whole marina plan, pick one Oregon Engineer of Record, confirm the V2 floats' permit status, ask about the "c" environmental overlay for new floats/piling | P1 | Davey + Jonah | See `Building on the Water — Title 28 Brief (Sept 2026).md` |
+| O25 | Restated OAs: new ownership % + stalemate/deadlock clause (tiebreaker advisor, rotating deciding vote, or buy-sell trigger). Term sheet to Migchelbrink by Oct 15 (rock #2) | P1 | Davey + Jonah | Offsite 9/30 near-term goal |
+| O26 | Income + roles for L and Jac: define each role, pay, which entity pays | P1 | Davey + Jonah | Offsite 9/30 near-term goal |
+| O27 | Turn $300K each + L/Jac pay into a revenue + margin target per entity (sets decision 7, the 1-year target) | P1 | Jonah (CPA) | Offsite 9/30 |
+| O28 | Real P&L + cash forecast, one sheet per entity, monthly (rock #6) | P2 | Jonah | Plan 9/28. Needed for O27 |
+| O29 | Retirement plan type per entity with the CPA, before year-end deadlines | P2 | Jonah | Plan 9/28 backcast |
+| O30 | ~~Paper the ETE to ET intercompany loan ($250,940)~~ **DONE: signed (Davey 9/30)** | done | Davey + Jonah | |
+| O31 | ETE charter boat (live May 1, 2027): by Oct 31, maritime attorney + insurer questions asked, budget + entity agreed | P2 | Jonah (his idea) | Plan 9/29 |
+| O32 | Gifted float: what goes on it (practitioners / IV / food), layout, Engineer of Record, and its slot in Grant's queue | P2 | Davey + Jonah | Offsite 9/30 |
 
 ---
 
@@ -193,8 +211,8 @@ Answered 2026-09-30 and applied: member meeting (removed), purchases (all approv
 
 1. Next member or themed night: date and partner? (still open)
 2. Waiver (H2): the Todo "High" items are "add pregnancy disclaimer" and "identify other missing medical conditions (heart conditions, medications)." It's new warning/acknowledgment lines on the guest waiver. Want Todd to look at it, or you + Jonah sign off?
-3. Boater/houseboat %: nothing in sauna@ or davey@ email, the vault, or past Claude sessions. Slack search and iMessage are blocked on this Mac. The only written reference is "mirror Sesame Collective?" (15% customers / 30% employees). Go with 15%?
+3. ~~Boater %~~ ANSWERED: 20% across the board (your Apr 7 text to Jonah).
 4. Sauna insurance: which carrier/broker, and what's the renewal date? Who's on the policy account, you or Jonah?
-5. Rain garden: where did the talk happen (text, Slack, in person)? One line on the idea so the hire starts from it.
+5. ~~Rain garden~~ ANSWERED: it's the waterfall plunge (H60).
 6. After month 1, what's the auto-buy limit per item (I'd say $100)? Company card or reimburse?
 7. Ramp wheels (P1, structural damage every low tide) have nobody until the facilities hire starts. Stay parked, or pay someone one-off?

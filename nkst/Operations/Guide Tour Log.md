@@ -1,7 +1,27 @@
-# Guide Tour Log (Audio + Photos/Video)
+# Guide Tour Log (Written + Photos/Video)
 
-Required for every tour. Two voice recordings in the Slack channel (one before you leave, one when you're back) plus 2 short videos and 2 photos when you're done. The whole thing takes about 3 minutes total. This is an insurance requirement and it helps us all get better.
+> **Update Sept 2026: logs are WRITTEN now, not audio.** Post the Pre-Tour / Post-Tour checklist as a text message in #new-orleans-kayak-swamp-tours after every tour (template is pinned in the channel). Other guides can read it at a glance, and TideBot files it into Guide Logs automatically. The audio instructions below are kept for reference only.
 
+**Written template (copy from the pin):**
+
+```
+*Pre-Tour:*
+- Date / Time / Manchac / Name
+- Waivers signed?
+- Safety briefing completed & guests in PFD's?
+- Weather & water conditions checked & safe?
+- Any other guest safety concerns (medical/intoxication)?
+- Emergency gear and guide bag present?
+*Post-Tour:*
+- Pre & Post Guest Count:
+- Any incidents? (Injuries, capsizes, near-misses, weather, and/or unsafe behavior?)
+- Any gear / van / trailer issues?
+- Any Piety St. Issues?
+- Van pre&post condition:
+*Other Notes:*
+```
+
+If no log shows up about 2 hours after the tour's scheduled end, the reminder watcher tags the assigned guide in the channel. It checks twice before posting.
 ---
 
 ## Recording 1: Pre-Tour Check-In

@@ -244,7 +244,8 @@ Not written yet. The vault's `SOPs/... Pre-Tour Preparation` and `... Guest Comm
 | H55 | Trash bags + supplies | 14 | Reorder list | Par levels never hit zero | |
 | H56-H58 | Water filter, TP, paper towel subscriptions | 14 | Check product on site first | Each subscription approved, running, logged in the table | Cost jumps or item discontinued |
 | H59 | Cleaner oversight | 18 | Cleaners, Jonah | Weekly visit log + checklist results | Two misses in a month |
-| H60 | Rain garden water flow | 12 | Owners (details TBD) | One-pager: water source, flow path, plant list, cost, who builds, any marina/city permit question | Anything touching the river or needing a permit |
+| H60 | Waterfall plunge support | 12, 4 | Brief + mood board (`Assets/Waterfall Plunge/`), #sauna-improvements canvas, Grant (after V2), Neil (electrician) | On-site measurements filed, BOM with live prices, 2-3 wall/planting options, The Well photos in `Assets/` | Any change to a decided design item goes to owners |
+| H61-H63 | Ramp gates, marina Wi-Fi, parking cams | 12, 4 | Vendors; Blink app for current cams (1Password) | One-pager per item: 2-3 options, cost, install, pick | Anything over the spend limit or needing a lease/landlord OK |
 
 ---
 

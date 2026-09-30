@@ -23,7 +23,13 @@ Davey + Jonah, last day in Oslo after ISC26. Built from the vault as of today: r
 - **Play more.**
 - **Travel more.**
 - **Be monetarily free = $300,000 income EACH** ($600K/yr combined owner income). (Open: pre-tax?)
+- **Income AND roles for L and Jacqueline (Jac).** (Open: what each role is, amounts, which entity pays)
 - **Timing: sooner, not later.** These are near-term goals, not 2031 goals.
+
+### Near-term business goals
+- **Finish the Dustin buyout** (by Oct 16)
+- **Restructure the ownership % in our operating agreement**
+- **Deadlock clause:** what happens if the two of us hit a stalemate
 
 ### V2 private saunas (the two Grant is building): launch checklist
 - [ ] Finish the website build-out for the privates
@@ -33,9 +39,11 @@ Davey + Jonah, last day in Oslo after ISC26. Built from the vault as of today: r
 
 ### Sauna Airstream on a floating dock
 Davey's personally owned **sauna Airstream**, currently in **Door County, WI**. Plan: ship it to Portland and put it on a floating dock as another sauna unit.
+- **1-3 months (Oct-Dec 2026):** bring it in and add it to the marina.
+- **3-6 months (Jan-Mar 2027):** tow it down the Willamette to the **Willamette Sauna Festivaali in Milwaukie** (last one was Feb 2026 at Milwaukie Bay Park). Confirm the 2027 dates and vendor/exhibitor signup.
 - [ ] Get insurance quoted for the Airstream on a floating dock. Shop it in the same round as the V2 privates.
 - [ ] Freight quote: Door County, WI to Portland
-- [ ] Floating dock: build or buy, and where it moors
+- [ ] Floating dock: build or buy, and where it moors. **Option: put it on the brick float** (9/30)
 - [ ] Ownership (Davey owns it personally): Decide whether he leases it to ETE, sells it to ETE, or contributes it. The insurer will ask who owns it and who runs it commercially.
 
 ### Private rental cabanas (new income stream)
@@ -69,6 +77,10 @@ In order. Grant does one at a time.
 | 3 | **Waterfall plunge** | Build from the design brief (`Waterfall Plunge — Design Brief (Sept 2026).md`). Name still open | TBD | Every-guest feature on the public deck |
 | 4 | **The Rose, Elevated Tides marina version** | Start building a smaller Rose at the ET marina, a smaller version of the big downtown one | TBD | Proof of the Rose on our own property |
 
+**Grant's other option:** build out the **floating structure we were gifted** as commercial spaces. It's a natural home for the practitioner rooms, IV and food, so it could answer "who builds the practitioner rooms." Title 28 still applies: Engineer of Record, separation, permits. It's a **different, bigger structure than the brick float**, and we can do whatever we want with it. (Open: where it ranks against the waterfall and the marina Rose.)
+
+**The brick float** (acquired May 2026) could host the **sauna Airstream**. That would answer "floating dock: build or buy" for the Airstream.
+
 **What this needs from everyone else:**
 - **Social rebuild downtime.** The social sauna is the engine, so every closed day costs real money. Build the benches off site first so on-site work stays at ~5 days. Put the closures on the slowest days (Tuesday is the worst day), block Periode ahead of time and tell members. Hire: H67.
 - **Capacity number.** How many seats does the social sauna gain? That feeds the winter revenue plan and the $300K-each math. (Open)
@@ -77,7 +89,7 @@ In order. Grant does one at a time.
 
 ### Also in the 1-3 month plan: new wellness revenue
 **IV hydration ("liquid IV") business, sold on site.**
-- Open: IV drips (nurse-administered), or retail electrolyte packets like the Liquid I.V. brand? This note assumes IV drips.
+- **Decided 9/30: nurse-run IV drips.** Still open: (a) hire nurses + a medical director and build our own IV business, or (b) find an operator to run it on site and we take a %.
 - IV drips are medical in Oregon: a medical director (MD/NP) signs off, an RN or other licensed provider places the line, plus medical malpractice insurance. It also needs its own entity or a partner so the medical liability stays off ETE's sauna policy.
 - Post-sauna guests are warm and dehydrated, so screening and a clear waiver matter even more.
 - **Claude's take:** bring in an existing mobile IV company (their nurses, medical director and insurance) for a revenue share. It's the same partner-first test as the food idea. Owning an IV business comes later, if the numbers show it's worth it.
@@ -87,12 +99,15 @@ In order. Grant does one at a time.
 - Open: where they go (marina, the E&E site, or both), how many rooms, rent model (monthly lease vs per-session split), who builds them. Grant is booked through Dec.
 - Every practitioner carries their own license (LMT etc.) and liability insurance, with certs on file (H30) and ETE named as additional insured.
 
+### Building on the water (Title 28)
+Full brief: [[Building on the Water — Title 28 Brief (Sept 2026)]]. Every float we add needs an Oregon Engineer of Record, 20 in of freeboard and **20 ft between commercial floating structures** (10 ft with 1-hr walls, 6 ft sprinklered), and its use has to be allowed on the upland lot's zone. On the Willamette (Holman), food and other non-river uses need a Greenway exception. The marina doesn't have that problem.
+
 ### How these rank against the plan and the hire (added 2026-09-30)
 
 | Tier | Item | Fits which part of the plan | Who does the work | When |
 |---|---|---|---|---|
 | **1. Now** | V2 privates launch (website, photos, Periode, insurance) | Rock #3, "V2 selling before Thanksgiving." Winter capacity funds hire 1 | Hire: photos, Periode setup, insurance quote (H26, H61-H63). Jess: website pages. Owners: pricing + final sign-off | Oct-Nov |
-| **2. Quote now, decide after Oct 16** | Sauna Airstream to Portland | Needs the new OA CapEx rules (after Oct 16). Insurance quote rides with H26 | Hire: insurance + freight quotes (H26, H64). Owners: ownership setup + dock (O18) | Quotes in Oct. Decide Nov. Place it in spring 2027 |
+| **1. Now (1-3 months)** | Sauna Airstream to the marina, then the Festivaali in 3-6 months | Needs the new OA CapEx rules (after Oct 16). Insurance quote rides with H26 | Hire: insurance + freight quotes (H26, H64). Owners: ownership setup + dock (O18) | At the marina by Dec. Milwaukie Festivaali Jan-Mar 2027 |
 | **Idea stage, no timing set** | Food: oyster/ceviche, juice, focaccia, perpetual soup | Dock Galley / Oyster Hour. A new draw that needs no sauna capacity. Pop-up partner test first | Hire: permits + partner research (H66) when there's room. Owners: location + go/no-go (O20) | **No target yet** (Davey 9/30: not sure of timing) |
 | **3. Design in winter, build in spring** | Marina slip cabanas | Low-risk ET revenue on slips we already control. Insurer says yes in writing first | Hire: research + unit economics (H65). Owners: go/no-go + budget (O19) | Research Jan. Build Mar-Apr. Live by Memorial Day 2027 |
 | **4. Stays in the Holman track** | Rose "leafs" / shoreline cabanas | Holman LOI + Rose 1.0 feasibility (rock #7) | Owners + Hannah B only. **Never in the hire's view** (O15) | With the LOI |
@@ -111,7 +126,7 @@ In order. Grant does one at a time.
 |---|---|---|---|---|
 | **Dustin exit** | Leaning accept at $125K full exit. Notes paid first, 9 conditions, CWW lender consent needed (Seaworthy's 35% trips DOT §2.9(e)). Offer expires Tue 9/29 5pm PT. Records demand response due Oct 2. | Sign by Oct 16. Lender consent from Jim Goddard. Notes paid in cleared funds before anything else moves. | Clean cap table in both LLCs, no residual claims | Forgotten |
 | **Restated OAs** (Migchelbrink) | Default after close: ETE 50/50. ET = Ohana 400 / Davey 250, about 61.5/38.5. You owe Paul the post-closing terms. | **Decide today:** voting thresholds, manager roles, comp, capital calls, buy-sell, what happens if one of you wants out | Signed and filed | The document that keeps the two of you friends |
-| **Intercompany loan** ETE to ET, $250,940 | Unpapered. Draft note at 60-mo amortization ($4,678/mo) | Sign it right after close (no more veto) | Paying on schedule, or converted to equity. Decide which | |
+| **Intercompany loan** ETE to ET, $250,940 | **DONE: signed (per Davey 9/30).** Was unpapered. Draft note at 60-mo amortization ($4,678/mo) | Sign it right after close (no more veto) | Paying on schedule, or converted to equity. Decide which | |
 | **Owner pay** | Apple Note P1: 15% of gross, with back pay. ET first, ETE "after we generate more $". Written Consent in vault | Put it into the restated OA or the consent. Start paying from ET | Paid monthly from both entities, no guilt | Market-rate pay for the roles you actually do |
 | **Liability / waivers** | Bagley waiver risk flagged. Lounge unpermitted, with a complaint on file | Insurance review for V2 + the plunge pool gate | Lounge permitted or reworked | |
 | **Slip 7** | Separate from both LLCs. Title in Ohana, co-ownership agreement **unsigned** | Sign the co-ownership agreement (Davey's 50% is only on paper in a draft) | Refi, then move title to a joint LLC | |
