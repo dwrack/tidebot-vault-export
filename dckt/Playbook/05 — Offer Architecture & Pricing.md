@@ -50,12 +50,12 @@ This framing should be on the website, in the chatbot, and in any conversation w
 
 | Moment | Offer | How |
 |---|---|---|
-| At booking (shared tour) | Private tour upgrade | GHL message: "For your group size, private is only $X more" |
-| At booking (any) | E-bike rental add-on | GHL: "Want to explore the peninsula before/after?" |
-| At booking (any) | Lykke Sauna add-on | GHL: "The perfect post-paddle warm-down" |
+| At booking (shared tour) | Private tour upgrade | CRM message: "For your group size, private is only $X more" |
+| At booking (any) | E-bike rental add-on | CRM: "Want to explore the peninsula before/after?" |
+| At booking (any) | Lykke Sauna add-on | CRM: "The perfect post-paddle warm-down" |
 | At booking (kayak + sauna) | Bundle discount | Suggest the combo at slight savings |
 | During tour (guide) | Return visit | "You have to come back for the sunset tour" |
-| Post-tour (7 days) | Sunset tour / different experience | GHL re-engagement message |
+| Post-tour (7 days) | Sunset tour / different experience | CRM re-engagement message |
 | End of season | Gift card | Holiday email campaign |
 | Special occasion noted | Upgrade + personalization | Flag for guide, offer enhancements |
 
@@ -86,7 +86,7 @@ Lead with the value stack, then reveal the price. $59 feels different after you'
 "$59 per person" beats "affordable tours." "4.9 stars from 847 reviews" beats "top-rated."
 
 **Urgency without desperation:**
-"Only 3 spots left this Saturday" (when true) is powerful. Use it honestly. GHL can automate this based on FareHarbor availability.
+"Only 3 spots left this Saturday" (when true) is powerful. Use it honestly. The CRM can automate this based on FareHarbor availability.
 
 **Scarcity is real:**
 DCKT has a finite number of guides and kayaks per day. This is genuine scarcity — lean into it.
@@ -125,4 +125,4 @@ DCKT is sitting on a corporate team-building gold mine. Companies pay $100–$20
 
 *Related: [[Playbook/00 — Master Business Operating System]]*
 *Related: [[Playbook/02 — Customer Journey Map]]*
-*Related: [[Playbook/04 — GHL Automation Sequences]]*
+*Related: [[Playbook/04 — Automation Sequences]]*

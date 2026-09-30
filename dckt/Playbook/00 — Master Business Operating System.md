@@ -197,7 +197,7 @@ Guides are trained to notice things:
 | [[Playbook/01 — StoryBrand Messaging]] | All brand copy, one-liners, email voice, social voice |
 | [[Playbook/02 — Customer Journey Map]] | Every touchpoint from first touch to referral |
 | [[Playbook/03 — Guide Training & Service Standards]] | Ritz-Carlton adapted for outdoor adventure |
-| [[Playbook/04 — GHL Automation Sequences]] | Every message, every trigger, build-ready |
+| [[Playbook/04 — Automation Sequences]] | Every message, every trigger, build-ready |
 | [[Playbook/05 — Offer Architecture & Pricing]] | Value stacks, upsell map, add-on logic |
 | [[Playbook/06 — Growth Playbook (Jay Abraham)]] | 3x growth model applied to DCKT |
 | [[Playbook/07 — Reactivation Campaign (24k Contacts)]] | Dan Kennedy win-back sequence |

@@ -8,7 +8,7 @@
 
 ## The Approach
 
-One question per week, sent via GHL on a rotating basis. The question changes each week so it never feels like the same form. Tone is warm and conversational -- we're asking because we care, not because we're tracking.
+One question per week, sent via the CRM on a rotating basis. The question changes each week so it never feels like the same form. Tone is warm and conversational -- we're asking because we care, not because we're tracking.
 
 Guides can respond by text. No format required. A few words is fine. The response goes to the manager's inbox. Claude reviews weekly and surfaces anything worth a coaching conversation.
 
@@ -18,7 +18,7 @@ This is not a vehicle or compliance check (those are separate). This is purely a
 
 ## Rotating Question Bank
 
-GHL cycles through these in order, one per week. Add new questions as the season develops.
+The CRM cycles through these in order, one per week. Add new questions as the season develops.
 
 ### Guest Experience
 1. What's one thing a guest said or asked today that surprised you?

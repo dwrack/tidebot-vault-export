@@ -73,7 +73,7 @@ Review guide field notes and schedule coaching conversations. Evaluate active pa
 
 ## What Automation Handles
 
-Booking confirmations, pre-tour guest sequences, review requests, guide manifests, missed call responses, FAQ chatbot, compliance reminders, payroll calculations, and weekly reporting summaries are all handled by GoHighLevel and Claude. The manager reviews outputs, acts on exceptions, and focuses time on the work that requires a person.
+Booking confirmations, pre-tour guest sequences, review requests, guide manifests, missed call responses, FAQ chatbot, compliance reminders, payroll calculations, and weekly reporting summaries are all handled by the CRM and Claude. The manager reviews outputs, acts on exceptions, and focuses time on the work that requires a person.
 
 ---
 

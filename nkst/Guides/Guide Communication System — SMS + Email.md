@@ -1,5 +1,5 @@
 # Guide Communication System — SMS + Email
-*Created: 2026-03-30 | Build in GHL with Chevy*
+*Created: 2026-03-30 | Build in the CRM with Chevy*
 
 > **Core philosophy:** Guides who feel seen, educated, and connected to something bigger don't leave. This system isn't just about information delivery — it's about culture. Every message should make them feel like a valued part of something real, not like a contractor getting a memo.
 
@@ -16,7 +16,7 @@
 | Where guides read it | In the van, on the dock, between tours | At home, maybe |
 | Tone | Teammate | Company |
 | Best for | Recognition, facts, culture, check-ins | W-9, ICA, handbooks, monthly deep dives |
-| Cost in GHL | ~$0.01–0.02/message (~$2/month for 13 guides) | Included in subscription |
+| Cost in the CRM | ~$0.01–0.02/message (~$2/month for 13 guides) | Included in subscription |
 
 **Verdict: SMS-primary. Email-monthly. Automate both.**
 
@@ -148,9 +148,9 @@ These run year-round, triggered by events — not a calendar.
 
 ---
 
-## GHL Setup Checklist (For Chevy)
+## CRM Setup Checklist (For Chevy)
 
-- [ ] Import all 13 active guides as GHL contacts
+- [ ] Import all 13 active guides as CRM contacts
 - [ ] Add custom fields: `Guide`, `CPR Expiry`, `W9 Status`, `DL Status`, `ICA Signed`, `Active Season`, `Solo Sign-Off Date`
 - [ ] Tag active guides: `guide-active`
 - [ ] Build 4-week SMS rotation workflow (recurring, season-gated March–October)

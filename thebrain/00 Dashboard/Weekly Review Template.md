@@ -26,7 +26,7 @@
 - [ ] iMessage inbox reviewed
 - [ ] Gmail inbox reviewed
 - [ ] Obsidian inbox cleared
-- [ ] GHL follow-ups checked
+- [ ] CRM follow-ups checked
 
 ---
 
