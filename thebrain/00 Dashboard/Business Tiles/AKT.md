@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-09-29
+updated: 2026-09-30
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Decision made 2026-08-28: front door for LSKT.** No change to the arrangement.
-- **1 unreplied review** — TJ Spott, 4★, 9/25 (4 days old). Shares Google Ads and Meta act_638850950128825 with LSKT — LSKT's Google Ads conversions collapsed to 0 yesterday, but the shared Meta account logged its first spend in 30+ days — see LSKT's tile.
+- **1 unreplied review** — TJ Spott, 4★, 9/25 (now 5 days old). Shares Google Ads and Meta act_638850950128825 with LSKT — LSKT's Google Ads recovered to a healthy ROAS 3.82 yesterday and Meta spend continued — see LSKT's tile.
 <!-- live:end -->
 
 ## Quick links

@@ -118,41 +118,53 @@ The Oslo plan says 2031 = a network of Elevated Tides sites run by operators, no
 
 Future pay bands are not set. Decide them before you promise anything specific in an interview (question 3 below).
 
-## Job posting (draft)
+## Job posting (v2, copy-mentors + copywriting-2.0 pass, 2026-09-30)
 
-Signed as the business. No founder names (About-page rule until the Dustin exit closes).
+Signed as the business. No founder names (About-page rule until the Dustin exit closes). v1 is in this file's history.
 
-> **Business Operations Assistant, Ebb & Ember (Portland, OR)**
-> Contract through Jan 1, 20-30 hrs/week, $25-35/hr, converting to a part-time W-2 role if it's a fit
+Hook line options (pick one for the first line under the title):
+- A (Ogilvy, specific): "Your office has a 42-degree river."
+- B (Schwartz, identity): "For the person who reorganized the supply closet at the yoga studio without being asked."
+- C (Halbert, conversational): "We need someone to keep a floating sauna from sinking under its own to-do list."
+
+> **Operations Assistant, Ebb & Ember (Portland, OR)**
+> Part-time, 20-30 hrs/week, $25-35/hr. Contract through Jan 1, then a W-2 role if it's a fit.
 >
-> Ebb & Ember is a floating sauna on the Columbia River. People come here to slow down: heat, cold river water, a quiet lounge, and nobody checking their phone. We've grown fast since opening, with a membership base that keeps coming back and two new private saunas going on the water this fall.
+> Your office has a 42-degree river.
 >
-> Behind all that calm there's a lot of moving parts. Bookings, guest emails, vendors, waivers, schedules, a punch list that never quite ends. We need someone who loves making the backstage run so the front stage can feel effortless.
+> Ebb & Ember is Portland's floating sauna on the Columbia. Guests get hot, climb down into Cascade snowmelt, then sit on the deck doing nothing for a while. We opened January 1, 2026. More than half our guests have already come back. Two new private saunas go on the water this fall.
+>
+> Guests see the calm. You'd run the part they don't see.
 >
 > **What you'll do**
-> - Be the friendly face of Ebb & Ember on our social channels: first-timer guides, event recaps, stories from the dock
-> - Help throw our member nights and themed evenings, from invites to the day-of checklist
-> - Reach out to local brands, hotels and creators we'd love to partner with
-> - Collect the best guest moments and behind-the-scenes clips from our new sauna build
-> - Answer guest and member emails with warmth and speed
-> - Keep our booking system, waivers and member records clean
-> - Chase vendors and contractors until things are actually done, and keep our project lists current so nothing slips
+> - Be on camera. Walk a first-timer through the ritual in a 60-second video. Host the safety video. Recap member night.
+> - Throw the parties. Member nights, Women's Wednesday, whatever we dream up next. You own the checklist from invite to cleanup.
+> - Host sessions on some weekends. Greet guests, hand them a waiver, tell them the cold plunge is optional (it is).
+> - Pitch the neighbors: hotels, local brands and creators we'd love to have out on the dock.
+> - Answer the nervous first-timer's email before they talk themselves out of coming.
+> - Keep bookings, waivers and member records clean.
+> - Chase the plumber until the spigot is actually in. Then update the list.
 >
-> **You might be a fit if**
-> - You've worked front desk, studio or gym ops, events, or as an assistant, and you liked the organizing part best
-> - You finish things. Loose ends bother you
-> - You're good with software and not scared of AI tools
-> - You write like a human
-> - You're comfortable on camera and would genuinely enjoy being the face guests recognize
-> - You're in Portland and can get to the river when we need you there
+> **You're probably the person who**
+> - Reorganized the front desk at your last studio, gym or restaurant without being asked
+> - Can't leave a loose end alone
+> - Lives in Slack and has used Claude or ChatGPT for real work (and can tell when it's wrong)
+> - Writes emails that sound like a person
+> - Doesn't mind a camera, and maybe secretly likes it
+> - Lives in Portland and can get to our dock on NE Bridgeton Rd on short notice
+>
+> No sauna experience needed. We'll teach you the ritual on day one.
 >
 > **What you get**
-> - An Ember 2 membership (you should know the product)
-> - A flexible schedule: remote during the week, plus hosting sauna sessions on some weekends (not every one)
-> - A real path up. We're building toward more sites, and we want to promote from inside: coordinator, then manager, then running a site
-> - A workplace where "take a sauna break" is a legitimate suggestion
+> - $25-35/hr, plus an Ember 2 membership. You should know the product.
+> - Weekdays remote. Some weekends on the river. Not all of them.
+> - A path up. We're growing, and we'd rather promote the person who already knows how it runs than hire from outside.
+> - A job where "go take a sauna" counts as a break.
 >
-> **To apply:** send your resume and a short note (not a cover letter) about one time you got something messy under control to davey@ebbandember.com. If it's a fit, we'll ask for a quick phone video as the next step, since being on camera is part of the job.
+> **To apply**
+> Email davey@ebbandember.com with your resume and a few lines about a time you took something messy and got it under control. Skip the cover letter. If it's a fit, we'll ask for a short phone video next.
+
+Before posting, confirm: (1) OK to say "more than half our guests have already come back" publicly (from the 58% repeat rate, internal Periode analysis). (2) Contract line matches Jonah's W-2 vs contract call.
 
 ## Interview filters
 

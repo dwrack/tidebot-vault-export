@@ -199,3 +199,45 @@ _2026-09-29_
 **Davey:** "The outside climbing petal should flow into the outside of the top of the sauna."
 
 **What changed:** The cause of the old gap: past the peak the jump petal curls inward toward the crown, but the climbing wall on its back never followed the curl. It kept going straight, so 80% of the way along, the wall stood ~3 m outside the petal's edge with green deck showing between. Now the wall is attached to the petal's outer edge the whole way. Up to the peak its hem runs below the waterline as before. Past the peak the hem lifts out of the river and lands on the sauna's upper skirt (the bud petals that slope down from the crown rim), rising out of it in one smooth concave sweep, so the outside of the climbing petal and the outside of the top of the sauna read as one surface. At the crown end the wall shrinks to nothing on the crown deck. The v0.36 lean is kept. Holds sit only where the fall line is 4 ft or more past the float edge.
+
+## v0.38: Every part labeled
+_2026-09-30_
+
+**Davey:** "can you label all the parts of the flower so i can refer to them more easily and give instructions more easily?"
+
+**What changed:** No design change. Every part now has a short code floating over it in the model, and there's a clickable parts key under the model (click a code and the camera flies to it). Labels control: Off / Key parts / Every part. Labels hidden behind something show just their code, dimmed.
+- **P petals:** P1 jump petal, W1 its climbing wall, P2 slide petal, P3 bridge petal (north amphitheater), P4 west lounge petal, P5 southwest lounge petal, P6/P7 screen petals.
+- **F fire roses, numbered to match their petal:** F1 (in P1), F3, F4, F5.
+- **H hot room:** H1 hot room, H2 pistil stove, H3 bridge window, H4 vent stack, D1-D3 doors.
+- **C crown:** C1 crown deck, C2 DJ booth, C3 rose-window roof, C4 parapet petals, C5 upper skirt, C6 poofers (C7 added in v0.39).
+- **G green base:** G1 calyx float deck, G2-G5 sepals, G6 kids' sepal slide.
+- **S stem and site:** S1 gangway, S2 dock, S3 stem walkway, S4 thorns, S5 boat cleats, S6 swim cove, S7 lane line, S8 end of the walkway, S9 fire station pier tie-in, S10 the Bud. **L leaves:** L1, L2 (boat tie-up), L3, L4.
+
+## v0.39: You can walk the jump petal onto the crown
+_2026-09-30_
+
+**Davey:** "the jump petal doesn't quite flow into the top of the petal. take a look, how would you walk onto there. can you make it flow more easily and actually work."
+
+**What was wrong:** Past the peak the petal kept squeezing toward the center of the flower. Its top edge crossed the crown parapet ~0.8 m above the deck and ended 1.4 m from the center, inside the DJ booth. The lower rows ran down through the hot room ceiling. There was nowhere to step off.
+
+**What changed (P1 only, plus one parapet petal):**
+- The top three rows of P1 are now one ~1 m walking tread: a stair with 17 cm risers from the deck up to the jump point at the peak (~4.85 m of rise over ~13 m).
+- Past the peak the seat rows rise to meet the tread, so the petal becomes one broad blade that steps down (deep steps, 17 cm risers, ~1.85 m total) and reaches deck height a little before its tip, then runs flat.
+- The tip now lays flush onto the crown deck edge (r ~2.2-3.7 m) instead of the center. One parapet petal (and its poofer) is left out there so the ring opens. New label C7 Crown landing; new camera "Crown landing".
+- Where the blade passes over the sauna, its body stops at the roof surface, so nothing pokes into the hot room.
+- Silhouette otherwise unchanged; the climbing wall still follows the curl.
+
+**Still open:** no rail on the ~1 m tread, which is 5 m up at the peak (same no-rail position as the other jump edges; insurer question). The very bottom of the stair is steep (~31 degrees for the first 3 m). P1 is still the only way up, so rescue/egress from the crown still needs the service-stair decision (Crown and DJ Booth Spec).
+
+## v0.40: Stair inside, ramp outside, low end on the deck
+_2026-09-30_
+
+**Davey:** "the stairs along the inside near the base of the fire up to the top of the rose would work better and the ramp up the outside of the petal, but you still need to have the base of the jump petal left side moved so it flows more onto the platform instead of into the sauna."
+
+**What changed (P1 only):**
+- **T1 Inside stair (new label):** the way up. Starts on the deck ~2 m from fire rose F1 and wraps around the fire through seat rows 2-4: ~1 m wide, 18 risers of ~17.5 cm, ~7 m long (about 25 degrees), ending on the crown landing C7. It lifts a little where it passes over the sauna so it never ducks under the roof skirt.
+- **T2 Rim ramp (new label):** the top edge of P1 (rows 5-7, ~1 m) is back to a smooth ramp out to the jump point; the v0.39 steps on the rim are gone. It now starts flat off the deck.
+- **Low end:** the left/low end is pushed ~2 m outward so it lands on the float deck (G1, r ~5.7-6.7 m) instead of running into the hot room wall (was r ~3.7-4.7 m).
+- Rows 0-1 by the fire stay as seats; the outer seats stay between the stair and the ramp.
+
+**Honest numbers:** the rim ramp averages ~21 degrees and hits ~33 degrees in its steep middle stretch; that's a jumpers' ramp with grippy rubber, not an accessible route. The stair is the real way up. No rails on either yet.

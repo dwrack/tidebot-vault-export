@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 5
-revenue_today: 850
+bookings_today: 3
+revenue_today: 490
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "t.co referral spike appears resolved (18 sessions vs prior 2,936); 3 unreplied reviews"
-updated: 2026-09-29
+alert: "FH revenue down 51% vs 4-day avg; 1 unreplied review; t.co spike stays resolved"
+updated: 2026-09-30
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $7,079/wk booked vs $4,000 target — 177% of goal.** 4-day FH basis (9/24, 9/25, 9/27, 9/28) — directional, not precise.
-- **The `t.co` referral spike flagged in prior briefs looks resolved** — yesterday's t.co sessions were 18, a tiny fraction vs the previously-flagged 2,936 sessions (96% of traffic). Real channels now lead: direct (60), google (50), instagram (32), facebook (24). Worth confirming it holds for another day or two before fully standing down.
-- **3 unreplied reviews, all 5★** (9/25, 9/24, 9/18).
-- Watched page ("Airboat vs Kayak" comparison): **first GSC click ever recorded** — 1 click on 9/26 vs a 0-click baseline since 6/2. GA4 views for the 8-day window: 2, close to the ~3-view baseline. Small movement, watch for another week.
+- **Goal pace likely down from the prior brief's 177% reading** — yesterday's FH day (3/$490) was 51% below the $1,011/day 4-day average, though this account's daily counts are consistently small and noisy.
+- **The `t.co` referral spike stays resolved.** Yesterday's session sources: google 68 (28 conversions), direct 33, facebook 33, instagram 29, m.facebook 8 (11 conversions), t.co only 7 (5 conversions) — real channels continue to lead.
+- **1 unreplied review, 5★** ("I S.", 9/25, now 5 days).
+- Watched page ("Airboat vs Kayak" comparison): still flat vs baseline — 3 GA4 views over the 8-day window (baseline ~3), 0 GSC clicks (2 queries earning impressions, no clicks yet).
 <!-- live:end -->
 
 ## Quick links

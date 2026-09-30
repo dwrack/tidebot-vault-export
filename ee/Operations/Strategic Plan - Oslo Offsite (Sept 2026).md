@@ -22,8 +22,32 @@ Davey + Jonah, last day in Oslo after ISC26. Built from the vault as of today: r
 ### Personal goals (the "why" everything else serves)
 - **Play more.**
 - **Travel more.**
-- **Be monetarily free = $300,000 income.** (Open: $300K each or combined? Pre-tax?)
+- **Be monetarily free = $300,000 income EACH** ($600K/yr combined owner income). (Open: pre-tax?)
 - **Timing: sooner, not later.** These are near-term goals, not 2031 goals.
+
+### V2 private saunas (the two Grant is building): launch checklist
+- [ ] Finish the website build-out for the privates
+- [ ] Photo shoot of the finished units
+- [ ] Integrate into Periode (bookable)
+- [ ] Insurance for both privates
+
+### Sauna Airstream on a floating dock
+Davey's personally owned **sauna Airstream**, currently in **Door County, WI**. Plan: ship it to Portland and put it on a floating dock as another sauna unit.
+- [ ] Get insurance quoted for the Airstream on a floating dock. Shop it in the same round as the V2 privates.
+- [ ] Freight quote: Door County, WI to Portland
+- [ ] Floating dock: build or buy, and where it moors
+- [ ] Ownership (Davey owns it personally): Decide whether he leases it to ETE, sells it to ETE, or contributes it. The insurer will ask who owns it and who runs it commercially.
+
+### Private rental cabanas (new income stream)
+**A. Marina slips, summer 2027.** Private rental cabanas on Elevated Tides slips, as another marina revenue line.
+- [ ] Concept + unit economics (price/day, build cost per cabana, how many slips)
+- [ ] Insurance says yes in writing first (same rule as Raft-Up / Fleet revenue)
+- [ ] Build timeline that makes Memorial Day 2027
+
+**B. Holman Dock / the Rose, both options on the table.** *(Off the record, same as the rest of Holman.)*
+- Option 1: **private "leafs"** off the Rose (fits the rose-part naming)
+- Option 2: **cabanas on the shoreline**
+- [ ] Carry both into the Holman LOI / City conversation (Hannah B leads)
 
 ---
 

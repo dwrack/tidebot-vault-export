@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 6
-revenue_today: 3794
+bookings_today: 5
+revenue_today: 298
 lead_time_days: 0
-ad_spend_yday: 117
+ad_spend_yday: 96
 status: yellow
-alert: "Google Ads conversions collapsed to 0 ($112 spend, 67 clicks); Meta shows first spend in 30+ days ($5.24)"
-updated: 2026-09-29
+alert: "FH revenue down 80% vs 4-day avg; Google Ads back to healthy ROAS 3.82 yesterday"
+updated: 2026-09-30
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $10,568/wk booked vs $5,500 target — 192% of goal.** 4-day FH basis (9/24, 9/25, 9/27, 9/28) — heavily skewed by yesterday's $3,794 outlier day (vs a $1,510/day avg); treat as noisy, not a real trend, until the week fills in.
-- **Google Ads conversions collapsed to 0 yesterday** (67 clicks, $112.22 spend, $0 tracked conversions) — a full drop-off from the prior day's already-elevated $103.45 CPA / 1.06 conversions. Worth a same-day check on conversion tracking or the landing page before assuming demand died. See today's brief Action Item #7.
-- **Meta (`act_638850950128825`, shared with AKT) shows its first spend in over 30 days** — $5.24 on "Kayaks Awareness: In-Market - TourPPC." Still tiny, but no longer the "fully dark" flag from prior briefs. Worth confirming this holds and scales.
+- **Goal pace likely down from the prior brief's 192% reading** — that number was inflated by 9/28's $3,794 outlier day, which is rolling out of the trailing window. Yesterday's FH day (5/$298) was 80% below the $1,510/day 4-day average. Treat this account's daily swings as genuinely noisy, not just a reporting artifact.
+- **Google Ads conversion tracking looks recovered**: $75.88 spend yesterday, 57 clicks, 2 conversions, $37.94 CPA, ROAS 3.82 — a real rebound from the prior brief's flagged 0-conversion day. 7-day: $927.49 spend, 17.25 conversions, ROAS 1.86.
+- **Meta (`act_638850950128825`, shared with AKT) spend continues**: $20.16 yesterday on "Kayaks Awareness: In-Market - TourPPC," still engagement-only, no purchase actions logged yet.
 - 0 unreplied reviews.
 <!-- live:end -->
 
