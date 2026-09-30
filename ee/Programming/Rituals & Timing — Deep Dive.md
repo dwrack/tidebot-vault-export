@@ -79,10 +79,16 @@ A session turns into a ritual when it has a shape people can feel. Nearly every 
 
 ### 3c. Competition format (Aufguss WM)
 
-- **12–15 minutes** per performance (~14 is "ideal").
-- **≤ 90 sec** welcome/intro (theme, oils, safety).
-- **Only water or ice mixed with essential oils** may go on the stones.
-- A hand fan is allowed for **max 2 minutes**. Everything else is towel work.
+Per the [official 2026 rules](https://aufguss-wm.com/wp-content/uploads/2026/02/rules_aufgusswm_2026.pdf) (dated 3/2/2026):
+
+- **12–15 minutes** per performance, welcome and farewell included. **14 minutes is "optimal."** The clock starts at the master's first action (opening the door, starting the light script) and stops when they leave the room.
+- **Welcome is optional, max 90 sec**, and counts toward the time. English is advised.
+- **Aromas are declared up front** and handed to the jury before the show.
+- The host supplies buckets, ladles, water and ice. Costumes, décor, music and lighting are the performer's call; music and light cues get submitted online by a deadline.
+- **Setup max 15 min with up to 2 assistants; cleanup max 10 min.** Nothing can block the entrance or exit or break fire rules.
+- **Singles = one master alone. Teams = 2 or 3 masters.** No help from bystanders during the show.
+- Breaking any rule = immediate disqualification. So does visible drunkenness, and a country can be DQ'd for its fans' misbehavior.
+- *Not in the 2026 rules:* the "only water or ice with essential oils on the stones" and "hand fan max 2 minutes" limits we'd seen quoted elsewhere. Treat those as house or older rules, not current WM rules.
 
 ### 3d. Proposed E&E ritual session (fits our 90-min slot, max 8 guests)
 
@@ -156,31 +162,41 @@ A **guided infusion** led by a sauna master. Water or ice mixed with essential o
 ### How it's judged (Aufguss WM)
 Juries score: **increase and distribution of heat**, **waving technique**, **fragrance choice and dosage**, **theme and its execution** (dramaturgy, music, emotion, audience connection), **safety and professionalism**, and **team spirit** (team events only). Max score is **750 points for singles** and **900 for teams**.
 
+How the math works (2026 rules): each criterion is worth 8, 10, 12, 15 or 30 points, so one juror's max is 75 (singles) or 90 (teams). Six jurors score from inside the sauna, the highest and lowest are dropped, and the result is scaled to a 10-person jury, which is how you get 750/900. A show has to earn at least half the points to advance to the finals. The main jury is 12 people split into two panels for the finals.
+
 *This rubric is a great internal training checklist for our hosts, even for a simple 12-min infusion.*
 
 ### The World Championship (Aufguss WM)
 - Held every September. Recent hosts: **Satama Sauna Resort & Spa** (Germany; 2023 and again 2026, Sept 13–20), **Thermen Bussloo** (Netherlands; 2024; now the playoff venue), **Aquardens Terme Verona** (Italy; 2025).
-- ~80–100+ shows per year, 120–160+ competitors from about 15 countries (including Japan and now the US).
+- **78 starting places** in the finals (39 singles, 39 teams), plus one host wild card that always performs first. Competitors come from about 15 countries (including Japan and now the US).
+- You qualify through your country's national qualifier. Countries without one get a single slot in the Playoffs (€150 entry, first come first served). You can compete for your home country or one you've worked in for at least a year.
 - The US has its own qualifier: **Aufguss USA Nationals** (May 2026, Bathhouse in Brooklyn and Flatiron, NYC). The top two in show categories go straight to the WM Finals.
 - Satama's competition sauna is **160 m², seats ~200, and runs on a 180 kW heater**. For scale, that's a room the size of a small house.
 
 ### Recent champions and their shows
 
+*Source: [official WM results page](https://aufguss-wm.com/wm/world-cup-results/), pulled 2026-09-30. Flags are the country each competitor represented, which isn't always where they're from.*
+
 | Year | Singles | Team |
 |---|---|---|
-| 2014–16 | **Rob Keijzer** (NL). Unbeaten three years running, the "Hall of Fame" name in the sport | — |
-| 2019 | **Karolina Jarząbek** (PL). First woman to win singles | — |
-| 2022 | **Laura Lenders** (NL) & **Maciej Piczura** (PL). Historic shared first place | **Simone Mannelli & Massimo Gelli** (IT). 599 pts |
-| 2023 | **Róbert Židek** (CZ), ahead of Michael Niedermair & Henrik Baunkjær | ⚠️ *Sources conflict:* **Sigrid van Rijswijk & Rianne van Mierden** (NL), *"Reflections"*, vs. German press (dpa) naming **Yuma Kurokawa & Mayuka Sano** (JP). Verify on aufguss-wm.com |
-| 2024 | **Michael Niedermair** (DE): *"Behind the Door"* | **Sigrid van Rijswijk & Whitney Cox** (NL) |
-| 2025 | **Sigrid van Rijswijk** (NL): *"False Fortune"* | **Róbert Židek, Barbora Brožová & Gábor Tapolcai** (CZ/SK/HU): *"Our Fair Lady"* |
-| 2026 | Held Sept 13–20 at Satama. *Results not yet findable online. Check aufguss-wm.com.* | |
+| 2014–16 | **Rob Keijzer** (NL). Unbeaten three years running, the "Hall of Fame" name in the sport | 2014 Hans Barendse & Vincent Steenbergen, *"Father & Son"* · 2015 Sabine Quäschnigg & Janina Lindner (DE) · 2016 Iza Zoladz & Łukasz Dłużniewski, *"Taj Mahal"* |
+| 2018 | **Maciej Piczura** (PL). 570.8 | **Karolina Jarząbek & Maciej Piczura** (PL). 676.8 |
+| 2019 | **Karolina Jarząbek** (PL). First woman to win singles. 594.48 | **Kasia Klajn & Łukasz Dłużniewski** (PL). 686.6 |
+| 2020 | No competition (pandemic) | |
+| 2021 | **Róbert Židek** (CZ): *"Behind the Scenes."* 596.0 | **Sigrid van Rijswijk & Rianne van Mierden** (NL): *"Reflections."* 638.0 |
+| 2022 | **Laura Lenders** (NL) & **Maciej Piczura** (PL). Historic shared first place, 537.25 each | **Simone Mannelli & Massimo Gelli** (IT). 599.0 |
+| 2023 | **Róbert Židek** (CZ). 589.0, ahead of Michael Niedermair & Henrik Baunkjær | **Yuma Kurokawa & Mayuka Sano** (JP): *"Wind Chime."* 598.5. ✅ *Settled: the official results page confirms the dpa report. The "Reflections" attribution was a mix-up with 2021.* |
+| 2024 | **Michael Niedermair** (IT): *"Behind the Door."* 600.8, just ahead of David Zatočil (599.2) | **Sigrid van Rijswijk & Whitney Cox** (NL). 651.4 |
+| 2025 | **Sigrid van Rijswijk** (NL): *"False Fortune."* 567.25, 2.5 pts over Židek | **Róbert Židek, Barbora Brožová & Gábor Tapolcai** (CZ): *"Our Fair Lady."* 687.25 |
+| 2026 | **Michael Niedermair** (IT): *"Burned Identity."* 598.5, ahead of Andrei Șerban (RO, 584.5) and Róbert Židek (CZ, 576.0). His second title in three years | **Barbora Brožová & Hendrik Bißlich** (CZ): *"Emily & Tom."* 708.5, ahead of Elia Beghini & Francesco Sava (IT, 701.75) |
+
+**Golden Banana** (funniest Aufguss, started 2021): 2026 went to **Hedda Marie Bay & Christopher Straume** (NO) for *"The Hangover."* 2025: Jos Van Campenhout (BE), *"The Mystery of the Missing Towel."* Worth knowing: the sport has a prize for comedy, so a playful ritual isn't off-brand.
 
 **What the winning shows were made of:**
 
 - **"Behind the Door" (Niedermair, 2024).** An emotional portrait of a tortured artist who is afraid of the world. The scent carried the emotion: **rhododendron, styrax, frankincense and birch** were layered into "an agonized aromatic journey." The lesson: **scent can carry the story arc** from dark and resinous to fresh and green.
 - **"False Fortune" (van Rijswijk, 2025).** Guests "enter" the shop of Charlotte, a fake fortune teller. The show opens with a customer arriving, then darkness and a crack of thunder. When the light returns, Charlotte is at her table. She reads the customer's future, and the customer draws the Devil card. The twist is that Charlotte starts to realize she may really have the gift. The lessons: **a blackout/sound cue as the threshold**, a single strong character, and a **turn** in the middle of the story.
-- **"Reflections" (van Rijswijk & van Mierden, 2023).** A two-person show built on mirroring and symmetry. Mirrored towel work is one of the most striking things a team can do.
+- **"Reflections" (van Rijswijk & van Mierden, 2021).** A two-person show built on mirroring and symmetry. Mirrored towel work is one of the most striking things a team can do.
 - **Rob Keijzer era.** Helped define the modern show: music, light and sound cues, freestyle plus classic technique, and "beautiful transitions." Other famous shows have acted out Shakespeare or *Top Gun*.
 
 **Pattern across the winners:** one clear emotional arc, scent that changes with the story, a strong opening moment, heat that escalates round by round, and a quiet or resolving ending. They're built like a three-act play, which is the same seven-part ritual shape from section 2.
