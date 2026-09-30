@@ -18,7 +18,7 @@ Hire plan: [[Hiring — Business Operations Assistant (Sept 2026)]]
 | Hire? | **Yes** = OK as a contract-phase project. **W-2** = recurring or scheduled work, hold until they convert (1099 rule in the hiring doc). **Assist** = owner or vendor does it, hire chases/drafts. **No** = owner only |
 | Guide | SOP number in the How-To Guides file |
 
-Physical work goes to **Facilities hire (Jonah)**. Grant stays on the V2 build only (Davey, 9/30), and Zach is being phased out. Until the facilities hire starts, these sit unassigned.
+Physical work goes to **Facilities hire (Jonah)**. Grant's queue (offsite 9/30): V2 privates, then the social sauna rebuild, then the waterfall, then the marina Rose. No punch-list work, and Zach is being phased out. Until the facilities hire starts, these sit unassigned.
 
 **Purchases:** month 1, every purchase gets an owner OK first. After that, routine buys go on auto (limit TBD, Q6).
 
@@ -30,7 +30,7 @@ Sorted by priority. This is the day-1 queue.
 
 | # | Item | Biz | Pri | Owner | Effort | Status | Hire? | Guide |
 |---|---|---|---|---|---|---|---|---|
-| H2 | Waiver update: add a pregnancy disclaimer + heart conditions + medications to the guest waiver in Periode. Hire drafts, owners approve the wording | E&E | P1 | New Hire (owners approve text) | M | Open since spring (Todo High). Todd review? (Q2) | Assist | SOP-8 |
+| H2 | Waiver update: add a pregnancy disclaimer + heart conditions + medications to the guest waiver in Periode. Hire drafts, owners approve the wording | E&E | P2 | New Hire (owners approve text) | S | Checked 9/30: live "Waiver 0" (on all 6 booking products) already says "pre-existing medical condition or pregnant, consult a physician" and lists cardiac distress as a sauna risk. Missing: naming heart conditions, blood pressure, and heat-affecting medications. Todd review? (Q2) | Assist | SOP-8 |
 | H3 | Event waivers: guests at member/themed nights sign on the iPad at the door | E&E | P1 | New Hire | S per event | Decided Aug 13 (iPad at entrance). Hannah's Aug 2 question never answered in Slack | Yes | SOP-8 |
 | H4 | Mario: get the parts list, order, and a monthly stove maintenance schedule on paper | E&E | P1 | New Hire → Mario | M | Hannah took it 9/1, nothing posted. Stove failed 3x in 4 weeks | Assist | SOP-4 |
 | H5 | Build a 3-5 name emergency gas tech call list (name, phone, hours, rate) | E&E | P1 | New Hire | M | Jonah asked 8/27, never delivered | Yes | SOP-12 |
@@ -94,6 +94,10 @@ Sorted by priority. This is the day-1 queue.
 | H63 | V2 website pages: write the brief for Jess (copy, photos from H61, booking link from H62). Update the current Squarespace site, not the full rebuild | E&E | P1 | New Hire → Jess | M | Offsite 9/30. Full rebuild stays parked to Jan | Yes | SOP-2 |
 | H64 | Sauna Airstream freight: get 2-3 quotes to ship it from Door County, WI to Portland (dimensions, weight, trailer vs flatbed) | E&E | P3 | New Hire | M | Offsite 9/30. Quotes only, no booking | Yes | SOP-12 |
 | H65 | Marina slip cabanas: research + unit economics (who else does it, build/buy cost per unit, price per day, how many slips, what the insurer needs) | ET | P3 | New Hire researches, owners decide | L | Offsite 9/30. Start in Jan. Target live by Memorial Day 2027 | Yes | SOP-12 |
+| H66 | Food concept research: oyster/ceviche bar, juice bar, focaccia, perpetual soup. Oregon/Multnomah permits (raw shellfish especially), commissary kitchens, 3-5 local pop-up partners who could test it with us, what similar spots charge. No alcohol on our license | ET / E&E | P4 | New Hire researches, owners decide | L | Offsite 9/30. No timing set, do it when there's room | Yes | SOP-12 |
+| H67 | Social sauna rebuild downtime (~5 Grant days): pick the closure days with owners (slowest days, Tue first), block Periode ahead of time, email/text members + upcoming bookings, reschedule anyone affected | E&E | P1 | New Hire (owners approve dates) | M | Offsite 9/30. Right after V2 | Yes | SOP-1 |
+| H68 | IV hydration research: Oregon rules (medical director, who can place IVs), 3-5 Portland mobile IV companies that would run it on site for a revenue share, their pricing + insurance | E&E | P2 | New Hire researches, owners decide | M | Offsite 9/30. Confirm IV drips vs retail packets first (O22) | Yes | SOP-12 |
+| H69 | Practitioner build-to-suit research: demand (local LMTs, therapists, practitioners looking for space), what Portland rooms rent for, lease vs session-split models, insurance/license checklist for tenants | ET / E&E | P2 | New Hire researches, owners decide | M | Offsite 9/30 | Yes | SOP-12 |
 
 ---
 
@@ -148,8 +152,12 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | O14 | Occupancy vs bookings analysis | P4 | Davey | Deferred until V2 is built |
 | O15 | The Rose / Holman Dock / City talks (incl. Brandon's 8/18 email, and the Rose "leafs" vs shoreline cabanas options from the 9/30 offsite) | n/a | Davey + Jonah + Hannah B | Off the record. Never in the hire's view |
 | O16 | Downpour productization, Raft-Up | n/a | Davey | PARKED 2026-09-28 |
-| O18 | Sauna Airstream: ownership setup (lease / sell / contribute to ETE, run past Todd + Jonah), floating dock build or buy, where it moors | P3 | Davey + Jonah | Offsite 9/30. After the Dustin close (CapEx authority) |
+| O18 | Sauna Airstream: ownership setup (lease / sell / contribute to ETE, run past Todd + Jonah), floating dock build or buy, where it moors | P3 | Davey + Jonah | Offsite 9/30. After Oct 16 (new OA CapEx rules) |
 | O19 | Marina slip cabanas: go/no-go + budget, after H65 and a written yes from the insurer | P3 | Davey + Jonah | Offsite 9/30. Decide by Feb 2027 |
+| O20 | Food: where it lives (marina / E&E deck / Holman), run it ourselves or a partner, go/no-go on a pop-up test, and when | P4 | Davey + Jonah | Offsite 9/30. No timing set. After H66 |
+| O21 | Grant's queue sign-offs: social rebuild layout (seat count gained, door side, bench design), waterfall go, marina Rose scope + budget (spend over $10K after Oct 16) | P1 | Davey + Jonah | Offsite 9/30 |
+| O22 | IV hydration: IV drips or retail packets? Own it or partner? Which entity holds the medical liability? | P2 | Davey + Jonah (+ Todd Key) | Offsite 9/30. 1-3 month plan |
+| O23 | Practitioner spaces: where, how many rooms, rent model, who builds (Grant is booked through Dec) | P2 | Davey + Jonah | Offsite 9/30. 1-3 month plan |
 
 ---
 

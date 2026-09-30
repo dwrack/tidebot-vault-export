@@ -49,16 +49,55 @@ Davey's personally owned **sauna Airstream**, currently in **Door County, WI**. 
 - Option 2: **cabanas on the shoreline**
 - [ ] Carry both into the Holman LOI / City conversation (Hannah B leads)
 
+### Food: a destination, not just a sauna add-on
+Ideas: **oyster + ceviche bar**, **juice bar**, **focaccia**, and maybe an **"immortal soup"** (a perpetual stew: one pot that never empties, topped up daily). The point is for people to come **just for the food**, a new reason to show up that doesn't need a sauna slot.
+- Builds on the existing marina concepts **Oyster Hour** and the **Dock Galley** (Boater Segment Strategy, Aug 2026)
+- **Alcohol rule still stands:** we never serve it ourselves. Third-party OLCC caterer or BYO on your own vessel only
+- **Raw seafood is the hard part:** oysters and ceviche need a licensed kitchen or commissary, a Multnomah County food license and shellfish tag records. Juice, focaccia and soup are much easier
+- Open: **timing (no goal set yet)**, where it lives (marina, E&E deck, Holman), and whether we run it or bring in a partner operator
+- **Claude's take:** test it with a partner first (an existing oyster/juice pop-up on a few weekends) before building a kitchen. That shows whether people come just for the food, and spends none of our cash
+- [ ] Research: permits, commissary options, local pop-up partners, what similar spots charge (hire, H66)
+- [ ] Go/no-go on a pop-up test + location (owners, O20)
+
+### Grant's build queue: the 1-3 month plan (Oct-Dec 2026)
+In order. Grant does one at a time.
+
+| # | Build | Scope | Grant days on site | Why |
+|---|---|---|---|---|
+| 1 | **V2: the 2 private saunas** | Finish the build (see Build Status doc) | n/a | Rock #3, selling before Thanksgiving |
+| 2 | **Social sauna rebuild** (3 stages) | **a.** Remove the inner wall + cap the area under the seat (2 days). **b.** Build new modular benches off site, then install them (1 day). **c.** Move the door to the other side (2 days) | ~5 | **More capacity** in the social sauna, which is 63% of revenue |
+| 3 | **Waterfall plunge** | Build from the design brief (`Waterfall Plunge — Design Brief (Sept 2026).md`). Name still open | TBD | Every-guest feature on the public deck |
+| 4 | **The Rose, Elevated Tides marina version** | Start building a smaller Rose at the ET marina, a smaller version of the big downtown one | TBD | Proof of the Rose on our own property |
+
+**What this needs from everyone else:**
+- **Social rebuild downtime.** The social sauna is the engine, so every closed day costs real money. Build the benches off site first so on-site work stays at ~5 days. Put the closures on the slowest days (Tuesday is the worst day), block Periode ahead of time and tell members. Hire: H67.
+- **Capacity number.** How many seats does the social sauna gain? That feeds the winter revenue plan and the $300K-each math. (Open)
+- **Rose at the marina changes the sequence.** Building on ET property means no Holman LOI and no City sign-off, so a marina Rose can come **before** Holman instead of after it. It still needs: the new OA CapEx rules for spend over $10K (after Oct 16), a written yes from the insurer, and the gas heater approval path (EOS/KUSATEK) from the Rose research.
+- **Grant is fully booked through Dec.** That's another reason the Downpour stays parked.
+
+### Also in the 1-3 month plan: new wellness revenue
+**IV hydration ("liquid IV") business, sold on site.**
+- Open: IV drips (nurse-administered), or retail electrolyte packets like the Liquid I.V. brand? This note assumes IV drips.
+- IV drips are medical in Oregon: a medical director (MD/NP) signs off, an RN or other licensed provider places the line, plus medical malpractice insurance. It also needs its own entity or a partner so the medical liability stays off ETE's sauna policy.
+- Post-sauna guests are warm and dehydrated, so screening and a clear waiver matter even more.
+- **Claude's take:** bring in an existing mobile IV company (their nurses, medical director and insurance) for a revenue share. It's the same partner-first test as the food idea. Owning an IV business comes later, if the numbers show it's worth it.
+
+**Build-to-suit spaces for practitioners.** Private rooms built for massage therapists, therapists and other wellness practitioners, who rent them.
+- Rent income that needs none of our staff, and a reason for guests to stay longer (sauna, then massage).
+- Open: where they go (marina, the E&E site, or both), how many rooms, rent model (monthly lease vs per-session split), who builds them. Grant is booked through Dec.
+- Every practitioner carries their own license (LMT etc.) and liability insurance, with certs on file (H30) and ETE named as additional insured.
+
 ### How these rank against the plan and the hire (added 2026-09-30)
 
 | Tier | Item | Fits which part of the plan | Who does the work | When |
 |---|---|---|---|---|
 | **1. Now** | V2 privates launch (website, photos, Periode, insurance) | Rock #3, "V2 selling before Thanksgiving." Winter capacity funds hire 1 | Hire: photos, Periode setup, insurance quote (H26, H61-H63). Jess: website pages. Owners: pricing + final sign-off | Oct-Nov |
-| **2. Quote now, decide after the close** | Sauna Airstream to Portland | Needs CapEx authority + OA rules, so it waits on the Dustin close (O1). Insurance quote rides with H26 | Hire: insurance + freight quotes (H26, H64). Owners: ownership setup + dock (O18) | Quotes in Oct. Decide Nov. Place it in spring 2027 |
+| **2. Quote now, decide after Oct 16** | Sauna Airstream to Portland | Needs the new OA CapEx rules (after Oct 16). Insurance quote rides with H26 | Hire: insurance + freight quotes (H26, H64). Owners: ownership setup + dock (O18) | Quotes in Oct. Decide Nov. Place it in spring 2027 |
+| **Idea stage, no timing set** | Food: oyster/ceviche, juice, focaccia, perpetual soup | Dock Galley / Oyster Hour. A new draw that needs no sauna capacity. Pop-up partner test first | Hire: permits + partner research (H66) when there's room. Owners: location + go/no-go (O20) | **No target yet** (Davey 9/30: not sure of timing) |
 | **3. Design in winter, build in spring** | Marina slip cabanas | Low-risk ET revenue on slips we already control. Insurer says yes in writing first | Hire: research + unit economics (H65). Owners: go/no-go + budget (O19) | Research Jan. Build Mar-Apr. Live by Memorial Day 2027 |
 | **4. Stays in the Holman track** | Rose "leafs" / shoreline cabanas | Holman LOI + Rose 1.0 feasibility (rock #7) | Owners + Hannah B only. **Never in the hire's view** (O15) | With the LOI |
 
-**Rule:** nothing in tiers 2-4 takes owner hours away from rocks 1-3 before the Dustin close and V2 launch.
+**Rule:** nothing in tiers 2-4 takes owner hours away from rocks 1-3 before the V2 launch.
 
 **On the $300K each:** that's $600K a year in owner income, more than the whole Oct 2027 target of $500K+ TTM revenue for E&E. It can't come from the boat alone, even with V2. It needs the network (V2 + Airstream + cabanas + marina + Rose), market-rate owner pay, and the two of you out of operator roles. Decision 7 (the 1-year revenue target) has to be set from this number backward. Jonah (CPA) should turn "$300K each" into a revenue and margin target per entity.
 
@@ -263,10 +302,10 @@ Seven is too many. **Cut to 5.** My pick for what drops: 6 moves to January, and
 
 | Park | Until | Why |
 |---|---|---|
-| Full Rose 2.0 engineering | 2027 | No site, no entity, $2M+ |
+| Full Rose 2.0 engineering | 2027 | No site, no entity, $2M+. (A smaller Rose at the ET marina is ON, Grant starts after the waterfall, per 9/30) |
 | Raft-Up / alcohol-adjacent events | **PARKED 2026-09-28 (Davey + Jonah)** | Liability |
 | Downpour productization (whole project) | **PARKED 2026-09-28 (Davey + Jonah)** | Grant bandwidth, entity question |
-| Waterfall plunge build | V2 done | Same |
+| ~~Waterfall plunge build~~ | **UNPARKED 2026-09-30:** Grant builds it after V2 + the social rebuild | |
 | Website rebuild | Jan (unless V2 launch needs it) | Squarespace works today |
 | Community funding launch | Post-close + ET mark settled | Legal |
 | New weekday promos beyond 2 | Q1 | Focus |

@@ -253,3 +253,12 @@ _2026-09-30_
 - T2 rim ramp: ~22 degrees average, ~28 at most (was ~27 average, ~34 at most). Peak height unchanged at 5.0 m.
 
 **Tradeoffs:** the jump tip now reaches ~1.4 m past the float edge (was ~2.3 m), so jumpers push out a little to clear it. The rim from the peak down to the crown landing is shorter and steeper (~21 degrees); T1 stair is still the way up and down. A truly gentle ramp (~10 degrees) would need ~27 m of petal or a much lower jump.
+
+## v0.42: Seat steps
+_2026-09-30_
+
+**Davey:** "could the stairs be just inside seating that stretches along the inside that can be seating or stairs up to the height of the top of the rose where you can enter it?"
+
+**What changed:** T1 is now seat-steps instead of a plain stair. Same route (from the deck by fire rose F1, wrapping around the fire along the inside of P1, up to crown height at C7), but rows 2-4 climb in 8 bench-height steps (~39 cm rise, ~87 cm deep), so every step is a seat. Rows 0-1, on the fire side, are an aisle doing the same climb in 16 half steps (~20 cm) for walking. The seat steps sit against the rim ramp (T2), which works as their backrest.
+
+**Open:** bench length per step is ~1 m (2 people side by side); widening the band would take seats from the lower stadium rows. People sitting on the steps face along the petal with the fire beside them, not straight at it.
