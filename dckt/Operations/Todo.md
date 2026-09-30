@@ -2,14 +2,7 @@
 
 ## From guide logs (recovered 2026-09-30, sync was down since Jul 24)
 _Audio-log items. Some were invented by a transcription bug, review before acting._
-- [ ] [Guide log] Replace the snapped right rudder cable on the identified tandem kayak. _(Torey (audio log), 2026-08-18)_
-- [ ] [Guide log] Fix loose skeg on Kayak 7. _(Mark (audio log), 2026-09-05)_
-- [ ] [Guide log] Double-check the specific kayak mentioned for loose seating next time. _(Alex (audio log), 2026-08-14)_
 - [ ] [Guide log] Inspect and repair the blue tandem kayak with a hairline crack near the drain plug. _(Lucas (audio log), 2026-08-11)_
-- [ ] [Guide log] Replace fraying bungee cord on the front of one tandem kayak. _(Ryan (audio log), 2026-08-08)_
-- [ ] [Guide log] Repair one dry bag with a small tear. _(Tyler (audio log), 2026-08-08)_
-- [ ] [Guide log] Paddle number three blade is a little bit loose, needs attention. _(Captain Matt (audio log), 2026-08-02)_
-- [ ] [Guide log] Add lubricant to kayak 7's rudder. _(Josh (audio log), 2026-08-02)_
 
 ## High Priority
 - [ ] 🔴 **E-bike minimum age conflict — resolve before publishing anything.** David says 12 if they fit the bike. Both Wisconsin e-bike waivers (drafts pending attorney review) and the Guide Certification Quiz say 16. **Update Aug 15 (pass 40):** fleet class confirmed Class 2 (self-declared in `Waiver — Self-Checkout E-Bike Rental` line 23), which carries no Wisconsin state age minimum, that half of the blocker is closed. Only open step now: ask the carrier whether the policy itself sets a minimum operator age. If it clears, update the two waivers + quiz FIRST, then the page. (D)
@@ -77,7 +70,6 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
-- [ ] [Guide log] Consider preparedness for cooler weather conditions on future trips to enhance guest comfort. _(Tyler (audio log), 2026-08-04)_
 - [ ] [Guide log] Clean the kayaks. _(Dave (audio log), 2026-07-22)_
 - [ ] [Guide log] Ensure all paddles are accounted for. _(John (audio log), 2026-06-16)_
 - [ ] [Guide log] Check condition and seal of the dry bag used for the first aid kit, as it popped open during the trip and some items got wet. _(Alex (audio log), 2026-06-08)_
