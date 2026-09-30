@@ -171,7 +171,7 @@ Juries score: **increase and distribution of heat**, **waving technique**, **fra
 | 2014–16 | **Rob Keijzer** (NL). Unbeaten three years running, the "Hall of Fame" name in the sport | — |
 | 2019 | **Karolina Jarząbek** (PL). First woman to win singles | — |
 | 2022 | **Laura Lenders** (NL) & **Maciej Piczura** (PL). Historic shared first place | **Simone Mannelli & Massimo Gelli** (IT). 599 pts |
-| 2023 | **Róbert Židek** (CZ), ahead of Michael Niedermair & Henrik Baunkjær | **Sigrid van Rijswijk & Rianne van Mierden** (NL): *"Reflections"* |
+| 2023 | **Róbert Židek** (CZ), ahead of Michael Niedermair & Henrik Baunkjær | ⚠️ *Sources conflict:* **Sigrid van Rijswijk & Rianne van Mierden** (NL), *"Reflections"*, vs. German press (dpa) naming **Yuma Kurokawa & Mayuka Sano** (JP). Verify on aufguss-wm.com |
 | 2024 | **Michael Niedermair** (DE): *"Behind the Door"* | **Sigrid van Rijswijk & Whitney Cox** (NL) |
 | 2025 | **Sigrid van Rijswijk** (NL): *"False Fortune"* | **Róbert Židek, Barbora Brožová & Gábor Tapolcai** (CZ/SK/HU): *"Our Fair Lady"* |
 | 2026 | Held Sept 13–20 at Satama. *Results not yet findable online. Check aufguss-wm.com.* | |
