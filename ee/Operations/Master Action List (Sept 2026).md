@@ -164,18 +164,18 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | O18 | Sauna Airstream: ownership setup (lease / sell / contribute to ETE, run past Todd + Jonah), floating dock (option: the brick float) or buy/build, where it moors, tow plan to Milwaukie | P1 | Davey + Jonah | Offsite 9/30. After Oct 16 (new OA CapEx rules) |
 | O19 | Marina slip cabanas: go/no-go + budget, after H65 and a written yes from the insurer | P3 | Davey + Jonah | Offsite 9/30. Decide by Feb 2027 |
 | O20 | Food: where it lives (marina / E&E deck / Holman), run it ourselves or a partner, go/no-go on a pop-up test, and when | P4 | Davey + Jonah | Offsite 9/30. No timing set. After H66 |
-| O21 | Grant's queue sign-offs: social rebuild layout (seat count gained, door side, bench design), waterfall go, marina Rose scope + budget (spend over $10K after Oct 16) | P1 | Davey + Jonah | Offsite 9/30 |
-| O22 | IV hydration (nurse-run drips, decided 9/30): build our own (hire nurses + medical director) or bring in an operator for a %? Which entity holds the medical liability? | P2 | Davey + Jonah (+ Todd Key) | Offsite 9/30. 1-3 month plan |
+| O21 | Grant's queue sign-offs: social rebuild layout (seat count gained, door side, bench design), waterfall go, marina Rose (WORKING sauna, decided 9/30) scope + budget (spend over $10K after Oct 16) | P1 | Davey + Jonah | Offsite 9/30 |
+| O22 | IV hydration (nurse-run drips, decided 9/30): Davey leans toward an operator for a % (plate is full). Confirm with Jonah. Which entity holds the medical liability? | P2 | Davey + Jonah (+ Todd Key) | Offsite 9/30. 1-3 month plan |
 | O23 | Practitioner spaces: where (option: Grant builds out the gifted floating structure, bigger than the brick, ours to use as we please), how many rooms, rent model, and where it sits in Grant's queue | P2 | Davey + Jonah | Offsite 9/30. 1-3 month plan |
 | O24 | Building on the water: book one BDS early-assistance meeting covering the whole marina plan, pick one Oregon Engineer of Record, confirm the V2 floats' permit status, ask about the "c" environmental overlay for new floats/piling | P1 | Davey + Jonah | See `Building on the Water — Title 28 Brief (Sept 2026).md` |
 | O25 | Restated OAs: new ownership % + stalemate/deadlock clause (tiebreaker advisor, rotating deciding vote, or buy-sell trigger). Term sheet to Migchelbrink by Oct 15 (rock #2) | P1 | Davey + Jonah | Offsite 9/30 near-term goal |
-| O26 | Income + roles for L and Jac: define each role, pay, which entity pays | P1 | Davey + Jonah | Offsite 9/30 near-term goal |
+| O26 | Income + roles for L and Jac: define each role (or ask L and Jac to define their own), pay, which entity pays | P1 | Davey + Jonah | Offsite 9/30 near-term goal |
 | O27 | Turn $300K each + L/Jac pay into a revenue + margin target per entity (sets decision 7, the 1-year target) | P1 | Jonah (CPA) | Offsite 9/30 |
 | O28 | Real P&L + cash forecast, one sheet per entity, monthly (rock #6) | P2 | Jonah | Plan 9/28. Needed for O27 |
 | O29 | Retirement plan type per entity with the CPA, before year-end deadlines | P2 | Jonah | Plan 9/28 backcast |
 | O30 | ~~Paper the ETE to ET intercompany loan ($250,940)~~ **DONE: signed (Davey 9/30)** | done | Davey + Jonah | |
 | O31 | ETE charter boat (live May 1, 2027): by Oct 31, maritime attorney + insurer questions asked, budget + entity agreed | P2 | Jonah (his idea) | Plan 9/29 |
-| O32 | Gifted float: what goes on it (practitioners / IV / food), layout, Engineer of Record, and its slot in Grant's queue | P2 | Davey + Jonah | Offsite 9/30 |
+| O32 | Gifted float: what goes on it (practitioners / IV / food), layout, Engineer of Record, and its slot in Grant's queue (Davey 9/30: probably after the waterfall, before the marina Rose) | P2 | Davey + Jonah | Offsite 9/30 |
 
 ---
 

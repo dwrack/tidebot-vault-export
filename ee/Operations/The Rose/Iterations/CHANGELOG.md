@@ -353,3 +353,10 @@ _2026-09-30_
 - **People:** the white blobs are replaced everywhere with ~1.7 m figures (legs, arms, torso, head, hair; 6 skin tones; swimsuits and trunks in 8 colors). Anyone on a hot room tier, amphitheater row or seat step sits, facing the stove or their petal's fire. Kids are ~1.2 m. People lying on leaves and the slide keep their pose.
 
 **Open:** the two support ribs cross the pad's edges; the walking lane between them is ~2.3 m. Drainage off the pad back to the river (or filtered return) is still to design.
+
+## v0.51: The ceiling lifts off with the roof
+_2026-09-30_
+
+**Davey:** "there is a brown thing under the roof, so its hard to see the inside of the sauna, can you remove that brown thing? so when you lift off the roof, it is more visually easy to see"
+
+**What changed (viewer only, no design change):** the brown thing was the v0.14 acoustic ceiling (timber ribs over a dark slatted absorber), which was attached to the building instead of the roof, so it stayed put when the roof lifted. It now belongs to the roof: it lifts with it and fades almost fully out. The DJ booth and its rose-window roof also hide while the roof is lifted, so from above you look straight down into the hot room tiers and the pistil stove. With the roof on, nothing changes.
