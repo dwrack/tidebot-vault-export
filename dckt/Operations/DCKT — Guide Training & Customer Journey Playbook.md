@@ -45,13 +45,13 @@ Most guests come from TripAdvisor, Google, or a friend's recommendation. Your jo
 
 This is where most small operators lose people. Phone rings, no one answers, lead goes cold.
 
-**Automated (GHL handles):**
+**Automated (CRM handles):**
 - Missed call → immediate auto-text within 60 seconds
 - 3-message lead nurture if no booking within 24–72 hours
 
 **When a guide takes a call or text:**
 - Answer in the first ring if possible
-- Use their name immediately if it shows in GHL
+- Use their name immediately if it shows in the CRM
 - Ask: *"Have you been to Door County before?"* and *"Is this a special occasion?"*
 - Those two questions unlock everything — you know how to pitch the experience
 
@@ -62,13 +62,13 @@ This is where most small operators lose people. Phone rings, no one answers, lea
 ## Stage 3 — BOOKING
 *The transaction that should feel like a celebration*
 
-**Automated (GHL handles):**
+**Automated (CRM handles):**
 - Immediate booking confirmation with personal tone
 - Upsell to private tour within 30 minutes if group size fits
 - Cross-sell: Lykke Sauna, e-bike rental
 
 **For returning guests (3+ visits):**
-GHL flags them. Confirmation message is different:
+The CRM flags them. Confirmation message is different:
 > *"Welcome back — we've got something a little different planned for you this season."*
 
 **Human layer:**
@@ -81,7 +81,7 @@ If it's a large group, a milestone birthday, or a returning guest flagged in the
 
 Most tours start on the water. The best tours start 3 days before.
 
-**Automated sequence (GHL):**
+**Automated sequence (CRM):**
 
 | Message | Timing | Purpose |
 |---|---|---|
@@ -213,7 +213,7 @@ A great guide-taken photo is more shareable than anything else. It goes on Insta
 ---
 
 ## Stage 8 — POST-TOUR
-*Automated (GHL) + Human*
+*Automated (CRM) + Human*
 
 **Automated sequence (from SMS Bot SOP):**
 
@@ -260,7 +260,7 @@ That's not marketing. That's a relationship.
 
 ### Before Every Tour
 - [ ] Review the booking list — know every guest's name
-- [ ] Flag returning guests (2+ visits) in FareHarbor/GHL
+- [ ] Flag returning guests (2+ visits) in FareHarbor/the CRM
 - [ ] Note any special occasions (birthday, anniversary, first trip)
 - [ ] Check weather window — know the cancellation contingency in advance
 - [ ] Prepare your "ecological reveal" for the day

@@ -9,7 +9,7 @@
 - [ ] Confirm signed contract received via DocHub (Bella)
 - [ ] Launch permit — confirm status + renewal if needed (Bella to research)
 - [ ] Insurance — confirm carrier, renewal date, coverage details (Bella to confirm)
-- [ ] Send system access invites to Bella: Homebase, GHL, FareHarbor, DocuSign (David)
+- [ ] Send system access invites to Bella: Homebase, CRM, FareHarbor, DocuSign (David)
 
 ---
 
@@ -28,15 +28,15 @@
 ## 🟢 In Progress
 
 - [ ] Bella getting set up in Obsidian vault (this week)
-- [ ] Bella getting access to Homebase, GHL, FareHarbor, DocuSign (Friday call)
-- [ ] GHL guide comms automation — scoping (Bella + Rawgrowth.ai)
+- [ ] Bella getting access to Homebase, CRM, FareHarbor, DocuSign (Friday call)
+- [ ] CRM guide comms automation — scoping (Bella + Rawgrowth.ai)
 
 ---
 
 ## 📋 Backlog
 
 - [ ] Build DCKT website chatbot (port from NOLA Party Barge — Rawgrowth.ai)
-- [ ] Wire up FareHarbor → GHL for booking confirmations + reminders
+- [ ] Wire up FareHarbor → CRM for booking confirmations + reminders
 - [ ] UW Green Bay virtual supervisor certifications — explore as guide benefit (Bella's suggestion)
 - [ ] OKTA single sign-on — evaluate for future system access management (Bella's suggestion)
 

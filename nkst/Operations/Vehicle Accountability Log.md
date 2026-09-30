@@ -9,7 +9,7 @@
 
 ## How It Works
 
-**Guides:** After every tour, GHL sends an automatic text asking three questions. Reply with yes/no. Takes 60 seconds. That's it.
+**Guides:** After every tour, CRM sends an automatic text asking three questions. Reply with yes/no. Takes 60 seconds. That's it.
 
 **Contractor:** Reviews the log weekly. Flags any "no" answers, mileage milestones, or recurring issues. Follows up with the guide if anything is outstanding.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Post-Tour Guide Text (Sent by GHL Automatically)
+## Post-Tour Guide Text (Sent by the CRM Automatically)
 
 > "Hey [Name] -- quick wrap-up for today's tour. Three questions:
 > 1. Van back at Piety St, locked, no valuables left inside?

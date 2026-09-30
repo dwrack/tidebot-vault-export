@@ -9,8 +9,8 @@
 
 | # | Action | Owner | Effort | Impact | Status |
 |---|---|---|---|---|---|
-| 1 | GHL missed call text-back | Manager | 10 min | 🔥 High — 0 missed calls | ☐ |
-| 2 | FAQ auto-reply in GHL | Manager | 1 hr | 🔥 High — top questions repeat | ☐ |
+| 1 | CRM missed call text-back | Manager | 10 min | 🔥 High — 0 missed calls | ☐ |
+| 2 | FAQ auto-reply in the CRM | Manager | 1 hr | 🔥 High — top questions repeat | ☐ |
 | 3 | Group inquiry <2hr SLA | Manager | 0 min | 🔥 High — 96 group inquiries | ☐ |
 | 4 | Cancellation email template | Manager | 30 min | Medium — 34 manual emails | ☐ |
 | 5 | Post-tour review request SMS | Manager | 30 min | 🔥 High — 133 review emails already | ☐ |
@@ -19,7 +19,7 @@
 
 | # | Action | Owner | Effort | Impact | Status |
 |---|---|---|---|---|---|
-| 6 | FareHarbor → GHL webhook | David/Tech | 2 hrs | 🔥 High — 280 bookings | ☐ |
+| 6 | FareHarbor → CRM webhook | David/Tech | 2 hrs | 🔥 High — 280 bookings | ☐ |
 | 7 | Pre-tour 48hr reminder sequence | Manager | 1 hr | Medium — reduces no-shows | ☐ |
 | 8 | Viator listing optimization | Manager | 2 hrs | Medium — 2 OTA bookings | ☐ |
 | 9 | DocuSeal contractor e-sign | David | 3 hrs | High — removes paper chaos | ☐ |
@@ -29,7 +29,7 @@
 
 | # | Action | Owner | Effort | Impact | Status |
 |---|---|---|---|---|---|
-| 11 | GHL chatbot (FAQ → chatbot) | David/Tech | 1 day | 🔥 High — 24/7 answers | ☐ |
+| 11 | CRM chatbot (FAQ → chatbot) | David/Tech | 1 day | 🔥 High — 24/7 answers | ☐ |
 | 12 | Past-customer email campaign | Manager | 3 hrs | High — reactivation revenue | ☐ |
 | 13 | Upsell sequence (post-booking) | Manager | 2 hrs | Medium — add-on revenue | ☐ |
 | 14 | Corporate/group outbound | Manager | 4 hrs | High — B2B recurring bookings | ☐ |

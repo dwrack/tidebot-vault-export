@@ -17,7 +17,6 @@
 - [ ] Submit Garrett Bay commercial launch permit to Town of Liberty Grove (D) -- OVERDUE, target was March 15
 - [ ] Confirm signed Bella contract received back via DocHub (D) -- unconfirmed as of Mar 27
 - [ ] Provide application link + deadline to Bella so she can send hiring emails (D)
-- [ ] GHL DCKT sub-account access for Bella (D)
 - [ ] Homebase manager-level access for Bella (D) -- note: API access not available at current plan
 - [ ] HR/onboarding system decision: Homebase + BambooHR vs Rippling vs WorkBright (D+B)
 - [ ] Decide where 2026 guide applications come in: FareHarbor form / Google Form / BambooHR (D+B)
@@ -36,7 +35,7 @@
 - [ ] E-signature platform: replace DocuSign with open source alternative (D)
 - [ ] Housing deposit collection process confirmed (D+B)
 - [ ] Accountant relationship + payroll flow confirmed (D+B)
-- [ ] Brief Bella on GHL guide comms project + chatbot (D)
+- [ ] Brief Bella on CRM guide comms project + chatbot (D)
 - [ ] Connect Bella with Conner Quarles (connerquarles13@gmail.com) at Rawgrowth.ai for chatbot (D)
 - [ ] HR/onboarding platform set up per decision (B)
 - [ ] Build digital W4/I9/direct deposit collection flow, ready before May training week (B)
@@ -67,6 +66,14 @@
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
+- [ ] [Guide log] Consider preparedness for cooler weather conditions on future trips to enhance guest comfort. _(Tyler (audio log), 2026-08-04)_
+- [ ] [Guide log] Clean the kayaks. _(Dave (audio log), 2026-07-22)_
+- [ ] [Guide log] Ensure all paddles are accounted for. _(John (audio log), 2026-06-16)_
+- [ ] [Guide log] Check condition and seal of the dry bag used for the first aid kit, as it popped open during the trip and some items got wet. _(Alex (audio log), 2026-06-08)_
+- [ ] [Guide log] Provide an update once all bike maintenance is complete _(Bella (audio log), 2026-05-31)_
+- [ ] [Guide log] Provide update once all bike maintenance is finished. _(Bella (audio log), 2026-05-31)_
+- [ ] [Guide log] Head over to Cave Point for a final double-check on wave conditions. _(Bella (audio log), 2026-05-31)_
+- [ ] [Guide log] Utilize the trailer dolly for moving trailers to improve efficiency and reduce risk of accidents. _(Jackson (audio log), 2026-05-18)_
 - [ ] Schedule 15-20 min video calls with Lea, Jackson, returning guides for bios (B) -- when social media strategists onboarded
 - [ ] Identify which returning guides should be interviewed for bios (B)
 - [ ] Schedule ebike guide interviews (separate question set) (B)
@@ -92,10 +99,10 @@
 - [ ] Gills Rock Mariner's Park partnership with Town of Liberty Grove (D)
 - [ ] Decide on Rippling for future HR scale-up (D)
 - [ ] Confirm all DBAs registered and current with Wisconsin DFI (D)
-- [ ] Returning customer tracking in GHL, "Paddler's Circle" (B)
+- [ ] Returning customer tracking in the CRM, "Paddler's Circle" (B)
 - [ ] 10th-visit recognition: physical marker at launch site (D)
 - [ ] DCKT website chatbot built + installed (D+B)
-- [ ] FareHarbor to GHL booking automation connected (B)
+- [ ] FareHarbor to the CRM booking automation connected (B)
 
 ---
 

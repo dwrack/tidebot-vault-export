@@ -32,6 +32,7 @@
 - [ ] Verify the July Google Ads plan was actually applied in the account: $25/day, Vancouver WA only (not BC), $1/day on "things to do in portland". Details: [[Google Ads Keyword Plan & Budget Decisions (2026-07-18)]]
 
 ## Medium Priority
+- [ ] DJ canopy glass should look like a rose for Ebb & Ember build
 - [ ] Ask Dustin for cost to purchase/design/build the plunge pod (Dustin)
 - [ ] Explore whether 4" toilet flange is right solution for plunge pod dump drain (Dustin)
 - [ ] Review 30-gallon tub option for cold plunge station
