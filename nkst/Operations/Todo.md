@@ -98,6 +98,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Tone down AI talk with guides, focus on "making you money" messaging (Dylan)
 
 ## Low Priority
+- [ ] [Guide log] Fill grey van's gas tank (currently 3/4 full) after tomorrow morning's tour. _(Emily Clarke (written log), 2026-10-01)_
 - [ ] [Guide log] Inspect and properly stow the life vest that was hung up. Ensure all life vests are readily accessible and not snagged. _(Joshua (audio log), 2026-09-12)_
 - [ ] [Guide log] Ensure timely submission of pre and post-trip logs. _(Lexi (audio log), 2026-09-10)_
 - [ ] [Guide log] Return Black Ford Transit after 9 AM tour tomorrow _(Stephanie (audio log), 2026-09-06)_
