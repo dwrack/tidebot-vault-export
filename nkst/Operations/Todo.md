@@ -19,6 +19,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Acquire more hangers for PFDs at Piety Street, as several are missing/broken. _(Stephanie (written log), 2026-10-07)_
 - [ ] [Guide log] Investigate the check engine light on the black van. _(Joshua (audio log), 2026-09-20)_
 - [ ] [Guide log] Investigate and clear the clogs at Shell Bank and The Woods on Lilies. _(Stephanie (audio log), 2026-08-31)_
 - [ ] [Guide log] Switch out the lopsided trailer in the front (most accessible pickup spot) with a different one. _(Chelsea (audio log), 2026-08-29)_
