@@ -21,6 +21,7 @@ _2026-09-27. The whole project on one sheet: every workstream, what's done, what
 | Drapes (partition only) | done in model | Fabric/track spec in brief section 6 |
 | Sensory layer (touch, sound, scent, light) | designed on paper | Brief section 7; prototype pending |
 | Acoustics | designed + in model | Brief "Interior acoustics plan" |
+| Inverted crown on the hot-room ceiling (steam rolls outward to the walls) | open | Decided 2026-10-07, brief decision 74. Not modeled; check vs 1.2 m bench clearance and absorber ceiling (Crown spec section 15) |
 | Calyx, sepals, stem boom, leaf floats | done in model | |
 | Accessible route (wheelchair to at least one tier and one lounge) | open | Not designed. Now part of section 9 (land to water), not a retrofit |
 | Changing, showers, restrooms, host station, storage | open | **On land, up top** (Davey 2026-09-30). Planned in section 9 |

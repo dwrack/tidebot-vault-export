@@ -56,3 +56,9 @@ Not covered: Google Search Console / GA4 numbers (the google-nola MCP was down) 
 - **wp-admin (blocked until FareHarbor fixes login):** prices, page titles, tagline/default description, Bayou Boogie wait line, Related Tours cards, hiding tours, footer link, 1253-2 slug.
 - **FareHarbor support ticket instead:** Product schema, the theme image alt text, and the login itself.
 - **Outside the site:** rename Yelp and TripAdvisor listings from "New Orleans Pedal Barge".
+
+## Progress
+
+- 2026-09-30: Prices fixed in wp-admin (Activities > each boat > Pricing tab) and verified on the live site. Freaky + Twerkin' $59 / $1,200, Bayou Boogie $59 / $800, Party Queen $59 / $900 (private up to 26). Price Sync is switched off on every activity, which is why they drifted.
+- 2026-09-30: SEO titles and meta descriptions set on 39 pages (each page's SEO tab: Title Tag + Meta Description), verified live. Recrawl of all 134 sitemap pages: 0 with Pedal in title or description. Old values are in `Site Titles and Descriptions Rewrite 2026-09-24.md` if anything needs rolling back.
+- 2026-09-30: Settings > General Site Title and Tagline changes did not stick (reverted within minutes, likely FareHarbor sync). Not needed now that every page has its own title/description.

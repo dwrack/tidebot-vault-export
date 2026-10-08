@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 5
-revenue_today: 298
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 96
+ad_spend_yday: 102
 status: yellow
-alert: "FH revenue down 80% vs 4-day avg; Google Ads back to healthy ROAS 3.82 yesterday"
-updated: 2026-09-30
+alert: "FareHarbor scrape blocked (403) for 10/7, 5th outage in 8 days, goal pace unavailable; ad spend still in normal range"
+updated: 2026-10-08
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace likely down from the prior brief's 192% reading** — that number was inflated by 9/28's $3,794 outlier day, which is rolling out of the trailing window. Yesterday's FH day (5/$298) was 80% below the $1,510/day 4-day average. Treat this account's daily swings as genuinely noisy, not just a reporting artifact.
-- **Google Ads conversion tracking looks recovered**: $75.88 spend yesterday, 57 clicks, 2 conversions, $37.94 CPA, ROAS 3.82 — a real rebound from the prior brief's flagged 0-conversion day. 7-day: $927.49 spend, 17.25 conversions, ROAS 1.86.
-- **Meta (`act_638850950128825`, shared with AKT) spend continues**: $20.16 yesterday on "Kayaks Awareness: In-Market - TourPPC," still engagement-only, no purchase actions logged yet.
+- **Goal pace: unavailable this run.** FareHarbor's scrape came back blocked (403 Cloudflare challenge, a new failure mode) for 2026-10-07 — the 5th outage in 8 days. Last known good day remains 10/4 at $417/4 bookings, now 4 days stale.
+- **Google Ads (8497383499, shared with AKT)**: $91.23 spend yesterday, 50 clicks, 0 conversions (below the $100 Tier-1 spend threshold, 7-day trend still healthy). 7-day: $558.82, 11.8 conversions, $47.35 CPA, 2.17 ROAS.
+- **Meta (`act_638850950128825`, shared with AKT)**: $11.14 yesterday on "Kayaks Awareness: In-Market - TourPPC", still engagement-only, no purchase actions logged yet.
 - 0 unreplied reviews.
 <!-- live:end -->
 

@@ -95,6 +95,9 @@ These are the findings that change the plan. Everything else in this doc is deta
 | 71 | Boat tie-up | One leaf on the river side of the stem plus cleats along the walkway (v0.29). **Pull-up traffic only, no overnight moorage** (Davey). That keeps it a transient courtesy dock, like Riverplace's public dock, which is the lightest permit class; still keep the fireboat lane clear |
 | 72 | Swings | Ideas listed 2026-09-28: petal-tip rope swings over the cove, swings under the jump petal's curl, low sepal swings for kids, hanging fire-nook benches, a crown two-seater facing the bridge, leaf-arch swings, thorn-cleat swings on the walkway, and one whole small petal as a 6-person swing on a steel arch from the crown. Over-water swings need 3 m of depth under the arc and follow the jump-petal insurance call. Not yet in the model; Davey to pick |
 | 73 | Stained glass | From Jonah's Ulaman (Bali) reference, saved in `Inspiration/`: red and amber leaded-glass stars, lit from inside at night. In the model (v0.30): an 8-point star in the sauna roof plate (glows from the hot room, seen from every amphitheater) and a star laid across the DJ canopy. This may be what "fire ceiling" was reaching for: a ceiling that glows like fire |
+| 74 | Hot-room ceiling | **No peaked ceiling.** An **inverted crown** on the hot-room ceiling: steam rises, hits it and rolls outward to the walls. The low crown lounge stays above (David, 2026-10-07, section 22) |
+| 75 | Private sections | **Dropped:** no 3-4 curtained private sections each with a fire (David, 2026-10-07, section 22). Drapes stay as decision 20 |
+| 76 | Stem | **Slide stays on the petal; the stem stays the swim boom and walkway** (David, 2026-10-07, section 22). Confirms decisions 39, 43, 55 |
 | 29 | Options | Petal lineup page with 6 characters: https://claude.ai/artifact/T99tEHYyXiAS9PSg8cT4uA |
 
 ## Decisions, round 2 (Davey, 2026-09-26, model v0.3 to v0.7)
@@ -665,6 +668,62 @@ Three ways to run it:
 3. **An open call with a jury.** You, Jonah, Kyle, one outside artist, one City person. The most Portland answer and the best PR, slowest.
 
 My pick: 2 with you holding the final say on every piece. Questions to settle: paid commissions or honoraria plus credit; who owns the pieces (ET, or artist-owned and leased); and whether the fire roses are one artist's set of five or five artists.
+
+## 22. Iteration: David's Oct 2026 ideas
+
+_Added 2026-10-07 from [[The Rose - David's Idea Notes (Oct 2026)]] (Apple Notes, Sep 24 to Oct 4). Raw ideas sorted against what's already decided. Nothing above was changed. Tags: **NEW** adds something, **ALREADY IN** is covered (file cited), **CONFLICT** clashes with a current decision._
+
+**Heat and airflow**
+
+| Idea | Where it fits | Tag |
+|---|---|---|
+| Interior roof comes to a point so steam rises and circles | Clashes with the crown lounge sitting right on the hot-room roof (decision 33) and the lowered crown in the Crown and DJ Booth Spec, section 15 (1.2 m over the top bench, 0.55 m roof stack, no room for a peak). The original bud ceiling with a 5.2 m oculus (section 4) was dropped for that. Circulation today comes from the air-mixing loop (section 6). **RESOLVED 2026-10-07 (decision 74):** no peaked ceiling; an inverted crown on the hot-room ceiling instead, low crown lounge stays above | **CONFLICT, RESOLVED** |
+| Vent holes under the stove and under the seats | Section 6, "Tiers and air": supply low near the stove, exhaust low on the far side, plus a purge vent. `Research/research_heat.md` puts the exhaust under the benches | **ALREADY IN** |
+| Sink the stove to floor level | The stove already sits on the pit floor 0.6 m below deck (section 4), KUSATEK units are low and wide at 80 cm max (section 6), and Crown spec section 15 sinks the hot room another 0.3 m. Going lower than the pit floor would put the stones below tier 1 and weaken the löyly | **ALREADY IN** |
+| Look at the EOS stove | Decision 2 and section 6: EOS natural gas via the KUSATEK line, custom core | **ALREADY IN** |
+
+**Form and layout**
+
+| Idea | Where it fits | Tag |
+|---|---|---|
+| Pistils inside hold the rocks, curved up and out | Decisions 6 and 15: steel stamen cages fanning up and out from the altar, stones along them | **ALREADY IN** |
+| 3-4 private sections, each with a fire and a curtained inside section | Drapes are partition-only with two modes, full or two petals curtained off (decision 20, section 5), and there are 3 doors (decision 5). One gas core heats the whole room (decisions 2, 15), so "a fire per section" means the outdoor fire nook (decision 13, section 17). Three sections lines up with the three doors; four needs a fourth door. **RESOLVED 2026-10-07 (decision 75):** dropped | **CONFLICT, RESOLVED** |
+| Petals as rooftop lounges with fire pits between them | Decisions 11, 13 and 25: open petals are the hangout decks, each amphitheater petal has a fire at its base, fire roses in section 17. Small difference: the fires sit centered in each petal, the clefts between petals hold doors (Pathways and Capacity, section 2) | **ALREADY IN** |
+| Sunken couch spaces on the petal tops | Not drawn. Best fit is the dock-side lounge petals, where furniture is still open (decision 27), or the crown's "sunken fire circle" option (decision 33). The amphitheater rims are jump edges and part of the lap walkway (Crown spec section 15), so couches don't go there | **NEW** |
+| Leaves as lily pads | Decisions 7, 31 and 45: leaf floats doubled in size for lounging, compound leaves of five leaflet floats each (Materials Plan: EPS core, rubber deck) | **ALREADY IN** |
+| The stem is a waterslide | That was the first concept (sections 1 and 10). Since then the slide moved to one fallen-petal slide (decisions 17, 39, Slide Petal Study) and the stem became the swim boom and walkway to the last leaf (decisions 43, 47, 55). **RESOLVED 2026-10-07 (decision 76):** slide stays on the petal, stem stays boom and walkway | **CONFLICT, RESOLVED** |
+| Hanging silk from the climbing wall | Not in any file. The wall is the jump petal's overhanging back over deep water (decisions 37, 40). Silks would have to hang clear of the climbers' fall line, and they go on the insurance broker call with the jumps and slide (Master Plan, step 4) | **NEW** |
+| Build the "weird room" perspective visual | A render task for the model or Blender scene (`Blender/`), a seated view from inside the hot room | **NEW** |
+
+**Details, sound and suppliers**
+
+| Idea | Where it fits | Tag |
+|---|---|---|
+| Rose-carved door handles | Parts Catalog & Raise Stack: the three doors get hand-forged handles as a blacksmith commission; section 8 lists printed door pulls. The rose motif is the brief for that commission | **ALREADY IN** |
+| Digital screen in a mirror | Not in any file. It can't go in the hot room (section 7: no electronics inside), so it fits the D1/D2 vestibules (Pathways and Capacity, section 8) or the changing rooms on land (Master Plan, section 9) | **NEW** |
+| Tuntu speaker / sauna instrument | Not in any file. Fits the sound and touch layer (section 7) and the sound commission (section 18). Candidates for "what on the Rose is an instrument": the pistil cages as tuned stamens, the bench transducers, the falls in the cold petal. Anything inside needs a heat rating | **NEW** |
+| Bluet floating solutions as a float supplier | Not in any file. Add to the float shortlist next to Topper (section 9) for the leaf floats, stem boom or sepals. The main float stays concrete-encapsulated EPS (Materials Plan). No outreach until the team approves Holman | **NEW** |
+
+**Brand lines**
+
+| Idea | Where it fits | Tag |
+|---|---|---|
+| "There is no war in the sauna" | Not in any file. A stage 1 tease line (section 12): it fits the communal, everyone-on-one-bench pitch. Attorney check alongside the name | **NEW** |
+| "It's a thorn" | The Thorn is already a rose-part name: the Thorn Circle founding tier (section 12), the thorn cleats (decision 46), and the Rose / Thorn / Bud site names (Master Plan, section 6). The Thorn sauna itself was removed (decision 10) | **ALREADY IN** |
+| The silent influencers / agents of change | Not in any file. Fits the founding ladder (section 12) as a name for the founding members or an invite-only ambassador group | **NEW** |
+
+**Count:** 8 NEW, 8 ALREADY IN, 3 CONFLICT (all 3 resolved by David, 2026-10-07, decisions 74-76).
+
+**Follow-up needed in other files (not edited yet):**
+- Crown and DJ Booth Spec, section 15: add a line that the hot-room ceiling carries an inverted crown (decision 74). It hangs down into the hot room, so check it against the 1.2 m clearance over the top bench and the 0.55 m roof stack, and against the absorber ceiling cassettes (Interior acoustics plan).
+- Master Plan, section 1: note the inverted crown under "Concept and design".
+
+### Open questions for David
+
+_Questions on the pointed ceiling, private sections and stem slide were answered 2026-10-07 (decisions 74-76)._
+
+1. **Silks:** over the water off the climbing wall (insurance call, clear of the fall line), or move them to the crown or an amphitheater?
+2. **Silent influencers:** the name for the founding members (replacing "Petal"), or a separate invite-only group?
 
 ## Status
 

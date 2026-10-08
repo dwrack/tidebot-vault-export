@@ -312,3 +312,5 @@ Davey: "Any reason it couldn't wrap around the whole rose? Can we reduce the hei
 **Jumps:** gated gaps along the climb at ~1.0, 1.5, 2.0, 2.7 m above water; petal-tip stair to the 5.5 m (18 ft) big jump. Depth rule of thumb 3.5 m+ under upper gaps, 4 m+ under the tip at low river (verify with soundings).
 
 **Rose 1.0:** 29 m lap climbs only ~1.45 m at 1:20; needs 1.5 laps, a 1:12 ramp, or stairs. **Still needed:** service stair behind the booth as the second exit.
+
+**Follow-up (2026-10-07, brief decision 74):** the hot-room ceiling under the crown gets an inverted crown that steam hits and rolls outward to the walls. It hangs into the hot room, so check it against the 1.2 m clearance over the top bench and the slatted absorber ceiling cassettes; the 0.55 m roof stack above stays as is.

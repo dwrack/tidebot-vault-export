@@ -150,7 +150,7 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | O3 | Stove ignition: finalize the gas conversion (control module changed) | P1 | Davey + Mario | Live note P1. Hire chases Mario (H4) |
 | O4 | Rotate the passwords posted in plaintext in Slack (Inkbird, Blink, Twilio, sauna@), move to 1Password | P1 | Davey | Flagged 9/19. Do before the hire gets Slack access |
 | O5 | Decide W-2 vs contract (Jonah as CPA) | P1 | Jonah | Hiring doc item 11 |
-| O6 | V2 sign-offs: windows glass spec, ceiling height, interior wood, benches, Grant's revised $46K number, TC Diving owner + float load | P1 | Davey + Jonah | Build Status doc |
+| O6 | V2 sign-offs: windows glass spec, ceiling height, interior wood, benches, **flooring (added 10/08)**, **vent locations: intake + exhaust vs the Torch stove (added 10/08)**, Grant's revised $46K number, TC Diving owner + float load | P1 | Davey + Jonah | Build Status doc |
 | O7 | Wavelink alert threshold + out-of-temp-range alert | P2 | Davey | Live note P1/P2 |
 | O8 | Pricing: boater %, corporate package, pricing revamp (L's 9/22 draft) | P2 | Davey + Jonah | Open |
 | O9 | Danesh / Monday Banya terms ($50/slot, comped membership, 1 vs 2 slots) | P2 | Davey | Unanswered since 8/31 |
@@ -176,6 +176,7 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | O30 | ~~Paper the ETE to ET intercompany loan ($250,940)~~ **DONE: signed (Davey 9/30)** | done | Davey + Jonah | |
 | O31 | ETE charter boat (live May 1, 2027): by Oct 31, maritime attorney + insurer questions asked, budget + entity agreed | P2 | Jonah (his idea) | Plan 9/29 |
 | O32 | Gifted float: what goes on it (practitioners / IV / food), layout, Engineer of Record, and its slot in Grant's queue (Davey 9/30: probably after the waterfall, before the marina Rose) | P2 | Davey + Jonah | Offsite 9/30 |
+| O33 | Funding options, current + future builds (added 10/08). **Current:** V2 privates + Grant's queue (social rebuild, waterfall): cash vs owner contribution vs equipment loan/line of credit; V2 presale (memberships / private-session packs before launch). **Future:** marina Rose, Airstream float, cabanas, gifted float, The Rose downtown: Community Funding Plan (Seed/Petal/First Bloom presale), event brand partners (Presenting $6K / Season $20K framework), SBA/bank debt, outside investors (ties to O25 OA terms). Jonah sizes what each entity can carry (O27/O28) | P1 | Davey + Jonah | New 10/08. Community funding blocked until post-close ownership settled |
 
 ---
 

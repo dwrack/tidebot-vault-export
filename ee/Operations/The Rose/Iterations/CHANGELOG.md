@@ -360,3 +360,12 @@ _2026-09-30_
 **Davey:** "there is a brown thing under the roof, so its hard to see the inside of the sauna, can you remove that brown thing? so when you lift off the roof, it is more visually easy to see"
 
 **What changed (viewer only, no design change):** the brown thing was the v0.14 acoustic ceiling (timber ribs over a dark slatted absorber), which was attached to the building instead of the roof, so it stayed put when the roof lifted. It now belongs to the roof: it lifts with it and fades almost fully out. The DJ booth and its rose-window roof also hide while the roof is lifted, so from above you look straight down into the hot room tiers and the pistil stove. With the roof on, nothing changes.
+
+## v0.52: One wide cascade instead of rain
+_2026-10-01_
+
+**Davey:** "can you make the waterfall area more of a wide waterfall, not just raining everywhere. more like a cascade"
+
+**What changed:** the three perforated rain rails (R1) are replaced by a single stainless lip about 3 m wide across the underside of the slide petal at r ~8.2 m. It pours one continuous sheet of water that arcs out slightly and drops onto the waterfall pad (R2), with a splash line where it lands. Walk through it or stand behind it. Pad, ribs and headroom unchanged.
+
+**Open:** lip flow rate and pump size; drainage off the pad still to design.

@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "generated_at": "2026-10-03T11:21:02.955Z",
+    "for_date": "2026-10-02",
+    "range": "last-7-days",
+    "timezone": "America/Chicago",
+    "revenue_field": "costs.total_cost.total"
+  },
+  "results": {
+    "doorcountykayaktours": {
+      "booked_count": 2,
+      "booked_revenue": 274,
+      "ran_count": 2,
+      "ran_revenue": 274,
+      "sms_refs": {}
+    },
+    "houstonpedalbarge": {
+      "booked_count": 1,
+      "booked_revenue": 143,
+      "ran_count": 2,
+      "ran_revenue": 242,
+      "sms_refs": {}
+    },
+    "lonestarkayaktours": {
+      "booked_count": 3,
+      "booked_revenue": 401,
+      "ran_count": 0,
+      "ran_revenue": 0,
+      "sms_refs": {}
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 2,
+      "booked_revenue": 245,
+      "ran_count": 3,
+      "ran_revenue": 450,
+      "sms_refs": {}
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 24,
+      "booked_revenue": 4648,
+      "ran_count": 32,
+      "ran_revenue": 7506,
+      "sms_refs": {}
+    }
+  },
+  "errors": {
+    "buffalobayoukayak": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://fareharbor.com/buffalobayoukayak/dashboard/reports/advanced/bookings/\", waiting until \"domcontentloaded\"\n"
+  }
+}

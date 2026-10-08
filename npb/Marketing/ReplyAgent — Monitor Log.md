@@ -10,3 +10,12 @@ One line per daily run of `~/.claude/scripts/replyagent-monitor/monitor.py` (run
 - 2026-09-28 | drafts 10 (blocked 0, warn 9) | queued 8 | posted 0 (removed 0) | ok
 - 2026-09-29 | drafts 12 (blocked 0, warn 11) | queued 8 | posted 0 (removed 0) | ok
 - 2026-09-30 | drafts 13 (blocked 0, warn 12) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-01 | drafts 14 (blocked 0, warn 13) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-02 | drafts 14 (blocked 0, warn 13) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-03 | drafts 14 (blocked 0, warn 13) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-04 | drafts 15 (blocked 0, warn 13) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-05 | drafts 16 (blocked 0, warn 14) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-06 | drafts 16 (blocked 0, warn 14) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-07 | drafts 18 (blocked 0, warn 16) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-08 | drafts 20 (blocked 0, warn 16) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-08 | drafts 20 (blocked 0, warn 16) | queued 8 | posted 0 (removed 0) | ok

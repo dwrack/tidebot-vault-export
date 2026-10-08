@@ -1,32 +1,32 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-09-30 (HBC's GBP build deadline is TODAY with zero movement in 32+ days. DCKT now has zero paid advertising running anywhere — Google Ads and Meta both dark. HPB Google Ads confirmed $0 for a second straight week. NPB's FareHarbor bookings recovered to 9/$1,808 after 9/28's near-zero day. ReplyAgent queues for NPB and Admire NOLA are backing up unapproved. No `meta-organic` server connected (Instagram organic skipped) and no Playwright browser available (HPB TikTok pull skipped).)*
+*Last refresh: 2026-10-08 (FareHarbor's scrape didn't just fail again for 10/7 — it changed failure mode, from timeouts to a 403 Cloudflare challenge page, suggesting the site may have added bot protection. 5th outage in 8 days; last good data is now 10/4, 4 days stale. Gravity Trails NOLA's Google Ads spent $465 yesterday with 0 real conversions, a second straight bad day. Buffalo Bayou's Kirk Craig review is now 8 days unreplied. DCKT's paid marketing is dark on both channels for another day, Toast POS shows $0 sales 3 days running. HPB's Google Ads enters a second full week dark. One bright spot: NPB's Meta pixel is confirmed firing again, a real $359 purchase landed yesterday at 2.2 ROAS.)*
 
 ## Right now
-- [[Daily Briefings/2026-09-30|Today's brief]]
+- [[Daily Briefings/2026-10-07|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Houston Booze Cruise — the GBP build deadline is TODAY (9/30)**, zero movement in 32+ days. Last business in the portfolio with no Google Business Profile.
-2. **Door County Kayak Tours — zero paid advertising running anywhere.** Google Ads confirmed $0 for the full trailing week, Meta returned no campaigns at all, and FH revenue is down 67% vs its 4-day average. Check billing on the Google Ads account today.
-3. **NOLA Party Barge & Admire NOLA — the ReplyAgent review queue needs manual approval.** Two "Action Required" emails are sitting unread, and it's why NPB has 10 unreplied 5-star reviews piling up from 9/28-9/29.
+1. **FareHarbor scrape is now blocked, not just failing** — today's error for all 6 tracked businesses is a 403 Cloudflare challenge, not the prior timeout. Last good data is 10/4, now 4 days stale. Worth a direct look at the scrape job.
+2. **Buffalo Bayou Kayak — Kirk Craig's 1★ review is now 8 days unreplied.** [Reply here](https://business.google.com/n/12969424608141307230/reviews).
+3. **Door County Kayak Tours — zero paid marketing running anywhere for another day**, and Toast POS shows $0.00 sales on 10/5, 10/6, and 10/7 during fall color season.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 24 | — | — |
-| Unreplied GBP reviews (all biz) | 26 (0× 1-3★, 26× 4-5★) | 27 (prior brief) | -1 |
-| FH bookings (6 biz on FareHarbor) | 26 | 35.5/day (4-day basis: 9/24, 9/25, 9/27, 9/28) | -9.5 |
-| FH revenue (6 biz on FareHarbor) | $3,090 | $6,613/day (same 4-day basis) | -$3,523 |
-| Total ad spend (G+M) | $659.66 | $655.46/day (7-day total ÷ 7) | +$4.20 |
-| Total ad-attributed conversions | ~4 | ~10/day (7-day total ÷ 7) | -6 |
+| Gmail unread | 50 (capped) | 50 (prior brief) | +0 |
+| Unreplied GBP reviews (all biz) | 33 (1× 1★, 1× 4★, 31× 5★) | 34 (prior brief) | -1 |
+| FH bookings (all biz) | — (scrape blocked, new 403 failure mode) | ~23.2/day (partial basis, stale) | n/a |
+| FH revenue (all biz) | — (scrape blocked) | ~$4,478/day (partial basis, stale) | n/a |
+| Total ad spend (Google + Meta) | $802.39 | $752.70/day (full 7-day basis, both channels now pulled) | n/a, basis improved |
+| Total ad-attributed conversions | ~3 | ~6.8/day (full 7-day basis, both channels now pulled) | n/a, basis improved |
 <!-- pulse:end -->
-*FareHarbor covers 6 of 13 businesses off 9/29 data. The trailing week is still thin — 9/23 is missing and 9/26 failed to scrape for every business, so the "7-day avg" above is really a 4-day average. DCKT and HPB Google Ads both confirmed $0 for a second straight week; DCKT's Meta account also returned zero campaigns, so Door County has no live paid channel anywhere right now. No `meta-organic` MCP connected this session (Instagram organic skipped). No Playwright browser available this session (HPB TikTok pull skipped). Full writeup in today's brief.*
+*FareHarbor's scrape for 10/7 failed with a new signature — a 403 Cloudflare challenge page instead of the prior `TimeoutError` — the 5th outage in the trailing 8 days, and possibly a sign FareHarbor added bot protection rather than this being a transient blip. Last good data remains 10/4, now 4 days stale. DCKT and HPB are both still dark on Google Ads across the full 7-day window, and DCKT's shared Meta account returned zero campaigns again. Gravity Trails NOLA's Google Ads spent $465 yesterday with 0 real conversions, a second straight bad day (see Top 3). NPB's Meta pixel is confirmed firing again — a real $359 purchase landed yesterday at 2.2 ROAS. No `meta-organic` MCP connected this session (Instagram organic skipped). Playwright's browser debug port is still unreachable (HPB TikTok pull skipped). Full writeup in today's brief.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-09-30]] (today)
-- [[Daily Briefings/2026-09-29]] (1 day ago)
-- [[Daily Briefings/2026-09-28]] (2 days ago)
-- [[Daily Briefings/2026-09-27]] (3 days ago)
-- [[Daily Briefings/2026-09-26]] (4 days ago)
-- [[Daily Briefings/2026-09-25]] (5 days ago)
-- [[Daily Briefings/2026-09-22]] (8 days ago)
+- [[Daily Briefings/2026-10-08]] (today)
+- [[Daily Briefings/2026-10-07]] (1 day ago)
+- [[Daily Briefings/2026-10-06]] (2 days ago)
+- [[Daily Briefings/2026-10-05]] (3 days ago)
+- [[Daily Briefings/2026-10-04]] (4 days ago)
+- [[Daily Briefings/2026-10-03]] (5 days ago)
+- [[Daily Briefings/2026-10-02]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
@@ -50,5 +50,5 @@
 - [[Brand Nemesis Framework]]
 
 <!-- ad-optimizer:start -->
-> 📉 Ad Optimizer: 9 changes to approve, 8 advisories — see 00 Dashboard/Ad Optimizer
+> 📉 Ad Optimizer: 1 changes to approve, 10 advisories — see 00 Dashboard/Ad Optimizer
 <!-- ad-optimizer:end -->
