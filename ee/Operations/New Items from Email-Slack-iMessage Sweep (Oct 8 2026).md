@@ -98,7 +98,7 @@ IDs: E = email, S = Slack, N = iMessage. "Updates" tables refer to Master List I
 | N2 | CWW lender consent ("Jim"): no verbal yes, no backup plan. If no, Seaworthy keeps 35% + veto | ET | Jonah | Jonah, 10/3 | Oct 16 |
 | N3 | Confirm Jonah sent Todd the full Columbia Way agreement | ET | Jonah | Todd group, 10/1 | Feeds CWW consent |
 | N4 | Ownership % for ET + ETE: Jonah waiting on you | ET/ETE | Davey | Jonah, 9/27 + 10/6 | Input for restated OAs (O25), due Oct 15 |
-| N5 | Slip 9: confirm the $10K earnest wire reached WFG; Jonah starting financing | ET | Davey / Jonah | Jonah, 10/6 | Not on list. Is this business or personal (like Slip 7)? |
+| N5 | Slip 9: $10K earnest SENT by Davey (confirmed 10/8); Jonah starting financing | ET | Davey / Jonah | Jonah, 10/6 | Not on list. Is this business or personal (like Slip 7)? |
 | N6 | Swim area: buoy-rope L-shaped enclosure + steps into water on downriver dock + something at the jump spot | E&E+ET | Davey + Jonah | Jonah, 10/6 | You want it for insurance coverage |
 | N7 | Insurance: Jonah says he's already on it. Pull carrier/renewal date from him (don't start fresh) | E&E+ET | Jonah | Jonah, 9/24 | Feeds H26 |
 | N8 | Grant told (10/8) to cancel all outside work. Confirm his V2 signed estimate + deposit actually got paid (asked 8/31) | E&E | Davey + Jonah | Grant group, 10/8 | We now owe him a full queue |

@@ -59,7 +59,7 @@ One list. Merges [[Master Action List (Sept 2026)]] (incl. section 5, Davey's me
 - [ ] Jonah: monthly P&L + cash forecast per entity; retirement plans before year-end
 - [ ] Roles + pay for L and Jac (L said 9/30 they can't cover Periode work in short weeks)
 - [ ] Slip 7 meeting: you, Jonah, Jacqueline (+ Adrian?)
-- [ ] Slip 9: confirm the $10K earnest wire reached WFG. Business or personal?
+- [ ] Slip 9: $10K earnest sent by Davey (done). Still open: business or personal? Jonah starting financing
 - [ ] Line of credit: vet Max + Norah replies (true LOC with APR, not an MCA). Compare with your bank
 - [ ] Funding plan for current + future builds (O33)
 - [ ] Slip rent to ET: paused until ___. Silence the Dockwa reminders ($4,500 showing)
