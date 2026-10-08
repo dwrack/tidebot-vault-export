@@ -177,6 +177,7 @@ Hire tracks these on the punch sheet (H22/H23). They don't do the work. All were
 | O31 | ETE charter boat (live May 1, 2027): by Oct 31, maritime attorney + insurer questions asked, budget + entity agreed | P2 | Jonah (his idea) | Plan 9/29 |
 | O32 | Gifted float: what goes on it (practitioners / IV / food), layout, Engineer of Record, and its slot in Grant's queue (Davey 9/30: probably after the waterfall, before the marina Rose) | P2 | Davey + Jonah | Offsite 9/30 |
 | O33 | Funding options, current + future builds (added 10/08). **Current:** V2 privates + Grant's queue (social rebuild, waterfall): cash vs owner contribution vs equipment loan/line of credit; V2 presale (memberships / private-session packs before launch). **Future:** marina Rose, Airstream float, cabanas, gifted float, The Rose downtown: Community Funding Plan (Seed/Petal/First Bloom presale), event brand partners (Presenting $6K / Season $20K framework), SBA/bank debt, outside investors (ties to O25 OA terms). Jonah sizes what each entity can carry (O27/O28) | P1 | Davey + Jonah | New 10/08. Community funding blocked until post-close ownership settled. **10/08: Davey sent line-of-credit requests + 4 months of bank statements to Max (blockheartshare.co) and Norah (colbymatrix.co) from davey@. Awaiting replies; vet terms (MCA vs true LOC) before signing** |
+| O34 | Mario: fireplace gas plumbing in the same trip as the V2 gas + water lines (see section 5) | P1 | Davey + Jonah → Mario | New 10/08 |
 
 ---
 
@@ -231,6 +232,7 @@ Answered 2026-09-30 and applied: member meeting (removed), purchases (all approv
 | O26 | Slip 7 meeting: Davey + Jonah + Jacqueline (+ Adrian?) to get it moving | Schedule |
 | H26 | Insurance: what's the renewal date? Start getting quotes now (V2 privates + Airstream in same round) | Get current policy from Jonah, then quote requests |
 | O3 / H4 | Natural gas conversion is DONE. Next: Mario installs gas + water lines on the V2 privates | Book Mario |
+| **O34 (P1)** | **While Mario is on site for the V2 gas + water lines, have him also run gas plumbing for the fireplaces in the same trip** (added 10/08, raised to P1) | Get Mario's quote for V2 lines + fireplace gas together; confirm fireplace locations/specs first |
 | H6 / F2 | Davey thinks the Sept CO alarm was the thermostat | Confirm which device went off; still do a CO spot-check in the gas sauna (Sauna Congress note) |
 | F1 | Ramp wheels: is it still true? | Ask Jonah |
 | Q7 | Facilities covered-ish. Meeting Adrian 10/9; Alex Brad reached out to Jonah. Target: someone hired by Mon 10/12 | Interviews 10/9 |
