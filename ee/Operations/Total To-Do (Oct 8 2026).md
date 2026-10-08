@@ -89,3 +89,15 @@ One list. Merges [[Master Action List (Sept 2026)]] (incl. section 5, Davey's me
 - Periode custom booking UI direction
 - Danesh Banya terms + pricing revamp
 - The hire's day-1 queue: Master Action List section 1
+
+## David's answers (Apple Note, Oct 8 evening)
+From [[Before Oct 16 (Dustin close + operating agreements)]]:
+- **Dustin $125K wire:** final doc dates unknown. Waiting on Todd by email, keep an eye out.
+- **Funding ($40K ET + $42.5K each at 7%):** yes, final call depends on the current Elevated Tides bank balance.
+- **Dustin's notes to Jonah's side first:** confirmed. Deadline this coming Tuesday (Oct 13).
+- **CWW consent:** Jim has his lawyers reviewing. Looks good once he replies.
+- **Columbia Way agreement to Todd:** Jonah sent it. Done.
+- **Slip 7 meeting:** need design picks for flooring, trim, wall paint. Ask Jonah for vanity, floors, and the master sheet of everything that needs choosing.
+- **Slip 9 $10K earnest:** business investment, not personal.
+- **Line of credit:** David applied for 2. Waiting to hear back.
+- New items at the bottom of the note: swimming floats around the sauna; new website for Elevated Tides and Ebb & Ember.
