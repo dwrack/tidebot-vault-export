@@ -217,3 +217,24 @@ Answered 2026-09-30 and applied: member meeting (removed), purchases (all approv
 5. ~~Rain garden~~ ANSWERED: it's the waterfall plunge (H60).
 6. After month 1, what's the auto-buy limit per item (I'd say $100)? Company card or reimburse?
 7. Ramp wheels (P1, structural damage every low tide) have nobody until the facilities hire starts. Stay parked, or pay someone one-off?
+
+---
+
+## 5. Davey's notes from the Jonah meeting (2026-10-08)
+
+| Ref | Davey's call / ask | Next step |
+|---|---|---|
+| O1 | Pay Dustin by wire, with days to spare before Oct 16 | Confirm amount, due date, who funds it (ET/ETE cash + 50/50 owner loans) |
+| O25 / O2 | Wants a clear picture of Jonah's past sweat equity: what it's worth, how it maps to the % split, and how it squares with his back pay + future comp asks. Davey's view: back pay at 15% of gross walks back the sweat equity. Counter: a larger cash payout to Jonah + a more equitable % split | Build a one-page sweat equity / capital picture before the OA term sheet (Oct 15) |
+| O6 | V2 sign-offs now include flooring + vents. **New: build the V2 privates web pages now, presale-ready, on a trigger. Davey wants a fully redesigned site and thinks it's a one-late-night job** | Pick prototype direction (O11), then build |
+| O21 / O25 | Spending rules ($10K CapEx) are settled. Write them into the new OA structure | Add to OA term sheet |
+| O26 | Slip 7 meeting: Davey + Jonah + Jacqueline (+ Adrian?) to get it moving | Schedule |
+| H26 | Insurance: what's the renewal date? Start getting quotes now (V2 privates + Airstream in same round) | Get current policy from Jonah, then quote requests |
+| O3 / H4 | Natural gas conversion is DONE. Next: Mario installs gas + water lines on the V2 privates | Book Mario |
+| H6 / F2 | Davey thinks the Sept CO alarm was the thermostat | Confirm which device went off; still do a CO spot-check in the gas sauna (Sauna Congress note) |
+| F1 | Ramp wheels: is it still true? | Ask Jonah |
+| Q7 | Facilities covered-ish. Meeting Adrian 10/9; Alex Brad reached out to Jonah. Target: someone hired by Mon 10/12 | Interviews 10/9 |
+| O24 | BDS early-assistance meeting is for the Rose. Meet with Hannah B first | Schedule Hannah |
+| O22 | IV hydration: bring in an operator (staffing + hiring risk if we run it) | Confirm with Jonah, find operators |
+| O32 | Gifted float: push back until Grant slows down or demand grows, and permitting for structures on water is clearer | Parked |
+| O9 | Danesh: did his friend who got hurt sign the waiver? Did she ever pay? | Research |

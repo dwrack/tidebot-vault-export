@@ -19,13 +19,13 @@ IDs: E = email, S = Slack, N = iMessage. "Updates" tables refer to Master List I
 ### New items
 | # | Item | Biz | Owner | Source | Why / deadline |
 |---|---|---|---|---|---|
-| E1 | E&E slip rent to ET: Dockwa says $1,500/mo past due Jul-Sep ($4,500), reminders still firing 10/5. Paid, waived, or owed? | ET/E&E | Jonah/Davey | sauna@ 10/2-10/5 | Intercompany books before Dustin close |
-| E2 | Google Workspace payment declined 10/1 (Visa 7442). Fixed? | E&E | Card owner | sauna@ 10/1 | A lapse kills email/Drive/Calendar |
+| E1 | **Davey 10/8: E&E slip rent to ET is PAUSED for now (until: TBD). Record as a deliberate pause, silence the Dockwa reminders.** E&E slip rent to ET: Dockwa says $1,500/mo past due Jul-Sep ($4,500), reminders still firing 10/5. Paid, waived, or owed? | ET/E&E | Jonah/Davey | sauna@ 10/2-10/5 | Intercompany books before Dustin close |
+| E2 | Google Workspace payment declined 10/1 (Visa 7442). No 2nd decline since, but no receipt either: confirm in admin.google.com > Billing | E&E | Card owner | sauna@ 10/1 | A lapse kills email/Drive/Calendar |
 | E3 | NW Natural $383.71 due 10/22: check autopay isn't on that same declined card | E&E | Jonah/Davey | sauna@ 10/2 | Gas = stove |
 | E4 | Daje! Hospitality (Lauren) 9/15 party balance: no payment on file, chased 9/20 + 9/22 (Slack too) | E&E | Davey/Jonah | davey@ 9/17-9/20 | Late per contract |
 | E5 | Social Seed invoice 0140: no payment seen (0143 $1,800 paid by Jonah 10/5) | E&E | Jonah | davey@ 9/18 | Verify |
 | E6 | **Guest door codes not arriving:** guest (Nancy Honnold booking) signed waivers, no code, 10/8. Reply now | E&E | sauna@ | sauna@ 10/8 | Guest at the door |
-| E7 | 10+ unanswered Google Voice calls/voicemails in sauna@ (10/1-10/8) | E&E | sauna@ owner | sauna@ | Missed bookings + angry guests |
+| E7 | **Davey 10/8: text-first policy, he replies by text not calls. Checked GV 10/8: 4 missed callers never got a text: (919) 357-5308 10/6, (252) 495-7759 10/6, (631) 742-3725 10/3, (510) 220-4197 10/3, plus VM (971) 716-3197 10/1 "please call me back".** 10+ unanswered Google Voice calls/voicemails in sauna@ (10/1-10/8) | E&E | sauna@ owner | sauna@ | Missed bookings + angry guests |
 | E8 | Guest Maxine locked out 6am 10/5, no one answered. Refund/reschedule | E&E | sauna@ | sauna@ 10/5 | No reply seen |
 | E9 | Member Andy Stevens can't update card, 2+ weeks. Periode says "rejoin" (10/8). Send him the steps | E&E | Davey | davey@ 10/4-10/8 | Member locked out |
 | E10 | Private booking walked through by other groups (Jazmine Warren, 10/4). Reply went out | E&E | — | sauna@ 10/4-10/7 | Feeds gates/signage + V2 pitch |
