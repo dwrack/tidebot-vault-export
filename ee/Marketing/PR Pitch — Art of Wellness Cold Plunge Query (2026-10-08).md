@@ -5,7 +5,7 @@
 - **Their deadline:** 2026-10-01, 5pm ET (**already passed**, sending as a late add)
 - **Angle:** what's new in cold water therapy = natural water / river bathing, not tubs
 - **Send from:** davey@ebbandember.com, quotes attributed to Davey Rack (Davey's call, 2026-10-08)
-- **Status:** READY, awaiting Davey's final send OK
+- **Status:** SENT 2026-10-08 from davey@ (Gmail id 1a11f3bf342597ff). Watch for reply.
 
 ---
 
