@@ -4,7 +4,7 @@ Our own @ebbandember posts since 2026-06-01, pulled 2026-10-08 via the Graph API
 
 **Quality:** IG serves compressed files. Videos are 720p or lower, stills up to 1440x1920. Fine for reference and small tiles, NOT hero video. For the website hero, get raw footage from whoever shot it (Kimberlynn, Grant).
 
-**Privacy:** people in Member Night (Sept) and other recent posts are not on the 2026-06-23 consent clearance. Treat as PRIVACY-HOLD until cleared.
+**Privacy:** Member Night (Sept 2026) media APPROVED for use by Davey 2026-10-08. Other recent posts with identifiable people: check before use.
 
 ## Posts by others tagging @ebbandember (UGC)
 Do NOT use any of these on the site without the creator's written OK (DM reply is fine) and ideally their raw file.

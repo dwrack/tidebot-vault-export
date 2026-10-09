@@ -4,15 +4,14 @@ One list. Merges [[Master Action List (Sept 2026)]] (incl. section 5, Davey's me
 
 ## 1. This week (before Oct 16)
 
-**Dustin close + OAs**
-- [ ] Wire Dustin $125K, due 5 business days after settlement docs + transfer docs + CWW consent are signed. Wire with days to spare
-- [ ] Paper the buyout funding: ET cash $40K + $42.5K loan from each of you at 7% (Jonah's 9/30 numbers)
-- [ ] Confirm Dustin's notes ($135K HD Clinton + $119K Macadam) are paid to Jonah's side first
+**Dustin close + OAs** (updated 10/8 night, see [[OA Terms Sent to Paul (Oct 8 2026)]])
+- [x] Dustin signed the term sheet (10/5) + signature pages. Payment letter approved by Jonah 10/7
+- [ ] Dustin's note payoffs due **Tue 10/13**. Then the $125K wire, with days to spare
+- [ ] Member loan notes: equal amounts from you + Jonah, 7% simple, subordinate to CWW. Lock the amount ($42.5K each per 9/30)
 - [ ] CWW consent from Jim: no verbal yes yet. Agree a backup if he says no (Seaworthy keeps 35% + veto)
-- [ ] Confirm Jonah sent Todd the full Columbia Way agreement
-- [ ] Sweat equity one-pager: Jonah's ~$225K ET credit was property, not cash. You put in $450K cash. His case: found the deal, sole manager, personal guarantor on the $1.365M CWW note
-- [ ] Reply to Jonah's 9/30 email: he asks ET 60/40, ETE 50/50, back pay $42.7K-$85.6K, pay 10-20% of gross. Your counter: bigger cash payout, fairer % split
-- [ ] OA term sheet to Migchelbrink by **Oct 15**: new %, deadlock clause, $10K spending rules
+- [x] OA terms agreed at lunch 10/8 and sent to Paul: ET 60/40, ETE 50/50, pay 15% from 1/1/27, back pay 18% of gross 1/31/25-12/31/26
+- [ ] **Paul's draft:** closing consents (due by closing), then A&R OAs. Review against the 7-point checklist (noncompete vs Rose/waterfall/Airstream, ETE tie-break, back pay $)
+- [ ] Ask Jonah for a running back-pay number (~$77K at his 9/30 numbers, growing to 12/31)
 
 **V2 privates**
 - [ ] Pay Grant **$18,400 roofing deposit + phase 2 check**. Confirm the original deposit cleared
@@ -54,11 +53,11 @@ One list. Merges [[Master Action List (Sept 2026)]] (incl. section 5, Davey's me
 
 ## 3. Money + people
 
-- [ ] Owner pay + back pay: settle as part of the OA talk (see section 1)
 - [ ] Jonah: turn $300K each into a revenue + margin target per entity
 - [ ] Jonah: monthly P&L + cash forecast per entity; retirement plans before year-end
 - [ ] Roles + pay for L and Jac (L said 9/30 they can't cover Periode work in short weeks)
-- [ ] Slip 7 meeting: you, Jonah, Jacqueline (+ Adrian?)
+- [ ] **Slip 7 co-ownership: reply to Jonah's 10/7 email.** He says: no preferred return, your $44,235 repaid from the first Legacy draw (after ~$52,350 of work, ~$26,175 each), bill of sale for your 50% held in escrow, 8% on covered costs, refi target 6/1/27 (Legacy matures 7/1/27). Layout locked at 3BR
+- [ ] Slip 7 title + Marine Board: Jonah sent Paul the docs 10/8 after their meeting
 - [ ] Slip 9: $10K earnest sent by Davey (done). Still open: business or personal? Jonah starting financing
 - [ ] Line of credit: vet Max + Norah replies (true LOC with APR, not an MCA). Compare with your bank
 - [ ] Funding plan for current + future builds (O33)
