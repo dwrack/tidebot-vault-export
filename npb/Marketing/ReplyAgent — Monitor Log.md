@@ -19,3 +19,5 @@ One line per daily run of `~/.claude/scripts/replyagent-monitor/monitor.py` (run
 - 2026-10-07 | drafts 18 (blocked 0, warn 16) | queued 8 | posted 0 (removed 0) | ok
 - 2026-10-08 | drafts 20 (blocked 0, warn 16) | queued 8 | posted 0 (removed 0) | ok
 - 2026-10-08 | drafts 20 (blocked 0, warn 16) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-09 | drafts 22 (blocked 0, warn 18) | queued 8 | posted 0 (removed 0) | ok
+- 2026-10-10 | drafts 22 (blocked 0, warn 18) | queued 8 | posted 0 (removed 0) | ok

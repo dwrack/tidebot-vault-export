@@ -27,3 +27,15 @@ Why: trending/licensed songs (e.g. "The Night We Met") can only be added inside 
 4. Every post is logged with a screenshot of the final screen.
 
 Fallback if Instagram changes its UI and breaks the flow: Lea posts by hand from the same prepped files.
+
+## Phones connected (2026-10-10)
+| Name | Model | Serial | Android | Status |
+|---|---|---|---|---|
+| moto | Moto G Play 2024 (XT2413V) | ZY22KTCGZC | 14 | Paired. Drops off when Wireless debugging turns off |
+| tcl | TCL T434D | NRVGQWD6WCLV9TWW | 14 | Paired + connected |
+| galaxy | Samsung Galaxy A15 (SM-S156V) | R5CXC3B1R4H | 14 | Paired + connected 2026-10-10 |
+
+- Connected over **Wireless debugging** (the USB cable at the always-on Mac didn't carry data). Pairing is saved; if a phone drops, just turn Wireless debugging back on.
+- `~/android/reconnect.sh` runs every 5 min via launchd `com.djl.adb-reconnect` on davids-mbp-2 and reconnects any paired phone it sees.
+- Control a phone with `~/android/p moto|tcl|galaxy ...` (picks it by hardware serial, so changing ports don't matter).
+- Each phone still needs its own Google account (David creates it) before the Play Store installs Instagram. Then assign brands per phone (the IG app holds up to 5 accounts).

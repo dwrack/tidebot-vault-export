@@ -27,3 +27,6 @@ Pulled from Apple Notes ("Holman", "Ebb and ember rituals", "Sauna waterfront de
 ## Brand lines
 - "There is no war in the sauna"
 - The silent influencers / agents of change
+
+## Oct 9 addition (Apple Notes: "Red carpet sauna entrance.")
+- Roll-up artificial rose walls

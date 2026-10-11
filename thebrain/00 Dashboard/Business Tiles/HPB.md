@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 9
 status: yellow
-alert: "FareHarbor scrape blocked (403) for 10/7, 5th outage in 8 days, goal pace unavailable; Google Ads enters a 2nd week fully dark; 5 unreplied 5★ reviews unchanged; TikTok pull still unavailable"
-updated: 2026-10-08
+alert: "Google Ads still fully dark, now a multi-week outage; weekly booked revenue pace jumped to ~49% of target on one strong day; 5 unreplied 5★ reviews unchanged"
+updated: 2026-10-10
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor's scrape came back blocked (403 Cloudflare challenge, a new failure mode) for 2026-10-07 — the 5th outage in 8 days. Last known reading remains 10/4 at $0/0 bookings.
-- **Google Ads (2986009791) confirmed $0 impressions/clicks/cost across both yesterday AND the full 7-day window — now entering a second full week dark** with no diagnosis yet. See today's brief Action Item #5. Meta (shared w/ Buffalo Bayou) still running: $8.75 yesterday, still only "Followers Reboost" — no purchase campaign.
-- **5 unreplied 5★ reviews, unchanged** — FroHair Patty (9/30, now 8 days), Jaylen Washington (9/27, now 11 days), Oscar Garcia/Vivian M/Diana Pdrz (all 9/19, now 19 days old).
-- **TikTok pull still unavailable** — `ECONNREFUSED` on the Playwright browser debug port, same as the prior two runs. Not a login issue.
+- **Goal pace: ~$1,941/wk booked vs $4,000 target — ~49% of goal, up sharply from ~12% yesterday.** Yesterday (10/9) booked $906/3 bookings — by far the best clean day in the window. Good news, but basis is still only 4 of 7 days; confirm this holds before reading too much into it.
+- **Google Ads (2986009791) confirmed $0 impressions/clicks/cost across both yesterday AND the full 7-day window — still a multi-week outage** with no diagnosis yet. See today's brief Action Item #2. Meta (shared w/ Buffalo Bayou) still running: $9.09 yesterday on "Followers Reboost" — still no purchase campaign.
+- **5 unreplied 5★ reviews, unchanged** — FroHair Patty (9/30, now 10 days), Jaylen Washington (9/27, now 13 days), Oscar Garcia/Vivian M/Diana Pdrz (all 9/19, now 21 days old).
+- **TikTok pull failed again this run** — `ECONNREFUSED` on the browser debug port, same issue as the prior several runs; needs a direct session check from David (re-login/QR scan likely required).
 <!-- live:end -->
 
 ## Quick links

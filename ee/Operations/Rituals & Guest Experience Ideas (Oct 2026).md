@@ -24,3 +24,33 @@ From Apple Notes, Oct 4.
 ## Community
 - Donation community day: sliding-scale entry, a nonprofit runs the day, food + music, proceeds to their fundraiser
 - Reach back out to past customers directly
+
+## Oct 8-9 additions (Apple Notes: "Red carpet sauna entrance.", "Swimming floats around sauna")
+
+### Arrival
+- Red carpet sauna entrance. "Show your fit"
+- What activation space can we create at the entrance? (photo moment, IG-able)
+
+### On the water
+- Swimming floats around the sauna. Candidate: Tommy Docks Flexx 8 ft floating dock / swim platform (TDFXS-48), Home Depot: https://www.homedepot.com/p/Tommy-Docks-Flexx-8-ft-Floating-Dock-Section-Modular-Floating-Dock-Platform-or-Swim-Platform-Floating-Boat-Dock-for-Lakes-TDFXS-48/325371894
+
+### Signage
+- iPads in weatherproof outdoor covers for signage
+
+### Website ideas (for the rebuild, see [[Website Rebuild — Astro Build Spec (Oct 2026)]])
+- Inspiration reel: https://www.instagram.com/reel/Dd-o8qwRHYh/
+- Review request flow: under 5 stars routes to a private feedback form. Simple image
+  - Flag: Google bans review gating (only asking happy guests to post). Safe version: everyone gets the Google link, and the low-score path ALSO offers a private feedback form
+- Use PostHog to see where people stop reading, and use that to improve the pages
+- Website components library to pull from: https://forevercomponents.com/
+
+## Oct 10 additions (Apple Notes: "Red carpet sauna entrance.")
+
+### Local SEO / listings
+- Which Portland city directories and "best saunas in PDX" listicles can we get onto? Build the list and pitch them
+
+### Member comms
+- Apple Wallet ticket for the new potential-member event, so updates can be pushed as lock-screen notifications
+
+### Offer
+- Run the membership and ritual offers through Alex Hormozi's value equation (dream outcome x likelihood / time delay x effort)
