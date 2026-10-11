@@ -1,0 +1,110 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "brand": "nbb",
+ "title": "3 Things That Trip Up Groups Before the Bike Bar",
+ "why": "Fact-led prep for warm leads who already picked a date: ID, meeting point, and the seated rule, so nobody gets left at the curb.",
+ "hook_options": [
+  "Three things that leave groups standing at the curb.",
+  "Read this before your group books the bike bar.",
+  "The ride is easy. Getting on it is where groups mess up."
+ ],
+ "caption": "The ride is the easy part. The three things that actually trip groups up: a real ID for everyone (it's 21 and up), the right meeting point (it depends on your tour), and staying seated while you're rolling. Save this and drop it in the group chat before anyone books an Uber. #neworleans #nolabachelorette #thingstodoinneworleans #nola",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "kicker": "Before you book",
+   "headline": "The ride is easy. Getting on is where groups slip.",
+   "photo": "Nola bike bar.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/Nola bike bar.jpg",
+   "pos": "center 50%"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Mistake 1 of 3",
+   "headline": "Somebody forgot a real ID",
+   "body": "Every rider is 21 and up. Everyone. Including the friend who swears she looks 30."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The fix",
+   "headline": "Physical ID in every pocket",
+   "body": "Sort it at the hotel, not the curb. No ID, no ride. No exceptions for the birthday girl.",
+   "photo": "NolaBikeBar_02.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_02.png",
+   "pos": "center 50%"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Mistake 2 of 3",
+   "headline": "Going to last year's meeting spot",
+   "body": "Different tours start in different places. Your memory is not your confirmation email."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The fix",
+   "headline": "Read the email. Then call a rideshare.",
+   "body": "The Irish Channel tour meets at Port Orleans Brewing on Tchoupitoulas. Check yours before you leave.",
+   "photo": "Nola Bike Bar 2.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/Nola Bike Bar 2.jpg",
+   "pos": "center 40%"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Mistake 3 of 3",
+   "headline": "Standing up to dance mid-street",
+   "body": "It's an open vehicle in real traffic. Your captain will ask you to sit. Every time."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The fix",
+   "headline": "Dance at the stops",
+   "body": "Seated while rolling, hands inside the rails. Need a bathroom? Shout STOP and the captain pulls over.",
+   "photo": "NolaBikeBar_13.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_13.png",
+   "pos": "center 50%"
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Real ID. Right address. Seated while rolling.",
+   "body": "Do those three and the only thing left is picking the first song."
+  },
+  {
+   "n": 9,
+   "layout": "photo",
+   "kicker": "The part you came for",
+   "headline": "Then it's just your group and the street",
+   "body": "Drink in hand, music up, a captain who knows which corners are alive.",
+   "photo": "NolaBikeBar_06.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_06.png",
+   "pos": "center 45%"
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "kicker": "Save this. Send it to the planner.",
+   "headline": "Book the right tour the first time",
+   "body": "Mid-City or Irish Channel. Details and dates at nolabikebar.com.",
+   "photo": "NolaBikeBar_04.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_04.png",
+   "pos": "center 50%"
+  }
+ ]
+}

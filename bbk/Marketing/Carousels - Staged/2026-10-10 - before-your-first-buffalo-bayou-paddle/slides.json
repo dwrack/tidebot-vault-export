@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "brand": "bbk",
+ "title": "Three things to sort before your first bayou paddle",
+ "why": "Warm first-timers who are close to booking; answers parking, clothing and effort with real logistics so nothing stops the booking. Fall is the sweet spot.",
+ "hook_options": [
+  "Three things to sort before you launch",
+  "Where to park, what to wear, how hard it really is",
+  "First time on Buffalo Bayou? Start here."
+ ],
+ "caption": "Park at the Bayou Lot, 901 Commerce St. Wear clothes and shoes that can get wet. And pace yourself, the water's easy but your arms will notice. October and November are the bayou's sweet spot. Save this for your first paddle. #buffalobayou #houstonkayak #thingstodoinhouston #buffalobayoukayak",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "First time on the bayou?",
+   "headline": "Three things to sort before you launch",
+   "body": "Where to park, what to wear, how hard the paddle really is. Straight answers from the dock at Allen's Landing.",
+   "photo": "houston-kayak-rental.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/houston-kayak-rental.jpeg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "1 of 3",
+   "headline": "Where do I park?"
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "Bayou Lot, 901 Commerce St",
+   "body": "Paid lot behind Conejo Malo, plus street parking. Check in at the Sunset Coffee Building, 1019 Commerce St. Staff can hold your keys.",
+   "photo": "Buffalo-Bayou-Regatta-Rental-image-1.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/Buffalo-Bayou-Regatta-Rental-image-1.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "2 of 3",
+   "headline": "What do I wear?"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The answer",
+   "headline": "Clothes that can get wet. Shoes too.",
+   "body": "Light layer for fall evenings, water shoes or old sneakers, hat, sunscreen. Leave valuables in the car. Restroom before launch, there's none on the water.",
+   "photo": "20230220_112542-scaled.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/20230220_112542-scaled.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "3 of 3",
+   "headline": "Is it hard?"
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The honest answer",
+   "headline": "Easy water. Real arms.",
+   "body": "Flat, slow water with no current to fight. But as Kathy M. put it: \"Your arms feel like they will fall off from paddling.\"",
+   "photo": "IMG_1999-e1636477583373.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/IMG_1999-e1636477583373.jpg",
+   "pos": "center 55%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Timing",
+   "headline": "October and November are the sweet spot",
+   "body": "The heat breaks, the light gets good, the water stays comfortable. Book a morning or sunset slot.",
+   "photo": "buffalo-bayou-skyline-from-kayak.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-skyline-from-kayak.jpg",
+   "pos": "center 55%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Park on Commerce. Dress wet. Pace yourself.",
+   "body": "Arrive 15 minutes early, sign the waiver online ahead of time, and the bayou handles the rest."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for your first paddle",
+   "headline": "See you at Allen's Landing",
+   "body": "Tours and rentals daily from 1019 Commerce St. Book at buffalobayoukayak.com.",
+   "photo": "buffalo-bayou-night-kayak-b.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-kayak-b.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

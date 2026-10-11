@@ -1,0 +1,116 @@
+{
+ "format": "functional",
+ "type": "insider",
+ "mentor": "Sugarman",
+ "title": "Halloween Weekend, Local Style",
+ "brand": "npb",
+ "why": "October visitors planning Halloween 2026 (it's a Saturday). Insider calendar from the staged Halloween blog draft (facts verified 2026-09-30), with the boat as the afternoon slot. The brand's one Halloween angle.",
+ "hook_options": [
+  "Halloween is on a Saturday. Here's the local plan.",
+  "How locals actually do Halloween weekend",
+  "Don't plan Halloween around Voodoo Fest. Do this."
+ ],
+ "caption": "Halloween lands on a Saturday this year. Krewe of Boo on the 24th, vampire balls on the 30th, Frenchmen Street on the 31st. Locals save the afternoons for the bayou so there's something left for the nights. Send this to your costume crew. #neworleans #halloween #nola #kreweofboo #frenchmenstreet",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Halloween lands on a Saturday",
+   "headline": "How locals actually do Halloween weekend",
+   "body": "",
+   "photo": "IMG_8535.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8535.jpeg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The rule",
+   "headline": "Party at night. Recover on the water.",
+   "body": "Halloween weekend runs late. Smart crews plan the daytime so nobody's dead by 10pm."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Saturday, Oct 24",
+   "headline": "Krewe of Boo rolls at 6:30",
+   "body": "From Elysian Fields in the Marigny, down Decatur past Jackson Square. Watch from Decatur for the classic backdrop."
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Friday, Oct 30",
+   "headline": "Vampire ball tickets go fast",
+   "body": "Last year's Anne Rice Vampire Ball sold out in seven minutes. The dress code is enforced. No store-bought capes.",
+   "photo": "IMG_8491.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8491.jpeg",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Saturday, Oct 31",
+   "headline": "Frenchmen Street. Get there by 9.",
+   "body": "No tickets, no organizer. Thousands of people in costume and a band in every club. Pick a bar and let the night happen."
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Skip this one",
+   "headline": "Voodoo Fest isn't back",
+   "body": "It hasn't run since 2019, whatever the listing sites say. Don't build a trip around it."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The daytime move",
+   "headline": "Wear the costume on the bayou",
+   "body": "Private boat, your drinks, your playlist, 15 minutes from the Quarter. Nobody on your boat will say it's too much.",
+   "photo": "312316409_1020930012057246_4727441903052961839_n.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/312316409_1020930012057246_4727441903052961839_n.jpeg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Fair warning",
+   "headline": "The swamp at dusk does spooky better",
+   "body": "No actors, no fog machine. Just cypress going dark and the occasional splash you can't explain.",
+   "photo": "IMG_8558.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8558.jpeg",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Parade, vampire ball, then Frenchmen.",
+   "body": "Krewe of Boo the 24th, the ball the 30th, Frenchmen the 31st. Bayou in the afternoon."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Send this to your costume crew",
+   "headline": "Your Halloween afternoon, sorted",
+   "body": "Private BYOB boats on Bayou Bienvenue, 7 miles from the Quarter. nolapartybarges.com",
+   "photo": "025453CC-A448-42FA-ADA8-699C4C746D8A.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/025453CC-A448-42FA-ADA8-699C4C746D8A.jpg",
+   "pos": "center 45%",
+   "dark": false
+  }
+ ]
+}

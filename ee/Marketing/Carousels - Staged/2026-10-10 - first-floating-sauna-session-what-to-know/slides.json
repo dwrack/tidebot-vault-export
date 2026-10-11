@@ -1,0 +1,113 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "title": "Your First Floating Sauna Session",
+ "brand": "ee",
+ "why": "First-timers who are curious but unsure: what to pack, how the 1 hour 45 minutes flows, and the river rules, so nerves don't block the booking.",
+ "hook_options": [
+  "Your first floating sauna session, explained",
+  "Never done sauna on a river? Start here.",
+  "Two towels, a water bottle, and a buddy"
+ ],
+ "caption": "First floating sauna session? Pack a swimsuit, two towels, and a non-metal water bottle. Heat in the cedar, cool off in the Columbia or the cold shower, rest on the deck, repeat. The river is real water, so we buddy up and go feet first. The plunge is always optional. #portland #pdx #floatingsauna #coldplunge #saunatime",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "First time?",
+   "headline": "Your first floating sauna session, explained",
+   "body": "What to pack, how the 1 hour 45 minutes goes, and the river rules.",
+   "photo": "18-first-timer-deck-lounge-river-view.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/18-first-timer-deck-lounge-river-view.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "1 of 3",
+   "headline": "What do I bring?"
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "Swimsuit. Two towels. A full water bottle.",
+   "body": "One towel to sit on, one to dry off. Skip metal bottles, they get hot. Arrive hydrated and skip alcohol beforehand.",
+   "photo": "05-cedar-sauna-interior-warm-light.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/05-cedar-sauna-interior-warm-light.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "2 of 3",
+   "headline": "What happens for 1 hour 45 minutes?"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The answer",
+   "headline": "Heat. Cold. Rest. Repeat.",
+   "body": "Sweat in the cedar sauna, cool off in the Columbia or the cold shower, then sit on the deck. Go around again.",
+   "photo": "20-cold-river-swim-portland.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/20-cold-river-swim-portland.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "3 of 3",
+   "headline": "Is the river safe to plunge?"
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "It's real water. We treat it that way.",
+   "body": "40+ feet deep with current. Buddy system, feet first, one at a time, stay within 10 feet. Life jackets and throw rings on board.",
+   "photo": "19-river-safety-dock-life-ring.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/19-river-safety-dock-life-ring.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Our rule",
+   "headline": "When in doubt, don't go out.",
+   "body": "The river will be there next time. The sauna alone is worth the trip, and the plunge is always optional."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Two towels. Heat, cold, rest. Buddy up.",
+   "body": "That's it. Social sessions hold up to 8 guests, private sessions up to 10."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Send this to your first-timer",
+   "headline": "Ready for round one?",
+   "body": "Portland's floating sauna on the Columbia River. Book a session at ebbandember.com.",
+   "photo": "08-floating-sauna-sunset-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/08-floating-sauna-sunset-reflection.jpg",
+   "pos": "center 50%",
+   "dark": true
+  }
+ ]
+}

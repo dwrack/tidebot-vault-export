@@ -1,0 +1,116 @@
+{
+ "format": "functional",
+ "type": "insider",
+ "mentor": "Sugarman",
+ "title": "What Our Crew Wishes Every Group Knew",
+ "brand": "hpb",
+ "why": "Booked or nearly-booked groups: crew-level tips that make the day go smoother and signal we know the details.",
+ "hook_options": [
+  "What our crew wishes every group knew",
+  "Six things nobody tells you before a Clear Lake cruise",
+  "From the dock: the stuff that's not on the booking page"
+ ],
+ "caption": "Six things our crew wishes every group knew: get waivers signed in the group chat, tell the captain the vibe, cupcakes yes and cake no, cans not glass, sunset is the slot everyone wants, and Uber early. Send this to your planner. #houston #clearlake #kemah #partyboat #houstonbachelorette",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "From the dock",
+   "headline": "What our crew wishes every group knew",
+   "body": "Six small things that make a Clear Lake cruise go better. Learned one group at a time.",
+   "photo": "fb_2022-01-20_122865203583235.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-01-20_122865203583235.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "1",
+   "headline": "Get the waivers signed in the group chat.",
+   "body": "Every guest signs the FareHarbor link before boarding. Chasing three people at the dock eats into your cruise."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "2",
+   "headline": "The captain reads the room.",
+   "body": "Want it loud? Want it chill? Say so at the dock. The trip bends to your group, not a script.",
+   "photo": "fb_2022-07-04_163089959560759.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-07-04_163089959560759.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "3",
+   "headline": "Cupcakes yes. Cake and rice no.",
+   "body": "Bring your own food, but cake and rice end up everywhere. Cupcakes travel better and nobody scrapes frosting off the deck."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "4",
+   "headline": "Cans and plastic only.",
+   "body": "No glass on board. Pack the cooler at home with cans and plastic, not in the parking lot.",
+   "photo": "fb_2022-08-29_175079425028479.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-08-29_175079425028479.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "5",
+   "headline": "Sunset is the slot everyone wants.",
+   "body": "It's our most popular time on Clear Lake. If you have a date in mind, ask for that one first."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "6",
+   "headline": "Public or private changes everything.",
+   "body": "On a public cruise you share the boat. Book a private charter and every seat, song, and cooler is yours.",
+   "photo": "fb_2022-05-11_150361390833616.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-05-11_150361390833616.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Bonus",
+   "headline": "Uber early. Seriously.",
+   "body": "Rides cancel and traffic can be bad. Public cruises leave on time, with or without the last car."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Sign early. Pack cans. Ask for sunset.",
+   "body": "And tell the captain what kind of trip you want. That's the insider stuff."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Send this to your planner",
+   "headline": "Now you know what the crew knows.",
+   "body": "Clear Lake cruises for groups up to 26. Book at houstonpedalbarge.com.",
+   "photo": "fb_2024-06-15_483485930869820.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2024-06-15_483485930869820.jpg",
+   "pos": "center 40%",
+   "dark": false
+  }
+ ]
+}

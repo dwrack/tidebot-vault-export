@@ -1,0 +1,116 @@
+{
+ "format": "functional",
+ "type": "hook",
+ "mentor": "Schwartz",
+ "title": "The Swamp Is 7 Miles Away",
+ "brand": "npb",
+ "why": "Cold, problem-unaware visitors who assume a swamp tour means a van and half a day. Kills the drive objection, the most repeated one in the July ad research.",
+ "hook_options": [
+  "You can see downtown from this swamp",
+  "You don't need a rental car to see a gator",
+  "The swamp tour that's 15 minutes from Bourbon Street"
+ ],
+ "caption": "Most swamp tours start with a van ride. Ours starts 7 miles from the French Quarter on Bayou Bienvenue. 1 hour 45 on the water, gators common but never promised, and you're back in the Quarter in 15 minutes. Save this for your trip. #neworleans #nola #swamptour #bayou #thingstodoinneworleans",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Bayou Bienvenue",
+   "headline": "That's downtown. You're already in the swamp.",
+   "body": "",
+   "photo": "IMG_8406.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8406.jpg",
+   "pos": "center 60%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The myth",
+   "headline": "A swamp tour eats your whole afternoon",
+   "body": "Van pickup, an hour out, an hour back. That's the version most visitors book, and it's why they skip it."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Why it feels that way",
+   "headline": "Most tours launch 45 to 60 minutes out",
+   "body": "Slidell. Lafitte. The Westbank. Add bridge traffic and you can spend longer in the car than on the water."
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Ours",
+   "headline": "7 miles from the French Quarter",
+   "body": "About 15 minutes in an Uber. No bridge, no river crossing. We launch inside Orleans Parish.",
+   "photo": "DJI_0010.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/DJI_0010.JPG",
+   "pos": "center 55%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Same swamp",
+   "headline": "Cypress, egrets, and gators. Usually.",
+   "body": "Gators are common, not guaranteed. They're seasonal and weather dependent, so we never promise one.",
+   "photo": "npb-alligator-surfacing-brown-bayou-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/npb-alligator-surfacing-brown-bayou-water.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Do the math",
+   "headline": "1 hour 45 on the water",
+   "body": "Not a 30-minute loop. Long enough to settle in, find wildlife, and watch the light change over the marsh."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Then",
+   "headline": "15 minutes back to the Quarter",
+   "body": "Off the boat, into an Uber, and on Frenchmen Street while the far-away tour is still on the highway.",
+   "photo": "DJI_0039.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/DJI_0039.JPG",
+   "pos": "center 60%",
+   "dark": true
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Who this is for",
+   "headline": "One free afternoon? That's enough.",
+   "body": "No rental car, no shuttle, no lost day. If you've got a few hours in New Orleans, you've got time for the bayou."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "7 miles. 15 minutes. 1 hour 45 aboard.",
+   "body": "Same bayou the far-away tours sell, minus the van."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Send this to whoever's planning",
+   "headline": "Save the drive for something else",
+   "body": "Private boats, shared seats, or the eco tour. All from 2101 Paris Road. nolapartybarges.com",
+   "photo": "npb-guests-under-canopy-watching-bayou.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/npb-guests-under-canopy-watching-bayou.jpg",
+   "pos": "center 45%",
+   "dark": false
+  }
+ ]
+}

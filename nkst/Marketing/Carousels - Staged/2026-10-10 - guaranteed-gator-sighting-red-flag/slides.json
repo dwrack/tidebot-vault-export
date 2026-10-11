@@ -1,0 +1,120 @@
+{
+ "format": "functional",
+ "type": "hook",
+ "mentor": "Schwartz",
+ "title": "A Guaranteed Gator Is a Red Flag",
+ "brand": "nkst",
+ "why": "Cold, problem-unaware traffic comparing swamp tours: reframes 'guaranteed gators' as a warning sign and positions no-bait kayaking.",
+ "hook_options": [
+  "A guaranteed gator sighting is a red flag.",
+  "Ask how they guarantee the gator.",
+  "Wild gators don't keep appointments."
+ ],
+ "caption": "If a swamp tour promises you a gator, ask how. Usually it's food. We don't feed or bait wildlife, ever, so what you see at Manchac is a gator doing gator things. Common April through October. Never guaranteed. Small groups, silent kayaks. #NewOrleansSwampTour #KayakNOLA #ManchacSwamp #EcoTour",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Swamp tour myth",
+   "headline": "A guaranteed gator sighting is a red flag.",
+   "body": "Here's how some tours make that promise, and why we won't.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0148.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0148.jpg",
+   "pos": "center 60%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The trick",
+   "headline": "Feed gators daily and they show up.",
+   "body": "Toss food off the same stretch every day and gators learn the schedule. That's training, not wildlife."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Why it matters",
+   "headline": "A fed gator links people with food.",
+   "body": "That's dangerous for the animal and for the next person on the water. It's why we never feed or bait wildlife."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "So what do we promise?",
+   "headline": "Common. Not guaranteed.",
+   "body": "At Manchac, gators are common April through October, best on warm mornings. Some days they don't show. We say so up front.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0115.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0115.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "The quiet advantage",
+   "headline": "No motor. They don't hear you coming.",
+   "body": "Unbaited gators act like gators. From a silent kayak you watch one sun itself instead of scramble.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0134.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0134.jpg",
+   "pos": "center 55%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Guide trick",
+   "headline": "Snout to eye in inches = length in feet.",
+   "body": "Eight inches from snout to eye? Roughly a 7 or 8 foot gator. Our guides teach it on the water."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Not just gators",
+   "headline": "Egrets, herons, ospreys, bald eagles.",
+   "body": "Barred owls and prothonotary warblers too. Every one wild, every one on its own schedule.",
+   "photo": "1000017830.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/New Assets July 2026/2025 Wildlife & Guests/1000017830.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Small groups",
+   "headline": "Twelve guests max. No bench of thirty.",
+   "body": "Small enough to stop paddling, go silent, and let the swamp come to you.",
+   "photo": "small-group-kayaking-louisiana-swamp-tour.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/small-group-kayaking-louisiana-swamp-tour.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Bottom line",
+   "headline": "We'd rather miss a gator than fake one.",
+   "body": "Honest odds. Wild animals. A naturalist guide who knows the difference."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Save this before you book any swamp tour",
+   "headline": "See the swamp the right way.",
+   "body": "Small-group kayak tours, 30 to 40 minutes from the French Quarter. Send this to whoever's planning the trip.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0224.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0224.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

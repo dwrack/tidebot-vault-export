@@ -1,0 +1,120 @@
+{
+ "format": "functional",
+ "type": "decision",
+ "mentor": "Bencivenga",
+ "title": "Which Tour Is Right for You (With Real Reviews)",
+ "brand": "nkst",
+ "why": "Warm leads choosing between NKST products: picks a tour by goal, backed by real guest review lines from the vault.",
+ "hook_options": [
+  "Two hours, four hours, or a full day?",
+  "Pick your swamp tour in 10 slides.",
+  "First time, photos, or history? Here's your tour."
+ ],
+ "caption": "Two hours if it's your first time or you're short on time. Four if you want photos and real quiet. The full Whitney Plantation day if history matters to your group. Still stuck? Text us at 504-571-9975. #NewOrleansSwampTour #KayakNOLA #NOLATravel #ManchacSwamp",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Picking a tour?",
+   "headline": "Two hours, four hours, or a full day?",
+   "body": "How to choose, plus what real guests said after paddling with us.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0230.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0230.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "First, the proof",
+   "headline": "\"What a peaceful, gorgeous and relaxing tour.\"",
+   "body": "A real guest review. More where that came from."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Option 1",
+   "headline": "The 2-hour Manchac tour.",
+   "body": "Our most popular. Right for first-timers, families, and anyone short on time. Four departures a day.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0071.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0071.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Real guest",
+   "headline": "\"For our first time kayaking, it was perfect.\"",
+   "body": "Most guests have never kayaked. We teach you on shore before we launch.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0039.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0039.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Option 2",
+   "headline": "The 4-hour Extended Manchac.",
+   "body": "Deeper and slower. Built for photographers and anyone who wants to fully unplug. Fall is its best season.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0240.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0240.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Real guest",
+   "headline": "\"We had the river to ourselves.\"",
+   "body": "That's what small groups buy you. Twelve guests max on public tours."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Option 3",
+   "headline": "Whitney Plantation plus swamp combo.",
+   "body": "A full day: a guided tour of Whitney Plantation, one of the country's most important slavery museums, then an afternoon paddle.",
+   "photo": "kayakers-distant-cypress-swamp-landscape-manchac.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/kayakers-distant-cypress-swamp-landscape-manchac.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Want it private?",
+   "headline": "Your group, your guide, your start time.",
+   "body": "Private tours run for small and large groups. Over 20 people, we quote it individually."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Quick pick",
+   "headline": "First time: 2 hours. Photos: 4. History: full day.",
+   "body": "Still stuck? Text 504-571-9975 and a real person helps you choose."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for planning night",
+   "headline": "Pick yours and paddle.",
+   "body": "Small-group kayak tours from New Orleans. Send this to whoever's planning the trip.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0223.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0223.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

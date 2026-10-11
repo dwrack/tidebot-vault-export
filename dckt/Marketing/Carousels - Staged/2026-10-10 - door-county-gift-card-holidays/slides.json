@@ -1,0 +1,124 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Halbert",
+ "title": "Give Them a Morning on Lake Michigan",
+ "brand": "dckt",
+ "why": "Holiday gift buyers (past guests and their families) shopping for the person who has everything. Gift cards confirmed live on site 2026-10-10.",
+ "hook_options": [
+  "Give them a morning on Lake Michigan.",
+  "They don't need another sweater.",
+  "The gift card that doesn't expire."
+ ],
+ "caption": "Shopping for the person who already owns everything? A Door County Kayak Tours gift card is emailed the minute you buy, never expires, and works on any tour or in the shop. They pick the morning next summer. You get the credit. #DoorCounty #GiftIdeas #DoorCountyKayakTours #ExperienceGifts",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Holiday gift idea",
+   "headline": "Give them a morning on Lake Michigan.",
+   "body": "Not another sweater. A Door County Kayak Tours gift card, emailed straight to them, good for next summer.",
+   "photo": "IMG_6692.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/IMG_6692.JPG",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The problem",
+   "headline": "They already own enough stuff.",
+   "body": "You know the person. Has everything. Returns half of it by January. Nothing left you can wrap."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "What they'd remember",
+   "headline": "Two seats. One sea cave.",
+   "body": "Cave Point's caves are only reachable from the water. That's a story they'll still be telling next Thanksgiving.",
+   "photo": "DSC_0001.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/DSC_0001.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The details",
+   "headline": "Gift cards don't expire.",
+   "body": "Straight from our gift card page. No deadline sneaking up on them in March.",
+   "photo": "IMG_1979.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Guides/IMG_1979.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "How it arrives",
+   "headline": "Emailed to you or to them.",
+   "body": "Automatic, the minute you buy. Great for last-minute gifting, which we say with zero judgment.",
+   "photo": "lazy kayaker.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/lazy kayaker.png",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "What it covers",
+   "headline": "Any tour, or the shop.",
+   "body": "Use it on any of our tours or on in-store purchases. They pick the trip.",
+   "photo": "IMG_1617.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Guides/IMG_1617.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Honest fine print",
+   "headline": "Not refundable. Weather still rules.",
+   "body": "Gift cards aren't refundable. And at Cave Point, the guide makes the cave call that morning based on waves."
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Ideas",
+   "headline": "Sea caves. A shipwreck. Or e-bikes.",
+   "body": "Cave Point's cliffs, an 1888 schooner under clear water, or a fat-tire ride to the overlook. Their call.",
+   "photo": "IMG_4513.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/IMG_4513.JPG",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Why we like it",
+   "headline": "A gift that ends with a story.",
+   "body": "Stuff gets put away. A morning on the water gets retold every time somebody brings up Door County."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for your gift list",
+   "headline": "Gift cards at doorcountykayaktours.com",
+   "body": "Kayak tours return May 2027. Send this to whoever runs the family gift exchange.",
+   "photo": "IMG_8012.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/IMG_8012.JPG",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

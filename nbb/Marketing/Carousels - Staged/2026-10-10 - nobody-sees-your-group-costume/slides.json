@@ -1,0 +1,112 @@
+{
+ "format": "archetypal",
+ "type": "hook",
+ "mentor": "Schwartz",
+ "brand": "nbb",
+ "title": "Nobody Sees Your Group Costume Through Tinted Glass",
+ "why": "October pattern-interrupt for unaware bachelorette and birthday planners comparing party buses: your costume needs an audience, and only open air gives it one.",
+ "hook_options": [
+  "You planned matching costumes. Then booked tinted windows.",
+  "Halloween in New Orleans happens on the sidewalk.",
+  "The party bus hides the best part of your outfit."
+ ],
+ "caption": "Your group spent three weeks on matching costumes. Don't hide them behind tinted windows. On the bike bar the street is the audience: people wave, film, and yell from the sidewalk. Bring your playlist, bring the outfits, let New Orleans look. Send this to whoever's planning. #neworleans #nolabachelorette #halloweeninnola #nola",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "kicker": "October in New Orleans",
+   "headline": "Nobody sees your costume through tinted glass",
+   "photo": "66580147939__492B4789-A348-429B-8AA7-D6CAD17D4B6E.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/66580147939__492B4789-A348-429B-8AA7-D6CAD17D4B6E.jpeg",
+   "pos": "center 45%"
+  },
+  {
+   "n": 2,
+   "layout": "photo",
+   "kicker": "Be honest",
+   "headline": "You planned the outfits for three weeks",
+   "body": "Matching wigs. Sashes. The group chat argued about colors. Then somebody booked a party bus.",
+   "photo": "NolaBikeBar_07.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_07.png",
+   "pos": "center 40%"
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The problem",
+   "headline": "A sealed box has no audience",
+   "body": "Tinted windows, rows of seats, a speaker only you can hear. Your costume rides in the dark."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The fix",
+   "headline": "No windows. No walls. No roof over your outfit.",
+   "body": "The bike bar is open air. The street sees exactly what you wore.",
+   "photo": "NolaBikeBar_03.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_03.png",
+   "pos": "center 55%"
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "kicker": "What actually happens",
+   "headline": "Strangers wave. People film. Some try to climb on.",
+   "body": "That reaction from the sidewalk is half the ride. You can't get it from inside a limo.",
+   "photo": "NolaBikeBar_08.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_08.png",
+   "pos": "center 35%"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "And the music",
+   "headline": "Your song, out loud, on the street",
+   "body": "The one the bride picked. The sidewalk hears it too. Sometimes the sidewalk sings back."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "kicker": "After dark",
+   "headline": "Lights on. Costumes on. City on.",
+   "body": "Your captain knows which blocks are alive tonight and which corners get the loudest reaction.",
+   "photo": "Night time bar bike photo.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/Night time bar bike photo.jpg",
+   "pos": "center 60%",
+   "dark": true
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Pick your streets",
+   "headline": "Irish Channel or Mid-City",
+   "body": "Two routes, both open air, both rolling past real New Orleans houses, not a parking lot loop.",
+   "photo": "IMG_6476.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/IMG_6476.jpeg",
+   "pos": "center 50%"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Open air. Your music. A street that reacts.",
+   "body": "If the costume took three weeks, give it more than a window."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "kicker": "Save this for the group chat",
+   "headline": "Let New Orleans see the costume",
+   "body": "21 and up. Book the ride at nolabikebar.com and send this to the planner.",
+   "photo": "NolaBikeBar_10.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_10.png",
+   "pos": "center 45%"
+  }
+ ]
+}

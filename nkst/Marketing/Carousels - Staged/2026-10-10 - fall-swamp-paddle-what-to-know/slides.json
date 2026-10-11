@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "title": "Fall Swamp Paddle: What to Know Before You Book",
+ "brand": "nkst",
+ "why": "Warm-ish NOLA visitors planning October/November: the three logistics decisions (time, clothes, transport) that make a fall tour go right.",
+ "hook_options": [
+  "Fall is the swamp's best season. Plan it right.",
+  "October in the swamp: 3 things to sort first.",
+  "Cooler air, gators still out, slots going fast."
+ ],
+ "caption": "Fall is our favorite season on the water and it books up first. Pick your departure, skip the cotton, decide shuttle or drive. That's the whole checklist. Save this for your trip. #NewOrleansFall #SwampTour #KayakNOLA #ManchacSwamp",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "October in the swamp",
+   "headline": "Fall is the swamp's best season. Plan it right.",
+   "body": "Three things to sort before you book a fall paddle out of New Orleans.",
+   "photo": "swamp-sunset-golden-hour-kayak-new-orleans.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/swamp-sunset-golden-hour-kayak-new-orleans.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Why fall",
+   "headline": "Cooler air. Gators still out. Books fast.",
+   "body": "September through November fills first. For weekends, book a week or more ahead.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0214.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0214.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Thing 1 of 3",
+   "headline": "Pick your departure time first."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "9:00, 11:30, 2:00 or 4:30.",
+   "body": "Gators like warm mornings. Late slots get softer light. Shuttle pickup is 1 hour 15 minutes before tour time.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0095.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0095.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Thing 2 of 3",
+   "headline": "Dress for wet, not the weather app."
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The answer",
+   "headline": "No cotton. No jeans. No flip-flops.",
+   "body": "Quick-dry layers and shoes with a heel strap. Sunscreen your legs. Sit-on-top kayaks leave them in full sun.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0088.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0088.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Thing 3 of 3",
+   "headline": "Shuttle, or drive yourself?"
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "Shuttle leaves from 740 N. Rampart St.",
+   "body": "$25 round trip, and your guide talks swamp on the drive. Driving? Plan 30 to 40 minutes to the LaPlace launch.",
+   "photo": "life-jackets-pfd-kayak-tour-gear-van.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/life-jackets-pfd-kayak-tour-gear-van.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Book early. Skip cotton. Pick your ride.",
+   "body": "Shuttle riders: be at Rampart 75 minutes before your tour. The swamp handles the rest."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for your fall trip",
+   "headline": "Fall slots go first.",
+   "body": "2-hour Manchac tours, four departures a day. Tag the friend who's coming with you.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0069.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0069.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

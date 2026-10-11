@@ -1,0 +1,110 @@
+{
+ "format": "functional",
+ "type": "insider",
+ "mentor": "Sugarman",
+ "brand": "nbb",
+ "title": "What Bike Bar Captains Know That Your Group Chat Doesn't",
+ "why": "Slippery-slide insider list for planners who want to look like they've done this before; specific, checkable captain knowledge from the SOPs and live tour pages.",
+ "hook_options": [
+  "Things our captains know that your group chat doesn't.",
+  "The bike bar has rules nobody tells you. Here they are.",
+  "Six things you only learn after a dozen rides."
+ ],
+ "caption": "Stuff our captains know that never makes it into the group chat: the safety talk is about 90 seconds, STOP means stop, the brewery tour hits up to three breweries, and there's a 300-year mural wall on Tchoupitoulas most visitors never see. Save it for your planner. #neworleans #irishchannel #nolabrewery #thingstodoinneworleans",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "kicker": "Captain notes",
+   "headline": "What your captain knows that your group chat doesn't",
+   "photo": "NolaBikeBar_12.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_12.png",
+   "pos": "center 40%"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Note 1",
+   "headline": "The safety talk takes about 90 seconds",
+   "body": "Stay seated, hands in, hold on at stops. Then the captain flips to party mode. Listen once, ride free."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Note 2",
+   "headline": "STOP is a real command",
+   "body": "Bathroom, somebody feels rough, anything. Shout it and the captain pulls over as soon as it's safe.",
+   "photo": "NolaBikeBar_09.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_09.png",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Note 3",
+   "headline": "The captain is your designated driver",
+   "body": "Nobody in your group steers, brakes, or worries about parking. That's the whole point."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "kicker": "Note 4",
+   "headline": "The brewery tour hits up to three breweries",
+   "body": "Irish Channel, about two hours, starting at Port Orleans Brewing on Tchoupitoulas.",
+   "photo": "NolaBikeBar_15.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_15.png",
+   "pos": "center 45%"
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Note 5",
+   "headline": "There's a 300-year story on a floodwall",
+   "body": "The Tchoupitoulas mural wall tells New Orleans history in panels. Most visitors drive right past it.",
+   "photo": "bar 3.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/bar 3.png",
+   "pos": "center 50%"
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Note 6",
+   "headline": "Captains know where the potholes are",
+   "body": "Which streets rattle your drink, which corners wave back, where construction popped up this week."
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "kicker": "Note 7",
+   "headline": "Partner bars run drink specials for riders",
+   "body": "Ask your captain where tonight's deal is before the first stop.",
+   "photo": "nola pedal party bike bar.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/nola pedal party bike bar.jpg",
+   "pos": "center 50%"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Listen once. Shout STOP. Ask about the murals.",
+   "body": "And let the captain handle the streets."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "kicker": "Save for your planner",
+   "headline": "Ride with someone who knows the block",
+   "body": "Brewery tour or Mid-City. Book at nolabikebar.com.",
+   "photo": "NolaBikeBar_14.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_14.png",
+   "pos": "center 45%"
+  }
+ ]
+}

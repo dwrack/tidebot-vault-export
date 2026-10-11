@@ -1,0 +1,120 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Halbert",
+ "title": "The Swamp Doesn't Need a Soundtrack",
+ "brand": "nkst",
+ "why": "Values-driven travelers (Nemesis audience: would rather watch a heron in silence than scream past one): states the silence + Two Swamps belief.",
+ "hook_options": [
+  "The swamp doesn't need a soundtrack.",
+  "Silence is the whole product.",
+  "Everyone stop paddling. No sound."
+ ],
+ "caption": "No motor. No speaker. No wake. Silence is the product, and it's the moment the tour actually starts. Then we show you why it matters: Manchac's cypress, and a ghost swamp in the Lower 9th Ward where restoration is underway. #NOLASwamp #EcoTourism #KayakNOLA #BayouBienvenue",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "What we believe",
+   "headline": "The swamp doesn't need a soundtrack.",
+   "body": "No motor. No speaker. No wake. Here's why silence is the whole product.",
+   "photo": "manchac-cypress-swamp-landscape-reflection-wide-01.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/manchac-cypress-swamp-landscape-reflection-wide-01.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "2013",
+   "headline": "We started because tourism got loud.",
+   "body": "Airboats, baited gators, guests who left without knowing what they'd seen. We figured a kayak could fix that.",
+   "photo": "guests-red-green-kayaks-cypress-reflection-swamp-tour.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/guests-red-green-kayaks-cypress-reflection-swamp-tour.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The moment",
+   "headline": "Everyone stop paddling. No sound.",
+   "body": "Then a shape at 11 o'clock. Guests go quiet without being asked. That's when the tour actually starts."
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "What you hear instead",
+   "headline": "Paddle drips. Birdsong. Your own breathing.",
+   "body": "All the stuff a 40 mph boat drowns out before you notice it exists.",
+   "photo": "summer-tanager-red-songbird-swamp-wildlife.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/summer-tanager-red-songbird-swamp-wildlife.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The turn",
+   "headline": "But a quiet swamp is a shrinking one.",
+   "body": "Louisiana's coast keeps losing wetland. Showing you the beauty is step one. Getting you to care is the point."
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Swamp one",
+   "headline": "Manchac shows what's worth saving.",
+   "body": "The second-largest bald cypress swamp in the US, 30 to 40 minutes from the French Quarter.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0204.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0204.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Swamp two",
+   "headline": "Bayou Bienvenue shows what losing looks like.",
+   "body": "A ghost swamp in the Lower 9th Ward. Open water where cypress stood, and restoration work happening now."
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "That tension",
+   "headline": "Beautiful and broken. We show you both.",
+   "body": "Cypress planting and restoration partnerships are part of the job, not a marketing line.",
+   "photo": "cypress-knees-fallen-logs-swamp-scenery.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/cypress-knees-fallen-logs-swamp-scenery.jpg",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "So",
+   "headline": "Silence first. Then the story. Then you care.",
+   "body": "That's the order, every tour, with a guide who actually knows this ecosystem."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Share this with someone who needs quiet",
+   "headline": "Come hear what the swamp sounds like.",
+   "body": "Small-group kayak eco-tours from New Orleans. 12 guests max, trained naturalist guides.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0282.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0282.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

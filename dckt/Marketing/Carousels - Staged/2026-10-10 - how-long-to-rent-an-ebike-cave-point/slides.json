@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "title": "1, 2, or 3 Hours on an E-Bike?",
+ "brand": "dckt",
+ "why": "Warm fall visitors already considering a Cave Point e-bike rental who need help picking a rental length.",
+ "hook_options": [
+  "1, 2, or 3 hours? Here's how we'd split it.",
+  "Two hours gets you the cliffs and the dunes.",
+  "How long should you rent an e-bike at Cave Point?"
+ ],
+ "caption": "One hour gets you to the Cave Point cliffs and back. Two hours adds Whitefish Dunes, about 8 to 10 miles total, and it's what we'd book. Three hours is for people who hate watching a clock. Rentals start at our Jacksonport shop. #DoorCounty #CavePoint #WhitefishDunes #EBikeRental",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Cave Point by e-bike",
+   "headline": "1, 2, or 3 hours on an e-bike?",
+   "body": "Here's how we'd split it, starting from the shop in Jacksonport. Our pick is the middle one.",
+   "photo": "IMG_0654.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0654.JPG",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Option 1",
+   "headline": "Got one hour?"
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "1 hour",
+   "headline": "Cave Point and back.",
+   "body": "Out to the cliffs, a short stop, home again. Good when you're squeezing it between other plans.",
+   "photo": "Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Option 2",
+   "headline": "Got two hours?"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "2 hours, our pick",
+   "headline": "Cave Point plus Whitefish Dunes.",
+   "body": "About 8 to 10 miles total, with time to walk around or eat a picnic. Assist goes off inside the state park.",
+   "photo": "Cave-Point-County-Park-Bike-Rental.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-County-Park-Bike-Rental.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Option 3",
+   "headline": "Got a whole afternoon?"
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "3 hours",
+   "headline": "No rushing. Side roads welcome.",
+   "body": "Long stops at the cliffs, a side road or two, a slow ride back. For people who hate watching a clock.",
+   "photo": "door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ebike photos for cave point/door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Before you roll",
+   "headline": "Watch the short safety video.",
+   "body": "It's on the rental page. A few minutes and you know the controls before you touch the bike.",
+   "photo": "Cave-point-ebike-tour-photo-shoot3.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/Cave-point-ebike-tour-photo-shoot3.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "1 hour: cliffs. 2: add dunes. 3: wander.",
+   "body": "Can't decide? Take two. That's what we'd book."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this before your fall trip",
+   "headline": "Two hours. Cliffs and dunes. Done.",
+   "body": "Rentals book at doorcountykayaktours.com. Share this with whoever's planning your Door County weekend.",
+   "photo": "IMG_0865 2.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0865 2.jpg",
+   "pos": "center 45%",
+   "dark": false
+  }
+ ]
+}

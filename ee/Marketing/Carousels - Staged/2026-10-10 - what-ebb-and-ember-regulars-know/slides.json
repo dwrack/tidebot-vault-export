@@ -1,0 +1,120 @@
+{
+ "format": "functional",
+ "type": "insider",
+ "mentor": "Sugarman",
+ "title": "Seven Things Our Regulars Figured Out",
+ "brand": "ee",
+ "why": "Booked or nearly-booked guests: practical regular-level details (door code, parking, off-peak, night sessions) that remove friction and show we know the place.",
+ "hook_options": [
+  "Seven things our regulars figured out",
+  "No waivers, no door code. And six more.",
+  "What the regulars know about Ebb & Ember"
+ ],
+ "caption": "Seven things our regulars figured out: the door code only shows up after everyone signs the waiver, bring two towels, leave the metal bottle home, park in Sailor parking, Monday to Thursday is off-peak, go at night once, and The Downpour is the shortcut. Save this before your first visit. #portland #pdx #floatingsauna #columbiariver #saunaculture",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "From the regulars",
+   "headline": "Seven things our regulars figured out",
+   "body": "Learned the slow way, so you don't have to.",
+   "photo": "IMG_8798.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Ebb and Ember Photos & Videos/IMG_8798.JPG",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 2,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "1",
+   "headline": "No waivers, no door code.",
+   "body": "The code shows up in your booking portal only after everyone in your party signs. Chase the group chat the night before.",
+   "photo": "23-holiday-week-sauna-entry.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/23-holiday-week-sauna-entry.jpg",
+   "pos": "center 55%",
+   "dark": false
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "2",
+   "headline": "Bring two towels, not one.",
+   "body": "One to sit on in the sauna. One that's still dry when you get out of the river."
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "3",
+   "headline": "Leave the metal water bottle home.",
+   "body": "It heats up fast in the sauna. Bring a non-metal bottle and keep it full the whole session."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "4",
+   "headline": "Park in Sailor parking.",
+   "body": "Tip from a guest's review: skip the reserved spots facing the river and use Sailor parking across the road.",
+   "photo": "IMG_0599.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Photos/2025-26 Backlog/2025-11-13/_originals/IMG_0599.JPG",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "5",
+   "headline": "Monday to Thursday is off-peak all day.",
+   "body": "Social sessions run $49 off-peak and $59 peak. Friday before 5pm counts as off-peak too."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "6",
+   "headline": "Go at night at least once.",
+   "body": "\"You can see the dock lights reflecting on the river.\" Arianna H., Google review.",
+   "photo": "IMG_2356.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Photos/2025-26 Backlog/2026-02-01/_originals/IMG_2356.JPG",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "7",
+   "headline": "The Downpour is the shortcut.",
+   "body": "Sixty liters of cold water, one pull of the cord. The fastest way from sauna heat to wide awake.",
+   "photo": "22-cold-season-downpour-plunge.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/22-cold-season-downpour-plunge.jpg",
+   "pos": "center 35%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Sign early. Two towels. Try a night session.",
+   "body": "Park across the road, book off-peak if you can, and pull the cord at least once."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this before your first visit",
+   "headline": "Now you know what the regulars know.",
+   "body": "Floating sauna on the Columbia River in North Portland. Book at ebbandember.com.",
+   "photo": "IMG_8813.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Ebb and Ember Photos & Videos/IMG_8813.JPG",
+   "pos": "center 55%",
+   "dark": true
+  }
+ ]
+}

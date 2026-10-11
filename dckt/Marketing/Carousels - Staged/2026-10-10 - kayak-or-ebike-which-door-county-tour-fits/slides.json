@@ -1,0 +1,124 @@
+{
+ "format": "functional",
+ "type": "decision",
+ "mentor": "Bencivenga",
+ "title": "Kayak or E-Bike? Pick for Your Group",
+ "brand": "dckt",
+ "why": "Warm leads comparing a kayak tour and an e-bike ride, sorted by who's coming. Proof via real GBP rating and a real review.",
+ "hook_options": [
+  "Kayak or e-bike? It depends who's coming.",
+  "Same coastline, two very different days.",
+  "Which Door County tour fits your group?"
+ ],
+ "caption": "Kayak if the sea caves are the point. E-bike if you'd rather stay dry and see the cliffs from above. Kids 5 and up can paddle tandem with an adult, and mixed-age groups usually love the bikes. Kayaks return May 2027, bikes are out now. #DoorCounty #CavePoint #KayakDoorCounty #EBikeDoorCounty",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Kayak or e-bike?",
+   "headline": "Which Door County tour fits your group?",
+   "body": "Same coastline, two very different days. Here's how we'd sort it.",
+   "photo": "IMG_1773.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Guides/IMG_1773.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Pick the kayak if",
+   "headline": "You want the caves from the water.",
+   "body": "Cave Point's sea caves are only reachable by boat. That view doesn't exist from a trail.",
+   "photo": "IMG_3094.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/cave point photos from guide perspective/IMG_3094.JPG",
+   "pos": "center",
+   "dark": true
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Pick the e-bike if",
+   "headline": "You'd rather stay dry and cover ground.",
+   "body": "About 4.5 miles to the cliffs, then Whitefish Dunes. You see the shoreline from above, not from inside it.",
+   "photo": "ebike with kid carrier on door bluff ebike tour of deaths door 2.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/ebike with kid carrier on door bluff ebike tour of deaths door 2.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Group: young kids",
+   "headline": "Kayaks start at age 5.",
+   "body": "Kids 5 and up ride in a tandem with an adult. On e-bikes, small kids may ride in a trailer, guide's call."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Group: nervous first-timers",
+   "headline": "Never kayaked? That's most guests.",
+   "body": "From a July review: \"some of us had anxiety and were nervous it being our first time but he made it so relaxing.\" Sarah J.",
+   "photo": "IMG_1625.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Guides/IMG_1625.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Group: mixed ages",
+   "headline": "Grandparents and teens, same pace.",
+   "body": "The motor evens out the legs. Nobody's stuck waiting at the top of a hill.",
+   "photo": "ebike.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/ebike.jpeg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Group: tight schedule",
+   "headline": "Kayaks in summer. Bikes this fall.",
+   "body": "Kayak tours run roughly mid-May to mid-October. Right now, e-bike rentals are the ones on the calendar.",
+   "photo": "IMG_5232.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/IMG_5232.JPG",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Proof",
+   "headline": "4.9 stars, 1,000+ Google reviews.",
+   "body": "That's our Jacksonport listing as of October 2026. A lot of those reviews name the guide, which tells you what sticks."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Caves: kayak. Cliffs from above: e-bike.",
+   "body": "Little kids: tandem at 5+. Mixed ages: e-bike. Can't decide? Bike this fall, kayak next summer."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for trip planning",
+   "headline": "Book either at doorcountykayaktours.com",
+   "body": "Kayak tours return May 2027. E-bikes are rolling now. Send this to your group chat.",
+   "photo": "IMG_9159.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/IMG_9159.jpg",
+   "pos": "center 55%",
+   "dark": false
+  }
+ ]
+}

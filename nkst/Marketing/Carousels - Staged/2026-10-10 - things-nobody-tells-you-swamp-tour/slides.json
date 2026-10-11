@@ -1,0 +1,124 @@
+{
+ "format": "functional",
+ "type": "insider",
+ "mentor": "Sugarman",
+ "title": "7 Things Nobody Tells You Before a Swamp Tour",
+ "brand": "nkst",
+ "why": "Booked or almost-booked guests: specific, checkable insider details that make the trip feel easy and build trust before day-of.",
+ "hook_options": [
+  "7 things nobody tells you before a swamp tour.",
+  "Your legs burn before your arms do.",
+  "What our guides wish you knew the night before."
+ ],
+ "caption": "Small stuff, big difference. Watch for your guide's text the night before, sunscreen your legs, leave the wallet at the hotel, and don't cancel over drizzle. Save this for the night before your tour. #NewOrleansSwampTour #KayakNOLA #TravelTips #ManchacSwamp",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "green",
+   "kicker": "From our guides",
+   "headline": "7 things nobody tells you before a swamp tour.",
+   "body": "Small stuff. It decides whether your two hours are great or just fine.",
+   "photo": "guided-group-kayak-tour-cypress-swamp-nola.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/guided-group-kayak-tour-cypress-swamp-nola.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "1",
+   "headline": "Your guide texts you the night before.",
+   "body": "Name, pickup time, gear reminder, direct number. No text by 8pm? Call or text 504-571-9975.",
+   "photo": "nkst-guides-selfie-on-the-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/nkst-guides-selfie-on-the-water.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "2",
+   "headline": "The drive out is part of the tour.",
+   "body": "Your guide starts the swamp story in the van, with a gas station stop for water and the restroom."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "3",
+   "headline": "You won't paddle the whole time.",
+   "body": "We drift at 2 or 3 stops while your guide explains what you're looking at. Flat water. Low effort.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0007.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0007.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "4",
+   "headline": "Your legs burn before your arms do.",
+   "body": "Sit-on-top kayaks leave your legs in full sun. Sunscreen them first. People always forget.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0073.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/High Quality Photos for ads/new-orleans-manchac-swamp-kayak-tour-0073.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "5",
+   "headline": "Below 65 degrees, gators go quiet.",
+   "body": "Cold days mean fewer sightings. Warm fall mornings are your best odds. Winter trades gators for migrating birds."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "6",
+   "headline": "Leave the wallet at the hotel.",
+   "body": "A card and ID in a ziplock is plenty. Forgot a waterproof phone case? They're $10 at the launch.",
+   "photo": "kayak-launch-staging-new-orleans-swamp-tour.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/kayak-launch-staging-new-orleans-swamp-tour.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "7",
+   "headline": "Light rain is a good day.",
+   "body": "We paddle in drizzle, and it's one of the moodiest ways to see the swamp. Only lightning or severe weather cancels.",
+   "photo": "moody-cypress-swamp-still-water-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Slack Pull June 2026/web-ready/moody-cypress-swamp-still-water-reflection.jpg",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Watch for the text. Sunscreen your legs.",
+   "body": "Pack light. And if it drizzles, come anyway."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for the night before",
+   "headline": "Now you know what our guides know.",
+   "body": "Small-group Manchac kayak tours, 12 guests max. Share this with your travel group chat.",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0258.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Photos2/manchac-swamp/new-orleans-manchac-swamp-kayak-tour-0258.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "format": "functional",
+ "type": "decision",
+ "mentor": "Bencivenga",
+ "title": "Private, Social, or Eco?",
+ "brand": "npb",
+ "why": "Warm leads stuck choosing. Lays out all three products without blurring them (private fleet, social per-seat, eco tour), with real prices and a real review as proof.",
+ "hook_options": [
+  "Private, shared, or eco? Pick the right one.",
+  "Same dock, three very different boat trips",
+  "Just two of you? You don't need the whole boat."
+ ],
+ "caption": "Same dock, three different trips. Private party fleet for your own group, social seats if it's just a couple of you, or the slower eco tour for wildlife and kids. Gators common on all three, guaranteed on none. Save this before you book. #neworleans #nola #swamptour #bachelorette #partyboat",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Three ways onto the bayou",
+   "headline": "Private, shared, or eco? Pick right.",
+   "body": "",
+   "photo": "IMG_6636.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_6636.jpeg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Same dock, same bayou",
+   "headline": "Three different trips. Don't mix them up.",
+   "body": "All leave 2101 Paris Road, 7 miles from the Quarter. What happens on board is very different."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Option 1: Private party fleet",
+   "headline": "Your group only. Up to 25.",
+   "body": "Freaky Tiki or Twerkin' Tiki for 25, Party Queen for 22, Bayou Boogie for 18. BYOB, your playlist, no strangers.",
+   "photo": "370487417_773539824775794_125142316212393557_n.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/370487417_773539824775794_125142316212393557_n.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Private: the math",
+   "headline": "$1,200 for the whole boat",
+   "body": "1 hour 45 on the water. Split across 25 guests, that's $48 a head. Price as of Oct 1, 2026."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Option 2: Social seats",
+   "headline": "Just two of you? Grab a seat.",
+   "body": "Per-seat tickets on a shared party boat. Mixed groups, good energy, 21 and up. $59 a seat.",
+   "photo": "IMG_8457.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8457.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Option 3: Eco swamp tour",
+   "headline": "Slower boat. Quieter. Kids welcome.",
+   "body": "About 2 hours. Captains talk wildlife and coastal land loss. Restrooms on board, heated in winter. From $50.",
+   "photo": "npb-swamp-tour-guest-pointing-bayou-shoreline.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/npb-swamp-tour-guest-pointing-bayou-shoreline.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "On every option",
+   "headline": "Gators: common, not guaranteed",
+   "body": "They're seasonal and weather dependent. Anyone who promises you a gator is guessing.",
+   "photo": "npb-alligator-resting-against-dock-wood.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/npb-alligator-resting-against-dock-wood.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Real guest, real forecast",
+   "headline": "'Nervous with the rain.' Then this.",
+   "body": "'The boat was fully covered and we stayed dry and dancing the whole time.' Sara C."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Quick pick",
+   "headline": "Group of 15+? Private. Two of you? Seats.",
+   "body": "Kids, or a quiet trip with the birds? Eco tour. Still stuck? Message us your group size."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this before you book",
+   "headline": "Pick your trip. Bring your people.",
+   "body": "4.9 on Google. 3,800+ reviews across platforms. nolapartybarges.com",
+   "photo": "nola sunset boat cruise.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/nola sunset boat cruise.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

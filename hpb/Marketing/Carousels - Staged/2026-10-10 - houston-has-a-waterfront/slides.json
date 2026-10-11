@@ -1,0 +1,116 @@
+{
+ "format": "archetypal",
+ "type": "hook",
+ "mentor": "Schwartz",
+ "title": "Houston Has a Waterfront",
+ "brand": "hpb",
+ "why": "Cold Houston locals (Schwartz unaware): bust the 'nothing to do in Houston' myth and show Clear Lake exists.",
+ "hook_options": [
+  "Nothing to do in Houston? Try the water.",
+  "Most Houstonians don't know this exists.",
+  "Houston has a waterfront. Get on it."
+ ],
+ "caption": "Downtown bar, rooftop, dinner again. Or: your whole crew on Clear Lake with your own cooler, your own playlist, and a captain at the wheel. Up to 26 guests, roof and bathroom on board, ages 8 and up. Houston has a waterfront. Get on it. #houston #clearlake #kemah #houstonthingstodo #partybarge",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Houston, real talk",
+   "headline": "Nothing to do in Houston? Try the water.",
+   "body": "Clear Lake, Kemah lights, and a whole boat for your group. Most Houstonians don't know this exists.",
+   "photo": "fb_2022-09-01_175727828296972.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-09-01_175727828296972.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The usual weekend",
+   "headline": "Same bar. Same tab. Same story.",
+   "body": "Downtown bar, rooftop lounge, dinner again. The group chat ran out of ideas months ago, and everyone knows it."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Meanwhile, on Clear Lake",
+   "headline": "Open water. Kemah in the distance.",
+   "body": "Your people, your playlist, your cooler. A captain at the wheel and nowhere you have to be for a while.",
+   "photo": "fb_2022-08-25_174278288441926.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-08-25_174278288441926.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "How it works",
+   "headline": "You bring the cooler. We bring the boat.",
+   "body": "BYOB, cans and plastic only. Plug your playlist into the Bluetooth speakers. A professional captain does the driving."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Your only job",
+   "headline": "Pick the music. The motor does the rest.",
+   "body": "The boat is fully motorized. Nobody is working for this view. Sit, dance, grab another drink.",
+   "photo": "fb_2022-05-19_152371640632591.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-05-19_152371640632591.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Rain check?",
+   "headline": "There's a roof. And a bathroom.",
+   "body": "We run in the rain. We only call it for lightning, high winds, or Coast Guard advisories. Then it's a full refund or free reschedule.",
+   "photo": "IMG_6418.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/IMG_6418.jpeg",
+   "pos": "center 60%",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Don't take our word",
+   "headline": "4.9 stars across 400+ reviews.",
+   "body": "Bachelorettes, birthday crews, and office teams who found out Houston has a waterfront."
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Who books it",
+   "headline": "Bachelorettes. Birthdays. The team that earned it.",
+   "body": "Up to 26 guests, ages 8 and up, no dress code. Flip flops and birthday crowns both welcome."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "So",
+   "headline": "Houston has a waterfront. Get on it.",
+   "body": "Clear Lake, your crew, your cooler. The bar will still be there next weekend."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Send this to the group chat",
+   "headline": "Your weekend just got a waterfront.",
+   "body": "Private charters and public cruises on Clear Lake. Book at houstonpedalbarge.com.",
+   "photo": "fb_2021-12-14_109758508227238.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2021-12-14_109758508227238.jpg",
+   "pos": "center 45%",
+   "dark": false
+  }
+ ]
+}

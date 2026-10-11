@@ -1,0 +1,120 @@
+{
+ "format": "functional",
+ "type": "insider",
+ "mentor": "Sugarman",
+ "brand": "bbk",
+ "title": "Things nobody tells you about Buffalo Bayou",
+ "why": "Houston locals who've seen the bayou from a car; specific, checkable details (founding site, official city bird, key hold, refund policy) make them want to see it from water level.",
+ "hook_options": [
+  "Buffalo Bayou isn't what you drove past",
+  "You launch where Houston started. And six more things.",
+  "The city has an official bird. It lives here."
+ ],
+ "caption": "You launch at Allen's Landing, where Houston was founded in 1836. The city's official bird fishes the banks. There's no current to fight. Staff hold your keys. And the traffic noise just stops. A few things locals miss about their own bayou. #buffalobayou #houstonhistory #urbannature #buffalobayoukayak",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Things nobody tells you",
+   "headline": "Buffalo Bayou isn't what you drove past",
+   "body": "From the freeway it's a blur. From water level it's a different city. A few things locals miss.",
+   "photo": "Resized_Resized_20210821_155206.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/Resized_Resized_20210821_155206.jpeg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "1",
+   "headline": "You launch where Houston started",
+   "body": "Allen's Landing is where the city was founded in 1836. Your kayak goes in at the original port."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "2",
+   "headline": "The city has an official bird. It lives here.",
+   "body": "One guest was \"blown away\" by the herons, egrets and the city's official bird, the yellow-crowned night heron.",
+   "photo": "buffalo-bayou-ducks-bridge.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-ducks-bridge.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "3",
+   "headline": "There's no current to fight",
+   "body": "The bayou is slow water. Head upstream toward Waugh or work the downtown stretch and still make it back easy."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "4",
+   "headline": "Look small, too",
+   "body": "Herons get the attention. Guides also turn up guys like this one. Wildlife is common, never guaranteed.",
+   "photo": "IMG_4728-scaled.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/IMG_4728-scaled.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "5",
+   "headline": "Staff will hold your car keys",
+   "body": "No pockets, no problem. Hand your keys over at check-in and leave valuables in the car."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "6",
+   "headline": "The banks bloom at water level",
+   "body": "Wildflowers along the bank, inches above the bayou. You only notice them at kayak speed.",
+   "photo": "buffalo-bayou-wildflowers.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-wildflowers.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "7",
+   "headline": "Rain? Refund or reschedule. Your call.",
+   "body": "If we call it for weather, full refund. Cancel 24 hours or more ahead, full refund too."
+  },
+  {
+   "n": 9,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "8",
+   "headline": "Paddlers clean this bayou",
+   "body": "Buffalo Bayou Kayak runs community cleanups on the water. Want to help beautify the bayou? Ask about the next one.",
+   "photo": "buffalo-bayou-kayak-adventures.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/buffalo-bayou-kayak-adventures.jpeg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this. Send it to a Houstonian.",
+   "headline": "Your city looks different from down here",
+   "body": "Kayak tours and rentals from Allen's Landing. Book at buffalobayoukayak.com.",
+   "photo": "buffalo-bayou-night-skyline-c.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-skyline-c.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

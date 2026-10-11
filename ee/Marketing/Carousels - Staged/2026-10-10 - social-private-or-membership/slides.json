@@ -1,0 +1,116 @@
+{
+ "format": "functional",
+ "type": "decision",
+ "mentor": "Bencivenga",
+ "title": "Social, Private, or Membership?",
+ "brand": "ee",
+ "why": "Warm leads deciding how to book: lay out the three options with real prices and a real guest quote for each, then a one-line pick.",
+ "hook_options": [
+  "Social, private, or membership? Pick in a minute.",
+  "Same sauna. Three ways in.",
+  "Solo, celebrating, or hooked? Here's your session."
+ ],
+ "caption": "Three ways onto the same floating sauna. Social: share with up to 8, from $49 off-peak. Private: the whole thing for up to 10, from $449 off-peak. Membership: from $99 a month, cancel anytime. Not sure? Start social. Save this for booking night. #portland #pdx #floatingsauna #pdxbirthday #saunamembership",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Booking for the first time?",
+   "headline": "Social, private, or membership? Pick in a minute.",
+   "body": "Same sauna, same river. The difference is who's on the deck and how often you come back.",
+   "photo": "IMG_8770.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Ebb and Ember Photos & Videos/IMG_8770.JPG",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Option 1",
+   "headline": "Social session",
+   "body": "Share the sauna and deck with up to 8 guests. $49 off-peak, $59 peak, per person. 1 hour 45 minutes."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Real guest",
+   "headline": "\"Sharing the sauna with strangers was actually very fun.\"",
+   "body": "A. P., first-timer, Google review. Pick social if you're solo, a pair, or just curious.",
+   "photo": "21-become-a-regular-deck-community.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/21-become-a-regular-deck-community.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Option 2",
+   "headline": "Private session",
+   "body": "The whole floating sauna, your group only, up to 10 people. $449 off-peak, $539 peak."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Real guest",
+   "headline": "\"We celebrated two birthdays with a group of 10.\"",
+   "body": "Ginny T., Google review. Pick private for birthdays, offsites, or a family that wants the deck to itself.",
+   "photo": "07-private-sauna-party-deck-member-night.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/07-private-sauna-party-deck-member-night.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Option 3",
+   "headline": "Membership",
+   "body": "From $99 a month. No minimum commitment, cancel anytime. Members can bring a friend at the member rate."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Real guest",
+   "headline": "\"I've been back three times already.\"",
+   "body": "Jacqueline S., Google review. Pick membership when one session turns into a habit.",
+   "photo": "IMG_8828.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Ebb and Ember Photos & Videos/IMG_8828.JPG",
+   "pos": "center 50%",
+   "dark": true
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Good to know",
+   "headline": "Plans change. Your money doesn't vanish.",
+   "body": "Cancellations become a gift card for a future session. All sales are final, so it's credit, not a refund."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Quick pick",
+   "headline": "Curious? Social. Celebrating? Private. Hooked? Member.",
+   "body": "Not sure? Start social. You can always book a private next time."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Save this for booking night",
+   "headline": "Pick your session.",
+   "body": "Portland's floating sauna on the Columbia River. Book at ebbandember.com.",
+   "photo": "10-floating-sauna-exterior-lit-windows.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/10-floating-sauna-exterior-lit-windows.jpg",
+   "pos": "center 50%",
+   "dark": true
+  }
+ ]
+}

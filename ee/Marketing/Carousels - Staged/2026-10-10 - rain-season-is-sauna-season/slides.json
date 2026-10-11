@@ -1,0 +1,120 @@
+{
+ "format": "archetypal",
+ "type": "hook",
+ "mentor": "Schwartz",
+ "title": "Rain Season Is Sauna Season",
+ "brand": "ee",
+ "why": "Portlanders who think a floating sauna is a summer thing (Schwartz problem-aware): flip the rain from obstacle to the best part of the session.",
+ "hook_options": [
+  "Rain season is sauna season.",
+  "Watch the rain hit the river from 180 degrees.",
+  "The gray months are the good ones."
+ ],
+ "caption": "Rain season is back, and from inside the cedar it looks different. Watch it hit the Columbia through the window, then step out into it on purpose. Plunge in the river, pull The Downpour, or skip the cold entirely. Open daily, rain or shine. #portland #pdx #floatingsauna #columbiariver #pnwfall",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Portland, October",
+   "headline": "Rain season is sauna season.",
+   "body": "Most people think a floating sauna is a summer thing. Here's why the gray months are the good ones.",
+   "photo": "01-floating-sauna-portland-interior-river-window.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/01-floating-sauna-portland-interior-river-window.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Summer",
+   "headline": "Warm air. River in the 60s. Nice.",
+   "body": "Summer sessions are easy. The plunge almost feels pleasant. It's a good time. It's not the best time."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Now",
+   "headline": "Gray sky. Flat water. Colder river.",
+   "body": "The Columbia is Cascade snowmelt, and it gets colder from here. That contrast with a hot cedar room is the point.",
+   "photo": "14-gray-day-floating-sauna-columbia-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/14-gray-day-floating-sauna-columbia-river.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "From inside",
+   "headline": "Watch the rain hit the river.",
+   "body": "Big windows, cedar walls, around 180 degrees. Outside, Portland does what Portland does.",
+   "photo": "IMG_0406.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Photos/2025-26 Backlog/2025-11-07/_originals/IMG_0406.JPG",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Then",
+   "headline": "Step out into it on purpose.",
+   "body": "Cold air, rain on warm skin, steam coming off your shoulders. The weather becomes part of the session.",
+   "photo": "03-evening-sauna-deck-lights-columbia-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/03-evening-sauna-deck-lights-columbia-river.jpg",
+   "pos": "center 55%",
+   "dark": true
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "A guest, last November",
+   "headline": "\"So relaxing watching it rain outside.\"",
+   "body": "Summer V., Google review. Another guest that month called it the perfect spot to watch rain hit the river."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Skip the river?",
+   "headline": "Fine. The plunge is always optional.",
+   "body": "Sit on the ladder, use the cold shower, or pull the cord on The Downpour. Nobody's keeping score.",
+   "photo": "06-the-downpour-cold-plunge.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/06-the-downpour-cold-plunge.jpg",
+   "pos": "center 35%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Bonus",
+   "headline": "Gray days are good sauna days.",
+   "body": "Fewer boats, low clouds, quiet water. It's the Columbia most people never see."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "So",
+   "headline": "The rain is the good part.",
+   "body": "Heat, cold river, rain on the deck. Open daily, rain or shine."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for the next gray day",
+   "headline": "Book a rainy one.",
+   "body": "Floating sauna and Columbia River plunge in North Portland. 1 hour 45 minute sessions. ebbandember.com",
+   "photo": "IMG_0596.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Photos/2025-26 Backlog/2025-11-13/_originals/IMG_0596.JPG",
+   "pos": "center 50%",
+   "dark": true
+  }
+ ]
+}

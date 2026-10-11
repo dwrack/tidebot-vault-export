@@ -1,0 +1,107 @@
+{
+ "format": "functional",
+ "type": "decision",
+ "mentor": "Bencivenga",
+ "brand": "nbb",
+ "title": "Party Bus or Bike Bar? Pick by What You're Solving For",
+ "why": "Honest comparison plus real Facebook reviews for warm leads stuck between a party bus and the bike bar; admits when the bus wins so the rest is believable.",
+ "hook_options": [
+  "Party bus or bike bar? Here's when each one wins.",
+  "We'll tell you when to book the party bus instead.",
+  "The honest answer to bus vs bike bar."
+ ],
+ "caption": "Party bus or bike bar? Honest answer: if it's pouring or you just need a ride between two venues, book the bus. If you want the centerpiece of the weekend, the open-air ride wins. Real reviews in the slides. Send to the group chat before the vote. #neworleans #nolabachelorette #nolabirthday #thingstodoinneworleans",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "kicker": "Settle the group chat",
+   "headline": "Party bus or bike bar? Here's when each wins.",
+   "photo": "IMG_5115.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/IMG_5115.jpeg",
+   "pos": "center 45%"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Ask one question",
+   "headline": "Centerpiece, or ride between centerpieces?",
+   "body": "That answer picks for you. Everything else is detail."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Book the party bus if",
+   "headline": "You need A to B, or it's pouring",
+   "body": "A sealed box is dry and gets you between two venues. We'll say that out loud."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Book the bike bar if",
+   "headline": "The ride IS the plan",
+   "body": "Open air, your music, a captain who hosts, and a street that reacts to your group.",
+   "photo": "IMG_5139.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/IMG_5139.jpeg",
+   "pos": "center 40%"
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "kicker": "Group size",
+   "headline": "Up to 14 riders, one long bar",
+   "body": "Everybody faces each other. Nobody gets stuck in the back row.",
+   "photo": "NolaBikeBar_01.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_01.png",
+   "pos": "center 50%"
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Real review",
+   "headline": "\"My group of 10 had an amazing time!\"",
+   "body": "\"Definitely a must do when visiting New Orleans.\" Toyoa D., Facebook",
+   "photo": "IMG_6272.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/IMG_6272.jpeg",
+   "pos": "center 40%"
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Real review",
+   "headline": "\"Played any type of music we wanted\"",
+   "body": "\"Max was our driver... and was such a vibe.\" Gen O., booked last minute for a 30th birthday"
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Real review",
+   "headline": "\"Tons of fun and very knowledgeable\"",
+   "body": "\"Something you have to experience with your friends.\" Racquel M., Facebook"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Rain? Bus. The weekend's big moment? Us.",
+   "body": "Both routes run about 1 hour 45 to 2 hours. 21 and up."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "kicker": "Send this before the vote",
+   "headline": "Make the ride the plan",
+   "body": "Pick Irish Channel or Mid-City at nolabikebar.com.",
+   "photo": "Bike Bar new orleans.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/Bike Bar new orleans.jpg",
+   "pos": "center 45%"
+  }
+ ]
+}

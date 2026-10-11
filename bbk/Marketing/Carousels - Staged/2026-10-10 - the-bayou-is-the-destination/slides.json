@@ -1,0 +1,104 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Halbert",
+ "brand": "bbk",
+ "title": "You don't need the Hill Country",
+ "why": "Brand belief for Houston families who drive hours for nature: the bayou is the destination, not the backup plan. Takes the side of Houston against 'there's nothing to do here'.",
+ "hook_options": [
+  "You don't need the Hill Country",
+  "\"There's nothing to do in Houston.\" Wrong.",
+  "A heron is standing three miles from downtown right now"
+ ],
+ "caption": "Every weekend Houston families drive three hours to find nature. Meanwhile there's a heron standing three miles from downtown. The bayou isn't the backup plan. It isn't crystal-blue water either. It's alive, it's flat, families do fine, and it's in your backyard. #houston #buffalobayou #urbannature #buffalobayoukayak",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Houston, a hot take",
+   "headline": "You don't need the Hill Country",
+   "body": "Every weekend Houston families drive three hours to find nature. A heron is standing three miles from downtown right now.",
+   "photo": "201826332_4186115908093844_6889877298283329639_n.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/201826332_4186115908093844_6889877298283329639_n.jpeg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The most-said sentence in Houston",
+   "headline": "\"There's nothing to do here.\"",
+   "body": "It's also the most wrong. Most of us just never look down from the bridge."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Look down",
+   "headline": "Turtles. Herons. Egrets. Downtown.",
+   "body": "The bayou cuts straight through the city, full of life most people drive right over."
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "What we believe",
+   "headline": "The bayou isn't the backup plan",
+   "body": "It's not the cheap version of a real outdoor trip. A heron in the middle of Houston beats one in the Hill Country, because nobody expected it."
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The rush hour flip",
+   "headline": "Same city. Zero traffic.",
+   "body": "Dave H. on TripAdvisor: \"So much more peaceful being down on the water than fighting all the traffic on the bridges and roadways above.\""
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "We'll be honest",
+   "headline": "It's not crystal-blue water",
+   "body": "It's a working urban waterway. But herons, turtles and 300,000 bats don't stick around unless the place is alive."
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The real product",
+   "headline": "The \"I had no idea this was here\" moment",
+   "body": "That's what we're actually selling. The kayak is just the tool."
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Easy, on purpose",
+   "headline": "Flat water. Families welcome.",
+   "body": "No expedition, no fitness test. Kids 6 and up get their own seat with an adult along."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "So next time",
+   "headline": "Don't argue. Hand them a paddle.",
+   "body": "When someone says Houston has no nature, put them in a kayak three miles from downtown and let a heron make the point."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Tag the friend who says Houston's boring",
+   "headline": "Your backyard has a bayou",
+   "body": "Tours and rentals from Allen's Landing, open daily. Book at buffalobayoukayak.com.",
+   "photo": "1000028502.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/1000028502.jpg",
+   "pos": "center 50%",
+   "dark": false
+  }
+ ]
+}

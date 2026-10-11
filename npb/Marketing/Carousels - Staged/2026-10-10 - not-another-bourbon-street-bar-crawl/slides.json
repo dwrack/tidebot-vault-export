@@ -1,0 +1,112 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Halbert",
+ "title": "Not Another Bar Crawl",
+ "brand": "npb",
+ "why": "The Nemesis rallying cry ('Not another Bourbon Street bar crawl') plus the brand belief that the guest runs the show and the crew gets out of the way. For groups weighing a 4th Bourbon night.",
+ "hook_options": [
+  "Not another Bourbon Street bar crawl.",
+  "Night four on Bourbon Street. Same strangers.",
+  "We don't run the party. You do."
+ ],
+ "caption": "Bourbon Street will still be there at 2am. Give the afternoon to the water: your people, your drinks, your playlist, a licensed captain who drives and then gets out of the way. Tag the friend who needs this. #neworleans #nola #bachelorette #bayou #notbourbonstreet",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "What we believe",
+   "headline": "Not another Bourbon Street bar crawl.",
+   "body": "",
+   "photo": "IMG_8555.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8555.jpeg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Night four",
+   "headline": "Same street. Same $14 drink. Same strangers.",
+   "body": "Most New Orleans trips run the same script. Bourbon, a hangover, repeat. It's fine. Nobody tells that story later."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "So we built the opposite",
+   "headline": "Your people. Your drinks. Real bayou.",
+   "body": "A private boat 7 miles from the Quarter. BYOB, your playlist, egrets on the bank and maybe a gator.",
+   "photo": "IMG_6452.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_6452.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The part nobody expects",
+   "headline": "We don't run the party. You do.",
+   "body": "No script. No DJ telling you when to cheer. No forced fun."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Our job",
+   "headline": "Drive safe, then get out of the way.",
+   "body": "Licensed captain, USCG-certified boat, a deckhand. We're the stage crew, not the show.",
+   "photo": "IMG_8310.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8310.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Respect the trip",
+   "headline": "Nobody flies here to sit in a van",
+   "body": "7 miles from the Quarter means your trip happens on the water, not on the highway."
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "What guests say",
+   "headline": "'We got a little bit of everything!'",
+   "body": "'We partied, we saw alligators, we learned some history.' Jeff C., Google review."
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Bourbon Street will wait",
+   "headline": "It's open at 2am. The bayou isn't.",
+   "body": "Do Bourbon at night if you want. Give the afternoon to the water."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "So",
+   "headline": "Not another bar crawl. A bayou afternoon.",
+   "body": "Put you somewhere beautiful, then get out of the way. That's the whole idea."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Tag the friend who needs this",
+   "headline": "Your boat. Your rules.",
+   "body": "Private BYOB party boats on Bayou Bienvenue. nolapartybarges.com",
+   "photo": "IMG_8501.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8501.jpeg",
+   "pos": "center 40%",
+   "dark": false
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "title": "Your First BYOB Boat",
+ "brand": "npb",
+ "why": "Warm-ish planners who found the boat and need the practical 'how does BYOB actually work' answers before they book. Answers drinks, music, weather.",
+ "hook_options": [
+  "Nothing's served on board. That's the point.",
+  "3 things to know before your first BYOB boat",
+  "Who's on aux? And other BYOB boat questions"
+ ],
+ "caption": "First BYOB boat? Bring every drink you want, pick one phone for the Bluetooth, and don't sweat the drizzle. The boats are covered and only lightning cancels. And yes, there's a bathroom on board. Save this for the group chat. #neworleans #nola #byob #bachelorette #bayou",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "First BYOB boat?",
+   "headline": "Nothing's served on board. That's the point.",
+   "body": "",
+   "photo": "IMG_8575.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8575.jpeg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "3 things to know",
+   "headline": "Drinks, music, weather. In that order.",
+   "body": "Get these three right and the captain handles the rest."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "1 of 3",
+   "headline": "Bring everything you want to drink",
+   "body": ""
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Here's how it works",
+   "headline": "Your cooler, your bar, no tab",
+   "body": "No drink minimums, no $14 margaritas. There's a bar setup on board to stock. Snacks and food are fine too.",
+   "photo": "IMG_8608.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8608.jpeg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "2 of 3",
+   "headline": "Who's on aux?",
+   "body": ""
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Here's how it works",
+   "headline": "Bluetooth sound. Your playlist.",
+   "body": "Pick one phone, build the playlist at the hotel, and charge it. Dead-battery silence on a party boat is brutal.",
+   "photo": "nola party boat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/nola party boat.jpg",
+   "pos": "center 35%",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "3 of 3",
+   "headline": "What if it rains?",
+   "body": ""
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Here's how it works",
+   "headline": "Covered boats. Only lightning cancels.",
+   "body": "Rain doesn't cancel a trip. There's a roof over the deck, and the boats are heated in winter.",
+   "photo": "IMG_8696.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8696.jpeg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Pack the cooler. Charge the phone. Relax.",
+   "body": "Oh, and there's a bathroom on board. You'll thank us around minute 50."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for the group chat",
+   "headline": "Bring the drinks. We'll bring the boat.",
+   "body": "1 hour 45 on Bayou Bienvenue, 7 miles from the Quarter. nolapartybarges.com",
+   "photo": "IMG_8493.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Photos/IMG_8493.jpeg",
+   "pos": "center 40%",
+   "dark": false
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Halbert",
+ "brand": "nbb",
+ "title": "You're Not Watching the City. You're In It.",
+ "why": "Nemesis story (the sealed party bus that calls transportation a tour) for groups who haven't picked yet; ends on the belief that the city is the show.",
+ "hook_options": [
+  "Name one street you saw from the party bus.",
+  "Most group tours in New Orleans are just transportation with a speaker.",
+  "Open air. Open city."
+ ],
+ "caption": "Ask anyone who did the party bus to name one street they passed. They can't. They spent the ride behind tinted glass. We think New Orleans happens on the sidewalk: the brass band, the stranger who waves, the corner that cheers. Open air. Open city. #neworleans #nola #nolabachelorette #birthdayinnola",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "kicker": "Quick test",
+   "headline": "Name one street you saw from the party bus",
+   "photo": "NolaBikeBar_11.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_11.png",
+   "pos": "center 40%"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "You can't",
+   "headline": "Because you didn't see one",
+   "body": "Tinted windows. Rows of seats facing forward. An hour in traffic on Canal, and somebody calls it a tour."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Here's what it costs you",
+   "headline": "The city happened without you",
+   "body": "A brass band played on the corner. A second line swung past. You heard a Bluetooth speaker."
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "kicker": "We got tired of that",
+   "headline": "So we took the windows off",
+   "body": "Open air. Your group faces each other across one long bar, not the back of a headrest.",
+   "photo": "IMG_6482.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/IMG_6482.jpeg",
+   "pos": "center 50%"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The turn",
+   "headline": "The street becomes part of your group",
+   "body": "People on the sidewalk wave. They cheer. A few try to hop on. You're the thing they stop to watch.",
+   "photo": "nola bike bar.jpeg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/nola bike bar.jpeg",
+   "pos": "center 40%"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "And the captain",
+   "headline": "A host, not a chauffeur",
+   "body": "Reads the group, cranks the music or slows down for the photo, makes the bride feel like the whole block is looking."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "kicker": "What you take home",
+   "headline": "Photos with the actual city in them",
+   "body": "Not another bench seat in a dark van. The house, the oak, the corner, your people.",
+   "photo": "NolaBikeBar_05.png",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/NolaBikeBar_05.png",
+   "pos": "center 45%"
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "What we believe",
+   "headline": "The city is the show",
+   "body": "We don't compete with the bars. We connect them, and make the in-between part the best part."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "So",
+   "headline": "You're not watching New Orleans. You're in it.",
+   "body": "Open air. Open city."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "kicker": "Share this with the planner",
+   "headline": "Take the windows off your weekend",
+   "body": "Open-air rides through Irish Channel and Mid-City. nolabikebar.com",
+   "photo": "IMG_3722.HEIC",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Bike Bar/Assets/Photos/IMG_3722.HEIC",
+   "pos": "center 50%"
+  }
+ ]
+}

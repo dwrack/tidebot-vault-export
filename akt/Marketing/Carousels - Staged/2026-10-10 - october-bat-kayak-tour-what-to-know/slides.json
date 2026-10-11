@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "brand": "akt",
+ "title": "Three things that change on an October bat paddle",
+ "why": "Warm leads booking a late-season bat tour; sets honest expectations (earlier sunset, thinning colony, cooler water) so they show up on time and happy.",
+ "hook_options": [
+  "Three things change in October. Plan for them.",
+  "Booking an October bat tour? Read this first.",
+  "The October bat tour is not the July bat tour"
+ ],
+ "caption": "October bat paddles are their own thing. Sunset comes earlier every week, the colony is thinning out before it heads south, and the paddle back gets cool. Arrive 15 minutes early, stay patient, bring a layer. Save this before you book. #austinbats #batseason #ladybirdlake #austinkayaktours",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "October bat tour?",
+   "headline": "Three things change in October. Plan for them.",
+   "body": "Earlier sunsets, a thinning colony, cooler evenings on the water. Here's how to show up ready.",
+   "photo": "37993250_1862239150481543_7239395332797235200_n.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/37993250_1862239150481543_7239395332797235200_n.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Change 1 of 3",
+   "headline": "Sunset comes earlier every week"
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "What to do",
+   "headline": "Arrive 15 minutes early. Every time.",
+   "body": "Waiver, paddle lesson, life vest fitting. The tour is timed to the sunset, not to your parking spot.",
+   "photo": "36702465_1824885514216907_6855733961604202496_n.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/36702465_1824885514216907_6855733961604202496_n.jpg",
+   "pos": "center 60%",
+   "dark": true
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Change 2 of 3",
+   "headline": "Fewer bats, later flights"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "What to do",
+   "headline": "Stay patient after the sun drops",
+   "body": "Late-October flights can be smaller and later than July. Guides put you in position by the bridge. Then it's patience.",
+   "photo": "38446667_1870785112960280_1491857504445923328_n.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/38446667_1870785112960280_1491857504445923328_n.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Change 3 of 3",
+   "headline": "Evenings on the lake get cool"
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "What to wear",
+   "headline": "Layers, and shoes you don't mind soaking",
+   "body": "One guest put it plainly: \"You might get a little wet so plan ahead on shoes and clothes.\" Add a light jacket for the paddle back.",
+   "photo": "40498832_1914952411876883_8901517259390844928_n.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/40498832_1914952411876883_8901517259390844928_n.jpg",
+   "pos": "center 55%",
+   "dark": true
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Bonus",
+   "headline": "Put your phone in a dry bag",
+   "body": "Dropped phones happen a few times a season. You'll want that phone when the colony pours out.",
+   "photo": "69262369_2454091517962967_7853089010560794624_n.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/69262369_2454091517962967_7853089010560794624_n.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Early. Patient. Layered. Phone in a bag.",
+   "body": "That's the whole October checklist. The bats handle the rest, on their own schedule."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this before you book",
+   "headline": "Catch the tail end of bat season",
+   "body": "The colony is here until early November. Sunset bat tours at austinkayaktours.com.",
+   "photo": "bat bridge tour.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/bat bridge tour.jpg",
+   "pos": "center 55%",
+   "dark": false
+  }
+ ]
+}

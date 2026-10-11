@@ -1,0 +1,116 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Schwartz",
+ "title": "Real Heat. Real River. Nothing to Perform.",
+ "brand": "ee",
+ "why": "Portlanders tired of performative wellness (Nemesis): state the belief that heat, cold water, and quiet are enough, and we won't tell you what to feel.",
+ "hook_options": [
+  "You don't need a mantra. You need heat.",
+  "Wellness got weird. Sauna didn't.",
+  "We won't tell you what you'll feel."
+ ],
+ "caption": "You don't need a mantra. You need heat, cold water, and somewhere to sit after. Around 180 degrees inside, the Columbia outside, whatever temperature the river decides. Some people cry in the sauna, some just get sweaty. Both are fine. Real heat. Real river. Nothing to perform. #portland #pdx #floatingsauna #saunaculture #columbiariver",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "What we believe",
+   "headline": "You don't need a mantra. You need heat.",
+   "body": "And cold water. And somewhere to sit after. That's the whole thing.",
+   "photo": "04-sauna-ladle-steam-rocks-banya.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/04-sauna-ladle-steam-rocks-banya.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Somewhere along the way",
+   "headline": "Wellness got weird.",
+   "body": "Crystal water bottles. $200 healing experiences. Intention-setting before you're allowed to relax."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Meanwhile",
+   "headline": "Finland just kept doing sauna.",
+   "body": "Get hot. Get cold. Sit outside and breathe. In the Nordics it's been communal and unglamorous for centuries."
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "So we built that",
+   "headline": "A cedar sauna on the Columbia River.",
+   "body": "Around 180 degrees inside. Cascade snowmelt outside. A deck in between. No playlist curated for your journey.",
+   "photo": "IMG_8460.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Ebb and Ember Photos & Videos/IMG_8460.JPG",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The water is real",
+   "headline": "The river decides the temperature.",
+   "body": "Not a tub set to 39 degrees. Whatever the Columbia is doing today, that's your plunge.",
+   "photo": "17-early-morning-floating-sauna-dock.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Marketing/GBP Posts Fall-Winter 2026/images/17-early-morning-floating-sauna-dock.jpg",
+   "pos": "center 50%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "What we won't do",
+   "headline": "We won't tell you what you'll feel.",
+   "body": "Some people cry in the sauna. Some people just get sweaty and relaxed. Both are fine."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "What we will do",
+   "headline": "Heat, cold water, and quiet.",
+   "body": "What you do with that is yours. Sit. Talk. Stare at the river. Nobody's grading it.",
+   "photo": "IMG_8826.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Ebb and Ember Photos & Videos/IMG_8826.JPG",
+   "pos": "center 45%",
+   "dark": true
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Also",
+   "headline": "Skipping the plunge isn't failing.",
+   "body": "Sit on the ladder or skip it entirely. The sauna alone is worth the trip."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Say it plainly",
+   "headline": "Real heat. Real river. Nothing to perform.",
+   "body": "That's Ebb & Ember. Portland's floating sauna, no wellness guru required."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Share with the friend who hates the word wellness",
+   "headline": "Come sit by the river.",
+   "body": "Social sessions from $49 off-peak. Book at ebbandember.com.",
+   "photo": "IMG_2354.JPG",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Photos/2025-26 Backlog/2026-02-01/_originals/IMG_2354.JPG",
+   "pos": "center 50%",
+   "dark": true
+  }
+ ]
+}
