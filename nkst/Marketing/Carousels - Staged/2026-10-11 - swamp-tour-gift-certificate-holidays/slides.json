@@ -1,0 +1,127 @@
+{
+ "format": "functional",
+ "type": "seasonal",
+ "mentor": "Sugarman",
+ "title": "The Gift for the Friend Who Has Done New Orleans Twice",
+ "brand": "nkst",
+ "round": 2,
+ "why": "Holiday gift shoppers (Nov-Dec): a gift certificate that is emailed instantly and never expires, for repeat New Orleans visitors.",
+ "hook_options": [
+  "For the friend who's done New Orleans twice.",
+  "A gift that never expires and never ships.",
+  "Stop buying them another praline tin."
+ ],
+ "caption": "Shopping for someone who's already done Bourbon Street and beignets twice? Give them a morning in a cypress swamp. Our gift certificates are good on any tour, emailed right away, and they don't expire. #NewOrleans #GiftIdeas #SwampTour #ExperienceGift",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Holiday gift idea",
+   "headline": "For the friend who's done New Orleans twice.",
+   "body": "They've had the beignets. They've done Bourbon Street. They probably haven't paddled a cypress swamp.",
+   "photo": "manchac-sun-rays-through-cypress.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-sun-rays-through-cypress.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "What you're buying",
+   "headline": "A gift certificate, good on any tour.",
+   "body": "Manchac, Honey Island, the extended paddle, the rental. They pick the trip and the date."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "How fast",
+   "headline": "It lands in their inbox right away.",
+   "body": "No shipping, no wrapping, no guessing sizes. You check out and it's emailed immediately.",
+   "photo": "manchac-solo-kayaker-open-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-solo-kayaker-open-water.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The best part",
+   "headline": "It doesn't expire.",
+   "body": "Give it in December, use it in April. No use-it-or-lose-it deadline hanging over the gift."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "If they come in winter",
+   "headline": "Bare cypress. Fewer bugs. Quiet water.",
+   "body": "Manchac runs year-round. Gators slow down below 65 degrees and the birds move in. A different trip, still a good one.",
+   "photo": "manchac-winter-bare-cypress-still-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-winter-bare-cypress-still-water.jpg",
+   "pos": "center",
+   "dark": true,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "If they come in spring",
+   "headline": "Gators wake up. Everything goes green.",
+   "body": "April through October is peak gator season. Common, never guaranteed.",
+   "photo": "manchac-alligator-on-green-bank-spring.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-alligator-on-green-bank-spring.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "vault"
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Who it's not for",
+   "headline": "Skip it for someone who hates the outdoors.",
+   "body": "Or anyone whose mobility makes kayaking hard. We'd rather say that than sell you the wrong gift."
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "What to write on the card",
+   "headline": "\"A real swamp. No motor. No crowd.\"",
+   "body": "Then: \"Yours whenever you want it.\" Steal the line. It tells them exactly what's coming.",
+   "photo": "manchac-kayak-bow-calm-river-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayak-bow-calm-river-reflection.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Any tour. Emailed now. Never expires.",
+   "body": "The gift for the person who already has a French Quarter print on the wall."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Tag the friend who needs this",
+   "headline": "Give them the swamp this year.",
+   "body": "Gift certificates for small-group kayak swamp tours from New Orleans. Buy them on our site.",
+   "photo": "manchac-sunset-cypress-silhouette.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-sunset-cypress-silhouette.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

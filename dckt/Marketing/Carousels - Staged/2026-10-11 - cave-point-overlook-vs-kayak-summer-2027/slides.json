@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "comparison",
+  "mentor": "Schwartz",
+  "title": "The Overlook or the Water?",
+  "brand": "dckt",
+  "round": 2,
+  "why": "2027 planning: contrasts the free overlook visit (the windshield nemesis) with the kayak tour, honest about weather.",
+  "hook_options": [
+    "You saw Cave Point. Did you see the caves?",
+    "Overlook or kayak: what you actually get.",
+    "Most visitors see Cave Point from the wrong side."
+  ],
+  "caption": "Most people see Cave Point from the overlook trail, snap a photo, and drive on. Here's what changes from a kayak. Do both if you can. Kayak tours return May 2027. #doorcounty #cavepoint #kayaking #lakemichigan",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Planning summer 2027?",
+      "headline": "The overlook or the water?",
+      "body": "Most Cave Point visitors see it from the trail. Here's what changes when you see it from a kayak.",
+      "dark": false,
+      "photo": "cave-point-overlook-vs-kayak-summer-2027-01.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/cave-point-overlook-vs-kayak-summer-2027-01.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 2,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "From the overlook",
+      "headline": "You see the top of the cliffs.",
+      "body": "Pretty, free, five minutes from the car. You're looking down at the water, not into the caves.",
+      "dark": false,
+      "photo": "cave-point-overlook-vs-kayak-summer-2027-02.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/cave-point-overlook-vs-kayak-summer-2027-02.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "From the water",
+      "headline": "You see where the lake carved them.",
+      "body": "The caves and arches face the lake. The only way in is by boat.",
+      "dark": false,
+      "photo": "cave-point-overlook-vs-kayak-summer-2027-03.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/cave-point-overlook-vs-kayak-summer-2027-03.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Overlook",
+      "headline": "The lot fills by mid-morning in July.",
+      "body": "It's small, and clear summer weekends pack it early."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "Water",
+      "headline": "15 to 20 feet down, still clear.",
+      "body": "On calm days you watch the lakebed slide by under your seat.",
+      "dark": false,
+      "photo": "cave-point-overlook-vs-kayak-summer-2027-05.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/cave-point-overlook-vs-kayak-summer-2027-05.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Overlook",
+      "headline": "Ten minutes, then the next stop.",
+      "body": "Most people take the photo and head back to the car."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Water",
+      "headline": "Two hours along the shoreline.",
+      "body": "A guide picks the line, reads the wind, and calls the cave entry that morning.",
+      "dark": false,
+      "photo": "cave-point-overlook-vs-kayak-summer-2027-07.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/cave-point-overlook-vs-kayak-summer-2027-07.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Fair warning",
+      "headline": "The water has a weather veto.",
+      "body": "Wind and waves can move or cancel a tour. The overlook never cancels."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Recap",
+      "headline": "Overlook: free and fast. Water: the caves.",
+      "body": "Do both. Walk the overlook after your paddle and you'll know exactly where you were."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for summer 2027",
+      "headline": "Kayak tours return May 2027.",
+      "body": "Book at doorcountykayaktours.com. Tag the friend who only did the overlook.",
+      "dark": false,
+      "photo": "cave-point-overlook-vs-kayak-summer-2027-10.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/cave-point-overlook-vs-kayak-summer-2027-10.jpg",
+      "pos": "center"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+ "format": "functional",
+ "type": "review",
+ "mentor": "Bencivenga",
+ "title": "Our Best Reviews Include Warnings",
+ "brand": "nkst",
+ "round": 2,
+ "why": "Bookers comparing tours: real recent Google reviews that admit the hard parts (tired arms, tandems, rain), which makes the praise believable.",
+ "hook_options": [
+  "Our best reviews include warnings.",
+  "Five-star guests who told the whole truth.",
+  "Read the fine print in our reviews."
+ ],
+ "caption": "Some of our favorite five-star reviews come with a warning attached. Tired arms by the last 40 minutes. Tandems by default. Lightning cancels. We'd rather you book knowing all of it. 4.9 stars across 1,408 Google reviews. #SwampTour #NewOrleans #KayakTour #NOLA",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Real Google reviews, read closely",
+   "headline": "Our best reviews include warnings.",
+   "body": "Five-star guests who told the truth about tired arms, tandems and weather. Read them before you book.",
+   "photo": "manchac-group-kayak-tour-paddling.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-group-kayak-tour-paddling.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Miranda P.",
+   "headline": "\"By the last 40 min I was worn out!\"",
+   "body": "She's 36 and in good shape. It's two hours of real paddling, with drift stops. Plan your energy."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "What that means for you",
+   "headline": "Easy pace. Real paddling.",
+   "body": "Flat water, a guide setting the pace, 2 or 3 drift stops. Still, eat breakfast and bring water.",
+   "photo": "manchac-kayakers-cypress-stumps-open-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayakers-cypress-stumps-open-water.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Alison A.",
+   "headline": "\"Cool facts balanced with quiet paddling.\"",
+   "body": "Her one wish was a single kayak. Two people who book together get a tandem by default. Worth knowing."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Peter P., late September",
+   "headline": "\"Surprisingly there were very few mosquitos.\"",
+   "body": "Lucky week. Mosquito season runs roughly April through October, so pack the spray anyway.",
+   "photo": "manchac-kayaker-quiet-channel-afternoon.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayaker-quiet-channel-afternoon.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Dean F., second trip",
+   "headline": "\"Whenever there is lightning they have to cancel.\"",
+   "body": "True. Light rain, we paddle. Lightning, we don't. He also noticed gators get less active on rainy days."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Debra J.",
+   "headline": "\"I'm scared of spiders and snakes and all that.\"",
+   "body": "She came anyway, and wrote that her guide made her feel safe as could be. Tell yours you're nervous.",
+   "photo": "manchac-kayaker-orange-kayak-blue-sky.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayaker-orange-kayak-blue-sky.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "John N.",
+   "headline": "\"Didn't want to go on this tour (wife's idea).\"",
+   "body": "His verdict after: a stellar time, 100% recommend. Bring your skeptic.",
+   "photo": "manchac-kayak-channel-moss-cypress.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayak-channel-moss-cypress.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The pattern",
+   "headline": "Tired arms. Tandems. Rain rules. Still five stars.",
+   "body": "We'd rather you book knowing all of it. 4.9 stars across 1,408 Google reviews."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Share with your trip planner",
+   "headline": "Read the reviews. Then come paddle.",
+   "body": "Small-group kayak swamp tours from New Orleans. Send this to the skeptic in your group.",
+   "photo": "manchac-sunset-kayaker-golden-sky.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-sunset-kayaker-golden-sky.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

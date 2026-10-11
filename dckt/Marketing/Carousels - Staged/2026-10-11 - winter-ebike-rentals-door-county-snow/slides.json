@@ -1,0 +1,113 @@
+{
+  "format": "archetypal",
+  "type": "seasonal",
+  "mentor": "Halbert",
+  "title": "The E-Bikes Don't Hibernate",
+  "brand": "dckt",
+  "round": 2,
+  "why": "Winter e-bike awareness for Midwest weekenders; depends on David confirming self-pickup winter rentals are really running.",
+  "hook_options": [
+    "Kayaks are stacked. The e-bikes aren't.",
+    "Fat tires, frozen bay, nobody else.",
+    "Door County in January, by e-bike."
+  ],
+  "caption": "The kayaks are stacked until May. Our fat-tire e-bikes are a different story. Self-pickup rentals run through winter, weather permitting. Go midday, layer up, stay off the ice. #doorcounty #winterbiking #ebike #fattirebike",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Door County, winter",
+      "headline": "The e-bikes don't hibernate.",
+      "body": "Kayaks are stacked until May. The fat-tire bikes stay out for self-pickup rentals, weather permitting.",
+      "dark": false,
+      "photo": "winter-ebike-rentals-door-county-snow-01.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/winter-ebike-rentals-door-county-snow-01.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Why fat tires",
+      "headline": "Wide tires float where skinny ones sink.",
+      "body": "They grip packed snow and sandy shoulders better than a road bike. Still a bike, not a snowmobile."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "The view",
+      "headline": "A frozen bay with almost nobody around.",
+      "body": "This is Eagle Panorama in Peninsula State Park, shot on a winter ride. Summer, you'd wait for a spot.",
+      "dark": false,
+      "photo": "winter-ebike-rentals-door-county-snow-03.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/winter-ebike-rentals-door-county-snow-03.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Short days",
+      "headline": "Plan around a 4:30 sunset.",
+      "body": "December light goes early. Book a midday slot and you'll ride in the warmest part of the day."
+    },
+    {
+      "n": 5,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Dress for it",
+      "headline": "Layer like it's 20 degrees colder.",
+      "body": "Wind off the lake bites at bike speed. Grippy gloves, a hat under the helmet, boots over sneakers."
+    },
+    {
+      "n": 6,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Closer to the shop",
+      "headline": "Cave Point in snow is a different park.",
+      "body": "Same cliffs from the summer kayak photos, rimmed in ice. Park the bike and walk the shore.",
+      "dark": false,
+      "photo": "winter-ebike-rentals-door-county-snow-06.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/winter-ebike-rentals-door-county-snow-06.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "One rule",
+      "headline": "Walk the rocks. Skip the shelf ice.",
+      "body": "Ice over open water isn't ground. Admire it from somewhere solid."
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "How it works",
+      "headline": "Self-pickup. Weather decides.",
+      "body": "Check the booking page for open days. Winter hours depend on the roads and the wind."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Recap",
+      "headline": "Fat tires. Frozen views. Early sunsets.",
+      "body": "Go midday, dress warmer than you think, and keep your boots off the ice."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for a winter weekend",
+      "headline": "Check winter rentals at doorcountykayaktours.com",
+      "body": "Send this to the friend with cabin fever.",
+      "dark": false,
+      "photo": "winter-ebike-rentals-door-county-snow-10.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/winter-ebike-rentals-door-county-snow-10.jpg",
+      "pos": "center"
+    }
+  ]
+}

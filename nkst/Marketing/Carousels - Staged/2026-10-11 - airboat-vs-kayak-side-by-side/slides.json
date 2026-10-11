@@ -1,0 +1,127 @@
+{
+ "format": "functional",
+ "type": "comparison",
+ "mentor": "Ogilvy",
+ "title": "Airboat vs Kayak, Side by Side",
+ "brand": "nkst",
+ "round": 2,
+ "why": "Cold-to-warm visitors choosing a swamp tour type: an honest side-by-side against the airboat (no competitor named), including who should pick the airboat.",
+ "hook_options": [
+  "Propeller or paddle? Pick before you book.",
+  "Airboat vs kayak: six honest differences.",
+  "Same price range. Opposite trips."
+ ],
+ "caption": "Airboat or kayak? Both get you into a Louisiana swamp. One is fast and loud, the other is slow and close. Similar price range. Here's the honest side-by-side, including when the airboat is the better call. #SwampTour #NewOrleans #Airboat #KayakTour",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Airboat vs kayak",
+   "headline": "Propeller or paddle? Pick before you book.",
+   "body": "No company names. Just what changes when you swap an engine for a paddle.",
+   "photo": "manchac-kayak-bow-wide-river-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayak-bow-wide-river-reflection.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Noise",
+   "headline": "Airboat: ear protection. Kayak: birdsong.",
+   "body": "An airboat runs an aircraft-style propeller. On a kayak the loudest sounds are paddle drips and your guide."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Wildlife",
+   "headline": "Engines scatter animals. Silence doesn't.",
+   "body": "From a kayak you can watch a gator stay on its log. Some tours bait gators. We never feed wildlife.",
+   "photo": "manchac-alligator-log-grass-wild.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-alligator-log-grass-wild.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Reach",
+   "headline": "Airboats cover miles. Kayaks go narrow.",
+   "body": "A fast boat sees more water. A kayak slips into side channels and under low cypress a big boat can't reach."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Group size",
+   "headline": "A bench of strangers, or 12 max.",
+   "body": "Our public tours cap at 12 guests. Small enough to go quiet together and actually hear the place.",
+   "photo": "manchac-red-kayaks-group-under-cypress.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-red-kayaks-group-under-cypress.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Effort",
+   "headline": "Airboat: none. Kayak: two easy hours.",
+   "body": "You do paddle. Flat water, stable kayaks, a lesson on shore. Most first-timers settle in fast."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Price",
+   "headline": "Close enough to call it even.",
+   "body": "Area airboat rides run about $50 to $90 for 60 to 90 minutes. Our Manchac tour is $65 for 2 hours.",
+   "photo": "manchac-cypress-mirror-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-cypress-mirror-reflection.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "vault"
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "When the airboat wins",
+   "headline": "Mobility limits, little kids, need for speed.",
+   "body": "Real reasons. If paddling isn't right for your group, an airboat is a fine day out.",
+   "photo": "manchac-kayaker-blue-sky-reflection-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayaker-blue-sky-reflection-river.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "Speed and noise, or quiet and close.",
+   "body": "If watching animals act like animals matters to you, paddle. That's the whole difference."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Send this to whoever's booking",
+   "headline": "Pick the paddle.",
+   "body": "Small-group kayak swamp tours from New Orleans. No motor, no bait, naturalist guides.",
+   "photo": "manchac-swamp-aerial-kayaks-canopy.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-swamp-aerial-kayaks-canopy.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

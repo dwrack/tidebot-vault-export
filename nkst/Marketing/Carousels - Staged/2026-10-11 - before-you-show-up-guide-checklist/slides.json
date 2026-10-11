@@ -1,0 +1,122 @@
+{
+ "format": "functional",
+ "type": "bts",
+ "mentor": "Sugarman",
+ "title": "Our Tour Starts the Night Before You Do",
+ "brand": "nkst",
+ "round": 2,
+ "why": "First-timers worried about safety and logistics: the real pre-tour checklist our guides run, which builds trust without saying \"safe\" ten times.",
+ "hook_options": [
+  "Our tour starts the night before you do.",
+  "The checklist your guide runs before you arrive.",
+  "What happens before anyone touches a paddle."
+ ],
+ "caption": "Before you ever see a kayak, your guide has already texted you, read the manifest, checked weather and water, inspected the van and counted every life jacket. This is the actual checklist. You just paddle. #SwampTour #NewOrleans #KayakTour #BehindTheScenes",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Behind the scenes",
+   "headline": "Our tour starts the night before you do.",
+   "body": "What your guide checks before anyone touches a paddle. This is the actual checklist.",
+   "photo": "manchac-launch-guests-life-jackets-paddles.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-launch-guests-life-jackets-paddles.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "vault"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The night before",
+   "headline": "Every guest gets a text.",
+   "body": "Pickup time, what to wear, and a real number to reach. Then the guide pulls up the manifest."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The manifest",
+   "headline": "Special notes get read first.",
+   "body": "Nervous paddler, birthday, bad knee. It's on the booking for a reason, and the guide checks it before the trip.",
+   "photo": "manchac-guide-in-kayak-cypress.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-guide-in-kayak-cypress.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "vault"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Before the van moves",
+   "headline": "Weather and water get checked.",
+   "body": "Lightning cancels. Light rain doesn't. High water can change the route, and the guide decides before launch."
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The van",
+   "headline": "Tires, fuel, a clean interior.",
+   "body": "It gets a once-over before pickup. Our logs even note the fuel level when it comes back."
+  },
+  {
+   "n": 6,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The gear count",
+   "headline": "Every life jacket. Every paddle.",
+   "body": "Counted, checked for damage, fitted to you on shore. Plus a guide bag with first aid and spare water.",
+   "photo": "manchac-kayaks-staged-at-launch.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayaks-staged-at-launch.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "vault"
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "On shore",
+   "headline": "The briefing covers four things.",
+   "body": "Paddle technique, life jacket fit, what to do if you flip, and group signals. Ask anything here."
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "On the water",
+   "headline": "Your guide counts heads. A lot.",
+   "body": "The log records how many launched and how many came back. Those two numbers have to match.",
+   "photo": "manchac-group-red-kayaks-cypress-channel.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-group-red-kayaks-cypress-channel.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "After",
+   "headline": "Gear cleaned. Log written. Van fueled.",
+   "body": "Every trip gets a written log. It's how we know which bayous are open this week."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Save this",
+   "headline": "You paddle. We sweat the list.",
+   "body": "Small-group kayak swamp tours from New Orleans. Share it with the planner in your group.",
+   "photo": "manchac-kayak-bow-following-group.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayak-bow-following-group.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

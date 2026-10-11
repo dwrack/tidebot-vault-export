@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "review",
+  "mentor": "Bencivenga",
+  "title": "What Riders Actually Say About Our E-Bikes",
+  "brand": "dckt",
+  "round": 2,
+  "why": "Proof for warm e-bike leads this fall: real Google reviews from our e-bike listing, trimmed, no guide names.",
+  "hook_options": [
+    "Real e-bike reviews, word for word.",
+    "Before you rent: read what riders said.",
+    "1.5 hours, an 11-year-old, light traffic."
+  ],
+  "caption": "We didn't write these. Real Google reviews from people who rented our fat-tire e-bikes, trimmed for length. Plan on about 1.5 hours for the suggested loop, 2 if you stop. Rentals at doorcountykayaktours.com. #doorcounty #ebike #cavepoint #doorcountywi",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Real reviews, e-bike edition",
+      "headline": "What riders actually say about our e-bikes.",
+      "body": "Straight from our Google listing. Trimmed for length, nothing reworded.",
+      "dark": false,
+      "photo": "door-county-ebike-reviews-what-riders-said-01.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-ebike-reviews-what-riders-said-01.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 2,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Kia B., August 2025",
+      "headline": "\"Very comfortable and well-maintained.\"",
+      "body": "Then: \"and fully charged.\" Kia rode with an 11-year-old. Both enjoyed it.",
+      "dark": false,
+      "photo": "door-county-ebike-reviews-what-riders-said-02.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-ebike-reviews-what-riders-said-02.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Kia's tip",
+      "headline": "Scan the QR code first.",
+      "body": "It pulls up our suggested route. Mostly roads with 25 and 35 mph limits. Kia called the traffic very light."
+    },
+    {
+      "n": 4,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "How long it took",
+      "headline": "\"More like 1.5 hours.\"",
+      "body": "That's the full suggested loop with no stops. Add photo stops and the 2-hour rental is the relaxed pick.",
+      "dark": false,
+      "photo": "door-county-ebike-reviews-what-riders-said-04.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-ebike-reviews-what-riders-said-04.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Nicole V., July 2023",
+      "headline": "\"Very friendly and knowledgeable.\"",
+      "body": "That one's about a guided e-bike tour. Her last line: \"Highly recommend.\"",
+      "dark": false,
+      "photo": "door-county-ebike-reviews-what-riders-said-05.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-ebike-reviews-what-riders-said-05.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 6,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Annie P., July 2023",
+      "headline": "\"The bikes themselves were super fun.\"",
+      "body": "Her daughter took a spill, and she says our guide was amazing and kind about it. We'd rather show you that than hide it.",
+      "dark": false,
+      "photo": "door-county-ebike-reviews-what-riders-said-06.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-ebike-reviews-what-riders-said-06.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Darla M., 2020",
+      "headline": "They came to test e-bikes before buying.",
+      "body": "\"On a very busy day, the owner took the time to talk to us about pros and cons.\""
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The number",
+      "headline": "4.8 stars across 25 reviews.",
+      "body": "That's our e-bike listing on Google as of October 2026. Small sample. Honest number."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "Comfortable. Charged. Light traffic.",
+      "body": "About 1.5 hours for the loop, 2 with stops. Rentals are $30 an hour."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your next trip",
+      "headline": "Rent an e-bike at doorcountykayaktours.com",
+      "body": "1, 2, or 3 hours. Send this to whoever keeps saying they'd try one.",
+      "dark": false,
+      "photo": "door-county-ebike-reviews-what-riders-said-10.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-ebike-reviews-what-riders-said-10.jpg",
+      "pos": "center"
+    }
+  ]
+}

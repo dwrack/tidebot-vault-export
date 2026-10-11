@@ -1,0 +1,132 @@
+{
+ "format": "functional",
+ "type": "numbers",
+ "mentor": "Bencivenga",
+ "title": "Seven Fall Trips, Straight From Our Guide Logs",
+ "brand": "nkst",
+ "round": 2,
+ "why": "Warm leads who doubt 'common, not guaranteed': seven real trips from our Sept-Oct 2026 guide logs, hits and misses both shown.",
+ "hook_options": [
+  "7 fall trips. 5 saw gators.",
+  "We read our guide logs so you can see the odds.",
+  "What the swamp actually did this fall."
+ ],
+ "caption": "Our guides log every trip. We pulled seven from late September and early October. Five had gators. Two didn't, and those groups got barred owls and open woods instead. That's common, not guaranteed, on paper. #SwampTour #NewOrleans #ManchacSwamp #KayakTour",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "From our guide logs, Sept and Oct 2026",
+   "headline": "7 fall trips. 5 saw gators.",
+   "body": "The other 2 didn't. Here's what each trip logged, straight from our guides' notes.",
+   "photo": "manchac-alligator-sunning-on-log-fall.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-alligator-sunning-on-log-fall.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 2,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Trip 1 | Sept, 5pm",
+   "headline": "Gators, gar, barred owls, a kingfisher.",
+   "body": "Plus juvenile little blue herons. Four guests, and the swamp mostly to themselves.",
+   "photo": "manchac-alligator-in-marsh-grass.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-alligator-in-marsh-grass.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Trip 2 | Sept, 9am",
+   "headline": "One gator. Then Lily's Bayou.",
+   "body": "A single gator sighting, then a run through the woods on Lily's Bayou. The guide logged it as a great woods day."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Trip 3 | Sept, 9am",
+   "headline": "No gators. Barred owls instead.",
+   "body": "Hunters were setting up deer and duck camps that week. Every boat that passed our group slowed down.",
+   "photo": "manchac-barred-owl-on-branch.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-barred-owl-on-branch.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Trip 4 | Sept, 2pm",
+   "headline": "Two small gators. Shell beach blocked.",
+   "body": "So the guide swapped to the woods on Lily's Bayou, where the log says plenty turned up.",
+   "photo": "manchac-kayak-bow-cypress-woods.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayak-bow-cypress-woods.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Trip 5 | Late Sept",
+   "headline": "Zero gators. Woods wide open.",
+   "body": "It happens. Same swamp, same guides, a quieter morning. We'd rather show you than hide it."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Trip 6 | Oct 1, 9am",
+   "headline": "Storms cleared. One gator, one owl.",
+   "body": "Morning storms rolled through before launch. By paddle time it was safe, and the swamp showed up.",
+   "photo": "manchac-alligator-swimming-duckweed.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-alligator-swimming-duckweed.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "vault"
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Trip 7 | Oct 1, 5pm",
+   "headline": "Two gators before we left the canal.",
+   "body": "One by the launch, one near the canal entrance. Some days the swamp doesn't make you wait.",
+   "photo": "manchac-alligator-on-bank-cypress.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-alligator-on-bank-cypress.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The tally",
+   "headline": "5 of 7 with gators. 2 without.",
+   "body": "That's common, not guaranteed, in real numbers. Warm fall mornings still give you the best odds."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Save this for your trip",
+   "headline": "Come add a line to the log.",
+   "body": "Small-group Manchac kayak tours from New Orleans. Send this to whoever wants honest odds.",
+   "photo": "manchac-kayakers-blue-sky-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayakers-blue-sky-reflection.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

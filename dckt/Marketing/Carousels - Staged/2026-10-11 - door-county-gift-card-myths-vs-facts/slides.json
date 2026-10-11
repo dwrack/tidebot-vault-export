@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "myth",
+  "mentor": "Ogilvy",
+  "title": "Four Gift Card Myths, Fixed",
+  "brand": "dckt",
+  "round": 2,
+  "why": "Holiday gift-card push for FB/IG sharers: answers the four objections that stop people buying an experience gift.",
+  "hook_options": [
+    "Four reasons people skip experience gifts. All wrong.",
+    "\"They'll never use it.\" They will.",
+    "The gift card myths we hear every December."
+  ],
+  "caption": "Every December we hear the same four worries about gift cards. Here's the straight answer to each. Ours never expire, work on any tour or the shop, and land by email. #doorcounty #giftideas #experiencegift #cavepoint",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Gift season, honest answers",
+      "headline": "Four gift card myths we hear every December.",
+      "body": "Each one keeps someone from giving a morning on Lake Michigan. Here's the fix for each.",
+      "dark": false,
+      "photo": "door-county-gift-card-myths-vs-facts-01.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-gift-card-myths-vs-facts-01.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "MYTH",
+      "headline": "\"A gift card is the lazy gift.\"",
+      "body": "Fair if it's for a big-box store. Different story when it's for a sea cave."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "FACT",
+      "headline": "It's a plan they didn't have to make.",
+      "body": "Two seats, a guide, and Cave Point from the water. They just pick the day.",
+      "dark": false,
+      "photo": "door-county-gift-card-myths-vs-facts-03.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-gift-card-myths-vs-facts-03.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "MYTH",
+      "headline": "\"They'll forget to use it.\"",
+      "body": "The real fear. Plenty of cards die in a junk drawer."
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "FACT",
+      "headline": "Ours never expire.",
+      "body": "No deadline to miss. If summer 2027 gets busy, it still works in 2028.",
+      "dark": false,
+      "photo": "door-county-gift-card-myths-vs-facts-05.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-gift-card-myths-vs-facts-05.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "MYTH",
+      "headline": "\"It has to cover a whole tour.\"",
+      "body": "People assume it's kayak tour or nothing."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "FACT",
+      "headline": "Any tour, an e-bike, or the shop.",
+      "body": "Kayak tours, e-bike rentals at $30 an hour, or hats and tees in the shop. Their call.",
+      "dark": false,
+      "photo": "door-county-gift-card-myths-vs-facts-07.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-gift-card-myths-vs-facts-07.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "MYTH",
+      "headline": "\"I need their email address.\"",
+      "body": "Surprise gifts get stuck right here."
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "FACT",
+      "headline": "Have it emailed to you instead.",
+      "body": "Print it, forward it, or tuck it in a card. It arrives right after you buy.",
+      "dark": false,
+      "photo": "door-county-gift-card-myths-vs-facts-09.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-gift-card-myths-vs-facts-09.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for gift season",
+      "headline": "Gift cards at doorcountykayaktours.com",
+      "body": "One honest catch: they aren't refundable. Send this to the family gift-list organizer.",
+      "dark": false,
+      "photo": "door-county-gift-card-myths-vs-facts-10.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-county-gift-card-myths-vs-facts-10.jpg",
+      "pos": "center"
+    }
+  ]
+}

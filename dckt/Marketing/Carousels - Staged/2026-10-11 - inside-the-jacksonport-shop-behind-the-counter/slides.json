@@ -1,0 +1,125 @@
+{
+  "format": "functional",
+  "type": "bts",
+  "mentor": "Sugarman",
+  "title": "Inside the Shop Most People Only See at Check-In",
+  "brand": "dckt",
+  "round": 2,
+  "why": "Behind-the-scenes look at the Jacksonport shop and merch, tied to the fact that gift cards also work in the shop.",
+  "hook_options": [
+    "The shop you rush through at check-in.",
+    "What's on the shelves in Jacksonport.",
+    "Every tour starts in this room."
+  ],
+  "caption": "Every kayak tour and e-bike rental starts in our Jacksonport shop, and most people are in and out in five minutes. Here's what's on the shelves. Gift cards work here too, and they never expire. #doorcounty #shopsmall #jacksonport #doorcountywi",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Behind the counter",
+      "headline": "The shop most people only see at check-in.",
+      "body": "Every tour and rental starts in our Jacksonport shop on Hwy 57. Here's what you walked past.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-01.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-01.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 2,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "The tees",
+      "headline": "Designed for this peninsula.",
+      "body": "Custom shirts built around Door County's outdoor life, not a stock logo on a blank.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-02.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-02.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "The hats",
+      "headline": "Bucket hats and caps for lake sun.",
+      "body": "Sun bounces off the water all tour. A brim helps more than you'd think.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-03.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-03.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 4,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The table",
+      "headline": "The trip shirt, sorted.",
+      "body": "Grab one at check-in and skip the souvenir hunt at 5pm.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-04.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-04.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Forgot sunglasses?",
+      "headline": "Most people do. There's a rack.",
+      "body": "Polarized lenses cut the glare so you can see down into the clear water.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-05.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-05.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Also on the shelf",
+      "headline": "Sunscreen, for the one who swore they packed it.",
+      "body": "Grab it before you launch. Two hours on the lake adds up."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "By the door",
+      "headline": "The life jackets hang right here.",
+      "body": "Fitted before you walk to the water. It's the last stop before the ride to the launch.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-07.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-07.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Off-season note",
+      "headline": "The shop is quiet. Gift cards aren't.",
+      "body": "Gift cards cover tours and in-store purchases, and they never expire. Next summer's shirt counts."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "Tees, hats, shades, sunscreen.",
+      "body": "Plus the start of every tour. Show up ten minutes early and browse."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your next trip",
+      "headline": "Gift cards at doorcountykayaktours.com",
+      "body": "Good for tours or anything on these shelves. Send it to the person who collects trip shirts.",
+      "dark": false,
+      "photo": "inside-the-jacksonport-shop-behind-the-counter-10.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/inside-the-jacksonport-shop-behind-the-counter-10.jpg",
+      "pos": "center"
+    }
+  ]
+}
