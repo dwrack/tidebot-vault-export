@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "review",
+  "mentor": "Bencivenga",
+  "title": "What Houston says after the bayou",
+  "brand": "bbk",
+  "round": 2,
+  "why": "Review spotlight from recent (Jun-Oct 2026) Google reviews for warm leads; first-timer nerves, bats, spontaneity.",
+  "hook_options": [
+    "Real nature in downtown Houston. Their words.",
+    "What first-timers say after the bayou",
+    "Noodle arms and zero regrets"
+  ],
+  "caption": "Recent Google reviews from Buffalo Bayou: first-timers who found it easier than it looked, a bat exit 'nothing like I have ever seen,' and an honest warning about noodle arms. Launch from Allen's Landing. #buffalobayou #houstonkayak #buffalobayoukayak #houstonthingstodo",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Real Google reviews",
+      "headline": "What Houston says after the bayou",
+      "body": "Recent reviews, first names and last initials. Staff names left out. The guests said it better anyway.",
+      "photo": "kayaker-buffalo-bayou-houston-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/kayaker-buffalo-bayou-houston-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Elena X.",
+      "headline": "\"Real nature in the middle of downtown Houston\"",
+      "body": "\"Relax, beautiful, unique and so centric!!!!\" Four exclamation points. We counted."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "What she means",
+      "headline": "Green banks, downtown overhead",
+      "body": "Herons, turtles and fish are common along the bayou. Never guaranteed, often surprising.",
+      "photo": "buffalo-bayou-bridge-reflection.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-bridge-reflection.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Shums P.",
+      "headline": "\"So much easier than it looked\"",
+      "body": "\"We were nervous to go but it was so much easier than it looked!\""
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Joshelle B.",
+      "headline": "\"Be prepared to have noodle arms after!\"",
+      "body": "Fair warning from a bat tour guest. Calm water, but your arms will know you paddled.",
+      "photo": "kayakers-buffalo-bayou-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/kayakers-buffalo-bayou-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Raymond P.",
+      "headline": "\"Nothing like I have ever seen before\"",
+      "body": "On the bat exit. Plus: \"Saw lots of other wildlife along the way.\" Bats are common at dusk, never guaranteed."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Christina H.",
+      "headline": "\"Came to town with no plans\"",
+      "body": "Her spontaneous day: \"I got to see a lot of the city while kayaking and it was very peaceful.\"",
+      "photo": "buffalo-bayou-under-bridges-wildflowers.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-under-bridges-wildflowers.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Gisell O.",
+      "headline": "\"Brought my in laws to downtown\"",
+      "body": "They spent an hour kayaking. \"We laughed\" and saw the skyline. In-laws included."
+    },
+    {
+      "n": 9,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Where it starts",
+      "headline": "Allen's Landing, 1019 Commerce St",
+      "body": "Where Houston was founded in 1836. Check in, grab a vest, launch at the original port.",
+      "photo": "allens-landing-steps-houston-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-steps-houston-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Tag who you'd bring",
+      "headline": "Your turn on the bayou",
+      "body": "Kayak tours and rentals from Allen's Landing. Book at buffalobayoukayak.com.",
+      "photo": "buffalo-bayou-trees-reflection.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-reflection.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

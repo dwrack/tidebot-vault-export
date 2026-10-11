@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "seasonal",
+  "mentor": "Halbert",
+  "title": "Family's in town. Get them out of the house.",
+  "brand": "akt",
+  "round": 2,
+  "why": "Thanksgiving-visitor carousel for Austin locals hosting family after bat season ends; pushes the Skyline Tour.",
+  "hook_options": [
+    "Four days of family. One good afternoon.",
+    "The Thanksgiving plan nobody argues about",
+    "Black Friday, minus the parking lot"
+  ],
+  "caption": "Family in town for Thanksgiving? The Skyline Tour runs at 10am, 1pm and 4pm. Two hours on Lady Bird Lake, guide and gear included, back in time for round two of pie. #thanksgivingaustin #ladybirdlake #austinkayaktours #thingstodoinaustin",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Thanksgiving in Austin",
+      "headline": "Family's in town. Get them out of the house.",
+      "body": "Four days, one living room, the same game on TV. A skyline paddle fits between leftovers and dinner.",
+      "photo": "big-group-kayak-tour-congress-bridge.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/big-group-kayak-tour-congress-bridge.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The problem",
+      "headline": "Everyone wants to do something. Nobody agrees.",
+      "body": "Grandparents want easy. Teens want anything but a museum. Someone needs a nap by 3."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The fix",
+      "headline": "Two hours on Lady Bird Lake",
+      "body": "The Skyline Tour runs at 10am, 1pm and 4pm. Guide, kayak, life vest, downtown from the water.",
+      "photo": "tandem-kayak-guests-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/tandem-kayak-guests-austin-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "For the nervous one",
+      "headline": "Tandems mean nobody paddles alone",
+      "body": "Rachel D. liked that you can \"choose if you want a single or tandem kayak.\" Put the nervous uncle up front."
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "What they'll hear",
+      "headline": "Austin history, told from the water",
+      "body": "West side history, architecture and landmarks. Reviewers keep bringing up the guides' stories.",
+      "photo": "congress-bridge-skyline-from-water-c.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-skyline-from-water-c.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Built for visitors",
+      "headline": "\"Great with out-of-town guests\"",
+      "body": "Lisa E.'s words: \"A great thing to do while visiting Austin or with out-of-town guests.\""
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Wildlife bonus",
+      "headline": "Turtles on logs, herons on the bank",
+      "body": "Mild fall afternoons on the lake. Turtles, ducks and herons are common, never guaranteed.",
+      "photo": "turtle-on-log-lady-bird-lake.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/turtle-on-log-lady-bird-lake.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Timing",
+      "headline": "Book the 1pm. Thank us at dinner.",
+      "body": "Leftovers for lunch, a paddle after, home with time to shower before the second round of pie."
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Bonus day",
+      "headline": "Black Friday, minus the parking lot",
+      "body": "Most of the family is off the day after. Spend it outside instead of in a checkout line.",
+      "photo": "aerial-railroad-bridge-paddlers-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/aerial-railroad-bridge-paddlers-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Send this to the family group chat",
+      "headline": "One afternoon they'll actually remember",
+      "body": "Skyline tours on Lady Bird Lake. Book at austinkayaktours.com.",
+      "photo": "kayak-guests-life-vests-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayak-guests-life-vests-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

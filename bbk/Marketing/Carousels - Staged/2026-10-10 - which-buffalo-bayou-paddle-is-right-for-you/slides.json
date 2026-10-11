@@ -1,112 +1,108 @@
 {
- "format": "functional",
- "type": "decision",
- "mentor": "Bencivenga",
- "brand": "bbk",
- "title": "Four ways to see the bayou. Pick yours.",
- "why": "Warm leads deciding between tours and rentals; matches each option to a type of guest with real prices from the vault and real review proof, ending on the fall moon paddle.",
- "hook_options": [
-  "Four ways to see the bayou. Pick yours.",
-  "Skyline, bats, full moon, or no guide at all?",
-  "Which bayou paddle fits your group"
- ],
- "caption": "First time? Houston Skyline Tour. Want the big show? Sunset bat tour at Waugh Bridge. Date night? Full Moon Tour, next one Oct 25. Rather go solo? Rentals from $20 an hour. Every option launches from Allen's Landing. Save this, then pick. #houstonkayak #buffalobayou #houstondatenight #buffalobayoukayak",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Picking a bayou paddle?",
-   "headline": "Four ways to see the bayou. Pick yours.",
-   "body": "Daytime skyline, sunset bats, full moon, or a rental and no guide. Here's who each one is for.",
-   "photo": "IMG_1999-e1636477583373.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/IMG_1999-e1636477583373.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "If it's your first time",
-   "headline": "Houston Skyline Tour",
-   "body": "2 hours, all ages, guide and gear included. Downtown views, wildlife, Houston history from the water. $55 per person."
-  },
-  {
-   "n": 3,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "Proof",
-   "headline": "\"Made me feel comfortable and safe\"",
-   "body": "\"Blake was very informative, he made me feel comfortable and safe, knowing it was my first time.\" TripAdvisor review"
-  },
-  {
-   "n": 4,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "If you want the big show",
-   "headline": "Sunset Skyline Bat Bridge Tour",
-   "body": "2 to 3 hours, ages 7 and up. Golden hour on the skyline, then the Waugh Drive colony at dusk. $60 per person."
-  },
-  {
-   "n": 5,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Proof",
-   "headline": "\"The vortex of bats was mesmerizing\"",
-   "body": "\"...from the water.\" TripAdvisor review, October 2025. Bats are common at dusk, never guaranteed.",
-   "photo": "waugh-bridge-bats-b.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/waugh-bridge-bats-b.jpg",
-   "pos": "center 50%",
-   "dark": true
-  },
-  {
-   "n": 6,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "If it's date night",
-   "headline": "Full Moon Tour",
-   "body": "2 hours on the bayou under a full moon, all ages, $65 per person. October's Hunter's Moon lands Oct 25."
-  },
-  {
-   "n": 7,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Fall bonus",
-   "headline": "Cool nights make this the season",
-   "body": "October and November are the bayou's sweet spot. Night paddles stop feeling like a sauna.",
-   "photo": "buffalo-bayou-night-skyline-b.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-skyline-b.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "If you'd rather go solo",
-   "headline": "Rent and paddle your own route",
-   "body": "Single kayak or paddleboard $20 an hour, tandem $35. Paddle and life vest included. Head toward Waugh or stay downtown."
-  },
-  {
-   "n": 9,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "If you paddle a lot",
-   "headline": "Do the membership math",
-   "body": "$300 a year for unlimited single, tandem or paddleboard rentals, plus priority booking."
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Save this, then pick",
-   "headline": "Every option launches from Allen's Landing",
-   "body": "1019 Commerce St, open daily. Book at buffalobayoukayak.com.",
-   "photo": "Buffalo-Bayou-Regatta-Rental-image-1.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/Buffalo-Bayou-Regatta-Rental-image-1.jpg",
-   "pos": "center 50%",
-   "dark": false
-  }
- ]
+  "format": "functional",
+  "type": "decision",
+  "mentor": "Bencivenga",
+  "brand": "bbk",
+  "title": "Four ways to see the bayou. Pick yours.",
+  "why": "Warm leads deciding between tours and rentals; matches each option to a type of guest with real prices from the vault and real review proof, ending on the fall moon paddle.",
+  "hook_options": [
+    "Four ways to see the bayou. Pick yours.",
+    "Skyline, bats, full moon, or no guide at all?",
+    "Which bayou paddle fits your group"
+  ],
+  "caption": "First time? Houston Skyline Tour. Want the big show? Sunset bat tour at Waugh Bridge. Date night? Full Moon Tour, next one Oct 25. Rather go solo? Rentals from $20 an hour. Every option launches from Allen's Landing. Save this, then pick. #houstonkayak #buffalobayou #houstondatenight #buffalobayoukayak",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Picking a bayou paddle?",
+      "headline": "Four ways to see the bayou. Pick yours.",
+      "body": "Daytime skyline, sunset bats, full moon, or a rental and no guide. Here's who each one is for.",
+      "photo": "kayakers-buffalo-bayou-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/kayakers-buffalo-bayou-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "If it's your first time",
+      "headline": "Houston Skyline Tour",
+      "body": "2 hours, all ages, guide and gear included. Downtown views, wildlife, Houston history from the water. $55 per person."
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Proof",
+      "headline": "\"Made me feel comfortable and safe\"",
+      "body": "\"Blake was very informative, he made me feel comfortable and safe, knowing it was my first time.\" TripAdvisor review"
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "If you want the big show",
+      "headline": "Sunset Skyline Bat Bridge Tour",
+      "body": "2 to 3 hours, ages 7 and up. Golden hour on the skyline, then the Waugh Drive colony at dusk. $60 per person."
+    },
+    {
+      "n": 5,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Proof",
+      "headline": "\"The vortex of bats was mesmerizing\"",
+      "body": "\"...from the water.\" TripAdvisor review, October 2025. Bats are common at dusk, never guaranteed."
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "If it's date night",
+      "headline": "Full Moon Tour",
+      "body": "2 hours on the bayou under a full moon, all ages, $65 per person. October's Hunter's Moon lands Oct 25."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "Fall bonus",
+      "headline": "Cool nights make this the season",
+      "body": "October and November are the bayou's sweet spot. Night paddles stop feeling like a sauna.",
+      "photo": "sunset-kayak-group-bayou.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/sunset-kayak-group-bayou.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "If you'd rather go solo",
+      "headline": "Rent and paddle your own route",
+      "body": "Single kayak or paddleboard $20 an hour, tandem $35. Paddle and life vest included. Head toward Waugh or stay downtown."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "If you paddle a lot",
+      "headline": "Do the membership math",
+      "body": "$300 a year for unlimited single, tandem or paddleboard rentals, plus priority booking."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this, then pick",
+      "headline": "Every option launches from Allen's Landing",
+      "body": "1019 Commerce St, open daily. Book at buffalobayoukayak.com.",
+      "photo": "buffalo-bayou-trees-portrait-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-portrait-b.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
 }

@@ -1,0 +1,119 @@
+{
+ "format": "archetypal",
+ "type": "review",
+ "mentor": "Bencivenga",
+ "title": "We Did Not Write This",
+ "brand": "npb",
+ "round": 2,
+ "why": "Proof carousel for warm leads: real Google reviews, first name and last initial, no edits beyond trimming.",
+ "hook_options": [
+  "We did not write any of this",
+  "Six reviews, zero edits",
+  "What guests say when we are not in the room"
+ ],
+ "caption": "Own boat, own music, a few gators. Six real reviews from guests on Bayou Bienvenue, trimmed but not rewritten. Thank you to everyone who took the time. #neworleans #nolapartybarge #partyboat #bayoubienvenue",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Straight from the reviews",
+   "headline": "We did not write any of this",
+   "body": "",
+   "photo": "npb-friends-arms-up-party-boat-sunset.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-friends-arms-up-party-boat-sunset.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Danielle F.",
+   "headline": "'We got our own boat'",
+   "body": "'...and hooked up our music and had the time of our life!!' The private fleet in one sentence."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Shanita M.",
+   "headline": "'Def recommend doing a private tour'",
+   "body": "'...if you have a large party of people.' Up to 25 fit on the biggest boats.",
+   "photo": "npb-big-group-neon-wigs-costumes-party-boat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-big-group-neon-wigs-costumes-party-boat.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Laury W.",
+   "headline": "'Also saw 3 gators.'",
+   "body": "'We were celebrating a birthday... got to meet some new people.' Gators are common, not guaranteed."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Alicia B.",
+   "headline": "'Making the party boat a tradition'",
+   "body": "'...for my visits to NOLA from here on out.' Repeat guests are our favorite kind.",
+   "photo": "npb-guests-at-the-bar-cooler-party-boat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-guests-at-the-bar-cooler-party-boat.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Ron A.",
+   "headline": "'This is my second time going'",
+   "body": "'...and I always have a lot of fun when I go with my friends.'"
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Keshia D.",
+   "headline": "'Great people and a great vibe.'",
+   "body": "'Amazing amazing.' Her words, twice.",
+   "photo": "npb-tiki-boat-full-of-guests-on-bayou.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-tiki-boat-full-of-guests-on-bayou.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The pattern",
+   "headline": "Their own boat. Their own music. Gators.",
+   "body": "Read enough reviews and the same three things keep coming up."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Recap",
+   "headline": "Own boat, own music, real gators.",
+   "body": "The gators are common, not guaranteed. The music is up to you."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Tag who you are bringing",
+   "headline": "Come write the next one",
+   "body": "nolapartybarges.com",
+   "photo": "npb-group-of-friends-beads-party-boat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-group-of-friends-beads-party-boat.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

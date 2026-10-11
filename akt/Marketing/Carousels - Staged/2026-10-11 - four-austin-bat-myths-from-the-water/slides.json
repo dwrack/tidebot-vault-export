@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "myth",
+  "mentor": "Ogilvy",
+  "title": "Four bat myths we hear on the water",
+  "brand": "akt",
+  "round": 2,
+  "why": "Myth vs fact for bat-curious visitors whose hesitation is the bats themselves, not the kayak.",
+  "hook_options": [
+    "Bats in your hair? Let's settle this.",
+    "Four things people get wrong about Austin's bats",
+    "What the bats actually do when you're under them"
+  ],
+  "caption": "Will the bats fly into my hair? Are they here all year? Can a first-timer do this at dusk? And yes, the guano thing. Four myths, four straight answers from Lady Bird Lake. #austinbats #congressavenuebridge #ladybirdlake #austinkayaktours",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Bat season, Austin",
+      "headline": "Four bat myths we hear on the water",
+      "body": "Guests show up with these every week. The colony doesn't care, but your evening goes better without them.",
+      "photo": "kayaks-under-congress-bridge-bats.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayaks-under-congress-bridge-bats.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "The bats will fly into your hair",
+      "body": ""
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "They're hunting bugs, not kayakers",
+      "body": "The colony streams out to feed on insects over the city. You sit underneath and watch them pass high overhead.",
+      "photo": "bats-over-congress-bridge-crowd-a.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-a.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "The bats are here all year",
+      "body": ""
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "They leave with the fall cold fronts",
+      "body": "Most of the colony heads south by early November and returns in spring. Late-October flights run smaller and later.",
+      "photo": "bats-around-tower-dusk-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-around-tower-dusk-b.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "Dusk kayaking is for experienced paddlers",
+      "body": ""
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "Flat water, a guide, a land lesson first",
+      "body": "Lusell K. called it \"perfect for first-time kayakers.\" The guide paddles with the group the whole way.",
+      "photo": "kayaker-skyline-lady-bird-lake-a.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayaker-skyline-lady-bird-lake-a.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "Nothing will land on you",
+      "body": ""
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "Guano happens. Apparently it's lucky.",
+      "body": "Brittany H. learned that \"bat guano feels like rain when it falls on you, and supposedly it's good luck.\" Wear washable clothes.",
+      "photo": "bats-over-congress-bridge-crowd-d.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-d.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Save this for bat night",
+      "headline": "Come see what's true for yourself",
+      "body": "A few weeks of bat season left. Sunset bat tours at austinkayaktours.com.",
+      "photo": "sunset-tandem-kayak-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/sunset-tandem-kayak-austin-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    }
+  ]
+}

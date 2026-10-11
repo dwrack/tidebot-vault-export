@@ -1,0 +1,113 @@
+{
+ "format": "functional",
+ "type": "myth-vs-fact",
+ "mentor": "Schwartz",
+ "title": "Four Floating Sauna Myths",
+ "brand": "ee",
+ "round": 2,
+ "why": "Cold-audience myth bust: removes the four reasons Portlanders hesitate (plunge pressure, rain, party vibe, experience).",
+ "hook_options": [
+  "Four things people assume about a floating sauna.",
+  "You don't have to jump in. And three more.",
+  "Most of what you've heard is wrong, in a good way."
+ ],
+ "caption": "Four things people assume before their first session. You don't have to plunge, rain helps, it's calm not loud, and nobody needs experience. Heat, cold, rest, repeat. #EbbAndEmber #PortlandSauna #FloatingSauna #ColumbiaRiver",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "MYTH VS FACT",
+   "headline": "Four things people assume about a floating sauna.",
+   "body": "Most of them are wrong in a way that's good news.",
+   "photo": "ebb-and-ember-sign-dock-sunrise.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/ebb-and-ember-sign-dock-sunrise.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "You have to plunge in the river.",
+   "body": "The river part scares off a lot of people."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "The plunge is optional. Always.",
+   "body": "There's a cold shower on deck. Some guests never touch the river and leave happy."
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "Rain ruins the session.",
+   "body": "Portland forecast says rain, so people reschedule."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "Rain makes the heat better.",
+   "body": "Gray sky, flat water, rain on the windows, 180 degrees on the bench. Best seat in Portland weather.",
+   "photo": "floating-sauna-roof-deck-before-plunge.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-roof-deck-before-plunge.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "It's a party boat.",
+   "body": "Floating plus social sounds loud."
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "Social, not loud.",
+   "body": "Up to 8 guests in a social session. Think campfire conversation, not rooftop bar."
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "You need sauna experience.",
+   "body": "People worry they'll do it wrong."
+  },
+  {
+   "n": 9,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "First-timers do fine here.",
+   "body": "The routine is heat, cold, rest, repeat. Clear signs walk you from the parking lot to the dock.",
+   "photo": "floating-sauna-lounge-deck-floating-homes.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-lounge-deck-floating-homes.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "",
+   "headline": "Now come see for yourself.",
+   "body": "Book a session on the Columbia at ebbandember.com.",
+   "photo": "floating-sauna-dock-sunset-portland.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-dock-sunset-portland.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

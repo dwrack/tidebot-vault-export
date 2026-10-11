@@ -1,0 +1,117 @@
+{
+  "format": "archetypal",
+  "type": "story",
+  "mentor": "Sugarman",
+  "title": "Landed at 3pm. Under the bats by sunset.",
+  "brand": "akt",
+  "round": 2,
+  "why": "POV trip story from a real Google review (Raelynn C., Oct 2025) for visitors who think a bat tour needs advance planning.",
+  "hook_options": [
+    "She booked the bat tour from the airport",
+    "No plan at 3pm. Bats overhead by dusk.",
+    "The best last-minute call of her Austin trip"
+  ],
+  "caption": "Raelynn C. landed in Austin at 3pm on a Friday and booked the bat tour last minute. Her review: 'It was the best decision!' The colony is here until early November. Same-day seats happen. #austinbats #ladybirdlake #austinkayaktours #visitaustin",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "A real guest's Friday",
+      "headline": "Landed at 3pm. Under the bats by sunset.",
+      "body": "Raelynn C. flew into Austin and booked the bat tour last minute. Here's how that evening went, in her words.",
+      "photo": "congress-bridge-bat-crowd-sunset-kayaks.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-bat-crowd-sunset-kayaks.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "3:00pm",
+      "headline": "Plane lands. No plan yet.",
+      "body": "Her review: she \"got into Austin at 3pm last Friday and decided at the last minute to grab a ticket.\""
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Before sunset",
+      "headline": "Check in, life vest, quick paddle lesson",
+      "body": "Guided sunset bat tours launch from 200 E Riverside Dr. About two hours, kayak and gear included. No experience needed.",
+      "photo": "sunset-kayak-group-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/sunset-kayak-group-austin-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "On the water",
+      "headline": "The skyline shows up first",
+      "body": "\"Seeing the skyline from the water\" made her list. Most visitors only ever see it from a sidewalk."
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Then the bridge",
+      "headline": "Guides park you beside Congress Avenue Bridge",
+      "body": "Up to 1.5 million Mexican free-tailed bats roost underneath. Guides cover bats and Austin history while the light drops.",
+      "photo": "congress-bridge-skyline-from-water-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-skyline-from-water-b.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The wait",
+      "headline": "The bats run on their own clock",
+      "body": "Some nights they pour out right at sunset. Some nights they're late. Wild animals, never guaranteed."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Then",
+      "headline": "The colony comes out overhead",
+      "body": "Her verdict on the whole evening, a few hours after landing: \"It was the best decision!\"",
+      "photo": "bats-over-congress-bridge-crowd-e.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-e.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Another guest, same idea",
+      "headline": "When the bats ran late, the tour stayed out",
+      "body": "Becky K.: the bats \"weren't coming out right away\" so her guide kept the group out \"as long as we wanted.\""
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The takeaway",
+      "headline": "You don't need a plan. You need two hours.",
+      "body": "Same-day booking works when seats are open. The colony stays until early November, then it's gone until spring."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Send this to whoever just landed",
+      "headline": "Your first Austin sunset, on the water",
+      "body": "Sunset bat tours on Lady Bird Lake. Book at austinkayaktours.com.",
+      "photo": "dusk-aerial-lady-bird-lake-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/dusk-aerial-lady-bird-lake-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+ "format": "functional",
+ "type": "numbers",
+ "mentor": "Ogilvy",
+ "title": "By the Numbers",
+ "brand": "npb",
+ "round": 2,
+ "why": "Fact-led listicle for cold visitors comparing swamp and party options: every number is checkable.",
+ "hook_options": [
+  "Six numbers. No adjectives.",
+  "Our whole pitch fits in six numbers",
+  "Skip the brochure. Here are the numbers."
+ ],
+ "caption": "Seven miles from the Quarter, fifteen minutes in an Uber, an hour forty-five on Bayou Bienvenue, up to 25 of your people, one real restroom, zero drinks sold. That is the whole pitch. Save it for the group chat. #neworleans #nolapartybarge #bayoubienvenue #byob",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "NOLA Party Barge, by the numbers",
+   "headline": "Six numbers. No adjectives.",
+   "body": "",
+   "photo": "npb-striped-canopy-boat-cruising-bayou-bienvenue.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-striped-canopy-boat-cruising-bayou-bienvenue.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "7",
+   "headline": "Miles from the French Quarter",
+   "body": "We launch from 2101 Paris Road, inside Orleans Parish. No bridge, no river crossing."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "15",
+   "headline": "Minutes in an Uber from the Quarter",
+   "body": "Most swamp tours launch 45 to 60 minutes out. You are on the water before that van clears the interstate.",
+   "photo": "npb-aerial-boat-bayou-marsh-islands-dusk.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-aerial-boat-bayou-marsh-islands-dusk.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "1:45",
+   "headline": "Hours on the water, every trip",
+   "body": "Long enough to settle in, find the wildlife, and watch the light change over the marsh."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "25",
+   "headline": "Guests max on our biggest boats",
+   "body": "Freaky Tiki and Twerkin' Tiki hold 25. Party Queen takes 22. Bayou Boogie, 18.",
+   "photo": "npb-freaky-tiki-thatched-boat-at-dock.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-freaky-tiki-thatched-boat-at-dock.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "1",
+   "headline": "Real restroom on board",
+   "body": "Not a bucket. Not a tree. With a cooler and 105 minutes, this might be the number that matters most."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "0",
+   "headline": "Drinks sold on board",
+   "body": "It is BYOB. Bring the cooler, the snacks, the playlist. No tab, no minimums.",
+   "photo": "npb-branded-cups-mardi-gras-beads-boat-table.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-branded-cups-mardi-gras-beads-boat-table.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "3",
+   "headline": "Ways on: private, shared seats, eco tour",
+   "body": "Private fleet for your group. Per-seat social boat for two. A slower naturalist tour for the birds.",
+   "photo": "npb-brown-pelican-skimming-bayou-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-brown-pelican-skimming-bayou-water.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "7 miles. 15 minutes. 1:45 aboard.",
+   "body": "Up to 25 of your people, one real restroom, zero bar tab."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for the group chat",
+   "headline": "Do the math, then pick your boat",
+   "body": "nolapartybarges.com",
+   "photo": "npb-party-boat-cruising-bayou-sunset.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-party-boat-cruising-bayou-sunset.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

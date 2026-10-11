@@ -1,120 +1,120 @@
 {
- "format": "archetypal",
- "type": "belief",
- "mentor": "Halbert",
- "brand": "akt",
- "title": "Outdoor city. Indoor weekend.",
- "why": "Brand-belief piece for visitors planning an Austin weekend: the river runs through downtown and most people never touch it. The water should be an afternoon decision, not a planned excursion.",
- "hook_options": [
-  "Outdoor city. Indoor weekend.",
-  "You did Rainey, SoCo and the bat bridge. You never touched the river.",
-  "Austin's best view has no line"
- ],
- "caption": "Rainey Street. South Congress. Barton Springs, packed. Bats from the bridge, standing room only. Then the airport. The river runs through the middle of all of it and most visitors never get on it. Give it one afternoon. 4 in 10 of our recent guests booked same-day. #visitaustin #ladybirdlake #austinweekend #austinkayaktours",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Visiting Austin?",
-   "headline": "Outdoor city. Indoor weekend.",
-   "body": "Most visitors spend the whole trip on patios and sidewalks. The river runs through the middle of it the entire time.",
-   "photo": "38612320_1872343162804475_6427304561442029568_o.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/38612320_1872343162804475_6427304561442029568_o.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "The usual itinerary",
-   "headline": "Rainey Street. South Congress. Fly home.",
-   "body": "Barton Springs, packed. Bats from the bridge, standing room only. Then a patio. Then the airport."
-  },
-  {
-   "n": 3,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Meanwhile, on bat night",
-   "headline": "Everyone faces the water. Nobody's on it.",
-   "body": "Hundreds of people on the grass, watching the lake from the outside.",
-   "photo": "DSC_1137.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/DSC_1137.JPG",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 4,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "Our take",
-   "headline": "The water is right there",
-   "body": "Lady Bird Lake is about a 10-minute drive from most of town. You don't need a free weekend. You need a free afternoon."
-  },
-  {
-   "n": 5,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "The view",
-   "headline": "The skyline from the angle locals skip",
-   "body": "One reviewer: \"Saw a side of the city we would've completely missed otherwise.\"",
-   "photo": "29597812_1251994238265854_5192403378591104726_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/29597812_1251994238265854_5192403378591104726_n.jpg",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 6,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "We'll be honest",
-   "headline": "It's not the Hill Country",
-   "body": "No wilderness, no rapids, no epic portage. It's a calm urban paddle that happens to be beautiful. That's plenty."
-  },
-  {
-   "n": 7,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Urban, on purpose",
-   "headline": "Graffiti, bridges, turtles, skyline",
-   "body": "That mix is the point. You paddle through the city instead of driving away from it.",
-   "photo": "37995818_1862223250483133_1098056316762456064_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/37995818_1862223250483133_1098056316762456064_n.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "How guests actually book",
-   "headline": "Decide at 11. Paddle at 2.",
-   "body": "About 4 in 10 of our recent bookings were same-day. We didn't plan that. It's just how Austin decides things."
-  },
-  {
-   "n": 9,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "So here's the ask",
-   "headline": "Give the river one afternoon",
-   "body": "Two hours between brunch and dinner. Guide, kayak, life vest. You'll go back to the patio with a better story.",
-   "photo": "39739169_1897152013656923_8124014422311043072_o.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/39739169_1897152013656923_8124014422311043072_o.jpg",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Send this to the trip group chat",
-   "headline": "Austin is outside. Go use it.",
-   "body": "Skyline and sunset tours on Lady Bird Lake. Book at austinkayaktours.com.",
-   "photo": "79477095_1776997269098879_7445293870239186944_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/79477095_1776997269098879_7445293870239186944_n.jpg",
-   "pos": "center 45%",
-   "dark": false
-  }
- ]
+  "format": "archetypal",
+  "type": "belief",
+  "mentor": "Halbert",
+  "brand": "akt",
+  "title": "Outdoor city. Indoor weekend.",
+  "why": "Brand-belief piece for visitors planning an Austin weekend: the river runs through downtown and most people never touch it. The water should be an afternoon decision, not a planned excursion.",
+  "hook_options": [
+    "Outdoor city. Indoor weekend.",
+    "You did Rainey, SoCo and the bat bridge. You never touched the river.",
+    "Austin's best view has no line"
+  ],
+  "caption": "Rainey Street. South Congress. Barton Springs, packed. Bats from the bridge, standing room only. Then the airport. The river runs through the middle of all of it and most visitors never get on it. Give it one afternoon. 4 in 10 of our recent guests booked same-day. #visitaustin #ladybirdlake #austinweekend #austinkayaktours",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Visiting Austin?",
+      "headline": "Outdoor city. Indoor weekend.",
+      "body": "Most visitors spend the whole trip on patios and sidewalks. The river runs through the middle of it the entire time.",
+      "photo": "austin-kayak-solo-paddler-downtown-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/austin-kayak-solo-paddler-downtown-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The usual itinerary",
+      "headline": "Rainey Street. South Congress. Fly home.",
+      "body": "Barton Springs, packed. Bats from the bridge, standing room only. Then a patio. Then the airport."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "Meanwhile, on bat night",
+      "headline": "Everyone faces the water. Nobody's on it.",
+      "body": "Hundreds of people on the grass, watching the lake from the outside.",
+      "photo": "DSC_1137.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/DSC_1137.JPG",
+      "pos": "center 50%",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Our take",
+      "headline": "The water is right there",
+      "body": "Lady Bird Lake is about a 10-minute drive from most of town. You don't need a free weekend. You need a free afternoon."
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "The view",
+      "headline": "The skyline from the angle locals skip",
+      "body": "One reviewer: \"Saw a side of the city we would've completely missed otherwise.\"",
+      "photo": "lady-bird-lake-congress-bridge-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/lady-bird-lake-congress-bridge-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "We'll be honest",
+      "headline": "It's not the Hill Country",
+      "body": "No wilderness, no rapids, no epic portage. It's a calm urban paddle that happens to be beautiful. That's plenty."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "Urban, on purpose",
+      "headline": "Graffiti, bridges, turtles, skyline",
+      "body": "That mix is the point. You paddle through the city instead of driving away from it.",
+      "photo": "graffiti-railroad-bridge-lady-bird-lake.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/graffiti-railroad-bridge-lady-bird-lake.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "How guests actually book",
+      "headline": "Decide at 11. Paddle at 2.",
+      "body": "About 4 in 10 of our recent bookings were same-day. We didn't plan that. It's just how Austin decides things."
+    },
+    {
+      "n": 9,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "So here's the ask",
+      "headline": "Give the river one afternoon",
+      "body": "Two hours between brunch and dinner. Guide, kayak, life vest. You'll go back to the patio with a better story.",
+      "photo": "sunset-kayak-group-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/sunset-kayak-group-austin-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Send this to the trip group chat",
+      "headline": "Austin is outside. Go use it.",
+      "body": "Skyline and sunset tours on Lady Bird Lake. Book at austinkayaktours.com.",
+      "photo": "dusk-aerial-lady-bird-lake-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/dusk-aerial-lady-bird-lake-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    }
+  ]
 }

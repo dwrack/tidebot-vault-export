@@ -1,0 +1,117 @@
+{
+  "format": "archetypal",
+  "type": "behind-the-scenes",
+  "mentor": "Schwartz",
+  "title": "Once a month we paddle out for trash",
+  "brand": "bbk",
+  "round": 2,
+  "why": "Behind-the-scenes on the monthly community cleanup for locals who care about the bayou; proof the brand lives the belief.",
+  "hook_options": [
+    "First Sunday of the month, we fish out trash",
+    "The bayou cleanup a UH club never misses",
+    "Grab a paddle. Grab a bag."
+  ],
+  "caption": "First Sunday of the month, paddlers head out on Buffalo Bayou to pull trash. Kayak, paddle, life vest and gloves provided. First-timers welcome, even if you're running late. Follow for the next date. #buffalobayou #bayoucleanup #buffalobayoukayak #houstonvolunteer",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Behind the scenes",
+      "headline": "Once a month we paddle out for trash",
+      "body": "Kayak, paddle, life vest and gloves provided. Here's what the Buffalo Bayou Kayak cleanup actually looks like.",
+      "photo": "allens-landing-dock-buffalo-bayou.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-dock-buffalo-bayou.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "When",
+      "headline": "First Sunday of the month",
+      "body": "One guest put it simply: \"get out there on a kayak or SUP first Sunday of the month and help clean up the bayou.\""
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Where",
+      "headline": "Out on the water, kayak by kayak",
+      "body": "Paddlers work the banks and haul out what the city leaves behind.",
+      "photo": "buffalo-bayou-trees-reflection.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-reflection.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "What to bring",
+      "headline": "A hat, sunscreen, water, and a friend",
+      "body": "Straight from our cleanup flyer. Add a change of clothes. We cover the kayak, paddle, life vest and gloves."
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Who shows up",
+      "headline": "A UH club made it a monthly habit",
+      "body": "Jun H., University of Houston student group: it's \"the most beloved and attended event of our club every month!!\"",
+      "photo": "paddleboard-group-allens-landing.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/paddleboard-group-allens-landing.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "First-timers welcome",
+      "headline": "Late and nervous? Still fine.",
+      "body": "T.J. R. was \"initially very anxious\" and running late. He was \"warmly greeted and reassured\" and got set up anyway."
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Why we do it",
+      "headline": "Paddlers notice what drivers don't",
+      "body": "From a car the bayou is a blur. From a kayak you see every bottle snagged on a root. So we pull them."
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The honest part",
+      "headline": "It's a working urban waterway",
+      "body": "Some guests say the water looks rough. Fair. Monthly cleanups are how we push back, one bag at a time."
+    },
+    {
+      "n": 9,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The payoff",
+      "headline": "Then the banks look like this",
+      "body": "Wildflowers at water level, downtown overhead. Worth looking after.",
+      "photo": "buffalo-bayou-under-bridges-wildflowers.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-under-bridges-wildflowers.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Tag a friend for first Sunday",
+      "headline": "Grab a paddle. Grab a bag.",
+      "body": "Follow for cleanup dates, or book a paddle from Allen's Landing at buffalobayoukayak.com.",
+      "photo": "buffalo-bayou-trees-portrait-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-portrait-b.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

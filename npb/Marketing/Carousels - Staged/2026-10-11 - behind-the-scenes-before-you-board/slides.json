@@ -1,0 +1,127 @@
+{
+ "format": "functional",
+ "type": "behind-scenes",
+ "mentor": "Sugarman",
+ "title": "Before You Board",
+ "brand": "npb",
+ "round": 2,
+ "why": "Behind-the-scenes walk-through for planners who want to picture the day: dock, boats, captain, route.",
+ "hook_options": [
+  "What happens before you step on board",
+  "A boat day, from the dock side",
+  "The part of the trip nobody films"
+ ],
+ "caption": "The captain checks the sky, the boat gets stocked by you, and the bayou does the rest. A quick look at a boat day on Bayou Bienvenue from our side of the dock. #neworleans #nolapartybarge #behindthescenes #bayoubienvenue",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Behind the scenes",
+   "headline": "What happens before you step on board",
+   "body": "",
+   "photo": "npb-thatched-tiki-boat-docked-at-dusk.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-thatched-tiki-boat-docked-at-dusk.jpg",
+   "pos": "center",
+   "dark": true,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Hours before",
+   "headline": "The captain checks the sky first",
+   "body": "Rain is fine, the deck is covered. Lightning is not, and that is the captain's call."
+  },
+  {
+   "n": 3,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "At the dock",
+   "headline": "2101 Paris Road, inside Orleans Parish",
+   "body": "Our dock on Bayou Bienvenue. Fifteen minutes from the Quarter, no bridge to cross.",
+   "photo": "npb-freaky-tiki-moored-at-marina-dock.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-freaky-tiki-moored-at-marina-dock.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The boats",
+   "headline": "Four boats, four names, all motorized",
+   "body": "Freaky Tiki, Twerkin' Tiki, Party Queen, Bayou Boogie. A licensed captain drives every one.",
+   "photo": "npb-freaky-tiki-boat-guests-aboard-bayou.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-freaky-tiki-boat-guests-aboard-bayou.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "On deck",
+   "headline": "Stock the bar. Pair the speaker.",
+   "body": "Bring the cooler. Pick one phone for aux. The boat is ready when you are."
+  },
+  {
+   "n": 6,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "The question we get most",
+   "headline": "Yes, there is a restroom",
+   "body": "Full restroom on board, every trip. Ask us how many times a week we answer this.",
+   "photo": "npb-tiki-boat-empty-deck-benches-bar.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-tiki-boat-empty-deck-benches-bar.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Pulling out",
+   "headline": "Marsh on both sides, city behind you",
+   "body": "Bayou Bienvenue is wild water inside the city limits.",
+   "photo": "npb-aerial-party-boat-marsh-bayou-dusk.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-aerial-party-boat-marsh-bayou-dusk.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Out there",
+   "headline": "The captain knows where to look",
+   "body": "Pelicans on the pilings, egrets in the grass, the odd gator. Common, not guaranteed.",
+   "photo": "npb-brown-pelican-perched-on-piling.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-brown-pelican-perched-on-piling.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "After",
+   "headline": "Back at the dock in 1 hour 45",
+   "body": "The Uber is 15 minutes. Frenchmen Street is just warming up."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for your trip",
+   "headline": "We handle the boat. You bring the people.",
+   "body": "nolapartybarges.com",
+   "photo": "npb-friends-at-the-bar-party-boat-canopy.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-friends-at-the-bar-party-boat-canopy.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+  "format": "functional",
+  "type": "myth",
+  "mentor": "Ogilvy",
+  "title": "Four bayou myths, checked from a kayak",
+  "brand": "bbk",
+  "round": 2,
+  "why": "Myth vs fact for skeptical Houstonians; includes an honest current/effort fact backed by reviews.",
+  "hook_options": [
+    "Four things Houston gets wrong about the bayou",
+    "Think you need experience? Think again.",
+    "The bayou myths we hear at check-in"
+  ],
+  "caption": "No experience? Fine. Flat means effortless? Not always: upstream is work, downstream is a ride. Nothing to see in Houston? Herons, turtles and 300,000 bats disagree. Four myths, checked from a kayak. #buffalobayou #houstonkayak #buffalobayoukayak #houston",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Houston, let's clear this up",
+      "headline": "Four bayou myths, checked from a kayak",
+      "body": "We hear these at check-in every week. Here's what the water actually says.",
+      "photo": "allens-landing-steps-houston-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-steps-houston-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "You need kayak experience",
+      "body": ""
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "First-timers are off in minutes",
+      "body": "One newbie wrote they could \"navigate like a pro within minutes.\" Quick demo, stable boats, then you go."
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "Flat water means zero effort",
+      "body": ""
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "Upstream is work. Downstream is a ride.",
+      "body": "When the current runs, one guest called the way up \"medium or intermediate\" and the way back \"easy.\" Guides adjust routes to conditions.",
+      "photo": "kayakers-buffalo-bayou-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/kayakers-buffalo-bayou-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "There's nothing to see in Houston",
+      "body": ""
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "Herons, turtles, fish, and a bat colony",
+      "body": "Wildlife is common along the banks, and the Waugh Drive bats fly at dusk. Never guaranteed, often surprising.",
+      "photo": "buffalo-bayou-bridge-reflection.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-bridge-reflection.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "MYTH",
+      "headline": "Kayaking is a summer thing",
+      "body": ""
+    },
+    {
+      "n": 9,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "FACT",
+      "headline": "Fall is the sweet spot",
+      "body": "October and November bring cooler air and softer light. The bat colony stays year-round.",
+      "photo": "sunset-kayak-group-bayou.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/sunset-kayak-group-bayou.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Save this for the next skeptic",
+      "headline": "Go see for yourself",
+      "body": "Tours and rentals from Allen's Landing. Book at buffalobayoukayak.com.",
+      "photo": "buffalo-bayou-trees-portrait-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-portrait-b.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

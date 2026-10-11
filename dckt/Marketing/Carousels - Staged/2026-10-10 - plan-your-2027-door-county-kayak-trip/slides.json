@@ -1,128 +1,128 @@
 {
- "format": "functional",
- "type": "insider",
- "mentor": "Sugarman",
- "title": "Before You Book Summer 2027",
- "brand": "dckt",
- "why": "Warm leads and past guests planning next summer. Insider details that set honest expectations (cave access, shipwreck, half-day) and push early planning.",
- "hook_options": [
-  "What we'd tell a friend before they book summer 2027.",
-  "The tour page won't tell you this. Our guides will.",
-  "Planning Door County 2027? Read this first."
- ],
- "caption": "Kayak tours are back in May 2027. Before you book: the lake decides cave entry each morning, the shipwreck tour stays on calm bay water, and warmest isn't the same as best. Save this for when you're picking dates. #DoorCounty #CavePoint #DeathsDoor #DoorCounty2027",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Planning summer 2027?",
-   "headline": "What we'd tell a friend before booking.",
-   "body": "Kayak tours return May 2027. Here's what our guides know that the tour page doesn't spell out.",
-   "photo": "IMG_0119.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/cave point photos from guide perspective/IMG_0119.JPG",
-   "pos": "center 55%",
-   "dark": true
-  },
-  {
-   "n": 2,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "1. The caves",
-   "headline": "The lake decides cave entry, daily.",
-   "body": "Wind, waves, water level. Guides call it the morning of your tour. Most days, full access. Some days, the cliffs from outside.",
-   "photo": "8CD7DE89-1F3D-4731-A7CA-54789C698CEA.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/8CD7DE89-1F3D-4731-A7CA-54789C698CEA.jpg",
-   "pos": "center",
-   "dark": false
-  },
-  {
-   "n": 3,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "2. The water",
-   "headline": "15 to 20 feet of visibility.",
-   "body": "On a good day you can see the lakebed from your seat. Most people don't expect that in the Midwest.",
-   "photo": "IMG_7746.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Eco Tour/IMG_7746.JPG",
-   "pos": "center 60%",
-   "dark": false
-  },
-  {
-   "n": 4,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "3. The shipwreck",
-   "headline": "An 1888 schooner, about 12 feet down.",
-   "body": "The Fleetwing ran aground in Garrett Bay. On a calm day you trace her hull from your kayak. No clear-bottom boat needed.",
-   "photo": "DJI_0042.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Bluff Shipwreck tours/DJI_0042.JPG",
-   "pos": "center",
-   "dark": false
-  },
-  {
-   "n": 5,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "4. The calm option",
-   "headline": "Nervous about open lake? Book the bay.",
-   "body": "The shipwreck tour stays on protected bayside water. Slower pace, more story. It's where we send nervous paddlers.",
-   "photo": "Door bluff shipwreck tour.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Bluff Shipwreck tours/Door bluff shipwreck tour.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 6,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "5. The half-day",
-   "headline": "Add a dunes hike and a light lunch.",
-   "body": "One guest's half-day: an hour-plus of paddling, a 30 to 40 minute walk to a dune lookout, lunch, then the paddle back.",
-   "photo": "IMG_6653.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/IMG_6653.jpg",
-   "pos": "center",
-   "dark": false
-  },
-  {
-   "n": 7,
-   "layout": "split",
-   "tone": "green",
-   "kicker": "6. The ride over",
-   "headline": "There's a short ride to the launch.",
-   "body": "You check in, then hop a quick ride to the water. Our site lists it at about 5 minutes.",
-   "photo": "DSC_0040.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/DSC_0040.jpg",
-   "pos": "center",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "7. The calendar",
-   "headline": "Warmest isn't the same as best.",
-   "body": "Late July and August have the warmest water. May, June, and September run quieter, with smaller groups and easier parking."
-  },
-  {
-   "n": 9,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "Recap",
-   "headline": "Caves: lake's call. Wreck: calm bay.",
-   "body": "Half-day for the hike. June or September if you hate crowds. That's the insider version."
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Save this for summer 2027",
-   "headline": "Kayak tours are back May 2027.",
-   "body": "Plan it now at doorcountykayaktours.com. Tag the person you're bringing to Door County next summer.",
-   "photo": "Door bluff headlands kayak tour.jpeg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Bluff Shipwreck tours/Door bluff headlands kayak tour.jpeg",
-   "pos": "center 45%",
-   "dark": false
-  }
- ]
+  "format": "functional",
+  "type": "insider",
+  "mentor": "Sugarman",
+  "title": "Before You Book Summer 2027",
+  "brand": "dckt",
+  "why": "Warm leads and past guests planning next summer. Insider details that set honest expectations (cave access, shipwreck, half-day) and push early planning.",
+  "hook_options": [
+    "What we'd tell a friend before they book summer 2027.",
+    "The tour page won't tell you this. Our guides will.",
+    "Planning Door County 2027? Read this first."
+  ],
+  "caption": "Kayak tours are back in May 2027. Before you book: the lake decides cave entry each morning, the shipwreck tour stays on calm bay water, and warmest isn't the same as best. Save this for when you're picking dates. #DoorCounty #CavePoint #DeathsDoor #DoorCounty2027",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Planning summer 2027?",
+      "headline": "What we'd tell a friend before booking.",
+      "body": "Kayak tours return May 2027. Here's what our guides know that the tour page doesn't spell out.",
+      "photo": "IMG_0119.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/cave point photos from guide perspective/IMG_0119.JPG",
+      "pos": "center 55%",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "1. The caves",
+      "headline": "The lake decides cave entry, daily.",
+      "body": "Wind, waves, water level. Guides call it the morning of your tour. Most days, full access. Some days, the cliffs from outside.",
+      "photo": "8CD7DE89-1F3D-4731-A7CA-54789C698CEA.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/8CD7DE89-1F3D-4731-A7CA-54789C698CEA.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "2. The water",
+      "headline": "15 to 20 feet of visibility.",
+      "body": "On a good day you can see the lakebed from your seat. Most people don't expect that in the Midwest.",
+      "photo": "IMG_7746.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Eco Tour/IMG_7746.JPG",
+      "pos": "center 60%",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "3. The shipwreck",
+      "headline": "An 1888 schooner, about 12 feet down.",
+      "body": "The Fleetwing ran aground in Garrett Bay. On a calm day you trace her hull from your kayak. No clear-bottom boat needed.",
+      "photo": "DJI_0042.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Bluff Shipwreck tours/DJI_0042.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "4. The calm option",
+      "headline": "Nervous about open lake? Book the bay.",
+      "body": "The shipwreck tour stays on protected bayside water. Slower pace, more story. It's where we send nervous paddlers.",
+      "photo": "door-bluff-garrett-bay-kayaks-on-beach.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-bluff-garrett-bay-kayaks-on-beach.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "5. The half-day",
+      "headline": "Add a dunes hike and a light lunch.",
+      "body": "One guest's half-day: an hour-plus of paddling, a 30 to 40 minute walk to a dune lookout, lunch, then the paddle back.",
+      "photo": "IMG_6653.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/IMG_6653.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "6. The ride over",
+      "headline": "There's a short ride to the launch.",
+      "body": "You check in, then hop a quick ride to the water. Our site lists it at about 5 minutes.",
+      "photo": "DSC_0040.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/DSC_0040.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "7. The calendar",
+      "headline": "Warmest isn't the same as best.",
+      "body": "Late July and August have the warmest water. May, June, and September run quieter, with smaller groups and easier parking."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Recap",
+      "headline": "Caves: lake's call. Wreck: calm bay.",
+      "body": "Half-day for the hike. June or September if you hate crowds. That's the insider version."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for summer 2027",
+      "headline": "Kayak tours are back May 2027.",
+      "body": "Plan it now at doorcountykayaktours.com. Tag the person you're bringing to Door County next summer.",
+      "photo": "door-bluff-limestone-from-kayak-bow.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/door-bluff-limestone-from-kayak-bow.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
 }

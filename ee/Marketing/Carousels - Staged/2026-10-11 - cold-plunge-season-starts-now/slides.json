@@ -1,0 +1,117 @@
+{
+ "format": "archetypal",
+ "type": "seasonal",
+ "mentor": "Halbert",
+ "title": "Cold-Plunge Season Starts Now",
+ "brand": "ee",
+ "round": 2,
+ "why": "Seasonal for Portland locals: the Columbia is cooling from the 60s toward 42 degrees; October is the on-ramp.",
+ "hook_options": [
+  "The river is getting colder. Good.",
+  "This is the stretch regulars wait for.",
+  "October is the on-ramp to 42 degrees."
+ ],
+ "caption": "Summer water sat in the 60s. By January the Columbia drops to about 42. Start now and the winter water feels earned. Plunge always optional, current always respected. #EbbAndEmber #PortlandSauna #ColdPlunge #ColumbiaRiver",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "COLD-PLUNGE SEASON",
+   "headline": "The river is getting colder. Good.",
+   "body": "Summer water sat in the 60s. By January the Columbia drops to about 42 degrees.",
+   "photo": "floating-sauna-gray-evening-columbia-river-deck.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-gray-evening-columbia-river-deck.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "WEEK BY WEEK",
+   "headline": "Every week it bites a little more.",
+   "body": "October water still feels manageable. The same jump in December feels like a different river."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "THE JUMP",
+   "headline": "The roof jump gets louder.",
+   "body": "Some guests jump off the roof. Some climb down the ladder. Both get more vocal as the water cools.",
+   "photo": "floating-sauna-roof-jump-gray-day-portland.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-roof-jump-gray-day-portland.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "WHERE IT COMES FROM",
+   "headline": "Snowmelt, not a chiller.",
+   "body": "The cold comes off the Cascades, not a thermostat. Nobody sets it. The season does."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "THE CONTRAST",
+   "headline": "The heat matters more now.",
+   "body": "Cedar benches around 180 degrees. On a 45 degree morning, that contrast is the whole point.",
+   "photo": "cedar-sauna-interior-river-window-portland.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/cedar-sauna-interior-river-window-portland.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "YOUR CALL",
+   "headline": "The plunge stays optional.",
+   "body": "The cold shower counts. Sitting on the ladder counts. Skipping it counts. Nobody keeps score."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "SAFETY",
+   "headline": "Respect the current.",
+   "body": "The Columbia moves and colder water takes your breath faster. Throw rings on deck, buddy up. When in doubt, don't go out.",
+   "photo": "cold-plunge-railing-gray-columbia-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/cold-plunge-railing-gray-columbia-river.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "FIRST TIME",
+   "headline": "Keep your first plunge short.",
+   "body": "In, breathe, out. Then back to the heat. You'll know quickly how long is long enough."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE ON-RAMP",
+   "headline": "October is the on-ramp.",
+   "body": "Start now and the January water feels earned instead of shocking."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "Start your cold season this week.",
+   "body": "Book a social or private session at ebbandember.com. Save this for the first 42 degree day.",
+   "photo": "ebb-and-ember-floating-sauna-exterior-blue-sky.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/ebb-and-ember-floating-sauna-exterior-blue-sky.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+  "format": "functional",
+  "type": "comparison",
+  "mentor": "Schwartz",
+  "title": "Big boat or kayak? Depends what you want.",
+  "brand": "akt",
+  "round": 2,
+  "why": "Honest comparison vs the big-boat bat cruise (no competitor named) for visitors deciding how to see the bats from the water.",
+  "hook_options": [
+    "Boat or kayak for the bats? Honest answer.",
+    "Two ways to watch the bats from the water",
+    "The bat cruise question, answered straight"
+  ],
+  "caption": "Boat cruise or kayak for the Congress Avenue bats? A boat wins on comfort. A kayak wins on quiet, closeness and the view from under the arches. Here's the honest split. #austinbats #ladybirdlake #austinkayaktours #congressavenuebridge",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Seeing the bats from the water?",
+      "headline": "Big boat or kayak? Depends what you want.",
+      "body": "Both put you on Lady Bird Lake at dusk. They're very different evenings. Here's the honest split.",
+      "photo": "dusk-aerial-lady-bird-lake-skyline-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/dusk-aerial-lady-bird-lake-skyline-b.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Pick a boat cruise if",
+      "headline": "Nobody in your group wants to paddle",
+      "body": "Seats, a railing, zero effort. Good for mobility limits, dressy outfits, or anyone set on staying dry."
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Pick a kayak if",
+      "headline": "You want to sit at water level",
+      "body": "You're low on the lake near the bridge, looking straight up when the colony comes out."
+    },
+    {
+      "n": 4,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "The sound",
+      "headline": "A kayak is quiet",
+      "body": "No engine, no loudspeaker. You hear paddles, traffic on the bridge and people cheering above you.",
+      "photo": "bats-over-congress-bridge-crowd-f.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-f.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 5,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The group",
+      "headline": "Smaller group, more room",
+      "body": "Anna M. called her sunset group \"small and intimate, which made it feel really special.\" Sizes vary by night."
+    },
+    {
+      "n": 6,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "The effort",
+      "headline": "Real talk: you paddle",
+      "body": "Easy pace, flat water, about two hours. Expect wet shoes and light arm work. A land lesson comes first.",
+      "photo": "sunset-kayak-group-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/sunset-kayak-group-austin-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The freedom",
+      "headline": "Room to drift on your own",
+      "body": "Sheila S. liked that guides \"gave us the freedom to freely explore the area.\""
+    },
+    {
+      "n": 8,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "The angle",
+      "headline": "Under the arches, not behind a railing",
+      "body": "From a kayak you look up through the bridge. The sky is the backdrop, not the back of someone's head.",
+      "photo": "under-congress-bridge-arches.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/under-congress-bridge-arches.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Cheat sheet",
+      "headline": "Want comfort: boat. Want close and quiet: kayak.",
+      "body": "Either way, go before early November. The colony leaves with the cold fronts."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Send this to whoever's planning bat night",
+      "headline": "If it's the kayak, we saved you a seat",
+      "body": "Guided sunset bat tours on Lady Bird Lake. Book at austinkayaktours.com.",
+      "photo": "austin-kayak-solo-paddler-downtown-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/austin-kayak-solo-paddler-downtown-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

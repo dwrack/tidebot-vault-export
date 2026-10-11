@@ -1,120 +1,120 @@
 {
- "format": "functional",
- "type": "insider",
- "mentor": "Sugarman",
- "brand": "akt",
- "title": "What the guides know about Lady Bird Lake",
- "why": "Solution-aware visitors comparing Austin options; specific, checkable guide knowledge shows why a guided tour beats paddling blind, and introduces the Skyline and All-Day tours for after bat season.",
- "hook_options": [
-  "Things only the guides seem to know",
-  "The bats live in a mistake. And four more Lady Bird Lake facts.",
-  "Zero alligators. And other things our guides get asked daily."
- ],
- "caption": "The bats live in a construction accident. There are zero alligators. There's exactly one legal swim spot. A few things our guides get asked about Lady Bird Lake, and the tours where you hear the rest. #ladybirdlake #austintexas #thingstodoinaustin #austinkayaktours",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "From the guides",
-   "headline": "Things only the guides seem to know",
-   "body": "We paddle this lake most days of the season. These are the details that make guests stop paddling and ask, wait, really?",
-   "photo": "IMG_0091.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0091.JPG",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "1",
-   "headline": "The bats live in a mistake",
-   "body": "The 1980 rebuild of Congress Avenue Bridge left narrow expansion joints underneath. Accidentally perfect bat habitat."
-  },
-  {
-   "n": 3,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "Right overhead",
-   "headline": "Up to 1.5 million bats move in",
-   "body": "The biggest urban bat colony in North America roosts in those joints, right above the water you paddle.",
-   "photo": "69936933_2497255513646567_8539279404113592320_o.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/69936933_2497255513646567_8539279404113592320_o.jpg",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 4,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "2",
-   "headline": "Alligators on Lady Bird Lake? Zero.",
-   "body": "Not one of our guides has had an alligator sighting here. If that's the worry, you're thinking of the coast."
-  },
-  {
-   "n": 5,
-   "layout": "split",
-   "tone": "green",
-   "kicker": "3",
-   "headline": "Turtles line up on the same logs",
-   "body": "Find a half-sunk log on a warm day and look closely. Guests keep writing that they saw so many turtles, ducks, fish and birds.",
-   "photo": "IMG_0063.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0063.JPG",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 6,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "4",
-   "headline": "There's exactly one legal swim spot",
-   "body": "Swimming in Lady Bird Lake itself isn't allowed. Our all-day tour paddles up Barton Creek to the only legal swimming hole on the lake."
-  },
-  {
-   "n": 7,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "Up the creek",
-   "headline": "Then the water narrows",
-   "body": "The All Day Skyline and Swimming Hole Tour runs 5 hours with lunch, by kayak or paddleboard. Most visitors never see this part.",
-   "photo": "IMG_0017.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0017.JPG",
-   "pos": "center 45%",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "5",
-   "headline": "The guides are the tour",
-   "body": "Reviewers keep naming them. \"Very knowledgeable about local area history, Lady Bird Lake, fauna around the lake and the bats.\""
-  },
-  {
-   "n": 9,
-   "layout": "split",
-   "tone": "green",
-   "kicker": "After bat season",
-   "headline": "The Skyline Tour is the history lesson",
-   "body": "Two hours at 10am, 1pm or 4pm. West side history, architecture and landmarks, told from the water. Our most popular tour.",
-   "photo": "40511312_1914951628543628_8738535830466854912_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/40511312_1914951628543628_8738535830466854912_n.jpg",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Save this for trivia night",
-   "headline": "Paddle with the people who know",
-   "body": "Skyline and sunset bat tours on Lady Bird Lake. Book at austinkayaktours.com.",
-   "photo": "IMG_0055.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0055.JPG",
-   "pos": "center 60%",
-   "dark": false
-  }
- ]
+  "format": "functional",
+  "type": "insider",
+  "mentor": "Sugarman",
+  "brand": "akt",
+  "title": "What the guides know about Lady Bird Lake",
+  "why": "Solution-aware visitors comparing Austin options; specific, checkable guide knowledge shows why a guided tour beats paddling blind, and introduces the Skyline and All-Day tours for after bat season.",
+  "hook_options": [
+    "Things only the guides seem to know",
+    "The bats live in a mistake. And four more Lady Bird Lake facts.",
+    "Zero alligators. And other things our guides get asked daily."
+  ],
+  "caption": "The bats live in a construction accident. There are zero alligators. There's exactly one legal swim spot. A few things our guides get asked about Lady Bird Lake, and the tours where you hear the rest. #ladybirdlake #austintexas #thingstodoinaustin #austinkayaktours",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "From the guides",
+      "headline": "Things only the guides seem to know",
+      "body": "We paddle this lake most days of the season. These are the details that make guests stop paddling and ask, wait, really?",
+      "photo": "IMG_0091.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0091.JPG",
+      "pos": "center 55%",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "1",
+      "headline": "The bats live in a mistake",
+      "body": "The 1980 rebuild of Congress Avenue Bridge left narrow expansion joints underneath. Accidentally perfect bat habitat."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Right overhead",
+      "headline": "Up to 1.5 million bats move in",
+      "body": "The biggest urban bat colony in North America roosts in those joints, right above the water you paddle.",
+      "photo": "congress-bridge-crowd-bats-portrait.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-crowd-bats-portrait.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "2",
+      "headline": "Alligators on Lady Bird Lake? Zero.",
+      "body": "Not one of our guides has had an alligator sighting here. If that's the worry, you're thinking of the coast."
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "3",
+      "headline": "Turtles line up on the same logs",
+      "body": "Find a half-sunk log on a warm day and look closely. Guests keep writing that they saw so many turtles, ducks, fish and birds.",
+      "photo": "IMG_0063.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0063.JPG",
+      "pos": "center 55%",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "4",
+      "headline": "There's exactly one legal swim spot",
+      "body": "Swimming in Lady Bird Lake itself isn't allowed. Our all-day tour paddles up Barton Creek to the only legal swimming hole on the lake."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Up the creek",
+      "headline": "Then the water narrows",
+      "body": "The All Day Skyline and Swimming Hole Tour runs 5 hours with lunch, by kayak or paddleboard. Most visitors never see this part.",
+      "photo": "IMG_0017.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0017.JPG",
+      "pos": "center 45%",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "5",
+      "headline": "The guides are the tour",
+      "body": "Reviewers keep naming them. \"Very knowledgeable about local area history, Lady Bird Lake, fauna around the lake and the bats.\""
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "After bat season",
+      "headline": "The Skyline Tour is the history lesson",
+      "body": "Two hours at 10am, 1pm or 4pm. West side history, architecture and landmarks, told from the water. Our most popular tour.",
+      "photo": "congress-bridge-austin-skyline-water.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-austin-skyline-water.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for trivia night",
+      "headline": "Paddle with the people who know",
+      "body": "Skyline and sunset bat tours on Lady Bird Lake. Book at austinkayaktours.com.",
+      "photo": "IMG_0055.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/IMG_0055.JPG",
+      "pos": "center 60%",
+      "dark": false
+    }
+  ]
 }

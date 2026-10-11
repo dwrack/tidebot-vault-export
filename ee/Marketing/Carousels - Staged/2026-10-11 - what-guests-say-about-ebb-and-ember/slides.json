@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "review-spotlight",
+ "mentor": "Bencivenga",
+ "title": "What Guests Say",
+ "brand": "ee",
+ "round": 2,
+ "why": "Proof for warm leads: real Google review lines about rain, night sessions, the social vibe, and the plunge.",
+ "hook_options": [
+  "Straight from our Google reviews.",
+  "The lines guests keep writing.",
+  "What people say after the river."
+ ],
+ "caption": "A few lines from our Google reviews that say it better than we could. Rainy days, night sessions, strangers being kind, and the cold that feels good after. First names only. #EbbAndEmber #PortlandSauna #FloatingSauna #ColdPlunge",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "GUEST REVIEWS",
+   "headline": "Straight from our Google reviews.",
+   "body": "We'd rather let guests describe it. Here are the lines we keep rereading.",
+   "photo": "friends-in-cedar-sauna-river-view.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/friends-in-cedar-sauna-river-view.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "SCOTT N.",
+   "headline": "\"Watching the rain hit the river.\"",
+   "body": "\"Such a perfect spot to sit and soak in the heat while watching the rain hit the river through the huge windows.\""
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "WHY IT WORKS",
+   "headline": "Big windows, river level.",
+   "body": "The benches face the Columbia, so the weather becomes the view.",
+   "photo": "sauna-corner-windows-columbia-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-corner-windows-columbia-river.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "ARIANNA H.",
+   "headline": "\"Going at night is the way to go.\"",
+   "body": "\"You can see the dock lights reflecting on the river.\""
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "AFTER DARK",
+   "headline": "Night sessions run on dock lights.",
+   "body": "Lit windows, black water, steam rolling off your shoulders on the deck.",
+   "photo": "floating-sauna-night-lights-marina.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-night-lights-marina.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "AMY R.",
+   "headline": "\"Welcoming from the moment we walked up.\"",
+   "body": "\"We did the social sauna and it was nice how welcoming everyone was from the moment we walked up.\""
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "SOCIAL SESSIONS",
+   "headline": "Up to 8 guests. Room to talk.",
+   "body": "Small enough for real conversation. Big enough to meet someone new.",
+   "photo": "sauna-guests-talking-on-deck-portland.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-guests-talking-on-deck-portland.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "MEL D.",
+   "headline": "\"A sauna on the river!\"",
+   "body": "\"I celebrated my anniversary here tonight. Epic views at sunset. Showers. Cold water to jump in right in the river.\""
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "CHRISTINA H.",
+   "headline": "\"It felt so amazing once you got out.\"",
+   "body": "\"It's not easy to make yourself jump into freezing cold water, but it felt so amazing once you got out.\""
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "Come write your own.",
+   "body": "Book at ebbandember.com. Then tell us how the river felt.",
+   "photo": "floating-sauna-exterior-dock-columbia-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-exterior-dock-columbia-river.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

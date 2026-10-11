@@ -1,124 +1,124 @@
 {
- "format": "functional",
- "type": "hook",
- "mentor": "Schwartz",
- "title": "Kayaks Are Done. The Bikes Aren't.",
- "brand": "dckt",
- "why": "Cold, problem-aware fall visitors who assume an e-bike ride to Cave Point takes cycling fitness. Sells the fall rental.",
- "hook_options": [
-  "You don't need to be a cyclist to ride to Cave Point.",
-  "Kayaks are put away. The bikes aren't.",
-  "4.5 miles to the cliffs. The motor does the hills."
- ],
- "caption": "Kayak season is wrapped. The fat-tire e-bikes are still out. About 4.5 miles from our Jacksonport shop to the Cave Point cliffs, the motor handles the hills, and you set the pace. Layers recommended, October wind is real. #DoorCounty #CavePoint #EBikeDoorCounty #FallInDoorCounty",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Kayaks are put away",
-   "headline": "The bikes aren't.",
-   "body": "No cyclist required. A fat-tire e-bike gets you from our Jacksonport shop to the Cave Point cliffs.",
-   "photo": "cave point ebike rental.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/cave point ebike rental.JPG",
-   "pos": "center 45%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "The myth",
-   "headline": "You have to be a cyclist.",
-   "body": "Most people who rent from us have never been on an e-bike. If you can ride a regular bike, you're set."
-  },
-  {
-   "n": 3,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "What the motor does",
-   "headline": "Turn it up and hills feel flat.",
-   "body": "The motor helps every time you push. Want a workout? Turn the assist down. Your call.",
-   "photo": "IMG_0787 3.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0787 3.jpg",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 4,
-   "layout": "split",
-   "tone": "green",
-   "kicker": "How far",
-   "headline": "About 4.5 miles to the cliffs.",
-   "body": "Quiet backroads and bike trails from the shop to Cave Point. A 1-hour rental covers the round trip with a short stop.",
-   "photo": "cave-point-ebike-tour.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/cave-point-ebike-tour.jpg",
-   "pos": "center",
-   "dark": false
-  },
-  {
-   "n": 5,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "The payoff",
-   "headline": "Park the bike. Walk to the edge.",
-   "body": "The cliff edge is a short walk from where you leave the bike. That first look at the limestone shelves is the moment.",
-   "photo": "IMG_2569 copy.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_2569 copy.jpg",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 6,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "Speed check",
-   "headline": "Tops out around 20 mph.",
-   "body": "That's the assisted top speed. You set the pace. Nobody's timing you."
-  },
-  {
-   "n": 7,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "One rule",
-   "headline": "Assist off inside Whitefish Dunes.",
-   "body": "Power isn't permitted in the state park. Switch it off and ride the easy park trails like a regular bike.",
-   "photo": "IMG_2159.HEIC",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/IMG_2159.HEIC",
-   "pos": "center",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "October tip",
-   "headline": "Dress for the wind off the lake.",
-   "body": "It can be 50 at the shop and colder at the cliffs. Layers, gloves, a hat you can pocket, closed-toe shoes.",
-   "photo": "Cave-point-county-park-electric-bike-rental-2.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-point-county-park-electric-bike-rental-2.jpg",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 9,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "Recap",
-   "headline": "No cyclist required. Hills handled.",
-   "body": "4.5 miles to Cave Point. Assist off in the state park. Layers in your pocket."
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "green",
-   "kicker": "Save this for your fall trip",
-   "headline": "E-bike rentals are open daily this fall.",
-   "body": "Book at doorcountykayaktours.com. Send this to the friend who says they can't bike that far.",
-   "photo": "IMG_9172.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_9172.jpg",
-   "pos": "center 60%",
-   "dark": false
-  }
- ]
+  "format": "functional",
+  "type": "hook",
+  "mentor": "Schwartz",
+  "title": "Kayaks Are Done. The Bikes Aren't.",
+  "brand": "dckt",
+  "why": "Cold, problem-aware fall visitors who assume an e-bike ride to Cave Point takes cycling fitness. Sells the fall rental.",
+  "hook_options": [
+    "You don't need to be a cyclist to ride to Cave Point.",
+    "Kayaks are put away. The bikes aren't.",
+    "4.5 miles to the cliffs. The motor does the hills."
+  ],
+  "caption": "Kayak season is wrapped. The fat-tire e-bikes are still out. About 4.5 miles from our Jacksonport shop to the Cave Point cliffs, the motor handles the hills, and you set the pace. Layers recommended, October wind is real. #DoorCounty #CavePoint #EBikeDoorCounty #FallInDoorCounty",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Kayaks are put away",
+      "headline": "The bikes aren't.",
+      "body": "No cyclist required. A fat-tire e-bike gets you from our Jacksonport shop to the Cave Point cliffs.",
+      "photo": "cave point ebike rental.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/cave point ebike rental.JPG",
+      "pos": "center 45%",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The myth",
+      "headline": "You have to be a cyclist.",
+      "body": "Most people who rent from us have never been on an e-bike. If you can ride a regular bike, you're set."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "What the motor does",
+      "headline": "Turn it up and hills feel flat.",
+      "body": "The motor helps every time you push. Want a workout? Turn the assist down. Your call.",
+      "photo": "IMG_0787 3.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0787 3.jpg",
+      "pos": "center 40%",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "How far",
+      "headline": "About 4.5 miles to the cliffs.",
+      "body": "Quiet backroads and bike trails from the shop to Cave Point. A 1-hour rental covers the round trip with a short stop.",
+      "photo": "cave-point-ebike-tour.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/cave-point-ebike-tour.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The payoff",
+      "headline": "Park the bike. Walk to the edge.",
+      "body": "The cliff edge is a short walk from where you leave the bike. That first look at the limestone shelves is the moment.",
+      "photo": "IMG_2569 copy.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_2569 copy.jpg",
+      "pos": "center 55%",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Speed check",
+      "headline": "Tops out around 20 mph.",
+      "body": "That's the assisted top speed. You set the pace. Nobody's timing you."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "One rule",
+      "headline": "Assist off inside Whitefish Dunes.",
+      "body": "Power isn't permitted in the state park. Switch it off and ride the easy park trails like a regular bike.",
+      "photo": "IMG_2159.HEIC",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/IMG_2159.HEIC",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "October tip",
+      "headline": "Dress for the wind off the lake.",
+      "body": "It can be 50 at the shop and colder at the cliffs. Layers, gloves, a hat you can pocket, closed-toe shoes.",
+      "photo": "ebike-rider-jacket-cave-point-shoreline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/Carousel Picks/ebike-rider-jacket-cave-point-shoreline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "No cyclist required. Hills handled.",
+      "body": "4.5 miles to Cave Point. Assist off in the state park. Layers in your pocket."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Save this for your fall trip",
+      "headline": "E-bike rentals are open daily this fall.",
+      "body": "Book at doorcountykayaktours.com. Send this to the friend who says they can't bike that far.",
+      "photo": "IMG_9172.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_9172.jpg",
+      "pos": "center 60%",
+      "dark": false
+    }
+  ]
 }

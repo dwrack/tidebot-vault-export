@@ -1,120 +1,112 @@
 {
- "format": "archetypal",
- "type": "hook",
- "mentor": "Schwartz",
- "brand": "bbk",
- "title": "300,000 bats live under Waugh Drive",
- "why": "Cold, unaware Houstonians who have no idea the Waugh Drive bat colony exists or that it stays year-round; pattern interrupt that ends on the sunset bat tour.",
- "hook_options": [
-  "300,000 bats live under Waugh Drive",
-  "You've driven over 300,000 bats",
-  "Houston's bats don't leave for winter"
- ],
- "caption": "An estimated 300,000 Mexican free-tailed bats live under the Waugh Drive Bridge, three miles from downtown, and they stay all year. Most people watch from the sidewalk. From a kayak they pour out right over you. Common at dusk, never guaranteed. #houstonbats #waughbridge #buffalobayou #buffalobayoukayak",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Houston, did you know",
-   "headline": "300,000 bats live under Waugh Drive",
-   "body": "An estimated 300,000 Mexican free-tailed bats. Year-round. Most Houstonians have driven right over them.",
-   "photo": "waugh-bats-over-tower.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/waugh-bats-over-tower.jpg",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "Wait, where?",
-   "headline": "The Waugh Drive Bridge over Buffalo Bayou",
-   "body": "Just west of downtown. At dusk the colony pours out from under the bridge to hunt."
-  },
-  {
-   "n": 3,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Most people watch from up here",
-   "headline": "The sidewalk and the viewing platform",
-   "body": "It's free and it works. We're not going to pretend the bridge view is bad.",
-   "photo": "Bat-bridge-houston.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/Bat-bridge-houston.jpg",
-   "pos": "center 45%",
-   "dark": false
-  },
-  {
-   "n": 4,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "The other seat",
-   "headline": "Water level, colony overhead",
-   "body": "From a kayak the bats pass right over you, downtown skyline behind them."
-  },
-  {
-   "n": 5,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "From the bayou",
-   "headline": "Bayou below, bridge above, bats everywhere",
-   "body": "Guests tell us it's the most unexpected thing they've done in this city.",
-   "photo": "waugh-bridge-bats-a.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/waugh-bridge-bats-a.jpg",
-   "pos": "center 50%",
-   "dark": true
-  },
-  {
-   "n": 6,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "The twist",
-   "headline": "They don't leave for winter",
-   "body": "Plenty of bat colonies fly south in fall. Houston's stays put. Summer flights are the most reliable, but the colony is here all year."
-  },
-  {
-   "n": 7,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Honest note",
-   "headline": "Common at dusk. Never guaranteed.",
-   "body": "Wild animals keep their own schedule. Weather and season move the timing. The skyline at dusk shows up regardless.",
-   "photo": "buffalo-bayou-night-skyline-b.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-skyline-b.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "How it works",
-   "headline": "Launch from Allen's Landing before sunset",
-   "body": "Sunset Skyline Bat Bridge Kayak Tour. 2 to 3 hours, guide and gear included, ages 7 and up. No experience needed."
-  },
-  {
-   "n": 9,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "On the way there",
-   "headline": "Herons, egrets, turtles, then the bats",
-   "body": "Guides point out what's moving along the bank on the paddle up. Wildlife is common, not guaranteed.",
-   "photo": "240847485_4398117233560376_8165404241854247320_n-e1636481774570.jpeg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/240847485_4398117233560376_8165404241854247320_n-e1636481774570.jpeg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Send this to a Houstonian",
-   "headline": "You've driven over them. Now paddle under.",
-   "body": "Sunset bat tours from Allen's Landing, 1019 Commerce St. Book at buffalobayoukayak.com.",
-   "photo": "buffalo-bayou-night-kayak-a.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-kayak-a.jpg",
-   "pos": "center 50%",
-   "dark": false
-  }
- ]
+  "format": "archetypal",
+  "type": "hook",
+  "mentor": "Schwartz",
+  "brand": "bbk",
+  "title": "300,000 bats live under Waugh Drive",
+  "why": "Cold, unaware Houstonians who have no idea the Waugh Drive bat colony exists or that it stays year-round; pattern interrupt that ends on the sunset bat tour.",
+  "hook_options": [
+    "300,000 bats live under Waugh Drive",
+    "You've driven over 300,000 bats",
+    "Houston's bats don't leave for winter"
+  ],
+  "caption": "An estimated 300,000 Mexican free-tailed bats live under the Waugh Drive Bridge, three miles from downtown, and they stay all year. Most people watch from the sidewalk. From a kayak they pour out right over you. Common at dusk, never guaranteed. #houstonbats #waughbridge #buffalobayou #buffalobayoukayak",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Houston, did you know",
+      "headline": "300,000 bats live under Waugh Drive",
+      "body": "An estimated 300,000 Mexican free-tailed bats. Year-round. Most Houstonians have driven right over them.",
+      "photo": "waugh-bridge-bats-crowd-houston.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/waugh-bridge-bats-crowd-houston.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Wait, where?",
+      "headline": "The Waugh Drive Bridge over Buffalo Bayou",
+      "body": "Just west of downtown. At dusk the colony pours out from under the bridge to hunt."
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Most people watch from up here",
+      "headline": "The sidewalk and the viewing platform",
+      "body": "It's free and it works. We're not going to pretend the bridge view is bad."
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The other seat",
+      "headline": "Water level, colony overhead",
+      "body": "From a kayak the bats pass right over you, downtown skyline behind them."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "From the bayou",
+      "headline": "Bayou below, bridge above, bats everywhere",
+      "body": "Guests tell us it's the most unexpected thing they've done in this city.",
+      "photo": "buffalo-bayou-bridge-reflection.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-bridge-reflection.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The twist",
+      "headline": "They don't leave for winter",
+      "body": "Plenty of bat colonies fly south in fall. Houston's stays put. Summer flights are the most reliable, but the colony is here all year."
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Honest note",
+      "headline": "Common at dusk. Never guaranteed.",
+      "body": "Wild animals keep their own schedule. Weather and season move the timing. The skyline at dusk shows up regardless."
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "How it works",
+      "headline": "Launch from Allen's Landing before sunset",
+      "body": "Sunset Skyline Bat Bridge Kayak Tour. 2 to 3 hours, guide and gear included, ages 7 and up. No experience needed."
+    },
+    {
+      "n": 9,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "On the way there",
+      "headline": "Herons, egrets, turtles, then the bats",
+      "body": "Guides point out what's moving along the bank on the paddle up. Wildlife is common, not guaranteed.",
+      "photo": "sunset-kayak-group-bayou.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/sunset-kayak-group-bayou.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Send this to a Houstonian",
+      "headline": "You've driven over them. Now paddle under.",
+      "body": "Sunset bat tours from Allen's Landing, 1019 Commerce St. Book at buffalobayoukayak.com.",
+      "photo": "buffalo-bayou-under-bridges-wildflowers.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-under-bridges-wildflowers.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
 }

@@ -19,9 +19,9 @@
    "kicker": "Things nobody tells you",
    "headline": "Buffalo Bayou isn't what you drove past",
    "body": "From the freeway it's a blur. From water level it's a different city. A few things locals miss.",
-   "photo": "Resized_Resized_20210821_155206.jpeg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/Resized_Resized_20210821_155206.jpeg",
-   "pos": "center 50%",
+   "photo": "paddleboarder-bayou-toward-skyline.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/paddleboarder-bayou-toward-skyline.jpg",
+   "pos": "center",
    "dark": false
   },
   {
@@ -34,35 +34,27 @@
   },
   {
    "n": 3,
-   "layout": "photo",
+   "layout": "point",
    "tone": "green",
    "kicker": "2",
    "headline": "The city has an official bird. It lives here.",
-   "body": "One guest was \"blown away\" by the herons, egrets and the city's official bird, the yellow-crowned night heron.",
-   "photo": "buffalo-bayou-ducks-bridge.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-ducks-bridge.jpg",
-   "pos": "center 45%",
-   "dark": false
+   "body": "One guest was \"blown away\" by the herons, egrets and the city's official bird, the yellow-crowned night heron."
   },
   {
    "n": 4,
    "layout": "point",
    "tone": "green",
    "kicker": "3",
-   "headline": "There's no current to fight",
-   "body": "The bayou is slow water. Head upstream toward Waugh or work the downtown stretch and still make it back easy."
+   "headline": "Upstream first, ride home easy",
+   "body": "Paddle toward Waugh while your arms are fresh. When the current runs, the way back is the easy half. Guides adjust routes to conditions."
   },
   {
    "n": 5,
-   "layout": "split",
+   "layout": "point",
    "tone": "indigo",
    "kicker": "4",
    "headline": "Look small, too",
-   "body": "Herons get the attention. Guides also turn up guys like this one. Wildlife is common, never guaranteed.",
-   "photo": "IMG_4728-scaled.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/IMG_4728-scaled.jpg",
-   "pos": "center 50%",
-   "dark": false
+   "body": "Herons get the attention. Guides also spot frogs, turtles and smaller things along the bank. Common, never guaranteed."
   },
   {
    "n": 6,
@@ -79,9 +71,9 @@
    "kicker": "6",
    "headline": "The banks bloom at water level",
    "body": "Wildflowers along the bank, inches above the bayou. You only notice them at kayak speed.",
-   "photo": "buffalo-bayou-wildflowers.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-wildflowers.jpg",
-   "pos": "center 45%",
+   "photo": "buffalo-bayou-under-bridges-wildflowers.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-under-bridges-wildflowers.jpg",
+   "pos": "center",
    "dark": false
   },
   {
@@ -94,15 +86,11 @@
   },
   {
    "n": 9,
-   "layout": "photo",
+   "layout": "point",
    "tone": "indigo",
    "kicker": "8",
    "headline": "Paddlers clean this bayou",
-   "body": "Buffalo Bayou Kayak runs community cleanups on the water. Want to help beautify the bayou? Ask about the next one.",
-   "photo": "buffalo-bayou-kayak-adventures.jpeg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/buffalo-bayou-kayak-adventures.jpeg",
-   "pos": "center 50%",
-   "dark": false
+   "body": "Buffalo Bayou Kayak runs community cleanups on the water. Want to help beautify the bayou? Ask about the next one."
   },
   {
    "n": 10,
@@ -111,9 +99,9 @@
    "kicker": "Save this. Send it to a Houstonian.",
    "headline": "Your city looks different from down here",
    "body": "Kayak tours and rentals from Allen's Landing. Book at buffalobayoukayak.com.",
-   "photo": "buffalo-bayou-night-skyline-c.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-skyline-c.jpg",
-   "pos": "center 50%",
+   "photo": "paddleboard-group-allens-landing.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/paddleboard-group-allens-landing.jpg",
+   "pos": "center",
    "dark": false
   }
  ]

@@ -1,120 +1,120 @@
 {
- "format": "archetypal",
- "type": "hook",
- "mentor": "Schwartz",
- "brand": "akt",
- "title": "The bridge is the worst seat for the bats",
- "why": "Cold, problem-aware Austin visitors who plan to watch the bats from Congress Ave Bridge; flips them to the water before the colony leaves in early November.",
- "hook_options": [
-  "The bridge is the worst seat for the bats",
-  "1.5 million bats. You're watching the back of a stranger's head.",
-  "Everyone watches the bats from the bridge. That's the problem."
- ],
- "caption": "Congress Avenue fills up every dusk. You get a railing, elbows, and the bats flying out under your feet. From a kayak they come out right over your head. A few weeks of bat season left before the colony heads south. #austinbats #congressavenuebridge #ladybirdlake #austinkayaktours",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Bat season, Austin",
-   "headline": "The bridge is the worst seat for the bats",
-   "body": "Hundreds of people, one railing, everyone craning sideways. There's a better seat. It floats.",
-   "photo": "38071459_1862239157148209_3317564010810834944_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/38071459_1862239157148209_3317564010810834944_n.jpg",
-   "pos": "center 45%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "On the bridge",
-   "headline": "You mostly see the people in front of you",
-   "body": "Congress Avenue packs up at dusk. Get there early for a railing spot, then watch the colony fly out under your feet.",
-   "photo": "DSC_1059.JPG",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/DSC_1059.JPG",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 3,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "From the water",
-   "headline": "The colony comes out over your head",
-   "body": "You sit on Lady Bird Lake beside the bridge and look straight up. No railing. No elbows."
-  },
-  {
-   "n": 4,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "What it looks like",
-   "headline": "A ribbon of bats that runs for minutes",
-   "body": "Up to 1.5 million Mexican free-tailed bats live under Congress Avenue Bridge. The biggest urban colony in North America.",
-   "photo": "38120604_1862239170481541_6408398450412486656_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/38120604_1862239170481541_6408398450412486656_n.jpg",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 5,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "The fear nobody says out loud",
-   "headline": "Won't they fly into us?",
-   "body": "They're out hunting insects, not kayakers. One guest called their guide \"really funny and reassuring\" about how harmless the bats are."
-  },
-  {
-   "n": 6,
-   "layout": "photo",
-   "tone": "green",
-   "kicker": "Real review",
-   "headline": "\"I was a little frightened at first\"",
-   "body": "\"...but after seeing all the bats circling up above and flying around, it was absolutely marvelous!\" TripAdvisor review",
-   "photo": "40229450_1911181005587357_7367418365041704960_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/40229450_1911181005587357_7367418365041704960_n.jpg",
-   "pos": "center 35%",
-   "dark": true
-  },
-  {
-   "n": 7,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "October is different",
-   "headline": "The colony is starting to leave",
-   "body": "Fall cold fronts push the bats south. By early November most are gone until spring. Flights can run smaller and later now."
-  },
-  {
-   "n": 8,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "The honest part",
-   "headline": "Nobody can promise a flight",
-   "body": "Bats are wild. Weather and temperature move the show. The sunset shows up every night, and that view alone earns the paddle.",
-   "photo": "40279765_1911180905587367_7824655468067815424_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/40279765_1911180905587367_7824655468067815424_n.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 9,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "So",
-   "headline": "Skip the railing. Sit under the colony.",
-   "body": "Guided sunset bat tours launch from 200 E Riverside Dr. About 2 hours. Kayak, paddle and life vest included."
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Save this for your Austin trip",
-   "headline": "A few weeks of bat season left",
-   "body": "Send this to whoever is planning the trip. Book the sunset bat tour at austinkayaktours.com.",
-   "photo": "69271902_1675134472618493_8882142395630616576_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/69271902_1675134472618493_8882142395630616576_n.jpg",
-   "pos": "center 55%",
-   "dark": false
-  }
- ]
+  "format": "archetypal",
+  "type": "hook",
+  "mentor": "Schwartz",
+  "brand": "akt",
+  "title": "The bridge is the worst seat for the bats",
+  "why": "Cold, problem-aware Austin visitors who plan to watch the bats from Congress Ave Bridge; flips them to the water before the colony leaves in early November.",
+  "hook_options": [
+    "The bridge is the worst seat for the bats",
+    "1.5 million bats. You're watching the back of a stranger's head.",
+    "Everyone watches the bats from the bridge. That's the problem."
+  ],
+  "caption": "Congress Avenue fills up every dusk. You get a railing, elbows, and the bats flying out under your feet. From a kayak they come out right over your head. A few weeks of bat season left before the colony heads south. #austinbats #congressavenuebridge #ladybirdlake #austinkayaktours",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Bat season, Austin",
+      "headline": "The bridge is the worst seat for the bats",
+      "body": "Hundreds of people, one railing, everyone craning sideways. There's a better seat. It floats.",
+      "photo": "congress-bridge-bat-crowd-sunset-kayaks.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-bat-crowd-sunset-kayaks.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "On the bridge",
+      "headline": "You mostly see the people in front of you",
+      "body": "Congress Avenue packs up at dusk. Get there early for a railing spot, then watch the colony fly out under your feet.",
+      "photo": "DSC_1059.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/DSC_1059.JPG",
+      "pos": "center 40%",
+      "dark": false
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "From the water",
+      "headline": "The colony comes out over your head",
+      "body": "You sit on Lady Bird Lake beside the bridge and look straight up. No railing. No elbows."
+    },
+    {
+      "n": 4,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "What it looks like",
+      "headline": "A ribbon of bats that runs for minutes",
+      "body": "Up to 1.5 million Mexican free-tailed bats live under Congress Avenue Bridge. The biggest urban colony in North America.",
+      "photo": "bats-over-congress-bridge-crowd-a.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-a.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 5,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The fear nobody says out loud",
+      "headline": "Won't they fly into us?",
+      "body": "They're out hunting insects, not kayakers. One guest called their guide \"really funny and reassuring\" about how harmless the bats are."
+    },
+    {
+      "n": 6,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "Real review",
+      "headline": "\"I was a little frightened at first\"",
+      "body": "\"...but after seeing all the bats circling up above and flying around, it was absolutely marvelous!\" TripAdvisor review",
+      "photo": "kayaks-under-congress-bridge-bats.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayaks-under-congress-bridge-bats.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "October is different",
+      "headline": "The colony is starting to leave",
+      "body": "Fall cold fronts push the bats south. By early November most are gone until spring. Flights can run smaller and later now."
+    },
+    {
+      "n": 8,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "The honest part",
+      "headline": "Nobody can promise a flight",
+      "body": "Bats are wild. Weather and temperature move the show. The sunset shows up every night, and that view alone earns the paddle.",
+      "photo": "dusk-aerial-lady-bird-lake-skyline-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/dusk-aerial-lady-bird-lake-skyline-b.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "So",
+      "headline": "Skip the railing. Sit under the colony.",
+      "body": "Guided sunset bat tours launch from 200 E Riverside Dr. About 2 hours. Kayak, paddle and life vest included."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your Austin trip",
+      "headline": "A few weeks of bat season left",
+      "body": "Send this to whoever is planning the trip. Book the sunset bat tour at austinkayaktours.com.",
+      "photo": "sunset-tandem-kayak-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/sunset-tandem-kayak-austin-skyline.jpg",
+      "pos": "center",
+      "dark": true
+    }
+  ]
 }

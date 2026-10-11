@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "seasonal",
+ "mentor": "Sugarman",
+ "title": "Skip the Candle This Year",
+ "brand": "ee",
+ "round": 2,
+ "why": "Holiday gift guide (Nov to Dec): social and private gift cards matched to the people on the list.",
+ "hook_options": [
+  "Skip the candle this year.",
+  "A gift that comes with a river.",
+  "For the person who has everything except time."
+ ],
+ "caption": "Skip the candle. A social sauna gift card is $59 for one seat. A private card is $539 for up to 10 guests. Delivered digitally, they pick the date. Send this to whoever's hard to shop for. #EbbAndEmber #PortlandGifts #PortlandSauna #ExperienceGift",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "HOLIDAY GIFTS",
+   "headline": "Skip the candle this year.",
+   "body": "Give someone 1 hour 45 minutes of heat, river, and quiet. Digital gift cards, nothing to wrap.",
+   "photo": "floating-sauna-lit-windows-at-night.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-lit-windows-at-night.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "THE SOCIAL CARD",
+   "headline": "One seat: $59.",
+   "body": "A seat in a shared session. They pick the date. Works for coworkers, siblings, and the friend who has everything."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "WHO IT'S FOR",
+   "headline": "The friend who's always cold.",
+   "body": "Gray December, sweater on indoors. Hand them 180 degrees and a river view.",
+   "photo": "member-night-deck-gathering-portland.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/member-night-deck-gathering-portland.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "THE PRIVATE CARD",
+   "headline": "The whole sauna: $539.",
+   "body": "A private session for up to 10. A birthday, a reunion, a family that needs one afternoon off screens."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "EASY",
+   "headline": "They book it. You plan nothing.",
+   "body": "Delivered digitally. They choose a social or private slot that fits their week.",
+   "photo": "sauna-bench-window-columbia-view.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-bench-window-columbia-view.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "FOR COUPLES",
+   "headline": "Two social seats: a date that isn't dinner.",
+   "body": "Two $59 cards and an evening slot. The dock lights do the rest."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "WHO IT'S FOR",
+   "headline": "Whoever just moved to Portland.",
+   "body": "Their first gray winter is coming. Show them rain looks better from inside the cedar.",
+   "photo": "sauna-wide-windows-marina-view.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-wide-windows-marina-view.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "GOOD TO KNOW",
+   "headline": "Tell them the plunge is optional.",
+   "body": "Some people hear river and tense up. There's a cold shower on deck, and skipping the plunge is fine."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "WHERE",
+   "headline": "ebbandember.com/shop",
+   "body": "Social $59. Private $539. Delivered digitally."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "One person off your list.",
+   "body": "Gift cards at ebbandember.com/shop. Send this to whoever's hard to shop for.",
+   "photo": "sauna-stones-and-guests-warm-light.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-stones-and-guests-warm-light.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+  "format": "functional",
+  "type": "seasonal",
+  "mentor": "Halbert",
+  "title": "Family's in town. Show them the bayou.",
+  "brand": "bbk",
+  "round": 2,
+  "why": "Thanksgiving-visitor carousel for Houston hosts; positions the bayou as the thing visiting family never saw.",
+  "hook_options": [
+    "Show your relatives the Houston they missed",
+    "Four days of family. Two hours on the bayou.",
+    "Skip Black Friday. Paddle instead."
+  ],
+  "caption": "Family in town for Thanksgiving? Skip the mall loop. Launch from Allen's Landing, where Houston started, and show them the bayou. Tandems for the nervous ones, kids 6 and up welcome with an adult. #houstonthanksgiving #buffalobayou #buffalobayoukayak #houstonthingstodo",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Thanksgiving in Houston",
+      "headline": "Family's in town. Show them the bayou.",
+      "body": "Four days, one couch, the same parade. Two hours on Buffalo Bayou beats round three of leftovers.",
+      "photo": "paddleboard-group-allens-landing.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/paddleboard-group-allens-landing.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The usual plan",
+      "headline": "Mall, museum, more pie",
+      "body": "Visiting family sees Houston through a windshield. Then they fly home thinking there's nothing here."
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The better plan",
+      "headline": "Launch where Houston started",
+      "body": "Allen's Landing, downtown, where the city was founded in 1836. Your relatives will want that fact for dinner.",
+      "photo": "allens-landing-steps-houston-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-steps-houston-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Clarissa E.",
+      "headline": "\"Only in Houston for the day\"",
+      "body": "She was in town for one day. The host \"took the time to recommend places for us to check out around the area.\""
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "For mixed groups",
+      "headline": "Tandems for the nervous ones",
+      "body": "Put the hesitant relative up front with a steady paddler in back. Kids 6 and up ride with an adult.",
+      "photo": "buffalo-bayou-bridge-reflection-split.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-bridge-reflection-split.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Pick your style",
+      "headline": "Guided skyline tour or rent and roam",
+      "body": "Two hours with a guide and Houston history, or grab a rental and paddle your own route."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Cool weather bonus",
+      "headline": "November is made for this",
+      "body": "Mild afternoons, softer light, no July sweat. Herons and turtles are common, never guaranteed.",
+      "photo": "buffalo-bayou-under-bridges-wildflowers.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-under-bridges-wildflowers.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The Black Friday move",
+      "headline": "Skip the lines. Paddle instead.",
+      "body": "Most of the family is off the day after Thanksgiving. Spend it outside, not circling a parking garage."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Booking tip",
+      "headline": "Book before the relatives land",
+      "body": "Lock a time early, then tell everyone it's already handled. Fewer debates at the table."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Send this to the family group chat",
+      "headline": "Show them the Houston they missed",
+      "body": "Tours and rentals from Allen's Landing. Book at buffalobayoukayak.com.",
+      "photo": "buffalo-bayou-trees-reflection.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-reflection.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "format": "functional",
+  "type": "review",
+  "mentor": "Bencivenga",
+  "title": "What guests wrote after the paddle",
+  "brand": "akt",
+  "round": 2,
+  "why": "Review spotlight from recent Google reviews for warm leads comparing bat tours; proof without stat claims.",
+  "hook_options": [
+    "Six guests. Their words, not ours.",
+    "What people say an hour after the bats",
+    "Read these before you book a bat tour"
+  ],
+  "caption": "Straight from our Google reviews: bucket lists, first-timers, a company retreat and one honest warning about wet shoes. Bat season runs until early November. #austinkayaktours #austinbats #ladybirdlake #austinreviews",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Real Google reviews",
+      "headline": "What guests wrote after the paddle",
+      "body": "First names and last initials only. Guide names left out, because the guests said it better anyway.",
+      "photo": "three-guests-kayaking-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/three-guests-kayaking-austin-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Sheila S.",
+      "headline": "\"Bucket list\"",
+      "body": "\"We thoroughly enjoyed watching the bats from kayaks on Lady Bird Lake.\" And: \"Our experience made it into the next day's conversations.\""
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "What she saw",
+      "headline": "Bats over Congress Avenue at dusk",
+      "body": "The colony roosts under the bridge until early November. Wild, so never guaranteed.",
+      "photo": "bats-over-congress-bridge-crowd-c.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-c.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Lisa E.",
+      "headline": "Watching them emerge from below",
+      "body": "Her highlight: \"The vantage of watching the bats emerge from below.\" Plus: \"Easy to find with good food nearby.\""
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "William C.",
+      "headline": "First time kayaking. No problem.",
+      "body": "\"Their instructions for beginners was all I needed to become a proficient kayaker.\"",
+      "photo": "congress-bridge-skyline-tall.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-skyline-tall.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Kira T.",
+      "headline": "\"We saw SO MANY BATS!\"",
+      "body": "Capitals hers. \"It was amazing!\" Bat nights vary. She got a big one."
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Rachel D., company retreat",
+      "headline": "Team building people actually liked",
+      "body": "Her team booked a tour for a company retreat: \"it was so fun!\" Singles or tandems, your pick.",
+      "photo": "aerial-railroad-bridge-paddlers-skyline-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/aerial-railroad-bridge-paddlers-skyline-b.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Clara G., honest tip",
+      "headline": "\"Your butt and legs/feet will get wet\"",
+      "body": "\"...so plan accordingly.\" Fair. Quick-dry clothes and shoes that can get soaked."
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Casey M.",
+      "headline": "\"Relaxed but informative\"",
+      "body": "\"We had a great afternoon on the lake!\" Calm water, a guide who knows the city, two easy hours.",
+      "photo": "congress-bridge-austin-skyline-water.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/congress-bridge-austin-skyline-water.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Save this, then book yours",
+      "headline": "Come see what they saw",
+      "body": "Sunset bat and skyline tours on Lady Bird Lake. Book at austinkayaktours.com.",
+      "photo": "kayaker-downtown-skyline-portrait.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayaker-downtown-skyline-portrait.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+ "format": "archetypal",
+ "type": "seasonal",
+ "mentor": "Halbert",
+ "title": "Family in Town",
+ "brand": "npb",
+ "round": 2,
+ "why": "Thanksgiving-visitor angle for locals hosting family: a reason to get everybody out of the house without a road trip.",
+ "hook_options": [
+  "The family is in town. Now what?",
+  "Day two of Thanksgiving, solved",
+  "Get everyone off the couch for two hours"
+ ],
+ "caption": "Family lands Wednesday. By Friday everybody is full, restless, and on their phones. Two hours on Bayou Bienvenue, fifteen minutes from the Quarter: private boat for the whole crew, or the eco tour if the kids are coming. #neworleans #thanksgiving #nolapartybarge #familytrip",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Thanksgiving week",
+   "headline": "The family is in town. Now what?",
+   "body": "",
+   "photo": "npb-orange-sunset-reflecting-bayou-from-deck.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-orange-sunset-reflecting-bayou-from-deck.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Day two",
+   "headline": "Everyone is full, restless, and on their phones",
+   "body": "Somebody suggests a movie. Somebody else suggests a nap. Your uncle suggests Bourbon Street."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The fix",
+   "headline": "Two hours on the bayou, 15 minutes away",
+   "body": "Get everybody out of the house and onto the water without a road trip."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Big family?",
+   "headline": "Book the whole boat",
+   "body": "Private boats hold 18 to 25. Your family only, your food, your drinks, your music.",
+   "photo": "npb-birthday-group-under-canopy-party-boat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-birthday-group-under-canopy-party-boat.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Kids coming?",
+   "headline": "The eco tour welcomes all ages",
+   "body": "Slower boat, quieter ride, a captain who talks wildlife and coastal land loss. Restroom on board.",
+   "photo": "npb-captain-pointing-out-wildlife-swamp-tour.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-captain-pointing-out-wildlife-swamp-tour.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "What they will see",
+   "headline": "Egrets, herons, maybe a gator",
+   "body": "Wildlife is common, not guaranteed. Gators slow down when it turns cold, so late November is hit or miss.",
+   "photo": "npb-heron-taking-flight-over-marsh.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-heron-taking-flight-over-marsh.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Dress for it",
+   "headline": "Bring a jacket for the ride back",
+   "body": "The deck is covered, but evenings on open water can run cooler than the Quarter."
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Leftover move",
+   "headline": "Pack the leftovers. It is BYOB.",
+   "body": "Turkey sandwiches, pie, the good wine nobody opened. Bring it all aboard.",
+   "photo": "npb-guests-drinks-table-at-the-marina.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-guests-drinks-table-at-the-marina.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Heads up",
+   "headline": "Holiday weekends go first",
+   "body": "If the family lands Wednesday, pick your date before they do."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Send this to whoever is hosting",
+   "headline": "Give them a reason to leave the couch",
+   "body": "Private boats, shared seats, or the eco tour. nolapartybarges.com",
+   "photo": "npb-guest-silhouette-bayou-sunset-from-deck.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-guest-silhouette-bayou-sunset-from-deck.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}

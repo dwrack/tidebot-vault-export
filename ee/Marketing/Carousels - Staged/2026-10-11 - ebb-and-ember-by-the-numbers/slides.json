@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "numbers",
+ "mentor": "Ogilvy",
+ "title": "Ebb and Ember in Seven Numbers",
+ "brand": "ee",
+ "round": 2,
+ "why": "Fact-led listicle for people researching: temperatures, session length, group sizes, depth, price, no promises.",
+ "hook_options": [
+  "Ebb and Ember in seven numbers.",
+  "42, 180, 1:45. Here's what they mean.",
+  "The numbers guests ask about most."
+ ],
+ "caption": "The numbers guests ask about most: 42 degree river in January, about 180 on the bench, 1 hour 45 minutes per session, 8 in a social, 10 in a private, $49 off-peak. And zero promises about how you'll feel. #EbbAndEmber #PortlandSauna #ColdPlunge #ColumbiaRiver",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "BY THE NUMBERS",
+   "headline": "Ebb and Ember in seven numbers.",
+   "body": "The figures guests ask about most, without the sales pitch.",
+   "photo": "floating-sauna-sunset-kayakers-columbia.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-sunset-kayakers-columbia.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "42",
+   "headline": "Degrees. The Columbia in January.",
+   "body": "Cascade snowmelt. By July it climbs to 60 to 65."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "180",
+   "headline": "Degrees on the bench, give or take.",
+   "body": "Hot cedar, river-level windows. Ladle water on the stones if you want more steam.",
+   "photo": "sauna-stove-stones-close-up.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-stove-stones-close-up.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "1:45",
+   "headline": "1 hour 45 minutes per session.",
+   "body": "Long enough for a few rounds of heat, cold, and rest without watching the clock."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "8",
+   "headline": "Guests max in a social session.",
+   "body": "Small on purpose. Big enough that strangers end up talking.",
+   "photo": "floating-sauna-covered-lounge-kayaks.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/floating-sauna-covered-lounge-kayaks.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "10",
+   "headline": "Guests in a private session.",
+   "body": "The whole sauna for your group. Birthdays, reunions, a team that needs a reset."
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "40+",
+   "headline": "Feet of river under the float.",
+   "body": "Real depth, real current. Throw rings on deck, buddy system in the water. When in doubt, don't go out.",
+   "photo": "sauna-window-boat-on-river.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-window-boat-on-river.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "$49",
+   "headline": "Where off-peak social sessions start.",
+   "body": "Memberships run $99 to $299 a month. We want this to be a habit, not a once-a-year splurge."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "0",
+   "headline": "Promises about how you'll feel.",
+   "body": "We give you the heat, the river, and the deck. What it means is up to you."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "Pick your number and book.",
+   "body": "Social, private, or membership at ebbandember.com.",
+   "photo": "sauna-golden-hour-guests-through-glass.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Ebb and Ember/Assets/Carousel Picks/sauna-golden-hour-guests-through-glass.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

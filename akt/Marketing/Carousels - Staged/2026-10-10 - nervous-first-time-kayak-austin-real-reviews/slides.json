@@ -1,116 +1,116 @@
 {
- "format": "functional",
- "type": "decision",
- "mentor": "Bencivenga",
- "brand": "akt",
- "title": "Every nervous first-timer says the same thing",
- "why": "Warm leads stuck on fear (tipping, swimming, bats, family fit); real TripAdvisor lines answer each objection so they book instead of bailing.",
- "hook_options": [
-  "Every nervous first-timer says the same thing",
-  "Scared at first. Then this happened.",
-  "Never kayaked? Read what first-timers wrote after."
- ],
- "caption": "We read the reviews. The fear always shows up in sentence one: tipping, swimming, the bats, the kids. By sentence two it's gone. Scared is normal. Paddle lesson on land, life vest the whole trip, guide right beside you. Send this to your nervous friend. #austinkayak #firsttimekayaking #ladybirdlake #austinkayaktours",
- "slides": [
-  {
-   "n": 1,
-   "layout": "hook",
-   "tone": "indigo",
-   "kicker": "Never kayaked?",
-   "headline": "Every nervous first-timer says the same thing",
-   "body": "We read the reviews. The fear shows up in sentence one. It's gone by sentence two.",
-   "photo": "38685405_1872341492804642_2815821958447366144_o.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/38685405_1872341492804642_2815821958447366144_o.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 2,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "Fear 1",
-   "headline": "\"I'm going to tip over.\""
-  },
-  {
-   "n": 3,
-   "layout": "split",
-   "tone": "indigo",
-   "kicker": "What they wrote after",
-   "headline": "\"It was scary initially\"",
-   "body": "\"...but a great experience once you get the hang of it.\" Calm water, stable kayaks, and a paddling lesson before launch.",
-   "photo": "69699401_2488468321191953_7876450505914843136_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/69699401_2488468321191953_7876450505914843136_n.jpg",
-   "pos": "center 55%",
-   "dark": false
-  },
-  {
-   "n": 4,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "Fear 2",
-   "headline": "\"I can't swim very well.\""
-  },
-  {
-   "n": 5,
-   "layout": "split",
-   "tone": "green",
-   "kicker": "What they wrote after",
-   "headline": "\"The life savers made me relax\"",
-   "body": "Full quote: \"the presence of life savers made me relax and enjoy the experience.\" Life vests on everyone, the whole trip.",
-   "photo": "36761955_1824886107550181_1869525631029477376_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/36761955_1824886107550181_1869525631029477376_n.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 6,
-   "layout": "point",
-   "tone": "indigo",
-   "kicker": "Fear 3",
-   "headline": "\"Bats? Isn't that creepy?\""
-  },
-  {
-   "n": 7,
-   "layout": "photo",
-   "tone": "indigo",
-   "kicker": "What they wrote after",
-   "headline": "\"The bats were SO COOL!!!\"",
-   "body": "Capital letters theirs. The colony flies out overhead at dusk, hunting insects, uninterested in you.",
-   "photo": "38462429_1870785096293615_5681688450625961984_n.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/38462429_1870785096293615_5681688450625961984_n.jpg",
-   "pos": "center 40%",
-   "dark": false
-  },
-  {
-   "n": 8,
-   "layout": "point",
-   "tone": "green",
-   "kicker": "Fear 4",
-   "headline": "\"Will this work for my whole family?\""
-  },
-  {
-   "n": 9,
-   "layout": "split",
-   "tone": "green",
-   "kicker": "What they wrote after",
-   "headline": "Ages 6 to 69, one trip",
-   "body": "\"My family of 8, ranged from age 6-69... This was perfect for the older kids.\" Tours are ages 5 and up.",
-   "photo": "40903462_1919602584745199_8678256419734028288_o.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/40903462_1919602584745199_8678256419734028288_o.jpg",
-   "pos": "center 50%",
-   "dark": false
-  },
-  {
-   "n": 10,
-   "layout": "cta",
-   "tone": "indigo",
-   "kicker": "Send this to your nervous friend",
-   "headline": "Scared is normal. Go anyway.",
-   "body": "Paddle lesson on land, life vest on, guide right beside you. Book at austinkayaktours.com.",
-   "photo": "78724582_2659898924048891_3151676843237572608_o.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Lone Star Kayak Tours/Assets/Photos/78724582_2659898924048891_3151676843237572608_o.jpg",
-   "pos": "center 55%",
-   "dark": true
-  }
- ]
+  "format": "functional",
+  "type": "decision",
+  "mentor": "Bencivenga",
+  "brand": "akt",
+  "title": "Every nervous first-timer says the same thing",
+  "why": "Warm leads stuck on fear (tipping, swimming, bats, family fit); real TripAdvisor lines answer each objection so they book instead of bailing.",
+  "hook_options": [
+    "Every nervous first-timer says the same thing",
+    "Scared at first. Then this happened.",
+    "Never kayaked? Read what first-timers wrote after."
+  ],
+  "caption": "We read the reviews. The fear always shows up in sentence one: tipping, swimming, the bats, the kids. By sentence two it's gone. Scared is normal. Paddle lesson on land, life vest the whole trip, guide right beside you. Send this to your nervous friend. #austinkayak #firsttimekayaking #ladybirdlake #austinkayaktours",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Never kayaked?",
+      "headline": "Every nervous first-timer says the same thing",
+      "body": "We read the reviews. The fear shows up in sentence one. It's gone by sentence two.",
+      "photo": "tandem-kayak-guests-austin-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/tandem-kayak-guests-austin-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Fear 1",
+      "headline": "\"I'm going to tip over.\""
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "What they wrote after",
+      "headline": "\"It was scary initially\"",
+      "body": "\"...but a great experience once you get the hang of it.\" Calm water, stable kayaks, and a paddling lesson before launch.",
+      "photo": "kayaker-paddling-lady-bird-lake-closeup.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayaker-paddling-lady-bird-lake-closeup.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Fear 2",
+      "headline": "\"I can't swim very well.\""
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "What they wrote after",
+      "headline": "\"The life savers made me relax\"",
+      "body": "Full quote: \"the presence of life savers made me relax and enjoy the experience.\" Life vests on everyone, the whole trip.",
+      "photo": "kayak-guests-life-vests-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayak-guests-life-vests-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Fear 3",
+      "headline": "\"Bats? Isn't that creepy?\""
+    },
+    {
+      "n": 7,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "What they wrote after",
+      "headline": "\"The bats were SO COOL!!!\"",
+      "body": "Capital letters theirs. The colony flies out overhead at dusk, hunting insects, uninterested in you.",
+      "photo": "bats-over-congress-bridge-crowd-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/bats-over-congress-bridge-crowd-b.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Fear 4",
+      "headline": "\"Will this work for my whole family?\""
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "What they wrote after",
+      "headline": "Ages 6 to 69, one trip",
+      "body": "\"My family of 8, ranged from age 6-69... This was perfect for the older kids.\" Tours are ages 5 and up.",
+      "photo": "big-group-kayak-tour-congress-bridge.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/big-group-kayak-tour-congress-bridge.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Send this to your nervous friend",
+      "headline": "Scared is normal. Go anyway.",
+      "body": "Paddle lesson on land, life vest on, guide right beside you. Book at austinkayaktours.com.",
+      "photo": "kayaker-skyline-lady-bird-lake-b.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Austin Kayak Tours/Assets/Carousel Picks/kayaker-skyline-lady-bird-lake-b.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
 }

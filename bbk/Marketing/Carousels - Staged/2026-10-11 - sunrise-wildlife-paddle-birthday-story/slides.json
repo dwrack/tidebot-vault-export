@@ -1,0 +1,117 @@
+{
+  "format": "archetypal",
+  "type": "story",
+  "mentor": "Sugarman",
+  "title": "Her husband booked a sunrise paddle",
+  "brand": "bbk",
+  "round": 2,
+  "why": "POV trip story from one real review (Alexandra S., Jul 2026) to sell morning/wildlife paddles and experience gifts.",
+  "hook_options": [
+    "The birthday gift that started at sunrise",
+    "Birds, turtles, and no heat yet",
+    "Why one guest picked sunrise on the bayou"
+  ],
+  "caption": "Alexandra S. spent her birthday morning on Buffalo Bayou. 'Going on the sunrise tour rocked because there were lots of birds out and it wasn't hot yet.' A better gift than another candle. #buffalobayou #houstonkayak #buffalobayoukayak #experiencegift",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "A real guest's birthday",
+      "headline": "Her husband booked a sunrise paddle",
+      "body": "Alexandra S. spent her birthday morning on Buffalo Bayou. Here's how it went, in her words.",
+      "photo": "sunset-kayak-group-bayou.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/sunset-kayak-group-bayou.jpg",
+      "pos": "center",
+      "dark": true
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The plan",
+      "headline": "A sunrise wildlife tour, as a gift",
+      "body": "\"My husband booked us a sunrise wildlife kayak tour... for my birthday and it was so much fun!\""
+    },
+    {
+      "n": 3,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Why sunrise",
+      "headline": "\"It wasn't hot yet\"",
+      "body": "Her reason, and it's a good one. Early on the bayou, the heat hasn't shown up and the birds have."
+    },
+    {
+      "n": 4,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "On the water",
+      "headline": "\"There were lots of birds out\"",
+      "body": "Herons, egrets and smaller birds work the banks early. Common, never guaranteed.",
+      "photo": "buffalo-bayou-trees-portrait.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-portrait.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 5,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "What the guide pointed out",
+      "headline": "Birds, fish, and turtles",
+      "body": "Her list, in that order. Guides watch the banks so guests know where to look."
+    },
+    {
+      "n": 6,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "The city part",
+      "headline": "Houston history from water level",
+      "body": "She \"learned a lot about the history of Houston and the buildings nearby.\" The bayou is where the city started.",
+      "photo": "buffalo-bayou-bridge-reflection-split.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-bridge-reflection-split.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The pace",
+      "headline": "\"Our paddle was serene\"",
+      "body": "Her word. Flat water, an easy pace, downtown showing up between the trees."
+    },
+    {
+      "n": 8,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "The verdict",
+      "headline": "\"Going on the sunrise tour rocked\"",
+      "body": "Cool air, busy birds, a birthday that started outside.",
+      "photo": "paddleboarder-bayou-toward-skyline.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/paddleboarder-bayou-toward-skyline.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "If you're gift shopping",
+      "headline": "Book the morning, not the dinner",
+      "body": "Birthdays, anniversaries, the person who has everything. A sunrise on the bayou beats another candle."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "green",
+      "kicker": "Send this to whoever has a birthday coming",
+      "headline": "Start their birthday on the bayou",
+      "body": "Tours and rentals from Allen's Landing, 1019 Commerce St. Book at buffalobayoukayak.com.",
+      "photo": "allens-landing-dock-buffalo-bayou.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-dock-buffalo-bayou.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

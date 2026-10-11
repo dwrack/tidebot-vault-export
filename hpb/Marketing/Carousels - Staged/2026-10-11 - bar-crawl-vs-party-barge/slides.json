@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "comparison",
+ "mentor": "Sugarman",
+ "title": "Bar Crawl or Party Barge?",
+ "brand": "hpb",
+ "round": 2,
+ "why": "Comparison for bachelorette and birthday planners against the nemesis default (the downtown bar crawl), no competitors named.",
+ "hook_options": [
+  "Bar crawl or party barge? Run the numbers.",
+  "Five Ubers or one boat.",
+  "The maid of honor needs to see this."
+ ],
+ "caption": "Same group, same Saturday. One plan has four Ubers, a cover charge, and a lost bride. The other has a cooler and a sunset. Send this to the maid of honor. #HoustonBachelorette #HoustonPartyBarge #ClearLake #Kemah",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "BACHELORETTE MATH",
+   "headline": "Bar crawl or party barge? Run the numbers.",
+   "body": "Same group, same Saturday. One plan has five Ubers and a cover charge. The other has a cooler.",
+   "photo": "seabrook-party-barge-bachelorette-bride-dock.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/seabrook-party-barge-bachelorette-bride-dock.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE CRAWL",
+   "headline": "Five bars. Four Ubers. One lost bride.",
+   "body": "Somebody is always outside looking for the group. Usually the one in the veil."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "THE BARGE",
+   "headline": "One boat. Everyone in one place.",
+   "body": "Up to 26 of you on one deck. Nobody wanders off to a different bar."
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE CRAWL",
+   "headline": "A tab that keeps climbing.",
+   "body": "A 20-person night out in Houston runs $600 to $800 in drinks alone. Then the Ubers."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "THE BARGE",
+   "headline": "BYOB. You already paid for the drinks.",
+   "body": "Bring the cooler you stocked at the grocery store. No markup, no minimum, no surprise at close.",
+   "photo": "party-barge-bachelorette-crew-matching-outfits.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-bachelorette-crew-matching-outfits.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE CRAWL",
+   "headline": "Fighting for the aux at every stop.",
+   "body": "Every bar has its own DJ and its own idea of a good song."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "THE BARGE",
+   "headline": "Your speaker. Your songs. All cruise.",
+   "body": "Connect at the dock and the bride runs the playlist for 1 hour 45 minutes.",
+   "photo": "party-barge-group-shot-kemah-water.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-group-shot-kemah-water.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE CRAWL",
+   "headline": "The view is a parking lot.",
+   "body": "Downtown at 11pm looks like every other Saturday."
+  },
+  {
+   "n": 9,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "THE BARGE",
+   "headline": "Kemah lights and a sunset for the photos.",
+   "body": "Clear Lake at golden hour. The group photo finally has a background worth posting.",
+   "photo": "party-barge-sunset-celebration-kemah.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-sunset-celebration-kemah.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "",
+   "headline": "Skip the crawl. Book the boat.",
+   "body": "Private charters for up to 26 out of Seabrook. Send this to the maid of honor. houstonpedalbarge.com",
+   "photo": "party-barge-open-water-clear-lake-guests.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-open-water-clear-lake-guests.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

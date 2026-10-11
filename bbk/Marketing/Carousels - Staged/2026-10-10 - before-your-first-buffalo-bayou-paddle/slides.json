@@ -19,9 +19,9 @@
    "kicker": "First time on the bayou?",
    "headline": "Three things to sort before you launch",
    "body": "Where to park, what to wear, how hard the paddle really is. Straight answers from the dock at Allen's Landing.",
-   "photo": "houston-kayak-rental.jpeg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/houston-kayak-rental.jpeg",
-   "pos": "center 50%",
+   "photo": "allens-landing-steps-houston-skyline.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-steps-houston-skyline.jpg",
+   "pos": "center",
    "dark": false
   },
   {
@@ -74,8 +74,8 @@
    "layout": "split",
    "tone": "indigo",
    "kicker": "The honest answer",
-   "headline": "Easy water. Real arms.",
-   "body": "Flat, slow water with no current to fight. But as Kathy M. put it: \"Your arms feel like they will fall off from paddling.\"",
+   "headline": "Calm water. Real arms.",
+   "body": "Upstream can take work when the current runs. As Kathy M. put it: \"Your arms feel like they will fall off from paddling.\"",
    "photo": "IMG_1999-e1636477583373.jpg",
    "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Site Photos/IMG_1999-e1636477583373.jpg",
    "pos": "center 55%",
@@ -88,9 +88,9 @@
    "kicker": "Timing",
    "headline": "October and November are the sweet spot",
    "body": "The heat breaks, the light gets good, the water stays comfortable. Book a morning or sunset slot.",
-   "photo": "buffalo-bayou-skyline-from-kayak.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-skyline-from-kayak.jpg",
-   "pos": "center 55%",
+   "photo": "buffalo-bayou-trees-reflection.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/buffalo-bayou-trees-reflection.jpg",
+   "pos": "center",
    "dark": false
   },
   {
@@ -108,9 +108,9 @@
    "kicker": "Save this for your first paddle",
    "headline": "See you at Allen's Landing",
    "body": "Tours and rentals daily from 1019 Commerce St. Book at buffalobayoukayak.com.",
-   "photo": "buffalo-bayou-night-kayak-b.jpg",
-   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Video Frames/buffalo-bayou-night-kayak-b.jpg",
-   "pos": "center 50%",
+   "photo": "allens-landing-dock-buffalo-bayou.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Buffalo Bayou Kayak/Assets/Carousel Picks/allens-landing-dock-buffalo-bayou.jpg",
+   "pos": "center",
    "dark": false
   }
  ]

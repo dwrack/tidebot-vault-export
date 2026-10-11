@@ -1,0 +1,124 @@
+{
+ "format": "functional",
+ "type": "myth-fact",
+ "mentor": "Bencivenga",
+ "title": "Myth vs Fact",
+ "brand": "npb",
+ "round": 2,
+ "why": "Objection killer for warm leads who are hesitating: four common fears, each answered with a checkable fact.",
+ "hook_options": [
+  "Four things people get wrong about our boats",
+  "What your group chat thinks vs what actually happens",
+  "Myths we hear every single week"
+ ],
+ "caption": "Rain, strangers, boating skills, guaranteed gators. Four things people worry about before they book, and what actually happens on Bayou Bienvenue. Send it to the friend who keeps saying maybe. #neworleans #nolapartybarge #swamptour #bayoubienvenue",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Myth vs fact",
+   "headline": "Four things people get wrong about our boats",
+   "body": "",
+   "photo": "npb-group-toasting-pineapple-cups-party-boat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-group-toasting-pineapple-cups-party-boat.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Myth",
+   "headline": "Rain ruins a bayou party",
+   "body": "Everyone checks the forecast 40 times the week before."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Fact",
+   "headline": "Covered deck. Lightning cancels, rain doesn't.",
+   "body": "There is a roof over the whole deck. If lightning shows up, the captain makes the call.",
+   "photo": "npb-two-party-boats-bayou-cloudy-sky.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-two-party-boats-bayou-cloudy-sky.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Myth",
+   "headline": "Party boat means partying with strangers",
+   "body": "Nobody wants a stranger in the group photo."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Fact",
+   "headline": "Private means your group only",
+   "body": "Freaky Tiki, Twerkin' Tiki, Party Queen, or Bayou Boogie. Nobody else boards. Want company? Book social seats.",
+   "photo": "npb-birthday-guest-sash-tiki-boat-deck.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-birthday-guest-sash-tiki-boat-deck.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Myth",
+   "headline": "You need to know boats",
+   "body": "Who drives? Who ties up at the dock? Who knows where the gators hang out?"
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Fact",
+   "headline": "A licensed captain runs the whole trip",
+   "body": "USCG-certified boat, licensed captain, a deckhand. Your only job is the playlist.",
+   "photo": "npb-captain-at-the-helm-octopus-hat.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-captain-at-the-helm-octopus-hat.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Myth",
+   "headline": "Gators are guaranteed",
+   "body": "Some tours promise one. Ask them how."
+  },
+  {
+   "n": 9,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Fact",
+   "headline": "Gators are common, not guaranteed",
+   "body": "They are wild, seasonal, and weather dependent. We look hard. We never promise.",
+   "photo": "npb-tiki-boat-bayou-alligator-in-foreground.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-tiki-boat-bayou-alligator-in-foreground.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Send this to the skeptic",
+   "headline": "Now you know. Pick your boat.",
+   "body": "nolapartybarges.com",
+   "photo": "npb-bachelorette-group-costumes-at-the-dock.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/NOLA Party Barge/Assets/Carousel Picks/npb-bachelorette-group-costumes-at-the-dock.jpg",
+   "pos": "center",
+   "dark": false,
+   "source": "gbp-owner"
+  }
+ ]
+}
