@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Decision deadline (Sept 15) now 25 days overdue; robots.txt indexing alert status still unconfirmed"
-updated: 2026-10-10
+alert: "Decision deadline (Sept 15) now 26 days overdue; robots.txt indexing alert status still unconfirmed"
+updated: 2026-10-11
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals — decision deadline (Sept 15) passed 25 days ago. No movement since 2026-08-28** — now 43 days sitting with zero decision made.
+- **Goal: commit_domain_to_rentals — decision deadline (Sept 15) passed 26 days ago. No movement since 2026-08-28** — now 44 days sitting with zero decision made.
 - **"Blocked by robots.txt" alert still unconfirmed** — `gsc_index_status` was re-run this session but only returned a permission-level response, not crawl-error detail. Status carries forward unresolved.
-- GSC shows this domain still ranking thin — long-tail terms tied at 1 click each ("door county things to do," "door county wisconsin"), most terms 0 clicks despite real impressions.
+- GSC shows this domain still ranking thin — best is "door county things to do" at 1 click, most terms 0 clicks despite real impressions.
 - GBP still shows 18 reviews, newest still 2023 — no revival activity.
 <!-- live:end -->
 

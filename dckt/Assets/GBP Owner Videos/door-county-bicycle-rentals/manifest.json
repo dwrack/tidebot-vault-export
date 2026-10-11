@@ -1,0 +1,38 @@
+[
+ {
+  "file": "2020-06-14-door-county-bicycle-rentals-AF1QipOBApuTwpnnGtRLRhpB.mp4",
+  "format": "VIDEO",
+  "created": "2020-06-14T18:20:12Z",
+  "dimensions": {
+   "widthPixels": 720,
+   "heightPixels": 720
+  },
+  "by": null,
+  "source": "gbp-owner",
+  "location": "door-county-bicycle-rentals"
+ },
+ {
+  "file": "2020-05-22-door-county-bicycle-rentals-AF1QipO41epGfyRhnqCmE8YN.mp4",
+  "format": "VIDEO",
+  "created": "2020-05-22T14:26:59Z",
+  "dimensions": {
+   "widthPixels": 1080,
+   "heightPixels": 1920
+  },
+  "by": null,
+  "source": "gbp-owner",
+  "location": "door-county-bicycle-rentals"
+ },
+ {
+  "file": "2020-05-22-door-county-bicycle-rentals-AF1QipMlG882tCVPJqB2mPfZ.mp4",
+  "format": "VIDEO",
+  "created": "2020-05-22T14:15:58Z",
+  "dimensions": {
+   "widthPixels": 1920,
+   "heightPixels": 1080
+  },
+  "by": null,
+  "source": "gbp-owner",
+  "location": "door-county-bicycle-rentals"
+ }
+]

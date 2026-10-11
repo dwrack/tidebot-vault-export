@@ -54,3 +54,25 @@ From Apple Notes, Oct 4.
 
 ### Offer
 - Run the membership and ritual offers through Alex Hormozi's value equation (dream outcome x likelihood / time delay x effort)
+
+## Oct 11 additions (Apple Notes: "Red carpet sauna entrance.")
+
+### Programming & offer
+- Sauna + mobility + breathwork class (note trails off at "and...")
+- Monthly roll-over sauna and massage minutes (unused minutes carry forward, membership perk)
+- Brands to study: Hold Space (Germany), Dopamine Studio
+
+### Content
+- An Instagram account of just sauna buckets
+- Reel to riff on: https://www.instagram.com/reel/DeWiAluhBqJ/ . David's question: can we do something like this with the Meta VR glasses? What could we do with them that nobody else is doing?
+
+### Website
+- Build a version of the site in each of the styles in this reel, then pick: https://www.instagram.com/reel/DdMUB4kskYv/
+
+### Pricing: "Custom Revenue Management System" (pasted from a Modern Hospitality Accelerator sales email, marked "Implement")
+Their three levels, condensed:
+1. **Set rates yourself.** Base rate plus weekend/peak bumps, adjusted when you remember. Simple, but you end up underpriced on busy dates and overpriced on slow ones.
+2. **Dynamic pricing tool** (PriceLabs, Duetto, etc.). Moves rates daily off market data. Gets you to market average, but it can't see demand you create yourself, so when your own content fills the calendar it reads that pace as normal and leaves rates flat on your best dates.
+3. **Custom system** built from your guest profile, your booking history, your market position, your own competitor set, and the pricing floors you set. Their example: a 5-house mountain rental lifted ADR 20% in a month and got comfortable turning down discount requests.
+- The rest of the paste was the pitch for their paid accelerator (12 months of advisors, Slack channel, 2 live sessions a week). Not filed.
+- Applied to E&E: the inputs map to booking history by slot, peak days, competitor sauna prices in PDX, and a floor price per session type.

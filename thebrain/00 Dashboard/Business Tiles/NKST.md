@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-10-10
+updated: 2026-10-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$6,244/wk booked vs $4,000 target — 156% of goal, but still treat as noisy.** Basis improved to 4 of 7 real FH days, and yesterday (10/9) was the best clean day yet at $1,640/7 bookings — a big swing from 10/8's $200/2 bookings. Watch whether this holds before trusting the pace number.
-- **5 unreplied 5★ reviews, down from 6** — Kiana Hytrek (10/8), Katy Anthony (10/6), Roger Meister (10/1), I S. (9/25), Peter Pravikoff (9/24).
-- **Brand term "new orleans kayak swamp tours" slipped further to pos 24.56** — worse than the 20.93 reported two days ago, continuing a multi-week decline. Worth a direct look at what's displacing it.
-- **Watched page ("Airboat vs Kayak" comparison) dropped to effectively zero.** GSC query-level pull returned 0 rows this window; GA4 shows no distinct row in the top-50 pages, below the thin June baseline (~3 views). Worth confirming the page is still live and indexed.
+- **Goal pace: ~$10,304/wk booked vs $4,000 target — 258% of goal, but still noisy.** Basis is 4 of 7 real FH days (10/4, 10/8, 10/9, 10/10); yesterday (10/10) booked $2,565/10 bookings, the best clean day yet. Watch whether this holds — one huge day is driving most of the pace number.
+- **5 unreplied 5★ reviews, unchanged** — Kiana Hytrek (10/8), Katy Anthony (10/6), Roger Meister (10/1), I S. (9/25), Peter Pravikoff (9/24).
+- **Good news: brand term "new orleans kayak swamp tours" jumped to pos 18.92**, up sharply from 24.56 yesterday — reverses weeks of decline and lands back near the ~18-19 range it held earlier this year. Watch for one more day before calling it fixed.
+- **Watched page ("Airboat vs Kayak" comparison) still effectively zero.** GSC query-level pull returned 0 rows again; GA4 shows no distinct row in top pages, below the thin June baseline (~3 views). Not escalating further without new signal.
 <!-- live:end -->
 
 ## Quick links

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "No movement on win_category_terms since 2026-08-28 (43 days)"
-updated: 2026-10-10
+alert: "No movement on win_category_terms since 2026-08-28 (44 days)"
+updated: 2026-10-11
 tile_type: business
 goal_q4_metric: win_category_terms
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: win_category_terms. No movement since 2026-08-28** — now 43 days sitting. No category-intent campaign or content started yet.
-- GSC confirms it: "nola bike bar" pos 4.0 (3 clicks), "pedal bar new orleans" pos 1.0 (1 click), "pedal pub near me" pos 1.0 (1 click) — category terms still holding at #1, unchanged.
+- **Goal: win_category_terms. No movement since 2026-08-28** — now 44 days sitting. No category-intent campaign or content started yet.
+- GSC confirms it: "new orleans pedal bike bar" pos 1.8 (top performer), "pedal bar new orleans" pos 1.0, "nola bike bar" pos 4.54 — category terms still holding near #1, unchanged.
 - 0 unreplied reviews (confirmed again this pull).
 - No separate FareHarbor shortname or ad account — runs under the Gravity Trails Meta umbrella (act_87863118), no spend attributed here yesterday.
 <!-- live:end -->
