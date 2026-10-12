@@ -168,18 +168,6 @@
   "location": "ebb-and-ember"
  },
  {
-  "file": "2026-03-21-ebb-and-ember-CIABIhCMs3NA7B91YQ0SgJz_.jpg",
-  "format": "PHOTO",
-  "created": "2026-03-21T17:00:00Z",
-  "dimensions": {
-   "widthPixels": 4284,
-   "heightPixels": 5712
-  },
-  "by": "Yasmeen Ramos",
-  "source": "gbp-customer",
-  "location": "ebb-and-ember"
- },
- {
   "file": "2026-05-17-ebb-and-ember-CIABIhD49WBjxyTGe_3aU5br.jpg",
   "format": "PHOTO",
   "created": "2026-05-17T04:00:00Z",
@@ -456,18 +444,6 @@
   "location": "ebb-and-ember"
  },
  {
-  "file": "2025-11-21-ebb-and-ember-CIABIhD7Wj9Z0wmuLcZf9fBs.jpg",
-  "format": "PHOTO",
-  "created": "2025-11-21T23:00:00Z",
-  "dimensions": {
-   "widthPixels": 3024,
-   "heightPixels": 4032
-  },
-  "by": "Marvyn Anthony",
-  "source": "gbp-customer",
-  "location": "ebb-and-ember"
- },
- {
   "file": "2026-03-21-ebb-and-ember-CIABIhBppAqPL9tnwisaVw5T.mp4",
   "format": "VIDEO",
   "created": "2026-03-21T17:00:00Z",
@@ -512,18 +488,6 @@
    "heightPixels": 5712
   },
   "by": "Randall McNamara",
-  "source": "gbp-customer",
-  "location": "ebb-and-ember"
- },
- {
-  "file": "2025-12-24-ebb-and-ember-CIABIhAbHTxV1nWky4n2DTiJ.jpg",
-  "format": "PHOTO",
-  "created": "2025-12-24T20:00:00Z",
-  "dimensions": {
-   "widthPixels": 4284,
-   "heightPixels": 5712
-  },
-  "by": "Gwynne Leftwich",
   "source": "gbp-customer",
   "location": "ebb-and-ember"
  },

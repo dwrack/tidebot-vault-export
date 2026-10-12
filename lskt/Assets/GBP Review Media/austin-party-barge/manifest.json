@@ -132,42 +132,6 @@
   "location": "austin-party-barge"
  },
  {
-  "file": "2025-08-05-austin-party-barge-CIABIhAY15Fu-R0ENwU9i1yY.jpg",
-  "format": "PHOTO",
-  "created": "2025-08-05T21:00:00Z",
-  "dimensions": {
-   "widthPixels": 3024,
-   "heightPixels": 4032
-  },
-  "by": "Maci Montanaro",
-  "source": "gbp-customer",
-  "location": "austin-party-barge"
- },
- {
-  "file": "2025-06-16-austin-party-barge-CIABIhD1f34nbV9Y5oWF_ABX.jpg",
-  "format": "PHOTO",
-  "created": "2025-06-16T13:00:00Z",
-  "dimensions": {
-   "widthPixels": 1008,
-   "heightPixels": 1792
-  },
-  "by": "Carrissa Lopez",
-  "source": "gbp-customer",
-  "location": "austin-party-barge"
- },
- {
-  "file": "2025-10-10-austin-party-barge-CIABIhDe9A0I0aF-yD7kqn4s.jpg",
-  "format": "PHOTO",
-  "created": "2025-10-10T19:00:00Z",
-  "dimensions": {
-   "widthPixels": 1816,
-   "heightPixels": 4032
-  },
-  "by": "MeSha MMD",
-  "source": "gbp-customer",
-  "location": "austin-party-barge"
- },
- {
   "file": "2025-10-10-austin-party-barge-CIABIhCAhYmqv9Irirwo3R-A.jpg",
   "format": "PHOTO",
   "created": "2025-10-10T19:00:00Z",
@@ -188,18 +152,6 @@
    "heightPixels": 4284
   },
   "by": "macie snider",
-  "source": "gbp-customer",
-  "location": "austin-party-barge"
- },
- {
-  "file": "2025-10-10-austin-party-barge-CIABIhAbc8C-1em24-a-6rrN.jpg",
-  "format": "PHOTO",
-  "created": "2025-10-10T19:00:00Z",
-  "dimensions": {
-   "widthPixels": 1816,
-   "heightPixels": 4032
-  },
-  "by": "MeSha MMD",
   "source": "gbp-customer",
   "location": "austin-party-barge"
  },
