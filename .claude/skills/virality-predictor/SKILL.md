@@ -1,6 +1,6 @@
 ---
 name: virality-predictor
-description: Predict how a short-form video (IG Reel, TikTok, YouTube Short) will perform BEFORE it is posted. Scores the hook, retention, loop, send/save triggers, sound-off readability, caption SEO and account-safety against the brand's own Viral Playbook and analytics baseline, then predicts a view range vs the account median, lists the fixes that move the score most, and rewrites the hook and caption. Also logs every prediction and calibrates against real results later. Use when the user asks "will this go viral", "score this reel/script/caption", "predict views", "rate this TikTok", "is this ready to post", or logs actual results for a past prediction.
+description: Predict how a short-form video (IG Reel, TikTok, YouTube Short) will perform BEFORE it is posted. Scores the hook, retention, loop, send/save triggers, sound-off readability, caption SEO and account-safety against the brand's own Viral Playbook and analytics baseline, then predicts a view range vs the account median, lists the fixes that move the score most, and rewrites the hook and caption. Optionally adds Higgsfield's brain-activity Virality Predictor (hook strength, hold rate, attention curve) when its CLI is installed. Also logs every prediction and calibrates against real results later. Use when the user asks "will this go viral", "score this reel/script/caption", "predict views", "rate this TikTok", "is this ready to post", or logs actual results for a past prediction.
 ---
 
 # Virality Predictor
@@ -51,6 +51,31 @@ the on-screen text, the spoken words, audio, and the ending.
 
 Write down (internally) the timeline: 0-1s, 1-3s, 3s-mid, close, last frame.
 
+### Step 2b (optional): Higgsfield brain scan
+
+Higgsfield's Virality Predictor (the "brain psychology" one, technical name
+`brain_activity`) runs the video through a model of predicted viewer brain response and
+returns a Virality Index, Hook Strength, Hold Rate, an attention curve, and a heatmap of
+predicted visual-cortex and amygdala activation. It only sees the video: it knows nothing
+about the caption, search terms, send/save triggers, the brand's rules, or the account's
+baseline. That is what the rest of this skill adds.
+
+Run it when a video file is available AND the Higgsfield CLI is installed and signed in:
+
+```bash
+command -v higgsfield && higgsfield --help   # find the brain_activity / virality command and its flags
+```
+
+- Not installed: skip this step and say so in one line. Setup (on the user's machine): `npx skills add higgsfield-ai/skills`, then `higgsfield auth login`. Do not run the login for the user.
+- It takes clips up to 15 seconds. For a longer clip, score the opening, which is where the swipe decision happens: `ffmpeg -y -i in.mp4 -t 15 -c copy first15.mp4`. Note in the report that only the first 15s were scanned.
+- Pass the video with `--video`, no prompt needed. Use the exact command and flags `--help` shows, do not guess them.
+
+Use the results like this:
+- Put Higgsfield's numbers in their own row block in the report, labeled as Higgsfield's model output, never mixed into the 100-point score as if they were ours.
+- Cross-check: where Hook Strength or the attention curve disagrees with your Hook / Retention scores by a lot, look at the frames at that timestamp again and say which you believe and why. An attention dip at a timestamp is a specific fix to list.
+- Treat the brain heatmap as a model prediction, not a measured brain. Do not tell the user a clip "lights up the amygdala" as fact.
+- Log the Higgsfield Virality Index in the prediction log Higgsfield VI column, so calibration can tell over time whether it, our score, or both predict real views for this account.
+
 ## Step 3: Score it
 
 Score each factor with the rubric in `references/rubric.md` (100 points total, 9 factors,
@@ -93,6 +118,10 @@ One-line verdict: <why it will or won't travel>
 | ... | | |
 | Gates / penalties | -5 | ... |
 
+Higgsfield brain scan (model prediction, first 15s): Virality Index .. | Hook Strength .. | Hold Rate ..
+Attention dips: 4.5s, 9s -> <what is on screen there>   Agrees with our score? <yes / no, and why>
+(omit this block if Higgsfield was not run)
+
 **Strongest signal it will farm:** sends | saves | completion | replay
 **Biggest risk:** ...
 
@@ -124,8 +153,8 @@ Append a row to `<brand>/Marketing/Virality Predictions.md` (create it with this
 
 Predictions made before posting, and what actually happened. Used to calibrate the virality-predictor skill.
 
-| Date | Clip | Platform | Score | Tier | Predicted 7d views | Actual 7d views | Sends | Saves | Hit? | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
+| Date | Clip | Platform | Score | Tier | Higgsfield VI | Predicted 7d views | Actual 7d views | Sends | Saves | Hit? | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 ```
 
 Leave the actual columns blank. Tell the user to come back with the 7-day numbers.
@@ -135,7 +164,7 @@ Leave the actual columns blank. Tell the user to come back with the 7-day number
 When the user gives actual results ("that reel got 2.1k views, 40 sends"):
 
 1. Find the row in the log, fill in actuals, mark Hit? as `hit` (inside range), `over` (beat the top), or `under`.
-2. If the log has 5+ completed rows, report the hit rate and the bias (do we over- or under-predict?), and which factor best separated winners from losers.
+2. If the log has 5+ completed rows, report the hit rate and the bias (do we over- or under-predict?), and which factor best separated winners from losers. If Higgsfield VI was logged, compare how well it and our score each ranked the actual results.
 3. Recommend a concrete adjustment (e.g. "shift the multiplier table down one band for this account" or "hook score is predicting well, save-value is not") and record it under a `## Calibration notes` section at the bottom of the log. Read those notes in Step 1 next time and apply them.
 
 ## Batch mode
