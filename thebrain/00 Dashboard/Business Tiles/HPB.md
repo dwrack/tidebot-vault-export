@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 9
-status: yellow
-alert: "Google Ads still fully dark, now well into week 3 of the outage; weekly booked revenue pace back down to ~50% of target; 5 unreplied 5★ reviews unchanged"
-updated: 2026-10-11
+ad_spend_yday: 11
+status: red
+alert: "FH bookings down 50%/80% vs 4-day avg on a weekend day, Google Ads still fully dark; new GSC indexing alert unverified; 5 unreplied reviews unchanged"
+updated: 2026-10-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$2,007/wk booked vs $4,000 target — ~50% of goal.** Basis is 4 of 7 real FH days (10/4, 10/8, 10/9, 10/10); yesterday (10/10) booked only $181/3 bookings, well below 10/9's $906 spike. Basis still thin — don't over-read week to week swings.
-- **Google Ads (2986009791) confirmed $0 impressions/clicks/cost across both yesterday AND the full 7-day window — now well into week 3 of the outage** with no diagnosis yet. See today's brief Action Item #2. Meta (shared w/ Buffalo Bayou) still running: $9.47 yesterday on "Followers Reboost" — still no purchase campaign.
-- **5 unreplied 5★ reviews, unchanged** — FroHair Patty (9/30, now 11 days), Jaylen Washington (9/27, now 14 days), Oscar Garcia/Vivian M/Diana Pdrz (all 9/19, now 22 days old).
-- **TikTok pull failed again this run** — `ECONNREFUSED` on the browser debug port, same issue as the prior several runs; needs a direct session check from David (re-login/QR scan likely required).
+- **Goal pace: ~$2,112/wk booked vs $4,000 target — ~53% of goal.** Basis is 4 of 7 real FH days (10/8, 10/9, 10/10, 10/11); yesterday (10/11, a Sunday) booked only $60/1 booking vs the 4-day average of ~2 bookings/$302 — down 50% on count, 80% on revenue. See today's brief Action Items #2 and #5.
+- **Google Ads (2986009791) still $0 impressions/clicks/cost across both yesterday and the full 7-day window** — no diagnosis yet. Meta (shared w/ Buffalo Bayou) still running: $10.66 yesterday on "Followers Reboost" — still no purchase campaign.
+- **New GSC indexing alert this morning** — "Blocked due to other 4xx issue" flagged on houstonpedalbarge.com. HPB has no GSC property in the roster so scope is unverified; check Search Console directly.
+- **5 unreplied 5★ reviews, unchanged** — FroHair Patty (9/30, now 12 days), Jaylen Washington (9/27, now 15 days), Oscar Garcia/Vivian M/Diana Pdrz (all 9/19, now 23 days old).
+- **TikTok pull failed again this run** — `ECONNREFUSED` on the Playwright browser port, same issue as prior runs; this is a browser-connectivity problem, not a logged-out session, so a QR re-login alone won't fix it.
 <!-- live:end -->
 
 ## Quick links

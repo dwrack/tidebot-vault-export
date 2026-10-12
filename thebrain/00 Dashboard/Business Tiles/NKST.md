@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-10-11
+status: yellow
+alert: "FH bookings down 80% vs 4-day avg (1 booking yesterday); 5 unreplied reviews unchanged"
+updated: 2026-10-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$10,304/wk booked vs $4,000 target — 258% of goal, but still noisy.** Basis is 4 of 7 real FH days (10/4, 10/8, 10/9, 10/10); yesterday (10/10) booked $2,565/10 bookings, the best clean day yet. Watch whether this holds — one huge day is driving most of the pace number.
+- **Goal pace: ~$9,074/wk booked vs $4,000 target — 227% of goal, still well over but down from 258%.** Basis is 4 of 7 real FH days (10/8, 10/9, 10/10, 10/11); yesterday (10/11) booked just 1 tour / $780 vs the 4-day average of ~5 bookings — count down 80%. See today's brief Action Item #3.
 - **5 unreplied 5★ reviews, unchanged** — Kiana Hytrek (10/8), Katy Anthony (10/6), Roger Meister (10/1), I S. (9/25), Peter Pravikoff (9/24).
-- **Good news: brand term "new orleans kayak swamp tours" jumped to pos 18.92**, up sharply from 24.56 yesterday — reverses weeks of decline and lands back near the ~18-19 range it held earlier this year. Watch for one more day before calling it fixed.
-- **Watched page ("Airboat vs Kayak" comparison) still effectively zero.** GSC query-level pull returned 0 rows again; GA4 shows no distinct row in top pages, below the thin June baseline (~3 views). Not escalating further without new signal.
+- Brand term "new orleans kayak swamp tours" holding at pos 18.4 (9 clicks/66 impr, 8d) — still well off the pos 1-5 range most of the portfolio's brand terms sit at.
+- **Watched page ("Airboat vs Kayak" comparison) — new signal, still not converting.** Impressions are now showing up (~49 over 8 days, vs 0 at the June baseline), but clicks remain 0 and GA4 shows only 2 pageviews for the window. The page is being surfaced but not winning clicks — a title/meta rework is the next move, not more content.
 <!-- live:end -->
 
 ## Quick links
