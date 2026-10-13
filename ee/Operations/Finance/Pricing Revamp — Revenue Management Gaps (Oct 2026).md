@@ -49,3 +49,6 @@ Approx paid Social seat fill (Sat/Sun vs Mon-Fri, 7 sessions x 8 seats; ignores 
 
 - Who owns the monthly price review (Jonah? L?)
 - Approve the floors in #5 before 11/1 go-live
+
+## Oct 13 addendum (Apple Note "18’ wide")
+- David: "Look at Jonah's pricing for Ebb and Ember and do this too": https://www.instagram.com/reel/DeXXBb6ho82/ . Reel not yet reviewed; open it and note which pricing move it's showing before the next #pricing-revamp reply. Full note filed at [[Sauna Layout, Banya Languages & Pricing Reels — Apple Note (Oct 13 2026)]].
