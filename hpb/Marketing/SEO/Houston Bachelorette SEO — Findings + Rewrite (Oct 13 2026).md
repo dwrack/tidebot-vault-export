@@ -1,5 +1,7 @@
 # Houston Bachelorette SEO: where we stand and the fix (2026-10-13)
 
+**STATUS 2026-10-13 15:20 CT: the rewrite is in WordPress as an unpublished DRAFT, post ID 417, slug `houston-bachelorette-party-ideas`, with SEO title, meta, FAQ schema and category set. Created from the DCKT Mac. Edit: https://www.houstonpedalbarge.com/edit/wp-admin/post.php?post=417&action=edit. The June post (`/2026/06/23/bachelorette-party-boat-houston/`) is untouched. To go live: David reviews 417, publishes it, then either trashes the June post with a redirect to 417 or leaves both.**
+
 *Live checks on 2026-10-13: Search Console (sc-domain:houstonpedalbarge.com), GA4 370616603, DataForSEO search volume (US) and live Houston SERPs, the site itself. Nothing below has been published. The rewrite is staged for David.*
 
 ## The answer in one line
@@ -37,7 +39,7 @@ Who owns page one from Houston right now ("bachelorette party houston"): r/houst
 5. **Reddit:** the #1 result is a year-old r/houston thread still collecting replies. One genuine answer from a personal account (Connor's or David's, never the brand), naming three Houston ideas and the boat as one of them, no link. Drafted below, staged.
 6. **Listicle placements:** The Knot Houston guide (updated Sep 2025), Batch Houston playbook, Tagvenue, Brides. Pitch via /press-release 1:1 track, sign as the business: "Houston's only private BYOB party barge, 4.9 stars on 981 Google reviews, Clear Lake, 15 minutes from Kemah Boardwalk." Houston Bike Bar is in those guides; we are not.
 7. **GA4 conversions** are off on this property. Until FareHarbor booking events fire, we cannot see which page books. Separate fix, flagged.
-8. **Blocker for me:** no WordPress Application Password for houstonpedalbarge.com on this Mac (only DCKT has one). To push the rewrite as a draft I need the HPB key minted: `~/.config/wp-keys/wp_login_and_mint.mjs` with David's wp-admin login (2FA code lands in dwrack81@gmail.com).
+8. ~~Blocker~~ Done: draft 417 created via the classic editor from the DCKT Mac (`~/Projects/wp-draft/wp_draft.py`).
 
 ---
 
@@ -113,5 +115,5 @@ Ready to book the boat and build the weekend around it? [Houston party barge cru
 
 ## What David has to decide
 1. OK the rewrite as written (edit anything, the pricing lines especially).
-2. Mint the HPB WordPress key so I can push it as a draft, or Connor pastes it in wp-admin.
+2. Open draft 417, read it once, publish. Then decide: redirect the June post to it (cleanest) or keep both.
 3. Who posts the Reddit reply (Connor or David), or skip it.
