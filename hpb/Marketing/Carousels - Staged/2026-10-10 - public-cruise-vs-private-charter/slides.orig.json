@@ -1,0 +1,116 @@
+{
+ "format": "functional",
+ "type": "decision",
+ "mentor": "Bencivenga",
+ "title": "Public Cruise or Private Charter?",
+ "brand": "hpb",
+ "why": "Warm leads comparing options: make the public vs private choice obvious with real prices, the split-the-bill math, and the cancellation policy.",
+ "hook_options": [
+  "Public cruise or private charter? Here's how to pick.",
+  "$800 split 20 ways is $40 each.",
+  "Small crew or big occasion? Pick your cruise."
+ ],
+ "caption": "Public cruise: $59 to $69 a person, you share the boat. Private charter: $800 to $950 for the whole boat, up to 26 guests, weekday discounts. Split $800 twenty ways and it's $40 each. $150 deposit holds the date. Save this for planning night. #houston #clearlake #bacheloretteparty #houstonbirthday #privatecharter",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Planning a Clear Lake cruise?",
+   "headline": "Public cruise or private charter? Here's how to pick.",
+   "body": "Same boat, same lake. The right one depends on your group size and how you feel about strangers.",
+   "photo": "fb_2022-04-07_141925658343856.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-04-07_141925658343856.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Option 1",
+   "headline": "Public cruise",
+   "body": "$59 to $69 a person. You share the boat with other groups. Same captain, same lake, same BYOB rules."
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "Pick public if",
+   "headline": "You're a small crew or a couple.",
+   "body": "Four friends, a date night, or a birthday that isn't a whole production. Book seats and bring the cooler.",
+   "photo": "fb_2022-08-23_173886015147820.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-08-23_173886015147820.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Option 2",
+   "headline": "Private charter",
+   "body": "$800 to $950 for the whole boat, up to 26 guests. Weekday discounts available. Nobody on board you didn't invite."
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "Pick private if",
+   "headline": "It's a bachelorette, birthday, or team.",
+   "body": "Your playlist, your pace, your people. A $150 deposit holds the boat, and the rest is due by tour time.",
+   "photo": "fb_2022-09-04_176343434902078.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-09-04_176343434902078.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Do the math",
+   "headline": "$800 split 20 ways is $40 each.",
+   "body": "Compare that to one round at a Houston bar for the same 20 people. Then remember you brought your own drinks."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "Either way",
+   "headline": "Same roof. Same bathroom. Same captain.",
+   "body": "Both run on a covered boat with Bluetooth speakers, party lights, and a professional captain at the wheel.",
+   "photo": "party-barge-roof-and-deck-dockside.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-roof-and-deck-dockside.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Good to know",
+   "headline": "Cancel 48+ hours out for a full refund.",
+   "body": "Inside 48 hours there's no refund. If we cancel for weather, you get a full refund or a free reschedule."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Quick pick",
+   "headline": "Small crew? Public. Big occasion? Private.",
+   "body": "Not sure? Text us your group size and date, and we'll tell you straight."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Save this for planning night",
+   "headline": "Pick your cruise. Bring the cooler.",
+   "body": "Public cruises and private charters on Clear Lake. Book at houstonpedalbarge.com.",
+   "photo": "party-barge-birthday-crowd-houston.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-birthday-crowd-houston.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

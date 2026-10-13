@@ -4,6 +4,30 @@
 
 ---
 
+## 🔵 Instagram Carousels (staged Oct 10-11, 2026)
+
+10 carousels written and staged, nothing rendered or posted. **Review after taxes are filed (Oct 15). Target: week of Oct 19.**
+
+- [ ] Review all 10 on the board: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/index.html` (Approve / Fix / Kill + notes, then hit "Copy my notes for Claude")
+- [ ] Pick favorites from the funny hooks page: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/hooks.html`
+- [ ] Claude applies fixes and renders approved ones to PNG
+- [ ] Approve caption + posting schedule, then Claude posts (nothing posts without your OK)
+
+Carousels (folders in `Marketing/Carousels - Staged/`):
+
+- [ ] Before Your First Party Barge Cruise (education) · `2026-10-10 - first-party-barge-cruise-what-to-know`
+- [ ] Houston Has a Waterfront (hook) · `2026-10-10 - houston-has-a-waterfront`
+- [ ] What Our Crew Wishes Every Group Knew (insider) · `2026-10-10 - party-barge-things-nobody-tells-you`
+- [ ] Public Cruise or Private Charter? (decision) · `2026-10-10 - public-cruise-vs-private-charter`
+- [ ] Your Team Outing Doesn't Have to Suck (belief) · `2026-10-10 - team-outing-doesnt-have-to-suck`
+- [ ] Bar Crawl or Party Barge? (comparison) · `2026-10-11 - bar-crawl-vs-party-barge`
+- [ ] Family in Town for Thanksgiving? (seasonal) · `2026-10-11 - family-in-town-thanksgiving-on-clear-lake`
+- [ ] Meet the Boat Before You Book (behind-the-scenes) · `2026-10-11 - meet-the-boat-before-you-book`
+- [ ] Party Barge Myths Houston Believes (myth-vs-fact) · `2026-10-11 - party-barge-myths-houston`
+- [ ] What Houston Groups Say After the Cruise (review-spotlight) · `2026-10-11 - what-houston-groups-say-after-the-cruise`
+
+---
+
 ## 🔴 Quick Wins (Do This Week)
 
 - [ ] **5-day customer journey audit**: Day 1 Dreaming / Day 2 Planning / Day 3 Booking / Day 4 Experiencing / Day 5 Sharing — 5 min per day, write down what HPB has and what's missing at each stage (TMA-01)

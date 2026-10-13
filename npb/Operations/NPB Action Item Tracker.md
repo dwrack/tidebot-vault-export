@@ -79,7 +79,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | # | Item | Owner | Status |
 |---|---|---|---|
 | 27 | JT booking-change notes required every time | JT | open |
-| 28 | JT owns phones on Jeff's off days | JT | open |
+| 28 | JT owns phones on Jeff's off days. 2026-10-13: parked for slow season, Jeff keeps phones (they ring a handful of times a day in winter); JT coming off phones/ops entirely, see #66 | Jeff | parked |
 | 29 | GetYourGuide manifest doesn't flag transportation purchased vs not | David | open |
 | 30 | Broken affiliate links on Hidden Adventure + Admire Nola | David | open |
 | 31 | Meta app permission for admirenola auto-posting | David | open |
@@ -127,6 +127,22 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 63 | 13 corporate holiday-party drafts sitting in info@ Drafts (Deloitte, Jones Walker, Ochsner, PBF, Entergy, Shell, Salesforce, KW, hotels, concierge assoc). Jeff reviews in the Slack thread, then sends. Flyer facts (heated boats, tiers, deposit) need David's confirm first | Jeff, David | new 9/11 |
 | 64 | JT: build the Halloween ticketed FareHarbor item (Bass Pirates, Sat Oct 31 8pm, 40 seats, $55) and tag Oct 30/31 private slots. NYE items by Nov 1 | JT | new 9/11 |
 | 65 | SES win-back runner has failed every Tuesday since Aug 25 (no boto3 for /usr/bin/python3). SendGrid copy is the live one (w07 sent 9/8). Fix or retire the SES launchd job | David | new 9/11 |
+
+## From Ops Sync 10/13 (David + Jeff — full notes: Operations/NPB Ops Sync — 2026-10-13 Notes.md)
+
+| # | Item | Owner | Status |
+|---|---|---|---|
+| 66 | JT role change: off phones and ops, keeps murals/projects (per-day pay for art). Offer him the captain's license, company pays; taking it = he keeps a seat. Jeff soft-pitches it this week, David + Michael make it official Thu 10/15 | Jeff → David | open |
+| 67 | Hire a captain-licensed utility first mate (day rate, on call for 4th boat, van runs, pickups). Max (kayak guide) is name #1. Jeff sounds him out by Thu 10/15: license interest, day rate, availability. Post to kayak guides first | Jeff | open |
+| 68 | Weekday first mate standard: captain's license + flexible. Current person trains for it or we hire for it | Jeff | open |
+| 69 | Claude builds the kayak 24h under-minimum check (reschedule or upsell to extended, Jeff's texts as wording, GV with logout alert, WhatsApp/email for intl). Jeff OKs first drafts in Slack. Jeff owes: the minimum number, airboat yes/no, his reschedule texts | Claude / Jeff | open |
+| 70 | Van: low tire gets fixed same day, nobody pumps and drives. Stephanie takes the van in this week, paid for her time (approved 10/13) | Jeff | open |
+| 71 | Michelle's Chase card still in the office bin. Confirm cancelled or reassigned | David | open |
+| 72 | Permit portal shows "issued" + "closed," next status date passed. Jeff sends Claude the permit number + which permit; Claude follows up with the office daily | Jeff → Claude | open |
+| 73 | Marina event hosting (late-night tent group from last year, "her"). Base fee + small %. Claude writes the one-page package, Scott Kitner reads it before it goes out. Jeff owes: her name, date, headcount, ticket price, alcohol y/n | Claude / Jeff | open |
+| 75 | Door County Google Voice missed-call bot: never installed, profile signed out (found 10/13). Fix = David runs ~/Projects/gv-bot/sign-in.command on mbp-2 (also signs in the kayak Voice account); script loads the bot | David | open |
+| 74 | Septic not discussed 10/13: porta potty by Fri 10/16, ask plumber "crack leak or backflow," 2 quotes by 10/20 (moved to Slack) | Jeff | open |
+| 76 | Revenue ladder for drips + win-back (kayak em02+, party-boat h02/h03): rung order upsell → full price w/ urgency → perk → credit, discount last | Claude drafts, Michael + David decide | Tue 10/20 | Open (David 10/13: "think of that revenue ladder in our drip campaigns and win back emails too") |
 
 ## Off the pin (route through Scott Kitner first)
 - $110k admiralty surety bond for the limitation-of-liability action — nobody could source it (3/24)

@@ -4,6 +4,31 @@
 
 ---
 
+## 🔵 Instagram Carousels (staged Oct 10-11, 2026)
+
+10 carousels written and staged, nothing rendered or posted. **Review after taxes are filed (Oct 15). Target: week of Oct 19.**
+
+- [ ] Review all 10 on the board: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/index.html` (Approve / Fix / Kill + notes, then hit "Copy my notes for Claude")
+- [ ] Pick favorites from the funny hooks page: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/hooks.html`
+- [ ] Decide: Confirm sauna prices used on slides
+- [ ] Claude applies fixes and renders approved ones to PNG
+- [ ] Approve caption + posting schedule, then Claude posts (nothing posts without your OK)
+
+Carousels (folders in `Marketing/Carousels - Staged/`):
+
+- [ ] Your First Floating Sauna Session (education) · `2026-10-10 - first-floating-sauna-session-what-to-know`
+- [ ] Real Heat. Real River. Nothing to Perform. (belief) · `2026-10-10 - nothing-to-perform`
+- [ ] Rain Season Is Sauna Season (hook) · `2026-10-10 - rain-season-is-sauna-season`
+- [ ] Social, Private, or Membership? (decision) · `2026-10-10 - social-private-or-membership`
+- [ ] Seven Things Our Regulars Figured Out (insider) · `2026-10-10 - what-ebb-and-ember-regulars-know`
+- [ ] Cold-Plunge Season Starts Now (seasonal) · `2026-10-11 - cold-plunge-season-starts-now`
+- [ ] Ebb and Ember in Seven Numbers (numbers) · `2026-10-11 - ebb-and-ember-by-the-numbers`
+- [ ] Four Floating Sauna Myths (myth-vs-fact) · `2026-10-11 - floating-sauna-myths-portland`
+- [ ] Skip the Candle This Year (seasonal) · `2026-10-11 - sauna-gift-cards-for-the-holidays`
+- [ ] What Guests Say (review-spotlight) · `2026-10-11 - what-guests-say-about-ebb-and-ember`
+
+---
+
 ## 🔴 Quick Wins (Do This Week)
 
 - [ ] **5-day customer journey audit**: Day 1 Dreaming / Day 2 Planning / Day 3 Booking / Day 4 Experiencing / Day 5 Sharing — 5 min per day, write down what E&E has and what's missing at each stage (TMA-01)

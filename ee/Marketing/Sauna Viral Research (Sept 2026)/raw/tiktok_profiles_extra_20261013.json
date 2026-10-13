@@ -1,0 +1,678 @@
+[{
+  "error": "This profile/hashtag does not exist.",
+  "errorCode": "NOT_FOUND",
+  "url": "https://www.tiktok.com/@loyly.kelowna",
+  "input": "loyly.kelowna"
+},
+{
+  "authorMeta": {
+    "id": "7299563776985383978",
+    "name": "cascadapdx",
+    "profileUrl": "https://www.tiktok.com/@cascadapdx",
+    "nickName": "Cascada",
+    "verified": false,
+    "signature": "Portland’s First Hydrothermal Hotel\nWhere wellness & sustainability meet",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ff45085dd9b75e7e25e89665bd42d9b9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d4950dce&x-expires=1792047600&x-signature=5DLlZLfD4huJLo0GQvsiYg%2B7ohs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1699562235,
+    "hasActiveStory": false,
+    "following": 0,
+    "friends": 0,
+    "fans": 203,
+    "heart": 0,
+    "video": 0,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ff45085dd9b75e7e25e89665bd42d9b9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d4950dce&x-expires=1792047600&x-signature=5DLlZLfD4huJLo0GQvsiYg%2B7ohs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8"
+  },
+  "input": "cascadapdx",
+  "note": "Profile has no videos (or is behind a login wall)"
+},
+{
+  "error": "This profile/hashtag does not exist.",
+  "errorCode": "NOT_FOUND",
+  "url": "https://www.tiktok.com/@seattle.sauna",
+  "input": "seattle.sauna"
+},
+{
+  "id": "7693757968923249940",
+  "text": "I challenge you to a dance off",
+  "textLanguage": "en",
+  "createTime": 1791342628,
+  "createTimeISO": "2026-10-07T03:10:28.000Z",
+  "isAd": false,
+  "hasTikTokShopProduct": false,
+  "authorMeta": {
+    "id": "7225891676186936322",
+    "name": "saunaboatmelbourne",
+    "profileUrl": "https://www.tiktok.com/@saunaboatmelbourne",
+    "nickName": "saunaboatmelbourne",
+    "verified": false,
+    "signature": "Melbournes first floating sauna.\nhttps://www.saunaboatmelbourne.com.au",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1682409037,
+    "hasActiveStory": false,
+    "following": 167,
+    "friends": 50,
+    "fans": 970,
+    "heart": 20700,
+    "video": 86,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+  },
+  "musicMeta": {
+    "musicName": "original sound",
+    "musicAuthor": "saunaboatmelbourne",
+    "musicOriginal": true,
+    "playUrl": "https://v16m.tiktokcdn-us.com/afac85402bfcd685a490045f48cc3be4/6ace38bc/video/tos/alisg/tos-alisg-v-27dcd7/osEIAGBQIAL3DfNeoArWZgVJ4MTUiEfZIQBCAn/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThLI9OGXq8Zmo&mime_type=audio_mpeg&rc=MzQ0NHQ5cjx1ZTMzODU8NEBpMzQ0NHQ5cjx1ZTMzODU8NEAuXmZtMmRrZC9hLS1kMS1zYSMuXmZtMmRrZC9hLS1kMS1zcw%3D%3D&vvpl=1&l=2026101307570309DD183EF15B54556823&btag=e00070000",
+    "coverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "originalCoverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "musicId": "7693758007633890066"
+  },
+  "webVideoUrl": "https://www.tiktok.com/@saunaboatmelbourne/video/7693757968923249940",
+  "videoMeta": {
+    "height": 1024,
+    "width": 576,
+    "duration": 13,
+    "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oUtBMgqIFLRDrBKugUcCbfEXFEARrDx2Zpeb2I~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=oXV0ORFgAQBUxIMAw6PymPrBtME%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+    "definition": "540p",
+    "format": "mp4",
+    "subtitleLinks": null,
+    "transcriptionLink": null,
+    "aiVideoDescription": null,
+    "aiVideoSummary": null,
+    "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oUtBMgqIFLRDrBKugUcCbfEXFEARrDx2Zpeb2I~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=oXV0ORFgAQBUxIMAw6PymPrBtME%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  "diggCount": 9,
+  "shareCount": 0,
+  "playCount": 528,
+  "collectCount": 0,
+  "commentCount": 0,
+  "repostCount": 0,
+  "mentions": [],
+  "detailedMentions": [],
+  "hashtags": [],
+  "effectStickers": [],
+  "isSlideshow": false,
+  "isPinned": false,
+  "isSponsored": false,
+  "shortDramaSeriesInfo": null,
+  "mediaUrls": [],
+  "input": "saunaboatmelbourne",
+  "fromProfileSection": "videos",
+  "isStory": false,
+  "commentsDatasetUrl": null
+},
+{
+  "id": "7693756416162663701",
+  "text": "Rolling upto the sauna with crew ",
+  "textLanguage": "en",
+  "createTime": 1791342268,
+  "createTimeISO": "2026-10-07T03:04:28.000Z",
+  "isAd": false,
+  "hasTikTokShopProduct": false,
+  "authorMeta": {
+    "id": "7225891676186936322",
+    "name": "saunaboatmelbourne",
+    "profileUrl": "https://www.tiktok.com/@saunaboatmelbourne",
+    "nickName": "saunaboatmelbourne",
+    "verified": false,
+    "signature": "Melbournes first floating sauna.\nhttps://www.saunaboatmelbourne.com.au",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1682409037,
+    "hasActiveStory": false,
+    "following": 167,
+    "friends": 50,
+    "fans": 970,
+    "heart": 20700,
+    "video": 86,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+  },
+  "musicMeta": {
+    "musicName": "oryginalny dźwięk",
+    "musicAuthor": "🥀kasyniak🥀",
+    "musicOriginal": true,
+    "playUrl": "https://v16m.tiktokcdn-us.com/b408e64d734abc240de7506b4770f1d0/6ace38b7/video/tos/useast2a/tos-useast2a-v-2370-euttp/oYAMRke8GQGQUe0UE5LAMZTPXDeOUAGQIogMo3/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThLI9OGXq8Zmo&mime_type=audio_mpeg&rc=am9manc5cjRsPDMzZjU8NUBpam9manc5cjRsPDMzZjU8NUBucGw0MmRzMmthLS1kMTNzYSNucGw0MmRzMmthLS1kMTNzcw%3D%3D&vvpl=1&l=2026101307570309DD183EF15B54556823&btag=e00070000",
+    "coverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/3f5967318f42ffa454989364fa5d12f5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7539e9dd&x-expires=1792047600&x-signature=mVMclSydnzEFMxObyku8Y6x7ttQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "originalCoverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/3f5967318f42ffa454989364fa5d12f5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7539e9dd&x-expires=1792047600&x-signature=mVMclSydnzEFMxObyku8Y6x7ttQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "musicId": "7669386648915807009"
+  },
+  "webVideoUrl": "https://www.tiktok.com/@saunaboatmelbourne/video/7693756416162663701",
+  "videoMeta": {
+    "height": 1024,
+    "width": 576,
+    "duration": 14,
+    "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oofOtvrbt1NkIwi5tSUivCPBAbiqYIIFt1uADA~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=Z%2FWmGndHxdDox7pyLDbMEK%2BgTLk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+    "definition": "540p",
+    "format": "mp4",
+    "subtitleLinks": [
+      {
+        "language": "eng-US",
+        "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/2447fb23f6f927fb1ccef9dd9294c29d/6ad0875d/video/tos/alisg/tos-alisg-pv-0037/9c2a4613245742bd9ecd1c53b1935832/?a=1988&bti=ODszNWYuMDE6&&bt=3810&ft=aEKq_qT0mIoPD12zolJI3wU8iCAbMeF~O5&mime_type=video_mp4&rc=M2k8bW85cjp1ZTMzODczNEBpM2k8bW85cjp1ZTMzODczNEBpNl5rMmRjYS9hLS1kMWBzYSNpNl5rMmRjYS9hLS1kMWBzcw%3D%3D&l=2026101307570309DD183EF15B54556823&btag=e00078000",
+        "source": "ASR",
+        "sourceUnabbreviated": "automatic speech recognition",
+        "version": "1:big_caption",
+        "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/2447fb23f6f927fb1ccef9dd9294c29d/6ad0875d/video/tos/alisg/tos-alisg-pv-0037/9c2a4613245742bd9ecd1c53b1935832/?a=1988&bti=ODszNWYuMDE6&&bt=3810&ft=aEKq_qT0mIoPD12zolJI3wU8iCAbMeF~O5&mime_type=video_mp4&rc=M2k8bW85cjp1ZTMzODczNEBpM2k8bW85cjp1ZTMzODczNEBpNl5rMmRjYS9hLS1kMWBzYSNpNl5rMmRjYS9hLS1kMWBzcw%3D%3D&l=2026101307570309DD183EF15B54556823&btag=e00078000"
+      }
+    ],
+    "transcriptionLink": null,
+    "aiVideoDescription": null,
+    "aiVideoSummary": null,
+    "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oofOtvrbt1NkIwi5tSUivCPBAbiqYIIFt1uADA~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=Z%2FWmGndHxdDox7pyLDbMEK%2BgTLk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  "diggCount": 11,
+  "shareCount": 0,
+  "playCount": 629,
+  "collectCount": 1,
+  "commentCount": 0,
+  "repostCount": 0,
+  "mentions": [],
+  "detailedMentions": [],
+  "hashtags": [],
+  "effectStickers": [],
+  "isSlideshow": false,
+  "isPinned": false,
+  "isSponsored": false,
+  "shortDramaSeriesInfo": null,
+  "mediaUrls": [],
+  "input": "saunaboatmelbourne",
+  "fromProfileSection": "videos",
+  "isStory": false,
+  "commentsDatasetUrl": null
+},
+{
+  "id": "7674541949185035541",
+  "text": "Ya’ll catch on eventually ",
+  "textLanguage": "en",
+  "createTime": 1786868552,
+  "createTimeISO": "2026-08-16T08:22:32.000Z",
+  "isAd": false,
+  "hasTikTokShopProduct": false,
+  "authorMeta": {
+    "id": "7225891676186936322",
+    "name": "saunaboatmelbourne",
+    "profileUrl": "https://www.tiktok.com/@saunaboatmelbourne",
+    "nickName": "saunaboatmelbourne",
+    "verified": false,
+    "signature": "Melbournes first floating sauna.\nhttps://www.saunaboatmelbourne.com.au",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1682409037,
+    "hasActiveStory": false,
+    "following": 167,
+    "friends": 50,
+    "fans": 970,
+    "heart": 20700,
+    "video": 86,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+  },
+  "musicMeta": {
+    "musicName": "Comedy Humor Funny Antique ninety six",
+    "musicAuthor": "Angel",
+    "musicOriginal": false,
+    "musicAlbum": "喜剧幽默搞笑古风  four",
+    "coverMediumUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-v-2774/oAAwAbJknAPk8AvtcGDebfQT8BDQD0GgagZSyC~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9640&refresh_token=dbc43e81&x-expires=1791896400&x-signature=i1gzz5eT7dJiKq2rMshuuEFwuMg%3D&t=4d5b0474&ps=13740610&shp=08d74b56&shcp=81f88b70&idc=useast8",
+    "originalCoverMediumUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-v-2774/oAAwAbJknAPk8AvtcGDebfQT8BDQD0GgagZSyC~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9640&refresh_token=dbc43e81&x-expires=1791896400&x-signature=i1gzz5eT7dJiKq2rMshuuEFwuMg%3D&t=4d5b0474&ps=13740610&shp=08d74b56&shcp=81f88b70&idc=useast8",
+    "musicId": "7492240950598846514"
+  },
+  "locationMeta": {
+    "address": "84 Newquay Promenade, Docklands VIC 3008, Australia",
+    "city": "Melbourne",
+    "cityCode": "2158177",
+    "countryCode": "2077456",
+    "locationName": "Sauna Boat Melbourne",
+    "locationId": "42203860961917124"
+  },
+  "webVideoUrl": "https://www.tiktok.com/@saunaboatmelbourne/video/7674541949185035541",
+  "videoMeta": {
+    "height": 962,
+    "width": 540,
+    "duration": 5,
+    "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oI1DuUBoXAyILAiI3ASIc0kBIQCwwLfOImcBin~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=eaGLSLJtpxSwWwDd7EivV46MtOc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+    "definition": "540p",
+    "format": "mp4",
+    "subtitleLinks": null,
+    "transcriptionLink": null,
+    "aiVideoDescription": null,
+    "aiVideoSummary": null,
+    "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oI1DuUBoXAyILAiI3ASIc0kBIQCwwLfOImcBin~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=eaGLSLJtpxSwWwDd7EivV46MtOc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  "diggCount": 12,
+  "shareCount": 0,
+  "playCount": 749,
+  "collectCount": 0,
+  "commentCount": 0,
+  "repostCount": 0,
+  "mentions": [],
+  "detailedMentions": [],
+  "hashtags": [],
+  "effectStickers": [],
+  "isSlideshow": false,
+  "isPinned": false,
+  "isSponsored": false,
+  "shortDramaSeriesInfo": null,
+  "mediaUrls": [],
+  "input": "saunaboatmelbourne",
+  "fromProfileSection": "videos",
+  "isStory": false,
+  "commentsDatasetUrl": null
+},
+{
+  "id": "7674539959394569492",
+  "text": "Yeeeeehaw ",
+  "textLanguage": "en",
+  "createTime": 1786868085,
+  "createTimeISO": "2026-08-16T08:14:45.000Z",
+  "isAd": false,
+  "hasTikTokShopProduct": false,
+  "authorMeta": {
+    "id": "7225891676186936322",
+    "name": "saunaboatmelbourne",
+    "profileUrl": "https://www.tiktok.com/@saunaboatmelbourne",
+    "nickName": "saunaboatmelbourne",
+    "verified": false,
+    "signature": "Melbournes first floating sauna.\nhttps://www.saunaboatmelbourne.com.au",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1682409037,
+    "hasActiveStory": false,
+    "following": 167,
+    "friends": 50,
+    "fans": 970,
+    "heart": 20700,
+    "video": 86,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8076932b5ac3dd8746289b1211f749f1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18309099&x-expires=1792047600&x-signature=mTN909qdn6y4iHCntN%2FtOGJYbNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+  },
+  "musicMeta": {
+    "musicName": "original sound",
+    "musicAuthor": "mel Pandora",
+    "musicOriginal": true,
+    "playUrl": "https://v16m.tiktokcdn-us.com/766738589d2b06da33212f960bc58121/6ace38b9/video/tos/no1a/tos-no1a-v-2370-no/osCoJHSooIkAUAFv6BtFwFUEI7DAYeCaPgfXhY/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThLI9OGXq8Zmo&mime_type=audio_mpeg&rc=ajRwNnE5cjY6NTMzbzU8NUBpajRwNnE5cjY6NTMzbzU8NUAxbjBqMmRzXm5hLS1kMTFzYSMxbjBqMmRzXm5hLS1kMTFzcw%3D%3D&vvpl=1&l=2026101307570309DD183EF15B54556823&btag=e000f0000",
+    "coverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/03d0e10c393b2fb63a3abbfebf959b45~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=34ee458c&x-expires=1792047600&x-signature=AfBagg2R%2BYhGqpStzfLsksgBz7w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "originalCoverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/03d0e10c393b2fb63a3abbfebf959b45~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=34ee458c&x-expires=1792047600&x-signature=AfBagg2R%2BYhGqpStzfLsksgBz7w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "musicId": "7544783951699725078"
+  },
+  "webVideoUrl": "https://www.tiktok.com/@saunaboatmelbourne/video/7674539959394569492",
+  "videoMeta": {
+    "height": 1024,
+    "width": 576,
+    "duration": 10,
+    "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oMB4Ac3ggFyAeEXEIqEDsXfsIhd2gEntBcBwjR~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=Y7bzKdYt2q6LIm8%2BtPhRM3fas1U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+    "definition": "540p",
+    "format": "mp4",
+    "subtitleLinks": [
+      {
+        "language": "eng-US",
+        "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/4f3974195e8a9368f46d07317b0441be/6ad08759/video/tos/alisg/tos-alisg-pv-0037/b07fb33259b64d6290580501675db563/?a=1988&bti=ODszNWYuMDE6&&bt=4051&ft=aEKq_qT0mIoPD12zolJI3wU8iCAbMeF~O5&mime_type=video_mp4&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmM3F4ZXA5cmZxZDMzODczNEBpM3F4ZXA5cmZxZDMzODczNEBjRl5Nc3FePmJKYSNvYF90aHFmOiNqNGBjMmQ0Ly1hLS1kMWBzYSNqNGBjMmQ0Ly1hLS1kMWBzcw%3D%3D&l=2026101307570309DD183EF15B54556823&btag=e00070000",
+        "source": "ASR",
+        "sourceUnabbreviated": "automatic speech recognition",
+        "version": "1:big_caption",
+        "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/4f3974195e8a9368f46d07317b0441be/6ad08759/video/tos/alisg/tos-alisg-pv-0037/b07fb33259b64d6290580501675db563/?a=1988&bti=ODszNWYuMDE6&&bt=4051&ft=aEKq_qT0mIoPD12zolJI3wU8iCAbMeF~O5&mime_type=video_mp4&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmM3F4ZXA5cmZxZDMzODczNEBpM3F4ZXA5cmZxZDMzODczNEBjRl5Nc3FePmJKYSNvYF90aHFmOiNqNGBjMmQ0Ly1hLS1kMWBzYSNqNGBjMmQ0Ly1hLS1kMWBzcw%3D%3D&l=2026101307570309DD183EF15B54556823&btag=e00070000"
+      }
+    ],
+    "transcriptionLink": null,
+    "aiVideoDescription": null,
+    "aiVideoSummary": null,
+    "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oMB4Ac3ggFyAeEXEIqEDsXfsIhd2gEntBcBwjR~tplv-tiktokx-origin.image?dr=9636&x-expires=1792047600&x-signature=Y7bzKdYt2q6LIm8%2BtPhRM3fas1U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  "diggCount": 10,
+  "shareCount": 0,
+  "playCount": 581,
+  "collectCount": 0,
+  "commentCount": 1,
+  "repostCount": 0,
+  "mentions": [],
+  "detailedMentions": [],
+  "hashtags": [],
+  "effectStickers": [],
+  "isSlideshow": false,
+  "isPinned": false,
+  "isSponsored": false,
+  "shortDramaSeriesInfo": null,
+  "mediaUrls": [],
+  "input": "saunaboatmelbourne",
+  "fromProfileSection": "videos",
+  "isStory": false,
+  "commentsDatasetUrl": null
+},
+{
+  "authorMeta": {
+    "id": "6953441758744200197",
+    "name": "skunaboats",
+    "profileUrl": "https://www.tiktok.com/@skunaboats",
+    "nickName": "skunaboats",
+    "verified": false,
+    "signature": "",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7327300378277380101~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3eb48202&x-expires=1792047600&x-signature=IDxZIER6N0WkCto090N4FXpx1UQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1618986358,
+    "hasActiveStory": false,
+    "following": 0,
+    "friends": 0,
+    "fans": 26,
+    "heart": 0,
+    "video": 0,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7327300378277380101~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3eb48202&x-expires=1792047600&x-signature=IDxZIER6N0WkCto090N4FXpx1UQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+  },
+  "input": "skunaboats",
+  "note": "Profile has no videos (or is behind a login wall)"
+},
+{
+  "id": "7687723829317078285",
+  "text": "Just one more month left to bake by the lake in Door County 🌲🍂\n\nSecure your session at kilnfloatingsauna.com/book\n\n#doorcounty #baileysharbor #floatingsauna #lakemichigan #thingstodoindoorcounty ",
+  "textLanguage": "en",
+  "createTime": 1789937705,
+  "createTimeISO": "2026-09-20T20:55:05.000Z",
+  "isAd": false,
+  "hasTikTokShopProduct": false,
+  "authorMeta": {
+    "id": "7584605504492831799",
+    "name": "kilnfloatingsauna",
+    "profileUrl": "https://www.tiktok.com/@kilnfloatingsauna",
+    "nickName": "kilnfloatingsauna",
+    "verified": false,
+    "signature": "Bake by the lake\nkilnfloatingsauna.com\n@kilnfloatingsauna on Instagram",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/cb228ec6877cdc0a1655f5679f1006f2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fd22b262&x-expires=1792047600&x-signature=meobR4dWN1WQoQQu4b%2BJ1beWP9s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1765928609,
+    "hasActiveStory": false,
+    "following": 19,
+    "friends": 9,
+    "fans": 748,
+    "heart": 3617,
+    "video": 18,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/cb228ec6877cdc0a1655f5679f1006f2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fd22b262&x-expires=1792047600&x-signature=meobR4dWN1WQoQQu4b%2BJ1beWP9s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8"
+  },
+  "musicMeta": {
+    "musicName": "original sound",
+    "musicAuthor": "kilnfloatingsauna",
+    "musicOriginal": true,
+    "playUrl": "https://v16m.tiktokcdn-us.com/b3807c6c3d5857e427e9a7b57bf6e05f/6ace38c2/video/tos/useast5/tos-useast5-v-27dcd7-tx/ooKrawlA9StUCEABSBCvACu7ig49zKAqI0iqE/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThBI9OGXq8Zmo&mime_type=audio_mpeg&rc=M3dzZ3U5cmQ3ZDMzZzU8NEBpM3dzZ3U5cmQ3ZDMzZzU8NEBpMjIyMmRrZGxhLS1kMS9zYSNpMjIyMmRrZGxhLS1kMS9zcw%3D%3D&vvpl=1&l=202610130757062E492CE8C6170B643835&btag=e00078000",
+    "coverMediumUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/cb228ec6877cdc0a1655f5679f1006f2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4e94e65f&x-expires=1792047600&x-signature=5p0MNKI49re9VuGKKb4XZuBRfes%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "originalCoverMediumUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/cb228ec6877cdc0a1655f5679f1006f2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4e94e65f&x-expires=1792047600&x-signature=5p0MNKI49re9VuGKKb4XZuBRfes%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "musicId": "7687723864100555534"
+  },
+  "locationMeta": {
+    "address": "1420 Pine Dr, Baileys Harbor, WI 54202, USA",
+    "city": "Baileys Harbor",
+    "cityCode": "5244519",
+    "countryCode": "6252001",
+    "locationName": "Kiln Floating Sauna",
+    "locationId": "42203861104614515"
+  },
+  "webVideoUrl": "https://www.tiktok.com/@kilnfloatingsauna/video/7687723829317078285",
+  "videoMeta": {
+    "height": 1280,
+    "width": 720,
+    "duration": 16,
+    "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocsCwAhxCJAcHiI1CWifBBwaHStAQPErIAB7CT~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/oQQDqsAqVqnEECiJlegDZHAAEFSEgcAIKgfFRk.image?dr=9634&x-expires=1792047600&x-signature=CLDPGwnFf2TGEYhv0V9npDU%2FdlI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "definition": "720p",
+    "format": "mp4",
+    "subtitleLinks": null,
+    "transcriptionLink": null,
+    "aiVideoDescription": null,
+    "aiVideoSummary": null,
+    "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocsCwAhxCJAcHiI1CWifBBwaHStAQPErIAB7CT~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/oQQDqsAqVqnEECiJlegDZHAAEFSEgcAIKgfFRk.image?dr=9634&x-expires=1792047600&x-signature=CLDPGwnFf2TGEYhv0V9npDU%2FdlI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  "diggCount": 26,
+  "shareCount": 0,
+  "playCount": 487,
+  "collectCount": 0,
+  "commentCount": 4,
+  "repostCount": 0,
+  "mentions": [],
+  "detailedMentions": [],
+  "hashtags": [
+    {
+      "id": null,
+      "name": "doorcounty",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "baileysharbor",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "floatingsauna",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "lakemichigan",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "thingstodoindoorcounty",
+      "title": null,
+      "cover": null
+    }
+  ],
+  "effectStickers": [],
+  "isSlideshow": false,
+  "isPinned": false,
+  "isSponsored": false,
+  "shortDramaSeriesInfo": null,
+  "mediaUrls": [],
+  "input": "kilnfloatingsauna",
+  "fromProfileSection": "videos",
+  "isStory": false,
+  "commentsDatasetUrl": null
+},
+{
+  "id": "7674350888604978446",
+  "text": "#floatingsauna #sauna #doorcounty #wisconsin #chic ",
+  "textLanguage": "un",
+  "createTime": 1786824083,
+  "createTimeISO": "2026-08-15T20:01:23.000Z",
+  "isAd": false,
+  "hasTikTokShopProduct": false,
+  "authorMeta": {
+    "id": "7584605504492831799",
+    "name": "kilnfloatingsauna",
+    "profileUrl": "https://www.tiktok.com/@kilnfloatingsauna",
+    "nickName": "kilnfloatingsauna",
+    "verified": false,
+    "signature": "Bake by the lake\nkilnfloatingsauna.com\n@kilnfloatingsauna on Instagram",
+    "bioLink": null,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/cb228ec6877cdc0a1655f5679f1006f2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fd22b262&x-expires=1792047600&x-signature=meobR4dWN1WQoQQu4b%2BJ1beWP9s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "commerceUserInfo": {
+      "commerceUser": false
+    },
+    "privateAccount": false,
+    "roomId": "",
+    "ttSeller": false,
+    "createTime": 1765928609,
+    "hasActiveStory": false,
+    "following": 19,
+    "friends": 9,
+    "fans": 748,
+    "heart": 3617,
+    "video": 18,
+    "digg": 0,
+    "followDatasetUrl": null,
+    "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/cb228ec6877cdc0a1655f5679f1006f2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fd22b262&x-expires=1792047600&x-signature=meobR4dWN1WQoQQu4b%2BJ1beWP9s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8"
+  },
+  "musicMeta": {
+    "musicName": "original sound - stevelacyoffline",
+    "musicAuthor": "stevelacyoffline (fan)",
+    "musicOriginal": true,
+    "playUrl": "https://v16m.tiktokcdn-us.com/36805b8e2ea5331f51859053d7e287f7/6ace38c5/video/tos/alisg/tos-alisg-v-27dcd7/oEIThgYUorSnODGUCAewLvEgJTQefpTZD1zUSo/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThBI9OGXq8Zmo&mime_type=audio_mpeg&rc=OWhmZGhmOzRlN2lkNDhlaEBpM2k0eHQ5cnV0PDMzODU8NEA2My0vXi4vXy8xY181LTBfYSNgXmMyMmQ0aGdhLS1kMS1zcw%3D%3D&vvpl=1&l=202610130757062E492CE8C6170B643835&btag=e000f8000",
+    "coverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/1066536a554aa06675cc18bba05a07b2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c4e5ed87&x-expires=1792047600&x-signature=ZmfeFS83oDt9q%2FNB2nqqN22oVro%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "originalCoverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/1066536a554aa06675cc18bba05a07b2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c4e5ed87&x-expires=1792047600&x-signature=ZmfeFS83oDt9q%2FNB2nqqN22oVro%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "musicId": "7667284290392083221"
+  },
+  "webVideoUrl": "https://www.tiktok.com/@kilnfloatingsauna/video/7674350888604978446",
+  "videoMeta": {
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2a6e7090f15746e7a877a41718501dd6~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=3j7SjcjqEfQc1zkg7O%2FEZwb%2Fgv8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+    "subtitleLinks": null,
+    "transcriptionLink": null,
+    "aiVideoDescription": null,
+    "aiVideoSummary": null,
+    "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2a6e7090f15746e7a877a41718501dd6~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=3j7SjcjqEfQc1zkg7O%2FEZwb%2Fgv8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+  },
+  "diggCount": 91,
+  "shareCount": 2,
+  "playCount": 1481,
+  "collectCount": 5,
+  "commentCount": 0,
+  "repostCount": 0,
+  "mentions": [],
+  "detailedMentions": [],
+  "hashtags": [
+    {
+      "id": null,
+      "name": "floatingsauna",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "sauna",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "doorcounty",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "wisconsin",
+      "title": null,
+      "cover": null
+    },
+    {
+      "id": null,
+      "name": "chic",
+      "title": null,
+      "cover": null
+    }
+  ],
+  "effectStickers": [],
+  "isSlideshow": true,
+  "slideshowImageLinks": [
+    {
+      "tiktokLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2a6e7090f15746e7a877a41718501dd6~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=J8SE%2FVoNPhGH%2BfH%2Bv%2FxSKr5a%2Fs4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2a6e7090f15746e7a877a41718501dd6~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=J8SE%2FVoNPhGH%2BfH%2Bv%2FxSKr5a%2Fs4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2ee8bec141604f33bf2daa152622576b~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=fPjf%2FqsQ71qAq8IVvbmAVnMQIEw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2ee8bec141604f33bf2daa152622576b~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=fPjf%2FqsQ71qAq8IVvbmAVnMQIEw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/452eadd591a344ccbd671d384800ec2c~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=dBEfIsAwOIeJhgFnQb9BZEXw8Ds%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/452eadd591a344ccbd671d384800ec2c~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=dBEfIsAwOIeJhgFnQb9BZEXw8Ds%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/71794e6ffe5240fe95e5c816e4e34079~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=P2qfuvnTqgBEG4QHy6rT3MWcVbQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/71794e6ffe5240fe95e5c816e4e34079~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=P2qfuvnTqgBEG4QHy6rT3MWcVbQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/8328e411e095482489205dae5b7aa732~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=isnLSqRGe4n%2B6ipnQW4URww2hPI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/8328e411e095482489205dae5b7aa732~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=isnLSqRGe4n%2B6ipnQW4URww2hPI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/9b5c28a0572e4ce3baa10d568ec7457f~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=%2FBDwAeQbSzv%2FfsC5ZkYXO0rRit4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/9b5c28a0572e4ce3baa10d568ec7457f~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=%2FBDwAeQbSzv%2FfsC5ZkYXO0rRit4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/77a485ff5459491fb47e77e091df3181~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=5CT7A6AJMqUfEZkr3%2FuGZD%2FvTGY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/77a485ff5459491fb47e77e091df3181~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=5CT7A6AJMqUfEZkr3%2FuGZD%2FvTGY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2c244caa65ae408299edd97a8d0c551e~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=ei7yMxQsY1I1bcpLjgzYq4FBo%2F4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/2c244caa65ae408299edd97a8d0c551e~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=ei7yMxQsY1I1bcpLjgzYq4FBo%2F4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    },
+    {
+      "tiktokLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/49d5688726a940a38e7caacdb2a0c457~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=5eMXV5LX%2FXGOmUjjHtnb29JGt1g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+      "downloadLink": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/49d5688726a940a38e7caacdb2a0c457~tplv-photomode-image.jpeg?dr=9616&x-expires=1792047600&x-signature=5eMXV5LX%2FXGOmUjjHtnb29JGt1g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+    }
+  ],
+  "isPinned": false,
+  "isSponsored": false,
+  "shortDramaSeriesInfo": null,
+  "mediaUrls": [],
+  "input": "kilnfloatingsauna",
+  "fromProfileSection": "videos",
+  "isStory": false,
+  "commentsDatasetUrl": null
+},
+{
+  "error": "This profile/hashtag does not exist.",
+  "errorCode": "NOT_FOUND",
+  "url": "https://www.tiktok.com/@redrock.sauna",
+  "input": "redrock.sauna"
+},
+{
+  "error": "This profile/hashtag does not exist.",
+  "errorCode": "NOT_FOUND",
+  "url": "https://www.tiktok.com/@saunoafloatingsauna",
+  "input": "saunoafloatingsauna"
+}]

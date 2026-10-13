@@ -1,6 +1,6 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-10-12 (FareHarbor's 4-of-7-day basis rolled forward and dropped yesterday's strong day, picking up a weak Sunday instead: bookings down to 34 (-4 vs avg), revenue down to $4,180 (-$2,461 vs avg). NKST and HPB both booked well below their recent pace yesterday; NPB's revenue dipped too. Buffalo Bayou's Kirk Craig review is now 12 days unreplied. New today: a GSC indexing alert on houstonpedalbarge.com, and the Google Ads "Gravity Trails \| NOLA" umbrella is running a thin 1.46 ROAS / $131.67 CPA over the trailing 7 days. TikTok (HPB) pull failed again — this time on a Playwright browser connection error (ECONNREFUSED), not a login issue.)*
+*Last refresh: 2026-10-13 (NKST's GBP reply backlog doubled overnight (5→10) as 5 new 5★ reviews landed with zero replies; NPB holds at 10 unreplied with 3 new arrivals pushing 3 older ones off page 1. NPB's Google Ads just posted a second straight zero-conversion day ($136.89 yesterday, $171.12 the day before). A campaign-level pull resolved the Gravity Trails \| NOLA umbrella ambiguity — it's 100% NPB spend, not shared with NKST/Bike Bar/Admire NOLA. HPB remains fully dark on Google Ads with $0 FH bookings yesterday. Good news: Buffalo Bayou's Kirk Craig 1★ review finally got a reply, closing out the portfolio's last open negative review. TikTok (HPB) pull failed again — still ECONNREFUSED, not a login issue.)*
 
 ## Right now
 - [[Daily Briefings/2026-10-12|Today's brief]]
@@ -10,23 +10,23 @@
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Buffalo Bayou Kayak — Kirk Craig's 1★ review is now 12 days unreplied.** [Reply here](https://business.google.com/n/12969424608141307230/reviews).
-2. **Houston Pedal Barge — booked just 1 ride / $60 yesterday** vs a ~2 bookings / $302 trailing 4-day average (down 50%/80%), and Google Ads is still fully dark on top of it.
-3. **New Orleans Kayak Swamp Tours — booked only 1 tour / $780 yesterday** vs a ~5 bookings / $1,296 trailing 4-day average (count down 80%).
+1. **NPB & NKST — GBP review-reply backlog is actively growing.** NKST doubled overnight (5→10 unreplied); NPB holds at 10 with 3 new arrivals burying 3 older ones. [Reply to NPB](https://business.google.com/n/16753778394051046706/reviews) · [Reply to NKST](https://business.google.com/n/10129422728201342552/reviews)
+2. **NOLA Party Barge — Google Ads' second straight zero-conversion day.** $136.89 spent yesterday, 0 conversions; $171.12 the day before, also 0. $308 over 2 days with nothing to show, though the 7-day CPA ($104.47) is still healthy.
+3. **Houston Pedal Barge — nothing is actively selling this business.** Google Ads $0 yesterday and $0 over the trailing 7 days; FH bookings also hit zero yesterday.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
 | Signal | Yesterday | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread | 10 | — (not tracked prior run in comparable form) | n/a |
-| Unreplied GBP reviews (all biz) | 28 (1×1★, 27×4-5★) | 28 (prior brief) | +0 |
-| FH bookings (all biz) | 34 | ~38/day (basis: 4 of 7 days) | -4 |
-| FH revenue (all biz) | $4,180 | ~$6,641/day (basis: 4 of 7 days) | -$2,461 |
-| Total ad spend (Google + Meta) | $541.22 | ~$671.43/day (full 7-day basis, both channels) | -$130.21 |
-| Total ad-attributed conversions | ~7.96 | ~9.3/day (full 7-day basis, both channels) | -1.34 |
+| Gmail unread | 6 | — (not tracked in comparable form) | n/a |
+| Unreplied GBP reviews (all biz) | 34 (0×1-3★, 34×4-5★) | 28 (prior brief) | +6 |
+| FH bookings (all biz) | 14 | 33.2/day (basis: 5 of 7 days) | -19.2 |
+| FH revenue (all biz) | $2,775 | $5,467.80/day (basis: 5 of 7 days) | -$2,692.80 |
+| Total ad spend (Google + Meta) | $446.04 | $382.88/day (Google-only; Meta 7-day not sampled) | n/a |
+| Total ad-attributed conversions | ~1.24 | ~6.48/day (Google-only) | n/a |
 <!-- pulse:end -->
-*FareHarbor's 7-day comparison basis holds at 4 of 7 real days (10/8, 10/9, 10/10, 10/11), window rolled forward and dropped a strong day while picking up a weak one. NKST, HPB, and NPB all booked below their recent pace yesterday. DCKT and HPB remain fully dark on Google Ads. Buffalo Bayou's Kirk Craig review is 12 days unreplied. New GSC indexing alert on houstonpedalbarge.com, unverified scope. No `meta-organic` MCP connected this session (Instagram organic skipped). TikTok (HPB) pull failed — Playwright browser unreachable (ECONNREFUSED), not a login issue. Full writeup in today's brief.*
+*FareHarbor's comparison basis is 5 of 7 real days (10/8-10/12; 10/6 and 10/7 failed). NKST's review backlog doubled overnight; NPB's Google Ads posted a second straight zero-conversion day. A campaign-level pull resolved the Gravity Trails NOLA umbrella attribution — it's 100% NPB spend. HPB remains fully dark on Google Ads with $0 bookings yesterday. Buffalo Bayou's Kirk Craig review finally got a reply, closing the portfolio's last open negative review. No `meta-organic` MCP connected this session (Instagram organic skipped). TikTok (HPB) pull failed — still ECONNREFUSED, not a login issue. Full writeup in today's brief.*
 
 ## Business tiles
 
@@ -34,13 +34,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-10-12]] (today)
-- [[Daily Briefings/2026-10-11]] (1 day ago)
-- [[Daily Briefings/2026-10-10]] (2 days ago)
-- [[Daily Briefings/2026-10-09]] (3 days ago)
-- [[Daily Briefings/2026-10-08]] (4 days ago)
-- [[Daily Briefings/2026-10-07]] (5 days ago)
-- [[Daily Briefings/2026-10-06]] (6 days ago)
+- [[Daily Briefings/2026-10-13]] (today)
+- [[Daily Briefings/2026-10-12]] (1 day ago)
+- [[Daily Briefings/2026-10-11]] (2 days ago)
+- [[Daily Briefings/2026-10-10]] (3 days ago)
+- [[Daily Briefings/2026-10-09]] (4 days ago)
+- [[Daily Briefings/2026-10-08]] (5 days ago)
+- [[Daily Briefings/2026-10-07]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

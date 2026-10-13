@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "FH bookings down 80% vs 4-day avg (1 booking yesterday); 5 unreplied reviews unchanged"
-updated: 2026-10-12
+alert: "Review backlog doubled overnight (5→10 unreplied); brand term jumped to pos 6.6 from pos 18.4"
+updated: 2026-10-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$9,074/wk booked vs $4,000 target — 227% of goal, still well over but down from 258%.** Basis is 4 of 7 real FH days (10/8, 10/9, 10/10, 10/11); yesterday (10/11) booked just 1 tour / $780 vs the 4-day average of ~5 bookings — count down 80%. See today's brief Action Item #3.
-- **5 unreplied 5★ reviews, unchanged** — Kiana Hytrek (10/8), Katy Anthony (10/6), Roger Meister (10/1), I S. (9/25), Peter Pravikoff (9/24).
-- Brand term "new orleans kayak swamp tours" holding at pos 18.4 (9 clicks/66 impr, 8d) — still well off the pos 1-5 range most of the portfolio's brand terms sit at.
-- **Watched page ("Airboat vs Kayak" comparison) — new signal, still not converting.** Impressions are now showing up (~49 over 8 days, vs 0 at the June baseline), but clicks remain 0 and GA4 shows only 2 pageviews for the window. The page is being surfaced but not winning clicks — a title/meta rework is the next move, not more content.
+- **Goal pace: ~$8,386/wk booked vs $4,000 target — ~210% of goal, still well over but down from 227%.** Basis is 5 of 7 real FH days (10/8-10/12); yesterday (10/12) booked 5 bookings / $805 — bookings at pace but average ticket lower than the window average.
+- **Review backlog doubled overnight: 5 → 10 unreplied, all 5★.** 5 new arrivals since yesterday — Anthony Anker (10/13), Cecily Stelly, Sarah Gourley, Sam, Josh Horn (all 10/12) — landed on top of the existing Katy Anthony (10/6), Kiana Hytrek (10/8), Roger Meister (10/1), I S. (9/25) backlog with zero replies to any of them. See today's brief Action Item #1. [Reply here](https://business.google.com/n/10129422728201342552/reviews)
+- **Brand term "new orleans kayak swamp tours" jumped to pos 6.63** (9 clicks/51 impr, 8d) — a real improvement from the pos 18.4 reported yesterday. Worth watching if it holds.
+- **Watched page ("Airboat vs Kayak" comparison) — still flat vs baseline.** Impressions keep showing up (~50 over the pull window, vs 0 at the June baseline), but clicks remain 0 and GA4 shows only 2 pageviews. Still surfaced but not winning clicks — title/meta rework remains the next move.
 <!-- live:end -->
 
 ## Quick links

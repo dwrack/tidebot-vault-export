@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "education",
+ "mentor": "Ogilvy",
+ "title": "Before Your First Party Barge Cruise",
+ "brand": "hpb",
+ "why": "Warm planners booking a first cruise: answer the 3 questions that cause day-of problems (cooler, arrival, weather).",
+ "hook_options": [
+  "Three things to know before you board",
+  "Planning the cruise? Read this first.",
+  "The 60-second briefing for your first Clear Lake cruise"
+ ],
+ "caption": "Planning your group's first Clear Lake cruise? Three things: no glass in the cooler (cans and plastic only), show up early because public cruises can't wait, and rain is fine because the boat has a roof. Save this for whoever's planning. #houston #clearlake #bacheloretteparty #houstonbirthday #byob",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "First cruise?",
+   "headline": "Three things to know before you board",
+   "body": "Cooler rules, arrival time, and what happens if it rains. Save this for whoever's planning.",
+   "photo": "fb_2022-03-10_135428795660209.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-03-10_135428795660209.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "1 of 3",
+   "headline": "What goes in the cooler?"
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "Anything you like. Just no glass.",
+   "body": "BYOB and bring your own food. Cans and plastic only. Cupcakes are fine. Skip the cake and rice, too messy.",
+   "photo": "clear-lake-party-barge-friends-cans-on-deck.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/clear-lake-party-barge-friends-cans-on-deck.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "2 of 3",
+   "headline": "When should we get there?"
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "The answer",
+   "headline": "Early. Public cruises can't wait.",
+   "body": "Ubers cancel and traffic can be bad. Directions come with your booking, and every guest signs the waiver link before boarding.",
+   "photo": "pedal barge.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/pedal barge.jpg",
+   "pos": "center 40%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "3 of 3",
+   "headline": "What if the forecast looks bad?"
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "The answer",
+   "headline": "Rain is fine. Lightning isn't.",
+   "body": "The boat has a roof. We check the weather by 7am. If we cancel, you get a full refund or a free reschedule.",
+   "photo": "party-barge-roof-canopy-dockside-seabrook.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-roof-canopy-dockside-seabrook.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Also",
+   "headline": "Ages 8 and up. No dress code.",
+   "body": "Life jackets and a bathroom on board. A professional captain drives. You handle the playlist.",
+   "photo": "fb_2022-08-27_174690621734026.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-08-27_174690621734026.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "Recap",
+   "headline": "No glass. Show up early. Rain is fine.",
+   "body": "That's the whole briefing. The rest is your group, your music, and Clear Lake."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "Save this for the planner",
+   "headline": "Ready for your first one?",
+   "body": "Public cruises and private charters for up to 26 guests. Book at houstonpedalbarge.com.",
+   "photo": "fb_2023-04-30_246546577897091.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2023-04-30_246546577897091.jpg",
+   "pos": "center 40%",
+   "dark": false
+  }
+ ]
+}

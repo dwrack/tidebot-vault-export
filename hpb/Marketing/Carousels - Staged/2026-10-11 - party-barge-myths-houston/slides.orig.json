@@ -1,0 +1,113 @@
+{
+ "format": "functional",
+ "type": "myth-vs-fact",
+ "mentor": "Schwartz",
+ "title": "Party Barge Myths Houston Believes",
+ "brand": "hpb",
+ "round": 2,
+ "why": "Cold-audience pattern interrupt: knocks down the four objections that stop bookings (work, no waterfront, cost, who it's for).",
+ "hook_options": [
+  "Four things Houston gets wrong about party barges.",
+  "You have heard these. They are wrong.",
+  "Myth: it's a workout. Fact: keep reading."
+ ],
+ "caption": "Four things we hear every week about party barges, and the short honest answer to each. Clear Lake is closer than you think and a private boat costs about one bar tab. #HoustonPartyBarge #ClearLake #ThingsToDoInHouston #Kemah",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "MYTH VS FACT",
+   "headline": "Four things Houston gets wrong about party barges.",
+   "body": "We hear these every week. Here's the short version.",
+   "photo": "party-barge-crowd-dancing-houston-night.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-crowd-dancing-houston-night.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "You'll be working the whole time.",
+   "body": "People picture a workout on water and pass."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "The motor does the work.",
+   "body": "Fully motorized, captain at the wheel. You sit, sip, and point at Kemah."
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "Houston doesn't have a waterfront.",
+   "body": "Bayous, freeways, humidity. That's the reputation."
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "Clear Lake is 30 minutes from downtown.",
+   "body": "Seabrook, minutes past the Kemah Boardwalk. Open water that runs out to Galveston Bay.",
+   "photo": "party-barge-bow-view-clear-lake-marina.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-bow-view-clear-lake-marina.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "A private boat costs a fortune.",
+   "body": "Sounds like yacht money, so groups never ask."
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "A whole boat costs about one bar tab.",
+   "body": "Private charters start around $800 for up to 26. A 20-person Houston bar tab runs $600 to $800."
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "MYTH",
+   "headline": "It's only for bachelorettes.",
+   "body": "Bachelorettes love it. They're not the only ones on board."
+  },
+  {
+   "n": 9,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "FACT",
+   "headline": "Birthdays, teams, family in town.",
+   "body": "Ages 8 and up, no dress code. Birthday crowns and work polos both make the boat.",
+   "photo": "party-barge-birthday-crowd-houston.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-birthday-crowd-houston.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "indigo",
+   "kicker": "",
+   "headline": "Myths busted. Book the real thing.",
+   "body": "Public cruises and private charters out of Seabrook. houstonpedalbarge.com",
+   "photo": "party-barge-guests-at-the-bar-table.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-guests-at-the-bar-table.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

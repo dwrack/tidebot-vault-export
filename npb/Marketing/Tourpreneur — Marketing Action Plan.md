@@ -4,6 +4,31 @@
 
 ---
 
+## 🔵 Instagram Carousels (staged Oct 10-11, 2026)
+
+10 carousels written and staged, nothing rendered or posted. **Review after taxes are filed (Oct 15). Target: week of Oct 19.**
+
+- [ ] Review all 10 on the board: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/index.html` (Approve / Fix / Kill + notes, then hit "Copy my notes for Claude")
+- [ ] Pick favorites from the funny hooks page: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/hooks.html`
+- [ ] Decide: Confirm price on slides: $1,200 / $59 pp vs $1,250 / $63 pp
+- [ ] Claude applies fixes and renders approved ones to PNG
+- [ ] Approve caption + posting schedule, then Claude posts (nothing posts without your OK)
+
+Carousels (folders in `Marketing/Carousels - Staged/`):
+
+- [ ] Your First BYOB Boat (education) · `2026-10-10 - first-byob-boat-new-orleans-what-to-bring`
+- [ ] Halloween Weekend, Local Style (insider) · `2026-10-10 - halloween-weekend-new-orleans-locals-plan`
+- [ ] Not Another Bar Crawl (belief) · `2026-10-10 - not-another-bourbon-street-bar-crawl`
+- [ ] Private, Social, or Eco? (decision) · `2026-10-10 - private-boat-social-seat-or-eco-tour`
+- [ ] The Swamp Is 7 Miles Away (hook) · `2026-10-10 - swamp-tour-7-miles-from-french-quarter`
+- [ ] By the Numbers (numbers) · `2026-10-11 - bayou-party-boat-by-the-numbers`
+- [ ] Before You Board (behind-scenes) · `2026-10-11 - behind-the-scenes-before-you-board`
+- [ ] We Did Not Write This (review) · `2026-10-11 - guest-reviews-we-didnt-write`
+- [ ] Myth vs Fact (myth-fact) · `2026-10-11 - swamp-party-boat-myths-vs-facts`
+- [ ] Family in Town (seasonal) · `2026-10-11 - thanksgiving-family-in-town-bayou-afternoon`
+
+---
+
 ## 🔴 Quick Wins (Do This Week)
 
 - [ ] **5-day customer journey audit**: Day 1 Dreaming / Day 2 Planning / Day 3 Booking / Day 4 Experiencing / Day 5 Sharing — 5 min per day, write down what NPB has and what's missing at each stage (TMA-01)

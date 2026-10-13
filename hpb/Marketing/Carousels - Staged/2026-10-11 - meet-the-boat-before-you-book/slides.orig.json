@@ -1,0 +1,121 @@
+{
+ "format": "functional",
+ "type": "behind-the-scenes",
+ "mentor": "Ogilvy",
+ "title": "Meet the Boat Before You Book",
+ "brand": "hpb",
+ "round": 2,
+ "why": "Behind-the-scenes for planners who want to know what they are booking: the boat, the safety routine, what is provided.",
+ "hook_options": [
+  "What is actually on the boat?",
+  "Here's everything on board before you book.",
+  "The boring stuff that makes the party work."
+ ],
+ "caption": "What is on board, what the crew checks before you leave the dock, and what you never have to think about. Roof, bathroom, speaker, captain. You bring the cooler. #HoustonPartyBarge #ClearLake #Seabrook #HoustonBoatParty",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "BEHIND THE SCENES",
+   "headline": "Meet the boat before you book it.",
+   "body": "What is on board, what the crew checks, and what you never have to think about.",
+   "photo": "party-barge-side-profile-seabrook.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-side-profile-seabrook.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "THE BOAT",
+   "headline": "30 feet. Up to 26 guests.",
+   "body": "Big enough for the whole crew. Small enough that nobody gets stranded at the far end of the party.",
+   "photo": "seabrook-marina-party-barge-at-dock.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/seabrook-marina-party-barge-at-dock.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE BASICS",
+   "headline": "A roof and a bathroom. Not extras.",
+   "body": "Texas sun plus a 1 hour 45 minute cruise. We built for both."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "THE MOTOR",
+   "headline": "The boat moves itself.",
+   "body": "It's fully motorized and a licensed captain drives the whole time. Your only job is the playlist.",
+   "photo": "party-barge-covered-deck-clear-lake.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-covered-deck-clear-lake.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "COAST GUARD",
+   "headline": "Certified, not just floating.",
+   "body": "Coast Guard certified boat, licensed captain on every cruise. Safety is the floor, not the sales pitch."
+  },
+  {
+   "n": 6,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "BEFORE YOU BOARD",
+   "headline": "Waivers, head count, weather check.",
+   "body": "Every waiver ties to your booking. The captain counts heads and checks the forecast again before leaving the dock.",
+   "photo": "party-barge-roof-canopy-dockside-seabrook.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-roof-canopy-dockside-seabrook.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 7,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE RULE",
+   "headline": "26 means 26.",
+   "body": "Life jackets on board for everyone. Capacity is a hard cap. Not 27. Not just one more."
+  },
+  {
+   "n": 8,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "SOUND AND LIGHTS",
+   "headline": "Speaker and party lights, ready to go.",
+   "body": "Connect your phone at the dock. The lights earn their keep once the sun drops.",
+   "photo": "party-barge-dancing-crowd-clear-lake.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-dancing-crowd-clear-lake.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE CHECKLIST",
+   "headline": "Boat, captain, crew. You bring the rest.",
+   "body": "Cooler, snacks, playlist, people. That's the whole list."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "Now you've seen it. Come ride it.",
+   "body": "Public cruises and private charters out of Seabrook. houstonpedalbarge.com",
+   "photo": "party-barge-docked-ready-to-board.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-docked-ready-to-board.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

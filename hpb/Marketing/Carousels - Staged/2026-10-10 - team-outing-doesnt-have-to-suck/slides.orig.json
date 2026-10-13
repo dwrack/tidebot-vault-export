@@ -1,0 +1,116 @@
+{
+ "format": "archetypal",
+ "type": "belief",
+ "mentor": "Halbert",
+ "title": "Your Team Outing Doesn't Have to Suck",
+ "brand": "hpb",
+ "why": "Office managers and team leads planning fall and holiday outings: the Nemesis (sad corporate team-building) vs. culture outside the conference room.",
+ "hook_options": [
+  "Your team outing doesn't have to suck.",
+  "Mandatory fun. Conference room B. Pizza at noon.",
+  "Culture doesn't happen in a conference room."
+ ],
+ "caption": "Mandatory fun in conference room B, or your whole team on Clear Lake with a cooler and a playlist? Private charters for up to 26, BYOB so there's no bar tab to approve, weekday discounts available. Forward this to whoever plans the holiday party. #houston #teambuilding #houstonevents #holidayparty #clearlake",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "Team outing season",
+   "headline": "Your team outing doesn't have to suck.",
+   "body": "Culture doesn't happen in a conference room. It happens when coworkers see each other outside one.",
+   "photo": "fb_2022-04-26_146349874568101.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-04-26_146349874568101.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "You know the email",
+   "headline": "Mandatory fun. Conference room B. Pizza at noon.",
+   "body": "Somebody brings a trust-fall exercise. Everyone checks the clock. Nobody mentions it on Monday."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "The problem",
+   "headline": "Same people. Same room. Same conversations.",
+   "body": "You can't expect a new conversation in the room where you have all the old ones."
+  },
+  {
+   "n": 4,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Now picture this",
+   "headline": "Same team. On Clear Lake.",
+   "body": "Somebody's playlist is on. The quiet one is picking songs. Nobody is checking email.",
+   "photo": "fb_2022-02-10_128606376342451.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-02-10_128606376342451.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "What changes",
+   "headline": "Nobody's stuck at one table.",
+   "body": "People move around the boat, mix, and talk to someone new. A professional captain drives. Your team just shows up.",
+   "photo": "fb_2022-10-16_185142027355552.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-10-16_185142027355552.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "The easy part",
+   "headline": "BYOB means no bar tab to approve.",
+   "body": "Bring the cooler and the food you want. We don't sell alcohol, so there's no markup."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "green",
+   "kicker": "Holiday parties too",
+   "headline": "Up to 26 people. One boat. Yours.",
+   "body": "Private charters on Clear Lake, weekday discounts available. Roof, bathroom, and speakers on board.",
+   "photo": "fb_2022-10-07_183143020888786.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Photos/hpb-fb-library/fb_2022-10-07_183143020888786.jpg",
+   "pos": "center 45%",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "What we believe",
+   "headline": "Houston deserves better than the hotel ballroom.",
+   "body": "This city has a waterfront. Your team should see it at least once."
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "Say it with us",
+   "headline": "Houston has a waterfront. Get on it.",
+   "body": "Team culture happens outside the conference room. Ours happens on the lake."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "Forward this to whoever plans it",
+   "headline": "Book the outing people actually show up for.",
+   "body": "Private charters for teams of up to 26 on Clear Lake. houstonpedalbarge.com",
+   "photo": "party-barge-sunset-hug-clear-lake.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-sunset-hug-clear-lake.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

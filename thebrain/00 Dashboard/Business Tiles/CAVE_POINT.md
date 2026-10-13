@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "No movement on route_fix_by_oct_15 since 2026-08-28 (45 days); deadline now 3 days out"
-updated: 2026-10-12
+alert: "No movement on route_fix_by_oct_15 since 2026-08-28 (46 days); deadline now 2 days out"
+updated: 2026-10-13
 tile_type: business
 goal_q4_metric: route_fix_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: route_fix_by_oct_15. No movement since 2026-08-28** — now 45 days sitting. No change to the tour description or route yet. Oct 15 is 3 days out.
+- **Goal: route_fix_by_oct_15. No movement since 2026-08-28** — now 46 days sitting. No change to the tour description or route yet. Oct 15 is 2 days out.
 - Review backlog stays clear, 0 unreplied. The 1★ and 2★ reviews about the long paddle-to-cave-time ratio remain the clearest evidence for this goal — both already have owner replies acknowledging the issue.
-- GSC note: "cave point kayaking" (pos 1, 4 clicks/8 impr) and "cave point kayak tour" (pos 1.86, 3 clicks/14 impr) both holding strong — visibility isn't the problem here, the on-tour experience is.
+- GSC note: "cave point kayaking" (pos 1, 5 clicks/7 impr) and "cave point kayak tour" (pos 1.86, 4 clicks/14 impr) both holding strong — visibility isn't the problem here, the on-tour experience is.
 - No separate FareHarbor shortname. Meta (shared DCKT account act_10153674414451399) returned zero campaigns this run — same account-wide gap flagged on DCKT's tile.
 <!-- live:end -->
 

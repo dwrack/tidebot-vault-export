@@ -4,6 +4,31 @@
 
 ---
 
+## 🔵 Instagram Carousels (staged Oct 10-11, 2026)
+
+10 carousels written and staged, nothing rendered or posted. **Review after taxes are filed (Oct 15). Target: week of Oct 19.**
+
+- [ ] Review all 10 on the board: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/index.html` (Approve / Fix / Kill + notes, then hit "Copy my notes for Claude")
+- [ ] Pick favorites from the funny hooks page: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/hooks.html`
+- [ ] Decide: Confirm winter e-bike rentals run before posting the winter e-bike carousel
+- [ ] Claude applies fixes and renders approved ones to PNG
+- [ ] Approve caption + posting schedule, then Claude posts (nothing posts without your OK)
+
+Carousels (folders in `Marketing/Carousels - Staged/`):
+
+- [ ] Give Them a Morning on Lake Michigan (belief) · `2026-10-10 - door-county-gift-card-holidays`
+- [ ] 1, 2, or 3 Hours on an E-Bike? (education) · `2026-10-10 - how-long-to-rent-an-ebike-cave-point`
+- [ ] Kayak or E-Bike? Pick for Your Group (decision) · `2026-10-10 - kayak-or-ebike-which-door-county-tour-fits`
+- [ ] Before You Book Summer 2027 (insider) · `2026-10-10 - plan-your-2027-door-county-kayak-trip`
+- [ ] Kayaks Are Done. The Bikes Aren't. (hook) · `2026-10-10 - you-dont-have-to-be-a-cyclist-cave-point-ebike`
+- [ ] The Overlook or the Water? (comparison) · `2026-10-11 - cave-point-overlook-vs-kayak-summer-2027`
+- [ ] What Riders Actually Say About Our E-Bikes (review) · `2026-10-11 - door-county-ebike-reviews-what-riders-said`
+- [ ] Four Gift Card Myths, Fixed (myth) · `2026-10-11 - door-county-gift-card-myths-vs-facts`
+- [ ] Inside the Shop Most People Only See at Check-In (bts) · `2026-10-11 - inside-the-jacksonport-shop-behind-the-counter`
+- [ ] The E-Bikes Don't Hibernate (seasonal) · `2026-10-11 - winter-ebike-rentals-door-county-snow`
+
+---
+
 ## 🔴 Quick Wins (Do This Week)
 
 - [ ] **5-day customer journey audit**: Day 1 Dreaming / Day 2 Planning / Day 3 Booking / Day 4 Experiencing / Day 5 Sharing — 5 min per day, write down what DCKT has and what's missing at each stage (TMA-01)

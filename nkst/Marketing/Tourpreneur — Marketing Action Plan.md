@@ -4,6 +4,31 @@
 
 ---
 
+## 🔵 Instagram Carousels (staged Oct 10-11, 2026)
+
+10 carousels written and staged, nothing rendered or posted. **Review after taxes are filed (Oct 15). Target: week of Oct 19.**
+
+- [ ] Review all 10 on the board: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/index.html` (Approve / Fix / Kill + notes, then hit "Copy my notes for Claude")
+- [ ] Pick favorites from the funny hooks page: `TheBrain/_Staged for Approval/Carousel Review 2026-10-11/hooks.html`
+- [ ] Decide: Confirm the $65 price used on slides
+- [ ] Claude applies fixes and renders approved ones to PNG
+- [ ] Approve caption + posting schedule, then Claude posts (nothing posts without your OK)
+
+Carousels (folders in `Marketing/Carousels - Staged/`):
+
+- [ ] Fall Swamp Paddle: What to Know Before You Book (education) · `2026-10-10 - fall-swamp-paddle-what-to-know`
+- [ ] A Guaranteed Gator Is a Red Flag (hook) · `2026-10-10 - guaranteed-gator-sighting-red-flag`
+- [ ] The Swamp Doesn't Need a Soundtrack (belief) · `2026-10-10 - the-swamp-doesnt-need-a-soundtrack`
+- [ ] 7 Things Nobody Tells You Before a Swamp Tour (insider) · `2026-10-10 - things-nobody-tells-you-swamp-tour`
+- [ ] Which Tour Is Right for You (With Real Reviews) (decision) · `2026-10-10 - which-tour-is-right-real-reviews`
+- [ ] Airboat vs Kayak, Side by Side (comparison) · `2026-10-11 - airboat-vs-kayak-side-by-side`
+- [ ] Our Tour Starts the Night Before You Do (bts) · `2026-10-11 - before-you-show-up-guide-checklist`
+- [ ] Seven Fall Trips, Straight From Our Guide Logs (numbers) · `2026-10-11 - fall-guide-logs-five-of-seven`
+- [ ] Our Best Reviews Include Warnings (review) · `2026-10-11 - five-star-reviews-with-warnings`
+- [ ] The Gift for the Friend Who Has Done New Orleans Twice (seasonal) · `2026-10-11 - swamp-tour-gift-certificate-holidays`
+
+---
+
 ## 🔴 Quick Wins (Do This Week)
 
 - [ ] **5-day customer journey audit**: Day 1 Dreaming / Day 2 Planning / Day 3 Booking / Day 4 Experiencing / Day 5 Sharing — 5 min per day, write down what NKST has and what's missing at each stage (TMA-01)
