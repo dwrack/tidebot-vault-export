@@ -7,6 +7,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 
 ## High Priority
+- [ ] [Guide log] Look into replacing the back tire on the Grey transit soon; it returned with a plugged tire. _(Stephanie (written log), 2026-10-14)_
 - [ ] [Guide log] Inspect and repair back passenger tire on Grey Transit van due to a confirmed leak. Coordinator has been asked if it can be taken to a local repair shop before tomorrow's tour. _(Stephanie (written log), 2026-10-12)_
 - [ ] Rotate the shared `Cool6006!` password (2 Instagram accounts, Viator, Airbnb) and the plaintext PayPal password — see [[NKST — Password Rotation Plan (Aug 2026, STAGED)]] (David)
 - [ ] Build warm outreach list: Anna's, Turkey and the Wolf, The Columns, Little Dizzy's, etc. (Dylan)
