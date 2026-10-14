@@ -1,0 +1,115 @@
+{
+  "format": "functional",
+  "type": "education",
+  "title": "How to Ride to Cave Point",
+  "brand": "dckt",
+  "why": "Renters want the actual route before they commit. Saves and shares.",
+  "hook_options": [
+    "How to ride from our shop to Cave Point.",
+    "Three lefts and you're at the cliffs.",
+    "The Cave Point route, turn by turn."
+  ],
+  "caption": "The route we'd ride from our Jacksonport shop to Cave Point: Hwy 57, left on Lake Shore Road, left on Cave Point Drive, left on Schauer Road. About 4 miles, mostly quiet country roads, and the motor does the hills. Save this before your ride. #CavePoint #DoorCounty #Jacksonport #EBikeRental",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Route guide",
+      "headline": "How to ride from our shop to Cave Point.",
+      "body": "About 4 miles, mostly quiet country roads. The turns, what to watch for and what to do when you get there.",
+      "photo": "Cave-Point-Fat-Tire-E-Bike-Rentals.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-Fat-Tire-E-Bike-Rentals.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Turn 1",
+      "headline": "Start on Hwy 57 in Jacksonport.",
+      "body": "Our shop is at 6329 State Hwy 57. You're only on the highway for about half a mile."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Turn 2",
+      "headline": "Left on Lake Shore Road.",
+      "body": "Just under a mile. Traffic thins out fast once you're off the highway.",
+      "photo": "IMG_0656.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0656.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Turn 3",
+      "headline": "Left on Cave Point Drive.",
+      "body": "About a mile through the woods. Ride single file and stay to the right."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Turn 4",
+      "headline": "Left on Schauer Road to the park.",
+      "body": "About a mile and a half more to Cave Point County Park. Park the bike and walk out to the ledge.",
+      "photo": "May_26th_11am_Tour.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/May_26th_11am_Tour.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Road manners",
+      "headline": "Country roads. Cars still use them.",
+      "body": "Ride single file, stay right, and signal before every turn. Lights on if it's gray out."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "At the park",
+      "headline": "Wet rock is slick rock.",
+      "body": "The ledges get slippery when wet or icy, and weather turns fast. Keep a step back from the edge.",
+      "photo": "IMG_0610.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0610.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Before you go",
+      "headline": "Watch the safety video first.",
+      "body": "It's on the rental page and covers the controls. A few minutes, and you ride out confident."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "57, Lake Shore, Cave Point Drive, Schauer.",
+      "body": "Three lefts after the highway. About 4 miles. The motor handles the hills."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your ride",
+      "headline": "Screenshot it. Go ride it.",
+      "body": "Book an e-bike at doorcountykayaktours.com. Send this to whoever's navigating.",
+      "photo": "IMG_2574.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_2574.JPG",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

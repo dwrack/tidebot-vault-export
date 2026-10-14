@@ -12,6 +12,9 @@ sources:
   - iMessage 1:1 David + Michael Fischer (2026-03-24 to 2026-03-26)
 ---
 
+**CURRENT STATUS (2026-10-13):** this tracker's priorities were last set 2026-08-17 and are stale. Current NPB action items live in the 10/13 ops sync package (Brief, Notes, Agenda 10/13 + 10/15, Ops Plan). Note: the 10/13 plan audit found items marked 'decided' that were never agreed on the call.
+
+
 # NPB Action Item Tracker
 
 Canonical list behind the pinned message in #helm-npb. Update this file first, then

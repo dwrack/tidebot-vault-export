@@ -1,0 +1,115 @@
+{
+  "format": "functional",
+  "type": "education",
+  "title": "Whitefish Dunes Explained",
+  "brand": "dckt",
+  "why": "Second stop on every 2-hour rental; teaches park rules (bike routes only) and safety.",
+  "hook_options": [
+    "Whitefish Dunes, explained in 10 slides.",
+    "The park next door to Cave Point.",
+    "Old Baldy, the beach and the bike rules."
+  ],
+  "caption": "Whitefish Dunes State Park is right next door to Cave Point: a 93 foot dune called Old Baldy, 1.5 miles of sandy beach, and almost 2,000 years of human history. Bikes stay on designated routes only, and our rule is assist off inside the park. A 2-hour rental covers both parks. #WhitefishDunes #CavePoint #DoorCounty #WisconsinStateParks",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Next door to Cave Point",
+      "headline": "Whitefish Dunes, explained in 10 slides.",
+      "body": "What's there, what's allowed on a bike and what to skip.",
+      "photo": "Whitefish-Bay-Dunes-State-Park-E-Bike-Tour-Rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/Whitefish-Bay-Dunes-State-Park-E-Bike-Tour-Rental.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The basics",
+      "headline": "About 867 acres, open year round.",
+      "body": "Whitefish Dunes State Park sits right next to Cave Point. Hours are 6am to 8pm."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "The beach",
+      "headline": "1.5 miles of sandy beach.",
+      "body": "No lifeguards, and rip currents happen. If one pulls you, swim parallel to shore.",
+      "photo": "Cave-Point-County-Park-Bike-Rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-County-Park-Bike-Rental.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Old Baldy",
+      "headline": "A 93 foot dune with a viewing deck.",
+      "body": "The park's dunes are the highest on Lake Michigan's western shore. Take the stairs, not the sand."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Bike rules",
+      "headline": "Designated bike routes only.",
+      "body": "No bikes on the beach, the dunes or the hiking trails. Our rule: assist off inside the park.",
+      "photo": "ebike-tour-whitefish-bay-dunes-state-park.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/ebike-tour-whitefish-bay-dunes-state-park.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Why so strict",
+      "headline": "The dunes are fragile.",
+      "body": "Feet and tires break the plants that hold the sand in place. Boardwalks and stairs keep the dunes standing."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "History",
+      "headline": "People lived here for almost 2,000 years.",
+      "body": "Villages fished this shore from about 100 B.C. into the late 1800s. The site is on the National Register.",
+      "photo": "IMG_0790 2.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0790 2.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Clark Lake",
+      "headline": "The lake the sand built.",
+      "body": "Drifting sand closed off Clark Bay and made Clark Lake: 865 acres, up to 25 feet deep."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "Beach, Old Baldy, history. Bike routes only.",
+      "body": "Stay on the boardwalks, skip the dunes and swim parallel if a current grabs you."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your trip",
+      "headline": "Cave Point and the dunes in one ride.",
+      "body": "A 2-hour e-bike rental covers both. Book at doorcountykayaktours.com.",
+      "photo": "curvy-road-cave-point-ebike-tour.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/curvy-road-cave-point-ebike-tour.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

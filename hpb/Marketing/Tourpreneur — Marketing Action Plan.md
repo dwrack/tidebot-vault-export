@@ -1,5 +1,7 @@
 # Houston Pedal Barge — Tourpreneur Marketing Action Plan
 
+**CURRENT STATUS (verified 2026-10-13):** carousels are rendered and posting daily at 5pm CT from the Always-On Mac (#1 posted 10/13, #10 on 10/22, winners decided 10/23). The 'nothing rendered or posted, target week of Oct 19' line below is history.
+
 *Built from Tourpreneur Pro sessions. Each action links back to the session it came from in the Master Learning Doc.*
 
 ---

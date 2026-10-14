@@ -1,0 +1,115 @@
+{
+  "format": "functional",
+  "type": "education",
+  "title": "Cave Point 101",
+  "brand": "dckt",
+  "why": "Explains what riders are looking at; geology plus safety. Shareable, evergreen.",
+  "hook_options": [
+    "What you're actually looking at.",
+    "Cave Point is 400 million years old.",
+    "Read this before you stand on the ledge."
+  ],
+  "caption": "Cave Point's ledges are Niagara Escarpment dolomite, about 400 million years old, and Lake Michigan waves carved the caves. It's a small county park with a huge view. Stay back from wet rock, and skip the cliff jump. #CavePoint #DoorCounty #NiagaraEscarpment #LakeMichigan",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Cave Point 101",
+      "headline": "What you're actually looking at.",
+      "body": "The rock, the caves and the rules. Read this before you stand on the ledge.",
+      "photo": "Cave-Point-County-Park-E-Bike-Tour-Rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-County-Park-E-Bike-Tour-Rental.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The rock",
+      "headline": "Dolomite from an ancient sea.",
+      "body": "The ledges are Niagara Escarpment dolomite, the same rock ridge that runs under all of Door County."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "How old",
+      "headline": "About 400 million years.",
+      "body": "The rock formed under a warm, shallow sea. Fossils in it are how geologists date it.",
+      "photo": "IMG_2571.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_2571.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The caves",
+      "headline": "Waves did the carving.",
+      "body": "Lake Michigan waves pounded cracks in the rock, and freezing water pried them wider every winter."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The park",
+      "headline": "About 19 acres, 900 feet of shore.",
+      "body": "Small county park, big view. It's county land, not part of the state park next door.",
+      "photo": "IMG_0613.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0613.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Hours",
+      "headline": "Open 30 minutes before sunrise.",
+      "body": "Door County parks close at 11pm. Picnic tables and grills are on site."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Safety",
+      "headline": "Wet rock is slick rock.",
+      "body": "Ledges get slippery when wet or icy, and lake weather turns fast. Keep a step back from the edge.",
+      "photo": "IMG_2577.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_2577.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "One more",
+      "headline": "Skip the cliff jump.",
+      "body": "Emergency Services warns about shallow water, big waves and swift currents here. No lifeguards, either."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "Ancient rock. Wave-cut caves. Watch your step.",
+      "body": "See it from the top, take your time, and let the waves do the showing off."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your Cave Point trip",
+      "headline": "Ride out and see it yourself.",
+      "body": "About 4 miles from our Jacksonport shop by e-bike. Book at doorcountykayaktours.com.",
+      "photo": "Cave-point-county-park-electric-bike-rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-point-county-park-electric-bike-rental.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

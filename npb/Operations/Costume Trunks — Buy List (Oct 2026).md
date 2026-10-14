@@ -1,5 +1,7 @@
 # Costume Trunks: Buy List (Oct 2026)
 
+**CURRENT STATUS 2026-10-13 (shop round):** ~$1,320 for all five after swapping 5 lines to Home Depot HDX totes + Oriental Trading (was ~$1,600 Amazon-only (~$1,440 without the optional $160 treasure chest), vs the ~$1,250 estimate below. Proposal page with photos, links, backups and keep/swap/cut voting for Michael + Jeff: https://claude.ai/artifact/UCstGoWeVhgX9qJTGtk7ef . Source data: ~/Projects/npb-costume-trunks/trunks.json.
+
 *2026-10-13. 5 themed trunks, each dresses 20 people. Prices are estimates from typical Amazon bulk-pack pricing, NOT checked live. Verify at checkout. Linked from [[NPB Unboxing — Post-Booking Sequence (Oct 2026)]].*
 
 ## Pick a buy level

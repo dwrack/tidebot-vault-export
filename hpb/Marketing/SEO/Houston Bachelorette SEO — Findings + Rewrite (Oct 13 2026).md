@@ -2,7 +2,7 @@
 
 # Houston Bachelorette SEO: where we stand and the fix (2026-10-13)
 
-**STATUS 2026-10-13 15:20 CT: the rewrite is in WordPress as an unpublished DRAFT, post ID 417, slug `houston-bachelorette-party-ideas`, with SEO title, meta, FAQ schema and category set. Created from the DCKT Mac. Edit: https://www.houstonpedalbarge.com/edit/wp-admin/post.php?post=417&action=edit. The June post (`/2026/06/23/bachelorette-party-boat-houston/`) is untouched. To go live: David reviews 417, publishes it, then either trashes the June post with a redirect to 417 or leaves both.**
+**HISTORY (superseded by the status above) 2026-10-13 15:20 CT: the rewrite was in WordPress as an unpublished DRAFT, post ID 417, slug `houston-bachelorette-party-ideas`, with SEO title, meta, FAQ schema and category set. Created from the DCKT Mac. Edit: https://www.houstonpedalbarge.com/edit/wp-admin/post.php?post=417&action=edit. The June post (`/2026/06/23/bachelorette-party-boat-houston/`) is untouched. To go live: David reviews 417, publishes it, then either trashes the June post with a redirect to 417 or leaves both.**
 
 *Live checks on 2026-10-13: Search Console (sc-domain:houstonpedalbarge.com), GA4 370616603, DataForSEO search volume (US) and live Houston SERPs, the site itself. Nothing below has been published. The rewrite is staged for David.*
 
