@@ -57,4 +57,5 @@ Every publish carries a version label in the canvas history. The canvas also has
 Neither name carries search traffic. The rename is a clarity and brand call, not an SEO one.
 
 ## "No texts" (Jonah item 4)
+**Decided 2026-10-13:** Davey agrees. Email only on the site; the R1 text signups were overboard.
 Refers to R1 boards A ("Text me when it's pouring" phone signup) and C ("Last seats tonight? We'll text"). Marketing texts need the Twilio A2P 10DLC campaign approved; last known status IN_PROGRESS (resubmitted 2026-06-03, unverified since). Jonah's own 10/12 pricing plan relies on texts too (day-10 first-timer nudge, 14-day member nudge), so the same approval gates both.

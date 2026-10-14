@@ -1,0 +1,64 @@
+{
+  "slides": [
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/Cave-point-ebike-tour-photo-shoot2.jpg",
+      "kicker": "Giveaway",
+      "headline": "Win a 2-hour e-bike ride for two.",
+      "body": "Fat tires, Cave Point and a fall afternoon on us. Swipe to enter.",
+      "pos": "bottom",
+      "hsize": 104,
+      "center": [
+        0.5,
+        0.3
+      ]
+    },
+    {
+      "kicker": "The prize",
+      "headline": "Two 2-hour e-bike rentals.",
+      "body": "For you and a friend, from our Jacksonport shop. About a $120 value, good through October 2027.",
+      "tone": "blue"
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/cp-big-waves-frame.jpg",
+      "kicker": "Where you'll ride",
+      "headline": "Cave Point, 4 miles out.",
+      "body": "Tree-covered backroads to the cliffs. Add Whitefish Dunes if you've got the legs. You won't need them.",
+      "pos": "bottom",
+      "hsize": 88,
+      "center": [
+        0.6,
+        0.5
+      ]
+    },
+    {
+      "kicker": "How to enter",
+      "headline": "1. Comment BIKE below.",
+      "body": "We'll DM you a link. 2. Finish the 20-second entry form. That's it, you're in."
+    },
+    {
+      "kicker": "Bonus entries",
+      "headline": "Tag a friend. Then another.",
+      "body": "Each separate comment tagging a different friend is one bonus entry, up to five.",
+      "tone": "blue"
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/fall-color-road-frame.jpg",
+      "kicker": "Who's riding with you?",
+      "headline": "Send this to your ride buddy.",
+      "body": "They'll need the second bike.",
+      "pos": "bottom",
+      "hsize": 96
+    },
+    {
+      "kicker": "The fine print",
+      "headline": "Ends Nov 2 at 11:59 pm CT.",
+      "body": "18+, U.S. residents. Winner drawn Nov 3 and contacted by DM and email. We'll never ask for payment. Official rules at the link in our entry form. Not affiliated with Instagram."
+    },
+    {
+      "kicker": "Comment BIKE to enter",
+      "headline": "Good luck. See you on the trail.",
+      "body": "Can't wait? This fall, book 2 hours and the clock stops after that.",
+      "cta": true
+    }
+  ]
+}

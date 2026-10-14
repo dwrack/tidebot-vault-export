@@ -1,0 +1,84 @@
+{
+  "slides": [
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ebike photos for cave point/door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+      "kicker": "This fall only",
+      "headline": "Book 2 hours. Keep the afternoon.",
+      "body": "After 2 hours, we stop the clock. Here's how we'd spend it.",
+      "pos": "bottom",
+      "hsize": 96
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/loop-no-rush-1080x1350-bannertop.jpg",
+      "kicker": "The no-rush loop",
+      "headline": "Cliffs, dunes, lunch, home.",
+      "body": "Cave Point, Whitefish Dunes and lunch near Glidden Drive. About 17 miles round trip.",
+      "pos": "top",
+      "hsize": 74
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/Door-County-ebike-garage.jpg",
+      "kicker": "Stop 1",
+      "headline": "Grab a bike in Jacksonport.",
+      "body": "Fat tires, pedal assist and the 2-hour rental. That's the whole plan.",
+      "pos": "bottom",
+      "hsize": 84
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/fall-color-road-frame.jpg",
+      "kicker": "The ride out",
+      "headline": "Tree-covered backroads.",
+      "body": "Lake Shore Road, then Cave Point Drive under the trees. The motor does the hills.",
+      "pos": "bottom",
+      "hsize": 84
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/cp-big-waves-frame.jpg",
+      "kicker": "Stop 2, mile 4",
+      "headline": "Cave Point on a windy day.",
+      "body": "Waves slam the ledges and throw spray. Watch from the top and stay off wet rock.",
+      "pos": "bottom",
+      "hsize": 84,
+      "center": [
+        0.6,
+        0.5
+      ]
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/Whitefish-Bay-Dunes-State-Park-E-Bike-Tour-Rental.jpg",
+      "kicker": "Stop 3, mile 5.6",
+      "headline": "Whitefish Dunes.",
+      "body": "Park the bike, walk the boardwalk to the beach. Bikes stay on bike routes in the park.",
+      "pos": "bottom",
+      "hsize": 84
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/dunes-beach-frame.jpg",
+      "kicker": "Take your time",
+      "headline": "1.5 miles of sandy beach.",
+      "body": "Fall means far fewer people. No lifeguards, so skip the swim.",
+      "pos": "bottom",
+      "hsize": 84
+    },
+    {
+      "kicker": "Stop 4, mile 8.6",
+      "headline": "Lunch where Glidden Drive starts.",
+      "body": "@thehitchingpostbar on Glidden Drive posts weekend hours noon to 8. Call ahead in late fall: 920-818-1114.",
+      "tone": "blue",
+      "hsize": 104
+    },
+    {
+      "kicker": "Then head home",
+      "headline": "Same way back. No clock.",
+      "body": "Ride a stretch of Glidden Drive, a Wisconsin Rustic Road, then retrace your route. Be back before dark.",
+      "hsize": 110
+    },
+    {
+      "kicker": "Save this for a fall weekend",
+      "headline": "2 hours booked. Afternoon free.",
+      "body": "Book the 2-hour e-bike rental. The extra time this fall is on us.",
+      "cta": true,
+      "hsize": 110
+    }
+  ]
+}

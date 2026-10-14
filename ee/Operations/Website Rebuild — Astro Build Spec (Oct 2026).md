@@ -52,7 +52,9 @@ Cookie/localStorage after a booking click. Returning: "Welcome back" + their usu
 - LocalBusiness + FAQPage + Product (gift cards, memberships) JSON-LD, answer-first copy, Bathhouse-style titles, first-timer guide.
 - Reviews shown next to Book (real GBP quotes). Note: Google does not show stars for self-reviews on our own site; GBP stars already show in Maps/local pack.
 
-### 8. Email + SMS capture banners (A/B rotated)
+### 8. Email capture banners (A/B rotated)
+**2026-10-13 decision (Jonah + Davey): email only, no SMS signups on the site.** The SMS variants and TCPA notes below are history, parked.
+
 Test no-giveaway "nature alerts" against classic offers. Hypothesis: alerts tied to real conditions convert without a discount and fit the brand better.
 
 | Variant | Hook | Giveaway? |
