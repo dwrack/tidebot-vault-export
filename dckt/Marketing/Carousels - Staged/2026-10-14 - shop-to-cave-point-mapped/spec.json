@@ -1,0 +1,78 @@
+{
+  "slides": [
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/route-full.jpg",
+      "kicker": "The route, mapped",
+      "headline": "Shop to Cave Point in 4 turns.",
+      "body": "About 4 miles of quiet country roads. Swipe for every turn.",
+      "pos": "bottom",
+      "hsize": 74
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/route-turn-1-lake-shore.jpg",
+      "kicker": "Mile 0.6",
+      "headline": "Left on Lake Shore Road.",
+      "body": "Half a mile on Hwy 57, then off the highway for good.",
+      "pos": "bottom",
+      "hsize": 74
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/route-turn-2-cave-point-dr.jpg",
+      "kicker": "Mile 1.5",
+      "headline": "Left on Cave Point Drive.",
+      "body": "About a mile under the trees. This is the pretty part.",
+      "pos": "bottom",
+      "hsize": 74
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/route-turn-3-schauer.jpg",
+      "kicker": "Mile 2.6",
+      "headline": "Left on Schauer Road.",
+      "body": "A mile and a half more, straight to the park.",
+      "pos": "bottom",
+      "hsize": 74
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/cp-big-waves-frame.jpg",
+      "kicker": "Mile 4.1",
+      "headline": "Cave Point.",
+      "body": "Park the bike and walk to the ledge. Windy days bring the show.",
+      "pos": "bottom",
+      "center": [
+        0.6,
+        0.5
+      ]
+    },
+    {
+      "img": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/Route Maps/route-full-with-dunes.jpg",
+      "kicker": "Got 2 hours?",
+      "headline": "Add Whitefish Dunes.",
+      "body": "About 1.5 more miles on Schauer and Clark Lake Road. Bikes stay on bike routes in the park.",
+      "pos": "bottom",
+      "hsize": 74
+    },
+    {
+      "kicker": "This fall only",
+      "headline": "Book 2 hours. No rush back.",
+      "body": "Pick the 2-hour rental and we stop the clock. Ride until you're done.",
+      "tone": "blue"
+    },
+    {
+      "kicker": "Road manners",
+      "headline": "Single file. Stay right. Signal.",
+      "body": "These are quiet roads, but cars still use them. Lights on if it's gray."
+    },
+    {
+      "kicker": "Recap",
+      "headline": "57. Lake Shore. Cave Point Dr. Schauer.",
+      "body": "Three lefts after the highway. About 4 miles. The motor handles the hills.",
+      "tone": "blue"
+    },
+    {
+      "kicker": "Save this for your ride",
+      "headline": "Screenshot the map. Grab a bike.",
+      "body": "Fat-tire e-bike rentals in Jacksonport. Send this to whoever's navigating.",
+      "cta": true
+    }
+  ]
+}
