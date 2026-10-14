@@ -1,0 +1,119 @@
+{
+  "format": "archetypal",
+  "type": "belief",
+  "title": "Cave Point in October",
+  "brand": "dckt",
+  "why": "Fall visitors who only know summer Cave Point; sells the quiet-season ride.",
+  "hook_options": [
+    "Cave Point in October is a different park.",
+    "Same cliffs. Way fewer people.",
+    "The Cave Point we wait all summer for."
+  ],
+  "caption": "Summer Cave Point and October Cave Point are two different places. Same cliffs, same water, a fraction of the crowd. Ride 4.5 miles from our Jacksonport shop, park the bike and take the whole ledge. Who would you bring? #CavePoint #DoorCounty #QuietSeason #EBikeDoorCounty",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Quiet season",
+      "headline": "Cave Point in October is a different park.",
+      "body": "Same cliffs. Same water. Way fewer people. Here's why fall might be the best time to ride out.",
+      "photo": "May_26th_11am_Tour_1.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/May_26th_11am_Tour_1.JPG",
+      "pos": "center 40%",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "July",
+      "headline": "Full lot. A crowd on every ledge.",
+      "body": "Summer Cave Point is beautiful, and everybody knows it. You wait your turn for the good rocks."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "October",
+      "headline": "The waves, the cedars and you.",
+      "body": "Far fewer people. Park the bike, pick a ledge, stay as long as you want.",
+      "photo": "IMG_0610.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0610.JPG",
+      "pos": "center 60%",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Getting there",
+      "headline": "4.5 miles from our Jacksonport shop.",
+      "body": "Backroads and bike trails most of the way. Pedal assist takes care of the hills."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The ride",
+      "headline": "Bare trees mean more lake views.",
+      "body": "When the leaves drop you can see the water through the woods. Bonus scenery, no extra miles.",
+      "photo": "ebike-tour-whitefish-bay-dunes-state-park.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/ebike-tour-whitefish-bay-dunes-state-park.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "No tour clock",
+      "headline": "Take two hours. Sit a while.",
+      "body": "Two hours gives you time to ride out, sit on the rocks, eat something and ride back slow."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Pack this",
+      "headline": "A windproof layer for the ledge.",
+      "body": "It's colder at the water than in the parking lot. Your future self will thank you.",
+      "photo": "IMG_3678.PNG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_3678.PNG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Timing",
+      "headline": "Go midday.",
+      "body": "Warmest air, best light. The sun sets earlier every week from here.",
+      "photo": "IMG_0653.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0653.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Recap",
+      "headline": "Fewer people. Same waves. Your pace.",
+      "body": "This is the Cave Point we wait all summer for."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your fall trip",
+      "headline": "Come see it before the snow.",
+      "body": "E-bike rentals at doorcountykayaktours.com. Send this to whoever you'd ride with.",
+      "photo": "Cave-point-county-park-electric-bike-rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-point-county-park-electric-bike-rental.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

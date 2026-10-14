@@ -1,0 +1,115 @@
+{
+  "format": "functional",
+  "type": "local-guide",
+  "title": "Where to Eat After Your Ride",
+  "brand": "dckt",
+  "why": "Local spotlight: sends riders to six nearby businesses open into November; @mentions notify them and invite reshares.",
+  "hook_options": [
+    "Where to eat after your ride.",
+    "Ride first. Then lobster, beer or pie.",
+    "Six spots that stay open after summer."
+  ],
+  "caption": "Ride first, eat second. Six Door County spots that stay open this fall, all an easy drive from our Jacksonport shop: @islandfeverjport, @doorcountybrewingco, @harborfishmarketbh, @doorcountycoffee, @scaturos and @doorpeninsulawinery. Nobody paid us for this list. Hours shift after October, so check their pages before you go. #DoorCounty #Jacksonport #BaileysHarbor #DoorCountyEats",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Ride, then refuel",
+      "headline": "Where to eat after your ride.",
+      "body": "Six spots that stay open after the summer crowds leave. Nobody paid us for this list.",
+      "photo": "door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ebike photos for cave point/door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Closest stop",
+      "headline": "Island Fever, right down the road.",
+      "body": "@islandfeverjport in Jacksonport. Seafood, hand-cut steaks and a tiki bar. Closed Tuesdays."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "10 minutes north",
+      "headline": "Door County Brewing in Baileys Harbor.",
+      "body": "@doorcountybrewingco. The taproom is open year round, with a dog friendly beer garden. Check winter hours first.",
+      "photo": "Cave-Point-Bike-Rental-Jac.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-Bike-Rental-Jac.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Also in Baileys Harbor",
+      "headline": "Harbor Fish Market and Grille.",
+      "body": "@harborfishmarketbh. Live Maine lobster and fresh oysters in an old building on the harbor. Days vary, so call ahead."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Before you ride",
+      "headline": "Coffee straight from the roaster.",
+      "body": "@doorcountycoffee in Carlsville, roasting since 1993. Cafe and drive-thru open 7:30 to 4, seven days a week.",
+      "photo": "Cave-Point-County-Park-Bike-Rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-County-Park-Bike-Rental.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Bring home a pie",
+      "headline": "Scaturo's in Sturgeon Bay.",
+      "body": "@scaturos. Pecan rolls and cherry pies made with real Door County cherries. Opens at 5am, 7am Sundays."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "End of the day",
+      "headline": "Door Peninsula Winery in Carlsville.",
+      "body": "@doorpeninsulawinery has made fruit wine since 1974. Door County Distillery shares the building.",
+      "photo": "Cave-point-county-park-electric-bike-rental-2.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-point-county-park-electric-bike-rental-2.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "One tip",
+      "headline": "Hours change fast after October.",
+      "body": "Everything here was listed as open into November when we checked. Look at their pages before you drive over."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "Ride first. Then lobster, beer or pie.",
+      "body": "Jacksonport, Baileys Harbor, Carlsville and Sturgeon Bay. All an easy drive from the shop."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your Door County weekend",
+      "headline": "Six stops. One ride first.",
+      "body": "E-bike rentals at doorcountykayaktours.com. Tag whoever's buying lunch.",
+      "photo": "curvy-road-cave-point-ebike-tour.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/curvy-road-cave-point-ebike-tour.jpg",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

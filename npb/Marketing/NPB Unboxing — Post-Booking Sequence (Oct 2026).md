@@ -44,15 +44,15 @@ Timing is relative to trip date (T). If the booking lands inside the window, ski
 
 Private charters get the same spine with bigger asks (decor package $40, DJ, brass musician, drone reel) and a "send us your guest list" prompt so we can print names on the chalkboard.
 
-## The Amazon piece (costumes, etc.)
+## Costume trunks + affiliate blog posts (revised 2026-10-13)
 
-Yes, do it, but not the way most people would.
+**Costume trunks are the lead offer. Amazon is the backup.** Every costume mention leads with "rent the trunk at the dock" and only then "or buy your own."
 
-- **Amazon Associates bans affiliate links in email and SMS.** Links are only allowed on a site or app we control. So the drip never links to Amazon directly. It links to a page on nolapartybarges.com: `/pack` (the packing list) and `/costumes` (the costume shop). Those pages hold the Associates links and the required disclosure line.
-- Commission is 3-4% on costumes and apparel. On a $40 pirate kit that's about $1.50. The money is not the point. The point is (1) they show up in costume, which is our content, (2) a reason to open touch 3, and (3) once the page exists it ranks for "what to wear on a New Orleans boat party," which is lead-gen.
-- Build it as Amazon Idea Lists under one NPB storefront so a page is one link per theme: Pirate, Tiki, Mardi Gras, 70s Disco, Cowboy (matches the costume bins, so rent-vs-buy is the same five themes). Add non-costume gear: waterproof phone pouch, polarized shades, bluetooth speaker (no, we have the sound system, cut it), sunscreen stick, foldable cooler, bachelorette sash sets, LED glow packs, cheap ponchos.
-- Pair every theme with the rent option: "Don't want to pack it? Rent the Pirate bin at the dock, $45 for the whole group." Rental money beats commission every time, so the bin is always the first button.
-- Disclosure line on the page, once: "Some links on this page are Amazon affiliate links. We make a small cut, you pay the same."
+- **Trunks:** add-on #51 renamed Costume Trunks. Launch Pirate + Tiki, then Mardi Gras, 70s Disco, Cowboy. $60 per group (fits 20), $75 bundled with the photo package. Buy list + 3 budget options: [[Costume Trunks — Buy List (Oct 2026)]]. One FareHarbor add-on field with a theme dropdown. Real trunks, not plastic bins: open one at check-in on camera and that IS the unboxing shot.
+- **Affiliate links live in blog posts on nolapartybarges.com,** not standalone pages. Amazon Associates bans affiliate links in email and SMS, so touch 3 links to the post, never to Amazon. Posts also rank for "what to wear" searches, so they double as lead-gen.
+- Every post has the same spine: theme intro, "Rent the trunk" box at the top with the FareHarbor button, then 6-10 Amazon picks, then a packing list, then the boat CTA. Disclosure line under the H1.
+- Commission is 3-4%, roughly $1-2 per kit. Fine. The posts exist to get groups in costume and to rank.
+- Post slate and the flagship draft: `Blog Drafts - Staged/2026-10-13 - *` (see [[Costume Post Slate (Oct 2026)]]).
 
 ## Other experiences to sell (in priority order)
 
@@ -85,7 +85,7 @@ The drip is the mechanism. These are what make it feel like opening a box:
 | Trip page | Nothing (review link pattern exists at `/r/<code>`) | `/trip/<code>` on the new static site or a Worker route |
 | Add-on buttons | FareHarbor add-ons need to exist first (Tier 1 of the menu is still not turned on as of 10/13) | Turn on Tier 1 + costume bin + photo package in FH, then deep-link each button to the booking with the add-on preselected (test this, FH may only allow add-ons at original checkout, in which case the button opens a text to 6046 and crew adds it manually) |
 | SMS | Twilio 6046 relay live; 10DLC is bottom tier, toll-free rejected 6/29 | Volume here is small (2 texts per booking), should be fine. Re-file toll-free from the new site when it ships. |
-| Amazon pages | Nothing | Associates account under the business, 2 pages on the site, 5 Idea Lists |
+| Amazon blog posts | Flagship drafted 10/13, 6 more outlined | Associates account, paste tag into links, publish once site/wp-admin is up |
 | Captain clips, boarding pass template | Nothing | Jeff: one afternoon of clips. Boarding pass: one Canva/HTML template with merge fields. |
 
 ## Numbers to beat (rough, so we know if it worked)
@@ -102,10 +102,10 @@ Call it ~$2,100 per 100 bookings plus the list. Track three things only: answer 
 ## Open calls for David
 
 1. Swamp tour code and discount depth (10%? flat $10 a seat?). This is the number that matters most.
-2. Costume bin: are we actually buying the first two bins (Pirate + Tiki, ~$300)? The Amazon page is a half-measure without the rent option next to it.
+2. Costume trunks: approved in concept 10/13. Who buys the first two (Pirate + Tiki, ~$300) and by when?
 3. Add-ons in FareHarbor: who flips on Tier 1 and when. Blocks touch 2 and 5.
 4. Amazon Associates: register under NOLA Party Barge (the LLC) or under Davey Jones' Locker so all brands share one account? One account is simpler, tracking IDs per brand handle attribution.
-5. Order of build: trip page + touch 1 + Q1/Q4 first (works even with zero add-ons live), then add-ons, then Amazon pages, then touch 4 cross-sell.
+5. Order of build: trip page + touch 1 + Q1/Q4 first (works even with zero add-ons live), then add-ons, then costume trunks + blog posts, then touch 4 cross-sell.
 
 ## Not in scope
 

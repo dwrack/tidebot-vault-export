@@ -1,0 +1,115 @@
+{
+  "format": "functional",
+  "type": "education",
+  "title": "Riding Door County in November",
+  "brand": "dckt",
+  "why": "November e-bike renters: timing, layers, deer season safety, where to ride.",
+  "hook_options": [
+    "November is a different ride.",
+    "How to ride Door County in November.",
+    "Bare trees, empty roads, loud lake."
+  ],
+  "caption": "November in Door County: bare trees, empty roads and a lake with an attitude. Ride midday (sunset's before 5), dress 10 degrees colder than the forecast, and wear something bright during gun deer season, Nov 21 to 29. #DoorCounty #CavePoint #EBike #NovemberInWisconsin",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "November rides",
+      "headline": "November is a different ride.",
+      "body": "Bare trees, empty roads and a lake that gets gray and loud. Here's how to do it right.",
+      "photo": "Cave-point-winter-caves-and-ice-castles.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-point-winter-caves-and-ice-castles.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Timing",
+      "headline": "Ride between 11 and 2.",
+      "body": "Clocks fall back Nov 1 and sunset is before 5 all month. Midday is the warmest part of the day."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Dress for it",
+      "headline": "Dress for 10 degrees colder.",
+      "body": "Lake wind plus 20 mph of riding. Windproof shell, real gloves, a thin hat and closed-toe shoes.",
+      "photo": "Cave-point-ebike-tour-photo-shoot2.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/Cave-point-ebike-tour-photo-shoot2.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Deer season",
+      "headline": "Nov 21 to 29: wear something bright.",
+      "body": "That's Wisconsin's gun deer season. Blaze orange or any bright layer helps drivers and hunters see you."
+    },
+    {
+      "n": 5,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Stay on route",
+      "headline": "Roads and park paths, not the woods.",
+      "body": "Hunting is allowed in open areas of Whitefish Dunes State Park starting Nov 15. Stick to marked routes.",
+      "photo": "IMG_0655.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0655.JPG",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "The upside",
+      "headline": "The roads are basically yours.",
+      "body": "Summer traffic is long gone. It's you, the cedars and the lake."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Worth the stop",
+      "headline": "Cave Point when the lake is angry.",
+      "body": "On windy days the waves slam the cliffs. Watch from the top and stay off wet rock.",
+      "photo": "Cave-Point-County-Park-E-Bike-Tour-Rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-County-Park-E-Bike-Tour-Rental.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Thanksgiving weekend",
+      "headline": "Get the whole family outside.",
+      "body": "Relatives in town Friday? Check the booking calendar and get everyone riding before dark."
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Recap",
+      "headline": "Midday. Layers. Something bright.",
+      "body": "Ride the roads, skip the woods, and watch the waves from the top."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for a November weekend",
+      "headline": "Ride it before the snow does.",
+      "body": "E-bike rentals at doorcountykayaktours.com. Send this to whoever's hosting Thanksgiving.",
+      "photo": "IMG_0609.JPG",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Cave Point ebike/IMG_0609.JPG",
+      "pos": "center",
+      "dark": false
+    }
+  ]
+}

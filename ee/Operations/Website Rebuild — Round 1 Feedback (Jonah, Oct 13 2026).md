@@ -23,5 +23,25 @@ Jonah's response to the three iPhone homepages on the Oct 10 canvas (https://cla
 - Live seat counts need **L to connect Periode**; Jonah loops her in.
 - **L and Jonah review each round before anything goes live.**
 
-## Status
-- 2026-10-13: feedback filed. Round 2 (merged page, iPhone + desktop) being built on the same canvas.
+## Decisions (Davey, 2026-10-13)
+- Use **Community Sauna** as Jonah asked. Sunrise and Moonlight stay as session times under it. Do not rename in Periode / Ads / GBP until Jonah confirms.
+- Desktop this round = **homepage only**.
+- **One working artifact only:** https://claude.ai/artifact/YCeQxCTJbCNiASWciHcVeg. Deleted: Dusk, Daybreak, River Ritual, Redesign (copies in `Website Rebuild — Prototypes (Aug 2026)/`) and Style Atlas (copy in `Website Rebuild — Style Atlas (Oct 12 2026)/`).
+- "Jess's style guide" = Brand Identity Packet + Jess's Website Audit. Summary: [[E&E Style Guide (Brand Packet + Jess Audit)]].
+
+## Version log
+Every publish carries a version label in the canvas history. The canvas also has a Version Log sticky.
+
+| Version | Date | What changed |
+|---|---|---|
+| R1 | 2026-10-10 | Three iPhone directions (A Social Ember, B River Hour, C Pull the Cord) |
+| R2.1 | 2026-10-13 | A's layout + B's Pick Your Sky + C's How It Goes; desktop board; river headline; docked callout; new names; Private Saunas 1+2 replace Airstream; email alerts; price + repeat line above every Book/Join; brand packet palette + Basal/Inter; no health or attendant wording |
+
+## R2.1 check against brief + style guide (2026-10-13)
+- Type sizes all on scale (12/14/16/20/25/31/39/49/61/76). Body 16, line-height 1.5, headings 1.1-1.25.
+- Spacing all on the 4/8 scale. Buttons and inputs 48px. Two radii (12 components, 24 containers).
+- Colors only from the packet (plus two derived neutrals #2C2C2A / #3A3A37 and white inputs). One accent: copper.
+- No health or attendant wording found. "Docked" appears in the hero and footer. No SMS.
+- Every Book / Join / notify button has the price and repeat line directly above it. The header Book button only scrolls to sessions.
+- Not yet: real prices, weather, river temp, seat counts, V2 photos, capacity, opening date, membership tier. All shown as [brackets].
+- Pre-launch checklist (privacy, 404, sitemap, analytics, spam protection, etc.) applies at build, not mockup.

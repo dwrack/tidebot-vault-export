@@ -1,3 +1,5 @@
+**CURRENT STATUS (verified live 2026-10-13 22:35 CT): PUBLISHED.** https://houstonpedalbarge.com/2026/10/14/houston-bachelorette-party-ideas/ (post 417). 200 OK, SEO title + meta live, FAQPage JSON-LD parses (6 Qs), featured image = media 114. Internal links added at the bottom of posts 407 (birthday), 403 (BYOB), 399 (cost). June post 395 left live and untouched. Re-check GSC impressions for 'houston bachelorette party' around Nov 10. Still staged, not done: Yelp category, Reddit reply, listicle pitches, homepage + party-barge-cruise page links (wp-admin, ACF).
+
 # Houston Bachelorette SEO: where we stand and the fix (2026-10-13)
 
 **STATUS 2026-10-13 15:20 CT: the rewrite is in WordPress as an unpublished DRAFT, post ID 417, slug `houston-bachelorette-party-ideas`, with SEO title, meta, FAQ schema and category set. Created from the DCKT Mac. Edit: https://www.houstonpedalbarge.com/edit/wp-admin/post.php?post=417&action=edit. The June post (`/2026/06/23/bachelorette-party-boat-houston/`) is untouched. To go live: David reviews 417, publishes it, then either trashes the June post with a redirect to 417 or leaves both.**
