@@ -2,13 +2,13 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 253
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Google Ads still $0 (8672151991), ongoing outage; weekly booked revenue pace ~4% of target; 1 unreplied review now 6 days"
-updated: 2026-10-13
+alert: "Season over: pace 8% of $7k/wk; Shelley Mickelson 5★ unreplied 7 days"
+updated: 2026-10-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$295/wk booked vs $7,000 target — ~4% of goal, essentially unchanged.** Basis is 5 of 7 real FH days (10/8-10/12); yesterday (10/12) booked $0 / 0 bookings (1 tour ran for $148, but nothing newly booked) — still the weakest business in the portfolio by a wide margin, now off-season.
-- **Zero paid advertising running anywhere, for yet another day.** Google Ads (8672151991): $0 impressions/clicks/cost both yesterday and the trailing 7 days. Meta (act_10153674414451399, shared with DC Ebike and Cave Point): zero campaigns returned, again.
-- **1 unreplied review** — Shelley Mickelson (5★, 10/7), now 6 days.
-- GSC: brand term "door county kayak tours" holding position 1.52, 9 clicks/25 impr (8d) — still the strongest brand-term performer in the portfolio.
+- **Goal pace: $541/wk booked vs $7,000 target, 8% of goal.** Kayak season is over; this is expected and the goal said 'hold through season close.'
+- **Route fix due Oct 15 (tomorrow), no movement logged.** Same fix as Cave Point's goal.
+- **Shelley Mickelson 5★ (10/7) unreplied 7 days**, breaks the 48-hour SLA the goal names. [Reply](https://business.google.com/n/5837086547118336383/reviews)
+- Google + Meta both $0 (season off).
 <!-- live:end -->
 
 ## Quick links

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 10
 status: red
-alert: "$0 FH bookings yesterday and Google Ads still fully dark — nothing is actively selling this business; 5 unreplied reviews unchanged"
-updated: 2026-10-13
+alert: "$0 FH bookings 2 days running; pace 35% of goal; no purchase campaign live"
+updated: 2026-10-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$1,690/wk booked vs $4,000 target — ~42% of goal, down from ~53%.** Basis is 5 of 7 real FH days (10/8-10/12); yesterday (10/12) booked $0 / 0 bookings — nothing booked at all. See today's brief Action Item #3.
-- **Google Ads (2986009791) still $0 impressions/clicks/cost across both yesterday and the full 7-day window** — no diagnosis yet. Meta (shared w/ Buffalo Bayou) still running: $10.47 yesterday on "Followers Reboost" — still no purchase campaign. Nothing is actively selling this business right now.
-- **5 unreplied 5★ reviews, unchanged** — FroHair Patty (9/30, now 13 days), Jaylen Washington (9/27, now 16 days), Oscar Garcia/Vivian M/Diana Pdrz (all 9/19, now 24 days old).
-- **TikTok pull failed again this run** — `ECONNREFUSED` on the Playwright browser port, same issue as prior runs; this is a browser-connectivity problem, not a logged-out session, so a QR re-login alone won't fix it.
+- **Goal pace: $1,408/wk booked vs $4,000 target, 35% of goal.** $0 booked on both 10/12 and 10/13.
+- **Nothing is selling it.** Google (2986009791) $0 yesterday and 7d. Meta: $10.27 on 'Followers Reboost' engagement, 7 outbound clicks.
+- **Goal note's move hasn't happened:** fix the $1.00 phantom conversion, then build one purchase-objective campaign.
+- 5 unreplied 5★ (oldest 9/19). TikTok session logged out, needs QR re-login.
 <!-- live:end -->
 
 ## Quick links

@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 10
+revenue_today: 1237
 lead_time_days: 0
-ad_spend_yday: 334
+ad_spend_yday: 286
 status: yellow
-alert: "Google Ads 2nd straight zero-conversion day ($136.89/0 conv); 10 unreplied reviews, backlog rolling not shrinking"
-updated: 2026-10-13
+alert: "Pacing 46% of $30k/wk goal; 10 of 10 page-1 reviews unreplied (7 new 10/13)"
+updated: 2026-10-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,12 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: ~$14,918/wk booked vs $30,000 target — ~50% of goal, down from 58%.** Basis is 5 of 7 real FH days (10/8-10/12); yesterday (10/12) booked 5 bookings / $757 — the weakest day in the window.
-- **Resolved: the Gravity Trails Google Ads umbrella is 100% this business.** A campaign-level pull shows every active campaign in account 4378232023 is a "neworleanspedalbarge" search/PMax campaign — NKST/Bike Bar/Admire NOLA have zero live campaigns there. Spend below is now fully attributed, not shared.
-- **Google Ads: $136.89 yesterday, 0 conversions — the 2nd zero-conversion day in a row** ($171.12/0 conv on 10/11 too). $308 over 2 days with nothing tracked. 7-day CPA still $104.47 (1.64 ROAS), so the week isn't broken, but a 3rd zero day warrants a pause-and-check on the landing page/tracking. See today's brief Action Items #2 and #4.
-- **10 unreplied reviews, but the backlog is rolling, not shrinking.** 3 new 5★ arrivals (Joelle Beckles, Ashley Scott, GillespieAve YungN, all 10/12) pushed 3 older ones (Kaitlyn Gordon, maggie lewis, Cat Reynolds) off page 1 — still unreplied, just buried. [Reply here](https://business.google.com/n/16753778394051046706/reviews)
-- **Meta (act_87863118) spent $196.62 across 3 campaigns.** "Gator Collision | Sept 2026": $155.89, 1 purchase/$419.20 (2.69 ROAS). "Purchase | Retargeting": $19.19, 47 link clicks, 0 purchases. "Messenger | TOF": $21.54, 3 messaging conversations started.
-- **ReplyAgent (Reddit outreach):** not pulled this run — no fresh status to report.
+- **Goal pace: $13,874/wk booked vs $30,000 target, 46% of goal.** Down from ~50% last brief; basis is 6 FH days (10/8-10/13).
+- **Google (4378232023): $120.34, 1.33 conv, 0.83 ROAS yesterday; 1.99 ROAS over 7d ($1,444).** The 2-day zero-conversion streak broke. The goal note's '23-36 ROAS' doesn't match what the account shows, so confirm which campaigns it meant before lifting the cap.
+- **Meta (act_87863118): $165.38 yesterday, 0 purchases** (Gator Collision $132.21, 189 LPVs). 7d: 16 purchases, $3,112, 2.16 ROAS. Watch for a second zero day.
+- **Reviews: 10 of 10 on page 1 unreplied**, 7 new 5★ on 10/13 (Latoya Welsey, Justice Robinson, Debra Verrett, Corea Pickering, Donna Pope, Cathleen Tate, Tadas Eirby). [Reply](https://business.google.com/n/16753778394051046706/reviews)
 <!-- live:end -->
 
 ## Quick links

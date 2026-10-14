@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "No movement on measurable_front_door_by_oct_15 since 2026-08-28 (46 days), deadline 2 days out; 1 new review unreplied (<24h)"
-updated: 2026-10-13
+alert: "measurable_front_door_by_oct_15 due TOMORROW, no movement; 2 gift guide pitches due in 48h"
+updated: 2026-10-14
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** — now 46 days sitting. No GSC property, GA4, or Meta campaign stood up yet. Oct 15 is 2 days out.
-- **1 new unreplied review** — Jesse McFadden-Brennan, 5★, 10/12, under 24h old, not urgent. Everything older is still replied.
-- 4.9 stars, 124 total reviews — still invisible to every channel but GBP.
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28, deadline tomorrow.** Smallest shippable piece: verify the site in Search Console today.
+- **SOS fits:** Organic Spa Magazine gift guide (Thu 10/16 noon ET), Oregon Family Magazine mom gift guide (10/15 10pm PT), Home Business Magazine (Fri 10/17). Say 'draft it.'
+- Jesse McFadden-Brennan 5★ (10/12) unreplied. [Reply](https://business.google.com/n/16140834048343808850/reviews)
 <!-- live:end -->
 
 ## Quick links
