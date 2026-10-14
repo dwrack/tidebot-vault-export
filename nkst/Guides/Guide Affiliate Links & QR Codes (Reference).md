@@ -9,13 +9,13 @@ Single source for guide booking links. Updated 2026-10-14.
 - No guest discount codes. The pitch is "book through me, it supports me directly."
 - No guide links in paid ads or Google listings.
 
-## How it works
-1. Each card's QR code points to our own short link: `neworleanskayakswamptours.com/go/<name>`.
-2. That page shows two buttons, **Swamp Kayak Tour** and **NOLA Party Barge**, each a FareHarbor link tagged with the guide's code (`ref=asn-<code>`).
+## How it works (updated 2026-10-14)
+1. Each card's QR points to a short link we own: NKST guides `neworleanskayakswamptours.com/go/<slug>`, NPB crew `nolapartybarges.com/go/<slug>`.
+2. The short link redirects to that person's page on their brand's site (`/guides/<slug>` on NKST, `/crew/<slug>` on NPB). The page features them, lists the tours they actually work first (from FareHarbor crew assignments in `Marketing/Affiliate Kit/crew-tours.json`), then the sister brand's trips. Every Book button is a FareHarbor item link with their code (`ref=asn-<code>`). Built by `Marketing/Affiliate Kit/pages.py`; bios go in the `bio` column of `people.csv`.
 3. FareHarbor stamps the code on the booking (shows in the booking's online references). Payroll reads it from there.
 4. Because the QR points at our short link, we can change where it goes later without reprinting cards.
 
-**Status:** the `/go/` pages are NOT live yet. Do not print cards until every short link loads.
+**Status:** pages and `/go/` links are NOT live yet (waiting on WordPress app passwords for both sites). Do not print cards until every short link loads.
 
 ## Links
 Full table with both tracked links per guide: `Marketing/Guide Cards/links.csv`
@@ -64,3 +64,5 @@ Tracked link pattern:
   - NKST: Stephanie, Nick, Josh, River Bourne, River Umberger, Michelle, Chelsea, Lexi, Abbie, Emily, Max, Jeffrey
   - NPB: Ben, Kelly, Eddie, Ryan, Kingston, Calvin, Desi, Jarrett, Tom, Charles
   - Not in Slack, not DMed: Abbey Johnson (NKST, onboarding), Mike Burton, Carson Roberts, Todd (NPB). Kelly Young vs Kelly: only one Slack "Kelly", DMed that one.
+
+- 2026-10-14: Follow-up to FH Support adding Ryan David Carr (NKST, 13 tours since June) and Tony Lombardino (NPB crew), both missed in the first list.
