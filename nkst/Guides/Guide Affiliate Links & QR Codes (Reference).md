@@ -37,13 +37,15 @@ Tracked link pattern:
 - NKST: `https://fareharbor.com/embeds/book/neworleanskayakswamptours/?ref=asn-<code>&asn=<code>&full-items=yes&flow=876983`
 - Party Barge: `https://fareharbor.com/embeds/book/neworleanspedalbarge/?ref=asn-<code>&asn=<code>&full-items=yes&flow=876976`
 
-## Files
-- Cards (print-ready, 2x3.5 in, 300 dpi, 1/8 in bleed): `Marketing/Guide Cards/print/<code>.pdf`
-- QR codes alone (PNG + SVG): `Marketing/Guide Cards/qr/<name>.png|svg`
-- Guide photos go in `Marketing/Guide Cards/photos/<code>.jpg`, then run `python3 make_cards.py` in that folder.
+## Files (updated 2026-10-14, v2 design)
+- Everything prints from `Marketing/Affiliate Kit/`: run `python3 print_kit.py` (or `python3 print_kit.py <code>` for one person).
+- Who gets what: `people.csv` (kind = guide for NKST, crew for NOLA Party Barge, affiliate for outside partners). Outside affiliates get a seat-back sign only.
+- Output in `out/`: `<code>-card.pdf` (2x3.5 in business card, vector, 1/8 in bleed), `_card-back.pdf` (shared back), `<code>-seatback.pdf` (5x7 sign). PNG previews alongside.
+- All links: `Marketing/Affiliate Kit/links.csv`. River Umberger's short link is /go/riveru (River Bourne has /go/river).
+- Guide photos go in `Marketing/Guide Cards/photos/<code>.jpg`, then re-run.
 
 ## Adding a new guide
-1. Add a row to `GUIDES` in `make_cards.py` (display name, full name, code, slug) and run it.
+1. Add a row to `Marketing/Affiliate Kit/people.csv` and run `python3 print_kit.py <code>`.
 2. Create their `/go/<slug>` page.
 3. Add them to the Affiliate Master sheet (NOLA tab) and ask FareHarbor to create their affiliate account on both dashboards.
 
