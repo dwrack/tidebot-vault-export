@@ -59,3 +59,13 @@ Once that recording's in hand: pull each guide's story/photo, build the page (H1
 ---
 
 *Related: [[NKST — Affiliate & Partner Program]] · [[NKST — Guide Affiliate Social Selling Playbook]] · [[Guides/Guide Roster 2026 — Active]] · [[reference_fareharbor_no_api]]*
+
+## Update 2026-10-14: business cards, current roster, no guest discount
+- David decided: guide gets 10% commission, **no discount for the guest**. Tracking stays on FareHarbor `ref=asn-<code>` links (no promo codes).
+- Booking history check: only 4 affiliate-coded bookings ever (2023), zero from guides since the July launch. Tracking works, adoption is the problem.
+- Cards: `Marketing/Guide Cards/print/<code>.pdf` (front + back, 2x3.5 in, 300 dpi, 1/8 in bleed). Rebuild with `python3 make_cards.py` after dropping photos in `Marketing/Guide Cards/photos/<code>.jpg`.
+- Current active roster (from payroll config) and codes: stephanielazensky, nicknapoda, joshsmith, riverbourne, michellehealey (new guide code, old ramparttreehouse row left alone), chelseahines, alexishingle (Lexi), abbiemarks, emilyclarke. The last five are new codes not yet in the Affiliate Master sheet.
+- Still open: guide photos, add the 5 new codes to the sheet, commission line in the semimonthly payroll run.
+
+## Commission rule (David, 2026-10-14)
+Commission is paid ONLY on bookings that came through the guide's QR/link code AND whose tour has already run AND is fully paid. No commission on future bookings, cancellations, refunds, or unpaid balances. Paid every 2 weeks with the semimonthly payroll run. 10% of tour price, no guest discount.
