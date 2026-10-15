@@ -24,6 +24,6 @@ Avg paid Social seats per session (of 8), last 8 weeks (8/15 to 10/12):
 3. Start monthly so it sells out. Go every other week only after two sellouts in a row.
 
 ## Check before launch
-- Alcohol / BYOB on the marina and the event itself: add to the insurance renewal Max is quoting (reply due Oct 16).
+- Alcohol / BYOB on the marina and the event itself: add to the 11/6/2026 renewal quotes Jonah is shopping now (Max/McCuddy, Matt/Einstein, Erika/Moore's).
 - Music volume and end time with liveaboard neighbors.
 - Night river plunges with a crowd: "never alone," and float first below 59F.

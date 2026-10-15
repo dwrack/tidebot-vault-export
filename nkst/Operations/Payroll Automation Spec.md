@@ -29,7 +29,7 @@ Locked with David 2026-08-17. Build target: `~/Projects/fareharbor-brief/payroll
 | Abbie Marks | $100 | $200 |
 | Josh Smith (FH login `poboy`) | $100 | $200 |
 
-Extended tours are a flat $200 for everyone regardless of standard rate. **Whitney Plantation combo tours also pay a flat $200** (David, 2026-09-16, confirmed for Stephanie's 9/14 combo; applied to everyone until David says otherwise). Nick confirmed $125 on 2026-08-17 (was previously unconfirmed; the unsigned ICA Exhibit A draft was right on this one).
+Extended tours are a flat $200 for everyone regardless of standard rate. **Whitney Plantation combo tours also pay a flat $200** (David, 2026-09-16, confirmed for Stephanie's 9/14 combo; applied to everyone until David says otherwise). **Private tours pay like their public version: a 2-hour private pays the guide's standard rate, an extended private pays the $200 extended rate** (David, 2026-10-14). Nick confirmed $125 on 2026-08-17 (was previously unconfirmed; the unsigned ICA Exhibit A draft was right on this one).
 
 Any guide not listed = STOP and ask David. Do not default to $100.
 

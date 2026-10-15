@@ -52,3 +52,18 @@ Approx paid Social seat fill (Sat/Sun vs Mon-Fri, 7 sessions x 8 seats; ignores 
 
 ## Oct 13 addendum (Apple Note "18’ wide")
 - David: "Look at Jonah's pricing for Ebb and Ember and do this too": https://www.instagram.com/reel/DeXXBb6ho82/ . Reel not yet reviewed; open it and note which pricing move it's showing before the next #pricing-revamp reply. Full note filed at [[Sauna Layout, Banya Languages & Pricing Reels — Apple Note (Oct 13 2026)]].
+
+## Davey's adds for the Jonah chat (Oct 14, 2026)
+Jonah's feedback deadline in #pricing-revamp: Fri 10/16. Event detail lives in [[Weekly Event Strategy (Oct 2026)]].
+
+1. **Tuesday becomes Rising Tide, noon to close.** A sliding scale ([$20] / [$35] / [$50], pick what fits, no proof) replaces the 50% SERVICE code. The code is barely used: about 20 half-price seats in 16 Tuesdays since 6/23, 13 of them at 7 PM. Tuesday 1 PM and 3 PM average under 2 of 8 seats, so starting at noon costs almost nothing.
+2. **New price point: Family Meal tickets.** A monthly Tuesday evening event (potluck, guest DJ, capped tickets). It needs its own ticket price, which Jonah's grid doesn't have yet.
+3. **Names before 11/1.** Jonah's grid calls the products "weekday visit," "weekend session" and "Boat." Pick final names before Periode gets rebuilt so we only change once.
+   - Davey: keep **Social Sauna**. "Community" sounds cheap.
+   - Option worth a look: **Low Tide** (weekday) / **High Tide** (weekend). The names explain the two price tiers on their own, and the Columbia really is tidal here.
+   - Neither "social sauna" nor "community sauna" has search volume (about 10/mo each in Oregon), so this is a brand call, not SEO.
+   - Asking Jess for her take.
+4. **Small privates are 2 to 4 people.** Copy should say "2 to 4," not "up to 4," since most bookings will be couples.
+5. **Every price on the site shows the exact amount and whether it repeats**, right above the button. The homepage mockup (R2.2) already uses this grid as placeholders.
+6. **Texts:** the website is email only. Jonah's retention texts (day 10, day 14) still need the Twilio texting registration approved (last known "in progress" from June, unverified).
+7. **Insurance:** the policy renews **11/6/2026** and Jonah is shopping it now (Max/McCuddy, Matt/Einstein, Erika/Moore's; Tri-County declined). Get events covered in these quotes: BYOB, a DJ, 30-person nights, night river plunges.

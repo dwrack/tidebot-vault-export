@@ -1,0 +1,106 @@
+# Guide confirm DMs, Oct 1-15 (DRAFT, not sent)
+
+Private DM to each guide. Counts and tour types only, no pay amounts. Commission + card note at the bottom of every message.
+
+---
+
+## Stephanie
+
+Hey Stephanie, quick payroll check for Oct 1-15 before we pay out. Here's what I have for you:
+
+- 10/5 Manchac 9am (Max shadowing)
+- 10/6 Extended
+- 10/7 Combo
+- 10/11 Extended
+- 10/12 Combo (you took the 9am group along too)
+- 10/13 Extended
+- 10/14 Manchac 9am
+
+That's 7 tours: 2 standard, 3 extended, 2 combo. All 7 logs are in, thank you.
+
+Can you confirm that matches what you ran? Also:
+1. Max shadowed you on 10/5, right? Any other training shifts this period?
+2. Got your Lowe's receipt for $27.39. That comes back to you as a reimbursement, separate from tour pay.
+3. For your time on the grey van tire 10/12-10/13, what do you think is fair? Give me a number.
+
+{COMMISSION}
+
+---
+
+## Emily
+
+Hey Emily, payroll check for Oct 1-15. Here's what I have for you:
+
+- 10/1 Manchac 9am
+- 10/10 Manchac 11:30
+- 10/11 Manchac 9am
+- 10/14 Manchac 11:30
+
+That's 4 standard tours. Logs are in for 10/1, 10/10 and 10/11. Can you post the one for today's 11:30?
+
+I have the 10/9 9am as not run because of the storm shutdown. Can you confirm that, and that the list above is right?
+
+{COMMISSION}
+
+---
+
+## Chelsea
+
+Hey Chelsea, payroll check for Oct 1-15. Here's what I have for you:
+
+- 10/8 Extended
+- 10/10 Private 9am
+
+That's 1 extended and 1 private. I can't find logs for either one in Slack. Can you post both Pre-Tour/Post-Tour logs in the channel, and confirm that's everything you ran?
+
+{COMMISSION}
+
+---
+
+## Michelle
+
+Hey Michelle, welcome back! Payroll check for Oct 1-15. The only tour I have for you this period is tomorrow's (10/15) 9am Manchac, so it'll count once it runs and the log is posted. Let me know if I'm missing anything.
+
+{COMMISSION}
+
+---
+
+## River (Bourne)
+
+Hey River, payroll check for Oct 1-15. I have 1 tour for you: 10/2 Manchac 9am, and the log is in. Can you confirm that's everything?
+
+Also, about the training add-on Jeff told you about when Emily shadowed you: what date was that tour? I want to get it on this payroll.
+
+{COMMISSION}
+
+---
+
+## Alexis
+
+Hey Lexi, payroll check for Oct 1-15. I have 1 tour for you: 10/7 Manchac 11:30.
+
+The only log I have from you is the one posted 10/8 (LaPlace, 11:37, Max on his second training shift). Is that the 10/7 11:30 tour? Did Max shadow you on it? And is there anything else you ran that I'm missing?
+
+{COMMISSION}
+
+---
+
+## Abbie
+
+Hey Abbie, payroll check for Oct 1-15. I don't have any tours for you this period. About the $20 you mentioned: what's it for, and what date? I want to get it on this payroll.
+
+{COMMISSION}
+
+---
+
+## Max
+
+Hey Max, quick check on your training shifts so the guides who trained you get credit. I have you shadowing Stephanie on 10/5 and Lexi on 10/7. Is that right, and were there any others?
+
+{COMMISSION}
+
+---
+
+## {COMMISSION} block (same for everyone)
+
+Commission: 0 bookings came in through your link this period. That's on us, the guide links aren't live yet. FareHarbor is setting up guide affiliate accounts now, and we'll print your business cards once your personal booking page loads. You earn 10% of any tour booked through your link or card QR, paid with payroll. TideBot asked earlier today for a card photo. If you haven't sent one yet, reply there with a photo and anything else you'd like on your card.
