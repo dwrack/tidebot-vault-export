@@ -13,6 +13,13 @@
 | 04 A-B Test Backlog | The 16 tests with full copy for both versions, evidence, how to measure |
 | 10 Play 1 | Weather credit vs refund, both versions + a test that can start this week |
 | 11 Play 3 | "How did you hear about us", both versions |
+| 12 NPB Chat | Five price replies (straight, group math, wisecrack, decoy, real scarcity) as a knockout test |
+| 20 Abandoned Bookings | FareHarbor's cart email is on for all 6 brands, 0 recovered so far (verified 10/14) |
+| 30 Quiz Funnels + Nurture | Quiz A vs B per brand, email gate A vs B, nurture A vs B, popup as the front door |
+| 31 Fact Conflicts | Live site vs vault disagreements found while sourcing the quizzes; several are customer-facing |
+| 40 Launch Packet | What each approved card takes to launch, who, and what spends money |
+
+**Quiz code:** `~/Projects/fh-lead-engine-quiz`, branch `quiz-funnels` (cut from capture-v2). 219 tests pass. Previews: `previews/quiz/index.html` (open in a browser, saves nothing). Ships switched off; any [VERIFY] blocks go-live.
 
 **Code:** `~/Projects/fh-lead-engine-ab`, branch `ab-variants` (commit 4453149). Variant assignment, report script, `ab.js`. 36 tests pass. Ships with zero running tests, so merging changes nothing live. Not merged, not deployed. Steps to go live are in its `EXPERIMENTS.md`.
 

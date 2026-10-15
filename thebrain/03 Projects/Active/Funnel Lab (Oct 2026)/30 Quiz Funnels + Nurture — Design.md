@@ -212,7 +212,7 @@ Rules: never medical claims, never "wood-fired", never "a float", always "Ebb & 
 
 ## Abandoned bookings, plainly (David's second question)
 
-**What FareHarbor catches today.** FareHarbor's own abandoned-cart email was switched on by FareHarbor staff for NKST (9/25) and BBK, HPB, LSKT (10/8). NPB and DCKT unconfirmed. It sends one email, 2 hours after drop-off, that we can't edit, and only if the guest typed their email at checkout. Recovered bookings are tagged `abndcrt`. A separate read-only check is counting how many it has recovered (file 20).
+**What FareHarbor catches today (verified 2026-10-14, file 20).** The abandoned-cart email is on for all six FareHarbor brands: NPB and NKST since 9/25, BBK, HPB and LSKT since 10/8, DCKT since at least June. Online cart went live the same days. **Recovered bookings since then: zero at every brand** (NPB 196 online bookings in the window, NKST 73, LSKT 50, BBK 22, HPB 9). DCKT recovered 2 all of 2026 ($395). The windows are short (6 to 19 days), so re-check around 11/15, but the ceiling is low: one email, 2 hours after drop-off, not editable, only if they typed an email, and FareHarbor shows no count of emails sent.
 
 **What it can't do.** One email, no follow-up, no text, no "who left" list we can see. Checkout is an iframe on fareharbor.com, so our own site never learns who started checkout.
 

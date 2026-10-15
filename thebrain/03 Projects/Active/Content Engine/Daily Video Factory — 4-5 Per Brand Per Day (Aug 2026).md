@@ -3,6 +3,14 @@
 *Built Aug 27, 2026. Owner: David. Status: Phase 1 starting.*
 *Companion docs: `06 Learning/532 Content Method` (idea grids), `06 Learning/Headline Typography` (cover-line rule), per-vault `Marketing/532 Content Grid`, `Marketing/UGC Outreach & Repost Playbook`.*
 
+
+> **CURRENT RULES (verified 2026-10-14 from live IG data + Apify market study):** see [[Social Analytics + Market Study (Oct 2026)]].
+> 1. A person in frame in the first 2 seconds. A named crew member who recurs beats everything (Nashville Pedal Tavern "Erik", Door County Trolley "5 Star Ronnie", our DCKT guide jokes).
+> 2. One joke or one tension per post. No feature lists. Price/route/duration goes to Stories and the site, max 1 info carousel a week.
+> 3. Short captions, 3 to 5 hashtags, no "link in bio" up top. Reels over carousels.
+> 4. Proven series per brand: E&E "plans with friends" + save-the-date drops. NPB "Captain [Name]" + bride-request payoffs. DCKT/NKST weekly guide deadpan. HPB bachelorette "BYOB and come get LIT".
+> 5. When filling a grid row, pick the hook from those series first. Education/science rows run last (E&E science posts: 819 to 850 reach vs 2,667 median).
+
 ---
 
 ## The honest math first
