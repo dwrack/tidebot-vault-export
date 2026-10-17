@@ -54,7 +54,7 @@ Savings compound: a 10k-token dump read at turn 5 is re-read on every later turn
 Usage from a Claude session on the Mac:
 
 ```bash
-P=~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/_tools/token-prep   # or wherever this folder lands
+P=~/.claude/tools/token-prep   # installed copy on the Mac; this repo folder is the source
 python3 "$P/vault_digest.py" "<vault folder>" --out /tmp/digest.md      # then read /tmp/digest.md
 python3 "$P/vault_digest.py" --find "cave point wind" --in "<vault>"    # Spotlight instead of find
 python3 "$P/imsg_digest.py" --contact "Catherine" --days 45 --out /tmp/thread.md
