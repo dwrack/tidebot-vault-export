@@ -1,0 +1,689 @@
+<title>Rose Senses</title>
+<meta name="description" content="The Rose, piece by piece: lighting, sound, view and feel across the hot room, the crown, the petals and the river.">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: companion to The Rose model. One long study, a to-scale section up top, then one chapter per sense, each using the same template. Single dark look, by choice, to match the parent page. */
+:root{
+  color-scheme: dark;
+  --ink:#0e1217; --panel:#161c23; --panel2:#1d252e; --line:#2a333d;
+  --text:#ece4dc; --soft:#cfc7bf; --muted:#9ba4ad;
+  --rose:#dc6a82; --ember:#f0a060;
+  --light:#f2c46d; --sound:#6fc3d6; --view:#c3b1ef; --feel:#e57f95;
+  --water:#0f2230; --hull:#3b3f44; --wood:#8a6a4f; --bench:#b88f62;
+  --serif:"Instrument Serif","Iowan Old Style",Georgia,serif;
+  --sans:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+*{box-sizing:border-box}
+html,body{background:var(--ink)}
+body{color:var(--text);font:15px/1.6 var(--sans);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 72px}
+.wrap{max-width:1120px;margin:0 auto}
+a{color:var(--rose)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--ember);outline-offset:2px}
+.eyebrow{font:500 11px/1.4 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+header.top{padding-block:26px 8px;display:grid;gap:10px}
+h1{font:400 clamp(46px,8vw,92px)/.95 var(--serif);margin:0;letter-spacing:-.01em}
+h1 em{font-style:italic;color:var(--rose)}
+.lede{max-width:66ch;color:#d9d1c9;font-size:16.5px;margin:0}
+.crumbs{display:flex;flex-wrap:wrap;gap:6px 14px;font:500 12px/1.4 var(--mono);color:var(--muted)}
+h2{font:400 clamp(32px,4.6vw,48px)/1.05 var(--serif);margin:0 0 12px;text-wrap:balance}
+h2 em{font-style:italic}
+h3{font:600 14.5px/1.35 var(--sans);margin:0 0 6px}
+h4{font:500 11px/1.3 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+p{margin:0 0 12px;max-width:68ch}
+.muted{color:var(--muted)}
+section{padding-block:52px 0}
+.chap{scroll-margin-top:64px}
+code{font:500 12.5px var(--mono);color:#e7c9a8}
+.tag{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase}
+.c-light{color:var(--light)} .c-sound{color:var(--sound)} .c-view{color:var(--view)} .c-feel{color:var(--feel)}
+
+/* sticky sense nav */
+nav.senses{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:rgba(14,18,23,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);margin-top:22px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--ink)}
+nav.senses .in{display:flex;gap:4px;overflow-x:auto;padding-block:8px}
+nav.senses a{flex:0 0 auto;text-decoration:none;font:500 13px/1 var(--sans);color:var(--soft);padding:9px 12px;border-radius:8px}
+nav.senses a:hover{background:var(--panel2);color:var(--text)}
+nav.senses a b{font:500 11px var(--mono);margin-right:6px}
+
+/* section drawing */
+.figure{border:1px solid var(--line);border-radius:14px;background:#0b0f14;overflow:hidden}
+.figbar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between;padding:12px 14px;border-bottom:1px solid var(--line)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;background:var(--panel)}
+.seg button{all:unset;cursor:pointer;font:500 13px/1 var(--sans);color:var(--muted);padding:9px 12px;border-right:1px solid var(--line)}
+.seg button:last-child{border-right:0}
+.seg button:hover{color:var(--text);background:var(--panel2)}
+.seg button[aria-pressed="true"]{color:#14100f;background:var(--sel,var(--rose))}
+.seg button:focus-visible{outline:2px solid var(--ember);outline-offset:-2px}
+.svgscroll{overflow-x:auto}
+.svgscroll svg{display:block;width:100%;min-width:760px;height:auto}
+svg text{font-family:var(--mono)}
+.figcap{padding:10px 14px 14px;font-size:13px;color:var(--muted);border-top:1px solid var(--line)}
+.lyr{transition:opacity .25s}
+svg.focus .lyr{opacity:.1}
+svg.focus-light .lyr.light, svg.focus-sound .lyr.sound, svg.focus-view .lyr.view, svg.focus-feel .lyr.feel{opacity:1}
+@media (prefers-reduced-motion:reduce){.lyr{transition:none}}
+
+/* map matrix */
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:10px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+thead th{font:500 10.5px/1.3 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);background:var(--panel)}
+tbody th{font:600 13.5px/1.35 var(--sans);color:var(--text);white-space:nowrap}
+tbody th small{display:block;font:500 11px var(--mono);color:var(--muted);margin-top:2px}
+td{color:var(--soft)}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--text)}
+tr:last-child td,tr:last-child th{border-bottom:0}
+tr.total td{background:var(--panel);font-weight:600;color:var(--text)}
+.map{min-width:880px}
+.map td{font-size:13.5px}
+
+/* chapter template */
+.intent{font:400 clamp(22px,2.8vw,28px)/1.25 var(--serif);color:#e9e0d8;max-width:40ch;margin:0 0 22px;text-wrap:balance}
+.zones{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin-bottom:22px}
+.zone{border-top:2px solid var(--zc,var(--line));padding-top:12px;min-width:0}
+.zone ul{margin:0;padding-left:18px;font-size:14px;color:var(--soft)}
+.zone li{margin:0 0 6px}
+.zone .code{font:500 11px var(--mono);color:var(--muted);margin-left:6px}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:22px;margin-top:6px}
+.two > div{min-width:0}
+.watch{margin:0;padding:0;list-style:none;display:grid;gap:0}
+.watch li{padding:10px 0;border-top:1px solid var(--line);font-size:14px;color:var(--soft)}
+.watch li b{color:var(--text);font-weight:600}
+.decide{counter-reset:d;list-style:none;padding:0;margin:14px 0 0;display:grid;gap:0}
+.decide li{counter-increment:d;display:grid;grid-template-columns:44px 1fr;gap:6px;padding:11px 0;border-top:1px solid var(--line);font-size:14px;color:#ddd5cd}
+.decide li::before{content:attr(data-n);font:500 12px/1.6 var(--mono);color:var(--dc,var(--rose))}
+.decide li b{color:var(--text)}
+.finding{border:1px solid var(--line);border-left:3px solid var(--view);background:var(--panel);border-radius:10px;padding:14px 16px;margin:0 0 22px}
+.finding p{margin:0 0 8px;font-size:14.5px;color:#ddd5cd}
+.finding p:last-child{margin:0}
+.est{font:500 10px var(--mono);letter-spacing:.06em;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:1px 4px;margin-left:4px;white-space:nowrap}
+
+/* round swimlane */
+.round{min-width:900px}
+.round td{font-size:13px}
+.round th.t{font:500 12px var(--mono);color:var(--ember);white-space:nowrap}
+.round tbody th{font:500 11px var(--mono);letter-spacing:.1em;text-transform:uppercase}
+
+footer{margin-top:56px;padding-top:16px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted);display:grid;gap:8px}
+footer p{max-width:none;margin:0}
+@media (max-width:640px){ .intent{margin-bottom:16px} }
+</style>
+
+<div class="wrap">
+<header class="top">
+  <div class="crumbs"><a href="https://claude.ai/artifact/VPwztPdkTQfPb23vPh2yzz">The Rose (model v0.52)</a><span>Piece: Senses</span><span>Study v0.1 · 17 Oct 2026</span></div>
+  <h1>Rose <em>Senses</em></h1>
+  <p class="lede">The first piece split off the Rose: how it looks lit, how it sounds, what you see from it and how it looks from the river, and what it feels like on skin and underfoot. One rule runs through all four: almost nothing electronic survives the hot room, so the gear lives in a cool ring under the benches or outside the wall, and only glass fiber, wood and a few 120 °C parts go inside.</p>
+</header>
+
+<nav class="senses" aria-label="Senses"><div class="in">
+  <a href="#section">Section</a>
+  <a href="#map">Map</a>
+  <a href="#light"><b class="c-light">L</b>Light</a>
+  <a href="#sound"><b class="c-sound">S</b>Sound</a>
+  <a href="#view"><b class="c-view">V</b>View</a>
+  <a href="#feel"><b class="c-feel">F</b>Feel</a>
+  <a href="#round">The round</a>
+  <a href="#cost">Cost</a>
+  <a href="#decide">Decisions</a>
+</div></nav>
+
+<section id="section" class="chap" style="padding-top:28px">
+  <h2>Where everything <em>lives</em></h2>
+  <p class="muted">A cut through the bridge petal (right, with the window) and the petal opposite it (left), drawn to scale from the brief's working numbers. Heights are from the deck. Pick a sense to see only its parts.</p>
+  <div class="figure">
+    <div class="figbar">
+      <div class="seg" role="group" aria-label="Show layer" id="layerSeg">
+        <button data-l="all" aria-pressed="true" style="--sel:var(--text)">All</button>
+        <button data-l="light" aria-pressed="false" style="--sel:var(--light)">Light</button>
+        <button data-l="sound" aria-pressed="false" style="--sel:var(--sound)">Sound</button>
+        <button data-l="view" aria-pressed="false" style="--sel:var(--view)">View</button>
+        <button data-l="feel" aria-pressed="false" style="--sel:var(--feel)">Feel</button>
+      </div>
+      <span class="eyebrow">Scale 1 m = 55 units · float 14 m across</span>
+    </div>
+    <div class="svgscroll"><svg id="cut" viewBox="0 0 960 430" role="img" aria-label="Cross-section of the Rose hot room and crown, showing air temperature by height, and where light, sound, view and feel equipment sits"></svg></div>
+    <div class="figcap">Tier seats at −0.15, +0.35 and +0.85 m. Seated eye about 0.8 m above the seat. Ceiling 2.55 m, crown deck 3.1 m, parapet petals to about 4.6 m, DJ roof 2.3 m above the crown. Pistil cage height and the inverted crown (decision 74) are not sized yet, so they are dashed.</div>
+  </div>
+</section>
+
+<section id="map" class="chap">
+  <h2>The <em>map</em></h2>
+  <p class="muted">Four senses across the four places you can be. Each cell is detailed in its chapter below. Part codes match the labels in the main model.</p>
+  <div class="tablewrap"><table class="map">
+    <thead><tr><th></th><th class="c-light">Light</th><th class="c-sound">Sound</th><th class="c-view">View</th><th class="c-feel">Feel</th></tr></thead>
+    <tbody>
+      <tr><th>Hot room<small>H1 H2 H3</small></th><td>2700 K fiber, a star ceiling, rib shadows that sweep like a sundial, lit steam over the stove</td><td>Reverb 0.5-0.7 s, faceted walls, speakers in the cool cavities behind slotted risers</td><td>The bridge window, seen across the room over the stove and the heads on its own tier</td><td>75 / 85 / 95 °C by tier, music felt through the benches, a cool scented ring at the peak</td></tr>
+      <tr><th>Crown<small>C1 C2 C3 C4</small></th><td>Step lights, a glow line under the bench ring, the rose window lit from below</td><td>About 95 dBA at the floor during sets, 6 short-throw speakers, cardioid subs, kick through your feet</td><td>Seated: sky and bridge tops over a 1.5 m parapet. Standing: the whole river</td><td>Rubber deck on isolation pads, warm night air, a cold-air burst at the drop</td></tr>
+      <tr><th>Petals and deck<small>P1-P5 G1</small></th><td>Fire roses, grazers up the petal ribs, petal glow from inside the skin</td><td>75-80 dBA at sunset, the fire, the water, the slide</td><td>P3 faces the Hawthorne, P4 faces downtown and the summer sunset</td><td>Soft wet-grip rubber, radiant heat off the fire roses, wind by season</td></tr>
+      <tr><th>From outside<small>S1-S10</small></th><td>The whole flower glows and shifts color, uplights under the float double it on the water</td><td>Logged meters at the rim and the dock's end; limits are set at the neighbor's line</td><td>From the bridge, the Esplanade and across 300 m of river, day and night</td><td>Not applicable</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ===================== LIGHT ===================== -->
+<section id="light" class="chap">
+  <div class="tag c-light">Sense 1 · Light</div>
+  <h2>Light: <em class="c-light">warm inside, a lantern outside</em></h2>
+  <p class="intent">Inside, low and amber with no blue, lit from the side so the ribs throw shadows. Outside, the flower glows on the river and can change color for the night.</p>
+
+  <div class="zones">
+    <div class="zone" style="--zc:var(--light)"><h3>Hot room <span class="code">H1</span></h3><ul>
+      <li>Cariitti glass fiber, 2700 K. The fibers take 180 °C, and the projector sits outside the heat.</li>
+      <li>A star ceiling of 75-100 fiber tails for night löyly.</li>
+      <li>One point source at the foot of every rib, aimed up its side. A light in the center casts no rib shadows, so the light has to come from the sides.</li>
+      <li>Sundial chase: cross-fade the grazers around the ring once per 12-minute round, so the shadows sweep across the ceiling.</li>
+      <li>A warm uplight at the stove turns each pour into a lit column of steam.</li>
+      <li>A dim gobo projector outside the window throws river ripples into the room.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--light)"><h3>Crown <span class="code">C1-C4</span></h3><ul>
+      <li>Low and warm: step lights at the landing, a glow line under the bench ring, no overhead light.</li>
+      <li>A few small IP65 color fixtures in the parapet wash up into the DJ roof.</li>
+      <li>The leaded rose window over the booth (C3) glows at night. From the bridge it reads as the flower's heart.</li>
+      <li>One small hazer for beams on still nights. No lasers.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--light)"><h3>Petals and deck <span class="code">P1-P5</span></h3><ul>
+      <li>Five fire roses. Blackened steel holds a warm glow; polished stainless throws moving flecks across the steps.</li>
+      <li>Grazing spots at the base of each petal throw its rib shadows up the inside face.</li>
+      <li>Every rim and step edge lit low for safe footing after dark.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--light)"><h3>From outside <span class="code">whole flower</span></h3><ul>
+      <li>Outer petals in translucent GFRP, 4-6 mm, tinted pale. RGBW strips along every rib inside the skin, so the petal glows and the ribs read as veins.</li>
+      <li>Presets from the show desk: Rose for a normal night, Ember for Aufguss, Violet for a set, Sage in winter.</li>
+      <li>Uplights under the float edge, so the calyx floats on its own glow and the river doubles the flower.</li>
+      <li>A low green line along the stem to the last leaf.</li>
+    </ul></div>
+  </div>
+
+  <div class="two">
+    <div>
+      <h4>Numbers</h4>
+      <div class="tablewrap"><table>
+        <thead><tr><th>Item</th><th>Spec</th></tr></thead>
+        <tbody>
+          <tr><td>Hot room, day</td><td class="num">2700 K</td></tr>
+          <tr><td>Hot room, evening</td><td class="num">1800-2200 K, no blue</td></tr>
+          <tr><td>Glass fiber tails</td><td class="num">rated 180 °C</td></tr>
+          <tr><td>Cariitti LED strip</td><td class="num">−40 to +125 °C</td></tr>
+          <tr><td>Harvia LED strip (avoid)</td><td class="num">60 °C</td></tr>
+          <tr><td>Star ceiling</td><td class="num">75-100 tails</td></tr>
+          <tr><td>Rib grazers</td><td class="num">1 per rib</td></tr>
+          <tr><td>Sundial chase</td><td class="num">1 lap / 12 min</td></tr>
+          <tr><td>Petal skin</td><td class="num">GFRP 4-6 mm, translucent</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div>
+      <h4>Watch-outs</h4>
+      <ul class="watch">
+        <li><b>Navigation lights.</b> No flashing red or green visible from the channel; those are navigation signals. A steady rose glow is probably fine. Confirm with Coast Guard Sector Columbia River in permitting.</li>
+        <li><b>Flicker.</b> Slow drift on the stove zone only. Fast flicker reads as nightclub or Halloween.</li>
+        <li><b>DMX on Cariitti isn't confirmed.</b> Plan 0-10 V dimmers driven by a DMX pack, or a DMX-native theatrical fiber illuminator outside the room.</li>
+        <li><b>Glare from stainless.</b> Polished fire roses reflect best and also glare. Sample both finishes at night.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h4 style="margin-top:26px">Decisions</h4>
+  <ol class="decide" style="--dc:var(--light)">
+    <li data-n="L1"><b>Exterior color:</b> full RGBW color-change petals, or one fixed rose glow with color kept for events?</li>
+    <li data-n="L2"><b>Fire rose finish:</b> blackened steel, polished stainless, or one of each for a side-by-side season?</li>
+    <li data-n="L3"><b>Osmosis test petal:</b> build one two-layer petal with dyed water pumped through it (slow, alive, costly), or try thermochromic paint first?</li>
+    <li data-n="L4"><b>Night light from the bridge:</b> should the hot room glow be visible from the bridge (a lantern) or kept dim behind the glass (privacy)? See V3.</li>
+  </ol>
+</section>
+
+<!-- ===================== SOUND ===================== -->
+<section id="sound" class="chap">
+  <div class="tag c-sound">Sense 2 · Sound</div>
+  <h2>Sound: <em class="c-sound">close, many, and felt</em></h2>
+  <p class="intent">Many small speakers close to people, with the bass carried through the benches and the deck. Quiet in the air, strong in the body.</p>
+
+  <div class="zones">
+    <div class="zone" style="--zc:var(--sound)"><h3>Hot room acoustics <span class="code">H1</span></h3><ul>
+      <li>Target reverb 0.5-0.7 s at any occupancy, so a host's voice carries without a mic.</li>
+      <li>Bare wood is about 1.3 s empty. About 35 m² of slatted thermo-wood over 50-100 mm stone wool brings it to about 0.7 s.</li>
+      <li>Round rooms focus sound. Facet the lobe walls in flat 1-1.5 m panels, never smooth arcs. That is the biggest single fix.</li>
+      <li>Ceiling ribs at irregular spacing as diffusers. The stone altar scatters the focal point.</li>
+      <li>Ceiling absorbers as removable cassettes, tuned after a sine-sweep test.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--sound)"><h3>Hot room system <span class="code">H1</span></h3><ul>
+      <li>A ring of zones, one or two speakers per petal. Pan a sound petal to petal and it travels around the room.</li>
+      <li>Inside: EOS 945429, the only speaker rated for 120 °C, mounted low.</li>
+      <li>Or ordinary install speakers in the cool cavity under tier 1, firing through slotted risers with 10-15 mm gaps.</li>
+      <li>House level 60-65 dBA. A decibel meter on the host's iPad.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--sound)"><h3>Crown <span class="code">C1 C2</span></h3><ul>
+      <li>About 95 dBA at the center of the floor during sets, 75-80 at sunset.</li>
+      <li>6 weatherproof point sources in the parapet petals, aimed in and down 30-40°, with 3-4 m throws, so level drops fast past the rail.</li>
+      <li>2 subs in the booth base as a cardioid pair, cancelling bass toward downtown and the condos.</li>
+      <li>8-12 transducers under the dance floor, 6-8 under the bench ring.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--sound)"><h3>The flower as an instrument <span class="code">idea</span></h3><ul>
+      <li>David's note: Tuntu, the sauna instrument. What on the Rose could be played?</li>
+      <li>Candidates: the pistil cages as tuned stamens, a sound bowl struck through the bench backs, the cascade under the slide petal.</li>
+      <li>Anything inside the hot room needs a heat rating, so start with the cages, which are steel anyway.</li>
+    </ul></div>
+  </div>
+
+  <div class="two">
+    <div>
+      <h4>Numbers</h4>
+      <div class="tablewrap"><table>
+        <thead><tr><th>Item</th><th>Target</th></tr></thead>
+        <tbody>
+          <tr><td>Hot room reverb</td><td class="num">0.5-0.7 s</td></tr>
+          <tr><td>Hot room, bare, empty</td><td class="num">~1.3 s</td></tr>
+          <tr><td>Absorber area</td><td class="num">~35 m² (15% of room)</td></tr>
+          <tr><td>Hot room house level</td><td class="num">60-65 dBA</td></tr>
+          <tr><td>Crown, during sets</td><td class="num">~95 dBA</td></tr>
+          <tr><td>Crown, sunset</td><td class="num">75-80 dBA</td></tr>
+          <tr><td>Window glass tilt</td><td class="num">5-8°</td></tr>
+          <tr><td>Commercial zone limit</td><td class="num">65 dBA</td></tr>
+          <tr><td>Residential, night <span class="est">verify</span></td><td class="num">~50-55 dBA</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div>
+      <h4>Watch-outs</h4>
+      <ul class="watch">
+        <li><b>The float is a drum.</b> Bass that reaches the hull turns the building and the water into a subwoofer. Elastomer pads under every bench frame and transducer block.</li>
+        <li><b>The crown sits on the hot room.</b> Float the crown deck on isolation pads, or footsteps and subs drum on the ceiling.</li>
+        <li><b>Sound carries over water.</b> Downtown is 300 m across the river. I-5 masks the east side; complaints would come from the west. Amplified sets probably need a noise variance, so raise it at the pre-app.</li>
+        <li><b>Cavity heat.</b> Every cool cavity gets intake air and a sensor that mutes the amps past about 55 °C.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h4 style="margin-top:26px">Decisions</h4>
+  <ol class="decide" style="--dc:var(--sound)">
+    <li data-n="S1"><b>In-room speakers:</b> EOS 120 °C speakers on the wall, or drivers hidden in the cool cavities behind the risers (cheaper, invisible, slightly duller)?</li>
+    <li data-n="S2"><b>Crown sets in the hot room:</b> can the show desk send the DJ set into the hot room at low level, or does the hot room always stay its own world?</li>
+    <li data-n="S3"><b>Instrument commission:</b> brief a sound artist on the pistil cages as tuned stamens?</li>
+    <li data-n="S4"><b>Acoustic consultant:</b> book the ray-trace ($3-10K) now, or once the hot room geometry is frozen?</li>
+  </ol>
+</section>
+
+<!-- ===================== VIEW ===================== -->
+<section id="view" class="chap">
+  <div class="tag c-view">Sense 3 · View</div>
+  <h2>View: <em class="c-view">what you see, and who sees you</em></h2>
+  <p class="intent">Two directions. Views out to the bridge, downtown and the sunset. And the Rose itself, seen from the bridge deck, the Esplanade and across the river.</p>
+
+  <div class="finding">
+    <h4 class="c-view">First sightline check (from the brief's numbers, confirm in the model)</h4>
+    <p>The benches face the stove, so the bridge window sits behind the people on its own petal. Everyone else sees it across the room. In the section above, a seated top-tier guest on the far side looks over the heads on the window petal's top tier and sees only the upper part of the glass: sky and the bridge's upper structure, not the water.</p>
+    <p>The guest directly across from the window loses it behind the stove. Seats to either side see around the stove, which is about 1.4 m wide. Tier 1 sits lowest, so it sees the least.</p>
+    <p>So "a seated view of the Hawthorne from every tier" doesn't hold yet. Three ways to fix it are in V1.</p>
+  </div>
+
+  <div class="zones">
+    <div class="zone" style="--zc:var(--view)"><h3>From the hot room <span class="code">H3</span></h3><ul>
+      <li>One window, 2.4 m wide, from 0.9 to 2.3 m, facing the Hawthorne 110 m downstream.</li>
+      <li>Heat-rated laminated tempered glass, tilted 5-8° so it doesn't flutter-echo with the opposite wall.</li>
+      <li>The north slide petal has a glass base, so the window keeps its view under it.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--view)"><h3>From the crown <span class="code">C1 C2</span></h3><ul>
+      <li>Seated behind a 1.5 m parapet you see sky and the bridge tops. The bench faces in, toward the floor.</li>
+      <li>Standing, you see the whole river: the Hawthorne lift towers, downtown, the Marquam and the Tilikum upstream.</li>
+      <li>From the booth, the DJ sees faces, then flame, then the Hawthorne towers.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--view)"><h3>From the petals <span class="code">P3 P4 P5</span></h3><ul>
+      <li>P3, the bridge petal, faces north to the Hawthorne.</li>
+      <li>P4, the west lounge, faces the river and downtown.</li>
+      <li>Sunset on the east bank: about 305° (northwest) at the June solstice, about 235° (southwest) in December. In summer the sun sets between the bridge and downtown, so P3 and P4 share it. In winter it moves south toward the Marquam.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--view)"><h3>The Rose, seen <span class="code">from outside</span></h3><ul>
+      <li>From the Hawthorne deck, 110 m off, looking down into the crown and the petals.</li>
+      <li>From the Eastbank Esplanade, close up on the same bank.</li>
+      <li>From the downtown waterfront, 300 m across the river. At dusk, this is the photo that sells it.</li>
+      <li>The Bud on the west bank glows back.</li>
+    </ul></div>
+  </div>
+
+  <div class="two">
+    <div>
+      <h4>Numbers</h4>
+      <div class="tablewrap"><table>
+        <thead><tr><th>Item</th><th>Size</th></tr></thead>
+        <tbody>
+          <tr><td>Bridge window</td><td class="num">2.4 m wide, 0.9-2.3 m</td></tr>
+          <tr><td>Seated eye, tier 1 / 2 / 3</td><td class="num">0.65 / 1.15 / 1.65 m</td></tr>
+          <tr><td>Crown parapet</td><td class="num">~1.5 m</td></tr>
+          <tr><td>Hawthorne Bridge</td><td class="num">~110 m north</td></tr>
+          <tr><td>Downtown bank</td><td class="num">~300 m west</td></tr>
+          <tr><td>Sunset, June / Dec</td><td class="num">~305° / ~235°</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div>
+      <h4>Watch-outs</h4>
+      <ul class="watch">
+        <li><b>Being seen.</b> At night, a lit hot room behind clear glass is a lit stage for anyone on the bridge. That can be the lantern effect or a privacy problem.</li>
+        <li><b>Sightline from the water hasn't been checked.</b> It's an open item in the Master Plan: one site visit with a phone camera at seated eye height.</li>
+        <li><b>Swimwear and the bridge.</b> The crown and petals are visible from the bridge deck by day. That's fine for a public bathing culture, but say so up front in the pitch.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h4 style="margin-top:26px">Decisions</h4>
+  <ol class="decide" style="--dc:var(--view)">
+    <li data-n="V1"><b>Fix the window view:</b> (a) take the glass up to the ceiling, (b) make the window petal's top tier a standing alcove so nobody sits in front of the glass, or (c) accept that it's a sky-and-bridge view, not a water view.</li>
+    <li data-n="V2"><b>A second window?</b> One facing downtown and the sunset (P4 side), so the far side of the room gets a view too?</li>
+    <li data-n="V3"><b>Privacy glass:</b> clear, a fine rose-pattern frit band at standing eye height, or keep the interior dim enough after dark that the bridge sees glow, not people?</li>
+    <li data-n="V4"><b>Site visit:</b> do the sightline walk this month (bridge deck, Esplanade, downtown bank, one point on the water)?</li>
+  </ol>
+</section>
+
+<!-- ===================== FEEL ===================== -->
+<section id="feel" class="chap">
+  <div class="tag c-feel">Sense 4 · Feel</div>
+  <h2>Feel: <em class="c-feel">heat, touch, air, and the music in the wood</em></h2>
+  <p class="intent">Everything your skin and feet meet: the heat by tier, the wood you sit on, the rubber you walk on, the bass you feel through the bench, and a cool ring of scented air at the peak.</p>
+
+  <div class="zones">
+    <div class="zone" style="--zc:var(--feel)"><h3>Heat <span class="code">H1 H2</span></h3><ul>
+      <li>Tier 1 about 70-75 °C, for first-timers. Tier 2 about 80-85 °C. Tier 3 about 90-100 °C.</li>
+      <li>Air at the ceiling runs 95-100 °C or more. Under the lowest bench it stays 35-50 °C, and that's where the gear goes.</li>
+      <li>Gas core from EOS (KUSATEK line), stones in steel pistil cages.</li>
+      <li>Fresh air comes in low by the stove and leaves low under the benches, about 9-12 L/s per person.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--feel)"><h3>Touch <span class="code">materials</span></h3><ul>
+      <li>Benches: thermally modified aspen or alder, slats 40 mm minimum, screws from below. No cedar inside; resin and off-gassing at 90 °C.</li>
+      <li>Decks and steps outside: poured rubber (PIP) with an aliphatic binder. Soft and grippy wet, any color. Never over about 70 °C.</li>
+      <li>Slide: gel-coated GFRP, hard and smooth.</li>
+      <li>Door handles: hand-forged, rose-carved, a blacksmith commission.</li>
+      <li>Drapes: silicone-coated fiberglass, which wipes clean and holds no odor.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--feel)"><h3>Music you feel <span class="code">H1 C1</span></h3><ul>
+      <li>Clark Synthesis AW339 transducers, the only kind we found sold for wet, humid installs.</li>
+      <li>15 zones minimum (5 petals × 3 tiers), up to about 30 units at one per 4 × 4 ft of bench.</li>
+      <li>Bolted to blocking under each tier, never to the slats, with a drip shield above.</li>
+      <li>Body-feel range 30-120 Hz. A wave can roll petal to petal or climb tier to tier.</li>
+      <li>We found no large sauna anywhere doing per-seat tactile audio.</li>
+    </ul></div>
+    <div class="zone" style="--zc:var(--feel)"><h3>Air and scent <span class="code">H1</span></h3><ul>
+      <li>The signature moment: a vortex cannon outside the wall fires a cool scented ring through a port at the top tier. Cool air landing on skin at 90 °C.</li>
+      <li>Löyly is the main scent, dosed by EOS AromaTec II (1-3 essences) from the show controller.</li>
+      <li>Palette: Douglas fir, cedarleaf (sparing), rose geranium at the peak, petrichor as a cool ring, peppermint at the fade. In winter, a trace of birch tar.</li>
+      <li>Outside: wind from the NNW in summer, the cold Gorge wind from the ESE in winter.</li>
+    </ul></div>
+  </div>
+
+  <div class="two">
+    <div>
+      <h4>Numbers</h4>
+      <div class="tablewrap"><table>
+        <thead><tr><th>Item</th><th>Spec</th></tr></thead>
+        <tbody>
+          <tr><td>Tier 1 / 2 / 3</td><td class="num">~75 / ~85 / ~95 °C</td></tr>
+          <tr><td>Under-bench cavity</td><td class="num">35-50 °C</td></tr>
+          <tr><td>Cavity mute threshold</td><td class="num">~55 °C</td></tr>
+          <tr><td>Fresh air</td><td class="num">9-12 L/s per person</td></tr>
+          <tr><td>Bench slats</td><td class="num">≥ 40 mm</td></tr>
+          <tr><td>Clear over top bench</td><td class="num">≥ 1.2 m</td></tr>
+          <tr><td>Tactile zones</td><td class="num">15 min, up to ~30 units</td></tr>
+          <tr><td>Tactile band</td><td class="num">30-120 Hz</td></tr>
+          <tr><td>PIP rubber, installed</td><td class="num">$10-18 / ft²</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div>
+      <h4>Watch-outs</h4>
+      <ul class="watch">
+        <li><b>No glycol fog, no neat oil on stones.</b> Oil on 300 °C stones breaks down into formaldehyde and acrolein, and eucalyptus flashes below the room's air temperature. Water-diluted only.</li>
+        <li><b>Wood soaks up scent.</b> One house palette at a time, a 5-10 minute purge between sessions, and one fragrance-free session a day.</li>
+        <li><b>Dark rubber in July sun</b> gets hot underfoot. Light colors on sun-facing decks.</li>
+        <li><b>Fire roses warm the view, not the top step.</b> Reflector petals plus warm tread strips on the upper steps.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h4 style="margin-top:26px">Decisions</h4>
+  <ol class="decide" style="--dc:var(--feel)">
+    <li data-n="F1"><b>Bench wood:</b> thermo-aspen or thermo-alder? Order one board of each and sit on both at 90 °C.</li>
+    <li data-n="F2"><b>Tactile density:</b> 15 zones (one per petal per tier, softer coverage) or about 30 units at Clark's full density?</li>
+    <li data-n="F3"><b>Scent Cannon:</b> talk to the Maine outfit about a custom install or a launch rental, after the $300 test cannon proves the idea?</li>
+    <li data-n="F4"><b>House scent:</b> commission a signature Rose scent from a perfumer, the way AIRE did with orange blossom?</li>
+  </ol>
+</section>
+
+<!-- ===================== ROUND ===================== -->
+<section id="round" class="chap">
+  <h2>One round, <em>all four senses</em></h2>
+  <p class="muted">The 12-minute round from the brief, split by sense so each lane can be designed on its own. One show controller runs it; the host has six buttons and a hard all-off.</p>
+  <div class="tablewrap"><table class="round">
+    <thead><tr><th></th><th class="t">0:00</th><th class="t">1:00</th><th class="t">2:00</th><th class="t">5:00</th><th class="t">8:00</th><th class="t">10:00</th><th class="t">11:00</th><th class="t">12:00</th></tr></thead>
+    <tbody>
+      <tr><th class="c-light">Light</th><td>House fades to 2200 K, stars up</td><td>Hold</td><td>Sundial chase begins</td><td>Chase continues</td><td>Lit steam column over the stove</td><td>Hold</td><td>Stars only</td><td>2700 K, doors open</td></tr>
+      <tr><th class="c-sound">Sound</th><td>Room goes quiet</td><td>Host speaks, no reverb added</td><td>Low swell</td><td>Rhythm under the towel work</td><td>Quiet in the air</td><td>Hold</td><td>Silence, then a sound bowl</td><td>Purge fan</td></tr>
+      <tr><th class="c-view">View</th><td>Window dims to the river</td><td></td><td></td><td></td><td>All eyes to the steam</td><td></td><td>Dark glass, city lights</td><td>Doors open to the petals</td></tr>
+      <tr><th class="c-feel">Feel</th><td>35 Hz hum in the benches</td><td></td><td>First pour, Douglas fir; swell rolls petal to petal</td><td>Second pour, cedar and rose; felt tier by tier</td><td>Peak heat, rose; benches at max</td><td>Cool vortex ring to each petal in turn</td><td>The bowl felt through the bench backs</td><td>Out to the river or the slide</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ===================== COST ===================== -->
+<section id="cost" class="chap">
+  <h2>What it <em>costs</em></h2>
+  <p class="muted">Estimates from the research files, not bids. Equipment unless noted.</p>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Line</th><th>Low</th><th>High</th><th>Source</th></tr></thead>
+    <tbody>
+      <tr><td><span class="c-feel">Feel</span> · Tactile transducers, amps, cabling</td><td class="num">$12K</td><td class="num">$30K</td><td>research_sensory</td></tr>
+      <tr><td><span class="c-sound">Sound</span> · Hot room speakers and subs</td><td class="num">$3K</td><td class="num">$12K</td><td>research_sensory</td></tr>
+      <tr><td><span class="c-sound">Sound</span> · Control: Q-SYS, Dante, iPad, QLab</td><td class="num">$7K</td><td class="num">$15K</td><td>research_sensory</td></tr>
+      <tr><td><span class="c-light">Light</span> · Hot room fiber, star ceiling, 125 °C LED, dimming</td><td class="num">$6K</td><td class="num">$15K</td><td>research_sensory</td></tr>
+      <tr><td><span class="c-light">Light</span> · Ripple projector outside the window</td><td class="num">$1.5K</td><td class="num">$6K</td><td>research_sensory</td></tr>
+      <tr><td><span class="c-feel">Feel</span> · Scent dosing, ring cannons, intake diffuser</td><td class="num">$4K</td><td class="num">$15K</td><td>research_sensory</td></tr>
+      <tr><td><span class="c-sound">Sound</span> · Slat and stone-wool treatment, installed</td><td class="num">$15K</td><td class="num">$35K</td><td>Acoustics plan</td></tr>
+      <tr><td><span class="c-sound">Sound</span> · Acoustic consultant, ray-trace and tuning</td><td class="num">$3K</td><td class="num">$10K</td><td>Acoustics plan</td></tr>
+      <tr><td><span class="c-sound">Sound</span> · Crown system, installed</td><td class="num">$40K</td><td class="num">$80K</td><td>Crown spec</td></tr>
+      <tr class="total"><td>Priced so far</td><td class="num">~$92K</td><td class="num">~$218K</td><td></td></tr>
+      <tr><td><span class="c-light">Light</span> · Exterior petal glow, float uplights, crown fixtures</td><td colspan="2" class="num">not priced</td><td>Next step</td></tr>
+      <tr><td><span class="c-view">View</span> · Window glass and frit</td><td colspan="2" class="num">in the hot room line</td><td>Main budget</td></tr>
+    </tbody>
+  </table></div>
+  <p class="muted" style="margin-top:10px">The main model's budget carries "Sensory layer, drapes" at $90-225K, so this piece sits right on that line before the exterior light is priced.</p>
+</section>
+
+<!-- ===================== DECISIONS ===================== -->
+<section id="decide" class="chap">
+  <h2>Next <em>steps</em></h2>
+  <ol class="decide">
+    <li data-n="1"><b>Run the sensory test in the current sauna.</b> 2 transducers under the lowest bench, a probe in the cavity, a $300 ring cannon on the cool-down deck. About $1.2-1.8K. It tests the two riskiest ideas before we design around them.</li>
+    <li data-n="2"><b>Fix the window sightline</b> (V1) in the main model, then check it from three seats.</li>
+    <li data-n="3"><b>Order samples:</b> thermo-aspen and alder boards, PIP rubber pucks in 3 pinks and 2 greens, a GFRP gel-coat panel, and a lit translucent GFRP offcut for the glow.</li>
+    <li data-n="4"><b>Price the exterior light</b> so the cost table is complete.</li>
+    <li data-n="5"><b>Sightline and noise walk</b> on site: bridge deck, Esplanade, downtown bank, with a phone camera and a sound meter.</li>
+  </ol>
+  <p class="muted" style="margin-top:14px">Answer by code (L1, S2, V1...) and the next round of this page will follow.</p>
+</section>
+
+<footer>
+  <p>Built from the Ebb &amp; Ember vault, Operations / The Rose: Design Brief s.4-7 and s.15-17, Interior acoustics plan, Crown and DJ Booth Spec s.8-9, Materials Plan, research_sensory, research_heat, and David's idea notes. Sunset bearings computed for 45.5° N.</p>
+  <p>Pre-engineering. Sizes, levels and costs are estimates until a licensed engineer, an acoustic consultant and a naval architect run them.</p>
+</footer>
+</div>
+
+<script>
+(function(){
+  const NS='http://www.w3.org/2000/svg', svg=document.getElementById('cut');
+  const X=r=>480+55*r, Y=h=>330-55*h;
+  const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const C={light:css('--light'),sound:css('--sound'),view:css('--view'),feel:css('--feel'),text:css('--text'),muted:css('--muted'),line:css('--line'),water:css('--water'),hull:css('--hull'),wood:css('--wood'),bench:css('--bench'),rose:css('--rose'),soft:css('--soft')};
+  function el(tag,attrs,parent){const e=document.createElementNS(NS,tag);for(const k in attrs)e.setAttribute(k,attrs[k]);(parent||svg).appendChild(e);return e;}
+  function g(cls){return el('g',cls?{class:'lyr '+cls}:{});}
+  function rect(r0,r1,h0,h1,attrs,p){return el('rect',Object.assign({x:X(Math.min(r0,r1)),y:Y(Math.max(h0,h1)),width:Math.abs(X(r1)-X(r0)),height:Math.abs(Y(h1)-Y(h0))},attrs),p);}
+  function line(r0,h0,r1,h1,attrs,p){return el('line',Object.assign({x1:X(r0),y1:Y(h0),x2:X(r1),y2:Y(h1)},attrs),p);}
+  function text(r,h,s,attrs,p){const t=el('text',Object.assign({x:X(r),y:Y(h),'font-size':10.5,fill:C.muted},attrs),p);t.textContent=s;return t;}
+
+  const defs=el('defs',{});
+  const grad=el('linearGradient',{id:'air',x1:0,y1:0,x2:0,y2:1},defs);
+  [[0,'#7a3b22',.55],[.45,'#5a2e24',.42],[.8,'#2a2226',.3],[1,'#1a2028',.25]].forEach(([o,c,a])=>el('stop',{offset:o,'stop-color':c,'stop-opacity':a},grad));
+  const hatch=el('pattern',{id:'cav',width:6,height:6,patternUnits:'userSpaceOnUse',patternTransform:'rotate(45)'},defs);
+  el('line',{x1:0,y1:0,x2:0,y2:6,stroke:C.sound,'stroke-opacity':.25,'stroke-width':2},hatch);
+  const arrow=(id,col)=>{const m=el('marker',{id,viewBox:'0 0 10 10',refX:8,refY:5,markerWidth:6,markerHeight:6,orient:'auto-start-reverse'},defs);el('path',{d:'M0,0 L10,5 L0,10 z',fill:col},m);};
+  arrow('aF',C.feel); arrow('aV',C.view); arrow('aL',C.light); arrow('aS',C.sound);
+
+  // ---- base: water, float, room, tiers, walls, roof, crown ----
+  const base=el('g',{});
+  rect(-8.7,8.7,-0.51,-1.75,{fill:C.water},base);
+  line(-8.7,-0.51,8.7,-0.51,{stroke:'#3a6a86','stroke-width':1,'stroke-dasharray':'6 4'},base);
+  text(-8.3,-0.38,'river',{fill:'#5f8fab'},base);
+  rect(-7,7,0,-1.3,{fill:C.hull},base);
+  text(-6.8,-1.2,'float · concrete-encased foam',{fill:'#8b9096'},base);
+  rect(-4.25,4.25,-0.6,2.55,{fill:'url(#air)'},base);   // heated air
+  rect(-1.7,1.7,0,-0.6,{fill:'#1a2028'},base);          // pit
+  rect(-7,7,0,0.05,{fill:C.wood},base);
+  rect(-1.7,1.7,-0.6,-0.56,{fill:C.wood},base);
+  const tiers=[[1.70,2.35,-0.15],[2.35,3.00,0.35],[3.00,3.60,0.85]];
+  for(const s of [-1,1]){
+    for(const [a,b,top] of tiers){
+      rect(s*a,s*b,-0.6,top,{fill:'url(#cav)',stroke:C.bench,'stroke-opacity':.5,'stroke-width':.8},base);
+      rect(s*a,s*b,top-0.07,top,{fill:C.bench},base);
+    }
+    rect(s*4.25,s*4.47,0,2.55,{fill:'#2a2324',stroke:'#4a3b3d','stroke-width':.6},base);
+  }
+  // window gap on the right wall (bridge petal)
+  rect(4.25,4.47,0.9,2.3,{fill:'#0b0f14'},base);
+  rect(4.32,4.40,0.9,2.3,{fill:C.view,'fill-opacity':.35},base);
+  text(4.6,2.4,'H3 bridge window',{fill:C.view},base);
+  // ceiling + roof stack + crown deck
+  rect(-4.47,4.47,2.55,2.75,{fill:'#5b4636'},base);
+  rect(-4.47,4.47,2.75,3.05,{fill:'#3b3330'},base);
+  rect(-4.6,4.6,3.05,3.1,{fill:'#7a5f4a'},base);
+  text(-4.4,3.18,'C1 crown deck',{fill:C.muted},base);
+  // parapet petals
+  for(const s of [-1,1]){
+    el('path',{d:`M${X(s*4.6)},${Y(3.1)} C${X(s*4.9)},${Y(3.6)} ${X(s*4.9)},${Y(4.3)} ${X(s*4.55)},${Y(4.6)} L${X(s*4.4)},${Y(4.5)} C${X(s*4.6)},${Y(4.1)} ${X(s*4.55)},${Y(3.5)} ${X(s*4.35)},${Y(3.1)} Z`,fill:C.rose,'fill-opacity':.55},base);
+  }
+  // DJ booth posts + roof
+  for(const s of [-1,1]) line(s*1.2,3.1,s*1.2,5.4,{stroke:'#9aa3ab','stroke-width':1.4},base);
+  el('path',{d:`M${X(-1.5)},${Y(5.4)} Q${X(0)},${Y(6.1)} ${X(1.5)},${Y(5.4)} Z`,fill:C.rose,'fill-opacity':.35,stroke:C.rose,'stroke-width':1},base);
+  text(0,5.62,'C3 rose window',{fill:C.rose,'text-anchor':'middle'},base);
+  rect(-0.6,0.6,3.1,4.05,{fill:'#22262c',stroke:'#3a4048'},base);
+  text(0,4.15,'C2 DJ',{fill:C.soft,'text-anchor':'middle'},base);
+  // stove + pistils
+  rect(-0.7,0.7,-0.6,1.3,{fill:'#2e2c2b',stroke:'#4a4644'},base);
+  for(const a of [-0.55,-0.25,0.25,0.55]) el('path',{d:`M${X(a*0.6)},${Y(1.3)} Q${X(a*1.1)},${Y(1.55)} ${X(a*1.5)},${Y(1.75)}`,fill:'none',stroke:'#9aa3ab','stroke-width':1.2,'stroke-dasharray':'3 2'},base);
+  text(0,0.3,'H2 stove',{fill:'#c9c2bb','text-anchor':'middle'},base);
+  // inverted crown (dashed)
+  el('path',{d:`M${X(-1.1)},${Y(2.55)} L${X(-0.6)},${Y(2.2)} L${X(0)},${Y(2.35)} L${X(0.6)},${Y(2.2)} L${X(1.1)},${Y(2.55)}`,fill:'none',stroke:'#c9a77d','stroke-width':1,'stroke-dasharray':'4 3'},base);
+  // temperature labels (left, inside room)
+  // air temperature scale, outside on the far left
+  const tg=el('linearGradient',{id:'tbar',x1:0,y1:0,x2:0,y2:1},defs);
+  [[0,C.ember],[.55,'#a0503a'],[1,C.sound]].forEach(([o,c])=>el('stop',{offset:o,'stop-color':c},tg));
+  rect(-8.62,-8.52,-0.45,2.55,{fill:'url(#tbar)',rx:2},base);
+  [[2.4,'ceiling 95-100 °C',C.ember],[1.7,'top tier ~90 °C',C.ember],[0.85,'tier 1 ~75 °C',C.soft],[-0.35,'cool ring 35-50 °C',C.sound]].forEach(([h,s,c])=>text(-8.4,h-0.07,s,{fill:c,'text-anchor':'start'},base));
+  // seated people: heads (eye at seat+0.8, head center a bit higher)
+  for(const s of [-1,1]) for(const [a,b,top] of tiers){
+    const r=s*(a+b)/2+s*0.05;
+    el('circle',{cx:X(r),cy:Y(top+0.88),r:5.5,fill:'#e8d6c4','fill-opacity':.8},base);
+    line(r,top+0.05,r,top+0.78,{stroke:'#e8d6c4','stroke-opacity':.55,'stroke-width':5,'stroke-linecap':'round'},base);
+  }
+  // scale bar
+  line(5.2,-1.55,7.2,-1.55,{stroke:C.soft,'stroke-width':1.2},base);
+  for(const r of [5.2,6.2,7.2]) line(r,-1.5,r,-1.6,{stroke:C.soft},base);
+  text(6.2,-1.4,'2 m',{fill:C.soft,'text-anchor':'middle'},base);
+
+  // ---- LIGHT ----
+  const L=g('light');
+  for(let r=-3.9;r<=3.9;r+=0.32) el('circle',{cx:X(r),cy:Y(2.5)+((r*7)%3),r:1.3,fill:C.light},L);
+  for(const s of [-1,1]){
+    el('circle',{cx:X(s*4.15),cy:Y(0.12),r:3,fill:C.light},L);
+    el('path',{d:`M${X(s*4.15)},${Y(0.12)} L${X(s*4.22)},${Y(2.5)} L${X(s*3.75)},${Y(2.5)} Z`,fill:C.light,'fill-opacity':.12},L);
+    // float uplights + petal glow
+    el('path',{d:`M${X(s*7)},${Y(0.05)} L${X(s*7.5)},${Y(1.6)} L${X(s*6.6)},${Y(1.6)} Z`,fill:C.light,'fill-opacity':.1},L);
+    el('circle',{cx:X(s*7),cy:Y(0.06),r:3,fill:C.light},L);
+    el('path',{d:`M${X(s*4.6)},${Y(3.1)} C${X(s*4.9)},${Y(3.6)} ${X(s*4.9)},${Y(4.3)} ${X(s*4.55)},${Y(4.6)}`,fill:'none',stroke:C.light,'stroke-width':2.4,'stroke-opacity':.8},L);
+  }
+  rect(-5.15,-4.65,0.15,0.55,{fill:'#2b2a22',stroke:C.light},L);
+  el('path',{d:`M${X(-4.9)},${Y(0.55)} L${X(-4.9)},${Y(2.62)} L${X(-3.9)},${Y(2.62)}`,fill:'none',stroke:C.light,'stroke-width':1,'stroke-dasharray':'2 2'},L);
+  text(-5.25,0.75,'fiber projector',{fill:C.light,'text-anchor':'end'},L);
+  text(-5.25,0.55,'outside the heat',{fill:C.light,'text-anchor':'end'},L);
+  el('path',{d:`M${X(0)},${Y(1.35)} L${X(0.45)},${Y(2.45)} L${X(-0.45)},${Y(2.45)} Z`,fill:C.light,'fill-opacity':.18},L);
+  text(0.55,1.5,'lit steam',{fill:C.light},L);
+  rect(5.3,5.8,1.45,1.75,{fill:'#2b2a22',stroke:C.light},L);
+  line(5.3,1.6,3.6,1.2,{stroke:C.light,'stroke-width':1,'stroke-dasharray':'3 3','marker-end':'url(#aL)'},L);
+  text(5.9,1.85,'ripple gobo',{fill:C.light},L);
+  text(-3.9,2.66,'star ceiling · rib grazers below',{fill:C.light,'text-anchor':'start','font-size':10},L);
+  text(8.6,-0.32,'float uplight',{fill:C.light,'text-anchor':'end'},L);
+  text(-4.95,4.7,'petal glow',{fill:C.light,'text-anchor':'end'},L);
+
+  // ---- SOUND ----
+  const S=g('sound');
+  for(const s of [-1,1]){
+    // drivers in cool cavity under tier 1, firing through riser
+    rect(s*1.75,s*2.05,-0.5,-0.25,{fill:'#16323a',stroke:C.sound},S);
+    // transducers under each tier top
+    for(const [a,b,top] of tiers){ rect(s*((a+b)/2-0.09),s*((a+b)/2+0.09),top-0.2,top-0.09,{fill:C.sound},S); }
+    // isolation pads under benches
+    line(s*1.7,-0.58,s*3.6,-0.58,{stroke:C.sound,'stroke-width':3,'stroke-dasharray':'4 3'},S);
+    // EOS wall speaker
+    rect(s*4.12,s*4.25,0.8,1.05,{fill:C.sound},S);
+    // crown parapet speakers aimed in and down
+    rect(s*4.15,s*4.4,3.75,3.95,{fill:C.sound},S);
+    el('path',{d:`M${X(s*4.15)},${Y(3.85)} L${X(s*2.6)},${Y(3.12)} L${X(s*3.3)},${Y(3.12)} Z`,fill:C.sound,'fill-opacity':.14},S);
+  }
+  // crown isolation pads
+  line(-4.4,3.03,4.4,3.03,{stroke:C.sound,'stroke-width':2,'stroke-dasharray':'4 3'},S);
+  rect(-0.55,0.55,3.12,3.45,{fill:'#16323a',stroke:C.sound},S);
+  text(0,3.25,'cardioid subs',{fill:C.sound,'text-anchor':'middle','font-size':9.5},S);
+  text(2.2,-0.85,'drivers + transducers in the cool ring, pads under every bench',{fill:C.sound,'text-anchor':'middle'},S);
+  text(-4.0,1.18,'EOS 120 °C',{fill:C.sound,'text-anchor':'start','font-size':9.5},S);
+  text(-2.9,4.2,'parapet speakers, 30-40° down',{fill:C.sound,'text-anchor':'middle'},S);
+
+  // ---- VIEW ----
+  const V=g('view');
+  const eye=[-3.25,1.65];
+  line(eye[0],eye[1],4.36,2.3,{stroke:C.view,'stroke-width':1.3,'marker-end':'url(#aV)'},V);
+  // blocked ray to sill
+  const hit=[3.30,1.65+(0.9-1.65)*((3.30-eye[0])/(4.36-eye[0]))];
+  line(eye[0],eye[1],hit[0],hit[1],{stroke:C.view,'stroke-width':1.3,'stroke-dasharray':'5 4'},V);
+  el('path',{d:`M${X(hit[0])-5},${Y(hit[1])-5} l10,10 m0,-10 l-10,10`,stroke:C.view,'stroke-width':1.6},V);
+  // tier 1 ray blocked by stove
+  line(-2.0,0.65,-0.7,0.65+(1.3*(2.3-0.65)/6.36),{stroke:C.view,'stroke-width':1.1,'stroke-dasharray':'5 4'},V);
+  const sx=-0.7, sy=0.65+(1.3*(2.3-0.65)/6.36);
+  el('path',{d:`M${X(sx)-5},${Y(sy)-5} l10,10 m0,-10 l-10,10`,stroke:C.view,'stroke-width':1.6},V);
+  // beyond the window: line continues outward
+  line(4.47,2.3+0.0896*0.11,8.6,2.3+0.0896*4.24,{stroke:C.view,'stroke-width':1,'stroke-opacity':.6,'stroke-dasharray':'2 3'},V);
+  text(6.6,3.05,'sky and bridge tops',{fill:C.view,'text-anchor':'middle'},V);
+  text(2.95,1.9,'blocked by heads',{fill:C.view,'text-anchor':'end','font-size':9.5},V);
+  text(-0.75,1.15,'stove blocks',{fill:C.view,'text-anchor':'end','font-size':9.5},V);
+  // standing view from the crown
+  line(3.2,4.85,8.6,4.2,{stroke:C.view,'stroke-width':1,'stroke-opacity':.7,'marker-end':'url(#aV)'},V);
+  el('circle',{cx:X(3.2),cy:Y(4.85),r:4,fill:C.view},V);
+  text(6.7,4.15,'standing on the crown: the river',{fill:C.view,'text-anchor':'middle'},V);
+
+  // ---- FEEL ----
+  const F=g('feel');
+  rect(-5.25,-4.6,1.6,1.9,{fill:'#2c1a20',stroke:C.feel},F);
+  text(-5.3,2.0,'ring cannon',{fill:C.feel,'text-anchor':'end'},F);
+  el('path',{d:`M${X(-4.5)},${Y(1.75)} Q${X(-0.7)},${Y(2.45)} ${X(3.1)},${Y(1.75)}`,fill:'none',stroke:C.feel,'stroke-width':1.3,'stroke-dasharray':'2 4','marker-end':'url(#aF)'},F);
+  for(const r of [-2.2,0.4,2.4]){ const t=(r+4.5)/7.6, h=1.75+0.35*4*t*(1-t); el('ellipse',{cx:X(r),cy:Y(h),rx:4,ry:8,fill:'none',stroke:C.feel,'stroke-width':1.4},F); }
+  text(-1.6,2.27,'cool scented ring',{fill:C.feel,'text-anchor':'middle'},F);
+  // fresh air in low by stove, exhaust low under benches
+  line(-1.55,-0.48,-0.85,-0.48,{stroke:C.feel,'stroke-width':1.4,'marker-end':'url(#aF)'},F);
+  text(-1.3,-0.35,'air in',{fill:C.feel,'text-anchor':'middle','font-size':9.5},F);
+  line(3.45,-0.45,4.6,-0.45,{stroke:C.feel,'stroke-width':1.4,'marker-end':'url(#aF)'},F);
+  text(4.0,-0.3,'out',{fill:C.feel,'text-anchor':'middle','font-size':9.5},F);
+  // bench slats + transducer feel
+  for(const s of [-1,1]) for(const [a,b,top] of tiers) rect(s*a,s*b,top-0.07,top,{fill:C.feel,'fill-opacity':.6},F);
+  text(-4.6,-0.92,'thermo-aspen slats',{fill:C.feel,'text-anchor':'middle','font-size':9.5},F);
+  // PIP rubber on decks
+  rect(-7,-4.6,0.05,0.11,{fill:C.feel,'fill-opacity':.7},F); rect(4.6,7,0.05,0.11,{fill:C.feel,'fill-opacity':.7},F);
+  rect(-4.6,4.6,3.1,3.16,{fill:C.feel,'fill-opacity':.7},F);
+  text(-5.8,-0.22,'rubber deck',{fill:C.feel,'text-anchor':'middle'},F);
+
+  // ---- layer toggle ----
+  const seg=document.getElementById('layerSeg');
+  seg.addEventListener('click',e=>{const b=e.target.closest('button'); if(!b) return; const l=b.dataset.l;
+    seg.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b?'true':'false'));
+    svg.setAttribute('class', l==='all' ? '' : 'focus focus-'+l);
+  });
+})();
+</script>
