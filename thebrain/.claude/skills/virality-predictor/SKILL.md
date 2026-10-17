@@ -21,6 +21,8 @@ If the brand is not given and cannot be inferred from the file path or content, 
 
 ## Step 1: Load the brand context
 
+This skill lives in `thebrain/`. Brand folders are its siblings at the vault root (`../<brand>/` from `thebrain/`), so every `<brand>/...` path below is relative to the vault root, not to `thebrain/`. Also check `thebrain/03 Projects/Active/Content Engine/` for cross-brand content notes.
+
 Search the brand folder before scoring, the brand's own data beats the generic rubric:
 
 - `<brand>/Marketing/**/*Viral Playbook*` - the rules and house style (hook timing, length bands, caption formula, banned claims).
@@ -36,7 +38,7 @@ Use Glob/Grep, not guesses. If a brand has no playbook, borrow `dckt/Marketing/C
 For a video file run:
 
 ```bash
-bash .claude/skills/virality-predictor/scripts/extract_frames.sh "<video>" "<scratch dir>"
+bash "<vault root>/thebrain/.claude/skills/virality-predictor/scripts/extract_frames.sh" "<video>" "<scratch dir>"
 ```
 
 It prints duration, resolution/aspect, fps, whether there is audio and its loudness, and writes:
@@ -66,6 +68,7 @@ Run it when a video file is available AND the Higgsfield CLI is installed and si
 command -v higgsfield && higgsfield --help   # find the brain_activity / virality command and its flags
 ```
 
+- Cloud sessions: the API token is read from the `HIGGSFIELD_API_KEY` environment variable (set in the environment's settings, never pasted in chat). Install the CLI with `curl -fsSL https://raw.githubusercontent.com/higgsfield-ai/cli/main/install.sh | sh`, then check `higgsfield --help` / `higgsfield auth --help` for how it takes a token (env var or a login flag) and use that. Never print the token.
 - Not installed: skip this step and say so in one line. Setup (on the user's machine): `npx skills add higgsfield-ai/skills`, then `higgsfield auth login`. Do not run the login for the user.
 - It takes clips up to 15 seconds. For a longer clip, score the opening, which is where the swipe decision happens: `ffmpeg -y -i in.mp4 -t 15 -c copy first15.mp4`. Note in the report that only the first 15s were scanned.
 - Pass the video with `--video`, no prompt needed. Use the exact command and flags `--help` shows, do not guess them.
