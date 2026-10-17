@@ -1,10 +1,7 @@
 # DCKT — Todo List
 
-## From guide logs (recovered 2026-09-30, sync was down since Jul 24)
-_Audio-log items. Some were invented by a transcription bug, review before acting._
-- [ ] [Guide log] Inspect and repair the blue tandem kayak with a hairline crack near the drain plug. _(Lucas (audio log), 2026-08-11)_
-
 ## High Priority
+- [ ] [Guide log] Inspect and repair the blue tandem kayak with a hairline crack near the drain plug. _(Lucas (audio log), 2026-08-11)_
 - [ ] 🔴 **E-bike minimum age conflict — resolve before publishing anything.** David says 12 if they fit the bike. Both Wisconsin e-bike waivers (drafts pending attorney review) and the Guide Certification Quiz say 16. **Update Aug 15 (pass 40):** fleet class confirmed Class 2 (self-declared in `Waiver — Self-Checkout E-Bike Rental` line 23), which carries no Wisconsin state age minimum, that half of the blocker is closed. Only open step now: ask the carrier whether the policy itself sets a minimum operator age. If it clears, update the two waivers + quiz FIRST, then the page. (D)
 - [ ] **E-bike page: publish age + weight limits** once the above clears. Confirmed Aug 11 that neither the 285 lb weight limit nor any age minimum appeared anywhere on /e-bike-tours/, despite this being logged at **725 emails / high priority** in the FAQ Database. **Update Aug 14:** the live page has changed since Aug 11 — it now reads "Young adults ages 14-18 are welcome to ride their own bike accompanied by an adult." That's a third number (not the old 16, not David's proposed 12), it's not the minimum-age answer Michael Parham actually asked, and the 285 lb weight limit is still nowhere on the page. Someone edited this outside our staged fix. Worth finding out who and why before publishing the drafted block on top of it. **Re-checked Aug 15 (pass 40): identical text, still live, one full day later — this is now a settled edit, not a transient one, and still nobody's claimed making it.** Copy-paste page block + FAQ schema + draft reply still ready in `Marketing/Ebike Page Gap — Age & Weight Not Published (Aug 2026).md` (D/B)
 - [ ] Check info@ for whether Michael Parham (parhmic@yahoo.com, Jul 22) ever got a reply. If not, send the drafted response (B)
@@ -70,12 +67,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Yak shak cleared, organized, operational (B)
 
 ## Low Priority
-- [ ] [Guide log] Clean the kayaks. _(Dave (audio log), 2026-07-22)_
-- [ ] [Guide log] Ensure all paddles are accounted for. _(John (audio log), 2026-06-16)_
 - [ ] [Guide log] Check condition and seal of the dry bag used for the first aid kit, as it popped open during the trip and some items got wet. _(Alex (audio log), 2026-06-08)_
-- [ ] [Guide log] Provide an update once all bike maintenance is complete _(Bella (audio log), 2026-05-31)_
-- [ ] [Guide log] Provide update once all bike maintenance is finished. _(Bella (audio log), 2026-05-31)_
-- [ ] [Guide log] Head over to Cave Point for a final double-check on wave conditions. _(Bella (audio log), 2026-05-31)_
 - [ ] [Guide log] Utilize the trailer dolly for moving trailers to improve efficiency and reduce risk of accidents. _(Jackson (audio log), 2026-05-18)_
 - [ ] Schedule 15-20 min video calls with Lea, Jackson, returning guides for bios (B) -- when social media strategists onboarded
 - [ ] Identify which returning guides should be interviewed for bios (B)

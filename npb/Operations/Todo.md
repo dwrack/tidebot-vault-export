@@ -131,8 +131,14 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 
 ---
 
+## Captain Log Items (from TideBot)
+_TideBot files new captain-log items under these three headings. Before 2026-10-17 they were appended below the footer, because this list had no plain `## High Priority` heading._
+
+## High Priority
+
+## Medium Priority
+
+## Low Priority
+
 *Updated April 19, 2026 from JT Sides Q&A + David's prioritization. See plan: `resilient-munching-spring.md`*
 
-- [ ] [Captain log] Replenish ice supply on the barge. _(Calvin (audio log), 2026-07-17)_
-
-- [ ] [Captain log] Investigate and secure the item that was noted as 'just loose'. _(Kelly (audio log), 2026-07-24)_

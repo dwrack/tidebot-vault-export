@@ -20,6 +20,17 @@
 | **Michelle Healey** | (216) 262-3865 | mcnamml@gmail.com | Contractor + guide. Availability per contractor schedule |
 | **Ryan Carr** | 770-823-2459 | cairnsmusic@yahoo.com | Thurs/Fri primary; combos/ext Wed & Sat, 2–3 shifts/week. **No Sundays.** Can pick up Mon/Tue calloffs |
 
+### Guiding in the Sep–Oct 2026 logs but not on this roster yet
+*Added 2026-10-17 from the NKST guide logs. Contact info, driver's license, ICA and CPR still need to be collected (see [[Operations/Todo|Todo]] and [[Guides/Guide Roster & Compliance Tracker 2026]]).*
+
+| Name | First seen in logs | Notes |
+|------|--------------------|-------|
+| **Emily Clarke** | 9/16 (training shift with Stephanie) | Leading tours since 9/24; 9 logs through 10/16 |
+| **Abbie** | 9/25 | Logs on 9/25 and 10/16. Probably the "Abbey (from Marina)" in the pipeline below; confirm |
+| **Max** | 10/7 (training) | Second training shift on 10/8 with Alexis. Not yet confirmed to lead solo |
+| **Alexis** | 10/8 | Led the 11:37 LaPlace/Manchac tour and trained Max. Possibly the "Lexi Hingle" in the summer audio logs |
+| **Chelsea Hines** | 10/16–17 | Listed as inactive below (March only), but logged a 9am Manchac tour |
+
 ---
 
 ## Inactive / Not Currently Scheduled

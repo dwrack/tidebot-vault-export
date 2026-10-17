@@ -88,6 +88,22 @@ The Manchac route operates across a wider range of water conditions than Honey I
 
 **[CONFIRM SPECIFIC MANCHAC ROUTE OPTIONS AND MILEAGES WITH MANAGEMENT — including any seasonal variations, high vs. low water routes within Manchac, and the Gum Creek alternative if applicable]**
 
+### Field notes from guide logs (Sep–Oct 2026)
+*Merged 2026-10-17 from the NKST guide logs (`Guide Logs/Archive/`). These are guide reports, not a management-confirmed route spec, but they fill in part of the placeholder above.*
+
+- **Route names guides use:** Buzzards Bayou (canal and woods), Lily's Bayou woods, The Woods, Shell Bank / Shell beach, Old Duck Camp, and out to Lake Maurepas on extended trips.
+- **Full loop:** Buzzards Bayou woods → Old Duck Camp / Lily's woods → back down the bayou took about 5 hours on 10/12. That was the first full loop since 2024. _(Stephanie)_
+- **Lake Maurepas and back:** done on a 9:30 extended with strong paddlers on 10/7. _(Stephanie)_
+- **Short-route fallback:** when most guests show up late, guides cut to the Buzzards route (10/16). _(Michelle)_
+- **Lily's Bayou woods:** open and the best wildlife stretch (9/22, 9/25, 10/12).
+- **Shell Bank / Shell beach:** blocked (8/31, 9/25).
+- **Hyacinth:** Buzzards canal and the woods were clear in mid-September. There were some crossings on 10/12, and a big patch added 20 minutes on 10/16.
+- **Water level:** extremely high on 10/5, high after a storm on 10/10, shallow after rain on 10/8. Tours ran safely at all three.
+- **Hunting season:** hunters setting up camps and blinds (deer and duck season) brought heavy boat traffic through the woods on 9/27. Boaters slowed down. Brief the group on how to bunch up for boat passes.
+- **Spiders:** heavy along the full loop (10/12).
+- **Time of day:** tours are back on the 4:30 pm slot for fall daylight. The 11:30 am slot is hard on guides in full sun (a bad sunburn on 10/8).
+- **Storms:** the 9/21 5 pm tour ran with lightning nearby. It was shortened and stayed close, which worked, but who makes the go/no-go call is still open (see [[Operations/Todo|Todo]]).
+
 ---
 
 ## Location-Specific Talking Points

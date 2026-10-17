@@ -21,6 +21,11 @@
 | River Umberger | 813-748-9878 | riverwalking777@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 | Michelle Healey | (216) 262-3865 | *(confirm email)* | ✅ | ❓ | ❓ | Contractor + guide — confirm ICA applies to her role |
 | Ryan Carr | 770-823-2459 | cairnsmusic@yahoo.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
+| Emily Clarke | ❓ | ❓ | ❓ | ❓ | ❓ | Added 2026-10-17: guiding since 9/24 per guide logs. Collect contact info, DL, ICA, CPR |
+| Abbie | ❓ | ❓ | ❓ | ❓ | ❓ | Added 2026-10-17: guiding since 9/25 per guide logs. Same person as "Abbey (from Marina)"? Collect contact info, DL, ICA, CPR |
+| Max | ❓ | ❓ | ❓ | ❓ | ❓ | Added 2026-10-17: training shifts 10/7 and 10/8. Collect everything before his first solo tour |
+| Alexis | ❓ | ❓ | ❓ | ❓ | ❓ | Added 2026-10-17: led a tour on 10/8 and trained Max. Collect contact info, DL, ICA, CPR |
+| Chelsea Hines | ❓ | ❓ | ❓ | ❓ | ❓ | Added 2026-10-17: on the inactive list but logged a tour around 10/16. Re-check DL, ICA, CPR |
 
 **Next step:** Cross-reference DocHub and Gmail ICA folder to update ❓ statuses. 2–3 contracts are expected to be missing — identify which guides and send the ICA request message below.
 
