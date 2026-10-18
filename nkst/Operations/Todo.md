@@ -22,6 +22,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Develop a sustainable and efficient process for trash disposal from the shipping container, considering collection logistics to the Piety side. _(Stephanie (written log), 2026-10-18)_
 - [ ] [Guide log] Trash can gone at Piety St. _(chelsea hines (written log), 2026-10-17)_
 - [ ] [Guide log] Trash can gone at Piety St. _(chelsea hines (written log), 2026-10-17)_
 - [ ] [Guide log] Acquire more hangers for PFDs at Piety Street, as several are missing/broken. _(Stephanie (written log), 2026-10-07)_
