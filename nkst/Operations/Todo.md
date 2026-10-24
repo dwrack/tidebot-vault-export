@@ -7,6 +7,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 
 ## High Priority
+- [ ] [Guide log] Address the low tire pressure on the white Ford van and investigate the inaccessible pressure valve for repair. _(River B. (written log), 2026-10-24)_
 - [ ] [Guide log] Review and improve the process for handling guide's critical feedback and vehicle issues, addressing the guide's feeling of being disregarded due to a dismissive response to an earlier concern. _(River Boutne (written log), 2026-10-17)_
 - [ ] [Guide log] Look into replacing the back tire on the Grey transit soon; it returned with a plugged tire. _(Stephanie (written log), 2026-10-14)_
 - [ ] [Guide log] Inspect and repair back passenger tire on Grey Transit van due to a confirmed leak. Coordinator has been asked if it can be taken to a local repair shop before tomorrow's tour. _(Stephanie (written log), 2026-10-12)_
