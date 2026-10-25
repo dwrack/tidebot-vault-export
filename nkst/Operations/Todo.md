@@ -23,6 +23,7 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Build lead nurture sequence: 2x/week emails, NOLA insider content, upsell toward Extended/Combo
 
 ## Medium Priority
+- [ ] [Guide log] Address truck parking near trailers at drop-off location to ensure clear access and prevent stressful operations. _(Emily Clarke (written log), 2026-10-25)_
 - [ ] [Guide log] Develop a sustainable and efficient process for trash disposal from the shipping container, considering collection logistics to the Piety side. _(Stephanie (written log), 2026-10-18)_
 - [ ] [Guide log] Trash can gone at Piety St. _(chelsea hines (written log), 2026-10-17)_
 - [ ] [Guide log] Trash can gone at Piety St. _(chelsea hines (written log), 2026-10-17)_
