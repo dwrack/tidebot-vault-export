@@ -1,5 +1,7 @@
 # First Plunge: lead capture + 7-day countdown (DRAFT)
 
+**STATUS: DROPPED 2026-10-16 by David. Do not post, schedule, or re-stage. Kept for reference only.**
+
 Status: DRAFT 2026-10-13, nothing built. Launches with the 11/1 pricing change.
 Offer per Jonah's #pricing-revamp proposal (10/11): 3 visits in 30-45 days for $99. **Price and window not final. Confirm before build.**
 Owner to build: L (ActiveCampaign + Periode code) and Jess (Squarespace banner/popup).

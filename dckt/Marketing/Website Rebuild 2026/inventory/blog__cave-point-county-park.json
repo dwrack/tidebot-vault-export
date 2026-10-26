@@ -1,0 +1,194 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/cave-point-county-park/",
+ "slug": "blog__cave-point-county-park",
+ "title": "7 Reasons Why Cave Point County Park is the Best Park!",
+ "meta_description": "Cave Point County Park is the top destination in Door County; Climbing, Kayaking, Biking, Hiking, Photography and Cliff Jumping are just a few reasons to visit",
+ "canonical": "https://www.doorcountykayaktours.com/blog/cave-point-county-park/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "7 Reasons Why Cave Point County Park is the Best Park!",
+  "twitter:title": "7 Activities That Make Cave Point County Park the Best Park in Door County!",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/cave-point-county-park/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/cave-point-county-park/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-reasons-why-cave-point-county-park-is-the-best-park-in-door-county.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-reasons-why-cave-point-county-park-is-the-best-park-in-door-county.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-reasons-why-cave-point-county-park-is-the-best-park-in-door-county.jpg?w=700&h=700&zoom=2",
+  "og:description": "Cave Point County Park is the top destination in Door County; Climbing, Kayaking, Biking, Hiking, Photography and Cliff Jumping are just a few reasons to visit.",
+  "twitter:description": "Cave Point County Park is the top destination in Door County; Climbing, Kayaking, Biking, Hiking, Photography and Cliff Jumping are just a few reasons to visit."
+ },
+ "h1": [
+  "7 Activities That Make Cave Point County Park the Best Park in Door County!"
+ ],
+ "h2": [
+  "We love this County park and so will you!",
+  "Cave Point Sights and Things to Do"
+ ],
+ "h3": [
+  "How do you get to Cave Point County Park?",
+  "Can you Swim at Cave Point County Park?",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-reasons-why-cave-point-county-park-is-the-best-park-in-door-county.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-reasons-cave-point-county-park-6.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Kayaker-Jumping-with-top-shadow.png",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 5,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "7 Activities That Make Cave Point County Park the Best Park in Door County!",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "February 17, 2019",
+   "dateModified": "June 17, 2026",
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-reasons-why-cave-point-county-park-is-the-best-park-in-door-county.jpg?w=1000&h=1000&zoom=2",
+    "width": 600,
+    "height": 900
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/cave-point-county-park/",
+     "name": "Cave Point County Park"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=SITE",
+    "item_id": "156126",
+    "item_name": "Cave Point / Whitefish Dunes 1/2 Day Kayak Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "156126",
+   "208420",
+   "221394",
+   "5669"
+  ],
+  "all_item_ids_on_page": [
+   "156126",
+   "208420",
+   "221394",
+   "5669",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/activities/e-bike-rental/",
+  "/blog/7-reasons-fish-creek-is-the-best-town-to-stay-at-in-door-county/",
+  "/blog/7-reasons-why-newport-state-park-is-the-best-park-in-door-county/",
+  "/cdn-cgi/l/email-protection#dde2aea8bfb7b8bea9e09eb5b8beb6f8efedb2a8a9f8efedf8efefeaf8efed9cbea9b4abb4a9b4b8aef8efed89b5bca9f8efed90bcb6b8f8efed9ebcabb8f8efed8db2b4b3a9f8efed9eb2a8b3a9a4f8efed8dbcafb6f8efeda9b5b8f8efed9fb8aea9f8efed8dbcafb6f8efedb4b3f8efed99b2b2aff8efed9eb2a8b3a9a4f8efecf8efeff8efedbca9f8efed99b2b2aff8efed9eb2a8b3a9a4f8efed96bca4bcb6f8efed89b2a8afaef8ed99f8ed9cb5a9a9adaef8ee9cf8ef9bf8ef9baaaaaaf3b9b2b2afbeb2a8b3a9a4b6bca4bcb6a9b2a8afaef3beb2b0f8ef9bbfb1b2baf8ef9bbebcabb8f0adb2b4b3a9f0beb2a8b3a9a4f0adbcafb6f8ef9bfbbcb0ade6bfb2b9a4e0eaf8efed9cbea9b4abb4a9b4b8aef8efed89b5bca9f8efed90bcb6b8f8efed9ebcabb8f8efed8db2b4b3a9f8efed9eb2a8b3a9a4f8efed8dbcafb6f8efeda9b5b8f8efed9fb8aea9f8efed8dbcafb6f8efedb4b3f8efed99b2b2aff8efed9eb2a8b3a9a4f8efecf8efedf0f8efed99b2b2aff8efed9eb2a8b3a9a4f8efed96bca4bcb6f8efed89b2a8afaef8ed99f8ed9cb5a9a9adaef8ee9cf8ef9bf8ef9baaaaaaf3b9b2b2afbeb2a8b3a9a4b6bca4bcb6a9b2a8afaef3beb2b0f8ef9bbfb1b2baf8ef9bbebcabb8f0adb2b4b3a9f0beb2a8b3a9a4f0adbcafb6f8ef9b",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%207%20Activities%20That%20Make%20Cave%20Point%20County%20Park%20the%20Best%20Park%20in%20Door%20County%21%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fcave-point-county-park%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/7-must-visit-door-county-parks/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-why-whitefish-bay-dunes-state-park-is-a-must-visit/",
+  "https://www.doorcountykayaktours.com/blog/category/7-reasons-why/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/cave-point/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/blog/category/lake-michigan/",
+  "https://www.doorcountykayaktours.com/blog/category/photography/",
+  "https://www.doorcountykayaktours.com/blog/tag/cave-point-county-park/",
+  "https://www.doorcountykayaktours.com/cave-point-whitefish-dunes-half-day-kayak-tour/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 835,
+ "body_text": "Back to Blog\n\n 7 Activities That Make Cave Point County Park the Best Park in Door County!\n\nWe love this County park and so will you!\nCave Point County Park is one of the top destinations located in between Sturgeon Bay and Jacksonport, Door County!  It is a picturesque spot that has an abundance of family activities to do in and around it with a guide or without, during winter, spring, fall or summer.   Since it isn’t one of the 5 gems of the Door County parks, a lot of people overlook this amazing county park!  However, it is one of the area’s best spots to visit on your Door County Vacation. The coves, caves, turquoise waters, and beautiful Lake Michigan views make this County park a definite for your Door County vacation.\n\nHow do you get to Cave Point County Park?\nAfter visiting Cave Point County Park, make sure to check out Whitefish Bay Dunes State Park. It’s right around the corner and one of the 5 gems of Door County.\n\nAddress for your GPS: 5360 Schauer Rd, Sturgeon Bay, WI 54235 | coordinates:44.930551, -87.174094 |\n\nDriving Time from nearby cities\n\nFrom Milwaukee\n2.5 Hours\n\nFrom Madison\n3.5 Hours\n\nFrom Green Bay\n1 Hours\n\nFrom Wausau\n2.5 Hours\n\nFrom Minneapolis\n5 Hours\n\nFrom Chicago\n4.25 Hours\n\nCave Point Sights and Things to Do\nWithin the peninsula’s 19 county parks, Cave Point is the most breathtaking. Our guide on what to do is below.\n\nCan you Swim at Cave Point County Park?\nYes, as long as it’s calm, you can swim at Cave Point County Park.  There are only a few spots to get in and out of the water, so make sure you have some athletic ability before you jump in.  And make sure you don’t cliff jump before checking out the depth.  You won’t really be able to experience or see the caves from the land, but you will be able to see Devil’s Bathtub(nicknamed by one of our past kayak guides). There are plenty of caves under the water too, but those are best left to the scuba divers and snorkelers.  The dolomite rock has been eaten away by waves for many years and when the water is rough, this is a great place to get photos of the water splashing up against the limestone and launching into the air.  Just be careful, each year, cave point county park claims lives; Marines, photographers, even kayakers.  Just another reason to go with the extra safety of a guide on a 2 hour kayak tour or a half day kayak tour.\n\n Posted in: \n\n 7 reasons why\n\n Activities\n\n Adventure\n\n Cave Point\n\n Door County\n\n Kayaking\n\n Lake Michigan\n\n Photography\n\n Tags: \n\n cave point county park\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n 4+\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n ✅ 4 hrs · 🛶 Guided & Beginner Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 5 min drive to launch\n🚐 Transportation Provided\n🥾 Includes Break + Short Hike + Optional Cliff Jumping(when water height is appropriate)\n🧺 Locally Sourced Picnic\n\nA full-on Door County immersion. Ideal for explorers, photographers, and anyone craving a deeper connection with nature.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "peXa5QuPvA0",
+  "pqFau8bNtPI"
+ ]
+}

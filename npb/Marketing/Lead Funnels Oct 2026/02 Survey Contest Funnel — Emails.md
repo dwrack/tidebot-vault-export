@@ -1,5 +1,8 @@
 # Survey Contest Funnel: Emails
 
+> **2026-10-16, David's decision:** the November round of this contest is REPLACED by the Local Family Boat Giveaway. One contest, one list. Read `10 Local Family Boat Giveaway — Build (2026-10-16).md` and `11 Local Family Giveaway — Official Rules (Nov 2026).md` for the round that actually runs. The November dates, prize structure, bonus entries, and 5-day claim below are now history for Nov; this doc stays as the template for later rounds.
+
+
 What this is: every email in the NOLA Party Barge survey contest funnel, assembled from the reviewed copy files (contest, warmup, blocks, asks), plus the block library, the tap questions with their answer pages, the small pages, and the open facts.
 Date: 2026-10-06. Facts are as of the facts file (2026-10-03) and the Blueprint (doc 01).
 Status: draft, nothing sent. Nothing here is posted, published, committed, or deployed.

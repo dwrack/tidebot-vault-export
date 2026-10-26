@@ -1,0 +1,19 @@
+{"title":"NPB static-ad format test","ratios":["4:5","9:16"],
+"ads":[
+{"slug":"imessage-bach","format":"imessage","contact":"Kayla","time":"Today 8:14 PM","messages":[
+ {"from":"them","text":"ok what are we actually doing saturday for the bach"},
+ {"from":"me","text":"not bourbon st all day again"},
+ {"from":"them","text":"there's a private party boat 7 miles from the quarter. you bring your own drinks"},
+ {"from":"them","card":{"photo":"Bachelorette party with wigs on the party queen.jpg","title":"Private BYOB Party Boat","site":"nolapartybarges.com"}},
+ {"from":"me","text":"wait the wigs?? booking it","react":"❤️"}],
+ "tag":"Pick your boat, bring your drinks"},
+{"slug":"group-bday","format":"groupchat","group_name":"Dani's 30th","people":["Dani","Marcus","Tay"],"messages":[
+ {"from":"Marcus","text":"vote: brunch or the party boat"},
+ {"from":"Tay","photo":"nola party boats.jpg"},
+ {"from":"Tay","text":"this one. our own boat for the afternoon"},
+ {"from":"Dani","text":"BOAT. obviously"},
+ {"from":"me","text":"sending the link rn"}],
+ "tag":"nolapartybarges.com"},
+{"slug":"pov-bayou","format":"pov","photo":"swamp party tiki boat new orleans.jpg","caption":"POV: your group chat finally picked a plan that isn't Bourbon Street","cta":"Pick your boat, bring your drinks"},
+{"slug":"urgency-fall","format":"urgency","photo":"new orleans bachelor party booze cruise.jpg","tag":"Fall Saturdays","headline":"Fall weekends go first","sub":"Private boats for your crew, 7 miles from the French Quarter.","dates":[{"label":"Oct 25","sold_out":true},{"label":"Nov 1"},{"label":"Nov 8"},{"label":"Nov 15"}],"cta":"Check dates at nolapartybarges.com","fine":"TEST DATES, not real availability"}
+]}

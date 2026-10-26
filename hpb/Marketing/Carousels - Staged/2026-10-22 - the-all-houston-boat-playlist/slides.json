@@ -1,0 +1,109 @@
+{
+ "format": "idea-bank",
+ "type": "listicle",
+ "title": "The all-Houston boat playlist",
+ "brand": "hpb",
+ "caption": "The most Houston playlist ever played on a boat 🤘🎶 What did we miss? Wrong answers get roasted.\n\n#houstonmusic #htx #htown #clearlake",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "AUX CORD",
+   "headline": "The all-Houston boat playlist",
+   "body": "Eight songs, one city. Tell us what we missed.",
+   "photo": "party-barge-crowd-dancing-houston-night.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-crowd-dancing-houston-night.jpg",
+   "pos": "center",
+   "dark": true
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "TRACK 1",
+   "headline": "Texas Hold 'Em. Beyonce.",
+   "body": "Houston's own. The whole boat knows the words. Non negotiable."
+  },
+  {
+   "n": 3,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "TRACK 2",
+   "headline": "Savage. Megan Thee Stallion.",
+   "body": "Hot girl summer runs through Houston. Even in November."
+  },
+  {
+   "n": 4,
+   "layout": "split",
+   "tone": "green",
+   "kicker": "TRACK 3",
+   "headline": "Sicko Mode. Travis Scott.",
+   "body": "The beat switch hits different on open water.",
+   "photo": "party-barge-birthday-crowd-houston.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-birthday-crowd-houston.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 5,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "TRACK 4",
+   "headline": "Texas Sun. Khruangbin and Leon Bridges.",
+   "body": "Khruangbin is from Houston. Play this one at golden hour."
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "TRACK 5",
+   "headline": "Int'l Players Anthem. UGK.",
+   "body": "Bun B and Pimp C. Required listening in this city."
+  },
+  {
+   "n": 7,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "TRACK 6",
+   "headline": "Sittin' Sidewayz. Paul Wall.",
+   "body": "Slowed down, of course. It's a Houston boat.",
+   "photo": "party-barge-group-photo-houston-celebration.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-group-photo-houston-celebration.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "TRACK 7",
+   "headline": "Say My Name. Destiny's Child.",
+   "body": "The group chat will turn this into a duet. Let it happen."
+  },
+  {
+   "n": 9,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "TRACK 8",
+   "headline": "La Grange. ZZ Top.",
+   "body": "For the uncle who came along. He'll be the first one up.",
+   "photo": "party-barge-open-water-clear-lake-guests.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-open-water-clear-lake-guests.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "What did we miss?",
+   "body": "Drop your Houston song in the comments. Wrong answers get roasted. @houstonpedalbarge",
+   "photo": "party-barge-sunset-hug-clear-lake.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-sunset-hug-clear-lake.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "url": "https://www.doorcountykayaktours.com/e-bike-contest-giveaway-entered/",
+ "slug": "e-bike-contest-giveaway-entered",
+ "title": "Contest Giveaway Entered",
+ "meta_description": "Discover what Door County Kayak Tours is all about",
+ "canonical": "https://www.doorcountykayaktours.com/e-bike-contest-giveaway-entered/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Contest Giveaway Entered",
+  "twitter:title": "E-Bike Contest Giveaway Entered",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/e-bike-contest-giveaway-entered/",
+  "twitter:url": "https://www.doorcountykayaktours.com/e-bike-contest-giveaway-entered/",
+  "og:type": "website"
+ },
+ "h1": [
+  "Giveaway entered!"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Kayaker-Jumping-with-top-shadow.png",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/e-bike-contest-giveaway-entered/",
+     "name": "E Bike Contest Giveaway Entered"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/activities/e-bike-rental/",
+  "/cdn-cgi/l/email-protection#2f105c5a4d454a4c5b126c474a4c440a1d1f405a5b0a1d1f0a1d1d6a026d46444a0a1d1f6c40415b4a5c5b0a1d1f6846594a4e584e560a1d1f6a415b4a5d4a4b0a1d1d0a1d1f4e5b0a1d1f6b40405d0a1d1f6c405a415b560a1d1f644e564e440a1d1f7b405a5d5c0a1f6b0a1f6e475b5b5f5c0a1c6e0a1d690a1d69585858014b40405d4c405a415b56444e564e445b405a5d5c014c40420a1d694a024d46444a024c40415b4a5c5b024846594a4e584e56024a415b4a5d4a4b0a1d69094e425f144d404b56126a026d46444a0a1d1f6c40415b4a5c5b0a1d1f6846594a4e584e560a1d1f6a415b4a5d4a4b0a1d1f020a1d1f6b40405d0a1d1f6c405a415b560a1d1f644e564e440a1d1f7b405a5d5c0a1f6b0a1f6e475b5b5f5c0a1c6e0a1d690a1d69585858014b40405d4c405a415b56444e564e445b405a5d5c014c40420a1d694a024d46444a024c40415b4a5c5b024846594a4e584e56024a415b4a5d4a4b0a1d69",
+  "/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/",
+  "/sunset-glow-roll-e-bike-tour/",
+  "https://twitter.com/share?text=Check%20this%20out%21%20E-Bike%20Contest%20Giveaway%20Entered%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fe-bike-contest-giveaway-entered%2F"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 379,
+ "body_text": "Giveaway entered!\n\n Thanks for entering our giveaway!\n\nDon’t forget to share our facebook post and tag some friends to finish your entry!\n\nTweet\n\n Email\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n 4+\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n ✅ 4 hrs · 🛶 Guided & Beginner Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 5 min drive to launch\n🚐 Transportation Provided\n🥾 Includes Break + Short Hike + Optional Cliff Jumping(when water height is appropriate)\n🧺 Locally Sourced Picnic\n\nA full-on Door County immersion. Ideal for explorers, photographers, and anyone craving a deeper connection with nature.\n\n Learn More\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Learn More\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n From\n\n $99\n\n 1.5 - 2 Hours\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n A sunset glow roll! What could be better?! This is a perfect way to explore Fish Creek and Peninsula State Park at night, with some awesome light-up bikes and disco lights! Tour will include some awesome photo ops, incredibly cool bikes, and of course a great sunset! Join us Today!\n\n Learn More",
+ "youtube": []
+}

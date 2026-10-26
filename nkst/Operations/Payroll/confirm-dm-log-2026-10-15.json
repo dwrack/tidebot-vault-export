@@ -1,0 +1,58 @@
+[
+ {
+  "name": "Stephanie",
+  "channel": "D0B0DKAQYEA",
+  "ok": true,
+  "err": null,
+  "ts": "1792083073.192199"
+ },
+ {
+  "name": "Emily",
+  "channel": "D0C3KTM2ML4",
+  "ok": true,
+  "err": null,
+  "ts": "1792083073.332849"
+ },
+ {
+  "name": "Chelsea",
+  "channel": "D0BK3K963RT",
+  "ok": true,
+  "err": null,
+  "ts": "1792083073.489979"
+ },
+ {
+  "name": "Michelle",
+  "channel": "D0ATWS06JGJ",
+  "ok": true,
+  "err": null,
+  "ts": "1792083073.627789"
+ },
+ {
+  "name": "River (Bourne)",
+  "channel": "D0B0FM4529Y",
+  "ok": true,
+  "err": null,
+  "ts": "1792083073.779509"
+ },
+ {
+  "name": "Alexis",
+  "channel": "D0BGDC6HW81",
+  "ok": true,
+  "err": null,
+  "ts": "1792083073.917579"
+ },
+ {
+  "name": "Abbie",
+  "channel": "D0B29T2RMGE",
+  "ok": true,
+  "err": null,
+  "ts": "1792083074.180349"
+ },
+ {
+  "name": "Max",
+  "channel": "D0BSV33HRC6",
+  "ok": true,
+  "err": null,
+  "ts": "1792083074.497879"
+ }
+]

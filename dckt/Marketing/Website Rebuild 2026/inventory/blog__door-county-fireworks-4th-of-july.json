@@ -1,0 +1,158 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/door-county-fireworks-4th-of-july/",
+ "slug": "blog__door-county-fireworks-4th-of-july",
+ "title": "Door County 4th of July Fireworks: Town-by-Town Guide",
+ "meta_description": "Six Door County towns launch fireworks over the water on different nights. Who does what, where to watch, and how to beat the July 4 crowds.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/door-county-fireworks-4th-of-july/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Door County 4th of July Fireworks: Town-by-Town Guide",
+  "twitter:title": "Door County 4th of July: Where the Fireworks Actually Are",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/door-county-fireworks-4th-of-july/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/door-county-fireworks-4th-of-july/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/alpaca-2.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/alpaca-2.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/alpaca-2.jpg?w=700&h=700&zoom=2",
+  "og:description": "Six Door County towns launch fireworks over the water on different nights. Who does what, where to watch, and how to beat the July 4 crowds.",
+  "twitter:description": "Six Door County towns launch fireworks over the water on different nights. Who does what, where to watch, and how to beat the July 4 crowds."
+ },
+ "h1": [
+  "Door County 4th of July: Where the Fireworks Actually Are"
+ ],
+ "h2": [
+  "Where the fireworks are, town by town",
+  "How to actually enjoy it without losing your mind in traffic",
+  "The move most people miss: a morning paddle",
+  "What to bring for a Fourth on the water",
+  "Door County 4th of July FAQ"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/alpaca-2.jpg",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Which Door County town has the best 4th of July fireworks?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Egg Harbor's harbor show gets voted best in the county most years. Baileys Harbor wins for the full small-town parade and pancakes experience."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do all the Door County fireworks happen on July 4th?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Six towns spread their fireworks shows across the first two weeks of July on different nights, so you can often catch more than one. Confirm the current-year schedule for each town."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "When should I book a kayak tour during the July 4th week?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Morning. The water is calmest and the crowds have not moved yet. Spots fill fast over the holiday, so book ahead."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.doorcountykayaktours.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Blog",
+       "item": "https://www.doorcountykayaktours.com/blog/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Door County 4th of July"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/door-county-fireworks-4th-of-july/",
+     "name": "Door County Fireworks 4th Of July"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/3-perfect-rainy-day-things-to-do-for-kids-in-door-county/",
+  "/blog/door-county-t-shirts/",
+  "/cdn-cgi/l/email-protection#f4cb8781969e919780c9b79c91979fd1c6c49b8180d1c6c4d1c6c6b09b9b86d1c6c4b79b819a808dd1c6c4c0809cd1c6c49b92d1c6c4be81988dd1c7b5d1c6c4a39c918691d1c6c4809c91d1c6c4b29d8691839b869f87d1c6c4b59780819598988dd1c6c4b58691d1c6c6d1c6c49580d1c6c4b09b9b86d1c6c4b79b819a808dd1c6c4bf958d959fd1c6c4a09b818687d1c4b0d1c4b59c80808487d1c7b5d1c6b2d1c6b2838383da909b9b86979b819a808d9f958d959f809b818687da979b99d1c6b296989b93d1c6b2909b9b86d9979b819a808dd9929d8691839b869f87d9c0809cd99b92d99e81988dd1c6b2d2959984cf969b908dc9b09b9b86d1c6c4b79b819a808dd1c6c4c0809cd1c6c49b92d1c6c4be81988dd1c7b5d1c6c4a39c918691d1c6c4809c91d1c6c4b29d8691839b869f87d1c6c4b59780819598988dd1c6c4b58691d1c6c4d9d1c6c4b09b9b86d1c6c4b79b819a808dd1c6c4bf958d959fd1c6c4a09b818687d1c4b0d1c4b59c80808487d1c7b5d1c6b2d1c6b2838383da909b9b86979b819a808d9f958d959f809b818687da979b99d1c6b296989b93d1c6b2909b9b86d9979b819a808dd9929d8691839b869f87d9c0809cd99b92d99e81988dd1c6b2",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Door%20County%204th%20of%20July%3A%20Where%20the%20Fireworks%20Actually%20Are%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fdoor-county-fireworks-4th-of-july%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-fish-creek-is-the-best-town-to-stay-at-in-door-county/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/4th-of-july/",
+  "https://www.doorcountykayaktours.com/blog/category/events/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 727,
+ "body_text": "Back to Blog\n\n Door County 4th of July: Where the Fireworks Actually Are\n\n Here is the thing nobody tells first-time visitors: Door County does not do one Fourth of July. Six towns launch fireworks over the water on different nights. Plan it right and you can catch more than one.\n\nDates shift a little year to year, so confirm the current schedule with each town before you drive. The lineup and the traditions stay the same, and this is how locals work the week.\n\nWhere the fireworks are, town by town\nEgg Harbor. The show most people vote best in the county. Fireworks launch from a barge in the harbor at dusk, usually around July 3, with live music, food, and refreshments at Harbor View Park beforehand. The Independence Day parade runs down Highway 42 on the 4th, usually early afternoon.\n\nFish Creek. A barge show over the bay, typically right at the start of the week. Best viewing is from Clark Park and the Fish Creek beach. Get there early, the village fills up fast. More on Fish Creek here.\n\nBaileys Harbor. The all-day, small-town version. Pancake breakfast in the morning, a parade up Highway 57, and fireworks over Lake Michigan from Anclam Park at dusk. If you want the classic hometown Fourth, this is it. More on Baileys Harbor here.\n\nSturgeon Bay. Food trucks and live music at Sunset Park starting late afternoon on the 4th, then fireworks from a barge on the water after dark.\n\nSister Bay. Saves a show for later. Sister Bay’s summer celebration brings a bonus round of fireworks in mid-July, so if you miss the Fourth itself you still have a shot.\n\nHow to actually enjoy it without losing your mind in traffic\nPick one fireworks show, not three. The temptation is to chase every barge. Do not. Pick the town nearest where you are staying, get there 90 minutes early with chairs and a blanket, and make an evening of it.\n\nPark once, walk in. Every village turns into a parking knot by 7pm on a fireworks night. Find your spot early and stay on foot.\n\nMornings are yours. Holiday-week crowds do not move before 10am. The water is calmest then too.\n\nThe move most people miss: a morning paddle\nThe Fourth of July week is the busiest of the Door County summer. Restaurants are slammed, beaches are packed, parking is a contact sport by noon. But at 8 or 9 in the morning, the water is glass and almost nobody is on it.\n\nThat is the window. A calm morning paddle at Cave Point, before the heat and the crowds, is the best two hours you will spend all week. The sea caves and clear water look their best in early light, and you are back in town with the whole holiday still ahead of you.\n\n→ Beat the crowd: book a morning Cave Point kayak tour ($69 plus a $4 park fee). If you want more time on the water, the half-day ($145) gets you the caves and the cliffs without rushing. We provide the kayak, paddle, and life vest. Beginners welcome, and the water here is calm and clear.\n\nWhat to bring for a Fourth on the water\n\nSunscreen and a hat. July sun off the water is no joke.\n\nClosed-toe water shoes. No flip-flops.\n\nA dry change of clothes for after.\n\nBug spray for the evening fireworks wait.\n\nDoor County 4th of July FAQ\nWhich town has the best fireworks?\n\nEgg Harbor’s harbor show gets voted best in the county most years. Baileys Harbor wins for the full small-town parade-and-pancakes experience. You will not really go wrong.\n\nDo the fireworks all happen on July 4th?\n\nNo, and that is the secret. The towns spread their shows across the first two weeks of July, on different nights. Confirm each town’s current-year schedule before you plan your evening.\n\nWhen should I book a kayak tour during the holiday week?\n\nMorning. The water is calmest and the crowds have not moved yet. Spots fill fast over the Fourth, so book ahead.\n\nIs it too busy to enjoy?\n\nOnly if you fight the crowd. Do your outdoor things in the morning, claim a fireworks spot early in the evening, and the day takes care of itself.\n\n Posted in: \n\n 4th of July\n\n Events\n\n Kayaking\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post",
+ "youtube": []
+}

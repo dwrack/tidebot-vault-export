@@ -1,5 +1,7 @@
 # Fleet Vessel Records — Delta Dream & Mama Tried
 
+**CURRENT STATUS (verified 2026-10-16, per David): Delta Dream is still in service. The July 2026 sale packet is history, no sale happened.**
+
 *Compiled 2026-07-30 from the USCG PSIX public vessel database (record last updated July 27, 2026), the AssuredPartners insurance thread (Feb 19, 2026), TPWD correspondence (May 26, 2026), and the ops group text. This is the authoritative reference. Where the vault or an insurance doc disagrees with what's below, this is right.*
 
 Both hulls are 35-foot Trident cycleboats, USCG Subchapter T passenger vessels, 4 gross tons, owned by Lone Star Kayak Tours LLC.

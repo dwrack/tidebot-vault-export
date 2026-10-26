@@ -1,0 +1,24 @@
+{
+ "dry_run": false,
+ "scan_model": "sonnet",
+ "digest_hour": 9,
+ "stale_days": 2,
+ "first_run_lookback_hours": 12,
+ "davey_slack_id": "U0B1CAVT1TM",
+ "gmail_accounts": ["sauna-at-ebbandember-com", "davey-at-ebbandember-com"],
+ "slack_channels": ["private-saunas-build", "maintenance", "general", "marketing", "periode", "events", "pricing-revamp", "founders", "sauna-improvements"],
+ "caps": {"imessage": 300, "gmail": 40, "slack_per_channel": 100, "rows_per_run": 12},
+ "imessage_keywords": ["sauna", "ebb", "ember", "periode", "plunge"],
+ "partner_handles": ["+14257650025"],
+ "people": {
+  "Jonah": ["+14257650025"],
+  "Grant": ["+15037463888"],
+  "Mario (contractor)": ["+15034932408"],
+  "Hannah": ["+19142178854"],
+  "Kimberlynn": ["+14052157395"],
+  "Zach (handyman)": ["+15034217043"],
+  "Max (McCuddy's Marine Insurance)": ["+15033498387"],
+  "Adrian (marina)": ["+15039297940"],
+  "Jesse (graphic design)": ["+15034811740"]
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/door-county-guide-favorite-things-to-do/",
+ "slug": "blog__door-county-guide-favorite-things-to-do",
+ "title": "Things to Do in Door County: A Guide's Favorites",
+ "meta_description": "A Door County guide's short list of favorite things to do. Real picks, real reasons, no AI listicle. Tours, towns, restaurants, and the stuff most visitors miss.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/door-county-guide-favorite-things-to-do/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Things to Do in Door County: A Guide's Favorites",
+  "twitter:title": "A Door County Guide’s Favorite Things to Do (After 20+ Seasons Here)",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/door-county-guide-favorite-things-to-do/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/door-county-guide-favorite-things-to-do/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/3.14.18.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/3.14.18.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/3.14.18.jpg?w=700&h=700&zoom=2",
+  "og:description": "A Door County guide's short list of favorite things to do. Real picks, real reasons, no AI listicle. Tours, towns, restaurants, and the stuff most visitors miss.",
+  "twitter:description": "A Door County guide's short list of favorite things to do. Real picks, real reasons, no AI listicle. Tours, towns, restaurants, and the stuff most visitors miss."
+ },
+ "h1": [
+  "A Door County Guide’s Favorite Things to Do (After 20+ Seasons Here)"
+ ],
+ "h2": [
+  "The one thing you can’t skip",
+  "The one most people don’t know about",
+  "Where to base from",
+  "On the water (besides our tours)",
+  "On land",
+  "Off-water nights",
+  "Restaurants we’d send people to",
+  "What to skip",
+  "How to plan your days",
+  "TL;DR"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/3.14.18.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Bluff-Shipwreck-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Quad-Bike-Rental-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "A Door County Guide&#8217;s Favorite Things to Do (After 20+ Seasons Here)",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "March 14, 2018",
+   "dateModified": "June 22, 2026",
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/3.14.18.jpg?w=1000&h=1000&zoom=2",
+    "width": 1000,
+    "height": 667
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/door-county-guide-favorite-things-to-do/",
+     "name": "Door County Guide Favorite Things To Do"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=SITE",
+    "item_id": "23855",
+    "item_name": "Door Bluff Shipwreck Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/69326/calendar/?ref=SITE",
+    "item_id": "69326",
+    "item_name": "Quad Bike Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "23855",
+   "5669",
+   "6883",
+   "69326"
+  ],
+  "all_item_ids_on_page": [
+   "23855",
+   "5669",
+   "5784",
+   "6883",
+   "69326"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/quad-bike-rental/",
+  "/airstream-sauna-rental/",
+  "/blog/7-reasons-fish-creek-is-the-best-town-to-stay-at-in-door-county/",
+  "/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+  "/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+  "/blog/deaths-door-name-history/",
+  "/blog/discovering-door-county-the-health-benefits-of-sauna-rentals-over-bar-hopping/",
+  "/blog/door-county-photography-guide-perspective/",
+  "/blog/how-many-days-do-i-need-in-door-county/",
+  "/blog/kayak-best-way-experience-cave-point-county-park/",
+  "/blog/the-barmuda-triangle-husbys-the-bowl-jjs-la-puerta/",
+  "/blog/whistling-swan/",
+  "/cave-point-ebike-tour/",
+  "/cave-point-half-day-kayak-tour/",
+  "/cave-point-kayak-tour/",
+  "/cdn-cgi/l/email-protection#09367a7c6b636c6a7d344a616c6a622c3b39667c7d2c3b392c3b3b482c3b394d66667b2c3b394a667c677d702c3b394e7c606d6c2c4c3b2c31392c30307a2c3b394f687f667b607d6c2c3b395d6160676e7a2c3b397d662c3b394d662c3b392c3b31486f7d6c7b2c3b393b392c3b4b2c3b395a6c687a66677a2c3b39416c7b6c2c3b302c3b3b2c3b39687d2c3b394d66667b2c3b394a667c677d702c3b3942687068622c3b395d667c7b7a2c394d2c3948617d7d797a2c3a482c3b4f2c3b4f7e7e7e276d66667b6a667c677d7062687068627d667c7b7a276a66642c3b4f6b65666e2c3b4f6d66667b246a667c677d70246e7c606d6c246f687f667b607d6c247d6160676e7a247d66246d662c3b4f2f686479326b666d7034482c3b394d66667b2c3b394a667c677d702c3b394e7c606d6c2c4c3b2c31392c30307a2c3b394f687f667b607d6c2c3b395d6160676e7a2c3b397d662c3b394d662c3b392c3b31486f7d6c7b2c3b393b392c3b4b2c3b395a6c687a66677a2c3b39416c7b6c2c3b302c3b39242c3b394d66667b2c3b394a667c677d702c3b3942687068622c3b395d667c7b7a2c394d2c3948617d7d797a2c3a482c3b4f2c3b4f7e7e7e276d66667b6a667c677d7062687068627d667c7b7a276a66642c3b4f6b65666e2c3b4f6d66667b246a667c677d70246e7c606d6c246f687f667b607d6c247d6160676e7a247d66246d662c3b4f",
+  "/deaths-door-shipwreck-kayak-tour/",
+  "/eco-estuary-kayak-tour/",
+  "/kayak-tours/cana-island-lighthouse-kayak-tour/",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/door-bluff-county-park-shipwreck/",
+  "/kayak-tours/eco-estuary-tour/",
+  "/sauna-experience/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/69326/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20A%20Door%20County%20Guide%E2%80%99s%20Favorite%20Things%20to%20Do%20%28After%2020%2B%20Seasons%20Here%29%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fdoor-county-guide-favorite-things-to-do%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/cave-point/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/events/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/blog/category/music/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1218,
+ "body_text": "Back to Blog\n\n A Door County Guide’s Favorite Things to Do (After 20+ Seasons Here)\n\nI’ve been guiding kayak tours in Door County since 2013, and the company started in 2002. We get the “what should we do?” question every day, and most of the lists out there read like AI scraped a brochure.\r\n\nThis is what we’d actually tell a friend planning a 3 to 5 day trip.\r\nThe one thing you can’t skip\r\nCave Point Half-Day Kayak Tour ($145). Wisconsin’s only sea caves on the Lake Michigan side. Limestone cliffs, water clear enough to see 30 feet down, the kind of paddle that ruins generic kayak tours for years afterward.\r\n\nWhy the half-day and not the 2-hour: cave entry is conditions-dependent, and the longer window means your guide can wait out chop and pick the right moment to enter the deeper caves. The 2-hour at $69 is fine for a calm day, but most repeat guests pick the half-day on visit two.\r\n\nIf you only have one paddle day, this is the one.\r\nThe one most people don’t know about\r\nDeath’s Door Shipwreck Kayak Tour. Bay-side, calm water, paddle directly over the Fleetwing wreck (a 136-foot wooden schooner that grounded in Garrett Bay in 1888). $69 for the 2-hour, $145 for the half-day with the Door Bluff hike. Age 4 minimum, kids who like history get into this one.\r\n\nThe story is what makes it worth doing. The strait got its name from a 1600s storm and a battle between the Potawatomi and Ho-Chunk, long before any wooden hulls hit the shoals here.\r\nWhere to base from\r\nHonest answer: it depends on your trip style.\r\n\n Fish Creek for walkability, restaurants, and Peninsula State Park access. Busiest, most options.\n\n Baileys Harbor for the lake side, sunrise views, quieter evenings, and the closest base to our Cave Point launches.\n\n Ephraim for the photogenic white village on Eagle Harbor, slower pace, couples without kids tend to prefer it.\n\nMost first-timers default to Fish Creek. Most returning guests flip to the lake side eventually.\r\nOn the water (besides our tours)\r\n\n Eagle Harbor in Ephraim. Calmest paddling on the peninsula. Public launch, in-town rentals available. Good for kids and beginners.\n\n Nicolet Bay inside Peninsula State Park. Calm, scenic, public launch. Smaller payoff than Cave Point but doable without leaving Fish Creek.\n\n Cana Island Lighthouse causeway walk. Not a paddle but worth a half-day. The walk across the rocky causeway is the experience.\n\n Eco Estuary Tour ($65). Our calm-water wildlife paddle near Baileys Harbor. Beavers, herons, otters most days.\n\nOn land\r\n\n Climb Eagle Tower in Peninsula State Park. 60 feet, accessible ramp, sunset is the window if you don’t mind crowds.\n\n Hike the Cave Point cliff trail. Half-mile loop along the cliff edge. Best photo spots are along the southern third.\n\n Walk the Ridges Sanctuary in Baileys Harbor. Founded 1937, first land trust in Wisconsin.\n\n Drive to Toft Point. State Natural Area east of Baileys Harbor, quiet, undeveloped.\n\n Cave Point E-Bike Tour ($99). The road from Cave Point to Whitefish Dunes is one of the most photographed stretches of pavement in Wisconsin. Fat-tire e-bike with pedal assist makes it easy.\n\n Newport State Park. The most remote part of the peninsula. Quiet, big shoreline, fewer visitors.\n\nOff-water nights\r\n\n Door County Sauna. Better than another bar night. Real benefits, real recovery, your sleep that night will be different. Both a fixed location and the Airstream Sauna Rental (mobile wood-fired) are options. We’ve covered the sauna case in detail here.\n\n The Sister Bay bar triangle: Husby’s, Sister Bay Bowl, and JJ’s La Puerta. Walkable, friendly, the right call on a certain night. We wrote about the Barmuda Triangle.\n\n Northern Sky Theater. Outdoor amphitheater inside Peninsula State Park, original musicals built around Wisconsin and Door County stories. Bring bug spray and reserve weeks ahead.\n\n Peninsula Players. America’s oldest resident summer theater, just south of Ephraim. Outdoor pavilion, bay close enough to hear between scenes.\n\n A real fish boil. White Gull Inn in Fish Creek does the postcard version: flame up, broth over, cherry pie after. Reservations weeks ahead.\n\nRestaurants we’d send people to\r\n\n Whistling Swan, Fish Creek. Tue-Sat 5-9pm. Make a reservation. We covered it here.\n\n Door County Brewing Co., Baileys Harbor. Polka King Porter is the one they’re known for.\n\n Wilson’s Restaurant and Ice Cream Parlor, Ephraim. Since 1906. Order a sundae, sit on the porch.\n\n The Creamery, Baileys Harbor. New-American dinner, reservations a week out in season.\n\nWhat to skip\r\n\n Trolley rides unless you have mobility limitations. The peninsula is small enough to drive yourself, faster.\n\n Most “kayak rental” listings near Cave Point unless you have prior sea-kayak experience. Cave Point’s caves are unforgiving when conditions turn. A guided tour is the right call for first-timers.\n\n Generic gift shop strips. Pick one stop, pick a real shop (a working pottery, a real bookstore), skip the rest.\n\nHow to plan your days\r\nIf you have:\r\n\n 2-3 days: Cave Point Half-Day Kayak, one town day, one slow morning.\n\n 4-5 days: Add the Death’s Door Shipwreck Tour, a sauna evening, and a second town as a base.\n\n 6+ days: Add Newport State Park, Cana Island, the Washington Island ferry, and at least one full slow day.\n\nWe have a longer breakdown of how many days you actually need here.\r\nTL;DR\r\nCave Point Half-Day Kayak Tour. One town as a base, second town as a day trip. A sauna night instead of a second bar night. One slow morning per trip. That’s the trip we’d build for our own families.\r\n\nBook the Cave Point Half-Day →\n\n Posted in: \n\n Activities\n\n Adventure\n\n Cave Point\n\n Door County\n\n Events\n\n Kayaking\n\n Music\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n Guide Favorite\n\n From\n\n $69\n\n 2 hours\n\n 4+\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n ✅ 2 hours · Beginner-Friendly\n🌿 Quieter spot\n📍 Departs from Garrett Bay, Ellison Bay, WI\n☀️ Backup if Cave Point is wavey\n🌟 Guide Favorite\n📸 Photo-Perfect Scenery\n\nThis guided kayak tour takes you thru “Death’s Door” past dramatic bluffs, ancient Native American pictographs, and the remnants of a historic shipwreck resting just beneath the surface.\n\n Book Now\n\n Learn More\n\n Quad Bike Rental\n\n From\n\n $40\n\n Hourly or daily\n\n All Ages\n\n Quad Bike Rental\n\n New to Door County bike rentals, these quad bikes are fun memory-makers. Join us for a nice family pedal or a lakeside romantic ride. Choose a two- or four-person quad bike for an outing that’s fun for the whole family!\n\n Book Now\n\n Learn More\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "goSDqT05DPU"
+ ]
+}

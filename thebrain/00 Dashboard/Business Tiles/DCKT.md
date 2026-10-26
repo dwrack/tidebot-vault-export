@@ -2,13 +2,13 @@
 business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
-bookings_today: 1
-revenue_today: 253
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "Season over: pace 8% of $7k/wk; Shelley Mickelson 5★ unreplied 7 days"
-updated: 2026-10-14
+alert: "data stale — FH scrape missing"
+updated: 2026-10-26
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,11 +18,37 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $541/wk booked vs $7,000 target, 8% of goal.** Kayak season is over; this is expected and the goal said 'hold through season close.'
-- **Route fix due Oct 15 (tomorrow), no movement logged.** Same fix as Cave Point's goal.
-- **Shelley Mickelson 5★ (10/7) unreplied 7 days**, breaks the 48-hour SLA the goal names. [Reply](https://business.google.com/n/5837086547118336383/reviews)
-- Google + Meta both $0 (season off).
+- **Goal pace: unavailable this run.** FH scrape locked out day 4; last good pace thru 10/21 was 11%. Kayak season is over.
+- Meta $0 all week. Google Ads blind (v22).
+- GSC: "door county kayak tours" pos 1 (3 clicks); hiking queries carry the site.
+- GBP: Shelley Mickelson 5-star 10/7 unreplied.
 <!-- live:end -->
+
+<!-- finance:start -->
+### 💵 Finances: DCKT
+*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+
+| Account | Balance |
+|---|---|
+| Nicolet National Bank 7612705 DCKT Business (2705) | $174,688 |
+
+| Last 30 days | Amount |
+|---|---|
+| Money in | $11,455 |
+| Spending | $8,170 |
+| Card payments + transfers out | $30,469 |
+| Net, month to date | $2,237 |
+| Net, same days last month | partial: feed starts Sep 08, $8,607 |
+
+| vs same period last year | This year | Last year | Change |
+|---|---|---|---|
+| Month to date, money in | $5,347 | $14,030 | -62% |
+| Month to date, spending | $3,110 | $11,504 | -73% |
+| Month to date, net | $2,237 | $2,526 | -$288 |
+| Trailing 12 months | no history yet | | |
+
+**Top spending, 30 days:** Payroll-Homebase PCR 3b $4,991; WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151
+<!-- finance:end -->
 
 ## Quick links
 - FareHarbor: [doorcountykayaktours](https://fareharbor.com/embeds/book/doorcountykayaktours/)

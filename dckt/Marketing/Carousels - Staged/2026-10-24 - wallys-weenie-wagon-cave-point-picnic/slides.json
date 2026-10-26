@@ -1,0 +1,127 @@
+{
+  "format": "functional",
+  "type": "education",
+  "mentor": "Ogilvy",
+  "title": "Wally's Weenie Wagon + Cave Point E-Bike Picnic",
+  "brand": "dckt",
+  "why": "Fall visitors in Jacksonport who want an easy afternoon: local lunch, short e-bike ride, picnic. Shareable with Wally's.",
+  "hook_options": [
+    "Lunch from Wally's. Picnic at Cave Point.",
+    "The easiest fall lunch in Jacksonport.",
+    "Hot dogs, e-bikes, and a lake view."
+  ],
+  "caption": "Our favorite lazy fall afternoon: pick up lunch from @wallysweeniewagon on Hwy 57, hop on a fat tire e-bike from our shop, and ride about 4.5 miles to a picnic table at Cave Point County Park. Two hours is plenty. Food photos courtesy of Wally's Weenie Wagon. Save this for your trip and send it to whoever's buying the fries. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "Fall e-bike picnic",
+      "headline": "Lunch from Wally's. Picnic at Cave Point.",
+      "body": "Grab it on Hwy 57, ride about 4.5 miles, eat with the lake in front of you.",
+      "photo": "Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
+      "pos": "center 50%",
+      "dark": false
+    },
+    {
+      "n": 2,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Step 1",
+      "headline": "Rent the bike."
+    },
+    {
+      "n": 3,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "Our Jacksonport shop",
+      "headline": "Start on Hwy 57.",
+      "body": "Fat tire e-bikes are $30 an hour or $60 for two. Wally's Weenie Wagon is on the same stretch of road.",
+      "photo": "Door-County-ebike-garage.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/Door-County-ebike-garage.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 4,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "Wally's Weenie Wagon",
+      "headline": "Order at Wally's.",
+      "body": "Breakfast wraps, scones and lattes, plus Chicago dogs, gyros and burgers. Ask for it to go.",
+      "photo": "wallys-October-16-2026.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Wallys Weenie Wagon (permission 2026-10-26)/wallys-October-16-2026.jpg",
+      "pos": "center 60%",
+      "dark": false
+    },
+    {
+      "n": 5,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "What to pack",
+      "headline": "Pack it like a picnic.",
+      "body": "Lunch, napkins, water, a trash bag and a sweatshirt for the lake wind. Cave Point has tables, so skip the blanket.",
+      "photo": "wallys-October-23-2026.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Wallys Weenie Wagon (permission 2026-10-26)/wallys-October-23-2026.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "indigo",
+      "kicker": "Step 3",
+      "headline": "Ride to Cave Point.",
+      "body": "About 4.5 miles from the shop. Take the two-hour rental so you have time to sit and eat."
+    },
+    {
+      "n": 7,
+      "layout": "split",
+      "tone": "indigo",
+      "kicker": "The destination",
+      "headline": "Cave Point County Park.",
+      "body": "Picnic tables, grills and a shelter, right by the cliffs.",
+      "photo": "cave-point-cove.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/cave-point-cove.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 8,
+      "layout": "photo",
+      "tone": "green",
+      "kicker": "Eat, then look around",
+      "headline": "Keep back from the edge.",
+      "body": "Rocks are slippery when wet, and the water is shallow. No jumping. Pack your trash out.",
+      "photo": "Cave-Point-Bike-Rental-Jac.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-Bike-Rental-Jac.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 9,
+      "layout": "split",
+      "tone": "green",
+      "kicker": "The whole plan",
+      "headline": "Wally's lunch. Our bike. Cave Point table.",
+      "body": "Your afternoon, sorted.",
+      "photo": "wallys-October-17-2026.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Wallys Weenie Wagon (permission 2026-10-26)/wallys-October-17-2026.jpg",
+      "pos": "center",
+      "dark": false
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Save this for your fall trip",
+      "headline": "Send it to your picnic person.",
+      "body": "Bikes book at doorcountykayaktours.com. Lunch from @wallysweeniewagon, 6313 Hwy 57, Jacksonport.",
+      "photo": "sunset-ebike-tour-peninsula-state-park.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ebike photos for web/sunset-ebike-tour-peninsula-state-park.jpg",
+      "pos": "center 45%",
+      "dark": false
+    }
+  ]
+}

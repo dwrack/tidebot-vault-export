@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: red
-alert: "GBP build deadline (9/30) missed, now 14 days overdue; zero movement in 47 days"
-updated: 2026-10-14
+status: green
+alert: null
+updated: 2026-10-26
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,9 +18,13 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28; deadline missed by 14 days.**
-- No GBP, GSC, Ads, Meta, GA4, or FH coverage.
+- No GBP, GSC, Ads or booking data in the roster. IG only; not pulled this run.
 <!-- live:end -->
+
+<!-- finance:start -->
+### 💵 Finances
+*No bank account mapped to this business yet. Tell Claude which checking account and card it uses.*
+<!-- finance:end -->
 
 ## Quick links
 - IG: @houstonboozecruise

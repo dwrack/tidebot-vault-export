@@ -380,6 +380,7 @@ People are the best absorber in the room, so a full session is fine even untreat
 **Path:** CAD in Rhino 8 + Grasshopper ($995) with Karamba3D for early structure and Orca3D for hydrostatics. Hand clean geometry plus a weights-and-CG spreadsheet to the PE (SAP2000/RISA) and naval architect (GHS/Maxsurf). Pilot 1-2 full-size printed exterior petal panels from a large-format shop. UMaine's printer (96 x 32 x 18 ft) could print the whole shell, but access is a sponsored research partnership, likely six figures.
 
 **The scale model (this week):**
+_Update 2026-10-15: print-ready v0.5 files and the full spec are in `3D Print Model/The Rose - 3D Print Spec (Oct 2026).md` (two pieces plus snap-on slide, stem and leaves; 1:100 for a hobby bed, 1:50 resin for the hero). The bullets below are the Sept 26 state._
 - Files: `3D Print Model/`. 1:60 scale, the float is 233 mm across, fits a Bambu X1/P1 bed.
 - Print `rose_base_interior.stl` and `rose_roof_removable.stl` separately; the roof lifts off to show the tiers and pit. The slide needs supports.
 - Change any dimension in the script, run `python3 make_rose_stl.py`, reprint. `--scale 50` for 1:50.
@@ -732,7 +733,7 @@ _Questions on the pointed ceiling, private sections and stem slide were answered
 - [ ] Davey answers section 14
 - [x] Revision 2 of the model (flared petals, 3 cleft doors, pistil stones, 3 leaves, wider pit, 45 cm tiers)
 - [x] v0.3 to v0.7 in the viewer (see Iterations/CHANGELOG.md)
-- [ ] STL files are at v0.4 classic geometry (open petals, bud roof, fire cups). Wild variants, slide petals, stem boom and the Bud are viewer-only so far
+- [x] STL files rebuilt print-ready as v0.5 (2026-10-15): amphitheater petals, crown lounge roof with pins, snap-on slide petal, stem and leaves. See the 3D Print Spec
 - [ ] Pick a petal character, then v0.8: faceted hot-room walls (acoustics), accessible route, petal-edge guard solution
 - [ ] Soundings and current in the cove before slide design
 - [ ] Print the scale model

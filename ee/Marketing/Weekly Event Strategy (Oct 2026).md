@@ -1,5 +1,7 @@
 # Weekly Event Strategy (Oct 2026)
 
+**2026-10-19 update (Davey):** Events page mocked on the website canvas (Events R1). Tuesday is now **1 to 7 PM**: industry happy hour + sliding-scale party, bring something to share (snacks, tea, music), no alcohol. Wednesday = **Women + Femme Night**. Thursday = **Silent Night**: no phones, no talking, alternating sound bath and Aufguss (guest sauna master). Open: Wed/Thu times, who leads sound bath and Aufguss, and whether insurance covers a guest Aufguss master.
+
 For Davey's chat with Jonah. Pricing side: [[Pricing Revamp — Revenue Management Gaps (Oct 2026)]]. Tuesday detail: [[Tuesday Concept — Rising Tide + Family Meal (Oct 2026)]].
 
 **Rule from the Oslo plan:** pick 2 weekday levers and give them a real 90-day test. Don't run 6 at half effort.

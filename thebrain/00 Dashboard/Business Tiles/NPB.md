@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 10
-revenue_today: 1237
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 286
+ad_spend_yday: 168
 status: yellow
-alert: "Pacing 46% of $30k/wk goal; 10 of 10 page-1 reviews unreplied (7 new 10/13)"
-updated: 2026-10-14
+alert: "data stale — FH scrape missing"
+updated: 2026-10-26
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,11 +18,43 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $13,874/wk booked vs $30,000 target, 46% of goal.** Down from ~50% last brief; basis is 6 FH days (10/8-10/13).
-- **Google (4378232023): $120.34, 1.33 conv, 0.83 ROAS yesterday; 1.99 ROAS over 7d ($1,444).** The 2-day zero-conversion streak broke. The goal note's '23-36 ROAS' doesn't match what the account shows, so confirm which campaigns it meant before lifting the cap.
-- **Meta (act_87863118): $165.38 yesterday, 0 purchases** (Gator Collision $132.21, 189 LPVs). 7d: 16 purchases, $3,112, 2.16 ROAS. Watch for a second zero day.
-- **Reviews: 10 of 10 on page 1 unreplied**, 7 new 5★ on 10/13 (Latoya Welsey, Justice Robinson, Debra Verrett, Corea Pickering, Donna Pope, Cathleen Tate, Tadas Eirby). [Reply](https://business.google.com/n/16753778394051046706/reviews)
+- **Goal pace: unavailable this run.** FH scrape locked out day 4; last good pace thru 10/21 was 86%.
+- Meta Sun 10/25: $168.06, 2 purchases, $177.88. Gator Collision 1.43 ROAS on the day, 2.57 over 7 days ($1,084.54, 16 purchases). Retargeting 7.31 ROAS 7-day. Account 7-day 2.77 ROAS on $1,366.79.
+- Turn off "New Sales Campaign" ($0.63 all week, no results). Google Ads blind (v22).
+- GSC: "nola party barge" 7 clicks at position 2.8.
+- GBP: 3 new 5-star Sun (Matashia Smith, TONI, xavier Robinson), 9 of newest 9 unreplied.
 <!-- live:end -->
+
+<!-- finance:start -->
+### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
+*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+
+| Account | Balance |
+|---|---|
+| Chase Bank PERFBUS CHK (3085) | $69,456 |
+
+| Last 30 days | Amount |
+|---|---|
+| Money in | $100,549 |
+| Spending | $72,508 |
+| Card payments + transfers out | $30,510 |
+| Net, month to date | $11,561 |
+| Net, same days last month | partial: feed starts Sep 21, $8,825 |
+
+| vs same period last year | This year | Last year | Change |
+|---|---|---|---|
+| Month to date | no history yet | | |
+| Trailing 12 months | no history yet | | |
+
+**Top spending, 30 days:** PAYPAL $32,883; CHECK # $20,612; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,434; ENTERGY NEW ORLE $790
+**Flags:**
+- Check $1,700 on Oct 19: payee unknown, label it
+- Check $2,242 on Oct 15: payee unknown, label it
+- Check $1,100 on Oct 08: payee unknown, label it
+- Check $1,760 on Oct 02: payee unknown, label it
+- Check $6,000 on Oct 01: payee unknown, label it
+- Check $1,560 on Sep 29: payee unknown, label it
+<!-- finance:end -->
 
 ## Quick links
 - FareHarbor: [nolapartybarge](https://fareharbor.com/embeds/book/nolapartybarge/)

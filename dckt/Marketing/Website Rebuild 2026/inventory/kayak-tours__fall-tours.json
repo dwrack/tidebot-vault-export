@@ -1,0 +1,135 @@
+{
+ "url": "https://www.doorcountykayaktours.com/kayak-tours/fall-tours/",
+ "slug": "kayak-tours__fall-tours",
+ "title": "Fall Tours | Door County Kayak Tours",
+ "meta_description": "Experience Wisconsin's stunning autumn colors as we paddle to such locations as Cave Point, Bluff Shipwreck, & some beautiful estuaries. Plan ahead & book now!",
+ "canonical": "https://www.doorcountykayaktours.com/kayak-tours/fall-tours/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Fall Tours | Door County Kayak Tours",
+  "twitter:title": "Fall Tours",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/kayak-tours/fall-tours/",
+  "twitter:url": "https://www.doorcountykayaktours.com/kayak-tours/fall-tours/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/sycamore-3818150_1920.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/sycamore-3818150_1920.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/sycamore-3818150_1920.jpg?w=700&h=700&zoom=2",
+  "og:description": "Fall is a gorgeous time of year, especially in Door County! Experience Wisconsin’s stunning autumn colors as we paddle into caves, near bluffs, and through some beautiful estuaries.",
+  "twitter:description": "Fall is a gorgeous time of year, especially in Door County! Experience Wisconsin’s stunning autumn colors as we paddle into caves, near bluffs, and through some beautiful estuaries."
+ },
+ "h1": [
+  "Fall Tours"
+ ],
+ "h2": [
+  "Quick Details",
+  "Kayak Through Door County’s Stunning Autumn Colors"
+ ],
+ "h3": [
+  "Person",
+  "Person",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Fall-Tours-CaveBluffEstuaryLighthouse-SeptOct-image-1.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/sycamore-3818150_1920.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/kayak-tours/",
+     "name": "Kayak Tours"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/kayak-tours/fall-tours/",
+     "name": "Fall Tours"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/32973/calendar/?ref=SITE",
+    "item_id": "32973",
+    "item_name": "Fall Kayak",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "32973",
+   "5669",
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "32973",
+   "5669",
+   "5784",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/eco-estuary-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/32973/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjlkOwjAMBS/U1AGxiI+KsziJaR2yVI4BcXsoEgfI5xtpRg9eq/G1KBUFXShTgxsKLSiuimmsX+AenALEBr85xjZAl5XY3w1nnMnMmBLJu7/BgRxKv0deuRYKf6W7sAo/0W+Pr3nanS97a+3peIgfqQp0xw==",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 465,
+ "body_text": "Fall Tours\n\n Book Now\n\n Person\n\n $\n 55\n\n Quick Details\n\n Duration:\n 2.5 - 3 hours\n\n Availability:\n September through October\n\n Optional:\n Don't feel like paying for the whole group? Just pay $5/person as a deposit and pay the remainder after the tour.\n\n Equipment:\n Clean & Safe\n\n Location: 6329 Highway 57, Jacksonport, WI. 54235 \n\n Person\n\n $\n 55\n\n Kayak Through Door County’s Stunning Autumn Colors\nExperience Wisconsin’s stunning autumn colors as we paddle into caves, near bluffs, and through some beautiful estuaries. We do our best to kayak the safest and most scenic location based upon weather conditions. Based on wind/wave direction and strength on the day of your tour, we decide where we can kayak.\n\nWe typically visit:\n\nCave Point\n\nBluff Shipwreck\n\nEco-Estuary Tour\n\nClients often request to kayak Cave Point or the Bluff Shipwreck in the fall, but we need to make sure conditions are safe and enjoyable. If we are not able to go to either of those locations, we take you on our eco-estuary tour instead. We want to make sure you understand we won’t be cancelling the tour, only changing locations. If there is bad weather (rain/storms), we do our best to reschedule everyone. If you are not able to reschedule, we issue you a gift certificate.\n\n Cancellation Policy\n\nYou have 48 hours before the tour to cancel and still receive a refund.\n\nIf there are strong winds and waves, we try to reschedule your tour to another time. If you do not have other availability, we kayak in a more protected location. This happens on about 10-15% of our tours. We are not able to control the weather… yet. We are happy to issue you a return discount to come back if we are not able to safely see your requested tour location.\n\nIf there is lightning/thunder, we do our best to reschedule the tour to a later time or day. If you are not able to make a later time, we refund your deposit.\n\n Related Activities\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

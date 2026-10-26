@@ -1,0 +1,70 @@
+{
+ "url": "https://www.doorcountykayaktours.com/download-your-kayak-photos/",
+ "slug": "download-your-kayak-photos",
+ "title": "Download Your Kayak Photos | Door County Kayak Tours",
+ "meta_description": "Discover what Door County Kayak Tours is all about",
+ "canonical": "https://www.doorcountykayaktours.com/download-your-kayak-photos/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Download your kayak photos",
+  "twitter:title": "Download your kayak photos",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/download-your-kayak-photos/",
+  "twitter:url": "https://www.doorcountykayaktours.com/download-your-kayak-photos/",
+  "og:type": "website"
+ },
+ "h1": [
+  "Top Rated Tours in Door County!"
+ ],
+ "h2": [
+  ""
+ ],
+ "h3": [
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/download-your-kayak-photos/",
+     "name": "Download Your Kayak Photos"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/06/Screen-Shot-2020-06-29-at-10.44.05-AM.png?auto=compress%2Cformat&amp"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 40,
+ "body_text": "Step 3… The most fun part.  Download/Share your photos.\n\nVia Computer:  Navigate to your folder and right click on your image and “save image as”\n\nVia Phone:  Use screenshot to capture image and share or share via “…”, Share button.",
+ "youtube": []
+}

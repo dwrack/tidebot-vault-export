@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "Sept 15 GBP decision now 29 days overdue; no movement"
-updated: 2026-10-14
+status: green
+alert: null
+updated: 2026-10-26
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,9 +18,35 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals. No movement since 2026-08-28; the Sept 15 GBP decision is 29 days overdue.** GSC rental terms (bike rental door county, fish creek) all sit at pos 9.75-12 with 0 clicks.
-- No FH data; $0 ad spend; 0 unreplied reviews.
+- GSC (doorcountykayak.com): bike rental queries at positions 8-21, 1 click total. Thin.
+- GBP newest page all replied.
 <!-- live:end -->
+
+<!-- finance:start -->
+### 💵 Finances: DCKT
+*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+
+| Account | Balance |
+|---|---|
+| Nicolet National Bank 7612705 DCKT Business (2705) | $174,688 |
+
+| Last 30 days | Amount |
+|---|---|
+| Money in | $11,455 |
+| Spending | $8,170 |
+| Card payments + transfers out | $30,469 |
+| Net, month to date | $2,237 |
+| Net, same days last month | partial: feed starts Sep 08, $8,607 |
+
+| vs same period last year | This year | Last year | Change |
+|---|---|---|---|
+| Month to date, money in | $5,347 | $14,030 | -62% |
+| Month to date, spending | $3,110 | $11,504 | -73% |
+| Month to date, net | $2,237 | $2,526 | -$288 |
+| Trailing 12 months | no history yet | | |
+
+**Top spending, 30 days:** Payroll-Homebase PCR 3b $4,991; WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151
+<!-- finance:end -->
 
 ## Quick links
 - GBP location: 1548239768020739530

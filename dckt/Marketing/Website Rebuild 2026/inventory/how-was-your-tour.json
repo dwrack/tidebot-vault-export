@@ -1,0 +1,73 @@
+{
+ "url": "https://www.doorcountykayaktours.com/how-was-your-tour/",
+ "slug": "how-was-your-tour",
+ "title": "How Was Your Tour? | Door County Kayak Tours",
+ "meta_description": "Discover what Door County Kayak Tours is all about",
+ "canonical": "https://www.doorcountykayaktours.com/how-was-your-tour/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "How was your tour?",
+  "twitter:title": "How was your tour?",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/how-was-your-tour/",
+  "twitter:url": "https://www.doorcountykayaktours.com/how-was-your-tour/",
+  "og:type": "website"
+ },
+ "h1": [
+  "Top Rated Tours in Door County!"
+ ],
+ "h2": [],
+ "h3": [
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/Frown.gif",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 6,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/how-was-your-tour/",
+     "name": "How Was Your Tour"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/Frown.gif"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 25,
+ "body_text": "Thanks for adventuring with us.\n\n1. Click on a Smiley Face and share your experience with us\n\n5 Stars!!!!\n\nFun, but needs improvement!\n\nNot Happy!",
+ "youtube": []
+}

@@ -1,0 +1,253 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+ "slug": "blog__7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county",
+ "title": "Ephraim, Door County: Things to Do in the White Village",
+ "meta_description": "Ephraim is Door County's white-buildings village on Eagle Harbor. Where to paddle, eat, and stay, from guides who tour the peninsula daily.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Ephraim, Door County: Things to Do in the White Village",
+  "twitter:title": "Ephraim, Door County: The White Village on Eagle Harbor",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-Reasons-why-Ephraim-is-the-best-town-to-stay-at-in-Door-County.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-Reasons-why-Ephraim-is-the-best-town-to-stay-at-in-Door-County.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-Reasons-why-Ephraim-is-the-best-town-to-stay-at-in-Door-County.jpg?w=700&h=700&zoom=2",
+  "og:description": "Ephraim is Door County's white-buildings village on Eagle Harbor. Where to paddle, eat, and stay, from guides who tour the peninsula daily.",
+  "twitter:description": "Ephraim is Door County's white-buildings village on Eagle Harbor. Where to paddle, eat, and stay, from guides who tour the peninsula daily."
+ },
+ "h1": [
+  "Ephraim, Door County: The White Village on Eagle Harbor"
+ ],
+ "h2": [
+  "Why people pick Ephraim",
+  "Things to do in Ephraim",
+  "Where to eat and drink in Ephraim",
+  "Where to stay in Ephraim",
+  "When to visit Ephraim",
+  "How to get to Ephraim",
+  "Should I rent in Ephraim or drive to Cave Point?",
+  "What to bring for a kayak day",
+  "Ephraim FAQ"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/7-Reasons-why-Ephraim-is-the-best-town-to-stay-at-in-Door-County.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "TouristDestination",
+     "name": "Ephraim",
+     "description": "The white-buildings village on Eagle Harbor, Door County, Wisconsin.",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 45.1561,
+      "longitude": -87.1689
+     },
+     "containedInPlace": {
+      "@type": "Place",
+      "name": "Door County, Wisconsin"
+     }
+    },
+    {
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Should I book the 2-hour or half-day Cave Point tour from Ephraim?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The half-day at 145 dollars. You are driving 30 minutes each way. Half-day gives you 4 hours on the water versus 2. Most Ephraim guests pick the half-day after they realize the drive math."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do you run kayak tours from Ephraim?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Our launches are at Cave Point in Jacksonport and on Rieboldt Creek near Baileys Harbor. Both 25 to 30 minutes east of Ephraim."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is Eagle Harbor calm enough for beginner kayakers?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. It is a horseshoe-shaped bay with limited fetch, which means small waves even when the rest of the peninsula has whitecaps."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.doorcountykayaktours.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Blog",
+       "item": "https://www.doorcountykayaktours.com/blog/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Ephraim"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+     "name": "7 Reasons Why Ephraim Is The Best Town To Stay At In Door County"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=SITE",
+    "item_id": "208419",
+    "item_name": "Peninsula State Park Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=SITE",
+    "item_id": "216710",
+    "item_name": "Fish Creek Sunset Glow Roll E-Bike Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "208419",
+   "208420",
+   "216710",
+   "221394",
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "208419",
+   "208420",
+   "216710",
+   "221394",
+   "5784",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/activities/e-bike-rental/",
+  "/blog/7-adventurous-things-to-do-outside-in-door-county-today/",
+  "/blog/7-reasons-why-newport-state-park-is-the-best-park-in-door-county/",
+  "/cdn-cgi/l/email-protection#132c606671797670672e507b7670783621237c666736212336212156637b61727a7e362150362123577c7c61362123507c667d676a362052362123477b76362123447b7a6776362123457a7f7f7274763621237c7d3621235672747f763621235b7261717c613621213621237267362123577c7c61362123507c667d676a36212358726a7278362123477c6661603623573623527b676763603620523621553621556464643d777c7c61707c667d676a78726a7278677c6661603d707c7e362155717f7c74362155243e617672607c7d603e647b6a3e76637b61727a7e3e7a603e677b763e717660673e677c647d3e677c3e6067726a3e72673e7a7d3e777c7c613e707c667d676a36215535727e6328717c776a2e56637b61727a7e362150362123577c7c61362123507c667d676a362052362123477b76362123447b7a6776362123457a7f7f7274763621237c7d3621235672747f763621235b7261717c613621233e362123577c7c61362123507c667d676a36212358726a7278362123477c6661603623573623527b676763603620523621553621556464643d777c7c61707c667d676a78726a7278677c6661603d707c7e362155717f7c74362155243e617672607c7d603e647b6a3e76637b61727a7e3e7a603e677b763e717660673e677c647d3e677c3e6067726a3e72673e7a7d3e777c7c613e707c667d676a362155",
+  "/kayak-tours/eco-estuary-tour/",
+  "/peninsula-state-park-fat-tire-e-bike-tour/",
+  "/sunset-glow-roll-e-bike-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Ephraim%2C%20Door%20County%3A%20The%20White%20Village%20on%20Eagle%20Harbor%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2F7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-fish-creek-is-the-best-town-to-stay-at-in-door-county/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/7-reasons-why/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/lodging/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1697,
+ "body_text": "Back to Blog\n\n Ephraim, Door County: The White Village on Eagle Harbor\n\n Why people pick Ephraim\nEphraim is the white-buildings town. The Moravian community founded the village in 1853, and the white-painted look has been the local tradition ever since. It is a characteristic, not a legal ordinance, but the result is the same: a waterfront that photographs like a postcard. Add Eagle Harbor in front of it and you get one of the most photographed views on the peninsula.\n\nIt is smaller and quieter than Fish Creek, busier and more polished than Baileys Harbor. Walkable along the waterfront, slow at night, full of repeat visitors who book the same cottage every summer.\n\nWe do not launch tours from Ephraim. Our shop is 30 minutes east in Jacksonport.\n\nFor Ephraim guests: drive 30 minutes east for Cave Point Kayak Tours. The half-day at $145 is the one most Ephraim guests pick. Local in-town outfitters handle Eagle Harbor rentals if you want a calmer paddle without leaving town.\n\nThings to do in Ephraim\nEat ice cream at Wilson’s. Wilson’s Restaurant and Ice Cream Parlor has been on the main drag since 1906. Order a sundae, sit on the porch, watch the harbor. Ask before you order how they take payment, the policy has shifted over the years.\n\nPaddle Eagle Harbor. The flatwater here is some of the calmest, most protected paddling on the peninsula. Public launch at the South Shore Pier area. Local outfitters rent kayaks and paddleboards by the hour in season. If you want guided sea kayaking and sea caves, that is at our shop in Jacksonport, 30 minutes east.\n\nWalk Anderson Dock and the Hardy Gallery. The pier is covered in generations of painted graffiti from passing boaters. The Hardy Gallery at the end of it features local artists.\n\nVisit Eagle Bluff Lighthouse. Inside Peninsula State Park, a short drive south. Worth a stop on a park day.\n\nSee a play at Peninsula Players. America’s oldest resident summer theater, founded around 1936 and still running on a wooded site just south of Ephraim near Fish Creek. Outdoor pavilion seating with the bay close enough you can hear it between scenes.\n\nCatch a sunset from South Shore Pier. This is what people mean when they say Door County sunset. Pull up around 8pm in July, find a bench, watch the bay light go pink then gold.\n\nDrive 30 minutes east to Cave Point. Sea caves, dolomite cliffs, water clear enough to see 30 feet down. The dramatic Door County most people do not realize exists until they paddle it. We run four guided tours a day in season. The half-day at $145 is the version most Ephraim guests pick.\n\nWhere to eat and drink in Ephraim\nWilson’s Restaurant and Ice Cream Parlor. Burgers, malts, sundaes. The 1906 building and the porch are the point.\n\nBay-view fine dining. A handful of restaurants in Ephraim and the surrounding villages serve white-tablecloth dinners with water views. Worth a reservation on a date night.\n\nDoor County fish boil. The fish boil is a Door County tradition, not a one-restaurant thing. Several inns in Ephraim and Fish Creek do them. Pick one near where you are staying.\n\nCoffee and bakery stops. A few small cafes along Highway 42. Walk into whichever has the shortest line.\n\nWhere to stay in Ephraim\nEphraim leans toward small inns, cottages, and a few harbor-front resorts. Options range from historic inns walkable to the waterfront, to family-oriented motel-and-pool resorts, to owner-managed cottages on Eagle Harbor (book those by January for July weeks).\n\nIf you want a town that gets quieter at 9pm, Ephraim is your answer. If you want walkable nightlife, Fish Creek is closer to that. If you want lake-side and dramatic, Baileys Harbor is the move.\n\nWhen to visit Ephraim\nMid-June through Labor Day is full season. The harbor is packed with sailboats, every restaurant is running, Wilson’s lines stretch out the door.\n\nSeptember is the smartest week. Lower rates, warmer water than people expect, Wilson’s is still open through the third week. Most of our kayak tours run.\n\nEarly October for fall color. Cool nights, lots of restaurants on shorter hours, fewer kids. Bring layers.\n\nWinter and early spring. Ephraim mostly closes. A few inns stay open, most restaurants do not. We do not run kayak tours in this window.\n\nHow to get to Ephraim\nFrom Milwaukee or Madison, plan on 4 hours. I-43 north to Highway 57 to Sturgeon Bay, then 42 north through Egg Harbor and Fish Creek into Ephraim.\n\nFrom Green Bay, about 1 hour 45 minutes.\n\nFrom Ephraim to our shop at Cave Point: 30 minutes east on Highway A and Highway 57.\n\nShould I rent in Ephraim or drive to Cave Point?\nWe get this question from guests staying in Ephraim every week. Honest answer:\n\nRent in Ephraim if: you want a one-hour flatwater paddle, you have got young kids who would rather poke around the harbor than tour, or you are not committed enough to a kayak day to budget two hours of driving.\n\nDrive to us if: you want sea caves, dramatic shoreline, a guided tour with a real story attached. Most of our guests staying in Ephraim only do this once per trip and they tell us it was the best half-day they had.\n\nIf you are driving over, book the half-day at $145. You are already spending an hour in the car round trip. The half-day gives you 4 hours on the water versus 2, with extra time inside the caves. Worth the math.\n\nWe do not run a competing rental in Ephraim. Local outfitters handle the by-the-hour rental market just fine. Different product, different decision.\n\nWhat to bring for a kayak day\n\nClosed-toe water shoes or sandals with heel straps. No flip-flops.\n\nSwimsuit or a quick-dry layer.\n\nSunscreen, hat, sunglasses with a strap.\n\nTowel and a dry change of clothes for the car ride home.\n\nA dry bag for your phone is available at our shop. We provide the kayak, paddle, and PFD on every guided tour.\n\nEphraim FAQ\nDo you run kayak tours from Ephraim?\n\nNo. Our launches are at Cave Point in Jacksonport and on Rieboldt Creek near Baileys Harbor. Both are a 25 to 30 minute drive from Ephraim. Plenty of our guests stay in Ephraim and drive over for the morning.\n\nShould I book the 2-hour or half-day from Ephraim?\n\nThe half-day at $145. You are driving 30 minutes each way to get there. The half-day gives you 4 hours of water time versus 2. Most Ephraim guests pick the half-day after they realize the drive math.\n\nWhere can I rent a kayak in Ephraim?\n\nA handful of in-town outfitters rent by the hour from the South Shore area in season. We do not operate a rental in Ephraim. If you want guided with sea caves, drive east to us.\n\nIs Eagle Harbor really that calm?\n\nOn most days, yes. It is a horseshoe-shaped bay with limited fetch, which means small waves even when the rest of the peninsula has whitecaps. That is why kids learn to sail here.\n\nIs Ephraim walkable?\n\nAlong the waterfront, yes. Most lodgings, restaurants, and shops are within a half-mile stretch. Anything inland from Highway 42 means a drive.\n\nCan I drink alcohol in Ephraim?\n\nYes. Ephraim was a dry village for 163 years. On April 5, 2016, residents voted in two separate referendums to allow beer and wine sales. Both passed. Most restaurants now serve beer and wine. Liquor licenses are still limited.\n\nIs Ephraim better than Fish Creek for a first visit?\n\nDifferent visit. Fish Creek is busier, more walkable nightlife, more restaurants per block. Ephraim is quieter, more aesthetic, slower. Couples without kids tend to prefer Ephraim. Families with kids who want options often default to Fish Creek.\n\n Posted in: \n\n 7 reasons why\n\n Door County\n\n Door County Lodging\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n From\n\n $99\n\n 2.5 hours\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n A super fun way to cruise around and see some fun instagrammable spots throughout Peninsula State Park and Fish Creek during all the seasons.  Fat tire E-bikes are a blast.\n\n Book Now\n\n Learn More\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n From\n\n $99\n\n 1.5 - 2 Hours\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n A sunset glow roll! What could be better?! This is a perfect way to explore Fish Creek and Peninsula State Park at night, with some awesome light-up bikes and disco lights! Tour will include some awesome photo ops, incredibly cool bikes, and of course a great sunset! Join us Today!\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

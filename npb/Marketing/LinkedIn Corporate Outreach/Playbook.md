@@ -1,6 +1,6 @@
 # LinkedIn Corporate Outreach: Playbook
 
-Started 2026-10-12. Sender: David's personal LinkedIn. Engine: `~/Projects/npb-linkedin` on the always-on Mac (davids-mbp-2). The daily batch posts to Slack #the-helm at 7am CT, Mon-Fri.
+Started 2026-10-12. Sender: Michael's LinkedIn, run by Michael's Claude on his Mac (changed 2026-10-22; David's name stays off it). No always-on job yet: each weekday Michael's Claude finds, drafts and tracks, and Michael sends. Start with `Michael Handoff (2026-10-22).md`.
 
 This file is the brain. The daily job reads it before it writes anything, so edit here to change how the drafts sound.
 
@@ -12,13 +12,13 @@ Every message has to be useful to the reader even if they never book. If a draft
 
 1. **Find:** 5 new people a weekday, rotating through the segments below. Duplicates and out-of-market people get dropped.
 2. **Draft:** Claude reads each profile and picks a segment and a "give" sized to their company. It writes a connection note (200 characters max, no pitch, no link) and a follow-up for after they accept.
-3. **Post:** the batch goes to #the-helm as one post, with one threaded reply per person.
-4. **Send:** David sends from his phone and marks each one with a reaction:
+3. **Show:** Michael's Claude lists the 5 in the session with every draft ready to copy.
+4. **Send:** Michael sends from his phone and tells his Claude, so it can track:
    - ✅ = connection request sent
    - 🤝 = they accepted (the follow-up draft shows up 2 days later)
    - 💬 = they replied (the engine stops nudging, the conversation is yours now)
    - ❌ = skip this person forever
-5. **Report:** every Friday, a scorecard goes to #the-helm with sent, accepted, replied and booked.
+5. **Report:** every Friday, Michael's Claude gives David a one-line scorecard (sent, accepted, replied, booked) and logs it in `Tracker.csv`.
 
 Nothing ever sends automatically. LinkedIn restricts accounts that automate sending, and a bot voice is exactly what we're avoiding.
 
@@ -86,7 +86,7 @@ If there's no real hook, the note stays short and plain. A fake compliment is wo
 
 ## Voice
 
-The drafts should sound like David texting someone he respects:
+The drafts should sound like Michael texting someone he respects, in his own voice and not a template:
 - Short, with contractions.
 - No "I hope this finds you well," no "I'd love to pick your brain," no "synergy," no em dashes.
 - One specific detail about them and one useful thing from us. Asks stay small: "worth a quick chat?" or "want the sheet?"

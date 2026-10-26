@@ -1,0 +1,79 @@
+{
+ "url": "https://www.doorcountykayaktours.com/door-county-events/",
+ "slug": "door-county-events",
+ "title": "Door County Events | Door County Kayak Tours",
+ "meta_description": "Whether it's parades, festivals, or fireworks, there is always something fun going on in Door County, Wisconsin. Check this page for events & other happenings. ",
+ "canonical": "https://www.doorcountykayaktours.com/door-county-events/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Door County Events | Door County Kayak Tours",
+  "twitter:title": "Door County Events",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/door-county-events/",
+  "twitter:url": "https://www.doorcountykayaktours.com/door-county-events/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0068.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0068.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0068.jpg?w=700&h=700&zoom=2",
+  "og:description": "Whether it's parades, festivals, or fireworks, there is always something fun going on in Door County, Wisconsin. Check this page for events & other happenings. ",
+  "twitter:description": "Whether it's parades, festivals, or fireworks, there is always something fun going on in Door County, Wisconsin. Check this page for events & other happenings. "
+ },
+ "h1": [
+  "Door County Events"
+ ],
+ "h2": [],
+ "h3": [
+  "Upcoming Events in Door County, Wisconsin",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0068.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/door-county-events/",
+     "name": "Door County Events"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 25,
+ "body_text": "Door County Events\n\n Upcoming Events in Door County, Wisconsin\n\n There’s always something going on in Door County. Check this page for events and other happenings.",
+ "youtube": []
+}

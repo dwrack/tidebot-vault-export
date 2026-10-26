@@ -104,7 +104,7 @@
 
 | Item | Detail |
 |---|---|
-| **Tandem kayaks** | Sit-on-top (SOT) — weight limit 550 lbs combined |
+| **Tandem kayaks** | Sit-on-top (SOT) — weight limit 500 lbs combined (Rambler 13.5T rated 550, Tribe 13.5T rated 500; quote 500) |
 | **Single kayaks** | Weight limit 285 lbs |
 | **Kid paddles** | White with smiley faces — children 8+ |
 | **Child PFD** | Max 90 lbs |

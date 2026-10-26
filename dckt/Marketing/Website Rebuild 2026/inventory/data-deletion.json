@@ -1,0 +1,69 @@
+{
+ "url": "https://www.doorcountykayaktours.com/data-deletion/",
+ "slug": "data-deletion",
+ "title": "Data Deletion | Door County Kayak Tours",
+ "meta_description": "Discover what Door County Kayak Tours is all about",
+ "canonical": "https://www.doorcountykayaktours.com/data-deletion/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Data deletion",
+  "twitter:title": "Data deletion",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/data-deletion/",
+  "twitter:url": "https://www.doorcountykayaktours.com/data-deletion/",
+  "og:type": "website"
+ },
+ "h1": [
+  "Data deletion"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/data-deletion/",
+     "name": "Data Deletion"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/cdn-cgi/l/email-protection"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 30,
+ "body_text": "Data deletion\n\n To request deletion of any data we have collected through Meta APIs, email [email protected] with subject ‘Meta data deletion request’ and we will process within 30 days.",
+ "youtube": []
+}

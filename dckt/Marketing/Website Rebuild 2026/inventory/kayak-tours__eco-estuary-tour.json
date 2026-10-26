@@ -1,0 +1,191 @@
+{
+ "url": "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/",
+ "slug": "kayak-tours__eco-estuary-tour",
+ "title": "Eco Estuary Kayak Tour | Door County Kayak Tours",
+ "meta_description": "Take a memorable paddle through Wisconsin's premier wetlands. The flora and fauna combine to form a spectacular experience for all skill levels. Book today!",
+ "canonical": "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Eco Estuary Kayak Tour | Door County Kayak Tours",
+  "twitter:title": "Eco Estuary Tour",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/",
+  "twitter:url": "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_9939.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_9939.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_9939.jpg?w=700&h=700&zoom=2",
+  "og:description": "Take a memorable paddle through Wisconsin's premier wetlands. The flora and fauna combine to form a spectacular experience for all skill levels. Book today!",
+  "twitter:description": "Take a memorable paddle through Wisconsin's premier wetlands. The flora and fauna combine to form a spectacular experience for all skill levels. Book today!"
+ },
+ "h1": [
+  "Eco Estuary Tour"
+ ],
+ "h2": [
+  "Quick Details",
+  "An Unforgettable Paddle Through Wisconsin’s Premier Wetlands"
+ ],
+ "h3": [
+  "Public Tour",
+  "Person",
+  "Private Tour",
+  "Starting at",
+  "Public Tour",
+  "Person",
+  "Private Tour",
+  "Starting at",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-Estuary-Tour-image-1.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/87DAB4B4-4665-4A52-A30C-5972775BDABB.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/3D4B84FD-C647-4B43-A7C2-D2D488ABB54D.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Your-Adventure-Starts-Here.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Bluff-Shipwreck-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2025/05/clouds-6.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2025/01/Airstream-Sauna-Rental-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_9939.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 8,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/kayak-tours/",
+     "name": "Kayak Tours"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/",
+     "name": "Eco Estuary Tour"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=SITE",
+    "item_id": "23855",
+    "item_name": "Door Bluff Shipwreck Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/631526/calendar/?ref=SITE",
+    "item_id": "631526",
+    "item_name": "House of Clouds and Curiosity",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584699/calendar/?ref=SITE",
+    "item_id": "584699",
+    "item_name": "Door County Sauna Experience",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "23855",
+   "5669",
+   "584699",
+   "631526",
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "23855",
+   "5669",
+   "5784",
+   "584699",
+   "631526",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/house-of-clouds-and-curiosities/",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/door-bluff-county-park-shipwreck/",
+  "/sauna-experience/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584699/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/631526/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Your-Adventure-Starts-Here.jpg?auto=compress%2Cformat&amp"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjlkOwjAMBS/U1AGxiI+KsziJaR2yVI4BcXsoEgfI5xtpRg9eq/G1KBUFXShTgxsKLSiuimmsX+AenALEBr85xjZAl5XY3w1nnMnMmBLJu7/BgRxKv0deuRYKf6W7sAo/0W+Pr3nanS97a+3peIgfqQp0xw==",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1024,
+ "body_text": "Relaxing\n\n Easy\n\n Eco Estuary Tour\n\n Book Now\n\n Public Tour\n\n Person\n\n $\n 65\n\n Private Tour\n\n Starting at\n\n $\n 300\n\n Quick Details\n\n Duration:\n 1.5 - 2 Hours\n\n Ages:\n 4 years & up\n\n Optional:\n Don't feel like paying for the whole group? Just pay $5/person as a deposit and pay the remainder after the tour.\n\n Equipment:\n Clean & Safe\n\n Location: County Q & Reiboldt’s Creek., Baileys Harbor, WI 54202\n\n Public Tour\n\n Person\n\n $\n 65\n\n Private Tour\n\n Starting at\n\n $\n 300\n\n An Unforgettable Paddle Through Wisconsin’s Premier Wetlands\nBring your family on a great tour for beginners or first-time kayakers! Our tour begins on the incredibly serene Rieboldt Creek at the base of Moonlight Bay, where kayakers can perfect their skills on the quiet, calm water.\n\nVenture through the twists and turns of the creek and out onto Mud Lake to experience one of Door County’s hidden gems. Our kayaks provide access to these environments that cannot be granted by any other mode of transportation.\n\nPlants, insects, fish, birds and countless others come together to form a spectacular ecosystem that works together in seamless harmony. You don’t want to miss this opportunity to become part of this incredible ecological community and paddle through our world-class wetlands!\n\n Where We Meet\n\nOur guide will meet you on site at County Q & Sunset Dr., Baileys Harbor, WI 54202 where rieboldt creek meets County Road Q.  Please be advised there is a “north” sunset drive and county road Q intersection too.(Go to the south one!)\n\nPlease arrive 15-20 minutes before your scheduled tour time!\n\n What You Should Bring\n\nWater\n\nLight layered synthetic clothing /  Swimsuit\n\nHat\n\nSunglasses\n\n Optional Add-Ons\n\nBottled water ($1/ea.)\n\nPaddling glove rental ($5/pair)\n\nWaterproof phone case ($10/ea.)\n\nPhotography package ($20/person) — Nothing solidifies memories quite like photographs. A land-based professional photographer captures your experience! Your photographs are available for digital download on dcphotofun.com within 24 hours of your tour, and if your photographs aren’t delivered for any reason, you are issued a refund.\n\n Cancellation Policy\n\n Cancel your tour 48 hours prior to the tour start time to receive a 100% refund.\n\nWeather(Wind/Waves/Lightning) related cancellation options: (chosen when booking)\n\nI have no flexibility to reschedule if weather doesn’t cooperate (+$5/person 100% refund)\n\nI would reschedule to a different day if weather doesn’t cooperate (100% refund after exhausting 1 reschedule opportunity)\n\nI would reschedule to a different tour if weather/wind/waves aren’t appropriate for my chosen tour (100% refund if no tours are safe due to weather)\n\nI would reschedule to a different tour or day (100% refund if no tours are safe due to weather)\n\nIf you choose option 2,3 or 4. We only ask you try to reschedule once, if weather doesn’t cooperate the second time, we will issue you a 100% refund or reschedule you again if you desire (not likely as we can usually pick a successful time in a 3 day forecast window.)\n\nCancellation Communication:\n\nWe do the best we can to communicate with you prior to your tour time so you can make the most of your vacation days.\n\nWe work to be as proactive as possible to let you know ahead of your tour time, so you don’t have to show up to find out. From time to time, we cancel last minute due to weather, but this doesn’t happen often.\n\nIf you are traveling from far away just to kayak with us, please reach out the prior day via text or call to talk about the weather.\n\nMinimum tour participants cancellation:\n\nOur tours have a minimum of 4 participants to launch.\n\nDuring June/July/August this rarely happens due to our popularity.\n\nDuring May, sept and oct, this can happen.\n\nIf we don’t have the minimum participants to launch, you have 3 choices\n\nmake it a private tour\n\nreschedule to another tour time or location to meet minimum\n\noffer you a 100% refund.\n\n Book Now\n\n Related Activities\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n Guide Favorite\n\n From\n\n $69\n\n 2 hours\n\n 4+\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n ✅ 2 hours · Beginner-Friendly\n🌿 Quieter spot\n📍 Departs from Garrett Bay, Ellison Bay, WI\n☀️ Backup if Cave Point is wavey\n🌟 Guide Favorite\n📸 Photo-Perfect Scenery\n\nThis guided kayak tour takes you thru “Death’s Door” past dramatic bluffs, ancient Native American pictographs, and the remnants of a historic shipwreck resting just beneath the surface.\n\n Book Now\n\n Learn More\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n House of Clouds and Curiosities\n\n Coming 2026\n\n House of Clouds and Curiosities\n\n Let art guide your senses: \n\n✅ 30-45 Mins to explore\n\n🔊 Sound System · Heightened Visual Experience\n\n📍 6329 Highway 57, Jacksonport · WI\n\n🌿 Host your Private Party…\n\nStep inside where art, illusion, and imagination blur into one surreal, walkable dream. Lose yourself in a world of floating rooms, hidden passages, and impossible beauty\n\nBring your friends, family & kids. Great for Rainy Days and private parties. Be a Kid at Heart.\n\n Book Now\n\n Learn More\n\n Door County Sauna Experience\n\n From\n\n $45 - \n $369\n\n Door County Sauna Experience\n\n ✅ 2 hours · Relaxation & Wellness\n🌿 Tranquil\n🔥 Traditional Wood-Fired Sauna & Cold Plunge in the snow (winter) and Ice water (summer)\n🌟 Guest Favorite for Rejuvenation\n🌲 Surrounded by Scenic Forest & Lake Views\n\nUp to 10 People\n\nStep into a time-honored Finnish sauna beautifully built into an Airstream Sauna nestled in the heart of Door County’s wilderness. Enjoy the soothing heat of the wood-fired sauna followed by a refreshing cold plunge to invigorate your body and mind. This unique wellness experience combines relaxation, nature, and culture — perfect for anyone seeking calm, clarity, and connection in a serene setting.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "_baAejDXNBQ"
+ ]
+}

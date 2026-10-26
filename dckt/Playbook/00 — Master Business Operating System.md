@@ -84,7 +84,7 @@ Tony Robbins' framework: every human being is driven by 6 core needs. When your 
 - Referral engine (post-tour ask + incentive)
 - Reactivate 24,000 past contacts (Dan Kennedy win-back sequence)
 - SEO + Google Ads → FareHarbor booking (already running, optimize)
-- Social proof injection (4.9 stars, 800+ reviews, everywhere)
+- Social proof injection (4.9 stars, 1,000+ reviews, everywhere)
 
 **2. More frequency**
 - Returning customer experience strategy (Paddler's Circle)

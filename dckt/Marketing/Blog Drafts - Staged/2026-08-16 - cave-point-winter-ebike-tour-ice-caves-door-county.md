@@ -204,7 +204,7 @@ If the ice caves themselves haven't formed yet that week, the ride is still wort
 
 Because the alternative is a five-month stretch where Door County Kayak Tours has nothing to offer, and that's not who we want to be. Winter is part of this place too. The [internal link: Cave Point e-bike tour → /cave-point-ebike-tour/] is our summer flagship for a reason, but the winter version shows you a side of the same road that most guests, and honestly most locals, never bother to see.
 
-Bundle up, check the forecast with us before you book, and come see what a Great Lakes winter actually does to a cliff. Door County Kayak Tours carries a 4.9-star average across 800+ reviews built mostly on the summer season, and the guides running winter rides are the same ones who know this road in July, which is exactly why they know when it's not safe to run it in January.
+Bundle up, check the forecast with us before you book, and come see what a Great Lakes winter actually does to a cliff. Door County Kayak Tours carries a 4.9-star average across 1,000+ reviews built mostly on the summer season, and the guides running winter rides are the same ones who know this road in July, which is exactly why they know when it's not safe to run it in January.
 ```
 
 ---

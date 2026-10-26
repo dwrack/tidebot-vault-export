@@ -1,0 +1,460 @@
+{
+ "_note": "v2 (2026-10-15 evening). Every clip is cut from a clean source at 720x1280 or better, no foreign burned text except two 'archive' bits where the text is the joke (days 17, 18). One visual system on all 30: hook panel (Anton, ink on bayou teal, coral edge) for the first ~3s, persistent NOLA PARTY BARGE tag, one grade, loudness-normalized audio. Paths relative to the Documents folder; 'Crew Clips/' paths resolve to the iCloud Drive library. cx = horizontal crop center for landscape masters. No caption has a URL, phone, price, or 'book now'.",
+ "posts": [
+  {
+   "day": 1,
+   "date": "2026-10-17",
+   "pillar": "Moments",
+   "slug": "rules-are-rules",
+   "src": "NOLA Party Barge/Assets/IG Library/2024-05-04_33907L_rules-are-rules-don-t-be-late-serio_574847.mp4",
+   "in": 0,
+   "out": 13,
+   "hook": [
+    "Rules",
+    "are rules"
+   ],
+   "caption": "Rules are rules. Tag the friend who's always late.",
+   "why": "Our all-time best post (33.9k likes). Re-cut from the clean source, old logo card at the end dropped."
+  },
+  {
+   "day": 2,
+   "date": "2026-10-18",
+   "pillar": "Bayou Files",
+   "slug": "great-wall-of-louisiana",
+   "src": "NOLA Party Barge/Assets/IG Library/2026-07-16_0085L_have-you-ever-seen-the-lake-borgne-surg_628129.mp4",
+   "in": 1.2,
+   "out": 9.4,
+   "hook": [
+    "The Great Wall",
+    "of Louisiana"
+   ],
+   "caption": "The Great Wall of Louisiana. Almost two miles of concrete between the Gulf and the city, and you ride right past it. Send this to somebody who thinks New Orleans is just Bourbon Street.",
+   "why": "Boosted three times this summer at $0.022 a click, best in the account all year. The fact lane converts."
+  },
+  {
+   "day": 3,
+   "date": "2026-10-19",
+   "pillar": "Crew",
+   "slug": "captain-has-seen-things",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_6638.MOV",
+   "in": 0,
+   "out": 5.2,
+   "cx": 0.28,
+   "hook": [
+    "The captain",
+    "has seen things"
+   ],
+   "caption": "He's seen things. Tag the designated adult in your group.",
+   "why": "Raw master, deadpan captain while the bride waves a prop behind him. Jeff: who is he? The Crew lane needs his name."
+  },
+  {
+   "day": 4,
+   "date": "2026-10-20",
+   "pillar": "Weird Louisiana",
+   "slug": "shark-in-bayou-bienvenue",
+   "src": "NOLA Party Barge/Assets/IG Library/2026-02-28_0040L_shark-siting-in-bayou-bienvenue-you-a_759888.mp4",
+   "in": 0,
+   "out": 12,
+   "hook": [
+    "Shark sighting,",
+    "Bayou Bienvenue"
+   ],
+   "caption": "Uncut footage of a shark in Bayou Bienvenue. Send this to the friend who fact-checks everything.",
+   "why": "Inflatable shark walks out of the marina office. Weird lane, clean 720p source."
+  },
+  {
+   "day": 5,
+   "date": "2026-10-21",
+   "pillar": "Moments",
+   "slug": "25-years-champagne-guns",
+   "src": "NOLA Party Barge/Assets/IG Library/2024-07-04_0166L_keep-watching-the-pure-elation-of-thi_634130.mp4",
+   "in": 2.5,
+   "out": 14.5,
+   "hook": [
+    "25 years married.",
+    "She fires first."
+   ],
+   "caption": "25 years married and she still fires first. Tag your person.",
+   "why": "Native 1080x1920, sunset, champagne guns, pure joy."
+  },
+  {
+   "day": 6,
+   "date": "2026-10-22",
+   "pillar": "What's Coming",
+   "slug": "halloween-is-a-saturday",
+   "src": "NOLA Party Barge/Assets/IG Library/2023-08-13_0138L_these-folks-came-dressed-for-the-occasio_012630.mp4",
+   "in": 0,
+   "out": 12,
+   "hook": [
+    "Halloween's on",
+    "a Saturday"
+   ],
+   "caption": "Halloween's on a Saturday this year. The bayou goes pirate Oct 30 and 31. What are you coming as?",
+   "why": "Crew in matching Hawaiian shirts dancing. Costume energy, date plus a question, no offer."
+  },
+  {
+   "day": 7,
+   "date": "2026-10-23",
+   "pillar": "Culture",
+   "slug": "second-line-at-the-dock",
+   "src": "NOLA Party Barge/Assets/IG Library/2026-06-08_0183L_there-s-something-special-about-that-sec_079998.mp4",
+   "in": 20,
+   "out": 32,
+   "hook": [
+    "Second line,",
+    "dock edition"
+   ],
+   "caption": "That second-line sound at the dock. Only here. Send it to someone who needs to come home.",
+   "why": "Brass band procession down the dock in white, big sky. Second-best reach of the summer."
+  },
+  {
+   "day": 8,
+   "date": "2026-10-24",
+   "pillar": "Moments",
+   "slug": "saturday-640pm",
+   "src": "Crew Clips/NOLA Party Barge/1-great_2026-08-03_sunset-barge-dance-party.mov",
+   "in": 0,
+   "out": 12,
+   "hook": [
+    "Saturday,",
+    "6:40 pm"
+   ],
+   "caption": "Saturday on the bayou. Tag who's on the boat.",
+   "why": "Crew-shot, graded great. Golden light, real guests."
+  },
+  {
+   "day": 9,
+   "date": "2026-10-25",
+   "pillar": "Bayou Files",
+   "slug": "october-gators",
+   "src": "NOLA Party Barge/Assets/Videos/npb-drone-aerial-party-barge-alligator-bayou-bienvenue-overhead-4k.mp4",
+   "in": 4,
+   "out": 14,
+   "hook": [
+    "Why the gators",
+    "are out in October"
+   ],
+   "caption": "October gators. The water's still warm enough that they're eating before the cold, so you see more of them now than in July. Nobody knows this. Save it for your trip.",
+   "why": "4K drone, a gator cruising right alongside the boat. Fact plus animal in frame, save-bait.",
+   "cx": 0.5
+  },
+  {
+   "day": 10,
+   "date": "2026-10-26",
+   "pillar": "Crew",
+   "slug": "what-the-captain-sees",
+   "src": "Crew Clips/NOLA Party Barge/2-good_2026-07-17_barge-upper-deck-views.mov",
+   "in": 0,
+   "out": 12,
+   "hook": [
+    "What the",
+    "captain sees"
+   ],
+   "caption": "What the captain sees. Tag who's sitting up front.",
+   "why": "Captain Tom's own POV: bar, rails, the lock, open water. Crew lane without needing a face yet."
+  },
+  {
+   "day": 11,
+   "date": "2026-10-27",
+   "pillar": "Weird Louisiana",
+   "slug": "deer-in-the-swamp",
+   "src": "Crew Clips/NOLA Party Barge/2-good_2026-08-16_deer-and-gator-shoreline.mov",
+   "in": 5,
+   "out": 17,
+   "hook": [
+    "There's a deer",
+    "in the swamp"
+   ],
+   "caption": "There's a deer in the swamp. Nobody told the gators. Send this to someone who thinks it's just mud out here.",
+   "why": "Whitetail picking along the bank, shot by Edward Roberts in August. Replaces the low-res horse clip."
+  },
+  {
+   "day": 12,
+   "date": "2026-10-28",
+   "pillar": "Moments",
+   "slug": "the-bride-sent-it",
+   "src": "NOLA Party Barge/Assets/Videos/D8A94506-8DD2-45FD-91E5-652CA135B0BA_2_0_a.mov",
+   "in": 0,
+   "out": 8,
+   "cx": 0.45,
+   "hook": [
+    "The bride",
+    "sent it"
+   ],
+   "caption": "The bride sent it. Tag the bride.",
+   "why": "Raw 1080 master, second angle of the backhandspring. Replaces the 406p aisle clip."
+  },
+  {
+   "day": 13,
+   "date": "2026-10-29",
+   "pillar": "What's Coming",
+   "slug": "bayou-goes-pirate",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_0196.MOV",
+   "in": 18,
+   "out": 30,
+   "cx": 0.5,
+   "hook": [
+    "The bayou goes",
+    "pirate Fri + Sat"
+   ],
+   "caption": "Two nights, Oct 30 and 31, the whole bayou goes pirate. Which song are you haunting us with?",
+   "why": "Purple neon line dance, city lights behind. Halloween eve-eve without a costume cliche."
+  },
+  {
+   "day": 14,
+   "date": "2026-10-30",
+   "pillar": "Moments",
+   "slug": "halloween-eve-on-the-water",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_0490.MOV",
+   "in": 8,
+   "out": 18,
+   "cx": 0.55,
+   "hook": [
+    "Halloween eve",
+    "on the water"
+   ],
+   "caption": "Halloween eve on the water. Costumes were never optional out here. Tag your crew.",
+   "why": "Two packed boats wave across the water, raw 1080 master."
+  },
+  {
+   "day": 15,
+   "date": "2026-10-31",
+   "pillar": "Bayou Files",
+   "slug": "uninvited-plus-one",
+   "src": "NOLA Party Barge/Assets/Videos/E9794763-383E-4C39-96BE-14B87F5F71D7_2_0_a.mov",
+   "in": 0,
+   "out": 7.7,
+   "cx": 0.5,
+   "hook": [
+    "The plus one",
+    "nobody invited"
+   ],
+   "caption": "Happy Halloween from the only boat ride with an uninvited plus one. Send this to the friend who'd scream.",
+   "why": "Girls at the rail, camera tilts down to a big gator next to the hull. Raw master."
+  },
+  {
+   "day": 16,
+   "date": "2026-11-01",
+   "pillar": "Bayou Files",
+   "slug": "jean-lafitte-treasure",
+   "src": "NOLA Party Barge/Assets/IG Library/2025-10-04_0045L_we-found-jean-lafittes-hidden-treasu_321960.mp4",
+   "in": 40,
+   "out": 68,
+   "hook": [
+    "We found",
+    "Lafitte's treasure"
+   ],
+   "caption": "Jean Lafitte ran this bayou in 1812. We found his treasure. Sort of. Send this to your history friend.",
+   "why": "The dig, the skull, the bag, the coins. Trimmed from 84s to the payoff."
+  },
+  {
+   "day": 17,
+   "date": "2026-11-02",
+   "pillar": "Crew",
+   "slug": "world-record-vortex",
+   "src": "NOLA Party Barge/Assets/IG Library/2026-02-06_0015L_another-world-record-in-the-guiness-boo_654071.mp4",
+   "in": 24,
+   "out": 50,
+   "archive": true,
+   "caption": "Another world record on the Freaky Tiki. Guinness has not returned our calls. Tag someone who'd try it.",
+   "why": "ARCHIVE BIT: the burned-in text is the joke, so it keeps its own captions and only gets the brand tag. Best Capt. Save-a-Hoe skit, 15 likes in February, never got seen."
+  },
+  {
+   "day": 18,
+   "date": "2026-11-03",
+   "pillar": "Weird Louisiana",
+   "slug": "marina-zoo-skink",
+   "src": "NOLA Party Barge/Assets/IG Library/2024-09-24_0018L_here-s-a-clip-of-our-pet-skink-eating-a_309244.mp4",
+   "in": 0,
+   "out": 10,
+   "archive": true,
+   "caption": "Marina zoo, episode: the skink. Send this to someone who hates spiders.",
+   "why": "ARCHIVE BIT: hand-drawn 'Skink / Spider / ATTA BOY' labels are the joke. Brand tag only. Trimmed before the party-footage tail."
+  },
+  {
+   "day": 19,
+   "date": "2026-11-04",
+   "pillar": "Moments",
+   "slug": "night-karaoke-real-mic",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_0386.MOV",
+   "in": 20,
+   "out": 32,
+   "cx": 0.27,
+   "hook": [
+    "Real mic.",
+    "No notes."
+   ],
+   "caption": "Real mic. No notes. Tag your duet partner.",
+   "why": "Night karaoke duet with a laugh. Raw master."
+  },
+  {
+   "day": 20,
+   "date": "2026-11-05",
+   "pillar": "What's Coming",
+   "slug": "friendsgiving-on-the-water",
+   "src": "Crew Clips/NOLA Party Barge/2-good_2026-07-16_sunset-barge-toast.mov",
+   "in": 0,
+   "out": 11,
+   "hook": [
+    "Friendsgiving,",
+    "Nov 20 to 22"
+   ],
+   "caption": "Friendsgiving on the water, Nov 20 to 22. Everybody brings a dish, fire pits after. Who's bringing the mac and cheese?",
+   "why": "Sunset toast along the benches. Matches the Holiday Pushes plan. Date plus a question, no price."
+  },
+  {
+   "day": 21,
+   "date": "2026-11-06",
+   "pillar": "Culture",
+   "slug": "golden-hour",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_6269.MOV",
+   "in": 3,
+   "out": 10,
+   "cx": 0.5,
+   "hook": [
+    "Golden hour,",
+    "arms up"
+   ],
+   "caption": "Golden hour. Tag the friend who never misses it.",
+   "why": "Sunset silhouettes under the canopy, arms rise. Raw master, replaces the soft karaoke-bottle clip."
+  },
+  {
+   "day": 22,
+   "date": "2026-11-07",
+   "pillar": "Moments",
+   "slug": "the-bar-is-a-stage",
+   "src": "NOLA Party Barge/Assets/IG Library/2023-11-09_0015L_come-n-show-off-yer-dance-moves-have_586477.mp4",
+   "in": 0,
+   "out": 5,
+   "hook": [
+    "The bar",
+    "is a stage"
+   ],
+   "caption": "The bar is a stage. Tag who'd do the worm.",
+   "why": "The worm on the bar table, five clean seconds before the old 'book the boats' card."
+  },
+  {
+   "day": 23,
+   "date": "2026-11-08",
+   "pillar": "Bayou Files",
+   "slug": "fifteen-minutes-from-bourbon",
+   "src": "Crew Clips/NOLA Party Barge/2-good_2026-07-08_barge-cruise-spillway-bridge.mov",
+   "in": 0,
+   "out": 10,
+   "hook": [
+    "15 minutes from",
+    "Bourbon Street"
+   ],
+   "caption": "This is 15 minutes from Bourbon Street. Not an hour, not a van. Save this for your trip.",
+   "why": "Guests cruising past the long spillway bridge under blue sky, crew-shot. Proximity as a fact, not a pitch."
+  },
+  {
+   "day": 24,
+   "date": "2026-11-09",
+   "pillar": "Crew",
+   "slug": "favorite-four-seconds",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_0475.MOV",
+   "in": 8,
+   "out": 13.6,
+   "cx": 0.35,
+   "hook": [
+    "Our favorite",
+    "4 seconds"
+   ],
+   "caption": "Our favorite four seconds of every trip. Tag the friend who'd wave back.",
+   "why": "The whole bar laughs and waves into the crew's camera. Replaces the pillarboxed camcorder repost."
+  },
+  {
+   "day": 25,
+   "date": "2026-11-10",
+   "pillar": "Weird Louisiana",
+   "slug": "dusk-regular",
+   "src": "Crew Clips/NOLA Party Barge/2-good_2026-07-24_gator-swims-past-barges.mp4",
+   "in": 0,
+   "out": 6.3,
+   "hook": [
+    "The dusk",
+    "regular"
+   ],
+   "caption": "He cruises past most nights around dusk. Tag the friend who'd stay inside.",
+   "why": "Gator glides between two barges at dusk, guests lining the rails. Replaces the fog clip, whose source we couldn't trace."
+  },
+  {
+   "day": 26,
+   "date": "2026-11-11",
+   "pillar": "Moments",
+   "slug": "when-two-boats-pass",
+   "src": "Crew Clips/NOLA Party Barge/1-great_2026-07-18_tiki-barge-pass-wave.mov",
+   "in": 3,
+   "out": 13,
+   "hook": [
+    "When two boats",
+    "pass out here"
+   ],
+   "caption": "When two boats pass out here. Tag who'd wave first.",
+   "why": "Crew-shot, graded great."
+  },
+  {
+   "day": 27,
+   "date": "2026-11-12",
+   "pillar": "What's Coming",
+   "slug": "bayou-classic-tv-on-the-boat",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_8188.MOV",
+   "in": 0,
+   "out": 8,
+   "cx": 0.6,
+   "hook": [
+    "There's a TV",
+    "on the boat"
+   ],
+   "caption": "Bayou Classic is Nov 28. There's a TV on the boat. Alumni, tag your chapter.",
+   "why": "Cheering with a live game on. Matches the Thanksgiving week push."
+  },
+  {
+   "day": 28,
+   "date": "2026-11-13",
+   "pillar": "Culture",
+   "slug": "blue-hour",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_0410.MOV",
+   "in": 2,
+   "out": 9,
+   "cx": 0.5,
+   "hook": [
+    "Blue hour",
+    "on the bayou"
+   ],
+   "caption": "Blue hour. Tag the friend who runs the playlist.",
+   "why": "LED canopy color-cycling over dusk dancing."
+  },
+  {
+   "day": 29,
+   "date": "2026-11-14",
+   "pillar": "Moments",
+   "slug": "which-ones-your-boat",
+   "src": "Crew Clips/NOLA Party Barge/1-great_2026-08-08_tiki-barge-cruising-past.mov",
+   "in": 0,
+   "out": 9.8,
+   "hook": [
+    "Which one's",
+    "your boat?"
+   ],
+   "caption": "Which one's your boat?",
+   "why": "Thatched barge full of guests cruises past, shot from a sister boat. Replaces the 720p landscape roll-call."
+  },
+  {
+   "day": 30,
+   "date": "2026-11-15",
+   "pillar": "What's Coming",
+   "slug": "nye-on-the-water",
+   "src": "NOLA Party Barge/Assets/Videos/IMG_0492.MOV",
+   "in": 62,
+   "out": 70,
+   "hook": [
+    "New Year's Eve",
+    "on the water"
+   ],
+   "caption": "New Year's Eve on the water, into midnight. Who's bringing the countdown?",
+   "why": "Dance circle forms, phones out, arms up. Raw master. Every clean 'heated boats' clip in the archive has old text burned in, so day 30 became the NYE tease instead (the Holiday plan has NYE going live Nov 10). We have no night NYE footage; capture it this year."
+  }
+ ]
+}

@@ -227,7 +227,7 @@ An assembly-line outfitter processes you through a safety script and moves on. T
 
 Flipping a sit-on-top kayak on a calm, guided Door County tour is uncommon, and when it does happen, it's a minor, quick, mildly funny event rather than an emergency. Life jacket on, no cockpit to escape, guide within reach, easy climb back on. That's the whole story.
 
-The lake doesn't need to be something you white-knuckle through. Door County Kayak Tours has run this water long enough, with a 4.9-star average across 800+ reviews, to know that the fear is almost always bigger than the actual risk. Book the [internal link: Cave Point sea cave tour → /kayak-tours/cave-point-county-park/], or start calmer with the Eco Estuary, and let the worry stay in the car where it belongs.
+The lake doesn't need to be something you white-knuckle through. Door County Kayak Tours has run this water long enough, with a 4.9-star average across 1,000+ reviews, to know that the fear is almost always bigger than the actual risk. Book the [internal link: Cave Point sea cave tour → /kayak-tours/cave-point-county-park/], or start calmer with the Eco Estuary, and let the worry stay in the car where it belongs.
 ```
 
 ---

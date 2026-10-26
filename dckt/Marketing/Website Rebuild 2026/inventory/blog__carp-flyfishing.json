@@ -1,0 +1,100 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/carp-flyfishing/",
+ "slug": "blog__carp-flyfishing",
+ "title": "Carp Flyfishing | Door County Kayak Tours",
+ "meta_description": "Are there places to camp away from the crowd and fly fish for carp in your area. I’ve heard a lot about fly fishing for them off the limestone flats of Door County but cannot…",
+ "canonical": "https://www.doorcountykayaktours.com/blog/carp-flyfishing/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Carp Flyfishing",
+  "twitter:title": "Carp Flyfishing",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/carp-flyfishing/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/carp-flyfishing/",
+  "og:type": "website",
+  "og:description": "Are there places to camp away from the crowd and fly fish for carp in your area. I’ve heard a lot about fly fishing for them off the limestone flats of Door County but cannot find anyone with specific information as to where. Supposedly the…",
+  "twitter:description": "Are there places to camp away from the crowd and fly fish for carp in your area. I’ve heard a lot about fly fishing for them off the limestone flats of Door County but cannot find anyone with specific information as to where. Supposedly the…"
+ },
+ "h1": [
+  "Carp Flyfishing"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Carp Flyfishing",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "February 10, 2008",
+   "dateModified": "February 10, 2008"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/carp-flyfishing/",
+     "name": "Carp Flyfishing"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/door-county-half-marathon-and-nicolet-bay-5k-fun-runwalk/",
+  "/blog/fishstock-camp-david-concert-barn/",
+  "/cdn-cgi/l/email-protection#625d111700080701165f210a0701094750520d171647505247505021031012475052240e1b040b110a0b0c054750504750520316475052260d0d10475052210d170c161b47505229031b0309475052360d1710114752264752230a161612114751234750244750241515154c060d0d10010d170c161b09031b0309160d1710114c010d0f475024000e0d05475024010310124f040e1b040b110a0b0c0547502444030f1259000d061b5f21031012475052240e1b040b110a0b0c054750524f475052260d0d10475052210d170c161b47505229031b0309475052360d1710114752264752230a161612114751234750244750241515154c060d0d10010d170c161b09031b0309160d1710114c010d0f475024000e0d05475024010310124f040e1b040b110a0b0c05475024",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Carp%20Flyfishing%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fcarp-flyfishing%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/fly-fishing/",
+  "https://www.doorcountykayaktours.com/blog/category/kayak-fishing/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/blog/tag/carp/",
+  "https://www.doorcountykayaktours.com/blog/tag/kayak-fishing/",
+  "https://www.doorcountykayaktours.com/blog/tag/rock-island/",
+  "https://www.doorcountykayaktours.com/blog/tag/sit-on-top-fishing/",
+  "https://www.doorcountykayaktours.com/door-county-map/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 460,
+ "body_text": "Back to Blog\n\n Carp Flyfishing\n\n Are there places to camp away from the crowd and fly fish for carp in your area. I’ve heard a lot about fly fishing for them off the limestone flats of Door County but cannot find anyone with specific information as to where. Supposedly the best places are shallow rocky limestone flats that provide good habitat for crayfish and other aquatic insect life. I’d appreciate any advice,\n\nThanks,\n\nwoody\n\nWoody\n\nI have only ran into one other person who flyfished for carp, he said he loved it. There are years when I see them everywhere, knocking into the boat when they spawn, making you think they are a bunch of sharks,waiting for you to tip over and then there are years when I barely see them at all.\n\nThe best area I have seen the carp and that the other fly fisherman pointed out is Moonlight Bay, or North Bay, both being fairly shallow. I asked him what fishing lures he used. There is no camping on those bays, but plenty of camping around Bailey’s Harbor(car camping). To get away from most of the peeps, I would suggest Rock Island(no car, kayak over or ferry over)or Newport state park( small hike in) reservations are recommended dependent on the time of year for both. Rock island has a few shallow areas south of the island near the jetty that might be a good area and Newport state park has a very flat decline into lake michigan. All areas on the east side of the peninsula would allow the best access to low lying flat limestone flats because of the geology of door county. Door County, the west edge of the Niagra Escarpment gives the peninsula a unique geological pattern that is similar up and down the coast. Imagine, the west coast is the edge of a bowl, which then drops off into Green Bay and the east coast is a shallow slope into Lake Michigan, which gains depth slowly.\n\nThe fly fisherman mentioned how the carp, being bottom feeders did not go after bait in the same way as other fish, but that you had to place the bait in front of their mouth for them to suck up. Once they were hooked, they provided one heck of a fight.\n\nWe will be playing with the idea of fishing from a kayak this year. Our sit-on-top rudder kayaks, would make excellent fishing kayaks, as they would make it easier to direct yourself hands free, provide more room to handle the fish and are more stable.\n\nLet me know what you find out!\n\nDavid\n\n Posted in: \n\n Door County Fly Fishing\n\n Kayak Fishing\n\n Kayaking\n\n Tags: \n\n Carp\n\n Kayak Fishing\n\n Rock Island\n\n Sit-on-top fishing\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post",
+ "youtube": []
+}

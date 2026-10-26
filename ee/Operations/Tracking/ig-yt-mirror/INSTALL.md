@@ -128,3 +128,9 @@ launchctl list | grep igyt-mirror
 - Anything that looked wrong (bad titles, wrong channel, thumbnail failures beyond the daily cap)
 
 Do **not** change the skip list, the channel id, or `privacyStatus` without checking with David first.
+
+## Smart thumbnails + hook test (2026-10-20)
+- `smart_thumb.py`: Gemini (ebb.key, gemini-flash-latest -> gemini-3.8-flash fallback) writes a 2-5 word hook and picks the best of 8 frames. mirror.py uses it on every new upload; falls back to caption-words hook on failure.
+- `rethumb.py <ids>` previews, `--apply` pushes (YouTube cap ~10/day).
+- `hook_test.py`: rotating thumbnail test. State `~/.config/ebb-youtube/hook_test/state.json`. launchd `com.ebbember.hook-test` daily 9:15 on mbp-2: 3 days per variant, then re-applies the best views/day and stops. Current test: IJrNKb01_Ss (downpour), v1 WOULD YOU PULL THIS? -> v3 TRY NOT TO SCREAM -> v2 THIS CLEARS YOUR MIND, started 10/20.
+- Deploy from this vault copy and md5-verify.

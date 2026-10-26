@@ -1,0 +1,158 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/3-perfect-rainy-day-things-to-do-for-kids-in-door-county/",
+ "slug": "blog__3-perfect-rainy-day-things-to-do-for-kids-in-door-county",
+ "title": "Door County Indoor Activities for Kids on a Rainy Day",
+ "meta_description": "Rain in the forecast and kids in the car? Here are the Door County indoor activities that actually hold up, from a crew that works here all summer.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/3-perfect-rainy-day-things-to-do-for-kids-in-door-county/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Door County Indoor Activities for Kids on a Rainy Day",
+  "twitter:title": "Rainy Day in Door County With Kids: A Parent’s Plan",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/3-perfect-rainy-day-things-to-do-for-kids-in-door-county/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/3-perfect-rainy-day-things-to-do-for-kids-in-door-county/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/Spring-Equi.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/Spring-Equi.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/Spring-Equi.jpg?w=700&h=700&zoom=2",
+  "og:description": "Rain in the forecast and kids in the car? Here are the Door County indoor activities that actually hold up, from a crew that works here all summer.",
+  "twitter:description": "Rain in the forecast and kids in the car? Here are the Door County indoor activities that actually hold up, from a crew that works here all summer."
+ },
+ "h1": [
+  "Rainy Day in Door County With Kids: A Parent’s Plan"
+ ],
+ "h2": [
+  "Start at the Door County Maritime Museum",
+  "Find an indoor pool",
+  "Make something",
+  "Sweets, shops, and a matinee",
+  "The Door County secret: the rain usually breaks",
+  "When it clears, get the kids back on the water",
+  "Rainy day in Door County FAQ"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2018/03/Spring-Equi.jpg",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "What indoor activities does Door County have for kids?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Door County Maritime Museum, indoor resort pools, paint-your-own art and pottery studios, and the walkable downtown shops, candy stores, and ice cream parlors in Fish Creek and Ephraim."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does it rain all day in Door County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually not. The peninsula sits between two big bodies of water and weather moves through fast. A rainy morning often clears by early afternoon, so keep your plans flexible."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Can we still kayak if it rained earlier in the day?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often yes. Light rain clears and the water calms. We make the call based on wind and conditions, not a few morning clouds. Ask us when you book."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.doorcountykayaktours.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Blog",
+       "item": "https://www.doorcountykayaktours.com/blog/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Rainy Day in Door County With Kids"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/3-perfect-rainy-day-things-to-do-for-kids-in-door-county/",
+     "name": "3 Perfect Rainy Day Things To Do For Kids In Door County"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/door-county-fireworks-4th-of-july/",
+  "/blog/the-barmuda-triangle-husbys-the-bowl-jjs-la-puerta/",
+  "/cdn-cgi/l/email-protection#033c707661696660773e406b6660682631336c767726313326313151626a6d7a26313347627a2631336a6d263133476c6c71263133406c766d777a263133546a776b263133486a677026304226313342263133536271666d77264631263b33263a3a70263133536f626d2631312631336277263133476c6c71263133406c766d777a26313348627a6268263133576c7671702633472633426b777773702630422631452631457474742d676c6c71606c766d777a68627a6268776c7671702d606c6e263145616f6c64263145302e736671656660772e71626a6d7a2e67627a2e776b6a6d64702e776c2e676c2e656c712e686a67702e6a6d2e676c6c712e606c766d777a26314525626e7338616c677a3e51626a6d7a26313347627a2631336a6d263133476c6c71263133406c766d777a263133546a776b263133486a677026304226313342263133536271666d77264631263b33263a3a70263133536f626d2631332e263133476c6c71263133406c766d777a26313348627a6268263133576c7671702633472633426b777773702630422631452631457474742d676c6c71606c766d777a68627a6268776c7671702d606c6e263145616f6c64263145302e736671656660772e71626a6d7a2e67627a2e776b6a6d64702e776c2e676c2e656c712e686a67702e6a6d2e676c6c712e606c766d777a263145",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Rainy%20Day%20in%20Door%20County%20With%20Kids%3A%20A%20Parent%E2%80%99s%20Plan%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2F3-perfect-rainy-day-things-to-do-for-kids-in-door-county%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/art/",
+  "https://www.doorcountykayaktours.com/blog/category/nightlife/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/",
+  "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 668,
+ "body_text": "Back to Blog\n\n Rainy Day in Door County With Kids: A Parent’s Plan\n\n A rainy day on a Door County trip is not a wasted day. It just needs a different plan. Here is what we point families to when the forecast turns gray, in the order we would actually do it, plus the local secret about how long the rain usually lasts.\n\nStart at the Door County Maritime Museum\nIf you do one indoor thing with kids, make it the Door County Maritime Museum in Sturgeon Bay. Hands-on exhibits, real boats, and a lighthouse-style tower to climb on a clear-enough day. It is the rare museum that holds a six-year-old and a grandparent at the same time, and it kills two or three rainy hours easily.\n\nFind an indoor pool\nMost of the bigger family resorts in Fish Creek, Egg Harbor, and Sister Bay have indoor pools, and a rainy afternoon is exactly what they are for. If your lodging has one, that is your easiest win. If it does not, a few resorts sell day passes, worth a phone call.\n\nMake something\nDoor County has a deep arts streak, and that includes paint-your-own pottery and hands-on art studios where kids can spend a happy, messy hour making something to take home. Search for an open studio near where you are staying and call ahead, hours shift in the shoulder seasons. It is the kind of souvenir that beats another keychain.\n\nSweets, shops, and a matinee\nThis is the classic Door County rainy-day drift: duck between the galleries, candy and fudge shops, and bookstores that fill the walkable downtowns in Fish Creek and Ephraim, with an ice cream or hot cocoa stop in the middle. Wilson’s in Ephraim has been scooping since 1906 and the porch is covered. If the timing lines up, an indoor matinee or early show gives everyone a dry place to land.\n\nThe Door County secret: the rain usually breaks\nHere is the thing locals know. A rainy Door County morning very often clears by early afternoon. The peninsula sits between two big bodies of water and the weather moves fast. So do not write off the whole day at breakfast. Run your indoor plan in the morning, keep an eye on the sky, and be ready to move when it opens up.\n\nWhen it clears, get the kids back on the water\nThe minute the clouds break, the easiest way to turn a soggy morning into the best part of the trip is a calm paddle. Not the open-water, big-adventure kind. The flat, slow, look-at-the-turtle kind that nervous parents and first-time kids actually enjoy.\n\n→ When the sky clears: our Eco Estuary kayak tour ($65) is glass-flat water through a protected wetland, with herons and otters along the way, and it takes kids age 6 and up. For older kids who want the caves, the Cave Point tour ($69 plus a $4 park fee) is the move. We provide the kayak, paddle, and life vest on every tour.\n\nRainy day in Door County FAQ\nWhat indoor activities does Door County have for kids?\n\nThe Door County Maritime Museum, indoor resort pools, paint-your-own art and pottery studios, and the walkable downtown shops, candy stores, and ice cream parlors in Fish Creek and Ephraim.\n\nDoes it rain all day in Door County?\n\nUsually not. The peninsula sits between two big bodies of water and weather moves through fast. A rainy morning often clears by early afternoon, so keep your plans flexible.\n\nCan we still kayak if it rained earlier?\n\nOften yes. Light rain clears and the water calms. We make the call based on wind and conditions, not a few morning clouds. Ask us when you book.\n\nWhat is a good rainy-day plan with young kids?\n\nMaritime Museum or an art studio in the morning, lunch and ice cream downtown, then a calm paddle or beach time in the afternoon when it clears.\n\n Posted in: \n\n Activities\n\n Art\n\n Nightlife\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post",
+ "youtube": []
+}

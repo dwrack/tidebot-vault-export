@@ -1,0 +1,179 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/boy-scout-girl-scout-kayaking-merit-badge-requirements/",
+ "slug": "blog__boy-scout-girl-scout-kayaking-merit-badge-requirements",
+ "title": "BSA Kayaking and Canoeing Merit Badge Troop Guide",
+ "meta_description": "What the BSA kayaking and canoeing merit badges require, and how a Door County troop can knock out the on-water skills in one guided group session.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/boy-scout-girl-scout-kayaking-merit-badge-requirements/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "BSA Kayaking and Canoeing Merit Badge Troop Guide",
+  "twitter:title": "Kayaking Merit Badge: A Guide for Scout Troops",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/boy-scout-girl-scout-kayaking-merit-badge-requirements/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/boy-scout-girl-scout-kayaking-merit-badge-requirements/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=700&h=700&zoom=2",
+  "og:description": "What the BSA kayaking and canoeing merit badges require, and how a Door County troop can knock out the on-water skills in one guided group session.",
+  "twitter:description": "What the BSA kayaking and canoeing merit badges require, and how a Door County troop can knock out the on-water skills in one guided group session."
+ },
+ "h1": [
+  "Kayaking Merit Badge: A Guide for Scout Troops"
+ ],
+ "h2": [
+  "The kayaking and canoeing merit badges, briefly",
+  "What scouts have to demonstrate on the water",
+  "Why a guided group session makes it easier",
+  "How to set up a troop paddle with us",
+  "What scouts should bring",
+  "Scout kayaking FAQ"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Can a scout troop earn the kayaking merit badge on a Door County tour?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide the boats, life jackets, calm water, and on-water coaching for the skills portion. The official sign-off comes from your registered merit badge counselor. Many troops pair a counselor with our guided session."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What ages can join a scout kayaking session?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Eco Estuary tour takes ages 6 and up and is best for younger scouts and skill work. Cave Point has an age-8 minimum and suits older groups."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Where do I find the official kayaking merit badge requirements?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On the Scouting America merit badge page for kayaking or canoeing. Always use the current version, since requirements are updated periodically."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.doorcountykayaktours.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Blog",
+       "item": "https://www.doorcountykayaktours.com/blog/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Kayaking Merit Badge"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/boy-scout-girl-scout-kayaking-merit-badge-requirements/",
+     "name": "Boy Scout Girl Scout Kayaking Merit Badge Requirements"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "5784",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/door-county-yoga/",
+  "/blog/top-5-kayaking-spots-in-door-county/",
+  "/cdn-cgi/l/email-protection#ebd4989e89818e889fd6a8838e8880ced9db849e9fced9dbced9d9a08a928a8082858cced9dba68e99829fced9dba98a8f8c8eced8aaced9dbaaced9dbac9e828f8eced9db8d8499ced9dbb888849e9fced9dbbf9984849b98ced9d9ced9db8a9fced9dbaf848499ced9dba8849e859f92ced9dba08a928a80ced9dbbf849e9998cedbafcedbaa839f9f9b98ced8aaced9adced9ad9c9c9cc58f84849988849e859f92808a928a809f849e9998c5888486ced9ad8987848cced9ad898492c69888849e9fc68c829987c69888849e9fc6808a928a8082858cc6868e99829fc6898a8f8c8ec6998e9a9e82998e868e859f98ced9adcd8a869bd089848f92d6a08a928a8082858cced9dba68e99829fced9dba98a8f8c8eced8aaced9dbaaced9dbac9e828f8eced9db8d8499ced9dbb888849e9fced9dbbf9984849b98ced9dbc6ced9dbaf848499ced9dba8849e859f92ced9dba08a928a80ced9dbbf849e9998cedbafcedbaa839f9f9b98ced8aaced9adced9ad9c9c9cc58f84849988849e859f92808a928a809f849e9998c5888486ced9ad8987848cced9ad898492c69888849e9fc68c829987c69888849e9fc6808a928a8082858cc6868e99829fc6898a8f8c8ec6998e9a9e82998e868e859f98ced9ad",
+  "/kayak-tours/eco-estuary-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Kayaking%20Merit%20Badge%3A%20A%20Guide%20for%20Scout%20Troops%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fboy-scout-girl-scout-kayaking-merit-badge-requirements%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/beginner-fun/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/blog/tag/boy-scouts/",
+  "https://www.doorcountykayaktours.com/blog/tag/girl-scouts/",
+  "https://www.doorcountykayaktours.com/blog/tag/kayak-merit-badge-requirements/",
+  "https://www.doorcountykayaktours.com/blog/tag/kayak-merit-badge/",
+  "https://www.doorcountykayaktours.com/blog/tag/merit-badge/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/",
+  "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 765,
+ "body_text": "Back to Blog\n\n Kayaking Merit Badge: A Guide for Scout Troops\n\n If you lead a troop, you already know the hard part of the kayaking award is not the written work. It is getting a group of scouts safe, confident, and signed off on the water in a single trip. That part we can help with. Here is what the badges ask for and how a guided group paddle in Door County makes it happen in one morning.\n\nThe kayaking and canoeing merit badges, briefly\nScouting America (formerly the Boy Scouts of America) offers a kayaking merit badge and a canoeing merit badge, plus the Kayaking BSA award for younger scouts. Each one blends classroom knowledge (safety, equipment, weather, rules of the water) with on-water skills a scout has to demonstrate in front of a counselor.\n\nRequirements get updated from time to time, so always pull the current official list from the Scouting America merit badge page before your trip. Do not work off an old printout. What follows is the shape of it, not a substitute for the official requirements.\n\nWhat scouts have to demonstrate on the water\nAcross the kayaking and canoeing badges, the on-water portion generally covers the same core skills:\n\nGetting in and out safely, and fitting a properly sized life jacket.\n\nBasic strokes: forward, reverse, turning, and stopping.\n\nA capsize and wet exit, then a self-rescue or assisted rescue back into or onto the boat.\n\nPaddling a set course showing control.\n\nKnowing the safety rules, signals, and what to do in wind or an emergency.\n\nNone of it is hard with the right water, the right boats, and someone who runs scouts through it all summer. It is a lot to coordinate on your own with a dozen kids and a public launch.\n\nWhy a guided group session makes it easier\nThe skills are straightforward. The logistics are not. A guided session solves the parts troop leaders dread: enough properly sized boats and life jackets, calm and controlled water, a coach who can run a clean capsize-and-rescue drill, and an extra set of trained eyes on safety the entire time. You focus on your scouts. We handle the water.\n\nHow to set up a troop paddle with us\nWe host scout troops, school groups, and youth organizations all summer. We will build the session around the on-water requirements, match boats to body sizes, and keep the group calm and moving. A couple of things to tell us when you reach out: your group size, the ages, and a few dates you are weighing.\n\n→ Plan a troop paddle: our calm-water Eco Estuary tour ($65) is ideal for younger scouts and skill work on flatwater, and the Cave Point tour ($69 plus a $4 park fee) suits older, more confident groups. We provide every kayak, paddle, and life jacket. Reach out with your numbers and dates and we will set it up.\n\nWhat scouts should bring\n\nClosed-toe water shoes or sandals with heel straps. No flip-flops.\n\nSwimsuit or quick-dry clothes (expect to get wet during the capsize drill).\n\nSunscreen, hat, and a water bottle.\n\nA towel and a dry change of clothes.\n\nThe current official requirements printout, signed off as they go.\n\nScout kayaking FAQ\nCan a troop earn the kayaking merit badge on a Door County tour?\n\nWe provide the boats, life jackets, calm water, and on-water coaching for the skills portion. The official sign-off comes from your registered merit badge counselor. Many troops pair a counselor with our guided session.\n\nWhat ages can paddle?\n\nOur Eco Estuary tour takes ages 6 and up and is best for younger scouts and skill work. Cave Point has an age-8 minimum and suits older groups. Tell us your roster and we will steer you to the right one.\n\nWhere do I find the official requirements?\n\nOn the Scouting America merit badge page for kayaking or canoeing. Always use the current version, since requirements are updated periodically.\n\nHow far ahead should we book a group?\n\nAs early as you can for summer dates. Group spots fill fast in July and August. Reach out with your size and preferred dates.\n\n Posted in: \n\n Adventure\n\n Beginner Fun\n\n Kayaking\n\n Tags: \n\n Boy Scouts\n\n Girl Scouts\n\n Kayak merit badge\n\n Kayak merit badge requirements\n\n Merit Badge\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

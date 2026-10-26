@@ -30,3 +30,6 @@ Pulled from Apple Notes ("Holman", "Ebb and ember rituals", "Sauna waterfront de
 
 ## Oct 9 addition (Apple Notes: "Red carpet sauna entrance.")
 - Roll-up artificial rose walls
+
+## Oct 18 addition (Apple Notes: "Rose ideas")
+- Reel saved for Rose ideas: https://www.instagram.com/reel/DeQzEVoBZL9/ (plus an image in the note)

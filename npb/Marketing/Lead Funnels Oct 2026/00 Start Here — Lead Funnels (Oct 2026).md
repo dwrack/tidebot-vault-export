@@ -71,3 +71,7 @@ Engine work is on a separate copy, never the live checkout: `~/Projects/fh-lead-
 ## Where the working files are
 
 Reviews (facts, lint, compliance, branch logic, code), the copy source files, recovery scripts: `~/Projects/npb-lead-funnels/work`. Not in the vault on purpose.
+
+- 2026-10-16: `10 Local Family Boat Giveaway — Build (2026-10-16).md` added. Hyper-local (5 parishes) Meta giveaway from the Hormozi clip; replaces the November draw of 01 to 03 if David says yes. Read it before touching the Nov round.
+- 2026-10-16: `11 Local Family Giveaway — Official Rules (Nov 2026).md` added. November round rules as they will run (5 parishes, two prizes, 72h claim by text/email/phone). Doc 03 is now the template only.
+- 2026-10-16: `12 Local Family Giveaway — Newsletter Sends.md` added: win-back list pushes the parish poll on the post (comment your parish), survey stays the only entry. Six drafts, nothing approved.

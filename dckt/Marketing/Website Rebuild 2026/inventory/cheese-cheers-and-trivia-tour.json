@@ -1,0 +1,93 @@
+{
+ "url": "https://www.doorcountykayaktours.com/cheese-cheers-and-trivia-tour/",
+ "slug": "cheese-cheers-and-trivia-tour",
+ "title": "Cheese, Cheers, and Trivia Tour | Door County Kayak Tours",
+ "meta_description": "Experience Door County's history and local bars in a unique trivia tour. Choose from 1 to 3 hours of fun, learning about everything from its founding to goats on roofs, with great food and drinks.",
+ "canonical": "https://www.doorcountykayaktours.com/cheese-cheers-and-trivia-tour/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Cheese, Cheers, and Trivia Tour | Door County Kayak Tours",
+  "twitter:title": "Cheese, Cheers, and Trivia Tour",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/cheese-cheers-and-trivia-tour/",
+  "twitter:url": "https://www.doorcountykayaktours.com/cheese-cheers-and-trivia-tour/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/01/Cheese-and-trivia-Resized.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/01/Cheese-and-trivia-Resized.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/01/Cheese-and-trivia-Resized.jpg?w=700&h=700&zoom=2",
+  "og:description": "Experience Door County’s history and local bars in a unique trivia tour. Choose from 1 to 3 hours of fun, learning about everything from its founding to goats on roofs, with great food and drinks.",
+  "twitter:description": "Experience Door County’s history and local bars in a unique trivia tour. Choose from 1 to 3 hours of fun, learning about everything from its founding to goats on roofs, with great food and drinks."
+ },
+ "h1": [
+  "Cheese, Cheers, and Trivia Tour"
+ ],
+ "h2": [
+  "Quick Details"
+ ],
+ "h3": [
+  "From :",
+  "From :",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/01/Cheese-and-trivia-Resized.jpg",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/cheese-cheers-and-trivia-tour/",
+     "name": "Cheese Cheers And Trivia Tour"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/515638/calendar/?ref=SITE",
+    "item_id": "515638",
+    "item_name": "Cheese, Cheers, and Trivia Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "515638"
+  ],
+  "all_item_ids_on_page": [
+   "515638",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/515638/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjUsOgzAMBS/U1KEqIBaoZ3GCAYcEkBOKuD2fG2Q5T5o3sK/KLnOiOUEaKVCEHoVGFLOIipyuwWzsO3ARHny7+IIsy7OdFAccSA3oPcmR/8EdGZRsbxX+o717v9AWdfPRWlfl150/IFud",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 140,
+ "body_text": "Year-Round\n\n Cheese, Cheers, and Trivia Tour\n\n Join us as we Discover, Laugh, and Connect in Door County\n\n Book Now\n\n From : \n\n $\n 59.00\n\n Quick Details\n\n Distance Under 1 Mile:\n Total walking distance between destinations will be under 1 mile\n\n Includes beer samples:\n Beer samples may be provided at participating locations\n\n From : \n\n $\n 59.00\n\n This unique event combines the rich historical tapestry of Door County with the vibrant local bar scene, offering a one-of-a-kind experience for trivia buffs and party-goers alike. Choose anywhere from 1 hour to 3 hours with different price points, depending on how long you want to engage in this trivia and history tour.\n\nYou’ll learn about the founding of Door County, to why there are goats on the roof of Al Johnson’s, and everything in-between. All while enjoying delicious food and beverages, and making new friends!",
+ "youtube": []
+}

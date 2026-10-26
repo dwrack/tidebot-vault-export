@@ -1,0 +1,171 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/how-to-kayak-and-prevent-blisters/",
+ "slug": "blog__how-to-kayak-and-prevent-blisters",
+ "title": "Kayak Hand Blisters: Prevention and Treatment Guide",
+ "meta_description": "Discover essential tips for preventing and treating hand blisters while kayaking in our comprehensive guide.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/how-to-kayak-and-prevent-blisters/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Kayak Hand Blisters: Prevention and Treatment Guide",
+  "twitter:title": "How to kayak and prevent blisters",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/how-to-kayak-and-prevent-blisters/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/how-to-kayak-and-prevent-blisters/",
+  "og:type": "website",
+  "og:description": "Discover essential tips for preventing and treating hand blisters while kayaking in our comprehensive guide.",
+  "twitter:description": "Discover essential tips for preventing and treating hand blisters while kayaking in our comprehensive guide."
+ },
+ "h1": [
+  "How to kayak and prevent blisters"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Kayaker-Jumping-with-top-shadow.png",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Bluff-Shipwreck-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/04/Door-Bluff-Shipwreck-12-Day-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "How to kayak and prevent blisters",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "December 19, 2023",
+   "dateModified": "December 19, 2023"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/how-to-kayak-and-prevent-blisters/",
+     "name": "How To Kayak And Prevent Blisters"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=SITE",
+    "item_id": "156126",
+    "item_name": "Cave Point / Whitefish Dunes 1/2 Day Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=SITE",
+    "item_id": "23855",
+    "item_name": "Door Bluff Shipwreck Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156132/calendar/?ref=SITE",
+    "item_id": "156132",
+    "item_name": "Door Bluff Shipwreck 1/2 Day Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "156126",
+   "156132",
+   "23855",
+   "5669",
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "156126",
+   "156132",
+   "23855",
+   "5669",
+   "5784",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/embracing-kayaking-during-pregnancy-a-guide-to-safe-paddling/",
+  "/blog/how-many-days-do-i-need-in-door-county/",
+  "/cdn-cgi/l/email-protection#e3dc90968189868097dea08b868088c6d1d38c9697c6d1d3c6d1d1ab8c94c6d1d3978cc6d1d388829a8288c6d1d3828d87c6d1d393918695868d97c6d1d3818f8a9097869190c6d1d1c6d1d38297c6d1d3a78c8c91c6d1d3a08c968d979ac6d1d3a8829a8288c6d1d3b78c969190c6d3a7c6d3a28b97979390c6d0a2c6d1a5c6d1a5949494cd878c8c91808c968d979a88829a8288978c969190cd808c8ec6d1a5818f8c84c6d1a58b8c94ce978cce88829a8288ce828d87ce93918695868d97ce818f8a9097869190c6d1a5c5828e93d8818c879adeab8c94c6d1d3978cc6d1d388829a8288c6d1d3828d87c6d1d393918695868d97c6d1d3818f8a9097869190c6d1d3cec6d1d3a78c8c91c6d1d3a08c968d979ac6d1d3a8829a8288c6d1d3b78c969190c6d3a7c6d3a28b97979390c6d0a2c6d1a5c6d1a5949494cd878c8c91808c968d979a88829a8288978c969190cd808c8ec6d1a5818f8c84c6d1a58b8c94ce978cce88829a8288ce828d87ce93918695868d97ce818f8a9097869190c6d1a5",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/",
+  "/kayak-tours/door-bluff-county-park-shipwreck/",
+  "/kayak-tours/door-bluff-shipwreck-1-2-day-kayak-tour/",
+  "/kayak-tours/eco-estuary-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156132/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20How%20to%20kayak%20and%20prevent%20blisters%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fhow-to-kayak-and-prevent-blisters%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county-wisconsin/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 863,
+ "body_text": "Back to Blog\n\n How to kayak and prevent blisters\n\n Getting blisters on your hands is a frequent issue when kayaking. If you kayak, chances are you’ll deal with these blisters. Here’s how to prevent and treat them.\n\nKey Points\n\nBlisters are often caused by your hand rubbing against the paddle. If not taken care of, they can get infected.\n\nTo stop blisters, use a paddle that fits, hold it right, and wear gloves for paddling.\n\nIf you get blisters, cover them and maybe pop them with a clean needle.\n\nGo to a doctor if the blister looks infected or you feel unwell.\n\nWhy Do Kayakers Get Blisters? Blisters mostly happen because of rubbing and heat. When you’re kayaking, your hands can rub against the paddle, causing blisters.\n\nHow to Avoid Blisters Here are some easy tips to lessen the chance of getting blisters:\n\nRemember, even if you do everything right, you might still get blisters, especially if you’re new to kayaking.\n\nIf you’re a beginner and get blisters, there’s advice at the end of this guide. If you kayak a lot and keep getting blisters, you might need a better paddle, change how you hold it, or get good gloves.\n\nPicking the Right Paddle\n\nYour paddle should match your height. If it’s too long, you might grip it too hard and cause blisters. A short paddle can also lead to blisters because you have to grip it harder.\n\nLearn more about choosing the right paddle in our guide.\n\nProper Way to Hold the Paddle Holding your paddle correctly is crucial. A good grip reduces rubbing.\n\nA good grip usually looks like this:\n\nHold your paddle in front of you.\n\nPlace your hands a bit wider than your shoulders.\n\nIf the paddle has a round part, it should face you.\n\nWearing Paddling Gloves\n\nUse gloves made for kayaking. They come in various styles and can prevent blisters by keeping your hands dry and reducing rubbing.\n\nTreating Blisters from Kayaking Blisters can still happen, no matter how careful you are. Here’s how to treat them:\n\nCheck – Blisters can be just red skin, filled with fluid, or popped.\n\nCare – Cover developing blisters and keep them dry. For intact blisters, make a donut-shaped pad. To pop a blister, use a clean needle. Wash and cover broken blisters.\n\nDoctor’s Help – If the blister looks bad or you feel sick, see a doctor.\n\nConclusion Any kayaker can get blisters, but following these tips should help you avoid them most of the time. Treating blisters is important, but remember, they’re common and usually heal on their own.\n\nIf this guide was useful, feel free to share it with others who might benefit.\n\n Posted in: \n\n Door County Wisconsin\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n 4+\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n ✅ 4 hrs · 🛶 Guided & Beginner Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 5 min drive to launch\n🚐 Transportation Provided\n🥾 Includes Break + Short Hike + Optional Cliff Jumping(when water height is appropriate)\n🧺 Locally Sourced Picnic\n\nA full-on Door County immersion. Ideal for explorers, photographers, and anyone craving a deeper connection with nature.\n\n Book Now\n\n Learn More\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n Guide Favorite\n\n From\n\n $69\n\n 2 hours\n\n 4+\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n ✅ 2 hours · Beginner-Friendly\n🌿 Quieter spot\n📍 Departs from Garrett Bay, Ellison Bay, WI\n☀️ Backup if Cave Point is wavey\n🌟 Guide Favorite\n📸 Photo-Perfect Scenery\n\nThis guided kayak tour takes you thru “Death’s Door” past dramatic bluffs, ancient Native American pictographs, and the remnants of a historic shipwreck resting just beneath the surface.\n\n Book Now\n\n Learn More\n\n Door Bluff Shipwreck 1/2 Day Kayak Tour\n\n +Hike the tallest bluff\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n All Ages\n\n Door Bluff Shipwreck 1/2 Day Kayak Tour\n\n ✅ 4 hours · 🧭 Adventure-Packed\n🛶 Beginner-Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 Launch At Garrett Bay Boat Launch, Ellison Bay, WI\n🥾 Includes Break + Short Hike to Highest Point in Door County\n🧺 Locally Sourced Picnic\n\nEnjoy a short hike to a beautiful viewpoint—the highest point in Door County—where you can relax and savor a locally sourced picnic featuring Door County cherries, goat cheese, and other seasonal treats.\n\n Book Now\n\n Learn More\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

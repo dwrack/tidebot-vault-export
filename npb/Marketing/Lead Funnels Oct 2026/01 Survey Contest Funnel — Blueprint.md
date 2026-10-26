@@ -1,5 +1,8 @@
 # Survey Contest Funnel: Blueprint
 
+> **2026-10-16, David's decision:** the November round of this contest is REPLACED by the Local Family Boat Giveaway. One contest, one list. Read `10 Local Family Boat Giveaway — Build (2026-10-16).md` and `11 Local Family Giveaway — Official Rules (Nov 2026).md` for the round that actually runs. The November dates, prize structure, bonus entries, and 5-day claim below are now history for Nov; this doc stays as the template for later rounds.
+
+
 *Drafted 2026-10-03 for David. Internal. Draft only: nothing here is sent, posted, or deployed. This is a new front door into the Sept 30 lead plan and fh-lead-engine, not a second system. Facts are as of 2026-10-03. Anything marked [VERIFY] is not confirmed and can't go in copy until it is.*
 
 ## The 5 line version

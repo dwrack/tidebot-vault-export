@@ -1,0 +1,186 @@
+{
+ "url": "https://www.doorcountykayaktours.com/sauna-tent-rental/",
+ "slug": "sauna-tent-rental",
+ "title": "Sauna Tent Rental | Door County Kayak Tours",
+ "meta_description": "Experience ultimate relaxation with our convenient sauna tent rentals. Book your tent now!",
+ "canonical": "https://www.doorcountykayaktours.com/sauna-tent-rental/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Sauna Tent Rental | Door County Kayak Tours",
+  "twitter:title": "Sauna Tent Rental",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/sauna-tent-rental/",
+  "twitter:url": "https://www.doorcountykayaktours.com/sauna-tent-rental/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/09/Sauna-Tent-Rental-image-1.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/09/Sauna-Tent-Rental-image-1.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/09/Sauna-Tent-Rental-image-1.jpg?w=700&h=700&zoom=2",
+  "og:description": "✅ Relaxation & Wellness🌿 Tranquil📍 Pickup in Jacksonport🔥 Traditional Wood-Fired Sauna🌟 Guest Favorite for Rejuvenation🌲 Setup in a picturesque spot on the Peninsula Experience ultimate relaxation…",
+  "twitter:description": "✅ Relaxation & Wellness🌿 Tranquil📍 Pickup in Jacksonport🔥 Traditional Wood-Fired Sauna🌟 Guest Favorite for Rejuvenation🌲 Setup in a picturesque spot on the Peninsula Experience ultimate relaxation…"
+ },
+ "h1": [
+  "Sauna Tent Rental"
+ ],
+ "h2": [
+  "Quick Details",
+  "Experience ultimate relaxation with our Sauna Tent Rental"
+ ],
+ "h3": [
+  "Tent",
+  "Tent",
+  "Highlights",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/09/Sauna-Tent-Rental-image-1.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2023/05/Cave-Point-Nature-and-Photography-Hike-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/eagle-bluff-ice-fat-tire-e-bike-tour.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/10/Door-county-sauna.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2025/01/Airstream-Sauna-Rental-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 5,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/sauna-tent-rental/",
+     "name": "Sauna Tent Rental"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/578353/calendar/?ref=SITE",
+    "item_id": "578353",
+    "item_name": "Sauna Tent Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/462554/calendar/?ref=SITE",
+    "item_id": "462554",
+    "item_name": "Cave Point Nature and Photography Hike",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584407/calendar/?ref=SITE",
+    "item_id": "584407",
+    "item_name": "Ice Shack Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584699/calendar/?ref=SITE",
+    "item_id": "584699",
+    "item_name": "Door County Sauna Experience",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=SITE",
+    "item_id": "208419",
+    "item_name": "Peninsula State Park Fat Tire E-Bike Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "208419",
+   "208420",
+   "221394",
+   "462554",
+   "578353",
+   "584407",
+   "584699"
+  ],
+  "all_item_ids_on_page": [
+   "208419",
+   "208420",
+   "221394",
+   "462554",
+   "578353",
+   "5784",
+   "584407",
+   "584699"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/e-bike-rental/",
+  "/cave-point-nature-and-photography-hike/",
+  "/cdn-cgi/l/email-protection",
+  "/ice-castles-caves-e-bike-tour/",
+  "/ice-shack-rental/",
+  "/peninsula-state-park-fat-tire-e-bike-tour/",
+  "/sauna-experience/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/462554/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/578353/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584407/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584699/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjlkOwjAMBS/U1AGxiI+KsziJaR2yVI4BcXsoEgfI5xtpRg9eq/G1KBUFXShTgxsKLSiuimmsX+AenALEBr85xjZAl5XY3w1nnMnMmBLJu7/BgRxKv0deuRYKf6W7sAo/0W+Pr3nanS97a+3peIgfqQp0xw==",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 749,
+ "body_text": "Healthy family connection\n\n Sauna Tent Rental\n\n Book Now\n\n Tent\n\n $\n 179\n\n Quick Details\n\n Duration:\n 1 day\n\n Ages:\n 6 years & up\n\n Meeting Point:\n 6329 HWY 57 Sturgeon Bay (Jacksonport) 54235\n\n Tent\n\n $\n 179\n\n Experience ultimate relaxation with our Sauna Tent Rental\nThis portable, cozy sauna tent offers the perfect way to unwind in nature or your own backyard. With soothing heat, a serene atmosphere, and easy setup, it’s an ideal escape for solo relaxation or a group wellness session. Enjoy the benefits of a sauna in a unique, convenient setting—perfect for any outdoor retreat or peaceful getaway!\n\nHighlights\nPicture this!\n\nRiding E-bikes through picturesque Cave Point County Park and setting up your Sauna Tent on the beach at iconic Whitefish Dunes State Park. The sun is shining, air is crisp. You spend your day soaking up all the therapeutic benefits of a Sauna, maybe you take a cold plunge in Lake Michigan! Pack a picnic, bring some blankets, make it a day to never forget!\n\n What's included\n\nSauna Tent\n\nStove\n\nStones\n\nWater bucket with Ladle\n\n1 Bundle of wood\n\nBench\n\n Add On\n\nEbikes with trailers for transporting sauna tent\n\nAromatherapy Oils\n\nFace sheet masks, Hand and Foot masks\n\nRobes\n\nParty Bundle (Disco ball, Glow Sticks, Laser Projector)\n\nWood Bundles\n\n What's not included\n\nWe supply 1 bundle of wood and so you may need to prepare to have more wood on hand for the length of your rental. You can purchase more from us ahead of time.\n\nTowels not included.\n\nAdd ons not included.\n\n Cancellation Policy\n\nCancellations must be made 48 hours in advance via Phone Call, Text, or Email:\n\n920-868-1400\n\n[email protected]\n\nIf cancellations are made after 48 hours prior to rental, only the deposit will be refunded.\n\nIf a cancellation is made on our behalf, 100% refund will be issued.\n\n Related Activities\n\n Cave Point Nature and Photography Hike\n\n From\n\n $129\n\n 3 hours\n\n All Ages\n\n Cave Point Nature and Photography Hike\n\n Join us for our comprehensive adventure through Cave Point County Park and White Fish Dunes State Park!\n\n Book Now\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More\n\n Ice Castles & Caves E-Bike Tour\n\n Sells out quickly\n\n 2 hours\n\n Ice Castles & Caves E-Bike Tour\n\n This e-bike tour explores the best location to see ice castles, caves, shoves. Get your camera ready for these magical creations old man winter provides us.\n\n Book Now\n\n Learn More\n\n Heated Ice Fishing Shack Rental\n\n From\n\n $200\n\n Heated Ice Fishing Shack Rental\n\n Rent our cozy ice fishing shack in Door County, Wisconsin, and enjoy a warm retreat for up to four people as you fish on the frozen lakes. With a wood heater and stunning winter views, it’s the perfect spot for a memorable winter fishing adventure!\n\n Book Now\n\n Learn More\n\n Door County Sauna Experience\n\n From\n\n $45 - \n $369\n\n Door County Sauna Experience\n\n ✅ 2 hours · Relaxation & Wellness\n🌿 Tranquil\n🔥 Traditional Wood-Fired Sauna & Cold Plunge in the snow (winter) and Ice water (summer)\n🌟 Guest Favorite for Rejuvenation\n🌲 Surrounded by Scenic Forest & Lake Views\n\nUp to 10 People\n\nStep into a time-honored Finnish sauna beautifully built into an Airstream Sauna nestled in the heart of Door County’s wilderness. Enjoy the soothing heat of the wood-fired sauna followed by a refreshing cold plunge to invigorate your body and mind. This unique wellness experience combines relaxation, nature, and culture — perfect for anyone seeking calm, clarity, and connection in a serene setting.\n\n Book Now\n\n Learn More\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n From\n\n $99\n\n 2.5 hours\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n A super fun way to cruise around and see some fun instagrammable spots throughout Peninsula State Park and Fish Creek during all the seasons.  Fat tire E-bikes are a blast.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

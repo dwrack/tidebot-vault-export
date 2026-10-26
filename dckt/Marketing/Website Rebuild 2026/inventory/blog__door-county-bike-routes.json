@@ -1,0 +1,176 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/door-county-bike-routes/",
+ "slug": "blog__door-county-bike-routes",
+ "title": "Explore Door County: Top 10 Scenic Bike Routes",
+ "meta_description": "Discover Door County's best bike trails! From Peninsula Park to Washington Island, experience scenic rides, lush landscapes, and coastal views.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/door-county-bike-routes/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Explore Door County: Top 10 Scenic Bike Routes",
+  "twitter:title": "Top 10 Must Explore Door County Bike Routes",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/door-county-bike-routes/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/door-county-bike-routes/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-point-ebike-tour-photo-shoot2.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-point-ebike-tour-photo-shoot2.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-point-ebike-tour-photo-shoot2.jpg?w=700&h=700&zoom=2",
+  "og:description": "Discover Door County's best bike trails! From Peninsula Park to Washington Island, experience scenic rides, lush landscapes, and coastal views.",
+  "twitter:description": "Discover Door County's best bike trails! From Peninsula Park to Washington Island, experience scenic rides, lush landscapes, and coastal views."
+ },
+ "h1": [
+  "Top 10 Must Explore Door County Bike Routes"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-point-ebike-tour-photo-shoot2.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Fat-Tire-E-Bike-Rentals.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Top 10 Must Explore Door County Bike Routes",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "December 18, 2023",
+   "dateModified": "June 22, 2026",
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-point-ebike-tour-photo-shoot2.jpg?w=1000&h=1000&zoom=2",
+    "width": 600,
+    "height": 400
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/door-county-bike-routes/",
+     "name": "Door County Bike Routes"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/307122/calendar/?ref=SITE",
+    "item_id": "307122",
+    "item_name": "Fish Creek Fat Tire E-Bike Self-Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=SITE",
+    "item_id": "216710",
+    "item_name": "Fish Creek Sunset Glow Roll E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=SITE",
+    "item_id": "208419",
+    "item_name": "Peninsula State Park Fat Tire E-Bike Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "208419",
+   "216710",
+   "221394",
+   "307122"
+  ],
+  "all_item_ids_on_page": [
+   "208419",
+   "216710",
+   "221394",
+   "307122",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/e-bike-rental/",
+  "/blog/different-types-of-kayaks-pros-and-cons/",
+  "/blog/tips-for-kayaking-with-your-dog/",
+  "/cdn-cgi/l/email-protection#8ab5f9ffe8e0efe9feb7c9e2efe9e1afb8bae5fffeafb8baafb8b8dee5faafb8babbbaafb8bac7fff9feafb8bacff2fae6e5f8efafb8bacee5e5f8afb8bac9e5ffe4fef3afb8bac8e3e1efafb8bad8e5fffeeff9afb8b8afb8baebfeafb8bacee5e5f8afb8bac9e5ffe4fef3afb8bac1ebf3ebe1afb8badee5fff8f9afbaceafbacbe2fefefaf9afb9cbafb8ccafb8ccfdfdfda4eee5e5f8e9e5ffe4fef3e1ebf3ebe1fee5fff8f9a4e9e5e7afb8cce8e6e5edafb8cceee5e5f8a7e9e5ffe4fef3a7e8e3e1efa7f8e5fffeeff9afb8ccacebe7fab1e8e5eef3b7dee5faafb8babbbaafb8bac7fff9feafb8bacff2fae6e5f8efafb8bacee5e5f8afb8bac9e5ffe4fef3afb8bac8e3e1efafb8bad8e5fffeeff9afb8baa7afb8bacee5e5f8afb8bac9e5ffe4fef3afb8bac1ebf3ebe1afb8badee5fff8f9afbaceafbacbe2fefefaf9afb9cbafb8ccafb8ccfdfdfda4eee5e5f8e9e5ffe4fef3e1ebf3ebe1fee5fff8f9a4e9e5e7afb8cce8e6e5edafb8cceee5e5f8a7e9e5ffe4fef3a7e8e3e1efa7f8e5fffeeff9afb8cc",
+  "/kayak-tours/cave-point-county-park/",
+  "/peninsula-state-park-fat-tire-e-bike-tour/",
+  "/sister-bay-e-bike-rental/",
+  "/sunset-glow-roll-e-bike-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/307122/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Top%2010%20Must%20Explore%20Door%20County%20Bike%20Routes%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fdoor-county-bike-routes%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/fat-tire-ebike/",
+  "https://www.doorcountykayaktours.com/blog/tag/door-county-bike-trail/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1076,
+ "body_text": "Back to Blog\n\n Top 10 Must Explore Door County Bike Routes\n\nEmbark on a Biking Journey: The Top 10 Must-Explore Scenic Routes of Door County\r\n\nHello, fellow adventurers! Are you fabulous, itching to discover new vistas and experiences? If you’re anything like me, you’ve probably found that cycling is not just exercise; it’s a pathway to soulful exploration. And where better to indulge this passion than in Door County, Wisconsin? This picturesque locale is a cyclist’s dream, complete with awe-inspiring landscapes, enchanting towns, and pristine bike paths. Let’s dive into the top 10 bike routes in Door County that promise to take you on an unforgettable journey through its natural splendors.\r\n\n1. Peninsula State Park Loop: A Cyclist’s Dream Imagine a 9-mile escape through a blend of dense woodlands, captivating shoreline views, and gently rolling hills. The Peninsula State Park Loop is just that – a cyclist’s paradise. As you weave through the park, you’ll be greeted by the majestic Eagle Bluff Lighthouse and the inviting sands of Nicolet Bay Beach. It’s perfect for a day trip filled with both adventure and serenity.\r\n\n2. Sunset Trail: Where Magic Meets the Horizon There’s something incredibly romantic about biking as the sun dips below the horizon. The Sunset Trail, a 4-mile stretch along the peninsula’s eastern coast, offers panoramic vistas of Lake Michigan. Witness the sky paint itself in hues of orange and purple, reflecting off the calm waters – it’s a moment to treasure.\r\n\n3. Whitefish Dunes State Park: Nature’s Masterpiece At Whitefish Dunes State Park, you’re in for a 2.5-mile journey through one of nature’s finest displays. Pristine beaches, dense forests, and majestic sand dunes create a tapestry of landscapes that are both invigorating and calming. It’s a trail that invites you to take it slow and soak in the beauty.\r\n\n4. Ahnapee State Trail: A Path Through Time Stretching 48 miles from Sturgeon Bay to Kewaunee, the Ahnapee State Trail is a delightful blend of history and scenery. Following an old railroad bed, it takes you through charming countryside, past quaint towns, and alongside historical landmarks. It’s a path that tells a story, perfect for the history buffs among us.\r\n\n5. Ridges Road: A Biodiversity Hotspot The Ridges Road, a 6-mile route through The Ridges Sanctuary, is a nature enthusiast’s dream. As you cycle, you’ll be surrounded by diverse ecosystems, from wetlands to dense forests. The air is filled with the songs of birds, making it a peaceful retreat for those looking to reconnect with nature.\r\n\n6. Kangaroo Lake Circle: A Serene Escape The 16-mile loop around Kangaroo Lake is a tranquil journey through farmlands, orchards, and lake views. The gentle sounds of nature accompany you as you pedal, and the local cherry orchards offer a delightful pit stop. It’s a route that embodies the essence of rural beauty.\r\n\n7. Ellison Bluff Road: Breathtaking Vistas Prepare for your breath to be taken away on Ellison Bluff Road. This 8-mile route offers stunning views of Green Bay from atop the cliffs of Ellison Bluff State Natural Area. The road winds and twists, providing a thrilling ride amidst spectacular natural scenery.\r\n\n8. Washington Island Loop: An Island Adventure Embark on a 23-mile journey around Washington Island, a short ferry ride from the mainland. This route is a mosaic of charming villages, rolling hills, and coastal scenes. It’s a ride that captures the unique blend of Door County’s natural and cultural landscapes.\r\n\n9. Baileys Harbor Loop: A Countryside Tour The Baileys Harbor Loop, a 14-mile route, winds through scenic farmlands, lush forests, and the picturesque town of Baileys Harbor. It’s a chance to experience the tranquil countryside life, with the beauty of Lake Michigan never far from sight.\r\n\n10. Cave Point County Park Loop: A Coastal Wonder (Pictured above) The Cave Point County Park Loop, especially enjoyable on an eBike, takes you through the heart of the park’s stunning features. The loop winds through Whitefish Bay Dunes State Park, with its dense forests and serene meadows. As you near the coast, the awe-inspiring views of limestone cliffs and cave formations await, making it a photographer’s haven and a perfect spot for some introspective moments.\r\n\nLife is about embracing new experiences and creating memories that last. Door County’s bike trails are not just paths; they are stories waiting to be ridden. So, grab your bike and let’s pedal into new adventures, where every turn brings a new vista, every hill a new challenge, and every ride a treasure trove of memories. Welcome to Door County – your biking adventure starts here!\n\n Posted in: \n\n Activities\n\n Adventure\n\n Fat Tire Ebike\n\n Tags: \n\n Door County Bike Trail\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More\n\n Fish Creek E-Bike Self-Rental\n\n Self Checkout\n\n All Ages\n\n Fish Creek E-Bike Self-Rental\n\n Are you looking for a relaxing ride at your own pace? You can rent an E-Bike to enjoy Fish Creek & Peninsula State Park at your leisure!  Contactless self checkout.\n\n Book Now\n\n Learn More\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n From\n\n $99\n\n 1.5 - 2 Hours\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n A sunset glow roll! What could be better?! This is a perfect way to explore Fish Creek and Peninsula State Park at night, with some awesome light-up bikes and disco lights! Tour will include some awesome photo ops, incredibly cool bikes, and of course a great sunset! Join us Today!\n\n Book Now\n\n Learn More\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n From\n\n $99\n\n 2.5 hours\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n A super fun way to cruise around and see some fun instagrammable spots throughout Peninsula State Park and Fish Creek during all the seasons.  Fat tire E-bikes are a blast.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "krUsyOX_ocI"
+ ]
+}

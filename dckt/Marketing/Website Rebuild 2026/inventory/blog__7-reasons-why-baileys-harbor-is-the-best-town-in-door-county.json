@@ -1,0 +1,285 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+ "slug": "blog__7-reasons-why-baileys-harbor-is-the-best-town-in-door-county",
+ "title": "Baileys Harbor, Door County: Things to Do on the Quiet Side",
+ "meta_description": "Baileys Harbor is the lake-side Door County town repeat visitors pick. Where to paddle, eat, and stay, from guides who run tours out of town.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Baileys Harbor, Door County: Things to Do on the Quiet Side",
+  "twitter:title": "Baileys Harbor, Door County: Where Repeat Visitors Pick",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/03/7-reasons-baileys-harbor-is-the-best-town.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/03/7-reasons-baileys-harbor-is-the-best-town.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/03/7-reasons-baileys-harbor-is-the-best-town.jpg?w=700&h=700&zoom=2",
+  "og:description": "Baileys Harbor is the lake-side Door County town repeat visitors pick. Where to paddle, eat, and stay, from guides who run tours out of town.",
+  "twitter:description": "Baileys Harbor is the lake-side Door County town repeat visitors pick. Where to paddle, eat, and stay, from guides who run tours out of town."
+ },
+ "h1": [
+  "Baileys Harbor, Door County: Where Repeat Visitors Pick"
+ ],
+ "h2": [
+  "Why people pick Baileys Harbor",
+  "Things to do in Baileys Harbor",
+  "Where to eat and drink in Baileys Harbor",
+  "Where to stay in Baileys Harbor",
+  "When to visit Baileys Harbor",
+  "How to get to Baileys Harbor",
+  "Bay side or lake side: an honest comparison",
+  "What to bring for a kayak day",
+  "Baileys Harbor FAQ"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/03/7-reasons-baileys-harbor-is-the-best-town.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/Cana-Island-Lighthouse-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Kayaker-Jumping-with-top-shadow.png",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "TouristDestination",
+     "name": "Baileys Harbor",
+     "description": "A quiet lake-side town on the Lake Michigan coast of Door County, Wisconsin.",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 45.0716,
+      "longitude": -87.1267
+     },
+     "containedInPlace": {
+      "@type": "Place",
+      "name": "Door County, Wisconsin"
+     }
+    },
+    {
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "What is the best Cave Point kayak tour to book if I am staying in Baileys Harbor?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 4-hour half-day at 145 dollars if you can swing the time. It is a 15-minute drive from Baileys Harbor. Most of our guests staying in town book the half-day over the 2-hour because they have the day to spare."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is Baileys Harbor good for families with young kids?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Very. The beach is shallow. The Eco Estuary tour takes kids age 6 and up. Cave Point has an age-8 minimum. The town is small enough that nothing requires more than a 5-minute walk."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How long do I need in Baileys Harbor?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two nights is the floor for it to feel worth it. Three to five nights is the sweet spot. Longer and you will start day-tripping to other towns, which is fine."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.doorcountykayaktours.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Blog",
+       "item": "https://www.doorcountykayaktours.com/blog/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Baileys Harbor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+     "name": "7 Reasons Why Baileys Harbor Is The Best Town In Door County"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=SITE",
+    "item_id": "156126",
+    "item_name": "Cave Point / Whitefish Dunes 1/2 Day Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=SITE",
+    "item_id": "216710",
+    "item_name": "Fish Creek Sunset Glow Roll E-Bike Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "156126",
+   "208420",
+   "216710",
+   "221394",
+   "5669",
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "156126",
+   "208420",
+   "216710",
+   "221394",
+   "5669",
+   "5784",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/activities/e-bike-rental/",
+  "/blog/7-must-visit-door-county-parks/",
+  "/blog/7-reasons-to-host-your-bachelorette-party-in-door-county/",
+  "/cdn-cgi/l/email-protection#4a75393f28202f293e7709222f29216f787a253f3e6f787a6f7878082b23262f33396f787a022b382825386f78096f787a0e2525386f787a09253f243e336f790b6f787a1d222f382f6f787a182f3a2f2b3e6f787a1c2339233e2538396f787a1a2329216f78786f787a2b3e6f787a0e2525386f787a09253f243e336f787a012b332b216f787a1e253f38396f7a0e6f7a0b223e3e3a396f790b6f780c6f780c3d3d3d642e25253829253f243e33212b332b213e253f3839642925276f780c2826252d6f780c7d67382f2b39252439673d223367282b23262f333967222b38282538672339673e222f67282f393e673e253d24672324672e2525386729253f243e336f780c6c2b273a7128252e3377082b23262f33396f787a022b382825386f78096f787a0e2525386f787a09253f243e336f790b6f787a1d222f382f6f787a182f3a2f2b3e6f787a1c2339233e2538396f787a1a2329216f787a676f787a0e2525386f787a09253f243e336f787a012b332b216f787a1e253f38396f7a0e6f7a0b223e3e3a396f790b6f780c6f780c3d3d3d642e25253829253f243e33212b332b213e253f3839642925276f780c2826252d6f780c7d67382f2b39252439673d223367282b23262f333967222b38282538672339673e222f67282f393e673e253d24672324672e2525386729253f243e336f780c",
+  "/kayak-tours/cana-island-lighthouse-kayak-tour/",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/",
+  "/kayak-tours/eco-estuary-tour/",
+  "/sunset-glow-roll-e-bike-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Baileys%20Harbor%2C%20Door%20County%3A%20Where%20Repeat%20Visitors%20Pick%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2F7-reasons-why-baileys-harbor-is-the-best-town-in-door-county%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-fish-creek-is-the-best-town-to-stay-at-in-door-county/",
+  "https://www.doorcountykayaktours.com/blog/7-reasons-why-ephraim-is-the-best-town-to-stay-at-in-door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/4th-of-july/",
+  "https://www.doorcountykayaktours.com/blog/category/7-reasons-why/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/art/",
+  "https://www.doorcountykayaktours.com/blog/category/baileys-harbor/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/blog/category/kiteboarding/",
+  "https://www.doorcountykayaktours.com/blog/category/lodging/",
+  "https://www.doorcountykayaktours.com/blog/category/music/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cana-island-lighthouse-kayak-tour/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/",
+  "https://www.doorcountykayaktours.com/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/",
+  "https://www.doorcountykayaktours.com/kayak-tours/eco-estuary-tour/",
+  "mailto:info@doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1917,
+ "body_text": "Back to Blog\n\n Baileys Harbor, Door County: Where Repeat Visitors Pick\n\n Why people pick Baileys Harbor\nBaileys Harbor is the lake-side town on Door County’s quieter coast. It sits on Lake Michigan, not Green Bay, which means sunrises over open water, calmer downtown sidewalks, and fewer trolleys than Fish Creek or Ephraim. People who come back year after year mostly come back here.\n\nIt also happens to be where we run two of our tours. Cave Point is 15 minutes south. Our Eco Estuary launch on Rieboldt Creek is right inside town. Most of our guides live within a 10-minute drive.\n\nThis guide is what we would tell a friend booking their first trip.\n\nAlready booking? Two tours launch from this side of the peninsula: the Eco Estuary Tour ($65, a calm wildlife paddle) and the Cave Point Kayak Tour ($69 plus a $4 park fee for the 2-hour, or $145 for the half-day, which is the one most guests pick).\n\nThings to do in Baileys Harbor\nA few things, in the order we would actually do them with a vacation week:\n\nKayak the Eco Estuary at Moonlight Bay. A 1.5 to 2 hour paddle that launches from the DNR access at County Q and Rieboldt Creek, then follows the creek out to where it meets Moonlight Bay. Beavers, herons, otters most days. Glass-flat water, federally protected wetland on both sides. $65 per person. Good for first-time paddlers, kids age 6 and up, anyone nervous about open water. Book the Eco Estuary Tour here.\n\nKayak the cliffs and sea caves at Cave Point. Fifteen minutes south on Highway 57. Sea kayaks into limestone caves, dolomite cliffs, water clear enough to see the bottom drop off. 2-hour tour $69 plus $4 park fee, half-day $145. Most of our guests upgrade to the half-day once they hear the difference. This is our flagship tour.\n\nWalk the Ridges Sanctuary. Founded in 1937 as the first land trust in Wisconsin. Trails and boardwalks weave through one of the state’s most botanically diverse stretches of shoreline. Plan around the late-June mosquito peak if you can.\n\nDrive to Cana Island Lighthouse. Just north of town. You walk across a rocky causeway to reach the island, which depending on lake levels can be ankle-deep in cold Lake Michigan water. Bring water shoes or accept wet feet. If you would rather paddle to it, we run a Cana Island Lighthouse kayak tour.\n\nSwim or read at Baileys Harbor Beach. Sand bottom, shallow for 20 yards out, free public access. The pavilion has bathrooms and a covered picnic shelter.\n\nHike Toft Point. A State Natural Area at the tip of the peninsula east of town. Quiet, undeveloped, mostly cedar and pine. Picks up on weekends after 11am, quiet on weekdays.\n\nBird at Heins Creek Nature Preserve. A short loop through dunes and forest. Pileated woodpeckers are regulars on spring mornings.\n\nWhere to eat and drink in Baileys Harbor\nDoor County Brewing Co. Walking distance from downtown. Get the Polka King Porter, that is the one they are known for. Live music most weekends in the music hall out back.\n\nThe Creamery. New-American dinner spot. Reservations at least a week out in July and August.\n\nBase Camp Coffee. Drive-through and walk-up coffee, breakfast burritos, the only espresso in town worth driving for.\n\nCoyote Roadhouse. Old-school supper club a few miles inland on Highway A. Get the Friday fish fry.\n\nChives. Bay-view fine dining south of town. Special-occasion priced.\n\nDoor County Ice Cream Factory. Homemade ice cream, the kind with crystallized sugar bits in the chocolate.\n\nWhere to stay in Baileys Harbor\nBaileys Harbor leans toward small motels, cottages, and Airbnbs rather than the big resorts you will find in Fish Creek. We would point first-timers to:\n\nThe Blacksmith Inn on the Shore. Adults-only, on Lake Michigan, fireplaces in every room. Best sunrise views in town.\n\nBaileys Harbor Yacht Club Resort. Family-oriented, indoor pool, walkable to the marina.\n\nCottages on the bay or lake side. Most are owner-managed. Book by February for July weeks.\n\nIf you want walkability and nightlife, you will have a better time in Fish Creek or Ephraim. If you want quiet evenings and a porch, you are in the right town.\n\nWhen to visit Baileys Harbor\nMid-June through Labor Day is peak. Water is paddle-warm, every restaurant is open, every tour runs.\n\nSeptember is our favorite month. Crowds drop, the lake is still warm enough to swim, and the cherry orchards turn. We run kayak tours every day through the third week of September.\n\nOctober is shoulder season. Some restaurants cut hours. The Ridges trails are at peak color the second week. Pack layers, the wind off the lake is real.\n\nWinter and early spring. Door County Brewing stays open. Most everything else closes or runs limited hours. We do not recommend planning a kayak trip in this window.\n\nHow to get to Baileys Harbor\nFrom Milwaukee or Madison, it is about a 3.5 to 4 hour drive. The fastest route is I-43 north to Highway 57, then 57 north all the way through Sturgeon Bay, Jacksonport, and into Baileys Harbor.\n\nFrom Green Bay, plan on 1.5 hours.\n\nThe Washington Island ferry at Northport is another 45 minutes north of Baileys Harbor if you want to combine trips.\n\nBay side or lake side: an honest comparison\nIf you have never been to Door County, the peninsula has two coasts and they feel different.\n\nBay side (Fish Creek, Ephraim, Egg Harbor). Sunsets, busier downtowns, more shops and restaurants per block, calmer water, more boat traffic. Better if you want walkable evenings and lots of options.\n\nLake side (Baileys Harbor, Jacksonport). Sunrises, quieter, bigger waves on windy days, the dramatic cliffs and sea caves, fewer trolleys. Better if you want stillness and dramatic shoreline.\n\nMost people who come back annually pick the lake side. Most first-timers default to Fish Creek. Both are fine answers.\n\nWhat to bring for a kayak day\n\nClosed-toe water shoes or sandals with heel straps. No flip-flops.\n\nSwimsuit or a quick-dry layer.\n\nSunscreen, hat, sunglasses with a strap.\n\nTowel and a dry change of clothes for the car ride home.\n\nA dry bag if you want your phone with you. We sell phone-sized and full-size dry bags at our shop. We provide the kayak, paddle, and PFD on every tour.\n\nBaileys Harbor FAQ\nWhere do you launch your tours from in Baileys Harbor?\n\nOur Eco Estuary tour launches from the DNR public kayak launch on Rieboldt Creek where it opens into Moonlight Bay. Cave Point tours leave from our shop at 6329 WI-57 in Jacksonport, 15 minutes south.\n\nCan I kayak Baileys Harbor itself?\n\nYes, the bay is paddleable on calm days. There is a public launch at the Anclam Park boat ramp. We do not run guided tours of the harbor itself because the views are better at our other launches.\n\nWhat is the best Cave Point kayak tour to book if I am staying in Baileys Harbor?\n\nThe 4-hour half-day at $145 if you can swing the time. It is a 15-minute drive from Baileys Harbor. Most of our guests staying in town book this one over the 2-hour because they have the day to spare.\n\nIs Baileys Harbor good for families with young kids?\n\nVery. The beach is shallow. The Eco Estuary tour takes kids age 6 and up. Cave Point has an age-8 minimum. The town is small enough that nothing requires more than a 5-minute walk.\n\nHow long do I need in Baileys Harbor?\n\nTwo nights is the floor for it to feel worth it. Three to five nights is the sweet spot. Longer and you will start day-tripping to other towns, which is fine.\n\nDo I need a car?\n\nYes. Most attractions are 5 to 15 minutes apart by car and trolley service is limited.\n\n Posted in: \n\n 4th of July\n\n 7 reasons why\n\n Activities\n\n Adventure\n\n Art\n\n Baileys Harbor\n\n Door County\n\n Door County Lodging\n\n Kayaking\n\n Kiteboarding\n\n Music\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More\n\n Cana Island Lighthouse Extended Kayak Tour\n\n NEW!\n\n Extended Tour\n\n Lighthouse Tour\n\n Locally Sourced Picnic\n\n From\n\n $110\n\n 4 hours\n\n 4+\n\n Cana Island Lighthouse Extended Kayak Tour\n\n This kayak tour is one of our extended tour experiences, we kayak to the the Cana Island lighthouse, have lunch and tour the lighthouse. Your guide will accompany you on sit-on-top kayaks, provide you with a kayak lesson, enlighten you with maritime history and stories, setup a charcuterie picnic and help facilitate some memorable photos.\n\n Email to Book\n\n Learn More\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n 4+\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n ✅ 4 hrs · 🛶 Guided & Beginner Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 5 min drive to launch\n🚐 Transportation Provided\n🥾 Includes Break + Short Hike + Optional Cliff Jumping(when water height is appropriate)\n🧺 Locally Sourced Picnic\n\nA full-on Door County immersion. Ideal for explorers, photographers, and anyone craving a deeper connection with nature.\n\n Book Now\n\n Learn More\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n From\n\n $99\n\n 1.5 - 2 Hours\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n A sunset glow roll! What could be better?! This is a perfect way to explore Fish Creek and Peninsula State Park at night, with some awesome light-up bikes and disco lights! Tour will include some awesome photo ops, incredibly cool bikes, and of course a great sunset! Join us Today!\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

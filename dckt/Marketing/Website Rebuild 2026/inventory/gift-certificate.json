@@ -1,0 +1,92 @@
+{
+ "url": "https://www.doorcountykayaktours.com/gift-certificate/",
+ "slug": "gift-certificate",
+ "title": "Gift Certificate | Door County Kayak Tours",
+ "meta_description": "Discover what Door County Kayak Tours is all about",
+ "canonical": "https://www.doorcountykayaktours.com/gift-certificate/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Gift Certificate | Door County Kayak Tours",
+  "twitter:title": "Gift Certificate",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/gift-certificate/",
+  "twitter:url": "https://www.doorcountykayaktours.com/gift-certificate/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Gift-Certificate-image-1.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Gift-Certificate-image-1.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Gift-Certificate-image-1.jpg?w=700&h=700&zoom=2"
+ },
+ "h1": [
+  "Gift Certificate"
+ ],
+ "h2": [],
+ "h3": [
+  "Kayak Tour Gift certificate",
+  "Paddle Board Gift Certificate",
+  "Private Tour for Two - Any Tour - Gift Certificate",
+  "Kayak Tour Gift certificate",
+  "Paddle Board Gift Certificate",
+  "Private Tour for Two - Any Tour - Gift Certificate",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Gift-Certificate-image-1.jpg",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/gift-certificate/",
+     "name": "Gift Certificate"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5784/calendar/?ref=SITE",
+    "item_id": "5784",
+    "item_name": "Gift Cards",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "5784"
+  ],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5784/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjUsOgzAMBS/U1KEqIBaoZ3GCAYcEkBOKuD2fG2Q5T5o3sK/KLnOiOUEaKVCEHoVGFLOIipyuwWzsO3ARHny7+IIsy7OdFAccSA3oPcmR/8EdGZRsbxX+o717v9AWdfPRWlfl150/IFud",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 52,
+ "body_text": "Gift Certificate\n\n Book Now\n\n Kayak Tour Gift certificate\n\n $\n 55\n\n Paddle Board Gift Certificate\n\n $\n 55\n\n Private Tour for Two - Any Tour - Gift Certificate\n\n $\n 250\n\n Kayak Tour Gift certificate\n\n $\n 55\n\n Paddle Board Gift Certificate\n\n $\n 55\n\n Private Tour for Two - Any Tour - Gift Certificate\n\n $\n 250",
+ "youtube": []
+}

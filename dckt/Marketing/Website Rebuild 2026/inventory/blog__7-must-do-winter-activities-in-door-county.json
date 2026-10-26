@@ -1,0 +1,185 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/7-must-do-winter-activities-in-door-county/",
+ "slug": "blog__7-must-do-winter-activities-in-door-county",
+ "title": "Winter in Door County: What's Worth the Trip",
+ "meta_description": "Winter in Door County is quieter, colder, and dramatic. What's actually open, what's worth the trip, and the ice-cave e-bike tour we run when conditions allow.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/7-must-do-winter-activities-in-door-county/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Winter in Door County: What's Worth the Trip",
+  "twitter:title": "Winter in Door County: What’s Actually Worth the Trip",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/7-must-do-winter-activities-in-door-county/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/7-must-do-winter-activities-in-door-county/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-winter-activities.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-winter-activities.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-winter-activities.jpg?w=700&h=700&zoom=2",
+  "og:description": "Winter in Door County is quieter, colder, and dramatic. What's actually open, what's worth the trip, and the ice-cave e-bike tour we run when conditions allow.",
+  "twitter:description": "Winter in Door County is quieter, colder, and dramatic. What's actually open, what's worth the trip, and the ice-cave e-bike tour we run when conditions allow."
+ },
+ "h1": [
+  "Winter in Door County: What’s Actually Worth the Trip"
+ ],
+ "h2": [
+  "What’s actually open in winter",
+  "The ice caves",
+  "Sauna sessions in winter",
+  "Hiking in winter",
+  "Food",
+  "What to bring",
+  "When to come",
+  "TL;DR"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-winter-activities.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/eagle-bluff-ice-fat-tire-e-bike-tour.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Winter in Door County: What&#8217;s Actually Worth the Trip",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "January 31, 2019",
+   "dateModified": "June 22, 2026",
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-winter-activities.jpg?w=1000&h=1000&zoom=2",
+    "width": 900,
+    "height": 596
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/7-must-do-winter-activities-in-door-county/",
+     "name": "7 Must Do Winter Activities In Door County"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=SITE",
+    "item_id": "208419",
+    "item_name": "Peninsula State Park Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=SITE",
+    "item_id": "216710",
+    "item_name": "Fish Creek Sunset Glow Roll E-Bike Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "208419",
+   "208420",
+   "216710"
+  ],
+  "all_item_ids_on_page": [
+   "208419",
+   "208420",
+   "216710",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/airstream-sauna-rental/",
+  "/blog/7-of-the-best-hiking-trails-in-door-county/",
+  "/blog/7-reasons-fish-creek-is-the-best-town-to-stay-at-in-door-county/",
+  "/blog/7-reasons-why-baileys-harbor-is-the-best-town-in-door-county/",
+  "/blog/door-countys-best-summer-job/",
+  "/blog/the-barmuda-triangle-husbys-the-bowl-jjs-la-puerta/",
+  "/blog/whistling-swan/",
+  "/cave-point-winter-ebike-ice-caves/",
+  "/cave-point/",
+  "/cdn-cgi/l/email-protection#9ba4e8eef9f1fef8efa6d8f3fef8f0bea9abf4eeefbea9abbea9a9ccf2f5effee9bea9abf2f5bea9abdff4f4e9bea9abd8f4eef5efe2bea8dabea9abccf3faefbedea9bea3abbea2a2e8bea9abdaf8efeefaf7f7e2bea9abccf4e9eff3bea9abeff3febea9abcfe9f2ebbea9a9bea9abfaefbea9abdff4f4e9bea9abd8f4eef5efe2bea9abd0fae2faf0bea9abcff4eee9e8beabdfbeabdaf3efefebe8bea8dabea9ddbea9ddecececb5fff4f4e9f8f4eef5efe2f0fae2faf0eff4eee9e8b5f8f4f6bea9ddf9f7f4fcbea9ddacb6f6eee8efb6fff4b6ecf2f5effee9b6faf8eff2edf2eff2fee8b6f2f5b6fff4f4e9b6f8f4eef5efe2bea9ddbdfaf6eba0f9f4ffe2a6ccf2f5effee9bea9abf2f5bea9abdff4f4e9bea9abd8f4eef5efe2bea8dabea9abccf3faefbedea9bea3abbea2a2e8bea9abdaf8efeefaf7f7e2bea9abccf4e9eff3bea9abeff3febea9abcfe9f2ebbea9abb6bea9abdff4f4e9bea9abd8f4eef5efe2bea9abd0fae2faf0bea9abcff4eee9e8beabdfbeabdaf3efefebe8bea8dabea9ddbea9ddecececb5fff4f4e9f8f4eef5efe2f0fae2faf0eff4eee9e8b5f8f4f6bea9ddf9f7f4fcbea9ddacb6f6eee8efb6fff4b6ecf2f5effee9b6faf8eff2edf2eff2fee8b6f2f5b6fff4f4e9b6f8f4eef5efe2bea9dd",
+  "/ice-castles-caves-e-bike-tour/",
+  "/peninsula-state-park-fat-tire-e-bike-tour/",
+  "/sauna-experience/",
+  "/sunset-glow-roll-e-bike-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Winter%20in%20Door%20County%3A%20What%E2%80%99s%20Actually%20Worth%20the%20Trip%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2F7-must-do-winter-activities-in-door-county%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/7-reasons-why/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/cave-point/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/events/",
+  "https://www.doorcountykayaktours.com/blog/tag/things-to-do-in-door-county/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 866,
+ "body_text": "Back to Blog\n\n Winter in Door County: What’s Actually Worth the Trip\n\nNovember through March in Door County is a different vacation. Most restaurants close, most shops close, the trolleys stop running. The peninsula gets quiet in a way that summer never lets it be.\r\n\nThe places that stay open are the best version of themselves.\r\nWhat’s actually open in winter\r\n\n Door County Brewing Co. in Baileys Harbor. Year-round.\n\n Husby’s in Sister Bay. Daily, 11am-2am, year-round (per the Barmuda Triangle post).\n\n A handful of inns and B&Bs. Reduced hours but operating.\n\n The state parks. Trails open year-round (bring microspikes January-February).\n\n Our Door County Sauna and Airstream Sauna Rental. Honestly the best version of a sauna is a winter one.\n\nWhat’s closed: most restaurants, most retail, most outfitters that rent kayaks. We close kayak tours November through April. We do run winter e-bike tours to the Cave Point ice caves on cold years when the ice has formed.\r\nThe ice caves\r\nThe single best thing about a Door County winter is the ice caves at Cave Point.\r\n\nWhat happens: lake spray hits the dolomite cliff face, freezes overnight, builds up over weeks of cold. The cave openings get rimmed with ice formations 5 to 15 feet thick. The cliff face becomes a sheet of frozen sculpture.\r\n\nWhen: late January through mid-February most years. Some years they don’t form well (it depends on cold plus wave-action timing).\r\n\nHow to see them: from the cliff trail at Cave Point County Park (icy, bring microspikes) or from our Winter E-Bike to the Cave Point Ice Caves tour. The e-bike has studded tires and the route lets you see the ice caves from a couple of angles you can’t reach by foot.\r\nSauna sessions in winter\r\nA wood-fired sauna in February in Door County is the experience. The contrast between the 180°F sauna and the 20°F outside is the point. We run both the fixed-location sauna and the Airstream Sauna Rental (mobile) year-round.\r\n\nMost guests who book in winter are not first-timers. They’ve done a summer sauna, learned what it does to their body, and come back when the cold-cycle hits harder.\r\nHiking in winter\r\nThe state park trails stay open. Eagle Trail is closed unofficially when the cliff section gets icy. The Cave Point cliff trail and Toft Point stay walkable in microspikes.\r\n\nTrails to skip in winter: anything with a cliff scramble, anything that requires a stream crossing.\r\nFood\r\nLimited but real. Door County Brewing Co. is the one we send most winter guests to first. Polka King Porter on tap, music in the back hall some weekends, full menu.\r\n\nWickman House in Ellison Bay closes seasonally but check; some years they keep a few weekend dinners on the calendar.\r\n\nFor Fish Creek, Whistling Swan keeps shorter winter hours; call ahead.\r\nWhat to bring\r\n\n Real winter layers. Door County winter has a different bite than mainland Wisconsin (lake-effect humidity).\n\n Microspikes for any state park trail.\n\n Hand warmers.\n\n A camera. The cliffs in ice are the postcard.\n\nWhen to come\r\nLate January through mid-February for the ice caves. Coldest temps, most reliable formations.\r\n\nDecember if you want a snow-on-the-cherry-trees photo trip but don’t care about ice caves yet.\r\n\nMid-March onwards is mud season; skip unless you have a specific reason.\r\nTL;DR\r\nCave Point ice caves are the reason. Pair with a Door County sauna night. Stay in Baileys Harbor or Fish Creek (more options open). Bring layers, bring microspikes, bring patience. The peninsula is at its quietest and most dramatic.\r\n\nBook the Winter E-Bike Ice Caves Tour →\n\n Posted in: \n\n 7 reasons why\n\n Activities\n\n Cave Point\n\n Door County\n\n Events\n\n Tags: \n\n things to do in door county\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Ice Castles & Caves E-Bike Tour\n\n Sells out quickly\n\n 2 hours\n\n Ice Castles & Caves E-Bike Tour\n\n This e-bike tour explores the best location to see ice castles, caves, shoves. Get your camera ready for these magical creations old man winter provides us.\n\n Book Now\n\n Learn More\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n From\n\n $99\n\n 2.5 hours\n\n Peninsula State Park Fat Tire E-Bike Tour\n\n A super fun way to cruise around and see some fun instagrammable spots throughout Peninsula State Park and Fish Creek during all the seasons.  Fat tire E-bikes are a blast.\n\n Book Now\n\n Learn More\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n From\n\n $99\n\n 1.5 - 2 Hours\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n A sunset glow roll! What could be better?! This is a perfect way to explore Fish Creek and Peninsula State Park at night, with some awesome light-up bikes and disco lights! Tour will include some awesome photo ops, incredibly cool bikes, and of course a great sunset! Join us Today!\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "DNRnvE_miv0"
+ ]
+}

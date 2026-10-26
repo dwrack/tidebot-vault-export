@@ -1,0 +1,169 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/door-countys-best-summer-job/",
+ "slug": "blog__door-countys-best-summer-job",
+ "title": "Best Summer Job in Door County: Be a Kayak Guide",
+ "meta_description": "Want a summer job in Door County? What it's like to guide kayak tours: real days, real pay, how to apply, and what we look for in a hire.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/door-countys-best-summer-job/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Best Summer Job in Door County: Be a Kayak Guide",
+  "twitter:title": "The Best Summer Job in Door County: Kayak Guide",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/door-countys-best-summer-job/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/door-countys-best-summer-job/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-summer-job.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-summer-job.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-summer-job.jpg?w=700&h=700&zoom=2",
+  "og:description": "Want a summer job in Door County? What it's like to guide kayak tours: real days, real pay, how to apply, and what we look for in a hire.",
+  "twitter:description": "Want a summer job in Door County? What it's like to guide kayak tours: real days, real pay, how to apply, and what we look for in a hire."
+ },
+ "h1": [
+  "The Best Summer Job in Door County: Kayak Guide"
+ ],
+ "h2": [
+  "What the day actually looks like",
+  "The good days",
+  "The hard days",
+  "What you make",
+  "What we look for",
+  "Why Door County specifically",
+  "How to apply",
+  "What guides have told us about the job",
+  "TL;DR"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-summer-job.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Guide-Training-Camp-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The Best Summer Job in Door County: Kayak Guide",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "January 26, 2019",
+   "dateModified": "May 6, 2026",
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/01/door-county-summer-job.jpg?w=1000&h=1000&zoom=2",
+    "width": 900,
+    "height": 600
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/door-countys-best-summer-job/",
+     "name": "Door Countys Best Summer Job"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/44270/calendar/?ref=SITE",
+    "item_id": "44270",
+    "item_name": "Guide Training Camp",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "208420",
+   "44270",
+   "5669"
+  ],
+  "all_item_ids_on_page": [
+   "208420",
+   "44270",
+   "5669",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/blog/7-must-do-winter-activities-in-door-county/",
+  "/blog/kayak-and-paddleboard-sale/",
+  "/cave-point/",
+  "/cdn-cgi/l/email-protection#1d226e687f77787e69205e75787e76382f2d726869382f2d382f2f497578382f2d5f786e69382f2d4e687070786f382f2d57727f382f2d7473382f2d5972726f382f2d5e7268736964382e5c382f2d567c647c76382f2d5a68747978382f2f382f2d7c69382f2d5972726f382f2d5e7268736964382f2d567c647c76382f2d4972686f6e382d59382d5c7569696d6e382e5c382f5b382f5b6a6a6a337972726f7e7268736964767c647c766972686f6e337e7270382f5b7f71727a382f5b7972726f307e72687369646e307f786e69306e687070786f3077727f382f5b3b7c706d267f72796420497578382f2d5f786e69382f2d4e687070786f382f2d57727f382f2d7473382f2d5972726f382f2d5e7268736964382e5c382f2d567c647c76382f2d5a68747978382f2d30382f2d5972726f382f2d5e7268736964382f2d567c647c76382f2d4972686f6e382d59382d5c7569696d6e382e5c382f5b382f5b6a6a6a337972726f7e7268736964767c647c766972686f6e337e7270382f5b7f71727a382f5b7972726f307e72687369646e307f786e69306e687070786f3077727f382f5b",
+  "/deaths-door-shipwreck-kayak-tour/",
+  "/jobs/",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/guide-training-camp/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/44270/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20The%20Best%20Summer%20Job%20in%20Door%20County%3A%20Kayak%20Guide%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fdoor-countys-best-summer-job%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/7-reasons-why/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1017,
+ "body_text": "Back to Blog\n\n The Best Summer Job in Door County: Kayak Guide\n\n Most summer jobs in Door County are restaurant work, retail, or housekeeping. Those are real jobs and they pay the bills. But if you ask a guide what the best summer job on the peninsula is, the answer’s not in the restaurant.\n\nGuiding kayak tours.\n\nI’ve worked this peninsula since 2013. Other guides on our staff have come from college outdoor programs, from teaching jobs, from the ski industry. The pattern is the same: they tried it for one summer, then came back the next, then stopped pretending they were going to do something else.\n\nHere’s the honest version.\n\nWhat the day actually looks like\nShow up at the shop in Jacksonport at 7:45am. Check the weather call we made at 7am, prep the gear, load the van for the shuttle to Cave Point.\n\n8:30am tour starts. You meet 6 to 12 guests, fit them with PFDs and paddles, run the safety briefing, get them on the water. Two hours of paddling. You read the wind, you read the group, you call the shots on whether to enter the caves that day.\n\nBack at the shop by 11am. Quick break. 11am tour, repeat. Then 1:30pm. Then 4pm.\n\nFour tours a day in peak summer. About 6 hours of actual on-water time, plus prep, debrief, and shuttle. By 7pm you’re done.\n\nThe next day you do it again.\n\nThe good days\nCalm water, full cave entry, a guest who’s never been on a kayak before suddenly looking down through 20 feet of clear lake at the bottom dropping off. The kid who was scared at the beach who’s laughing 90 minutes later. The couple celebrating their 30th anniversary who tells you it was the best part of their trip.\n\nThese happen all summer. Multiple times a week.\n\nThe hard days\n15 mph east wind. Cave entry off the table. Three back-to-back groups of beginners who didn’t read the briefing email. A guest who tries to stand up in the kayak. The 7am weather call where you have to refund 24 people’s bookings and explain why.\n\nAlso: rain. We go in light rain. You’re wet for the rest of the day.\n\nWhat you make\nReal numbers vary year to year (ask us when you apply). Tip culture is real on guided kayak tours, and good guides who connect with their groups can take home meaningful tip money on top of their hourly rate. Housing in Door County is the hard part; some seasons we have guide housing available, some we don’t.\n\nWhat we look for\nWe hire for character first, paddling skills second.\n\nCan you talk to strangers and make them feel comfortable in 5 minutes? More important than 10 years of paddling experience.\n\nCan you read a group? The nervous one, the overconfident one, the kid who’s bored.\n\nAre you willing to do the unglamorous parts? Loading the van, hauling boats, cleaning gear at the end of a 12-hour day.\n\nDo you actually love being on the water? Not just want a Door County summer.\n\nWe require basic kayak proficiency, current CPR/first-aid, and the temperament to make it through August.\n\nWhy Door County specifically\nThe water here is unusual. Cave Point and the Death’s Door shipwreck route are unlike any other Great Lakes paddling. You learn to read dolomite cliff swell, fog patterns, and a strait that’s been killing wooden ships for 200 years. Other operators in Wisconsin don’t have access to water like this.\n\nYou also learn to operate a small business from the inside. Group dynamics, weather risk, customer escalations, the way a tour reservation flows from a Tuesday email to an 8:30am Saturday morning. That’s portable to whatever you do next.\n\nHow to apply\nHiring opens in February each year for the May-October season. Cycle:\n\nApply online at our jobs page. One paragraph about you, one about why you want this specific job (not a Door County summer in general).\n\nFirst interview: phone or video, 30 minutes. We’re seeing if you can talk to people.\n\nSecond interview: in-person on the water if possible, paddle assessment, group simulation.\n\nReference checks.\n\nOffer.\n\nWe hire about 8-12 guides per season. Returning guides have priority. New hires usually start mid-May for training and ramp through Memorial Day.\n\nWhat guides have told us about the job\nQuotes pulled from past onboarding sessions:\n\n“I made more friends this summer than in two years at college.”\n\n“First time I’ve had a job where I didn’t dread Monday.”\n\n“Never thought I’d come back. Came back four years in a row.”\n\n“I learned more about reading people in three months than I did in a teaching certification.”\n\nTL;DR\nHardest summer job you’ll love. Real water, real people, real responsibility. Apply at doorcountykayaktours.com/jobs. Hiring opens in February for the May-October season.\n\n Posted in: \n\n 7 reasons why\n\n Adventure\n\n Door County\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Guide Training Camp\n\n From\n\n $75\n\n 3 days\n\n Guide Training Camp\n\n Welcome, 2019 DCKT guides! Congratulations on receiving your invitation to guide training camp. Get all of the details and instructions here.\n\n Book Now\n\n Learn More\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

@@ -29,7 +29,7 @@ AWARENESS → CONSIDERATION → BOOKING → ANTICIPATION → ARRIVAL → ON-WATE
 - Google Ads targeting "door county kayak tours" and variations
 - 4.9 stars visible everywhere — Google, TripAdvisor, social
 - Instagram presence that shows the experience visually — caves, water, people's faces
-- Social proof throughout: "800+ five-star reviews" on every page
+- Social proof throughout: "4.9 stars from 1,000+ reviews" on every page (Google: 1,011 reviews, 4.9 avg, verified 2026-10-15; refresh the number each spring)
 
 **Ideal outcome:** They click through to the website or call number with genuine curiosity and intent to book.
 

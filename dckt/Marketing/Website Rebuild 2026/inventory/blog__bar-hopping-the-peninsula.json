@@ -1,0 +1,156 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/bar-hopping-the-peninsula/",
+ "slug": "blog__bar-hopping-the-peninsula",
+ "title": "Bar Hopping The Peninsula | Door County Kayak Tours",
+ "meta_description": "Visiting Door County for a bachelor/bachelorette party, with friends, or just looking for a break from your family reunion? Keep reading to discover the best route for bar hopping to the tip of the peninsula!…",
+ "canonical": "https://www.doorcountykayaktours.com/blog/bar-hopping-the-peninsula/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Bar Hopping the Peninsula",
+  "twitter:title": "Bar Hopping the Peninsula",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/bar-hopping-the-peninsula/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/bar-hopping-the-peninsula/",
+  "og:type": "website",
+  "og:description": "Visiting Door County for a bachelor/bachelorette party, with friends, or just looking for a break from your family reunion? Keep reading to discover the best route for bar hopping to the tip of the peninsula! Pick your favorite spots, or if you’re feeling bold, have…",
+  "twitter:description": "Visiting Door County for a bachelor/bachelorette party, with friends, or just looking for a break from your family reunion? Keep reading to discover the best route for bar hopping to the tip of the peninsula! Pick your favorite spots, or if you’re feeling bold, have…"
+ },
+ "h1": [
+  "Bar Hopping the Peninsula",
+  "HWY 42 or 57?",
+  "HWY 42",
+  ""
+ ],
+ "h2": [
+  "Sturgeon Bay",
+  "Egg Harbor",
+  "Fish Creek",
+  "Sister Bay",
+  "The Blue Ox Experience",
+  "The Cornerstone Stop",
+  "The AC Tap: A Finale",
+  ""
+ ],
+ "h3": [
+  "Waterfront Mary’s",
+  "Kitty O’Reilly’s Irish Pub",
+  "Stone Harbor",
+  "Birmingham’s",
+  "One Barrel Brewing Co.",
+  "Casey’s BBQ & Smokehouse",
+  "Lautenbach’s Orchard & Winery",
+  "Bayside Tavern",
+  "Husby’s & The Garage",
+  "The Bowl & The Alley",
+  "The Boathouse",
+  "",
+  "",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/middleton-craftsman-table-tap-curds.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Fat-Tire-E-Bike-Rentals.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Bar Hopping the Peninsula",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "November 30, 2023",
+   "dateModified": "November 30, 2023"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/bar-hopping-the-peninsula/",
+     "name": "Bar Hopping The Peninsula"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221396/calendar/?ref=SITE",
+    "item_id": "221396",
+    "item_name": "Sister Bay Cheese Curd Walking Food Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/307122/calendar/?ref=SITE",
+    "item_id": "307122",
+    "item_name": "Fish Creek Fat Tire E-Bike Self-Rental",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "221396",
+   "307122"
+  ],
+  "all_item_ids_on_page": [
+   "221396",
+   "307122",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/tips-for-kayaking-with-your-dog/",
+  "/blog/why-a-door-county-kayak-tour-on-fathers-day-is-a-great-gift/",
+  "/cdn-cgi/l/email-protection#447b3731262e21273079072c21272f6176742b31306176746176760625366176740c2b34342d2a23617674302c2161767414212a2d2a373128256176766176742530617674002b2b36617674072b312a303d6176740f253d252f617674102b3136376174006174052c303034376177056176026176023333336a202b2b36272b312a303d2f253d252f302b3136376a272b2961760226282b23617602262536692c2b34342d2a2369302c216934212a2d2a37312825617602622529347f262b203d790625366176740c2b34342d2a23617674302c2161767414212a2d2a3731282561767469617674002b2b36617674072b312a303d6176740f253d252f617674102b3136376174006174052c303034376177056176026176023333336a202b2b36272b312a303d2f253d252f302b3136376a272b2961760226282b23617602262536692c2b34342d2a2369302c216934212a2d2a37312825617602",
+  "/sister-bay-cheese-curd-walking-food-tour/",
+  "/sister-bay-e-bike-rental/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221396/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/307122/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Bar%20Hopping%20the%20Peninsula%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fbar-hopping-the-peninsula%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/activities/",
+  "https://www.doorcountykayaktours.com/blog/category/adventure/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county-restaurants-food/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county-wisconsin/",
+  "https://www.doorcountykayaktours.com/blog/category/door-county/",
+  "https://www.doorcountykayaktours.com/blog/category/nightlife/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 1098,
+ "body_text": "Back to Blog\n\n Bar Hopping the Peninsula\n\n Visiting Door County for a bachelor/bachelorette party, with friends, or just looking for a break from your family reunion? Keep reading to discover the best route for bar hopping to the tip of the peninsula! Pick your favorite spots, or if you’re feeling bold, have your designated driver drop you off for a drink at each place!\n\nSturgeon Bay\nWaterfront Mary’s\nTo begin your bar hopping journey, kick off in Sturgeon Bay at Waterfront Mary’s and get a summery drink such as a rum runner, or a Bloody Mary with WI’s favorite garnishes (sausage and cheese) to fill your stomach for the long journey ahead! Gaze across the canal to admire the shipyard or get your eyes set on one of your future stops, Stone Harbor!\n\nKitty O’Reilly’s Irish Pub\nKitty O’Reilly’s is a local favorite, and if you didn’t get your Bloody Mary at Waterfront Mary’s, this is your chance to try Kitty’s loaded 20 oz Bloody Mary goblet to ensure you get all the fixin’s. Bloody’s not your style? No worries, take a peak at their Cocktail Therapy menu and you’ll be sure to find something fun that suits your taste, and cures your woes.\n\nStone Harbor\nCross the bridge over to Stone Harbor, a hotel and wedding venue that has a great restaurant and bar attached. Grab a drink outside at their Tiki Bar, or if it’s the weekend, head inside for live music! This is a great spot to take some photos, not only because of the beautiful scenery and landscaping, but also because you’ve probably only had a few drinks at this point and will remember to keep your eyes open when someone says “Cheese!”\n\nBirmingham’s\nAnother local favorite, Birmingham’s is off the beaten path with some of the best food and drinks Door County has to offer, and for the best price! You can’t beat a delicious $6 cheeseburger to go with your Spotted Cow. Remember to hit the ATM beforehand as this business is old school and only accepts cash, although your bartenders later on in your journey will appreciate the cash tips!\n\nHWY 42 or 57?\nSo you’ve hopped through Sturgeon Bay and have now made it to the crossroads, and Door County’s very last stop light. Do you go straight and venture down HWY 42, or turn right to travel HWY 57? Whichever you choose, be sure to travel the other on your way back to ensure you don’t miss some great stops!\n\nHWY 42\nEgg Harbor\nOne Barrel Brewing Co.\nMake your first stop in Egg Harbor at One Barrel Brewing Co. to try out some of Door County’s best local brews. Favorites are the Door County Trolley Red and Gentry’s Rosé Cider. Feeling spunky? Try the Cherry Razz Sour! Wild Tomato has pizza take out next door which you’ll probably discover by the smell wafting across the patio, and at that point, you won’t be able to resist!\n\nCasey’s BBQ & Smokehouse\nYour next stop will be Casey’s BBQ & Smokehouse, and if you were strong enough to resist the mouth watering smells from Wild Tomato, you won’t be able to escape this barbeque delight. Wash down some BBQ ribs with a shamrock mint tippy cow shot, or keep it simple by choosing an ale or IPA from their vast menu.\n\nFish Creek\nLautenbach’s Orchard & Winery\nAlthough not a bar, Lautenbach’s is a must stop for some wine tasting or just picking up a bottle for another day. Favorites include the extensive list of varying cherry flavors as well as their array of hard ciders.\n\nBayside Tavern\nA classic watering hole, no pub crawl should ever leave out this staple.\n\nSister Bay\nOnce you’ve made it to Sister Bay, you’ve connected with HWY 57 and possibly your pals who decided to take that route first. Enjoy the rest of your bar hopping extravaganza by following HWY 42 all the way to the tip of the Door!\n\nHusby’s & The Garage\nBe sure to make friends at Husby’s as you’re bound to run into a local who has great recommendations for activities and scenery around the peninsula. If it’s a nice day, sit at their outside bar called The Garage or get a boozy slushie from their Filling Station next door. If you’re lucky, they may also have live music and if you’re feeling bold, wet your whistle for open mic night!\n\nThe Bowl & The Alley\nFeeling sluggish from boozin’ all day? Head across the street to The Bowl to knock down some pins and drinks. Although if you’d just like to hang out, they have an outside bar next door called The Alley. You’ll most definitely get a strike by trying their cherry old fashioned!\n\nThe Boathouse\nA great little view of the bay and a nautical theme.  Ask Ryan the local bartender how his sailboat business is coming along.\n\nNow down HWY 57…\n\nThe Blue Ox Experience\nA highlight of Bailey’s Harbor is The Blue Ox, a pub with a history as rich as its menu. Step inside and immerse yourself in the ambiance that locals and visitors rave about. Don’t miss out on their signature drinks or any seasonal specials they might have.\n\nThe Cornerstone Stop\nAs we continue our journey, make a pitstop at The Cornerstone. This establishment stands out for its unique offerings, whether it’s a special cocktail or a themed event. The Cornerstone adds a touch of variety to your pub crawl experience.\n\nThe AC Tap: A Finale\nOur final destination is The AC Tap in Sturgeon Bay, a place that will leave you with lasting memories. As the last stop, The AC Tap is chosen for its vibrant atmosphere and possibly special closing events. It’s the perfect place to conclude your Door County pub crawl.\n\n Posted in: \n\n Activities\n\n Adventure\n\n Door County\n\n Door County Restaurants\n\n Door County Wisconsin\n\n Nightlife\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Sister Bay Cheese Curd Walking Food Tour\n\n Wisconsin Cheese Curds\n\n Sells Out Quickly!\n\n From\n\n $89\n\n 2 hours\n\n All Ages\n\n Sister Bay Cheese Curd Walking Food Tour\n\n Take a cheese curd food tour in Sister Bay where you will taste delectable cheese curds and various cheese samplings. Between tastings, you will learn about the history of iconic Sister Bay.\n\n Book Now\n\n Learn More\n\n Fish Creek E-Bike Self-Rental\n\n Self Checkout\n\n All Ages\n\n Fish Creek E-Bike Self-Rental\n\n Are you looking for a relaxing ride at your own pace? You can rent an E-Bike to enjoy Fish Creek & Peninsula State Park at your leisure!  Contactless self checkout.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

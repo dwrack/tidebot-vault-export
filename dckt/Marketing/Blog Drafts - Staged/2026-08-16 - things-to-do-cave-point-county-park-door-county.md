@@ -229,7 +229,7 @@ A short list, because it matters: don't climb down the cliff face from below to 
 
 ## The version most people miss
 
-Most visitors do the overlook walk, take the photo, and leave without ever seeing what's actually inside those cliffs. If you want the version of Cave Point our guides see almost every day, book the [2-hour Cave Point kayak tour](https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/) or the [half-day tour](https://www.doorcountykayaktours.com/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/) if you want Whitefish Dunes, a picnic, and the caves in one trip. Door County Kayak Tours has run this exact shoreline for years, and we're sitting on a 4.9-star average across 800+ reviews built mostly by people who thought the overlook trail was the whole park until they got in a boat.
+Most visitors do the overlook walk, take the photo, and leave without ever seeing what's actually inside those cliffs. If you want the version of Cave Point our guides see almost every day, book the [2-hour Cave Point kayak tour](https://www.doorcountykayaktours.com/kayak-tours/cave-point-county-park/) or the [half-day tour](https://www.doorcountykayaktours.com/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/) if you want Whitefish Dunes, a picnic, and the caves in one trip. Door County Kayak Tours has run this exact shoreline for years, and we're sitting on a 4.9-star average across 1,000+ reviews built mostly by people who thought the overlook trail was the whole park until they got in a boat.
 ```
 
 ---

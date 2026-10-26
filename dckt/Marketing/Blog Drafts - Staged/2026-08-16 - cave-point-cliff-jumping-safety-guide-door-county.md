@@ -249,7 +249,7 @@ Most people who want to see Cave Point's cliffs up close aren't actually chasing
 
 Our guided [internal link: Cave Point kayak tour → /cave-point-kayak-tour/] puts you at the base of the [internal link: sea caves → /cave-point-sea-caves/], underneath the same cliffs people climb up to jump from, minus the guessing about depth. No cliff, no climb, no ankle roll on the way out. Just the water, the caves, and a guide who's paddled this shoreline enough times to know exactly where the rock sits.
 
-One of our longtime guides, Jackson, put it best after a summer of watching the jump crowd from the water: "I've paddled under those cliffs a thousand times. I've never once needed to climb up on them to feel like I saw something amazing." Door County Kayak Tours runs a 4.9-star average across 800+ reviews built on that same idea, showing people the caves properly instead of talking them into a risk we wouldn't take ourselves.
+One of our longtime guides, Jackson, put it best after a summer of watching the jump crowd from the water: "I've paddled under those cliffs a thousand times. I've never once needed to climb up on them to feel like I saw something amazing." Door County Kayak Tours runs a 4.9-star average across 1,000+ reviews built on that same idea, showing people the caves properly instead of talking them into a risk we wouldn't take ourselves.
 
 We're not the outfitter that's going to hype up cliff jumping for views. We're the one that would rather show you the same cliffs from underneath, where we actually know what's there.
 ```

@@ -223,7 +223,7 @@ Also leans Whitefish Dunes, mostly because of the shallow, gradual beach entry a
 
 ## Best for first-timers to Door County
 
-Cave Point. If you're new to the peninsula and only have one park in you, this is the one that actually looks like Door County in every photo you've seen before you got here. Our guides paddle guests underneath these exact cliffs on the [internal link: Cave Point kayak tour → /cave-point-kayak-tour/], right into the [internal link: sea caves → /cave-point-sea-caves/], which is the version of this park most day visitors from the overlook trail never get to see. Door County Kayak Tours has run that exact route long enough to carry a 4.9-star average across 800+ reviews, mostly from guests who started out just as confused about which park was which as you might be right now.
+Cave Point. If you're new to the peninsula and only have one park in you, this is the one that actually looks like Door County in every photo you've seen before you got here. Our guides paddle guests underneath these exact cliffs on the [internal link: Cave Point kayak tour → /cave-point-kayak-tour/], right into the [internal link: sea caves → /cave-point-sea-caves/], which is the version of this park most day visitors from the overlook trail never get to see. Door County Kayak Tours has run that exact route long enough to carry a 4.9-star average across 1,000+ reviews, mostly from guests who started out just as confused about which park was which as you might be right now.
 
 ## Do both, they're a five-minute drive apart
 

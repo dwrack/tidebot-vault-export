@@ -1,0 +1,117 @@
+{
+ "format": "functional",
+ "type": "review-spotlight",
+ "mentor": "Bencivenga",
+ "title": "What Houston Groups Say After the Cruise",
+ "brand": "hpb",
+ "round": 2,
+ "why": "Proof carousel for warm leads comparing options: real Google review lines, trimmed, no staff names.",
+ "hook_options": [
+  "4.9 stars from 981 Google reviews. Here are the good lines.",
+  "We read the reviews so you don't have to.",
+  "What people say on the ride home."
+ ],
+ "caption": "We went through our Google reviews and pulled the lines that tell you what the cruise is actually like. Spoiler: it's mostly about the playlist and the sunset. Real reviews, first names only. ⭐🎶🌅\n\n#houston #clearlake #kemah #houstonbachelorette #partyboat #byob #houstontx #thingstodoinhouston",
+ "slides": [
+  {
+   "n": 1,
+   "layout": "hook",
+   "tone": "indigo",
+   "kicker": "REAL REVIEWS",
+   "headline": "4.9 stars. 981 Google reviews.",
+   "body": "We pulled the lines that tell you what a cruise on Clear Lake is really like.",
+   "photo": "clear-lake-party-barge-friends-cans-on-deck.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/clear-lake-party-barge-friends-cans-on-deck.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 2,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "SABRINA K.",
+   "headline": "\"It was a party!!\"",
+   "body": "\"As soon as we boarded, I immediately got my phone connected to the Bluetooth speaker and it was a party!!\""
+  },
+  {
+   "n": 3,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "THE TAKEAWAY",
+   "headline": "Your phone. Your playlist. From the dock.",
+   "body": "Every boat has a Bluetooth speaker. Whoever connects first runs the music, so decide that in the group chat.",
+   "photo": "clear-lake-party-barge-group-cheers-cooler.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/clear-lake-party-barge-group-cheers-cooler.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 4,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "SHARON M.",
+   "headline": "\"We filled the barge with ladies.\"",
+   "body": "\"Music, singing, booze, bird and dolphin watching, beautiful breeze, fun, and a great crew!\""
+  },
+  {
+   "n": 5,
+   "layout": "photo",
+   "tone": "indigo",
+   "kicker": "THE HONEST PART",
+   "headline": "Dolphins happen. We can't promise them.",
+   "body": "Clear Lake runs out to Galveston Bay. Birds are a given. Dolphins show up on their own schedule.",
+   "photo": "party-barge-girls-trip-clear-lake.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-girls-trip-clear-lake.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 6,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "KALEIGH A.",
+   "headline": "\"We could bring our own drinks.\"",
+   "body": "\"We booked during sunset and it was beautiful. Definitely recommend for a good time especially if you have a large group.\""
+  },
+  {
+   "n": 7,
+   "layout": "split",
+   "tone": "indigo",
+   "kicker": "THE TAKEAWAY",
+   "headline": "Book the sunset slot first.",
+   "body": "The reviews that mention sunset all say the same thing. Those slots go before anything else does.",
+   "photo": "kemah-sunset-party-barge-cruising.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/kemah-sunset-party-barge-cruising.jpg",
+   "pos": "center",
+   "dark": false
+  },
+  {
+   "n": 8,
+   "layout": "point",
+   "tone": "green",
+   "kicker": "VICTORIA M.",
+   "headline": "\"A boat ride was a must.\"",
+   "body": "\"My girls and I came into town for a trip and a boat ride was a must. We definitely plan to come again.\""
+  },
+  {
+   "n": 9,
+   "layout": "point",
+   "tone": "indigo",
+   "kicker": "THE PATTERN",
+   "headline": "Nobody reviews the boat specs.",
+   "body": "They write about who they brought, what played, and what the sky did. That's the cruise."
+  },
+  {
+   "n": 10,
+   "layout": "cta",
+   "tone": "green",
+   "kicker": "",
+   "headline": "Go earn your own review.",
+   "body": "Public cruises or the whole boat out of Seabrook. Save this for the group chat. houstonpedalbarge.com",
+   "photo": "party-barge-friends-clear-lake-afternoon.jpg",
+   "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Houston Pedal Barge/Assets/Carousel Picks/party-barge-friends-clear-lake-afternoon.jpg",
+   "pos": "center",
+   "dark": false
+  }
+ ]
+}

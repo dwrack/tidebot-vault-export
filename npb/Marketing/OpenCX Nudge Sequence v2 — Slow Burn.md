@@ -1,5 +1,7 @@
 # OpenCX Nudge Sequence v2 — Slow Burn
 
+> **CURRENT STATUS (verified 2026-10-19):** the 3-min "Are you still there?" nudge is now OFF (deactivated 2026-10-19). 2h and 20h nudges being replaced, see [[OpenCX DM Follow-ups — Redesign (Oct 2026)]]. Everything below is history.
+
 *Built 2026-08-28 from the live nudge performance data in [[Why NPB Leads Ghost — OpenCX Data (Aug 2026)]]. Nothing here sends until David approves the copy.*
 
 ---

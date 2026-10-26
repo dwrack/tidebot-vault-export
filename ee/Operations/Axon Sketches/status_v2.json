@@ -1,0 +1,87 @@
+{
+ "rev": "05",
+ "date": "Sat Oct 24 2026",
+ "next": "Sat Oct 31",
+ "model": "Rooms 8.5 x 12 ft, schematic placement",
+ "alt": "Hand-sketched isometric of the two V2 private saunas on the 18 x 36 ft float, from the Rev AH coordination set: black metal shed roofs with stovepipes, the 6 ft front fence, the privacy wall on the center line, the East round window and zen deck with the bonsai garden.",
+ "caption": "Four layers pulled apart: platform and tile, interior, walls, roof. Dashed outline between the rooms is the future cold plunge. Dashed line inside the walls is the flat ceiling at 7 ft to 7 ft 4 in that we are asking Grant for. Door, window and stove positions are schematic until Grant's CAD is final.",
+ "key": [
+  {
+   "t": "Floating platform",
+   "d": "Both rooms sit on one platform west of the extension dock, on TC Diving floats."
+  },
+  {
+   "t": "Future cold plunge",
+   "d": "The enclosed court between the rooms, lockable gate now."
+  },
+  {
+   "t": "Tile floors",
+   "d": "89 x 113 in per room, about 155 sq ft ordered for both."
+  },
+  {
+   "t": "Cedar benches",
+   "d": "On-site cedar, decided 10/16. Upper bench drawn 4 ft deep, lower bench 16 in."
+  },
+  {
+   "t": "Torch TS-85F gas stove",
+   "d": "21 in x 12 in. Needs 12 in clearance on three sides and a guard: two rails 8 in apart, top rail 28 in off the floor."
+  },
+  {
+   "t": "Non-combustible wall",
+   "d": "Fiber cement about 2 ft wide, floor to ceiling, behind the stove."
+  },
+  {
+   "t": "Short glass door",
+   "d": "Rough opening 27.5 x 83.5 in. Shorter on purpose to hold heat, with a heat shield above."
+  },
+  {
+   "t": "East room, Sunrise",
+   "d": "60 in round window facing the mountain."
+  },
+  {
+   "t": "West room, Sunset",
+   "d": "Near-floor-to-ceiling 40 in glass on two adjacent sides."
+  },
+  {
+   "t": "Shed roof",
+   "d": "Black metal, 3 ft front overhang."
+  },
+  {
+   "t": "Metal roof, pending",
+   "d": "Dashed seams mean not on yet. Cameron (father and son) roofs it, about $9.6K bundled with the ADU."
+  },
+  {
+   "t": "Stovepipe",
+   "d": "Double-wall inside, 6 in DuraTech above the roof. One per room."
+  }
+ ],
+ "layers": [
+  {
+   "t": "Platform and tile",
+   "d": "Tile order is placed from the 10/15 math.",
+   "s": "todo",
+   "label": "tile pending"
+  },
+  {
+   "t": "Interior",
+   "d": "Cedar benches, stove, guard, fiber cement.",
+   "s": "todo"
+  },
+  {
+   "t": "Walls",
+   "d": "Framing done, exterior T&G going up.",
+   "s": "wip"
+  },
+  {
+   "t": "Roof",
+   "d": "Sheathed. Ceiling T&G, stovepipes, metal roof, siding in that order.",
+   "s": "wip"
+  }
+ ],
+ "notes": [
+  "Rev 05: five views drawn over the newest coordination set model (Rev AH, 10/22), to scale. Nothing added by hand.",
+  "New since last sketch: West stove-side window to the floor (AE), fire pit gas stubs on each private deck (AF), stove corner finish picked (AG). Build status unchanged from the 10/15 walk.",
+  "Still open: Torch has to OK 6 in clearance and the floor-level glass for the TS-85F in writing; Grant to tape the stove collar height."
+ ],
+ "foot": "Source: Assets/V2 Build Drawings/, newest Coordination Set \u00b7 redrawn every Saturday morning"
+}

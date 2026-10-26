@@ -1,0 +1,127 @@
+{
+ "url": "https://www.doorcountykayaktours.com/about-us/",
+ "slug": "about-us",
+ "title": "About Us | Door County Kayak Tours",
+ "meta_description": "Top-notch equipment, timely itineraries, & picturesque photo packages make us the best choice for kayak, SUP, & quad bike activities in Door County, Wisconsin.",
+ "canonical": "https://www.doorcountykayaktours.com/about-us/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "About Us | Door County Kayak Tours",
+  "twitter:title": "About Us",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/about-us/",
+  "twitter:url": "https://www.doorcountykayaktours.com/about-us/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/BA7200C0-7B95-4A0F-A084-53D4C0EFD38C.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/BA7200C0-7B95-4A0F-A084-53D4C0EFD38C.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/BA7200C0-7B95-4A0F-A084-53D4C0EFD38C.jpg?w=700&h=700&zoom=2",
+  "og:description": "Top-notch equipment, timely itineraries, & picturesque photo packages make us the best choice for kayak, SUP, & quad bike activities in Door County, Wisconsin.",
+  "twitter:description": "Top-notch equipment, timely itineraries, & picturesque photo packages make us the best choice for kayak, SUP, & quad bike activities in Door County, Wisconsin."
+ },
+ "h1": [
+  "About Us"
+ ],
+ "h2": [],
+ "h3": [
+  "Play. Work. Relax. Enjoy.",
+  "Kayak Tours and Paddle Board Directory",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/kitejump-david.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_7214.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_8198.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_7394.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/F4FCA2DB-2036-4E00-B9E3-AFE1B45FDDC01.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_7259.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0003.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_8249.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_8185.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_8213.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/05/DCKT-logo-for-truck-01-e1590500570631.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/BA7200C0-7B95-4A0F-A084-53D4C0EFD38C.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 14,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/about-us/",
+     "name": "About Us"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/cdn-cgi/l/email-protection#a6cfc8c0c9e6c2c9c9d4c5c9d3c8d2dfcdc7dfc7cdd2c9d3d4d588c5c9cb",
+  "https://www.doorcountykayaktours.com/gallery/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjFsOgjAQAC9k3Wp4hA/iWZa6wJa+sq0Qbq9yg37OJDNwJGViKBQKlJU8ZZhRaEWZoqjM5SemD7s32AwX3m2+QVXl2GyKPS6kFnSO5Kx+JOEdzb97+fHRD0+tddc29gsYr0Z/",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 140,
+ "body_text": "About Us\n\n Play. Work. Relax. Enjoy. \n\n It is not about me; it is the guides who make your experience memorable! Our guides work with us long-term, even in our very seasonal industry. Our top-notch equipment, timely itineraries, and picturesque photo opportunities attract extraordinary guides — many of whom are highly sought after in the industry and who have stayed with us for years. Even guides who travel to work in other areas often return to Door County Kayak Tours, LLC. for the same reason: We love what we do.\n\n View Gallery\n\n Kayak Tours and Paddle Board Directory\n\n Would you like to add a link to our site from yours? Just follow these steps!\n\nSend a note about your company to  [email protected]\n\nLet us know the page where you linked to us\n\nWe’ll gladly add your company to our list.",
+ "youtube": []
+}

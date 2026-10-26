@@ -1,0 +1,165 @@
+{
+ "url": "https://www.doorcountykayaktours.com/peninsula-state-park-fat-tire-e-bike-tour/",
+ "slug": "peninsula-state-park-fat-tire-e-bike-tour",
+ "title": "Peninsula State Park Fat Tire E-Bike Tour",
+ "meta_description": "Cruise through Sunset Trail in Peninsula State Park via Electric Fat Tire Bike with a guide. See grandiose and picturesque views over the Niagra Escarpement.",
+ "canonical": "https://www.doorcountykayaktours.com/peninsula-state-park-fat-tire-e-bike-tour/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Peninsula State Park Fat Tire E-Bike Tour",
+  "twitter:title": "Peninsula State Park Fat Tire E-Bike Tour",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/peninsula-state-park-fat-tire-e-bike-tour/",
+  "twitter:url": "https://www.doorcountykayaktours.com/peninsula-state-park-fat-tire-e-bike-tour/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg?w=700&h=700&zoom=2",
+  "og:description": "Cruise through Sunset Trail in Peninsula State Park via Electric Fat Tire Bike with a guide.  See grandiose and picturesque views over the Niagra Escarpement.",
+  "twitter:description": "Cruise through Sunset Trail in Peninsula State Park via Electric Fat Tire Bike with a guide.  See grandiose and picturesque views over the Niagra Escarpement."
+ },
+ "h1": [
+  "Peninsula State Park Fat Tire E-Bike Tour"
+ ],
+ "h2": [
+  "Quick Details",
+  "Explore several landmarks at Peninsula State Park on this E-bike tour"
+ ],
+ "h3": [
+  "From :",
+  "From :",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/D320B382-4A78-4BE9-A827-A24B8AEEEFB8-scaled.jpeg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/sunset-trail.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IS521gcqaj3na31000000000.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Kayaker-Jumping-with-top-shadow.png",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 9,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/peninsula-state-park-fat-tire-e-bike-tour/",
+     "name": "Peninsula State Park Fat Tire E Bike Tour"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=SITE",
+    "item_id": "208419",
+    "item_name": "Peninsula State Park Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=SITE",
+    "item_id": "156126",
+    "item_name": "Cave Point / Whitefish Dunes 1/2 Day Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "156126",
+   "208419",
+   "208420",
+   "221394",
+   "5669"
+  ],
+  "all_item_ids_on_page": [
+   "156126",
+   "208419",
+   "208420",
+   "221394",
+   "5669",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/activities/e-bike-rental/",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/cave-point-whitefish-dunes-half-day-kayak-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156126/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208419/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjUsOgzAMBS/U1KEqIBaoZ3GCAYcEkBOKuD2fG2Q5T5o3sK/KLnOiOUEaKVCEHoVGFLOIipyuwWzsO3ARHny7+IIsy7OdFAccSA3oPcmR/8EdGZRsbxX+o717v9AWdfPRWlfl150/IFud",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 644,
+ "body_text": "Peninsula State Park Fat Tire E-Bike Tour\n\n Book Now\n\n From : \n\n $\n 99\n\n Quick Details\n\n Duration:\n 2.5 hours\n\n Availability:\n Year Round\n\n Equipment:\n Clean & Safe\n\n Fish Creek:\n Start at 8442 HWY 42 Juddville, WI 54212\n\n Things to bring:\n We will provide the bike and helmets; you just need to bring your excitement and get ready for a good time! \n\n During this incredible e-bike tour you will begin exploring some of the coastal roads on your way into Fish Creek, then cruise straight through Fish Creek and into Peninsula State Park for some exploration of the iconic Door County views including Horseshoe, Chambers, and Strawberry Islands.\n\n From : \n\n $\n 99\n\n Explore several landmarks at Peninsula State Park on this E-bike tour\nDiscover the natural beauty of Peninsula State Park on a fun Door County E-bike tour! This tour takes you to one of the most popular state parks in Wisconsin,\n\nThe Skyline Road and Sunset trail in Peninsula State Park have the best views of any of the Door County State Parks. Come see for yourself on this Door County e-bike tour.\n\nDiscover the history of the area and experience the beauty of the park and Fish Creek on this e-bike tour. We stop at several water views that give you magnificent views of Green Bay and the islands off the shore including Chambers, Horseshoe, and the Strawberry Islands.\n\nThe Ebike will carry you effortlessly up and down the hills on our most popular tour. This is the best way to see Peninsula State Park without spending too much time or having to walk too far.\n\n Related Activities\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n 4+\n\n Cave Point and Whitefish Dunes 1/2 Day Kayak Tour\n\n ✅ 4 hrs · 🛶 Guided & Beginner Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 5 min drive to launch\n🚐 Transportation Provided\n🥾 Includes Break + Short Hike + Optional Cliff Jumping(when water height is appropriate)\n🧺 Locally Sourced Picnic\n\nA full-on Door County immersion. Ideal for explorers, photographers, and anyone craving a deeper connection with nature.\n\n Book Now\n\n Learn More\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

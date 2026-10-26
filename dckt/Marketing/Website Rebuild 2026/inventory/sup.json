@@ -1,0 +1,98 @@
+{
+ "url": "https://www.doorcountykayaktours.com/sup/",
+ "slug": "sup",
+ "title": "SUP Activities | Door County Kayak Tours",
+ "meta_description": "Stand-up paddle boarding (SUP) is one of the newest and fastest growing water sports in the world. Enjoy our Wisconsin SUP tours, yoga, and rentals. Learn more.",
+ "canonical": "https://www.doorcountykayaktours.com/sup/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "SUP Activities | Door County Kayak Tours",
+  "twitter:title": "SUP",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/sup/",
+  "twitter:url": "https://www.doorcountykayaktours.com/sup/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0048-e1550786603629.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0048-e1550786603629.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0048-e1550786603629.jpg?w=700&h=700&zoom=2",
+  "og:description": "Stand-up paddle boarding (SUP) is one of the newest and fastest growing water sports in the world. Enjoy our Wisconsin SUP tours, yoga, and rentals. Learn more.",
+  "twitter:description": "Stand-up paddle boarding (SUP) is one of the newest and fastest growing water sports in the world. Enjoy our Wisconsin SUP tours, yoga, and rentals. Learn more."
+ },
+ "h1": [
+  "SUP Activities"
+ ],
+ "h2": [
+  "Paddleboarding in Door County, WI"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_0319-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/DSC_0048-e1550786603629.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/sup/",
+     "name": "Sup"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5896/calendar/?ref=SITE",
+    "item_id": "5896",
+    "item_name": "Paddle Board Rental",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "5896"
+  ],
+  "all_item_ids_on_page": [
+   "5784",
+   "5896"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/sup/paddle-board-rental/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5896/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 90,
+ "body_text": "SUP Activities\n\n Paddleboarding in Door County, WI\n\n Stand-up paddle boarding (SUP) is one of the newest and fastest-growing water sports in the world! Learn it easily with our knowledgeable instructors and beginner boards, rent a board to explore on your own time, or enjoy a relaxing SUP yoga class on the water.\n\n SUP Rental\n\n From\n\n $80\n\n 1, 3, or 7 days\n\n SUP Rental\n\n Stand-up paddle boarding (SUP) is one of the fastest-growing water sports in the world. Rent a paddle board and cruise on your own!\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

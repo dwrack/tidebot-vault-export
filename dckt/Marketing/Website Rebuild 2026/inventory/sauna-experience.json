@@ -1,0 +1,130 @@
+{
+ "url": "https://www.doorcountykayaktours.com/sauna-experience/",
+ "slug": "sauna-experience",
+ "title": "Door County Sauna Experience | Door County Kayak Tours",
+ "meta_description": "✅ 2 hours · Relaxation & Wellness🌿 Tranquil🔥 Traditional Wood-Fired Sauna & Cold Plunge in the snow (winter) and Ice water (summer)🌟…",
+ "canonical": "https://www.doorcountykayaktours.com/sauna-experience/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Social Sauna",
+  "twitter:title": "Door County Sauna Experience",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/sauna-experience/",
+  "twitter:url": "https://www.doorcountykayaktours.com/sauna-experience/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/12/IMG_8824.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/12/IMG_8824.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/12/IMG_8824.jpg?w=700&h=700&zoom=2",
+  "og:description": "Meet new friends, Silent sauna times, communal sauna times, dancing sauna parties and more.  Ditch the bar and elevate the mind / body with this beautiful airstream sauna.",
+  "twitter:description": "Meet new friends, Silent sauna times, communal sauna times, dancing sauna parties and more.  Ditch the bar and elevate the mind / body with this beautiful airstream sauna."
+ },
+ "h1": [
+  "Door County Sauna Experience"
+ ],
+ "h2": [
+  "Quick Details"
+ ],
+ "h3": [
+  "Social",
+  "Private",
+  "Social",
+  "Private",
+  "Ready to Recharge?",
+  "Sauna Use Restrictions",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2025/01/Airstream-Sauna-Rental-image-1.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2025/01/Airstream-Sauna-Rental-image-2.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/12/IMG_8730.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2025/01/Airstream-Sauna-Rental-image-4.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/09/Sauna-Tent-Rental-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2024/12/IMG_8824.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 7,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/sauna-experience/",
+     "name": "Sauna Experience"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584699/calendar/?ref=SITE",
+    "item_id": "584699",
+    "item_name": "Door County Sauna Experience",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/578353/calendar/?ref=SITE",
+    "item_id": "578353",
+    "item_name": "Sauna Tent Rental",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "578353",
+   "584699"
+  ],
+  "all_item_ids_on_page": [
+   "578353",
+   "5784",
+   "584699"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/airstream-sauna-rental/",
+  "/sauna-tent-rental/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/578353/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/584699/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjUsOgzAMBS/U1KEqIBaoZ3GCAYcEkBOKuD2fG2Q5T5o3sK/KLnOiOUEaKVCEHoVGFLOIipyuwWzsO3ARHny7+IIsy7OdFAccSA3oPcmR/8EdGZRsbxX+o717v9AWdfPRWlfl150/IFud",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 578,
+ "body_text": "Door County Sauna Experience\n\n Book Now\n\n Social\n\n $\n 45\n\n Private\n\n $\n 369\n\n Quick Details\n\n Cost:\n $45\n\n 75 minute sauna:\n Session lasts 2 hours, ~ Sauna time 75 minutes. You are welcome to hang out before or after.\n\n A 75 minute guided sauna experience with your friends(private available) or some new friends.\n\nLocation: Ironwood Studio 10559 Country Walk Dr, Sister Bay, WI 54234\n\nWhat to Bring\n\nTowel and robe or dry change of clothes\n\nSwimsuit\n\nWater bottle (hydration is key!)\n\nFlip-flops or water-safe footwear\n\n Social\n\n $\n 45\n\n Private\n\n $\n 369\n\n Discover True Relaxation in Nature’s Embrace\n\nStep away from everyday stress and immerse yourself in the peaceful beauty of Door County’s forests and lakes. Our traditional wood-fired Finnish sauna offers a rejuvenating escape that blends cultural tradition with natural wellness. Feel the tension melt away as you enjoy the soothing heat, then refresh your senses with a brisk cold plunge—an invigorating practice proven to boost circulation and promote overall health.\n\nWhat’s Included\n\nAccess to a private wood-fired sauna\n\nOptional cold plunge experience in a natural or controlled setting\n\nOverview of sauna benefits and usage for first-timers\n\nScenic forest or lakefront setting for maximum tranquility\n\nWhy Choose Our Sauna Experience?\n\nAuthentic: Wood-fired sauna inspired by Finnish tradition\n\nScenic: Nestled in the quiet beauty of Door County\n\nRestorative: Promotes deep relaxation, better sleep, and circulation\n\nPerfect For: Solo guests, couples, or small wellness-focused groups\n\nReady to Recharge?\nReclaim your calm in Door County’s most peaceful natural setting. Book your sauna session now and give yourself the gift of pure relaxation.\n\nSauna Use Restrictions\n\nDo not use the sauna if you are pregnant, unless approved by a physician.\n\nIndividuals with heart disease, high/low blood pressure, respiratory conditions, or circulatory problems should consult a doctor before use.\n\nNo sauna use under the influence of alcohol, drugs, or medications that impair sweating or awareness.\n\nDo not use the sauna if you are ill, dehydrated, or have a fever.\n\nChildren should not use the sauna unless supervised and approved by a guardian/physician.\n\nLimit sessions to 10–20 minutes at a time; exit immediately if dizziness, nausea, or discomfort occurs.\n\nNo food, glass containers, or electronic devices allowed inside the sauna.\n\nShower before entering; proper attire or towels required.\n\nDo not pour water or substances on heating elements unless explicitly permitted.\n\nRe-entry after cooling down is allowed only if you feel well.\n\n Related Activities\n\n Sauna Tent Rental\n\n Healthy family connection\n\n From\n\n $179\n\n 1 day\n\n 6 years & up\n\n Sauna Tent Rental\n\n ✅ Relaxation & Wellness\n🌿 Tranquil\n📍 Pickup in Jacksonport\n🔥 Traditional Wood-Fired Sauna\n🌟 Guest Favorite for Rejuvenation\n🌲 Setup in a picturesque spot on the Peninsula\n\nExperience ultimate relaxation with our convenient sauna tent rentals. A great opportunity to pair with an E-bike.  Cruise through picturesque Cave Point County Park and set up your Sauna Tent on the beach at iconic Whitefish Dunes State Park. Cold plunge in Lake Michigan!\n\n Book Now\n\n Learn More\n\n Door County Private Sauna Airstream Rental\n\n Rent Me\n\n 2 hours\n\n 18 years & up\n\n Door County Private Sauna Airstream Rental\n\n Up to 10 of your friends or family.\n\nThe quintessential Wisconsin experience. A fun and joyful experience for adults, in the heart of winter. \n\nEnjoy the conversations around the fires, build resilience, and release stress and tension in your mind and body.\n\n Whether you’re a solo adventurer part of a group, or looking for some quality family time, there’s always something happening with the Airstream Sauna.\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

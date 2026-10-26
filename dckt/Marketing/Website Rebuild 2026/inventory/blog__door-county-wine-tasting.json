@@ -1,0 +1,109 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/door-county-wine-tasting/",
+ "slug": "blog__door-county-wine-tasting",
+ "title": "The 3 Best Door County Wine Tasting Spots | Door County Kayak Tours",
+ "meta_description": "Door County  Wine Tasting So get back from your kayak tour, saddle up to the wine bar and have a wine tasting at one of the great wineries in Door county. One of there wines…",
+ "canonical": "https://www.doorcountykayaktours.com/blog/door-county-wine-tasting/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "The 3 Best Door County Wine Tasting spots",
+  "twitter:title": "The 3 Best Door County Wine Tasting spots",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/door-county-wine-tasting/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/door-county-wine-tasting/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=700&h=700&zoom=2",
+  "og:description": "Door County  Wine Tasting So get back from your kayak tour, saddle up to the wine bar and have a wine tasting at one of the great wineries in Door county. One of there wines has a full taste of Door county cherries, though I…",
+  "twitter:description": "Door County  Wine Tasting So get back from your kayak tour, saddle up to the wine bar and have a wine tasting at one of the great wineries in Door county. One of there wines has a full taste of Door county cherries, though I…"
+ },
+ "h1": [
+  "The 3 Best Door County Wine Tasting spots"
+ ],
+ "h2": [
+  "Door County Wine Tasting"
+ ],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The 3 Best Door County Wine Tasting spots",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "May  2, 2008",
+   "dateModified": "May 2, 2008",
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_4905.jpg?w=1000&h=1000&zoom=2",
+    "width": 1000,
+    "height": 667
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/door-county-wine-tasting/",
+     "name": "Door County Wine Tasting"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/door-county-t-shirts/",
+  "/blog/leisurely-paddle-down-mud-lake/",
+  "/cdn-cgi/l/email-protection#407f3335222a2523347d032825232b6572702f35346572706572721428256572707365727002253334657270042f2f32657270032f352e343965727017292e2565727014213334292e2765727033302f34336572726572702134657270042f2f32657270032f352e34396572700b2139212b657270142f35323365700465700128343430336573016572066572063737376e242f2f32232f352e34392b2139212b342f3532336e232f2d657206222c2f27657206242f2f326d232f352e34396d37292e256d34213334292e2765720666212d307b222f24397d1428256572707365727002253334657270042f2f32657270032f352e343965727017292e2565727014213334292e2765727033302f34336572706d657270042f2f32657270032f352e34396572700b2139212b657270142f35323365700465700128343430336573016572066572063737376e242f2f32232f352e34392b2139212b342f3532336e232f2d657206222c2f27657206242f2f326d232f352e34396d37292e256d34213334292e27657206",
+  "https://twitter.com/share?text=Check%20this%20out%21%20The%203%20Best%20Door%20County%20Wine%20Tasting%20spots%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Fdoor-county-wine-tasting%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 90,
+ "body_text": "Back to Blog\n\n The 3 Best Door County Wine Tasting spots\n\n Door County  Wine Tasting\nSo get back from your kayak tour, saddle up to the wine bar and have a wine tasting at one of the great wineries in Door county.\n\nOne of there wines has a full taste of Door county cherries, though I am not a huge fan of most sweet wines and especially those trying to achieve Door County Cherry status, “door county cliche’.\n\nList coming soon.\n\n Posted in: \n\n Kayaking\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post",
+ "youtube": []
+}

@@ -1,0 +1,81 @@
+{
+ "rev": "04",
+ "date": "Sat Oct 24 2026",
+ "next": "Sat Oct 31",
+ "model": "Schematic massing, not to scale",
+ "alt": "Hand-sketched isometric of The Rose v0.52: red amphitheater petals around a crown lounge, the tall jump petal, the fallen-petal slide, the stem walkway with compound leaves, people on the decks, on the river.",
+ "caption": "Four layers pulled apart vertically: float and seating, petal walls, terrace roofs, flue. Dashed verticals mark where the layers join, in the clefts between petals. Pink dots are terrace guests, 8 to 10 per petal.",
+ "key": [
+  {
+   "t": "Flue at the center",
+   "d": "The chimney is the center of the flower. Heat source is still open: custom EOS gas was the 9/26 call, but Parks fuel rules may force electric."
+  },
+  {
+   "t": "Terrace roofs",
+   "d": "Each petal roof is a flat terrace for 8 to 10 people, about 40 outside between rounds."
+  },
+  {
+   "t": "Three doors",
+   "d": "Set in the clefts where petals overlap, none beside the bridge petal."
+  },
+  {
+   "t": "Amphitheater seating",
+   "d": "Three stadium tiers step down to the fire, about 57 inside."
+  },
+  {
+   "t": "Stamen cage",
+   "d": "Twelve steel stamens fan up and out from the heater, stones clustered along them."
+  },
+  {
+   "t": "Stem slide",
+   "d": "Spirals off a petal terrace into the river."
+  },
+  {
+   "t": "Three leaf floats",
+   "d": "Swim-out landings tied to the slide by short petiole walkways."
+  },
+  {
+   "t": "Thorn sauna",
+   "d": "Small and dark, 6 to 8 people, on its own float."
+  },
+  {
+   "t": "Leaning petal walls",
+   "d": "Faceted or convex, never smooth arcs, so the round room does not focus sound."
+  },
+  {
+   "t": "Float edge",
+   "d": "Petals stay inside the float edge. Edge freeboard, not heel, is what limits crowd on the roofs."
+  }
+ ],
+ "layers": [
+  {
+   "t": "Float, pit and seating",
+   "d": "Wide circular float, sunken fire pit, three tiers per petal.",
+   "s": "todo",
+   "label": "concept"
+  },
+  {
+   "t": "Petal walls",
+   "d": "Five petals, outward lean, timber structure.",
+   "s": "todo",
+   "label": "concept"
+  },
+  {
+   "t": "Terrace roofs",
+   "d": "Flat railed decks, open oculus over the pit.",
+   "s": "todo",
+   "label": "concept"
+  },
+  {
+   "t": "Flue, slide, leaves",
+   "d": "Center flue, Stem slide, three leaf floats.",
+   "s": "todo",
+   "label": "concept"
+  }
+ ],
+ "notes": [
+  "Rev 04: drawn over the live 3D model, latest version tab v0.52. No change this week: the model file is unchanged since Oct 1 and no new design decisions were filed.",
+  "Holman is still off the record. This page stays private."
+ ],
+ "foot": "Source: Operations/The Rose/The Rose - 3D Model.html, latest version tab \u00b7 redrawn every Saturday morning"
+}

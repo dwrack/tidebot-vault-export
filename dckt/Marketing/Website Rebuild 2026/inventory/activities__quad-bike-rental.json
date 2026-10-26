@@ -1,0 +1,210 @@
+{
+ "url": "https://www.doorcountykayaktours.com/activities/quad-bike-rental/",
+ "slug": "activities__quad-bike-rental",
+ "title": "Door County Bike Rental Fat Tire E-Bikes & Quad Bikes",
+ "meta_description": "These new rentals are fun memory-makers. Choose quad bike for two or four passengers for a fun family outing in Lake Michigan. Book your quad bike rental today!",
+ "canonical": "https://www.doorcountykayaktours.com/activities/quad-bike-rental/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Door County Bike Rental Fat Tire E-Bikes & Quad Bikes",
+  "twitter:title": "Quad Bike Rental",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/activities/quad-bike-rental/",
+  "twitter:url": "https://www.doorcountykayaktours.com/activities/quad-bike-rental/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/quad-bikes-square.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/quad-bikes-square.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/quad-bikes-square.jpg?w=700&h=700&zoom=2",
+  "og:description": "New to Door County bike rentals, these quad bikes are fun memory-makers. Join us for a nice family pedal or a lakeside romantic ride. Choose a two- or four-person quad bike for an outing that’s fun for the whole family!",
+  "twitter:description": "New to Door County bike rentals, these quad bikes are fun memory-makers. Join us for a nice family pedal or a lakeside romantic ride. Choose a two- or four-person quad bike for an outing that’s fun for the whole family!"
+ },
+ "h1": [
+  "Quad Bike Rental"
+ ],
+ "h2": [
+  "Quick Details",
+  "Experience a Scenic and Peaceful Ride Along Lake Michigan"
+ ],
+ "h3": [
+  "1 Bench Surrey",
+  "1 hour",
+  "2 hours",
+  "3 hours",
+  "2 Bench Surrey",
+  "1 hour",
+  "2 hours",
+  "3 hours",
+  "4 hours",
+  "1 Bench Surrey",
+  "1 hour",
+  "2 hours",
+  "3 hours",
+  "2 Bench Surrey",
+  "1 hour",
+  "2 hours",
+  "3 hours",
+  "4 hours",
+  "What is a Quad Bike?",
+  "Check out our Fat Tire E-Bikes too!",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Quad-Bike-Rental-image-1.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/Cave-point-county-park-electric-bike-rental.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Whitefish-Bay-Dunes-State-Park-E-Bike-Tour-Rental.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/Cave-Point-Bike-Rental-Jac.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/IMG_7976-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Kayak-Rental-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/IMG_0319-scaled.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/02/Cave-Point-Ebike-Rental.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2021/05/IMG_7977-scaled-e1622217632795.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/quad-bikes-square.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 7,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/activities/",
+     "name": "Activities"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/activities/quad-bike-rental/",
+     "name": "Quad Bike Rental"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/69326/calendar/?ref=SITE",
+    "item_id": "69326",
+    "item_name": "Quad Bike Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/24268/calendar/?ref=SITE",
+    "item_id": "24268",
+    "item_name": "Kayak Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5896/calendar/?ref=SITE",
+    "item_id": "5896",
+    "item_name": "Paddle Board Rental",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=SITE",
+    "item_id": "208420",
+    "item_name": "Cave Point Fat Tire E-Bike Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=SITE",
+    "item_id": "221394",
+    "item_name": "E-Bike Rental: Cave Point / Whitefish Bay Dunes",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=SITE",
+    "item_id": "216710",
+    "item_name": "Fish Creek Sunset Glow Roll E-Bike Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "208420",
+   "216710",
+   "221394",
+   "24268",
+   "5896",
+   "69326"
+  ],
+  "all_item_ids_on_page": [
+   "208420",
+   "216710",
+   "221394",
+   "24268",
+   "5784",
+   "5896",
+   "69326"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/activities/cave-point-fat-tire-e-bike-tour/",
+  "/activities/e-bike-rental/",
+  "/kayak-rentals/",
+  "/sunset-glow-roll-e-bike-tour/",
+  "/sup/paddle-board-rental/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/208420/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/216710/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/221394/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/24268/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5896/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/69326/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjlkOwjAMBS/U1AGxiI+KsziJaR2yVI4BcXsoEgfI5xtpRg9eq/G1KBUFXShTgxsKLSiuimmsX+AenALEBr85xjZAl5XY3w1nnMnMmBLJu7/BgRxKv0deuRYKf6W7sAo/0W+Pr3nanS97a+3peIgfqQp0xw==",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 811,
+ "body_text": "Quad Bike Rental\n\n Book Now\n\n 1 Bench Surrey\n\n 1 hour\n\n $\n 30\n\n 2 hours\n\n $\n 50\n\n 3 hours\n\n $\n 70\n\n 2 Bench Surrey\n\n 1 hour\n\n $\n 40\n\n 2 hours\n\n $\n 70\n\n 3 hours\n\n $\n 100\n\n 4 hours\n\n $\n 130\n\n Quick Details\n\n Duration:\n Hourly or daily\n\n Ages:\n All Ages\n\n Optional:\n Don't feel like paying for the whole group? Just pay $5/person as a deposit and pay the remainder after the tour.\n\n Equipment:\n Clean & Safe\n\n 1 Bench Surrey\n\n 1 hour\n\n $\n 30\n\n 2 hours\n\n $\n 50\n\n 3 hours\n\n $\n 70\n\n 2 Bench Surrey\n\n 1 hour\n\n $\n 40\n\n 2 hours\n\n $\n 70\n\n 3 hours\n\n $\n 100\n\n 4 hours\n\n $\n 130\n\n Experience a Scenic and Peaceful Ride Along Lake Michigan\nNew to Door County, these quad bike rentals are fun memory-makers. Choose a two- or four-person quad bike (max. four adults with two small kids) for an outing that’s fun for the whole family! Enjoy a fun afternoon as you explore Lake Michigan on these shaded bikes.\n\nWhat is a Quad Bike?\nA quad bike is a four-wheeled, human-powered land vehicle. It is also referred to as a surrey bike, quadricycle, quadcycle, pedal car, or four-wheeled bicycle. Human-powered quad bikes have been in use since 1853 and have grown into several families of vehicles for a variety of purposes, including tourist rentals, pedal taxis, private touring, mountain, and industrial use. They’re easy to ride and a great way to explore with the family.\n\n Book Now\n\n Cancellation Policy\n\n You receive a full refund with at least 48 hours’ notice of cancellation. Contact us by phone to cancel or inquire about a cancellation. No-shows are charged the full price.\n\n Check out our Fat Tire E-Bikes too!\n\n Whitefish Bay Dunes has an amazing Red Trail, perfect for our E-bike trail! Just 3 miles from our shop!\n\n Cave Point is a perfect place to bring the Fat Tire E-bikes! Super close ride from our location!\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Learn More\n\n Related Activities\n\n Door County Kayak Rental\n\n From\n\n $110\n\n Door County Kayak Rental\n\n Looking to venture out on your own or with a group? Check out our kayak rental options. You have the ability to choose between a few hours or up to a week for whatever adventure awaits.\n\n Book Now\n\n Learn More\n\n SUP Rental\n\n From\n\n $80\n\n 1, 3, or 7 days\n\n SUP Rental\n\n Stand-up paddle boarding (SUP) is one of the fastest-growing water sports in the world. Rent a paddle board and cruise on your own!\n\n Book Now\n\n Learn More\n\n Cave Point Ebike Tour\n\n Year Round\n\n From\n\n $99\n\n 2 hours\n\n Cave Point Ebike Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n🚐 Tag alongs & trailers available\n📸 Photo-Perfect Scenery\n\nA super fun way to cruise around and see some fun insta-grammable spots during all the seasons.  Fat tire Electric bikes are a blast.  A great option when the water isn’t safe to go out on.\n\n Book Now\n\n Learn More\n\n Cave Point E-Bike Rental\n\n Tag behinds avail\n\n Trailers avail\n\n All Ages\n\n Cave Point E-Bike Rental\n\n ✅ Duration Options: 1, 2, or 3 hours\n📍 Location: Jacksonport, WI\n👨‍👩‍👧‍👦 Ages: All Ages\n🛣️ Terrain: Backroads & Bike Trails\n⚡ Speed: Up to 20 mph with pedal assist\n💲 Pricing: 1 Hr – $30 | 2 Hr – $60 | 3 Hr – $90\n\nDiscover the natural beauty of Door County with an e-bike rental! Hop on one of our comfortable, eco-friendly e-bikes and cruise through scenic routes to Cave Point County Park and Whitefish Bay Dunes State Park. Whether you’re looking to enjoy the peaceful trails or take in the stunning views of Lake Michigan, our e-bikes make exploring these beautiful destinations effortless and fun.\n\n Book Now\n\n Learn More\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n From\n\n $99\n\n 1.5 - 2 Hours\n\n Fish Creek Sunset Glow Roll E-bike Tour\n\n A sunset glow roll! What could be better?! This is a perfect way to explore Fish Creek and Peninsula State Park at night, with some awesome light-up bikes and disco lights! Tour will include some awesome photo ops, incredibly cool bikes, and of course a great sunset! Join us Today!\n\n Book Now\n\n Learn More",
+ "youtube": []
+}

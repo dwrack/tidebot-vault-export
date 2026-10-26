@@ -1,0 +1,142 @@
+{
+ "url": "https://www.doorcountykayaktours.com/kayak-tours/cana-island-lighthouse-kayak-tour/",
+ "slug": "kayak-tours__cana-island-lighthouse-kayak-tour",
+ "title": "Cana Island Lighthouse 1/2 Day Kayak Tour",
+ "meta_description": "This kayak tour lasts a little longer than our normal kayak tour due to the stop off at the lighthouse, picnic and tour of the lighthouse.",
+ "canonical": "https://www.doorcountykayaktours.com/kayak-tours/cana-island-lighthouse-kayak-tour/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Cana Island Lighthouse Extended Kayak Tour ",
+  "twitter:title": "Cana Island Lighthouse Extended Kayak Tour",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/kayak-tours/cana-island-lighthouse-kayak-tour/",
+  "twitter:url": "https://www.doorcountykayaktours.com/kayak-tours/cana-island-lighthouse-kayak-tour/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/cana.png?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/cana.png?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/cana.png?w=700&h=700&zoom=2",
+  "og:description": "This kayak tour lasts a little longer than our normal kayak tour due to the stop off at the lighthouse, picnic and tour of the lighthouse.",
+  "twitter:description": "This kayak tour lasts a little longer than our normal kayak tour due to the stop off at the lighthouse, picnic and tour of the lighthouse."
+ },
+ "h1": [
+  "Cana Island Lighthouse Extended Kayak Tour"
+ ],
+ "h2": [
+  "Quick Details"
+ ],
+ "h3": [
+  "Person",
+  "Person",
+  "Come Join Us On Our NEW Cana Island Getaway!",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/Cana-Island-Lighthouse-Kayak-Tour-image-1.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/cana-island-lighthouse-e1557433919779.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/04/cana.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Bluff-Shipwreck-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 6,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/kayak-tours/",
+     "name": "Kayak Tours"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/kayak-tours/cana-island-lighthouse-kayak-tour/",
+     "name": "Cana Island Lighthouse Kayak Tour"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/149338/calendar/?ref=SITE",
+    "item_id": "149338",
+    "item_name": "Cana Island Lighthouse 1/2 Day Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=SITE",
+    "item_id": "23855",
+    "item_name": "Door Bluff Shipwreck Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "149338",
+   "23855",
+   "5669"
+  ],
+  "all_item_ids_on_page": [
+   "149338",
+   "23855",
+   "5669",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/door-bluff-county-park-shipwreck/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/149338/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "mailto:info@doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjlkOwjAMBS/U1AGxiI+KsziJaR2yVI4BcXsoEgfI5xtpRg9eq/G1KBUFXShTgxsKLSiuimmsX+AenALEBr85xjZAl5XY3w1nnMnMmBLJu7/BgRxKv0deuRYKf6W7sAo/0W+Pr3nanS97a+3peIgfqQp0xw==",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 774,
+ "body_text": "NEW!\n\n Extended Tour\n\n Lighthouse Tour\n\n Locally Sourced Picnic\n\n Cana Island Lighthouse Extended Kayak Tour\n\n Starting at $110 | ~4 Hours\n\n Email to Book\n\n Person\n\n $\n 110\n\n Quick Details\n\n Duration:\n 4 hours\n\n Ages:\n 4+\n\n Availability:\n June through September\n\n Optional:\n Don't feel like paying for the whole group? Just pay $5/person as a deposit and pay the remainder after the tour.\n\n Equipment:\n Clean & Safe\n\n Person\n\n $\n 110\n\n Come Join Us On Our NEW Cana Island Getaway!\nFrom beautiful scenery to local delicacies, our Cana Island tour provides the all-inclusive Door County experience that you have been searching for! A calming paddle to a secluded island lighthouse is perfect for a romantic getaway, your day off, or a much needed vacation! This extended experience includes a tour of one of Door County’s historic lighthouses, a locally provided picnic, and a scenic paddle around the crystal island waters.\n\nThis half-day tour truly captures the essence of Door County through the history, cuisine, and scenery that will have you planning your next trip before your tour ends!\n\n Book Now\n\n What You Should Bring\n\nHat\n\nSunglasses\n\nSunscreen\n\nChange of clothes\n\nWater\n\nLight layered synthetic clothing if it is a bit cool or windy.\n\n Where We Meet\n\nWe meet you at our location inside Cave Point Paddle & Pedal (6329 Highway 57 in Sturgeon Bay, WI 54235)\n\nPlease arrive 20 minutes before your scheduled tour time!\n\n Optional Add-Ons\n\nBottled water ($1/ea.)\n\nPaddling glove rental ($5/pair)\n\nWaterproof phone case ($10/ea.)\n\nPhotography package ($20/person) — Nothing solidifies memories quite like photographs. A land-based professional photographer captures your experience! Your photographs are available for digital download on dcphotofun.com within 24 hours of your tour, and if your photographs aren’t delivered for any reason, you are issued a refund.\n\n Cancellation Policy\n\n Cancel your tour 48 hours prior to the tour start time to receive a 100% refund.\n\nWeather(Wind/Waves/Lightning) related cancellation options: (chosen when booking)\n\nI have no flexibility to reschedule if weather doesn’t cooperate (+$5/person 100% refund)\n\nI would reschedule to a different day if weather doesn’t cooperate (100% refund after exhausting 1 reschedule opportunity)\n\nI would reschedule to a different tour if weather/wind/waves aren’t appropriate for my chosen tour (100% refund if no tours are safe due to weather)\n\nI would reschedule to a different tour or day (100% refund if no tours are safe due to weather)\n\nIf you choose option 2,3 or 4. We only ask you try to reschedule once, if weather doesn’t cooperate the second time, we will issue you a 100% refund or reschedule you again if you desire (not likely as we can usually pick a successful time in a 3 day forecast window.)\n\nCancellation Communication:\n\nWe do the best we can to communicate with you prior to your tour time so you can make the most of your vacation days.\n\nWe work to be as proactive as possible to let you know ahead of your tour time, so you don’t have to show up to find out. From time to time, we cancel last minute due to weather, but this doesn’t happen often.\n\nIf you are traveling from far away just to kayak with us, please reach out the prior day via text or call to talk about the weather.\n\nMinimum tour participants cancellation:\n\nOur tours have a minimum of 4 participants to launch.\n\nDuring June/July/August this rarely happens due to our popularity.\n\nDuring May, sept and oct, this can happen.\n\nIf we don’t have the minimum participants to launch, you have 3 choices\n\nmake it a private tour\n\nreschedule to another tour time or location to meet minimum\n\noffer you a 100% refund.\n\n Related Activities\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n Guide Favorite\n\n From\n\n $69\n\n 2 hours\n\n 4+\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n ✅ 2 hours · Beginner-Friendly\n🌿 Quieter spot\n📍 Departs from Garrett Bay, Ellison Bay, WI\n☀️ Backup if Cave Point is wavey\n🌟 Guide Favorite\n📸 Photo-Perfect Scenery\n\nThis guided kayak tour takes you thru “Death’s Door” past dramatic bluffs, ancient Native American pictographs, and the remnants of a historic shipwreck resting just beneath the surface.\n\n Book Now\n\n Learn More\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "qhnd8yNoX3g"
+ ]
+}

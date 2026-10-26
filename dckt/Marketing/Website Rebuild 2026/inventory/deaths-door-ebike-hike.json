@@ -1,0 +1,137 @@
+{
+ "url": "https://www.doorcountykayaktours.com/deaths-door-ebike-hike/",
+ "slug": "deaths-door-ebike-hike",
+ "title": "Death's Door Ebike & Hike",
+ "meta_description": "Electric Biking and Hiking in Door County, Wisconsin. Explore the tip of the Peninsula on beautiful windy tree covered roads to a Bluff hike with a panoramic view of Death's Door.",
+ "canonical": "https://www.doorcountykayaktours.com/deaths-door-ebike-hike/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Death's Door Ebike & Hike",
+  "twitter:title": "Death’s Door E-bike & Hike",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/deaths-door-ebike-hike/",
+  "twitter:url": "https://www.doorcountykayaktours.com/deaths-door-ebike-hike/",
+  "og:type": "website",
+  "og:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg?w=700&h=700&zoom=2",
+  "og:image:secure_url": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg?w=700&h=700&zoom=2",
+  "twitter:image": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg?w=700&h=700&zoom=2",
+  "og:description": "Electric Biking and Hiking in Door County, Wisconsin. Explore the tip of the Peninsula on beautiful windy tree covered roads to a Bluff hike with a panoramic view of Death's Door.",
+  "twitter:description": "Electric Biking and Hiking in Door County, Wisconsin. Explore the tip of the Peninsula on beautiful windy tree covered roads to a Bluff hike with a panoramic view of Death's Door."
+ },
+ "h1": [
+  "Death’s Door E-bike & Hike"
+ ],
+ "h2": [
+  "Quick Details",
+  "The tip of the peninsula is a gem worth exploring on bike and foot."
+ ],
+ "h3": [
+  "From :",
+  "From :",
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/03/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2022/04/Ebike-tour-of-door-bluff-gills-rock-ellison-bay-2.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2022/04/Charlies-smoke-house-deaths-door-ebike-tour-2.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2020/04/Door-Bluff-Shipwreck-12-Day-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Bluff-Shipwreck-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 6,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/deaths-door-ebike-hike/",
+     "name": "Deaths Door Ebike Hike"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/379683/calendar/?ref=SITE",
+    "item_id": "379683",
+    "item_name": "Death's Door E-bike & Hike",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156132/calendar/?ref=SITE",
+    "item_id": "156132",
+    "item_name": "Door Bluff Shipwreck 1/2 Day Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=SITE",
+    "item_id": "23855",
+    "item_name": "Door Bluff Shipwreck Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "156132",
+   "23855",
+   "379683"
+  ],
+  "all_item_ids_on_page": [
+   "156132",
+   "23855",
+   "379683",
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/kayak-tours/door-bluff-county-park-shipwreck/",
+  "/kayak-tours/door-bluff-shipwreck-1-2-day-kayak-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/156132/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/379683/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJyVjUsOgzAMBS/U1KEqIBaoZ3GCAYcEkBOKuD2fG2Q5T5o3sK/KLnOiOUEaKVCEHoVGFLOIipyuwWzsO3ARHny7+IIsy7OdFAccSA3oPcmR/8EdGZRsbxX+o717v9AWdfPRWlfl150/IFud",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 475,
+ "body_text": "New for 2022\n\n Windy Day Backup\n\n Death’s Door E-bike & Hike\n\n Hike and Bike the Death's Door!\n\n Book Now\n\n From : \n\n $\n 99\n\n Quick Details\n\n Duration:\n 2 hours\n\n Availability:\n Year Round\n\n Optional:\n Don’t feel like paying for the whole group? Just pay $5/person as a deposit and pay the remainder after the tour.\n\n Equipment:\n Clean & Safe\n\n This tour combines Electric Biking and Hiking. Explore the tip of the Peninsula on beautiful windy tree covered roads to a Bluff hike with a panoramic view of Washington Island and Death’s Door. Then cruise over to the oldest fishing village in Door County & hear about the maritime history.\n\n From : \n\n $\n 99\n\n The tip of the peninsula is a gem worth exploring on bike and foot.\nThis bike tour travels along the shores of Garrett Bay towards one of Door County’s oldest fishing village and a hike of a bluff to a panoramic view. Windy tree covered paved roads provide an enjoyable cruise. It is one of our most picturesque, enjoyable tours with plenty of variety.\n\nNo experience is necessary and Red Cross-trained instruction is provided. We meet at the Garrett Bay Boat Launch in Ellison Bay. After an introductory e-bike lesson and helmet fitting we adventure on. From there we head over to the Door Bluff County Park and search for a hike to a scenic overlook of the Death’s Door.. After hearing a narrative from the guide about the area, we head to Gills rock and hear about some maritime history and view the ferries. Take some photos and then bike back to the launch spot. An amazing tour with plenty of variety. Signup early, this one fills up quickly.\n\n2 hours total .5 hour setup instruction/checkout (group size dependent)\n\n Related Activities\n\n Door Bluff Shipwreck 1/2 Day Kayak Tour\n\n +Hike the tallest bluff\n\n Picnic\n\n From\n\n $145\n\n 4 hours\n\n All Ages\n\n Door Bluff Shipwreck 1/2 Day Kayak Tour\n\n ✅ 4 hours · 🧭 Adventure-Packed\n🛶 Beginner-Friendly\n🌿 Scenic, Eco-Friendly Guided Tour\n📍 Launch At Garrett Bay Boat Launch, Ellison Bay, WI\n🥾 Includes Break + Short Hike to Highest Point in Door County\n🧺 Locally Sourced Picnic\n\nEnjoy a short hike to a beautiful viewpoint—the highest point in Door County—where you can relax and savor a locally sourced picnic featuring Door County cherries, goat cheese, and other seasonal treats.\n\n Book Now\n\n Learn More\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n Guide Favorite\n\n From\n\n $69\n\n 2 hours\n\n 4+\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n ✅ 2 hours · Beginner-Friendly\n🌿 Quieter spot\n📍 Departs from Garrett Bay, Ellison Bay, WI\n☀️ Backup if Cave Point is wavey\n🌟 Guide Favorite\n📸 Photo-Perfect Scenery\n\nThis guided kayak tour takes you thru “Death’s Door” past dramatic bluffs, ancient Native American pictographs, and the remnants of a historic shipwreck resting just beneath the surface.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "i4riOkRtoOk",
+  "jrD8CI_TRt0"
+ ]
+}

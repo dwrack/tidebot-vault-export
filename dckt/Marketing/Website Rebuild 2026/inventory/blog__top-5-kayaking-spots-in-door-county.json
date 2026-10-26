@@ -1,0 +1,145 @@
+{
+ "url": "https://www.doorcountykayaktours.com/blog/top-5-kayaking-spots-in-door-county/",
+ "slug": "blog__top-5-kayaking-spots-in-door-county",
+ "title": "Top 5 Kayaking Spots in Door County!",
+ "meta_description": "Here are just a few of the kayaking gems around the Door County peninsula; Cave Point County Park, Garrett Bay, Peninsula State Park...Read to find out more.",
+ "canonical": "https://www.doorcountykayaktours.com/blog/top-5-kayaking-spots-in-door-county/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Top 5 Kayaking Spots in Door County!",
+  "twitter:title": "Top 5 Kayaking Spots in Door County!",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/blog/top-5-kayaking-spots-in-door-county/",
+  "twitter:url": "https://www.doorcountykayaktours.com/blog/top-5-kayaking-spots-in-door-county/",
+  "og:type": "website",
+  "og:description": "Here are just a few of the kayaking gems around the Door County peninsula.  Make sure to check out our kayak map for more spots.",
+  "twitter:description": "Here are just a few of the kayaking gems around the Door County peninsula.  Make sure to check out our kayak map for more spots."
+ },
+ "h1": [
+  "Top 5 Kayaking Spots in Door County!"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Cave-Kayak-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Bluff-Shipwreck-Tour-image-1.jpg",
+   "alt": "",
+   "bg": true
+  },
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2019/02/Eco-tour-kayak-door-county-estuary.jpg",
+   "alt": "",
+   "bg": true
+  }
+ ],
+ "image_count_total": 3,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB",
+  "about:blank"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Top 5 Kayaking Spots in Door County!",
+   "author": {
+    "@type": "Organization",
+    "name": "Door County Kayak Tours"
+   },
+   "datePublished": "March 14, 2013",
+   "dateModified": "June 22, 2026"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/blog/",
+     "name": "Blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": "2",
+     "item": "https://www.doorcountykayaktours.com/blog/top-5-kayaking-spots-in-door-county/",
+     "name": "Top 5 Kayaking Spots In Door County"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=SITE",
+    "item_id": "5669",
+    "item_name": "Cave Point Kayak Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=SITE",
+    "item_id": "23855",
+    "item_name": "Door Bluff Shipwreck Tour",
+    "flow": null
+   },
+   {
+    "href": "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=SITE",
+    "item_id": "6883",
+    "item_name": "Eco-Estuary Tour",
+    "flow": null
+   }
+  ],
+  "item_ids": [
+   "23855",
+   "5669",
+   "6883"
+  ],
+  "all_item_ids_on_page": [
+   "23855",
+   "5669",
+   "5784",
+   "6883"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "/blog/aviary-invasion/",
+  "/blog/boy-scout-girl-scout-kayaking-merit-badge-requirements/",
+  "/cdn-cgi/l/email-protection#a49bd7d1c6cec1c7d099e7ccc1c7cf819694cbd1d0819694819696f0cbd481969491819694efc5ddc5cfcdcac3819694f7d4cbd0d7819694cdca819694e0cbcbd6819694e7cbd1cad0dd819695819696819694c5d0819694e0cbcbd6819694e7cbd1cad0dd819694efc5ddc5cf819694f0cbd1d6d78194e08194e5ccd0d0d4d78197e58196e28196e2d3d3d38ac0cbcbd6c7cbd1cad0ddcfc5ddc5cfd0cbd1d6d78ac7cbc98196e2c6c8cbc38196e2d0cbd4899189cfc5ddc5cfcdcac389d7d4cbd0d789cdca89c0cbcbd689c7cbd1cad0dd8196e282c5c9d49fc6cbc0dd99f0cbd481969491819694efc5ddc5cfcdcac3819694f7d4cbd0d7819694cdca819694e0cbcbd6819694e7cbd1cad0dd81969581969489819694e0cbcbd6819694e7cbd1cad0dd819694efc5ddc5cf819694f0cbd1d6d78194e08194e5ccd0d0d4d78197e58196e28196e2d3d3d38ac0cbcbd6c7cbd1cad0ddcfc5ddc5cfd0cbd1d6d78ac7cbc98196e2c6c8cbc38196e2d0cbd4899189cfc5ddc5cfcdcac389d7d4cbd0d789cdca89c0cbcbd689c7cbd1cad0dd8196e2",
+  "/kayak-tours/cave-point-county-park/",
+  "/kayak-tours/door-bluff-county-park-shipwreck/",
+  "/kayak-tours/eco-estuary-tour/",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/23855/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/5669/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://fareharbor.com/embeds/book/doorcountykayaktours/items/6883/calendar/?ref=https%3A%2F%2Fwww.doorcountykayaktours.com",
+  "https://twitter.com/share?text=Check%20this%20out%21%20Top%205%20Kayaking%20Spots%20in%20Door%20County%21%20-%20Door%20County%20Kayak%20Tours%0D%0Ahttps%3A%2F%2Fwww.doorcountykayaktours.com%2Fblog%2Ftop-5-kayaking-spots-in-door-county%2F",
+  "https://www.doorcountykayaktours.com/blog/",
+  "https://www.doorcountykayaktours.com/blog/category/kayaking/",
+  "https://www.doorcountykayaktours.com/door-county-map/"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 274,
+ "body_text": "Back to Blog\n\n Top 5 Kayaking Spots in Door County!\n\nSee some photos on our Door County Kayak Tours Flickr photo page \r\n\nThere are so many places to kayak around the peninsula, make sure to check out our Door County Map to explore more areas!\r\n\n#5…Plum Island\n\n Posted in: \n\n Kayaking\n\nTweet\n\n Email\n\n Previous Post\n\n Next Post\n\n Cave Point County Park Kayak Tour\n\n #1 Attraction\n\n From\n\n $69\n\n 2 hours\n\n All Ages\n\n Cave Point County Park Kayak Tour\n\n ✅ 2– hrs · 🛶Guided & Beginner-Friendly\n👨‍👩‍👧 All Ages · Family-Friendly\n📍 5 Min to kayak launch\n🚐 Transportation Provided\n📸 Photo-Perfect Scenery\n\nLeave the city behind and glide into a world untouched. Drift beside limestone eroded cliffs, past wind-scoured cedar canopies, where seagulls float and waves lap along the shore. Reconnect—with nature, with your crew, and make memories with your loved ones.\n\n Book Now\n\n Learn More\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n Guide Favorite\n\n From\n\n $69\n\n 2 hours\n\n 4+\n\n Door Bluff County Park Shipwreck Kayak Tour\n\n ✅ 2 hours · Beginner-Friendly\n🌿 Quieter spot\n📍 Departs from Garrett Bay, Ellison Bay, WI\n☀️ Backup if Cave Point is wavey\n🌟 Guide Favorite\n📸 Photo-Perfect Scenery\n\nThis guided kayak tour takes you thru “Death’s Door” past dramatic bluffs, ancient Native American pictographs, and the remnants of a historic shipwreck resting just beneath the surface.\n\n Book Now\n\n Learn More\n\n Eco Estuary Tour\n\n Relaxing\n\n Easy\n\n From\n\n $65\n\n 1.5 - 2 Hours\n\n 4 years & up\n\n Eco Estuary Tour\n\n Take an unforgettable paddle through Wisconsin’s premier wetlands. The flora and fauna combine to form a spectacular experience on this kayak tour for all skill levels.\n\n Book Now\n\n Learn More",
+ "youtube": [
+  "VkUrWxXzX0A"
+ ]
+}

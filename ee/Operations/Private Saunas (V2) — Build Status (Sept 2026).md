@@ -1,4 +1,8 @@
 # Private Saunas (V2) — Build Status
+> **2026-10-19:** Chimney: Adam Reich confirmed for Fri 10/23 (invoice 10/19); stoves set after tile. Roofer starts panel layout at the pipe and works away so no seam sits under the boot. Flue numbers + Adam's packet: `Assets/V2 Build Drawings/2026-10-16 Chimney install brief for Adam Reich (...).pdf`.
+
+> **CURRENT STATUS 2026-10-15 (site walk, Davey + Grant).** Framing done, roof sheathed, exterior T&G going up. Sequence agreed: exterior first (ceiling T&G to the eave → 2× stovepipe → metal roof → siding), then interior (door → tile → benches/cladding/lighting). Roofer is **Cameron (father + son), ~$9.6K bundled with Davey's ADU**; Kendall is out. Door RO framed **27.5" × 83.5"** (1" taller than Kyle's 82.5" for the finished floor); the door itself will be shorter with a heat shield above. Tile: 89" × 113" per floor, order ~155 sq ft for both. Benches: **on-site cedar (the wall stock), decided 10/16 to keep cost down**; Thermory parked as fallback. Shorter door is deliberate (heat retention). Flue spec, tile math, decisions and the raw transcript: **[[Private Saunas (V2) — Site Walk with Grant (Oct 15 2026)]]**. Everything below this line is history as of Sept 8 unless marked otherwise.
+
 
 **Canonical status doc. Compiled 2026-09-08 from email (davey@), #private-saunas-build Slack, and the Aug vault docs.** Supersedes the pin draft and the Aug design notes for current state. The Nippa rock cage spec is obsolete (see Stove section).
 

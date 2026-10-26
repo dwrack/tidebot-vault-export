@@ -1,0 +1,76 @@
+{
+ "url": "https://www.doorcountykayaktours.com/door-county-lodging/",
+ "slug": "door-county-lodging",
+ "title": "Door County Accommodations: Find Your Perfect Stay",
+ "meta_description": "Explore diverse Door County lodging options. From cozy inns to waterfront resorts, find your ideal accommodation in this charming destination.",
+ "canonical": "https://www.doorcountykayaktours.com/door-county-lodging/",
+ "robots": "max-image-preview:large",
+ "og": {
+  "og:title": "Door County Accommodations: Find Your Perfect Stay",
+  "twitter:title": "Door County Lodging",
+  "og:site_name": "Door County Kayak Tours",
+  "og:url": "https://www.doorcountykayaktours.com/door-county-lodging/",
+  "twitter:url": "https://www.doorcountykayaktours.com/door-county-lodging/",
+  "og:type": "website",
+  "og:description": "Explore diverse Door County lodging options. From cozy inns to waterfront resorts, find your ideal accommodation in this charming destination.",
+  "twitter:description": "Explore diverse Door County lodging options. From cozy inns to waterfront resorts, find your ideal accommodation in this charming destination."
+ },
+ "h1": [
+  "Door County Lodging"
+ ],
+ "h2": [],
+ "h3": [
+  "Top Rated Tours in Door County!",
+  "Door County Kayak Tours",
+  "Quick Links"
+ ],
+ "images": [
+  {
+   "src": "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2023/06/IMG_3874-1067x800-1.jpeg",
+   "alt": ""
+  }
+ ],
+ "image_count_total": 4,
+ "iframes": [
+  "https://www.googletagmanager.com/ns.html?id=GTM-PPSHWZB"
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": "1",
+     "item": "https://www.doorcountykayaktours.com/door-county-lodging/",
+     "name": "Door County Lodging"
+    }
+   ]
+  }
+ ],
+ "fareharbor": {
+  "main_content_links": [],
+  "item_ids": [],
+  "all_item_ids_on_page": [
+   "5784"
+  ],
+  "embed_api": "https://fareharbor.com/embeds/api/v1/ (lightframe auto-binds fareharbor.com/embeds/book links)",
+  "flows": []
+ },
+ "internal_links": [
+  "https://www.doorcountykayaktours.com/wp-content/uploads/sites/2281/2023/06/IMG_3874-1067x800-1.jpeg?auto=compress%2Cformat&amp"
+ ],
+ "external_scripts": [
+  "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+  "https://fareharbor.com/embeds/api/v1/",
+  "https://static.elfsight.com/platform/platform.js",
+  "https://unpkg.com/@opencx/widget@latest/dist-embed/script.js",
+  "https://www.doorcountykayaktours.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT0ssSs1ILErKL9ItziwBCiSVZuak6GcV64O5elnFOvqk6CooyixLTK4E6rPPtTU0tzQyMDAwMzXJAgBEjSzY",
+  "https://www.doorcountykayaktours.com/wp-content/plugins/complianz-gdpr-premium-multisite/cookiebanner/js/complianz.min.js?ver=1792000688",
+  "https://www.doorcountykayaktours.com/wp-content/themes/vendor/fareharbor-sites/the-anchor/dist/assets/frontend/index.l0sNRNKZ.js"
+ ],
+ "word_count": 26,
+ "body_text": "Door County Lodging\n\nLooking for some Door County lodging close to our or ? Try Located on schauer road just next to cave point county park!",
+ "youtube": []
+}
