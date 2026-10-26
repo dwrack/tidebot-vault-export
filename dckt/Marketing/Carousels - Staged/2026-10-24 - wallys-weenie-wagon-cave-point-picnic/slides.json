@@ -10,7 +10,7 @@
     "The easiest fall lunch in Jacksonport.",
     "Hot dogs, e-bikes, and a lake view."
   ],
-  "caption": "Our favorite lazy fall afternoon: pick up lunch from @wallysweeniewagon on Hwy 57, hop on a fat tire e-bike from our shop, and ride about 4.5 miles to a picnic table at Cave Point County Park. Two hours is plenty. Food photos courtesy of Wally's Weenie Wagon. Save this for your trip and send it to whoever's buying the fries. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
+  "caption": "Our favorite lazy fall afternoon: pick up lunch from @wallysweeniewagon (right next door to our shop), hop on a fat tire e-bike, and ride about 4.5 miles to a picnic table at Cave Point County Park. Two hours is plenty. Food photos courtesy of Wally's Weenie Wagon. Save this for your trip and send it to whoever's buying the fries. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
   "slides": [
     {
       "n": 1,
@@ -18,18 +18,23 @@
       "tone": "indigo",
       "kicker": "Fall e-bike picnic",
       "headline": "Lunch from Wally's. Picnic at Cave Point.",
-      "body": "Grab it on Hwy 57, ride about 4.5 miles, eat with the lake in front of you.",
-      "photo": "Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
-      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-E-Bike-Rental-with-Fat-Tire-Bike.jpg",
-      "pos": "center 50%",
+      "body": "Wally's is right next door to our shop. Grab lunch, ride 4.5 miles, and eat with the lake in front of you.",
+      "photo": "hook-mashup.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Marketing/Carousels - Staged/2026-10-24 - wallys-weenie-wagon-cave-point-picnic/hook-mashup.jpg",
+      "pos": "center",
       "dark": false
     },
     {
       "n": 2,
-      "layout": "point",
+      "layout": "split",
       "tone": "indigo",
       "kicker": "Step 1",
-      "headline": "Rent the bike."
+      "headline": "Rent the bike.",
+      "body": "Fat tire e-bikes, ready at our Jacksonport shop. Book online at doorcountykayaktours.com.",
+      "photo": "ebike.jpeg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/ebike.jpeg",
+      "pos": "center",
+      "dark": false
     },
     {
       "n": 3,
@@ -37,7 +42,7 @@
       "tone": "indigo",
       "kicker": "Our Jacksonport shop",
       "headline": "Start on Hwy 57.",
-      "body": "Fat tire e-bikes are $30 an hour or $60 for two. Wally's Weenie Wagon is on the same stretch of road.",
+      "body": "Fat tire e-bikes are $30 an hour or $60 for two. Wally's Weenie Wagon is right next door.",
       "photo": "Door-County-ebike-garage.jpg",
       "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/Door-County-ebike-garage.jpg",
       "pos": "center",
@@ -69,11 +74,15 @@
     },
     {
       "n": 6,
-      "layout": "point",
+      "layout": "split",
       "tone": "indigo",
       "kicker": "Step 3",
       "headline": "Ride to Cave Point.",
-      "body": "About 4.5 miles from the shop. Take the two-hour rental so you have time to sit and eat."
+      "body": "About 4.5 miles from the shop. Take the two-hour rental so you have time to sit and eat.",
+      "photo": "door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+      "pos": "center",
+      "dark": false
     },
     {
       "n": 7,

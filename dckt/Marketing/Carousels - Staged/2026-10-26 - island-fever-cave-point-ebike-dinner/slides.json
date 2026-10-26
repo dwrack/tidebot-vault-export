@@ -10,26 +10,31 @@
     "Earn your dinner on an e-bike.",
     "Cliffs by day, rum bar by dinner."
   ],
-  "caption": "Easy fall afternoon: grab a fat tire e-bike at our Jacksonport shop, ride about 4.5 miles to Cave Point, then roll back and walk over to @islandfeverjport for dinner. Two hours is plenty. Photos courtesy of Island Fever. Save this for your trip and send it to your dinner date. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
+  "caption": "Easy fall afternoon: grab a fat tire e-bike at our Jacksonport shop, ride about 4.5 miles to Cave Point, then roll back to @islandfeverjport for dinner, one minute from our shop. Two hours is plenty. Photos courtesy of Island Fever. Save this for your trip and send it to your dinner date. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
   "slides": [
     {
       "n": 1,
       "layout": "hook",
       "tone": "indigo",
-      "kicker": "Fall e-bike afternoon",
-      "headline": "Ride to Cave Point. Eat down the road.",
-      "body": "Island Fever Rum Bar & Grill is about 0.15 mile from our Jacksonport shop.",
-      "photo": "cave-point-ebike-tour.jpg",
-      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/cave-point-ebike-tour.jpg",
-      "pos": "center 55%",
+      "kicker": "With Island Fever Rum Bar & Grill",
+      "headline": "Ride Cave Point. Dinner at Island Fever.",
+      "body": "Island Fever Rum Bar & Grill is one minute from our Jacksonport shop.",
+      "photo": "hook-mashup.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Marketing/Carousels - Staged/2026-10-26 - island-fever-cave-point-ebike-dinner/hook-mashup.jpg",
+      "pos": "center",
       "dark": false
     },
     {
       "n": 2,
-      "layout": "point",
+      "layout": "split",
       "tone": "indigo",
       "kicker": "Step 1",
-      "headline": "Rent the bike."
+      "headline": "Rent the bike.",
+      "body": "Fat tire e-bikes, ready at our Jacksonport shop. Book online at doorcountykayaktours.com.",
+      "photo": "Cave-point-county-park-electric-bike-rental-2.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-point-county-park-electric-bike-rental-2.jpg",
+      "pos": "center",
+      "dark": false
     },
     {
       "n": 3,
@@ -50,8 +55,8 @@
       "kicker": "Step 2",
       "headline": "Ride to Cave Point.",
       "body": "About 4.5 miles from the shop. Cliffs, clear water and picnic tables if you want a stop.",
-      "photo": "door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
-      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/door-county-curvy-road-at-cave-point-county-park-e-bike-tour.jpg",
+      "photo": "curvy-road-cave-point-ebike-tour.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Ice castles ebike tour photos/curvy-road-cave-point-ebike-tour.jpg",
       "pos": "center",
       "dark": false
     },
@@ -73,7 +78,7 @@
       "tone": "indigo",
       "kicker": "Step 3",
       "headline": "Ride back. You've earned it.",
-      "body": "Return the bike to the shop, then it's a short walk to dinner."
+      "body": "Return the bike to the shop, then dinner is one minute away."
     },
     {
       "n": 7,

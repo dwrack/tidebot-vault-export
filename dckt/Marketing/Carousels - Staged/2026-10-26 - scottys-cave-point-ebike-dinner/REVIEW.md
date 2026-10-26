@@ -23,4 +23,7 @@ DCKT library photos except slides 7 (burger) and 9 (owners at the sign), from Sc
 - [ ] Same open items as the other two: October rental hours and pickup flow, "about 4 miles" map-derived, no bike rack promised.
 - [ ] IG Collab with @doorcountybike.
 
-[ ] Approved to post
+## Tags
+Instagram: Scotty's has no IG (their site only links Facebook), so there is nothing to @-tag; the caption and slides 1, 7, 8 and 10 name them. Facebook: tag the Scotty's Pub + Grub page (facebook.com/profile.php?id=61574153722899) in the post.
+
+[x] Approved to post (David, 2026-10-26). Scheduled for Thu Nov 12 in the Fall 2026 E-Bike Social Calendar. Not published yet.

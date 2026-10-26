@@ -23,4 +23,7 @@ Our favorite lazy fall afternoon: pick up lunch from @wallysweeniewagon on Hwy 5
 - [ ] Picnic tables, grills, shelter at Cave Point: from the county park page. Bike rack not confirmed, so none promised.
 - [ ] Post as an IG Collab with @doorcountybike per the fall calendar.
 
-[ ] Approved to post
+## Tags
+Instagram: @wallysweeniewagon in the caption (already there) and photo-tag it on slides 1 and 4. Facebook: tag the Wally's Weenie Wagon page (facebook.com/wallysweeniewagon) in the post.
+
+[x] Approved to post (David, 2026-10-26). Scheduled for Thu Oct 29 in the Fall 2026 E-Bike Social Calendar. Not published yet.

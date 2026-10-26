@@ -10,26 +10,31 @@
     "Earn your broasted chicken on an e-bike.",
     "Cliffs first, pizza and wings after."
   ],
-  "caption": "Easy fall afternoon: grab a fat tire e-bike at our Jacksonport shop, ride about 4.5 miles to Cave Point, then roll back for burgers, broasted chicken or pizza at Scotty's Pub + Grub on Hwy 57. Two hours on the bike is plenty. Food photos courtesy of Scotty's. Save this for your trip and send it to your dinner crew. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
+  "caption": "Easy fall afternoon: grab a fat tire e-bike at our Jacksonport shop, ride about 4.5 miles to Cave Point, then roll back for burgers, broasted chicken or pizza at Scotty's Pub + Grub, one minute from our shop. Two hours on the bike is plenty. Food photos courtesy of Scotty's. Save this for your trip and send it to your dinner crew. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall",
   "slides": [
     {
       "n": 1,
       "layout": "hook",
       "tone": "indigo",
-      "kicker": "Fall e-bike afternoon",
-      "headline": "Ride Cave Point. Burgers are on Hwy 57.",
-      "body": "Scotty's Pub + Grub is in Jacksonport, just down the road from our shop.",
-      "photo": "Cave-Point-County-Park-E-Bike-Tour-Rental.jpg",
-      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave-Point-County-Park-E-Bike-Tour-Rental.jpg",
+      "kicker": "With Scotty's Pub + Grub",
+      "headline": "Earn the burger. Ride Cave Point.",
+      "body": "Scotty's Pub + Grub is one minute from our Jacksonport shop.",
+      "photo": "hook-mashup.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Marketing/Carousels - Staged/2026-10-26 - scottys-cave-point-ebike-dinner/hook-mashup.jpg",
       "pos": "center",
       "dark": false
     },
     {
       "n": 2,
-      "layout": "point",
+      "layout": "split",
       "tone": "indigo",
       "kicker": "Step 1",
-      "headline": "Rent the bike."
+      "headline": "Rent the bike.",
+      "body": "Fat tire e-bikes, ready at our Jacksonport shop. Book online at doorcountykayaktours.com.",
+      "photo": "Cave Point Ebike Rental.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/EBike Photos/Website Ebike Photos/Cave Point Ebike Rental.jpg",
+      "pos": "center",
+      "dark": false
     },
     {
       "n": 3,

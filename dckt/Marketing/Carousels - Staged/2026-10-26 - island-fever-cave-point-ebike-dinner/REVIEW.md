@@ -11,7 +11,7 @@
 Easy fall afternoon: grab a fat tire e-bike at our Jacksonport shop, ride about 4 miles to Cave Point, then roll back and walk over to @islandfeverjport for dinner. Two hours is plenty. Call Island Fever for hours before you go, they change after October. Save this for your trip and send it to your dinner date. #DoorCounty #Jacksonport #CavePoint #EBikeRental #DoorCountyFall
 
 ## Photos
-DCKT library photos, except slides 7 (family dining outdoors) and 9 (fire pit), which are from Island Fever's website with their permission (David, 2026-10-26). Saved in Assets/DCKT/DCKT Photos/Island Fever (permission OK 2026-10-26), along with a Saturday fish boil shot if you want one swapped in. Their IG is flyers only, so the site was the source. Caption credits them.
+DCKT library photos, except slides 7 (family dining outdoors) and 9 (fire pit), which are from Island Fever's website with their permission (David, 2026-10-26). Saved in Assets/DCKT/DCKT Photos/Island Fever (permission OK 2026-10-26). Their IG is flyers only, so the site was the source. Caption credits them.
 
 ## Check before posting
 - [ ] Island Fever hours. Sources conflict: own site said 11-8 on Oct 14; the Jacksonport business association says daily through October, weekends Nov-April. Slide 8 tells people to call. Confirm with them (920-823-2700).
@@ -20,4 +20,7 @@ DCKT library photos, except slides 7 (family dining outdoors) and 9 (fire pit), 
 - [ ] Same open items as the Wally's one: October rental hours and pickup flow, "about 4 miles" map-derived, no bike rack promised.
 - [ ] IG Collab with @doorcountybike.
 
-[ ] Approved to post
+## Tags
+Instagram: @islandfeverjport in the caption (already there) and photo-tag it on slides 1 and 7. Facebook: tag the Island Fever Rum Bar & Grill page.
+
+[x] Approved to post (David, 2026-10-26). Scheduled for Thu Nov 5 in the Fall 2026 E-Bike Social Calendar. Not published yet.
