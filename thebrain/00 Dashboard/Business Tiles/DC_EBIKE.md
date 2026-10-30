@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-10-26
+updated: 2026-10-30
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,13 +18,27 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- GSC (doorcountykayak.com): bike rental queries at positions 8-21, 1 click total. Thin.
-- GBP newest page all replied.
+- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.** The Sept 15 decision is 6 weeks overdue. GSC shows only single impressions for rental terms (positions 9-12).
+- GBP: 18 reviews, newest 2023, all replied.
 <!-- live:end -->
+
+<!-- maps:start -->
+### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
+*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+
+| Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
+|---|---|---|---|---|---|
+| door county bike rental | 4% | 1/25 | 1.0 | new | 4% |
+| door county bike tours | 4% | 1/25 | 1.0 | new | 4% |
+| door county e-bike rental | 4% | 1/25 | 1.0 | new | 4% |
+| door county ebike tours | 4% | 1/25 | 1.0 | new | 4% |
+| guided bike tour door county | 4% | 1/25 | 1.0 | new | 4% |
+
+<!-- maps:end -->
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -32,20 +46,20 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $11,455 |
-| Spending | $8,170 |
+| Money in | $5,347 |
+| Spending | $3,110 |
 | Card payments + transfers out | $30,469 |
 | Net, month to date | $2,237 |
-| Net, same days last month | partial: feed starts Sep 08, $8,607 |
+| Net, same days last month | partial: feed starts Sep 08, $9,655 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $5,347 | $14,030 | -62% |
-| Month to date, spending | $3,110 | $11,504 | -73% |
-| Month to date, net | $2,237 | $2,526 | -$288 |
+| Month to date, money in | $5,347 | $15,132 | -65% |
+| Month to date, spending | $3,110 | $12,407 | -75% |
+| Month to date, net | $2,237 | $2,725 | -$488 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** Payroll-Homebase PCR 3b $4,991; WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151
+**Top spending, 30 days:** WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151; joinhomebase.com joinhomeba ST-Z $99
 <!-- finance:end -->
 
 ## Quick links

@@ -1,394 +1,406 @@
 {
-  "last_run": "2026-10-22",
-  "scan_number": 4,
-  "sources_ok": [
-    "apple-itunes-rss",
-    "google-play-appbrain (Business only)",
-    "product-hunt (top 10)",
-    "hacker-news"
-  ],
-  "sources_thin": [
-    "google-play-appbrain Food & Drink: slug fell back to overall chart"
-  ],
-  "clone_stacks": [
-    {
-      "category": "Food & Drink",
-      "job": "recipe save + meal plan",
-      "count_in_top18": 8,
-      "change": "unchanged; NeatEat #13->#6, Whipp #5->#7"
-    },
-    {
-      "category": "Business",
-      "job": "invoice + estimate",
-      "count_in_top18": 6,
-      "change": "unchanged Apple; Play: Invoice Simple #2, 6 in top 18 plus Jobber #15 and new Solo #16"
-    },
-    {
-      "category": "Business",
-      "job": "document scanner",
-      "count_in_top18": 4,
-      "change": "unchanged; 4 more at #20-25 incl new ScanGuru"
-    },
-    {
-      "category": "Utilities",
-      "job": "storage/photo cleaner",
-      "count_in_top18": 5,
-      "change": "unchanged; CleanX new at #25"
-    },
-    {
-      "category": "Finance",
-      "job": "budgeting",
-      "count_in_top18": 5,
-      "change": "unchanged; Copilot #7->#6"
-    },
-    {
-      "category": "Health & Fitness",
-      "job": "calorie/macro tracking",
-      "count_in_top18": 5,
-      "verdict": "already has an AI-native winner (Cal AI) and MFP ships photo logging; low Stale",
-      "change": "up from 4: MyNetDiary #20->#18; Cal AI #12->#10"
-    },
-    {
-      "category": "Travel",
-      "job": "flight tracking",
-      "count_in_top18": 5,
-      "verdict": "data plumbing, Collapse 1, excluded",
-      "change": "unchanged"
-    },
-    {
-      "category": "Lifestyle",
-      "job": "dating",
-      "count_in_top18": 9,
-      "verdict": "network effect, excluded",
-      "change": "unchanged"
-    },
-    {
-      "category": "Lifestyle",
-      "job": "smart home camera/hub",
-      "count_in_top18": 5,
-      "verdict": "hardware, excluded",
-      "change": "unchanged"
-    },
-    {
-      "category": "Education",
-      "job": "language learning",
-      "count_in_top18": 7,
-      "verdict": "curriculum-heavy, not pursuing",
-      "change": "unchanged; Speak #7->#8, Babbel #11->#14"
-    },
-    {
-      "category": "Travel",
-      "job": "GPS audio tour",
-      "count_in_top18": 1,
-      "change": "down from 2: GuideAlong off top 25 (#15 last scan); Parkwolf #13->#14"
-    }
-  ],
-  "thesis_proof": [
-    {
-      "app": "Cal AI",
-      "chart": "Health & Fitness grossing #10 (was #12)",
-      "note": "now ahead of MacroFactor, Cronometer, MyNetDiary, WW, Lose It!"
-    },
-    {
-      "app": "Speak",
-      "chart": "Education grossing #8 (was #7)",
-      "note": "Babbel slid to #14"
-    },
-    {
-      "app": "PictureThis",
-      "chart": "Education grossing #3, unchanged",
-      "note": "four scans steady"
-    },
-    {
-      "app": "LangLearn + Learna",
-      "chart": "Education #9 and #2",
-      "note": "AI tutors hold 3 of the top 9 Education spots"
-    }
-  ],
-  "targets": [
-    {
-      "rank": 1,
-      "name": "Contractor estimate + invoice",
-      "score": 23,
-      "demand": 5,
-      "collapse": 5,
-      "stale": 5,
-      "open": 5,
-      "fit": 3,
-      "incumbents": [
-        "Invoice Maker",
-        "Invoice Simple",
-        "SimplyWise",
-        "Invoice2go",
-        "Joist",
-        "GetPaid",
-        "Invoice Home",
-        "Invoice Maker by Invoice Home"
-      ],
-      "risk": "Intuit/QuickBooks ships it; Jobber (#15 Play) and new Solo gig all-in-one (#16 Play, #25 Apple Finance) absorb the job",
-      "status": "open"
-    },
-    {
-      "rank": 2,
-      "name": "Camera roll cleaner",
-      "score": 22,
-      "demand": 5,
-      "collapse": 5,
-      "stale": 5,
-      "open": 5,
-      "fit": 2,
-      "incumbents": [
-        "Cleanup",
-        "Cleaner Guru",
-        "AI Cleaner",
-        "Swipewipe",
-        "Cleaner Kit"
-      ],
-      "risk": "Apple ships into Photos; needs paid UA",
-      "unlock": "Needle2 on-device LLM (scan 2); local every-frame photo/video search on macOS (Show HN 184pts, scan 3)",
-      "status": "open",
-      "note": "CleanX new at Utilities #25"
-    },
-    {
-      "rank": 3,
-      "name": "GPS audio tour",
-      "score": 21,
-      "demand": 3,
-      "collapse": 5,
-      "stale": 4,
-      "open": 4,
-      "fit": 5,
-      "incumbents": [
-        "GuideAlong",
-        "Parkwolf"
-      ],
-      "note": "only target where David owns distribution",
-      "change": "scan 4: GuideAlong off top 25, tripwire hit, Demand 4->3, 22->21. Recommendation reframed to city routes (year-round) not parks (seasonal)",
-      "status": "open"
-    },
-    {
-      "rank": 4,
-      "name": "Recipe capture + meal planner",
-      "score": 20,
-      "demand": 5,
-      "collapse": 5,
-      "stale": 4,
-      "open": 4,
-      "fit": 2,
-      "incumbents": [
-        "ReciMe",
-        "TapCook",
-        "Whipp",
-        "mise",
-        "Potto",
-        "Osta",
-        "NeatEat",
-        "eMeals"
-      ],
-      "note": "Mob dropped out, Whipp #11->#5; still churning",
-      "status": "open"
-    },
-    {
-      "rank": 4,
-      "name": "Scanner that skips the PDF",
-      "score": 20,
-      "demand": 5,
-      "collapse": 5,
-      "stale": 4,
-      "open": 4,
-      "fit": 2,
-      "incumbents": [
-        "iScanner",
-        "Scanner App",
-        "Adobe Scan",
-        "Smart Printer App & Scan",
-        "CamScanner"
-      ],
-      "risk": "already crowded with AI entrants; stack thinned 5->4",
-      "status": "open"
-    },
-    {
-      "rank": 6,
-      "name": "Voice-to-action assistant",
-      "score": 18,
-      "demand": 4,
-      "collapse": 5,
-      "stale": 3,
-      "open": 3,
-      "fit": 3,
-      "incumbents": [
-        "Pocket AI",
-        "Summary AI Note Taker",
-        "Otter"
-      ],
-      "note": "Pocket AI out of top 18 (#22); free OSS dictation (BetterWispr, Atticus) on HN",
-      "status": "open"
-    },
-    {
-      "rank": 7,
-      "name": "Photo calorie logger",
-      "score": 17,
-      "demand": 5,
-      "collapse": 5,
-      "stale": 1,
-      "open": 4,
-      "fit": 2,
-      "incumbents": [
-        "MyFitnessPal",
-        "MacroFactor",
-        "Cal AI",
-        "Cronometer",
-        "MyNetDiary"
-      ],
-      "note": "stack now 5; Cal AI #10. Stale 1, not recommended",
-      "status": "not recommended"
-    },
-    {
-      "rank": 7,
-      "name": "Identify-anything camera",
-      "score": 17,
-      "demand": 4,
-      "collapse": 5,
-      "stale": 4,
-      "open": 2,
-      "fit": 2,
-      "incumbents": [
-        "PictureThis",
-        "PlantIn"
-      ],
-      "status": "open"
-    },
-    {
-      "rank": 9,
-      "name": "Money coach",
-      "score": 15,
-      "demand": 5,
-      "collapse": 3,
-      "stale": 3,
-      "open": 2,
-      "fit": 2,
-      "incumbents": [
-        "Rocket Money",
-        "YNAB",
-        "Copilot",
-        "Monarch",
-        "EveryDollar"
-      ],
-      "risk": "Plaid plumbing is the real moat; on-device budgeting (Pulse Local, Show HN) now exists",
-      "status": "open"
-    },
-    {
-      "rank": 10,
-      "name": "Fax / print utility",
-      "score": 15,
-      "demand": 4,
-      "collapse": 1,
-      "stale": 5,
-      "open": 4,
-      "fit": 1,
-      "note": "demand 3->4: FAX from iPhone #8->#6 + FaxFree on Apple, 4 fax apps in Play Business top 25. Collapse still 1, AI does nothing here",
-      "status": "not recommended"
-    },
-    {
-      "rank": 11,
-      "name": "AI study companion",
-      "score": 13,
-      "demand": 4,
-      "collapse": 4,
-      "stale": 2,
-      "open": 2,
-      "fit": 1,
-      "incumbents": [
-        "Gauth",
-        "Quizlet"
-      ],
-      "note": "Gauth #15->#12 Apple",
-      "status": "not recommended"
-    }
-  ],
-  "seen_apps": [
-    "Invoice Maker - Invoice Fly",
-    "Invoice Maker - Invoice Simple",
+ "last_run": "2026-10-29",
+ "scan_number": 5,
+ "sources_ok": [
+  "apple-itunes-rss",
+  "google-play-appbrain (Business only)",
+  "product-hunt (top 10)",
+  "hacker-news"
+ ],
+ "sources_thin": [
+  "google-play-appbrain Travel: slug fell back to overall chart, no GPS tour read",
+  "product-hunt: only 10 products listed, none consumer mobile"
+ ],
+ "clone_stacks": [
+  {
+   "category": "Food & Drink",
+   "job": "recipe save + meal plan",
+   "count_in_top18": 8,
+   "change": "unchanged; Osta #13->#8, Mob out"
+  },
+  {
+   "category": "Business",
+   "job": "invoice + estimate",
+   "count_in_top18": 6,
+   "change": "unchanged Apple; Solo off Apple chart, Play still 6 + Jobber #16 + Solo #15"
+  },
+  {
+   "category": "Business",
+   "job": "document scanner",
+   "count_in_top18": 4,
+   "change": "unchanged at 4; ScanGuru out"
+  },
+  {
+   "category": "Utilities",
+   "job": "storage/photo cleaner",
+   "count_in_top18": 5,
+   "change": "unchanged; CleanX off the chart"
+  },
+  {
+   "category": "Finance",
+   "job": "budgeting",
+   "count_in_top18": 6,
+   "change": "up from 5: Quicken #21->#16; Copilot #6, Rocket #3"
+  },
+  {
+   "category": "Health & Fitness",
+   "job": "calorie/macro tracking",
+   "count_in_top18": 5,
+   "verdict": "already has an AI-native winner (Cal AI) and MFP ships photo logging; low Stale",
+   "change": "unchanged at 5; MacroFactor #10 passed Cal AI #11"
+  },
+  {
+   "category": "Travel",
+   "job": "flight tracking",
+   "count_in_top18": 5,
+   "verdict": "data plumbing, Collapse 1, excluded",
+   "change": "unchanged"
+  },
+  {
+   "category": "Lifestyle",
+   "job": "dating",
+   "count_in_top18": 9,
+   "verdict": "network effect, excluded",
+   "change": "unchanged"
+  },
+  {
+   "category": "Lifestyle",
+   "job": "smart home camera/hub",
+   "count_in_top18": 5,
+   "verdict": "hardware, excluded",
+   "change": "unchanged"
+  },
+  {
+   "category": "Education",
+   "job": "language learning",
+   "count_in_top18": 7,
+   "verdict": "curriculum-heavy, not pursuing",
+   "change": "unchanged; Speak #7->#8, Babbel #11->#14"
+  },
+  {
+   "category": "Travel",
+   "job": "GPS audio tour",
+   "count_in_top18": 0,
+   "change": "down from 1: Parkwolf #14->#19, stack empty"
+  }
+ ],
+ "thesis_proof": [
+  {
+   "app": "Cal AI",
+   "chart": "Health & Fitness grossing #11 (was #10)",
+   "note": "MacroFactor passed it, still ahead of Cronometer, MyNetDiary"
+  },
+  {
+   "app": "Speak",
+   "chart": "Education grossing #7 (was #8)",
+   "note": "Babbel #13"
+  },
+  {
+   "app": "PictureThis",
+   "chart": "Education grossing #3, unchanged",
+   "note": "four scans steady"
+  },
+  {
+   "app": "LangLearn + Learna",
+   "chart": "Education #9 and #2",
+   "note": "AI tutors hold 3 of the top 9 Education spots"
+  },
+  {
+   "app": "Claude / Perplexity / Grok",
+   "chart": "Productivity grossing #2 / #6 / #4",
+   "note": "AI assistants hold 4 of the top 6 Productivity spots with ChatGPT #1. Receipts for the thesis, nothing rebuildable."
+  }
+ ],
+ "targets": [
+  {
+   "rank": 1,
+   "name": "Contractor estimate + invoice",
+   "score": 23,
+   "demand": 5,
+   "collapse": 5,
+   "stale": 5,
+   "open": 5,
+   "fit": 3,
+   "incumbents": [
+    "Invoice Maker",
+    "Invoice Simple",
     "SimplyWise",
     "Invoice2go",
     "Joist",
-    "Adobe Scan",
-    "iScanner",
-    "Scanner App",
-    "Tiny Scanner",
-    "CamScanner",
-    "Smart Printer App & Scan",
-    "Cleanup: Phone Storage Cleaner",
+    "GetPaid",
+    "Invoice Home",
+    "Invoice Maker by Invoice Home"
+   ],
+   "risk": "Intuit/QuickBooks ships it; Jobber (#15 Play) and new Solo gig all-in-one (#16 Play, #25 Apple Finance) absorb the job",
+   "status": "open",
+   "note": "scan 5: Solo gone from Apple Finance top 25 but still #15 Play Business; Jobber #16 Play. Apple stack 6 unchanged."
+  },
+  {
+   "rank": 2,
+   "name": "Camera roll cleaner",
+   "score": 22,
+   "demand": 5,
+   "collapse": 5,
+   "stale": 5,
+   "open": 5,
+   "fit": 2,
+   "incumbents": [
+    "Cleanup",
     "Cleaner Guru",
     "AI Cleaner",
     "Swipewipe",
-    "Cleaner Kit",
-    "Cleanup App",
+    "Cleaner Kit"
+   ],
+   "risk": "Apple ships into Photos; needs paid UA",
+   "unlock": "Needle2 on-device LLM (scan 2); local every-frame photo/video search on macOS (Show HN 184pts, scan 3)",
+   "status": "open",
+   "note": "CleanX new at Utilities #25"
+  },
+  {
+   "rank": 3,
+   "name": "GPS audio tour",
+   "score": 20,
+   "demand": 2,
+   "collapse": 5,
+   "stale": 4,
+   "open": 4,
+   "fit": 5,
+   "incumbents": [
+    "GuideAlong",
+    "Parkwolf"
+   ],
+   "note": "only target where David owns distribution",
+   "change": "scan 5: Parkwolf #14->#19, now below the top 18, zero apps in the stack. Demand 3->2, 21->20. Seasonal park demand is off; no chart read on city routes.",
+   "status": "open"
+  },
+  {
+   "rank": 3,
+   "name": "Recipe capture + meal planner",
+   "score": 20,
+   "demand": 5,
+   "collapse": 5,
+   "stale": 4,
+   "open": 4,
+   "fit": 2,
+   "incumbents": [
     "ReciMe",
-    "mise",
-    "Osta",
-    "MealPrepPro",
-    "Pepper",
-    "Mealime",
-    "Mob",
     "TapCook",
-    "NeatEat",
-    "Potto",
     "Whipp",
-    "eMeals",
-    "Epicurious",
-    "MyRecipes",
+    "mise",
+    "Potto",
+    "Osta",
+    "NeatEat",
+    "eMeals"
+   ],
+   "note": "scan 5: Osta #13->#8, Mob and Pepper gone, Gronda #10; stack 8 holds",
+   "status": "open"
+  },
+  {
+   "rank": 3,
+   "name": "Scanner that skips the PDF",
+   "score": 20,
+   "demand": 5,
+   "collapse": 5,
+   "stale": 4,
+   "open": 4,
+   "fit": 2,
+   "incumbents": [
+    "iScanner",
+    "Scanner App",
+    "Adobe Scan",
+    "Smart Printer App & Scan",
+    "CamScanner"
+   ],
+   "risk": "already crowded with AI entrants; stack thinned 5->4",
+   "status": "open"
+  },
+  {
+   "rank": 6,
+   "name": "Voice-to-action assistant",
+   "score": 18,
+   "demand": 4,
+   "collapse": 5,
+   "stale": 3,
+   "open": 3,
+   "fit": 3,
+   "incumbents": [
+    "Pocket AI",
+    "Summary AI Note Taker",
+    "Otter"
+   ],
+   "note": "Otter #13, Summary #16, Speechify #17; Plaud (AI recorder, hardware-tied) new at #25. Still churning.",
+   "status": "open"
+  },
+  {
+   "rank": 7,
+   "name": "Photo calorie logger",
+   "score": 17,
+   "demand": 5,
+   "collapse": 5,
+   "stale": 1,
+   "open": 4,
+   "fit": 2,
+   "incumbents": [
+    "MyFitnessPal",
+    "MacroFactor",
+    "Cal AI",
+    "Cronometer",
+    "MyNetDiary"
+   ],
+   "note": "stack 5; Cal AI #10->#11 (MacroFactor passed it, #10). Stale 1, not recommended",
+   "status": "not recommended"
+  },
+  {
+   "rank": 7,
+   "name": "Identify-anything camera",
+   "score": 17,
+   "demand": 4,
+   "collapse": 5,
+   "stale": 4,
+   "open": 2,
+   "fit": 2,
+   "incumbents": [
+    "PictureThis",
+    "PlantIn"
+   ],
+   "status": "open"
+  },
+  {
+   "rank": 9,
+   "name": "Money coach",
+   "score": 15,
+   "demand": 5,
+   "collapse": 3,
+   "stale": 3,
+   "open": 2,
+   "fit": 2,
+   "incumbents": [
     "Rocket Money",
+    "YNAB",
     "Copilot",
     "Monarch",
-    "YNAB",
-    "EveryDollar",
-    "GuideAlong",
-    "Parkwolf",
-    "Wanderlog",
-    "Cal AI",
-    "PictureThis",
-    "PlantIn",
-    "Lose It!",
-    "Pocket AI",
-    "Hey Noah",
+    "EveryDollar"
+   ],
+   "risk": "Plaid plumbing is the real moat; on-device budgeting (Pulse Local, Show HN) now exists",
+   "status": "open",
+   "note": "Quicken #21->#16 makes the stack 6; SubSeek (subscription manager) new at #24"
+  },
+  {
+   "rank": 9,
+   "name": "Fax / print utility",
+   "score": 15,
+   "demand": 4,
+   "collapse": 1,
+   "stale": 5,
+   "open": 4,
+   "fit": 1,
+   "note": "demand 3->4: FAX from iPhone #8->#6 + FaxFree on Apple, 4 fax apps in Play Business top 25. Collapse still 1, AI does nothing here",
+   "status": "not recommended"
+  },
+  {
+   "rank": 11,
+   "name": "AI study companion",
+   "score": 13,
+   "demand": 4,
+   "collapse": 4,
+   "stale": 2,
+   "open": 2,
+   "fit": 1,
+   "incumbents": [
     "Gauth",
-    "Quizlet",
-    "Invoice Maker ▸ Estimate App",
-    "Invoice Maker by Invoice Home",
-    "Invoice Maker - InvoiceBase",
-    "TapScanner",
-    "Genius Scan",
-    "Jobber",
-    "MacroFactor",
-    "Cronometer",
-    "MyFitnessPal",
-    "Flighty",
-    "Flightradar24",
-    "Flight Tracker +",
-    "Planes Live",
-    "Track My Flight Now",
-    "Speak",
-    "LangLearn",
-    "Learna",
-    "Summary - AI Note Taker",
-    "Otter",
-    "FAX from iPhone",
-    "FaxFree",
-    "MyNetDiary",
-    "Solo: Your Gig Business App",
-    "CleanX",
-    "ScanGuru",
-    "Collect - Settlement Finder",
-    "Settlemate",
-    "Subpilot",
-    "Momo",
-    "Runway",
-    "LADDER",
-    "Invoice Simple (Play)",
-    "FaxFlow",
-    "mFAX",
-    "Tipsy"
-  ],
-  "prd_built": []
+    "Quizlet"
+   ],
+   "note": "Gauth #15->#12 Apple",
+   "status": "not recommended"
+  }
+ ],
+ "seen_apps": [
+  "Invoice Maker - Invoice Fly",
+  "Invoice Maker - Invoice Simple",
+  "SimplyWise",
+  "Invoice2go",
+  "Joist",
+  "Adobe Scan",
+  "iScanner",
+  "Scanner App",
+  "Tiny Scanner",
+  "CamScanner",
+  "Smart Printer App & Scan",
+  "Cleanup: Phone Storage Cleaner",
+  "Cleaner Guru",
+  "AI Cleaner",
+  "Swipewipe",
+  "Cleaner Kit",
+  "Cleanup App",
+  "ReciMe",
+  "mise",
+  "Osta",
+  "MealPrepPro",
+  "Pepper",
+  "Mealime",
+  "Mob",
+  "TapCook",
+  "NeatEat",
+  "Potto",
+  "Whipp",
+  "eMeals",
+  "Epicurious",
+  "MyRecipes",
+  "Rocket Money",
+  "Copilot",
+  "Monarch",
+  "YNAB",
+  "EveryDollar",
+  "GuideAlong",
+  "Parkwolf",
+  "Wanderlog",
+  "Cal AI",
+  "PictureThis",
+  "PlantIn",
+  "Lose It!",
+  "Pocket AI",
+  "Hey Noah",
+  "Gauth",
+  "Quizlet",
+  "Invoice Maker \u25b8 Estimate App",
+  "Invoice Maker by Invoice Home",
+  "Invoice Maker - InvoiceBase",
+  "TapScanner",
+  "Genius Scan",
+  "Jobber",
+  "MacroFactor",
+  "Cronometer",
+  "MyFitnessPal",
+  "Flighty",
+  "Flightradar24",
+  "Flight Tracker +",
+  "Planes Live",
+  "Track My Flight Now",
+  "Speak",
+  "LangLearn",
+  "Learna",
+  "Summary - AI Note Taker",
+  "Otter",
+  "FAX from iPhone",
+  "FaxFree",
+  "MyNetDiary",
+  "Solo: Your Gig Business App",
+  "CleanX",
+  "ScanGuru",
+  "Collect - Settlement Finder",
+  "Settlemate",
+  "Subpilot",
+  "Momo",
+  "Runway",
+  "LADDER",
+  "Invoice Simple (Play)",
+  "FaxFlow",
+  "mFAX",
+  "Tipsy",
+  "Plaud",
+  "SubSeek",
+  "Chromagraph Camera",
+  "Photoroom"
+ ],
+ "prd_built": []
 }

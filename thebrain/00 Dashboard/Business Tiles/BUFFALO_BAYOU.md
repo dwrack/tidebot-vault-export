@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 4
+revenue_today: 568
 lead_time_days: 0
-ad_spend_yday: 23
+ad_spend_yday: 55
 status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-10-26
+alert: "1-star reply accuses guest of lying; Meta $453/7d 0 purchases"
+updated: 2026-10-30
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,27 +18,41 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FH scrape locked out day 4; last good pace thru 10/21 was 59%.
-- Bat Bridge Traffic Sun $22.97, 150 landing page views ($0.15 each). TourPPC campaigns (brand unclear) $39.33 Sun, $173.82 over 7 days, 0 purchases: pause Initiate Checkout and ask Connor.
-- GBP: 7 of newest 9 unreplied, newest Javontae Lee 5-star 10/17. N. Smith 1-star reply is long and defensive in public.
+- **Goal pace: unavailable this run.** FH gap 10/23-10/25. Thu 10/29: 4 booked, $568, against a $4,500/wk target.
+- GBP: Chan Lu 1-star (10/29). The posted reply says "Not sure why you feel the need to lie." Rewrite it today and add a same-day booking cutoff. It's the third cancellation 1-star in 30 days.
+- Houston Meta: $453.25 over 7 days, 0 purchases. Pause Initiate Checkout TourPPC ($209.91/7d). Bat Bridge Traffic runs out Oct 31.
 <!-- live:end -->
+
+<!-- maps:start -->
+### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
+*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+
+| Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
+|---|---|---|---|---|---|
+| downtown houston kayak | 12% | 3/25 | 1.0 | new | 12% |
+| houston bayou kayak tour | 12% | 3/25 | 1.0 | new | 12% |
+| houston canoe rental | 12% | 3/25 | 1.0 | new | 12% |
+| houston kayak rental | 12% | 3/25 | 1.0 | new | 12% |
+| houston kayak tour | 12% | 3/25 | 1.0 | new | 12% |
+
+<!-- maps:end -->
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank M. FISCHER (5955) | $0 |
-| Chase Bank PERFBUS CHK (1893) | $23,022 |
+| Chase Bank M. FISCHER (5955) | -$500 |
+| Chase Bank PERFBUS CHK (1893) | $24,687 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $30,095 |
+| Money in | $27,566 |
 | Spending | $18,441 |
-| Card payments + transfers out | $9,108 |
-| Net, month to date | $4,599 |
-| Net, same days last month | partial: feed starts Sep 21, $7,012 |
+| Card payments + transfers out | $10,236 |
+| Net, month to date | $9,126 |
+| Net, same days last month | $14,066 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|

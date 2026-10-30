@@ -4,7 +4,7 @@ Updated Oct 8. Numbers cover Sept 8 to Oct 7, compared with the 30 days before.
 
 ## How we're doing
 
-**Bookings held, revenue dipped.** 331 bookings (was 343) and $19,175 in website revenue (was $23,447). Same number of people booking, but they're spending less per booking: about $58 now vs $68. That's the end-of-summer shift toward social seats over privates, and it should swing back when the new private saunas open.
+**Bookings held, revenue dipped.** Bookings down 4% and website revenue down 18%. About the same number of people booking, but they're spending about 15% less per booking. That's the end-of-summer shift toward social seats over privates, and it should swing back when the new private saunas open.
 
 **Website traffic is down 20%** (1,635 visits). Google search clicks are flat at about 50 a day, and almost all of it is people already searching our name.
 

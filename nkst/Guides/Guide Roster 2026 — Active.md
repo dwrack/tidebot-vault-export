@@ -16,7 +16,6 @@
 | **Josh Smith** | 985-602-6278 | joshua.chs@yahoo.com | Wed–Sun, anytime. No combos. Also available for ads/cleaning |
 | **River Bourne** | 407-310-7794 | riverbourne.here@gmail.com | Fri & Sat |
 | **MJ Hicks** | 301-471-9283 | madelinejoan4@gmail.com | Any day/time. Prefers extended tours. No late Tuesdays |
-| **River Umberger** | 813-748-9878 | riverwalking777@gmail.com | Sat/Sun only |
 | **Michelle Healey** | (216) 262-3865 | mcnamml@gmail.com | Contractor + guide. Availability per contractor schedule |
 | **Ryan Carr** | 770-823-2459 | cairnsmusic@yahoo.com | Thurs/Fri primary; combos/ext Wed & Sat, 2–3 shifts/week. **No Sundays.** Can pick up Mon/Tue calloffs |
 

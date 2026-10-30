@@ -189,6 +189,8 @@ Rollback at any point: set GoDaddy nameservers back to cody/lucy.ns.cloudflare.c
 
 ## 9. Session log
 
+- 2026-10-26: David answered round 1 from the guide Mac (repo not reachable there, no code changed). 2027 lineup cut to the core plus paddle board rental; cancel 48 hrs; e-bike riders 12+; calm dogs on every tour. Logged at the top of `13 Questions for David.md`, about 50 of 109 cleared. Apply in the repo next session on the main laptop.
+
 - 2026-10-19: all 27 tour, rental, sauna and hub pages rebuilt on the shared TourPage, each fact-checked and SEO-checked by separate reviewers, then a cross-page consistency pass (25 findings, all resolved or parked as questions). 16 internal links added to top blog posts; stale facts ($4 park fee, age 8, no-dogs, sunset tour) removed from 15 ported posts. Catalog photos all checked by eye; watermarked hero replaced. Winter e-bike tour and Cana Island shown as paused until confirmed. Preflight: 0 errors on 121 pages. 109 open questions consolidated in `13 Questions for David.md` (production build blocked until answered). Pushed to dwrack/dckt-site (d6057a7). Nothing live, DNS untouched.
 
 - 2026-10-16: crawl, research, plan, repo scaffold, all 121 URLs building, home + Cave Point + pregnancy post designed, keyword map (file 10), schema plan (11), parked conditions design (12). David: seasonal hero (e-bikes Oct-Mar), no weather forecasting. Weather strip removed. Private GitHub repo dwrack/dckt-site pushed. Nothing live, DNS untouched.

@@ -145,3 +145,39 @@ Purchase is the only goal used by all 23 campaigns. It has 3 primary actions, th
 4. **Budget:** raise BBK PMax from $15 to $25/day, since it's the only campaign limited by budget. Leave the Austin budgets as they are.
 5. **HPB Search:** pause "booze cruise" and "party cruise" (broad) and "pedal boats houston". Switch "pedal boat" from broad to phrase match.
 6. **Season:** wind the bat campaign down around Oct 25 and pause it Oct 31, per the 10/15 plan. After that, move the bat budget into PMax only if PMax becomes budget-limited.
+
+## One-week check (2026-10-27)
+
+Pulled from the Google Ads UI (Michael's Chrome) for **Oct 20–26, 2026**, compared with **Oct 13–19**. Prior-week values are back-calculated from the UI's % change column, so they may be off by a cent or a rounding step. Nothing in the account was changed during this check.
+
+| Campaign | Status / flags (now) | Cost | Conv | Value | ROAS | CPA |
+|:-|:-|-:|-:|-:|-:|-:|
+| PMax (Lone Star) | Eligible; 8.9% IS lost to budget (was ~17%) | $321 → **$307** | 9.0 → **10.0** | $1,066 → **$975** (−8.6%) | 3.32 → **3.17** | $36 → **$31** |
+| Bat search | Eligible (Limited by search volume) | $116 → **$56** | 2.0 → **1.0** | $162 → **$217** | 1.40 → **3.84** | $58 → **$56** |
+| Brand (LSKT) | Eligible, serving | $0 → **$2.18** | 0 → **0** | $0 → **$0** | — | — |
+| HPB search | Eligible (Limited: most ads limited by policy) | $64 → **$48** | 3.0 → **1.0** | $676 → **$302** | 10.5 → **6.28** | $21 → **$48** |
+| BBK National test | **Paused** (by Michael, Oct 26 9:40 AM) | $0 → **$58.25** | 0 → **0** | $0 → **$0** | 0 | — |
+| BBK Generic Local | Eligible (Limited by search volume) | $32 → **$21** | 3.5 → **2.0** | $254 → **$260** | 8.0 → **12.5** | $9 → **$10** |
+| BBK PMax (for reference) | Limited by budget ($15/day) | $107 → **$85** | 5.7 → **2.0** | $717 → **$1,125** | 6.7 → **13.2** | $19 → **$43** |
+
+All of these are 1–10 conversions per week, so week-to-week swings are mostly noise.
+
+### Findings
+- **Brand is serving, but at very low volume.** It had 18 impressions, 6 clicks, $2.18 spend, a **$0.36 CPC** and 0 conversions. Search terms were "lone star kayak tours" (4 clicks, $1.84), "lonestar kayak tours" (2 clicks, $0.34), "lone star kayak" and "lone star kayak tours reviews" (impressions only). It is far from its $10/day budget.
+- **Brand terms in PMax are mostly gone.** One click on "lone star kayak tours" still went through PMax ($1.82 CPC, five times Brand's CPC), and "lone star bat tour austin" got 1 click ($0.45). Check that the PMax negative list holds the "lone star kayak" / "lonestar kayak" phrase negatives as intended.
+- **PMax value fell 8.6%, inside the ~10% threshold.** Conversions rose from 9 to 10, and CPA improved from $36 to $31. Brand did not pick up the lost value (0 conversions), but the drop is small and within noise. IS lost to budget fell from ~17% to 8.9%. The largest zero-conversion PMax terms were "austin kayaking" ($22) and "bat kayak tour austin" ($18), both on-intent.
+- **Bat search:** all 4 keywords are still **Paused** ("austin bat tour", "bat tour", "austin bats", "austin bat kayak rental"). "austin bat tour" spent $2.60 on Oct 20, before the noon pause. No new search term reached $10 with 0 conversions; the largest was "kayak bat tour austin" at $5.68. The keyword "austin kayak bats" spent **$32.45 with 0 conversions**, mostly on hidden search terms. Spend halved to $8/day, and ROAS rose from 1.4x to 3.8x on 1 conversion. Change history also shows a "Budget changed" entry on this campaign on Oct 26 at 9:42 AM by Michael. The budget still shows $30/day, and I did not open the entry's detail.
+- **HPB "pedal boat" phrase** is **Eligible**, which means it is approved, but it got only 3 impressions and 0 clicks, so there is **no CPA yet** to compare with the old broad keyword's $124. The old broad "pedal boat", "booze cruise", "party cruise" and "pedal boats houston" are all Paused. Most HPB spend went to "houston pedal barge" (broad): $38.81 for 1 conversion, $302 value. Small leftovers: "houston booze cruise" ($2.02) and "booze cruise kemah" ($0.34, out of area). On Oct 26, Michael added a new ad group, "Party Barge – No Alcohol Test", with new RSAs and target ROAS changes, plus a target ROAS cut on the "Pedal boat" ad group. Judge HPB again after those changes have a week of data.
+- **BBK National test failed, and Michael already paused it on Oct 26.** It spent $58.25 for 21 clicks at a **$2.77 CPC** with **0 conversions**, 11.8% IS lost to budget. Junk or off-target terms: "kayak the woodlands waterway" ($5.05, different area), "bumper boats and kayaks at discovery green" ($4.29) and "kayaking discovery green" ($2.95), which point to a different attraction. Overlap terms: "kayaking houston" ($4.25), "kayak houston" ($3.09), "kayaking near houston" ($2.31) and "houston kayak tours" ($1.61), all Houston-local searches that BBK Generic Local already covers.
+- **Possible cannibalization:** BBK Generic Local's conversions fell from 3.5 to 2.0 and its cost from $32 to $21 while National was running, but its value held at $260. That fits mild overlap, though the sample is too small to prove it.
+
+### Reminder
+**Bat season ends Oct 31.** Pause "[FH] Search – Generic – Shname_lonestarkayaktours – Bat – Local" then, per the 10/15 plan.
+
+### Recommended changes (awaiting Michael's approval; none applied)
+1. **Pause Bat search on Oct 31.** Optionally pause the "austin kayak bats" keyword now ($32, 0 conversions this week).
+2. **Leave BBK National paused.** Do not relaunch it as is. Any retest should exclude Houston-local terms, or add negatives (woodlands, discovery green, bumper boats), so it stops overlapping BBK Local.
+3. **Brand:** no change. Keep it at $10/day and review after 30 days.
+4. **PMax:** no change. Only check that the brand phrase negatives cover "lone star kayak tours", since one click still went through.
+5. **HPB:** no keyword changes this week. Let Michael's Oct 26 ad group and target ROAS changes collect data, then check the "pedal boat" phrase again around Nov 3. Optional: add "kemah" as a negative.
+6. **BBK PMax:** keep it at $15/day (ROAS 13x, but only 2 conversions; no strong signal to raise it).

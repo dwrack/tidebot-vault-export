@@ -10,6 +10,19 @@ kanban-plugin: board
 
 ## This Week
 
+- [ ] **DCKT FDE** — re-auth google-dckt token (`node ~/.claude/mcp-servers/google-personal/oauth-helper.js doorcountykayaking@gmail.com`, then restart Claude Code). Gmail, GSC, GA4 dead as of 10/26 — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **DCKT FDE** — decide Astro site swap go/no-go (needs GoDaddy + Cloudflare); recommended cutover week of Nov 9 — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **DCKT FDE** — win-back drip: SES smoke test this week, hold first send to early Jan with 2027 early-bird (DNS blocker cleared 10/26) — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **DCKT FDE** — GBP cleanup: seasonal hours, e-bike post phone/domain mismatch, Fish Creek website, 2 review replies (drafts in report) — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **DCKT FDE** — Google Ads 2027 prep: brand-campaign negatives (~$425/90d leak), clear end dates, dead Detours conversion actions — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **DCKT FDE** — OpenCX: listen to 19 unresolved phone calls (Oct 1-23); David to see ticket 384 (distress message, no human follow-up) — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **DCKT FDE** — refill Pinterest queue (empty, 26/26 posted) — [[Door County Kayak Tours/FDE/FDE Report 2026-10-20|DCKT FDE]]
+- [ ] **NPB FDE 10/26** [[NOLA Party Barge/FDE/FDE Report 2026-10-26|report]] — answer 5 stuck OpenCX leads (#1822 private boat 10/31), flip missed-call text-back live (80% missed, dry-run), fix GBP title/hours ("Swamp Tour" wording causes mismatch reviews), strip "pedal" from Google ad assets, pause Meta "New Sales Campaign", explain 7d Google conv -47%
+- [ ] **BBK FDE** ([[Buffalo Bayou Kayak/FDE/FDE Report 2026-10-26|report]]) — Meta: pause Awareness (~$690/mo) + bat traffic to $10/day until 10/31 (~$300/mo), 0 purchases credited in 30d. David yes needed
+- [ ] **BBK FDE** — reply to 10/26 refund text + missed call (Connor, today); reply to 6 unanswered GBP reviews, replace 9/21 argumentative reply
+- [ ] **BBK FDE** — bat page edits (title "Users", 2 vs 3 hr, season line, all-in price, Book above fold) + `ref=` on FH links + remove July 4th tour (Connor, wp-admin)
+- [ ] **BBK FDE** — Google PMax $15 to $25/day (6.19x), review in 14 days. David yes needed
+- [ ] **BBK FDE** — fix fhscrape on mbp-2 (`FH_HEADED=1 node scrape.js --setup`, add BBK), connect GSC for buffalobayoukayak.com
 - [ ] **IN FLIGHT** [[NOLA Booze Cruise/Website Rebuild/Rebuild Plan 2026-10-22|NOLA Booze Cruise site rebuild]] — pilot for moving FH sites to Cloudflare Pages. Phase 0 baseline running 10/22. David: renew domain (expires 11/06)
 - [ ] **IN FLIGHT** Plantation & Swamp Tours site (`Admire NOLA/Sites/plantation-swamp-tours/`) — 35 pages built, not live. Needs: domain, phone routing call, GBP address fix OK, real boat photos
 - [ ] **IN FLIGHT** NPB reviews — Jillian Howell (marshmallows) and DeAnthony Rosser 3★ replied 10/22 (do not reply again). Still open: ask manager about feeding + set no-feeding rule; Sha'Dajah Jackson 3★ reply (from 10/20 brief)
@@ -22,6 +35,14 @@ kanban-plugin: board
 - [ ] **IN FLIGHT** Stalled Q4 goals — Cave Point/DCKT route copy (~30 min) + E&E GSC verify (~20 min), or reset dates
 - [ ] **IN FLIGHT** Systems Grid audit (from the 10/18 Founder OS reel) — map each brand as 6 functions x 5 parts (checklist, owner, dashboard, cadence, break rule); start with NPB and DCKT, empty cells = where David is still the bottleneck
 
+- [ ] **HPB FDE 2026-10-26** ([[Houston Pedal Barge/FDE/FDE Report 2026-10-26|report]]) — Connor to clear 20 unanswered OpenCX handoffs, Alexandria June 6 refund (BBB threat) first; route handoff alerts to a person
+- [ ] **HPB FDE** — pause Meta Followers Reboost (~$300/mo, 0 purchases) + clean Google Search junk kws (Search - HPB is 2.85x, in acct 8497383499). David yes needed
+- [ ] **HPB FDE** — site: all-in price + consistent `ref=` on FH links + www/non-www canonical (wp-admin); wire FH to GA4 (0 purchase events); Mon crew reels need Connor footage
+- [ ] **NKST FDE 2026-10-26** — fix Google Ads conversion tracking (kayaknola purchase not counted), then restart Local campaign; both kayak campaigns dark since 10-07 [[New Orleans Kayak Swamp Tours/FDE/FDE Report 2026-10-26|report]]
+- [ ] **NKST FDE** — answer OpenCX handoffs #468 Amy Baxter + #466 Dylan Drinkwater (12 days stale), clear 66-session backlog, route handoff alerts to a person
+- [ ] **NKST FDE** — fix live FAQ prices ($59/$79/$199/$175 vs $65/$90/$130/$195), add all-in price + rating + cancellation line, fix fishing page link to NPB boat, per-page ref= (needs wp-admin)
+- [ ] **NKST FDE** — reply to 38 unanswered 5-star GBP reviews (drafts shown before posting)
+- [ ] **NKST FDE** — Oct 1-15 payroll BLOCKED; FH webhook silent since 10-21
 - [ ] [[Creator Outreach Program]] — send 27 warm-lead DMs (needs: send OK, discount %, who sends)
 - [ ] [[Google Ads Cleanup — FareHarbor Tracker]]
 - [ ] [[Meta Ads Strategy — All Businesses]]

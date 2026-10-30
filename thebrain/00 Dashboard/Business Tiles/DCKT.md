@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data stale — FH scrape missing"
-updated: 2026-10-26
+status: green
+alert: null
+updated: 2026-10-30
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,15 +18,28 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FH scrape locked out day 4; last good pace thru 10/21 was 11%. Kayak season is over.
-- Meta $0 all week. Google Ads blind (v22).
-- GSC: "door county kayak tours" pos 1 (3 clicks); hiking queries carry the site.
-- GBP: Shelley Mickelson 5-star 10/7 unreplied.
+- **Goal pace: unavailable this run.** Season over. FH 0 booked Thu, against a $7,000/wk hold target.
+- Google: 2 ENABLED campaigns, 0 impressions for 7 days. Pause them or leave them until spring.
+- GSC: "baileys harbor" 5 clicks at 1.4 (362 impressions), "kayak door county" at 1.0. GBP: newest 10 all replied.
 <!-- live:end -->
+
+<!-- maps:start -->
+### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
+*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+
+| Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
+|---|---|---|---|---|---|
+| door county kayak rental | 8% | 2/25 | 1.5 | new | 8% |
+| door county kayak tours | 36% | 9/25 | 1.1 | new | 36% |
+| door county tours | 4% | 1/25 | 1.0 | new | 4% |
+| sea cave kayaking door county | 8% | 2/25 | 2.0 | new | 8% |
+| things to do in door county | 4% | 1/25 | 3.0 | new | 4% |
+
+<!-- maps:end -->
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -34,20 +47,20 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $11,455 |
-| Spending | $8,170 |
+| Money in | $5,347 |
+| Spending | $3,110 |
 | Card payments + transfers out | $30,469 |
 | Net, month to date | $2,237 |
-| Net, same days last month | partial: feed starts Sep 08, $8,607 |
+| Net, same days last month | partial: feed starts Sep 08, $9,655 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $5,347 | $14,030 | -62% |
-| Month to date, spending | $3,110 | $11,504 | -73% |
-| Month to date, net | $2,237 | $2,526 | -$288 |
+| Month to date, money in | $5,347 | $15,132 | -65% |
+| Month to date, spending | $3,110 | $12,407 | -75% |
+| Month to date, net | $2,237 | $2,725 | -$488 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** Payroll-Homebase PCR 3b $4,991; WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151
+**Top spending, 30 days:** WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151; joinhomebase.com joinhomeba ST-Z $99
 <!-- finance:end -->
 
 ## Quick links

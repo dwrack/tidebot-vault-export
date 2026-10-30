@@ -1,5 +1,40 @@
 # Questions for David before launch
 
+> **DECISIONS 2026-10-26 (David, from dckt-guide-mac).** Apply these in `~/Projects/dckt-site` on the main laptop (the repo is not on this Mac). About 50 of the 109 are cleared.
+>
+> **2027 lineup:** paddle board rental STAYS. Saunas (Sauna Experience, Airstream, tent), SUP Yoga, surrey/quad bikes and the Fish Creek e-bike self-rental are NOT OFFERED in 2027. Each keeps its URL as a "not offered" page that points to the closest live product (no 404, no sale, nothing to book). Fish Creek: /sister-bay-e-bike-rental/ and /peninsula-state-park-fat-tire-e-bike-tour/ point to the Cave Point e-bike rental.
+> - Cleared by that: sauna 6, 7, 8, 32-37, 40, 83-94 (also fix the blog post in 86 so it stops selling saunas); SUP Yoga 12, 107-109; surrey 13, 27-31; Fish Creek 2, 17, 18, 78-82, 95-99. #101: the boards were not sold, rental runs in 2027. #11 still needs prices/dates confirmed.
+> - **#48 cancellation:** 48 hours for a full refund. SITE.rules.cancelHours stays 48. Fix the live Terms of Service (says 24) to match.
+> - **#1 / #45 e-bike rider age:** 12+ (was printing 14+). Still open: rider weight limit, and whether 12 to 17 need an adult on the ride.
+> - **#52 dogs:** calm, well-behaved dogs welcome on every tour, kayak and e-bike.
+>
+> **ROUND 2 (David, 2026-10-28):**
+> - **#49 weather:** spell out the 4 checkout options on the site, in the live checkout wording: (1) no flexibility to reschedule, +$5/person, 100% refund; (2) reschedule to a different day, 100% refund after 1 reschedule; (3) reschedule to a different tour if conditions are not right, 100% refund if no tours are safe; (4) reschedule to a different tour or day, 100% refund if no tours are safe. Plus the line: "We only ask you try to reschedule once; if weather doesn't cooperate the second time, we refund 100% or reschedule you again." Replaces the one-line weather promise everywhere (also settles #73, #76 for fall, and rentals in #56, #105 follow the same 4 options unless David says otherwise).
+> - **#50 short groups:** remove the short-group line from the site entirely. Also drop it from the fall page (#74 cleared).
+> - **#51 tandem:** 500 lb combined, with "tell us at booking if anyone is close." (#57 limit part cleared; tandem model still open.)
+> - **#53 / #19 helmets:** required on every e-bike ride and provided free. Guided tour copy reads "bike, helmet and guide included." 2-bike minimum still open.
+>
+> **ROUND 3 (David, 2026-10-29): "just keep it all the same"** = match the current live site on these four:
+> - **#9 fall kayak tour:** **David is removing the "Fall Tour" item from FareHarbor (2026-10-29).** No separate fall product in 2027. /kayak-tours/fall-tours/ keeps its URL (it ranks) as a "paddling in fall" page that sells the regular Cave Point tour at $69, with its own FH link, and no fall-only price or booking. Remove the fall row from /kayak-tours/ and /activities/. This also clears #72-76. Assumed: the regular tours run through mid-October. Confirm when convenient.
+> - **#16 Cana Island:** keep as live (listed, "Email to Book," $110). Meeting spot still unconfirmed.
+> - **#44 winter e-bike tour:** keep the page as live, same FH item 208420. Winter days still unconfirmed.
+> - **#60 cliff jump:** keep the optional Devils Bathtub jump as the live page sells it.
+>
+> **ROUND 4 (David, 2026-10-29):**
+> - **#1 / #45 teen riders:** 12 to 17 ride their own e-bike with a parent or guardian in the same group. (Rider weight limit still open.)
+> - **#53 2-bike minimum:** dropped. Solo riders can book e-bikes. Check the FareHarbor items for a 2-bike minimum and remove it there too.
+> - **#59 Cave Point half-day meeting and launch:** guests meet at the Jacksonport shop (6329 Highway 57), then ride our bus down to the Schauer Park launch. Pages say "meet at the shop, we shuttle you to the launch."
+> - **#61 / #65 half-day picnic:** included on both half-day tours (Cave Point and Door Bluff), confirmed by David. Menu as the live pages describe it (chevre, dried cherries, pickled items, crackers). Drop the "lunch is on you" line from the May 2026 shipwreck draft. Allergy handling still open.
+>
+> **ROUND 5 (David, 2026-10-29):**
+> - **#58 Cave Point half-day hike:** yes, a short hike is included. Page says paddle, short hike and picnic.
+> - **#3 guided Cave Point e-bike tour season:** May through October.
+> - **#100 Sunset Glow Roll:** gone for good. Title drops "Paused for Now," the page gets noindex and points to the Cave Point e-bike tour.
+> - **#10 kayak rental:** paddle and life jacket included with every kayak. Kids 4+ ride in a tandem with an adult, same as the tours. 2027 rental dates still open.
+>
+> Still open after round 5: about 33. Answer in any order.
+
+
 *109 open questions, collected 2026-10-19 from the preview build. Each one shows as a yellow note on the page(s) listed; the production build will not finish until they are answered. Answer in any order; one answer can clear several pages.*
 
 1. E-bike minimum rider age: the catalog prints "Riders 14+" (the live e-bike hub says ages 14 to 18 ride their own bike with an adult) but the live rental pages say All Ages. Confirm the rule, and any rider weight limit, before it prints.  

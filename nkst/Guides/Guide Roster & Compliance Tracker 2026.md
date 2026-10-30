@@ -18,7 +18,6 @@
 | Josh Smith | 985-602-6278 | joshua.chs@yahoo.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 | River Bourne | 407-310-7794 | riverbourne.here@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 | MJ Hicks | 301-471-9283 | madelinejoan4@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
-| River Umberger | 813-748-9878 | riverwalking777@gmail.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 | Michelle Healey | (216) 262-3865 | *(confirm email)* | ✅ | ❓ | ❓ | Contractor + guide — confirm ICA applies to her role |
 | Ryan Carr | 770-823-2459 | cairnsmusic@yahoo.com | ✅ | ❓ | ❓ | Verify ICA on DocHub |
 

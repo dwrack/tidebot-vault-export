@@ -47,19 +47,19 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Nicolet National Bank 7297382 Davids Personal (7382) | $31,866 |
-| American Express Delta SkyMiles® Reserve Card (5002) | -$2,213 |
+| American Express Delta SkyMiles® Reserve Card (5002) | -$2,732 |
 
 | Last 30 days | Amount |
 |---|---|
 | Money in | $18,462 |
-| Spending | $61,552 |
+| Spending | $62,071 |
 | Card payments + transfers out | $12,730 |
-| Net, month to date | -$43,090 |
+| Net, month to date | -$43,609 |
 | Net, same days last month | partial: feed starts Sep 08, $6,626 |
 
 | vs same period last year | This year | Last year | Change |
@@ -77,40 +77,40 @@
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Oct 26. Read-only.*
+*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Nicolet National Bank Small Business Checking (3971) | $12,860 |
-| Chase Bank D. RACK (1450) | -$1,554 |
+| Chase Bank D. RACK (1450) | -$1,611 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $4,770 |
-| Spending | $876 |
+| Money in | $3,945 |
+| Spending | $932 |
 | Card payments + transfers out | $4,306 |
-| Net, month to date | $3,069 |
-| Net, same days last month | $331 |
+| Net, month to date | $3,013 |
+| Net, same days last month | partial: feed starts Sep 08, $1,156 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $3,945 | $0 | n/a |
-| Month to date, spending | $876 | $1,907 | -54% |
-| Month to date, net | $3,069 | -$1,907 | $4,976 |
+| Month to date, spending | $932 | $1,972 | -53% |
+| Month to date, net | $3,013 | -$1,972 | $4,984 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,168 | $28,294 | -18% |
-| Trailing 12 months, net | -$23,168 | -$27,698 | $4,530 |
+| Trailing 12 months, spending | $23,160 | $28,275 | -18% |
+| Trailing 12 months, net | -$23,160 | -$27,679 | $4,519 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
-**Top spending, 30 days:** SWBNO UTILITY $574; OVERHEAD GARAGE DOOR - OV $286; DOCHUB $16
+**Top spending, 30 days:** SWBNO UTILITY $574; OVERHEAD GARAGE DOOR - OV $286; COX COMM LOU $56; DOCHUB $16
 
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 <!-- finance-auto:end -->
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Oct 26. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Oct 30. Balances only.*
 
 | Account | Balance |
 |---|---|

@@ -1,33 +1,33 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-10-26 (Railway keys still need rotating; FH scrape locked out day 4; Google Ads blind day 7 on v22; NPB Meta 7d 2.77 ROAS on $1,367; Houston Meta $385/7d for 0 purchases; 2 TLDR items cleared the bar.)*
+*Last refresh: 2026-10-30 (BBK 1-star reply calls the guest a liar, rewrite it; payday today and still no Homebase submitted email; Houston Meta $453/7d for 0 purchases; NPB Gator Collision selling again, don't cut.)*
 
 ## Right now
 - [Today's decisions + digest (DJL Morning Digest)](https://claude.ai/artifact/QbPUmAfxBpB7WUffSGbFSn)
-- [[Daily Briefings/2026-10-26|Today's brief]]
+- [[Daily Briefings/2026-10-30|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Railway (TideBot)**: rotate the Anthropic key, the Slack tokens and the rest of the env vars on the TideBot Railway service. The 10/23 "may be at risk" email is still unread (checker confirmed 10/26). Check the Anthropic console for usage since 10/21 that isn't yours first. About 20-30 min.
-2. **FareHarbor (all 6 FH brands)**: re-run `FH_HEADED=1 node scrape.js --setup` with your 2SV code. Day 4 of 6 x 403, no bookings, revenue or goal pace for NPB, NKST, LSKT, BBK, HPB, DCKT since 10/21.
-3. **Google Ads (NPB, LSKT, HPB, DCKT)**: bump API_VERSION off v22 on line 8 of the MCP's index.js and restart. Day 7 blind; all 4 accounts failed UNSUPPORTED_VERSION this morning.
+1. **Buffalo Bayou Kayak**: rewrite the reply on Chan Lu's 1-star (10/29). It currently opens "Not sure why you feel the need to lie." Third cancellation 1-star in 30 days. Have Connor edit it today and add a same-day booking cutoff in FH.
+2. **All payroll brands**: payday is today and there's still no Homebase "submitted" email for Oct 12-25 (deadline was 10/28 6pm). Open Homebase now and check for 40+ hour punches before it goes.
+3. **Houston Meta (BBK/HPB)**: $453.25 over 7 days, 0 purchases. Pause Initiate Checkout TourPPC ($209.91/7d) and Followers Reboost ($57.44/7d). Let Bat Bridge run out Oct 31. Also: NKST booked only 1 / $360 Thu (down 78%) going into Halloween weekend, and E&E Best Spa voting closes Nov 3.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday | 7-day avg | Δ |
+| Signal | Yesterday | Prior brief | Δ |
 |---|---|---|---|
-| Gmail unread (business inbox, list capped at 50) | 50+ | n/a | n/a |
-| Unreplied 5-star in newest 10 per location (8 locations) | 34 | n/a (first count) | n/a |
-| FH bookings (6 FH brands) | — (scrape locked out) | 32.7/day (thru 10/21) | — |
-| FH revenue (6 FH brands) | — | $6,025/day (thru 10/21) | — |
-| Total ad spend (Meta only, Google blind) | $242.46 | $250.31 | -$7.85 |
-| Ad-attributed conversions (Meta purchases) | 2 | 2.9/day | -0.9 |
+| Gmail unread (business inbox) | 3 non-newsletter in 2-day search (list 429'd) | 30+ incl. newsletters | n/a |
+| Unreplied GBP reviews, newest 10 per location (12 locations) | 8 (all 5-star) + 1 bad 1-star reply | 6 | +2 |
+| FH bookings (6 FH brands) | 22 | 14 | +8 |
+| FH revenue (6 FH brands) | $3,397 | $2,433 | +$964 |
+| Total ad spend (Meta + Google) | $566.22 | $526.97 | +$39.25 |
+| Ad-attributed conversions (Google conv + Meta purchases) | 9 | 2 | +7 |
 <!-- pulse:end -->
-*Goal pace unavailable today: FH scrape locked out (last good pace, thru 10/21: NKST 219%, NPB 86%, LSKT 61%, BBK 59%, HPB 20%, DCKT 11%). Full writeup in today's brief.*
+*Goal pace unavailable today: the 10/23-10/25 FH scrapes 403'd, so there's no clean trailing 7 days. Full writeup in today's brief.*
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-10-26]] (today)
-- [[Daily Briefings/2026-10-25]] (1 day ago)
-- [[Daily Briefings/2026-10-24]] (2 days ago)
-- [[Daily Briefings/2026-10-23]] (3 days ago)
-- [[Daily Briefings/2026-10-22]] (4 days ago)
-- [[Daily Briefings/2026-10-21]] (5 days ago)
-- [[Daily Briefings/2026-10-20]] (6 days ago)
+- [[Daily Briefings/2026-10-30]] (today)
+- [[Daily Briefings/2026-10-29]] (1 day ago)
+- [[Daily Briefings/2026-10-28]] (2 days ago)
+- [[Daily Briefings/2026-10-27]] (3 days ago)
+- [[Daily Briefings/2026-10-26]] (4 days ago)
+- [[Daily Briefings/2026-10-25]] (5 days ago)
+- [[Daily Briefings/2026-10-24]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
