@@ -17,6 +17,13 @@
 - [ ] Group reviews the 4 prototypes (pitch page link in [[Website Rebuild — Prototypes (Aug 2026)/README]]), pick a direction → full Astro build
 - [ ] Confirm identity/consent of the crew member visible in the ET prospectus hero clip (IMG_8738 folder wasn't in the June clearance)
 
+## Session Logs → Content (added 2026-11-04, later)
+- [ ] Copy the NKST guide-log flow (Slack written log → TideBot vault note → action items pulled out → used in carousels/newsletters, e.g. "7 fall trips, 5 saw gators") for E&E hosts
+- [ ] Sites: Elevated Tides marina, The Rose sauna, the Private Saunas (V2)
+- [ ] Draft a Host Session Log template (site, session time, guest count, water/weather/sky, temp, what guests said or did, standout moments, photo OK?, issues, maintenance)
+- [ ] Decide where hosts post (Slack channel) and get TideBot filing them under `ee/Host Logs/`
+- [ ] First content pull once ~4 weeks of logs exist
+
 ## High Priority
 - [ ] Install carbon monoxide detector
 - [ ] Install fire alarm
