@@ -2,7 +2,7 @@
 type: plan
 business: NOLA Party Barge
 date: 2026-09-10
-source: marina brainstorm transcript (David), 2026-09-10
+source: marina brainstorm transcript (David + JT), 2026-09-10
 owners: David, Jeff
 status: decisions made 2026-09-10, see bottom
 ---
