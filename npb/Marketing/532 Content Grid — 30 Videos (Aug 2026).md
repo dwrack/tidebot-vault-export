@@ -1,7 +1,7 @@
 # NPB — 532 Content Grid, 30 Videos
 
 *Method: [[532 Content Method — 30 Videos Per Month (Aug 2026)]]. Cover rules: [[Headline Typography — Cover & Thumbnail Standard (Aug 2026)]].*
-*Built Aug 11 2026. Owner: Jeffrey / JT. Shoot by layout, not by day.*
+*Built Aug 11 2026. Owner: Jeffrey. Shoot by layout, not by day.*
 
 ---
 

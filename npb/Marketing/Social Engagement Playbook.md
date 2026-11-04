@@ -58,7 +58,7 @@ Never paste these word for word, vary them or they read as canned. They're a run
 ## How the nudge + accountability loop works
 
 - **On-tour crew (Track A):** about 30 minutes into a tour, the deckhand gets one text with a thread, an angle, and a starter. They comment during a cruise lull (2-3 min, never while loading or docking), then text back the link (FB) or a screenshot (Reddit).
-- **Team daily (Track B):** Jeff, JT, and Michael each get one thread a day to comment on. Same rules, same reply-back.
+- **Team daily (Track B):** Jeff and Michael each get one thread a day to comment on. Same rules, same reply-back.
 - **Accountability:** the reply (link or screenshot) gets logged automatically against that thread. No reply = it didn't happen, and it shows up as an open loop. We're tracking who's pulling their weight, not to nag, to see what's working.
 - **Did it land:** we check back on the comment for replies/upvotes (Reddit) and brand mentions (FB) so we learn which angles actually spark conversation.
 

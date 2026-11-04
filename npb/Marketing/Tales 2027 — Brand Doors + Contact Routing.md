@@ -19,7 +19,7 @@ Rule from the plan: route through the connector, don't cold-email brand HQ. Orde
 | Carolyn Nash, TOTCF Events Coordinator | Reports to Alex Smith. Events Coordinator since Dec 2024; before that a marketing intern who ran the Foundation's shared email inbox, so she likely still triages info@. Easier first touch than the director. | No direct email published. LinkedIn: linkedin.com/in/carolyn-nash16. Reach via info@talesofthecocktail.org with her name in the subject, or a LinkedIn note. | *verified title*, no direct email |
 | Beachbum Berry / Latitude 29 | Tiki royalty, NOLA-based, Sippin' Santa co-creator. One relationship covers Tales (Track A) and holiday parties (Track B). | 321 N Peters St. (504) 609-3811, info@latitude29nola.com. Sippin' Santa partnership inquiries at sippinsantapopup.com | *verified* |
 | USBG New Orleans chapter | Offer a free industry night in spring 2027 so bartenders have been on the boat before Tales. | National president T. Cole Newton is a New Orleans bar owner (Twelve Mile Limit). Chapter contact via usbg.org chapter directory; national office tsoles@usbg.org | *partly verified*, chapter officer name not confirmed |
-| Southern Glazer's / RNDC / Crescent Crown NOLA reps | They know which brands have unspent activation money. | Ask Sophia (beverage program) and JT which reps already call on the marina. | not started |
+| Southern Glazer's / RNDC / Crescent Crown NOLA reps | They know which brands have unspent activation money. | Ask Sophia (beverage program) and Jeff which reps already call on the marina. | not started |
 
 ## Step 2. Target brands (after Step 1 has a name to drop)
 

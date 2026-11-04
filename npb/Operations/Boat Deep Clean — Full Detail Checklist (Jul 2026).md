@@ -18,4 +18,4 @@ Bathrooms fully detailed
 - [ ] Oil (roof/wood after powerwash)
 - [ ] Bathrooms fully detailed
 
-Owner: Jeff / JT to schedule with crew. Also tracked in [[Todo]].
+Owner: Jeff to schedule with crew. Also tracked in [[Todo]].

@@ -95,7 +95,7 @@
 **Captain is responsible for:**
 - Counting the pool at end of trip, cash and digital
 - Splitting with your deckhand same day, no IOUs
-- Texting the total to JT or Jeffrey
+- Texting the total to Jeffrey
 
 ---
 
@@ -117,7 +117,7 @@
 ## How to Claim an Add-On
 
 **Pre-authorized only** (items 5, 6, 7):
-- Jeff or JT assigns it in writing before you do it. Slack DM is fine.
+- Jeff assigns it in writing before you do it. Slack DM is fine.
 - Not assigned in writing = doesn't pay.
 - This isn't distrust. It keeps the paperwork clean on both sides and means you never do work wondering if it counts.
 

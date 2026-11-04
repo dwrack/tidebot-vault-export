@@ -1,6 +1,6 @@
 # NOLA Spots + Mardi Gras 2027 Krewes: Research (2026-09-30)
 
-*Web research, checked 2026-09-30 against live 2026 listings. Nobody phoned these places. Feeds [[NPB Lead Capture + Drip Plan (Oct 2026)]]: the Crew's Picks, the restaurants rewrite, and the Mardi Gras 2027 guide. Jeff and JT's picks get merged in when they reply. Re-verify before each publish.*
+*Web research, checked 2026-09-30 against live 2026 listings. Nobody phoned these places. Feeds [[NPB Lead Capture + Drip Plan (Oct 2026)]]: the Crew's Picks, the restaurants rewrite, and the Mardi Gras 2027 guide. Jeff's picks get merged in when they reply. Re-verify before each publish.*
 
 ## Closed / changed (don't promote)
 - **Gene's Po-Boys / Curbside Daiquiris:** closed, building sold.

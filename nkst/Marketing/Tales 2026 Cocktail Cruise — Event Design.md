@@ -3,7 +3,7 @@
 **Host:** Nola Party Barge (space + crew only)
 **Lead/sponsor:** an invited spirits brand or cocktail vendor (drinks, bartenders, branding, budget)
 **When:** one evening during Tales of the Cocktail week, July 19-24, 2026
-**Status:** concept. Feasibility (on-water serving license) sent to Jeff + JT 2026-06-22. Vendor search underway.
+**Status:** concept. Feasibility (on-water serving license) sent to Jeff 2026-06-22. Vendor search underway.
 
 ---
 
@@ -48,7 +48,7 @@ Cleanest version: it is *their* event, we are the venue and the list.
 
 ## The licensing model (the vendor carries it, not us)
 
-We do not solve the liquor license for this. The vendor brings their own serving license, permits, and liability. We are purely the venue. That is the entire reason to bring in a licensed bar service, or a brand that travels with its own permitted pour, rather than trying to serve under our own (still-pending) on-water license. Our boats are BYOB today, so the one thing to confirm with Jeff + JT is narrower than it first looks: does the vessel being ours create any issue if the vendor shows up fully permitted to serve, or are we clear to just host? (asked 2026-06-22)
+We do not solve the liquor license for this. The vendor brings their own serving license, permits, and liability. We are purely the venue. That is the entire reason to bring in a licensed bar service, or a brand that travels with its own permitted pour, rather than trying to serve under our own (still-pending) on-water license. Our boats are BYOB today, so the one thing to confirm with Jeff is narrower than it first looks: does the vessel being ours create any issue if the vendor shows up fully permitted to serve, or are we clear to just host? (asked 2026-06-22)
 
 ## Money (rough framing, not a quote)
 
@@ -63,7 +63,7 @@ A brand activation slot during Tales runs real money. We are handing them a turn
 
 ## Next steps
 
-1. Jeff + JT: with the vendor carrying their own serving license and liability, is the boat clear to just host? (asked 2026-06-22)
+1. Jeff: with the vendor carrying their own serving license and liability, is the boat clear to just host? (asked 2026-06-22)
 2. Land a vendor (search underway: NOLA distilleries, RTD brands, mobile bar / cocktail vendors).
 3. Once a brand is in, co-build the guest list and lock one date in the July 19-24 window.
 4. Send the invites (we already have warm threads with creators, media, and the Tales partnerships office from this week's outreach).

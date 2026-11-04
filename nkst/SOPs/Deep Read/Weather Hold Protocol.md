@@ -2,7 +2,7 @@
 
 ## Who Makes the Call
 
-The guide leading the tour makes the initial weather call. If there's any doubt, the contractor on duty (Jeffrey/JT) makes the final decision. When in doubt, call. Nobody has ever been reprimanded for being cautious about weather. People have been reprimanded for ignoring it.
+The guide leading the tour makes the initial weather call. If there's any doubt, the contractor on duty (Jeffrey) makes the final decision. When in doubt, call. Nobody has ever been reprimanded for being cautious about weather. People have been reprimanded for ignoring it.
 
 If you're mid-tour and conditions change, you don't need permission to get off the water. Get off the water and then call management.
 
@@ -70,7 +70,7 @@ Be direct and warm. Don't over-explain the meteorology. Something like: "Hey [na
 If it's a route change (Honey Island to Manchac) rather than a cancellation: "Hey [name], quick heads up: we're moving today's tour to our Manchac Swamp location due to water levels at Honey Island. Same great experience, beautiful route. Everything else stays the same."
 
 ### 2. Notify Management
-Text or call Jeffrey/JT. Include: what you're cancelling or holding, why, and current conditions. If you're mid-tour and evacuating, call, don't text.
+Text or call Jeffrey. Include: what you're cancelling or holding, why, and current conditions. If you're mid-tour and evacuating, call, don't text.
 
 ### 3. Process the Administrative Side
 - Offer reschedule first (always)

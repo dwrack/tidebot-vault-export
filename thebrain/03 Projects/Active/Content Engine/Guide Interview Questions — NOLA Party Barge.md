@@ -1,6 +1,6 @@
 # Guide Interview Questions — NOLA Party Barge
 
-*For: Jeffrey Chitek, JT Sides, captains, musicians*
+*For: Jeffrey Chitek, captains, musicians*
 *Format: 15-20 min video call per person*
 *Purpose: Bio footage + content source material*
 

@@ -1,13 +1,12 @@
 # NPB Staff Roster
 
-*Last updated: 2026-04-19 (source: Jeffrey's staff sheet)*
+*Last updated: 2026-11-04. JT Sides (John Sides) left Oct 2026 and is removed from this roster.*
 
 ## Management
 
 | Name | Phone | Email | Availability | Role | Notes |
 |------|-------|-------|-------------|------|-------|
 | Jeffrey Chitek | 651-278-7569 | jeffreychitek@gmail.com | Always | Operations Manager | Scheduling, social media, comms, day-to-day oversight. Strong big picture ops, needs more support staff and SOPs. Avoids direct negative comms with staff, tends to over-trust staff competence. |
-| John Sides (JT) | 225-772-8394 | j.thomas.sides@gmail.com | Mon-Fri | Reception, check-ins, project manager | Understands daily ops, helpful and reliable. Can lack tact under stress with staff and customers. |
 
 ## Captains
 

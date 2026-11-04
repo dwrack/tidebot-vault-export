@@ -219,7 +219,7 @@ The WordPress REST API works with the admin app password (tested 2026-09-30), so
 |---|---|---|---|---|
 | 2023 Halloween Things to Do (1077) | 2023 events, 786 words | **Halloween in New Orleans 2026** (new slug `/halloween-new-orleans/`, 301 old) | **Oct 6, 2026** | Halloween searches peak in October. It's late already. |
 | Krewe of Endymion New Parade Route for 2023 (998) | 167 words, 2023 route | **Mardi Gras 2027 Parade Guide for Party Groups** (Endymion + the top krewes, dates, where to watch) | **Dec 1, 2026** | Mardi Gras is Feb 9, 2027, and trip planning starts in December. 14k impressions, 1 click. |
-| Best Restaurants in New Orleans for 2022 (392) | 2019 Instagram embeds, some places likely closed | **Best Restaurants in New Orleans for Groups (2027)** with Crew's Picks + researched list | **Nov 1, 2026** | Needs Jeff/JT picks first. |
+| Best Restaurants in New Orleans for 2022 (392) | 2019 Instagram embeds, some places likely closed | **Best Restaurants in New Orleans for Groups (2027)** with Crew's Picks + researched list | **Nov 1, 2026** | Needs Jeff's picks first. |
 | How much to budget for New Orleans in 2026 (1230) | 329 words | Same post, 2027 prices, real per-person boat math | **Jan 2, 2027** | Our #1 post (41k impressions). Update it every January. |
 | Exploring December Weather (40k impressions) | undated | Add "2026" in the title, a month-by-month link to the new What to Wear post | **Nov 15, 2026** | Before December searches spike |
 | NYE / Mardi Gras alternative / Spring Break posts | undated, 2026-07 | Add the 2027 dates and events | NYE: Dec 1 · Mardi Gras: Dec 15 · Spring Break: Feb 1 | Each before its search season |

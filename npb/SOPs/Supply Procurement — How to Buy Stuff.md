@@ -1,18 +1,18 @@
 # Supply Procurement — How to Buy Stuff
 
-*For JT and marina staff. Effective April 2026.*
+*For Jeffrey and marina staff. Effective April 2026.*
 
 ---
 
 ## The Problem We're Fixing
 
-Supplies run out, JT calls Jeffrey, Jeffrey calls someone, nothing happens for a week. Meanwhile the marina looks rough and work stalls. This process fixes that.
+Supplies run out, someone calls Jeffrey, Jeffrey calls someone, nothing happens for a week. Meanwhile the marina looks rough and work stalls. This process fixes that.
 
 ---
 
-## JT's Company Card
+## Company Card
 
-JT has a company credit card with a **$500/month cap**.
+Jeffrey holds the supply card, **$500/month cap**. (JT's card is being cancelled; JT left Oct 2026.)
 
 ### Spending Tiers
 
@@ -39,7 +39,7 @@ For non-urgent, recurring supplies (cleaning products, trash bags, paper towels,
 
 | Day | What Happens |
 |-----|-------------|
-| **Sunday** | JT submits supply list to Jeffrey via Slack or text |
+| **Sunday** | Marina staff submit supply list to Jeffrey via Slack or text |
 | **Monday** | Jeffrey or David places Amazon order |
 | **Wednesday** | Supplies arrive at marina |
 
@@ -74,7 +74,7 @@ This list will grow as we track what we're actually using. Start here:
 
 ## Tracking
 
-Over time, we'll build a recurring order template based on what actually gets used. JT: keep a running note on your phone of what runs out and when. After a month or two, we'll have a pattern and can set up auto-reorders or at least a predictable list.
+Over time, we'll build a recurring order template based on what actually gets used. Jeffrey: keep a running note on your phone of what runs out and when. After a month or two, we'll have a pattern and can set up auto-reorders or at least a predictable list.
 
 ---
 

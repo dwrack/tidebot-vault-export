@@ -12,7 +12,7 @@ EINs are on file in each vault but are NOT copied here. David gives them to Open
 
 | Brand | Number | Legal name (draft) | Contact | Status | Blocker |
 |---|---|---|---|---|---|
-| NOLA Party Barge | 888-403-7303 | Gravity Trails, LLC dba NOLA Party Barge | Jeffrey Chitek or JT Sides | Sent to OpenCX 10-16 | Vault says a different number, 888-618-9606, was "pending since Jun". Which one? |
+| NOLA Party Barge | 888-403-7303 | Gravity Trails, LLC dba NOLA Party Barge | Jeffrey Chitek | Sent to OpenCX 10-16 | Vault says a different number, 888-618-9606, was "pending since Jun". Which one? |
 | NO Kayak Swamp Tours | 888-560-6251 | Gravity Trails, LLC dba NKST | Michelle Healey | Sent to OpenCX 10-16 | Entity: Gravity Trails vs Apres Assets vs new NKST LLC |
 | Door County Kayak Tours | 844-699-5219 | Door County Kayak Tours LLC | Bella or Jessica | Sent to OpenCX 10-16 | Privacy page says texts come "from Gravity Trails". Fix |
 | Houston Pedal Barge | 855-516-9065 | Lone Star Kayak Tours, LLC dba Houston Pedal Barge | Connor Champagne | Sent to OpenCX 10-16 | LSKT LLC status (bankruptcy notes) |

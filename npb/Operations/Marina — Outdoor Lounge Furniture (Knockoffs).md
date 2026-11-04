@@ -48,5 +48,5 @@ Plus ~$15 screws per chair. Labor: a carpenter who's done one should knock out a
 ### Open
 
 - [ ] Price cypress 2x12x8 at Riverside Lumber (one call)
-- [ ] Who builds: JT (art/day pay) or outside carpenter?
+- [ ] Who builds: outside carpenter (JT left).
 - [ ] How many: pair by the fire pit first, then decide on a set of 6?

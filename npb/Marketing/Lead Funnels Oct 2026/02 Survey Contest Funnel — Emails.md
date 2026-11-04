@@ -1420,7 +1420,7 @@ Every open fact in the copy, the pages, and the Blueprint, in one table. A [VERI
 
 | # | Open fact | Where it bites | Who can close it |
 |:-|:-|:-|:-|
-| V1 | Rain and cancellation policy: what happens if the captain calls off a trip, and whether guests can move the date or get a refund | DOUBT-ANSWER weather (SC-07), ASK blocker weather answer page | The manager (JT) |
+| V1 | Rain and cancellation policy: what happens if the captain calls off a trip, and whether guests can move the date or get a refund | DOUBT-ANSWER weather (SC-07), ASK blocker weather answer page | The manager (Jeff) |
 | V2 | Two outdoor picks from the crew, with a few words on each, for the gator version of the local picks | LIKE-PICKS wild (SC-03) ends on a placeholder line until they land | The crew |
 | V3 | One real guest review, one or two lines, first name and where it was posted | PROOF reviews and default (SC-07, SC-11) | The crew, from TripAdvisor, Yelp, or Batch |
 | V4 | Winner first name, last initial, city, and state, only after the signed form | PROOF winner (SC-11 the Monday after each draw, SC-07 from round 2) | The manager, after each draw |

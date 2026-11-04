@@ -648,7 +648,7 @@ Sent to the organizer when their crew's tap-ins on the "I'm in" page cross a mil
 | seafood | Seither's | Harahan | Worth the drive for a crew that takes boiled seafood seriously. | outside the city |
 | seafood | Casamento's | Uptown * | Tiny oyster house, reopened Oct 1 and likely in its final season. Go while you can. | small room; final season per its site |
 | the bayou side | NOLA Party Barge dock | Bayou Bienvenue (2101 Paris Road) | 7 miles from the Quarter, about a 15-minute ride. Gators, egrets, cypress. | free parking at the marina [VERIFY] |
-| the bayou side | [VERIFY: crew pick for food near the dock] | [VERIFY] | [VERIFY: one line from JT or Jeff] |  |
+| the bayou side | [VERIFY: crew pick for food near the dock] | [VERIFY] | [VERIFY: one line from Jeff] |  |
 ## Share page microcopy (Group Chat Link, "I'm in" page)
 
 | Slot | Copy |
@@ -681,15 +681,15 @@ Everything the crew must confirm before any of this sends.
 | # | Fact | Where it shows | Who closes it |
 |:-|:-|:-|:-|
 | V1 | **Price conflict.** The brief says $63/seat and $1,250 Tikis. The vault says site and FareHarbor were corrected to **$59 / $1,200** on 2026-09-30 (Meta Ads Price Fix Sheet). Copy never prints a seat price; {per_person} must use whatever FareHarbor says today | 1b, 2, share page, paste templates | David |
-| V2 | **Trip length conflict.** Brief says 3 hours; Brand Story, the bach page, and the contest emails say 1 hour 45 minutes. Copy avoids stating a length until this is settled | 5 | JT |
-| V3 | Rain and cancellation policy, and who gets told when the captain calls weather | 10 | JT |
-| V4 | Check-in inside with AC and a restroom, and free parking at the marina (both from the Closest Swamp Tour page draft, Aug 2026) | 5, 10, Crew's Map | JT |
-| V5 | What to arrive with: glass allowed or not, cooler size, ice, and how early to arrive (copy says 15 minutes) | 9 and its variants, 11 | JT |
+| V2 | **Trip length conflict.** Brief says 3 hours; Brand Story, the bach page, and the contest emails say 1 hour 45 minutes. Copy avoids stating a length until this is settled | 5 | Jeff |
+| V3 | Rain and cancellation policy, and who gets told when the captain calls weather | 10 | Jeff |
+| V4 | Check-in inside with AC and a restroom, and free parking at the marina (both from the Closest Swamp Tour page draft, Aug 2026) | 5, 10, Crew's Map | Jeff |
+| V5 | What to arrive with: glass allowed or not, cooler size, ice, and how early to arrive (copy says 15 minutes) | 9 and its variants, 11 | Jeff |
 | V6 | Every spot re-checked as open the week it's featured | Every Crew's Pick, the map | Whoever ships |
 | V7 | Neighborhoods marked * in the map (Clover Grill, Maple Leaf, Cafe du Monde, Cafe Beignet, Loretta's, Arnaud's, Antoine's, Galatoire's, Casamento's) | Crew's Map | Crew |
 | V8 | Group caps at The Country Club, Commander's Palace, and Peche (not published, call first) | 6 variants, map | Crew |
 | V9 | Buffa's kitchen hours (sources conflict) | Map | Crew |
-| V10 | One bayou-side food pick near the dock, with a line from JT or Jeff | Map | JT / Jeff |
+| V10 | One bayou-side food pick near the dock, with a line from Jeff | Map | Jeff |
 | V11 | Second line season months | 4 | Crew |
 | V12 | Spring festival names for the no-date track | nd01 | Crew |
 | V13 | Mardi Gras 2027 parade times and routes (all TBC until krewes publish) | 4 (jan, feb), nd03 | Re-check in Dec |
@@ -700,9 +700,9 @@ Everything the crew must confirm before any of this sends.
 | V18 | Social handles per platform (copy uses @nolapartybarge) and the review link for booked guests | 12 | David |
 | V19 | **Rewards: follower count.** "About 80k followers" across Facebook, Instagram, TikTok | feature email | David |
 | V20 | **Rewards: $100 code.** Needs its own FareHarbor code (private boats only, pontoon out, tested against the $350 deposit), separate from the $50 rolling codes, plus its own end date. The spec only built for $50 | hundred email | David, in FareHarbor |
-| V21 | **Rewards: free crew photo + captain shoutout.** Who takes it, how it's delivered, and how the captain gets the organizer's name on the manifest. Ties to the photography upsell pilot, so giving it free needs an ops yes | photo email | JT |
+| V21 | **Rewards: free crew photo + captain shoutout.** Who takes it, how it's delivered, and how the captain gets the organizer's name on the manifest. Ties to the photography upsell pilot, so giving it free needs an ops yes | photo email | Jeff |
 | V22 | **Rewards: referral tap-ins counting.** The contest rules cut referral entries under Meta's promotion rules. This isn't a contest, so it should be fine, but confirm the share page isn't reused for the survey contest | share page referral line | David |
 | V23 | Featuring a guest crew publicly: the reply with a handle is the yes, but get a photo release line from the crew at the dock | feature email | David |
-| V24 | Ages 6 and up on private boats (from the contest copy facts) | 9 family variant, paste family | JT |
+| V24 | Ages 6 and up on private boats (from the contest copy facts) | 9 family variant, paste family | Jeff |
 | V25 | Who signs: a crew first name with their OK, or the default | Every email | David |
 | V26 | Guest review quotes: the brief pointed at the ads data pack, but it has none. No review lines are used. If you want one, pull it from TripAdvisor/Yelp/Batch | none yet | Crew |

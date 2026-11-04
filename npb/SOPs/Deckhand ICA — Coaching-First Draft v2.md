@@ -58,7 +58,7 @@ All rates live in **Exhibit A — Deckhand Pay Schedule**, attached to and part 
 Dollar amounts and the full trigger for each item are in Exhibit A.
 
 ### 2.2 Add-On Work Is Pre-Authorized
-- Deep cleans, boat moves, and fuel, ice or supply runs pay only when Jeff or JT assigned the work **in writing** before you did it. Slack DM is fine.
+- Deep cleans, boat moves, and fuel, ice or supply runs pay only when Jeff assigned the work **in writing** before you did it. Slack DM is fine.
 - Not assigned in writing = doesn't pay.
 - Opening, closing, and turnaround pay automatically off the trip schedule and your end-of-day report. You don't claim them.
 
@@ -160,7 +160,7 @@ Sign-off happens through the crew Slack channel with Tidebot capturing the workf
 
 Sign-off is logged in the **Crew Roster & Credentials Tracker**. You're now in the regular rotation.
 
-> `JEFF:` Who besides you can sign off a deckhand? JT? A senior deckhand like Calvin?
+> `JEFF:` Who besides you can sign off a deckhand? A senior deckhand like Calvin?
 
 ---
 
@@ -183,7 +183,7 @@ After your last trip, in addition to the End of Day Sign-Off form, file a short 
 - How the day went, anything notable
 - Maintenance issues observed
 - Active todos for tomorrow in your area
-- Anything Jeffrey or JT should know
+- Anything Jeffrey should know
 
 This pairs with the form. The form is your checkbox layer; the audio log is your context layer.
 

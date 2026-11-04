@@ -78,7 +78,6 @@ Printable sign: `Marketing/Affiliate Kit/make_seatback.py` (sample: `seatback/ke
 | joeylecour | Joey Lecour | Hotel Monteleone | HIGH VALUE (hotel) |
 | jonathanfloyd | Jonathan Floyd | Box of Care deliveries | stickers idea (2023) |
 | jordanmunoz | Jordan Munoz | FB influencer post |  |
-| jtsides | JT Sides | real estate |  |
 | peppspub | Kait Wurth (Pepps Pub, Marriott) | hotel bar | HIGH VALUE (hotel) |
 | karendavis | Karen Davis | travel agent |  |
 | kengoode | Ken Goode | former guide |  |

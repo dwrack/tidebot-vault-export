@@ -27,7 +27,7 @@ Every trip. No exceptions. No side deals. No "I got this one, you got the next o
 1. Holding up the QR code during the close (see the tip close script in the Performance Guide)
 2. Counting all tips at end of trip (cash + digital)
 3. Splitting 70/30 with the deckhand before leaving for the day
-4. Texting the total to JT or Jeffrey (just the number, nothing fancy)
+4. Texting the total to Jeffrey (just the number, nothing fancy)
 
 That's it. Count it, split it, report it, move on.
 
@@ -53,7 +53,7 @@ The difference between a $50 tip day and a $200 tip day is almost never about se
 - Tips are split the same day, every time. No IOUs.
 - If there's a dispute about the count, both captain and deckhand count together.
 - If a guest tips a specific crew member by name (cash handed directly to one person), it still goes in the pool. The system only works if it's consistent.
-- JT has final say on any disputes. If it escalates, Jeffrey handles it.
+- Jeffrey has final say on any disputes.
 
 ---
 
@@ -65,4 +65,4 @@ If you're a deckhand who wants to earn more, become a captain. If you're a capta
 
 ---
 
-*Questions about this policy go to JT first, then Jeffrey. This is not negotiable, it's the system. Work it.*
+*Questions about this policy go to Jeffrey. This is not negotiable, it's the system. Work it.*

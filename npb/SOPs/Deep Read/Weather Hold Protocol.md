@@ -10,7 +10,7 @@ The goal: never put guests or crew at risk, never cancel a trip that could've sa
 
 **Captain on the vessel** makes the real-time call. If you're on the water and conditions change, you have full authority to return to dock. You don't need permission. You don't need to call Jeffrey first. Get safe, then communicate.
 
-**Manager on duty (Jeffrey/JT)** makes the pre-trip call for cancellations. If conditions are clearly going to be bad, the manager cancels trips in advance so guests aren't showing up to a dock for nothing.
+**Manager on duty (Jeffrey)** makes the pre-trip call for cancellations. If conditions are clearly going to be bad, the manager cancels trips in advance so guests aren't showing up to a dock for nothing.
 
 **Joint decision** for the gray area. If it's borderline, the captain and manager discuss it. But here's the rule: if the captain says no-go, it's no-go. The captain has final authority on safety. Always. A manager can cancel a trip a captain wanted to run, but a manager cannot force a captain to run a trip they've called off.
 

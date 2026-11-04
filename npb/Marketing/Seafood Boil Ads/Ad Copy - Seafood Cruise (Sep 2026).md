@@ -42,5 +42,5 @@ CTA: Book Now
 
 ## Notes
 - No music on the cuts yet. Add a track from Meta's library in Ads Manager.
-- Crawfish beats are upscaled IG posts. Recut once Jeff/JT send raw boil footage (shot list posted in #helm-npb 9/23).
+- Crawfish beats are upscaled IG posts. Recut once Jeff send raw boil footage (shot list posted in #helm-npb 9/23).
 - Avoid "book before it's too late" scarcity per Brand Constants.

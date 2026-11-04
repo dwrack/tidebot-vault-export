@@ -2,7 +2,7 @@
 type: strategy
 business: NOLA Party Barge
 date: 2026-10-15
-owners: David (approve), Jeff (crew + captures), JT (on-the-ground)
+owners: David (approve), Jeff (crew + captures), Jeff (on-the-ground)
 supersedes: NOLA Party Barge Social Media Strategy.md (2025), the sales-CTA caption formula in Freaky Tiki TikTok Launch Plan
 related: "[[Social Analytics + Market Study (Oct 2026)]]", "[[30-Day Slate — Oct 17 to Nov 15 2026]]", "[[Holiday Pushes Fall 2026 — Halloween to NYE]]"
 ---
@@ -94,5 +94,5 @@ Build: `Marketing/Slates/<slate>/build.py` reads `slate.json`, renders the overl
 
 - David: approves each weekly batch on the review board, signs off on the crew named on camera.
 - Jeff: picks the Captain's Report captain, films it Friday at the dock, sends Crew Clips through the TideBot channel as usual.
-- JT: Stories on days boats go out (weather, which boat, the marina), one a day minimum.
+- Jeff: Stories on days boats go out (weather, which boat, the marina), one a day minimum.
 - Claude: cuts and stages the weekly batch from the footage library, writes captions, runs the review board, reports shares per reach every Monday.

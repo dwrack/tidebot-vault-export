@@ -3,7 +3,7 @@ type: plan
 business: NOLA Party Barge
 date: 2026-09-01
 closes: NPB Action Item Tracker item #1 ("NPB down ~20%. Aug/Sep defend plan + ad budget call")
-owners: David, Michael, JT, Jeff
+owners: David, Michael, Jeff
 horizon: Sept 1 → Oct 31 2026
 ---
 
@@ -37,12 +37,12 @@ Labor Day weekend is **Fri Sept 5 – Mon Sept 7**. It is the last big summer we
 
 | # | Action | Owner | Due |
 |---|---|---|---|
-| 1.1 | **Fill-the-weekend blast** (tracker #9, open since Aug). Past LA/MS guests for Fri/Sat night, Chicago/Milwaukee segment routed to Door County. Experience-led, no discount — same posture as the winback series. | David + JT | Wed Sept 3 |
+| 1.1 | **Fill-the-weekend blast** (tracker #9, open since Aug). Past LA/MS guests for Fri/Sat night, Chicago/Milwaukee segment routed to Door County. Experience-led, no discount — same posture as the winback series. | David | Wed Sept 3 |
 | 1.2 | **The winback series ends Sept 8.** w11 fires today (Sept 1), w12 next Tuesday, then the runner no-ops. Decide now whether to extend, loop, or replace it — this is our only always-on reactivation channel and it is 7 days from going dark. | David | Fri Sept 5 |
 | 1.3 | **Kill the zero-conversion Google keywords.** $537.39/30d across 28 keywords produced 0 conversions. Start with the $115.34 that is pure cannibalization (top-3 organic AND zero conversions) — there is no ROAS at risk in that cut. Detail below. | David | Thu Sept 4 |
 | 1.4 | **Turn on Meta retargeting** (Campaign 2, `6976231067696`) at $20/day if it is not live. Historical: $87 → $4,041, 30–63x ROAS, $5–6 CPA. Nothing else on either ad account performs within 5x of this. | David | Thu Sept 4 |
 | 1.5 | **Deactivate OpenCX workflow `93f61197`.** 1,703 messages, 0 replies, and it is actively training our audience that our DMs are noise. Approve the v2 slow-burn copy in the same sitting. | David | Wed Sept 2 |
-| 1.6 | **Answer the 12 unanswered comments** on the Aug 5 reel — flagged in four consecutive daily briefs, overdue by a month. Ten minutes, free reach. | JT | Tue Sept 1 |
+| 1.6 | **Answer the 12 unanswered comments** on the Aug 5 reel — flagged in four consecutive daily briefs, overdue by a month. Ten minutes, free reach. | Jeff | Tue Sept 1 |
 
 ### The Google cut, precisely
 
@@ -74,9 +74,9 @@ David and Michael are in town Thu–Mon, working the weekend. Marketing items to
 
 | # | Action | Owner |
 |---|---|---|
-| 2.1 | **Shoot the objection-relief creative.** This is the biggest documented hole in our ads: we sell the dream and answer none of the hesitations people actually stall on. Three angles, all shootable on the dock — see below. | David + Michael + JT |
-| 2.2 | **Matching-shirt photo-op SOP.** Designated golden-hour spot, a "Cousin Trip NOLA 2026" prop sign, crew takes the group shot every time. Every group posts it. Costs a sign. | JT |
-| 2.3 | **Kayak rental photos** (tracker #39) — known content gap, and NKST has no creative at all in this vault. | JT |
+| 2.1 | **Shoot the objection-relief creative.** This is the biggest documented hole in our ads: we sell the dream and answer none of the hesitations people actually stall on. Three angles, all shootable on the dock — see below. | David + Michael |
+| 2.2 | **Matching-shirt photo-op SOP.** Designated golden-hour spot, a "Cousin Trip NOLA 2026" prop sign, crew takes the group shot every time. Every group posts it. Costs a sign. | Jeff |
+| 2.3 | **Kayak rental photos** (tracker #39) — known content gap, and NKST has no creative at all in this vault. | Jeff |
 | 2.4 | **Ride Ben's boat** (tracker #41). He is a customer-facing liability as-is and reviews are our single largest acquisition asset. This is a marketing decision as much as an HR one. | David + Michael |
 
 ### The three creative angles to shoot
@@ -99,9 +99,9 @@ From `Ad Research/2026-07-24`, ranked by evidence. All three are missing from th
 |---|---|---|---|
 | 3.1 | **Cousin-trips landing page** at `/cousin-trips`. Zero local operators rank for it; the SERP is an IG reel, a Facebook thread, and an Etsy page. Copy, hooks, and FAQ angles are already written in `Marketing/Cousin Trips — Research & Content Plan.md`. Can rank in weeks. | David | Sept 15 |
 | 3.2 | **Cheap paid layer on cousin trips** — exact-match Google group at $0.22–$2 CPC plus Meta family-reunion interest targeting. Sub-$100/mo test, funded from the Group A cut. | David | Sept 20 |
-| 3.3 | **Shoot 3 cousin-trip hooks** from the 10 already written. JT logs every matching-shirt group for 60 days — size, home states, how they found us. Free market research nobody else in the city has. | JT | ongoing from Sept 12 |
-| 3.4 | **Repeat the Aug 5 reel format 3x.** Short, crass, funny, zero sell — 197 likes, ~10x the median, and the only thing in 60 days that broke 100 twice over. We have not repeated the one thing that worked. | JT | Sept 30 production day |
-| 3.5 | **Run a tag-a-friend giveaway.** Highest-median theme on both platforms, recommended in the June readout, still never run in 2026. Once, not weekly. | David + JT | Sept 30 |
+| 3.3 | **Shoot 3 cousin-trip hooks** from the 10 already written. Jeff logs every matching-shirt group for 60 days — size, home states, how they found us. Free market research nobody else in the city has. | Jeff | ongoing from Sept 12 |
+| 3.4 | **Repeat the Aug 5 reel format 3x.** Short, crass, funny, zero sell — 197 likes, ~10x the median, and the only thing in 60 days that broke 100 twice over. We have not repeated the one thing that worked. | Jeff | Sept 30 production day |
+| 3.5 | **Run a tag-a-friend giveaway.** Highest-median theme on both platforms, recommended in the June readout, still never run in 2026. Once, not weekly. | David | Sept 30 |
 | 3.6 | **Stand up GA4 for nolapartybarges.com.** NPB has no GA4 property at all, so IG→site→booking is invisible on our biggest-revenue business. NKST has one and it shows Instagram as its largest referral after direct. | David | Sept 30 |
 
 ---

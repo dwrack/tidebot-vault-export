@@ -1,6 +1,6 @@
 # UGC Outreach & Repost Playbook — NOLA Party Barge
 
-**Owner:** Jeffrey Chitek / JT Sides
+**Owner:** Jeffrey Chitek
 **Frequency:** Weekly (15-20 min search + outreach as needed)
 
 ---

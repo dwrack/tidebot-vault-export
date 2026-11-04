@@ -63,7 +63,7 @@ Pillar count: Moments 9, Bayou Files 5, Crew 4, Weird Louisiana 4, What's Coming
 
 - **Name the deadpan captain** (day 3) so the Crew lane can become a series. Jeff knows.
 - **Captain's Report, episode 1.** Jeff films a captain at the dock on a Friday, one minute, phone. It replaces day 9 or 16 if it lands in time. Nothing in this slate is new footage of a crew member talking to camera, which is the format that wins the segment. That's the gap the next 30 days should close.
-- **Stories.** JT posts one a day when boats go out: weather, which boat, the marina. Prices and the booking link live there now, not in the feed.
+- **Stories.** Jeff posts one a day when boats go out: weather, which boat, the marina. Prices and the booking link live there now, not in the feed.
 - **FB.** The FB Daily Queue is its own pipe. These captions work there as-is; cross-post the Bayou Files and Weird ones first.
 
 ## Scorecard (fill in Mondays)

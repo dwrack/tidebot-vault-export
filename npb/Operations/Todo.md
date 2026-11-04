@@ -10,22 +10,22 @@
 ### Hire & Staff
 - [ ] Get captain/deckhand job description Google Doc from Jeffrey (5th captain) — **Owner: Jeffrey**
 - [ ] Post the captain/deckhand job — **Owner: David/Jeffrey**
-- [ ] Start screening candidates — **Owner: Jeffrey/JT**
+- [ ] Start screening candidates — **Owner: Jeffrey**
 - [ ] Employee contracts on file for all staff + phone numbers collected — **Owner: Jeffrey**
 - [ ] Post container bar operator/manager job ad (Craigslist, Indeed, local hospitality boards) — **Owner: David**
 
 ### Ops & Compliance
-- [ ] Roll out tip split policy (70/30 pooled) to crew via Slack — **Owner: JT**
-- [ ] Roll out "The First 15 Minutes" captain welcome script to all captains — **Owner: JT**
+- [ ] Roll out tip split policy (70/30 pooled) to crew via Slack — **Owner: Jeffrey**
+- [ ] Roll out "The First 15 Minutes" captain welcome script to all captains — **Owner: Jeffrey**
 - [ ] Set up #captains-log Slack channel for pre/post tour audio logs — **Owner: David**
 - [ ] Set up #marina-daily Slack channel with morning (8am) + evening reminders — **Owner: David**
-- [ ] Create Site Check rotation schedule (rotating crew member checks equipment/customer areas AM + PM, photos to Slack) — **Owner: JT**
-- [ ] Post physical sign in equipment storage: "ALL tools, cords, gas cans returned before customers arrive" — **Owner: JT**
+- [ ] Create Site Check rotation schedule (rotating crew member checks equipment/customer areas AM + PM, photos to Slack) — **Owner: Jeffrey**
+- [ ] Post physical sign in equipment storage: "ALL tools, cords, gas cans returned before customers arrive" — **Owner: Jeffrey**
 
 ### Supplies & Procurement
 - [ ] Order gas weed eater + blower on Amazon (~$400-550) — **Owner: David/Jeffrey**
 - [ ] Order bulk cleaning supplies on Amazon (trash bags, cleaner, bleach, paper towels, gloves) — **Owner: David/Jeffrey**
-- [ ] Send Michael synopsis email: CC request for JT, supply process, tip split, deckhand day rate, container bar hire — **Owner: David**
+- [ ] Send Michael synopsis email: supply process, tip split, deckhand day rate, container bar hire — **Owner: David**
 
 ### Strategic
 - [ ] Schedule destination marina planning call with Michael + Jeffrey this week — **Owner: David**
@@ -37,7 +37,7 @@
 ### Listings & Tech
 - [ ] Verify Lyft listing says "NOLA Party Barge" (not "NOLA Pedal Barge") + correct address — **Owner: David**
 - [ ] Verify Uber listing same — **Owner: David**
-- [ ] Follow up with FareHarbor re: JT's company email DNS — **Owner: Jeffrey**
+- [x] ~~Follow up with FareHarbor re: JT's company email DNS~~ — closed 2026-11-04, JT left
 - [ ] Connor: help get litigation documents together for lawyer — **Owner: Connor**
 - [ ] Connor: fill out FareHarbor AI doc — **Owner: Connor**
 
@@ -48,30 +48,31 @@
 ### Crew & Compensation
 - [ ] Get current deckhand per-tour rate + average tips from Jeffrey — **Owner: David**
 - [ ] Set deckhand day rate (Fri-Sun) based on data — **Owner: David/Michael**
-- [ ] Build deckhand revenue generation plan: photography, drink service, kayak rentals — **Owner: David/Jeffrey/JT**
+- [ ] Build deckhand revenue generation plan: photography, drink service, kayak rentals — **Owner: David/Jeffrey**
 - [ ] Confirm who the 4th active captain is — **Owner: Jeffrey**
 
 ### Supply Chain
 - [x] Get JT a company credit card ($500/month cap) — **Owner: Michael** ✅ Approved April 20, card ordered
+- [ ] **Cancel JT's company card ($500/mo cap) — JT left** — **Owner: Michael**
 - [ ] Order additional water container units for bathrooms — **Owner: David/Jeffrey**
-- [ ] Implement supply procurement process: Sunday submit, Monday order, Wednesday delivery — **Owner: JT/Jeffrey**
-- [ ] Start tracking orders to build recurring supply template — **Owner: JT**
+- [ ] Implement supply procurement process: Sunday submit, Monday order, Wednesday delivery — **Owner: Jeffrey**
+- [ ] Start tracking orders to build recurring supply template — **Owner: Jeffrey**
 
 ### Systems
 - [ ] Confirm FareHarbor API exposes crew assignment + trip end times — **Owner: David**
 - [ ] Build CRM auto-SMS to captain 10 min before trip end (captain replies = auto-logged) — **Owner: David**
 - [ ] Test CRM mass texting for customer onboarding — **Owner: David**
-- [ ] Set up backup SMS system for staff when Slack isn't getting responses — **Owner: David/JT**
+- [ ] Set up backup SMS system for staff when Slack isn't getting responses — **Owner: David**
 - [ ] Connor: focus on SOP automation across businesses — **Owner: Connor**
 
 ### Captain Coaching
-- [ ] JT rehearses First 15 Minutes with each captain (film it) — **Owner: JT**
-- [ ] Start Wednesday mid-week coaching messages in Slack — **Owner: JT/Jeffrey**
-- [ ] Review first week of #captains-log recordings, give specific feedback — **Owner: JT/David**
+- [ ] Jeffrey rehearses First 15 Minutes with each captain (film it) — **Owner: Jeffrey**
+- [ ] Start Wednesday mid-week coaching messages in Slack — **Owner: Jeffrey**
+- [ ] Review first week of #captains-log recordings, give specific feedback — **Owner: Jeffrey/David**
 
 ### Property
 - [ ] Cameras: ordered, Joseph to install — **Owner: Jeffrey/Joseph**
-- [ ] Get JT's $2,000 property improvement scope (paint, photo ops, string lights, speaker system priorities) — **Owner: JT**
+- [x] ~~Get JT's $2,000 property improvement scope~~ — closed 2026-11-04, JT left
 
 ---
 
@@ -86,8 +87,8 @@
 - [ ] If bathroom fix delayed: rent air-conditioned portable trailer (~$500-800/mo) — **Owner: Jeffrey**
 
 ### Revenue Expansion
-- [ ] Launch "Locals Night" Wed/Thu campaign via the CRM text blast to customer database — **Owner: David/JT**
-- [ ] Implement deckhand photography program (tour photos for social + sales) — **Owner: JT**
+- [ ] Launch "Locals Night" Wed/Thu campaign via the CRM text blast to customer database — **Owner: David**
+- [ ] Implement deckhand photography program (tour photos for social + sales) — **Owner: Jeffrey**
 - [ ] Kayak/paddleboard rental offering (once property is presentable) — **Owner: TBD**
 
 ### Assets
@@ -101,7 +102,7 @@
 ### Strategy Docs — Review & Pick Winners (April 23)
 - [ ] **Davey: Read** `Ideas/Unreasonable Hospitality — 100 Ideas for NPB.md` — pick 10-15 favorites to implement this season
 - [ ] **Davey: Read** `Marketing/Profit Psych — NPB Strategies.md` — pick 5-7 per pillar for Q2 2026
-- [ ] Assign owners (JT, Jeffrey, captains) to selected strategies
+- [ ] Assign owners (Jeffrey, captains) to selected strategies
 - [ ] Add selected items as actionable tasks in this to-do list
 
 ---
@@ -116,7 +117,7 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 - [ ] Configure TideBot escalation: if no captain check-in within 20 min of a booked departure → SMS, then call, then ping Jeffrey — **Owner: David**
 - [ ] Set captain's-log field checklist in TideBot: vessel, captain/crew, headcount, waivers signed, weather (wind dir + knots), safety briefing, departed/returned — **Owner: David**
 - [ ] Establish "no completed log, no pay for the trip" as crew policy; Jeffrey communicates it as team discipline — **Owner: Jeffrey**
-- [ ] Assign check-in person to watch Slack after each departure as a human backstop during rollout — **Owner: Jeffrey/JT**
+- [ ] Assign check-in person to watch Slack after each departure as a human backstop during rollout — **Owner: Jeffrey**
 
 ### Later (after logs are consistent)
 - [ ] Build deckhand content-coaching + auto-edit/auto-post pipeline (YouTube/TikTok/IG); crew as content engine + next revenue lever — **Owner: David**
@@ -125,7 +126,7 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 
 ## Added Aug 25, 2026 (filed from Apple Notes)
 
-- [ ] Run full boat deep clean: detail boats, powerwash + oil roof, fully detail bathrooms — see [[Boat Deep Clean — Full Detail Checklist (Jul 2026)]] — **Owner: Jeff/JT**
+- [ ] Run full boat deep clean: detail boats, powerwash + oil roof, fully detail bathrooms — see [[Boat Deep Clean — Full Detail Checklist (Jul 2026)]] — **Owner: Jeff**
 - [ ] Insurance: get the NPB DBA on the policy + confirm navigable area matches where the boats run — see [[Insurance DBA & Navigable Area — Open Loop (Jul 2026)]] — **Owner: David**
 - [ ] DECIDE: family-facing brand name for the social eco trip (party boat name turns families away) — see [[Eco Trip Naming — Family-Facing Brand Needed (Jul 2026)]] — **Owner: David**
 

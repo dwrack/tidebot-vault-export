@@ -171,7 +171,7 @@ We don't run a punishment system. We run a coaching system. Strikes only enter t
 A strike is one of these, and only these:
 
 1. **Skipping a check-in entirely** when you were on shift and should have done it
-2. **Lying on a check-in.** Marking something complete when it wasn't (Jeff and JT do random spot-checks)
+2. **Lying on a check-in.** Marking something complete when it wasn't (Jeff do random spot-checks)
 3. **Walking off end-of-day without the End of Day Sign-Off submitted**
 
 Three of those in a rolling 90-day window means a different conversation. Outcomes range from extra coaching to contract termination, depending on severity.

@@ -2,7 +2,7 @@
 type: plan
 business: NOLA Party Barge
 date: 2026-09-10
-owners: David (approve), JT (FareHarbor + marina), Jeff (social + Nolan)
+owners: David (approve), Jeff (FareHarbor, marina, social + Nolan)
 horizon: Sept 10 to Dec 31 2026
 related: "[[2027 Sponsorship + Events Plan (Sept 2026)]]"
 ---
@@ -32,7 +32,7 @@ Halloween is a Saturday. This is the first real use of the pirate concept, so it
 - One ticketed public boat: "Bass Pirates Halloween" Sat Oct 31, 8pm to 10pm. 40 seats. $55 a seat (BYOB, fire pits after). Best costume wins a free charter.
 - Fire pits lit both nights for the return.
 
-**FareHarbor (JT)**
+**FareHarbor (Jeff)**
 - New item: "Bass Pirates Halloween, Sat Oct 31, 8pm" public, 40 pax, $55. Description below. Photo: any night boat shot until we have pirate footage.
 - Tag Oct 30 and 31 private slots with a "Halloween weekend" note in the item description so the calendar reads as an event, not a normal night.
 
@@ -105,8 +105,8 @@ Covered in `2027 Sponsorship + Events Plan (Sept 2026)`, Track B. Flyer at `Holi
 
 - [ ] David: confirm heated boats, indoor room capacity, deposit terms before the flyer or any corporate email goes out.
 - [ ] Slack review loop (David's call 9/10): post each email to #helm-npb one at a time for Jeff + Michael feedback, wait, then the next. Order: h01 Halloween (posted 9/11, thread ts 1789167905.847049) -> h02 Friendsgiving/Thanksgiving -> h03 NYE -> corporate 1:1 template + 13-name list (Jeff reviews). Send h01 only after thumbs up in the thread.
-- [ ] JT: build the Halloween ticketed item in FareHarbor.
-- [ ] JT: NYE items in FareHarbor by Nov 1.
+- [ ] Jeff: build the Halloween ticketed item in FareHarbor.
+- [ ] Jeff: NYE items in FareHarbor by Nov 1.
 - [ ] Jeff: pirate gear reel this week.
 - [ ] Jeff: review the 13 corporate Gmail drafts in the Slack thread (step 4 of the loop), then send from info@.
 - [ ] Fix SES sender (boto3) or retire it and rely on SendGrid.

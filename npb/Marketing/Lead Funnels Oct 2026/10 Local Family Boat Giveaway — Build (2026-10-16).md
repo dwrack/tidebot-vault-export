@@ -57,7 +57,7 @@ ZIP list for the radius and the ad copy: 70117, 70116, 70119, 70122, 70124, 7012
 
 ## 4. The creatives (3 videos + 2 statics, shoot in one afternoon at the dock)
 
-Shoot on a phone, vertical, real crew, no music bed over the talking. Jeff or JT on camera. Captions burned in. Each under 30 seconds.
+Shoot on a phone, vertical, real crew, no music bed over the talking. Jeff on camera. Captions burned in. Each under 30 seconds.
 
 **V1. "If you can see this dock from your house."** (primary)
 Open on the boat at the dock, crew member walking into frame.
@@ -174,7 +174,7 @@ Email from `crew@` on the sending domain already set up for the engine. One-clic
 | 2 | `/boat/` and `/boat/rules` pages on WordPress (iframe to engine) | wp-admin | Claude preps, David/Michael paste | pending #1 |
 | 3 | Rules: fork doc 03 for this round: 5 parishes, LA only, second prize, 72h claim by text/email/phone, draw date, redraw date | this folder, `11 Local Family Giveaway — Official Rules (Nov 2026).md` | Claude | next |
 | 4 | Counsel pass on #3 (doc 03 section 6 questions, now simpler: no NY/FL) | David's attorney | David | blocks launch |
-| 5 | Shoot V1 to V3 + S1 at the dock | Jeff/JT, one afternoon | Jeff | needs a date |
+| 5 | Shoot V1 to V3 + S1 at the dock | Jeff, one afternoon | Jeff | needs a date |
 | 6 | Meta campaign, 2 ad sets, 5 ads, pixel Lead, Instant Form, leads webhook | Ads Manager (fb MCP can build campaign/adsets/creatives; Instant Form is manual) | Claude builds paused, David flips on | pending #5 |
 | 7 | FareHarbor: `LOCAL50-NOV` (exp 12/6, private boats, $50 off total), comp booking type for the prize at $0 [VERIFY FH comp booking charges nothing] | FH dashboard | David | pending |
 | 8 | Corporate deck auto-send for `corp_holiday` leads | engine + deck PDF | Claude | pending #1 |

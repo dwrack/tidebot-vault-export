@@ -95,7 +95,7 @@ default.
   need, and the track is engine noise anyway. Music goes on in the edit.
 - **Auto-cut list:** minors, visible license plates, visible phone screens, anyone being
   sick, anyone who looks unflatteringly drunk. Not a judgment call, just cut it.
-- **Clips are drafts.** They go to David or JT before anything gets scheduled.
+- **Clips are drafts.** They go to David before anything gets scheduled.
 
 ## Part 4 — Open items
 

@@ -12,7 +12,6 @@
 ## Crew
 | Slack user | Name | DM channel | Oct 6 reminder id | Status |
 |---|---|---|---|---|
-| U0ATQEQRUMR | JT Sides | D0ATQER9A7M | Q0C4FGCSE7N | reminded |
 | U0ATUQ5CN7Q | Jeff Chitek (mgr) | D0ATFCNFVCP | — (gets Oct 7 check-in) | reminded |
 | U0B25HRNBU3 | Calvin | D0C4BN8MXJ6 | Q0C4DQB8VTK | reminded |
 | U0B25HVS9DH | Kelly | D0C45KDTV0T | Q0C4BNF7K1Q | reminded |

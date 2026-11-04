@@ -49,7 +49,7 @@ Read it this way: people search the shirt, not the phrase. Shirt keywords are 30
 - Etsy sellers: the shirt order happens after the destination locks. Top "New Orleans cousin trip" shirt sellers have a pre-qualified, destination-confirmed customer list.
 - Reunion planning sites: Reunions Magazine, reunion-planner tools, New Orleans CVB group pages.
 
-## 10 hooks to shoot (Reels/TikTok) — hand to JT
+## 10 hooks to shoot (Reels/TikTok) — hand to Jeff
 
 1. "We counted 6 different cousin-trip groups in matching shirts on ONE New Orleans cruise. Y'all aren't hiding."
 2. "POV: your group chat is named 'Cousin Trip 2027' and somebody finally booked something."
@@ -77,6 +77,6 @@ Read it this way: people search the shirt, not the phrase. Shirt keywords are 30
 3. **GBP post + photos** — "Cousin Trips Welcome" post, 3-4 matching-shirt group photos (with permission).
 4. **Etsy seller partnership** — top 3-5 "New Orleans cousin trip" shirt sellers include an NPB discount card in NOLA-bound orders; we link their shop on the landing page.
 5. **Cheap paid layer** — exact-match Google group (cousin trip, cousin trip ideas, family reunion new orleans) at $0.22-$2 CPC + Meta family-reunion interest targeting. Sub-$100/mo test.
-6. **JT's intel loop** — log every matching-shirt group for 60 days: size, home states, how they found us. Free market research nobody else in the city has.
+6. **Intel loop (Jeff)** — log every matching-shirt group for 60 days: size, home states, how they found us. Free market research nobody else in the city has.
 
 Sources: MediaPost + Reader's Digest (cousin decline), Reunions Magazine/HomeAway survey (planning lead times), GMA/NYU family travel survey, Journeyscape 2026 multigen trends, Etsy/Walmart market pages, TikTok discover hubs, DataForSEO Google Ads endpoints (US, English, 2026-08-27). Full linked citations in the research transcript if needed.

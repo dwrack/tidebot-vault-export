@@ -8,7 +8,7 @@ created: 2026-08-17
 cadence: weekly, Mondays
 sources:
   - iMessage group David + Michael Fischer + Jeff (2026-07-06 to 2026-08-15)
-  - iMessage group David + Jeff + JT (2026-03-30 to 2026-08-07)
+  - iMessage group David + Jeff (2026-03-30 to 2026-08-07)
   - iMessage 1:1 David + Michael Fischer (2026-03-24 to 2026-03-26)
 ---
 
@@ -37,7 +37,7 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 2 | Manchac: Pip & Brian took over kayak ops. Meeting Michael asked for 8/15 | all | open |
 | 3 | 1099 contracts w/ per-role duties. Jeff's duty list 7/7, pushed 7/28. **9/10: David said it out loud, every accountability push (logs, check-ins, 1-on-1s) rests on this. Blocks #20, #36, #52** | David | open |
 | 4 | Parked: sell both pedal boats, buy one 50-passenger | David | parked |
-| 35 | Shared **in-person** assistant for David + Michael. 6 hrs/day, weekdays (~30 hrs/wk). Local to David + Michael, NOT offshore and NOT another New Orleans ops hire. Phones + marketing execution. Gives item #7 an owner who isn't Jeff or JT. Open: W2 vs 1099 classification (set hours + direction + their equipment = W2), and 30 hrs/wk sits on a benefits threshold — CPA question | David + Michael | new 8/17 |
+| 35 | Shared **in-person** assistant for David + Michael. 6 hrs/day, weekdays (~30 hrs/wk). Local to David + Michael, NOT offshore and NOT another New Orleans ops hire. Phones + marketing execution. Gives item #7 an owner who isn't Jeff. Open: W2 vs 1099 classification (set hours + direction + their equipment = W2), and 30 hrs/wk sits on a benefits threshold — CPA question | David + Michael | new 8/17 |
 
 ## Sales / OpenCX
 | # | Item | Owner | Status |
@@ -45,14 +45,14 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 5 | All AI-profile changes route through David | David | open |
 | 6 | Should OpenCX behave differently outside 9-6? Jeff's question | David + Jeff | open |
 | 7 | Missed calls and texts not returned — one owner + a check | Jeff | open |
-| 8 | JT's urgency lines after a silence period (said 7/22 would add) | David | open |
-| 9 | Fill-the-weekend blast: past LA/MS clients Fri night; Chicago/Milwaukee → Door County | David + JT | open |
+| 8 | JT's urgency lines after a silence period (said 7/22 would add) | David | closed 2026-11-04, JT left |
+| 9 | Fill-the-weekend blast: past LA/MS clients Fri night; Chicago/Milwaukee → Door County | David | open |
 
 ## Marketing
 | # | Item | Owner | Status |
 |---|---|---|---|
 | 10 | Buy 2-3 Reddit comment vendors. Michael: admirenola + hidden adventures; David: NPB | David + Michael | open |
-| 11 | Crew-led Reddit/FB group posting, karma-first, thumbs-up the post used | Jeff + JT | open |
+| 11 | Crew-led Reddit/FB group posting, karma-first, thumbs-up the post used | Jeff | open |
 | 12 | Rewrite ad language to swamp beauty/wildlife, not gators | David | open |
 | 13 | Google Ads rebuild, Jeff asked to collaborate 8/3 | David + Jeff | open |
 | 14 | FareHarbor review link fix — no new reviews in a long time | David | open |
@@ -68,43 +68,40 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 | 20 | Captain Slack trip logs. "No log = less tour pay" in writing | Jeff | open |
 | 21 | TIPS certification for captains + crew (insurance requires it; prerequisite to serving drinks). Louisiana ATC course link posted in #nola-party-barge 9/25, $20/3hr, certs due Oct 9 in that thread | David / Jeff | in progress |
 | 22 | Sailboat that drifted into the pull-out spot — bill their insurance? | Jeff | open |
-| 66 | **Costume trunks for guest rental on the boats, ready by Sat Oct 10.** Wigs, boas, masks, capes. JT sends a buy list + rental price. TideBot DM sent 9/30 (D0ATQER30TD, ts 1790768892.156079). If no reply by 10/1, Claude iMessages him. | JT | new 9/30 |
-
+| 66 | **Costume trunks for guest rental on the boats, ready by Sat Oct 10.** Wigs, boas, masks, capes. Jeff sends a buy list + rental price. TideBot DM sent 9/30 (D0ATQER30TD, ts 1790768892.156079). If no reply by 10/1, Claude iMessages him. | Jeff | closed 2026-11-04, JT left |
 ## Comms discipline
 | # | Item | Owner | Status |
 |---|---|---|---|
 | 23 | Set office hours (9-5 CST proposed) | all | open |
 | 24 | Standing meeting time + agenda | Michael | open |
 | 25 | Google Meet invites actually landing | Jeff | open |
-| 26 | Settle who communicates to JT | David | open |
-
+| 26 | Settle who communicates to JT | David | closed 2026-11-04, JT left |
 ## Systems / loose ends
 | # | Item | Owner | Status |
 |---|---|---|---|
-| 27 | JT booking-change notes required every time | JT | open |
-| 28 | JT owns phones on Jeff's off days. 2026-10-13: parked for slow season, Jeff keeps phones (they ring a handful of times a day in winter); JT coming off phones/ops entirely, see #66 | Jeff | parked |
+| 27 | JT booking-change notes required every time | Jeff | closed 2026-11-04, JT left |
+| 28 | JT owns phones on Jeff's off days. 2026-10-13: parked for slow season, Jeff keeps phones (they ring a handful of times a day in winter); JT coming off phones/ops entirely, see #66 | Jeff | closed 2026-11-04, JT left |
 | 29 | GetYourGuide manifest doesn't flag transportation purchased vs not | David | open |
 | 30 | Broken affiliate links on Hidden Adventure + Admire Nola | David | open |
 | 31 | Meta app permission for admirenola auto-posting | David | open |
-| 32 | JT's commission question on outbound calls (asked twice 6/26) | David | open |
-| 33 | Inbox rot: 11-day unanswered lead, TikTok message requests unmonitored | Jeff + JT | open |
+| 32 | JT's commission question on outbound calls (asked twice 6/26) | David | closed 2026-11-04, JT left |
+| 33 | Inbox rot: 11-day unanswered lead, TikTok message requests unmonitored | Jeff | open |
 | 34 | NKST bookings not coming through, flagged 8/2 | David | open |
 
 ## From JT call 8/27 (David + Michael + JT — full notes: JT Call — Action Items (Aug 27 2026).md)
 | # | Item | Owner | Status |
 |---|---|---|---|
-| 36 | Daily morning check-in in #helm-npb: today's plan, wins, problems, photo of the space | JT | new 8/27 |
-| 37 | Crew one-on-ones, 10-15 min self-assessments, recorded + JT's take. First round Fri 8/29, then quarterly | JT | new 8/27 |
-| 38 | Exit interview w/ the captain Ben scared off — "what would it take to get you back?" | JT | new 8/27 |
-| 39 | Kayak rental photos + MTV-Cribs-style check-in walkthrough video | JT | new 8/27 |
-| 40 | Church group buyout — follow up and close | JT | new 8/27 |
+| 36 | Daily morning check-in in #helm-npb: today's plan, wins, problems, photo of the space | Jeff | new 8/27 |
+| 37 | Crew one-on-ones, 10-15 min self-assessments, recorded + Jeff's take. First round Fri 8/29, then quarterly | Jeff | new 8/27 |
+| 38 | Exit interview w/ the captain Ben scared off — "what would it take to get you back?" | Jeff | new 8/27 |
+| 39 | Kayak rental photos + MTV-Cribs-style check-in walkthrough video | Jeff | new 8/27 |
+| 40 | Church group buyout — follow up and close | Jeff | new 8/27 |
 | 41 | Captain Ben: yelling, fight in front of full dock, drove off new captain. One-on-one first, David/Michael ride his boat during Sept visit, then decide | JT → David + Michael | new 8/27 |
 | 42 | Give JT Slack access to Claude/Tidebot for outreach (churches, 504 salons) | David | DONE 8/27 — JT can start any #helm-npb message with "claude"; sends still gated on David's "go" |
-| 43 | Email address with JT's name on it (asked before, got buried) | David | new 8/27 |
-| 44 | Merch: captain's hat first (unique design, required), t-shirts second | David + JT | new 8/27 |
-| 45 | Invite JT to one David+Michael working session per week | David | new 8/27 |
-
-| 46 | Marina sale-readiness: curb-appeal 30-day list + Sept-visit walkthrough. Plan at Operations/Marina — Sale-Readiness Plan.md | David + Michael + JT | new 8/27 |
+| 43 | Email address with JT's name on it (asked before, got buried) | David | closed 2026-11-04, JT left |
+| 44 | Merch: captain's hat first (unique design, required), t-shirts second | David | new 8/27 |
+| 45 | Invite JT to one David+Michael working session per week | David | closed 2026-11-04, JT left |
+| 46 | Marina sale-readiness: curb-appeal 30-day list + Sept-visit walkthrough. Plan at Operations/Marina — Sale-Readiness Plan.md | David + Michael | new 8/27 |
 | 47 | Weekly Monday roll-up post in #helm-npb (moved/stalled/this week's 3) — script staged on mbp-2, launchd load pending David | David | new 8/27 |
 
 **Dates:** Sept 12-14ish visit (Thu-Mon, working the weekend at the marina); Sept 30 video production day. Cousin trips: research done 8/27, plan at Marketing/Cousin Trips — Research & Content Plan.md.
@@ -112,30 +109,30 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 ## From Jeff call 9/10 (David + Jeff — full notes: Jeff Call — Team Comms & JT (Sep 10 2026).md)
 | # | Item | Owner | Status |
 |---|---|---|---|
-| 48 | Crew one-on-ones Fri 9/11, crew in 10 min early on assigned boats. Jeff confirms with crew 9/10 | Jeff (+JT) | new 9/10 |
-| 49 | Standing meetings: **Tue + Thu 8:30am PT (10:30 CT)**, David + Jeff + JT + Michael. Tue = weekend recap + week checklist, Thu = pre-weekend. Replaces ad-hoc asks. Closes #23/#24. **DONE 9/11: recurring invite sent from info@nolapartybarges.com, Meet hpd-kwow-fsz, starts Tue 9/15** | David | done 9/11 |
+| 48 | Crew one-on-ones Fri 9/11, crew in 10 min early on assigned boats. Jeff confirms with crew 9/10 | Jeff | new 9/10 |
+| 49 | Standing meetings: **Tue + Thu 8:30am PT (10:30 CT)**, David + Jeff + Michael. Tue = weekend recap + week checklist, Thu = pre-weekend. Replaces ad-hoc asks. Closes #23/#24. **DONE 9/11: recurring invite sent from info@nolapartybarges.com, Meet hpd-kwow-fsz, starts Tue 9/15** | David | done 9/11 |
 | 50 | Weekly achievable checklist (1-2 items/person, Mon-Thu) in the #helm-npb canvas; Claude reads the week's messages and flags what was promised but untouched | David + Claude | new 9/10 |
 | 51 | Sophia +$100/wk for nightly 5pm FareHarbor booking reset. Jeff said yes, needs to be offered to her | Jeff | new 9/10 |
-| 52 | JT: decide whether the role stays with him or gets a goal-oriented replacement. Data: Fri one-on-ones + Sept visit. Blocked on David + Michael | David + Michael | new 9/10 |
-| 53 | JT unreachable on Slack/text/group thread, only via NPB line. Raise directly at the first Monday meeting, not by text | David | new 9/10 |
-| 54 | Deckhand upsell experiment: "make another $500 today" question, photography first (see photography pilot) | JT + Jarrett | new 9/10 |
+| 52 | JT: decide whether the role stays with him or gets a goal-oriented replacement. Data: Fri one-on-ones + Sept visit. Blocked on David + Michael | David + Michael | closed 2026-11-04, JT left |
+| 53 | JT unreachable on Slack/text/group thread, only via NPB line. Raise directly at the first Monday meeting, not by text | David | closed 2026-11-04, JT left |
+| 54 | Deckhand upsell experiment: "make another $500 today" question, photography first (see photography pilot) | Jarrett | new 9/10 |
 | 55 | Reddit tasks got zero uptake from crew. Either pay for it (#10) or drop the crew ask (#11) | David | new 9/10 |
 | 56 | David + Jeff hold mid-week asks for the Mon/Thu meeting instead of drop-everything pings. The actual root cause per Jeff. Behavior change, not a task | David + Jeff | new 9/10 |
-| 57 | Write down JT's weekday job. Hired for phones, weekday ops bolted on, nobody could say what it is. Prerequisite for #52 | Jeff | new 9/10 |
+| 57 | Write down JT's weekday job. Hired for phones, weekday ops bolted on, nobody could say what it is. Prerequisite for #52 | Jeff | closed 2026-11-04, JT left |
 | 58 | Bench hire: carry one extra captain/deckhand so Ben (#41) or anyone can be cut without a coverage hole | Jeff | new 9/10 |
 | 59 | Jeff tidies Slack: mute non-NPB workspaces/channels, star #helm-npb. His own words, unassigned on the call | Jeff | new 9/10 |
 | 60 | ~~Mon 5pm vs. Jeff's Mondays off~~ moot, meetings landed on Tue/Thu mornings | — | closed 9/11 |
 | 61 | Who went to work for Brian (Manchac)? Name garbled on the call. Find out if it's a former NPB/NKST guide and why | Jeff | new 9/10 |
 | 62 | Fall holiday emails review loop: Halloween email posted in #helm-npb 9/11 for Jeff + Michael feedback (thread ts 1789169840.050899). After feedback: post Friendsgiving/Thanksgiving, then NYE, then corporate 1:1 template + 13 names. Send each via SendGrid only after thumbs-up. Auto-nudge runs on mbp-2 if the thread goes quiet. Plan: Marketing/Holiday Pushes Fall 2026 | Jeff + Michael (feedback), David (send) | new 9/11 |
 | 63 | 13 corporate holiday-party drafts sitting in info@ Drafts (Deloitte, Jones Walker, Ochsner, PBF, Entergy, Shell, Salesforce, KW, hotels, concierge assoc). Jeff reviews in the Slack thread, then sends. Flyer facts (heated boats, tiers, deposit) need David's confirm first | Jeff, David | new 9/11 |
-| 64 | JT: build the Halloween ticketed FareHarbor item (Bass Pirates, Sat Oct 31 8pm, 40 seats, $55) and tag Oct 30/31 private slots. NYE items by Nov 1 | JT | new 9/11 |
+| 64 | Jeff: build the Halloween ticketed FareHarbor item (Bass Pirates, Sat Oct 31 8pm, 40 seats, $55) and tag Oct 30/31 private slots. NYE items by Nov 1 | Jeff | new 9/11 |
 | 65 | SES win-back runner has failed every Tuesday since Aug 25 (no boto3 for /usr/bin/python3). SendGrid copy is the live one (w07 sent 9/8). Fix or retire the SES launchd job | David | new 9/11 |
 
 ## From Ops Sync 10/13 (David + Jeff — full notes: Operations/NPB Ops Sync — 2026-10-13 Notes.md)
 
 | # | Item | Owner | Status |
 |---|---|---|---|
-| 66 | JT role change: off phones and ops, keeps murals/projects (per-day pay for art). Offer him the captain's license, company pays; taking it = he keeps a seat. Jeff soft-pitches it this week, David + Michael make it official Thu 10/15 | Jeff → David | open |
+| 66 | JT role change: off phones and ops, keeps murals/projects (per-day pay for art). Offer him the captain's license, company pays; taking it = he keeps a seat. Jeff soft-pitches it this week, David + Michael make it official Thu 10/15 | Jeff → David | closed 2026-11-04, JT left |
 | 67 | Hire a captain-licensed utility first mate (day rate, on call for 4th boat, van runs, pickups). Max (kayak guide) is name #1. Jeff sounds him out by Thu 10/15: license interest, day rate, availability. Post to kayak guides first | Jeff | open |
 | 68 | Weekday first mate standard: captain's license + flexible. Current person trains for it or we hire for it | Jeff | open |
 | 69 | Claude builds the kayak 24h under-minimum check (reschedule or upsell to extended, Jeff's texts as wording, GV with logout alert, WhatsApp/email for intl). Jeff OKs first drafts in Slack. Jeff owes: the minimum number, airboat yes/no, his reschedule texts | Claude / Jeff | open |

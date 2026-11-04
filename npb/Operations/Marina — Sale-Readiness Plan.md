@@ -2,7 +2,7 @@
 type: strategy
 business: NOLA Party Barge
 date: 2026-08-27
-owner: David + Michael, JT executing on the ground
+owner: David + Michael, Jeff executing on the ground
 status: draft — walk it during the Sept 12-14 visit
 ---
 
@@ -15,7 +15,7 @@ The goal from the Aug 27 call: get our heads up from daily ops and start making 
 A buyer for a working marina + tour operation is paying for four things, in this order:
 
 1. **Provable cash flow** — clean books per entity, FareHarbor history, revenue that isn't 100% weekend tikis (the weekday income showing up since June helps here, so does kayak rental and every new channel like cousin trips and church buyouts).
-2. **A business that runs without the owner** — documented SOPs, a real org chart (JT as comms coordinator, Jeff as ops manager, quarterly crew one-on-ones on record), licenses in order.
+2. **A business that runs without the owner** — documented SOPs, a real org chart (Jeff as ops manager, quarterly crew one-on-ones on record), licenses in order.
 3. **The property itself** — what it looks like the day they walk it. First 90 seconds decide the anchor price feeling.
 4. **Upside story** — the destination-marina vision, permits in hand (alcohol licensing in progress), the 7-day waterfront hangout JT talks about. We sell the upside; we should also be the ones who started proving it.
 
@@ -27,14 +27,14 @@ A buyer for a working marina + tour operation is paying for four things, in this
 - Dumpster situation resolved
 - Staffing stable with alternates on call
 
-## Curb appeal — the 30-day list (JT on the ground)
+## Curb appeal — the 30-day list (Jeff on the ground)
 
 Cheap, visible, photographable:
 
 - [ ] Drainage: the standing-water problem near the dock JT flagged. Even a graded gravel fix changes how the entrance reads. Get a quote.
 - [ ] The drifted sailboat in the pull-out spot: resolve it (bill their insurance or get it moved). Derelict boats are the #1 "this place is tired" signal.
 - [ ] Paint/pressure-wash pass on whatever guests photograph: check-in entrance, restroom doors, dock rails.
-- [ ] Signage: one clean entrance sign, one wayfinding sign (Check-in → Restrooms → Dock). Matches the walkthrough video JT is shooting anyway.
+- [ ] Signage: one clean entrance sign, one wayfinding sign (Check-in → Restrooms → Dock). Matches the check-in walkthrough video.
 - [ ] Landscaping lite: mow line, trimmed edges, a few planters at check-in. An afternoon, not a project.
 - [ ] Crew in captain hats + shirts (already on the merch list). Uniformed crew photographs like a real operation.
 - [ ] Trash discipline: cans emptied before weekend opens, no visible pile anywhere a guest or drone can see.
@@ -53,7 +53,7 @@ Walk it like a buyer, Saturday at peak:
 - [ ] Watch the dock during a turnover: does it look choreographed or chaotic?
 - [ ] Ride Ben's boat (already planned) — crew conduct is part of what a buyer sees too.
 - [ ] List the 5 ugliest sightlines and give each one an owner and a month.
-- [ ] Ask JT for his "if I owned this place" list on the spot. He sees it every day.
+- [ ] Ask Jeff for his "if I owned this place" list on the spot. He sees it every day.
 
 ## Bigger swings (decide later, don't start now)
 

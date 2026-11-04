@@ -173,7 +173,6 @@ const USER_SCOPES = {
   'U_DYLAN_ID': { name: 'Dylan', scopes: ['nkst'] },
   'U_MICHELLE_ID': { name: 'Michelle', scopes: ['nkst'] },
   'U_JEFFREY_ID': { name: 'Jeffrey', scopes: ['npb'] },
-  'U_JT_ID': { name: 'JT', scopes: ['npb'] },
   'U_BELLA_ID': { name: 'Bella', scopes: ['dckt'] },
   'U_CONNOR_ID': { name: 'Connor', scopes: ['akt', 'lskt', 'hpb', 'bbk'] },
   'U_JONAH_ID': { name: 'Jonah', scopes: ['ee', 'et'] },
@@ -269,7 +268,7 @@ In Slack:
 | David | All vaults |
 | Michael | NKST, NPB, Austin, Lone Star, Houston PB, Buffalo Bayou |
 | Dylan, Michelle | NKST only |
-| Jeffrey, JT | NPB only |
+| Jeffrey | NPB only |
 | Bella | DCKT only |
 | Connor | Austin, Lone Star, Houston PB, Buffalo Bayou |
 | Jonah | Ebb & Ember, Elevated Tides |

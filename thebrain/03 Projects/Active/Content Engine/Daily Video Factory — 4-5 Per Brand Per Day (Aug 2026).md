@@ -22,7 +22,7 @@
 Brand → approval lane:
 | Brand | Manager lane |
 |---|---|
-| NPB | Jeffrey / JT |
+| NPB | Jeffrey |
 | NKST | Jeffrey (interim, no manager) |
 | DCKT (+ ebike) | Lea (social) — no manager since Bella left |
 | HPB, BBK, AKT | Connor — batch his 3 brands into ONE weekly-rhythm message, he's stretched |

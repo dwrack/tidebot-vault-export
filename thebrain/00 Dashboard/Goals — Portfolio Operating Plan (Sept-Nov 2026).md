@@ -27,7 +27,7 @@ Two things prove it worked by Nov 30:
 
 ## Tier 1 — Scale. These work. Feed them.
 
-### NOLA Party Barge (NPB) — Captain: Jeffrey Chitek, First mate: JT Sides
+### NOLA Party Barge (NPB) — Captain: Jeffrey Chitek
 - **Number: $30k/week booked** (from $25.9k avg). +16%.
 - **The one move:** Google Ads under Gravity Trails NOLA is returning 23-36 ROAS on the FareHarbor search campaigns. That is not a "monitor it" situation, that is a "check whether budget caps are throttling it" situation. Raise the cap and watch daily for a week.
 - **Second move:** `NPB | Messenger | TOF` spent $125 over 7 days for 37 conversations and 1 tracked lead. Either instrument what happens to those 37 people or kill it.

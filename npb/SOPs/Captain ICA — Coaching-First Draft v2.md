@@ -57,7 +57,7 @@ All rates live in **Exhibit A — Captain Pay Schedule**, attached to and part o
 Dollar amounts and the full trigger for each item are in Exhibit A.
 
 ### 2.2 Add-On Work Is Pre-Authorized
-- Deep cleans, boat moves, and fuel or supply runs pay only when Jeff or JT assigned the work **in writing** before you did it. Slack DM is fine.
+- Deep cleans, boat moves, and fuel or supply runs pay only when Jeff assigned the work **in writing** before you did it. Slack DM is fine.
 - Not assigned in writing = doesn't pay.
 - Opening, closing, and turnaround pay automatically off your logs. You don't claim them.
 
@@ -71,7 +71,7 @@ Trips don't always go to plan. Section 7 is the full pay table for weather cance
 - The Company takes **nothing** off the tip pool.
 - Full policy: `SOPs/Tip Split Policy.md`.
 
-**You are responsible for:** counting the pool at end of trip (cash and digital), splitting with your deckhand the same day, and texting the total to JT or Jeffrey.
+**You are responsible for:** counting the pool at end of trip (cash and digital), splitting with your deckhand the same day, and texting the total to Jeffrey.
 
 ### 2.5 What Is Not Paid
 - Onboarding paperwork and document collection
@@ -200,7 +200,7 @@ At the end of your last trip, file a single end-of-day audio log covering:
 - All FareHarbor trips closed out (yes/no)
 - Any incident or unusual event that needs follow-up
 - Active todos and action items in your area: boats, marina, supplies, customer issues, marketing notes
-- Anything you want JT or Jeffrey to know before tomorrow
+- Anything you want Jeffrey to know before tomorrow
 
 This replaces the previous five-separate-actions stack. One voice memo, comprehensive, before you walk off.
 

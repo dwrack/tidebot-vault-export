@@ -90,6 +90,6 @@ Keep it to 10. Brand ambassadors forward decks to HQ on their phone. Every slide
 ### Before it goes to anyone
 
 1. Walkthrough video exists (Track D).
-2. Indoor room capacity and any fire-marshal number confirmed with JT. **[confirm]**
+2. Indoor room capacity and any fire-marshal number confirmed with Jeff. **[confirm]**
 3. David signs off on the $50k / $20k numbers. They came from the Sept 10 brainstorm, not a costed budget.
 4. Contact line is Michael or the info@ inbox.

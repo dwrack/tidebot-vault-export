@@ -92,7 +92,7 @@ This makes them feel like an insider. It also gets them in our SMS list, which i
 
 Don't push the code on them. Make them ask for it.
 
-**Ask Jeff or JT for the current referral code. It changes seasonally.**
+**Ask Jeff for the current referral code. It changes seasonally.**
 
 ---
 

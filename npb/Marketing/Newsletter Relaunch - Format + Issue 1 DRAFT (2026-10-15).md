@@ -27,7 +27,7 @@ status: DRAFT, David approves before anything sends. Replaces w12 (scheduled Tue
 - Every event is checked against its own site the week it sends, with dates written out. We don't run anything we haven't verified. The closed-places list in `NOLA Spots + Mardi Gras 2027 Krewes — Research (2026-09-30).md` is the "don't promote" list.
 - At most one booking push per issue. The rest is just good info.
 - Use the full business name, never "NPB." Don't mention pedaling.
-- Crew picks come from Jeff, JT and the captains: one question a week, answered in a text or voice note.
+- Crew picks come from Jeff and the captains: one question a week, answered in a text or voice note.
 - Fold in a reel or guest photo only when it fits the issue.
 
 **Name (pick one):** The Bayou Dispatch / This Week on the Water / Fifteen Minutes from the Quarter

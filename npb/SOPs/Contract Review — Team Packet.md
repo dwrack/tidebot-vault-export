@@ -1,5 +1,5 @@
 # Contract Review — Team Packet
-*How Jeff, JT and Michael review the Captain + Deckhand contracts using their own Claude Desktop.*
+*How Jeff and Michael review the Captain + Deckhand contracts using their own Claude Desktop.*
 
 ---
 
@@ -18,7 +18,7 @@
 | Person | Owns | Deliverable back |
 |---|---|---|
 | **Jeff** | Rates + logistics | Priced rate card, claim-gate decision, open `JEFF:` callouts answered |
-| **JT** | Marina reality check | Does the line-item list match what crew actually do at the dock |
+| **Jeff** | Marina reality check (took over from JT, who left) | Does the line-item list match what crew actually do at the dock |
 | **Michael Fischer** | Classification | 1099 posture, Jones Act / LHWCA, the unpaid-training flag |
 
 ---
@@ -29,7 +29,6 @@
 
 - Owned by info@nolapartybarges.com, lives in the private **Crew Contracts 2026** Drive folder
 - **Editor access:** David (dwrack81@), Jeff (jeffreychitek@), Michael (mrfischer80@)
-- **JT still needs adding.** No email for him anywhere in the vault.
 - Added silently, no Google notification. David sends the link himself.
 
 This is the version everyone works in. Google Docs merges properly, so simultaneous edits are safe, and comments show who said what. The iCloud markdown copy below is the fallback for anyone who'd rather work offline.
@@ -87,7 +86,7 @@ Two other things I need to decide, ask me about these last:
 
 ---
 
-# JT — Marina Reality Check
+# JEFF — Marina Reality Check
 
 **Files to drag in (both):**
 - `Exhibit A — Captain Pay Schedule.md`
@@ -163,7 +162,7 @@ Michael isn't doing a Claude interview, he's giving a legal read. Send him the d
 >
 > Don't edit the files themselves, just send me the numbers back. Can you get me that by Friday?
 
-**To JT (text):**
+**To Jeff, second ask (text):**
 
 > Hey, quick one. We rewrote how crew get paid: instead of one flat rate for the day, every piece of work is its own line item. Opening prep, turnaround, closing, boat moves, all separate.
 >

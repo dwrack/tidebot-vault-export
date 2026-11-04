@@ -104,7 +104,7 @@ It's all connected. Professionalism at the start creates trust, trust creates fu
 
 ## Mid-Week Coaching (Wednesdays)
 
-Every Wednesday, JT or Jeffrey posts a short message in the crew Slack. This isn't a lecture. It's a stoke.
+Every Wednesday, Jeffrey posts a short message in the crew Slack. This isn't a lecture. It's a stoke.
 
 **Template:**
 

@@ -35,9 +35,9 @@
 
 ## NOLA Party Barge (NPB)
 
-**What's launching (assumption, confirm):** Halloween on the water. The ticketed "Bass Pirates Halloween" boat, Sat Oct 31, 8pm-10pm, 40 seats, $55, BYOB, fire pits after, best costume wins a free charter, plus Oct 30/31 private slots. NYE sits behind it (JT builds those items by Nov 1).
+**What's launching (assumption, confirm):** Halloween on the water. The ticketed "Bass Pirates Halloween" boat, Sat Oct 31, 8pm-10pm, 40 seats, $55, BYOB, fire pits after, best costume wins a free charter, plus Oct 30/31 private slots. NYE sits behind it (Jeff builds those items).
 **Audience:** the internet, and bachelorette planners who are mid-search right now.
-**Tier:** phone + Jeffrey/JT + one [GEN] shot. No paid; brand Ads are the Oct 14-15 argument with Michael, this stays organic.
+**Tier:** phone + Jeffrey + one [GEN] shot. No paid; brand Ads are the Oct 14-15 argument with Michael, this stays organic.
 **Window:** drop Wed Oct 21. Krewe of Boo is Sat Oct 24, Halloween is a Saturday.
 
 ### Pulse (Apify npb key, ~$0.68; reddit and one trends term errored HTTP 400, no rows)
@@ -89,7 +89,7 @@
 **12. Costume Check on Canal.** Logline: the pirate bouncer judges the Krewe of Boo crowd. Polarity: the parade-goers who get a "you would not." Shape: the verdict. First frame: a stranger's costume, then "No." Last frame: "Saturday. 40 seats." Risk: consent on the street, and it's a sequel without a first film.
 
 ### The one: No Costume, No Boarding
-It works with the boat removed, a bouncer enforcing a dress code is a bit on its own, and it is the one idea that is literally true, costumes are required on the Bass Pirates boat, so the hater reply writes itself. It also gives Jeffrey and JT a character (the deadpan deckhand, the only voice a competitor can't copy, per the meme doc) that carries NYE and every holiday after. Risk: if the 40 seats sell out before Oct 31, keep the private Oct 30/31 slots in the pinned comment so the argument still lands somewhere bookable.
+It works with the boat removed, a bouncer enforcing a dress code is a bit on its own, and it is the one idea that is literally true, costumes are required on the Bass Pirates boat, so the hater reply writes itself. It also gives Jeffrey a character (the deadpan deckhand, the only voice a competitor can't copy, per the meme doc) that carries NYE and every holiday after. Risk: if the 40 seats sell out before Oct 31, keep the private Oct 30/31 slots in the pinned comment so the argument still lands somewhere bookable.
 
 ### Hero asset
 **Logline:** No costume, no boat.
@@ -99,7 +99,7 @@ It works with the boat removed, a bouncer enforcing a dress code is a bit on its
 
 | Time | Shot | Source | Sound / text |
 |---|---|---|---|
-| 0.0-1.5 | Tight: a deckhand in a torn, sun-bleached pirate costume holding a clipboard at the gangway, dead face. No boat visible. | REAL, Jeffrey or JT, dusk Oct 30 at the marina | Dock ambience only. No text. |
+| 0.0-1.5 | Tight: a deckhand in a torn, sun-bleached pirate costume holding a clipboard at the gangway, dead face. No boat visible. | REAL, Jeffrey, dusk Oct 30 at the marina | Dock ambience only. No text. |
 | 1.5-5 | Reverse: a guy in a polo, khakis, a bar-crawl lanyard and a plastic hurricane. "We're on the 8 o'clock." Deckhand: "Costume?" Guy: "I'm... a tourist." Deckhand: "No." | REAL, same shoot (a crew friend plays him) | Live audio. The "No." is the sound. |
 | 5-9 | Montage, each gets a nod and "go ahead": a bride with a veil over a pirate hat, a guy as a shrimp, two women as one gator. | REAL, Oct 30 private-boat guests with their OK, crew as fallback | Text: "Costumes required. Obviously." |
 | 9-13 | The polo guy still on the dock; the thatched barge pulls away behind him, lanterns on, music starting. | REAL, `1-great_2026-08-08_tiki-barge-cruising-past.mov` angle re-shot at dusk Oct 30; fallback the daytime clip graded dark | One bass drop as the boat leaves. |
@@ -111,7 +111,7 @@ It works with the boat removed, a bouncer enforcing a dress code is a bit on its
 **Titles and captions.** IG: "No costume, no boat." Caption: "Bass Pirates. Oct 31, 8pm, 40 seats, $55, fire pits after. Costumes required. Private boats Oct 30 and 31 for crews who want the whole deck. Link in bio." TikTok: on-screen "no costume, no boarding" + caption "we mean it. oct 31. 40 seats. #neworleansbachelorette #nolahalloween #partyboat". X: "No costume, no boarding. New Orleans, Oct 31. Bourbon Street will let anyone in. We won't."
 
 ### Drop plan
-**T-7 to T-1 (Oct 14-20):** Thu Oct 15 post one still: the clipboard reading "COSTUME CHECK" on the dock, no caption. Jeffrey and JT from their own accounts Fri Oct 16: "something's happening on the bayou the 31st." Mon Oct 19 Instagram Close Friends story to the media list (growth play #10): the deckhand still, "we open the gangway Wednesday." Shoot Oct 30 is too late for the hero, so the hero shoot is Tue Oct 20 at dusk with crew and friends; Oct 30 real-guest costumes feed the swarm.
+**T-7 to T-1 (Oct 14-20):** Thu Oct 15 post one still: the clipboard reading "COSTUME CHECK" on the dock, no caption. Jeffrey from his own account Fri Oct 16: "something's happening on the bayou the 31st." Mon Oct 19 Instagram Close Friends story to the media list (growth play #10): the deckhand still, "we open the gangway Wednesday." Shoot Oct 30 is too late for the hero, so the hero shoot is Tue Oct 20 at dusk with crew and friends; Oct 30 real-guest costumes feed the swarm.
 **T-0 (Wed Oct 21):** IG Reels 12:00 CT, TikTok 12:30, X 1:00 with the polarity line. Jeffrey posts as NOLA Party Barge. Pinned: "Costume or no boat. Too far?" Fan reply: "Correct. Seat 1 of 40 is yours." Hater reply: "You can still come. In a costume. Or rent the whole boat Friday and wear what you want, we won't check." Review-SMS pipe and the h02 Halloween email (Oct 27) carry the deckhand still.
 **T+1 to T+7:** Day 2 the 6s "No." GIF and a GBP post. Day 2 the Pirate Safety Briefing (idea 2) as the stitch prompt: "add a rule." Sat Oct 24, Krewe of Boo: the deckhand works the Canal Street route doing costume checks on consenting parade-goers (idea 12), posted Sun Oct 25. Day 5 self-parody: the deckhand turns away the captain. Any venue that posts its own gangway "No" gets a comped seat. Day 7 (Oct 28): Oct 30 costume montage from real guests as the final push.
 **48-hour numbers:** views over 10x followers traveled, under 3x didn't. Over 5 comments per 1,000 views means the dress-code argument worked. Report saves and shares. Bass Pirates seats sold out of 40, and Oct 30/31 private slots booked, vs the prior 7 days.

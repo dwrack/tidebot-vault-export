@@ -1,6 +1,6 @@
 # Guide Interview Questions — NKST (Swamp Kayak)
 
-*For: Dylan LP, Michelle Healey, JT Sides, Connor (bat tours), any active guides*
+*For: Dylan LP, Michelle Healey, Connor (bat tours), any active guides*
 *Format: 15-20 min video call per guide*
 *Purpose: Bio footage + content source material*
 

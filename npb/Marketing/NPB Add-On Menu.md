@@ -80,7 +80,7 @@ Created 2026-09-10. Goal: +$37 per head via add-ons. Prioritized by ease of laun
 - Price: $40 pp / 15 min, $150 group of 4 with extra crate.
 - Staffing: one attendant, deckhand downtime SOP between departures.
 - Gear: coveralls, face shield, gloves, closed-toe shoes, waiver.
-- GATES: own liability line (GL lapsed 6/7/26, Berkley dispute live), marina landlord OK, occupational license scope, noise on neighbors (walk it with JT).
+- GATES: own liability line (GL lapsed 6/7/26, Berkley dispute live), marina landlord OK, occupational license scope, noise on neighbors (walk it with Jeff).
 
 ## Realistic stack to $100
 Mixer kit $12 @ 60%, photo package $15 @ 40%, bow seats $8 @ 30%, prepaid tip $5 @ 50%, cooler $25/group @ 40%, sunset premium $10 on half the trips. Lands around +$27 to +$32 before merch. On-board drink sales (#50) close the gap once the permit lands.
