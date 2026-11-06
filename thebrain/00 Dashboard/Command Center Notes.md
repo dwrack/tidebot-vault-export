@@ -22,6 +22,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-07 | AI-citation loop: Gemini billing or DataForSEO | All | default: DataForSEO
 - 2026-11-07 | Run the CreatorOS key script on your Desktop to turn on trial reels | All | default: trial reels stay off
 - 2026-11-07 | Medium importer: allow Chrome JavaScript from Apple Events on the always-on Mac, or leave it off | Admire NOLA | default: leave it off
+- LiDAR scan + photos of the 30 ft dock section next marina visit (dock water entry: ladder + two ramps; edge framing, float attachment, deck-to-water height) | Ebb & Ember | default: design stays at concept v0.1
+- Send or hold the #maintenance post announcing the dock water entry project | Ebb & Ember | default: hold until after the dock scan
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
