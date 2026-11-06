@@ -42,7 +42,7 @@ After the sauna and plunge, a couple wraps up in robes on the deck and melts rac
 - Cheese partner: Cow Bell PDX vs Speak Your Rind
 
 ## Collab concept for Cow Bell PDX (pitch, not an ask)
-Status 2026-11-05: idea only. Pitch the concept, see if they bite, then shape it with them. No cheese request yet.
+Status 2026-11-06: pitch SENT from davey@ to cheeseshop@cowbellpdx.com (night hero photo attached). Awaiting reply; nudge 11/13 if quiet.
 
 How it stacks:
 - **Social:** one joint Reel (cheese scrape hook, plunge, back to the fire), posted as an IG Collab post so it lands on both feeds. Each side runs a Story the same week.

@@ -44,3 +44,4 @@ Not emailed (no public email; Instagram DM or form only): Fumi incense (4007 N M
 **Do not feature (competitors):** Revive Wild Sauna, Rose + Clove, Shiver & Sweat, Stillwater, Happy Ranch Sauna Club.
 **Skipped (bars / alcohol-led):** Novel Book Bar, Taylor Street Tavern, DIY Bar, Carlita's, Grand Central Bowl, The Barley Pod, Portland Top.
 **PR lead:** @smile4travel posted a "Portland Sauna Roundup". Pitch to be included.
+| 2026-11-06 | Cow Bell PDX | cheeseshop@cowbellpdx.com | Raclette collab pitch sent (not a photo ask) | awaiting reply, nudge 11/13 |
