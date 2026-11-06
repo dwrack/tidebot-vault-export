@@ -76,7 +76,7 @@
 ## Directions to Key Locations
 
 **HQ / Jacksonport (Cave Point tours):**
-- 6329 WI-57, Jacksonport, WI 54235
+- 6329 WI-57, Sturgeon Bay, WI 54235
 - GPS says Sturgeon Bay — tell guests this
 - On Hwy 57, 10 miles south of Bailey's Harbor
 

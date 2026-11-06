@@ -31,7 +31,7 @@ This playbook captures how Door County Kayak Tours actually runs — the vendors
 |---|---|
 | **Legal entity** | Door County Kayak Tours LLC (K032471) — Wisconsin |
 | **DBAs** | Cave Point Paddle & Pedal, DoCo Kayak & Bike, Lykke Sauna Co. |
-| **HQ address** | 6329 WI-57, Jacksonport, WI 54235 |
+| **HQ address** | 6329 WI-57, Sturgeon Bay, WI 54235 |
 | **Phone** | (920) 868-1400 |
 | **Business email** | Info@DoorCountyKayakTours.com |
 | **Operations inbox** | doorcountykayaking@gmail.com |

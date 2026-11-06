@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-10-30
+updated: 2026-11-05
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,13 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: front_door_for_lskt. No movement since 2026-08-28.** Nothing in this run shows AKT routing into the LSKT booking flow.
-- GBP: newest 10 all replied. Shares the LSKT Google account.
+- **Goal: front_door_for_lskt. No movement seen in today's pulls.** IG last post 8/14. GBP: 1 unreplied 5-star (Miss K, 11/02). No FH feed, no Google or Meta spend.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-10-31. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 **Austin Kayak Tours**
 

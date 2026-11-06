@@ -2,7 +2,7 @@
 
 # Creator Outreach Playbook: Buffalo Bayou Kayak
 
-**Owner:** Connor Champaign
+**Owner:** Connor Champagne
 **Business Instagram:** @buffalobayoukayak (or current handle)
 
 ---

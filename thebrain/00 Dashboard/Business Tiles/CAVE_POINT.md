@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-10-30
+updated: 2026-11-05
 tile_type: business
 goal_q4_metric: route_fix_by_oct_15
 goal_q4_target: null
@@ -18,27 +18,31 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: route_fix_by_oct_15. No movement since 2026-08-28.** Two weeks past the date. The long-transit complaints (Yana Pieces 2-star, K 4-star) are still the newest critical reviews.
-- GSC: "whitefish dunes state park" 326 impressions at 9.1. GBP: newest 10 replied.
+- **Goal: route_fix_by_oct_15. No movement seen in today's pulls.** GSC 10/29-11/03: 3 clicks / 53 impr ("door county sauna" 1/7 pos 8.9). IG silent since 6/2025.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-10-31. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|
+| cave kayaking door county | 4% | 1/25 | 1.0 | new | 4% |
+| cave point kayak tour | 4% | 1/25 | 1.0 | new | 4% |
 | door county bike rental | 4% | 1/25 | 2.0 | new | 4% |
+| door county e-bike tours | 0% | 0/25 | not in top 20 | new | 0% |
 | door county kayak rental | 4% | 1/25 | 2.0 | new | 4% |
+| door county kayak tours | 0% | 0/25 | not in top 20 | new | 0% |
 | door county paddle board rental | 4% | 1/25 | 1.0 | new | 4% |
 | jacksonport kayak | 4% | 1/25 | 2.0 | new | 4% |
+| kayaking door county | 4% | 1/25 | 2.0 | new | 4% |
 | things to do in jacksonport | 0% | 1/25 | 6.0 | new | 0% |
 
 <!-- maps:end -->
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -46,20 +50,20 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $5,347 |
-| Spending | $3,110 |
-| Card payments + transfers out | $30,469 |
-| Net, month to date | $2,237 |
-| Net, same days last month | partial: feed starts Sep 08, $9,655 |
+| Money in | $4,520 |
+| Spending | $662 |
+| Card payments + transfers out | $28,248 |
+| Net, month to date | $0 |
+| Net, same days last month | -$1,827 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $5,347 | $15,132 | -65% |
-| Month to date, spending | $3,110 | $12,407 | -75% |
-| Month to date, net | $2,237 | $2,725 | -$488 |
+| Month to date, money in | $0 | $366 | -100% |
+| Month to date, spending | $0 | $69 | -100% |
+| Month to date, net | $0 | $298 | -$298 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151; joinhomebase.com joinhomeba ST-Z $99
+**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34
 <!-- finance:end -->
 
 ## Quick links

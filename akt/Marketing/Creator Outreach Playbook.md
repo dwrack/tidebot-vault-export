@@ -2,7 +2,7 @@
 
 # Creator Outreach Playbook: Austin Kayak Tours
 
-**Owner:** Connor Champaign
+**Owner:** Connor Champagne
 **Business Instagram:** @austinkayaktours (or current handle)
 
 ---

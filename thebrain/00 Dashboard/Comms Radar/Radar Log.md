@@ -1,0 +1,49 @@
+# Radar Log
+
+What the radar did and when. Newest first.
+
+- 2026-11-05 23:32 | David set due on T0055: 2026-11-06
+- 2026-11-05 23:32 | 2 new messages moved 2 threads: T0011, T0007
+- 2026-11-05 18:10 | 2 new messages moved 2 threads: T0019, T0087
+- 2026-11-05 16:10 | 2 new messages moved 2 threads: T0086, T0019
+- 2026-11-05 14:10 | 12 new messages moved 4 threads: T0011, T0082, T0084, T0085
+- 2026-11-05 12:10 | 16 new messages moved 5 threads: T0081, T0082, T0083, T0007, T0005
+- 2026-11-05 08:10 | 7 new messages moved 3 threads: T0079, T0080, T0066
+- 2026-11-05 06:10 | 9 new messages moved 3 threads: T0007, T0014, T0078
+- 2026-11-04 20:10 | 2 new messages moved 1 threads: T0077
+- 2026-11-04 16:10 | 15 new messages moved 2 threads: T0072, T0076
+- 2026-11-04 14:10 | 40 new messages moved 3 threads: T0038, T0074, T0075
+- 2026-11-04 12:10 | 25 new messages moved 5 threads: T0025, T0070, T0071, T0072, T0073
+- 2026-11-04 10:10 | 32 new messages moved 7 threads: T0058, T0060, T0001, T0043, T0038, T0068, T0069
+- 2026-11-04 08:10 | 17 new messages moved 6 threads: T0060, T0058, T0065, T0066, T0067, T0020
+- 2026-11-04 06:10 | 8 new messages moved 4 threads: T0011, T0062, T0063, T0064
+- 2026-11-03 20:10 | 3 new messages moved 2 threads: T0034, T0061
+- 2026-11-03 18:10 | 3 new messages moved 1 threads: T0019
+- 2026-11-03 16:10 | 5 new messages moved 3 threads: T0059, T0060, T0034
+- 2026-11-03 14:10 | 24 new messages moved 3 threads: T0019, T0057, T0058
+- 2026-11-03 12:10 | 11 new messages moved 4 threads: T0049, T0055, T0005, T0056
+- 2026-11-03 08:10 | 9 new messages moved 2 threads: T0053, T0054
+- 2026-11-03 06:10 | 7 new messages moved 7 threads: T0007, T0011, T0051, T0052, T0053, T0031, T0020
+- 2026-11-02 20:10 | 1 new messages moved 1 threads: T0050
+- 2026-11-02 16:10 | 3 new messages moved 2 threads: T0034, T0049
+- 2026-11-02 14:10 | 6 new messages moved 4 threads: T0011, T0047, T0048, T0019
+- 2026-11-02 12:10 | 12 new messages moved 5 threads: T0043, T0044, T0031, T0045, T0046
+- 2026-11-02 10:10 | 17 new messages moved 5 threads: T0002, T0040, T0041, T0031, T0042
+- 2026-11-02 08:10 | 6 new messages moved 3 threads: T0037, T0034, T0040
+- 2026-11-02 06:10 | 15 new messages moved 7 threads: T0036, T0037, T0038, T0039, T0021, T0020, T0034
+- 2026-11-01 20:10 | 4 new messages moved 2 threads: T0035, T0028
+- 2026-11-01 18:10 | 3 new messages moved 2 threads: T0023, T0034
+- 2026-11-01 14:10 | 3 new messages moved 1 threads: T0033
+- 2026-11-01 12:10 | 4 new messages moved 1 threads: T0032
+- 2026-11-01 08:10 | 5 new messages moved 1 threads: T0031
+- 2026-11-01 06:10 | 15 new messages moved 6 threads: T0011, T0020, T0021, T0028, T0029, T0030
+- 2026-10-31 20:10 | 2 new messages moved 1 threads: T0027
+- 2026-10-31 18:10 | 3 new messages moved 1 threads: T0019
+- 2026-10-31 16:10 | 6 new messages moved 1 threads: T0026
+- 2026-10-31 14:10 | 7 new messages moved 1 threads: T0025
+- 2026-10-31 12:10 | 5 new messages moved 1 threads: T0024
+- 2026-10-31 10:10 | 5 new messages moved 1 threads: T0008
+- 2026-10-31 08:10 | 7 new messages moved 2 threads: T0022, T0023
+- 2026-10-31 06:10 | 8 new messages moved 4 threads: T0007, T0017, T0020, T0021
+- 2026-10-30 20:10 | 1 new messages moved 1 threads: T0019
+- 2026-10-30 15:16 | 41 new messages moved 8 threads: T0013, T0011, T0014, T0015, T0016, T0017, T0009, T0018

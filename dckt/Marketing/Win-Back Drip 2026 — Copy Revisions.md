@@ -501,7 +501,7 @@ Door County Kayak Tours
 ## Footer (auto-appended to every variant)
 
 ```
-Door County Kayak Tours · 6329 Highway 57, Jacksonport, WI 54235 · Unsubscribe: {{unsubscribe_url}}
+Door County Kayak Tours · 6329 WI-57, Sturgeon Bay, WI 54235 · Unsubscribe: {{unsubscribe_url}}
 ```
 
 ## Avatar / brand checks per cell

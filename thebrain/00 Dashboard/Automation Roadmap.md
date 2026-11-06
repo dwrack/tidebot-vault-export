@@ -12,6 +12,8 @@ Updated 2026-06-12. Companion to the 6 loops now running. Each item below has a 
 | opencx-watch | Daily 8:53a CT | Slack to managers + helm + 00 Dashboard/OpenCX/ |
 | morning-brief | Daily 7:20a CT | Daily brief + Home.md refresh |
 | life-ops | Sun 7:12p CT | 00 Dashboard/Weekly/ |
+| corrections-log | Nightly 11:40p (each Mac), rules Sun | 06 Learning/Corrections Log.md + Corrections - Proposed Rules.md (tick-to-approve). Added 2026-10-30, see 03 Projects/Active/Self-Improvement System |
+| work-queue | Nightly 10:00p (dckt-guide-mac only) | 00 Dashboard/Work Queue.md: tasks from Apple Note "Claude Queue" worked by claude -p per vault, results filed Done / Needs your tap. Added 2026-10-30 |
 
 Plus the ~20 pre-existing jobs (adreport, fhscrape, GBP posters, IG DM worker, reddit-finder, publisher, token refresh, vault sync, graphify-DCKT).
 

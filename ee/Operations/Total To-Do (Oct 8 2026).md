@@ -45,7 +45,7 @@ One list. Merges [[Master Action List (Sept 2026)]] (incl. section 5, Davey's me
 - [ ] Dock policy: can boaters tie up at the sauna? (Eric Strom asked)
 - [ ] Early Bird proposal: read before the call (you proposed Wed 10/14 10:30, same day as Window Pick)
 - [ ] Reply JD Wellness (Jamie): Wed 4:30 or Thu 12
-- [ ] Travel Portland: free Insider or $300/yr Investor tier
+- [x] Travel Portland: free Insider tier submitted 2026-11-03 (participant 2060, contact sauna@ebbandember.com); awaiting their review
 - [ ] WaterStrong partner call Tue 10/20 11am: decide the ask
 - [ ] Repost the 1859 Magazine mention
 - [ ] Kimberlynn: nearby-event posts, Portland Open Water Swimmers, recurring marketing meeting, match site copy to IG

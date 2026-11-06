@@ -1,6 +1,6 @@
 # Guide Interview Questions — Houston Pedal Barge
 
-*For: Connor Champaign, Bella (lead captain), captains*
+*For: Connor Champagne, Bella (lead captain), captains*
 *Format: 15-20 min video call per person*
 *Purpose: Bio footage + content source material*
 

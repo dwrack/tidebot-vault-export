@@ -1,6 +1,6 @@
 # Guide Interview Questions — Austin Kayak Tours / LSKT
 
-*For: Connor Champaign + team*
+*For: Connor Champagne + team*
 *Format: 15-20 min video call per guide*
 *Purpose: Bio footage + content source material*
 

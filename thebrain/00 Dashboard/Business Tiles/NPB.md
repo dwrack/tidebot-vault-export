@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 13
-revenue_today: 2239
+bookings_today: 10
+revenue_today: 4082
 lead_time_days: 0
-ad_spend_yday: 405
+ad_spend_yday: 457
 status: green
 alert: null
-updated: 2026-10-30
+updated: 2026-11-05
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,15 +18,14 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** 10/23-10/25 FH scrapes 403'd, so there's no clean trailing 7 days. Thu 10/29: 13 booked, $2,239, best day this week, against a $30,000/wk target.
-- Meta Thu: $270.46. Gator Collision $224.19 / 4 purchases / ROAS 1.85, zero streak broken, so no 30% cut. Retargeting $22.21 / 2 / $596.20. Messenger TOF $23.91 / 3 conversations.
-- Google (Gravity Trails NOLA umbrella): $134.80, 3 conv, ROAS 6.17 Thu. 7-day $1,008.85, ROAS 2.37 (up from 1.80).
-- GBP: 4 unreplied 5-stars (Geneva Shaunette, Jared Hickey, Billy Gray, IAMHALEY). Billy Gray flags the dock's looks.
+- **Goal pace: $18,399/wk booked vs $30,000 target, 61% of goal.** Wed 11/4: 10 booked / $4,082. Trailing 7 days 68 bookings.
+- Ads: Meta act_87863118 $288.02 + Google GT umbrella $169.29 yesterday. Gator Collision $243.05 / 0 purchases yesterday, 7d $1,202.63 / 16 purchases / ROAS 1.69: leave on, recheck Fri. "New Sales Campaign" (52560373835300) $40/day, $0.41 in 7d: fix or archive.
+- GBP: 7 unreplied 5-stars (Jessup 11/05, Long 11/04, Paris, Butler-Cole 11/03; Smith, Menefee, Greene 10/31). Lamar and Guibal threads unverified today.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-10-31. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 **NOLA Party Barge**
 
@@ -52,33 +51,33 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $73,557 |
+| Chase Bank PERFBUS CHK (3085) | $71,682 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $91,395 |
-| Spending | $73,037 |
-| Card payments + transfers out | $29,491 |
-| Net, month to date | $18,358 |
-| Net, same days last month | $25,306 |
+| Money in | $80,636 |
+| Spending | $53,178 |
+| Card payments + transfers out | $23,912 |
+| Net, month to date | $0 |
+| Net, same days last month | -$8,248 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $29,112; CHECK # $25,052; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
+**Top spending, 30 days:** CHECK # $19,420; Payroll-Homebase $16,562; PAYPAL $15,015; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it
 - Check $1,100 on Oct 08: payee unknown, label it
-- Check $1,760 on Oct 02: payee unknown, label it
-- Check $6,000 on Oct 01: payee unknown, label it
 - Check $6,000 on Oct 21: payee unknown, label it
+- Check $6,000 on Oct 27: payee unknown, label it
+- Check $2,129 on Oct 29: payee unknown, label it
 <!-- finance:end -->
 
 ## Quick links

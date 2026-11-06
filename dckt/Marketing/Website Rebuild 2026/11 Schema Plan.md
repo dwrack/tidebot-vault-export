@@ -6,7 +6,7 @@
 
 | Node | @id | Key properties | Source of truth |
 |:-|:-|:-|:-|
-| `LocalBusiness` + `SportsActivityLocation` | `https://www.doorcountykayaktours.com/#organization` | name, legalName (Door County Kayak Tours LLC), url, telephone +1-920-868-1400, email info@, foundingDate 2002, priceRange "$65 - $145", address 6329 WI-57 Sturgeon Bay WI 54235 (the shop; David's 2026-05-10 call for web schema; Fish Creek stays the legal address only), geo, areaServed (Door County towns), aggregateRating 4.9 / 1011 (GBP, verified 2026-10-15), sameAs (IG, FB, YouTube, TikTok), knowsAbout | `src/data/site.ts` |
+| `LocalBusiness` + `SportsActivityLocation` | `https://www.doorcountykayaktours.com/#organization` | name, legalName (Door County Kayak Tours LLC), url, telephone +1-920-868-1400, email info@, foundingDate 2002, priceRange "$65 - $145", address 6329 WI-57, Sturgeon Bay, WI 54235 (the shop; David's 2026-05-10 call for web schema; Fish Creek stays the legal address only), geo, areaServed (Door County towns), aggregateRating 4.9 / 1011 (GBP, verified 2026-10-15), sameAs (IG, FB, YouTube, TikTok), knowsAbout | `src/data/site.ts` |
 | `WebSite` | `/#website` | name, url, publisher -> organization | same |
 
 Not emitted: `openingHoursSpecification` (seasonal hours unverified; add when David confirms), `WebPage` (adds nothing).

@@ -65,3 +65,27 @@ Not supported by the data (do not over-claim): exact on-screen-text formulas, sh
 | apify/instagram-scraper | directUrls for loylyhelsinki, othership, communitysaunabaths, saunasocialclub, kotisauna, gussmobilesauna, arc.sauna; resultsType posts; resultsLimit 12 | 43 (3 profiles errored) | about $0.10 to $0.20 |
 
 Total roughly $0.9 to $1.0. Datasets: TikTok T2wxdme9OKhsd0uqr, IG hashtag Q4b2AyEX6w6QvLeHm, IG brands a4gQFhlXqi85cyOQn.
+
+## Refresh 2026-11-01 (scheduled)
+
+Pulled 2026-11-01 via apify-ee, posts from 2026-10-02 on. 295 rows scraped, 111 inside the 30-day window (62 TikTok, 12 IG hashtag reels, 37 IG peer-account posts). Cost $1.02 (TikTok $0.65, IG hashtag $0.26, IG peers $0.11). Datasets: TikTok 5bpZAd52QIyUyakV9, IG hashtag r8gD6N3bKGnWbSB1r, IG peers NQaaI4MfUVsiLMROY. Peers scraped: loylyhelsinki, arcticbath, saunaglo, gussmobilesauna, hotboxsauna, othership, communitysaunabaths, kelownafloatingsauna, soakbathhouse (several returned nothing in the window). Hashtags: floatingsauna, saunaculture, coldplunge, publicsauna, saunatok, bathhouse, pnwsauna (TT); floatingsauna, saunaculture, publicsauna, coldplunge, saunalife (IG).
+
+Limit: IG hashtag rows carry no follower counts, so views-per-follower only works for TikTok. A 52M-view ice bath "healing" reel topped the set; skipped as off-brand.
+
+### New ideas added to the dashboard
+- w9 Tier lists. w10 Number it like a show. w11 One odd true fact. w12 Call out the city, ask a question. w13 Partner sessions travel furthest.
+- v5 Ranking every way to cool off. v6 Sunrise swim, part 2. v7 Okay Portland, be honest. v8 How the rest of the world saunas, ep. 1 (Oslo footage).
+
+### Top 5 source posts
+| Account | Views | What it shows | Link |
+|---|---|---|---|
+| @_bryan_johnson_ (TT, 918K followers) | 1.2M, 14K saves | "3 tiers of sauna" tier list | https://www.tiktok.com/@_bryan_johnson_/video/7694004397604424990 |
+| @ireneidanvalo (IG) | 141K | "real housewives of finland, episode 1" sauna sketch | https://www.instagram.com/p/DeoZK-gI2_k/ |
+| @tiataylorandco (TT, 9.5K followers) | 95K, 1.3K shares | "Okay Philly, I need answers" bathhouse question, 9s | https://www.tiktok.com/@tiataylorandco/video/7693208858679938317 |
+| @domitrick (IG) | 91K | "Be honest, are you jumping in?" glacier plunge | https://www.instagram.com/p/DeZw0O9p5xM/ |
+| @saunantakaa (IG) | 43K, 1.3K shares | Estonia sauna marathon fact over b-roll | https://www.instagram.com/p/DeXtUYtFfhU/ |
+
+Our own signal: the 10/26 Friday sunrise swim reel with @swimlearnthrive hit 33.7K views, 554 shares, 342 saves (https://www.instagram.com/reel/De-RcKqymvQ/), roughly 4x our next best reel this month. Our 10/6 "name a better combo" TikTok did 26.5K on 1.7K followers (15x), the best views-per-follower in the TikTok set.
+
+### Retired this run
+None. No comments on the dashboard. IG posts since 10/21 (sunrise swim collab, Readers Choice finalist carousel, "the people you meet" reel, chilly mornings carousel) don't clearly execute any open idea, so all 12 older rows stay open.

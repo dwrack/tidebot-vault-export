@@ -1,7 +1,7 @@
 ---
 type: draft
 business: NOLA Party Barge
-status: DRAFT v2 for David + Jeff. Replaces the 10/13 utility first mate draft if they go with one role. Pay blank until set.
+status: SUPERSEDED 2026-10-29 by Indeed Posting - Operations and Communications Manager (DRAFT 2026-10-29).md. Old status: DRAFT v2 for David + Jeff. Replaces the 10/13 utility first mate draft if they go with one role. Pay blank until set.
 created: 2026-10-19
 ---
 

@@ -7,6 +7,8 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 
 ## High Priority
+- [ ] **Airbnb listing: upload license + insurance by Mon Nov 16 or it pauses.** Listing "Paddle Through New Orleans' Beautiful Wetlands" (ID 6961035, host Jeffrey). Airbnb's Nov 1 email says documents go to Evident. Last bookings May 23 to 24, 2026 (2 bookings). _(David, 2026-11-05; status from Gmail, Airbnb dashboard not checked)_
+- [ ] **Airbnb to FareHarbor connection: tell FareHarbor to resume.** FH paused the API setup June 12 waiting on us (ticket 5653414). Until it's connected, Airbnb bookings don't block FH seats and don't show as an OTA in reports. _(David, 2026-11-05)_
 - [ ] [Guide log] Address the low tire pressure on the white Ford van and investigate the inaccessible pressure valve for repair. _(River B. (written log), 2026-10-24)_
 - [ ] [Guide log] Review and improve the process for handling guide's critical feedback and vehicle issues, addressing the guide's feeling of being disregarded due to a dismissive response to an earlier concern. _(River Boutne (written log), 2026-10-17)_
 - [ ] [Guide log] Look into replacing the back tire on the Grey transit soon; it returned with a plugged tire. _(Stephanie (written log), 2026-10-14)_

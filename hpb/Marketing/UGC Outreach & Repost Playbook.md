@@ -1,6 +1,6 @@
 # UGC Outreach & Repost Playbook — Houston Pedal Barge
 
-**Owner:** Connor Champaign / Bella (lead captain)
+**Owner:** Connor Champagne / Bella (lead captain)
 **Frequency:** Weekly (15-20 min search + outreach as needed)
 
 ---

@@ -152,3 +152,9 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 - AssuredPartners broker E&O claim
 - Asset/liability schedule for the bankruptcy attorney
 - Optional add if David wants it: NOLA **city** sales & use delinquent assessment, Aug + Dec 2025, ~$217. LaTAP filed for the state; the city letter was never resolved.
+
+## For Jeff, Tuesday Nov 4 meeting (added 2026-10-31 from the OpenCX FAQ study)
+- Glass bottles on board: allowed or cans/plastic only? (guests ask; bot currently stays silent on it)
+- Wheelchair access: can a guest in a wheelchair board? Dock flat? Step onto the boat? Crew assists? (1 handoff lost on this)
+- Still open after that: boat route in two sentences, nearest grocery/liquor store and two restaurants near 2101 Paris Rd, lost-and-found path, do guests need to print the waiver, AI disclosure line, Google rating to quote.
+- Same-day empty departures: bot now asks the team whether a captain is on. Jeff is the answer; confirm he sees the Slack alert.

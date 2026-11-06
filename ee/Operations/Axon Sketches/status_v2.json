@@ -1,7 +1,7 @@
 {
- "rev": "05",
- "date": "Sat Oct 24 2026",
- "next": "Sat Oct 31",
+ "rev": "06",
+ "date": "Sat Oct 31 2026",
+ "next": "Sat Nov 7",
  "model": "Rooms 8.5 x 12 ft, schematic placement",
  "alt": "Hand-sketched isometric of the two V2 private saunas on the 18 x 36 ft float, from the Rev AH coordination set: black metal shed roofs with stovepipes, the 6 ft front fence, the privacy wall on the center line, the East round window and zen deck with the bonsai garden.",
  "caption": "Four layers pulled apart: platform and tile, interior, walls, roof. Dashed outline between the rooms is the future cold plunge. Dashed line inside the walls is the flat ceiling at 7 ft to 7 ft 4 in that we are asking Grant for. Door, window and stove positions are schematic until Grant's CAD is final.",
@@ -79,9 +79,9 @@
   }
  ],
  "notes": [
-  "Rev 05: five views drawn over the newest coordination set model (Rev AH, 10/22), to scale. Nothing added by hand.",
-  "New since last sketch: West stove-side window to the floor (AE), fire pit gas stubs on each private deck (AF), stove corner finish picked (AG). Build status unchanged from the 10/15 walk.",
+  "Rev 06: five views drawn over the newest coordination set model (Rev AH, 10/22), to scale. Nothing added by hand.",
+  "No change to the model this week. The only new file in the drawings folder is the 10/26 stove flue install quote schematic (x2), not a drawing revision. Build status unchanged from the 10/15 walk.",
   "Still open: Torch has to OK 6 in clearance and the floor-level glass for the TS-85F in writing; Grant to tape the stove collar height."
  ],
- "foot": "Source: Assets/V2 Build Drawings/, newest Coordination Set \u00b7 redrawn every Saturday morning"
+ "foot": "Source: Assets/V2 Build Drawings/, newest Coordination Set · redrawn every Saturday morning"
 }

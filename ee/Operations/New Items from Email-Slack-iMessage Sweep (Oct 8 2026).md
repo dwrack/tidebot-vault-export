@@ -33,7 +33,7 @@ IDs: E = email, S = Slack, N = iMessage. "Updates" tables refer to Master List I
 | E12 | Club Pilates (Liz James) private party price ask 10/6, no reply | E&E | sauna@ | sauna@ 10/6 | Warm corporate lead |
 | E13 | Boater (Eric Strom) asking to tie up at the sauna, no reply. Need a dock policy | E&E/ET | Jonah | sauna@ 10/2 | |
 | E14 | Creator asks: Sharon (Portland Half recovery video, wants to film this weekend), Rachel & Kevin (NYC food) | E&E | Kimberlynn | sauna@ 10/1, 10/6 | Sharon is time-sensitive |
-| E15 | Travel Portland: pick free Insider or $300/yr Investor tier, apply on portal. 10 days unanswered | E&E | Davey | davey@ 9/28 | Winter visitor traffic |
+| E15 | DONE 2026-11-03: Travel Portland free Insider sign-up submitted on portal (participant 2060, sauna@ebbandember.com). Awaiting their review | E&E | Davey | davey@ 9/28 | Winter visitor traffic |
 | E16 | Early Bird (Jordan/Mack) proposal 9/30: read before call. You proposed Wed 10/14 10:30 | E&E | Davey/Jonah | davey@ 9/30, 10/8 | Decide PR scope + spend |
 | E17 | JD Wellness (Jamie Doyle): offered Wed 4:30 / Thu 12, you never replied | E&E | Davey | davey@ 10/1 | Unanswered 1 week |
 | E18 | WaterStrong partnering call Tue 10/20 11am | E&E | Davey/Jonah | davey@ 9/30 | Decide the ask |

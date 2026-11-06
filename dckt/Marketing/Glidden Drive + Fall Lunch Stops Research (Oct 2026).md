@@ -2,7 +2,7 @@
 
 Researched 2026-10-14 (a Wednesday). All hours and facts below were checked on that date; anything I could not confirm is marked UNVERIFIED. "MAP-DERIVED" means computed with OSRM bike routing (routing.openstreetmap.de, routed-bike profile) on OpenStreetMap data. OSRM bike speed works out to about 9.5 mph, so e-bike times with photo stops will differ a bit.
 
-Goal: "perfect fall afternoon" e-bike loop. Shop (6329 State Hwy 57, Jacksonport) to Cave Point County Park to Whitefish Dunes State Park, then on to Glidden Drive / the Whitefish Bay community, lunch, ride back.
+Goal: "perfect fall afternoon" e-bike loop. Shop (6329 WI-57, Sturgeon Bay, WI 54235) to Cave Point County Park to Whitefish Dunes State Park, then on to Glidden Drive / the Whitefish Bay community, lunch, ride back.
 
 ---
 

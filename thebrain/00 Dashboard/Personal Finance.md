@@ -47,37 +47,36 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Nicolet National Bank 7297382 Davids Personal (7382) | $31,866 |
-| American Express Delta SkyMiles® Reserve Card (5002) | -$2,732 |
+| American Express Delta SkyMiles® Reserve Card (5002) | -$522 |
 
 | Last 30 days | Amount |
 |---|---|
 | Money in | $18,462 |
-| Spending | $62,071 |
-| Card payments + transfers out | $12,730 |
-| Net, month to date | -$43,609 |
-| Net, same days last month | partial: feed starts Sep 08, $6,626 |
+| Spending | $44,586 |
+| Card payments + transfers out | $12,376 |
+| Net, month to date | $0 |
+| Net, same days last month | -$7,459 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $18,462 | $7,501 | +146% |
-| Month to date, spending | $60,110 | $7,685 | +682% |
-| Month to date, net | -$41,648 | -$184 | -$41,464 |
+| Month to date, money in | $0 | $0 | n/a |
+| Month to date, spending | $0 | $6,968 | -100% |
+| Month to date, net | $0 | -$6,968 | $6,968 |
 | Trailing 12 months | no history yet | | |
 
 *Month to date leaves out American 5002 (from Sep 2026): not enough history yet.*
 
-**Top spending, 30 days:** IRS USATAXPYMT $40,880; Outgoing Wire WFG NATIONAL TITLE $10,000; ROCKET MORTGAGE LOAN $4,494; NEWREZ-SHELLPOIN ACH PMT XXXXXX1 $2,808; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711
+**Top spending, 30 days:** IRS USATAXPYMT $40,880; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711; AplPay WOODSTOCK SMIPORTLAND OR $595; KP NW ACI PREM DENVER CO $509; DELTA AIR LINES ATLANTA $436
 **Flags:**
-- Fee $25 on Oct 06: Domestic Outgoing Wire Fee
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -86,20 +85,20 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $3,945 |
+| Money in | $1,650 |
 | Spending | $932 |
 | Card payments + transfers out | $4,306 |
-| Net, month to date | $3,013 |
-| Net, same days last month | partial: feed starts Sep 08, $1,156 |
+| Net, month to date | $0 |
+| Net, same days last month | $1,695 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $3,945 | $0 | n/a |
-| Month to date, spending | $932 | $1,972 | -53% |
-| Month to date, net | $3,013 | -$1,972 | $4,984 |
+| Month to date, money in | $0 | $0 | n/a |
+| Month to date, spending | $0 | $27 | -100% |
+| Month to date, net | $0 | -$27 | $27 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,160 | $28,275 | -18% |
-| Trailing 12 months, net | -$23,160 | -$27,679 | $4,519 |
+| Trailing 12 months, spending | $22,839 | $28,552 | -20% |
+| Trailing 12 months, net | -$22,839 | -$27,956 | $5,117 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
@@ -110,7 +109,7 @@
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Oct 30. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 05. Balances only.*
 
 | Account | Balance |
 |---|---|

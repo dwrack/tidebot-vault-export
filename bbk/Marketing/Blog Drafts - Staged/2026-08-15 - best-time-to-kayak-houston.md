@@ -258,4 +258,4 @@ Questions about a specific date or season? The → [internal link: full FAQ page
 - Tour slugs (/kayak-tours/houston-kayak-tour/, /kayak-tours/sunset-skyline-tour/, /kayak-tours/houston-bat-bridge-kayak-tour/, /kayak-tours/full-moon-tour/, /watersports-rental/, /faq/) cross-checked against the already-staged 2026-08-15 full-moon-kayak-dates-2026.md draft, which uses the identical slugs and is marked verified live in that file.
 - No GSC or GA4 access connected in this environment. No query volume or ranking numbers cited anywhere in this post.
 - No cached social-listening report exists for BBK in this vault (checked before writing), so the FAQ was built from the real query cluster around "when to kayak Houston" (season, heat, time of day, weather cancellation) rather than harvested guest objections, the same gap noted on the other 2026-08-15 staged posts.
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.

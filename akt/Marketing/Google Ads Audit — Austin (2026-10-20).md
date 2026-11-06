@@ -181,3 +181,78 @@ All of these are 1–10 conversions per week, so week-to-week swings are mostly 
 4. **PMax:** no change. Only check that the brand phrase negatives cover "lone star kayak tours", since one click still went through.
 5. **HPB:** no keyword changes this week. Let Michael's Oct 26 ad group and target ROAS changes collect data, then check the "pedal boat" phrase again around Nov 3. Optional: add "kemah" as a negative.
 6. **BBK PMax:** keep it at $15/day (ROAS 13x, but only 2 conversions; no strong signal to raise it).
+
+## Updated audit (2026-11-01)
+
+Pulled from the Google Ads UI (Michael's Chrome). The window is **Oct 20–31, 2026**, everything since the Oct 20 changes, compared with **Oct 8–19**. Prior-period values are back-calculated from the UI's % change column. Nothing in the account was changed during this audit.
+
+| Campaign | Status now | Cost | Conv | Value | ROAS | CPA |
+|:-|:-|-:|-:|-:|-:|-:|
+| PMax (Lone Star) | Eligible (**Limited by budget**), $37.50/day | $535 → **$514** | 22.0 → **13.0** | $2,672 → **$1,419** | 4.99 → **2.76** | $24 → **$40** |
+| Bat search | Eligible (Limited by search volume), $30/day, **end date Nov 22** | $271 → **$69** | 6.5 → **1.0** | $816 → **$217** | 3.0 → **3.1** | $42 → **$69** |
+| Brand (LSKT) | Eligible, $10/day | $1 → **$4** | ~1 → **0** | ~$54 → **$0** | — | — |
+| **Austin total** | | **~$807 → $587** (−27%) | **~29.5 → 14.0** (−52%) | **~$3,540 → $1,635** (−54%) | **4.4 → 2.8** | **$27 → $42** |
+| Whole account (all brands) | $172.50/day total | $1,308 → $1,088 | 53.2 → 27.0 | $6,369 → $4,165 | 4.87 → 3.83 | |
+
+### Why results fell: mostly seasonal
+- FareHarbor's Sep 24 forecast expected LSKT bookings to fall from **~70 in the two weeks of Oct 9–22 to ~34 in Oct 23 – Nov 5 (−51%)**. Austin ad conversions fell −52%. The drop matches the seasonal curve, so it does not point to the Oct 20 changes.
+- There is no ad-level year-over-year check: PMax did not run Oct 20–31, 2025.
+
+### Account changes since Oct 20 (all by Michael)
+- **Oct 26:** BBK National test paused, after $58 spent and 0 conversions.
+- **Oct 26:** Bat search got an **end date of Nov 22, 2026**. That is why it is still live after Oct 31.
+- **Oct 26:** HPB changes: new "Party Barge – No Alcohol Test" ad group with RSAs and assets, plus a target ROAS cut on the Pedal boat ad group.
+- **Oct 29:** PMax budget cut from **$45 to $37.50/day**. It now shows "Limited by budget" (8.6% of impressions lost to budget in Oct 20–31).
+
+### PMax search terms (Oct 20–31)
+- The Oct 20 negatives held: there is no "lake travis", "san antonio" or "things to do" traffic. The one brand click ("lone star kayak tours", $1.82) is the same one the Oct 27 check found, most likely before the negatives took effect on Oct 20.
+- **Visible search terms: $278 → 2.3 conv (CPA $120).** Hidden "Other search terms" and other placements: **$234 → 10.7 conv (CPA $22).** Most PMax conversions now come from traffic the report does not show.
+- By intent (visible only):
+
+| Intent | Cost | Conv |
+|:-|-:|-:|
+| Generic kayak | $132 | 2.0 |
+| **Bat** | **$99** | **0.3** |
+| Rental | $24 | 0 |
+| Competitor (longhorn kayak, get up and go, honey island) | $8 | 0 |
+| SUP / canoe | $7 | 0 |
+| Other (austin tubing, walking tours, tours) | $5 | 0 |
+
+- Top zero-conversion terms: "austin kayaking" ($22), "bat kayak tour austin" ($18), "kayaking in austin" ($12).
+
+### Bat search, last 7 days (Oct 26 – Nov 1)
+- $28.39, 10 clicks, **0 conversions**. The 4 keywords paused on Oct 20 are still paused.
+- "austin kayak bats" spent $18 for 0 conversions. "where to see bats in austin" (info intent) spent $2.76.
+
+### Brand
+- Serving, but only $3.85, 12 clicks and 0 conversions in 12 days. Search impression share is 63%, with **26% lost to rank**. Its target CPA bidding has almost no conversion data to work from.
+
+### Recommendations (awaiting Michael's approval; none applied)
+1. **Bat search: end it now instead of Nov 22.** In its last 7 days it got 0 conversions on $28, and the season has ended. It would save ~$4/day for 3 weeks.
+2. **PMax: re-run the bat-negative impact preview now that bat season is over.** In season, Google estimated blocking "bat"/"bats" would cost 31% of value. With bat terms at $99 → 0.3 conversions, the preview will show whether that is still true. Add the negatives only if the estimated loss is small.
+3. **PMax: block 3 more competitor/off-topic terms:** "longhorn kayak", "honey island", "tubing". The amounts are small.
+4. **PMax budget: leave it at $37.50** (Michael's Oct 29 cut). At 2.8x ROAS in the shoulder season, being budget-limited is fine. Raise it again in March for bat season.
+5. **Brand: switch from target CPA to Manual CPC (~$1.00) or Maximize clicks** so it stops losing 26% of impressions to rank on our own name. The cost is pennies a day.
+6. **Check again in mid-November.** With ~1 conversion per day, weekly swings are noise.
+
+### Applied 2026-11-01 (Michael approved; verified live)
+1. **Bat search (23641266373): paused** on Nov 1, ending it early instead of on its Nov 22 end date. The end date is still on the campaign. Daily budgets across the account now total $142.50.
+2. **PMax bat-negative preview, run and NOT saved.** Google's estimated loss of conversion value: **"bat" −21.2%** (was −31% in season) and "bats" 0%. That is still too large, so PMax still gets bat traffic. Re-check in winter if bat terms keep wasting spend.
+3. **PMax (22684341497):** added campaign negatives "longhorn kayak" (phrase), "honey island" (phrase) and tubing (broad). The preview showed 0% loss for each. PMax now has 8 negatives.
+4. **Brand (23641266361):** bidding switched from **Target CPA $5.23** to **Maximize clicks with a $1.50 max CPC cap**. The $5.23 target was too low and was why Brand lost 26% of impressions to rank. Budget is still $10/day. Status: Eligible (Learning).
+
+Change history had not shown these edits yet at time of writing, so they were verified on the campaign pages and settings instead.
+
+## Quick check (2026-11-03): last 7 days, Oct 27 – Nov 2, vs Oct 20–26
+
+| Campaign | Cost | Conv | Value | ROAS | CPA |
+|:-|-:|-:|-:|-:|-:|
+| PMax ($37.50/day, Limited by budget) | $307 → **$279** | 10 → **3** | $975 → **$444** | 3.17 → **1.59** | $31 → **$93** |
+| Bat search (paused Nov 1) | $56 → **$16.50** | 1 → **0** | $217 → **$0** | | |
+| Brand (Maximize clicks since Nov 1; Learning) | $2.18 → **$1.67** | 0 → **0** | | | |
+| **Austin total** | **$365 → $297** | **11 → 3** | **$1,192 → $444** | **3.3 → 1.5** | |
+
+- Bookings fell 73% while FareHarbor's seasonal forecast expected about −45% for that week (22 → 12 bookings). It's worse than seasonal, but 3 vs 11 conversions is a tiny sample. The last 1–2 days may also still fill in through conversion lag.
+- Tracking is working account-wide: 13 conversions over the week across brands (BBK PMax 4.6x, BBK Generic Local 5.0x, HPB Search 0.8x).
+- Brand impression share is 66%, still with 31% lost to rank. It has only 2 days on the new bidding, so it is too early to judge.
+- **Next:** re-check around Nov 10. If PMax ROAS is still under ~2x then, consider cutting its budget further for the off-season (Nov–Feb).

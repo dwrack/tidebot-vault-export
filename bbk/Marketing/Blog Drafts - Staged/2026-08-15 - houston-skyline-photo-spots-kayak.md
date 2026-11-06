@@ -253,4 +253,4 @@ One planning note, since golden hour only happens once a day: if a storm rolls i
 - Tour slugs (/kayak-tours/sunset-skyline-tour/, /kayak-tours/houston-bat-bridge-kayak-tour/, /kayak-tours/houston-kayak-tour/, /kayak-tours/full-moon-tour/, /watersports-rental/) cross-checked against the already-staged 2026-08-15 full-moon-kayak-dates-2026.md and best-time-to-kayak-houston.md drafts, which use the identical slugs and are marked verified live in those files.
 - No GSC or GA4 access connected in this environment. No query volume or ranking numbers cited anywhere in this post.
 - No cached social-listening report exists for BBK in this vault (checked before writing), so the FAQ was built from the real query cluster around "Houston skyline photos" (where to shoot, best time, can you bring a camera, best tour, is it safe) rather than harvested guest objections, the same gap noted on the other 2026-08-15 staged posts.
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.

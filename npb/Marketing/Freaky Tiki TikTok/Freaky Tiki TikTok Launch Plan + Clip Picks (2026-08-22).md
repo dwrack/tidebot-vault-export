@@ -1,5 +1,7 @@
 # Freaky Tiki TikTok: Launch Plan + Clip Picks
 
+> **CURRENT STATUS 2026-10-31:** a boat-by-boat sign check found most picks below are NOT the Freaky Tiki. 10 of the 16 Ready-to-Post cuts are the teal-canopy barges, 2 are the Twerkin' Tiki, 3 are tikis with no readable sign, and only `bride-sends-it` is confirmed Freaky. Use `Marketing/Boat Accounts/Clip Boat Tags.csv` and `Tiki Posting Queue — Nov 2026.csv` instead. The text below is history.
+
 Built 2026-08-22. All 149 clips in `Assets/Videos`, `Assets/Shorts`, and `NPB video dump` were frame-scanned and scored for funny / dance / twerk / hype energy. Keyword + trend research lives in [[TikTok Keyword & Trend Research (2026-08-22)]].
 
 ## The one-line strategy

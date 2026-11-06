@@ -1,0 +1,617 @@
+{
+ "business": "NOLA Kayak Swamp Tours",
+ "shortname": "neworleanskayakswamptours",
+ "period": {
+  "start": "2026-10-16",
+  "end": "2026-10-31"
+ },
+ "generatedAt": "2026-11-02T17:53:53.933Z",
+ "rail": "manual",
+ "approved": false,
+ "paid": false,
+ "totals": {
+  "grand": 2820,
+  "tourPay": 2810,
+  "tips": 10,
+  "adjustments": 0
+ },
+ "rows": [
+  {
+   "name": "Emily Clarke",
+   "fhUsernames": [
+    "emilyk"
+   ],
+   "rate": 100,
+   "standard": 7,
+   "extended": 0,
+   "combo": 0,
+   "pax": 46,
+   "tourPay": 700,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-16 11:30 Manchac Swamp Wildlife Kayak Tour (5p) $100",
+    "2026-10-25 09:00 Manchac Swamp Wildlife Kayak Tour (5p) $100",
+    "2026-10-26 11:30 Manchac Swamp Wildlife Kayak Tour (8p) $100",
+    "2026-10-27 11:30 Manchac Swamp Wildlife Kayak Tour (5p) $100",
+    "2026-10-29 09:00 Manchac Swamp Wildlife Kayak Tour (11p) $100",
+    "2026-10-30 09:00 Manchac Swamp Wildlife Kayak Tour (4p) $100",
+    "2026-10-31 11:30 Manchac Swamp Wildlife Kayak Tour (8p) $100"
+   ],
+   "paypal": "emchasc@gmail.com",
+   "payoutVerified": false,
+   "slackId": "U0C4AJR0N9E",
+   "adjTotal": 0,
+   "total": 700
+  },
+  {
+   "name": "Stephanie Lazensky",
+   "fhUsernames": [
+    "stephanielazensky"
+   ],
+   "rate": 100,
+   "standard": 3,
+   "extended": 1,
+   "combo": 1,
+   "pax": 35,
+   "tourPay": 700,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-18 09:00 Manchac Swamp Wildlife Kayak Tour (12p) $100",
+    "2026-10-19 09:30 Extended Manchac Kayak Tour (4p) $200",
+    "2026-10-20 09:00 Manchac Swamp Wildlife Kayak Tour (6p) $100",
+    "2026-10-25 08:00 Kayak Swamp and Whitney Plantation Combo Tour (1p) $200",
+    "2026-10-26 09:00 Manchac Swamp Wildlife Kayak Tour (12p) $100"
+   ],
+   "paypal": "slazensky@gmail.com",
+   "payoutVerified": true,
+   "slackId": "U0B0UJ18RB3",
+   "adjTotal": 0,
+   "total": 700
+  },
+  {
+   "name": "River Bourne",
+   "fhUsernames": [
+    "riverbourne"
+   ],
+   "rate": 100,
+   "standard": 1,
+   "extended": 1,
+   "combo": 1,
+   "pax": 15,
+   "tourPay": 500,
+   "tips": 10,
+   "adjustments": [],
+   "dates": [
+    "2026-10-16 09:30 Extended Manchac Kayak Tour (7p) $200 + $10.00 tip",
+    "2026-10-24 08:00 Kayak Swamp and Whitney Plantation Combo Tour (3p) $200",
+    "2026-10-24 09:00 Manchac Swamp Wildlife Kayak Tour (5p) $100"
+   ],
+   "paypal": "riverbourne.here@gmail.com",
+   "payoutVerified": true,
+   "slackId": "U0B0C988FAR",
+   "adjTotal": 0,
+   "total": 510
+  },
+  {
+   "name": "Michelle Healey",
+   "fhUsernames": [
+    "michelle"
+   ],
+   "rate": 125,
+   "standard": 4,
+   "extended": 0,
+   "combo": 0,
+   "pax": 35,
+   "tourPay": 500,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-16 09:00 Manchac Swamp Wildlife Kayak Tour (11p) $125",
+    "2026-10-17 11:30 Manchac Swamp Wildlife Kayak Tour (10p) $125",
+    "2026-10-23 09:00 Manchac Swamp Wildlife Kayak Tour (10p) $125",
+    "2026-10-28 11:30 Manchac Swamp Wildlife Kayak Tour (4p) $125"
+   ],
+   "paypal": "mcnamml@gmail.com",
+   "payoutVerified": false,
+   "slackId": "U0ATWS0156E",
+   "adjTotal": 0,
+   "total": 500
+  },
+  {
+   "name": "Chelsea Hines",
+   "fhUsernames": [
+    "chelseahines"
+   ],
+   "rate": 110,
+   "standard": 1,
+   "extended": 0,
+   "combo": 0,
+   "pax": 11,
+   "tourPay": 110,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-17 09:00 Private Tour - Manchac Swamp Wildlife Kayak Tour (11p) $110"
+   ],
+   "paypal": "chelseabrooke503@gmail.com",
+   "payoutVerified": true,
+   "slackId": "U0BL17UDEHE",
+   "adjTotal": 0,
+   "total": 110
+  },
+  {
+   "name": "Abbie Marks",
+   "fhUsernames": [
+    "abbiemarks"
+   ],
+   "rate": 100,
+   "standard": 1,
+   "extended": 0,
+   "combo": 0,
+   "pax": 9,
+   "tourPay": 100,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-16 16:30 Manchac Swamp Wildlife Kayak Tour (9p) $100"
+   ],
+   "paypal": "abbiemarkswriting@gmail.com",
+   "payoutVerified": true,
+   "slackId": "U0B2QRRAQBB",
+   "adjTotal": 0,
+   "total": 100
+  },
+  {
+   "name": "MJ (Madeline)",
+   "fhUsernames": [
+    "mj"
+   ],
+   "rate": 100,
+   "standard": 1,
+   "extended": 0,
+   "combo": 0,
+   "pax": 6,
+   "tourPay": 100,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-21 16:30 Manchac Swamp Wildlife Kayak Tour (6p) $100"
+   ],
+   "paypal": null,
+   "payoutVerified": false,
+   "slackId": "U0B0FM6KSQ2",
+   "adjTotal": 0,
+   "total": 100
+  },
+  {
+   "name": "Alexis Hingle",
+   "fhUsernames": [
+    "alexishingle"
+   ],
+   "rate": 100,
+   "standard": 1,
+   "extended": 0,
+   "combo": 0,
+   "pax": 8,
+   "tourPay": 100,
+   "tips": 0,
+   "adjustments": [],
+   "dates": [
+    "2026-10-31 09:00 Manchac Swamp Wildlife Kayak Tour (8p) $100"
+   ],
+   "paypal": "alexis_hingle@yahoo.com",
+   "payoutVerified": true,
+   "slackId": "U0BG85RHH7F",
+   "adjTotal": 0,
+   "total": 100
+  }
+ ],
+ "blockers": [],
+ "warnings": [
+  "Emily Clarke's PayPal (emchasc@gmail.com) has not been verified against past payment history.",
+  "Michelle Healey's PayPal (mcnamml@gmail.com) has not been verified against past payment history.",
+  "MJ (Madeline) is owed $100 but has no PayPal address on file. Run: node payroll-roster.mjs"
+ ],
+ "payableDepartures": [
+  {
+   "pk": 1882909254,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909254/",
+   "date": "2026-10-16",
+   "start": "2026-10-16T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 11,
+   "crew": [
+    "michelle"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882910728,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/177480/availabilities/1882910728/",
+   "date": "2026-10-16",
+   "start": "2026-10-16T09:30:00",
+   "item": "Extended Manchac Kayak Tour",
+   "pax": 7,
+   "crew": [
+    "riverbourne"
+   ],
+   "kind": "extended"
+  },
+  {
+   "pk": 1882909255,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909255/",
+   "date": "2026-10-16",
+   "start": "2026-10-16T11:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 5,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909257,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909257/",
+   "date": "2026-10-16",
+   "start": "2026-10-16T16:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 9,
+   "crew": [
+    "abbiemarks"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": -6137924,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/756504/availabilities/-6137924/",
+   "date": "2026-10-17",
+   "start": "2026-10-17T09:00:00",
+   "item": "Private Tour - Manchac Swamp Wildlife Kayak Tour",
+   "pax": 11,
+   "crew": [
+    "chelseahines"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909259,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909259/",
+   "date": "2026-10-17",
+   "start": "2026-10-17T11:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 10,
+   "crew": [
+    "michelle"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909262,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909262/",
+   "date": "2026-10-18",
+   "start": "2026-10-18T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 12,
+   "crew": [
+    "stephanielazensky"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882910731,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/177480/availabilities/1882910731/",
+   "date": "2026-10-19",
+   "start": "2026-10-19T09:30:00",
+   "item": "Extended Manchac Kayak Tour",
+   "pax": 4,
+   "crew": [
+    "stephanielazensky"
+   ],
+   "kind": "extended"
+  },
+  {
+   "pk": 1882909270,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909270/",
+   "date": "2026-10-20",
+   "start": "2026-10-20T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 6,
+   "crew": [
+    "stephanielazensky"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909277,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909277/",
+   "date": "2026-10-21",
+   "start": "2026-10-21T16:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 6,
+   "crew": [
+    "mj"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909282,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909282/",
+   "date": "2026-10-23",
+   "start": "2026-10-23T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 10,
+   "crew": [
+    "michelle"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882916703,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/39172/availabilities/1882916703/",
+   "date": "2026-10-24",
+   "start": "2026-10-24T08:00:00",
+   "item": "Kayak Swamp and Whitney Plantation Combo Tour",
+   "pax": 3,
+   "crew": [
+    "riverbourne"
+   ],
+   "kind": "combo"
+  },
+  {
+   "pk": 1882909286,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909286/",
+   "date": "2026-10-24",
+   "start": "2026-10-24T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 5,
+   "crew": [
+    "riverbourne"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882916719,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/39172/availabilities/1882916719/",
+   "date": "2026-10-25",
+   "start": "2026-10-25T08:00:00",
+   "item": "Kayak Swamp and Whitney Plantation Combo Tour",
+   "pax": 1,
+   "crew": [
+    "stephanielazensky"
+   ],
+   "kind": "combo"
+  },
+  {
+   "pk": 1882909290,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909290/",
+   "date": "2026-10-25",
+   "start": "2026-10-25T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 5,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909294,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909294/",
+   "date": "2026-10-26",
+   "start": "2026-10-26T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 12,
+   "crew": [
+    "stephanielazensky"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909295,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909295/",
+   "date": "2026-10-26",
+   "start": "2026-10-26T11:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 8,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909299,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909299/",
+   "date": "2026-10-27",
+   "start": "2026-10-27T11:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 5,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909303,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909303/",
+   "date": "2026-10-28",
+   "start": "2026-10-28T11:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 4,
+   "crew": [
+    "michelle"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909306,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909306/",
+   "date": "2026-10-29",
+   "start": "2026-10-29T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 11,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909310,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909310/",
+   "date": "2026-10-30",
+   "start": "2026-10-30T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 4,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909314,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909314/",
+   "date": "2026-10-31",
+   "start": "2026-10-31T09:00:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 8,
+   "crew": [
+    "alexishingle"
+   ],
+   "kind": "standard"
+  },
+  {
+   "pk": 1882909315,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/11242/availabilities/1882909315/",
+   "date": "2026-10-31",
+   "start": "2026-10-31T11:30:00",
+   "item": "Manchac Swamp Wildlife Kayak Tour",
+   "pax": 8,
+   "crew": [
+    "emilyk"
+   ],
+   "kind": "standard"
+  }
+ ],
+ "skippedItems": [
+  {
+   "pk": 2134126799,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/2134126799/",
+   "date": "2026-10-17",
+   "start": "2026-10-17T10:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 2,
+   "crew": []
+  },
+  {
+   "pk": 1948649534,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948649534/",
+   "date": "2026-10-17",
+   "start": "2026-10-17T13:30:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 3,
+   "crew": []
+  },
+  {
+   "pk": 1948649728,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948649728/",
+   "date": "2026-10-19",
+   "start": "2026-10-19T11:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 2,
+   "crew": []
+  },
+  {
+   "pk": 2134126366,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/2134126366/",
+   "date": "2026-10-20",
+   "start": "2026-10-20T09:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 1,
+   "crew": []
+  },
+  {
+   "pk": 1948649948,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948649948/",
+   "date": "2026-10-20",
+   "start": "2026-10-20T11:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 3,
+   "crew": []
+  },
+  {
+   "pk": 2134126841,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/2134126841/",
+   "date": "2026-10-23",
+   "start": "2026-10-23T10:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 2,
+   "crew": []
+  },
+  {
+   "pk": 1948649544,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948649544/",
+   "date": "2026-10-24",
+   "start": "2026-10-24T11:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 1,
+   "crew": []
+  },
+  {
+   "pk": 1948649782,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948649782/",
+   "date": "2026-10-26",
+   "start": "2026-10-26T11:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 1,
+   "crew": []
+  },
+  {
+   "pk": 2134127925,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/2134127925/",
+   "date": "2026-10-26",
+   "start": "2026-10-26T12:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 2,
+   "crew": []
+  },
+  {
+   "pk": 1948649981,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948649981/",
+   "date": "2026-10-27",
+   "start": "2026-10-27T11:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 2,
+   "crew": []
+  },
+  {
+   "pk": 2134126893,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/2134126893/",
+   "date": "2026-10-30",
+   "start": "2026-10-30T10:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 2,
+   "crew": []
+  },
+  {
+   "pk": 2134128933,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/2134128933/",
+   "date": "2026-10-30",
+   "start": "2026-10-30T14:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 3,
+   "crew": []
+  },
+  {
+   "pk": 1948650014,
+   "uri": "/api/v1/companies/neworleanskayakswamptours/items/225451/availabilities/1948650014/",
+   "date": "2026-10-31",
+   "start": "2026-10-31T11:00:00",
+   "item": "Bayou Kayak Rentals",
+   "pax": 3,
+   "crew": []
+  }
+ ],
+ "tipDetail": [
+  "2026-10-16 Vi Op \"Gratuity $\" $10.00"
+ ]
+}

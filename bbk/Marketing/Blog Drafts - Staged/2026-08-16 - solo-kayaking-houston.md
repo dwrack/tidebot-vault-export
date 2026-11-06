@@ -243,4 +243,4 @@ If the only thing standing between you and booking is the idea that solo feels l
 - Deliberately does not reuse any structure, FAQ question, or section from the sibling staged draft "kayaking-for-beginners-in-houston.md" (skill-anxiety angle: what to wear, what to bring, flipping, fitness). This post is the social-permission angle instead: is it weird to go alone, will I be the only solo person, group vs. rental. The two posts are meant to sit side by side, not overlap.
 - Pricing and policy facts (Sunset Skyline Tour $55/person, 2 hrs, all ages; single kayak rental $20/hr; rain policy full refund or reschedule; Allen's Landing / 1019 Commerce Street launch) cross-checked against `Buffalo Bayou Kayak — Agent Instructions (Copy-Paste).md`, zero deviation.
 - Confirm live tour/rental slugs before publishing internal links, same flag as every other 2026-08-15/16 staged post in this folder. The two blog-to-blog links assume both referenced posts are approved and published alongside this one.
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.

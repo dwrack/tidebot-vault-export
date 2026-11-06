@@ -259,5 +259,5 @@ If downtown, skyline, and history are the draw, grab a same-day slot or book ahe
 ## NOTES FOR EDITOR
 - Cover image: overhead or wide shot of a kayaker on Buffalo Bayou with the downtown skyline visible, styled like a "guide" hero image rather than a single-tour photo. Optimize before upload (1920px, JPG q78, save original to _originals/, filename: where-to-kayak-in-houston-buffalo-bayou-guide.jpg).
 - Competitor details (Bayou City Adventures, Pinky's Kayak Rental, Riva Row Boathouse, Armand Bayou Nature Center) are described at a general level on purpose: no invented pricing, hours, or addresses. Verify current details before publishing if more specificity is wanted.
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.
 - Confirm live tour/rental slugs before publishing internal links.

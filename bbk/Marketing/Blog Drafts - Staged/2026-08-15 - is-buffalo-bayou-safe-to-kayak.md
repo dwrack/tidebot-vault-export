@@ -248,5 +248,5 @@ If you were holding off on booking because of a worry that turned out to be more
 ## NOTES FOR EDITOR
 - Cover image: calm, clear-day shot of Buffalo Bayou with a guide visibly checking conditions or a weather app before launch, low-key and reassuring rather than dramatic. Optimize before upload (1920px, JPG q78, save original to _originals/, filename: is-buffalo-bayou-safe-to-kayak-conditions-check.jpg).
 - This post upgrades/replaces the vault's existing thin alligator post per the June audit (brief #3, folding in the separate alligator brief #4 rather than duplicating it as its own post). If the old alligator post stays live, add a redirect or canonical note pointing to this one once published.
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.
 - Confirm live tour/rental slugs before publishing internal links. The "our local guide to kayaking around Houston" link assumes the where-to-kayak-in-houston post (staged the same day) is published alongside this one; update the slug if it changes.

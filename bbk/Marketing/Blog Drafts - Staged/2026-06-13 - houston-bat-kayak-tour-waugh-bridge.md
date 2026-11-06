@@ -225,5 +225,5 @@ Book the Sunset Skyline Bat Bridge Tour at buffalobayoukayak.com.
 
 ## NOTES FOR EDITOR
 - Cover image: kayakers holding near the Waugh Bridge at dusk, skyline lit behind, a smear of bats overhead. Optimize before upload (1920px, JPG q78, save original to _originals/, filename: houston-waugh-bridge-bat-kayak-tour-dusk.jpg).
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.
 - Confirm live tour slug names before publishing the internal links.

@@ -6,7 +6,7 @@ Ranking logic: direct revenue on existing traffic/spend first, then rebook/refer
 
 Brand codes: NPB (NOLA Party Barge), NKST (NOLA Kayak Swamp Tours), DCKT (Door County Kayak Tours + Ebike + Airstream Sauna), E&E (Ebb & Ember, Portland, Période not FH), LSKT (Austin/Lone Star Kayak), HPB (Houston Pedal Barge), BBK (Buffalo Bayou Kayak). Sibling/SEO brands (Admire NOLA, Honey Island, Crescent City Kayak, Austin Paddle Shack, DC Detours, Hidden Adventure, Tiki Boats, Booze Cruises) inherit plays 5, 6, 8, 10 through their sites and content only. NOLA Bike Bar is excluded until revive-or-sell is decided.
 
-Owners: Jeffrey Chitek (NOLA), Connor Champaign (TX, batch asks only, never drip), David + Claude (DC, E&E, all sites/email/ads).
+Owners: Jeffrey Chitek (NOLA), Connor Champagne (TX, batch asks only, never drip), David + Claude (DC, E&E, all sites/email/ads).
 
 ---
 

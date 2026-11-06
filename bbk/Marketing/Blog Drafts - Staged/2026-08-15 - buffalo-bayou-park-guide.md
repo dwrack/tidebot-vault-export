@@ -258,5 +258,5 @@ Buffalo Bayou Park isn't a "nice green space downtown." It's seven different thi
 ## NOTES FOR EDITOR
 - Cover image: wide shot of a kayak on the bayou with the downtown skyline and the park's tree line both visible, ideally near the Brown Foundation Lawn stretch. Optimize before upload (1920px, JPG q78, save original to _originals/, filename: buffalo-bayou-park-guide-kayak-skyline-view.jpg).
 - All park facts (Cistern price/schedule, bat colony size, Water Works amenities, Eleanor Tinsley Park, Johnny Steele Dog Park) were checked against Buffalo Bayou Partnership's own published materials before writing. Verify Cistern price/schedule again before publishing since it's the kind of detail that changes.
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.
 - Confirm live tour/rental slugs before publishing internal links. The link to "where to kayak in Houston" assumes that staged post publishes; update the slug if it changes.

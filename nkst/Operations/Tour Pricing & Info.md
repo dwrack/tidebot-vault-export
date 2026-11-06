@@ -7,6 +7,9 @@ Source: Google Drive import — March 2026 (KAYAKING INFO.docx + Auto text for p
 
 ## Current Tours & Pricing
 
+
+> **All-in prices (2026-10-31):** FareHarbor adds a 6% customer-paid booking fee at checkout, and Google's booking module shows the fee included: Manchac $65 -> $69, Extended $130 -> $138, Combo $195 -> $207, Honey Island $65 -> $69, shuttle $25 -> $26.50. Quote the base price plus "6% booking fee at checkout" until the fee decision in the Fact Sheet is made.
+
 | Tour | Price | Transport Add-On |
 |------|-------|------------------|
 | Manchac Swamp Wildlife Tour (2 hr) | $65/person | +$25 round trip |

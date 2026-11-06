@@ -49,7 +49,7 @@ Season's about to ramp up, so front-loading this in the next few weeks means cre
 
 ---
 
-## Connor Champaign (Austin, Houston Pedal Barge, Buffalo Bayou)
+## Connor Champagne (Austin, Houston Pedal Barge, Buffalo Bayou)
 
 Hey Connor, I put a Creator Outreach Playbook in each of your three vaults (Marketing/ folder in Austin Kayak, Houston Pedal Barge, and Buffalo Bayou). Same concept for all three: invite local content creators on free tours/cruises. No contracts, no posting requirements. Just get them on the water.
 

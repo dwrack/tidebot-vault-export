@@ -85,6 +85,33 @@ Test no-giveaway "nature alerts" against classic offers. Hypothesis: alerts tied
 - Limits: Safari wipes script-set storage after 7 days without a visit and private browsing resets it, so the ladder favors people who come back within a week. Fine for this use.
 - A/B the ladder itself vs a fixed banner.
 
+### 9. Header behavior (Davey + L, 2026-11-02)
+- **Mobile (under 768px):** the header (logo, menu, Book) slowly fades and slides up while the visitor scrolls, then comes back about 0.4s after scrolling stops. It's always visible at the very top of the page and whenever the menu is open.
+- **Desktop (768px and up):** the header stays fixed and visible. No hide on scroll.
+- Feel: 400ms ease-out fade plus a small slide up, not a snap. Under `prefers-reduced-motion`, fade only.
+- The header never hides while a booking sheet or the menu is open.
+
+```css
+.site-header{position:fixed;inset:0 0 auto;z-index:50;padding-top:env(safe-area-inset-top,0px);transition:opacity .4s ease-out,transform .4s ease-out}
+@media (max-width:767px){.site-header.is-hidden{opacity:0;transform:translateY(-100%);pointer-events:none}}
+@media (prefers-reduced-motion:reduce){.site-header{transition:opacity .2s linear}.site-header.is-hidden{transform:none}}
+```
+```js
+const h=document.querySelector('.site-header'),mq=matchMedia('(max-width:767px)');let t;
+addEventListener('scroll',()=>{
+  if(!mq.matches||document.body.classList.contains('menu-open')||scrollY<80){h.classList.remove('is-hidden');return}
+  h.classList.add('is-hidden');clearTimeout(t);
+  t=setTimeout(()=>h.classList.remove('is-hidden'),400);
+},{passive:true});
+```
+
+### 10. Logo, header crops and headings (2026-11-02)
+- **Logo files:** Assets/Logos/Responsive (Nov 2026). Under 768px use the compact lockup (mark + EBB & EMBER): 24px tall under 360px, 28px from 360, 30px from 430. From 768px use the full lockup with FLOATING SAUNAS at 44px, 50px from 1024. Mark only for favicon, app icons and social avatars (favicon.svg follows dark mode).
+- **Header photo crops (2:1):** Assets/Photos/Header Crops 2x1 (Nov 2026). Guests are in frame, so confirm they're OK with it before launch.
+- **Headings:** H1 is the keyword line "Portland Sauna, Columbia River Cold Plunge" (small, tracked caps). "The Columbia, warmed." is a styled tagline, not a heading. Section titles (Today's socials, Ways to come) are H2. One H1 per page.
+- **Homepage hero (Davey, 2026-11-02):** P4, friends laughing in the cedar sauna (Corporate Deck Picks/floating-sauna-group-laughing.jpg), cropped from the top so all faces show. 1200 and 2400px versions in the dev site.
+- **Live dev site:** https://ee-site-preview.pages.dev (Cloudflare Pages, source ~/dev/ee-site-preview). Old photo picker at /photos.html.
+
 ## Ideas to weigh (from Othership, 2026-10-08)
 - Members-only extended booking window (Othership: 3 weeks). Needs a Periode setting; ask Erik.
 - Milestone gifts at visits 1/2/3/5/7/11.

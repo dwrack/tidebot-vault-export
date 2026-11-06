@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-10-30
+updated: 2026-11-05
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,14 +18,14 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** Season over. FH 0 booked Thu, against a $7,000/wk hold target.
-- Google: 2 ENABLED campaigns, 0 impressions for 7 days. Pause them or leave them until spring.
-- GSC: "baileys harbor" 5 clicks at 1.4 (362 impressions), "kayak door county" at 1.0. GBP: newest 10 all replied.
+- **Goal pace: $0/wk booked vs $7,000 target, 0% of goal** (off season). Google campaigns "Campaign #1" and "Brand | Door County Kayak Tours" are ENABLED but ENDED (0 impressions, $0). No Meta spend.
+- GSC 10/29-11/03: 18 clicks / 111 impr. IG 11/03 carousel 2 likes.
+- Midwest Living wants a 2027 Midwest destination pitch by Sat 11/8 11pm ET (strong fit). USPTO Notice of Publication for trademark 99890274 (11/04): check the opposition window on uspto.gov.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-10-31. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -47,20 +47,20 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $5,347 |
-| Spending | $3,110 |
-| Card payments + transfers out | $30,469 |
-| Net, month to date | $2,237 |
-| Net, same days last month | partial: feed starts Sep 08, $9,655 |
+| Money in | $4,520 |
+| Spending | $662 |
+| Card payments + transfers out | $28,248 |
+| Net, month to date | $0 |
+| Net, same days last month | -$1,827 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $5,347 | $15,132 | -65% |
-| Month to date, spending | $3,110 | $12,407 | -75% |
-| Month to date, net | $2,237 | $2,725 | -$488 |
+| Month to date, money in | $0 | $366 | -100% |
+| Month to date, spending | $0 | $69 | -100% |
+| Month to date, net | $0 | $298 | -$298 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** WI DEPT REVENUE TAXPAYMNT XXXXXX $2,167; Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-Q1J3V1Q $151; joinhomebase.com joinhomeba ST-Z $99
+**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34
 <!-- finance:end -->
 
 ## Quick links

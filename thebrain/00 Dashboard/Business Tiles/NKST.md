@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 1
-revenue_today: 360
+bookings_today: 4
+revenue_today: 365
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "1 booking Thu vs ~4.5/day avg going into Halloween weekend"
-updated: 2026-10-30
+status: green
+alert: null
+updated: 2026-11-05
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,16 +18,14 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FH gap 10/23-10/25. Thu 10/29: 1 booked, $360 (avg about 4.5 / $814 a day), 6 trips ran $950, against a $4,000/wk target.
-- GA4 Thu: ig 38 sessions, direct 35, instagram.com 27, google 22. Traffic held, so it isn't a site outage. (GA4 does not capture FH bookings.)
-- GSC 10/22-10/29: brand term at 14.0, manchac swamp at 9.5. The alligator vs crocodile post gets about 1,100 impressions at positions 6-7 for 4 clicks.
-- Watched page (Airboat vs Kayak): 67 impressions, 0 clicks 10/22-10/28, 0 GA4 views. Still flat.
-- GBP: 4 unreplied 5-stars (Briar Rammelsberg, Maret Brotkrumen, Kyle Leaf, Erica Nuckles).
+- **Goal pace: $6,786/wk booked vs $4,000 target, 170% of goal.** Wed 11/4: 4 booked / $365.
+- GA4 Wed: 141 sessions (ig 38, google 32, direct 27), about 9% under the prior 7-day average. GBP: 4 unreplied 5-stars (Fonda, Renshaw, Valstad, W S). Meta "Retargeting | Google Reviews - Copy" ACTIVE $20/day, zero delivery.
+- Watched page airboat-vs-kayak: 70 impressions at about position 9.6, 0 clicks, 0 GA4 views 10/29-11/03 (baseline 3 views). Live and indexable; needs a title/meta rewrite.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-10-26. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-05. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 **New Orleans Kayak Swamp Tours**
 
@@ -73,33 +71,33 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Oct 30. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $73,557 |
+| Chase Bank PERFBUS CHK (3085) | $71,682 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $91,395 |
-| Spending | $73,037 |
-| Card payments + transfers out | $29,491 |
-| Net, month to date | $18,358 |
-| Net, same days last month | $25,306 |
+| Money in | $80,636 |
+| Spending | $53,178 |
+| Card payments + transfers out | $23,912 |
+| Net, month to date | $0 |
+| Net, same days last month | -$8,248 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $29,112; CHECK # $25,052; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
+**Top spending, 30 days:** CHECK # $19,420; Payroll-Homebase $16,562; PAYPAL $15,015; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it
 - Check $1,100 on Oct 08: payee unknown, label it
-- Check $1,760 on Oct 02: payee unknown, label it
-- Check $6,000 on Oct 01: payee unknown, label it
 - Check $6,000 on Oct 21: payee unknown, label it
+- Check $6,000 on Oct 27: payee unknown, label it
+- Check $2,129 on Oct 29: payee unknown, label it
 <!-- finance:end -->
 
 ## Quick links

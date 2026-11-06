@@ -2,7 +2,7 @@
 
 # Creator Outreach Playbook: Houston Pedal Barge
 
-**Owner:** Connor Champaign
+**Owner:** Connor Champagne
 **Business Instagram:** @houstonpedalbarge (or current handle)
 
 ---

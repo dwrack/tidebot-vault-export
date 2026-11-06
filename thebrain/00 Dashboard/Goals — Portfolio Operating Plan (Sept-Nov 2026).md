@@ -39,7 +39,7 @@ Two things prove it worked by Nov 30:
 - **The real goal, and it is a product goal:** the "long transit, short payoff" complaint has now appeared four times across Cave Point and DCKT. That is not a bad customer, that is a bad route. **By Oct 15, either shorten the transit or add a mid-route stop, and rewrite the tour description to set the right expectation.** This is the single highest-value fix in the portfolio because it is the only one attacking the product instead of the funnel.
 - **Fix goal:** name a captain by Sept 15.
 
-### Lone Star Kayak Tours (LSKT) — Captain: Connor Champaign
+### Lone Star Kayak Tours (LSKT) — Captain: Connor Champagne
 - **Number: $5.5k/week through bat season** (from $4.6k). +20%.
 - **The one move, urgent:** Meta account `act_638850950128825` has been dark for 10+ days running into Labor Day and peak bat season. Check billing today. That is a pure unforced error.
 - **Second move:** "kayaking near me" is pulling 43 impressions at position #10.2. Cheap, unclaimed, local intent. Point a campaign at it.
@@ -54,12 +54,12 @@ Two things prove it worked by Nov 30:
 
 Combined, this tier burns roughly **$1,400/month on ad spend with effectively zero tracked bookings.** Fixing it is worth more than any new campaign.
 
-### Houston Pedal Barge (HPB) — Captain: Connor Champaign, First mate: Isabella Walker
+### Houston Pedal Barge (HPB) — Captain: Connor Champagne, First mate: Isabella Walker
 - **Number one, by Sept 5: conversion tracking returns a real value.** $142 over 7 days for one $1.00 phantom conversion is not a bad campaign, it is a broken pixel. Until it reads true you are flying blind on every Houston decision.
 - **Number two:** the shared Meta account has **no purchase-objective campaign at all.** $68 of that spend went to "Engagement | Followers Reboost." Followers do not book barges. Build a purchase campaign or pause the account.
 - **Then, and only then: $4k/week booked** (from $3.3k).
 
-### Buffalo Bayou Kayak (BBK) — Captain: Connor Champaign, First mate: OPEN
+### Buffalo Bayou Kayak (BBK) — Captain: Connor Champagne, First mate: OPEN
 - **The one move:** "Bat Bridge Kayak Tour - Traffic" produced **1,635 link clicks and zero purchases over 7 days.** The audience and creative work. There is simply no conversion campaign catching them. Build one by Sept 5 and you get the cheapest win available anywhere in the portfolio.
 - **Number: $4.5k/week** (from $3.8k), driven entirely by that one fix.
 - **Fix goal:** 5 unreplied reviews, oldest 12 days. Clear and hold 48 hours.

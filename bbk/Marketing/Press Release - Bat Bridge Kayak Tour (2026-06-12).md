@@ -1,5 +1,5 @@
 # Press Release - Sunset Skyline Bat Bridge Kayak Tour
-*Drafted 2026-06-12. Media contact going forward: Connor Champaign, Manager. (First four emails went out before the contact switch and listed David Rack as owner/contact.)*
+*Drafted 2026-06-12. Media contact going forward: Connor Champagne, Manager. (First four emails went out before the contact switch and listed David Rack as owner/contact.)*
 
 **Distribution log (2026-06-12):**
 - Houston Chronicle, citydesk@houstonchronicle.com - emailed (David Rack version)
@@ -26,7 +26,7 @@ HOUSTON, June 12, 2026 - Austin's bats get the headlines, but Houston has a colo
 
 The Sunset Skyline Bat Bridge Kayak Tour starts about three miles of paddling from the heart of downtown. Guests launch from Allen's Landing in stable sit-on-top kayaks, paddle past the skyline at golden hour while guides point out herons, egrets, and turtles, then hold position on the water as the sky darkens and the bats emerge overhead.
 
-"Most people in Houston have no idea this happens a few minutes from downtown," said Connor Champaign, manager of Buffalo Bayou Kayak. "You're sitting on calm water, the sun is going down behind the skyline, and then a few hundred thousand bats pour out from under the bridge right over your head. Guests tell us it's the most unexpected thing they've done in this city."
+"Most people in Houston have no idea this happens a few minutes from downtown," said Connor Champagne, manager of Buffalo Bayou Kayak. "You're sitting on calm water, the sun is going down behind the skyline, and then a few hundred thousand bats pour out from under the bridge right over your head. Guests tell us it's the most unexpected thing they've done in this city."
 
 Most bat watchers see the emergence from the bridge sidewalk or the viewing platform on Waugh. From a kayak, the colony passes directly overhead at water level, with the downtown skyline behind it. Emergences are common at dusk in the summer months, though like any wildlife event they are never guaranteed.
 
@@ -37,7 +37,7 @@ The tour runs 2 to 3 hours and costs $60 per person, with all gear, life vests, 
 Buffalo Bayou Kayak runs guided kayak and paddleboard tours and rentals on Buffalo Bayou, launching from Allen's Landing in downtown Houston. The company's tours focus on the urban nature most Houstonians never see: herons, egrets, turtles, and the Waugh Bridge bat colony, all inside the city limits. Buffalo Bayou Kayak operates under Lone Star Kayak Tours LLC. More at buffalobayoukayak.com.
 
 **Media contact:**
-Connor Champaign, Manager, Buffalo Bayou Kayak
+Connor Champagne, Manager, Buffalo Bayou Kayak
 Info@buffalobayoukayak.com
 (832) 305-5794
 

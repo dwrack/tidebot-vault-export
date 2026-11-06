@@ -1,6 +1,6 @@
 # UGC Outreach & Repost Playbook — Buffalo Bayou Kayak
 
-**Owner:** Connor Champaign
+**Owner:** Connor Champagne
 **Frequency:** Weekly (15-20 min search + outreach as needed)
 
 ---

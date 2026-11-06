@@ -256,5 +256,5 @@ First trip's the hardest part to start. Grab a spot at buffalobayoukayak.com and
 
 ## NOTES FOR EDITOR
 - Cover image: genuine first-timer moment, guest in a life vest mid-laugh or mid-paddle, not a stock-looking "perfect form" shot. Optimize before upload (1920px, JPG q78, save original to _originals/, filename: kayaking-for-beginners-houston-first-timer.jpg).
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.
 - Confirm live tour/rental slugs before publishing internal links. The "is Buffalo Bayou safe to kayak" link assumes that post (staged the same day) is published alongside this one; update the slug if it changes.

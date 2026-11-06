@@ -64,7 +64,7 @@
 
 ## Open questions (resolve before anything goes live)
 
-1. **Price drift. $65 or $69?** Google's booking module shows Manchac at $69 and Extended at $138. The vault says $65 and $130. Every file here uses **$65 / $130** and says "from." If the live FareHarbor price is $69, search and replace across the folder.
+1. ~~**Price drift. $65 or $69?**~~ **Resolved 2026-10-31.** Site (checked live) shows $65 Manchac / $130 Extended / $195 Combo / $65 Honey Island, matching the vault. Google's $69 / $138 is the same price plus FareHarbor's 6% customer-paid booking fee (65 x 1.06 = 68.90, 130 x 1.06 = 137.80), which Reserve with Google displays all-in. Nothing in FareHarbor is mispriced. The remaining gap is Website Standards #2: the site shows $65 and the 6% appears only at the last checkout step. Fix is one of: (a) absorb the fee in FareHarbor so site, checkout and Google all read $65, or (b) add "plus 6% booking fee, about $69 all-in" under every site price. David to pick.
 2. **Cancellation policy conflict.** The FAQ says cancelling 48+ hrs out gets a full refund and anything later gets nothing. The SMS playbook says 50% inside 48 hrs. The copy here says only "Free cancellation up to 48 hours before your tour," which holds under both. Pick one and fix both source docs.
 3. **Affiliate commission.** The partner kit and referral program assume **10% commission** for trade partners and **$10/$10** for guests. David needs to confirm both.
 4. **New products that don't exist in FareHarbor yet.** The photo package, cypress planting add-on, conservation donation, bundles and gift-card designs all need FareHarbor items (or add-ons) built before any page promotes them. Kevin Schmitt (FareHarbor) is the contact.

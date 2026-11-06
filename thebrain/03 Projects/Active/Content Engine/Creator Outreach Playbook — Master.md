@@ -186,9 +186,9 @@ This is relationship-first marketing. You're inviting people into something real
 | NKST | Dylan LP | NOLA food/outdoor/culture creators. Ghost tour guides are a separate affiliate play. |
 | NOLA Party Barge | Jeffrey Chitek | NOLA nightlife/party/bachelorette creators. Live music angle is unique. |
 | DCKT | Bella + Lea | Door County travel/outdoor creators. Lea already does social, natural fit. |
-| Austin Kayak Tours | Connor Champaign | Austin outdoor/lifestyle creators. Bat bridge is inherently viral. |
-| Houston Pedal Barge | Connor Champaign | Houston nightlife/group activity creators. |
-| Buffalo Bayou Kayak | Connor Champaign | Houston outdoor/nature creators. "Wildlife in the middle of Houston" angle. |
+| Austin Kayak Tours | Connor Champagne | Austin outdoor/lifestyle creators. Bat bridge is inherently viral. |
+| Houston Pedal Barge | Connor Champagne | Houston nightlife/group activity creators. |
+| Buffalo Bayou Kayak | Connor Champagne | Houston outdoor/nature creators. "Wildlife in the middle of Houston" angle. |
 | Ebb & Ember | Jonah Moses | Portland wellness/outdoor/cold plunge creators. Counter-culture sauna angle. |
 
 *NOLA Bike Bar, Elevated Tides, Apres Assets: skip for now.*

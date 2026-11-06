@@ -1,5 +1,7 @@
 # In-Flight Watcher
 
+**CURRENT STATUS (verified 2026-11-05 11:30 PM PT):** running clean on mbp-2 after a fix. It failed 3 runs on 11/5 (3:10, 5:10, 9:10 PM) because another session wrote an incoming file with `#` comment lines above the header; `parse_csv()` now skips comment lines and rows with no item. Failure alert DM is back ON (`slack_fail_alert: true`), daily digest still OFF. Slack channels added 11/5: design, dev, wellness, ours-here. The laptop `dash.py` job is RETIRED (plist renamed `.disabled-20261105`): it fed the old E&E Dashboard artifact and had failed 102 times since 10/22 because headless Claude has no Artifact tools. The dashboard Davey reads is the DJL Command Center E&E tab, which pulls the Drive list itself (mbp-2 `boards/ee.py`). Everything outside E&E is watched by the separate Comms Radar (mbp-2 `~/comms-radar/`, 12 inboxes + DJL Slack + 6 people's texts).
+
 Keeps the shared E&E in-flight list (Drive "E&E Data Exchange" / ee-in-flight) current from Davey's texts, sauna@ + davey@ email and team Slack. Decision record: `TheBrain/07 Reference/Decisions/2026-10-22 E&E in-flight watcher.md`.
 
 | Piece | Where | Schedule |

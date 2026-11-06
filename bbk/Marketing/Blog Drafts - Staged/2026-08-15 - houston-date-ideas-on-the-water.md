@@ -238,6 +238,6 @@ Either way, it beats another round of dinner and a movie. We're a little biased.
 
 ## NOTES FOR EDITOR
 - Cover image: a couple paddling together at sunset or dusk with the downtown skyline visible, warm light, candid rather than posed. Optimize before upload (1920px, JPG q78, save original to _originals/, filename: houston-date-ideas-on-the-water-sunset-kayak.jpg).
-- Media contact / public name is Connor Champaign, Manager. Do not list David.
+- Media contact / public name is Connor Champagne, Manager. Do not list David.
 - Confirm live tour/rental slugs before publishing internal links.
 - No pricing beyond what's confirmed live (Full Moon Tour $65/$55 per the schema file) or the general $55-65 range referenced in the existing "where to kayak in Houston" staged draft. Confirm current Sunset Skyline Tour pricing against the live site before publishing, since this post states a $55-65 range without a specific number for that tour.
