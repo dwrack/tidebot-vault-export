@@ -22,6 +22,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-07 | AI-citation loop: Gemini billing or DataForSEO | All | default: DataForSEO
 - 2026-11-07 | Run the CreatorOS key script on your Desktop to turn on trial reels | All | default: trial reels stay off
 - 2026-11-07 | Medium importer: allow Chrome JavaScript from Apple Events on the always-on Mac, or leave it off | Admire NOLA | default: leave it off
+- 2026-11-08 due | Tick or kill the Midwest Living 2027 destinations pitch (needs a DCKT spokesperson), _Staged for Approval/PR Pitch — DCKT — midwest-living-2027-destinations.md | DCKT | default: pitch lapses 11/8 11pm ET
+- 2026-11-19 due | Tick or kill the Famadillo mom's getaway pitches (NOLA with Jeffrey hosting; Portland needs a spokesperson), _Staged for Approval/PR Pitch — NKST + NPB / E&E — famadillo-moms-getaway | NKST / NPB / E&E | default: pitches lapse 11/19 5pm ET
 - LiDAR scan + photos of the 30 ft dock section next marina visit (dock water entry: ladder + two ramps; edge framing, float attachment, deck-to-water height) | Ebb & Ember | default: design stays at concept v0.1
 - Send or hold the #maintenance post announcing the dock water entry project | Ebb & Ember | default: hold until after the dock scan
 
