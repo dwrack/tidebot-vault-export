@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-06 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-06 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -21,6 +21,8 @@ _nothing_
   → David lift his soft credit lock so the lender can run a credit pull and move the funding forward, and still send no bank statements, driver's license or voided check until he knows who he is dealing with. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-06)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+- [ ] Michael asks to set up SMS text request for all New Orleans businesses, and OpenCX fix plan #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0038
+  → David review section H of the OpenCX Fix Plan, answer the three approve boxes (deposit, plus the two others) and give Michael the four safety facts (first aid kit, AED, CPR certification, written allergic-reaction procedure). (David; Text with Michael Fischer, Gmail dwrack81@; touched 2026-11-06)
 - [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: i need to use chase points to purchase that ticket
@@ -54,6 +56,8 @@ _nothing_
   > David: he is out. ask jeff if he is removed from fh, etc. and maybe logged out of the npb gmail account thru admin settings.
   > David: Approved a reply from the Command Center: Hey Jeff, JT Sides is out at NPB. Can you check that he's been removed from FareHarbor and anything else he had a login for? Also, if you have admin access, can you sign him out of the NPB Gmail accou
   > Radar: Noted that JT is out. The next move is Jeff confirming his FareHarbor removal and signing him out of the NPB Gmail through admin settings.
+- [ ] Elevated Tides umbrella policy bound, more docs, signatures and payment pending #waiting #id:T0095
+  → Max McCuddy send the additional docs after the carrier confirms the land verbiage and higher sublimits; David then signs and pays. (Max McCuddy; Gmail dwrack81@, Gmail davey@; touched 2026-11-06)
 
 ## Open
 
@@ -137,8 +141,6 @@ _nothing_
   → NKST manager get the black transit's washer fluid dispenser fixed and the driver's side wiper blades replaced. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-03)
 - [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
   → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Gmail doorcountyzip@; touched 2026-11-04)
-- [ ] Michael asks to set up SMS text request for all New Orleans businesses, and OpenCX fix plan #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0038
-  → Michael reverse the OpenCX handoff workflow so it stops posting to #helm-npb, and David points him to the reception channel and the dashboard; David still reviews section H of the OpenCX Fix Plan and gives Michael the four safety facts. (Michael Fischer; Text with Michael Fischer, Slack #helm-npb; touched 2026-11-04)
 - [ ] Marina insurance agent asks for vessel liability details #id:T0058
   → David or whoever owns the boats answer Jamie Clark on whether they want liability on the vessels and send year, make, model, registration, hull info, motors, captain details, crew and passenger counts and values; verify the new payment site link with the agency before paying through it. (David; Gmail doorcountyzip@; touched 2026-11-04)
 - [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
@@ -163,8 +165,6 @@ _nothing_
   → NPB team reply to Sam Boscoe with Nov 14 2pm availability and how to book a private cruise for 12-15 people, since he is ready to book today. (NPB team; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Sasha Killion asks for transportation from Royal Sonesta for 17, Freaky Tiki Apr 16 2027 #NPB #id:T0080
   → NPB team reply to Sasha Killion with a transportation recommendation from the Royal Sonesta for 17 people for booking 366075171 on Apr 16, 2027. (NPB team; Gmail nolapedalbarge@; touched 2026-11-05)
-- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
-  → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-05)
 - [ ] Apply for Elevated Tides trademark #id:T0084
   → David start the Elevated Tides trademark application, since Jonah agreed with a thumbs up. (David; Text with Jonah Moses; touched 2026-11-05)
 - [ ] NKST group tour inquiry, Natalie Sklovskaya, ~20 people Jan 30 2027, $55 pp with custom pickup #NKST #id:T0086
@@ -175,6 +175,8 @@ _nothing_
   → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; touched 2026-11-06)
 - [ ] DCKT travel feature publication shortlist #DCKT #id:T0018
   → David review the shortlist and answer Mujahid Khan on whether kayaking is the main focus next season or e-bikes are included, or ignore it. (David; Gmail doorcountykayaking@; touched 2026-11-06)
+- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
+  → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; both are paused 24h and the YouTube engage run errored on a closed browser. (David; Slack #helm-admire; touched 2026-11-06)
 - [ ] Entergy bill overdue, $1,151.11 total, $647.20 past due #id:T0089
@@ -188,6 +190,12 @@ _nothing_
   → David or on-site staff check WiFi and power for the offline Blink cameras (Boat, Workshop, Gas station, Palapas, Wired Floodlight). (David; Gmail dwrack81@; touched 2026-11-06)
 - [ ] Admire NOLA GitHub Pages deploy failed #Admire-NOLA #id:T0093
   → Whoever maintains the Admire NOLA site check the failed deploy job in GitHub Actions and rerun it. (Admire NOLA site maintainer; Gmail admirenola@; touched 2026-11-06)
+- [ ] NOLA Sales and Use tax not filed July through October #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0094
+  → David and Michael get Louisiana Sales and Use filing automated through Michael's computer since he has the 2FA, and confirm whether July through October actually filed; David says it should have. (Michael Fischer; Text with Michael Fischer; touched 2026-11-06)
+- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
+  → David call Mario for the gas line install date; Jonah warns that missing the deadline means re-opening a new gas permit, and they hold off on a building permit until the BDS contact replies. (David; Text with Jonah Moses; touched 2026-11-06)
+- [ ] NKST gift campaign email abuse reports via amazonses #NKST #id:T0097
+  → NKST staff check the gift email send ('A gift for someone who has enough stuff' / 'Gift them the quiet') for spam complaints and make sure complainers are suppressed. (NKST manager; Gmail nolakayaktours@; touched 2026-11-06)
 
 ## Backburner (LSKT)
 

@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-06 12:10 | 72 new messages moved 6 threads: T0038, T0082, T0094, T0095, T0096, T0097
 - 2026-11-06 10:10 | David added D0001 Automate paying Entergy for 1407 Piety
 - 2026-11-06 10:10 | 15 new messages moved 5 threads: T0003, T0090, T0091, T0092, T0093
 - 2026-11-06 06:10 | David commented on T0047

@@ -10,6 +10,14 @@
 - **Open question:** FareHarbor's customer data has no "agreed to be emailed" field, so the list is every customer with an email, minus opt-outs, same as past sends. If there is a consent checkbox at checkout, tell Claude where it lives and the list can be filtered to it.
 - **Next:** read email 1 on Mon Nov 9 (3 days in), move the winning subject style and photo type into the A slot of emails 2 to 7, and decide whether email 2 still waits for Black Friday or a new email fills Nov 17.
 
+## Email 1 send log (2026-11-06, about 1:45 to 2:20 pm CT)
+- 28,207 accepted by SES in two runs (the first hit the rate limit at 4,995; the sender now paces at 20/sec and retries).
+- Checked about 15 minutes after the send finished: account status HEALTHY, account bounce rate 2.7% (SES reviews accounts at 5%), complaint rate 0.03%. The bounce figure was still catching up. **Recheck before email 2.** The per-email tracking showed about 3,800 bounce events, which does not match the account rate; unexplained as of this check.
+- Booking-site relay addresses can't receive mail (David, 2026-11-06). 82 were on the list (GetYourGuide, Viator). `recipients.mjs` now drops them for good. 25 GetYourGuide "could not be sent" notices landed in info@.
+- Bounced and complained addresses are suppressed automatically by SES. List after this send: 27,043.
+- Inbox sweep of info@ (same afternoon): 25 relay bounces, 3 out-of-office, 0 human replies, 1 automated spam-report notice. Sweep the inbox again after every send.
+- First tracking read (too early to call): opens 7.2% subject A vs 7.5% subject B; photos within a point of each other. Early clicks are mostly mail security scanners, so ignore clicks until Monday.
+
 Preview: `preview/All 7 Emails.html` in this folder (email 1 there predates the Nov 6 edits).
 
 ## The idea
