@@ -19,16 +19,23 @@ _nothing_
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Jonah asks David to sign Maureen's DocuSign for 9, releases $10k earnest from WFG #id:T0047
   → David sign Maureen's DocuSign for #9, the termination paperwork that releases his $10k earnest money from WFG; Jonah already signed his Saturday. (David; Text with Jonah Moses; touched 2026-11-02)
+  > ive done that awhile ago and i told you i did it. why are you asking again.
 - [ ] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #id:T0031
   → David tell TideBot MJ's pay rate; NKST manager assigns a guide to the Oct 25 2pm Manchac tour in FareHarbor and adds the Private Manchac tour to payroll-config.json. (David; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; Michael also told David to book his ticket to Nola. (David; Text with Michael Fischer; touched 2026-11-04)
+  > i need to use chase points to purchase that ticket
 - [ ] Apres Assets GL insurance: agent needs loss runs, tension with Michael over who handles insurance #id:T0060
   → David send Shelley B. Zahn the current loss runs and answer Jamie Clark's vessel questions; the text exchange with Michael got heated and Michael needs a response when David is ready. (David; Text with Michael Fischer, Gmail doorcountyzip@; touched 2026-11-04)
+  > ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
+  > Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #id:T0074
   → David or Michael deactivate JT Sides' Slack account, then his Gmail, FareHarbor and any other logins; David's text trails off after 'gmail, fh, and' and says 'Voice', so the full list is unconfirmed. (David; Text with Michael Fischer; touched 2026-11-04)
+  > he is out. ask jeff if he is removed from fh, etc. and maybe logged out of the npb gmail account thru admin settings.
+  > Approved a reply from the Command Center: Hey Jeff, JT Sides is out at NPB. Can you check that he's been removed from FareHarbor and anything else he had a login for? Also, if you have admin access, can you sign him out of the NPB Gmail accou
 - [ ] Funding solicitations (GreenBridge, Better Loans) claiming approval and bank statements, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
   → David confirm whether he or anyone sent bank statements to Brooke Sanders, and do not send bank statements, a driver's license or voided check or sign any DocuSign until that is settled. (David; Gmail cavepointpp@, Gmail DCKT inbox; touched 2026-11-05)
+  > i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
 - [ ] Inkle bookkeeping refund, pre-Sept 8 payments ($5,229+) #DCKT #id:T0014
   → David complete the Proof of Claim package Chris Seablom attached and return it to submit the $5,229+ refund claim. (David; Gmail doorcountykayaking@; touched 2026-11-05)
 
