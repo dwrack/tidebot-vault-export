@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-06 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-06 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -85,8 +85,6 @@ _nothing_
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Maritime Consortium drug-free vessel membership renewal, NPB and HPB, expires Dec 31 #NPB #HPB #due:2026-12-31 #id:T0040
   → NPB and HPB managers renew the Maritime Consortium memberships (accounts 23624 and 25143) before Dec 31 using the corrected company-specific renewal links in the Nov 2 emails, not the earlier link. (NPB and HPB managers; Gmail nolapedalbarge@, Gmail houstonpedalbarge@; touched 2026-11-02)
-- [ ] NOLA reunion group inquiry for party barge Nov 7 or 8 #NPB #NOLA-Bike-Bar #id:T0003
-  → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; Gmail nolabikebars@; touched 2026-10-30)
 - [ ] AKT booking cancellation, Heather Bouse Oct 31 bat bridge tour #AKT #id:T0004
   → AKT staff cancel booking #381838130 (2 people, Oct 31 6:00pm Sunset Congress Avenue Bat Bridge Tour) and confirm to the guest. (AKT staff; Gmail austinkayaktours@; touched 2026-10-30)
 - [ ] Cell tower lease at 2101 Paris Road marina #DCKT #id:T0006
@@ -173,14 +171,23 @@ _nothing_
   → NKST manager reply to Natalie Sklovskaya to confirm the $55 per person regular Manchac Kayak tour with custom pickup and drop-off at Frenchmen Street for about 20 people on Jan 30, 2027, and tell her how to book; she followed up Nov 5 after no answer since Oct 13. (NKST manager; Gmail nolakayaktours@; touched 2026-11-05)
 - [ ] NKST van supplies: bug spray bottles requested, black van fuel #NKST #id:T0087
   → NKST manager buy bottles of bug spray to keep in the van like the sunscreen; Emily will fill up the black van tomorrow, it is just under 3/4 tank. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-05)
+- [ ] NOLA reunion group inquiry for party barge Nov 7 or 8 #NPB #NOLA-Bike-Bar #id:T0003
+  → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; touched 2026-11-06)
 - [ ] DCKT travel feature publication shortlist #DCKT #id:T0018
   → David review the shortlist and answer Mujahid Khan on whether kayaking is the main focus next season or e-bikes are included, or ignore it. (David; Gmail doorcountykayaking@; touched 2026-11-06)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; both are paused 24h and the YouTube engage run errored on a closed browser. (David; Slack #helm-admire; touched 2026-11-06)
 - [ ] Entergy bill overdue, $1,151.11 total, $647.20 past due #id:T0089
   → David or whoever owns this Entergy account check which property it is for and pay the $647.20 past due amount. (David; Gmail dwrack81@; touched 2026-11-06)
-- [ ] Automate paying Entergy for 1407 Piety
-  → Set up automatic payment of the Entergy New Orleans bill for 1407 Piety St so it stops going past due. (David; added by David 2026-11-06)
+- [ ] Automate paying Entergy for 1407 Piety #id:D0001
+- [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
+  → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
+- [ ] Cold funding offers (Arc Advances, Josh Rollins) to Cave Point and DCKT #Cave-Point #DCKT #id:T0091
+  → Ignore both; same pattern as the other funding solicitations, send no financial documents. (David; Gmail cavepointpp@, Gmail doorcountykayaking@; touched 2026-11-06)
+- [ ] Blink cameras offline: boat, workshop, gas station, palapas, floodlight #id:T0092
+  → David or on-site staff check WiFi and power for the offline Blink cameras (Boat, Workshop, Gas station, Palapas, Wired Floodlight). (David; Gmail dwrack81@; touched 2026-11-06)
+- [ ] Admire NOLA GitHub Pages deploy failed #Admire-NOLA #id:T0093
+  → Whoever maintains the Admire NOLA site check the failed deploy job in GitHub Actions and rerun it. (Admire NOLA site maintainer; Gmail admirenola@; touched 2026-11-06)
 
 ## Backburner (LSKT)
 
