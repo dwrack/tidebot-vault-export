@@ -179,6 +179,8 @@ _nothing_
   → Log in to Instagram on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; both are paused 24h and the YouTube engage run errored on a closed browser. (David; Slack #helm-admire; touched 2026-11-06)
 - [ ] Entergy bill overdue, $1,151.11 total, $647.20 past due #id:T0089
   → David or whoever owns this Entergy account check which property it is for and pay the $647.20 past due amount. (David; Gmail dwrack81@; touched 2026-11-06)
+- [ ] Automate paying Entergy for 1407 Piety
+  → Set up automatic payment of the Entergy New Orleans bill for 1407 Piety St so it stops going past due. (David; added by David 2026-11-06)
 
 ## Backburner (LSKT)
 
