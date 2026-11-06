@@ -179,8 +179,9 @@ _nothing_
   → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; both are paused 24h and the YouTube engage run errored on a closed browser. (David; Slack #helm-admire; touched 2026-11-06)
-- [ ] Entergy bill overdue, $1,151.11 total, $647.20 past due #id:T0089
-  → David or whoever owns this Entergy account check which property it is for and pay the $647.20 past due amount. (David; Gmail dwrack81@; touched 2026-11-06)
+- [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
+  → David pay the $647.20 past due on the 1407 Piety St Entergy account. (David; Gmail dwrack81@; touched 2026-11-06)
+  > David: it's my Piety address.
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
