@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-06 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-06 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -27,11 +27,17 @@ _nothing_
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
+- [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
+  → David pay the $647.20 past due Entergy amount for his Piety address; automating the payment is tracked in D0001. (David; Todo comment; touched 2026-11-06)
+  > David: it's my Piety address.
+  > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
+- [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #id:T0095
+  → David sign the DocuSign from Max McCuddy, pay once the carrier confirms the land verbiage and higher sublimits, and send Max a safety plan covering proper use of the facilities and rules. (David; Gmail dwrack81@, Gmail davey@; touched 2026-11-06)
 
 ## Waiting on someone
 
 - [ ] NPB content push #NPB #waiting #due:2026-10-31 #id:T0008
-  → Deckhands post content from today's trips, covering all the outfits, per Davey's ask. (Davey; Slack #nola-party-barge; touched 2026-10-31)
+  → Deckhands post content from each trip; Davey asked again for content. (NPB deckhands; Slack #nola-party-barge; touched 2026-11-06)
 - [ ] Update address to 2105 Paris Road everywhere #waiting #due:2026-11-04 #id:T0059
   → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts tomorrow (Nov 4), per David's ask. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-03)
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
@@ -56,8 +62,6 @@ _nothing_
   > David: he is out. ask jeff if he is removed from fh, etc. and maybe logged out of the npb gmail account thru admin settings.
   > David: Approved a reply from the Command Center: Hey Jeff, JT Sides is out at NPB. Can you check that he's been removed from FareHarbor and anything else he had a login for? Also, if you have admin access, can you sign him out of the NPB Gmail accou
   > Radar: Noted that JT is out. The next move is Jeff confirming his FareHarbor removal and signing him out of the NPB Gmail through admin settings.
-- [ ] Elevated Tides umbrella policy bound, more docs, signatures and payment pending #waiting #id:T0095
-  → Max McCuddy send the additional docs after the carrier confirms the land verbiage and higher sublimits; David then signs and pays. (Max McCuddy; Gmail dwrack81@, Gmail davey@; touched 2026-11-06)
 
 ## Open
 
@@ -77,6 +81,8 @@ _nothing_
   → Each brand manager reply in their TideBot thread by tonight with the play for the softest weekend day: NPB (-45% guests), HPB (-80%), AKT (-50%), NKST (-20%) and DCKT (0 on the books); BBK has no baseline and needs a judgment call. (brand managers; Slack #helm-npb, Slack #helm-nkst, Slack #helm-dckt, Slack #helm-hpb, Slack #helm-bbk, Slack #helm-akt; touched 2026-11-04)
 - [ ] NPB corporate party pricing draft, needs Barbo's and Beatty's costs before tomorrow's meeting #NPB #due:2026-11-06 #id:T0081
   → Jeffrey send Barbo's prices and Beatty's rate so TideBot can finalize the corporate party pricing before the Nov 6 meeting; Jeffrey says BBQ add-on is $20-30 per person ($20 for 2 proteins and sides, $30 for 3). (Jeffrey Chitek; Slack #helm-npb; touched 2026-11-05)
+- [ ] NKST selling 2019 van, down to 3 vans, rear right tire needs replacing #NKST #due:2026-11-06 #id:T0100
+  → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
@@ -179,9 +185,6 @@ _nothing_
   → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; both are paused 24h and the YouTube engage run errored on a closed browser. (David; Slack #helm-admire; touched 2026-11-06)
-- [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
-  → David pay the $647.20 past due on the 1407 Piety St Entergy account. (David; Gmail dwrack81@; touched 2026-11-06)
-  > David: it's my Piety address.
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
@@ -197,6 +200,10 @@ _nothing_
   → David call Mario for the gas line install date; Jonah warns that missing the deadline means re-opening a new gas permit, and they hold off on a building permit until the BDS contact replies. (David; Text with Jonah Moses; touched 2026-11-06)
 - [ ] NKST gift campaign email abuse reports via amazonses #NKST #id:T0097
   → NKST staff check the gift email send ('A gift for someone who has enough stuff' / 'Gift them the quiet') for spam complaints and make sure complainers are suppressed. (NKST manager; Gmail nolakayaktours@; touched 2026-11-06)
+- [ ] Gift card email series with WINTERSWAMP discount code #NKST #id:T0098
+  → David send the discount code in the gift card emails after the first few sends; Michael asked whether to include WINTERSWAMP in them. (David; Text with Michael Fischer; touched 2026-11-06)
+- [ ] Spam complaints on 'Gift them the quiet' email sent via SES #NKST #id:T0099
+  → David check that the Gift them the quiet send has a working hosted unsubscribe link and that complainers are suppressed. (David; Gmail nolakayaktours@; touched 2026-11-06)
 
 ## Backburner (LSKT)
 

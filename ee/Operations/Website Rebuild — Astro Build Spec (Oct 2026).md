@@ -45,6 +45,9 @@ Cookie/localStorage after a booking click. Returning: "Welcome back" + their usu
 
 ### 6. Measurement
 - Microsoft Clarity (heatmaps + recordings). Install on current Squarespace now for a baseline.
+  - Rebuild: add the Clarity script (project `ee`) to the shared layout so it is on every page from launch day (added to plan 2026-11-06). Not in the local preview, so test clicks stay out of the heat maps. Free.
+  - Status 2026-11-06: no Clarity script in ~/dev/ee-site-preview. Unverified whether the `ee` project is already live on Squarespace (Clarity lookup errored).
+  - Tag booking button clicks and the checkout panel opening as Clarity custom events so the heat maps show the funnel.
 - GA4 G-YF8FPEWW4S + port the Periode tracking bridge (fbclid/gclid/client_id) day one.
 - A/B framework: cookie split at the edge, `experiment_view` / outcome events to GA4.
 
