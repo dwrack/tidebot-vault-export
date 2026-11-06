@@ -2,6 +2,14 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-06 06:10 | David commented on T0047
+- 2026-11-06 06:10 | David commented on T0043
+- 2026-11-06 06:10 | David commented on T0060
+- 2026-11-06 06:10 | David commented on T0060
+- 2026-11-06 06:10 | David commented on T0074
+- 2026-11-06 06:10 | David commented on T0074
+- 2026-11-06 06:10 | David commented on T0011
+- 2026-11-06 06:10 | 26 new messages moved 11 threads: T0011, T0014, T0018, T0021, T0043, T0047, T0060, T0063, T0074, T0088, T0089
 - 2026-11-05 23:32 | David set due on T0055: 2026-11-06
 - 2026-11-05 23:32 | 2 new messages moved 2 threads: T0011, T0007
 - 2026-11-05 18:10 | 2 new messages moved 2 threads: T0019, T0087

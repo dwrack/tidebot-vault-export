@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -23,22 +23,22 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $4,520 |
-| Spending | $662 |
+| Spending | $496 |
 | Card payments + transfers out | $28,248 |
 | Net, month to date | $0 |
-| Net, same days last month | -$1,827 |
+| Net, same days last month | -$1,620 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $366 | -100% |
-| Month to date, spending | $0 | $69 | -100% |
-| Month to date, net | $0 | $298 | -$298 |
+| Month to date, spending | $0 | $117 | -100% |
+| Month to date, net | $0 | $250 | -$250 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34
+**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -51,7 +51,7 @@
 | Spending | $932 |
 | Card payments + transfers out | $4,306 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,695 |
+| Net, same days last month | $2,295 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -69,51 +69,51 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank M. FISCHER (5955) | -$1,625 |
-| Chase Bank PERFBUS CHK (1893) | $26,145 |
+| Chase Bank M. FISCHER (5955) | -$461 |
+| Chase Bank PERFBUS CHK (1893) | $18,417 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $23,869 |
-| Spending | $10,434 |
-| Card payments + transfers out | $8,054 |
-| Net, month to date | $0 |
-| Net, same days last month | -$4,107 |
+| Money in | $28,318 |
+| Spending | $18,779 |
+| Card payments + transfers out | $12,104 |
+| Net, month to date | -$3,678 |
+| Net, same days last month | -$2,852 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $8,788; CHECK # $1,504; fareharbor $142
+**Top spending, 30 days:** PAYPAL $17,275; CHECK # $1,504
 
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $71,682 |
+| Chase Bank PERFBUS CHK (3085) | $54,436 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $80,636 |
-| Spending | $53,178 |
-| Card payments + transfers out | $23,912 |
-| Net, month to date | $0 |
-| Net, same days last month | -$8,248 |
+| Money in | $91,005 |
+| Spending | $69,553 |
+| Card payments + transfers out | $28,407 |
+| Net, month to date | -$10,496 |
+| Net, same days last month | -$9,646 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** CHECK # $19,420; Payroll-Homebase $16,562; PAYPAL $15,015; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
+**Top spending, 30 days:** PAYPAL $31,116; CHECK # $19,740; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it

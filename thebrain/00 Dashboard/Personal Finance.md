@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -57,26 +57,26 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $18,462 |
-| Spending | $44,586 |
+| Spending | $44,150 |
 | Card payments + transfers out | $12,376 |
 | Net, month to date | $0 |
-| Net, same days last month | -$7,459 |
+| Net, same days last month | -$17,484 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $0 | $6,968 | -100% |
-| Month to date, net | $0 | -$6,968 | $6,968 |
+| Month to date, spending | $0 | $6,992 | -100% |
+| Month to date, net | $0 | -$6,992 | $6,992 |
 | Trailing 12 months | no history yet | | |
 
 *Month to date leaves out American 5002 (from Sep 2026): not enough history yet.*
 
-**Top spending, 30 days:** IRS USATAXPYMT $40,880; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711; AplPay WOODSTOCK SMIPORTLAND OR $595; KP NW ACI PREM DENVER CO $509; DELTA AIR LINES ATLANTA $436
+**Top spending, 30 days:** IRS USATAXPYMT $40,880; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711; AplPay WOODSTOCK SMIPORTLAND OR $595; KP NW ACI PREM DENVER CO $509; GOING GARBAGE AND RESISTER BAY WI $251
 **Flags:**
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -89,7 +89,7 @@
 | Spending | $932 |
 | Card payments + transfers out | $4,306 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,695 |
+| Net, same days last month | $2,295 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -109,7 +109,7 @@
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 05. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 06. Balances only.*
 
 | Account | Balance |
 |---|---|

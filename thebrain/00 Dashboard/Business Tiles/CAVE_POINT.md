@@ -42,7 +42,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 05. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -51,19 +51,19 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 | Last 30 days | Amount |
 |---|---|
 | Money in | $4,520 |
-| Spending | $662 |
+| Spending | $496 |
 | Card payments + transfers out | $28,248 |
 | Net, month to date | $0 |
-| Net, same days last month | -$1,827 |
+| Net, same days last month | -$1,620 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $366 | -100% |
-| Month to date, spending | $0 | $69 | -100% |
-| Month to date, net | $0 | $298 | -$298 |
+| Month to date, spending | $0 | $117 | -100% |
+| Month to date, net | $0 | $250 | -$250 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-D7A9R7Q $166; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34
+**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
 <!-- finance:end -->
 
 ## Quick links
