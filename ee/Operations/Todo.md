@@ -24,6 +24,9 @@
 - [ ] Decide where hosts post (Slack channel) and get TideBot filing them under `ee/Host Logs/`
 - [ ] First content pull once ~4 weeks of logs exist
 
+## Trade Show Follow-Ups (added 2026-11-06)
+- [ ] Go to Elbow Room with Trevor Martin (Superior Sauna & Steam): the NOLA bar in Vancouver, James Beard award. He goes up there and sings karaoke. Set it up once he's back from New York (Davey). Intro email sent 11/6 from davey@, c 415-728-8344
+
 ## High Priority
 - [ ] Install carbon monoxide detector
 - [ ] Install fire alarm
