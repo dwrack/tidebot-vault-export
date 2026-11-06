@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 2
-revenue_today: 206
+bookings_today: 1
+revenue_today: 119
 lead_time_days: 0
-ad_spend_yday: 48
-status: yellow
-alert: "Three Meta campaigns burning with 0 purchases"
-updated: 2026-11-05
+ad_spend_yday: 58
+status: green
+alert: null
+updated: 2026-11-06
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,892/wk booked vs $4,500 target, 64% of goal.** Wed 11/4: 2 booked / $206.
-- Meta Bat Bridge Traffic ACTIVE $20/day, $139.42/7d; Initiate Checkout $89.73/7d; Retargeting Website Visitors $32.04/7d. 0 purchases on all three (day 5 on the list): pause.
-- GBP: 3 unreplied 5-stars (11/03: Cai, Borman, Arefeen).
+- **Goal pace: $2,443/wk booked vs $4,500 target, 54% of goal.** Thu 11/5: 1 booked / $119. Trailing 7 days 25 bookings, down from $2,892 Wednesday.
+- Meta act_1015419897308486, day 6 on the pause list: Bat Bridge Traffic $140.71/7d, Awareness IC $67.00, Retargeting WV $33.32, 0 purchases on all (confirmed). Google is carrying it: generic search ROAS 5.37, PMax 3.66, brand 1.14.
+- GBP: 3 unreplied 5-stars (cai, Borman, Arefeen on Chad, 11/03). IG silent since 8/23.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -2,13 +2,13 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 3
+revenue_today: 264
 lead_time_days: 0
-ad_spend_yday: 26
-status: red
-alert: "0 bookings, Meta purchase campaigns cannot deliver"
-updated: 2026-11-05
+ad_spend_yday: 24
+status: yellow
+alert: "7% of weekly goal; Meta purchase ad sets target Dublin CA"
+updated: 2026-11-06
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $230/wk booked vs $4,000 target, 6% of goal.** Wed 11/4: 0 booked.
-- Meta purchase campaigns (TOF, Retargeting, Creative Testing) show ACTIVE but deliver nothing: all ads PAUSED, TOF and Creative Testing ad sets target Dublin, California (50 mi) (confirmed 11/05). Only live Meta spend is Followers Reboost, $74.20 / 7d.
-- Google "Search - Houston Pedal Barge" (Texas umbrella): $144.96 / 1 conv / ROAS 0.42 over 7d at $42/day: route to Michael, suggest $15. IG 11/04 carousel. TikTok not pulled.
+- **Goal pace: $264/wk booked vs $4,000 target, 7% of goal.** Thu 11/5: 3 booked / $264, the only bookings in the 7-day window.
+- Meta: TOF Prospecting, Creative Testing, Retargeting ACTIVE with $0; every ad PAUSED and all four active ad sets target Dublin, California 50 mi (confirmed 11/06). Fix: retarget to Seabrook/Clear Lake and unpause one ad per set at $20/day, David's call. Only live spend "Followers Reboost" $71.35/7d. Google "Search - Houston Pedal Barge" recovered: $126.77 / 3 conv / ROAS 2.08 in 7d (was 0.42 Wednesday).
+- TikTok session expired, no pull. IG: two carousels 11/5 at 1 like each. GBP 0 unreplied, newest 10/18.
 <!-- live:end -->
 
 <!-- maps:start -->

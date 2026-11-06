@@ -1,6 +1,6 @@
 # NKST Reel Formats v2 (Nov 2026)
 
-Status: DRAFT for David, written 2026-11-05. Nothing in the queue has been changed yet.
+Status: APPROVED by David 2026-11-05 23:37 via a Command Center note ("yes, add some more formats and lets mix it up. add some humor"). Recorded by the chief-of-staff run 2026-11-06. Nothing in the queue has been re-cut yet; the next NKST session re-cuts the 44 queued reels to formats 1 to 11 below and gives the humor formats (2, 5, 11) at least two slots a week.
 
 ## What the numbers say (pulled live from @kayaknola, 2026-11-05)
 
@@ -32,11 +32,13 @@ Each one is a 7 to 12 second reel: one B-roll shot or two, the hook as on-screen
 9. **Log or gator.** Freeze frame, 3 second pause, reveal. Already in the queue as L3, keep it as the one game format.
 10. **The swamp right now.** Seasonal and dated. "November: no bugs, no heat, gold cypress." This one also sells the empty seats we have this month.
 
+11. **Deadpan swamp.** David asked for humor (11/5). One dry line over a calm shot, the joke is on us or on the wildlife's attitude, never on a guest. "Gator, three feet away. Us: extremely calm. (We were not.)" / "POV: this heron has watched 400 kayaks go by and respects none of them." / "Our guide said 'that's a log.' It blinked." Fear flip (2) and Send this to (5) already carry humor; this is the pure-joke slot. Judge it like the rest: 3 posts, then verdict against 488 reach.
+
 ## How we run it
 
 - One format per day, never the same format twice in a week.
 - Each format gets 3 posts, then a verdict against the usual 488 reach. Under half: drop it. Over 1.5x: it gets two slots a week.
-- Formats 1 to 4 are already proven here, so they go first.
+- Formats 1 to 4 are already proven here, so they go first. Then 11 (humor), since David asked for it by name.
 - Two posts a week go up by hand in the app with trending audio (formats 3 and 5 need it most). Somebody has to own that, and right now nobody does. The rest stay on the auto-poster.
 - The judge is shares and reach, not likes. The dashboard's Instagram section shows the verdict per post.
 

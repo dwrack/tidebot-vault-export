@@ -5,10 +5,10 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 30
-status: yellow
-alert: "PMax CPA above account average"
-updated: 2026-11-05
+ad_spend_yday: 66
+status: green
+alert: null
+updated: 2026-11-06
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,9 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $1,985/wk booked vs $5,500 target, 36% of goal.** Wed 11/4: 0 booked.
-- Texas umbrella Google 7d $626.55, ROAS 1.77. LSKT $268.34 / 4.0 conv / ROAS 1.75. PMax Local ($37.50/day) is the weak spot: route to Michael, suggest $10-15/day. Meta act_638850950128825 has no delivery.
-- Legal thread (Soward v. TripAdvisor) hearing dates unverified.
+- **Goal pace: $1,985/wk booked vs $5,500 target, 36% of goal.** Thu 11/5: 0 booked (ran 1 / $27). Trailing 7 days 10 bookings, 8 of them on 10/31.
+- Google (Texas umbrella): PMax Local $290.70 / 4 conv / ROAS 1.62 in 7d, $66.28 yesterday with 0 conv (Michael's lane, flagged 11/03). Brand search 0 impressions yesterday. Meta act_638850950128825 still $0 (goal note: get it out of the dark). GSC up: 25 clicks / 3,786 impr (+158% impressions). GBP 0 unreplied, newest review 7/2024.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-05
+updated: 2026-11-06
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. No movement seen in today's pulls.** GSC 10/29-11/03: 6 clicks / 43 impressions, "new orleans plantation and swamp tour" 2/8. IG last post 9/29. Check the GBP and IG roster IDs: review text and captions read like swamp tours.
+- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 10/29-11/03: 10 clicks / 489 impr. "plantation and swamp tour new orleans" pos 1.5 (22 impr, 1 click), "new orleans plantation and swamp tour" pos 5.3. IG silent since 9/28; the roster GBP and IG IDs still read as a swamp-tour profile, needs a one-time check.
 <!-- live:end -->
 
 <!-- maps:start -->
