@@ -14,6 +14,9 @@ One 30 ft run of dock. Swim ladder in the middle. A ramp on each side of the lad
 - Shared record already has "Dock ladder replacement for swim exit" (both, in progress, 5-step fits, flip-up vs fixed undecided). The ramps are new; nothing on file.
 - Dock framing, float type and edge detail: NOT on file. Has to be looked at before any bracket is specified.
 
+## Next step
+Davey takes a LiDAR scan and photos of the section on his next marina visit (said 2026-11-06, on Operations/Todo.md). Brackets and the drawing get redone from that scan.
+
 ## Attachment points
 | Tag | Where | What | Count |
 |---|---|---|---|

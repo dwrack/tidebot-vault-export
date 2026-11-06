@@ -61,6 +61,7 @@
 - [ ] Purchase and install dock mats
 - [ ] Paint parking lot lines + install wheel stop blocks
 - [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style)
+- [ ] Next time at the marina: LiDAR scan + photos of the 30 ft dock section for the ladder and ramps (edge framing, how the floats attach, underside if reachable, tape measure deck to water). Project: [[Dock Water Entry — Project Note]] (added 2026-11-06)
 - [ ] Remove water dispenser from sauna or label it clearly, replace with better solution in lounge
 - [ ] Research water temp and air temp display options for sauna
 - [ ] Write 3 tagline options for phone charger sign (poetic "put down your phone" vibe)
