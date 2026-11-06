@@ -10,7 +10,7 @@ Prepared for Capitol Specialty Insurance Corporation (policy renewal effective 1
 1. HOW WE OPERATE
 - A floating sauna and lounge moored at Elevated Tides Marina, heated by a natural gas stove (Scandia DX6KN). Two small private saunas are under construction on the same docks.
 - Open 6 AM to 10 PM. Sessions are booked online in advance.
-- Social sessions are capped at 8 guests. Private sessions are capped at 12. (CONFIRM 12)
+- Social sessions are capped at 8 guests. Private sessions are capped at 12.
 - The sauna is unstaffed and there is no lifeguard. Guests get a door code for their session.
 - Hosted events follow these same rules.
 
@@ -20,7 +20,7 @@ Prepared for Capitol Specialty Insurance Corporation (policy renewal effective 1
 - The day before each session, every booking gets a reminder email with the waiver link, health warnings, river rules, the 911 address and what to bring.
 - What to bring: a swimsuit, two towels (one to sit on, one to dry off) and a full water bottle.
 - No alcohol before or during a session. No animals.
-- Guests under 18 must have a parent or guardian present. (CONFIRM age rule)
+- Ages 13 and up, private bookings only, with a parent or guardian present who has signed the waiver. Children must be supervised at all times.
 - Guests who are pregnant, have a heart or blood pressure condition, or take medication that affects heat tolerance should check with a doctor first.
 
 3. HOW TO USE THE SAUNA
@@ -45,8 +45,8 @@ Prepared for Capitol Specialty Insurance Corporation (policy renewal effective 1
 - Throw rings at the fore and aft of the sauna boat, next to the ladders.
 - An extendable rescue pole on each side of the boat.
 - Ladders on the boat, plus a ladder on the dock downriver of the sauna boat.
-- Carbon dioxide (CO2) alarm in the sauna, working. (CONFIRM: is there also a carbon monoxide (CO) alarm?)
-- Fire extinguisher(s). (CONFIRM count and locations)
+- Combination gas and carbon monoxide alarm in the sauna.
+- Two fire extinguishers: one just inside the first entry door of the sauna, and one in the lounge.
 - Cold shower tower on the boat.
 - WaveLink Secure in-water electrical monitoring.
 - Security cameras on the docks.
@@ -64,12 +64,14 @@ Prepared for Capitol Specialty Insurance Corporation (policy renewal effective 1
 
 6. VENTILATION
 - Fresh air enters through a vent at the base of the gas stove.
-- (CONFIRM how air leaves the sauna and whether the stove vents through a roof flue)
+- Air leaves the sauna through a vent near the stove.
+- The gas stove draws its combustion air from outside the sauna.
+- The vents are checked weekly to make sure nothing blocks them.
 
 7. CHECKS AND MAINTENANCE
 - Our facilities manager inspects the sauna, stove, alarms, rescue gear, ladders, decks and signs at least once a week using a written checklist, and logs each inspection. Anything that fails on fire, gas, alarms, rescue gear or ladders closes the sauna until it is fixed.
-- Fire extinguishers are professionally inspected yearly.
-- The gas stove is cleaned and serviced on a regular schedule. (CONFIRM interval and who)
+- Fire extinguishers are inspected weekly and professionally serviced yearly.
+- Our maintenance technician cleans and services the gas stove at least once a month.
 - Guests can reach us by text or call at 503-308-1293.
 
 8. EMERGENCIES

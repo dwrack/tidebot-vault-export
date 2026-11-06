@@ -12,7 +12,7 @@ DRAFT 2026-11-06 for Davey/Jonah to approve before Alex starts using it. Written
 
 ### Sauna and stove
 - [ ] Stove lights and heats normally; flame looks steady, no unusual sound or smell
-- [ ] Fresh-air vent at the base of the stove is clear (nothing stored or stacked in front of it)
+- [ ] Fresh-air vent at the base of the stove and the exhaust vent near the stove are both clear (nothing stored or stacked in front of them)
 - [ ] No gas smell anywhere on the boat (if any smell: shut the gas off, close the sauna, call the gas company)
 - [ ] Nothing combustible near the stove (towels, bags, wood)
 - [ ] Temperature sensor uncovered and reading normally
@@ -20,12 +20,11 @@ DRAFT 2026-11-06 for Davey/Jonah to approve before Alex starts using it. Written
 - [ ] Sauna door opens freely from inside and outside, no sticking
 
 ### Alarms
-- [ ] CO2 alarm: press test, it sounds
-- [ ] CO alarm (if installed): press test, it sounds
-- [ ] Smoke or fire alarm (if installed): press test, it sounds
+- [ ] Gas and carbon monoxide alarm in the sauna: press test, it sounds
 
-### Fire extinguisher(s)
-- [ ] In place, unblocked, gauge in the green, pin and tag on
+### Fire extinguishers (2)
+- [ ] Sauna, just inside the first entry door: in place, unblocked, gauge in the green, pin and tag on
+- [ ] Lounge: in place, unblocked, gauge in the green, pin and tag on
 
 ### Rescue gear
 - [ ] Throw ring at the fore of the boat, next to the ladder: present, rope attached and not tangled

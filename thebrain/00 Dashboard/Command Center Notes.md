@@ -26,6 +26,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-19 due | Tick or kill the Famadillo mom's getaway pitches (NOLA with Jeffrey hosting; Portland needs a spokesperson), _Staged for Approval/PR Pitch — NKST + NPB / E&E — famadillo-moms-getaway | NKST / NPB / E&E | default: pitches lapse 11/19 5pm ET
 - LiDAR scan + photos of the 30 ft dock section next marina visit (dock water entry: ladder + two ramps; edge framing, float attachment, deck-to-water height) | Ebb & Ember | default: design stays at concept v0.1
 - Send or hold the #maintenance post announcing the dock water entry project | Ebb & Ember | default: hold until after the dock scan
+- 2026-11-06 | Approve the E&E incident log design (3 quick calls: night alerts, Mac-down alarm, Sheet owner) | Ebb & Ember | default: build with the defaults in the decision record
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.

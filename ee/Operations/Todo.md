@@ -1,5 +1,8 @@
 # Ebb & Ember — Todo List
 
+## Incident Log (added 2026-11-06 — record: [[2026-11-06 E&E incident log]])
+- [ ] Davey: approve the incident log design (night alerts, Mac-down alarm, Sheet owner), then Claude builds it on mbp-2
+
 ## Downpour Productization (added 2026-08-27 — brief: [[Downpour Productization — Project Brief (Aug 2026)]])
 - [ ] Message Grant: measure + photo-document the Downpour during a V2 site day, quote build cost for unit #2 (draft ready, awaiting Davey's go)
 - [ ] Attorney (fold into §18 work): selling entity — ETE vs new entity, diverted-opportunity risk; plus trademark knockout on "The Downpour" / "The Portland Downpour" / "PDX Downpour" (Davey)
