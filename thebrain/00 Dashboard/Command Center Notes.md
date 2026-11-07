@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Grant Accessibility + Screen Recording to Terminal (Device Control and Data Access on macOS 27) on the DCKT Mac so agent-desktop can run there; run `~/.local/bin/agent-desktop permissions --guide` in Screen Sharing | DCKT | default: agent-desktop works on the laptop only
 - Rose axon sketch artifact (8YUMA8U9...) was deleted, so the weekly Rose refresh did not publish. Rev 06 built at Ebb and Ember/Operations/Axon Sketches/axon_rose.html. Say yes to publish a new private link | E&E | default: Rose stays unpublished (off the record)
 - 2026-11-08 due | Send the Midwest Living 2027 pitch (draft at bottom of the 11/07 brief; due 10pm CT) | DCKT | default: deadline passes, no feature
 - Say go: pause 3 Buffalo Bayou Meta campaigns (Bat Bridge, Awareness IC, Retargeting WV; $249/7d, 0 purchases) | Buffalo Bayou Kayak | default: keeps spending about $35/day
