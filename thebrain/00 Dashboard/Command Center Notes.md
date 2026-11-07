@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Fix covers on reels already posted (IG app > reel > Edit cover > pick a sharp frame; the API cannot change a cover after posting). New reels now auto-pick the best grid frame as of 2026-11-06 | All brands | default: old reels keep their current grid thumbnails
+- Reply to Michael: which Meta pixel ID is in HPB's FareHarbor settings (HPB site loads 1559188957448084 = LSKT's pixel, ads optimize on 381452300055179 = BBK's). FH login hit 2SV and no code arrived (checked 2026-11-06); David reads Settings > tracking/integrations in FH for HPB, or reads the SMS code to Claude | Houston Pedal Barge | default: Michael's HPB Meta ads keep showing zero purchases
 - Approve the NPB thin-departure watch design (6-guest threshold, one 10am post, guide clash check) | NPB | default: nothing gets built, Jeff keeps checking by hand
 - Laptop disk: OK moving idle AI models, Downloads videos and old migration folders (~100 GB) to the 12TB drive on the DCKT Mac, plus a nightly job that keeps big iCloud files cloud-only | TheBrain | default: laptop refills toward full again
 - Share the holiday party photo board with Jeff and tap Use/Maybe/No (https://claude.ai/artifact/9rDfxRtajhmYNwqp8AuqiQ) | NOLA Party Barge | default: email and pages use the Hero tier as ranked
