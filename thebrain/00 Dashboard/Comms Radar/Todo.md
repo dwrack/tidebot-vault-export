@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-07 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-07 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -189,8 +189,6 @@ _nothing_
   → AKT staff reply to Sofie by email (she wants to keep it out of phone calls) with available times around Tue Nov 24 and what they need from Dylan and Alex for the free skyline tour for two. (AKT staff; Gmail austinkayaktours@; touched 2026-11-06)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure Tours Threads engage is logged out and paused 24h. (David; Slack #helm-admire; touched 2026-11-06)
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
 - [ ] Cold funding offers (Arc Advances, Josh Rollins) to Cave Point and DCKT #Cave-Point #DCKT #id:T0091
@@ -217,6 +215,8 @@ _nothing_
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-07)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure Tours Instagram engage ran Nov 7 with 14 considered but zero likes, follows, saves or comments. (David; Slack #helm-admire; touched 2026-11-07)
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
