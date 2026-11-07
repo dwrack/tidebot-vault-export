@@ -100,3 +100,7 @@
 
 - [ ] Decide police report + marina heads-up on the pedal bike theft, see [[Pedal bike theft - Nov 5 2026]]
 - [ ] Approve the Slack bot attach patch (apply_bridge_attach_patch.py) so Claude posts the pre-theft clips to Jonah itself, see [[Pedal bike theft - Nov 5 2026]]
+
+- [ ] Post bike-thief graphic and clip in local Portland FB groups; police report with same images. See [[Pedal bike theft - Nov 5 2026]] (FB post folder)
+
+- [ ] Add Oregonian Best Spa award line to davey@ Gmail signature (draft approved 2026-11-07; Claude could not sign in, needs David to paste or sign in)
