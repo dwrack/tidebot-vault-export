@@ -77,5 +77,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Door County Kayak Tours · B) Door County Kayak Tours WI · C) Door County Kayak + E-Bike
 **Bio line one (draft):** 4.9 stars from 1000+ reviews. Sea cave and shipwreck kayak tours in Door County. Book below.
 **Note:** Bio still says 'booking through Oct 1st' on Nov 6. Fix first, it is a live error.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** logo photo reads well. 2 highlights only (Community, Cave Point), no Pricing or What to bring. Grid is strong, legible text covers (End of Season, 2 Hour Cave Point Tour). No pinned posts. Fix: add 3 buyer-question highlights, pin the Cave Point tour reel as proof.
 <!-- igscore:end -->

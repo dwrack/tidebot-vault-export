@@ -81,5 +81,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Admire NOLA Tours · B) Admire NOLA | Swamp + City · C) NOLA Swamp & City Tours
 **Bio line one (draft):** Swamp kayak, plantation and walking tours in New Orleans. Book below.
 **Note:** Only 246 followers, so the profile only has to convert, not impress.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** swamp photo, no logo. No highlights. Grid is raw clips, no covers or text. No pinned posts.
 <!-- igscore:end -->

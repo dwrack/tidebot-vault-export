@@ -39,5 +39,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Houston Booze Cruise · B) Houston Booze Cruise | BYOB · C) Houston Party Cruise
 **Bio line one (draft):** Boat party cruises in Houston for groups. Text (832) 974-0365 to book.
 **Note:** Account has not posted in a year. Decide: revive or leave parked (see dashboard).
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** boat photo reads OK. No highlights. Grid is mixed and confusing: posts say Houston Pedal Barge, so this account looks like a duplicate of HPB with a different address (2513 E NASA Pkwy vs 2315 E NASA Rd). Giveaway post drawing 11/15/25 is a year old. Decide whether to keep it.
 <!-- igscore:end -->

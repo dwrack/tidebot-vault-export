@@ -79,5 +79,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Buffalo Bayou Kayak Tours · B) Houston Kayak | Buffalo Bayou · C) Buffalo Bayou Kayak Houston
 **Bio line one (draft):** Kayak downtown Houston on Buffalo Bayou. Skyline views, gear included. Book below.
 **Note:** Bio is blank. Any bio beats none. Check 'gear included' is true before using it.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** rocket-kayak logo is detailed, may blur at 40px. No bio, no highlights. Grid is plain phone footage with no text covers, except one Sunset Kayak Tours. No pinned posts.
 <!-- igscore:end -->

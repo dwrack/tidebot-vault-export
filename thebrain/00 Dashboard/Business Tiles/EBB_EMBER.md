@@ -51,5 +51,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Ebb & Ember | Portland Sauna · B) Portland Floating Sauna · C) Ebb & Ember Floating Sauna
 **Bio line one (draft):** Portland's first floating sauna on the Columbia. Sweat, plunge, repeat. Book below.
 **Note:** Strongest bio of the group. Add one proof line (review count) to the body.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** verified badge, logo reads clean. Best highlights of the group (FAQ, Plunge, Community, Membership, The Downpour). Link is a long raw booking URL, so it shows ugly. Grid mixed: text covers on some, plain footage on others. Pinned: none visible. Fix: short link, pin the Best Spa nomination post as proof.
 <!-- igscore:end -->

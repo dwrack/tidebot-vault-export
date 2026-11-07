@@ -114,5 +114,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) NOLA Kayak Swamp Tours · B) New Orleans Swamp Kayak Tours · C) Swamp Kayak Tours New Orleans
 **Bio line one (draft):** Paddle a real Louisiana swamp 30 min from New Orleans. Small groups, gators likely. Book below.
 **Note:** Only claim facts true for NKST (drive time, small groups) before using this line.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** photo is a kayak in swamp, reads OK but no logo. Highlights: Book Now!, Onthebayou (2, not buyer questions). Grid: hook-text reels (log or gator, swamp or bayou), good. Three drone clips repeat in rows 2 (same shot). No pinned posts, no stories. Fix: add What to bring, Is it safe, Reviews highlights; pin the best hook reel.
 <!-- igscore:end -->

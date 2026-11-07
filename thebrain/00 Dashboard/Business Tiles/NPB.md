@@ -94,5 +94,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) NOLA Party Barge | Boat Party · B) New Orleans Party Boat Cruise · C) NOLA Tiki Boat Party Cruise
 **Bio line one (draft):** Boat parties for bachelorettes, birthdays and groups. 15 min from the French Quarter. Book below.
 **Note:** Site is nolapartybarges.com (plural) vs handle nolapartybarge; fine, just keep the link on the booking page.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app (screenshot 2026-11-06):** photo reads well (boat full of people). 4 highlights named after boats (Party Queen, Freaky Tiki, Bayou Boogie, Twerkin Tiki), none answer a buyer question; Bayou Boogie cover is blank. Grid: reels with text covers, readable. No pinned posts. Fix: replace highlights with Pricing, What to bring, Is it safe, Reviews; pin proof, offer, intro.
 <!-- igscore:end -->

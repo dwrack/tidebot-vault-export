@@ -81,5 +81,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Cave Point Paddle & Pedal · B) Door County Paddle & E-Bike · C) Cave Point Kayak & E-Bike
 **Bio line one (draft):** Kayak, paddleboard and e-bike rentals at Cave Point, Door County. Book below.
 **Note:** The link is the biggest leak: it sends strangers to the jobs page. Swap to the booking page.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** logo reads well. 5 highlights (Mentions, Guides, Shop, Info, DoCo) with icon covers, partly useful. Grid: first row is Google review cards, strong proof, but the rest is mixed. Link is cavepointpp.com/jobs, confirmed in the app. No pinned posts visible.
 <!-- igscore:end -->

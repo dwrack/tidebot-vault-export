@@ -76,5 +76,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Austin Kayak & Paddleboard · B) Austin Kayak Tours | Lady Bird · C) Austin Kayak Tours
 **Bio line one (draft):** Kayak and paddleboard tours on Lady Bird Lake. Book below, call (512) 766-5640.
 **Note:** Move the hiring ask to a highlight or a pinned post, not the bio.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** bat logo reads well. 1 highlight only: Hiring!. Grid is bat footage, clear and on brand but few covers carry text. No pinned posts. Fix: replace Hiring! with Bat Tour, Pricing, What to bring; pin the bat tour reel.
 <!-- igscore:end -->

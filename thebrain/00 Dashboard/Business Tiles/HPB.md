@@ -79,5 +79,5 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 **Name field options (max 30 chars):** A) Houston Pedal Barge Tours · B) Houston Party Barge Tours · C) Houston Pedal Barge Parties
 **Bio line one (draft):** Party barge tours on Buffalo Bayou for groups. Text (832) 974-0365 or book below.
 **Note:** Confirm the route name before using Buffalo Bayou.
-**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+**Seen in app:** logo is busy at 40px but recognizable. NO highlights. Grid is the best of the group: bold covers (26 friends 1 boat 0 bar tabs; 4.9 stars 980+ Google reviews). No pinned posts: the 4.9 stars post should be pinned. Following only 10.
 <!-- igscore:end -->
