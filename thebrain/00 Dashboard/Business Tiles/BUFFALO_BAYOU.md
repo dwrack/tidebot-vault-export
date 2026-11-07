@@ -69,3 +69,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - GBP location: 12969424608141307230
 - IG: @buffalobayoukayak
 - Note: shares Meta act_1015419897308486 with HPB. No GSC, no Google Ads.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@buffalobayoukayak)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**21/60** · name 6/12 · bio line 0/12 (bio is empty) · bio body 0/8 · link 6/8 · handle 6/6 · stories 0/8 · contact 3/6
+
+**Name field options (max 30 chars):** A) Buffalo Bayou Kayak Tours · B) Houston Kayak | Buffalo Bayou · C) Buffalo Bayou Kayak Houston
+**Bio line one (draft):** Kayak downtown Houston on Buffalo Bayou. Skyline views, gear included. Book below.
+**Note:** Bio is blank. Any bio beats none. Check 'gear included' is true before using it.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

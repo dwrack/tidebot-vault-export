@@ -84,3 +84,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - FareHarbor: [nolapartybarge](https://fareharbor.com/embeds/book/nolapartybarge/)
 - GBP location: 16753778394051046706
 - Site: https://www.nolapartybarges.com/
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@nolapartybarge)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**34/60** · name 4/12 (emoji wrap, no search words) · bio line 5/12 (superlative, no who/what) · bio body 3/8 · link 6/8 · handle 6/6 · stories 6/8 · contact 4/6
+
+**Name field options (max 30 chars):** A) NOLA Party Barge | Boat Party · B) New Orleans Party Boat Cruise · C) NOLA Tiki Boat Party Cruise
+**Bio line one (draft):** Boat parties for bachelorettes, birthdays and groups. 15 min from the French Quarter. Book below.
+**Note:** Site is nolapartybarges.com (plural) vs handle nolapartybarge; fine, just keep the link on the booking page.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

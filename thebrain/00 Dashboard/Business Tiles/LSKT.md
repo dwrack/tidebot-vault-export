@@ -68,3 +68,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - GBP location: 11383026800789938857
 - Site: https://lonestarkayaktours.com/
 - Note: shares Google Ads 8497383499 and Meta act_638850950128825 with AKT
+
+<!-- igscore:start -->
+### 📸 Instagram profile score
+*Not scored 2026-11-06: Lone Star Kayak Tours has no IG account in the connected Meta business managers. Confirm the handle, then run /ig-profile-score.*
+<!-- igscore:end -->

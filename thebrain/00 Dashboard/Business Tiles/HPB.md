@@ -69,3 +69,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - GBP location: 9402272527782840373
 - IG: @houstonpedalbarge · TikTok: @houstonpedalbarge
 - Note: shares Meta act_1015419897308486 with Buffalo Bayou. No GSC property.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@houstonpedalbarge)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**29/60** · name 6/12 · bio line 4/12 ('newest attraction' ages badly) · bio body 3/8 · link 6/8 · handle 6/6 · stories 0/8 · contact 4/6
+
+**Name field options (max 30 chars):** A) Houston Pedal Barge Tours · B) Houston Party Barge Tours · C) Houston Pedal Barge Parties
+**Bio line one (draft):** Party barge tours on Buffalo Bayou for groups. Text (832) 974-0365 or book below.
+**Note:** Confirm the route name before using Buffalo Bayou.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

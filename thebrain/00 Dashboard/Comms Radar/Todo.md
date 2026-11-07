@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-06 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-06 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,6 +15,8 @@ _nothing_
 
 ## Needs you
 
+- [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-08 #id:T0095
+  → David send Max the safety guidelines this weekend and sign the corrected DocuSign; Jonah also asked Max to add The WaterStrong Initiative as additional insured for the Friday Sunrise sessions Nov 1 to Dec 31 and to say if there is a cost. (David; Gmail davey@; touched 2026-11-06)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -31,8 +33,6 @@ _nothing_
   → David pay the $647.20 past due Entergy amount for his Piety address; automating the payment is tracked in D0001. (David; Todo comment; touched 2026-11-06)
   > David: it's my Piety address.
   > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
-- [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #id:T0095
-  → David sign the corrected DocuSign and send Max the safety plan; Max confirmed the info only has to be correct on the application, not the signed document. Max still owes Jonah higher swim and plunge limit prices, the additional insured endorsement (primary and non-contributory, waiver of subrogation), and written confirmation the floating sauna is not excluded as watercraft. (David; Gmail davey@; touched 2026-11-06)
 - [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #NKST #id:T0102
   → David top up the Gemini API prepay credits in AI Studio billing; until then written trip logs (like Emily Clarke's Nov 6 log) may need manual processing. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
@@ -89,6 +89,8 @@ _nothing_
   → Jeffrey send Barbo's prices and Beatty's rate so TideBot can finalize the corporate party pricing before the Nov 6 meeting; Jeffrey says BBQ add-on is $20-30 per person ($20 for 2 proteins and sides, $30 for 3). (Jeffrey Chitek; Slack #helm-npb; touched 2026-11-05)
 - [ ] NKST selling 2019 van, down to 3 vans, rear right tire needs replacing #NKST #due:2026-11-06 #id:T0100
   → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
+- [ ] AWS SES DKIM disabled for neworleanskayakrental.com #NKST #due:2026-11-11 #id:T0106
+  → Whoever manages the neworleanskayakrental.com DNS restore the SES DKIM records within 5 days, unless removing them was intentional. (David; Gmail doorcountyzip@; touched 2026-11-06)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
@@ -119,8 +121,6 @@ _nothing_
   → Cave Point staff decide whether to say yes to listing the up-to-30% discount on Tourist, then reply. (Cave Point staff; Gmail cavepointpp@; touched 2026-11-01)
 - [ ] Bike Bar text lead, party of 8 on Twerkin Tiki Nov 27 #NOLA-Bike-Bar #NPB #id:T0032
   → NPB or Bike Bar team reply to the texter with Twerkin Tiki availability and pricing for 8 people on Friday Nov 27. (NPB team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-01)
-- [ ] AKT hosted kayak tour collab offer from travel creator Dylan Goodrich, Nov 24 #AKT #id:T0033
-  → AKT staff or David decide whether to host a free skyline kayak tour for two on Tue Nov 24 in exchange for reels, stories, a collab post and a raw media library, then reply to Sofie. (David; Gmail austinkayaktours@; touched 2026-11-01)
 - [ ] NPB guest asks to move Jan 23 2027 booking from 2pm to 12pm #NPB #id:T0035
   → NPB team check 12pm availability on Jan 23, 2027 and move booking 389104488 for Sarah Burn, then confirm to her. (NPB team; Gmail nolapedalbarge@; touched 2026-11-01)
 - [ ] Plaid corporate quote request, private Manchac airboat tour, 15 guests now Nov 18 morning #NPB #NKST #id:T0037
@@ -187,6 +187,8 @@ _nothing_
   → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; touched 2026-11-06)
 - [ ] DCKT travel feature publication shortlist #DCKT #id:T0018
   → David review the shortlist and answer Mujahid Khan on whether kayaking is the main focus next season or e-bikes are included, or ignore it. (David; Gmail doorcountykayaking@; touched 2026-11-06)
+- [ ] AKT hosted kayak tour collab offer from travel creator Dylan Goodrich, Nov 24 #AKT #id:T0033
+  → AKT staff reply to Sofie by email (she wants to keep it out of phone calls) with available times around Tue Nov 24 and what they need from Dylan and Alex for the free skyline tour for two. (AKT staff; Gmail austinkayaktours@; touched 2026-11-06)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
@@ -214,6 +216,8 @@ _nothing_
   → David and Jonah sort out the lost boat in the founders channel; details are not in the texts. (David; Text with Jonah Moses; touched 2026-11-06)
 - [ ] NKST guide needs XXXL PFDs; Manchac traffic tips #NKST #id:T0105
   → NKST manager check whether XXXL PFDs are available or buy some, and answer Abbie's question on avoiding traffic to Manchac. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
+- [ ] Email abuse report on a message sent via amazonses.com, 'Gift them the quiet' #NKST #id:T0107
+  → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
 
 ## Backburner (LSKT)
 

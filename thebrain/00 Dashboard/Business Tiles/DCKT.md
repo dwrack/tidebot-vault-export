@@ -67,3 +67,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - FareHarbor: [doorcountykayaktours](https://fareharbor.com/embeds/book/doorcountykayaktours/)
 - GBP location: 5837086547118336383
 - Site: https://www.doorcountykayaktours.com/
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@doorcountykayaktours)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**38/60** · name 8/12 · bio line 6/12 (proof but no who) · bio body 2/8 (says booking through Oct 1st, stale) · link 6/8 · handle 6/6 · stories 6/8 · contact 4/6
+
+**Name field options (max 30 chars):** A) Door County Kayak Tours · B) Door County Kayak Tours WI · C) Door County Kayak + E-Bike
+**Bio line one (draft):** 4.9 stars from 1000+ reviews. Sea cave and shipwreck kayak tours in Door County. Book below.
+**Note:** Bio still says 'booking through Oct 1st' on Nov 6. Fix first, it is a live error.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

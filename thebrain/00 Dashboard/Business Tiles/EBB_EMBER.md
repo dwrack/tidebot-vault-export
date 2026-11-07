@@ -41,3 +41,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - GBP location: 16140834048343808850
 - IG: @ebbandember
 - Note: no Meta ad account, no Google Ads, no GSC property, not on FareHarbor scrape.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@ebbandember)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**38/60** · name 10/12 (missing Portland) · bio line 9/12 · bio body 3/8 · link 7/8 · handle 6/6 · stories 0/8 · contact 4/6
+
+**Name field options (max 30 chars):** A) Ebb & Ember | Portland Sauna · B) Portland Floating Sauna · C) Ebb & Ember Floating Sauna
+**Bio line one (draft):** Portland's first floating sauna on the Columbia. Sweat, plunge, repeat. Book below.
+**Note:** Strongest bio of the group. Add one proof line (review count) to the body.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

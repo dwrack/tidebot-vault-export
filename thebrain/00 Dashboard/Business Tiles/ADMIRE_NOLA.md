@@ -71,3 +71,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - Site: https://www.admirenola.com/
 - IG: @admirenola
 - Note: no dedicated Google Ads. Runs under Gravity Trails NOLA umbrella 4378232023 and Meta act_87863118.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@admirenola)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**26/60** · name 4/12 · bio line 6/12 · bio body 2/8 · link 5/8 (http) · handle 6/6 · stories 0/8 · contact 3/6. Last post 2026-09-29.
+
+**Name field options (max 30 chars):** A) Admire NOLA Tours · B) Admire NOLA | Swamp + City · C) NOLA Swamp & City Tours
+**Bio line one (draft):** Swamp kayak, plantation and walking tours in New Orleans. Book below.
+**Note:** Only 246 followers, so the profile only has to convert, not impress.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

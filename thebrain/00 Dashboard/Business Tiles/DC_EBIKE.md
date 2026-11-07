@@ -65,3 +65,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - GBP location: 1548239768020739530
 - Site: sc-domain:doorcountykayak.com
 - Note: no Google Ads, no IG. Meta runs via DCKT account act_10153674414451399.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score
+*Not scored 2026-11-06: Door County Detours has no IG account in the connected Meta business managers. Confirm the handle, then run /ig-profile-score.*
+<!-- igscore:end -->

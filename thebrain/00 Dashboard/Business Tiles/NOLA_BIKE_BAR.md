@@ -70,3 +70,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - GBP location: 17253295310257105995
 - Site: https://www.nolabikebar.com/
 - Note: no Google Ads, no IG. Meta runs via act_87863118 (prefix "Bike Bar").
+
+<!-- igscore:start -->
+### 📸 Instagram profile score
+*Not scored 2026-11-06: NOLA Bike Bar has no IG account in the connected Meta business managers. Confirm the handle, then run /ig-profile-score.*
+<!-- igscore:end -->

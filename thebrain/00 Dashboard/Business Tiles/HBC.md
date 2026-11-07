@@ -29,3 +29,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ## Quick links
 - IG: @houstonboozecruise
 - Note: no GBP / GSC / Ads / GA4 / Meta coverage. Dormant.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@houstonboozecruise)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**28/60** · name 8/12 · bio line 3/12 · bio body 2/8 · link 5/8 (http) · handle 6/6 · stories 0/8 · contact 4/6. Last post 2025-11-14, a year dormant.
+
+**Name field options (max 30 chars):** A) Houston Booze Cruise · B) Houston Booze Cruise | BYOB · C) Houston Party Cruise
+**Bio line one (draft):** Boat party cruises in Houston for groups. Text (832) 974-0365 to book.
+**Note:** Account has not posted in a year. Decide: revive or leave parked (see dashboard).
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

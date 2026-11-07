@@ -71,3 +71,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - IG: @cavepointpp
 - Site: sc-domain:cavepointpp.com
 - Note: no Google Ads. Meta runs via DCKT account act_10153674414451399.
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@cavepointpp)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**21/60** · name 8/12 · bio line 4/12 · bio body 1/8 · link 1/8 (points to /jobs/, a hiring page) · handle 4/6 · stories 0/8 · contact 3/6
+
+**Name field options (max 30 chars):** A) Cave Point Paddle & Pedal · B) Door County Paddle & E-Bike · C) Cave Point Kayak & E-Bike
+**Bio line one (draft):** Kayak, paddleboard and e-bike rentals at Cave Point, Door County. Book below.
+**Note:** The link is the biggest leak: it sends strangers to the jobs page. Swap to the booking page.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->

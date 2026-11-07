@@ -104,3 +104,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 - FareHarbor: [neworleanskayakswamptours](https://fareharbor.com/embeds/book/neworleanskayakswamptours/)
 - GBP location: 10129422728201342552
 - Site: https://www.neworleanskayakswamptours.com/
+
+<!-- igscore:start -->
+### 📸 Instagram profile score (@kayaknola)
+*Scored 2026-11-06 from the live Instagram API. Out of 60 on the parts the API can see; pinned three, highlights, grid covers and photo (40 pts) need a look in the app.*
+
+**31/60** · name 10/12 · bio line 6/12 · bio body 2/8 (adjectives) · link 5/8 (http, not https) · handle 5/6 · stories 0/8 (none in 24h) · contact 3/6
+
+**Name field options (max 30 chars):** A) NOLA Kayak Swamp Tours · B) New Orleans Swamp Kayak Tours · C) Swamp Kayak Tours New Orleans
+**Bio line one (draft):** Paddle a real Louisiana swamp 30 min from New Orleans. Small groups, gators likely. Book below.
+**Note:** Only claim facts true for NKST (drive time, small groups) before using this line.
+**Check in app:** pinned three (proof, offer, intro) · 4 to 6 highlights named for buyer questions · photo readable at 40px
+<!-- igscore:end -->
