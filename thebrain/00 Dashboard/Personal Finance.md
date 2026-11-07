@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -60,13 +60,13 @@
 | Spending | $44,150 |
 | Card payments + transfers out | $12,376 |
 | Net, month to date | $0 |
-| Net, same days last month | -$17,484 |
+| Net, same days last month | -$17,921 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $0 | $0 | n/a |
+| Month to date, money in | $0 | $2,836 | -100% |
 | Month to date, spending | $0 | $6,992 | -100% |
-| Month to date, net | $0 | -$6,992 | $6,992 |
+| Month to date, net | $0 | -$4,156 | $4,156 |
 | Trailing 12 months | no history yet | | |
 
 *Month to date leaves out American 5002 (from Sep 2026): not enough history yet.*
@@ -76,7 +76,7 @@
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -87,18 +87,18 @@
 |---|---|
 | Money in | $1,650 |
 | Spending | $932 |
-| Card payments + transfers out | $4,306 |
+| Card payments + transfers out | $2,036 |
 | Net, month to date | $0 |
 | Net, same days last month | $2,295 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $0 | $27 | -100% |
-| Month to date, net | $0 | -$27 | $27 |
+| Month to date, spending | $0 | $77 | -100% |
+| Month to date, net | $0 | -$77 | $77 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $22,839 | $28,552 | -20% |
-| Trailing 12 months, net | -$22,839 | -$27,956 | $5,117 |
+| Trailing 12 months, spending | $22,789 | $28,515 | -20% |
+| Trailing 12 months, net | -$22,789 | -$27,919 | $5,130 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
@@ -109,7 +109,7 @@
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 06. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 07. Balances only.*
 
 | Account | Balance |
 |---|---|

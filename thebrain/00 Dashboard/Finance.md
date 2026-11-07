@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -22,11 +22,11 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $4,520 |
+| Money in | $1,390 |
 | Spending | $496 |
 | Card payments + transfers out | $28,248 |
 | Net, month to date | $0 |
-| Net, same days last month | -$1,620 |
+| Net, same days last month | -$1,786 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -38,7 +38,7 @@
 **Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -49,18 +49,18 @@
 |---|---|
 | Money in | $1,650 |
 | Spending | $932 |
-| Card payments + transfers out | $4,306 |
+| Card payments + transfers out | $2,036 |
 | Net, month to date | $0 |
 | Net, same days last month | $2,295 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $0 | $27 | -100% |
-| Month to date, net | $0 | -$27 | $27 |
+| Month to date, spending | $0 | $77 | -100% |
+| Month to date, net | $0 | -$77 | $77 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $22,839 | $28,552 | -20% |
-| Trailing 12 months, net | -$22,839 | -$27,956 | $5,117 |
+| Trailing 12 months, spending | $22,789 | $28,515 | -20% |
+| Trailing 12 months, net | -$22,789 | -$27,919 | $5,130 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
@@ -69,20 +69,20 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank M. FISCHER (5955) | -$461 |
-| Chase Bank PERFBUS CHK (1893) | $18,417 |
+| Chase Bank M. FISCHER (5955) | -$229 |
+| Chase Bank PERFBUS CHK (1893) | $18,290 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $28,318 |
+| Money in | $28,191 |
 | Spending | $18,779 |
-| Card payments + transfers out | $12,104 |
-| Net, month to date | -$3,678 |
-| Net, same days last month | -$2,852 |
+| Card payments + transfers out | $12,336 |
+| Net, month to date | -$3,572 |
+| Net, same days last month | -$2,634 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -94,30 +94,29 @@
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $54,436 |
+| Chase Bank PERFBUS CHK (3085) | $57,350 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $91,005 |
-| Spending | $69,553 |
+| Money in | $88,701 |
+| Spending | $67,663 |
 | Card payments + transfers out | $28,407 |
-| Net, month to date | -$10,496 |
-| Net, same days last month | -$9,646 |
+| Net, month to date | -$7,582 |
+| Net, same days last month | -$14,134 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $31,116; CHECK # $19,740; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $790
+**Top spending, 30 days:** PAYPAL $31,116; CHECK # $18,640; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; joinhomebase.com $51
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it
-- Check $1,100 on Oct 08: payee unknown, label it
 - Check $6,000 on Oct 21: payee unknown, label it
 - Check $6,000 on Oct 27: payee unknown, label it
 - Check $2,129 on Oct 29: payee unknown, label it

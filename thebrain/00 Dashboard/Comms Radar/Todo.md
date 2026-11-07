@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-06 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-07 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -16,7 +16,7 @@ _nothing_
 ## Needs you
 
 - [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-08 #id:T0095
-  → David send Max the safety guidelines this weekend and sign the corrected DocuSign; Jonah also asked Max to add The WaterStrong Initiative as additional insured for the Friday Sunrise sessions Nov 1 to Dec 31 and to say if there is a cost. (David; Gmail davey@; touched 2026-11-06)
+  → David sign the corrected Elevated Tides ACORD DocuSign from Max McCuddy (reminder sent Nov 7) and send Max the safety guidelines this weekend. (David; Gmail davey@; touched 2026-11-07)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -29,14 +29,14 @@ _nothing_
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
-- [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
-  → David pay the $647.20 past due Entergy amount for his Piety address; automating the payment is tracked in D0001. (David; Todo comment; touched 2026-11-06)
-  > David: it's my Piety address.
-  > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
 - [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #NKST #id:T0102
   → David top up the Gemini API prepay credits in AI Studio billing; until then written trip logs (like Emily Clarke's Nov 6 log) may need manual processing. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
+- [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
+  → David check whether the $647.20 past due amount is covered; the new $1,160.35 bill shows Autopay on and drafts Dec 8, so it will not clear anything overdue before then. (David; Gmail doorcountyzip@; touched 2026-11-07)
+  > David: it's my Piety address.
+  > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
 
 ## Waiting on someone
 
@@ -169,8 +169,6 @@ _nothing_
   → Jeffrey finishes the revised deckhand job description (entertainers and salespeople, commission and tips on upsells, camera-comfortable) and makes a promo video for the party pontune; David and Jeffrey keep tracking projects in the dashboard. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-04)
 - [ ] Loyola University asks for updated COI, last one expired 6/7/22 #NKST #id:T0073
   → NKST manager request an updated certificate of insurance from the insurance agent and send it to David Young at Loyola Financial Affairs. (NKST manager; Gmail nolakayaktours@; touched 2026-11-04)
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-05)
 - [ ] NKST company retreat inquiry, 9-10 people, kayak tour with transport Dec 10 #NKST #id:T0078
   → NKST manager reply to Luke Johnson on Thursday Dec 10 availability between 12:15 and 4:45 for a group of 9-10 with transportation, plus pricing. (NKST manager; Gmail nolakayaktours@; touched 2026-11-05)
 - [ ] NPB private party cruise inquiry, Nov 14, 12-15 people, 2pm #NPB #id:T0079
@@ -193,7 +191,6 @@ _nothing_
   → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure Tours Threads engage is logged out and paused 24h. (David; Slack #helm-admire; touched 2026-11-06)
-- [ ] Automate paying Entergy for 1407 Piety #id:D0001
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
 - [ ] Cold funding offers (Arc Advances, Josh Rollins) to Cave Point and DCKT #Cave-Point #DCKT #id:T0091
@@ -218,11 +215,15 @@ _nothing_
   → NKST manager check whether XXXL PFDs are available or buy some, and answer Abbie's question on avoiding traffic to Manchac. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Email abuse report on a message sent via amazonses.com, 'Gift them the quiet' #NKST #id:T0107
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
+- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-07)
+- [ ] Automate paying Entergy for 1407 Piety #id:D0001
+  → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
 
 ## Backburner (LSKT)
 
 - [ ] LSKT ad return 1.6x under 2x floor #LSKT #id:T0021
-  → Reply do 1 in #the-helm for TideBot to walk the Lone Star booking path, or do 2 to pull search terms and propose cuts. (David; Slack #the-helm; touched 2026-11-06)
+  → Reply do 1 in #the-helm for TideBot to walk the Lone Star booking path, or do 2 to pull search terms and propose cuts. (David; Slack #the-helm; touched 2026-11-07)
 
 ## Done (last 14 days)
 

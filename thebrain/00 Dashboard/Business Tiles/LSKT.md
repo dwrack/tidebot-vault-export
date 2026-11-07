@@ -38,20 +38,20 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 06. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank M. FISCHER (5955) | -$461 |
-| Chase Bank PERFBUS CHK (1893) | $18,417 |
+| Chase Bank M. FISCHER (5955) | -$229 |
+| Chase Bank PERFBUS CHK (1893) | $18,290 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $28,318 |
+| Money in | $28,191 |
 | Spending | $18,779 |
-| Card payments + transfers out | $12,104 |
-| Net, month to date | -$3,678 |
-| Net, same days last month | -$2,852 |
+| Card payments + transfers out | $12,336 |
+| Net, month to date | -$3,572 |
+| Net, same days last month | -$2,634 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
