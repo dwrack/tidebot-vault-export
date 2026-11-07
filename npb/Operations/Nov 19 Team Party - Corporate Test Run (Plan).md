@@ -60,6 +60,19 @@ Drafted 2026-11-06 (David). Source: David + Jeff call, week of Nov 2. Status: PL
 - Group photo at the mural
 - 3 short testimonials from guests: "what would your office think of this?"
 
+**Added 2026-11-06 from the photo board review** (`Marketing/Corporate Holiday Photo Board (Nov 2026).md`, board: https://claude.ai/artifact/9rDfxRtajhmYNwqp8AuqiQ). The library is boats and bachelorettes; these are the gaps:
+- Party room set and full: tables dressed, string lights on, 30+ people inside (we have one empty shot of the room)
+- Caterer food plated: each partner's dishes, one overhead and one 45-degree shot per tier, before guests touch them
+- Gas station front at blue hour (about 5:20pm), sign and canopy lights on, a few people walking in. Shoot it before the boats come back
+- Palapas with a group under them (every palapa shot we have is empty)
+- Costume closet with the mirror in frame
+- Coworker-looking group on the boat in jackets, heaters visible
+- Boats leaving the dock with the marina in frame (ties boat and venue together)
+- Drone wide of the whole property: lot, gas station, palapas, dock, water. Check airspace (near Lakefront and NAS JRB) before flying
+- Bathroom on board and the heaters as clean stills (the two questions planners ask most)
+- Shoot horizontals too: LinkedIn and email need 1200x627 landscape; most of what we have is vertical
+- Guest photo OK: a sign at the door saying photos will be used in our marketing, plus a no-photo wristband for anyone who opts out
+
 ## What we take away (the replicable part)
 
 Within 3 days after, fill in `Operations/Corporate Event Playbook.md` (not created yet):

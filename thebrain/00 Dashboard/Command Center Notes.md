@@ -10,6 +10,9 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Laptop disk: OK moving idle AI models, Downloads videos and old migration folders (~100 GB) to the 12TB drive on the DCKT Mac, plus a nightly job that keeps big iCloud files cloud-only | TheBrain | default: laptop refills toward full again
+- Share the holiday party photo board with Jeff and tap Use/Maybe/No (https://claude.ai/artifact/9rDfxRtajhmYNwqp8AuqiQ) | NOLA Party Barge | default: email and pages use the Hero tier as ranked
+- Approve the 2 LinkedIn holiday-party posts (NOLA Party Barge/Marketing/LinkedIn Corporate Outreach/Company Page Posts - Holiday Parties (Nov 2026).md) | NOLA Party Barge | default: not posted
 - Decide on police report + marina heads-up for the stolen yellow pedal bike (Blink stills in Ebb and Ember/Operations/Incidents/2026-11-05 Pedal Bike Theft) | Ebb & Ember | default: no report filed, bike written off
 - Say "ship the attach patch" to Claude at the desk so the Slack @Claude bot can post the bike-theft clips to Jonah itself (patch: Ebb and Ember/Operations/Incidents/2026-11-05 Pedal Bike Theft/apply_bridge_attach_patch.py) | Ebb & Ember | default: Jonah only has the 3:09-3:43am clips
 - 2026-11-01 | Link the Hidden Adventure Instagram to its Facebook page (needs the IG password) | Hidden Adventure | default: IG leg stays blocked

@@ -1,5 +1,10 @@
 # NOLA Party Barge — Todo List
 
+## Corporate holiday push (added 2026-11-06)
+- [ ] Share the photo board with Jeff and both tap Use/Maybe/No ([[Corporate Holiday Photo Board (Nov 2026)]]) — **Owner: David**
+- [ ] Approve the two LinkedIn company-page posts ([[Company Page Posts - Holiday Parties (Nov 2026)]]); post only after the quote page is on its real URL — **Owner: David**
+- [ ] Shoot the missing shots at the Nov 19 crew party ([[Nov 19 Team Party - Corporate Test Run (Plan)]]) — **Owner: camera person TBD**
+
 ## This Week (by April 25)
 
 ### 🔴 High Priority
