@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Approve the NPB thin-departure watch design (6-guest threshold, one 10am post, guide clash check) | NPB | default: nothing gets built, Jeff keeps checking by hand
 - Laptop disk: OK moving idle AI models, Downloads videos and old migration folders (~100 GB) to the 12TB drive on the DCKT Mac, plus a nightly job that keeps big iCloud files cloud-only | TheBrain | default: laptop refills toward full again
 - Share the holiday party photo board with Jeff and tap Use/Maybe/No (https://claude.ai/artifact/9rDfxRtajhmYNwqp8AuqiQ) | NOLA Party Barge | default: email and pages use the Hero tier as ranked
 - Approve the 2 LinkedIn holiday-party posts (NOLA Party Barge/Marketing/LinkedIn Corporate Outreach/Company Page Posts - Holiday Parties (Nov 2026).md) | NOLA Party Barge | default: not posted

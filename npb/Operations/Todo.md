@@ -141,3 +141,6 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 - [ ] [Captain log] Replenish ice supply on the barge. _(Calvin (audio log), 2026-07-17)_
 
 - [ ] [Captain log] Investigate and secure the item that was noted as 'just loose'. _(Kelly (audio log), 2026-07-24)_
+
+- [ ] 2026-11-06 Approve thin-departure watch design (threshold 6, 10am CT post, guide clash check, Sunday 1/3/5 only): [[Thin Departure Watch — Party Boats (Design 2026-11-06)]]
+- [ ] 2026-11-06 Jeff: deckhand pay + fuel per run, and how crew gets assigned (bulk updater or a FareHarbor auto setting): [[Thin Departure Watch — Party Boats (Design 2026-11-06)]]
