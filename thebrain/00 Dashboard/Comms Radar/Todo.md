@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-06 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-06 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -32,7 +32,9 @@ _nothing_
   > David: it's my Piety address.
   > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
 - [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #id:T0095
-  → David sign the DocuSign from Max McCuddy, pay once the carrier confirms the land verbiage and higher sublimits, and send Max a safety plan covering proper use of the facilities and rules. (David; Gmail dwrack81@, Gmail davey@; touched 2026-11-06)
+  → David sign the corrected DocuSign Max resent to the right address, pay once the carrier confirms, and send Max the safety plan covering proper use of the facilities and rules. (David; Gmail davey@; touched 2026-11-06)
+- [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #NKST #id:T0102
+  → David top up the Gemini API prepay credits in AI Studio billing; until then written trip logs (like Emily Clarke's Nov 6 log) may need manual processing. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 
 ## Waiting on someone
 
@@ -204,6 +206,8 @@ _nothing_
   → David send the discount code in the gift card emails after the first few sends; Michael asked whether to include WINTERSWAMP in them. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Spam complaints on 'Gift them the quiet' email sent via SES #NKST #id:T0099
   → David check that the Gift them the quiet send has a working hosted unsubscribe link and that complainers are suppressed. (David; Gmail nolakayaktours@; touched 2026-11-06)
+- [ ] Elevated Tides boat grabbed by someone, see founders channel #id:T0101
+  → David and Jonah sort out the lost boat in the founders channel; details are not in the texts. (David; Text with Jonah Moses; touched 2026-11-06)
 
 ## Backburner (LSKT)
 
