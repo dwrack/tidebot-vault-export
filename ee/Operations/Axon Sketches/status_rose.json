@@ -1,7 +1,7 @@
 {
- "rev": "05",
- "date": "Sat Oct 31 2026",
- "next": "Sat Nov 7",
+ "rev": "06",
+ "date": "Sat Nov 7 2026",
+ "next": "Sat Nov 14",
  "model": "Schematic massing, not to scale",
  "alt": "Hand-sketched isometric of The Rose v0.52: red amphitheater petals around a crown lounge, the tall jump petal, the fallen-petal slide, the stem walkway with compound leaves, people on the decks, on the river.",
  "caption": "Four layers pulled apart vertically: float and seating, petal walls, terrace roofs, flue. Dashed verticals mark where the layers join, in the clefts between petals. Pink dots are terrace guests, 8 to 10 per petal.",
@@ -74,7 +74,8 @@
   }
  ],
  "notes": [
-  "Rev 05: drawn over the live 3D model, latest version tab v0.52. No change this week: the model file is unchanged since Oct 1 and no new Rose notes or decisions were filed after Oct 19.",
+  "Rev 06: drawn over the live 3D model, latest version tab v0.52. No change this week: the model file is unchanged since Oct 1 and no Rose decisions were filed after Oct 19.",
+  "Only new Rose file: a v0.50 build sequence render folder (Nov 6). It is a render, not a model change.",
   "Holman is still off the record. This page stays private."
  ],
  "foot": "Source: Operations/The Rose/The Rose - 3D Model.html, latest version tab · redrawn every Saturday morning"

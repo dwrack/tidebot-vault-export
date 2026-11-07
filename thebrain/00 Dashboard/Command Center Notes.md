@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Rose axon sketch artifact (8YUMA8U9...) was deleted, so the weekly Rose refresh did not publish. Rev 06 built at Ebb and Ember/Operations/Axon Sketches/axon_rose.html. Say yes to publish a new private link | E&E | default: Rose stays unpublished (off the record)
 - 2026-11-08 due | Send the Midwest Living 2027 pitch (draft at bottom of the 11/07 brief; due 10pm CT) | DCKT | default: deadline passes, no feature
 - Say go: pause 3 Buffalo Bayou Meta campaigns (Bat Bridge, Awareness IC, Retargeting WV; $249/7d, 0 purchases) | Buffalo Bayou Kayak | default: keeps spending about $35/day
 - Say go: retarget 4 HPB Meta ad sets from Dublin CA to Seabrook/Clear Lake and unpause one ad per set at $20/day | Houston Pedal Barge | default: Meta purchase campaigns stay at $0

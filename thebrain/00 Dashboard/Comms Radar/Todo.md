@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-07 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-07 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -34,7 +34,7 @@ _nothing_
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
 - [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
-  → David check whether the $647.20 past due amount is covered; the new $1,160.35 bill shows Autopay on and drafts Dec 8, so it will not clear anything overdue before then. (David; Gmail doorcountyzip@; touched 2026-11-07)
+  → David check whether the $647.20 past due amount is covered; the Autopay notice forwarded by Gravity Trails says it is scheduled for 12/08/2026, so it will not clear anything overdue before then. (David; Gmail nolapedalbarge@; touched 2026-11-07)
   > David: it's my Piety address.
   > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
 
@@ -219,6 +219,8 @@ _nothing_
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-07)
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
+- [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
+  → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
 
 ## Backburner (LSKT)
 
