@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Future: BIMI logo in the inbox for doorcountykayaktours.com (needs DMARC moved from p=none to enforcement, then a logo certificate; trademark SN 99890274 publishes 2026-11-10). Parked until you say go | DCKT | default: stays parked, no action
 - 2026-11-07 | Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | Ebb & Ember | default: stays open until Alex posts the after photo
 - [ ] Save +1 971-399-7373 as a contact ('E&E Night Watch') and allow it through Focus/Do Not Disturb + Repeated Calls, or the wake-up call will not ring | Ebb and Ember | default: call may be silenced overnight
 - Add Oregonian Best Spa award line to davey@ Gmail signature (paste it in Gmail Settings > Signature, or sign davey@ into Chrome so Claude can) | Ebb & Ember | default: signature stays empty
