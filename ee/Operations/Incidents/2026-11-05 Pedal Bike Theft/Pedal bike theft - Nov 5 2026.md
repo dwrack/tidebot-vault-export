@@ -29,3 +29,13 @@ Status: evidence pulled from Blink (Lounge + Ebb boat cams) on Nov 6. Not yet re
 1. Pull the Marina 34J6 3:42:51am clip and the 2:58am Lounge clip.
 2. Check the swim zone and both docks for the fishing rods and the camo pouch.
 3. Decide on a police report (Portland non-emergency) with these stills and a marina heads-up.
+
+## Extended window review (added Nov 6 4:50pm, for Jonah: 1 hour before and after)
+Every Ebb network clip from midnight to 7am Nov 5 checked (Lounge, Ebb boat, Floodlight 23BJ, Stove).
+- 1:04 to 1:07am: different person. Olive/dark green jacket, tan pants, curly dark hair, no hood. Walks onto the deck, stands at the Ebb boat door with a phone/light for ~1 min, leaves up the dock. Also on Floodlight 23BJ 1:04 + 1:06. Not obviously linked. Stills: 00a.
+- 2:08am: black hoodie with hood up, dark object in hand, tan/camo bag. Walks in from the gangway, crosses the deck toward the Ebb boat door. Matches Person A. First sighting, ~90 min before the theft. Stills: 00b.
+- 2:58am: hooded person with a flashlight right under the Lounge cam. Likely Person A again. Stills: 00c.
+- 3:09 to 3:43am: as above.
+- 3:43am to 7am: zero person detections on any Ebb cam. Nobody returned.
+- Marina floodlight 34J6 3:42:51am "vehicle" clip is a gravel lot at a different property, not this marina. Ruled out.
+Full clips on mbp-2 /tmp/bike_pre/ (move before reboot).

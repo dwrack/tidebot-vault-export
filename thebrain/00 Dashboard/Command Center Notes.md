@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Decide on police report + marina heads-up for the stolen yellow pedal bike (Blink stills in Ebb and Ember/Operations/Incidents/2026-11-05 Pedal Bike Theft) | Ebb & Ember | default: no report filed, bike written off
 - 2026-11-01 | Link the Hidden Adventure Instagram to its Facebook page (needs the IG password) | Hidden Adventure | default: IG leg stays blocked
 - 2026-11-01 | Yes or no on the 7 Admire Batch 2 clips | Admire NOLA | default: hold them
 - 2026-11-02 | Send Michael the four Bike Bar sale questions | NOLA Bike Bar | default: send as drafted

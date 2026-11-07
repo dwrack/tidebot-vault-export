@@ -97,3 +97,5 @@
 
 ---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*
+
+- [ ] Decide police report + marina heads-up on the pedal bike theft, see [[Pedal bike theft - Nov 5 2026]]
