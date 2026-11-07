@@ -38,4 +38,4 @@ Every Ebb network clip from midnight to 7am Nov 5 checked (Lounge, Ebb boat, Flo
 - 3:09 to 3:43am: as above.
 - 3:43am to 7am: zero person detections on any Ebb cam. Nobody returned.
 - Marina floodlight 34J6 3:42:51am "vehicle" clip is a gravel lot at a different property, not this marina. Ruled out.
-Full clips on mbp-2 /tmp/bike_pre/ (move before reboot).
+Full clips copied to the vault Nov 6 5:05pm: before-theft clips/ (00a1 to 00c). Davey to drop them in the Drive folder for Jonah.

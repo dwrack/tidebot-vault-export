@@ -99,3 +99,4 @@
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*
 
 - [ ] Decide police report + marina heads-up on the pedal bike theft, see [[Pedal bike theft - Nov 5 2026]]
+- [ ] Approve the Slack bot attach patch (apply_bridge_attach_patch.py) so Claude posts the pre-theft clips to Jonah itself, see [[Pedal bike theft - Nov 5 2026]]
