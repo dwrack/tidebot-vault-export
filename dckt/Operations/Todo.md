@@ -181,3 +181,6 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 
 ---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*
+
+## Future / Someday
+- [ ] BIMI for doorcountykayaktours.com (brand logo in the inbox). Needs DMARC at enforcement (checked 2026-11-07: currently `p=none` with rua to info@, so first review reports, then move to quarantine/reject) plus a logo certificate (VMC needs a registered trademark, and the DCKT filing SN 99890274 publishes 2026-11-10, so that may unlock it; CMC needs ~12 months of public logo use). Added 2026-11-07, David: "do this when we can"

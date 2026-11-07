@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-07 | Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | Ebb & Ember | default: stays open until Alex posts the after photo
 - [ ] Save +1 971-399-7373 as a contact ('E&E Night Watch') and allow it through Focus/Do Not Disturb + Repeated Calls, or the wake-up call will not ring | Ebb and Ember | default: call may be silenced overnight
 - Add Oregonian Best Spa award line to davey@ Gmail signature (paste it in Gmail Settings > Signature, or sign davey@ into Chrome so Claude can) | Ebb & Ember | default: signature stays empty
 - Bike-thief FB posts submitted 2026-11-07 to Bridgeton PDX, PDX Stolen Bikes, Portland Metro Stolen/Lost/Found, Hayden Island, Hayden Island Chit Chat, Neighbors Helping Neighbors (check they went live after video processing). Still open: answer Buy Nothing Woodlawn join question (173 NE Bridgeton Rd, cross street NE 1st Ave), Lost and Stolen Bikes PDX join pending, file police report with same images | Ebb & Ember | default: posts stay as they are, no police report

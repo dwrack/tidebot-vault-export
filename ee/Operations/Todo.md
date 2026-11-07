@@ -104,3 +104,4 @@
 - [ ] Post bike-thief graphic and clip in local Portland FB groups; police report with same images. See [[Pedal bike theft - Nov 5 2026]] (FB post folder)
 
 - [ ] Add Oregonian Best Spa award line to davey@ Gmail signature (draft approved 2026-11-07; Claude could not sign in, needs David to paste or sign in)
+- [ ] Alex: secure down the sauna bench board, posted in #maintenance 2026-11-07, waiting on after photo
