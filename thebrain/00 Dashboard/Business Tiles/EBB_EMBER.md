@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "19 unanswered comments on the 10/26 reel, incl. a sign-up question"
-updated: 2026-11-06
+alert: "29 unanswered comments across the 10/26 reel and 11/6 carousel, incl. buying questions"
+updated: 2026-11-07
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 22 days ago.** Still no GSC, GA4, or Meta ad account.
-- IG is the live channel: 11/5 carousel (two private saunas this winter) 112 likes / 5 comments; 10/26 reel 52 comments, 19 top-level unanswered incl. @noa2noa "How do we sign up?" and water-quality complaints (confirmed 11/06). Kimberlyn's lane.
-- GBP: 1 unreplied 5-star (Diana Morelen 11/03). PR: Famadillo mom's-getaway feature wants hosted experiences, due 11/19, needs a comped visit.
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 23 days ago.** Still no GSC, GA4, or Meta ad account.
+- IG is the live channel: 11/6 carousel (two private saunas) 184 likes / 10 comments, none answered, incl. "How much do you project that it will be to use them?". 10/26 reel: 19 top-level comments with no account reply, incl. @noa2noa "How do we sign up?". Kimberlyn's lane.
+- GBP: 2 unreplied 5-stars (Andrii Partyka 11/07, Diana Morelen 11/03). PR: Famadillo wants hosted experiences, due 11/19.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 7
-revenue_today: 1632
+bookings_today: 6
+revenue_today: 1180
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 54
 status: green
 alert: null
-updated: 2026-11-06
+updated: 2026-11-07
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $8,058/wk booked vs $4,000 target, 201% of goal.** Thu 11/5: 7 booked / $1,632. Trailing 7 days 39 bookings, up from $6,786 Wednesday.
-- GSC clicks 150 to 98 week over week (-24%/day, seasonal); GA4 182 sessions yesterday, +15% vs the 7-day avg (ig 46, direct 36, google 30). Brand term still pos 19.8. Watched airboat page: 70 impr, 0 clicks, title/meta rewrite still open.
-- Meta "Retargeting | Google Reviews - Copy" ACTIVE $20/day, ad set paused, $0: archive or unpause. GBP: 4 unreplied 5-stars (W S, Fonda 11/03; Renshaw, Valstad 11/02).
+- **Goal pace: $8,678/wk booked vs $4,000 target, 217% of goal.** Fri 11/6: 6 booked / $1,180. Trailing 7 days 42 bookings.
+- GA4 11/6: 309 sessions, 91 conversions vs about 10/day prior; 67 from a newsletter source (gift_2026 send?), conversion count looks inflated, unverified. GSC 17.5 clicks/day vs 20.4 (-14%). Watched airboat page: 69 impr, 0 clicks, 0 GA4 views (baseline 0 impr / 3 views).
+- Google generic search (National + Local) $54.12 / 0 conv in 7d (Michael's lane). Meta "Retargeting | Google Reviews - Copy" ACTIVE, ad set paused, $0. GBP: 6 unreplied 5-stars (Nelson, Christ 11/06; W S, Fonda 11/03; Renshaw, Valstad 11/02).
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 12
-revenue_today: 2593
+bookings_today: 19
+revenue_today: 2142
 lead_time_days: 0
-ad_spend_yday: 316
+ad_spend_yday: 345
 status: green
 alert: null
-updated: 2026-11-06
+updated: 2026-11-07
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $18,753/wk booked vs $30,000 target, 63% of goal.** Thu 11/5: 12 booked / $2,593. Trailing 7 days 67 bookings, flat vs Wednesday's $18,399.
-- Ads: Meta act_87863118 $207.85 + Google GT umbrella $107.77 yesterday. Gator Collision 7d $1,142.61 / 13 purchases / ROAS 1.46 (yesterday 0.36); budget is two $80/day ad sets plus three $100 tests through 11/11. Recommend $50 each until 11/12. "New Sales Campaign" $40/day, $0.30 in 7d: archive. Google NPB search ROAS 4.94 national, 5.24 local; "Holiday Party & Groups" $20/day, 0 impressions, route to Michael.
-- GBP: 7 unreplied 5-stars (Jessup 11/05, Long 11/04, Paris, Butler-Cole 11/03; Smith, Menefee, Greene 10/31). Guibal (Plaid, Nov 18) answered 11/3 but reply says 15 guests vs 17 requested.
+- **Goal pace: $18,508/wk booked vs $30,000 target, 62% of goal.** Fri 11/6: 19 booked / $2,142. Trailing 7 days (10/31 to 11/6) 77 bookings.
+- Ads: Gator Collision ad set 7d ROAS 0.54 / CPA $146.58 at $80/day (Weather Kill 1.89); campaign 7d $1,172.98 / 11 purch / 1.57. Recommend $50 on Gator Collision until the 11/11 tests finish. "New Sales Campaign" $0.24 in 7d: archive. Google NPB $576.23 / 11.4 conv / ROAS 4.82 (7d).
+- GBP: 8 unreplied 5-stars (Fritze 11/06, Jessup 11/05, Long 11/04, Paris and Butler-Cole 11/03, Smith, Menefee, Greene 10/31).
 <!-- live:end -->
 
 <!-- maps:start -->

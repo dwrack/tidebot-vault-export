@@ -3,12 +3,12 @@ business: DCKT
 display_name: Door County Kayak Tours
 city: Door County
 bookings_today: 1
-revenue_today: 127
+revenue_today: 148
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-06
+updated: 2026-11-07
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $127/wk booked vs $7,000 target, 2% of goal (season closed).** Thu 11/5: 1 booked / $127, first booking in the 7-day window.
-- PR: Midwest Living 2027 destination pitch due Sun 11/8 10pm CT, full draft in today's brief. Google Ads $0, campaigns ended (confirmed). GSC 127 to 74 clicks week over week, off season; #1 for "door county kayak tours", #2.4 "best hikes in door county".
+- **Goal pace: $275/wk booked vs $7,000 target, 4% of goal (season closed).** Fri 11/6: 1 booked / $148.
+- PR: Midwest Living 2027 pitch due Sun 11/8 10pm CT, draft at the bottom of today's brief. Google Ads: 2 campaigns ENABLED with 0 impressions and $0 in 7d (confirmed), check billing/policy before spring (Michael's lane). GSC 12.5 clicks/day vs 17.1 (-27%), off season.
 - USPTO Notice of Publication (serial 99890274) opposition window still to check. GBP 0 unreplied.
 <!-- live:end -->
 

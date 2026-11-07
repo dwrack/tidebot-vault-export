@@ -10,6 +10,12 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-08 due | Send the Midwest Living 2027 pitch (draft at bottom of the 11/07 brief; due 10pm CT) | DCKT | default: deadline passes, no feature
+- Say go: pause 3 Buffalo Bayou Meta campaigns (Bat Bridge, Awareness IC, Retargeting WV; $249/7d, 0 purchases) | Buffalo Bayou Kayak | default: keeps spending about $35/day
+- Say go: retarget 4 HPB Meta ad sets from Dublin CA to Seabrook/Clear Lake and unpause one ad per set at $20/day | Houston Pedal Barge | default: Meta purchase campaigns stay at $0
+- Decide: cut NPB Gator Collision ad set from $80/day to $50 (7d ROAS 0.54) and archive "New Sales Campaign" | NOLA Party Barge | default: keeps running at $80/day
+- Send Kimberlyn the 29 unanswered E&E comments (10/26 reel + 11/6 carousel, incl. "How do we sign up?") or say "draft them" | Ebb & Ember | default: comments stay unanswered
+- Say "draft them" for replies to 20 unreplied 4-5 star Google reviews (NPB 8, NKST 6, BBK 3, AKT 1, E&E 2) | Multiple | default: reviews stay unreplied
 - Future: BIMI logo in the inbox for doorcountykayaktours.com (needs DMARC moved from p=none to enforcement, then a logo certificate; trademark SN 99890274 publishes 2026-11-10). Parked until you say go | DCKT | default: stays parked, no action
 - 2026-11-07 | Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | Ebb & Ember | default: stays open until Alex posts the after photo
 - [ ] Save +1 971-399-7373 as a contact ('E&E Night Watch') and allow it through Focus/Do Not Disturb + Repeated Calls, or the wake-up call will not ring | Ebb and Ember | default: call may be silenced overnight
