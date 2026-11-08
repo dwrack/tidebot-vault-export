@@ -37,26 +37,26 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $57,350 |
+| Chase Bank PERFBUS CHK (3085) | $60,501 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $88,701 |
-| Spending | $67,663 |
-| Card payments + transfers out | $28,407 |
-| Net, month to date | -$7,582 |
-| Net, same days last month | -$14,134 |
+| Money in | $91,053 |
+| Spending | $67,961 |
+| Card payments + transfers out | $25,854 |
+| Net, month to date | -$3,288 |
+| Net, same days last month | -$10,806 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $31,116; CHECK # $18,640; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; joinhomebase.com $51
+**Top spending, 30 days:** PAYPAL $31,336; CHECK # $18,640; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; NORTHWESTERN MU $78
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it

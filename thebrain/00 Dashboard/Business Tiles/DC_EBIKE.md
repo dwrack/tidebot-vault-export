@@ -37,7 +37,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 07. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -45,11 +45,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $1,390 |
+| Money in | $1,266 |
 | Spending | $496 |
 | Card payments + transfers out | $28,248 |
 | Net, month to date | $0 |
-| Net, same days last month | -$1,786 |
+| Net, same days last month | $1,343 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
