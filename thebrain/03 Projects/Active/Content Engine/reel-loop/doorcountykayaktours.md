@@ -58,3 +58,30 @@ Too few reels to see a pattern.
 Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
 
 <!-- reel-loop-state {"date": "2026-11-01", "found": 5, "ideas": [], "mature": 4, "median": {"avg_watch": 5.7185, "plays": 456.0, "skip": 46.9, "spr": 0.0}, "works": [], "worst_themes": []} -->
+
+## Run 2026-11-08 (last 14 days: 4 reels, 4 with mature data)
+
+Ranked by outlier multiple (plays / this account's median plays), then sends per reach. Skip 3s is the share of views that swiped away within the first 3 seconds (lower is better).
+
+| Date | Hook | Theme | Plays | Reach | Outlier x | Skip 3s | Avg watch s | Sends/reach | Saves/reach |
+|---|---|---|---|---|---|---|---|---|---|
+| [2026-11-01](https://www.instagram.com/reel/DfNAPO-Clu1/) | From the whole Door County peninsula down to the Cave Poi... | - | 782 | 692 | 1.3x | 61.9% | 4.4 | 0.00% | 0.00% |
+| [2026-10-31](https://www.instagram.com/reel/DfKUnOxFdc6/) | 4 miles. 4 roads. 1 view. Our e-bike route from Jacksonpo... | - | 695 | 623 | 1.1x | 64.7% | 4.5 | 0.00% | 0.00% |
+| [2026-10-29](https://www.instagram.com/reel/DfFK_knjePG/) | Never been on an e-bike? Most people who rent from us hav... | - | 520 | 429 | 0.9x | 41.2% | 7.0 | 0.00% | 0.00% |
+| [2026-10-28](https://www.instagram.com/reel/DfCmMTVAjRD/) | Our e-bike route from above: the Lake Michigan shoreline... | - | 318 | 283 | 0.5x | 56.8% | 4.8 | 0.00% | 0.00% |
+
+Account medians (4 mature reels): plays 608, reach 526, 3s skip 59.3%, avg watch 4.7s, sends/reach 0.00%, saves/reach 0.00%. Length band is unknown for every reel (duration is not in the Graph API), so outlier x compares against one account-wide median.
+
+### Diagnosis
+
+Too few reels to see a pattern (4 mature reels in the window, need 6).
+
+### What works here
+
+Too few reels to see a pattern.
+
+### Next batch to test
+
+Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
+
+<!-- reel-loop-state {"date": "2026-11-08", "found": 4, "ideas": [], "mature": 4, "median": {"avg_watch": 4.662, "plays": 607.5, "skip": 59.349999999999994, "spr": 0.0}, "works": [], "worst_themes": []} -->

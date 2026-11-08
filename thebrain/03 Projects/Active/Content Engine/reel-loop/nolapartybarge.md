@@ -89,3 +89,52 @@ Directional only: 6 mature reels in the window. Patterns firm up around 20 reels
 4. **Caption** vs parent 2026-10-26 De-DATdi-xm: same video, caption line one carries a single plain ask (book, DM, or one comment keyword). Only the caption changes.
 
 <!-- reel-loop-state {"date": "2026-11-01", "found": 10, "ideas": [{"parent": "2026-10-28 DfDBqiAE0xU", "variable": "subject"}, {"parent": "2026-10-21 Dexnr28xoqP", "variable": "hook"}, {"parent": "2026-10-27 DfAc3D8jYcQ", "variable": "hook"}, {"parent": "2026-10-26 De-DATdi-xm", "variable": "caption"}], "mature": 6, "median": {"avg_watch": 5.788, "plays": 1941.5, "skip": 53.3, "spr": 0.0022367938462148473}, "works": [{"asof": "2026-11-01", "label": "Best reel", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" ran 2.7x the median plays (3s skip 31.7%, avg watch 8.0s, sends 0.05% of reach)"}, {"asof": "2026-11-01", "label": "Lowest 3s skip", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" held best: skip 31.7% vs account median 53.3%, avg watch 8.0s"}, {"asof": "2026-11-01", "label": "Most sent", "text": "2026-10-26 \"BBL? yep.. Bayou Boat Life. \ud83c\udf51\ud83c\udf34\ud83c\udf79\" drew the most sends: 0.82% of reach vs account median 0.22%"}, {"asof": "2026-11-01", "label": "Hooks that carry a tag/send ask", "text": "2.1x the median plays vs 0.4x without (2 vs 4 reels)"}], "worst_themes": []} -->
+
+## Run 2026-11-08 (last 14 days: 12 reels, 11 with mature data)
+
+Ranked by outlier multiple (plays / this account's median plays), then sends per reach. Skip 3s is the share of views that swiped away within the first 3 seconds (lower is better). Rows marked * are under 48h old: shown, but left out of the medians and the ranking.
+
+| Date | Hook | Theme | Plays | Reach | Outlier x | Skip 3s | Avg watch s | Sends/reach | Saves/reach |
+|---|---|---|---|---|---|---|---|---|---|
+| [2026-10-28](https://www.instagram.com/reel/DfDBqiAE0xU/) | Rules are rules. Tag the friend who's always late. | - | 5,449 | 3,975 | 5.9x | 32.3% | 7.9 | 0.05% | 0.15% |
+| [2026-11-01](https://www.instagram.com/reel/DfNbs6sDeL8/) | 25 years married and she still fires first. Tag your person. | - | 4,710 | 3,624 | 5.1x | 37.9% | 7.4 | 0.06% | 0.03% |
+| [2026-10-29](https://www.instagram.com/reel/DfFmcxgjAq6/) | The Great Wall of Louisiana. Almost two miles of concrete... | - | 3,530 | 2,376 | 3.8x | 49.1% | 6.9 | 0.29% | 0.17% |
+| [2026-10-26](https://www.instagram.com/reel/De-DATdi-xm/) | BBL? yep.. Bayou Boat Life. 🍑🌴🍹 | - | 3,323 | 2,115 | 3.6x | 48.0% | 5.8 | 0.76% | 0.05% |
+| [2026-10-31](https://www.instagram.com/reel/DfK5EqECAi3/) | Every day can be Halloween at Nola Party Barge. | - | 1,144 | 794 | 1.2x | 63.4% | 3.8 | 0.00% | 0.00% |
+| [2026-11-02](https://www.instagram.com/reel/DfQAf52kToi/) | That second-line sound at the dock. Only here. Send it to... | - | 931 | 734 | 1.0x | 55.3% | 5.6 | 0.00% | 0.00% |
+| [2026-10-30](https://www.instagram.com/reel/DfILWYcE0E2/) | He's seen things. Tag the designated adult in your group. | - | 870 | 524 | 0.9x | 49.6% | 8.7 | 0.00% | 0.00% |
+| [2026-10-31](https://www.instagram.com/reel/DfKwDJEoAPH/) | Uncut footage of a shark in Bayou Bienvenue. Send this to... | - | 829 | 678 | 0.9x | 68.1% | 3.6 | 2.06% | 0.00% |
+| [2026-10-27](https://www.instagram.com/reel/DfAc3D8jYcQ/) | Halloween's on a Saturday this year. The bayou goes pirat... | - | 734 | 585 | 0.8x | 61.3% | 4.7 | 0.17% | 0.00% |
+| [2026-11-05](https://www.instagram.com/reel/DfX-VJrCaqM/) | Nothing beats this warm autumn weather! | - | 675 | 522 | 0.7x | 64.4% | 5.7 | 0.77% | 0.77% |
+| [2026-10-30](https://www.instagram.com/reel/DfILq3qRjBo/) | We've gone yo ho and a bottle of rum for the weekend! Com... | - | 502 | 373 | 0.5x | 71.4% | 5.8 | 0.00% | 0.54% |
+| [2026-11-06*](https://www.instagram.com/reel/DfaiSxWCme7/) | Our world famous ball of mystery must mutate. Let us know... | - | 522 | 385 | - | 71.8% | 4.4 | 0.00% | 0.00% |
+
+Account medians (11 mature reels): plays 931, reach 734, 3s skip 55.3%, avg watch 5.8s, sends/reach 0.06%, saves/reach 0.03%. Length band is unknown for every reel (duration is not in the Graph API), so outlier x compares against one account-wide median.
+
+### Diagnosis
+
+- Worst avg watch #1: 2026-10-31 "Uncut footage of a shark in Bayou Bienvenue. Se...": 3s skip 68.1% vs account median 55.3%, avg watch 3.6s vs 5.8s; nothing lands, so change the angle entirely.
+- Worst avg watch #2: 2026-10-31 "Every day can be Halloween at Nola Party Barge.": 3s skip 63.4% vs account median 55.3%, avg watch 3.8s vs 5.8s; nothing lands, so change the angle entirely.
+- Worst avg watch #3: 2026-10-27 "Halloween's on a Saturday this year. The bayou...": 3s skip 61.3% vs account median 55.3%, avg watch 4.7s vs 5.8s; nothing lands, so change the angle entirely.
+- Best by outlier: 2026-10-28 "Rules are rules. Tag the friend who's always late.": 5.9x the account median plays, 3s skip 32.3% vs account median 55.3%, avg watch 7.9s vs 5.8s, sends 0.05% of reach; hook and body both work, so repeat the structure with a new topic.
+
+### What works here
+
+- **Best reel** (as of 2026-11-08): 2026-10-28 "Rules are rules. Tag the friend who's alwa..." ran 5.9x the median plays (3s skip 32.3%, avg watch 7.9s, sends 0.05% of reach)
+- **Lowest 3s skip** (as of 2026-11-08): 2026-10-28 "Rules are rules. Tag the friend who's alwa..." held best: skip 32.3% vs account median 55.3%, avg watch 7.9s
+- **Most sent** (as of 2026-11-08): 2026-10-31 "Uncut footage of a shark in Bayou Bienvenu..." drew the most sends: 2.06% of reach vs account median 0.06%
+- **Hooks that carry a tag/send ask** (as of 2026-11-08): 2.4x the median plays vs 0.8x without (6 vs 5 reels)
+- **Question hooks** (as of 2026-11-08): 2.2x the median plays vs 1.0x without (2 vs 9 reels)
+- **Hooks with a number** (as of 2026-11-08): 2.9x the median plays vs 1.0x without (2 vs 9 reels)
+- **Short hooks (40 characters or fewer)** (as of 2026-11-08): 2.1x the median plays vs 1.0x without (2 vs 9 reels)
+
+Directional only: 11 mature reels in the window. Patterns firm up around 20 reels.
+
+### Next batch to test
+
+1. **Subject** vs parent 2026-10-28 DfDBqiAE0xU: keep the structure (hook is a 50-character statement with a tag/send ask, same pacing and caption shape; it held 3s skip 32.3%, avg watch 7.9s) and swap in a new subject: a subject you have not posted in this window. Only the subject changes.
+2. **Hook** vs parent 2026-10-31 DfKwDJEoAPH: same footage, a new angle in the first frame and first line built on the best reel's hook shape (50-character statement with a tag/send ask); if this fails too, retire the angle. Only the hook changes.
+3. **Hook** vs parent 2026-10-31 DfK5EqECAi3: same footage, a new angle in the first frame and first line built on the best reel's hook shape (50-character statement with a tag/send ask); if this fails too, retire the angle. Only the hook changes.
+4. **Hook** vs parent 2026-10-27 DfAc3D8jYcQ: same footage, a new angle in the first frame and first line built on the best reel's hook shape (50-character statement with a tag/send ask); if this fails too, retire the angle. Only the hook changes.
+
+<!-- reel-loop-state {"date": "2026-11-08", "found": 12, "ideas": [{"parent": "2026-10-28 DfDBqiAE0xU", "variable": "subject"}, {"parent": "2026-10-31 DfKwDJEoAPH", "variable": "hook"}, {"parent": "2026-10-31 DfK5EqECAi3", "variable": "hook"}, {"parent": "2026-10-27 DfAc3D8jYcQ", "variable": "hook"}], "mature": 11, "median": {"avg_watch": 5.789, "plays": 931, "skip": 55.3, "spr": 0.0005518763796909492}, "works": [{"asof": "2026-11-08", "label": "Best reel", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" ran 5.9x the median plays (3s skip 32.3%, avg watch 7.9s, sends 0.05% of reach)"}, {"asof": "2026-11-08", "label": "Lowest 3s skip", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" held best: skip 32.3% vs account median 55.3%, avg watch 7.9s"}, {"asof": "2026-11-08", "label": "Most sent", "text": "2026-10-31 \"Uncut footage of a shark in Bayou Bienvenu...\" drew the most sends: 2.06% of reach vs account median 0.06%"}, {"asof": "2026-11-08", "label": "Hooks that carry a tag/send ask", "text": "2.4x the median plays vs 0.8x without (6 vs 5 reels)"}, {"asof": "2026-11-08", "label": "Question hooks", "text": "2.2x the median plays vs 1.0x without (2 vs 9 reels)"}, {"asof": "2026-11-08", "label": "Hooks with a number", "text": "2.9x the median plays vs 1.0x without (2 vs 9 reels)"}, {"asof": "2026-11-08", "label": "Short hooks (40 characters or fewer)", "text": "2.1x the median plays vs 1.0x without (2 vs 9 reels)"}], "worst_themes": []} -->

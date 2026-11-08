@@ -87,3 +87,37 @@ Directional only: 8 mature reels in the window. Patterns firm up around 20 reels
 4. **Hook** vs parent 2026-10-24 De5L8yJTyG7: same footage, a new angle in the first frame and first line built on the best reel's hook shape (31-character statement); if this fails too, retire the angle. Only the hook changes.
 
 <!-- reel-loop-state {"date": "2026-11-01", "found": 9, "ideas": [{"parent": "2026-10-23 De2cCLgpmfN", "variable": "subject"}, {"parent": "2026-10-22 Dez73AyJ7Ou", "variable": "hook"}, {"parent": "2026-10-28 DfDPaBuC23b", "variable": "length"}, {"parent": "2026-10-24 De5L8yJTyG7", "variable": "hook"}], "mature": 8, "median": {"avg_watch": 4.3425, "plays": 225.0, "skip": 66.7, "spr": 0.001326259946949602}, "works": [{"asof": "2026-11-01", "label": "Best reel", "text": "2026-10-23 \"BYOB and come get LIT Houston!! #bacherlor...\" ran 9.7x the median plays (3s skip 38.5%, avg watch 9.5s, sends 2.37% of reach)"}, {"asof": "2026-11-01", "label": "Lowest 3s skip", "text": "2026-10-23 \"BYOB and come get LIT Houston, round 2 \ud83c\udf7e\ud83d\udc70\u200d...\" held best: skip 35.2% vs account median 66.7%, avg watch 6.7s"}, {"asof": "2026-11-01", "label": "Most sent", "text": "2026-10-27 \"It's still warm, Houston! We can't wait to...\" drew the most sends: 3.83% of reach vs account median 0.13%"}, {"asof": "2026-11-01", "label": "Short hooks (40 characters or fewer)", "text": "5.4x the median plays vs 0.9x without (2 vs 6 reels)"}], "worst_themes": []} -->
+
+## Run 2026-11-08 (last 14 days: 5 reels, 4 with mature data)
+
+Ranked by outlier multiple (plays / this account's median plays), then sends per reach. Skip 3s is the share of views that swiped away within the first 3 seconds (lower is better). Rows marked * are under 48h old: shown, but left out of the medians and the ranking.
+
+| Date | Hook | Theme | Plays | Reach | Outlier x | Skip 3s | Avg watch s | Sends/reach | Saves/reach |
+|---|---|---|---|---|---|---|---|---|---|
+| [2026-10-30](https://www.instagram.com/reel/DfIY-sSvHNR/) | Halloween weekend on Clear Lake 🎃🚤 Costume optional. Cool... | - | 382 | 342 | 1.8x | 42.4% | 5.1 | 0.00% | 0.00% |
+| [2026-10-27](https://www.instagram.com/reel/DfBTgU5N3Ue/) | It's still warm, Houston! We can't wait to see our in the... | - | 248 | 215 | 1.2x | 67.1% | 4.7 | 3.72% | 0.00% |
+| [2026-10-27](https://www.instagram.com/reel/DfARe0SJLXR/) | The weather is perfect for a boat party! Call us and book... | - | 182 | 143 | 0.8x | 66.9% | 3.9 | 0.70% | 0.00% |
+| [2026-10-28](https://www.instagram.com/reel/DfDPaBuC23b/) | "Get there early so you can be the DJ." Tatyana, Google r... | - | 34 | 31 | 0.2x | 63.3% | 3.5 | 0.00% | 3.23% |
+| [2026-11-06*](https://www.instagram.com/reel/DfahaTzuqZO/) | Birthday math checks out 🎂 Send this to whoever's plannin... | - | 141 | 125 | - | 56.0% | 3.9 | 0.00% | 0.00% |
+
+Account medians (4 mature reels): plays 215, reach 179, 3s skip 65.1%, avg watch 4.3s, sends/reach 0.35%, saves/reach 0.00%. Length band is unknown for every reel (duration is not in the Graph API), so outlier x compares against one account-wide median.
+
+### Diagnosis
+
+Too few reels to see a pattern (4 mature reels in the window, need 6).
+
+### What works here
+
+Too few reels to see a pattern.
+
+Carried forward from earlier runs, not re-checked this run:
+- **Best reel** (as of 2026-11-01): 2026-10-23 "BYOB and come get LIT Houston!! #bacherlor..." ran 9.7x the median plays (3s skip 38.5%, avg watch 9.5s, sends 2.37% of reach)
+- **Lowest 3s skip** (as of 2026-11-01): 2026-10-23 "BYOB and come get LIT Houston, round 2 🍾👰‍..." held best: skip 35.2% vs account median 66.7%, avg watch 6.7s
+- **Most sent** (as of 2026-11-01): 2026-10-27 "It's still warm, Houston! We can't wait to..." drew the most sends: 3.83% of reach vs account median 0.13%
+- **Short hooks (40 characters or fewer)** (as of 2026-11-01): 5.4x the median plays vs 0.9x without (2 vs 6 reels)
+
+### Next batch to test
+
+Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
+
+<!-- reel-loop-state {"date": "2026-11-08", "found": 5, "ideas": [], "mature": 4, "median": {"avg_watch": 4.284, "plays": 215.0, "skip": 65.1, "spr": 0.0034965034965034965}, "works": [{"asof": "2026-11-01", "label": "Best reel", "text": "2026-10-23 \"BYOB and come get LIT Houston!! #bacherlor...\" ran 9.7x the median plays (3s skip 38.5%, avg watch 9.5s, sends 2.37% of reach)"}, {"asof": "2026-11-01", "label": "Lowest 3s skip", "text": "2026-10-23 \"BYOB and come get LIT Houston, round 2 \ud83c\udf7e\ud83d\udc70\u200d...\" held best: skip 35.2% vs account median 66.7%, avg watch 6.7s"}, {"asof": "2026-11-01", "label": "Most sent", "text": "2026-10-27 \"It's still warm, Houston! We can't wait to...\" drew the most sends: 3.83% of reach vs account median 0.13%"}, {"asof": "2026-11-01", "label": "Short hooks (40 characters or fewer)", "text": "5.4x the median plays vs 0.9x without (2 vs 6 reels)"}], "worst_themes": []} -->

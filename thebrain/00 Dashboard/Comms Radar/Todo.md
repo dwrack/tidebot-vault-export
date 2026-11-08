@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-07 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-08 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -16,7 +16,7 @@ _nothing_
 ## Needs you
 
 - [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-08 #id:T0095
-  → David sign the corrected Elevated Tides ACORD DocuSign from Max McCuddy (reminder sent Nov 7) and send Max the safety guidelines this weekend. (David; Gmail davey@; touched 2026-11-07)
+  → David sign the corrected Elevated Tides ACORD DocuSign from Max McCuddy (another reminder came Nov 8) and send Max the safety guidelines this weekend. (David; Gmail davey@; touched 2026-11-08)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -213,14 +213,14 @@ _nothing_
   → NKST manager check whether XXXL PFDs are available or buy some, and answer Abbie's question on avoiding traffic to Manchac. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Email abuse report on a message sent via amazonses.com, 'Gift them the quiet' #NKST #id:T0107
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-07)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; TideBot paused the Admire NOLA Instagram engage for 24h after another LOGGED_OUT error on Nov 7. (David; Slack #helm-admire; touched 2026-11-07)
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
+- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-08)
 
 ## Backburner (LSKT)
 

@@ -37,3 +37,21 @@ Too few reels to see a pattern.
 Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
 
 <!-- reel-loop-state {"date": "2026-11-01", "found": 0, "ideas": [], "mature": 0, "median": {"avg_watch": null, "plays": null, "skip": null, "spr": null}, "works": [], "worst_themes": []} -->
+
+## Run 2026-11-08 (last 14 days: 0 reels, 0 with mature data)
+
+No reels posted in the last 14 days.
+
+### Diagnosis
+
+Too few reels to see a pattern (0 mature reels in the window, need 6).
+
+### What works here
+
+Too few reels to see a pattern.
+
+### Next batch to test
+
+Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
+
+<!-- reel-loop-state {"date": "2026-11-08", "found": 0, "ideas": [], "mature": 0, "median": {"avg_watch": null, "plays": null, "skip": null, "spr": null}, "works": [], "worst_themes": []} -->
