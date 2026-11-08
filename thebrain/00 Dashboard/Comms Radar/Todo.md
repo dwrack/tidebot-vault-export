@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-07 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-07 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -216,7 +216,7 @@ _nothing_
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-07)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure Tours Instagram engage ran Nov 7 with 14 considered but zero likes, follows, saves or comments. (David; Slack #helm-admire; touched 2026-11-07)
+  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; TideBot paused the Admire NOLA Instagram engage for 24h after another LOGGED_OUT error on Nov 7. (David; Slack #helm-admire; touched 2026-11-07)
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
