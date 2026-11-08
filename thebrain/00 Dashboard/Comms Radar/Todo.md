@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-07 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-07 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
