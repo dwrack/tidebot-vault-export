@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-08 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-08 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -37,6 +37,8 @@ _nothing_
   → David check whether the $647.20 past due amount is covered; the Autopay notice forwarded by Gravity Trails says it is scheduled for 12/08/2026, so it will not clear anything overdue before then. (David; Gmail nolapedalbarge@; touched 2026-11-07)
   > David: it's my Piety address.
   > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
+- [ ] TideBot written log processing down, Gemini prepaid credits depleted #NKST #id:T0111
+  → David top up the Gemini API prepay credits in AI Studio so TideBot can process written trip logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-08)
 
 ## Waiting on someone
 
@@ -111,8 +113,6 @@ _nothing_
   → David review the cell tower notes and 4-week plan and decide whether to pursue. (David; Gmail doorcountyzip@; touched 2026-10-30)
 - [ ] NPB party boat inquiry, Nov 21 60th birthday, 10 guests #NPB #id:T0013
   → NPB team reply to Jessica Jackson on whether the 2 eighteen-year-olds mean she has to rent the whole boat, with Nov 21 availability and pricing for 10 guests. (NPB team; Gmail nolapedalbarge@; touched 2026-10-30)
-- [ ] Piety St shipping container locked insecurely #NKST #id:T0016
-  → NKST manager decide how the Piety container should be locked and tell the guides. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-10-30)
 - [ ] TripAdvisor bookings not passing transportation info, NKST #NKST #id:T0022
   → NKST manager check how TripAdvisor bookings are mapping transportation details into FareHarbor and fix the setup. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-10-31)
 - [ ] Apify usage limit hit, running Actors aborted (NPB inbox account) #NPB #id:T0028
@@ -219,12 +219,20 @@ _nothing_
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-08)
+- [ ] Piety St shipping container locked insecurely #NKST #id:T0016
+  → NKST manager decide how the Piety container should be locked and tell the guides; guides use the trash can Stephanie placed on the table by the key box and empty it in the outdoor can. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; Wanderlust Craze outreach looks like the same cold pitch repeated, so verify before engaging. (David; Gmail nolakayaktours@; touched 2026-11-08)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure YouTube engage did run Nov 8 but with 0 actions. (David; Slack #helm-admire; touched 2026-11-08)
 - [ ] HPB SMS reply: 'Sorry, I can't talk right now' #HPB #id:T0110
   → HPB manager decide whether this reply needs a follow-up text from the HPB number, or just let it drop since the person said they can't talk. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
+- [ ] Buyer asks to purchase one pedal bike from the Bike Bar crew for sale #NOLA-Bike-Bar #id:T0112
+  → Bike Bar team reply to Montrell Gooden on whether single bikes are for sale and at what price. (NOLA Bike Bar team; Gmail nolabikebars@; touched 2026-11-08)
+- [ ] HPB SMS reply needs a human answer #HPB #id:T0113
+  → HPB manager text back the number that replied 'Sorry, I can't talk right now' from the HPB line, or close it out if no follow-up is needed. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
+- [ ] NKST guide asks ETA on new seats #NKST #id:T0114
+  → NKST manager answer Stephanie Lazensky on the ETA for the new seats. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
 
 ## Backburner (LSKT)
 
