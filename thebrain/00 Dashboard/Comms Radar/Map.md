@@ -1,6 +1,6 @@
 # Comms Radar Map
 
-Updated 2026-11-08 10:10.
+Updated 2026-11-08 12:10.
 
 | Business | Open | Needs you | Waiting | Due in 7 days | Last touched |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Updated 2026-11-08 10:10.
 | AKT | 10 | 0 | 0 | 3 | 2026-11-06 |
 | NOLA Bike Bar | 9 | 2 | 0 | 1 | 2026-11-06 |
 | DCKT | 9 | 2 | 1 | 1 | 2026-11-08 |
-| HPB | 7 | 0 | 0 | 2 | 2026-11-08 |
+| HPB | 8 | 0 | 0 | 2 | 2026-11-08 |
 | Admire NOLA | 6 | 2 | 0 | 0 | 2026-11-08 |
 | Cave Point | 4 | 1 | 0 | 0 | 2026-11-08 |
 | LSKT | 4 | 0 | 0 | 1 | 2026-11-07 |

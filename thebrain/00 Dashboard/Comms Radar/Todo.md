@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-08 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-08 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -223,6 +223,8 @@ _nothing_
   → Ignore or reply once for both brands; Wanderlust Craze outreach looks like the same cold pitch repeated, so verify before engaging. (David; Gmail nolakayaktours@; touched 2026-11-08)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure YouTube engage did run Nov 8 but with 0 actions. (David; Slack #helm-admire; touched 2026-11-08)
+- [ ] HPB SMS reply: 'Sorry, I can't talk right now' #HPB #id:T0110
+  → HPB manager decide whether this reply needs a follow-up text from the HPB number, or just let it drop since the person said they can't talk. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 
 ## Backburner (LSKT)
 
