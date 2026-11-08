@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-08 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-08 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -89,6 +89,8 @@ _nothing_
   → Jeffrey send Barbo's prices and Beatty's rate so TideBot can finalize the corporate party pricing before the Nov 6 meeting; Jeffrey says BBQ add-on is $20-30 per person ($20 for 2 proteins and sides, $30 for 3). (Jeffrey Chitek; Slack #helm-npb; touched 2026-11-05)
 - [ ] NKST selling 2019 van, down to 3 vans, rear right tire needs replacing #NKST #due:2026-11-06 #id:T0100
   → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
+- [ ] Stan Ventures AI visibility pitch to Houston Pedal Barge, call proposed Nov 10 #HPB #due:2026-11-10 #id:T0109
+  → HPB manager decide whether to take the Tuesday Nov 10 10:15 AM Eastern call with Stan Ventures; someone replied 'Yes' to the cold pitch, so a response is expected. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-08)
 - [ ] AWS SES DKIM disabled for neworleanskayakrental.com #NKST #due:2026-11-11 #id:T0106
   → Whoever manages the neworleanskayakrental.com DNS restore the SES DKIM records within 5 days, unless removing them was intentional. (David; Gmail doorcountyzip@; touched 2026-11-06)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
@@ -183,8 +185,6 @@ _nothing_
   → NKST manager buy bottles of bug spray to keep in the van like the sunscreen; Emily will fill up the black van tomorrow, it is just under 3/4 tank. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-05)
 - [ ] NOLA reunion group inquiry for party barge Nov 7 or 8 #NPB #NOLA-Bike-Bar #id:T0003
   → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; touched 2026-11-06)
-- [ ] DCKT travel feature publication shortlist #DCKT #id:T0018
-  → David review the shortlist and answer Mujahid Khan on whether kayaking is the main focus next season or e-bikes are included, or ignore it. (David; Gmail doorcountykayaking@; touched 2026-11-06)
 - [ ] AKT hosted kayak tour collab offer from travel creator Dylan Goodrich, Nov 24 #AKT #id:T0033
   → AKT staff reply to Sofie by email (she wants to keep it out of phone calls) with available times around Tue Nov 24 and what they need from Dylan and Alex for the free skyline tour for two. (AKT staff; Gmail austinkayaktours@; touched 2026-11-06)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
@@ -213,14 +213,16 @@ _nothing_
   → NKST manager check whether XXXL PFDs are available or buy some, and answer Abbie's question on avoiding traffic to Manchac. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Email abuse report on a message sent via amazonses.com, 'Gift them the quiet' #NKST #id:T0107
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; TideBot paused the Admire NOLA Instagram engage for 24h after another LOGGED_OUT error on Nov 7. (David; Slack #helm-admire; touched 2026-11-07)
 - [ ] Automate paying Entergy for 1407 Piety #id:D0001
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-08)
+- [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
+  → Ignore or reply once for both brands; Wanderlust Craze outreach looks like the same cold pitch repeated, so verify before engaging. (David; Gmail nolakayaktours@; touched 2026-11-08)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure YouTube engage did run Nov 8 but with 0 actions. (David; Slack #helm-admire; touched 2026-11-08)
 
 ## Backburner (LSKT)
 
