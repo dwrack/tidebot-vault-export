@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 6
-revenue_today: 1180
+bookings_today: 7
+revenue_today: 865
 lead_time_days: 0
-ad_spend_yday: 54
+ad_spend_yday: 75
 status: green
 alert: null
-updated: 2026-11-07
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $8,678/wk booked vs $4,000 target, 217% of goal.** Fri 11/6: 6 booked / $1,180. Trailing 7 days 42 bookings.
-- GA4 11/6: 309 sessions, 91 conversions vs about 10/day prior; 67 from a newsletter source (gift_2026 send?), conversion count looks inflated, unverified. GSC 17.5 clicks/day vs 20.4 (-14%). Watched airboat page: 69 impr, 0 clicks, 0 GA4 views (baseline 0 impr / 3 views).
-- Google generic search (National + Local) $54.12 / 0 conv in 7d (Michael's lane). Meta "Retargeting | Google Reviews - Copy" ACTIVE, ad set paused, $0. GBP: 6 unreplied 5-stars (Nelson, Christ 11/06; W S, Fonda 11/03; Renshaw, Valstad 11/02).
+- **Goal pace: $9,117/wk booked vs $4,000 target, 228% of goal.** Sat 11/7: 7 booked / $865. Trailing 7 days (11/1-11/7) 48 bookings.
+- GA4 yesterday: 38 sessions Google / 36 direct / 34 IG / 13 FB, 20 conv off Google. A chatgpt.com referral shows 3 sessions against 22 logged conversions — flag as a likely attribution artifact, don't take at face value. GSC: branded term "new orleans kayak swamp tours" sits at position 15.7, weak for a brand term. Watched airboat page: impressions picked up to 11 (from 0 baseline), still 0 clicks.
+- Google generic search $74.85 / 0 conv yesterday (Michael's lane). GBP: 6 unreplied 5-stars (Nelson, Christ 11/06; W S, Fonda 11/03; Renshaw, Valstad 11/02).
 <!-- live:end -->
 
 <!-- maps:start -->

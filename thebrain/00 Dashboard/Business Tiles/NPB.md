@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 19
-revenue_today: 2142
+bookings_today: 15
+revenue_today: 3168
 lead_time_days: 0
-ad_spend_yday: 345
+ad_spend_yday: 309
 status: green
 alert: null
-updated: 2026-11-07
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $18,508/wk booked vs $30,000 target, 62% of goal.** Fri 11/6: 19 booked / $2,142. Trailing 7 days (10/31 to 11/6) 77 bookings.
-- Ads: Gator Collision ad set 7d ROAS 0.54 / CPA $146.58 at $80/day (Weather Kill 1.89); campaign 7d $1,172.98 / 11 purch / 1.57. Recommend $50 on Gator Collision until the 11/11 tests finish. "New Sales Campaign" $0.24 in 7d: archive. Google NPB $576.23 / 11.4 conv / ROAS 4.82 (7d).
-- GBP: 8 unreplied 5-stars (Fritze 11/06, Jessup 11/05, Long 11/04, Paris and Butler-Cole 11/03, Smith, Menefee, Greene 10/31).
+- **Goal pace: $20,414/wk booked vs $30,000 target, 68% of goal.** Up from 62% yesterday. Sat 11/7: 15 booked / $3,168. Trailing 7 days (11/1 to 11/7) 77 bookings.
+- Ads: Gator Collision 7d ROAS corrected to 1.35 (was mis-stated as 1.57 in the 11/7 brief) — $175.33 spent yesterday at ROAS 1.36, flat with the real baseline, still near breakeven. Recommend cutting to $50/day now rather than waiting for 11/11. Retargeting is carrying the account (ROAS 16.68 yesterday). Messenger TOF $18.12, 4 convos (engagement, not sales). Google NPB $100.77 / 0.59 conv / CPA ~$170 yesterday.
+- GBP: 6 unreplied 5-stars (new: O'Neal 11/08; Fritze 11/06, Jessup 11/05, Long 11/04, Paris and Butler-Cole 11/03).
 <!-- live:end -->
 
 <!-- maps:start -->

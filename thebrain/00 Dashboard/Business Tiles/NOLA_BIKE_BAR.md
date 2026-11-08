@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-07
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: win_category_terms
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: win_category_terms. No movement since 2026-08-28.** GSC 10/29-11/03: 24 clicks / 266 impr (prior week 26 / 414). "nola bike bar" pos 3.9, "bike bar new orleans" 5.4, "pedal bar new orleans" 7.3. No ads, no FH feed, newest review 6/2025.
+- **Goal: win_category_terms. No movement since 2026-08-28.** GSC 10/31-11/07: "bike bar new orleans" / "nola bike bar" tied at 2 clicks / 10 impr, pos 4.2. GBP 0 unreplied. No ads, no FH feed.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-07
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28; deadline passed 37 days ago.** Still no GBP, no GSC, no ads. IG silent since 11/2025 (the 11/13/2025 reel still has 7 comments). Lamar's Dec 4 inquiry came to info@nolaboozecruise.com and was answered 11/3 from the NPB Gmail.
+- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28; deadline passed 38 days ago.** Still no GBP, no GSC, no ads. IG silent since 11/2025 (the 11/13/2025 reel still has 7 comments, stale not fresh).
 <!-- live:end -->
 
 <!-- finance:start -->

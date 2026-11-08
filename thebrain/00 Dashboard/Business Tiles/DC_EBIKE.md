@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-07
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.** doorcountykayak.com GSC 10/29-11/03: 2 clicks / 215 impr (prior 2 / 344). Newest GBP review 7/2023, 0 unreplied. The DCKT IG ID (17841401469466066) is posting e-bike content (Jacksonport to Cave Point carousel 11/5, 0 likes), so the roster may have Detours and DCKT IG swapped.
+- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.** doorcountykayak.com GSC 10/31-11/07: zero clicks across every top-10 query this week, all impressions only. Index status confirmed clean (verified, no errors). Newest GBP review still 7/2023, 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

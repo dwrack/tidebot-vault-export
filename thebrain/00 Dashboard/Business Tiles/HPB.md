@@ -3,12 +3,12 @@ business: HPB
 display_name: Houston Pedal Barge
 city: Houston
 bookings_today: 1
-revenue_today: 121
+revenue_today: 60
 lead_time_days: 0
-ad_spend_yday: 28
+ad_spend_yday: 25
 status: yellow
-alert: "10% of weekly goal; Meta purchase ad sets target Dublin CA"
-updated: 2026-11-07
+alert: "11% of weekly goal; Meta purchase ad sets still Dublin-targeted (confirmed again)"
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $385/wk booked vs $4,000 target, 10% of goal.** Fri 11/6: 1 booked / $121. Ran 4 / $385 yesterday.
-- Meta: TOF Prospecting, Creative Testing, Retargeting ACTIVE at $0; 3 TOF + 1 Creative ad sets target Dublin, California 50 mi, every ad PAUSED (confirmed 11/07). Fix: retarget to Seabrook/Clear Lake, unpause one ad per set. Only Followers Reboost spends ($70.52/7d). Google (Texas umbrella) $119.94 / 4 conv / ROAS 3.21 (7d).
-- TikTok not pulled today (last known: session expired 11/6). IG: reel 11/6 0 likes, carousel 11/5 1 like. GBP 0 unreplied.
+- **Goal pace: $445/wk booked vs $4,000 target, 11% of goal.** Sat 11/7: 1 booked / $60. Ran 5 / $290 yesterday.
+- Meta: confirmed again live today — 11 ads across 4 ad sets (3 TOF Prospecting + 1 Creative Testing) still target Dublin, California 50mi, all paused. Fix: retarget to Seabrook/Clear Lake, unpause one ad per set. Only Followers Reboost spends ($9.70 yesterday). Google via the Texas umbrella's "Search - Houston Pedal Barge" campaign: $14.84 / 69 impr / 0 conv yesterday (HPB's own Google account stays dormant — that's expected, not a problem).
+- TikTok: confirmed live today the session is actually logged out (not just a tool gap) — needs re-login via Screen Sharing to mbp-2. IG: no post in last 24h. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

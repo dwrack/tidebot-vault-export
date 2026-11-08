@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-07
+updated: 2026-11-08
 tile_type: business
 goal_q4_metric: route_fix_by_oct_15
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: route_fix_by_oct_15. No movement since 2026-08-28; deadline passed 22 days ago.** GSC 10/29-11/03: 17 clicks / 2,468 impr (prior 37 / 4,276), 0 clicks on every top query. Brand term "cave point paddle and pedal" at pos 55: a brand term on page 6 is a fix on its own. IG silent since 6/2025. GBP 0 unreplied.
+- **Goal: route_fix_by_oct_15. No movement since 2026-08-28; deadline passed 23 days ago.** GSC 10/31-11/07: "what size kayak do i need" leads, 3 clicks / 23 impr, pos 8.2, mostly 0-click informational queries. Index status confirmed clean. IG silent since 6/2025. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
