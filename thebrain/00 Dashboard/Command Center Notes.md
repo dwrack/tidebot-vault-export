@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Find contractors on Facebook, send work requests, offer website/GBP/social barter (about $3,500) for the 2815 house projects (David's Apple Note 11/08) | Family / NOLA Web Studio | default: house projects stay unbid
 - Translate all websites (David's Apple Note 11/07; no brand or language list yet) | Multiple | default: sites stay English only
 - Find a company to sponsor our growth (David's Apple Note 11/07) | Multiple | default: no sponsor search starts
 - Grant Accessibility + Screen Recording to Terminal (Device Control and Data Access on macOS 27) on the DCKT Mac so agent-desktop can run there; run `~/.local/bin/agent-desktop permissions --guide` in Screen Sharing | DCKT | default: agent-desktop works on the laptop only
