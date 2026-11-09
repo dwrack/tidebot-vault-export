@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -153,8 +153,6 @@ _nothing_
   → David decide whether to buy a Garmin dash cam and check whether Vault clips can auto-download to iCloud daily, which is unverified. (David; Gmail doorcountyzip@; touched 2026-11-03)
 - [ ] NKST black transit van wipers and washer fluid not working #NKST #id:T0061
   → NKST manager get the black transit's washer fluid dispenser fixed and the driver's side wiper blades replaced. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-03)
-- [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
-  → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Gmail doorcountyzip@; touched 2026-11-04)
 - [ ] Marina insurance agent asks for vessel liability details #id:T0058
   → David or whoever owns the boats answer Jamie Clark on whether they want liability on the vessels and send year, make, model, registration, hull info, motors, captain details, crew and passenger counts and values; verify the new payment site link with the agency before paying through it. (David; Gmail doorcountyzip@; touched 2026-11-04)
 - [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
@@ -221,8 +219,6 @@ _nothing_
   → NKST manager decide how the Piety container should be locked and tell the guides; guides use the trash can Stephanie placed on the table by the key box and empty it in the outdoor can. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; Wanderlust Craze outreach looks like the same cold pitch repeated, so verify before engaging. (David; Gmail nolakayaktours@; touched 2026-11-08)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; the Nov 8 Hidden Adventure Threads engage ran with 0 actions and TideBot paused it 24h. (David; Slack #helm-admire; touched 2026-11-08)
 - [ ] HPB SMS reply: 'Sorry, I can't talk right now' #HPB #id:T0110
   → HPB manager decide whether this reply needs a follow-up text from the HPB number, or just let it drop since the person said they can't talk. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 - [ ] Buyer asks to purchase one pedal bike from the Bike Bar crew for sale #NOLA-Bike-Bar #id:T0112
@@ -237,12 +233,18 @@ _nothing_
   → HPB manager text the number back from the HPB SMS line to see if they want to reschedule the call or get their question answered by text. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-09)
+- [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
+  → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Gmail doorcountyzip@; touched 2026-11-09)
 - [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
   → NKST manager review the new affiliate/influencer signups and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-09)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; the Nov 9 Admire Instagram engage again took 0 actions. (David; Slack #helm-admire; touched 2026-11-09)
 - [ ] HPB SMS reply 'Sorry, I can't talk right now' waiting on a human answer #HPB #id:T0117
   → HPB manager text back the number that replied from the HPB line; the same alert has repeated hourly since Nov 8 9pm. (HPB manager; Gmail dwrack81@ (HPB SMS alerts); touched 2026-11-09)
 - [ ] Buffalo Bayou Kayak soft demand, $119 booked vs $299 7-day average #BBK #id:T0119
   → Reply do 1 in #the-helm if a BBK repost or quick offer draft is wanted; TideBot brings back any spend or post for a final go. (David; Slack #the-helm; touched 2026-11-09)
+- [ ] 11 scheduled loops failing, including Command Center and Comms Radar Send #id:T0120
+  → Claude check the failing launchd jobs on mbp-2 (Command Center, Comms Radar Send, NKST Payroll exit 1, Memory Freshness, Docuseal 8442 Watch and others) and restart them. (Claude; Gmail dwrack81@; touched 2026-11-09)
 
 ## Backburner (LSKT)
 
