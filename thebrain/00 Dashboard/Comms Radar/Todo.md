@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-08 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -16,7 +16,9 @@ _nothing_
 ## Needs you
 
 - [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-08 #id:T0095
-  → David sign the corrected Elevated Tides ACORD DocuSign from Max McCuddy (another reminder came Nov 8) and send Max the safety guidelines this weekend. (David; Gmail davey@; touched 2026-11-08)
+  → David sign the Elevated Tides ACORD 126 DocuSign from Max McCuddy; a reminder arrived Nov 9. (David; Gmail davey@; touched 2026-11-09)
+- [ ] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #due:2026-11-10 #id:T0118
+  → David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov 13 pay date. (David; Gmail dwrack81@ Homebase; touched 2026-11-09)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -56,8 +58,6 @@ _nothing_
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] NKST W-9 collection for 1099 guides, 3 still open #NKST #waiting #id:T0066
   → Remaining 3 guides complete their W-9s so TideBot can file them; Bob Drought is out until Nov 9. (NKST guides; Slack #helm-nkst, Gmail nolakayaktours@; touched 2026-11-05)
-- [ ] Inkle bookkeeping refund, pre-Sept 8 payments ($5,229+) #DCKT #waiting #id:T0014
-  → Confirm the completed Backoffice.co Notice of Assignment and Proof of Claim DocuSign is the Inkle refund package, then wait for the claim to be processed. (Chris Seablom; Gmail doorcountykayaking@; touched 2026-11-06)
 - [ ] Apres Assets GL insurance: loss runs from old insurer #waiting #id:T0060
   → Wait for the old Apres Assets insurer to email the loss runs, then David forwards them to the two agents, Shelley B. Zahn and Jamie Clark. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
@@ -70,6 +70,8 @@ _nothing_
   > Radar: Noted that JT is out. The next move is Jeff confirming his FareHarbor removal and signing him out of the NPB Gmail through admin settings.
 - [ ] WaterStrong Friday Sunrise sessions: additional insured and certificate #waiting #id:T0103
   → Max add WaterStrong as additional insured on the Capitol policy for Nov 1 to Dec 31, then Jonah sends Dena the certificate; Dena signs and returns the agreement. (Max McCuddy; Gmail davey@; touched 2026-11-06)
+- [ ] Inkle bookkeeping refund, pre-Sept 8 payments ($5,229+) #DCKT #waiting #id:T0014
+  → DCKT staff email Stretto to confirm the claim was received, since Chris Seablom says he cannot see the claims. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-09)
 
 ## Open
 
@@ -149,8 +151,6 @@ _nothing_
   → NPB manager decide whether to reply to Boss Be Luxury Ride about group terms and a jointly sold offer, or ignore it. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-03)
 - [ ] Dash cam plan: Garmin 67W with Vault auto-upload #DCKT #id:T0054
   → David decide whether to buy a Garmin dash cam and check whether Vault clips can auto-download to iCloud daily, which is unverified. (David; Gmail doorcountyzip@; touched 2026-11-03)
-- [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
-  → NKST manager review the new affiliate/influencer signup and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-03)
 - [ ] NKST black transit van wipers and washer fluid not working #NKST #id:T0061
   → NKST manager get the black transit's washer fluid dispenser fixed and the driver's side wiper blades replaced. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-03)
 - [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
@@ -217,8 +217,6 @@ _nothing_
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-08)
 - [ ] Piety St shipping container locked insecurely #NKST #id:T0016
   → NKST manager decide how the Piety container should be locked and tell the guides; guides use the trash can Stephanie placed on the table by the key box and empty it in the outdoor can. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
@@ -237,6 +235,14 @@ _nothing_
   → HPB manager text the contact back from the HPB number, offering a better time or a text-based answer. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 - [ ] HPB SMS reply needs a human answer: 'Sorry, I can't talk right now' #HPB #id:T0116
   → HPB manager text the number back from the HPB SMS line to see if they want to reschedule the call or get their question answered by text. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
+- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-09)
+- [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
+  → NKST manager review the new affiliate/influencer signups and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-09)
+- [ ] HPB SMS reply 'Sorry, I can't talk right now' waiting on a human answer #HPB #id:T0117
+  → HPB manager text back the number that replied from the HPB line; the same alert has repeated hourly since Nov 8 9pm. (HPB manager; Gmail dwrack81@ (HPB SMS alerts); touched 2026-11-09)
+- [ ] Buffalo Bayou Kayak soft demand, $119 booked vs $299 7-day average #BBK #id:T0119
+  → Reply do 1 in #the-helm if a BBK repost or quick offer draft is wanted; TideBot brings back any spend or post for a final go. (David; Slack #the-helm; touched 2026-11-09)
 
 ## Backburner (LSKT)
 

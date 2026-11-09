@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -60,7 +60,7 @@
 | Spending | $43,900 |
 | Card payments + transfers out | $12,376 |
 | Net, month to date | $0 |
-| Net, same days last month | -$17,921 |
+| Net, same days last month | -$15,318 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -76,7 +76,7 @@
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -89,7 +89,7 @@
 | Spending | $1,366 |
 | Card payments + transfers out | $2,036 |
 | Net, month to date | -$434 |
-| Net, same days last month | $2,295 |
+| Net, same days last month | $3,195 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -109,7 +109,7 @@
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 08. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 09. Balances only.*
 
 | Account | Balance |
 |---|---|

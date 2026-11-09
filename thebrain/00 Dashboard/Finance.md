@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -26,7 +26,7 @@
 | Spending | $496 |
 | Card payments + transfers out | $28,248 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,343 |
+| Net, same days last month | $1,467 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -38,7 +38,7 @@
 **Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -51,7 +51,7 @@
 | Spending | $1,366 |
 | Card payments + transfers out | $2,036 |
 | Net, month to date | -$434 |
-| Net, same days last month | $2,295 |
+| Net, same days last month | $3,195 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -69,7 +69,7 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -82,7 +82,7 @@
 | Spending | $18,779 |
 | Card payments + transfers out | $12,336 |
 | Net, month to date | -$3,456 |
-| Net, same days last month | -$2,401 |
+| Net, same days last month | -$1,869 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -94,7 +94,7 @@
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -106,7 +106,7 @@
 | Spending | $67,961 |
 | Card payments + transfers out | $25,854 |
 | Net, month to date | -$3,288 |
-| Net, same days last month | -$10,806 |
+| Net, same days last month | -$8,567 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
