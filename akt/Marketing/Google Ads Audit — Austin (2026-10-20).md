@@ -256,3 +256,29 @@ Change history had not shown these edits yet at time of writing, so they were ve
 - Tracking is working account-wide: 13 conversions over the week across brands (BBK PMax 4.6x, BBK Generic Local 5.0x, HPB Search 0.8x).
 - Brand impression share is 66%, still with 31% lost to rank. It has only 2 days on the new bidding, so it is too early to judge.
 - **Next:** re-check around Nov 10. If PMax ROAS is still under ~2x then, consider cutting its budget further for the off-season (Nov–Feb).
+
+## Check-in (2026-11-09)
+
+Read-only pull from the campaigns page (Chrome). No account changes made.
+
+| Campaign | Last 7 days (Nov 2–8) | Last 30 days (Oct 10–Nov 8) | Notes |
+|:-|:-|:-|:-|
+| LSKT PMax ($37.50/day) | $270 → 4 conv, $473, **1.75x**, CPA $68 | $1,278 → 34 conv, $3,845, **3.01x** | IS 22%, lost 15% budget / 63% rank. Weekly ROAS 3.2x → 1.6x → 1.75x |
+| LSKT Brand ($10/day, Max clicks, $1.50 cap) | $7.37, 5 clicks, 0 conv | $11, 0 conv | "Bid setting limited": IS 48%, **40% lost to rank** |
+| Bat search (paused Nov 1) | — | $275 → 5 conv, 2.16x | |
+| BBK PMax ($15/day, tROAS) | $111 → 1 conv, 1.08x | $468 → 15.2 conv, $2,984, **6.38x** | Limited by budget, 22% IS lost to budget |
+| BBK Generic Local ($14) | $35 → 1 conv, 3.39x | $148 → 10.5 conv, **5.69x** | Limited by search volume |
+| BBK Brand ($24) | $29, 0 conv | $109 → 3 conv, 3.17x | |
+| HPB Search ($15, tROAS) | $95 → 2 conv, 2.79x | $406 → 12 conv, 3.93x | doorcountyzip@ cut budget to $15 and re-enabled broad "pedal boat", "booze cruise", "cruise - party" on Nov 5 |
+| **Account** ($115.50/day) | **$546 → 8 conv, $975, 1.78x** | **$2,754 → 80 conv, $10,211, 3.71x** | |
+
+**Recommendations (awaiting approval):**
+1. LSKT PMax $37.50 → $25/day for Nov–Feb; restore ~$45 on Mar 1 (spring break + bat season). ~$375/mo saved.
+2. LSKT Brand: raise max CPC cap $1.50 → $2.50 (losing 40% of brand searches to rank; costs ~$1/day).
+3. Optional: BBK PMax $15 → $20 (6.4x over 30 days, losing 22% to budget). Michael previously chose to keep $15.
+4. HPB: coordinate with doorcountyzip@ on the re-enabled broad keywords (paused Oct 20 for $124 CPA) before anyone else edits HPB.
+
+### Applied 2026-11-09
+- LSKT PMax budget $37.50 → **$25/day** (verified on campaigns page). Google's simulator: $37.50 ≈ $262 cost / $505 value per week; $25 ≈ $175 / $400. The cut spend was returning ~1.2x. Restore to ~$45 on Mar 1.
+- LSKT Brand max CPC cap $1.50 → **$2.50** (verified after reload). Still Maximize clicks, $10/day.
+- Not applied: BBK PMax stays $15. HPB untouched (flagged to coordinate with doorcountyzip@).
