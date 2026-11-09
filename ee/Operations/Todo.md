@@ -101,7 +101,11 @@
 - [ ] Decide police report + marina heads-up on the pedal bike theft, see [[Pedal bike theft - Nov 5 2026]]
 - [ ] Approve the Slack bot attach patch (apply_bridge_attach_patch.py) so Claude posts the pre-theft clips to Jonah itself, see [[Pedal bike theft - Nov 5 2026]]
 
-- [ ] Post bike-thief graphic and clip in local Portland FB groups; police report with same images. See [[Pedal bike theft - Nov 5 2026]] (FB post folder)
+- [x] Bike found 2026-11-09; 'found, thank you' comment posted on 4 live FB posts. Open: cancel pending Portland Metro + Neighbors Helping Neighbors posts; PFD + first aid kit still missing; police report optional. See [[Pedal bike theft - Nov 5 2026]] (FB post folder)
 
 - [ ] Add Oregonian Best Spa award line to davey@ Gmail signature (draft approved 2026-11-07; Claude could not sign in, needs David to paste or sign in)
 - [ ] Alex: secure down the sauna bench board, posted in #maintenance 2026-11-07, waiting on after photo
+- [ ] Eventually: check DMARC + BIMI for ebbandember.com (logo next to emails in Gmail)
+- [ ] Eventually: animated logo GIF for email header and signature
+
+- [ ] 2026-11-09: Tile RFQ (EN + ES) drafted, paused for Davey's fixes to layout, drain spot, photos and drawing. Then send to tilers + post in FB contractor group. See [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]]. Draft page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7

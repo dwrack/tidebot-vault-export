@@ -27,3 +27,4 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-06 11:44 | ANSWERED notes:8849bb53ee | Send Michael the four Bike Bar sale questions | David: not sure what these are. | next: Claude will pull up the four Bike Bar sale questions and the drafted message to Michael, show you the full text, and hold it until you approve.
 - 2026-11-06 11:44 | REPLY notes:ad0313c5fe | Park the 10/30 batch of 22 stalled files | David: not sure what this is in reference to
 - 2026-11-06 11:45 | ANSWERED notes:ad0313c5fe | Park the 10/30 batch of 22 stalled files | David: not sure what this is in reference to | next: Claude will look up what the 10/30 batch of 22 stalled files is in TheBrain, then come back with a one-line explanation of what they are and whether to park them. Nothing is parked until you confirm.
+- 2026-11-09 11:34 | AUTO-DRAFTED review:2c5c706b85 | 2-star review on Nola Party Barge - Swamp Tour Party Boat from JP, no reply yet
