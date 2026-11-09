@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-08 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-08 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -235,6 +235,8 @@ _nothing_
   → NKST manager answer Stephanie Lazensky on the ETA for the new seats. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
 - [ ] HPB SMS reply: contact says they can't talk right now #HPB #id:T0115
   → HPB manager text the contact back from the HPB number, offering a better time or a text-based answer. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
+- [ ] HPB SMS reply needs a human answer: 'Sorry, I can't talk right now' #HPB #id:T0116
+  → HPB manager text the number back from the HPB SMS line to see if they want to reschedule the call or get their question answered by text. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
 
 ## Backburner (LSKT)
 
