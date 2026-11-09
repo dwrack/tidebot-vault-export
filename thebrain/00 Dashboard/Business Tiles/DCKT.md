@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-08
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $275/wk booked vs $7,000 target, 4% of goal (season closed).** Sat 11/7: 0 booked / $0.
-- PR: Midwest Living 2027 pitch due TONIGHT, Sun 11/8, 10pm CT — still not sent, draft at the bottom of today's brief. Google Ads: confirmed dormant again today, 0 impressions / $0 both yesterday and over 7 days. Season closed so it costs nothing; check billing/policy before spring (Michael's lane). GSC off-season but strong: "door county kayak tours" pos 2.3, "best hikes in door county" pos 2.35.
+- **Goal pace: $275/wk booked vs $7,000 target, 4% of goal (season closed).** Sat 11/8: 0 booked / $0.
+- Ads: confirmed dark on BOTH Google and Meta for the full 7-day window (11/2-11/8), live-checked. Season closed so it costs nothing; check billing/policy before spring (Michael's lane). GSC off-season but strong: "door county kayak tours" pos 2.3 (6 clicks/21 impr), "best hikes in door county" pos 2.6. Flag: sauna/hiking terms also surfacing on this property — may be a site-mapping mix-up with Door County Ebike, verify.
 - USPTO Notice of Publication (serial 99890274) opposition window still to check. GBP 0 unreplied.
 <!-- live:end -->
 

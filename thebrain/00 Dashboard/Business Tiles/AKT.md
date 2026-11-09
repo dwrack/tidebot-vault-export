@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-08
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: front_door_for_lskt. No movement since 2026-08-28.** No post in last 24h. GBP: 1 unreplied 5-star (Miss K, bats, 11/02). No GSC site, no ads of its own.
+- **Goal: front_door_for_lskt. No movement since 2026-08-28.** No post in last 48h (latest Nov 6 reel, 2 likes). GBP: 1 unreplied 5-star (Miss K, bats, 11/02). No GSC site, no ads of its own ($0 yesterday, shares TX umbrella).
 <!-- live:end -->
 
 <!-- maps:start -->

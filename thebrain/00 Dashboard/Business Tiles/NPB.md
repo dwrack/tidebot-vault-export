@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 15
-revenue_today: 3168
+bookings_today: 14
+revenue_today: 3622
 lead_time_days: 0
-ad_spend_yday: 309
+ad_spend_yday: 459
 status: green
 alert: null
-updated: 2026-11-08
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $20,414/wk booked vs $30,000 target, 68% of goal.** Up from 62% yesterday. Sat 11/7: 15 booked / $3,168. Trailing 7 days (11/1 to 11/7) 77 bookings.
-- Ads: Gator Collision 7d ROAS corrected to 1.35 (was mis-stated as 1.57 in the 11/7 brief) — $175.33 spent yesterday at ROAS 1.36, flat with the real baseline, still near breakeven. Recommend cutting to $50/day now rather than waiting for 11/11. Retargeting is carrying the account (ROAS 16.68 yesterday). Messenger TOF $18.12, 4 convos (engagement, not sales). Google NPB $100.77 / 0.59 conv / CPA ~$170 yesterday.
-- GBP: 6 unreplied 5-stars (new: O'Neal 11/08; Fritze 11/06, Jessup 11/05, Long 11/04, Paris and Butler-Cole 11/03).
+- **Goal pace: $21,250/wk booked vs $30,000 target, 71% of goal.** Up from 68% yesterday. Sat 11/8: 14 booked / $3,622, ran 6 / $2,618. Trailing 7 days (11/2–11/8) 86 bookings / $21,250.
+- Ads: Meta $274.61, 8 purchases, CPA $28.13, ROAS ~5.0 — Gator Collision ($225.06) drove most of it; Retargeting $23.29 with 0 purchases. Google (NOLA umbrella) $183.94 combined — Pedal Barge Local $115.88/1 conv; Sales-PMax-12 $68.06/2.5 conv at ROAS 17.2 (confirm this PMax campaign is really NPB).
+- GBP: **2★ JP Trigo (11/8) unreplied — bathroom complaint, confirmed live, reply today.** Plus 8 unreplied 5-stars (Love, Young, O'Neal 11/08; Fritze 11/06; Jessup 11/05; Long 11/04; Paris, Butler-Cole 11/03).
 <!-- live:end -->
 
 <!-- maps:start -->

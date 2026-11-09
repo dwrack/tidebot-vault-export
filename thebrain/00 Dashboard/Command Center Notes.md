@@ -20,7 +20,13 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Say go: retarget 4 HPB Meta ad sets from Dublin CA to Seabrook/Clear Lake and unpause one ad per set at $20/day | Houston Pedal Barge | default: Meta purchase campaigns stay at $0
 - Decide: cut NPB Gator Collision ad set from $80/day to $50 (7d ROAS 0.54) and archive "New Sales Campaign" | NOLA Party Barge | default: keeps running at $80/day
 - Send Kimberlyn the 29 unanswered E&E comments (10/26 reel + 11/6 carousel, incl. "How do we sign up?") or say "draft them" | Ebb & Ember | default: comments stay unanswered
-- Say "draft them" for replies to 20 unreplied 4-5 star Google reviews (NPB 8, NKST 6, BBK 3, AKT 1, E&E 2) | Multiple | default: reviews stay unreplied
+- Reply to the 2★ GBP review from JP Trigo (11/8, dirty bathrooms complaint) — confirmed still unreplied live | NOLA Party Barge | default: a public complaint review sits unanswered
+- Say "draft them" for replies to 22 unreplied 4-5 star Google reviews (NPB 8, NKST 7, BBK 3, AKT 1, E&E 3) | Multiple | default: reviews stay unreplied
+- Reply to the unanswered customer text "Sorry, I can't talk right now" (+18329390756) — zero bookings Sat 11/8 | Houston Pedal Barge | default: a live lead goes cold
+- Say go: pause the zombie "Search - Houston Pedal Barge" Google campaign in the Texas umbrella account (8497383499), $9.81/day at 0 conv while HPB's own account sits paused | Houston Pedal Barge | default: keeps burning ~$10/day for nothing
+- Re-login to TikTok (@houstonpedalbarge) via Screen Sharing to mbp-2, QR code — session confirmed logged out again 11/9 | Houston Pedal Barge | default: no TikTok analytics until re-authorized
+- Say go: pause or fix the NKST Local + National Google search campaigns (Gravity Trails NOLA umbrella, 4378232023), $79.70 on 11/8 at 0 conversions, confirmed live (Michael's lane) | New Orleans Kayak Swamp Tours | default: keeps burning ~$80/day for nothing
+- Check Homebase payroll actually processed: live email says Oct 26-Nov 8 payroll due 6pm CST 11/10, pay date Fri 11/13 — conflicts with the standing "fully automated, emails off" note | Multiple (Gravity Trails) | default: assume automatic and risk a missed pay run
 - Future: BIMI logo in the inbox for doorcountykayaktours.com (needs DMARC moved from p=none to enforcement, then a logo certificate; trademark SN 99890274 publishes 2026-11-10). Parked until you say go | DCKT | default: stays parked, no action
 - 2026-11-07 | Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | Ebb & Ember | default: stays open until Alex posts the after photo
 - [ ] Save +1 971-399-7373 as a contact ('E&E Night Watch') and allow it through Focus/Do Not Disturb + Repeated Calls, or the wake-up call will not ring | Ebb and Ember | default: call may be silenced overnight

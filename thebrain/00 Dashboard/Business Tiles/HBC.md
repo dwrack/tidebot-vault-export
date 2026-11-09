@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-08
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28; deadline passed 38 days ago.** Still no GBP, no GSC, no ads. IG silent since 11/2025 (the 11/13/2025 reel still has 7 comments, stale not fresh).
+- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28; deadline passed 40 days ago.** Still no GBP, no GSC, no ads. IG confirmed still dormant, no 2026 posts, last post Nov 2025 (the giveaway reel still shows 7 comments, almost certainly stale not fresh).
 <!-- live:end -->
 
 <!-- finance:start -->

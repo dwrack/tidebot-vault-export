@@ -3,12 +3,12 @@ business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
 bookings_today: 3
-revenue_today: 395
+revenue_today: 337
 lead_time_days: 0
-ad_spend_yday: 42
+ad_spend_yday: 45
 status: green
 alert: null
-updated: 2026-11-08
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $535/wk booked vs $5,500 target, 10% of goal.** Sat 11/7: 3 booked / $395. Trailing 7 days (11/1-11/7) 8 bookings.
-- Google (Texas umbrella) yesterday: $42.08 / 2 conv / ROAS 8.91 — strong day. Meta account still fully paused, no spend. GBP 0 unreplied.
+- **Goal pace: $872/wk booked vs $5,500 target, 16% of goal.** Sat 11/8: 3 booked / $337, ran 2 / $229. Trailing 7 days (11/2-11/8) 8 bookings / $872.
+- Google (Texas umbrella) yesterday: $44.62 / 1 conv / ROAS 2.5 (Lone Star PMax $43.14). Meta account still fully paused, no spend. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

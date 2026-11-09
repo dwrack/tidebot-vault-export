@@ -2,13 +2,13 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 1
-revenue_today: 60
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 25
-status: yellow
-alert: "11% of weekly goal; Meta purchase ad sets still Dublin-targeted (confirmed again)"
-updated: 2026-11-08
+ad_spend_yday: 21
+status: red
+alert: "0 bookings Sat 11/8, confirmed live; unanswered customer SMS; TikTok session expired; zombie Google campaign $9.81/day at 0 conv"
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $445/wk booked vs $4,000 target, 11% of goal.** Sat 11/7: 1 booked / $60. Ran 5 / $290 yesterday.
-- Meta: confirmed again live today — 11 ads across 4 ad sets (3 TOF Prospecting + 1 Creative Testing) still target Dublin, California 50mi, all paused. Fix: retarget to Seabrook/Clear Lake, unpause one ad per set. Only Followers Reboost spends ($9.70 yesterday). Google via the Texas umbrella's "Search - Houston Pedal Barge" campaign: $14.84 / 69 impr / 0 conv yesterday (HPB's own Google account stays dormant — that's expected, not a problem).
-- TikTok: confirmed live today the session is actually logged out (not just a tool gap) — needs re-login via Screen Sharing to mbp-2. IG: no post in last 24h. GBP 0 unreplied.
+- **Goal pace: $445/wk booked vs $4,000 target, 11% of goal.** Sat 11/8: 0 booked / $0, ran 0 / $0 — fully dark day, confirmed live.
+- **Unanswered customer text, confirmed live:** "Sorry, I can't talk right now" from +18329390756 to +18322614678 — reply today, don't let a live lead go cold on a zero-booking day.
+- Ads: Meta Followers Reboost spends $11.40 (engagement, not sales); purchase ad sets still believed Dublin-targeted. Google via the Texas umbrella's "Search - Houston Pedal Barge" campaign: $9.81 / 0 conv yesterday, confirmed live — pause it (HPB's own Google account stays dormant, that's expected).
+- TikTok: session confirmed logged out again just now — needs re-login via Screen Sharing to mbp-2. IG: no post in 48h. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
