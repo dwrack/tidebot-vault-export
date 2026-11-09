@@ -2,6 +2,11 @@
 
 Goal: everything on site by Thu Nov 13. Prices from web listings 11/9, stock NOT verified, call or check 97211 pickup first. RFQ page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7. Takeoff: [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]].
 
+## Decisions 11/9 (Davey)
+- Stove 6 in off the window (side) wall. Drain option A, in front of the stove.
+- Layout: wall tile vertical, stacked; one full tile centered on the flue (columns from the corner 10½, 12, 12, 7¼). Floor stacked, 24 in side running away from the stove wall so joints carry up the wall.
+- Drain: 12 in matte black linear, centered on the flue, one tile wide. Amazon pick: Neodrain matte black 2-in-1 (12 in size of https://www.amazon.com/dp/B0CFTCHGBC), qty 2. The 32 in rows below are superseded.
+
 ## Buy now (ours to choose)
 | Item | Qty | Pick | Unit | Where |
 |---|---|---|---|---|

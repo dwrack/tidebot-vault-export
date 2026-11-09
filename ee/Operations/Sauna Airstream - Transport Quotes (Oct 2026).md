@@ -1,11 +1,22 @@
 # Sauna Airstream: Sturgeon Bay WI to Portland OR
 
-Status: gathering hauler list; drafts below need Davey's OK before anything sends.
+Status 2026-11-09: uShip listing LIVE, ID 354497657 (https://www.uship.com/listing-manager/354497657), 4-day listing. FLATBED ONLY (Davey 11/9: tires need replacing, no tow-away). Still to do: verify the uShip email, add photos, fix the guessed specs when Garrett sends them. Hauler texts below need his OK.
+
+## uShip listing (posted by Davey 2026-11-09, edited to flatbed-only same day)
+- Category: Vehicles > Recreational Vehicles > Travel Trailer, towable = NO
+- Title: "1974 Airstream 31ft trailer, sauna conversion" (50-char limit)
+- Specs entered as ESTIMATES (Garrett still owes real dims + tire size): 31 ft x 8 ft x 9 ft 8 in, 6,500 lb
+- Pickup: Business (no dock), Sturgeon Bay WI 54235, after 11/12/2026
+- Delivery: Commercial Farm / Ranch / Marina, Portland OR, before 12/31/2026
+- Service types: enclosed + open only (Tow Away unchecked)
+- Details text: sauna conversion, no water tanks, FLATBED ONLY because tires need replacing, exact addresses after booking, carriers with own authority + cargo insurance preferred
+- Photos added 2026-11-09: 2 exteriors (snowy rear view, Airstream badge); the interior shot did not upload. Rear shot shows the trailer plate. Still to do: verify uShip email, correct specs, log quotes in the table below
+- Vetting rule applies to uShip bidders too: carrier authority on SAFER, cargo cert, no deposit off-platform
 
 ## Shipment specs (fill the blanks)
 - Unit: Airstream, [YEAR] [LENGTH] ft, converted to a sauna (gas stove, interior wood)
 - Est. weight: [LBS]
-- Running gear: unknown, haulers quote tow-away AND flatbed
+- Running gear: tires need replacing, so FLATBED / DECK ONLY (landoll, lowboy, RGN). No tow-away.
 - Pickup: Sturgeon Bay, WI 54235 (exact address only after booking)
 - Drop: Portland, OR (exact address only after booking)
 - Window: flexible, next 4-6 weeks (through ~Nov 20, 2026)
@@ -13,19 +24,19 @@ Status: gathering hauler list; drafts below need Davey's OK before anything send
 
 ## Text to haulers (rotate variants, 60-90s apart, max 15/hr)
 
-A. Hey, looking for a quote to move an Airstream travel trailer from Sturgeon Bay WI to Portland OR, [LENGTH] ft, flexible pickup in the next 4-6 weeks. Do you do tow-away, flatbed, or both? Ballpark price? Thanks
+A. Hey, looking for a quote to move an Airstream travel trailer from Sturgeon Bay WI to Portland OR, [LENGTH] ft, flexible pickup in the next 4-6 weeks. Tires are shot so it has to go on a flatbed or landoll, no tow-away. Ballpark price? Thanks
 
-B. Hi, got your number from [SOURCE]. Need an Airstream ([LENGTH] ft) hauled Sturgeon Bay, WI to Portland, OR. Pickup window is flexible over the next month or so. What would you charge, and is that towing it or on a deck?
+B. Hi, got your number from [SOURCE]. Need an Airstream ([LENGTH] ft) hauled Sturgeon Bay, WI to Portland, OR. Pickup window is flexible over the next month or so. It needs to ride on a deck (tires need replacing), not be towed. What would you charge?
 
-C. Hey there, do you run Midwest to the Pacific NW? I have a [LENGTH] ft Airstream in Door County WI that needs to get to Portland OR sometime in the next 4-6 weeks. Open to tow-away or flatbed. What's your rate?
+C. Hey there, do you run Midwest to the Pacific NW? I have a [LENGTH] ft Airstream in Door County WI that needs to get to Portland OR sometime in the next 4-6 weeks. Flatbed or landoll only, the tires need replacing. What's your rate?
 
-D. Hi, quote request: Airstream trailer, [LENGTH] ft, Sturgeon Bay WI to Portland OR, ~2,100 mi. Flexible dates over the next month. Wheels/axles not inspected yet so a flatbed price would help too. Thanks!
+D. Hi, quote request: Airstream trailer, [LENGTH] ft, Sturgeon Bay WI to Portland OR, ~2,100 mi. Flexible dates over the next month. Tires need replacing so it has to go on a flatbed/landoll, no towing. Thanks!
 
-E. Hey, saw you haul Airstreams. Any chance you'd have room for one going Wisconsin to Portland, OR this fall? [LENGTH] ft, flexible timing. Let me know a price if you're interested.
+E. Hey, saw you haul Airstreams. Any chance you'd have room for one going Wisconsin to Portland, OR this fall? [LENGTH] ft, flatbed only (tires need replacing), flexible timing. Let me know a price if you're interested.
 
 ## Facebook group post (no phone/email in post, DMs only)
 
-> Looking for a hauler (carriers only, no brokers please): [LENGTH] ft Airstream, Sturgeon Bay WI to Portland OR, flexible pickup over the next 4-6 weeks. Tow-away or flatbed. Send me a DM with your price and your USDOT/MC number.
+> Looking for a hauler (carriers only, no brokers please): [LENGTH] ft Airstream, Sturgeon Bay WI to Portland OR, flexible pickup over the next 4-6 weeks. Flatbed/landoll only, tires need replacing. Send me a DM with your price and your USDOT/MC number.
 
 ## Vetting
 - Look up USDOT/MC on FMCSA SAFER: must be carrier authority, not broker-only.

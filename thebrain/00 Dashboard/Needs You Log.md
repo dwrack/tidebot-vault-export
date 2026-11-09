@@ -28,3 +28,4 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-06 11:44 | REPLY notes:ad0313c5fe | Park the 10/30 batch of 22 stalled files | David: not sure what this is in reference to
 - 2026-11-06 11:45 | ANSWERED notes:ad0313c5fe | Park the 10/30 batch of 22 stalled files | David: not sure what this is in reference to | next: Claude will look up what the 10/30 batch of 22 stalled files is in TheBrain, then come back with a one-line explanation of what they are and whether to park them. Nothing is parked until you confirm.
 - 2026-11-09 11:34 | AUTO-DRAFTED review:2c5c706b85 | 2-star review on Nola Party Barge - Swamp Tour Party Boat from JP, no reply yet
+- 2026-11-09 12:59 | AUTO-DRAFTED cx:NPB-1904 | NPB: Voucher request after incident on tiki (angry customer)

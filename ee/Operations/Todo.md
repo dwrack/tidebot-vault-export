@@ -1,5 +1,12 @@
 # Ebb & Ember — Todo List
 
+## Private saunas launch + website deploy (added 2026-11-09 — note: [[Private Saunas Launch Plan + Website Deploy (2026-11-09)]])
+- [ ] Davey + L: finish the final site review this week; L has not been in touch since the missed meeting
+- [ ] Deploy the site Sun 11/15 night, pricing announced Mon 11/16; confirm dates with Jonah (record says announce 11/15, live 11/23)
+- [ ] Name who watches the site and bookings Mon 11/16 (Davey away 11/16 to 11/20)
+- [ ] Watch private bookings closely for the first 2 to 3 weeks; hard check Feb 1 (earlier if Christmas week is clear)
+- [ ] Parked: social option for unsold private slots; early-booking and last-minute (about 3 hrs) discounts with automated social push, after the new site; reconcile with the no-surge and no-discount-code rules first
+
 ## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
 - [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
 - [ ] Davey: OK the quote request emails (Powerall re-quote, Boones Ferry/Neil, Young Electric, Schooner Creek); Claude sends from sauna@
@@ -121,3 +128,6 @@
 
 - [ ] 2026-11-09: Tile RFQ (EN + ES) drafted, paused for Davey's fixes to layout, drain spot, photos and drawing. Then send to tilers + post in FB contractor group. See [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]]. Draft page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7
 - [ ] 2026-11-13: nudge Cow Bell PDX if no reply to the raclette collab pitch (sent 11/6). If yes: set shoot date, then price the raclette add-on with Jonah. See [[Shoot Brief — Fireside Raclette Date (Nov 2026)]]
+
+- [ ] 2026-11-12: uShip listing #354497657 is live (flatbed only); verify the uShip email, correct the guessed dims/weight, review quotes before it ends ~11/13. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
+- [ ] 2026-11-12: Get Airstream dims, weight and tire size from Garrett for the uShip listing and hauler quotes. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
