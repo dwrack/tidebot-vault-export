@@ -1,0 +1,16 @@
+{
+ "dry_run": false,
+ "model": "sonnet",
+ "first_run_lookback_hours": 2,
+ "gmail_accounts": ["sauna-at-ebbandember-com", "davey-at-ebbandember-com"],
+ "sheet_account": "davey-at-ebbandember-com",
+ "founders_channel": "C0BAN9UJ7GD",
+ "maintenance_channel": "C0BQ5RS1BLL",
+ "davey_slack_id": "U0B1CAVT1TM",
+ "alex_slack_id": "U0C8TPG8R35",
+ "bot_user_id": "U0BPH0N04F9",
+ "quiet_start_hour": 22,
+ "quiet_end_hour": 7,
+ "remote_heartbeat_host": "doorcountykayaktours@100.80.188.66",
+ "caps": {"gmail": 40, "slack_per_channel": 100, "imessage": 300, "hits_per_run": 120, "incidents_per_run": 10, "claude_calls_per_day": 60}
+}

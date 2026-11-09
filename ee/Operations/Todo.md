@@ -1,7 +1,16 @@
 # Ebb & Ember — Todo List
 
+## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
+- [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
+- [ ] Davey: OK the quote request emails (Powerall re-quote, Boones Ferry/Neil, Young Electric, Schooner Creek); Claude sends from sauna@
+- [ ] Walkthrough: add the electrician to the Davey + Grant + Mario float walk; photo the nearest pedestal label and breaker, confirm a free 30 A or 50 A receptacle and the cord route
+- [ ] Electrician: confirm a float qualifies as a job site for an Oregon minor label; otherwise regular electrical permit (Title 28)
+- [ ] Reply to Jonah's 11/9 "are we waiting on other electrical quotes" in #private-saunas-build
+- [ ] Cariitti: confirm Sauna Ultra Ambient at the ceiling of a gas sauna + which 24 V push-knob dimmer (myynti@cariitti.com)
+
 ## Incident Log (added 2026-11-06 — record: [[2026-11-06 E&E incident log]])
-- [ ] Davey: approve the incident log design (night alerts, Mac-down alarm, Sheet owner), then Claude builds it on mbp-2
+- [x] Davey: approve the incident log design (done 11/9)
+- [ ] Davey: OK installing the scheduled jobs (launchd on mbp-2 + DCKT Mac) so the log runs every 15 min — [[README|Operations/Incident Log/README]]
 
 ## Downpour Productization (added 2026-08-27 — brief: [[Downpour Productization — Project Brief (Aug 2026)]])
 - [ ] Message Grant: measure + photo-document the Downpour during a V2 site day, quote build cost for unit #2 (draft ready, awaiting Davey's go)
@@ -65,6 +74,7 @@
 - [ ] Paint parking lot lines + install wheel stop blocks
 - [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style)
 - [ ] Next time at the marina: LiDAR scan + photos of the 30 ft dock section for the ladder and ramps (edge framing, how the floats attach, underside if reachable, tape measure deck to water). Project: [[Dock Water Entry — Project Note]] (added 2026-11-06)
+- [ ] V2 water line: send Alex the plan, then confirm with Mario (permit, backflow, tankless). Plan: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-09)
 - [ ] Remove water dispenser from sauna or label it clearly, replace with better solution in lounge
 - [ ] Research water temp and air temp display options for sauna
 - [ ] Write 3 tagline options for phone charger sign (poetic "put down your phone" vibe)
@@ -109,3 +119,4 @@
 - [ ] Eventually: animated logo GIF for email header and signature
 
 - [ ] 2026-11-09: Tile RFQ (EN + ES) drafted, paused for Davey's fixes to layout, drain spot, photos and drawing. Then send to tilers + post in FB contractor group. See [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]]. Draft page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7
+- [ ] 2026-11-13: nudge Cow Bell PDX if no reply to the raclette collab pitch (sent 11/6). If yes: set shoot date, then price the raclette add-on with Jonah. See [[Shoot Brief — Fireside Raclette Date (Nov 2026)]]

@@ -64,6 +64,12 @@ Checked math (all true at the posted prices):
 | Member month 2 | 12-month switch (lower rate + 24 passes) | Email | Not built |
 | Nov 15 to Dec 24 | Sauna Credit as the gift | Site + email + IG | Wait for launch date |
 
+
+### Fireside Raclette (added 2026-11-09, idea stage)
+- **Site:** raclette date photos from the shoot go on the Private Sauna page and the date night / rain date blog posts, with the cheese partner named and linked. See [[Shoot Brief — Fireside Raclette Date (Nov 2026)]].
+- **Upsell to test:** a raclette board add-on at private session checkout, priced with the cheese partner. Not a Periode product until Davey and Jonah OK it.
+- **Status:** collab pitch sent to Cow Bell PDX 11/6 (cheeseshop@cowbellpdx.com), no reply yet. Nothing goes on the site until they say yes and the shoot happens.
+
 ## Open questions
 1. Launch date. Nothing with new prices goes on the public site before it.
 2. Lock the dev site (Cloudflare Access, email code for Davey, Jonah, L) before deploying new prices to it?

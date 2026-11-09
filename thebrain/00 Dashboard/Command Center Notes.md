@@ -10,13 +10,21 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-25 due | Text Blake North a heads-up that $470 (rent + WiFi) is due Dec 1 (your 10/13 text set the $1,181 deal; the signed lease still reads $1,650 thru Dec 31, texts are the written record) | Cave Point Place | default: he reads the lease and thinks Dec is covered
+- 2026-11-13 due | Cow Bell PDX raclette collab: nudge if no reply (pitch sent 11/6); if yes, pick a shoot date with Jacqueline | Ebb & Ember | default: the collab idea goes cold
+- 2026-11-15 due | Nov rent still missing at 1407 Piety as of 11/9: Parish ($800), LSD Clown ($500), Dominic Sgro ($300, usually pays mid-month). Nudge Parish + LSD | Cave Point Place | default: they slide past the 10-day late window with no reminder
+- Goose & Pepper (wood shop): approve both on the door app, hand over a key, send the written $500 deposit receipt the lease promises | Cave Point Place | default: they can't get in on their own
+- Blake North: get the $1M CGL COI (David Rack addl insured) + client waivers before any training clients | Cave Point Place | default: uninsured clients in Room 11
+- 2026-11-12 due | V2 saunas electrical: OK the quote emails (Rev AJ: one 20 A circuit, outlets only, no panel) to Powerall, Boones Ferry, Young, Schooner Creek. Drawing: Ebb and Ember/Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Electrical Set (Rev AJ).html | E&E | default: Powerall's $6,420 one-circuit quote stays the only bid and the electrician never joins the float walkthrough
+- 2026-11-25 due | Confirm in FareHarbor: $65 price unchanged (Nov 27 post), winter times 11:30 + 2:00 (Dec 11, Dec 19), 9:00 tours Dec 26 to 31 (Dec 26) | NKST | default: those holiday IG posts go out as written
 - 2026-11-12 | Tile RFQ for the private saunas: confirm drain spot, room layout and photos on the draft page (https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7), then OK the tiler emails + FB post. 40 Portland tilers already pulled | E&E | default: nothing sends, no tiler booked
 - Eventually: check DMARC on ebbandember.com and see if BIMI (brand logo next to our emails in Gmail) is doable; needs DMARC enforcement + logo certificate | Ebb & Ember | default: no logo in inbox
 - Eventually: build an animated logo GIF for the top of emails and the signature (frame one must carry the message, Outlook desktop shows only the first frame) | Ebb & Ember | default: static logo
 - Find contractors on Facebook, send work requests, offer website/GBP/social barter (about $3,500) for the 2815 house projects (David's Apple Note 11/08) | Family / NOLA Web Studio | default: house projects stay unbid
 - Translate all websites (David's Apple Note 11/07; no brand or language list yet) | Multiple | default: sites stay English only
 - Find a company to sponsor our growth (David's Apple Note 11/07) | Multiple | default: no sponsor search starts
-- Grant Accessibility + Screen Recording to Terminal (Device Control and Data Access on macOS 27) on the DCKT Mac so agent-desktop can run there; run `~/.local/bin/agent-desktop permissions --guide` in Screen Sharing | DCKT | default: agent-desktop works on the laptop only
+- 2026-11-09 due | **TOP PRIORITY: DCKT Mac, grant agent-desktop access.** Screen Share in, then System Settings > Privacy & Security > Accessibility AND Screen Recording (on macOS 27 it's Device Control and Data Access): add Terminal and ~/.local/bin/agent-desktop. Run `~/.local/bin/agent-desktop permissions --guide` | DCKT | default: agent-desktop stays dead on the DCKT Mac
+- 2026-11-09 due | **TOP PRIORITY: main Mac (wavey laptop), confirm agent-desktop access.** Accessibility + Screen Recording already granted (verified 2026-11-07); Automation shows unknown, so run `agent-desktop permissions --guide` and allow Terminal/Claude when macOS prompts | Personal | default: agent-desktop works but can't script app menus
 - Rose axon sketch artifact (8YUMA8U9...) was deleted, so the weekly Rose refresh did not publish. Rev 06 built at Ebb and Ember/Operations/Axon Sketches/axon_rose.html. Say yes to publish a new private link | E&E | default: Rose stays unpublished (off the record)
 - 2026-11-08 due | Send the Midwest Living 2027 pitch (draft at bottom of the 11/07 brief; due 10pm CT) | DCKT | default: deadline passes, no feature
 - Create a free Gemini API key at aistudio.google.com/apikey logged into a DIFFERENT Gmail, then double-click "Set Backup Gemini Key" on the Desktop and paste it | TideBot | default: audio-log coaching stays down whenever the primary Gemini key runs out
@@ -42,6 +50,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-06 | Decide on dormant IG accounts: Houston Booze Cruise (last post Nov 2025) and Gravity Trails (last post 2018): revive or park. Screenshots show no brand has pinned posts; only E&E and CPPP have useful highlights, HPB/HBC/BBK/Admire have none (details in each tile) | HBC / Gravity Trails / All | default: both stay parked. Also decide whether Houston Booze Cruise is a duplicate of HPB (its posts say Houston Pedal Barge)
 - Fix covers on reels already posted (IG app > reel > Edit cover > pick a sharp frame; the API cannot change a cover after posting). New reels now auto-pick the best grid frame as of 2026-11-06 | All brands | default: old reels keep their current grid thumbnails
 - Reply to Michael: which Meta pixel ID is in HPB's FareHarbor settings (HPB site loads 1559188957448084 = LSKT's pixel, ads optimize on 381452300055179 = BBK's). FH login hit 2SV and no code arrived (checked 2026-11-06); David reads Settings > tracking/integrations in FH for HPB, or reads the SMS code to Claude | Houston Pedal Barge | default: Michael's HPB Meta ads keep showing zero purchases
+- Send the V2 water line plan to Alex in #maintenance (spigots in both private saunas + the two showers; plan in Ebb and Ember/Operations/Private Saunas (V2) — Water Line Plan for Alex) | Ebb & Ember | default: Alex has no plan and the line waits
+- Ask Mario: does the V2 water work go on his permit, and does he install the backflow device + tankless heater | Ebb & Ember | default: Alex can't close up the deck
 - Approve the NPB thin-departure watch design (6-guest threshold, one 10am post, guide clash check) | NPB | default: nothing gets built, Jeff keeps checking by hand
 - ~~Laptop disk: OK moving idle AI models, Downloads videos and old migration folders (~100 GB) to the 12TB drive on the DCKT Mac, plus a nightly job that keeps big iCloud files cloud-only | TheBrain | default: laptop refills toward full again~~ done 2026-11-06
 - Share the holiday party photo board with Jeff and tap Use/Maybe/No (https://claude.ai/artifact/9rDfxRtajhmYNwqp8AuqiQ) | NOLA Party Barge | default: email and pages use the Hero tier as ranked
@@ -64,7 +74,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-19 due | Tick or kill the Famadillo mom's getaway pitches (NOLA with Jeffrey hosting; Portland needs a spokesperson), _Staged for Approval/PR Pitch — NKST + NPB / E&E — famadillo-moms-getaway | NKST / NPB / E&E | default: pitches lapse 11/19 5pm ET
 - LiDAR scan + photos of the 30 ft dock section next marina visit (dock water entry: ladder + two ramps; edge framing, float attachment, deck-to-water height) | Ebb & Ember | default: design stays at concept v0.1
 - Send or hold the #maintenance post announcing the dock water entry project | Ebb & Ember | default: hold until after the dock scan
-- 2026-11-06 | Approve the E&E incident log design (3 quick calls: night alerts, Mac-down alarm, Sheet owner) | Ebb & Ember | default: build with the defaults in the decision record
+- ~~2026-11-06 | Approve the E&E incident log design~~ done 11/9
+- 2026-11-09 | OK installing the incident log's scheduled jobs (mbp-2 + DCKT Mac); auto mode blocked them | Ebb & Ember | default: nothing runs on a schedule, incidents not logged
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
