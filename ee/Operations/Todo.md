@@ -7,6 +7,13 @@
 - [ ] Watch private bookings closely for the first 2 to 3 weeks; hard check Feb 1 (earlier if Christmas week is clear)
 - [ ] Parked: social option for unsold private slots; early-booking and last-minute (about 3 hrs) discounts with automated social push, after the new site; reconcile with the no-surge and no-discount-code rules first
 
+## V2 Gas (added 2026-11-09 — note: [[Private Saunas (V2) — Gas Line Plan for Sergey (Nov 9 2026)]])
+- [ ] Davey: Sergey or Mario for the V2 gas trip? Then say "send" and the Rev AK plan + email go to Sergey from sauna@
+- [ ] Sergey walkthrough: meter location/size/pressure, 2 psi vs low pressure down the dock, jumper type + slack, run lengths (meter to social tee, tee to float, tee to lounge), social sauna stove nameplate
+- [ ] Davey: pick fire pit vessels (Outdoor Plus Cazo vs Paloform Bento / Solus Hemi) + confirm dial-timer + electronic-ignition combo with the maker; lounge fire table size
+- [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
+- [ ] Stamp valve tags to match G-001; add V0, V2 and the three E-stop knobs to the staff emergency sheet
+
 ## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
 - [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
 - [ ] Davey: OK the quote request emails (Powerall re-quote, Boones Ferry/Neil, Young Electric, Schooner Creek); Claude sends from sauna@
@@ -130,3 +137,5 @@
 - [ ] 2026-11-13: nudge Cow Bell PDX if no reply to the raclette collab pitch (sent 11/6). If yes: set shoot date, then price the raclette add-on with Jonah. See [[Shoot Brief — Fireside Raclette Date (Nov 2026)]]
 
 - [ ] 2026-11-12: uShip listing #354497657 is live (flatbed only); verify the uShip email, weight is still a 5,000 lb estimate, review quotes before it ends ~11/13. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
+- [ ] Safety plan v3 to Max by Fri 11/13 after the Jonah walkthrough: [[Safety Plan Review with Jonah (2026-11-09)]] (added 2026-11-09)
+- [ ] Rotate Inkbird, Blink and sauna@ logins posted in plaintext in Slack #general (Aug 29 to Sep 1) and delete those messages (added 2026-11-09)

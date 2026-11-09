@@ -39,30 +39,30 @@ Sources: Google Maps scrape (66 places, Portland, 11/9, run on the Gravity Trail
 ## Tier 3: tile specialists, phone or web form only (call/text)
 Skyline Tile (503) 935-6769 · Chase Tile (503) 630-3633 · McTear's Tile (541) 280-7346, IG @mcteartile · Freedom Tile and Flooring (971) 393-5267 · Portland Tile & Remodels (503) 208-4523 · PG Tile (503) 516-1828 · Abraham Tile (503) 784-9009 · Terra Tile & Stone (503) 506-6459 · BVL Construction (971) 506-0406 · Professional Flooring and Tile (360) 566-3581 · Tile Installers Portland Oregon 503-744-5131
 
-## Facebook groups (Davey picked 11/9). Post drafted, NOT posted
+## Facebook groups (Davey picked 11/9). Tile + electrical posts PUBLISHED 11/9 ~2:20 PM from Davey's personal profile
 Images: Assets/V2 Build Drawings/2026-11-09 Tile RFQ images/ (7 files).
 | Group | URL | Status |
 |---|---|---|
-| PDX CONTRACTOR SERVICES (PUBLIC GROUP) | https://www.facebook.com/groups/206612756123874/ | |
-| Portland Contractors & Home Services (PDX) | https://www.facebook.com/groups/1786921962272271 | |
-| Oregon Contractors/Businesses Services | https://www.facebook.com/groups/6876709232352255/ | |
-| Contractors of the PNW | https://www.facebook.com/groups/512292624407529/ | |
-| Portland Area Small Contractors Exchange | https://www.facebook.com/groups/PortlandAreaSmallContractorsExchange | |
+| PDX CONTRACTOR SERVICES (PUBLIC GROUP) | https://www.facebook.com/groups/206612756123874/ | tile + electrical posted; group shows 'Pending admin approval' |
+| Portland Contractors & Home Services (PDX) | https://www.facebook.com/groups/1786921962272271 | tile + electrical posted, showing in the feed |
+| Oregon Contractors/Businesses Services | https://www.facebook.com/groups/6876709232352255/ | tile + electrical posted, showing in the feed |
+| Contractors of the PNW | https://www.facebook.com/groups/512292624407529/ | tile + electrical posted, showing in the feed |
+| Portland Area Small Contractors Exchange | https://www.facebook.com/groups/PortlandAreaSmallContractorsExchange | tile + electrical posted, showing in the feed |
 
-## Electrical post for the same 5 groups (Davey asked 11/9). Drafted, NOT posted
+## Electrical post for the same 5 groups (Davey asked 11/9). POSTED 11/9
 Scope from [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]] (Rev AJ). Images: Assets/V2 Build Drawings/2026-11-09 Electrical RFQ images/ (quote sheet p1 + p2). Quotes to sauna@ per the quote sheet.
 
-## Wave 2: wider metro scrape 11/9 (283 places, 12 searches). NOT sent
+## Wave 2: wider metro scrape 11/9 (283 places, 12 searches). 7 tile shops emailed 11/9
 ### Tile shops with email (7)
 | Company | Email | Phone | City | Rating | Status |
 |---|---|---|---|---|---|
-| Pine State Contracting & Tile Northwest | sam@pinestatenw.com | (360) 952-1239 | Vancouver | 5.0 (60) | |
-| Terra Tile & Stone | terratileandmarble@gmail.com | (503) 550-7087 | Lake Oswego | 5.0 (47) | |
-| Clackamas Tile & Stone | clackamastilestone@gmail.com | (971) 801-5972 | Oregon City | 5.0 (46) | |
-| Kibuk Tile And Construction | kibuktilellc@gmail.com | (360) 608-4629 | Vancouver | 4.1 (22) | |
-| Ted Ashkar Tile, Inc. | info@ashkartile.com | (503) 481-5211 | Milwaukie | 5.0 (4) | |
-| Bukovina Tile and Stone Inc. | btsincrb3@gmail.com | (503) 888-8782 | Clackamas | 5.0 (2) | |
-| Star Tile LLC | Contact@Startilellc.com | (503) 482-8395 | Gresham | 5.0 (1) | |
+| Pine State Contracting & Tile Northwest | sam@pinestatenw.com | (360) 952-1239 | Vancouver | 5.0 (60) | sent 11/9 from davey@ |
+| Terra Tile & Stone | terratileandmarble@gmail.com | (503) 550-7087 | Lake Oswego | 5.0 (47) | sent 11/9 from davey@ |
+| Clackamas Tile & Stone | clackamastilestone@gmail.com | (971) 801-5972 | Oregon City | 5.0 (46) | sent 11/9 from davey@ |
+| Kibuk Tile And Construction | kibuktilellc@gmail.com | (360) 608-4629 | Vancouver | 4.1 (22) | sent 11/9 from davey@ |
+| Ted Ashkar Tile, Inc. | info@ashkartile.com | (503) 481-5211 | Milwaukie | 5.0 (4) | sent 11/9 from davey@ |
+| Bukovina Tile and Stone Inc. | btsincrb3@gmail.com | (503) 888-8782 | Clackamas | 5.0 (2) | sent 11/9 from davey@ |
+| Star Tile LLC | Contact@Startilellc.com | (503) 482-8395 | Gresham | 5.0 (1) | sent 11/9 from davey@ |
 ### Remodelers that came up under tile searches, with email (4)
 Blessed Design LLC Ethan@blesseddesignllc.com · Let's Remodel info@letsremodel.net · Mail Construction info@mailremodeling.com · Home Style Renovation kory@hsreno.com
 ### Tile shops, phone only (call/text)

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -259,6 +259,12 @@ _nothing_
   → NPB team reply to Mira Bhattacharya on whether a harnessed cat is allowed on the public Swamp Eco Tour or a private boat, any pet fee, and December promotions for two adults. (NPB team; Gmail nolapedalbarge@; touched 2026-11-09)
 - [ ] HPB SMS reply needs a human answer #HPB #id:T0126
   → HPB team text the number back from the HPB line and see whether the lead still wants to book. (HPB manager; Gmail dwrack81@; touched 2026-11-09)
+- [ ] Ebb & Ember tile setter search, NW Tub & Shower declined #Ebb-Ember #id:T0128
+  → Davey send the tile quote request to other Portland tile setters for the two sauna rooms, since NW Tub & Shower is booked full. (Davey; Gmail davey@; touched 2026-11-09)
+- [ ] HPB SMS reply needs a human answer #HPB #id:T0129
+  → HPB team text back the number that replied 'Sorry, I can't talk right now' from the HPB SMS line. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-09)
+- [ ] Green Bay Glory soccer partnership pitch, DCKT #DCKT #id:T0130
+  → DCKT staff decide whether to take a 15-20 minute meeting with Green Bay Glory about a sponsorship or partnership, or ignore it. (DCKT staff; Gmail doorcountykaking@; touched 2026-11-09)
 
 ## Backburner (LSKT)
 
