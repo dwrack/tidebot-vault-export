@@ -56,7 +56,7 @@ LED cove 180 W + bench strips 80 W + heater 200 W + heat tape 250 W + Inkbirds/W
 | Also ask | the moorage operator | who wired their dock pedestals; that electrician already knows this dock |
 
 ## Quote request (from sauna@, signed as the business; not sent as of 11/9 evening)
-Attachment: `Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Electrical Set (Rev AJ).pdf`
+**Davey 11/9: keep it looking simple so it prices simple.** Electricians get the 2-page `Assets/V2 Build Drawings/2026-11-09 V2 Saunas Electrical Quote Sheet.pdf` (6-line scope + one plan with the 7 outlets), not the 12-page Rev AJ set, which stays internal. Email shortened to 6 bullets; drafts in sauna@ for Neil and Schooner Creek carry this version.
 
 Subject: Electrical quote request - two floating saunas, one shore-power circuit, Hayden Island
 
@@ -87,8 +87,35 @@ sauna@ebbandember.com | (503) 308-1293
 Recipients (status 11/9 evening):
 - Boones Ferry Electric (Neil, Neil@boonesferryelectric.com): Gmail DRAFT in sauna@ with the PDF attached, opens "Kyle at Bench Sauna passed along your name." Not sent.
 - Schooner Creek Boat Works (info@schoonercreek.com, 503-735-0569): Gmail DRAFT in sauna@ with the PDF attached, opens "You're the closest yard to us and this is a shore-power job." Not sent.
-- Powerall Electric (quote #946 $6,420): their emails come from Jobber's notification address, so a reply goes nowhere. No public email found; phone (971) 533-1279 per CCB. Call, or ask Jonah for the email he used to request the quote; then send the same note with "Thanks for the October quote, the scope changed, here is the updated design for a re-quote."
+- Powerall Electric = Anton Dobrotolyubov, powerallelectricllc@gmail.com (also antondvik@gmail.com), 971-533-1279. Has done 3 E&E jobs in 2026 (invoices #552 $2,371 Mar, #571 $5,919 Apr, estimate #793). Re-quote DRAFT in sauna@ with the quote sheet attached. Not sent.
 - Young Electric LLC: no public email, only the form at youngelectricco.rynosites.com/contact-us. Phone (503) 706-9867. Confirm with Jonah whether this is the "Young" who bid. Paste the bullets into the form or call.
+
+### Round 2 electricians (found 11/9 evening, Davey wants it ASAP)
+Drafts in sauna@ with the quote sheet, not sent:
+| Who | Contact | CCB | Why |
+|---|---|---|---|
+| Gerryn Energy LLC (NE Sumner St) | gerrynenergy@gmail.com, 971-336-4516 | 231280 (confirm renewal, showed 6/2026) | one-person shop, same-day service, reviews mention small jobs |
+| Unity Electrical Service (NE 65th) | office@unityelectricalservice.com, 971-379-7380 | 234553 (lookup says Vancouver WA, confirm OR) | close to Hayden Island, emergency service |
+| Pacific Northwest Electric (Portland office) | info@pacificnwelectric.com, 503-583-8050 | 162893 | bigger shop, covers N Portland; ask if they take a $1-3k job |
+| Pro Tech Power Corp (Tigard) | office@protechpdx.com, mike@ 503-508-5013 | BCD license active, number not found | far, but reachable |
+
+Phone or form only (Davey or Claude by phone): Electric Avenue (same-week scheduling, 503-383-9325, electricavenuepnw.com form); Cloud City Electric (503-232-0351, CCB 255660, form); Rose City Electric Co (503-287-6164, CCB 193652); Alameda Electric (503-319-2192, CCB 199188, NE 44th); Falcon Electric (503-208-4709, same-day small repairs); Murphy Family Electric (503-444-9637, mixed reviews); Friendly Marine (text 971-363-9745, boat electrical, ask for CCB first).
+None advertises floating-home or moorage work; the email asks whether they have done dock work.
+
+### SENT 11/9 evening (from sauna@, 2-page quote sheet attached)
+Powerall (Anton), Boones Ferry (Neil), Schooner Creek, Gerryn Energy, Unity Electrical, Pacific NW Electric, Pro Tech Power. Quotes due Fri 11/14. Also: electrical post handed to the "Sauna tiling contractor outreach" session to put in the five PDX contractor Facebook groups (posts from Davey's personal profile, quotes to sauna@). A round-3 search for smaller owner-operator shops is running; drafts follow.
+
+### Round 3: smaller shops (SENT 11/9 night from sauna@, quote sheet attached, due Fri 11/14)
+| Who | Contact | CCB | Notes |
+|---|---|---|---|
+| Smiley Electric (Josh Smiley, owner) | josh@smileyelectric.net, 503-484-7556 | 227116 | 820 N River St, N Portland; quotes from photos. Top pick |
+| ATR Electric (Anthony Riddick, 3 people) | info@atrelectricpro.com, 503-505-1793 | 262727 | says small work is not filler |
+| Power Professor LLC | admin@powerprofessor.co, 360-360-3823 (emergency line) | 244602 | NE Portland, $250 call minimum credited to the job |
+| Shift Electric Co | Service@shiftelectricco.com, 503-914-4040 | 254028 | SE Portland, small repairs/upgrades |
+| Coy Electric | office@coyelectric.com, 971-306-8484 | 9388 | Oregon City, same-day service |
+Skipped Beaver Electric (Hillsboro, too far). Verify each CCB at ccb.oregon.gov before hiring.
+Phone only: Orion Electric PNW (CCB 254236, 2153 N Emerson St, 97217, closest, no phone found), EthiX Electric (CCB 253024, owner-operated, NE 88th), Eisele Electric 503-504-3270, Portland Metro Electric 503-863-7733 (CCB 249412), Service Electric NW 503-502-8225 (CCB 202257), Delatour Electric via Thumbtack (solo, $90 call fee waived if hired).
+Floating-home referral idea: call McCuddy's Marinas (Tomahawk Island) or a Hayden Island moorage manager and ask who wires their docks. Ask any shop about Portland code 28.07.
 
 ## Open for Davey
 - Say send: Neil + Schooner Creek drafts go out as is. Powerall and Young need an email address (Jonah) or a phone call.

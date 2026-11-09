@@ -3,6 +3,7 @@
 Goal: everything on site by Thu Nov 13. Prices from web listings 11/9, stock NOT verified, call or check 97211 pickup first. RFQ page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7. Takeoff: [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]].
 
 ## Decisions 11/9 (Davey)
+- FINAL supply split: WE buy tile, grout, 2 drains, edge trim. TILER brings cement board, 1 in spacers, screws/tape, thinset, floor prep, slope, waterproofing. Skip the cement board, screws, tape and spacer rows below.
 - Stove 6 in off the window (side) wall. Drain option A, in front of the stove.
 - Layout: wall tile vertical, stacked; one full tile centered on the flue (columns from the corner 10½, 12, 12, 7¼). Floor stacked, 24 in side running away from the stove wall so joints carry up the wall.
 - Drain: 12 in matte black linear, centered on the flue, one tile wide. Amazon pick: Neodrain matte black 2-in-1 (12 in size of https://www.amazon.com/dp/B0CFTCHGBC), qty 2. The 32 in rows below are superseded.
@@ -20,7 +21,7 @@ Goal: everything on site by Thu Nov 13. Prices from web listings 11/9, stock NOT
 | 1 in ceramic wall-shield spacers | 2 kits (60) | HomeSaver 54230, 30 spacers + 2-1/2 in screws | $41.17 | ShopChimney (ships; time not confirmed) |
 | Edge trim, matte black, 3/8 in | 6 x 8 ft | Schluter Jolly J100MGS (L-profile) or Schiene A100MGS (straight) | ~$28 | Home Depot |
 
-## Leave to the tiler (their system, their warranty)
+## Split (Davey 11/9, final): we supply tile, grout, drains, cement board, edge trim. Tiler supplies setting compound (thinset, floor prep over the plywood subfloor, slope, waterproofing). Floor is plywood today.
 Thinset, grout, waterproofing membrane, slope/mud bed, silicone, leveling clips (Raimondi 1/8 in, ~500 clips, ~$45 plus wedges if we supply).
 
 ## Gotchas

@@ -129,5 +129,4 @@
 - [ ] 2026-11-09: Tile RFQ (EN + ES) drafted, paused for Davey's fixes to layout, drain spot, photos and drawing. Then send to tilers + post in FB contractor group. See [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]]. Draft page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7
 - [ ] 2026-11-13: nudge Cow Bell PDX if no reply to the raclette collab pitch (sent 11/6). If yes: set shoot date, then price the raclette add-on with Jonah. See [[Shoot Brief — Fireside Raclette Date (Nov 2026)]]
 
-- [ ] 2026-11-12: uShip listing #354497657 is live (flatbed only); verify the uShip email, correct the guessed dims/weight, review quotes before it ends ~11/13. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
-- [ ] 2026-11-12: Get Airstream dims, weight and tire size from Garrett for the uShip listing and hauler quotes. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
+- [ ] 2026-11-12: uShip listing #354497657 is live (flatbed only); verify the uShip email, weight is still a 5,000 lb estimate, review quotes before it ends ~11/13. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
