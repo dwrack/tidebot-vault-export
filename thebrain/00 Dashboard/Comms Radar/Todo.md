@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -41,6 +41,8 @@ _nothing_
   > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
 - [ ] TideBot written log processing down, Gemini prepaid credits depleted #NKST #id:T0111
   → David top up the Gemini API prepay credits in AI Studio so TideBot can process written trip logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-08)
+- [ ] Rick Carlson broker asks if NOLA Bike Bar sells standalone or with shared equipment and staff #NOLA-Bike-Bar #id:T0122
+  → David decide whether to answer Rick Carlson on selling NOLA Bike Bar standalone versus including shared equipment, staff or booking infrastructure, or to drop the buyer inquiry. (David; Gmail nolakayaktours@; touched 2026-11-09)
 
 ## Waiting on someone
 
@@ -245,6 +247,10 @@ _nothing_
   → Reply do 1 in #the-helm if a BBK repost or quick offer draft is wanted; TideBot brings back any spend or post for a final go. (David; Slack #the-helm; touched 2026-11-09)
 - [ ] 11 scheduled loops failing, including Command Center and Comms Radar Send #id:T0120
   → Claude check the failing launchd jobs on mbp-2 (Command Center, Comms Radar Send, NKST Payroll exit 1, Memory Freshness, Docuseal 8442 Watch and others) and restart them. (Claude; Gmail dwrack81@; touched 2026-11-09)
+- [ ] Bob Drought: no W-9s on file for NPB contractors, lists 21 Gravity Trails payees over $600 #NPB #NKST #id:T0121
+  → NPB manager collect W-9s for the 21 contractors Bob Drought listed as paid over $600 by Gravity Trails in 2026, and send them to him since he has none on file for the names he was asked about. (NPB manager; Gmail doorcountyzip@; touched 2026-11-09)
+- [ ] Fake Meta page violation warning to NPB inbox, Google Form link #NPB #id:T0123
+  → NPB staff do not click the Google Forms link; check the Facebook page's real status in Meta Business Suite and delete the email. (NPB manager; touched 2026-11-09)
 
 ## Backburner (LSKT)
 
