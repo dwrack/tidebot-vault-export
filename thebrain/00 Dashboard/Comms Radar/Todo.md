@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-08 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-08 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -224,7 +224,7 @@ _nothing_
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; Wanderlust Craze outreach looks like the same cold pitch repeated, so verify before engaging. (David; Gmail nolakayaktours@; touched 2026-11-08)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Instagram and Threads on mbp-2 via Screen Sharing in the admire and hat Chrome profiles; the Hidden Adventure YouTube engage did run Nov 8 but with 0 actions. (David; Slack #helm-admire; touched 2026-11-08)
+  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; the Nov 8 Hidden Adventure Threads engage ran with 0 actions and TideBot paused it 24h. (David; Slack #helm-admire; touched 2026-11-08)
 - [ ] HPB SMS reply: 'Sorry, I can't talk right now' #HPB #id:T0110
   → HPB manager decide whether this reply needs a follow-up text from the HPB number, or just let it drop since the person said they can't talk. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 - [ ] Buyer asks to purchase one pedal bike from the Bike Bar crew for sale #NOLA-Bike-Bar #id:T0112
@@ -233,6 +233,8 @@ _nothing_
   → HPB manager text back the number that replied 'Sorry, I can't talk right now' from the HPB line, or close it out if no follow-up is needed. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
 - [ ] NKST guide asks ETA on new seats #NKST #id:T0114
   → NKST manager answer Stephanie Lazensky on the ETA for the new seats. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
+- [ ] HPB SMS reply: contact says they can't talk right now #HPB #id:T0115
+  → HPB manager text the contact back from the HPB number, offering a better time or a text-based answer. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 
 ## Backburner (LSKT)
 
