@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-08
+updated: 2026-11-09
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 10/31-11/07: "plantation and swamp tour new orleans" leads, 2 clicks / 28 impr, pos 1.4. IG still silent since 9/29. GBP 0 unreplied.
+- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 11/1-11/8: "plantation and swamp tour new orleans" leads, 2 clicks / 15 impr, pos 1.7. IG confirmed still silent since 9/29 (~6 weeks). GBP 0 unreplied. Flag: these GSC queries may be pulling from the wrong property — verify before trusting.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -37,7 +37,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 08. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -49,7 +49,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 | Spending | $67,961 |
 | Card payments + transfers out | $25,854 |
 | Net, month to date | -$3,288 |
-| Net, same days last month | -$10,806 |
+| Net, same days last month | -$8,567 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|

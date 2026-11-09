@@ -75,6 +75,7 @@
 - [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style)
 - [ ] Next time at the marina: LiDAR scan + photos of the 30 ft dock section for the ladder and ramps (edge framing, how the floats attach, underside if reachable, tape measure deck to water). Project: [[Dock Water Entry — Project Note]] (added 2026-11-06)
 - [ ] V2 water line: send Alex the plan, then confirm with Mario (permit, backflow, tankless). Plan: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-09)
+- [ ] V2 shower heater: Rinnai RE199eN in the Home Depot cart ($1,280.79, free delivery Nov 13-17); Davey checks out, then clearances to Grant for the cedar screen. Note: [[Private Saunas (V2) — Shower Water Heater Sourcing (Nov 9 2026)]] (added 2026-11-09)
 - [ ] Remove water dispenser from sauna or label it clearly, replace with better solution in lounge
 - [ ] Research water temp and air temp display options for sauna
 - [ ] Write 3 tagline options for phone charger sign (poetic "put down your phone" vibe)

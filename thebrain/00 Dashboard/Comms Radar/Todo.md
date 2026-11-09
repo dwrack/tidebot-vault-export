@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,8 @@ _nothing_
 
 ## Needs you
 
-- [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-08 #id:T0095
-  → David sign the Elevated Tides ACORD 126 DocuSign from Max McCuddy; a reminder arrived Nov 9. (David; Gmail davey@; touched 2026-11-09)
+- [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-09 #id:T0095
+  → David and Jonah tell Max McCuddy whether to take the higher $250k/$500k sub-limits for an extra $3,170, and get the safety program and signed ACORD forms to Cap Specialty, which is holding the effective date. (David; Gmail davey@; touched 2026-11-09)
 - [ ] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #due:2026-11-10 #id:T0118
   → David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov 13 pay date. (David; Gmail dwrack81@ Homebase; touched 2026-11-09)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -43,6 +43,8 @@ _nothing_
   → David top up the Gemini API prepay credits in AI Studio so TideBot can process written trip logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-08)
 - [ ] Rick Carlson broker asks if NOLA Bike Bar sells standalone or with shared equipment and staff #NOLA-Bike-Bar #id:T0122
   → David decide whether to answer Rick Carlson on selling NOLA Bike Bar standalone versus including shared equipment, staff or booking infrastructure, or to drop the buyer inquiry. (David; Gmail nolakayaktours@; touched 2026-11-09)
+- [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0124
+  → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
 
 ## Waiting on someone
 
@@ -74,6 +76,8 @@ _nothing_
   → Max add WaterStrong as additional insured on the Capitol policy for Nov 1 to Dec 31, then Jonah sends Dena the certificate; Dena signs and returns the agreement. (Max McCuddy; Gmail davey@; touched 2026-11-06)
 - [ ] Inkle bookkeeping refund, pre-Sept 8 payments ($5,229+) #DCKT #waiting #id:T0014
   → DCKT staff email Stretto to confirm the claim was received, since Chris Seablom says he cannot see the claims. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-09)
+- [ ] Switch Verizon plans for new phones with Michael #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0127
+  → Michael Fischer switch the Verizon plans so David can get the new phones. (Michael Fischer; Text with Michael Fischer; touched 2026-11-09)
 
 ## Open
 
@@ -251,6 +255,10 @@ _nothing_
   → NPB manager collect W-9s for the 21 contractors Bob Drought listed as paid over $600 by Gravity Trails in 2026, and send them to him since he has none on file for the names he was asked about. (NPB manager; Gmail doorcountyzip@; touched 2026-11-09)
 - [ ] Fake Meta page violation warning to NPB inbox, Google Form link #NPB #id:T0123
   → NPB staff do not click the Google Forms link; check the Facebook page's real status in Meta Business Suite and delete the email. (NPB manager; touched 2026-11-09)
+- [ ] NPB inquiry: can a Maine Coon cat join the Swamp Eco Tour, Dec 9-13 #NPB #id:T0125
+  → NPB team reply to Mira Bhattacharya on whether a harnessed cat is allowed on the public Swamp Eco Tour or a private boat, any pet fee, and December promotions for two adults. (NPB team; Gmail nolapedalbarge@; touched 2026-11-09)
+- [ ] HPB SMS reply needs a human answer #HPB #id:T0126
+  → HPB team text the number back from the HPB line and see whether the lead still wants to book. (HPB manager; Gmail dwrack81@; touched 2026-11-09)
 
 ## Backburner (LSKT)
 

@@ -1,33 +1,33 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-11-08 (Sunday). Midwest Living pitch due TONIGHT 10pm CT, Bat Bridge Meta day 8, HPB Meta still Dublin-targeted (confirmed again), E&E 29 unanswered comments (count corrected: 19+10), 18 unreplied 4-5 star reviews, TikTok confirmed logged out.*
+*Last refresh: 2026-11-09 (Sunday). NPB 2★ GBP complaint unreplied, HPB unanswered customer SMS + TikTok session expired, NKST + HPB both burning Google Ads spend at 0 conversions (confirmed live), Homebase payroll due tomorrow 6pm CST (conflicts with "automated" assumption), 23 unreplied GBP reviews.*
 
 ## Right now
 - [Today's decisions + digest (DJL Morning Digest)](https://claude.ai/artifact/QbPUmAfxBpB7WUffSGbFSn)
-- [[Daily Briefings/2026-11-08|Today's brief]]
+- [[Daily Briefings/2026-11-09|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **Door County Kayak Tours**: send the Midwest Living pitch (2027 Midwest destinations, Taryn Shorr-Mckee) TONIGHT, Sun 11/8, 10pm CT (11pm ET). Still not sent. Full draft at the bottom of today's brief, signed by the business. Attach 3 to 5 Cave Point photos.
-2. **Buffalo Bayou Kayak**: pause three Meta campaigns, day 8 and still ACTIVE (confirmed again today): Bat Bridge Traffic ($18.95 yesterday), Awareness Initiate Checkout, Retargeting Website Visitors. 0 purchases. Google also went cold for BBK yesterday ($40.44/0 conv) — not just a Meta problem on 11/7.
-3. **Houston Pedal Barge**: Meta purchase ad sets still can't deliver, confirmed live again. 11 ads across 4 ad sets target Dublin, California, every ad PAUSED. Say go and I retarget to Seabrook/Clear Lake and unpause one ad per set. Also NPB Gator Collision: 7d ROAS corrected to 1.35 (was mis-stated as 1.57 yesterday), near breakeven at $175/day — recommend cutting to $50 now.
+1. **NOLA Party Barge**: reply to the 2★ GBP review from JP Trigo (11/8, dirty bathrooms complaint), still unreplied, confirmed live. 8 more easy 5★ thank-yous waiting too.
+2. **Houston Pedal Barge**: reply to the unanswered customer text ("Sorry, I can't talk right now") — zero bookings Sat 11/8, don't lose a live lead on top of that. Also: TikTok session is logged out (needs a QR re-login on mbp-2), and a zombie Google campaign in the Texas umbrella account is spending $9.81/day at 0 conversions while HPB's own account sits paused.
+3. **NKST + Buffalo Bayou ad waste** (confirmed live): NKST's search campaigns spent $79.70 on 11/8 with 0 conversions (Michael's lane); Buffalo Bayou's Meta "Initiate Checkout" campaign is misconfigured on an awareness objective, $42.47 spent, 0 conversions.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (Sat 11/7) | 7-day avg | Δ |
+| Signal | Yesterday (Sat 11/8) | 7-day avg (11/2–11/8) | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 3 (none business-critical) | prior brief 0 | +3 |
-| Unreplied GBP 4-5 stars (12 locations) | 18 | prior brief 20 | -2 |
-| FH bookings (6 FH brands) | 30 | 21.7 | +8.3 |
-| FH booked revenue (6 FH brands) | $4,764 | $4,623 | +$141 |
-| Total ad spend (Meta + Google) | $564 | ~$453 | +$111 |
-| Ad-attributed conversions | Google ~2.6 (LSKT 2, NPB 0.59); Meta: NPB purchases at ROAS 1.36 + 16.68 | — | — |
+| Gmail unread (main inbox) | 19 | prior brief 3 | +16 |
+| Unreplied GBP reviews, all ratings (12 locations) | 23 (incl. 1 two-star) | prior brief 18 (4-5★ only) | +5 |
+| FH bookings (6 FH brands) | 25 | 21.9 | +3.1 |
+| FH booked revenue (6 FH brands) | $5,238 | $4,415 | +$823 |
+| Total ad spend (Google + Meta) | $700.88 | ~$238/day (Google only) | — |
+| Ad-attributed conversions | 4.5 Google + 8 Meta purchases + 3 msg convos | — | — |
 <!-- pulse:end -->
-*Goal pace uses 11/1 to 11/7 (7 days).*
+*Goal pace uses 11/2 to 11/8 (7 days).*
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-11-08]] (today)
-- [[Daily Briefings/2026-11-07]] (1 day ago)
-- [[Daily Briefings/2026-11-06]] (2 days ago)
-- [[Daily Briefings/2026-11-05]] (3 days ago)
-- [[Daily Briefings/2026-11-04]] (4 days ago)
-- [[Daily Briefings/2026-11-03]] (5 days ago)
-- [[Daily Briefings/2026-11-02]] (6 days ago)
+- [[Daily Briefings/2026-11-09]] (today)
+- [[Daily Briefings/2026-11-08]] (1 day ago)
+- [[Daily Briefings/2026-11-07]] (2 days ago)
+- [[Daily Briefings/2026-11-06]] (3 days ago)
+- [[Daily Briefings/2026-11-05]] (4 days ago)
+- [[Daily Briefings/2026-11-04]] (5 days ago)
+- [[Daily Briefings/2026-11-03]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
@@ -52,5 +52,5 @@
 - [[Brand Nemesis Framework]]
 
 <!-- ad-optimizer:start -->
-> 📉 Ad Optimizer: 10 changes to approve, 5 advisories — see 00 Dashboard/Ad Optimizer
+> 📉 Ad Optimizer: 7 changes to approve, 5 advisories — see 00 Dashboard/Ad Optimizer
 <!-- ad-optimizer:end -->

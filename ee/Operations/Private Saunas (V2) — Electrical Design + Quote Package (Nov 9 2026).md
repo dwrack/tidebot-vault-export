@@ -2,7 +2,7 @@
 
 **Status 2026-11-09 (later):** Davey: no panel, one circuit, outlets only. Rev AJ supersedes Rev AI (kept as the "if we ever want a panel" version). Drawing: `Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Electrical Set (Rev AJ).html`. No emails sent yet.
 
-**Rev AJ in one paragraph:** shore-power cord from the pedestal to an inlet at the SE corner. If the pedestal has a 20 A 125 V GFCI receptacle, the cord plugs into that and there is nothing on the float but outlets; if it only has 30 A twist-locks, one 20 A GFCI breaker in a weatherproof box at the inlet (20 A outlets can't sit on a 30 A breaker). Seven GFCI outlets with in-use covers: E2 at each sauna's SW corner (24 V LED drivers plug in, Rev U), E6 inside each stove box (Inkbird), E11 at the water heater, E14 in each locker cubby; plus E13 heat tape at the water entry. Load about 770 W of 2,400. Dimming by inline 24 V push-knob dimmers on the LV leads by the door, no 120 V switch. Keep the junction boxes under hatches and the empty conduit stubs (fire pits, both float edges) since the deck only opens once. One circuit of outlets is the easiest fit for an Oregon minor label.
+**Rev AJ in one paragraph:** the dock pedestal is 30 A (Davey 11/9), so a standard 30 A marine cord runs to a 30 A twist-lock inlet at the SE corner, with one 20 A GFCI breaker in a weatherproof box behind it (20 A outlets can't sit on a 30 A breaker). No panel, no combining two receptacles (770 W of 2,400). Seven GFCI outlets with in-use covers: E2 at each sauna's SW corner (24 V LED drivers plug in, Rev U), E6 inside each stove box (Inkbird), E11 at the water heater, E14 in each locker cubby. No heat tape outlet (Davey 11/9); the PEX gets drained for freezes. Load about 520 W of 2,400. Dimming by inline 24 V push-knob dimmers on the LV leads by the door, no 120 V switch. Keep the junction boxes under hatches and the empty conduit stubs (fire pits, both float edges) since the deck only opens once. One circuit of outlets is the easiest fit for an Oregon minor label.
 
 ---
 *Rev AI below is history (11/9 morning): three circuits and a float panel.* Drawing: `Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Electrical Set (Rev AI).html` (sheets E-100 plan, E-101 room lighting, E-200 one-line, E-001 devices, J-001 junction boxes, L-001 load). Replaces E-001 and the electrical rows of U-001 in the Rev AH coordination set.
@@ -35,7 +35,7 @@
 - **Practical path: Oregon minor installation label.** Licensed electrical contractors buy them (10 for $140, so about $14 each), no plan review, one inspection included, up to 3 new circuits at 60 A or less, one label per job site. Excludes service/panel *replacement*, underground work, pools/hot tubs (Art. 680). That is why Rev AI is held to 3 circuits. Open question for the electrician: does Portland treat a float as a qualifying job site for a label. If yes, this is a $14 line on the quote, not a permit process. If no, it is a regular electrical permit with inspection; the design does not change.
 - Sources: portland.gov/code/28/03/020, portland.gov/code/28/all, oregon.public.law/rules/oar_918-309-0000, oregon.gov/bcd/minlab/Pages/el-scope.aspx.
 
-## Load (L-001)
+## Load (L-001, Rev AI history; Rev AJ is about 520 W, no heat tape)
 LED cove 180 W + bench strips 80 W + heater 200 W + heat tape 250 W + Inkbirds/Wi-Fi/cameras 40 W + exterior lights 40 W + one staff tool 1,500 W = about 2,300 W. 30 A at 125 V gives 3,600 W; 50 A at 125/250 V gives 12,000 W. Future: fire-pit igniters, waterfall pump 600 W, chiller 450 to 1,100 W (Penguin 1/2 to 1 HP, 120 V) or larger at 240 V.
 
 ## Walkthrough questions (Davey + Grant + Mario + electrician)
@@ -55,33 +55,43 @@ LED cove 180 W + bench strips 80 W + heater 200 W + heat tape 250 W + Inkbirds/W
 | Schooner Creek Boat Works (marine electrical) | 503-735-0569, 3255 N Hayden Island Dr | Hayden Island boatyard, does complete boat electrical systems. Best bet for someone who has wired shore-power inlets and panels; confirm they hold an electrical contractor license for the label. |
 | Also ask | the moorage operator | who wired their dock pedestals; that electrician already knows this dock |
 
-## Quote request (from sauna@, signed as the business; not sent as of 11/9)
-Subject: Electrical quote request - two floating saunas, shore-power fed, Hayden Island
+## Quote request (from sauna@, signed as the business; not sent as of 11/9 evening)
+Attachment: `Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Electrical Set (Rev AJ).pdf`
+
+Subject: Electrical quote request - two floating saunas, one shore-power circuit, Hayden Island
 
 Hi [name],
 
-We're Ebb & Ember, the floating sauna on the Columbia at 173 NE Bridgeton Rd. We're finishing two small private saunas on a new 18 x 36 ft float next to our existing one, and we'd like a quote on the electrical.
+We're Ebb & Ember, the floating sauna on the Columbia at 173 NE Bridgeton Rd. We're finishing two small private saunas on a new 18 x 36 ft float next to our existing one and would like a quote on the electrical. The plan set is attached. The short version:
 
-The stoves and water heater are natural gas, so the electrical is light. The plan is a shore-power cord from the dock pedestal to an inlet on the float and one 20 A GFCI circuit, no panel: seven weatherproof outlets (two for the 24 V LED drivers, one at the tankless water heater, one in each stove control box, one in each locker cubby) plus a heat-tape outlet, all in conduit under the deck with junction boxes at lift-out hatches and a few capped empty stubs for later. If the pedestal only has 30 A twist-locks we'd need a single 20 A breaker at the inlet. The drawing set with the device schedule, one-line and box locations is attached.
+- Stoves and water heater are natural gas, so the electrical is light: about 520 W total.
+- Power comes from the dock pedestal, which is 30 A. Standard 30 A shore-power cord to a 30 A twist-lock inlet at the float's southeast corner.
+- One 20 A GFCI breaker in a weatherproof box behind the inlet, then one circuit. No panel.
+- 7 weatherproof GFCI outlets with in-use covers: 2 for the 24 V LED drivers (one per sauna, outside at the corner), 1 at the tankless water heater, 1 in each stove control box, 1 in each locker cubby.
+- Everything in conduit under the deck with junction boxes at lift-out hatches, and a few capped empty stubs for later.
+- Nothing 120 V inside the hot rooms. Lighting is 24 V strip with inline dimmers.
 
-Two things we'd like your read on in the quote: whether this fits under an Oregon minor installation label as one new circuit on one job site, and what you need from the pedestal (we'll get you a photo of its label and breaker). Rough-in has to happen before the deck boards go down, ideally the week of November 17, so a site visit this week or next would be great. Framing is done and the walls are open.
+Two things we'd like your read on in the quote:
+- Whether this fits under an Oregon minor installation label (one new circuit, one job site).
+- What you need from the pedestal. We'll send a photo of its label and breaker.
 
-Could you send a quote by Friday, November 14? Happy to walk the float with you any morning.
+Timing:
+- Framing is done and the walls are open. Rough-in has to happen before the deck boards go down, ideally the week of November 17.
+- A site visit this week or next would be great; any morning works.
+- Could you send a quote by Friday, November 14?
 
 Thanks!
 Ebb & Ember
 sauna@ebbandember.com | (503) 308-1293
 
-Attachment: 2026-11-09 Private Saunas V2 Electrical Set (Rev AJ).html (print to PDF before sending)
-
-Recipients, each sent separately, personalized first line:
-- Powerall Electric: reply in the #946 thread; add "Thanks for the quote in October and sorry for the slow reply. The scope changed, so here is the updated design for a re-quote."
-- Boones Ferry Electric (Neil): "Kyle at Bench Sauna passed along your name."
-- Young Electric: cold; use the draft as is.
-- Schooner Creek Boat Works: "You're the closest yard to us and this is a shore-power job, so you may be the right fit."
+Recipients (status 11/9 evening):
+- Boones Ferry Electric (Neil, Neil@boonesferryelectric.com): Gmail DRAFT in sauna@ with the PDF attached, opens "Kyle at Bench Sauna passed along your name." Not sent.
+- Schooner Creek Boat Works (info@schoonercreek.com, 503-735-0569): Gmail DRAFT in sauna@ with the PDF attached, opens "You're the closest yard to us and this is a shore-power job." Not sent.
+- Powerall Electric (quote #946 $6,420): their emails come from Jobber's notification address, so a reply goes nowhere. No public email found; phone (971) 533-1279 per CCB. Call, or ask Jonah for the email he used to request the quote; then send the same note with "Thanks for the October quote, the scope changed, here is the updated design for a re-quote."
+- Young Electric LLC: no public email, only the form at youngelectricco.rynosites.com/contact-us. Phone (503) 706-9867. Confirm with Jonah whether this is the "Young" who bid. Paste the bullets into the form or call.
 
 ## Open for Davey
-- Rev AJ (one circuit, outlets only) per Davey 11/9: confirm and OK the sends.
+- Say send: Neil + Schooner Creek drafts go out as is. Powerall and Young need an email address (Jonah) or a phone call.
 - OK sending the quote request to Powerall (re-quote), Boones Ferry, Young, Schooner Creek.
 - Who answers Jonah's 11/9 "are we waiting on other electrical quotes" in #private-saunas-build.
 - Add the electrician to the float walkthrough (U-002) so the tap point, cord route and hatch spots get settled in one visit.
