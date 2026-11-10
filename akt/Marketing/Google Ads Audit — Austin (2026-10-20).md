@@ -282,3 +282,50 @@ Read-only pull from the campaigns page (Chrome). No account changes made.
 - LSKT PMax budget $37.50 → **$25/day** (verified on campaigns page). Google's simulator: $37.50 ≈ $262 cost / $505 value per week; $25 ≈ $175 / $400. The cut spend was returning ~1.2x. Restore to ~$45 on Mar 1.
 - LSKT Brand max CPC cap $1.50 → **$2.50** (verified after reload). Still Maximize clicks, $10/day.
 - Not applied: BBK PMax stays $15. HPB untouched (flagged to coordinate with doorcountyzip@).
+
+## Two-week check (2026-11-10)
+
+Read-only pull from the campaigns and search-terms pages in Chrome. The date button was checked before each read. No account changes made.
+
+**Caveat:** Nov 3–9 includes only **one day** (Nov 9) after the PMax $25 budget and the Brand $2.50 cap went live, so this week mostly shows the old settings. The first clean week is Nov 10–16.
+
+| Campaign | Oct 20–26 | Oct 27–Nov 2 (re-pulled) | **Nov 3–9** |
+|:-|:-|:-|:-|
+| PMax (Eligible; $25/day since Nov 9) | $307, 10 conv, $975, 3.17x, $31 CPA | $279, **4** conv, $471, 1.69x, $70 CPA | **$258, 3 conv, $446, 1.72x, $86 CPA** · IS 22%, lost 17% budget / 61% rank |
+| Brand (Eligible, **still Learning**) | $2.18, 0 conv | $1.67, 6 clicks, 0 conv · IS 66%, rank-lost 31% | **$7.37, 5 clicks, 13 impr, 0 conv, CPC $1.47** · IS 42%, lost **46% rank** / 12.5% budget |
+| Bat search (paused Nov 1) | $56, 1 conv, $217 | $16.50, 0 conv | $0 |
+| **Austin total** | $365, 11 conv, $1,192, 3.3x | $297, 4 conv, $471, 1.6x | **$266, 3 conv, $446, 1.7x, $89 CPA** |
+| BBK PMax ($15, Limited by budget) | | $128, 4 conv, $595, 4.64x | $96, 1 conv, $119, **1.24x** · 28% lost to budget |
+| BBK Generic Local ($14) | | $36, 3 conv, 5.02x | $39, 1 conv, 3.08x |
+| BBK Brand ($24) | | | $24, 0 conv |
+| HPB Search ($15, Limited by budget) | | $155, 4 conv, 1.56x | $100, 2 conv, $264, **2.63x** |
+| **Account** ($103/day) | | $665, **16.0** conv, $1,555, **2.34x** | **$525, 7 conv, $947, 1.80x, $75 CPA** |
+
+### Findings
+- **Conversion lag:** Oct 27–Nov 2 PMax grew from 3 to **4 conv** ($444 → $471, 1.59x → 1.69x). The account total for that week grew from 13 to 16 conv (2.12x → 2.34x). Nov 3–9 will likely add ~1 more.
+- **PMax is still under 2x for the second week running** (1.69x, then 1.72x). Spend held at ~$37/day because the $25 budget started Nov 9; share lost to budget rose from 7% to 17%.
+- **PMax search terms (Nov 3–9):** visible terms $149 → 1 conv; hidden/other ~$109 → 2 conv.
+
+| Intent (visible) | Terms | Cost | Conv |
+|:-|-:|-:|-:|
+| Generic kayak | 42 | $98 | 0 |
+| Bat | 32 | $31 | **1** ("austin bat kayak") |
+| Rental | 10 | $14 | 0 |
+| Other (boat rental, Lady Bird Lake activities, address) | 10 | $3 | 0 |
+| SUP / canoe | 5 | $2 | 0 |
+| Brand | 1 ("austin kayak tours") | $0 | 0 |
+
+  - No new waste worth a negative: the zero-conversion spend is core generic kayak intent ("kayaking austin" $10, "bat kayak tour austin" $9, "kayak austin" $6). The 8 negatives held; no lake travis / san antonio / tubing / competitor spend.
+  - Bat terms produced this week's only visible conversion, which supports not adding bat negatives.
+  - **No brand leakage into PMax:** "lone star kayak"/"lonestar" are absent; "austin kayak tours" showed impressions at $0.
+- **Brand did not finish learning.** All its clicks cost ~$1.47, right at the old $1.50 cap, so the $2.50 cap had not yet bought any clicks by Nov 9. Share lost to rank (46%) is worse than last week's 40%. Searches: "lone star kayak tours" 3 clicks, "lonestar kayak" 1. Brand volume is tiny (~30 searches/week).
+- **BBK PMax had a weak week** (1.24x, 1 conv) after 4.64x the week before; 30-day ROAS was 6.4x on Nov 9. One week is noise; keep $15 per Michael.
+- **HPB Search recovered** to 2.63x (from 1.56x) after doorcountyzip@'s Nov 5 keyword changes.
+- **FareHarbor:** no new booking report since Oct 10. Pro-rating the Sep 24 weekly forecast gives about **27 → 16 → 10 bookings** for Oct 20–26 → Oct 27–Nov 2 → Nov 3–9 (−35% this week). Austin ad conversions went **11 → 4 → 3** (−25% this week). Ads still catch about 25–30% of forecast bookings (41% in Oct 20–26), so this week tracked the seasonal decline rather than falling further behind it.
+
+### Recommendations (awaiting Michael's approval; none applied)
+1. **PMax: hold $25/day this week.** The cut has only had one day. If the first full week at $25 (Nov 10–16) is still under ~2x, drop to **$20/day through Feb**. Restore ~$45 on Mar 1 as planned.
+2. **Brand: no change yet.** The $2.50 cap is already above the $2 the plan suggested. Re-check Nov 17. If share lost to rank is still above 20% with CPCs under $2.50, the limit is Ad Rank quality (ad/keyword relevance, landing page), not the bid, so review the ad and Quality Score instead of raising the cap again.
+3. **BBK PMax: keep $15.** One soft week doesn't change the 30-day picture.
+4. **No new PMax negatives.**
+5. **Next check: Nov 17**, using Nov 10–16 (the first full week on the new settings).
