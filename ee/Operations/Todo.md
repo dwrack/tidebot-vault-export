@@ -3,8 +3,8 @@
 ## V2 Tile order (added 2026-11-09 — notes: [[V2 Tile Quotes Comparison (2026-11-06)]], [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]])
 - [ ] Davey 11/10: stop in at Floor & Decor North Portland and finalize the 12x24 tile in person (Black Brushed Slate online is 24x24 only, not what was seen in store); email to Daisy ON HOLD
 - [ ] Order at the store: ~130 pcs 12x24 (210 sq ft coverage, 113 exact), Spectralock 22 Midnight Black grout, sealer if natural stone, Schluter MGS edge trim; delivery to 173 NE Bridgeton Rd by Thu 11/13
-- [ ] Davey orders 2x Neodrain 12 in matte black linear drains (B0CPLSK4TT, $36.99) + 2x Neodrain 2 in drain bases on Amazon; ask Alex ABS vs PVC first; SaniteModar scrapped 11/9
-- [ ] Send the Floor Drain Set (Rev AL, https://claude.ai/artifact/N7MdNwaJPUoDYREh8ybQj9) to Grant, Alex and the tiler before rough-in; get the 5 answers (joist at the outlet, what's under the floor, PVC or ABS, hip cuts OK, stove leg shims). See [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]]
+- [ ] Davey orders 2x Neodrain 12 in matte black linear drains (B0CPLSK4TT, $36.99) (drain only, NOT the Neodrain base); PLUS 2x Neodrain 2 in base ($18.74, PVC or ABS, no pipe so either works); tiler seals liquid membrane over the base flange (weep holes filled, fabric); SaniteModar scrapped 11/9
+- [ ] Send the Floor Drain Set (Rev AL, https://claude.ai/artifact/N7MdNwaJPUoDYREh8ybQj9) to Grant, Alex and the tiler before rough-in; get the answers (joist at the outlet, open air under the floor for the drip, tiler's drain body + hip cuts OK, Refiners OK shimming stove legs). See [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]]
 - [ ] Update the buy list with the final SKUs and totals
 
 ## Private saunas launch + website deploy (added 2026-11-09 — note: [[Private Saunas Launch Plan + Website Deploy (2026-11-09)]])
@@ -22,7 +22,7 @@
 - [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
 - [ ] Stamp valve tags to match G-001; add V0, V2 and the three E-stop knobs to the staff emergency sheet
 
-- [ ] Davey: open the All Fuel estimate (Skyler Hume, allfuel@allfuelinstallation.com, 503-674-2350; emails 10/27 'Roof penetrations and firetable option' + estimate notices 10/27 and 11/1 in davey@) and tell me the firetable kit + install price; compare to the Outdoor Plus Del Mar and the Grant-built box
+- [ ] Davey: read the rest of All Fuel's 10/27 email 'Roof penetrations and firetable option' in davey@ (my tools cut it off; both estimates are vents only, $6,874.97) and tell me the firetable kit + install price, or ask Skyler Hume (503-674-2350) for a firetable quote; compare to the Del Mar and the Grant-built box
 
 ## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
 - [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
@@ -151,3 +151,4 @@
 - [ ] Safety plan v3 to Max by Fri 11/13 after the Jonah walkthrough: [[Safety Plan Review with Jonah (2026-11-09)]] (added 2026-11-09)
 - [ ] Rotate Inkbird, Blink and sauna@ logins posted in plaintext in Slack #general (Aug 29 to Sep 1) and delete those messages (added 2026-11-09)
 - [ ] Tile: Tim Yushchuk (TIDI Construction) needs floor photos + scope sheet to quote. Scope sheet: [[2026-11-09 V2 Saunas Tile Scope Sheet]]. See [[Private Saunas (V2) — Tiler Outreach List (Nov 9 2026)]]
+- [ ] Grant answers for tile plan (plywood, joists, deck height, slope method), then reply to Tim Yushchuk. See [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]]
