@@ -44,21 +44,16 @@ PEX is rated to 180°F and the room runs hotter, so **no PEX inside the hot room
 - Alex: 3/4" cold line in, valve kit with drain ports and the 150 psi relief valve, then the outlet to both shower heads. Gas side is separate.
 - Set temperature is decided at hookup. See the fixture note below.
 
-## Shower fixtures: options (matte black, outdoor-rated)
-**Update 2026-11-10: PICK = Modland Wall Mounted Matte Black 3-Function Temperature Control Outdoor Shower (SKU DSOS01M08B81), 2 units, $289.99 each after Modland's auto discount ($579.98 total, free shipping, in stock). 304 stainless + brass, cUPC, hot/cold mixer, rain head + handheld + foot spout, G3/4 NPT inlets. Because it has a mixer, Alex runs BOTH hot and cold to each shower: tee the 3/4 cold line at the heater to each valve. Heater set point moves to 120°F. Winterize by draining (the plan's drain-down covers it).**
+## Shower fixtures: 3 options to choose from (2026-11-10, all wall mounted, $300 to $400 each)
+All three: matte black, wall mount on the center wall, hot/cold mixer. Because every option has a mixer, Alex tees COLD to each shower as well as hot, and the heater set point is 120°F. Also on the drawing set, sheet W-101: https://claude.ai/artifact/RkEU6RLHX9eks8rLNmiRt2
 
-River water is fresh, not salt, so 304 stainless or solid brass under a black finish is fine; 316 is better but not required. Black finishes fade and chip in sun, so pick powder coat over stainless or brass, never over zinc or plastic.
+| | Option | Each | Two units | Notes |
+|---|---|---|---|---|
+| A | Rbrohant JK0145, 304 stainless, 10" rain head + handheld on a slide column, single-handle mixer | $299.99 | about $500 after the auto $100 off | Simplest. Free shipping, 30-day returns, lifetime parts. https://www.rbrohant.com/products/outdoor-shower-fixture-jk0145 |
+| B (2 in the mod-land.com cart) | Modland DSOS01M08B81, 304 SS + brass, rain + handheld + foot spout, one handle | $369.99, $289.99 after the auto discount | $579.98 | cUPC + NSF, lifetime warranty. https://www.mod-land.com/products/wall-mounted-matte-black-3-function-temperature-control-qutdoorshower |
+| C (recommended) | Rbrohant JK0500, 316 marine stainless, rain + handheld, adjustable column, mixer + diverter | $399.99 | about $600 after the auto $200 off | 316 for about $20 more than B all in; best bet on a river deck. https://www.rbrohant.com/products/316-stainless-steel-wall-mount-outdoor-shower |
 
-Plumbing note: only hot water from the heater reaches the showers, so the heater's set temperature IS the shower temperature (set it around 105°F). A plain on/off valve works. If we want guests to be able to cool it down, tee a cold line into a mixing valve at each shower.
-
-| Tier | Product | Each | Notes |
-|---|---|---|---|
-| Budget | Home Depot matte black exposed wall bar kits (rain head + hand shower) | about $154 to $203 | Brass/stainless, not marine-rated. Easy to swap later. |
-| Mid | Modland Wall Mounted Matte Black 3-Function Temperature Control Outdoor Shower | $369.99 (sale) | Built for outdoors, hot/cold control. Modland also makes a 316 matte black cold-only head ($619.99) that won't fit our hot feed. |
-| Premium | Waterware Pacific Outdoor Shower Tower, matte black | price on request | 316 stainless, powder-coated black, wall mount, mixer built in. Australian brand, would need importing. |
-| Premium (not black) | Outdoor Shower Company Waterline, 316 stainless | about $1,475 to $3,788 | Thermostatic versions available. Satin or mirror finish only, 8 to 10 week lead time. |
-
-Prices are web listings seen 2026-11-09. Alex's input wanted on which holds up best.
+Prices seen 2026-11-10 (Black Friday previews). Davey picks the letter; then order two.
 
 ## Freeze protection (before the first hard freeze)
 - No heat tape. Anti-freeze drip valves instead: one at the far end of each water line so water keeps moving through the whole run when it gets cold.
