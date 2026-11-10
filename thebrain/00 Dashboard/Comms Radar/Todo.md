@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,6 @@ _nothing_
 
 ## Needs you
 
-- [ ] Elevated Tides umbrella policy bound, DocuSign sent, safety plan requested #due:2026-11-09 #id:T0095
-  → David and Jonah tell Max McCuddy whether to take the higher $250k/$500k sub-limits for an extra $3,170, and get the safety program and signed ACORD forms to Cap Specialty, which is holding the effective date. (David; Gmail davey@; touched 2026-11-09)
 - [ ] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #due:2026-11-10 #id:T0118
   → David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov 13 pay date. (David; Gmail dwrack81@ Homebase; touched 2026-11-09)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -56,6 +54,8 @@ _nothing_
   → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts tomorrow (Nov 4), per David's ask. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-03)
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
+- [ ] Elevated Tides umbrella policy: higher limits approved, safety plan sent, awaiting carrier confirmation #waiting #due:2026-11-09 #id:T0095
+  → Max McCuddy confirm in writing that the carrier has the corrected ACORD answers and the $250k/$500k sub-limits at $3,170; the effective date Friday depends on the signed ACORD forms and safety program. (Max McCuddy; Gmail davey@; touched 2026-11-09)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → NKST manager confirm whether Michelle Healey has also been paid, since River says they were paid yesterday. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Anti-slip dock steps options, get Alex's feedback #waiting #id:T0076
@@ -201,8 +201,6 @@ _nothing_
   → Ignore both; same pattern as the other funding solicitations, send no financial documents. (David; Gmail cavepointpp@, Gmail doorcountykayaking@; touched 2026-11-06)
 - [ ] Blink cameras offline: boat, workshop, gas station, palapas, floodlight #id:T0092
   → David or on-site staff check WiFi and power for the offline Blink cameras (Boat, Workshop, Gas station, Palapas, Wired Floodlight). (David; Gmail dwrack81@; touched 2026-11-06)
-- [ ] Admire NOLA GitHub Pages deploy failed #Admire-NOLA #id:T0093
-  → Whoever maintains the Admire NOLA site check the failed deploy job in GitHub Actions and rerun it. (Admire NOLA site maintainer; Gmail admirenola@; touched 2026-11-06)
 - [ ] NOLA Sales and Use tax not filed July through October #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0094
   → David and Michael get Louisiana Sales and Use filing automated through Michael's computer since he has the 2FA, and confirm whether July through October actually filed; David says it should have. (Michael Fischer; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
@@ -246,7 +244,9 @@ _nothing_
 - [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
   → NKST manager review the new affiliate/influencer signups and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-09)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; Admire Instagram engage was logged out again Nov 9 (paused 24h) and Hidden Adventure YouTube engage took 0 actions. (David; Slack #helm-admire; touched 2026-11-09)
+  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; Hidden Adventure Threads engage was logged out again Nov 9 (paused 24h, 0 actions). (David; Slack #helm-admire; touched 2026-11-09)
+- [ ] Admire NOLA GitHub Pages deploy failed #Admire-NOLA #id:T0093
+  → Whoever maintains the Admire NOLA site check the failed deploy job in GitHub Actions and rerun it; it failed again on Nov 9 (build succeeded, deploy failed). (Admire NOLA site maintainer; Gmail admirenola@; touched 2026-11-09)
 - [ ] HPB SMS reply 'Sorry, I can't talk right now' waiting on a human answer #HPB #id:T0117
   → HPB manager text back the number that replied from the HPB line; the same alert has repeated hourly since Nov 8 9pm. (HPB manager; Gmail dwrack81@ (HPB SMS alerts); touched 2026-11-09)
 - [ ] Buffalo Bayou Kayak soft demand, $119 booked vs $299 7-day average #BBK #id:T0119
@@ -269,6 +269,10 @@ _nothing_
   → DCKT staff decide whether to take a 15-20 minute meeting with Green Bay Glory about a sponsorship or partnership, or ignore it. (DCKT staff; Gmail doorcountykaking@; touched 2026-11-09)
 - [ ] HPB SMS reply needing a human answer: 'Sorry, I can't talk right now' #HPB #id:T0132
   → HPB manager decide whether the 'can't talk right now' reply needs a follow-up text from the HPB SMS number or can be dropped. (HPB manager; Gmail dwrack81@; touched 2026-11-09)
+- [ ] NPB booking inquiry, party of 9 on Nov 21, wants a call #NPB #id:T0133
+  → NPB team call or reply to Wykeenia Russell about a party of 9 on Nov 21 and answer her questions. (NPB team; Gmail nolapedalbarge@; touched 2026-11-09)
+- [ ] HPB SMS reply needs a human answer #HPB #id:T0134
+  → HPB manager text back the number that replied 'Sorry, I can't talk right now' from the HPB line, or close it if no follow-up is needed. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-09)
 
 ## Backburner (LSKT)
 

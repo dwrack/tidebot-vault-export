@@ -1,5 +1,11 @@
 # Ebb & Ember — Todo List
 
+## V2 Tile order (added 2026-11-09 — notes: [[V2 Tile Quotes Comparison (2026-11-06)]], [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]])
+- [ ] Davey 11/10: stop in at Floor & Decor North Portland and finalize the 12x24 tile in person (Black Brushed Slate online is 24x24 only, not what was seen in store); email to Daisy ON HOLD
+- [ ] Order at the store: ~130 pcs 12x24 (210 sq ft coverage, 113 exact), Spectralock 22 Midnight Black grout, sealer if natural stone, Schluter MGS edge trim; delivery to 173 NE Bridgeton Rd by Thu 11/13
+- [ ] Davey orders 2x Neodrain 12 in matte black linear drains (B0CPLSK4TT) + 2x 2 in no-hub bases on Amazon, after the tilers confirm liquid membrane
+- [ ] Update the buy list with the final SKUs and totals
+
 ## Private saunas launch + website deploy (added 2026-11-09 — note: [[Private Saunas Launch Plan + Website Deploy (2026-11-09)]])
 - [ ] Davey + L: finish the final site review this week; L has not been in touch since the missed meeting
 - [ ] Deploy the site Sun 11/15 night, pricing announced Mon 11/16; confirm dates with Jonah (record says announce 11/15, live 11/23)

@@ -135,7 +135,7 @@ Needed from Davey: dock photos + pedestal-to-float distance (on dashboard).
 | 11/9 | Smiley | Cord + inlet specs | 30 A 125 V twist-lock marine inlet + matching 30 A marine cord set, length cut to the measured distance | add distance when measured |
 | 11/9 | Smiley | Distance pedestal to float | PENDING: Davey to measure | add once measured |
 | 11/9 | Unity | When do you want the appointment? | Davey answered: tomorrow Tue 11/10 | n/a |
-Status: Neil (Boones Ferry) out, booked until Dec 14. Davey already answered Unity himself.
+Status 11/9 night: replies SENT from davey@ cc jonah@ to Pacific NW Electric (answers + site walk tomorrow Tue) and Smiley (photos tomorrow morning, NO $295 visit committed, wait for the quote off the photos). Unity: Davey answered himself (available Tue 11/10). Neil (Boones Ferry) out, booked until Dec 14; decline-thanks reply drafted, not sent.
 
 ## Open for Davey
 - Say send: Neil + Schooner Creek drafts go out as is. Powerall and Young need an email address (Jonah) or a phone call.
