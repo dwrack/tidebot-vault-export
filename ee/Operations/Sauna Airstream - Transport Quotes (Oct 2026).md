@@ -5,17 +5,17 @@ Status 2026-11-09: uShip listing LIVE, ID 354497657 (https://www.uship.com/listi
 ## uShip listing (posted by Davey 2026-11-09, edited to flatbed-only same day)
 - Category: Vehicles > Recreational Vehicles > Travel Trailer, towable = NO
 - Title: "1974 Airstream 31ft trailer, sauna conversion" (50-char limit)
-- Specs: 25 ft x 8 ft x 10 ft 8 in (chimney incl.), weight estimate 5,000 lb (see status line)
+- Specs: 25 ft x 8 ft x 10 ft 8 in (chimney incl.), weight estimate 4,500 lb (gutted shell, see status line)
 - Pickup: Business (no dock), Sturgeon Bay WI 54235, after 11/12/2026
 - Delivery: Commercial Farm / Ranch / Marina, Portland OR, before 12/31/2026
 - Service types: enclosed + open only (Tow Away unchecked)
 - Details text: sauna conversion, no water tanks, FLATBED ONLY because tires need replacing, exact addresses after booking, carriers with own authority + cargo insurance preferred
-- Photo (Davey picked 2026-11-09): whole-trailer sunset shot from the @theairsteamsauna post of Dec 24 2024, saved as Assets/Photos/Airstream Sauna (Lykke)/web/airstream-sauna-whole-trailer-sunset.jpg. The earlier snowy-rear and badge photos were removed from the listing. SINGLE AXLE. Real dims from Garrett's texts 10/17 + 10/20: 25 ft L x 8 ft W x 8 ft to roof, chimney +2 ft (+8 in cap) so about 10 ft 8 in overall, tires 2 ft 5 in tall. Listing updated 11/9 to 25 x 8 x 10 ft 8 in, title '1974 Airstream 25ft single axle sauna trailer'. Weight is still an ESTIMATE (5,000 lb); Garrett also put 2 bikes + chargers inside. Year 1974 confirmed (the 1976 for-sale-sign photo is a different Airstream). Still to do: verify uShip email, correct specs, log quotes in the table below
+- Photo (Davey picked 2026-11-09): whole-trailer sunset shot from the @theairsteamsauna post of Dec 24 2024, saved as Assets/Photos/Airstream Sauna (Lykke)/web/airstream-sauna-whole-trailer-sunset.jpg. The earlier snowy-rear and badge photos were removed from the listing. SINGLE AXLE. Real dims from Garrett's texts 10/17 + 10/20: 25 ft L x 8 ft W x 8 ft to roof, chimney +2 ft (+8 in cap) so about 10 ft 8 in overall, tires 2 ft 5 in tall. Listing updated 11/9 to 25 x 8 x 10 ft 8 in, title '1974 Airstream 25ft single axle, gutted shell'. Davey 11/9: the trailer is GUTTED with paddleboards, 2 e-bikes and other gear stored inside, so weight = about original factory build-out, entered as 4,500 lb (ESTIMATE); Contents inside for the trip: paddleboards, 2 e-bikes + chargers, other gear (listing says so; weight excludes a true count). Year 1974 confirmed (the 1976 for-sale-sign photo is a different Airstream). Still to do: verify uShip email, correct specs, log quotes in the table below
 - Vetting rule applies to uShip bidders too: carrier authority on SAFER, cargo cert, no deposit off-platform
 
 ## Shipment specs (fill the blanks)
-- Unit: Airstream, 1974, 25 ft, single axle, converted to a sauna (gas stove, interior wood)
-- Est. weight: ~5,000 lb (estimate, no scale weight)
+- Unit: Airstream, 1974, 25 ft, single axle, gutted shell with gear stored inside
+- Est. weight: ~4,500 lb (original build weight, gutted; estimate, no scale weight)
 - Running gear: single axle; tires need replacing, so FLATBED / DECK ONLY (landoll, lowboy, RGN). No tow-away.
 - Pickup: Sturgeon Bay, WI 54235 (exact address only after booking)
 - Drop: Portland, OR (exact address only after booking)

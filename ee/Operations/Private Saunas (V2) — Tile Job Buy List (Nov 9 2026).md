@@ -7,6 +7,7 @@ Goal: everything on site by Thu Nov 13. Prices from web listings 11/9, stock NOT
 - Stove 6 in off the window (side) wall. Drain option A, in front of the stove.
 - Layout: wall tile vertical, stacked; one full tile centered on the flue (columns from the corner 10½, 12, 12, 7¼). Floor stacked, 24 in side running away from the stove wall so joints carry up the wall.
 - Drain: 12 in matte black linear, centered on the flue, one tile wide. Amazon pick (Davey 11/9 evening): Neodrain 12 in matte black 2-in-1 tile insert, https://www.amazon.com/dp/B0CPLSK4TT, $36.99, qty 2, PLUS 2x Neodrain 2 in drain base (sold separately, ABS or PVC to match Alex's drain pipe). Not Kerdi compatible: tilers use a liquid membrane. SaniteModar 12 in looked at and scrapped (connection type not published). The 32 in rows below are superseded.
+- Drain drawings 11/9: Floor Drain Set Rev AL, https://claude.ai/artifact/N7MdNwaJPUoDYREh8ybQj9 (`Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Floor Drain Set (Rev AL).html` (+ .pdf)). Drain center 16.5 in off the window wall, 34 in off the front wall; floor 1/8 in/ft on four planes, tile cut on the hips; grate lip 1 3/8 in above plywood with 3/8 in tile.
 - Tile 11/9 evening: Floor & Decor's Black Brushed Slate is 24x24 only online (Daisy's in-store quote was 24x24 too), not the 12x24 Davey and Jonah saw. Davey stops in at F&D North Portland 11/10 to re-find the 12x24 and order in person. Email to Daisy on hold.
 
 ## Buy now (ours to choose)

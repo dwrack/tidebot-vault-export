@@ -4,14 +4,15 @@
 - [ ] Davey 11/10: stop in at Floor & Decor North Portland and finalize the 12x24 tile in person (Black Brushed Slate online is 24x24 only, not what was seen in store); email to Daisy ON HOLD
 - [ ] Order at the store: ~130 pcs 12x24 (210 sq ft coverage, 113 exact), Spectralock 22 Midnight Black grout, sealer if natural stone, Schluter MGS edge trim; delivery to 173 NE Bridgeton Rd by Thu 11/13
 - [ ] Davey orders 2x Neodrain 12 in matte black linear drains (B0CPLSK4TT, $36.99) + 2x Neodrain 2 in drain bases on Amazon; ask Alex ABS vs PVC first; SaniteModar scrapped 11/9
+- [ ] Send the Floor Drain Set (Rev AL, https://claude.ai/artifact/N7MdNwaJPUoDYREh8ybQj9) to Grant, Alex and the tiler before rough-in; get the 5 answers (joist at the outlet, what's under the floor, PVC or ABS, hip cuts OK, stove leg shims). See [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]]
 - [ ] Update the buy list with the final SKUs and totals
 
 ## Private saunas launch + website deploy (added 2026-11-09 — note: [[Private Saunas Launch Plan + Website Deploy (2026-11-09)]])
-- [ ] Davey + L: finish the final site review this week; L has not been in touch since the missed meeting
+- [ ] Davey + L: finish the final site review this week; texted L 11/9 proposing Wed 11/11 or Thu 11/12 at the marina, waiting on her reply
 - [ ] Deploy the site Sun 11/15 night, pricing announced Mon 11/16; confirm dates with Jonah (record says announce 11/15, live 11/23)
 - [ ] Name who watches the site and bookings Mon 11/16 (Davey away 11/16 to 11/20)
 - [ ] Watch private bookings closely for the first 2 to 3 weeks; hard check Feb 1 (earlier if Christmas week is clear)
-- [ ] Parked: social option for unsold private slots; early-booking and last-minute (about 3 hrs) discounts with automated social push, after the new site; reconcile with the no-surge and no-discount-code rules first
+- [ ] Parked: social option for unsold private slots; early-booking and last-minute (about 3 hrs) discounts with automated social push, after the new site; surge pricing (11/4 hesitation) is a separate call from discounts to fill slots; only the no-discount-code site rule needs revisiting first
 
 ## V2 Gas (added 2026-11-09 — note: [[Private Saunas (V2) — Gas Line Plan for Sergey (Nov 9 2026)]])
 - [x] Rev AK plan + email SENT to Sergey 11/9 evening from davey@ cc jonah@ (quote due Fri 11/14). Mario is out (no time); Sergey owns the gas (Davey 11/9)
@@ -20,6 +21,8 @@
 - [ ] Davey: pick the pony-wall fire units + lounge table from [[Private Saunas (V2) — Fire Features for the Pony Walls + Lounge (Nov 9 2026)]] (rec: Kalea Bay 60 see-through x2, Del Mar 72); then order (1 to 2 wk), framing drawing to Grant, BTU + inlet to Sergey, wire into S1/S2 for the electrician
 - [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
 - [ ] Stamp valve tags to match G-001; add V0, V2 and the three E-stop knobs to the staff emergency sheet
+
+- [ ] Davey: open the All Fuel estimate (Skyler Hume, allfuel@allfuelinstallation.com, 503-674-2350; emails 10/27 'Roof penetrations and firetable option' + estimate notices 10/27 and 11/1 in davey@) and tell me the firetable kit + install price; compare to the Outdoor Plus Del Mar and the Grant-built box
 
 ## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
 - [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
@@ -144,6 +147,7 @@
 - [ ] 2026-11-09: Tile RFQ (EN + ES) drafted, paused for Davey's fixes to layout, drain spot, photos and drawing. Then send to tilers + post in FB contractor group. See [[Private Saunas (V2) — Tile Takeoff (Nov 3 2026)]]. Draft page: https://claude.ai/artifact/ECN8PKcAS77RBVH8QZoeF7
 - [ ] 2026-11-13: nudge Cow Bell PDX if no reply to the raclette collab pitch (sent 11/6). If yes: set shoot date, then price the raclette add-on with Jonah. See [[Shoot Brief — Fireside Raclette Date (Nov 2026)]]
 
-- [ ] 2026-11-12: uShip listing #354497657 is live (flatbed only); verify the uShip email, weight is still a 5,000 lb estimate, review quotes before it ends ~11/13. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
+- [ ] 2026-11-12: uShip listing #354497657 is live (flatbed only); verify the uShip email, weight is still a 4,500 lb estimate, review quotes before it ends ~11/13. See [[Sauna Airstream - Transport Quotes (Oct 2026)]]
 - [ ] Safety plan v3 to Max by Fri 11/13 after the Jonah walkthrough: [[Safety Plan Review with Jonah (2026-11-09)]] (added 2026-11-09)
 - [ ] Rotate Inkbird, Blink and sauna@ logins posted in plaintext in Slack #general (Aug 29 to Sep 1) and delete those messages (added 2026-11-09)
+- [ ] Tile: Tim Yushchuk (TIDI Construction) needs floor photos + scope sheet to quote. Scope sheet: [[2026-11-09 V2 Saunas Tile Scope Sheet]]. See [[Private Saunas (V2) — Tiler Outreach List (Nov 9 2026)]]

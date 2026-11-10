@@ -25,6 +25,33 @@ Low walls along the water edge of each private deck (west edge of the West deck,
 | The Outdoor Plus Maya linear GFRC bowl 60 or 72 | 72 x 20 x 12 in tall | 70k (60) / 90k (72) | 60 match-lit ~$4,880 | Low concrete bowl on the deck, no wall work. |
 | The Outdoor Plus Imperial 72 | 72 in, 15 in tall, 125 lb | 65k | $3,900 to $6,300 | Lightest finished option. |
 
+## D. Budget path (Davey 11/9: "there has to be $500 versions") -- the fire is cheap, the steel box is what costs
+The $5k to $8k units are finished stainless fireboxes with electronic ignition, LEDs and a listed enclosure. The flame itself is a $300 part. Build the box ourselves:
+| Part | Pick | Price seen 11/9 |
+|---|---|---|
+| Linear burner pan, 60 x 6 in, NG, 108k BTU, 304 stainless | Stanbroil drop-in jet burner pan | ~$300 |
+| Same with a push-button spark igniter, CSA listed | American Fireglass 60 x 6 pan + spark kit (NG) | ~$735 to $750 |
+| Lava rock fill | 40 to 60 lb | ~$60 |
+| 20 to 60 min dial timer + E-stop | Firegear ESTOP1-0H / Outdoor Plus OPT-ESTOPTM | $140 to $290 |
+| Trough / table box | Grant: steel studs or cement board, basalt matte porcelain face (same tile as the stove corners), stainless drip edge | labor + tile offcuts |
+| Gas valve, drip leg, connection | Sergey, already in his scope | in the gas quote |
+**Per pony wall: about $600 to $1,100 in parts** (Stanbroil + timer vs American Fireglass spark kit + timer). Twist the dial, push the igniter button, walk away. Same for the lounge: Grant builds a 60 x 28 in low box with a wide tile ledge around the same pan, ~$600 to $900 in parts.
+What you cannot get for $500: self-lighting. No 24 V electronic-ignition linear kit exists under about $1,900 (HPC, Warming Trends, Outdoor GreatRoom all land $2k to $4k), and no 60 in natural-gas fire table exists under $1,000 (the $500 to $800 big-box tables are propane only, 20 to 40k, and die outdoors in two Portland winters). Push-button spark + dial timer is the honest $500-class answer.
+Risk to name: the Stanbroil pan is not CSA listed; the American Fireglass kit is. On a floating structure the City may ask, so the extra ~$450 for the listed kit is probably money well spent at the two pony walls.
+
+### Verified on the dealer pages 11/9 evening (browser pane)
+| Kit | What you get | Price today | Lead |
+|---|---|---|---|
+| American Fire Products 60 x 6 CSA-certified linear drop-in pan kit (SS-LCB-60EIPS), Starfire | stainless pan + burner, key valve, push-button spark; 30 / 36 / 48 / 60 / 72 in | **$588** (reg $840), 72 in a few $ more | in stock, ships 1 to 3 days |
+| American Fire Products 60 x 6 pan + spark ignition kit, NG (SS-LCBKIT-N-60), Starfire | same idea, CSA not stated on the page | $560 (reg $800) | 1 to 3 days |
+| Outdoor Plus 1-hour gas timer with E-stop (OPT-ESTOPTM), Starfire | mechanical dial 0 to 60 min, red E-stop knob, 165k, no power | $300 | 7 to 10 days |
+| **Electronic ignition options (twist, it lights itself):** | | | |
+| Outdoor GreatRoom Crystal Fire Plus 60 in linear burner kit, direct spark ignition, NG (BP1260DSING-A), Flame Authority | 80k BTU, 304 SS, UL/CSA listed, flame-out shutdown, 12 V DSI | **$2,748** (reg $3,404); manual-ignition version BP1260-A $1,197 | 3 to 4 weeks |
+| Warming Trends Crossfire EI linear kit, Firepits Direct | brass burner + plate (up to 62 x 12 / 54 in burner for a 7 ft wall), Cobalt 12 V or Platinum 24 V ignition, safety shutdown; add 2-hr dial timer NEMA $487, push-button E-stop $379, keychain remote $50 | from $2,180 (small); 7 ft config est. $3,000 to $3,500 with timer | stock |
+| HPC Linear Flat Interlink Torpedo On/Off EI kit, Starfire | 61 x 8 pan / 60 in T-burner, 175k, CSA, 120 VAC, auto re-ignite; bundle with HPC 2-hr commercial timer $693 + E-stop $502 | $3,630 at 25 in; 60 in higher (configure on page); bundle adds ~$1,200 | in stock |
+
+Read: the Outdoor GreatRoom DSI kit is the cheapest listed self-lighting linear burner at $2,748 and pairs with the $300 mechanical dial timer upstream (confirm with OGR). Spark kit + timer = about $900 per wall; self-lighting + timer = about $3,050 per wall.
+
 ## FP-L: low fire table at the lounge seating (Grant's L-bench)
 Davey wants it low, with plenty of room to set things on.
 | Product | Size | Ledge | Fire | Price seen | Notes |
