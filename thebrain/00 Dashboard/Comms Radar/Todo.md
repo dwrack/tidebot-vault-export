@@ -17,6 +17,7 @@ _nothing_
 
 - [ ] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #due:2026-11-10 #id:T0118
   → David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov 13 pay date. (David; Gmail dwrack81@ Homebase; touched 2026-11-09)
+  > no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -25,6 +26,7 @@ _nothing_
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Michael asks to set up SMS text request for all New Orleans businesses, and OpenCX fix plan #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0038
   → David review section H of the OpenCX Fix Plan, answer the three approve boxes (deposit, plus the two others) and give Michael the four safety facts (first aid kit, AED, CPR certification, written allergic-reaction procedure). (David; Text with Michael Fischer, Gmail dwrack81@; touched 2026-11-06)
+  > sent cody email and waiting on his response.
 - [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: i need to use chase points to purchase that ticket
