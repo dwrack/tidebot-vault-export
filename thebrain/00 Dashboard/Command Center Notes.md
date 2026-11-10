@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-11 | Open the partner port for Michael's Command Center view (run the one-line ssh command Claude gave you) | NPB / NKST / HPB | default: Michael has no link
+- 2026-11-11 | Send Michael the Command Center paste (07 Reference/Michael - Command Center paste.md, link in ~/.config/command-center/michael-link.txt) | NPB / NKST / HPB | default: he builds nothing
 - 2026-11-10 due | Tick the Connor + Michael meeting invite (9:00a PT today, right after the NPB sync; hold is on your calendar) in Family/_Ops/Approvals.md, or just forward the hold yourself | BBK / HPB / LSKT / DCKT | default: no invite goes out, the hold stays yours alone
 - Waiting on Michael: his read on pausing BBK awareness + HPB Followers Reboost (~$990/mo, 0 purchases). Your pick is pause and push organic. Nothing gets paused until he agrees | BBK / HPB | default: both campaigns keep running
 - Connor owns the HPB June 6 refund call ($927, policy backs a refund). Hand it to him at the 9a meeting | HPB | default: the refund request keeps sitting
