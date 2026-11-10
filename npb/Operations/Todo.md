@@ -1,6 +1,10 @@
 # NOLA Party Barge — Todo List
 
 ## Corporate holiday push (added 2026-11-06)
+- [ ] Nov 19 party decisions at the 11/11 ops sync: time, guest list, budget, photographer ([[NPB Ops Sync — 2026-11-11 Agenda]]) — **Owner: David**
+- [ ] Post the crew invite right after the 11/11 call, RSVP by 11/14 — **Owner: Jeff**
+- [ ] Send 5 to 10 planner/partner invites for Nov 19 by 11/12 — **Owner: Michael + Jeff**
+- [ ] Book the Nov 19 photographer by 11/13 (Claude shortlists 3 by 11/12) — **Owner: David**
 - [ ] Share the photo board with Jeff and both tap Use/Maybe/No ([[Corporate Holiday Photo Board (Nov 2026)]]) — **Owner: David**
 - [ ] Approve the two LinkedIn company-page posts ([[Company Page Posts - Holiday Parties (Nov 2026)]]); post only after the quote page is on its real URL — **Owner: David**
 - [ ] Shoot the missing shots at the Nov 19 crew party ([[Nov 19 Team Party - Corporate Test Run (Plan)]]) — **Owner: camera person TBD**
