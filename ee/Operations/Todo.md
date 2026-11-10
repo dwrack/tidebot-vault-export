@@ -25,6 +25,8 @@
 
 - [ ] Davey: read the rest of All Fuel's 10/27 email 'Roof penetrations and firetable option' in davey@ (my tools cut it off; both estimates are vents only, $6,874.97) and tell me the firetable kit + install price, or ask Skyler Hume (503-674-2350) for a firetable quote; compare to the Del Mar and the Grant-built box
 
+- [ ] After Davey talks to Sergey: add the fire feature options + Sergey's input to the V2 Coordination Set artifact (RkEU6RLHX9eks8rLNmiRt2); Rev AK gas set is the source
+
 ## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
 - [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
 - [ ] STANDING: any question a contractor asks about the V2 electrical → update the Quote Sheet with the answer, re-export the PDF, and send the updated sheet to every contractor who contacts us after (log in the Contractor Q&A table in the Electrical Design + Quote Package note)
@@ -36,7 +38,7 @@
 
 ## Incident Log (added 2026-11-06 — record: [[2026-11-06 E&E incident log]])
 - [x] Davey: approve the incident log design (done 11/9)
-- [ ] Davey: OK installing the scheduled jobs (launchd on mbp-2 + DCKT Mac) so the log runs every 15 min — [[README|Operations/Incident Log/README]]
+- [x] Davey: OK installing the scheduled jobs (done 11/9, live) (launchd on mbp-2 + DCKT Mac) so the log runs every 15 min — [[README|Operations/Incident Log/README]]
 
 ## Downpour Productization (added 2026-08-27 — brief: [[Downpour Productization — Project Brief (Aug 2026)]])
 - [ ] Message Grant: measure + photo-document the Downpour during a V2 site day, quote build cost for unit #2 (draft ready, awaiting Davey's go)
