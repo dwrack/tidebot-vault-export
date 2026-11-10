@@ -1,6 +1,6 @@
 # Comms Radar Map
 
-Updated 2026-11-09 18:10.
+Updated 2026-11-09 20:10.
 
 | Business | Open | Needs you | Waiting | Due in 7 days | Last touched |
 |---|---|---|---|---|---|
