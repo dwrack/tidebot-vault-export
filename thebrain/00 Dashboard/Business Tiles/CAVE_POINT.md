@@ -42,7 +42,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -58,9 +58,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $0 | $366 | -100% |
+| Month to date, money in | $0 | $1,316 | -100% |
 | Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $250 | -$250 |
+| Month to date, net | $0 | $1,200 | -$1,200 |
 | Trailing 12 months | no history yet | | |
 
 **Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20

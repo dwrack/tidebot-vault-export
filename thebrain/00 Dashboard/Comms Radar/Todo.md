@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-10 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,18 +15,12 @@ _nothing_
 
 ## Needs you
 
-- [x] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #done:2026-11-10 #id:T0118
-  → David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov 13 pay date. (David; Gmail dwrack81@ Homebase; touched 2026-11-09)
-  > no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
   → David lift his soft credit lock so the lender can run a credit pull and move the funding forward, and still send no bank statements, driver's license or voided check until he knows who he is dealing with. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-06)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
-- [ ] Michael asks to set up SMS text request for all New Orleans businesses, and OpenCX fix plan #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0038
-  → David review section H of the OpenCX Fix Plan, answer the three approve boxes (deposit, plus the two others) and give Michael the four safety facts (first aid kit, AED, CPR certification, written allergic-reaction procedure). (David; Text with Michael Fischer, Gmail dwrack81@; touched 2026-11-06)
-  > sent cody email and waiting on his response.
 - [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: i need to use chase points to purchase that ticket
@@ -47,6 +41,8 @@ _nothing_
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
 - [ ] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
   → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
+- [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0136
+  → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
 
 ## Waiting on someone
 
@@ -82,6 +78,10 @@ _nothing_
   → DCKT staff email Stretto to confirm the claim was received, since Chris Seablom says he cannot see the claims. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-09)
 - [ ] Switch Verizon plans for new phones with Michael #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0127
   → Michael Fischer switch the Verizon plans so David can get the new phones. (Michael Fischer; Text with Michael Fischer; touched 2026-11-09)
+- [ ] Michael asks to set up SMS text request for all New Orleans businesses, and OpenCX fix plan #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0038
+  → Wait for Cody's reply to David's email, then David answers the OpenCX Fix Plan approve boxes and gives Michael the four safety facts. (Cody; Todo.md comment; touched 2026-11-10)
+  > David: sent cody email and waiting on his response.
+  > Radar: Noted that you emailed Cody and are waiting on his reply. I moved this to waiting; the OpenCX boxes and the four safety facts for Michael are still open.
 
 ## Open
 
@@ -105,6 +105,8 @@ _nothing_
   → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Stan Ventures AI visibility pitch to Houston Pedal Barge, call proposed Nov 10 #HPB #due:2026-11-10 #id:T0109
   → HPB manager decide whether to take the Tuesday Nov 10 10:15 AM Eastern call with Stan Ventures; someone replied 'Yes' to the cold pitch, so a response is expected. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-08)
+- [ ] NKST 9am Nov 10 tour has only two guests, Emily asks to cancel #NKST #due:2026-11-10 #id:T0135
+  → NKST manager tell Emily whether to cancel the 9am tour tomorrow with two guests and contact those guests; Emily offered to reach out. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] AWS SES DKIM disabled for neworleanskayakrental.com #NKST #due:2026-11-11 #id:T0106
   → Whoever manages the neworleanskayakrental.com DNS restore the SES DKIM records within 5 days, unless removing them was intentional. (David; Gmail doorcountyzip@; touched 2026-11-06)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
@@ -153,8 +155,6 @@ _nothing_
   → NKST manager reply to Sydney Lee with what NKST has in mind for the collaboration and propose a call. (NKST manager; Gmail nolakayaktours@; touched 2026-11-02)
 - [ ] NPB family reunion inquiry, up to 34 people, late November #NPB #id:T0050
   → NPB team reply to Chanreunn Mann with party boat options and the max capacity for a group of up to 34 (adults and children) in late November. (NPB team; Gmail nolapedalbarge@; touched 2026-11-02)
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager confirm the construction debris is cleared from the trailer lot, since the Airstream blocking the gate is now gone. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] NPB boat cruise inquiry Dec 4 surprise family outing, asks about fishing #NPB #id:T0051
   → NPB team reply to Lamar Steve Terri with Dec 4 availability and note that fishing is or is not offered. (NPB team; Gmail nolapedalbarge@; touched 2026-11-03)
 - [ ] Boss Be Luxury Ride transport partnership pitch, NPB #NPB #id:T0052
@@ -165,8 +165,6 @@ _nothing_
   → NKST manager get the black transit's washer fluid dispenser fixed and the driver's side wiper blades replaced. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-03)
 - [ ] Marina insurance agent asks for vessel liability details #id:T0058
   → David or whoever owns the boats answer Jamie Clark on whether they want liability on the vessels and send year, make, model, registration, hull info, motors, captain details, crew and passenger counts and values; verify the new payment site link with the agency before paying through it. (David; Gmail doorcountyzip@; touched 2026-11-04)
-- [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
-  → DCKT staff or David verify this notice against the USPTO's own trademark records before replying, clicking anything or paying any fee. (David; Gmail doorcountykayaking@; touched 2026-11-04)
 - [ ] Boat Rentals Houston follow-up asking for an offer #HPB #id:T0064
   → HPB manager decide whether to answer Brendon Ford's request for a best offer on Boat Rentals Houston or ignore it. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-04)
 - [ ] GetYourGuide 1-2 star review, Houston Sunset Skyline Kayak Tour #AKT #LSKT #id:T0067
@@ -275,6 +273,16 @@ _nothing_
   → NPB team call or reply to Wykeenia Russell about a party of 9 on Nov 21 and answer her questions. (NPB team; Gmail nolapedalbarge@; touched 2026-11-09)
 - [ ] HPB SMS reply needs a human answer #HPB #id:T0134
   → HPB manager text back the number that replied 'Sorry, I can't talk right now' from the HPB line, or close it if no follow-up is needed. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-09)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → NKST manager confirm with the contractor how guides get the trailer into the lot, since construction there is still active and Emily waited about 15 minutes and parked the trailer poorly on uneven ground. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
+- [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
+  → DCKT staff or David verify this notice against the USPTO's own trademark records before replying, clicking anything or paying any fee; it has now arrived in two more inboxes. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-10)
+- [ ] Sankofa CDC asks what happened to the boat on Sunset Stroll #NKST #id:T0137
+  → NKST manager reply to Rashida Ferdinand on the stuck boat and say what NKST will do for the group; the info admin replied that the trailer sank into the mud at the widened launch. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
+- [ ] Expedia asks AKT to restore rates on three products #AKT #id:T0138
+  → AKT manager update rates in Expedia LXPC for City Skyline, Congress Bridge Bats and Sunset Skyline tours, or send Krish the retail price per person. (AKT manager; Gmail austinkayaktours@; touched 2026-11-10)
+- [ ] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #id:T0139
+  → Reply do 1,2 in #the-helm for TideBot to pull search terms, after the FareHarbor scraper is re-authed so bookings stop reading blank. (David; Slack #the-helm; touched 2026-11-10)
 
 ## Backburner (LSKT)
 
@@ -299,3 +307,6 @@ _nothing_
   > David: ive done that awhile ago and i told you i did it. why are you asking again.
   > Radar: You're right, my mistake. I marked it resolved.
 - [x] NKST bookings soft, $555 vs $996 7-day average #NKST #done:2026-11-06 #id:T0063
+- [x] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #done:2026-11-10 #id:T0118
+  > David: no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
+  > Radar: Understood. Homebase payroll emails create no thread and I closed this one. They stay noise until W-2s in January. I can't auto-archive the emails from here, so that filter would need to be set in Gmail.

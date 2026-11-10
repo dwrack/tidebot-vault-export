@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -30,50 +30,50 @@
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $0 | $366 | -100% |
+| Month to date, money in | $0 | $1,316 | -100% |
 | Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $250 | -$250 |
+| Month to date, net | $0 | $1,200 | -$1,200 |
 | Trailing 12 months | no history yet | | |
 
 **Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Nicolet National Bank Small Business Checking (3971) | $12,860 |
-| Chase Bank D. RACK (1450) | -$1,366 |
+| Chase Bank D. RACK (1450) | -$2,068 |
 
 | Last 30 days | Amount |
 |---|---|
 | Money in | $750 |
-| Spending | $1,366 |
+| Spending | $2,068 |
 | Card payments + transfers out | $2,036 |
-| Net, month to date | -$434 |
+| Net, month to date | -$1,136 |
 | Net, same days last month | $3,195 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $434 | $77 | +467% |
-| Month to date, net | -$434 | -$77 | -$358 |
+| Month to date, spending | $1,136 | $77 | +1382% |
+| Month to date, net | -$1,136 | -$77 | -$1,059 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,223 | $28,515 | -19% |
-| Trailing 12 months, net | -$23,223 | -$27,919 | $4,696 |
+| Trailing 12 months, spending | $23,925 | $28,515 | -16% |
+| Trailing 12 months, net | -$23,925 | -$27,919 | $3,994 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
-**Top spending, 30 days:** SWBNO UTILITY $574; THE HOME DEPOT $434; OVERHEAD GARAGE DOOR - OV $286; COX COMM LOU $56; DOCHUB $16
+**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; OVERHEAD GARAGE DOOR - OV $286; COX COMM LOU $56
 
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank M. FISCHER (5955) | -$2,311 |
+| Chase Bank M. FISCHER (5955) | -$2,921 |
 | Chase Bank PERFBUS CHK (1893) | $18,945 |
 
 | Last 30 days | Amount |
@@ -94,7 +94,7 @@
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 09. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
 
 | Account | Balance |
 |---|---|
