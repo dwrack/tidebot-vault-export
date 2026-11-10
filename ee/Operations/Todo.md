@@ -8,9 +8,9 @@
 - [ ] Parked: social option for unsold private slots; early-booking and last-minute (about 3 hrs) discounts with automated social push, after the new site; reconcile with the no-surge and no-discount-code rules first
 
 ## V2 Gas (added 2026-11-09 — note: [[Private Saunas (V2) — Gas Line Plan for Sergey (Nov 9 2026)]])
-- [ ] Davey: Sergey or Mario for the V2 gas trip? Then say "send" and the Rev AK plan + email go to Sergey from sauna@
+- [x] Rev AK plan + email SENT to Sergey 11/9 evening (quote due Fri 11/14). Still: tell Mario the gas is going to Sergey, or say otherwise
 - [ ] Sergey walkthrough: meter location/size/pressure, 2 psi vs low pressure down the dock, jumper type + slack, run lengths (meter to social tee, tee to float, tee to lounge), social sauna stove nameplate
-- [ ] Davey: pick fire pit vessels (Outdoor Plus Cazo vs Paloform Bento / Solus Hemi) + confirm dial-timer + electronic-ignition combo with the maker; lounge fire table size
+- [ ] Davey: pick the fire wall burners (Warming Trends linear in a Grant-built basalt trough vs Outdoor Plus / Paloform finished linear) + confirm dial-timer + electronic-ignition combo with the maker; Grant: trough lengths; lounge fire table size
 - [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
 - [ ] Stamp valve tags to match G-001; add V0, V2 and the three E-stop knobs to the staff emergency sheet
 
