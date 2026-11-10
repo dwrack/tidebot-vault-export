@@ -15,7 +15,7 @@ _nothing_
 
 ## Needs you
 
-- [ ] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #due:2026-11-10 #id:T0118
+- [x] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #done:2026-11-10 #id:T0118
   → David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov 13 pay date. (David; Gmail dwrack81@ Homebase; touched 2026-11-09)
   > no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015

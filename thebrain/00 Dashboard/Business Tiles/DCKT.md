@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-11-09
+status: yellow
+alert: "data stale — FH scrape missing (FH login expired 11/9)"
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $275/wk booked vs $7,000 target, 4% of goal (season closed).** Sat 11/8: 0 booked / $0.
-- Ads: confirmed dark on BOTH Google and Meta for the full 7-day window (11/2-11/8), live-checked. Season closed so it costs nothing; check billing/policy before spring (Michael's lane). GSC off-season but strong: "door county kayak tours" pos 2.3 (6 clicks/21 impr), "best hikes in door county" pos 2.6. Flag: sauna/hiking terms also surfacing on this property — may be a site-mapping mix-up with Door County Ebike, verify.
-- USPTO Notice of Publication (serial 99890274) opposition window still to check. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $275/wk vs $7,000 target, 4% (season closed).
+- Ads: $0 on Google and no Meta delivery for 7 days (11/3–11/9), confirmed live. Season closed. GSC 11/2–11/8: 76 clicks vs 93, down 18%, off-season drift; "door county kayak tours" pos 2.3. The hiking and sauna queries are this site's own blog traffic, not a property mix-up.
+- USPTO sent an official notification on SN 99890274 at 12:01am 11/10 (publication was expected today). Body unreadable through the tool; open it once. GBP 0 unreplied. IG ID in the roster still looks swapped with Cave Point (unconfirmed).
 <!-- live:end -->
 
 <!-- maps:start -->

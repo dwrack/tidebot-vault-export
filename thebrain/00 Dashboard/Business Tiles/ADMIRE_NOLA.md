@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-09
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 11/1-11/8: "plantation and swamp tour new orleans" leads, 2 clicks / 15 impr, pos 1.7. IG confirmed still silent since 9/29 (~6 weeks). GBP 0 unreplied. Flag: these GSC queries may be pulling from the wrong property — verify before trusting.
+- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 11/2–11/8: 10 clicks vs 8; "plantation and swamp tour new orleans" 2 clicks / 20 impr, pos 1.6. Those are the right queries for this property (yesterday's wrong-property flag is cleared). IG silent since 9/29, six weeks. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

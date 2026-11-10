@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 7
-revenue_today: 1160
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 80
-status: green
-alert: null
-updated: 2026-11-09
+ad_spend_yday: 74
+status: yellow
+alert: "data stale — FH scrape missing (FH login expired 11/9); new Google search campaigns $282 / 0 conv since 11/6"
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $6,927/wk booked vs $4,000 target, 173% of goal.** Sat 11/8: 7 booked / $1,160, ran 4 / $770. Trailing 7 days (11/2–11/8) 40 bookings / $6,927.
-- **Google Ads burning cash, confirmed live (Michael's lane):** Local ($51.65) + National ($28.05) search campaigns spent $79.70 on 11/8 with 0 conversions. Pause or fix.
-- GA4 yesterday: 44 sessions IG / 35 Google / 33 direct / 27+6+2 FB. GSC: branded term "new orleans kayak swamp tours" at pos 14.7 (96 impr, 7 clicks). Watched airboat page: 0 clicks / 10 impressions (GSC), 2 GA4 views vs ~3 baseline — flat.
-- GBP: 7 unreplied 5-stars (new: Miller 11/08; Nelson, Christ 11/06; W S, Fonda 11/03; Renshaw, Valstad 11/02).
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $6,927/wk vs $4,000 target, 173%.
+- **Google Ads (Michael's lane), confirmed live 11/10:** the two generic search campaigns started 11/6 and have spent $282.50 with 0 conversions (Local $154.28, National $128.22). Mon 11/9: $73.83 / 0. Both enabled.
+- GSC 11/2–11/8: 156 clicks vs 127, up 23%. Brand term still pos 15.5 (6 clicks / 91 impr). Watched airboat page got its first GSC click: 1 click / 63 impr vs 0 / 0 baseline; GA4 2 views, flat. GA4 Mon 11/9: 177 sessions (Google 52, direct 35, IG 32, FB 35, Reddit 5).
+- IG: 11/9 beads reel at 45 likes, about 3x the usual. GBP: 8 unreplied 5-stars (new: Alcantar 11/9; Miller 11/8; Nelson, Christ 11/6; W S, Fonda 11/3; Renshaw, Valstad 11/2).
 <!-- live:end -->
 
 <!-- maps:start -->

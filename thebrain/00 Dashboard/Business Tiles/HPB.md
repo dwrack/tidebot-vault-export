@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 21
-status: red
-alert: "0 bookings Sat 11/8, confirmed live; unanswered customer SMS; TikTok session expired; zombie Google campaign $9.81/day at 0 conv"
-updated: 2026-11-09
+ad_spend_yday: 28
+status: yellow
+alert: "data stale — FH scrape missing (FH login expired 11/9); TikTok logged out day 3; SMS alert emails still repeating"
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $445/wk booked vs $4,000 target, 11% of goal.** Sat 11/8: 0 booked / $0, ran 0 / $0 — fully dark day, confirmed live.
-- **Unanswered customer text, confirmed live:** "Sorry, I can't talk right now" from +18329390756 to +18322614678 — reply today, don't let a live lead go cold on a zero-booking day.
-- Ads: Meta Followers Reboost spends $11.40 (engagement, not sales); purchase ad sets still believed Dublin-targeted. Google via the Texas umbrella's "Search - Houston Pedal Barge" campaign: $9.81 / 0 conv yesterday, confirmed live — pause it (HPB's own Google account stays dormant, that's expected).
-- TikTok: session confirmed logged out again just now — needs re-login via Screen Sharing to mbp-2. IG: no post in 48h. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $445/wk vs $4,000 target, 11%.
+- **SMS alert:** the open "customer text" is an iPhone auto-decline ("Sorry, I can't talk right now", +1 832-939-0756). Close it. Alert emails still arrived 2:01am and 3:02am 11/10, after the 11/9 once-per-reply fix; unverified whether that deploy took.
+- Ads Mon 11/9: Google "Search - Houston Pedal Barge" (Texas umbrella) $18.68 / 0 conv, but 7 days $100.20 / 2 conv / $263.70, so it earns its keep. Leave it on. Meta Followers Reboost $9.06 (engagement only).
+- TikTok: logged out, third day, confirmed live 11/10. Needs the QR scan via Screen Sharing to mbp-2. IG: no post since 11/6. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

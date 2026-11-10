@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 3
-revenue_today: 337
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 45
-status: green
-alert: null
-updated: 2026-11-09
+ad_spend_yday: 19
+status: yellow
+alert: "data stale — FH scrape missing (FH login expired 11/9)"
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $872/wk booked vs $5,500 target, 16% of goal.** Sat 11/8: 3 booked / $337, ran 2 / $229. Trailing 7 days (11/2-11/8) 8 bookings / $872.
-- Google (Texas umbrella) yesterday: $44.62 / 1 conv / ROAS 2.5 (Lone Star PMax $43.14). Meta account still fully paused, no spend. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $872/wk vs $5,500 target, 16%.
+- Google (Texas umbrella) Mon 11/9: Lone Star PMax $19.16 / 0 conv. 7 days: $258.43 / 3 conv / $445.58, ROAS 1.7. Meta account: no delivery in 7 days.
+- GSC 11/2–11/8: 19 clicks vs 20, but impressions up 55% (4,032 vs 2,593) since 10/31; cause not checked. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

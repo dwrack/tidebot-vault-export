@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 14
-revenue_today: 3622
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 459
-status: green
-alert: null
-updated: 2026-11-09
+ad_spend_yday: 315
+status: yellow
+alert: "data stale — FH scrape missing (FH login expired 11/9); 2★ review unreplied 2 days"
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $21,250/wk booked vs $30,000 target, 71% of goal.** Up from 68% yesterday. Sat 11/8: 14 booked / $3,622, ran 6 / $2,618. Trailing 7 days (11/2–11/8) 86 bookings / $21,250.
-- Ads: Meta $274.61, 8 purchases, CPA $28.13, ROAS ~5.0 — Gator Collision ($225.06) drove most of it; Retargeting $23.29 with 0 purchases. Google (NOLA umbrella) $183.94 combined — Pedal Barge Local $115.88/1 conv; Sales-PMax-12 $68.06/2.5 conv at ROAS 17.2 (confirm this PMax campaign is really NPB).
-- GBP: **2★ JP Trigo (11/8) unreplied — bathroom complaint, confirmed live, reply today.** Plus 8 unreplied 5-stars (Love, Young, O'Neal 11/08; Fritze 11/06; Jessup 11/05; Long 11/04; Paris, Butler-Cole 11/03).
+- **Goal pace: unavailable this run.** FareHarbor login expired 11/9 and the 11/10 scrape returned 403. Last good read (11/2–11/8): $21,250/wk vs $30,000 target, 71%.
+- **2★ JP Trigo (11/8) still unreplied, 2 days, confirmed live 11/10.** Draft reply is in the 11/10 brief. All 10 newest reviews are unreplied (9 five-stars; new 11/9: Savastano, Greene, Covington).
+- Ads Mon 11/9: Google $159.70 / 0 conv (National $84.92, Local $19.50, Holiday Party & Groups $13.98, PMax-12 $41.30). Meta $155.54 / 0 purchases (Gator Collision $120.16, Retargeting $16.61, Messenger $18.77 with 5 conversations). 7 days: Google National ROAS 6.9, Meta account $1,617 / 18 purchases / ROAS 1.98. Zero conversions on every account 11/9, watch for a second zero day.
+- GSC 11/2–11/8: 51 clicks vs 49 prior, flat. "nola party barge" pos 3.0, 5 clicks / 100 impr. IG: no post since 11/6.
 <!-- live:end -->
 
 <!-- maps:start -->

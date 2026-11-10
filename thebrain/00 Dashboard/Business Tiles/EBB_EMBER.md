@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "29 unanswered comments (19+10) across the 10/26 reel and 11/6 carousel, incl. buying questions; new 11/9 GBP review"
-updated: 2026-11-09
+alert: "11 unanswered comments on the 11/6 carousel plus the 10/26 reel backlog; 3 unreplied GBP reviews"
+updated: 2026-11-10
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 25 days ago.** Still no GSC, GA4, or Meta ad account.
-- IG: new Nov 7 reel (54 likes, 4 comments, under reply threshold). The 10/26 reel (19 top-level unanswered) and 11/6 carousel (10 unanswered, incl. "How much do you project that it will be to use them?") still need replies — 29 total, Kimberlyn's lane.
-- GBP: 3 unreplied 5-stars (new: Elliot Fuhr 11/09 — "wish there was warm showers," worth a reply; Andrii Partyka 11/07; Diana Morelen 11/03).
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 26 days ago.** Still no GSC, GA4, or Meta ad account.
+- IG: no post since the 11/7 reel. The 11/6 private-sauna carousel (234 likes) has 11 top-level comments and none from the account, checked live 11/10. The 10/26 reel (977 likes, 52 comments) backlog is unchanged. Kimberlyn's lane.
+- GBP: 3 unreplied 5-stars (Elliot Fuhr 11/9, Andrii Partyka 11/7, Diana Morelen 11/3).
 <!-- live:end -->
 
 <!-- maps:start -->

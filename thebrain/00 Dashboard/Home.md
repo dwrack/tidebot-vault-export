@@ -1,33 +1,33 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-11-09 (Sunday). NPB 2★ GBP complaint unreplied, HPB unanswered customer SMS + TikTok session expired, NKST + HPB both burning Google Ads spend at 0 conversions (confirmed live), Homebase payroll due tomorrow 6pm CST (conflicts with "automated" assumption), 23 unreplied GBP reviews.*
+*Last refresh: 2026-11-10 (Tuesday). FareHarbor login expired, no booking numbers today. NPB 2★ review unreplied two days, NKST Google search $282 at 0 conversions since 11/6, Houston Meta $384/7d at 0 purchases, zero ad conversions recorded anywhere Mon 11/9, HPB TikTok still logged out, 25 unreplied GBP reviews.*
 
 ## Right now
 - [Today's decisions + digest (DJL Morning Digest)](https://claude.ai/artifact/QbPUmAfxBpB7WUffSGbFSn)
-- [[Daily Briefings/2026-11-09|Today's brief]]
+- [[Daily Briefings/2026-11-10|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NOLA Party Barge**: reply to the 2★ GBP review from JP Trigo (11/8, dirty bathrooms complaint), still unreplied, confirmed live. 8 more easy 5★ thank-yous waiting too.
-2. **Houston Pedal Barge**: reply to the unanswered customer text ("Sorry, I can't talk right now") — zero bookings Sat 11/8, don't lose a live lead on top of that. Also: TikTok session is logged out (needs a QR re-login on mbp-2), and a zombie Google campaign in the Texas umbrella account is spending $9.81/day at 0 conversions while HPB's own account sits paused.
-3. **NKST + Buffalo Bayou ad waste** (confirmed live): NKST's search campaigns spent $79.70 on 11/8 with 0 conversions (Michael's lane); Buffalo Bayou's Meta "Initiate Checkout" campaign is misconfigured on an awareness objective, $42.47 spent, 0 conversions.
+1. **NOLA Party Barge**: reply to the 2★ Google review from JP Trigo (11/8, dirty bathrooms). Two days unreplied, confirmed live; draft reply is in today's brief. All 10 newest reviews are unreplied.
+2. **All FareHarbor brands**: the FH login died 11/9 evening and the 11/10 scrape returned 403 on all 6 brands. No Monday bookings or revenue anywhere until the verification code is entered and the scrape re-runs.
+3. **NKST + Houston ad waste** (confirmed live): NKST's two new Google search campaigns have spent $282.50 since 11/6 with 0 conversions (Michael's lane). The Houston Meta account spent $383.74 in 7 days with zero purchases; the pause-3-campaigns line is still open.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (Sat 11/8) | 7-day avg (11/2–11/8) | Δ |
+| Signal | Yesterday (Mon 11/9) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 19 | prior brief 3 | +16 |
-| Unreplied GBP reviews, all ratings (12 locations) | 23 (incl. 1 two-star) | prior brief 18 (4-5★ only) | +5 |
-| FH bookings (6 FH brands) | 25 | 21.9 | +3.1 |
-| FH booked revenue (6 FH brands) | $5,238 | $4,415 | +$823 |
-| Total ad spend (Google + Meta) | $700.88 | ~$238/day (Google only) | — |
-| Ad-attributed conversions | 4.5 Google + 8 Meta purchases + 3 msg convos | — | — |
+| Gmail unread (main inbox) | 29 | prior brief 19 | +10 |
+| Unreplied GBP reviews (newest 10 per location, 12 locations) | 25 (incl. 1 two-star) | prior brief 23 | +2 |
+| FH bookings (6 FH brands) | unavailable (scrape failed) | 21.9 (11/2–11/8) | — |
+| FH booked revenue (6 FH brands) | unavailable (scrape failed) | $4,415 (11/2–11/8) | — |
+| Total ad spend (Google + Meta) | $484.60 | $542.28 (11/3–11/9) | -$57.68 |
+| Ad-attributed conversions | 0 Google + 0 Meta purchases + 5 msg convos | ~6.0/day | -6 |
 <!-- pulse:end -->
-*Goal pace uses 11/2 to 11/8 (7 days).*
+*Goal pace unavailable 11/10 (FareHarbor scrape failed); last good window 11/2 to 11/8.*
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-11-09]] (today)
-- [[Daily Briefings/2026-11-08]] (1 day ago)
-- [[Daily Briefings/2026-11-07]] (2 days ago)
-- [[Daily Briefings/2026-11-06]] (3 days ago)
-- [[Daily Briefings/2026-11-05]] (4 days ago)
-- [[Daily Briefings/2026-11-04]] (5 days ago)
-- [[Daily Briefings/2026-11-03]] (6 days ago)
+- [[Daily Briefings/2026-11-10]] (today)
+- [[Daily Briefings/2026-11-09]] (1 day ago)
+- [[Daily Briefings/2026-11-08]] (2 days ago)
+- [[Daily Briefings/2026-11-07]] (3 days ago)
+- [[Daily Briefings/2026-11-06]] (4 days ago)
+- [[Daily Briefings/2026-11-05]] (5 days ago)
+- [[Daily Briefings/2026-11-04]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
