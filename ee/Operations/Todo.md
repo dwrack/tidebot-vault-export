@@ -1,5 +1,10 @@
 # Ebb & Ember — Todo List
 
+## Build social series (added 2026-11-10 — clip: Assets/V2 Build Drawings/2026-11-06 Build sequence clip/)
+- [ ] Davey: reply send so Claude posts the private saunas build-sequence clip v6 to #marketing for Kimberlynn (build series with Grant)
+- [ ] Ask Grant on the walkthrough: West roof eave over the West fire wall (Rev AO, eave to x=12, fire wall x 16 to 30); set the fire wall and chair spots
+- [ ] Render the Rose build-sequence clip the same way (v0.50 test exists in Operations/The Rose/Renders/Build Sequence v0.50/) and send to Kimberlynn
+
 ## V2 Tile order (added 2026-11-09 — notes: [[V2 Tile Quotes Comparison (2026-11-06)]], [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]])
 - [ ] Davey 11/10: stop in at Floor & Decor North Portland and finalize the 12x24 tile in person (Black Brushed Slate online is 24x24 only, not what was seen in store); email to Daisy ON HOLD
 - [ ] Order at the store: ~130 pcs 12x24 (210 sq ft coverage, 113 exact), Spectralock 22 Midnight Black grout, sealer if natural stone, Schluter MGS edge trim; delivery to 173 NE Bridgeton Rd by Thu 11/13
