@@ -45,6 +45,8 @@ PEX is rated to 180°F and the room runs hotter, so **no PEX inside the hot room
 - Set temperature is decided at hookup. See the fixture note below.
 
 ## Shower fixtures: options (matte black, outdoor-rated)
+**Update 2026-11-10: PICK = Modland Wall Mounted Matte Black 3-Function Temperature Control Outdoor Shower (SKU DSOS01M08B81), 2 units, $289.99 each after Modland's auto discount ($579.98 total, free shipping, in stock). 304 stainless + brass, cUPC, hot/cold mixer, rain head + handheld + foot spout, G3/4 NPT inlets. Because it has a mixer, Alex runs BOTH hot and cold to each shower: tee the 3/4 cold line at the heater to each valve. Heater set point moves to 120°F. Winterize by draining (the plan's drain-down covers it).**
+
 River water is fresh, not salt, so 304 stainless or solid brass under a black finish is fine; 316 is better but not required. Black finishes fade and chip in sun, so pick powder coat over stainless or brass, never over zinc or plastic.
 
 Plumbing note: only hot water from the heater reaches the showers, so the heater's set temperature IS the shower temperature (set it around 105°F). A plain on/off valve works. If we want guests to be able to cool it down, tee a cold line into a mixing valve at each shower.

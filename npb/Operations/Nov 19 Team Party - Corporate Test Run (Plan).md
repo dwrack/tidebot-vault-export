@@ -62,6 +62,7 @@ Drafted 2026-11-06 (David). Source: David + Jeff call, week of Nov 2. Status: PL
 
 **Added 2026-11-06 from the photo board review** (`Marketing/Corporate Holiday Photo Board (Nov 2026).md`, board: https://claude.ai/artifact/9rDfxRtajhmYNwqp8AuqiQ). The library is boats and bachelorettes; these are the gaps:
 - Party room set and full: tables dressed, string lights on, 30+ people inside (we have one empty shot of the room)
+- Party room EMPTY and styled (added 2026-11-10, David): high-tops in the middle, benches on the walls, check-in counter, water jug, ice chest and snacks out of frame. Tripod, lights on, back-corner diagonal at dusk. Sharp string lights. See `Meetings/Jeff Talk - Party Room Look + Photo (2026-11-11).md`
 - Caterer food plated: each partner's dishes, one overhead and one 45-degree shot per tier, before guests touch them
 - Gas station front at blue hour (about 5:20pm), sign and canopy lights on, a few people walking in. Shoot it before the boats come back
 - Palapas with a group under them (every palapa shot we have is empty)

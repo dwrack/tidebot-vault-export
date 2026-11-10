@@ -1,12 +1,14 @@
 # NOLA Party Barge — Todo List
 
 ## Corporate holiday push (added 2026-11-06)
+- [ ] Order costume closet holiday stock at the 11/11 sync, Sofia sets it up by 11/17 ([[Costume Closet — Holiday Order List (Nov 2026)]]) — **Owner: David (order), Jeff (book Sofia)**
 - [ ] Nov 19 party decisions at the 11/11 ops sync: time, guest list, budget, photographer ([[NPB Ops Sync — 2026-11-11 Agenda]]) — **Owner: David**
 - [ ] Post the crew invite right after the 11/11 call, RSVP by 11/14 — **Owner: Jeff**
 - [ ] Send 5 to 10 planner/partner invites for Nov 19 by 11/12 — **Owner: Michael + Jeff**
 - [ ] Book the Nov 19 photographer by 11/13 (Claude shortlists 3 by 11/12) — **Owner: David**
 - [ ] Share the photo board with Jeff and both tap Use/Maybe/No ([[Corporate Holiday Photo Board (Nov 2026)]]) — **Owner: David**
 - [ ] Approve the two LinkedIn company-page posts ([[Company Page Posts - Holiday Parties (Nov 2026)]]); post only after the quote page is on its real URL — **Owner: David**
+- [ ] Talk to Jeff 11/11: high-tops, clear clutter, retake the party room photo ([[Jeff Talk - Party Room Look + Photo (2026-11-11)]]) — **Owner: David**
 - [ ] Shoot the missing shots at the Nov 19 crew party ([[Nov 19 Team Party - Corporate Test Run (Plan)]]) — **Owner: camera person TBD**
 
 ## This Week (by April 25)
@@ -148,3 +150,4 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 
 - [ ] 2026-11-06 Approve thin-departure watch design (threshold 6, 10am CT post, guide clash check, Sunday 1/3/5 only): [[Thin Departure Watch — Party Boats (Design 2026-11-06)]]
 - [ ] 2026-11-06 Jeff: deckhand pay + fuel per run, and how crew gets assigned (bulk updater or a FareHarbor auto setting): [[Thin Departure Watch — Party Boats (Design 2026-11-06)]]
+- [ ] 2026-11-11 Thin-boat questions for Jeff + Michael at the sync (appendix of [[NPB Ops Sync — 2026-11-11 Agenda]]); approve guest flexibility texts

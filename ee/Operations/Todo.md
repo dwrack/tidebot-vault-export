@@ -39,6 +39,7 @@
 ## Incident Log (added 2026-11-06 — record: [[2026-11-06 E&E incident log]])
 - [x] Davey: approve the incident log design (done 11/9)
 - [x] Davey: OK installing the scheduled jobs (done 11/9, live) (launchd on mbp-2 + DCKT Mac) so the log runs every 15 min — [[README|Operations/Incident Log/README]]
+- [ ] Signage printed -> Alex installs throw ring markers above each ladder (INC-0007 in the Incident Log Sheet; no job posted to #maintenance yet)
 
 ## Downpour Productization (added 2026-08-27 — brief: [[Downpour Productization — Project Brief (Aug 2026)]])
 - [ ] Message Grant: measure + photo-document the Downpour during a V2 site day, quote build cost for unit #2 (draft ready, awaiting Davey's go)
@@ -102,8 +103,9 @@
 - [ ] Paint parking lot lines + install wheel stop blocks
 - [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style)
 - [ ] Next time at the marina: LiDAR scan + photos of the 30 ft dock section for the ladder and ramps (edge framing, how the floats attach, underside if reachable, tape measure deck to water). Project: [[Dock Water Entry — Project Note]] (added 2026-11-06)
+- [ ] V2 outdoor showers: 2x Modland matte black 3-function temp-control outdoor shower in the mod-land.com cart ($579.98 both, free ship); Davey checks out, then Alex tees cold to each mixer. Note: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-10)
 - [ ] V2 water line: plan SENT to Alex in #maintenance 11/9; get his feedback + spigot pick, then pick the black outdoor shower fixtures (options in the plan). Plan: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-09)
-- [ ] V2 shower heater: Rinnai RE199eN in the Home Depot cart ($1,280.79, free delivery Nov 13-17); Davey checks out, then clearances to Grant for the cedar screen. Note: [[Private Saunas (V2) — Shower Water Heater Sourcing (Nov 9 2026)]] (added 2026-11-09)
+- [x] V2 shower heater: Rinnai RE199eN ORDERED 2026-11-10 at Home Depot ($1,280.79, delivery Nov 13-17). Was: in the Home Depot cart ($1,280.79, free delivery Nov 13-17); Davey checks out, then clearances to Grant for the cedar screen. Note: [[Private Saunas (V2) — Shower Water Heater Sourcing (Nov 9 2026)]] (added 2026-11-09)
 - [ ] Remove water dispenser from sauna or label it clearly, replace with better solution in lounge
 - [ ] Research water temp and air temp display options for sauna
 - [ ] Write 3 tagline options for phone charger sign (poetic "put down your phone" vibe)

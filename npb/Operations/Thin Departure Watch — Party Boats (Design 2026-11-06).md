@@ -77,6 +77,17 @@ Sundays have had 27 shared departures in 8 weeks with a median of 7 guests, and 
   3. **Later, if wanted:** a helper that lists who is free for each departure, from the same crew data. Read-only; Jeff still clicks.
 - To confirm with Jeff: is there an automatic assignment setting he turned on in FareHarbor, or is it the bulk updater? A screenshot of how he assigns a day settles it.
 
+## Guest side: ask for flexibility first (added 2026-11-10, David)
+
+NOLA trips are planned tight, so the rule is: we only move people who already told us they can move. Nobody gets a "too few people" message.
+
+1. **Checkout (optional, one question):** a weather backup question in FareHarbor. Rain or wind does move boats here, so the ask is real and it doesn't sound cheap.
+2. **Day-before text, thin boats only:** only to guests on a thin boat who skipped the checkout question. Everyone else hears nothing new.
+3. **The move itself:** framed as combining two boats into one bigger party at a time they said works. On a party boat a fuller boat is the selling point. We never say weather when it isn't weather.
+4. **"Keep my time" is respected:** that group runs as booked, or gets offered the boat to themselves. They never get asked to move.
+
+Drafts are in the 2026-11-10 session. Questions for Jeff and Michael are in the appendix of `NPB Ops Sync — 2026-11-11 Agenda.md`.
+
 ## Approve to build
 
 - [ ] Threshold 6 guests, one 10:00 CT post, fold > rebook > private > run
