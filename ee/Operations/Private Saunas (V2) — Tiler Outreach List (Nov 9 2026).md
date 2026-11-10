@@ -67,3 +67,8 @@ Scope from [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 20
 Blessed Design LLC Ethan@blesseddesignllc.com · Let's Remodel info@letsremodel.net · Mail Construction info@mailremodeling.com · Home Style Renovation kory@hsreno.com
 ### Tile shops, phone only (call/text)
 Vancouver Tile Pros (360) 980-1438 · PG Tile (503) 516-1828 · Creative Tile and Remodel (971) 265-8499 · Portland Tile & Remodels (503) 208-4523 · Atlas Mountain Tile and Stone (971) 901-2265 · Superior Tile & Marble (503) 334-9513 · McTear's Tile (541) 280-7346 · Abraham Tile (503) 784-9009 · Campbell's Tile Concepts (971) 245-6190 · Skyline Tile (503) 935-6769 · Sorin Ghiea Tile & Stone (503) 706-1181 · Chase Tile (503) 630-3633 · PDX Tile Guys (360) 919-6766 · Tile contractor usa (360) 356-4543 · Hincesti Construction Tile (503) 484-6203 · Robinson Tile & Stone (503) 259-0321 · Neofloor (503) 457-3688
+
+## Inbound / Davey-supplied
+| Company | Email | Status |
+|---|---|---|
+| ET Flooring (Davey supplied 11/9) | Etflooring@hotmail.com | sent 11/9 from davey@, RFQ PDF attached |

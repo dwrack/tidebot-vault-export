@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-09 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-09 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -45,6 +45,8 @@ _nothing_
   → David decide whether to answer Rick Carlson on selling NOLA Bike Bar standalone versus including shared equipment, staff or booking infrastructure, or to drop the buyer inquiry. (David; Gmail nolakayaktours@; touched 2026-11-09)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0124
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
+- [ ] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
+  → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
 
 ## Waiting on someone
 
@@ -244,7 +246,7 @@ _nothing_
 - [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
   → NKST manager review the new affiliate/influencer signups and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-09)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; the Nov 9 Admire Instagram engage again took 0 actions. (David; Slack #helm-admire; touched 2026-11-09)
+  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; Admire Instagram engage was logged out again Nov 9 (paused 24h) and Hidden Adventure YouTube engage took 0 actions. (David; Slack #helm-admire; touched 2026-11-09)
 - [ ] HPB SMS reply 'Sorry, I can't talk right now' waiting on a human answer #HPB #id:T0117
   → HPB manager text back the number that replied from the HPB line; the same alert has repeated hourly since Nov 8 9pm. (HPB manager; Gmail dwrack81@ (HPB SMS alerts); touched 2026-11-09)
 - [ ] Buffalo Bayou Kayak soft demand, $119 booked vs $299 7-day average #BBK #id:T0119
@@ -265,6 +267,8 @@ _nothing_
   → HPB team text back the number that replied 'Sorry, I can't talk right now' from the HPB SMS line. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-09)
 - [ ] Green Bay Glory soccer partnership pitch, DCKT #DCKT #id:T0130
   → DCKT staff decide whether to take a 15-20 minute meeting with Green Bay Glory about a sponsorship or partnership, or ignore it. (DCKT staff; Gmail doorcountykaking@; touched 2026-11-09)
+- [ ] HPB SMS reply needing a human answer: 'Sorry, I can't talk right now' #HPB #id:T0132
+  → HPB manager decide whether the 'can't talk right now' reply needs a follow-up text from the HPB SMS number or can be dropped. (HPB manager; Gmail dwrack81@; touched 2026-11-09)
 
 ## Backburner (LSKT)
 

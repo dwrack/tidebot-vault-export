@@ -8,7 +8,8 @@
 - [ ] Parked: social option for unsold private slots; early-booking and last-minute (about 3 hrs) discounts with automated social push, after the new site; reconcile with the no-surge and no-discount-code rules first
 
 ## V2 Gas (added 2026-11-09 — note: [[Private Saunas (V2) — Gas Line Plan for Sergey (Nov 9 2026)]])
-- [x] Rev AK plan + email SENT to Sergey 11/9 evening (quote due Fri 11/14). Still: tell Mario the gas is going to Sergey, or say otherwise
+- [x] Rev AK plan + email SENT to Sergey 11/9 evening from davey@ cc jonah@ (quote due Fri 11/14). Mario is out (no time); Sergey owns the gas (Davey 11/9)
+- [x] Water-side items (heater water hookup, shower valves, backflow) moved to Alex in the water line plan (11/9)
 - [ ] Sergey walkthrough: meter location/size/pressure, 2 psi vs low pressure down the dock, jumper type + slack, run lengths (meter to social tee, tee to float, tee to lounge), social sauna stove nameplate
 - [ ] Davey: pick the fire wall burners (Warming Trends linear in a Grant-built basalt trough vs Outdoor Plus / Paloform finished linear) + confirm dial-timer + electronic-ignition combo with the maker; Grant: trough lengths; lounge fire table size
 - [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
@@ -88,7 +89,7 @@
 - [ ] Paint parking lot lines + install wheel stop blocks
 - [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style)
 - [ ] Next time at the marina: LiDAR scan + photos of the 30 ft dock section for the ladder and ramps (edge framing, how the floats attach, underside if reachable, tape measure deck to water). Project: [[Dock Water Entry — Project Note]] (added 2026-11-06)
-- [ ] V2 water line: send Alex the plan, then confirm with Mario (permit, backflow, tankless). Plan: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-09)
+- [ ] V2 water line: plan SENT to Alex in #maintenance 11/9; get his feedback + spigot pick, then pick the black outdoor shower fixtures (options in the plan). Plan: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-09)
 - [ ] V2 shower heater: Rinnai RE199eN in the Home Depot cart ($1,280.79, free delivery Nov 13-17); Davey checks out, then clearances to Grant for the cedar screen. Note: [[Private Saunas (V2) — Shower Water Heater Sourcing (Nov 9 2026)]] (added 2026-11-09)
 - [ ] Remove water dispenser from sauna or label it clearly, replace with better solution in lounge
 - [ ] Research water temp and air temp display options for sauna

@@ -4,7 +4,7 @@ Draft 2026-11-09, revised same evening: Davey changed the fire features to two l
 
 **Drawing set:** `Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Gas Set (Rev AK).html` (PDF beside it, 14 pages). Sheets: Read first, G-100 float gas plan (+ West/East enlargements), G-101 dock routing + lounge fire feature (schematic), G-200 riser, G-001 valve schedule, G-002 loads, G-003 fire features, walkthrough questions.
 
-**Who Sergey is:** Sergey Dengub, Sergey Heating & Air-Conditioning, CCB 134484, 11328 NE Sugar St, Portland 97220, 503-969-6160, sergeydengub@comcast.net. Pulled the May 2026 over-the-counter commercial mechanical permit for the social sauna's natural gas conversion (sauna@ thread "Over the counter Commercial Mechanical Permit", 5/12 to 5/13). Jonah's iMessage group "Jonah Moses, Sergei Hvac Pdx". Note: the Master Action List (O34) and today's water/heater notes name Mario for the V2 gas trip. Davey to say who owns the gas job; the plan reads the same for either.
+**Who Sergey is:** Sergey Dengub, Sergey Heating & Air-Conditioning, CCB 134484, 11328 NE Sugar St, Portland 97220, 503-969-6160, sergeydengub@comcast.net. Pulled the May 2026 over-the-counter commercial mechanical permit for the social sauna's natural gas conversion (sauna@ thread "Over the counter Commercial Mechanical Permit", 5/12 to 5/13). Jonah's iMessage group "Jonah Moses, Sergei Hvac Pdx". **Owner settled 11/9 evening (Davey): Sergey does the V2 gas. Mario is out, no time.** Water-side items that said "Mario" (tankless hookup, shower valves, backflow) need a new name; ask Sergey if he takes the heater connection, otherwise Alex.
 
 ## The job in one line
 Natural gas from the existing NW Natural service on the dock to the new 36 x 18 float: two Torch stoves, the Rinnai RE199eN tankless on the center wall, a linear fire wall along the west edge and one along the east edge by the zen garden (about 7 ft each, ~120k BTU/hr, keep under 165k for the dial timer), plus a branch to a fire table at the lounge seating Grant built. Shutoffs everywhere someone would need one, capped stubs for later fire, permit on Sergey's license.
@@ -39,7 +39,7 @@ Sergey sizes the pipe (low pressure, or 2 psi down the dock with a regulator at 
 - Confirm with the vessel maker that the ignition module tolerates a timer cutting gas upstream. Order NG, cover, fill, timer and ignition from one maker. Listed (CSA/UL) only.
 
 ## Open questions
-1. Davey: is Sergey doing the V2 gas, or Mario? (Record says Mario; Davey is sending this to Sergey.)
+1. ~~Sergey or Mario~~ Sergey (Davey 11/9). Open: who does the water-side bits the notes gave Mario (shower valves, heater water hookup, backflow).
 2. Where the service lands and its pressure (meter upgrade is out of scope for now).
 3. Low pressure vs 2 psi down the dock.
 4. Jumper type and slack for the river range; what the floating homes here use.
@@ -48,7 +48,7 @@ Sergey sizes the pipe (low pressure, or 2 psi down the dock with a regulator at 
 7. Permit: same OTC commercial mechanical path as May; anything separate for the dock fire table.
 8. Fire wall burners: Davey picks (Warming Trends linear in a Grant trough vs Outdoor Plus / Paloform finished linear) once Sergey confirms the timer + ignition combo.
 
-## Email to Sergey (SENT 2026-11-09 evening from sauna@ with the Rev AK PDF; Davey: "send to sergey after this is done")
+## Email to Sergey (SENT 2026-11-09 evening: first from sauna@ by mistake, then resent from davey@ cc jonah@ with the Rev AK PDF, which is the live thread)
 Subject: Gas line plan for the two new floating saunas + three fire features, Hayden Island
 
 Hi Sergey,

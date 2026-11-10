@@ -117,6 +117,14 @@ Skipped Beaver Electric (Hillsboro, too far). Verify each CCB at ccb.oregon.gov 
 Phone only: Orion Electric PNW (CCB 254236, 2153 N Emerson St, 97217, closest, no phone found), EthiX Electric (CCB 253024, owner-operated, NE 88th), Eisele Electric 503-504-3270, Portland Metro Electric 503-863-7733 (CCB 249412), Service Electric NW 503-502-8225 (CCB 202257), Delatour Electric via Thumbtack (solo, $90 call fee waived if hired).
 Floating-home referral idea: call McCuddy's Marinas (Tomahawk Island) or a Hayden Island moorage manager and ask who wires their docks. Ask any shop about Portland code 28.07.
 
+### Replies so far (checked 11/9 night, sauna@)
+- Boones Ferry (Neil Wright, VP): wired a few floating homes long ago, but booked until Dec 14. Out unless nothing else works.
+- Pacific NW Electric: asks (1) all devices fed from existing shore power, one 20 A GFCI circuit? (2) inlet on the float could serve as the disconnect (3) photos of the existing shore-power outlet. States a minor label CANNOT be used here (not a typical install, needs rough-in and final inspection), so plan on a regular permit.
+- Smiley Electric (Roxanne, office): wants photos of the pedestal and its outlet, the shore-power cord and inlet specs, and the approximate distance pedestal to float. Alternative: $295 on-site assessment with Josh.
+- Unity Electrical (Natasha, scheduler): "when do you want your appointment?" Reads like a service-call booking, ask the fee.
+- No reply yet: Powerall, Schooner Creek, Gerryn, Pro Tech, ATR, Power Professor, Shift, Coy.
+Needed from Davey: dock photos + pedestal-to-float distance (on dashboard).
+
 ## Open for Davey
 - Say send: Neil + Schooner Creek drafts go out as is. Powerall and Young need an email address (Jonah) or a phone call.
 - OK sending the quote request to Powerall (re-quote), Boones Ferry, Young, Schooner Creek.
