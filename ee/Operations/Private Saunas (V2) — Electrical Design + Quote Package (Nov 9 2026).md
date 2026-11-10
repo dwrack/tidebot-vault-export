@@ -125,6 +125,18 @@ Floating-home referral idea: call McCuddy's Marinas (Tomahawk Island) or a Hayde
 - No reply yet: Powerall, Schooner Creek, Gerryn, Pro Tech, ATR, Power Professor, Shift, Coy.
 Needed from Davey: dock photos + pedestal-to-float distance (on dashboard).
 
+## Contractor Q&A log (STANDING RULE, Davey 11/9)
+**Every question any contractor asks gets two things: (1) the plan/quote sheet is updated with the answer, (2) every contractor who contacts us later gets the updated sheet and answer up front, so they do not have to ask.** Source of truth: `Assets/V2 Build Drawings/2026-11-09 V2 Saunas Electrical Quote Sheet.html` (re-export the PDF after each change). Davey: keep it looking simple so it prices simple.
+| Date | From | Question | Answer | On the sheet? |
+|---|---|---|---|---|
+| 11/9 | Pacific NW Electric | Is everything fed from existing shore power on one 20 A GFCI circuit? Inlet as disconnect? | Yes, existing 30 A pedestal via marine cord, one 20 A GFCI circuit, inlet on the float is the disconnect | yes (Feed line) |
+| 11/9 | Pacific NW Electric | Minor label allowed? | They say NO (not a typical install, needs rough-in + final inspection). Plan on a regular permit; ask for the permit as its own line | yes (Permit line) |
+| 11/9 | Pacific NW Electric, Smiley | Photos of the pedestal and receptacle | PENDING: Davey to take 3 photos | add once taken |
+| 11/9 | Smiley | Cord + inlet specs | 30 A 125 V twist-lock marine inlet + matching 30 A marine cord set, length cut to the measured distance | add distance when measured |
+| 11/9 | Smiley | Distance pedestal to float | PENDING: Davey to measure | add once measured |
+| 11/9 | Unity | When do you want the appointment? | Davey answered: tomorrow Tue 11/10 | n/a |
+Status: Neil (Boones Ferry) out, booked until Dec 14. Davey already answered Unity himself.
+
 ## Open for Davey
 - Say send: Neil + Schooner Creek drafts go out as is. Powerall and Young need an email address (Jonah) or a phone call.
 - OK sending the quote request to Powerall (re-quote), Boones Ferry, Young, Schooner Creek.

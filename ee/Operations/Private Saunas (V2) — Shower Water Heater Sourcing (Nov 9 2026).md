@@ -1,5 +1,7 @@
 # Private Saunas (V2): Shower Water Heater Sourcing
 
+**Update 2026-11-09 evening (Davey): Mario is out. Gas branch + fire-up = Sergey; water connections, valve kit, shower valves = Alex.**
+
 Draft 2026-11-09. Companion to [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] and the Electrical package (Rev AJ). Prices are retail web listings seen 2026-11-09; a contractor price at Ferguson or Pace will be lower.
 
 ## Answer to the question

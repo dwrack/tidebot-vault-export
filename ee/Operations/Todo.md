@@ -17,6 +17,7 @@
 
 ## V2 Electrical (added 2026-11-09 — note: [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]])
 - [x] Davey 11/9: no panel, one 20 A circuit, outlets only (Rev AJ)
+- [ ] STANDING: any question a contractor asks about the V2 electrical → update the Quote Sheet with the answer, re-export the PDF, and send the updated sheet to every contractor who contacts us after (log in the Contractor Q&A table in the Electrical Design + Quote Package note)
 - [ ] Davey: OK the quote request emails (Powerall re-quote, Boones Ferry/Neil, Young Electric, Schooner Creek); Claude sends from sauna@
 - [ ] Walkthrough: add the electrician to the Davey + Grant + Mario float walk; photo the nearest pedestal label and breaker, confirm a free 30 A or 50 A receptacle and the cord route
 - [ ] Electrician: confirm a float qualifies as a job site for an Oregon minor label; otherwise regular electrical permit (Title 28)
