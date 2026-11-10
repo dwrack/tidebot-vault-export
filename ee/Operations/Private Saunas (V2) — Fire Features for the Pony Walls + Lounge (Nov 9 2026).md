@@ -1,5 +1,7 @@
 # Private Saunas (V2): Fire Features for the Pony Walls + the Lounge Table
 
+**PARKED 2026-11-09 (Davey): all options locked as researched below. Decision and purchase wait until there is cash, about 1 to 2 weeks (revisit ~2026-11-23). Fire features are an add-on, not needed to open.** What still has to happen now, because it can't be done after the deck closes: Sergey's gas drops and capped stubs (X2/X3) and the electrician's S1/S2 empty conduit stay in the rough-in so any unit can drop in later. Skyler (All Fuel) was asked for a quote at his earliest convenience (thread 1a1c42fc3a4a0f51); let it come in, no rush. Open follow-up if wanted: ask Skyler for lower-BTU options (140k circular table is more than a lounge needs; 60k to 80k is plenty).
+
 Draft 2026-11-09 evening. Companion to [[Private Saunas (V2) — Gas Line Plan for Sergey (Nov 9 2026)]] (gas set Rev AK: FP-W west edge, FP-E east edge by the zen garden, FP-L lounge). Prices are web retail seen 2026-11-09 at BBQGuys, Fireplaces Direct, Flame Authority, Starfire, Chimney Cricket and the like; they move weekly and dealers discount on a call. Lead times: these are stock items at the big dealers and usually ship in 1 to 2 weeks; confirm at order. Everything below is natural gas, outdoor rated, CSA listed.
 
 ## What the pony walls are, for this note

@@ -4,6 +4,7 @@
 - [ ] Davey 11/10: stop in at Floor & Decor North Portland and finalize the 12x24 tile in person (Black Brushed Slate online is 24x24 only, not what was seen in store); email to Daisy ON HOLD
 - [ ] Order at the store: ~130 pcs 12x24 (210 sq ft coverage, 113 exact), Spectralock 22 Midnight Black grout, sealer if natural stone, Schluter MGS edge trim; delivery to 173 NE Bridgeton Rd by Thu 11/13
 - [ ] Davey orders 2x Neodrain 12 in matte black linear drains (B0CPLSK4TT, $36.99) (drain only, NOT the Neodrain base); PLUS 2x Neodrain 2 in base ($18.74, PVC or ABS, no pipe so either works); tiler seals liquid membrane over the base flange (weep holes filled, fabric); SaniteModar scrapped 11/9
+- [ ] Tiler picks drain option A (plan) or B, drain brand preference, slope or not (sheet P-102 in the Rev AL PDF); hold the Amazon drain order until then
 - [ ] Send the Floor Drain Set (Rev AL, https://claude.ai/artifact/N7MdNwaJPUoDYREh8ybQj9) to Grant, Alex and the tiler before rough-in; get the answers (joist at the outlet, open air under the floor for the drip, tiler's drain body + hip cuts OK, Refiners OK shimming stove legs). See [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]]
 - [ ] Update the buy list with the final SKUs and totals
 
@@ -18,7 +19,7 @@
 - [x] Rev AK plan + email SENT to Sergey 11/9 evening from davey@ cc jonah@ (quote due Fri 11/14). Mario is out (no time); Sergey owns the gas (Davey 11/9)
 - [x] Water-side items (heater water hookup, shower valves, backflow) moved to Alex in the water line plan (11/9)
 - [ ] Sergey walkthrough: meter location/size/pressure, 2 psi vs low pressure down the dock, jumper type + slack, run lengths (meter to social tee, tee to float, tee to lounge), social sauna stove nameplate
-- [ ] Davey: pick the pony-wall fire units + lounge table from [[Private Saunas (V2) — Fire Features for the Pony Walls + Lounge (Nov 9 2026)]] (rec: Kalea Bay 60 see-through x2, Del Mar 72); then order (1 to 2 wk), framing drawing to Grant, BTU + inlet to Sergey, wire into S1/S2 for the electrician
+- [ ] PARKED to ~11/23 (cash): pick the pony-wall fire units + lounge table from [[Private Saunas (V2) — Fire Features for the Pony Walls + Lounge (Nov 9 2026)]] (rec: Kalea Bay 60 see-through x2, Del Mar 72); then order (1 to 2 wk), framing drawing to Grant, BTU + inlet to Sergey, wire into S1/S2 for the electrician
 - [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
 - [ ] Stamp valve tags to match G-001; add V0, V2 and the three E-stop knobs to the staff emergency sheet
 
