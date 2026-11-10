@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-10 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-10 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,6 +15,8 @@ _nothing_
 
 ## Needs you
 
+- [ ] Connor + Michael meeting invite waits on David's tick, Q4 pace and TX ad spend #DCKT #LSKT #BBK #HPB #due:2026-11-10 #id:T0141
+  → David tick the drafted invite for the 9am HOLD in the Approvals note so Connor and Michael get it; agenda is Q4 weekly pace, pausing BBK awareness and HPB Followers Reboost (about $990 a month), and the HPB $927 June 6 refund request. (David; Gmail dwrack81@; touched 2026-11-10)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -41,8 +43,12 @@ _nothing_
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
 - [ ] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
   → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
+- [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
+  → David connect with Alex about redoing the anti-slip pads at Ebb & Ember and post the step options in Slack; David told Jonah he is moving it to Slack. (David; Text with Jonah Moses; touched 2026-11-10)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0136
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
+- [ ] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
+  → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
 
 ## Waiting on someone
 
@@ -53,11 +59,9 @@ _nothing_
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Elevated Tides umbrella policy: higher limits approved, safety plan sent, awaiting carrier confirmation #waiting #due:2026-11-09 #id:T0095
-  → Max McCuddy confirm in writing that the carrier has the corrected ACORD answers and the $250k/$500k sub-limits at $3,170; the effective date Friday depends on the signed ACORD forms and safety program. (Max McCuddy; Gmail davey@; touched 2026-11-09)
+  → Max McCuddy confirm Capitol received the safety plan and corrected application answers, that the 11/6 effective date is holding, and whether anything including payment is still outstanding. (Max McCuddy; Gmail davey@; touched 2026-11-10)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → NKST manager confirm whether Michelle Healey has also been paid, since River says they were paid yesterday. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
-- [ ] Anti-slip dock steps options, get Alex's feedback #waiting #id:T0076
-  → David post the step options (350 lb rating, the pricier one that looks best, plus Overton's and Tommy Docks cheaper ones) in Slack so Jonah and Alex can weigh in. (David; Text with Jonah Moses; touched 2026-11-04)
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] NKST W-9 collection for 1099 guides, 3 still open #NKST #waiting #id:T0066
@@ -274,7 +278,7 @@ _nothing_
 - [ ] HPB SMS reply needs a human answer #HPB #id:T0134
   → HPB manager text back the number that replied 'Sorry, I can't talk right now' from the HPB line, or close it if no follow-up is needed. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-09)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager confirm with the contractor how guides get the trailer into the lot, since construction there is still active and Emily waited about 15 minutes and parked the trailer poorly on uneven ground. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
+  → NKST manager answer Michelle Healey on whether guides can park trailers on the opposite side, where you enter the driveway after McDonald's, until construction ends, and confirm with the contractor how guides get the trailer into the lot. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
   → DCKT staff or David verify this notice against the USPTO's own trademark records before replying, clicking anything or paying any fee; it has now arrived in two more inboxes. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-10)
 - [ ] Sankofa CDC asks what happened to the boat on Sunset Stroll #NKST #id:T0137
@@ -283,6 +287,8 @@ _nothing_
   → AKT manager update rates in Expedia LXPC for City Skyline, Congress Bridge Bats and Sunset Skyline tours, or send Krish the retail price per person. (AKT manager; Gmail austinkayaktours@; touched 2026-11-10)
 - [ ] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #id:T0139
   → Reply do 1,2 in #the-helm for TideBot to pull search terms, after the FareHarbor scraper is re-authed so bookings stop reading blank. (David; Slack #the-helm; touched 2026-11-10)
+- [ ] Sankofa CDC asks whether NKST checked the launch before Sunset Stroll boat; trailer sank in mud #NKST #id:T0140
+  → NKST manager reply to Rashida Ferdinand on whether anyone checked the graded launch Monday, now that Sankofa added crushed concrete and graded it with a bobcat, before the Sunset Stroll boat is finalized. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 
 ## Backburner (LSKT)
 

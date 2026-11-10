@@ -11,6 +11,9 @@ Goal: everything on site by Thu Nov 13. Prices from web listings 11/9, stock NOT
 - Drain drawings 11/9: Floor Drain Set Rev AL, https://claude.ai/artifact/N7MdNwaJPUoDYREh8ybQj9 (`Assets/V2 Build Drawings/2026-11-09 Private Saunas V2 Floor Drain Set (Rev AL).html` (+ .pdf)). Drain center 16.5 in off the window wall, 34 in off the front wall; floor 1/8 in/ft on four planes, tile cut on the hips; grate lip 1 3/8 in above plywood with 3/8 in tile.
 - Tile 11/9 evening: Floor & Decor's Black Brushed Slate is 24x24 only online (Daisy's in-store quote was 24x24 too), not the 12x24 Davey and Jonah saw. Davey stops in at F&D North Portland 11/10 to re-find the 12x24 and order in person. Email to Daisy on hold.
 
+## Floor stack (Davey 11/10)
+Plywood -> TEC Full Flex modified thinset -> Warmup DCM-PRO uncoupling membrane -> modified thinset -> tile. Slope (1/8 in/ft to the drain) built under the membrane. Seams/perimeter get DCM-PRO tape; liquid membrane laps from the Neodrain base flange onto the DCM-PRO (tiler to confirm the drain tie-in). Qty if we buy: 2 rolls DCM-PRO (107 sq ft each), 1 roll tape, 10 bags Full Flex 50 lb. Ditra not used.
+
 ## Buy now (ours to choose)
 | Item | Qty | Pick | Unit | Where |
 |---|---|---|---|---|
