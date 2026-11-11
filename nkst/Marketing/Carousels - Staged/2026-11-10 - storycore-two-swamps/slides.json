@@ -1,0 +1,116 @@
+{
+  "format": "archetypal",
+  "type": "belief",
+  "mentor": "Storycore",
+  "title": "Two Swamps: The One Everyone Photographs Isn't the One That Needs Them",
+  "brand": "nkst",
+  "why": "Storycore sample. One take (tourism flocks to the pretty swamp, the broken one needs the people), built on the Two Swamps story. No real Bienvenue photo on disk, so Bienvenue slides are text only.",
+  "hook_options": [
+    "Everyone photographs the pretty swamp.",
+    "The swamp you photograph isn't the one in trouble.",
+    "Most swamp tours sell you the wrong swamp."
+  ],
+  "caption": "Everyone photographs the pretty swamp.\n\nWe do too. Manchac is the second-largest bald cypress swamp in the US, about 30 minutes from the French Quarter, and it's our most popular tour. It earns that. Moss, reflections, wildlife that's common but never guaranteed.\n\nBut tourism has a habit. It goes where things are already beautiful and leaves the rest alone.\n\nBayou Bienvenue, in the Lower 9th Ward, used to be a cypress-tupelo swamp. It was logged out in the early 1900s, and that wood helped build this city. After Katrina, a destroyed wetland meant less storm surge protection for the neighborhood beside it. Now Common Ground Relief is putting cypress back in the ground. It's slow, muddy, unfinished work.\n\nWe'll be honest, we sell the pretty one too. It pays the bills. But every group that paddles Manchac hears about the swamp that isn't there anymore, because that's the part of the story worth carrying home.\n\nSo go see Manchac. We'll gladly take you. Just don't stop there.\n\nWhat's a place you keep showing up for because it needs you, not because it photographs well?\n\n#BayouBienvenue #NOLASwamp #EcoTourism #LouisianaWetlands",
+  "slides": [
+    {
+      "n": 1,
+      "layout": "hook",
+      "tone": "indigo",
+      "kicker": "A take",
+      "headline": "Everyone photographs the pretty swamp.",
+      "body": "We run tours there too. But the swamp that needs people is a different one, in the Lower 9th Ward.",
+      "dark": false,
+      "photo": "manchac-cypress-landscape-reflection-wide.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-cypress-landscape-reflection-wide.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 2,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Swamp one: Manchac",
+      "headline": "The one on the postcards.",
+      "body": "Second-largest bald cypress swamp in the US, about 30 minutes from the French Quarter. It's our most popular tour, and it earns it.",
+      "dark": false,
+      "photo": "manchac-sun-rays-through-cypress.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-sun-rays-through-cypress.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 3,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "The habit",
+      "headline": "Tourism goes where it's already beautiful.",
+      "body": "Attention, photos and bookings follow the cypress that are still standing. Almost nobody books a tour of what's missing.",
+      "dark": false,
+      "photo": "manchac-swamp-aerial-kayaks-canopy.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-swamp-aerial-kayaks-canopy.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 4,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Swamp two: Bayou Bienvenue",
+      "headline": "Lower 9th Ward. Logged out.",
+      "body": "It was a cypress-tupelo swamp until it was cut down in the early 1900s. That wood helped build this city."
+    },
+    {
+      "n": 5,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "What that cost",
+      "headline": "Lose the swamp, lose the buffer.",
+      "body": "After Katrina, a destroyed wetland meant less storm surge protection for the neighborhood beside it."
+    },
+    {
+      "n": 6,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "What's happening now",
+      "headline": "Someone is replanting it.",
+      "body": "Common Ground Relief is putting cypress back in the ground there. It's slow, muddy and unfinished. That's where the work is."
+    },
+    {
+      "n": 7,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "Our part in it",
+      "headline": "We sell the pretty one too.",
+      "body": "Manchac is our most popular tour, and we know the irony. So every tour carries the other swamp's story, not just the postcard."
+    },
+    {
+      "n": 8,
+      "layout": "photo",
+      "tone": "indigo",
+      "kicker": "Manchac, still standing",
+      "headline": "Worth fighting for.",
+      "body": "Manchac shows what's worth fighting for. Bienvenue shows what happens when the fight is lost. We work in between.",
+      "dark": true,
+      "photo": "manchac-cypress-knees-fallen-logs.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-cypress-knees-fallen-logs.jpg",
+      "pos": "center"
+    },
+    {
+      "n": 9,
+      "layout": "point",
+      "tone": "green",
+      "kicker": "The take",
+      "headline": "See the pretty swamp. Then ask about the other.",
+      "body": "Manchac will still look good in your photos. Bienvenue needs people who keep asking about it."
+    },
+    {
+      "n": 10,
+      "layout": "cta",
+      "tone": "indigo",
+      "kicker": "Two swamps. One story.",
+      "headline": "Go see both.",
+      "body": "Small-group kayak eco-tours from New Orleans. 12 guests max, trained naturalist guides.",
+      "dark": false,
+      "photo": "manchac-kayaker-quiet-channel-afternoon.jpg",
+      "photo_abs": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/New Orleans Kayak Swamp Tours/Assets/Carousel Picks/manchac-kayaker-quiet-channel-afternoon.jpg",
+      "pos": "center"
+    }
+  ]
+}

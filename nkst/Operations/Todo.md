@@ -152,3 +152,6 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 
 ---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*
+
+- [ ] Review the Storycore "Two Swamps" carousel ([[Marketing/Carousels - Staged/2026-11-10 - storycore-two-swamps/REVIEW|REVIEW]]) and confirm it's OK to name Common Ground Relief (added 2026-11-10)
+- [ ] Shoot real Bayou Bienvenue photos for the Storycore carousel slides 4-7 and 9 (added 2026-11-10)

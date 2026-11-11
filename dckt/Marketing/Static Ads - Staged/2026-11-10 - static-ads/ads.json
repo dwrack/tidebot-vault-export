@@ -1,0 +1,99 @@
+{
+ "title": "DCKT static ads, agent stack test (2026-11-10)",
+ "ratios": [
+  "1:1",
+  "4:5",
+  "9:16"
+ ],
+ "ads": [
+  {
+   "slug": "pov-shipwreck",
+   "format": "pov",
+   "photo": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Bluff Shipwreck tours/DJI_0042.JPG",
+   "pos": "center",
+   "caption": "POV: there's a shipwreck right under your kayak",
+   "cta": "Door Bluff Shipwreck Tour returns May 2027"
+  },
+  {
+   "slug": "gift-summer",
+   "format": "urgency",
+   "photo": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/Great cave point kayak photo.jpg",
+   "pos": "center",
+   "tag": "Holiday gift idea",
+   "headline": "Give them Cave Point next summer",
+   "sub": "Gift cards for any DCKT tour. They pick the day when the season opens in May.",
+   "dates": [],
+   "cta": "Gift cards at doorcountykayaktours.com"
+  },
+  {
+   "slug": "group-dad-gift",
+   "format": "groupchat",
+   "group_name": "Dad's Christmas",
+   "people": [
+    "Megan",
+    "Luke"
+   ],
+   "messages": [
+    {
+     "from": "Megan",
+     "text": "what are we getting dad this year"
+    },
+    {
+     "from": "Luke",
+     "text": "not another fleece"
+    },
+    {
+     "from": "Megan",
+     "photo": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Bluff Shipwreck tours/DSC_0012.JPG"
+    },
+    {
+     "from": "Megan",
+     "text": "kayak tour at Cave Point. gift card, he picks the day next summer"
+    },
+    {
+     "from": "me",
+     "text": "ok that's actually perfect. sending the link"
+    }
+   ],
+   "tag": "doorcountykayaktours.com"
+  },
+  {
+   "slug": "imessage-july",
+   "format": "imessage",
+   "contact": "Sam",
+   "time": "Today 7:42 PM",
+   "messages": [
+    {
+     "from": "them",
+     "text": "are we doing Door County again in July"
+    },
+    {
+     "from": "me",
+     "text": "yes. but not just fudge and fish boils this time"
+    },
+    {
+     "from": "them",
+     "card": {
+      "photo": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Amazing photos to brand/33117483_194537807836293_65012739570925568_o.jpg",
+      "title": "Cave Point Kayak Tour, 2 hrs, from $69",
+      "site": "doorcountykayaktours.com"
+     }
+    },
+    {
+     "from": "me",
+     "text": "the caves?? booking it now so we're not scrambling in July",
+     "react": "❤️"
+    }
+   ],
+   "tag": "Kayak tours return May 2027"
+  },
+  {
+   "slug": "pov-from-the-water",
+   "format": "pov",
+   "photo": "/Users/wavey/Library/Mobile Documents/iCloud~md~obsidian/Documents/Door County Kayak Tours/Assets/DCKT/DCKT Photos/Cave Point/Awesome-shot2.jpg",
+   "pos": "center",
+   "caption": "Everyone sees Cave Point from the cliff. You'll see it from the water.",
+   "cta": "Cave Point tours from $69. Back May 2027"
+  }
+ ]
+}

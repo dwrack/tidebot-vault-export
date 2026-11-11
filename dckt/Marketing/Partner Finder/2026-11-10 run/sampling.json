@@ -1,0 +1,19 @@
+{
+  "brand": "Door County Kayak Tours",
+  "apify_account": "dckt",
+  "source_place_id": "ChIJS43dYVVITU0RdmL7rY1Xbi0",
+  "source_title": "Door County Kayak Tours",
+  "source_fid": "0x4d4d485561dd8d4b:0x2d6e578dadfb6276",
+  "source_address": "6329 WI-57, Sturgeon Bay, WI 54235",
+  "source_lat": 44.9805451,
+  "source_lng": -87.1844219,
+  "reviews_requested": 80,
+  "reviews_returned": 80,
+  "min_reviewer_reviews": 3,
+  "histories_attempted": 40,
+  "histories_accessible": 38,
+  "history_cap": 30,
+  "history_rows": 565,
+  "apify_cost_usd": 0.854,
+  "captured_at": "2026-11-11T05:27:09+00:00"
+}
