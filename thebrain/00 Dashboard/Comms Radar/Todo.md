@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-10 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-10 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,9 +15,6 @@ _nothing_
 
 ## Needs you
 
-- [ ] Connor + Michael meeting invite waits on David's tick, Q4 pace and TX ad spend #DCKT #LSKT #BBK #HPB #due:2026-11-10 #id:T0141
-  → David tick the drafted invite for the 9am HOLD in the Approvals note so Connor and Michael get it; agenda is Q4 weekly pace, pausing BBK awareness and HPB Followers Reboost (about $990 a month), and the HPB $927 June 6 refund request. (David; Gmail dwrack81@; touched 2026-11-10)
-  > why didn’t you send the invite. i hate when i ask you to do something and then you take a long time and then come back and ask me , should i send it? Ive already walked away from my computer and then it doesn’t get done.wtf claude
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -28,9 +25,6 @@ _nothing_
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
-- [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #NKST #id:T0102
-  → David top up the Gemini API prepay credits in AI Studio billing; until then written trip logs (like Emily Clarke's Nov 6 log) may need manual processing. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
-  > i thought we made multipole backup keys for this and saved them. fix it
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
 - [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
@@ -87,9 +81,11 @@ _nothing_
 - [ ] Switch Verizon plans for new phones with Michael #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0127
   → Michael Fischer switch the Verizon plans so David can get the new phones. (Michael Fischer; Text with Michael Fischer; touched 2026-11-09)
 - [ ] Michael asks to set up SMS text request for all New Orleans businesses, and OpenCX fix plan #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0038
-  → Wait for Cody's reply to David's email, then David answers the OpenCX Fix Plan approve boxes and gives Michael the four safety facts. (Cody; Todo.md comment; touched 2026-11-10)
+  → Wait for Cody's reply to the SMS verification email, then David answers the OpenCX Fix Plan approve boxes and gives Michael the four safety facts. (Cody; Gmail dwrack81@; touched 2026-11-10)
   > David: sent cody email and waiting on his response.
   > Radar: Noted that you emailed Cody and are waiting on his reply. I moved this to waiting; the OpenCX boxes and the four safety facts for Michael are still open.
+- [ ] NPB voucher reply to angry Halloween tiki guest, draft sent to Jeffrey for review #NPB #waiting #id:T0146
+  → Jeffrey text David back OK or his changes to the draft reply; David then fills in the voucher amount or option before it goes out. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-10)
 
 ## Open
 
@@ -115,6 +111,10 @@ _nothing_
   → HPB manager decide whether to take the Tuesday Nov 10 10:15 AM Eastern call with Stan Ventures; someone replied 'Yes' to the cold pitch, so a response is expected. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-08)
 - [ ] NKST 9am Nov 10 tour has only two guests, Emily asks to cancel #NKST #due:2026-11-10 #id:T0135
   → NKST manager tell Emily whether to cancel the 9am tour tomorrow with two guests and contact those guests; Emily offered to reach out. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
+- [ ] Connor + Michael meeting invite, Q4 pace and TX ad spend #AKT #LSKT #due:2026-11-10 #id:T0141
+  → Send the Connor and Michael invite on Q4 pace and TX ad spend now without waiting for David's tick; owner is the Claude session that holds the calendar access. (Claude; Todo comment; touched 2026-11-10)
+  > David: why didn’t you send the invite. i hate when i ask you to do something and then you take a long time and then come back and ask me , should i send it? Ive already walked away from my computer and then it doesn’t get done.wtf claude
+  > Radar: I can't send invites from the ledger. I've changed the next move to send it now with no tick needed, and cleared the needs-you flag. Sorry about the wait.
 - [ ] AWS SES DKIM disabled for neworleanskayakrental.com #NKST #due:2026-11-11 #id:T0106
   → Whoever manages the neworleanskayakrental.com DNS restore the SES DKIM records within 5 days, unless removing them was intentional. (David; Gmail doorcountyzip@; touched 2026-11-06)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
@@ -285,6 +285,10 @@ _nothing_
   → NKST manager answer Michelle Healey on whether guides can park trailers on the opposite side, where you enter the driveway after McDonald's, until construction ends, and confirm with the contractor how guides get the trailer into the lot. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
   → DCKT staff or David verify this notice against the USPTO's own trademark records before replying, clicking anything or paying any fee; it has now arrived in two more inboxes. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-10)
+- [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #id:T0102
+  → Switch TideBot to the saved backup Gemini keys so written log processing runs again, then confirm it in Slack; owner is the Claude session on mbp-2. (Claude on mbp-2; Todo comment; touched 2026-11-10)
+  > David: i thought we made multipole backup keys for this and saved them. fix it
+  > Radar: I can't see the backup keys from the ledger and can't switch anything myself. I've set the next move as swapping TideBot to the saved backup keys on mbp-2 and confirming it in Slack.
 - [ ] Sankofa CDC asks what happened to the boat on Sunset Stroll #NKST #id:T0137
   → NKST manager reply to Rashida Ferdinand on the stuck boat and say what NKST will do for the group; the info admin replied that the trailer sank into the mud at the widened launch. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 - [ ] Expedia asks AKT to restore rates on three products #AKT #id:T0138

@@ -10,7 +10,11 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
-- 2026-11-10: bigly image generation is down. Ollama's x/flux2-klein now returns "image generation models are not currently supported" and Draw Things' API is off (app relaunched, port 7860 closed). To get the NPB event room v2 mockup (no benches, spread tables) and the Studio test batch running: on bigly open Draw Things > Settings > API Server > turn ON, or tell me how last night's mockup job was launched | NOLA Party Barge / Studio Queue | default: v2 mockup and test1 batch stay queued
+- Tell Claude whether NPB cut boats or departures since 2024 (Party Queen summer guests 2,397 -> 658; all boats down ~30%/yr at flat price). Decides if the drop is supply or demand before any price test | NPB | default: Audience Intel treats it as unexplained and no price test starts
+- NPB Apify is capped ($5.06 of $5) until 11/29. Raise the cap to $10 to unlock the paid Audience Intel upgrades (~$9: follower graph, full-name match, fresh TikTok pull) | NPB | default: rerun the paid modules after the 11/29 reset
+- 2027-01-15 due | Approve the NPB Mardi Gras push from Audience Intel: Meta flight Jan 20 to Feb 14 in the SE drive markets, emails Thu Jan 22 + Feb 5 | NPB | default: no Mardi Gras flight is planned
+- Approve or kill the faceless IG + TikTok batch 1 (30 posts, 6 Louisiana brands, staged on bigly in ~/faceless/, index at ~/faceless/INDEX.md, previews in _previews/) | NPB, Tiki Boats, NKST, Honey Island, Crescent City, Admire NOLA | default: stays staged, nothing posts
+- 2026-11-11 due | Review Night Shift drafts (GBP replies, Reddit, vault audit) in _Ops/Night Shift/Output/<date>/SUMMARY.md, tick what to post | TheBrain | default: drafts sit unsent, nothing posts
 - 2026-11-11 due | Call FareHarbor 24/7 support 855-495-5551 at 8:00 AM MT (9:00 AM CT) and ask for Cody Sharkey or a ticket owner; say the SMS verification packet for 6 Open numbers was sent from 3 inboxes Nov 10 and they must open one ticket and confirm in writing | All FareHarbor brands (Open SMS) | default: wait on Cody's reply to the 5 timed follow-ups
 - 2026-11-11 due | Spacers: check davey@ for replies from Lisac's, Homestead Stove, NW Natural Appliance Center (emailed 11/10 for ~90 1 in ceramic wall shield spacers); call Buck's 503-771-3374 / Beaumont Hardware if none. If nobody has them, order 9 Imperial kits on Amazon (Thu 11/12), E&E card | E&E | default: Amazon order Thursday
 - Reply to Jonah in #private-saunas-build on the exterior layout: east fire stays on the east/view side (not south by the table), entry doors move to the south edge (his sketch 2), closets to the south edge, dock = two private landings not a loop; review in E&E Operations/Private Saunas (V2) — Exterior Layout Review (Nov 10 2026).md | E&E | default: Jonah's sketch 1 stands and the east entry walkway eats the east view
@@ -160,10 +164,10 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - [2026-11-17 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-08), charged $500 twice within 48 h (Nov 6 and Nov 8). Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-17 due |] Charge watch: $2,082 at Psa Parking on Chase C. CHAMPAGNE ...9317 (2026-11-06), $2,082 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
 - [2026-11-17 due |] Charge watch: $253 at Amazon on Capital One Platinum Rewards ...5393 (2026-11-04), $253 is 9.8x this merchant's usual $26. Say OK or dispute it | Personal | default: treated as fine after 7 days
-- [2026-11-17 due |] Charge watch: $2,545 at Certificate Of Origin Retif on Chase PERFBUS CHK ...3085 (2026-11-02), $2,545 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-17 due |] Charge watch: $2,827 at Paypal on Chase PERFBUS CHK ...1893 (2026-11-02), $2,827 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
 - [2026-11-17 due |] Charge watch: $1,140 at Paypal on Chase PERFBUS CHK ...1893 (2026-11-02), $1,140 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
 - [2026-11-17 due |] Charge watch: $5,693 at Paypal on Chase PERFBUS CHK ...3085 (2026-11-02), $5,693 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-17 due |] SimpleFIN re-auth: Nicolet, Relay, E*Trade and Edvest say Auth required, so the Budget tab is missing DCKT, Cave Point and personal checking since Oct 20 (sign in at beta-bridge.simplefin.org) | ALL | default: Budget tab shows Chase, Amex, Capital One and BofA only
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
