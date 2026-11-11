@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Review Improve System drafts 2026-11-10 (approve or drop) | DJL | default: drafts sit unused, nothing changes
+- 2026-11-10: bigly's screen is locked or asleep, so Draw Things has no window and its API stays off (screencapture says 'no display'). Unlock bigly and leave it unlocked, or set Lock Screen to never turn off / never require password there, so night image jobs run without you. Test batch step 3 (soft phone photo cleanup) is waiting on this | Studio Queue (bigly) | default: step 3 and tonight's jobs wait until bigly is unlocked
 - Approve or edit 3 DCKT partner emails (Square Rigger Lodge, Beachfront Inn, Door County Brewing Co.) in Door County Kayak Tours/Marketing/Partner Finder/2026-11-10 run/Partner Shortlist + Drafts.md; best sent Jan | DCKT | default: they stay drafted, nothing sends
 - Approve or kill the first Storycore post: NKST "Two Swamps" carousel + caption (also OK naming Common Ground Relief?), staged in NKST Marketing/Carousels - Staged/2026-11-10 - storycore-two-swamps/REVIEW.md | NKST | default: stays staged, nothing posts
 - Get real Bayou Bienvenue photos (cypress plantings, open water where the swamp was) next time a guide is out there; 5 Storycore slides are text-only without them | NKST | default: carousel runs text-heavy or waits
