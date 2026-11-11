@@ -1,6 +1,6 @@
 # Email Link Tracking Spec for L (Nov 11 2026)
 
-Sent to L via Slack DM (Claude app) on 2026-11-11 pending Davey's OK. Open item on the dashboard until she confirms after her first send.
+Sent to L via Slack DM (Claude app) on 2026-11-11. Open item on the dashboard until she confirms after her first send.
 
 ## Why this works
 - GA4 G-YF8FPEWW4S runs on ebbandember.com (Squarespace footer today, `a/track.js` on the Astro rebuild, verified 2026-11-11 on both hosts).
