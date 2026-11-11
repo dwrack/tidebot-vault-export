@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -76,7 +76,7 @@
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -94,11 +94,11 @@
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $1,136 | $77 | +1382% |
-| Month to date, net | -$1,136 | -$77 | -$1,059 |
+| Month to date, spending | $1,136 | $164 | +594% |
+| Month to date, net | -$1,136 | -$164 | -$972 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,925 | $28,515 | -16% |
-| Trailing 12 months, net | -$23,925 | -$27,919 | $3,994 |
+| Trailing 12 months, spending | $23,838 | $28,602 | -17% |
+| Trailing 12 months, net | -$23,838 | -$28,006 | $4,168 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
@@ -109,7 +109,7 @@
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 10. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 11. Balances only.*
 
 | Account | Balance |
 |---|---|

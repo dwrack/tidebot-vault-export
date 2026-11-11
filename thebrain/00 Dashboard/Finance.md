@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -38,7 +38,7 @@
 **Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -56,11 +56,11 @@
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $1,136 | $77 | +1382% |
-| Month to date, net | -$1,136 | -$77 | -$1,059 |
+| Month to date, spending | $1,136 | $164 | +594% |
+| Month to date, net | -$1,136 | -$164 | -$972 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,925 | $28,515 | -16% |
-| Trailing 12 months, net | -$23,925 | -$27,919 | $3,994 |
+| Trailing 12 months, spending | $23,838 | $28,602 | -17% |
+| Trailing 12 months, net | -$23,838 | -$28,006 | $4,168 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
@@ -69,19 +69,19 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank M. FISCHER (5955) | -$2,921 |
-| Chase Bank PERFBUS CHK (1893) | $18,945 |
+| Chase Bank M. FISCHER (5955) | $0 |
+| Chase Bank PERFBUS CHK (1893) | $16,523 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $27,776 |
-| Spending | $18,779 |
-| Card payments + transfers out | $12,336 |
-| Net, month to date | -$3,456 |
+| Money in | $28,290 |
+| Spending | $18,794 |
+| Card payments + transfers out | $15,257 |
+| Net, month to date | -$2,956 |
 | Net, same days last month | -$1,869 |
 
 | vs same period last year | This year | Last year | Change |
@@ -89,23 +89,23 @@
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $17,275; CHECK # $1,504
+**Top spending, 30 days:** PAYPAL $17,275; CHECK # $1,504; fareharbor $15
 
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $60,501 |
+| Chase Bank PERFBUS CHK (3085) | $61,078 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $91,053 |
-| Spending | $67,961 |
-| Card payments + transfers out | $25,854 |
-| Net, month to date | -$3,288 |
+| Money in | $102,182 |
+| Spending | $75,734 |
+| Card payments + transfers out | $28,632 |
+| Net, month to date | $67 |
 | Net, same days last month | -$8,567 |
 
 | vs same period last year | This year | Last year | Change |
@@ -113,11 +113,12 @@
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $31,336; CHECK # $18,640; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; NORTHWESTERN MU $78
+**Top spending, 30 days:** PAYPAL $32,358; CHECK # $24,640; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $654
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it
 - Check $6,000 on Oct 21: payee unknown, label it
 - Check $6,000 on Oct 27: payee unknown, label it
 - Check $2,129 on Oct 29: payee unknown, label it
+- Check $6,000 on Nov 09: payee unknown, label it
 <!-- finance-auto:end -->

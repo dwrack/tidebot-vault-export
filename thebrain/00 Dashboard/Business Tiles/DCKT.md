@@ -39,7 +39,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 10. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
 
 | Account | Balance |
 |---|---|
