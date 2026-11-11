@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "11 unanswered comments on the 11/6 carousel plus the 10/26 reel backlog; 3 unreplied GBP reviews"
-updated: 2026-11-10
+alert: "11 unanswered comments on the 11/6 carousel; 4 unreplied GBP reviews"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,14 +18,14 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 26 days ago.** Still no GSC, GA4, or Meta ad account.
-- IG: no post since the 11/7 reel. The 11/6 private-sauna carousel (234 likes) has 11 top-level comments and none from the account, checked live 11/10. The 10/26 reel (977 likes, 52 comments) backlog is unchanged. Kimberlyn's lane.
-- GBP: 3 unreplied 5-stars (Elliot Fuhr 11/9, Andrii Partyka 11/7, Diana Morelen 11/3).
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 27 days ago.** Still no GSC, GA4, or Meta ad account.
+- IG: new Columbia River carousel 11/10, 19 likes. The 11/6 private-sauna carousel (244 likes) has 11 comments from 11 people and none from the account, confirmed live 11/11. Kimberlyn's lane.
+- GBP: 4 unreplied 5-stars (Alex Larson 11/11, Elliot Fuhr 11/9, Andrii Partyka 11/7, Diana Morelen 11/3).
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

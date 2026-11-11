@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-10
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,12 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 11/2–11/8: 10 clicks vs 8; "plantation and swamp tour new orleans" 2 clicks / 20 impr, pos 1.6. Those are the right queries for this property (yesterday's wrong-property flag is cleared). IG silent since 9/29, six weeks. GBP 0 unreplied.
+- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 11/3–11/9: 12 clicks vs 7; "plantation and swamp tour new orleans" 2 clicks / 17 impr, pos 1.5; "new orleans plantation tours" pos 3.1. IG silent since 9/28, 43 days, confirmed live 11/11. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 49
+ad_spend_yday: 90
 status: yellow
-alert: "data stale — FH scrape missing (FH login expired 11/9); Houston Meta $384 / 7d at 0 purchases"
-updated: 2026-11-10
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); Houston Meta $406 / 7d at 0 purchases"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,15 +18,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $1,137/wk vs $4,500 target, 25%.
-- **Meta, confirmed live 11/10:** Houston account $383.74 in 7 days, zero purchases. Mon 11/9: Initiate Checkout $18.77, Bat Bridge Traffic $17.61, Retargeting $4.29, all 0 purchases. Correction: the Initiate Checkout campaign's objective is Sales (only the name says Awareness). The pause-3-campaigns line on the dashboard is still open.
-- Google Mon 11/9: $7.94 / 0 conv. 7 days: PMax $96.10 / 1 conv, generic search $38.72 / 1 conv, brand search $24.13 / 0.
-- GBP: 3 unreplied 5-stars (cai, Borman, Arefeen 11/3). IG: 11/8 bats reel, 6 likes.
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $1,137/wk vs $4,500 target, 25%.
+- **Meta, confirmed live 11/11:** Houston account $406.33 in 7 days, zero purchases. Tue 11/10: Initiate Checkout $34.78, Bat Bridge Traffic $20.08, Retargeting $5.28, all 0 purchases. The pause is waiting on Michael's read.
+- Google Tue 11/10: $30.09 / 0 conv. 7 days: PMax $104.67 / 1 conv, generic search $45.93 / 1 conv, brand search $13.85 / 0.
+- GBP: 3 unreplied 5-stars (cai, Borman, Arefeen 11/3). IG: 11/10 bat bridge reel, 4 likes.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

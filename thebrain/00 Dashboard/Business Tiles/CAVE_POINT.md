@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-10
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: route_fix_by_oct_15
 goal_q4_target: null
@@ -18,12 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: route_fix_by_oct_15. No movement since 2026-08-28; deadline passed 26 days ago.** GSC 11/2–11/8: 19 clicks vs 25, down 24%; impressions down 32%. "what size kayak do i need" 3 clicks / 25 impr, pos 8.3. IG feed under this ID silent since 6/19/2025 and its content reads like DCKT's (roster ID swap suspected, unconfirmed). GBP 0 unreplied.
+- **Goal: route_fix_by_oct_15. No movement since 2026-08-28; deadline passed 27 days ago.** GSC 11/3–11/9: 24 clicks vs 17, up 41%; impressions down 11%. "what size kayak do i need" 3 clicks / 27 impr, pos 8.3. IG feed under this ID silent since 6/19/2025, confirmed live 11/11. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

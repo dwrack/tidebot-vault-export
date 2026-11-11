@@ -5,10 +5,10 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 19
+ad_spend_yday: 20
 status: yellow
-alert: "data stale — FH scrape missing (FH login expired 11/9)"
-updated: 2026-11-10
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2)"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,14 +18,14 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $872/wk vs $5,500 target, 16%.
-- Google (Texas umbrella) Mon 11/9: Lone Star PMax $19.16 / 0 conv. 7 days: $258.43 / 3 conv / $445.58, ROAS 1.7. Meta account: no delivery in 7 days.
-- GSC 11/2–11/8: 19 clicks vs 20, but impressions up 55% (4,032 vs 2,593) since 10/31; cause not checked. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $872/wk vs $5,500 target, 16%.
+- Google (Texas umbrella) Tue 11/10: Lone Star PMax $20.12 / 0 conv. 7 days: $253.33 / 3 conv / $445.58, ROAS 1.8. Meta account: no delivery in 7 days.
+- GSC 11/3–11/9: 16 clicks vs 24, down 33% on flat impressions (3,246 vs 3,326). Small base; bat season ending is the likely cause, not checked. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

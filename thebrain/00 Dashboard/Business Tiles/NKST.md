@@ -5,10 +5,10 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 74
+ad_spend_yday: 67
 status: yellow
-alert: "data stale — FH scrape missing (FH login expired 11/9); new Google search campaigns $282 / 0 conv since 11/6"
-updated: 2026-11-10
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); generic Google search $350 / 0 conv since 11/6"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,15 +18,16 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $6,927/wk vs $4,000 target, 173%.
-- **Google Ads (Michael's lane), confirmed live 11/10:** the two generic search campaigns started 11/6 and have spent $282.50 with 0 conversions (Local $154.28, National $128.22). Mon 11/9: $73.83 / 0. Both enabled.
-- GSC 11/2–11/8: 156 clicks vs 127, up 23%. Brand term still pos 15.5 (6 clicks / 91 impr). Watched airboat page got its first GSC click: 1 click / 63 impr vs 0 / 0 baseline; GA4 2 views, flat. GA4 Mon 11/9: 177 sessions (Google 52, direct 35, IG 32, FB 35, Reddit 5).
-- IG: 11/9 beads reel at 45 likes, about 3x the usual. GBP: 8 unreplied 5-stars (new: Alcantar 11/9; Miller 11/8; Nelson, Christ 11/6; W S, Fonda 11/3; Renshaw, Valstad 11/2).
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $6,927/wk vs $4,000 target, 173%.
+- **Google Ads (Michael's lane), confirmed live 11/11:** the two generic search campaigns started 11/6 and have spent $349.52 with 0 conversions (Local $188.68, National $160.84). Tue 11/10: $67.02 / 0. Both enabled.
+- GBP: all 10 newest reviews unreplied, all 5★. One posted 11/10 is from an account named "Customer Support" praising Stephanie; check whose account that is before replying.
+- GSC 11/3–11/9: 151 clicks vs 120, up 26%. Brand term pos 13.5, up from 15.5 (4 clicks / 79 impr). Watched airboat page: 1 click / 62 impr vs 0 / 0 baseline, GA4 2 views, flat. GA4 Tue 11/10: 149 sessions (IG 38, Google 36, FB 35, direct 31, Reddit 5).
+- IG: 11/9 beads reel at 50 likes; 11/10 Spanish moss carousel at 7.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 **New Orleans Kayak Swamp Tours**
 

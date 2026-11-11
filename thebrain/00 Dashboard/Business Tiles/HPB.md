@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 28
+ad_spend_yday: 20
 status: yellow
-alert: "data stale — FH scrape missing (FH login expired 11/9); TikTok logged out day 3; SMS alert emails still repeating"
-updated: 2026-11-10
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); TikTok logged out day 4"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,15 +18,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $445/wk vs $4,000 target, 11%.
-- **SMS alert:** the open "customer text" is an iPhone auto-decline ("Sorry, I can't talk right now", +1 832-939-0756). Close it. Alert emails still arrived 2:01am and 3:02am 11/10, after the 11/9 once-per-reply fix; unverified whether that deploy took.
-- Ads Mon 11/9: Google "Search - Houston Pedal Barge" (Texas umbrella) $18.68 / 0 conv, but 7 days $100.20 / 2 conv / $263.70, so it earns its keep. Leave it on. Meta Followers Reboost $9.06 (engagement only).
-- TikTok: logged out, third day, confirmed live 11/10. Needs the QR scan via Screen Sharing to mbp-2. IG: no post since 11/6. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $445/wk vs $4,000 target, 11%.
+- TikTok: logged out, fourth day, confirmed live 11/11. Needs the QR scan via Screen Sharing to mbp-2.
+- Ads Tue 11/10: Google "Search - Houston Pedal Barge" (Texas umbrella) $10.82 / 0 conv; 7 days $103.48 / 2 conv / $263.70. Meta Followers Reboost $9.40 (engagement only).
+- Text alerts: no new alert email seen in the 11/11 unread pull; unverified whether the once-per-reply fix took. IG: no post since 11/6. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

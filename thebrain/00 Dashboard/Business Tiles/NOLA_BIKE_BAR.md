@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-10
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: win_category_terms
 goal_q4_target: null
@@ -18,12 +18,12 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: win_category_terms. No movement since 2026-08-28.** GSC 11/2–11/8: 27 clicks vs 28, flat. "nola bike bar" pos 3.9, "new orleans bike tour" pos 5.0 (1 click / 7 impr). GBP 0 unreplied. No ads, no FH feed.
+- **Goal: win_category_terms. No movement since 2026-08-28.** GSC 11/3–11/9: 32 clicks vs 30, flat. "bike bar new orleans" pos 5.3, "new orleans bike tour" pos 5.0 (1 click / 7 impr). GBP 0 unreplied. No ads, no FH feed.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|

@@ -5,10 +5,10 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 315
+ad_spend_yday: 359
 status: yellow
-alert: "data stale — FH scrape missing (FH login expired 11/9); 2★ review unreplied 2 days"
-updated: 2026-11-10
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); 2★ review unreplied 3 days"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,15 +18,15 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor login expired 11/9 and the 11/10 scrape returned 403. Last good read (11/2–11/8): $21,250/wk vs $30,000 target, 71%.
-- **2★ JP Trigo (11/8) still unreplied, 2 days, confirmed live 11/10.** Draft reply is in the 11/10 brief. All 10 newest reviews are unreplied (9 five-stars; new 11/9: Savastano, Greene, Covington).
-- Ads Mon 11/9: Google $159.70 / 0 conv (National $84.92, Local $19.50, Holiday Party & Groups $13.98, PMax-12 $41.30). Meta $155.54 / 0 purchases (Gator Collision $120.16, Retargeting $16.61, Messenger $18.77 with 5 conversations). 7 days: Google National ROAS 6.9, Meta account $1,617 / 18 purchases / ROAS 1.98. Zero conversions on every account 11/9, watch for a second zero day.
-- GSC 11/2–11/8: 51 clicks vs 49 prior, flat. "nola party barge" pos 3.0, 5 clicks / 100 impr. IG: no post since 11/6.
+- **Goal pace: unavailable this run.** FareHarbor login dead since 11/9; the 11/10 and 11/11 scrapes returned 403. Last good read (11/2–11/8): $21,250/wk vs $30,000 target, 71%.
+- **2★ JP Trigo (11/8) still unreplied, 3 days, confirmed live 11/11.** Five new 5-stars on 11/10 pushed it to 11th. 17 of the newest 20 reviews are unreplied. Draft reply is in the 11/11 brief.
+- Ads Tue 11/10: Google $148.68 / 1 conv $119.77 (National $79.01, PMax-12 $34.31, Holiday Party & Groups $22.99, Local $12.37). Meta $210.34 / 3 purchases / $1,018.04 (Gator Collision $172.63 / 2, Retargeting $20.34 / 1 worth $838.39, Messenger $17.36). 7 days: Google National ROAS 5.6, Meta account $1,598 / 19 purchases / ROAS 2.54. Conversions are recording again; Monday's zero was not a tracking break.
+- GSC 11/3–11/9: 54 clicks vs 45 prior, up 20%. "nola party barge" pos 2.9, 8 clicks / 107 impr. IG: no post since 11/6.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 **NOLA Party Barge**
 

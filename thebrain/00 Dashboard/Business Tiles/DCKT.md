@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing (FH login expired 11/9)"
-updated: 2026-11-10
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2)"
+updated: 2026-11-11
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,14 +18,14 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10. Last good read (11/2–11/8): $275/wk vs $7,000 target, 4% (season closed).
-- Ads: $0 on Google and no Meta delivery for 7 days (11/3–11/9), confirmed live. Season closed. GSC 11/2–11/8: 76 clicks vs 93, down 18%, off-season drift; "door county kayak tours" pos 2.3. The hiking and sauna queries are this site's own blog traffic, not a property mix-up.
-- USPTO sent an official notification on SN 99890274 at 12:01am 11/10 (publication was expected today). Body unreadable through the tool; open it once. GBP 0 unreplied. IG ID in the roster still looks swapped with Cave Point (unconfirmed).
+- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $275/wk vs $7,000 target, 4% (season closed).
+- Ads: $0 on Google and no Meta delivery for 7 days (11/4–11/10), confirmed live 11/11. Season closed. GSC 11/3–11/9: 74 clicks vs 90, down 18%, off-season drift; "door county kayak tours" pos 2.2.
+- IG: no post since 11/5. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
 ### 📍 Google Maps rank (non-branded, 25-point grid, monthly)
-*Last check 2026-11-06. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
+*Last check 2026-11-11. Top-3 coverage = % of the grid where we're in the Maps top 3. Detail: TheBrain/Marketing/Maps Rank.*
 
 | Keyword | Top-3 coverage | Shows up in | Avg rank where shown | vs last check | History (top-3 coverage) |
 |---|---|---|---|---|---|
