@@ -1,13 +1,13 @@
 # Ebb & Ember — Todo List
 
 ## Website rebuild (added 2026-11-11)
-- [ ] Decide Full Buyout pricing (site says custom quote; headcount 60-80 confirmed 11/11). Live at ebb-and-ember-site.pages.dev, see [[project_website_rebuild_static]]
+- [ ] Revisit Private Event Space pricing: from $50/person + priced add-ons (now 'Custom'; add-on list on /private-events/; headcount 60-80 confirmed 11/11). Live at ebb-and-ember-site.pages.dev, see [[project_website_rebuild_static]]
 
 ## V2 tiler replies (added 2026-11-10)
 - [ ] Approve replies to ET Flooring / Level Plane / Pyramid / Rocky Village. See [[Private Saunas (V2) — Tiler Replies + Draft Responses (Nov 10 2026)]]
 
 ## V2 exterior layout (added 2026-11-10 — note: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]])
-- [ ] Reply to Jonah in #private-saunas-build: east fire on the east/view side, doors south (sketch 2), closets to the south edge, two private landings instead of the dock loop
+- [ ] Reply to Jonah in #private-saunas-build: east fire on the east/view side, change rooms beside each glass door (11/11 drawing), showers stay on the center wall, 2 not 4
 - [ ] Confirm sauna spacing on the float: Jonah's 7.5 ft center gap vs Rev AO 4 ft
 - [ ] Decide 2 vs 4 showers (enclosed per side on top of the wall-mounted ones?) before the Rinnai hookup
 

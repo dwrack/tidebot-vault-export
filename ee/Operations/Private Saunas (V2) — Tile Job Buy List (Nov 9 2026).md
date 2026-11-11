@@ -36,3 +36,6 @@ Thinset, grout, waterproofing membrane, slope/mud bed, silicone, leveling clips 
 - Spacer kit screws are 2-1/2 in: 1 in spacer + 1/2 in board leaves 1 in into the stud. OK for board, tile fasteners not needed.
 - Drain spot and length assume stove 6 in off the side wall (Torch sign-off pending) and joists that don't cross it (Grant to confirm).
 - Cement board count covers the two stove-corner walls in both rooms only, not floor underlayment.
+
+## Spacer fallback: cut EMT (Davey 11/11)
+Ceramic kits not available locally before 11/16-17 (Amazon, Ace, Lisac's called). NFPA 211 requires noncombustible spacers, not ceramic, so cut 3/4 in EMT conduit (OD 0.92 in) into 1 in pieces, #10 x 3 in screw through a 3/16 x 1-1/4 fender washer, into studs; keep fasteners out of the line directly behind the stove. Home Depot Jantzen Beach (#4007, 1728 N Tomahawk Island Dr, open to 9pm): 2 x 3/4 in x 10 ft EMT Wheatland 0550110000 $14.48 (Aisle 48, Bay 005); 2 x Everbilt #10 x 3 in star-drive exterior screws 1 lb (Aisle 21, Bay 020); 1 x Everbilt 3/16 x 1-1/4 zinc fender washers 100-pk (Aisle 21, Bay 015). Cut with chop saw or angle grinder, deburr.
