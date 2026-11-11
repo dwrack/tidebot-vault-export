@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Reorder 12x24 black tile (24x24 was sent) | Ebb & Ember | default: tile contractor (Poli Lopez) has the wrong size
+- Source a Wi-Fi LED driver for sauna backlighting (outside the sauna, heat) | Ebb & Ember | default: electrician picks a basic driver
 - 2026-11-11 due | V2 tile: ask the tiler (Luke/whoever is hired) floor stack is TEC Full Flex + Warmup DCM-PRO uncoupling membrane (decided 11/10): confirm he builds the slope under it, tapes the seams, and laps liquid membrane from the Neodrain flange onto the DCM-PRO; who buys the membrane (2 rolls) and thinset (10 bags). Spacers: HomeSaver 54230 1 in ceramic, tiler supplies | E&E | default: tiler picks the system and it's fine
 - Waiting on Jonah + Kimberlynn: feedback on the private saunas build clip v6 posted to E&E #marketing 11/10; re-render on their notes, then the Rose clip | E&E | default: clip stays as is, Rose clip waits
 - Ask Grant: in Rev AO the West roof eave runs to x=12 while the West fire wall sits at x 16 to 30, so the eave hangs over the flame; confirm on the walkthrough with the fire wall and chair spots | E&E | default: placements stay placeholders in the drawings

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-10 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-10 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -49,6 +49,8 @@ _nothing_
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
 - [ ] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
+- [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
+  → David top up the Google AI Studio prepay credits so TideBot can process written logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-10)
 
 ## Waiting on someone
 
@@ -289,6 +291,8 @@ _nothing_
   → Reply do 1,2 in #the-helm for TideBot to pull search terms, after the FareHarbor scraper is re-authed so bookings stop reading blank. (David; Slack #the-helm; touched 2026-11-10)
 - [ ] Sankofa CDC asks whether NKST checked the launch before Sunset Stroll boat; trailer sank in mud #NKST #id:T0140
   → NKST manager reply to Rashida Ferdinand on whether anyone checked the graded launch Monday, now that Sankofa added crushed concrete and graded it with a bobcat, before the Sunset Stroll boat is finalized. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
+- [ ] NKST trailer handle missing after Nov 10 Manchac tour, replacement needed #NKST #id:T0143
+  → NKST manager tell Stephanie Lazensky whether to buy the replacement trailer handle herself and be reimbursed or send the link, since Michelle's card is no longer in the key box. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 
 ## Backburner (LSKT)
 

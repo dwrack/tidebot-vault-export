@@ -164,3 +164,6 @@
 - [ ] Rotate Inkbird, Blink and sauna@ logins posted in plaintext in Slack #general (Aug 29 to Sep 1) and delete those messages (added 2026-11-09)
 - [ ] Tile: Tim Yushchuk (TIDI Construction) needs floor photos + scope sheet to quote. Scope sheet: [[2026-11-09 V2 Saunas Tile Scope Sheet]]. See [[Private Saunas (V2) — Tiler Outreach List (Nov 9 2026)]]
 - [ ] Grant answers for tile plan (plywood, joists, deck height, slope method), then reply to Tim Yushchuk. See [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]]
+
+- [ ] Reorder 12x24 black tile (24x24 was sent). See [[Sauna Buildout — Tile Prep Call (Nov 10 2026)]]
+- [ ] Source Wi-Fi LED driver for sauna backlighting. See [[Sauna Buildout — Electrical and LED Walkthrough (Nov 10 2026)]]

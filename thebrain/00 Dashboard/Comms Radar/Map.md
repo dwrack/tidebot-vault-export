@@ -1,10 +1,10 @@
 # Comms Radar Map
 
-Updated 2026-11-10 14:10.
+Updated 2026-11-10 16:10.
 
 | Business | Open | Needs you | Waiting | Due in 7 days | Last touched |
 |---|---|---|---|---|---|
-| NKST | 45 | 6 | 6 | 9 | 2026-11-10 |
+| NKST | 47 | 7 | 6 | 9 | 2026-11-10 |
 | NPB | 33 | 1 | 4 | 4 | 2026-11-10 |
 | HPB | 17 | 1 | 0 | 3 | 2026-11-10 |
 | (none) | 16 | 4 | 4 | 2 | 2026-11-10 |
