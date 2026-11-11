@@ -4,8 +4,26 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 
 ## Patterns
 
+- feedback: fixit: 1
 - feedback: note: 1
+- fix_approved: 8
+- skill later: 1
+- skill run: 2
+- skill skip: 1
 
 ## Most recent taps (newest last)
 
 - 2026-11-10 01:08 | feedback | Grade test | note
+- 2026-11-10 19:34 | skill | social-captions | run
+- 2026-11-10 19:34 | skill | meta-ads-insider | skip
+- 2026-11-10 19:34 | skill | maps-rank | run
+- 2026-11-10 19:34 | skill | google-ads | later
+- 2026-11-10 19:34 | fix_approved | brand:DCD | Draft 3 DCD Facebook posts for approval
+- 2026-11-10 19:34 | fix_approved | brand:HAT | Draft a week of HAT posts for FB and YT
+- 2026-11-10 19:34 | fix_approved | brand:ADM | Draft 4 Instagram posts for Admire NOLA this week
+- 2026-11-10 19:35 | fix_approved | brand:CPPP | Draft 3 CPPP Instagram and Facebook posts
+- 2026-11-10 19:35 | fix_approved | brand:HBC | Draft 3 HBC Instagram and Facebook posts
+- 2026-11-10 19:35 | fix_approved | brand:LSKT | Draft 3 LSKT Facebook posts
+- 2026-11-10 19:35 | fix_approved | brand:DCKT | Draft 3 DCKT Facebook posts
+- 2026-11-10 19:35 | fix_approved | alert:f328fc84 | Re-run the dashboard collector for FH data
+- 2026-11-10 19:39 | feedback | brand:ADM | fixit

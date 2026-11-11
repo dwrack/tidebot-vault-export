@@ -1,5 +1,8 @@
 # NOLA Party Barge — Todo List
 
+## Birthday email sequence (added 2026-11-10)
+- [ ] Decide: add an optional Birthday (month/day) question to FareHarbor checkout (NPB + NKST) so the 21/14/7-day birthday drip has an audience; no birthday data exists anywhere today (see board row 2026-11-06, updated 2026-11-10) — **Owner: David**
+
 ## Corporate holiday push (added 2026-11-06)
 - [ ] Order costume closet holiday stock at the 11/11 sync, Sofia sets it up by 11/17 ([[Costume Closet — Holiday Order List (Nov 2026)]]) — **Owner: David (order), Jeff (book Sofia)**
 - [ ] Nov 19 party decisions at the 11/11 ops sync: time, guest list, budget, photographer ([[NPB Ops Sync — 2026-11-11 Agenda]]) — **Owner: David**

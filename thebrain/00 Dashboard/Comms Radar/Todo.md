@@ -17,6 +17,7 @@ _nothing_
 
 - [ ] Connor + Michael meeting invite waits on David's tick, Q4 pace and TX ad spend #DCKT #LSKT #BBK #HPB #due:2026-11-10 #id:T0141
   → David tick the drafted invite for the 9am HOLD in the Approvals note so Connor and Michael get it; agenda is Q4 weekly pace, pausing BBK awareness and HPB Followers Reboost (about $990 a month), and the HPB $927 June 6 refund request. (David; Gmail dwrack81@; touched 2026-11-10)
+  > why didn’t you send the invite. i hate when i ask you to do something and then you take a long time and then come back and ask me , should i send it? Ive already walked away from my computer and then it doesn’t get done.wtf claude
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -29,6 +30,7 @@ _nothing_
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #NKST #id:T0102
   → David top up the Gemini API prepay credits in AI Studio billing; until then written trip logs (like Emily Clarke's Nov 6 log) may need manual processing. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
+  > i thought we made multipole backup keys for this and saved them. fix it
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
 - [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089

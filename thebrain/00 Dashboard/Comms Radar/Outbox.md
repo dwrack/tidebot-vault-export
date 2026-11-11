@@ -1,4 +1,4 @@
 # Outbox (texts waiting on you)
 
 Tick a box and the text goes out within 5 minutes from your Messages on davids-mbp-2. Edit the wording first if you want. Untick or delete a line to cancel before it sends. Only managers and partners on the allowlist can be texted. Max 10 texts a day. Add your own with `- [ ] To Jeffrey: text`.
-
+- [x] To Jeffrey Chitek: Jeff, can you look over this reply before it goes out? It is for: NPB: Voucher request after incident on tiki (angry customer). Draft: "Hey Gary, thanks for sending your email over, and I'm sorry your Halloween ride went the way it did. A late departure, a boat getting bumped while backing out, and then another hit on the return is not the trip you booked. I'm looking into what happened on that trip with the crew and the captain's account. Once I have that, someone from our team will email you at Three_i_s@yahoo.com with what we're going to do to make this right, including your voucher. [Add details: voucher amount or option if David approves one] If you'd rather talk it through, reply here with a good time and number and we'll call you." Text me back OK, or what you would change. ✓ SENT 19:35 via iMessage

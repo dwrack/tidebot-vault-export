@@ -10,8 +10,6 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
-- 2026-11-10: Type the @hiddenadventuretours Instagram password into the Instagram login popup open in your Chrome (started from the HAT Facebook Page > Linked accounts > Connect). Once linked, the IG leg of the HAT social poster starts posting on its own | Hidden Adventure Tours | default: IG stays unlinked, poster keeps posting FB + YouTube only
-- 2026-11-11 due | W-9: Josh Smith, Nick Napoda, Max Bush have not even opened their DocuSeal link in 7 days (daily Slack+email+text reminders running, next 9am). Nudge them yourself or tell me to call the next step | NKST | default: reminders keep running daily
 - 2026-11-10: bigly image generation is down. Ollama's x/flux2-klein now returns "image generation models are not currently supported" and Draw Things' API is off (app relaunched, port 7860 closed). To get the NPB event room v2 mockup (no benches, spread tables) and the Studio test batch running: on bigly open Draw Things > Settings > API Server > turn ON, or tell me how last night's mockup job was launched | NOLA Party Barge / Studio Queue | default: v2 mockup and test1 batch stay queued
 - 2026-11-11 due | Call FareHarbor 24/7 support 855-495-5551 at 8:00 AM MT (9:00 AM CT) and ask for Cody Sharkey or a ticket owner; say the SMS verification packet for 6 Open numbers was sent from 3 inboxes Nov 10 and they must open one ticket and confirm in writing | All FareHarbor brands (Open SMS) | default: wait on Cody's reply to the 5 timed follow-ups
 - 2026-11-11 due | Spacers: check davey@ for replies from Lisac's, Homestead Stove, NW Natural Appliance Center (emailed 11/10 for ~90 1 in ceramic wall shield spacers); call Buck's 503-771-3374 / Beaumont Hardware if none. If nobody has them, order 9 Imperial kits on Amazon (Thu 11/12), E&E card | E&E | default: Amazon order Thursday
@@ -43,7 +41,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - On the bigly Mac: open Draw Things > Settings > Advanced, turn on API Server and allow network access (Claude can't reach this toggle over SSH). 4 test photos are staged in ~/claude-jobs/test1 | TheBrain | default: image edit test doesn't run
 - ~~2026-11-10: Skill sweep on bigly stalled at 31 of 127: two Ollama servers (Ollama.app and brew 0.40.15) each hold a 27B copy on the 48 GB Mac, so qwen27-local throws 500 Compute error. Once the other session finishes its qwen3-coder pull and harness test, Claude kills the brew duplicate over SSH (bigly@100.124.71.99) and reruns the remaining 96 | TheBrain | default: remaining 96 skills stay unreviewed~~ DONE 2026-11-10: all 127 swept on qc30, findings reported
 - 2026-11-10: FareHarbor support emailed (sent 11/10) re HPB pixel ID + new account rep ETA; watch for their reply | Houston Pedal Barge | default: no rep, HPB pixel stays unconfirmed
-- Trademark ELEVATED TIDES (self-file, Jonah on hold per you 11/10): OK the 4 classes (39 marina, 43 lodging, 44 spa, 25 merch, $1,400 USPTO), then say go and Claude runs the full search and preps the TEAS Plus application in the LLC's name for you to sign and pay; brief: Elevated Tides/Operations/Legal/Trademark — Elevated Tides Filing Brief (Nov 2026).md | E&E | default: name stays unregistered and anyone who files first gets priority
+- Trademark ELEVATED TIDES: read the filing brief (Elevated Tides/Operations/Legal/Trademark — Elevated Tides Filing Brief (Nov 2026).md), OK the 4 classes (39 marina, 43 lodging, 44 spa, 25 merch, ~$1,400 USPTO + counsel), loop in Jonah, pick Todd Key or Paul Migchelbrink to search and file in the LLC's name | Elevated Tides | default: name stays unregistered and anyone who files first gets priority
 - On bigly: open Draw Things > Settings > Advanced, turn on API Server (HTTP, port 7860), and run `claude` once in Terminal to log in | Infra | default: bigly can't generate images or run Claude until done
 - After you talk to Sergey | Tell me what he says, then I add the parked fire feature options (pony-wall inserts, lounge circular table, timers, prices) plus Sergey's input (pipe size, jumper, permit, quote, walk date) to the Private Saunas V2 Coordination Set artifact (https://claude.ai/artifact/RkEU6RLHX9eks8rLNmiRt2). Sources: Ebb and Ember/Operations/Private Saunas (V2) — Fire Features for the Pony Walls + Lounge (Nov 9 2026).md and Gas Line Plan for Sergey (Nov 9 2026).md | E&E | default: the artifact stays on Rev AH without gas or fire
 - Approve boot-time services (LaunchAgent/Daemon) for Ollama on the bigly Mac (M5 Pro 48GB, user bigly, 100.124.71.99) and the DCKT Mac; today both run from manual sessions and die on reboot. Also decide: Draw Things API on bigly for image jobs | TheBrain | default: local models stop at the next reboot
@@ -158,6 +156,14 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Contractor barter: photograph the house projects, find contractors on Facebook, offer a website + GBP for the work or a subscription (TheBrain/03 Projects/NOLA Web Studio/Trade + Subscription Idea) | Personal | default: projects wait, no barter offers go out
 - Make the new sites translatable into a few languages, and test the animal-concept site on one NKST + one Door County site (added to Website Standards rebuild list) | All | default: English-only rebuild
 - Automate the NOLA schedule-flex question at booking (would you move to another time if we condense tours?) so Jeff stops reshuffling at 10pm the night before | NOLA | default: Jeff keeps doing it by hand
+- [2026-11-17 due |] Charge watch: $1,396 at Mike Juneau on Chase M. FISCHER ...3981 (2026-11-08), $1,396 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-08), charged $500 twice within 48 h (Nov 6 and Nov 8). Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $2,082 at Psa Parking on Chase C. CHAMPAGNE ...9317 (2026-11-06), $2,082 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $253 at Amazon on Capital One Platinum Rewards ...5393 (2026-11-04), $253 is 9.8x this merchant's usual $26. Say OK or dispute it | Personal | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $2,545 at Certificate Of Origin Retif on Chase PERFBUS CHK ...3085 (2026-11-02), $2,545 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $2,827 at Paypal on Chase PERFBUS CHK ...1893 (2026-11-02), $2,827 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $1,140 at Paypal on Chase PERFBUS CHK ...1893 (2026-11-02), $1,140 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
+- [2026-11-17 due |] Charge watch: $5,693 at Paypal on Chase PERFBUS CHK ...3085 (2026-11-02), $5,693 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
@@ -192,3 +198,15 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-10 00:49 | Alert on Morning Digest: Behind Q4 weekly pace: DCKT 4%, LSKT 16%, BBK 25%, HPB 11%. Look at what changed in ads or bookings for those brands this week. | also fruitless info that i can find out below. [read 2026-11-10: Removed. The pace bars stay lower on the page, the alert line is gone.]
 - 2026-11-10 00:49 | Alert on Morning Digest: Due Tue Nov 10: Homebase payroll for Oct 26 to Nov 8 due Nov 10. David submit payroll in Homebase by 6:00pm CST Nov 10 for the Fri Nov | no need to submit homebase payroll for gravity trails. we already talked about this. and dckt payroll isn’t active during the off season. [read 2026-11-10: Fixed at the source: the radar no longer makes payroll items. GT is auto, DCKT is off-season.]
 - 2026-11-10 01:08 | Grade test | [note] v2 self-test, ignore [read 2026-11-10: v2 self-test, no action]
+- 2026-11-10 19:31 | Decision D3: DCKT Astro swap: go / no-go for cutover wk of Nov 9 | wait till next week.
+- 2026-11-10 19:34 | Skill: social-captions | [run] /social-captions ADM queued from the daily skills panel
+- 2026-11-10 19:34 | Skill: maps-rank | [run] /maps-rank ADM queued from the daily skills panel
+- 2026-11-10 19:34 | Fix: brand:DCD | [approved] Draft 3 DCD Facebook posts for approval (task, risk outbound)
+- 2026-11-10 19:34 | Fix: brand:HAT | [approved] Draft a week of HAT posts for FB and YT (task, risk outbound)
+- 2026-11-10 19:34 | Fix: brand:ADM | [approved] Draft 4 Instagram posts for Admire NOLA this week (task, risk outbound)
+- 2026-11-10 19:35 | Fix: brand:CPPP | [approved] Draft 3 CPPP Instagram and Facebook posts (task, risk outbound)
+- 2026-11-10 19:35 | Fix: brand:HBC | [approved] Draft 3 HBC Instagram and Facebook posts (task, risk outbound)
+- 2026-11-10 19:35 | Fix: brand:LSKT | [approved] Draft 3 LSKT Facebook posts (task, risk outbound)
+- 2026-11-10 19:35 | Fix: brand:DCKT | [approved] Draft 3 DCKT Facebook posts (task, risk outbound)
+- 2026-11-10 19:35 | Fix: alert:f328fc84 | [approved] Re-run the dashboard collector for FH data (recollect, risk low)
+- 2026-11-10 19:39 | Grade F: Admire NOLA | [fix it]
