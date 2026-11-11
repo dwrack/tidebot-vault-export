@@ -176,6 +176,14 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - [2026-11-17 due |] Charge watch: $1,140 at Paypal on Chase PERFBUS CHK ...1893 (2026-11-02), $1,140 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
 - [2026-11-17 due |] Charge watch: $5,693 at Paypal on Chase PERFBUS CHK ...3085 (2026-11-02), $5,693 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-17 due |] SimpleFIN re-auth: Nicolet, Relay, E*Trade and Edvest say Auth required, so the Budget tab is missing DCKT, Cave Point and personal checking since Oct 20 (sign in at beta-bridge.simplefin.org) | ALL | default: Budget tab shows Chase, Amex, Capital One and BofA only
+- [2026-11-18 due |] Charge watch: $2,866 at Paypal on Chase PERFBUS CHK ...3085 (2026-11-02), $2,866 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $1,314 at Paypal on Chase PERFBUS CHK ...3085 (2026-11-02), $1,314 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $264 at Amazon on Chase J. CHITEK ...0950 (2026-10-30), $264 is 9.0x this merchant's usual $29. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $1,716 at Hat Head on Chase D. RACK ...8488 (2026-10-30), $1,716 charge, not on the known list. Say OK or dispute it | DCKT | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $2,129 at Check on Chase PERFBUS CHK ...3085 (2026-10-29), $2,129 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $118 at Amazon on Capital One Platinum Rewards ...5393 (2026-10-29), $118 is 3.4x this merchant's usual $34. Say OK or dispute it | Personal | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $1,400 at Outgoing Wire Transfer on Chase PERFBUS CHK ...1893 (2026-10-28), $1,400 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
+- [2026-11-18 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-10-27), charged $500 twice within 48 h (Oct 25 and Oct 27). Say OK or dispute it | NPB | default: treated as fine after 7 days
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
