@@ -363,3 +363,36 @@ Read-only (Chrome). No account changes made. The Nov 10 scheduled check had alre
 | Mar 1 | ~$45 | On | Bat search back on (remove Nov 22 end date) |
 
 Expected spend: roughly $1,100 Nov 11 – Feb 14 at this plan, vs ~$2,400 if PMax had stayed at $25 all winter.
+
+### Applied 2026-11-11 (Michael approved the winter plan)
+- **PMax asset group "Lone Star - Kayak Tours": replaced 7 bat-season assets with winter copy** (saved, then re-opened the editor to verify; the group showed "Pending" review right after saving).
+
+| Was | Now |
+|:-|:-|
+| Bat Bridge & Skyline Tours | Austin Skyline Kayak Tours |
+| Bat Kayak Tours Austin | NYE Fireworks Kayak Tour |
+| Congress Ave Bat Bridge Tour | Kayak Tour Gift Cards |
+| Austin Bat Bridge Tours | 2-Hour Guided Tours, Ages 5+ |
+| LH: Bat Kayak Tours Austin \| Eco Focused, Locally Guided | LH: New Year's Eve Fireworks Kayak Tour \| Dec 31 on Lady Bird Lake |
+| D: Kayak Lady Bird Lake, Watch Bats, And Enjoy Austin's Skyline… | D: Ring In The New Year On The Water: NYE Fireworks Kayak Tour, Dec 31. From $65/Person. |
+| D: Watch The World's Largest Urban Bat Colony Emerge… | D: Give The Gift Of Kayaking! Lone Star Kayak Tours Gift Cards Make A Great Holiday Gift. |
+
+- Not touched: images and videos; search-theme signals (still include bat terms); the "San Marcos River" description (still needs Michael to confirm).
+- **Reminders updated:**
+  - `akt-pmax-pause-nov30` now asks to go to $15/day for December rather than pausing.
+  - New `akt-pmax-winter-pause-jan2` (Jan 2): pause until Feb 15 and swap out the NYE/gift copy.
+  - `akt-pmax-restart-feb15` now includes restoring the bat copy listed above.
+  - `akt-pmax-budget-mar1` is unchanged.
+- **San Marcos River tour discontinued** (Michael, 2026-11-11). Replaced description "Guided 2-Hour Kayak Tour On Lady Bird Lake Or San Marcos River. Join Us On The Water!" with "Guided 2-Hour Kayak Tour On Lady Bird Lake With Downtown Skyline Views. Book Online!" Verified after save; no San Marcos or bat copy remains. The earlier swap had already cleared review (Eligible).
+
+### Projected Austin ad spend, Nov 12, 2026 – Feb 28, 2027 (per winter plan)
+| Period | PMax | Brand (est. actual) | Total |
+|:-|-:|-:|-:|
+| Nov 12–30 ($25/day) | $475 | ~$30 | ~$505 |
+| Dec ($15/day) | $465 | ~$45 | ~$510 |
+| Jan (paused from Jan 2) | $15 | ~$45 | ~$60 |
+| Feb (paused to Feb 14, $25 from Feb 15) | $350 | ~$40 | ~$390 |
+| **Total** | **$1,305** | **~$160** | **~$1,465** |
+
+PMax figures are budget ceilings. Brand is budgeted at $10/day ($1,090 max) but spends ~$1–2/day. A $10/day PMax floor in Jan 2 – Feb 14 would add $440. Not in plan: BBK + HPB campaigns ($68/day budgeted, ~$38/day actual → ~$4,100 over the same 109 days).
+- **Budget projection approved by Michael (2026-11-11).** Houston winter plan drafted in `Houston Pedal Barge/Ads/2026-11-11 Winter Plan - Google Ads (HPB + BBK).md`.

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-11 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-11 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -86,6 +86,8 @@ _nothing_
   > Radar: Noted that you emailed Cody and are waiting on his reply. I moved this to waiting; the OpenCX boxes and the four safety facts for Michael are still open.
 - [ ] NPB voucher reply to angry Halloween tiki guest, draft sent to Jeffrey for review #NPB #waiting #id:T0146
   → Jeffrey text David back OK or his changes to the draft reply; David then fills in the voucher amount or option before it goes out. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-10)
+- [ ] Tile guy $1500 deposit check, needs Ebb & Ember checkbook #waiting #id:T0149
+  → Jonah bring the Ebb & Ember checkbook or send a check with L so David can hand the tile guy the $1500 deposit. (Jonah Moses; Text with Jonah Moses; touched 2026-11-11)
 
 ## Open
 
@@ -125,6 +127,8 @@ _nothing_
   → NKST manager or whoever pays insurance make the commercial auto renewal payment before Nov 16 (policy ending 4196). (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
+- [ ] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #id:T0148
+  → David reply to Alan with the Thursday marina party details and a time to meet Thursday evening or Friday morning. (David; Gmail dwrack81@; touched 2026-11-11)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
@@ -203,8 +207,6 @@ _nothing_
   → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; touched 2026-11-06)
 - [ ] AKT hosted kayak tour collab offer from travel creator Dylan Goodrich, Nov 24 #AKT #id:T0033
   → AKT staff reply to Sofie by email (she wants to keep it out of phone calls) with available times around Tue Nov 24 and what they need from Dylan and Alex for the free skyline tour for two. (AKT staff; Gmail austinkayaktours@; touched 2026-11-06)
-- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
-  → David build the new website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in. (David; Text with Michael Fischer; touched 2026-11-06)
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
 - [ ] Cold funding offers (Arc Advances, Josh Rollins) to Cave Point and DCKT #Cave-Point #DCKT #id:T0091
@@ -303,6 +305,8 @@ _nothing_
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-11)
 - [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
   → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Slack #the-helm; touched 2026-11-11)
+- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
+  → David build the new static HTML website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in and use the site platform answer for the shorts and hoodies. (David; Text with Michael Fischer; touched 2026-11-11)
 
 ## Backburner (LSKT)
 
