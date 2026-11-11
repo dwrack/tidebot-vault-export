@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-11 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-11 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -307,6 +307,8 @@ _nothing_
   → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Slack #the-helm; touched 2026-11-11)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → David build the new static HTML website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in and use the site platform answer for the shorts and hoodies. (David; Text with Michael Fischer; touched 2026-11-11)
+- [ ] Glass Gala winner wants to schedule Maurepas Swamp guided kayak tour #NPB #NKST #id:T0151
+  → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 
 ## Backburner (LSKT)
 

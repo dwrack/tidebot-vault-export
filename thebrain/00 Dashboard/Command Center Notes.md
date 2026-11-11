@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Confirm Full Buyout card on the new homepage: max headcount (shows 'Up to 20 in the saunas at once' = 12 social + 4 + 4 privates) and whether to list a starting price instead of 'Custom quote' | E&E | default: card stays as written, inquiries go to sauna@ by email
 - 2026-11-18 due | LAUNCH new site on trip in New Orleans (Wed): confirm Pontoon $371 + Eco Tour length/kid price, give me real logo file, decide WP vs Cloudflare + who controls DNS, GHL form for newsletter | NPB | default: not live; old WordPress site stays
 - [x] DONE 2026-11-11 (invites sent, waiting on them to accept) Invite mrfischer80@gmail.com AND nolapedalbarge@gmail.com (Jeff) on Cloudflare with role "Cloudflare Pages Admin" (dash.cloudflare.com/a95b2d30b0fe1146058f5b54d371e059/members, my login cannot invite); then his Claude runs `npx wrangler login` and deploys to project npb-site-v2 for Google Ads landing pages | NPB | default: Michael can only view npb-site-v2.pages.dev
 - 2026-11-20 due | Tell me what Bob Drought replied on the W-9 list (I could not find it in Gmail/iMessage), then I send Jeff the W-9 link + names and the contact sheet | NPB | default: Jeff keeps chasing the 6 on the old list (Jeff, Sofia, Calvin, Kelly M, Kingston, Charles)

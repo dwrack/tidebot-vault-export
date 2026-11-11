@@ -1,5 +1,8 @@
 # Ebb & Ember — Todo List
 
+## Website rebuild (added 2026-11-11)
+- [ ] Confirm Full Buyout headcount (site says up to 20 in the saunas at once) and buyout pricing (site says custom quote). Live at ebb-and-ember-site.pages.dev, see [[project_website_rebuild_static]]
+
 ## V2 tiler replies (added 2026-11-10)
 - [ ] Approve replies to ET Flooring / Level Plane / Pyramid / Rocky Village. See [[Private Saunas (V2) — Tiler Replies + Draft Responses (Nov 10 2026)]]
 
