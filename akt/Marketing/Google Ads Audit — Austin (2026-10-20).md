@@ -329,3 +329,37 @@ Read-only pull from the campaigns and search-terms pages in Chrome. The date but
 3. **BBK PMax: keep $15.** One soft week doesn't change the 30-day picture.
 4. **No new PMax negatives.**
 5. **Next check: Nov 17**, using Nov 10–16 (the first full week on the new settings).
+
+## Winter strategy check (2026-11-11)
+
+Read-only (Chrome). No account changes made. The Nov 10 scheduled check had already run (section above); this adds the first days on the new settings plus a winter plan review.
+
+**First days on new settings (Nov 9–10):** PMax $39.28 (~$20/day, under the $25 cap), 223 impr, 28 clicks, 0 conv yet (lag likely). LSKT Brand $0. Account $107, 0 conv so far. Too early to judge.
+
+**No winter history to lean on:** Nov 1, 2025 – Feb 28, 2026 the whole account spent $101 with 0 conv. This is the first winter these campaigns run.
+
+**PMax creative is still selling bat season:**
+- 1 asset group, Ad strength **Average**.
+- Bat assets still live: "Bat Kayak Tours Austin", "Congress Ave Bat Bridge Tour", "Austin Bat Bridge Tours", "Bat Bridge & Skyline Tours", long headlines "Full Moon Tour with Bats on Congress Avenue Bridge" and "Bat Kayak Tours Austin | Eco Focused, Locally Guided", and description "Watch The World's Largest Urban Bat Colony…".
+- The website says the Sunset Bat Bridge tour runs **Mar 1 – Oct 31** only, so winter clicks on bat promises won't convert.
+- One description mentions "San Marcos River"; it's not on the homepage tour list. Verify it's still offered.
+- Top bidding signals: weekday desktop 10a–6p, weekends 12–8p and 6–10a.
+
+**Winter offers on lonestarkayaktours.com:**
+- Austin City Skyline Tour ($50, "Most popular").
+- **New Year's Eve Fireworks Tour, Dec 31, from $65**, a once-a-year event.
+- Gift Cards page (/gift-cards/).
+- Paddle board skyline tour and rentals.
+
+**Conflict with the Nov 10 winter plan:** the scheduled `akt-pmax-pause-nov30` task proposes pausing PMax Dec 1 – Feb 14. That would turn ads off for the whole NYE booking window and the holiday gift-card season.
+
+### Recommended winter plan (awaiting approval)
+| Period | Austin PMax | Brand | Other |
+|:-|:-|:-|:-|
+| Now – Nov 30 | $25/day. **Swap bat assets** for skyline / sunset / holiday copy | On ($10, $2.50 cap) | — |
+| Dec 1 – Dec 31 | **$15/day** with NYE Fireworks + gift-card messaging (new asset group or swapped assets; final URLs to the NYE and gift-card pages) | On | — |
+| Jan 1 – Feb 14 | **Pause** (or $10 floor) | On | — |
+| Feb 15 | Restart $25 + restore bat assets | On | — |
+| Mar 1 | ~$45 | On | Bat search back on (remove Nov 22 end date) |
+
+Expected spend: roughly $1,100 Nov 11 – Feb 14 at this plan, vs ~$2,400 if PMax had stayed at $25 all winter.
