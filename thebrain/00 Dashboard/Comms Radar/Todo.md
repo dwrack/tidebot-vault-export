@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-11 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-11 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -39,14 +39,14 @@ _nothing_
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
 - [ ] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
   → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
-- [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
-  → David connect with Alex about redoing the anti-slip pads at Ebb & Ember and post the step options in Slack; David told Jonah he is moving it to Slack. (David; Text with Jonah Moses; touched 2026-11-10)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0136
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
 - [ ] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
 - [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
   → David top up the Google AI Studio prepay credits so TideBot can process written logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-10)
+- [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
+  → David go through the open Slack items Jonah flagged, including the anti-slip step options, and connect with Alex. (David; Text with Jonah Moses; touched 2026-11-11)
 
 ## Waiting on someone
 
@@ -88,6 +88,8 @@ _nothing_
   → Jeffrey text David back OK or his changes to the draft reply; David then fills in the voucher amount or option before it goes out. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-10)
 - [ ] Tile guy $1500 deposit check, needs Ebb & Ember checkbook #waiting #id:T0149
   → Jonah bring the Ebb & Ember checkbook or send a check with L so David can hand the tile guy the $1500 deposit. (Jonah Moses; Text with Jonah Moses; touched 2026-11-11)
+- [ ] Elevated Tides Experience ACORD 126 DocuSign voided, to be updated and resent #waiting #id:T0150
+  → Wait for Max McCuddy to send the updated ACORD 126 agreement for Elevated Tides Experience, then sign it. (Max McCuddy; Gmail davey@; touched 2026-11-11)
 
 ## Open
 
@@ -167,8 +169,6 @@ _nothing_
   → NKST staff reduce booking 389092376 to 9 guests for Sat Nov 28 and refund one person if policy allows, then confirm to Axel Holm. (NKST staff; Gmail nolakayaktours@; touched 2026-11-02)
 - [ ] NKST content creator collab, Sydney Lee (North Georgia, family in New Orleans) #NKST #id:T0048
   → NKST manager reply to Sydney Lee with what NKST has in mind for the collaboration and propose a call. (NKST manager; Gmail nolakayaktours@; touched 2026-11-02)
-- [ ] NPB family reunion inquiry, up to 34 people, late November #NPB #id:T0050
-  → NPB team reply to Chanreunn Mann with party boat options and the max capacity for a group of up to 34 (adults and children) in late November. (NPB team; Gmail nolapedalbarge@; touched 2026-11-02)
 - [ ] NPB boat cruise inquiry Dec 4 surprise family outing, asks about fishing #NPB #id:T0051
   → NPB team reply to Lamar Steve Terri with Dec 4 availability and note that fishing is or is not offered. (NPB team; Gmail nolapedalbarge@; touched 2026-11-03)
 - [ ] Boss Be Luxury Ride transport partnership pitch, NPB #NPB #id:T0052
@@ -334,3 +334,4 @@ _nothing_
 - [x] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #done:2026-11-10 #id:T0118
   > David: no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
   > Radar: Understood. Homebase payroll emails create no thread and I closed this one. They stay noise until W-2s in January. I can't auto-archive the emails from here, so that filter would need to be set in Gmail.
+- [x] NPB family reunion inquiry, up to 34 people, late November #NPB #done:2026-11-11 #id:T0050
