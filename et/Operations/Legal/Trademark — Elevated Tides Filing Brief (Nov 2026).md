@@ -1,6 +1,6 @@
-# Trademark: ELEVATED TIDES (filing brief for Jonah + counsel)
+# Trademark: ELEVATED TIDES (filing brief, self-filed)
 
-Prepared 2026-11-09. Status: NOT filed. Needs Jonah's sign-off and a counsel pick before anything goes to the USPTO.
+Prepared 2026-11-09, updated 2026-11-10. Status: NOT filed. David's call 2026-11-10: file it ourselves (no outside counsel), hold off on sharing with Jonah for now. Tracked on the E&E dashboard, not in the shared ee-in-flight record.
 
 ## The ask
 Register ELEVATED TIDES as a federal trademark (standard character word mark, no logo) owned by the partnership, not by either member personally.
@@ -56,9 +56,9 @@ Rule: file only classes with real intent and a plan to use within ~3 years. Over
 4. Read ELEVATED (Elevated Yacht Club) and TIDES (Station GVR, Class 43) for conflict risk.
 5. Oregon state registration too, or federal only? (Federal only is the usual answer.)
 
-## Next steps
+## Next steps (self-filing, decided 2026-11-10)
 1. David: approve the 4-class plan and this brief.
-2. David: loop in Jonah (co-owner consent on a shared asset).
-3. Pick counsel: Todd Key (JTK Law) or Paul Migchelbrink (FWW Law, already holds the exit docs and amended OAs).
-4. Counsel runs the comprehensive search and files.
+2. Jonah: parked for now on David's call. Before the application is signed and paid, Jonah needs to be in: the applicant is the LLC, the signer attests to authority to bind it, and the filing is public record the day it posts.
+3. Comprehensive search: run it ourselves (TESS-style word and design searches plus state marks, domains, social) or buy a $300-600 report; log results in this note.
+4. File on USPTO TEAS Plus (ID Manual descriptions only, $350/class) from a uspto.gov account registered to the LLC's email, not a personal one. Specimens for 39 ready per the section above.
 5. Diary: 6 months after filing check status; after allowance, calendar the statement-of-use deadlines per ITU class.

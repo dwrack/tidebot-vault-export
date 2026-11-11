@@ -1,7 +1,7 @@
 # Elevated Tides — Todo List
 
 ## High Priority
-- [ ] Trademark ELEVATED TIDES: approve the 4-class plan (39, 43, 44, 25), loop in Jonah, pick counsel (Todd Key or Paul Migchelbrink) to run the full search and file in the LLC's name. Brief: [[Trademark — Elevated Tides Filing Brief (Nov 2026)]]
+- [ ] Trademark ELEVATED TIDES: approve the 4-class plan (39, 43, 44, 25), self-file via TEAS Plus in the LLC's name (no counsel; Jonah on hold per David 2026-11-10, loop him before signing). Brief: [[Trademark — Elevated Tides Filing Brief (Nov 2026)]]
 - [ ] Fix the ramp wheels so the ramp stops pulling away from the cement abutment at low tide (Grant). It is popping boards around pilings and pushing the head dock out of alignment. Details: [[Maintenance — Ramp Wheel Priority (Aug 2026)]]
 - [ ] Close the five stale Dockwa slip-holder follow-ups from May: Schnur contract + May payment, Hurt 12-month clause, Dawson, Mick, Fitzpatrick $925 billing question. Details: [[Dockwa Contacts]]
 
