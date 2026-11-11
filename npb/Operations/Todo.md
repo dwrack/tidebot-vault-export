@@ -1,5 +1,10 @@
 # NOLA Party Barge — Todo List
 
+## Audience Intel follow-ups (added 2026-11-10)
+- [ ] Confirm whether boats or departures were cut since 2024 (bookings down ~30%/yr at flat price; Party Queen hit hardest) before any price test ([[Audience Intel — NOLA Party Barge (2026-11-10)]]) — **Owner: David + Jeff**
+- [ ] Decide the Mardi Gras push by 2027-01-15: Meta flight Jan 20 to Feb 14 in SE drive markets, emails Thu Jan 22 + Feb 5 — **Owner: David**
+- [ ] Make the first visitor-tip walkthrough reel and a save-this list reel (formats in the report, hand to /social-captions) — **Owner: Claude + crew footage**
+
 ## Birthday email sequence (added 2026-11-10)
 - [ ] Decide: add an optional Birthday (month/day) question to FareHarbor checkout (NPB + NKST) so the 21/14/7-day birthday drip has an audience; no birthday data exists anywhere today (see board row 2026-11-06, updated 2026-11-10) — **Owner: David**
 
