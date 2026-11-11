@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-10 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-11 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -120,7 +120,7 @@ _nothing_
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
-  → NKST manager or whoever pays insurance make the commercial auto renewal payment before Nov 16 (policy ending 4196). (NKST manager; Gmail nolakayaktours@; touched 2026-11-03)
+  → NKST manager or whoever pays insurance make the commercial auto renewal payment before Nov 16 (policy ending 4196). (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
@@ -245,10 +245,6 @@ _nothing_
   → HPB manager text the contact back from the HPB number, offering a better time or a text-based answer. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 - [ ] HPB SMS reply needs a human answer: 'Sorry, I can't talk right now' #HPB #id:T0116
   → HPB manager text the number back from the HPB SMS line to see if they want to reschedule the call or get their question answered by text. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-09)
-- [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
-  → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Gmail doorcountyzip@; touched 2026-11-09)
 - [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
   → NKST manager review the new affiliate/influencer signups and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-09)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
@@ -301,6 +297,10 @@ _nothing_
   → NKST manager tell Stephanie Lazensky whether to buy the replacement trailer handle herself and be reimbursed or send the link, since Michelle's card is no longer in the key box. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] NKST kayak seats broken or missing, trailer handle missing #NKST #id:T0145
   → NKST manager buy or find replacement seats for the broken tandems, check the shipping storage container first as Davey says there should be spares, and fix the missing trailer handle; Davey will reimburse otherwise. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
+- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-11)
+- [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
+  → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Slack #the-helm; touched 2026-11-11)
 
 ## Backburner (LSKT)
 
