@@ -1,5 +1,10 @@
 # Ebb & Ember — Todo List
 
+## V2 exterior layout (added 2026-11-10 — note: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]])
+- [ ] Reply to Jonah in #private-saunas-build: east fire on the east/view side, doors south (sketch 2), closets to the south edge, two private landings instead of the dock loop
+- [ ] Confirm sauna spacing on the float: Jonah's 7.5 ft center gap vs Rev AO 4 ft
+- [ ] Decide 2 vs 4 showers (enclosed per side on top of the wall-mounted ones?) before the Rinnai hookup
+
 ## Build social series (added 2026-11-10 — clip: Assets/V2 Build Drawings/2026-11-06 Build sequence clip/)
 - [x] Posted build clip v6 to #marketing 11/10 asking Jonah + Kimberlynn for changes
 - [ ] Waiting on Jonah + Kimberlynn feedback; re-render per notes
