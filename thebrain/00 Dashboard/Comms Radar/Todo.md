@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-11 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-11 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -117,6 +117,8 @@ _nothing_
   > Radar: I can't send invites from the ledger. I've changed the next move to send it now with no tick needed, and cleared the needs-you flag. Sorry about the wait.
 - [ ] AWS SES DKIM disabled for neworleanskayakrental.com #NKST #due:2026-11-11 #id:T0106
   → Whoever manages the neworleanskayakrental.com DNS restore the SES DKIM records within 5 days, unless removing them was intentional. (David; Gmail doorcountyzip@; touched 2026-11-06)
+- [ ] NPB guest booked for today, wants to move it to tomorrow #NPB #due:2026-11-11 #id:T0147
+  → NPB team move K Iu's booking from today to tomorrow, same type, and confirm to the guest. (NPB team; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
