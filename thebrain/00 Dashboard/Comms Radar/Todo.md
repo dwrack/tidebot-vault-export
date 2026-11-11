@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-10 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-10 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -293,6 +293,8 @@ _nothing_
   → NKST manager reply to Rashida Ferdinand on whether anyone checked the graded launch Monday, now that Sankofa added crushed concrete and graded it with a bobcat, before the Sunset Stroll boat is finalized. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 - [ ] NKST trailer handle missing after Nov 10 Manchac tour, replacement needed #NKST #id:T0143
   → NKST manager tell Stephanie Lazensky whether to buy the replacement trailer handle herself and be reimbursed or send the link, since Michelle's card is no longer in the key box. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
+- [ ] NKST kayak seats broken or missing, trailer handle missing #NKST #id:T0145
+  → NKST manager buy or find replacement seats for the broken tandems, check the shipping storage container first as Davey says there should be spares, and fix the missing trailer handle; Davey will reimburse otherwise. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 
 ## Backburner (LSKT)
 
