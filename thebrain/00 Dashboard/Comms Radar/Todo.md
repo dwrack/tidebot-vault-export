@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,6 @@ _nothing_
 
 ## Needs you
 
-- [ ] Elevated Tides umbrella policy: binder effective 11/6 sent, payment link coming #due:2026-11-09 #id:T0095
-  → David and Jonah pay the invoice when Max McCuddy sends the payment link, and review the underwriter's swim-area conditions (life ring and shepherd's hook, roped-off area if shared with motor vessels, supervision signage, no-diving sign). (David; Gmail davey@; touched 2026-11-12)
 - [ ] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #id:T0161
   → David decide whether NKST will change the waiver's indemnification bullets as Freddie asks (carve out acts that follow GT's instructions); then the NKST manager reply to Freddie before his Manchac Swamp Wildlife Kayak Tour at 2:00 pm today. (David; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
@@ -69,6 +67,8 @@ _nothing_
   → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts tomorrow (Nov 4), per David's ask. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-03)
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
+- [ ] Jonah presses Todd for deal-points update and summary judgment motions #waiting #due:2026-11-16 #id:T0167
+  → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
@@ -119,6 +119,8 @@ _nothing_
   → Jeffrey send Barbo's prices and Beatty's rate so TideBot can finalize the corporate party pricing before the Nov 6 meeting; Jeffrey says BBQ add-on is $20-30 per person ($20 for 2 proteins and sides, $30 for 3). (Jeffrey Chitek; Slack #helm-npb; touched 2026-11-05)
 - [ ] NKST selling 2019 van, down to 3 vans, rear right tire needs replacing #NKST #due:2026-11-06 #id:T0100
   → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
+- [ ] Elevated Tides umbrella policy: binder effective 11/6 sent, payment link coming #due:2026-11-09 #id:T0095
+  → Max McCuddy answers Jonah on whether the policy covers private events of 60-80 guests; David and Jonah pay the invoice when the payment link arrives and review the underwriter's swim-area conditions. (Max McCuddy; Gmail davey@; touched 2026-11-12)
 - [ ] Stan Ventures AI visibility pitch to Houston Pedal Barge, call proposed Nov 10 #HPB #due:2026-11-10 #id:T0109
   → HPB manager decide whether to take the Tuesday Nov 10 10:15 AM Eastern call with Stan Ventures; someone replied 'Yes' to the cold pitch, so a response is expected. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-08)
 - [ ] NKST 9am Nov 10 tour has only two guests, Emily asks to cancel #NKST #due:2026-11-10 #id:T0135
@@ -339,6 +341,8 @@ _nothing_
   → Whoever manages DNS check whether the DKIM records for neworleanskayakrental.com were removed, and confirm the domain is verified in us-west-2, the production SES region, before any send. (David; Gmail doorcountyzip@; touched 2026-11-12)
 - [ ] NKST white van rear tire losing air, key pulled from use #NKST #id:T0163
   → NKST manager get the white van's rear tire repaired or replaced; until then guides do not use any van with an air leak and check the tire sensor before driving the black van. (Michelle Healey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
+- [ ] Katy Taylor High School Choir raffle, gift certificate donation pickup #AKT #id:T0168
+  → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 
 ## Backburner (LSKT)
 

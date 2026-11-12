@@ -6,7 +6,7 @@
 
 ## Website rebuild (added 2026-11-11)
 - [x] Run Desktop 'Connect E&E Site Repo to Cloudflare.command' (GitHub secrets + Jonah invite + first deploy). Repo: github.com/dwrack/ebb-and-ember-site
-- [ ] Get L's GitHub username, add her to the repo
+- [x] Get L's GitHub username, add her to the repo (wellhellol, invited 11/12)
 - [ ] Revisit Private Event Space pricing: from $50/person + priced add-ons (now 'Custom'; add-on list on /private-events/; headcount 60-80 confirmed 11/11). Live at ebb-and-ember-site.pages.dev, see [[project_website_rebuild_static]]
 
 ## V2 tiler replies (added 2026-11-10)
