@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,6 +15,8 @@ _nothing_
 
 ## Needs you
 
+- [ ] Elevated Tides umbrella policy: binder effective 11/6 sent, payment link coming #due:2026-11-09 #id:T0095
+  → David and Jonah pay the invoice when Max McCuddy sends the payment link, and review the underwriter's swim-area conditions (life ring and shepherd's hook, roped-off area if shared with motor vessels, supervision signage, no-diving sign). (David; Gmail davey@; touched 2026-11-12)
 - [ ] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #id:T0161
   → David decide whether NKST will change the waiver's indemnification bullets as Freddie asks (carve out acts that follow GT's instructions); then the NKST manager reply to Freddie before his Manchac Swamp Wildlife Kayak Tour at 2:00 pm today. (David; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -62,8 +64,8 @@ _nothing_
   → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts tomorrow (Nov 4), per David's ask. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-03)
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
-- [ ] Elevated Tides umbrella policy: higher limits approved, safety plan sent, awaiting carrier confirmation #waiting #due:2026-11-09 #id:T0095
-  → Max McCuddy confirm Capitol received the safety plan and corrected application answers, that the 11/6 effective date is holding, and whether anything including payment is still outstanding. (Max McCuddy; Gmail davey@; touched 2026-11-10)
+- [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
+  → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → NKST manager confirm whether Michelle Healey has also been paid, since River says they were paid yesterday. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
@@ -131,6 +133,8 @@ _nothing_
   → NPB team move K Iu's booking from today to tomorrow, same type, and confirm to the guest. (NPB team; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] AKT guest asks when to arrive for today's bat bridge tour #AKT #due:2026-11-12 #id:T0156
   → AKT staff reply to Leah Roberts before the tour with a recommended arrival time for the 5:00 pm Sunset Congress Avenue Bat Bridge Tour (sunset is 5:35 pm), booking 391033626, 3 guests. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
+- [ ] NKST guest asks if a dry bag is provided, tour this afternoon #NKST #due:2026-11-12 #id:T0164
+  → NKST staff reply to Janet Walker today on whether a dry bag is provided before her afternoon tour. (NKST staff; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
@@ -331,6 +335,8 @@ _nothing_
   → Reply do 1 in #the-helm so TideBot pulls NKST search terms and campaign numbers and proposes cuts; the FareHarbor scraper also needs to re-auth for blank bookings. (David; Slack #the-helm; touched 2026-11-12)
 - [ ] AWS SES DKIM revoked for neworleanskayakrental.com in us-east-1 #NKST #id:T0159
   → Whoever manages DNS check whether the DKIM records for neworleanskayakrental.com were removed, and confirm the domain is verified in us-west-2, the production SES region, before any send. (David; Gmail doorcountyzip@; touched 2026-11-12)
+- [ ] NKST white van rear tire losing air, key pulled from use #NKST #id:T0163
+  → NKST manager get the white van's rear tire repaired or replaced; until then guides do not use any van with an air leak and check the tire sensor before driving the black van. (Michelle Healey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
 
 ## Backburner (LSKT)
 
