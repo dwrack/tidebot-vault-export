@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -22,23 +22,23 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $1,266 |
-| Spending | $496 |
+| Money in | $828 |
+| Spending | $432 |
 | Card payments + transfers out | $28,248 |
 | Net, month to date | $0 |
 | Net, same days last month | $1,467 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $0 | $1,316 | -100% |
+| Month to date, money in | $0 | $1,773 | -100% |
 | Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $1,200 | -$1,200 |
+| Month to date, net | $0 | $1,656 | -$1,656 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-R8T1L8Y $34; fareharbor FareHarbor ST-A3H4R5A $20
+**Top spending, 30 days:** Payroll-Homebase PCR ecac5aXXXXX $287; fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -47,7 +47,7 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $750 |
+| Money in | $150 |
 | Spending | $2,068 |
 | Card payments + transfers out | $2,036 |
 | Net, month to date | -$1,136 |
@@ -69,19 +69,19 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Chase Bank M. FISCHER (5955) | $0 |
-| Chase Bank PERFBUS CHK (1893) | $16,523 |
+| Chase Bank PERFBUS CHK (1893) | $16,582 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $28,290 |
-| Spending | $18,794 |
-| Card payments + transfers out | $15,257 |
-| Net, month to date | -$2,956 |
+| Money in | $20,639 |
+| Spending | $17,095 |
+| Card payments + transfers out | $13,939 |
+| Net, month to date | -$2,897 |
 | Net, same days last month | -$1,869 |
 
 | vs same period last year | This year | Last year | Change |
@@ -89,23 +89,23 @@
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $17,275; CHECK # $1,504; fareharbor $15
+**Top spending, 30 days:** PAYPAL $17,080; fareharbor $15
 
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 11. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $61,078 |
+| Chase Bank PERFBUS CHK (3085) | $63,496 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $102,182 |
-| Spending | $75,734 |
-| Card payments + transfers out | $28,632 |
-| Net, month to date | $67 |
+| Money in | $95,775 |
+| Spending | $74,419 |
+| Card payments + transfers out | $25,644 |
+| Net, month to date | $3,983 |
 | Net, same days last month | -$8,567 |
 
 | vs same period last year | This year | Last year | Change |
@@ -113,7 +113,7 @@
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $32,358; CHECK # $24,640; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $654
+**Top spending, 30 days:** PAYPAL $31,293; CHECK # $24,390; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $654
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $2,242 on Oct 15: payee unknown, label it
