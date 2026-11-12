@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- ~~2026-11-12 | OK installing the daily session-keeper job on mbp-2~~ DONE 11/12, loaded
+- 2026-11-12 | FareHarbor login expired [sk:fareharbor]: open https://fareharbor.com/doorcountykayaktours/login/ in laptop Chrome (Personal profile), let Apple Passwords fill it, then tell Claude 'session-keeper done' | DJL | default: FH scraper, payroll, daily brief stay down
 - Decide East fire pit: strip by the east window is 60 in to the float edge, pit leaves 18 in to the wall (Rev AS, issue #28). Pick: listed small pit or wall shield + 42 in glass rail, or drop the East pit | E&E | default: pit stays drawn at 24 in, no rail, clearance unresolved
 - 2026-11-12 | Pick the east deck fire: A round pit + Adirondacks or B pony-wall fire on the water edge with loungers to its left. Mocks (to scale, Rev AR deck): Ebb and Ember/Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/ | E&E | default: Rev AR stays (round pit, 2 small chairs south of it)
 - 2026-11-12 | Top up Higgsfield credits if you want photoreal AI renders of the fire options (account is at 0, Gemini free tier has no image quota); say go and I rerun both concepts | E&E | default: the no-AI 3D mocks are what we use
