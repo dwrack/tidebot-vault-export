@@ -1,6 +1,12 @@
 # Ebb & Ember — Todo List
 
+## V2 east deck fire (added 2026-11-12 — mocks: Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/)
+- [ ] Pick A (round pit + Adirondacks flanking it) or B (5 ft pony-wall fire on the water edge, loungers to its left). Plan with chair footprints: C-east-deck-plan-fit.png. Rev AR still shows the round pit with 2 small chairs south of it
+- [ ] Optional: top up Higgsfield credits so both concepts can be rerun photoreal (account at 0 on 11/12)
+
 ## Website rebuild (added 2026-11-11)
+- [x] Run Desktop 'Connect E&E Site Repo to Cloudflare.command' (GitHub secrets + Jonah invite + first deploy). Repo: github.com/dwrack/ebb-and-ember-site
+- [ ] Get L's GitHub username, add her to the repo
 - [ ] Revisit Private Event Space pricing: from $50/person + priced add-ons (now 'Custom'; add-on list on /private-events/; headcount 60-80 confirmed 11/11). Live at ebb-and-ember-site.pages.dev, see [[project_website_rebuild_static]]
 
 ## V2 tiler replies (added 2026-11-10)
@@ -184,3 +190,4 @@
 - [ ] L: add UTM tracking + site-only links to every email send; confirm after first send, then read GA4 source=email. See [[Email Link Tracking Spec for L (Nov 11 2026)]] (added 2026-11-11)
 
 - [ ] Private saunas (V2): buy 2x 5 lb ABC extinguishers (one per sauna by door, mounted) + 1 water-mist or ABC for the shared deck near the fire pits, plus 1 deck first aid kit (ANSI Class B) and 1 small kit for the change-room wall; mount per Rev AP plan. Linked: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]
+- [ ] Private saunas (V2): East strip is 60 in from the window wall to the float edge; East pit (24 in) has 18 in to the cedar wall and edge. Decide pit model/shield and a 42 in rail on the east edge. See Rev AS issue #28. Linked: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]

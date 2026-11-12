@@ -76,3 +76,7 @@ CURRENT as of 2026-11-11. New model: `Assets/V2 Build Drawings/2026-11-11 Privat
 - Changed: East window rectangular 6 x 6 ft (was round), zen garden and fire walls removed, round fire pits with 3 chairs each (West at x 184 z 72 in the pocket, East at x 418 z 108 in line with the window), change rooms 46 x 36 in beside each door, showers side by side on the south wall with walls A, B, C, Rinnai on wall A west face, loungers moved to clear the showers.
 - Frame choice: drawn on Rev AO inches, so the pocket between the saunas is 96 in and there is a 34 in slot east of wall A. Jonah's frame had the East sauna flush to wall A (7.5 ft gap). Spacing question above is still open.
 - Not redrawn yet: section, issues table, electrical schedule, fire options sheet (still Rev AO text).
+
+
+## Rev AS (2026-11-12): East strip measured
+Outside face of the East window wall is at x 388, float edge at x 448: 60 in (5 ft). East pit resized to 24 in, centered at x 418 (18 in to wall, 18 in to edge), chairs pulled in to x 406 and x 430. Most pit makers want 36 in+ to combustibles, so it needs a listed small model, a non-combustible wall shield, or no East pit. Open edge needs a 42 in rail. Drawing: `Assets/V2 Build Drawings/2026-11-12 Private Saunas V2 Coordination Set (Rev AS).html`, issue #28.

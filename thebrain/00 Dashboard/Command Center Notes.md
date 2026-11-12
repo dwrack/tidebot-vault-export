@@ -10,6 +10,11 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Decide East fire pit: strip by the east window is 60 in to the float edge, pit leaves 18 in to the wall (Rev AS, issue #28). Pick: listed small pit or wall shield + 42 in glass rail, or drop the East pit | E&E | default: pit stays drawn at 24 in, no rail, clearance unresolved
+- 2026-11-12 | Pick the east deck fire: A round pit + Adirondacks or B pony-wall fire on the water edge with loungers to its left. Mocks (to scale, Rev AR deck): Ebb and Ember/Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/ | E&E | default: Rev AR stays (round pit, 2 small chairs south of it)
+- 2026-11-12 | Top up Higgsfield credits if you want photoreal AI renders of the fire options (account is at 0, Gemini free tier has no image quota); say go and I rerun both concepts | E&E | default: the no-AI 3D mocks are what we use
+- ~~2026-11-12 | Double-click Desktop 'Connect E&E Site Repo to Cloudflare.command': saves the Cloudflare key into GitHub, invites Jonah (JonahMoses), runs the first auto-deploy | E&E | default: site can't deploy from GitHub; edits wait~~ DONE 11/12, first auto-deploy OK
+- 2026-11-12 | Send L's GitHub username so I can add her to dwrack/ebb-and-ember-site | E&E | default: L can't edit the site
 - 2026-11-12 | From the 11/12 agent-setup call: say whether to pilot the other guy's content engine (routines + recipes + approvals page, procedural motion graphics, no video-model tokens) on E&E in place of Kimberlyn, he floated ~$200/mo with you as first client. He also offered to hand you a phone to test real-device vs emulator posting | E&E | default: no pilot, nothing started
 - 2026-11-12 | Try Hindsight (temporal vector memory, newer decisions supersede old ones, loads context at session start) as a layer over our md memory + graphify. I draft a one-page fit check vs mac-sync memory, you say go or skip | TheBrain | default: stay on md memory, skipped
 - 2026-11-12 | Review-overlap mashups (who else our NPB reviewers reviewed, then pitch swaps) already exists as /partner-finder. Run it on NPB next? | NPB | default: not run
