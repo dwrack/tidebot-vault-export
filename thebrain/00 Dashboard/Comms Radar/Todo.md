@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-11 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -47,6 +47,8 @@ _nothing_
   → David top up the Google AI Studio prepay credits so TideBot can process written logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-10)
 - [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
   → David go through the open Slack items Jonah flagged, including the anti-slip step options, and connect with Alex. (David; Text with Jonah Moses; touched 2026-11-11)
+- [ ] Apify rotated all API tokens after security incident #NPB #NKST #DCKT #id:T0155
+  → David or Claude generate new Apify tokens for each brand account, update the local token files and user-scope Apify MCPs, then restart any scraper or job still using an old token. (David; Gmail davey@, Gmail nolakayaktours@, Gmail doorcountyzip@, Gmail nolapedalbarge@; touched 2026-11-12)
 
 ## Waiting on someone
 
@@ -123,6 +125,8 @@ _nothing_
   → Whoever manages the neworleanskayakrental.com DNS restore the SES DKIM records within 5 days, unless removing them was intentional. (David; Gmail doorcountyzip@; touched 2026-11-06)
 - [ ] NPB guest booked for today, wants to move it to tomorrow #NPB #due:2026-11-11 #id:T0147
   → NPB team move K Iu's booking from today to tomorrow, same type, and confirm to the guest. (NPB team; Gmail nolapedalbarge@; touched 2026-11-11)
+- [ ] AKT guest asks when to arrive for today's bat bridge tour #AKT #due:2026-11-12 #id:T0156
+  → AKT staff reply to Leah Roberts before the tour with a recommended arrival time for the 5:00 pm Sunset Congress Avenue Bat Bridge Tour (sunset is 5:35 pm), booking 391033626, 3 guests. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
@@ -295,8 +299,6 @@ _nothing_
   → NKST manager tell Stephanie Lazensky whether to buy the replacement trailer handle herself and be reimbursed or send the link, since Michelle's card is no longer in the key box. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] NKST kayak seats broken or missing, trailer handle missing #NKST #id:T0145
   → NKST manager buy or find replacement seats for the broken tandems, check the shipping storage container first as Davey says there should be spares, and fix the missing trailer handle; Davey will reimburse otherwise. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-11)
 - [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
   → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Slack #the-helm; touched 2026-11-11)
 - [ ] Apify usage limit hit, running Actors aborted (NPB inbox account) #NPB #id:T0028
@@ -315,6 +317,14 @@ _nothing_
   → David review All Fuel's estimate and clearance diagram, and decide between pre-made 60 or 72 inch round fire tables or custom tables with burners only; the 42 inch table is only for push start. (David; Gmail davey@; touched 2026-11-11)
 - [ ] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0154
   → David and Michael move each domain to Cloudflare as it comes up for renewal. (David; Text with Michael Fischer; touched 2026-11-11)
+- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-12)
+- [ ] NKST Piety lot: white van keys missing, tire gauge needed #NKST #id:T0157
+  → NKST manager find the missing white van keys at Piety, buy or place a tire gauge there, and check the black van's low back left tire; Michelle also suggested Jeff bring seats from the marina kayaks in the meantime. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
+- [ ] NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired #NKST #id:T0158
+  → Reply do 1 in #the-helm so TideBot pulls NKST search terms and campaign numbers and proposes cuts; the FareHarbor scraper also needs to re-auth for blank bookings. (David; Slack #the-helm; touched 2026-11-12)
+- [ ] AWS SES DKIM revoked for neworleanskayakrental.com in us-east-1 #NKST #id:T0159
+  → Whoever manages DNS check whether the DKIM records for neworleanskayakrental.com were removed, and confirm the domain is verified in us-west-2, the production SES region, before any send. (David; Gmail doorcountyzip@; touched 2026-11-12)
 
 ## Backburner (LSKT)
 

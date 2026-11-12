@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- ~~2026-11-12 | Double-click Desktop "Rotate Apify Tokens.command" and rotate ee, dckt, gt, npb, nkst, admire | All | default: old tokens stay live~~ DONE 11/12
 - 2026-11-15 due | Tell Christy Ernst whether Penny is in for Emeralds futsal (U10 Div 2, season starts end of Jan, $75 + $25 RCF membership; she confirmed the team 11/11) | Personal | default: Penny is not on the team
 - 2026-11-15 due | Turn on 2-step verification for the Google Ads login (customer 237-223-4368, and doorcountyzip@gmail.com); required Nov 16, the day you fly | Personal | default: the Google Ads login breaks
 - 2026-11-11 | Approve V2 tile cut layout v2 (centered grid, cut row under bench) and confirm West side wall 24 3/4 = two tiles + 3/4 trim gap; order about 15 more tiles (need ~124, have ~121, no breakage) | E&E | default: tiler lays out as drawn, we run short on tile
