@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-11 | Approve V2 tile cut layout v2 (centered grid, cut row under bench) and confirm West side wall 24 3/4 = two tiles + 3/4 trim gap; order about 15 more tiles (need ~124, have ~121, no breakage) | E&E | default: tiler lays out as drawn, we run short on tile
 - Approve the creator ask (reshare + partnership ad, comped ride) for the top 6 NPB creator videos; list in NOLA Party Barge/Audience Intel/Creator Video Shortlist (2026-11-11).md | NPB | default: nothing is sent, the videos stay unused
 - Review the 11/11 electrical plan (outlets, USB spots, LED drivers, pit boxes, heater outlet), then send it with the gas/water plan to the electrician, Sergey and Alex | E&E | default: they work from Rev AO electrical
 - Send Sergey (gas) and Alex (water) the 11/11 gas and water plan, after you confirm the heater spot and pit models | E&E | default: they keep working from Rev AO

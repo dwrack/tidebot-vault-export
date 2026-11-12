@@ -70,3 +70,9 @@ CURRENT, Claude's best guesses until Grant frames. Drawing: `Assets/V2 Build Dra
 - P1/P2 fire pit ignition boxes (GFCI + 12V) on the sauna walls 3 ft from each pit. CR1/CR2 inside each change room: duplex + USB + LED driver.
 - USB (U1 to U6): both front-wall lounger spots, both change room fronts, both pit seats. Loungers and table positions are guesses; add a post USB if a table goes on the east deck.
 - Open: Torch thermostat probe reach (Rev AO issue 6), pit ignition type (needs power or not), final heights, whether the pit boxes need a separate GFCI.
+
+## Rev AP 11/11 (Claude): plan loaded into the model and the sketch
+CURRENT as of 2026-11-11. New model: `Assets/V2 Build Drawings/2026-11-11 Private Saunas V2 Coordination Set (Rev AP).html` (Rev AO untouched). Sketch page `Operations/Axon Sketches/axon_v2.html` rebuilt from it (rev 08, water fills the whole frame; old one kept in the session scratchpad only).
+- Changed: East window rectangular 6 x 6 ft (was round), zen garden and fire walls removed, round fire pits with 3 chairs each (West at x 184 z 72 in the pocket, East at x 418 z 108 in line with the window), change rooms 46 x 36 in beside each door, showers side by side on the south wall with walls A, B, C, Rinnai on wall A west face, loungers moved to clear the showers.
+- Frame choice: drawn on Rev AO inches, so the pocket between the saunas is 96 in and there is a 34 in slot east of wall A. Jonah's frame had the East sauna flush to wall A (7.5 ft gap). Spacing question above is still open.
+- Not redrawn yet: section, issues table, electrical schedule, fire options sheet (still Rev AO text).

@@ -12,10 +12,11 @@
 - [ ] Reply to Jonah in #private-saunas-build: east fire on the east/view side, change rooms beside each glass door (11/11 drawing), showers stay on the center wall, 2 not 4
 - [ ] Confirm sauna spacing on the float: Jonah's 7.5 ft center gap vs Rev AO 4 ft
 - [ ] Decide 2 vs 4 showers (enclosed per side on top of the wall-mounted ones?) before the Rinnai hookup
+- [ ] Rev AP (11/11) is the new coordination set. Still to redraw to match: section, issues table, electrical schedule, fire options sheet. See [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]
 
 ## Build social series (added 2026-11-10 — clip: Assets/V2 Build Drawings/2026-11-06 Build sequence clip/)
 - [ ] Build clip v6: posted to #marketing 11/10 then deleted on Davey's call; waiting on what to change before reposting
-- [ ] Ask Grant on the walkthrough: West roof eave over the West fire wall (Rev AO, eave to x=12, fire wall x 16 to 30); set the fire wall and chair spots
+- [ ] Ask Grant on the walkthrough: set the round fire pit and chair spots (West in the pocket, East on the east deck). Fire wall question is moot since 11/11.
 - [ ] Render the Rose build-sequence clip the same way (v0.50 test exists in Operations/The Rose/Renders/Build Sequence v0.50/) and send to Kimberlynn
 
 ## V2 Tile order (added 2026-11-09 — notes: [[V2 Tile Quotes Comparison (2026-11-06)]], [[Private Saunas (V2) — Tile Job Buy List (Nov 9 2026)]])
