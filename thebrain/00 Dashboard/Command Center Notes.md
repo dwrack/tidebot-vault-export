@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-12 due | URGENT: delete the public test page https://djl-command.hpb-site.workers.dev (shows your Waiting-on-you list to anyone with the link): Cloudflare dashboard > Workers & Pages > djl-command > Settings > Delete, or tell Claude "delete it" | Personal | default: stays public until deleted
 - 2026-11-12 due | **TOP PRIORITY NPB 1 of 6:** Reply "send" to approve the 6 personalized creator DMs (reshare + partnership ad, comped ride); Claude sends them from the NPB Instagram, no Jeff. List: NOLA Party Barge/Audience Intel/Creator Video Shortlist (2026-11-11).md | NPB | default: nothing is sent, the videos stay unused
 - 2026-11-12 due | **TOP PRIORITY NPB 2 of 6:** Tell Claude whether NPB cut boats or Saturday departures since 2024 (Party Queen summer guests 2,397 to 658; all boats down ~30%/yr at flat price). If yes, adding peak Saturdays back is the fastest fix | NPB | default: the drop stays unexplained and no price or capacity test starts
 - 2026-11-12 due | **TOP PRIORITY NPB 3 of 6:** Say "draft the NPB past-guest email" for a same-weekend-next-year note to past guests (34.7k customers, 9% subscribed, 2.1% have come back); Claude drafts with /guest-drips, you approve before any send | NPB | default: the past-guest list stays unused
