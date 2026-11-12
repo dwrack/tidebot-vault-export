@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -19,6 +19,11 @@ _nothing_
   → David and Jonah pay the invoice when Max McCuddy sends the payment link, and review the underwriter's swim-area conditions (life ring and shepherd's hook, roped-off area if shared with motor vessels, supervision signage, no-diving sign). (David; Gmail davey@; touched 2026-11-12)
 - [ ] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #id:T0161
   → David decide whether NKST will change the waiver's indemnification bullets as Freddie asks (carve out acts that follow GT's instructions); then the NKST manager reply to Freddie before his Manchac Swamp Wildlife Kayak Tour at 2:00 pm today. (David; Gmail nolakayaktours@; touched 2026-11-12)
+- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
+  → David send his local agent the Apres Assets details so that agent can quote; Michael has already sent follow-ups to the 6 agents he contacted, asking for a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@, Text with Michael Fischer; touched 2026-11-12)
+  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
+  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
+  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -72,11 +77,6 @@ _nothing_
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] NKST W-9 collection for 1099 guides, 3 still open #NKST #waiting #id:T0066
   → Remaining 3 guides complete their W-9s so TideBot can file them; Bob Drought is out until Nov 9. (NKST guides; Slack #helm-nkst, Gmail nolakayaktours@; touched 2026-11-05)
-- [ ] Apres Assets GL insurance: loss runs from old insurer #waiting #id:T0060
-  → Wait for the old Apres Assets insurer to email the loss runs, then David forwards them to the two agents, Shelley B. Zahn and Jamie Clark. (David; Text with Michael Fischer; touched 2026-11-06)
-  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
-  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
-  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #waiting #id:T0074
   → Jeff confirm JT Sides is removed from FareHarbor and any other logins and, with admin access, sign him out of the NPB Gmail account. (Jeffrey Chitek; Text with Michael Fischer; touched 2026-11-06)
   > David: he is out. ask jeff if he is removed from fh, etc. and maybe logged out of the npb gmail account thru admin settings.
@@ -135,6 +135,8 @@ _nothing_
   → AKT staff reply to Leah Roberts before the tour with a recommended arrival time for the 5:00 pm Sunset Congress Avenue Bat Bridge Tour (sunset is 5:35 pm), booking 391033626, 3 guests. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] NKST guest asks if a dry bag is provided, tour this afternoon #NKST #due:2026-11-12 #id:T0164
   → NKST staff reply to Janet Walker today on whether a dry bag is provided before her afternoon tour. (NKST staff; Gmail nolakayaktours@; touched 2026-11-12)
+- [ ] NKST waiver indemnification changes requested by Freddie Skarbek, Manchac tour Nov 12 #NKST #due:2026-11-12 #id:T0166
+  → NKST manager reply to Freddie Skarbek on whether the email exchange counts as part of his waiver, and decide whether to accept his limit that he only indemnifies GT for his own acts, before his 2:00 pm tour today. (NKST manager; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057

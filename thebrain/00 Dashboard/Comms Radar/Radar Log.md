@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-12 12:10 | 26 new messages moved 2 threads: T0060, T0166
 - 2026-11-12 10:10 | 22 new messages moved 4 threads: T0095, T0163, T0164, T0165
 - 2026-11-12 08:10 | 9 new messages moved 3 threads: T0160, T0161, T0162
 - 2026-11-12 06:10 | 25 new messages moved 6 threads: T0155, T0156, T0157, T0158, T0159, T0007

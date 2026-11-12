@@ -10,8 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
-- 2026-11-12 | NKST W-9s still unsigned: Josh Smith, Nick Napoda, Max Bush (texts + email go daily 9am, Slack paused) | NKST | default: keep daily reminders; consider a call if still open by Nov 16 payroll
-- 2026-11-12 | Call Energy Smart 504-229-6868 about your $440 check reissue (PR #83408, project 300033-2026-R1Z7). 4 emails since Oct 14, zero human replies; offer mailing to 2815 SE 66th Ave Portland or ACH, and a lost-check affidavit. If they stall, escalate via Entergy New Orleans customer service | Personal | default: check stays lost
+- 2026-11-14 due | Christmas cash push: pick the play (gift cards for E&E + DCKT/Door County + NKST/NPB, holiday-party fill for NPB, past-guest win-back). Claude drafts copy, you approve each send | All brands | default: only the already-scheduled DCKT gift-card emails (Dec 1/14) go out
+- 2026-12-01 due | Set up monthly rent reminder text to Karl (Rooms #1 & #2, $500/mo, $50 late fee after the 1st). He said yes 11/12. Need your OK on the exact text + send day, then I schedule it | Rentals | default: you text him by hand each month
 - 2026-11-20 due | W-9s: link sent 11/12 to Sofia, Calvin, Kelly, Kingston, Charles; Jeff confirming numbers + Kingston last name + posting contact list. When forms land in DocuSeal, send signed PDFs to Bob Drought; still need Bobs reply on what he is missing | NPB | default: chase non-responders 11/18
 - Web studio ladder is LIVE in the reply agent since Nov 12 (fix first, $99 only, .com included, Google listing ask). Still yours: (1) when a client picks a .com you get a REGISTER DOMAIN ping and buy it by hand until Claude wires a registrar, say go and I check whether the Cloudflare account on mbp-2 can register by API; (2) accept Google listing manager invites sent to admirenola@gmail.com; (3) pick Google care $99 standalone vs Full House only, and Pilot light 4 posts $99 vs start at $249. Plan: TheBrain/03 Projects/NOLA Web Studio/Offer Ladder + Social Upsell Plan (Nov 10 2026).md | Admire NOLA web studio | default: domains stay manual, rungs 3 and 4 not built
 - 2026-11-12 | On your iPhone: open https://djl-command.hpb-site.workers.dev in Safari, sign in once, Share > Add to Home Screen | Personal | default: no phone icon yet
@@ -232,6 +232,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Turn on bigly's nightly runs: in Terminal on bigly run `cp ~/local-ai-kit/overnight/com.bigly.overnight.plist ~/Library/LaunchAgents/ && launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.bigly.overnight.plist` and `sudo pmset repeat wakeorpoweron MTWRFSU 22:58:00` | DJL (bigly) | default: overnight jobs only run when a Claude session starts them
 - Add the Apify token for bigly's LM Studio: in Terminal on bigly run `security add-generic-password -s apify-mcp -a "$USER" -w` and paste it at the hidden prompt | DJL (bigly) | default: the local model has no scraping
 - In LM Studio on bigly, click Authenticate on Gmail, Google Calendar, Google Drive and Shopify (Program tab, mcp.json servers) | DJL (bigly) | default: the local model can't read those
+- [2026-11-19 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-10), charged $500 twice within 48 h (Nov 9 and Nov 10). Say OK or dispute it | NPB | default: treated as fine after 7 days
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
