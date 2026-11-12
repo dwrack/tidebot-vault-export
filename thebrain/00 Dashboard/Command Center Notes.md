@@ -10,6 +10,9 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Approve the creator ask (reshare + partnership ad, comped ride) for the top 6 NPB creator videos; list in NOLA Party Barge/Audience Intel/Creator Video Shortlist (2026-11-11).md | NPB | default: nothing is sent, the videos stay unused
+- Review the 11/11 electrical plan (outlets, USB spots, LED drivers, pit boxes, heater outlet), then send it with the gas/water plan to the electrician, Sergey and Alex | E&E | default: they work from Rev AO electrical
+- Send Sergey (gas) and Alex (water) the 11/11 gas and water plan, after you confirm the heater spot and pit models | E&E | default: they keep working from Rev AO
 - 2026-11-12 due | Book a photographer for the fall foliage date with Jac (2 hrs, aim 2:45-4:45pm after Romeo appt, Laurelhurst Park) | Personal | default: no photos, use phone on a tripod
 - 2026-11-14 due | L to confirm she added UTMs + ebbandember.com-only links to every email send (Slack DM sent 11/11). Then check GA4 for source email after her first send | E&E | default: email clicks and bookings stay unattributed in GA4
 - 2026-11-13 due | Book PDX to MSY flight, Nov 16 out, Nov 20 or 21 back (no booking found in Gmail, Delta, Chase Travel or texts as of 11/11; Delta eCredit from Oct 11 email may cover part) | NPB | default: no flight, NOLA site launch trip on 11/18 slips
@@ -200,6 +203,11 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - [2026-11-18 due |] Charge watch: $118 at Amazon on Capital One Platinum Rewards ...5393 (2026-10-29), $118 is 3.4x this merchant's usual $34. Say OK or dispute it | Personal | default: treated as fine after 7 days
 - [2026-11-18 due |] Charge watch: $1,400 at Outgoing Wire Transfer on Chase PERFBUS CHK ...1893 (2026-10-28), $1,400 charge, not on the known list. Say OK or dispute it | HPB | default: treated as fine after 7 days
 - [2026-11-18 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-10-27), charged $500 twice within 48 h (Oct 25 and Oct 27). Say OK or dispute it | NPB | default: treated as fine after 7 days
+
+- Review bigly media mockups (71 real photo picks, 48 feed/story crops, 28 AI images, all numbered): open ~/agent-work/media/2026-11-10/index.html on bigly, reply like "#3 #7 yes, #12 no, more drone shots" | DJL (bigly) | default: next media night repeats the same mix
+- Turn on bigly's nightly runs: in Terminal on bigly run `cp ~/local-ai-kit/overnight/com.bigly.overnight.plist ~/Library/LaunchAgents/ && launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.bigly.overnight.plist` and `sudo pmset repeat wakeorpoweron MTWRFSU 22:58:00` | DJL (bigly) | default: overnight jobs only run when a Claude session starts them
+- Add the Apify token for bigly's LM Studio: in Terminal on bigly run `security add-generic-password -s apify-mcp -a "$USER" -w` and paste it at the hidden prompt | DJL (bigly) | default: the local model has no scraping
+- In LM Studio on bigly, click Authenticate on Gmail, Google Calendar, Google Drive and Shopify (Program tab, mcp.json servers) | DJL (bigly) | default: the local model can't read those
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.

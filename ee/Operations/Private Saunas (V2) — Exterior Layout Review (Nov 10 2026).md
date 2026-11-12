@@ -50,3 +50,23 @@ Drawing: `Assets/V2 Build Drawings/2026-11-11 Exterior layout - simple (change +
 - West: change room right of the glass door against the sauna wall, shower beside it.
 - East: change room left of the glass door against the sauna wall, shower on its south side; the pair starts the divider between the two decks.
 - Fire pits where Jonah drew them: West in the pocket between the saunas, East on the east deck.
+
+## Plan 11/11 (Davey): THE PLAN + gas and water lines
+CURRENT as of 2026-11-11. Layout = Option 2 with walls (west shower and east shower side by side on the south wall, east shower walled north and west, open to the east deck). Round fire pits. Drawing: `Assets/V2 Build Drawings/2026-11-11 Exterior layout - gas and water plan.png`.
+- Shower heads: back to back on wall B (between the showers) at the north end, the corner nearest each other.
+- Heater: Rinnai RE199eN on the north face of wall C (above wall B), facing north into the open strip. Davey's note said "where it says shower in red in that corner"; no red label was visible, so this spot is Claude's reading. Confirm.
+- Gas: main from the main pier (SE corner) west along the south edge under the deck; branches to the East pit, East stove, heater, West pit (up the strip) and West stove. Sergey sizes it. Load about 500 to 540k BTU (heater 199k, stoves ~90k each, pits 60 to 80k each, pit size not chosen yet). NW Natural confirms the meter.
+- Water: cold from the same pier corner on its own lane 12 in north of the gas; to the heater inlet, both mixers and a bucket spigot at each sauna's outer front corner. Hot only from the heater to the two heads. Alex runs it.
+- Heater clearances kept: 24 in clear in front (open strip, no roof), 3 ft to the West change room door.
+- Open: pit models and BTU, stove valve spots (Grant/Torch), whether the strip gas stays under the deck or needs hatches.
+
+## Update 11/11 later (Davey): heater and heads moved
+CURRENT. Heater now on wall A (the divider), west face, 12 in north of the inside corner with wall C (vent clearance), faces west into the open strip, 24 in clear in front. Shower heads moved to the center of wall B (between the showers), back to back. Gas and cold lanes unchanged; hot now runs under the deck from the heater to wall B and up inside it. The earlier heater spot (wall C) is history.
+
+## Electrical 11/11 (Davey: lock down outlets, LED, junction boxes)
+CURRENT, Claude's best guesses until Grant frames. Drawing: `Assets/V2 Build Drawings/2026-11-11 Exterior layout - electrical, gas and water plan.png`.
+- E1 one 20A 120V GFCI circuit from the dock, conduit under the deck (feed at the south edge east of the East shower, tap point TBD).
+- E2 + plug-in 24V driver (D1/D2) on each sauna front wall; West at the west end, East at the east end (the East change room covers the old SW corner). E6 stove box beside each Torch intake. E3 inside back corner by the exhaust vent. E10 LED cove high on all walls. E11 GFCI for the Rinnai on wall A.
+- P1/P2 fire pit ignition boxes (GFCI + 12V) on the sauna walls 3 ft from each pit. CR1/CR2 inside each change room: duplex + USB + LED driver.
+- USB (U1 to U6): both front-wall lounger spots, both change room fronts, both pit seats. Loungers and table positions are guesses; add a post USB if a table goes on the east deck.
+- Open: Torch thermostat probe reach (Rev AO issue 6), pit ignition type (needs power or not), final heights, whether the pit boxes need a separate GFCI.

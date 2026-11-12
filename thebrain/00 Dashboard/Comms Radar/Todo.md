@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-11 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-11 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -145,8 +145,6 @@ _nothing_
   → NPB team reply to Jessica Jackson on whether the 2 eighteen-year-olds mean she has to rent the whole boat, with Nov 21 availability and pricing for 10 guests. (NPB team; Gmail nolapedalbarge@; touched 2026-10-30)
 - [ ] TripAdvisor bookings not passing transportation info, NKST #NKST #id:T0022
   → NKST manager check how TripAdvisor bookings are mapping transportation details into FareHarbor and fix the setup. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-10-31)
-- [ ] Apify usage limit hit, running Actors aborted (NPB inbox account) #NPB #id:T0028
-  → David or whoever runs the Apify jobs check which scrapers stopped and whether to move that account to a paid plan, and stop relying on the Instagram Tagged Posts Scraper, which is now discontinued. (David; Gmail nolapedalbarge@; touched 2026-11-01)
 - [ ] HPB New Year's Eve boat party inquiry #HPB #id:T0029
   → HPB team reply to Jordan Henderson on Dec 31 availability, entertainment, party packages and activities. (HPB team; Gmail houstonpedalbarge@; touched 2026-11-01)
 - [ ] Tourist directory offers to list Cave Point discount #Cave-Point #id:T0030
@@ -191,8 +189,6 @@ _nothing_
   → Jeffrey finishes the revised deckhand job description (entertainers and salespeople, commission and tips on upsells, camera-comfortable) and makes a promo video for the party pontune; David and Jeffrey keep tracking projects in the dashboard. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-04)
 - [ ] Loyola University asks for updated COI, last one expired 6/7/22 #NKST #id:T0073
   → NKST manager request an updated certificate of insurance from the insurance agent and send it to David Young at Loyola Financial Affairs. (NKST manager; Gmail nolakayaktours@; touched 2026-11-04)
-- [ ] NKST company retreat inquiry, 9-10 people, kayak tour with transport Dec 10 #NKST #id:T0078
-  → NKST manager reply to Luke Johnson on Thursday Dec 10 availability between 12:15 and 4:45 for a group of 9-10 with transportation, plus pricing. (NKST manager; Gmail nolakayaktours@; touched 2026-11-05)
 - [ ] NPB private party cruise inquiry, Nov 14, 12-15 people, 2pm #NPB #id:T0079
   → NPB team reply to Sam Boscoe with Nov 14 2pm availability and how to book a private cruise for 12-15 people, since he is ready to book today. (NPB team; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Sasha Killion asks for transportation from Royal Sonesta for 17, Freaky Tiki Apr 16 2027 #NPB #id:T0080
@@ -251,8 +247,6 @@ _nothing_
   → HPB manager text the number back from the HPB SMS line to see if they want to reschedule the call or get their question answered by text. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-08)
 - [ ] NKST Affiliate and Influencer Program signup form submission #NKST #id:T0056
   → NKST manager review the new affiliate/influencer signups and reply or approve. (NKST manager; Gmail nolakayaktours@; touched 2026-11-09)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Threads (hat Chrome profile) and Instagram (admire profile) on mbp-2 via Screen Sharing; Hidden Adventure Threads engage was logged out again Nov 9 (paused 24h, 0 actions). (David; Slack #helm-admire; touched 2026-11-09)
 - [ ] Admire NOLA GitHub Pages deploy failed #Admire-NOLA #id:T0093
   → Whoever maintains the Admire NOLA site check the failed deploy job in GitHub Actions and rerun it; it failed again on Nov 9 (build succeeded, deploy failed). (Admire NOLA site maintainer; Gmail admirenola@; touched 2026-11-09)
 - [ ] HPB SMS reply 'Sorry, I can't talk right now' waiting on a human answer #HPB #id:T0117
@@ -305,10 +299,22 @@ _nothing_
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-11)
 - [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
   → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Slack #the-helm; touched 2026-11-11)
+- [ ] Apify usage limit hit, running Actors aborted (NPB inbox account) #NPB #id:T0028
+  → David or whoever runs the Apify jobs upgrade the plan or renew the expired monthly usage limit on the personal Apify account, and check which scrapers stopped. (David; Gmail davey@; touched 2026-11-11)
+- [ ] NKST company retreat inquiry, 9-10 people, kayak tour with transport, now Tue Dec 8 #NKST #id:T0078
+  → NKST manager reply to Luke Johnson on availability and pricing for a group of 9-10 with transportation; he now offers Tuesday Dec 8, 1:00-5:30, instead of Dec 10. (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → David build the new static HTML website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in and use the site platform answer for the shorts and hoodies. (David; Text with Michael Fischer; touched 2026-11-11)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Instagram (admire Chrome profile) on mbp-2 via Screen Sharing; Admire NOLA Instagram engage is logged out again Nov 11 (paused 24h, 0 actions), plus Threads for Hidden Adventure. (David; Slack #helm-admire; touched 2026-11-11)
 - [ ] Glass Gala winner wants to schedule Maurepas Swamp guided kayak tour #NPB #NKST #id:T0151
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
+- [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
+  → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
+- [ ] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #id:T0153
+  → David review All Fuel's estimate and clearance diagram, and decide between pre-made 60 or 72 inch round fire tables or custom tables with burners only; the 42 inch table is only for push start. (David; Gmail davey@; touched 2026-11-11)
+- [ ] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0154
+  → David and Michael move each domain to Cloudflare as it comes up for renewal. (David; Text with Michael Fischer; touched 2026-11-11)
 
 ## Backburner (LSKT)
 

@@ -7,6 +7,8 @@
 - [ ] Approve replies to ET Flooring / Level Plane / Pyramid / Rocky Village. See [[Private Saunas (V2) — Tiler Replies + Draft Responses (Nov 10 2026)]]
 
 ## V2 exterior layout (added 2026-11-10 — note: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]])
+- [ ] Review the 11/11 electrical plan (USB spots, LED drivers, pit boxes), then send it with the gas and water plan to the electrician, Sergey and Alex
+- [ ] Send Sergey and Alex the 11/11 gas and water plan after confirming the heater spot and pit models
 - [ ] Reply to Jonah in #private-saunas-build: east fire on the east/view side, change rooms beside each glass door (11/11 drawing), showers stay on the center wall, 2 not 4
 - [ ] Confirm sauna spacing on the float: Jonah's 7.5 ft center gap vs Rev AO 4 ft
 - [ ] Decide 2 vs 4 showers (enclosed per side on top of the wall-mounted ones?) before the Rinnai hookup
