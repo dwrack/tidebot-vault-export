@@ -70,3 +70,6 @@
 
 ## To run
 Say "upload DCKT static ads" and they go into Meta account act_10153674414451399 as **PAUSED** ads. Budget and audience stay your call. Suggested split: #2 and #3 now to warm audiences through Dec 20; #1, #4 and #5 held for an April retargeting push.
+
+## Uploaded (2026-11-12)
+#2 gift-summer and #3 group-dad-gift are in Meta act_10153674414451399, all PAUSED: campaign `52546466202398` "DCKT Holiday Gift Cards 2026" (Sales, $10/day CBO), ad set `52546466235798` (Purchase on DCKT pixel, ends Dec 20, audience is a US 25-65 placeholder: set warm audiences before turning on), ads `52546466269598` and `52546466272598`. Nothing spends until someone switches them on.

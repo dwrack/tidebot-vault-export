@@ -186,7 +186,8 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] BIMI for doorcountykayaktours.com (brand logo in the inbox). Needs DMARC at enforcement (checked 2026-11-07: currently `p=none` with rua to info@, so first review reports, then move to quarantine/reject) plus a logo certificate (VMC needs a registered trademark, and the DCKT filing SN 99890274 publishes 2026-11-10, so that may unlock it; CMC needs ~12 months of public logo use). Added 2026-11-07, David: "do this when we can"
 
 ## Open (added 2026-11-10, Agent Marketing Stack)
-- [ ] Review 5 staged static ads (gift-card pair can run to warm audiences through Dec 20): [[Brief|Marketing/Static Ads - Staged/2026-11-10 - static-ads/Brief]] (added 2026-11-10)
+- [x] Review 5 staged static ads (gift-card pair can run to warm audiences through Dec 20): [[Brief|Marketing/Static Ads - Staged/2026-11-10 - static-ads/Brief]] (added 2026-11-10) (gift pair uploaded PAUSED 2026-11-12)
+- [ ] Turn on gift-card ads (campaign DCKT Holiday Gift Cards 2026): set warm audience, check $10/day budget, switch on before Dec 20 (added 2026-11-12)
 - [ ] Grant GA4 Viewer on property 136079889 to claude-mcp@gravity-trails-mcp.iam.gserviceaccount.com so the marketing warehouse loads DCKT GA4 (added 2026-11-10)
 - [ ] Retargeting ad "General Retargeting - Kayak" body says "from DC Detours", not DCKT. Check that it was intended before the 2027 season (added 2026-11-10)
 

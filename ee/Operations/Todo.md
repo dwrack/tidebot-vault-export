@@ -182,3 +182,5 @@
 - [ ] Reorder 12x24 black tile (24x24 was sent). See [[Sauna Buildout — Tile Prep Call (Nov 10 2026)]]
 - [ ] Source Wi-Fi LED driver for sauna backlighting. See [[Sauna Buildout — Electrical and LED Walkthrough (Nov 10 2026)]]
 - [ ] L: add UTM tracking + site-only links to every email send; confirm after first send, then read GA4 source=email. See [[Email Link Tracking Spec for L (Nov 11 2026)]] (added 2026-11-11)
+
+- [ ] Private saunas (V2): buy 2x 5 lb ABC extinguishers (one per sauna by door, mounted) + 1 water-mist or ABC for the shared deck near the fire pits, plus 1 deck first aid kit (ANSI Class B) and 1 small kit for the change-room wall; mount per Rev AP plan. Linked: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]

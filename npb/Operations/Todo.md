@@ -159,3 +159,11 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 - [ ] 2026-11-06 Approve thin-departure watch design (threshold 6, 10am CT post, guide clash check, Sunday 1/3/5 only): [[Thin Departure Watch — Party Boats (Design 2026-11-06)]]
 - [ ] 2026-11-06 Jeff: deckhand pay + fuel per run, and how crew gets assigned (bulk updater or a FareHarbor auto setting): [[Thin Departure Watch — Party Boats (Design 2026-11-06)]]
 - [ ] 2026-11-11 Thin-boat questions for Jeff + Michael at the sync (appendix of [[NPB Ops Sync — 2026-11-11 Agenda]]); approve guest flexibility texts
+
+### Jumpstart list (2026-11-12, David's top priority, also on the dashboard)
+- [ ] Creator ask to the top 6 (reshare + partnership ad), waits on David's "send". [[Creator Video Shortlist (2026-11-11)]]
+- [ ] Capacity check: were boats or Saturday departures cut since 2024?
+- [ ] Past-guest "same weekend next year" email, draft via /guest-drips
+- [ ] Creator videos as Meta partnership ads in the drive markets, budget from David
+- [ ] /partner-finder run for group organizers and travel agents
+- [ ] Same-day seat pushes Fri/Sat 9am
