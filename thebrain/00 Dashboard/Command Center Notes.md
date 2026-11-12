@@ -10,6 +10,9 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-12 | From the 11/12 agent-setup call: say whether to pilot the other guy's content engine (routines + recipes + approvals page, procedural motion graphics, no video-model tokens) on E&E in place of Kimberlyn, he floated ~$200/mo with you as first client. He also offered to hand you a phone to test real-device vs emulator posting | E&E | default: no pilot, nothing started
+- 2026-11-12 | Try Hindsight (temporal vector memory, newer decisions supersede old ones, loads context at session start) as a layer over our md memory + graphify. I draft a one-page fit check vs mac-sync memory, you say go or skip | TheBrain | default: stay on md memory, skipped
+- 2026-11-12 | Review-overlap mashups (who else our NPB reviewers reviewed, then pitch swaps) already exists as /partner-finder. Run it on NPB next? | NPB | default: not run
 - 2026-11-14 due | Christmas cash push: pick the play (gift cards for E&E + DCKT/Door County + NKST/NPB, holiday-party fill for NPB, past-guest win-back). Claude drafts copy, you approve each send | All brands | default: only the already-scheduled DCKT gift-card emails (Dec 1/14) go out
 - 2026-12-01 due | Set up monthly rent reminder text to Karl (Rooms #1 & #2, $500/mo, $50 late fee after the 1st). He said yes 11/12. Need your OK on the exact text + send day, then I schedule it | Rentals | default: you text him by hand each month
 - 2026-11-20 due | W-9s: link sent 11/12 to Sofia, Calvin, Kelly, Kingston, Charles; Jeff confirming numbers + Kingston last name + posting contact list. When forms land in DocuSeal, send signed PDFs to Bob Drought; still need Bobs reply on what he is missing | NPB | default: chase non-responders 11/18
