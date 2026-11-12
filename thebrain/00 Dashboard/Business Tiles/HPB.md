@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 20
+ad_spend_yday: 28
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); TikTok logged out day 4"
-updated: 2026-11-11
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); TikTok logged out day 5"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $445/wk vs $4,000 target, 11%.
-- TikTok: logged out, fourth day, confirmed live 11/11. Needs the QR scan via Screen Sharing to mbp-2.
-- Ads Tue 11/10: Google "Search - Houston Pedal Barge" (Texas umbrella) $10.82 / 0 conv; 7 days $103.48 / 2 conv / $263.70. Meta Followers Reboost $9.40 (engagement only).
-- Text alerts: no new alert email seen in the 11/11 unread pull; unverified whether the once-per-reply fix took. IG: no post since 11/6. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $445/wk vs $4,000 target, 11%.
+- TikTok: logged out, day 5, confirmed live 11/12 (bounced to login). Needs the QR scan via Screen Sharing to mbp-2.
+- Ads Wed 11/11: Google "Search - Houston Pedal Barge" $17.60 / 0 conv; Meta Followers Reboost $9.90 (engagement only). IG: "11PM ride" reel 11/11, 13 likes. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "11 unanswered comments on the 11/6 carousel; 4 unreplied GBP reviews"
-updated: 2026-11-11
+alert: "5 unreplied GBP reviews; 12 comments on the 11/6 carousel, replies unconfirmed"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 27 days ago.** Still no GSC, GA4, or Meta ad account.
-- IG: new Columbia River carousel 11/10, 19 likes. The 11/6 private-sauna carousel (244 likes) has 11 comments from 11 people and none from the account, confirmed live 11/11. Kimberlyn's lane.
-- GBP: 4 unreplied 5-stars (Alex Larson 11/11, Elliot Fuhr 11/9, Andrii Partyka 11/7, Diana Morelen 11/3).
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 28 days ago.**
+- Still no GSC, GA4, or Meta ad account.
+- IG: Columbia River carousel 11/11, 25 likes, 1 comment. The 11/6 private-sauna carousel has 251 likes and 12 comments; replies last confirmed missing 11/11.
+- GBP: 5 unreplied 5★ in the newest 20, including 3 new (Anjuli Shah-Johnson 11/12, Alex Larson 11/11, Elliot Fuhr 11/9).
 <!-- live:end -->
 
 <!-- maps:start -->

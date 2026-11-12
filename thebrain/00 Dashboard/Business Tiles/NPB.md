@@ -5,10 +5,10 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 359
+ad_spend_yday: 443
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); 2★ review unreplied 3 days"
-updated: 2026-11-11
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); 2★ review unreplied 4 days"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor login dead since 11/9; the 11/10 and 11/11 scrapes returned 403. Last good read (11/2–11/8): $21,250/wk vs $30,000 target, 71%.
-- **2★ JP Trigo (11/8) still unreplied, 3 days, confirmed live 11/11.** Five new 5-stars on 11/10 pushed it to 11th. 17 of the newest 20 reviews are unreplied. Draft reply is in the 11/11 brief.
-- Ads Tue 11/10: Google $148.68 / 1 conv $119.77 (National $79.01, PMax-12 $34.31, Holiday Party & Groups $22.99, Local $12.37). Meta $210.34 / 3 purchases / $1,018.04 (Gator Collision $172.63 / 2, Retargeting $20.34 / 1 worth $838.39, Messenger $17.36). 7 days: Google National ROAS 5.6, Meta account $1,598 / 19 purchases / ROAS 2.54. Conversions are recording again; Monday's zero was not a tracking break.
-- GSC 11/3–11/9: 54 clicks vs 45 prior, up 20%. "nola party barge" pos 2.9, 8 clicks / 107 impr. IG: no post since 11/6.
+- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $21,250/wk vs $30,000 target, 71%.
+- **2★ JP Trigo (11/8) still unreplied, day 4, confirmed live 11/12.** All 20 of the newest reviews are unreplied (11 new 5★ since 11/9). Draft reply is in the 11/12 brief.
+- Ads Wed 11/11: Google ~$218 / 2 conv / $302.67 (Generic National $69.56 / 2 conv; PMax-12 $101.22 / 0; Holiday Party & Groups $40 / 0). Meta $225.06 / 0 purchases (Gator Collision $183.50 / 0). 7 days: Gator Collision $1,256 / 16 purchases / ROAS 2.18; Retargeting ROAS 7.8; Google account ROAS 3.39.
+- GSC 11/4–11/11: "nola party barge" 10 clicks / 114 impr, pos 3.2. IG: no post since 11/6 (6 days).
 <!-- live:end -->
 
 <!-- maps:start -->

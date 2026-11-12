@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-11
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,7 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.** GSC 11/3–11/9: 12 clicks vs 7; "plantation and swamp tour new orleans" 2 clicks / 17 impr, pos 1.5; "new orleans plantation tours" pos 3.1. IG silent since 9/28, 43 days, confirmed live 11/11. GBP 0 unreplied.
+- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.**
+- GSC 11/4–11/11: "plantation and swamp tour new orleans" pos 1.5, "new orleans plantation tours" pos 2.7. IG silent since 9/29, confirmed live 11/12. GBP 0 unreplied; the location's reviews describe swamp kayak tours, so the listing mapping may be wrong (unverified).
 <!-- live:end -->
 
 <!-- maps:start -->

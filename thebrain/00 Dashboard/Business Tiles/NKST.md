@@ -5,10 +5,10 @@ city: New Orleans
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 67
+ad_spend_yday: 72
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); generic Google search $350 / 0 conv since 11/6"
-updated: 2026-11-11
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); generic Google search $422 / 0 conv since 11/6"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,11 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $6,927/wk vs $4,000 target, 173%.
-- **Google Ads (Michael's lane), confirmed live 11/11:** the two generic search campaigns started 11/6 and have spent $349.52 with 0 conversions (Local $188.68, National $160.84). Tue 11/10: $67.02 / 0. Both enabled.
-- GBP: all 10 newest reviews unreplied, all 5★. One posted 11/10 is from an account named "Customer Support" praising Stephanie; check whose account that is before replying.
-- GSC 11/3–11/9: 151 clicks vs 120, up 26%. Brand term pos 13.5, up from 15.5 (4 clicks / 79 impr). Watched airboat page: 1 click / 62 impr vs 0 / 0 baseline, GA4 2 views, flat. GA4 Tue 11/10: 149 sessions (IG 38, Google 36, FB 35, direct 31, Reddit 5).
-- IG: 11/9 beads reel at 50 likes; 11/10 Spanish moss carousel at 7.
+- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $6,927/wk vs $4,000 target, 173%.
+- **Google Ads (Michael's lane), confirmed live 11/12:** the two generic search campaigns (Local, National) have spent $421.54 with 0 conversions since 11/6, both still enabled. Wed 11/11: $72.02.
+- **GA4 anomaly:** 58 conversions on Wed 11/11 vs a 12.6/day average on flat sessions (176); 18 on 1 duckduckgo session. Likely a misfiring event, not bookings.
+- 12 of the newest 20 Google reviews unreplied (newest 11/12); the 11/10 "Customer Support" 5★ needs an owner check first. GSC: "are there hippos in new orleans" 420 impr, 2 clicks, pos 8.2 (answer-box opportunity). Watched page /airboat-vs-kayak: 2 clicks / 59 impr vs 0 baseline, GA4 views flat at 3.
 <!-- live:end -->
 
 <!-- maps:start -->

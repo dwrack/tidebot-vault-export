@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-11
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,7 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.** doorcountykayak.com GSC 11/3–11/9: 0 clicks vs 2, 241 impr. The 11/9 Search Console alert (new 404 and blocked-4xx pages) had not been looked at as of 11/10; not re-checked 11/11. Newest GBP review still 2023, 0 unreplied.
+- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.**
+- doorcountykayak.com GSC 11/4–11/11: no clicks, 1 impression on each listed query. The 11/9 Search Console alert (new 404 and blocked-4xx pages) still not looked at. Newest GBP review still 2023, 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

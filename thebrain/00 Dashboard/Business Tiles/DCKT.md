@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2)"
-updated: 2026-11-11
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3)"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,9 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $275/wk vs $7,000 target, 4% (season closed).
-- Ads: $0 on Google and no Meta delivery for 7 days (11/4–11/10), confirmed live 11/11. Season closed. GSC 11/3–11/9: 74 clicks vs 90, down 18%, off-season drift; "door county kayak tours" pos 2.2.
-- IG: no post since 11/5. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $275/wk vs $7,000 target, 4% (season closed).
+- Ads: $0 on Google, no Meta delivery in 7 days, confirmed live 11/12. Season closed. GSC 11/4–11/11: "door county kayak tours" 6 clicks pos 2.2; "sauna door county" 3 clicks pos 3.9. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

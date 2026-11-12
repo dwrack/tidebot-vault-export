@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 90
+ad_spend_yday: 49
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2); Houston Meta $406 / 7d at 0 purchases"
-updated: 2026-11-11
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); Houston Meta $426 / 7d at 0 purchases"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,10 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $1,137/wk vs $4,500 target, 25%.
-- **Meta, confirmed live 11/11:** Houston account $406.33 in 7 days, zero purchases. Tue 11/10: Initiate Checkout $34.78, Bat Bridge Traffic $20.08, Retargeting $5.28, all 0 purchases. The pause is waiting on Michael's read.
-- Google Tue 11/10: $30.09 / 0 conv. 7 days: PMax $104.67 / 1 conv, generic search $45.93 / 1 conv, brand search $13.85 / 0.
-- GBP: 3 unreplied 5-stars (cai, Borman, Arefeen 11/3). IG: 11/10 bat bridge reel, 4 likes.
+- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $1,137/wk vs $4,500 target, 25%.
+- **Meta, confirmed live 11/12:** Houston account $426.22 in 7 days, zero purchases. Wed 11/11: $59.18 (Awareness Sales IC $25.10, Bat Bridge Traffic $18.36, Followers Reboost $9.90, Retargeting $5.82). Pause is waiting on Michael's read, about $60/day.
+- Texas-umbrella Google: about $18 Wed not split by campaign. GBP: 3 unreplied 5★ (all 11/3). IG: last post 11/10.
 <!-- live:end -->
 
 <!-- maps:start -->

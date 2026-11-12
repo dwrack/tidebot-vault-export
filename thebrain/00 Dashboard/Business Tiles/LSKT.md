@@ -5,10 +5,10 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 20
+ad_spend_yday: 37
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 2)"
-updated: 2026-11-11
+alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3)"
+updated: 2026-11-12
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape failed 11/10 and 11/11. Last good read (11/2–11/8): $872/wk vs $5,500 target, 16%.
-- Google (Texas umbrella) Tue 11/10: Lone Star PMax $20.12 / 0 conv. 7 days: $253.33 / 3 conv / $445.58, ROAS 1.8. Meta account: no delivery in 7 days.
-- GSC 11/3–11/9: 16 clicks vs 24, down 33% on flat impressions (3,246 vs 3,326). Small base; bat season ending is the likely cause, not checked. GBP 0 unreplied.
+- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $872/wk vs $5,500 target, 16%.
+- Google (Texas umbrella) Wed 11/11: Lone Star PMax Local $37.35 / 0 conv. Account 7 days: $536.33 / 7 conv / ROAS 1.77. Meta account 638850950128825: no active campaigns, no delivery. GSC: "austin bachelorette" 9 impr at pos 11.8.
+- GBP location shows no review since 2024-07-23 and its reviews read as AKT bat tours: mapping may be wrong (unverified).
 <!-- live:end -->
 
 <!-- maps:start -->
