@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-12 20:10 | 5 new messages moved 1 threads: T0170
 - 2026-11-12 18:10 | David ticked T0148 Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning
 - 2026-11-12 18:10 | David commented on T0148
 - 2026-11-12 18:10 | David ticked T0154 Move all domains to Cloudflare as they renew

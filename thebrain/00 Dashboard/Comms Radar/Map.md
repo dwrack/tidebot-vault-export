@@ -1,12 +1,12 @@
 # Comms Radar Map
 
-Updated 2026-11-12 18:10.
+Updated 2026-11-12 20:10.
 
 | Business | Open | Needs you | Waiting | Due in 7 days | Last touched |
 |---|---|---|---|---|---|
 | NKST | 56 | 7 | 6 | 12 | 2026-11-12 |
 | NPB | 37 | 2 | 6 | 6 | 2026-11-12 |
-| (none) | 21 | 6 | 5 | 3 | 2026-11-12 |
+| (none) | 22 | 7 | 5 | 4 | 2026-11-12 |
 | HPB | 16 | 0 | 0 | 2 | 2026-11-11 |
 | AKT | 15 | 0 | 0 | 5 | 2026-11-12 |
 | NOLA Bike Bar | 12 | 2 | 2 | 1 | 2026-11-11 |

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,6 +15,8 @@ _nothing_
 
 ## Needs you
 
+- [ ] JTK Law proposed deal points, MSJ and declaration drafts, update due Monday #due:2026-11-16 #id:T0170
+  → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
   → David send his local agent the Apres Assets details so that agent can quote; Michael has already sent follow-ups to the 6 agents he contacted, asking for a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@, Text with Michael Fischer; touched 2026-11-12)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
