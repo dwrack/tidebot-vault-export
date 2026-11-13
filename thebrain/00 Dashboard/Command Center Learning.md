@@ -7,6 +7,7 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: fixit: 2
 - feedback: note: 2
 - fix_approved: 8
+- fix_ignored: 2
 - skill later: 1
 - skill run: 3
 - skill skip: 1
@@ -30,3 +31,5 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-12 15:56 | feedback | Needs you: NPB: Voucher request after incident on tiki (angry customer) | note
 - 2026-11-12 15:57 | feedback | Needs you: TideBot written log processing down, Gemini prepayment credits depleted | fixit
 - 2026-11-12 15:58 | skill | carousel | run
+- 2026-11-13 01:05 | fix_ignored | loop:com.admirenola.medium-importer | Switch importer to Chrome bridge, no Apple Events
+- 2026-11-13 01:05 | fix_ignored | loop:com.nolapartybarge.winback-ses | Audit the h02 complaint list
