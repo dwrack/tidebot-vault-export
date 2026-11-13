@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Add the Grab Text shortcut on your iPhone (copy text or open links from Instagram and Reddit comments). In the Files app: iCloud Drive > Obsidian > TheBrain > 07 Reference > iPhone Shortcuts > tap Grab Text, then Add Shortcut. Then Settings > Accessibility > Touch > Back Tap > Double Tap > Grab Text. Untested on a phone, tell Claude if a step errors | DJL | default: no shortcut, keep using screenshot + Live Text
 - Jonah owes 13 site measurements for the V2 exterior plan (posts to south edge, roof overhangs, glass to south edge, utility entry points). DM sent 2026-11-12. When they land, say 'update the plan' and the sheet regenerates | E&E | default: plan stays with placeholder posts and a guessed 114 in front deck
 - Gift card page says Private Sauna Gift Card is 'one weekday private, up to 10 guests, $449'; Party Booking is now up to 12 at $350/$500. Confirm or give the right wording | E&E | default: page keeps the old line
 - Memberships table now says 12-month guest passes are '2 a month' (was '24 up front') to match the approved Prices page. Say if 24 up front is right | E&E | default: stays 2 a month
