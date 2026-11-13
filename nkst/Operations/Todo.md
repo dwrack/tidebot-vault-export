@@ -7,6 +7,9 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 
 ## High Priority
+- [ ] **FareHarbor vs trip-log check: approve the daily build.** Look-back and plan in [[FareHarbor vs Guide Log Check — Look-back Oct 1 to Nov 12 2026]]. _(David, 2026-11-12)_
+- [ ] Clear the look-back leftovers in FareHarbor: $270 unpaid (Oct 26), $210 overpaid (Oct 23), 13 unmarked no-shows on 8 tours, 2 no-guide tours, Nov 12 9am group with 0 waivers on file. List in [[FareHarbor vs Guide Log Check — Look-back Oct 1 to Nov 12 2026]]. (Jeff)
+- [ ] Train Abbie and Chelsea on FareHarbor check-in and waiver check from the phone. (Jeff)
 - [ ] **Airbnb listing: upload license + insurance by Mon Nov 16 or it pauses.** Listing "Paddle Through New Orleans' Beautiful Wetlands" (ID 6961035, host Jeffrey). Airbnb's Nov 1 email says documents go to Evident. Last bookings May 23 to 24, 2026 (2 bookings). _(David, 2026-11-05; status from Gmail, Airbnb dashboard not checked)_
 - [ ] **Airbnb to FareHarbor connection: tell FareHarbor to resume.** FH paused the API setup June 12 waiting on us (ticket 5653414). Until it's connected, Airbnb bookings don't block FH seats and don't show as an OTA in reports. _(David, 2026-11-05)_
 - [ ] [Guide log] Address the low tire pressure on the white Ford van and investigate the inaccessible pressure valve for repair. _(River B. (written log), 2026-10-24)_
