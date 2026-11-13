@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -21,14 +21,6 @@ _nothing_
   → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
-- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
-  → David lift his soft credit lock so the lender can run a credit pull and move the funding forward, and still send no bank statements, driver's license or voided check until he knows who he is dealing with. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-06)
-  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
-  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
-- [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
-  → David tell Michael whether he can do three days or two so Michael books Monday to Thursday, and book his own ticket to NOLA with Chase points. (David; Text with Michael Fischer; touched 2026-11-06)
-  > David: i need to use chase points to purchase that ticket
-  > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
 - [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
@@ -57,11 +49,19 @@ _nothing_
   → David or Claude generate new Apify tokens for each brand account, update the local token files and user-scope Apify MCPs, then restart any scraper or job still using an old token. (David; Gmail davey@, Gmail nolakayaktours@, Gmail doorcountyzip@, Gmail nolapedalbarge@; touched 2026-11-12)
 - [ ] Michael asks which seats to order on Amazon #id:T0160
   → David tell Michael which seats to order on Amazon. (David; Text with Michael Fischer; touched 2026-11-12)
+- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
+  → David lift his soft credit lock so the lender can run a credit pull and move the funding forward, and still send no bank statements, driver's license or voided check until he knows who he is dealing with. (David; Gmail doorcountykayaking@; touched 2026-11-13)
+  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
+  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+- [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
+  → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; David's own PDX to MSY flight on Nov 16 is now confirmed. (David; Gmail dwrack81@; touched 2026-11-13)
+  > David: i need to use chase points to purchase that ticket
+  > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 
 ## Waiting on someone
 
 - [ ] NPB content push #NPB #waiting #due:2026-10-31 #id:T0008
-  → Deckhands post content from each trip; Davey asked again for content. (NPB deckhands; Slack #nola-party-barge; touched 2026-11-06)
+  → Kelly post content from today's trips; Davey asked again today. (Kelly; Slack #nola-party-barge; touched 2026-11-13)
 - [ ] Update address to 2105 Paris Road everywhere #waiting #due:2026-11-04 #id:T0059
   → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts tomorrow (Nov 4), per David's ask. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-03)
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
@@ -71,7 +71,7 @@ _nothing_
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
-  → Shelley Zahn quotes Apres Assets now that Michael sent the Scottsdale loss runs for both terms, which show zero claims; Michael noted there are only two years of history. (Shelley B. Zahn; Gmail doorcountyzip@; touched 2026-11-13)
+  → Wait for Shelley Zahn's Apres Assets GL renewal quote; she acknowledged the latest info with a thanks on Nov 13. (Shelley B. Zahn; Gmail doorcountyzip@; touched 2026-11-13)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
@@ -104,6 +104,8 @@ _nothing_
   → Wait for Max McCuddy to send the updated ACORD 126 agreement for Elevated Tides Experience, then sign it. (Max McCuddy; Gmail davey@; touched 2026-11-11)
 - [ ] Sergei gas line across the deck and tile work, no date or reply yet #waiting #id:T0174
   → Sergei reply with a start date on the gas line, now planned as one straight shot across the deck; Jonah asks Grant about the grout size, and David leans 1/16 inch. (Sergei; Text with Jonah Moses; touched 2026-11-13)
+- [ ] Insurance premium audit portal access code not arriving, policy BR20250485 #waiting #id:T0176
+  → Jonah request the access code and call the OSI audit hotline right away, since codes expire in 60 minutes; check spam and try an alternate email. (Jonah Moses; Gmail davey@; touched 2026-11-13)
 
 ## Open
 
@@ -143,6 +145,8 @@ _nothing_
   → NKST staff reply to Janet Walker today on whether a dry bag is provided before her afternoon tour. (NKST staff; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] NKST waiver indemnification changes requested by Freddie Skarbek, Manchac tour Nov 12 #NKST #due:2026-11-12 #id:T0166
   → NKST manager reply to Freddie Skarbek on whether the email exchange counts as part of his waiver, and decide whether to accept his limit that he only indemnifies GT for his own acts, before his 2:00 pm tour today. (NKST manager; Gmail nolakayaktours@; touched 2026-11-12)
+- [ ] NPB private party cruise inquiry, Nov 14, 12-15 people, 2pm #NPB #due:2026-11-14 #id:T0079
+  → NPB team reply to Sam Boscoe before tomorrow's 2pm Party Queen cruise (Bayou Boogie is booked, $350 deposit) on whether NPB offers pickup and drop-off, or recommend a transport company. (Jeffrey Chitek; Gmail nolapedalbarge@; touched 2026-11-13)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
@@ -199,9 +203,6 @@ _nothing_
   → David decide whether to buy a Garmin dash cam and check whether Vault clips can auto-download to iCloud daily, which is unverified. (David; Gmail doorcountyzip@; touched 2026-11-03)
 - [ ] NKST black transit van wipers and washer fluid not working #NKST #id:T0061
   → NKST manager get the black transit's washer fluid dispenser fixed and the driver's side wiper blades replaced. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-03)
-- [x] Marina insurance agent asks for vessel liability details #id:T0058
-  → David or whoever owns the boats answer Jamie Clark on whether they want liability on the vessels and send year, make, model, registration, hull info, motors, captain details, crew and passenger counts and values; verify the new payment site link with the agency before paying through it. (David; Gmail doorcountyzip@; touched 2026-11-04)
-  > Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
 - [ ] Boat Rentals Houston follow-up asking for an offer #HPB #id:T0064
   → HPB manager decide whether to answer Brendon Ford's request for a best offer on Boat Rentals Houston or ignore it. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-04)
 - [ ] GetYourGuide 1-2 star review, Houston Sunset Skyline Kayak Tour #AKT #LSKT #id:T0067
@@ -214,8 +215,6 @@ _nothing_
   → Jeffrey finishes the revised deckhand job description (entertainers and salespeople, commission and tips on upsells, camera-comfortable) and makes a promo video for the party pontune; David and Jeffrey keep tracking projects in the dashboard. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-04)
 - [ ] Loyola University asks for updated COI, last one expired 6/7/22 #NKST #id:T0073
   → NKST manager request an updated certificate of insurance from the insurance agent and send it to David Young at Loyola Financial Affairs. (NKST manager; Gmail nolakayaktours@; touched 2026-11-04)
-- [ ] NPB private party cruise inquiry, Nov 14, 12-15 people, 2pm #NPB #id:T0079
-  → NPB team reply to Sam Boscoe with Nov 14 2pm availability and how to book a private cruise for 12-15 people, since he is ready to book today. (NPB team; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Sasha Killion asks for transportation from Royal Sonesta for 17, Freaky Tiki Apr 16 2027 #NPB #id:T0080
   → NPB team reply to Sasha Killion with a transportation recommendation from the Royal Sonesta for 17 people for booking 366075171 on Apr 16, 2027. (NPB team; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Apply for Elevated Tides trademark #id:T0084
@@ -348,6 +347,8 @@ _nothing_
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-13)
 - [ ] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NKST; spend or public posts come back for a final go. (David; Slack #the-helm; touched 2026-11-13)
+- [ ] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0175
+  → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
 
 ## Backburner (LSKT)
 
@@ -369,6 +370,9 @@ _nothing_
 - [x] NKST crew PayPal payments sent Nov 2 #NKST #done:2026-11-02 #id:T0042
 - [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031
 - [x] Michael asks if the $6 seat discount code has landed #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-03 #id:T0049
+- [x] Marina insurance agent asks for vessel liability details #done:2026-11-13 #id:T0058
+  > David: Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
+  > Radar: Marked resolved. Michael answered the slip liability question and sent loss runs, and the quote work continues under the Apres Assets thread. The separate worry about dock and gas station coverage now has its own thread.
 - [x] Certified Travel Media New Orleans brochure distribution offer #NPB #done:2026-11-04 #id:T0068
 - [x] Pool Spa Patio Expo in NOLA, David going today #waiting #done:2026-11-04 #id:T0072
 - [x] Viator refund processed, NKST Manchac Extended Oct 18, Daria Gerasimova #NKST #done:2026-11-04 #id:T0077

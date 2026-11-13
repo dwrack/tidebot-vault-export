@@ -169,3 +169,5 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 - [ ] Same-day seat pushes Fri/Sat 9am
 
 - [ ] 2026-11-13 Jeff to push new website code to NolaPartyBarge/newwebsite (repo empty); then review
+
+- [ ] 2026-11-13 Get Jeff to double-click the Jeff Today installer (Operations/Jeff Dashboard/) and use the page daily. See [[Jeff Dashboard/README]]

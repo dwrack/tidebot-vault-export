@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-14 due | Send Jeff the Jeff Today page (npb-dash-zoonn3.pages.dev/jeff/) and have him double-click the installer in Operations/Jeff Dashboard so it opens every morning; then decide if Claude should act on his answers automatically or wait for you | NPB | default: page sits unused like the old artifact
 - 2026-11-13 | Jeff to push the new website code: github.com/NolaPartyBarge/newwebsite is empty (no commits/branches), needs `git push -u origin main`; then I review it | NPB | default: site stays unreviewed
 - Approve the 1st-of-month rent reminder wording (Dominic flagged; built, switched OFF): "Hey Dominic, November rent for Room #3 is due today, $300. Venmo to @davidrack or Zelle to dwrack81@gmail.com works. Thanks!" Reply ok and I switch it on for Dec 1, then add Karl and the rest | Cave Point Place | default: no reminder texts go out, checker still chases on the 12th
 - 2026-11-13 | Post the reply to the new 3★ Google review from Jeanette Quirk (prep, route, late start); draft is in the 11/13 Daily Briefing | NKST | default: stays unreplied

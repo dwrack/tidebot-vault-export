@@ -2,6 +2,9 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-13 12:10 | David ticked T0058 Marina insurance agent asks for vessel liability details
+- 2026-11-13 12:10 | David commented on T0058
+- 2026-11-13 12:10 | 34 new messages moved 7 threads: T0079, T0175, T0060, T0008, T0043, T0011, T0176
 - 2026-11-13 10:10 | 31 new messages moved 3 threads: T0095, T0060, T0174
 - 2026-11-13 08:10 | 6 new messages moved 2 threads: T0060, T0173
 - 2026-11-13 06:10 | David ticked T0139 NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired
