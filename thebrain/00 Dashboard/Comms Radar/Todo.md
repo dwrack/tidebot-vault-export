@@ -15,7 +15,7 @@ _nothing_
 
 ## Needs you
 
-- [ ] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #id:T0161
+- [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #id:T0161
   → David decide whether NKST will change the waiver's indemnification bullets as Freddie asks (carve out acts that follow GT's instructions); then the NKST manager reply to Freddie before his Manchac Swamp Wildlife Kayak Tour at 2:00 pm today. (David; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
   → David send his local agent the Apres Assets details so that agent can quote; Michael has already sent follow-ups to the 6 agents he contacted, asking for a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@, Text with Michael Fischer; touched 2026-11-12)
@@ -52,6 +52,7 @@ _nothing_
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
 - [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
   → David top up the Google AI Studio prepay credits so TideBot can process written logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-10)
+  > fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.
 - [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
   → David go through the open Slack items Jonah flagged, including the anti-slip step options, and connect with Alex. (David; Text with Jonah Moses; touched 2026-11-11)
 - [ ] Apify rotated all API tokens after security incident #NPB #NKST #DCKT #id:T0155

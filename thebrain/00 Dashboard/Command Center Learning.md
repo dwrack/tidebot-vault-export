@@ -4,11 +4,11 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 
 ## Patterns
 
-- feedback: fixit: 1
-- feedback: note: 1
+- feedback: fixit: 2
+- feedback: note: 2
 - fix_approved: 8
 - skill later: 1
-- skill run: 2
+- skill run: 3
 - skill skip: 1
 
 ## Most recent taps (newest last)
@@ -27,3 +27,6 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-10 19:35 | fix_approved | brand:DCKT | Draft 3 DCKT Facebook posts
 - 2026-11-10 19:35 | fix_approved | alert:f328fc84 | Re-run the dashboard collector for FH data
 - 2026-11-10 19:39 | feedback | brand:ADM | fixit
+- 2026-11-12 15:56 | feedback | Needs you: NPB: Voucher request after incident on tiki (angry customer) | note
+- 2026-11-12 15:57 | feedback | Needs you: TideBot written log processing down, Gemini prepayment credits depleted | fixit
+- 2026-11-12 15:58 | skill | carousel | run
