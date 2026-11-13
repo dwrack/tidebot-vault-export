@@ -10,6 +10,10 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-13 | Post the reply to the new 3★ Google review from Jeanette Quirk (prep, route, late start); draft is in the 11/13 Daily Briefing | NKST | default: stays unreplied
+- 2026-11-13 | Ask Michael who turned the GA4 event lp_micros___3__pages into a conversion on 11/10 (57 and 86 fake conversions on 11/11 and 11/12) and confirm it is not feeding Google Ads bidding; same note: generic kayak-swamp search is $499 / 0 conv since 11/6 | NKST | default: GA4 conversions stay inflated, search keeps spending about $75/day
+- 2026-11-13 | TikTok browser on mbp-2 is logged in to a Door County account, not @houstonpedalbarge; switch the account so the brief can read HPB numbers | HPB | default: no HPB TikTok numbers in the brief
+- Say go and Claude checks the NPB newsjack job on the always-on Mac: it skipped Nov 12 entirely (no run folder, no log line) and the two Google News feeds (tourism, bachelorette/party boat) returned nothing on Nov 13 | NPB | default: the monitor keeps running on local TV and CityBusiness feeds only, so on-beat stories get missed
 - Approve the 3 waiver messages to Michelle, Emily and Abbie (TideBot group DMs with you in them; drafts in chat 2026-11-12) and the pinned trip-log template change to 'Waivers: __ signed / __ guests' | NKST | default: guides keep answering 'yes' from the booking, not the headcount
 - NKST FareHarbor vs trip-log check: look-back is done (Oct 1 to Nov 12). Say go and Claude builds the daily version on the always-on Mac: guide gets one thread reply when check-in, waivers or headcount are off, Jeff gets refunds and money in #helm-nkst, Friday scorecard to you and Michael | NKST | default: nothing runs, Stephanie keeps finding it by hand
 - Paste the Jeanette Quirk answer into the Stephanie thread: she was on Abbie's Nov 6 2pm tour, second guest on Ray Valek's booking (draft in chat 2026-11-12) | NKST | default: team keeps treating it as a wrong-company review

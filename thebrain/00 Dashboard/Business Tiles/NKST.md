@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 30
 lead_time_days: 0
-ad_spend_yday: 72
+ad_spend_yday: 78
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); generic Google search $422 / 0 conv since 11/6"
-updated: 2026-11-12
+alert: "new 3★ review unreplied; generic Google search $499 / 0 conv since 11/6; Thursday booked 1 trip"
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $6,927/wk vs $4,000 target, 173%.
-- **Google Ads (Michael's lane), confirmed live 11/12:** the two generic search campaigns (Local, National) have spent $421.54 with 0 conversions since 11/6, both still enabled. Wed 11/11: $72.02.
-- **GA4 anomaly:** 58 conversions on Wed 11/11 vs a 12.6/day average on flat sessions (176); 18 on 1 duckduckgo session. Likely a misfiring event, not bookings.
-- 12 of the newest 20 Google reviews unreplied (newest 11/12); the 11/10 "Customer Support" 5★ needs an owner check first. GSC: "are there hippos in new orleans" 420 impr, 2 clicks, pos 8.2 (answer-box opportunity). Watched page /airboat-vs-kayak: 2 clicks / 59 impr vs 0 baseline, GA4 views flat at 3.
+- **Goal pace: $6,320/wk booked vs $4,000 target — 158% of goal.** Down from $8,058 the prior 7 days, and Thursday 11/12 booked only 1 / $30 against 5.1 a day.
+- **New 3★ from Jeanette Quirk (11/13), unreplied, confirmed live:** thin paddler prep, guide unsure of route, late start. Draft reply is in the 11/13 brief. 2 unreplied in the newest 20 (was 12); the other is a 5★ for Michelle (Doug Bonham, 11/12).
+- **Google Ads (Michael's lane), confirmed live 11/13:** the two generic kayak-swamp search campaigns have spent $499.21 with 0 conversions since 11/6 (Local $267.72, National $231.49), both still enabled. Thu 11/12: $77.67.
+- **GA4 conversions are inflated:** `lp_micros___3__pages` began counting as a conversion 11/10 (2, then 57, then 86 a day). Thursday's 87 "conversions" include 1 real purchase.
+- GSC 11/5–11/10: 139 clicks, up 36% per day; "are there hippos in new orleans" 384 impr, 2 clicks, pos 8.3; brand term at pos 19.2. Watched page /airboat-vs-kayak: 2 clicks / 45 impr vs 0 baseline, GA4 views flat at 3. IG: reels 11/11 (36 likes) and 11/12 (9 likes).
 <!-- live:end -->
 
 <!-- maps:start -->

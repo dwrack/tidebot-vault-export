@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 9
+revenue_today: 2771
 lead_time_days: 0
-ad_spend_yday: 443
+ad_spend_yday: 439
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); 2★ review unreplied 4 days"
-updated: 2026-11-12
+alert: "2★ review (JP Trigo, 11/8) unreplied 5 days; pace 69% of goal"
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $21,250/wk vs $30,000 target, 71%.
-- **2★ JP Trigo (11/8) still unreplied, day 4, confirmed live 11/12.** All 20 of the newest reviews are unreplied (11 new 5★ since 11/9). Draft reply is in the 11/12 brief.
-- Ads Wed 11/11: Google ~$218 / 2 conv / $302.67 (Generic National $69.56 / 2 conv; PMax-12 $101.22 / 0; Holiday Party & Groups $40 / 0). Meta $225.06 / 0 purchases (Gator Collision $183.50 / 0). 7 days: Gator Collision $1,256 / 16 purchases / ROAS 2.18; Retargeting ROAS 7.8; Google account ROAS 3.39.
-- GSC 11/4–11/11: "nola party barge" 10 clicks / 114 impr, pos 3.2. IG: no post since 11/6 (6 days).
+- **Goal pace: $20,565/wk booked vs $30,000 target — 69% of goal.** Up from $18,753 the prior 7 days; Thursday 11/12 booked 9 / $2,771.
+- **2★ JP Trigo (11/8) still unreplied, day 5, confirmed live 11/13.** The rest of the backlog was answered: 3 unreplied in the newest 20 (was 20), the other two are new 5★ (Alyson Bertke 11/13, Kayla Colter 11/12). Draft reply is in the 11/13 brief.
+- Ads Thu 11/12: Google $196.36 / 2 conv / $239.54 (Generic National $78.96 / 1; Local $14.11 / 1; PMax-12 $63.30 / 0; Holiday Party & Groups $39.99 / 0). Meta $242.38 / 1 purchase (Gator Collision $201.14 / 0; Retargeting $23.06 / 1 / $239.54). 7 days: Generic National ROAS 6.3, PMax-12 ROAS 9.6, Gator Collision $1,292 / 15 purchases / ROAS 2.07, Holiday Party & Groups $148.57 / 0 conv.
+- GSC 11/5–11/10: "nola party barge" 7 clicks / 96 impr, pos 3.2; site clicks flat per day. IG: no post since 11/6 (7 days).
 <!-- live:end -->
 
 <!-- maps:start -->

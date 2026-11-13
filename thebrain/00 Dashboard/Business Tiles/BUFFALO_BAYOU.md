@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 81
 lead_time_days: 0
-ad_spend_yday: 49
+ad_spend_yday: 41
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); Houston Meta $426 / 7d at 0 purchases"
-updated: 2026-11-12
+alert: "Houston Meta $418 / 7d at 0 purchases; booked revenue $849/wk vs $2,443 prior week"
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $1,137/wk vs $4,500 target, 25%.
-- **Meta, confirmed live 11/12:** Houston account $426.22 in 7 days, zero purchases. Wed 11/11: $59.18 (Awareness Sales IC $25.10, Bat Bridge Traffic $18.36, Followers Reboost $9.90, Retargeting $5.82). Pause is waiting on Michael's read, about $60/day.
-- Texas-umbrella Google: about $18 Wed not split by campaign. GBP: 3 unreplied 5★ (all 11/3). IG: last post 11/10.
+- **Goal pace: $849/wk booked vs $4,500 target — 19% of goal.** Down from $2,443 the prior 7 days.
+- **Meta, confirmed live 11/13:** Houston account $417.55 in 7 days, zero purchases. Thu 11/12 dropped to $36.02 (Awareness Sales IC $12.09, Bat Bridge Traffic $13.65, Retargeting $5.61, Followers Reboost $4.67). Pause still waiting on Michael's read.
+- Google (Texas umbrella) Thu 11/12: Buffalo Bayou PMax $5.58 / 2 conv / $140.73; Brand $0.98; Generic Local $2.89. 7 days: PMax $97.35 / 3 conv / $260. GBP: 0 unreplied (was 3). IG: last post 11/10.
 <!-- live:end -->
 
 <!-- maps:start -->

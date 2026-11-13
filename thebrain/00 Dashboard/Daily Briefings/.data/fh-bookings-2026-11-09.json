@@ -1,18 +1,54 @@
 {
   "_meta": {
-    "generated_at": "2026-11-10T12:19:37.803Z",
+    "generated_at": "2026-11-13T13:24:15.880Z",
     "for_date": "2026-11-09",
     "range": "last-7-days",
     "timezone": "America/Chicago",
     "revenue_field": "costs.total_cost.total"
   },
-  "results": {},
-  "errors": {
-    "buffalobayoukayak": "Error: POST buffalobayoukayak/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ",
-    "doorcountykayaktours": "Error: POST doorcountykayaktours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██",
-    "houstonpedalbarge": "Error: POST houstonpedalbarge/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ",
-    "lonestarkayaktours": "Error: POST lonestarkayaktours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██║ ",
-    "neworleanskayakswamptours": "Error: POST neworleanskayakswamptours/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔══",
-    "neworleanspedalbarge": "Error: POST neworleanspedalbarge/booking-original -> 403: \n\n\n\n\n<!DOCTYPE html>\n<!--\n\n███████╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██████╗\n██╔════╝██╔══██╗██╔══██╗██╔════╝██"
-  }
+  "results": {
+    "buffalobayoukayak": {
+      "booked_count": 1,
+      "booked_revenue": 65,
+      "ran_count": 0,
+      "ran_revenue": 0,
+      "sms_refs": {}
+    },
+    "doorcountykayaktours": {
+      "booked_count": 0,
+      "booked_revenue": 0,
+      "ran_count": 1,
+      "ran_revenue": 148,
+      "sms_refs": {}
+    },
+    "houstonpedalbarge": {
+      "booked_count": 0,
+      "booked_revenue": 0,
+      "ran_count": 0,
+      "ran_revenue": 0,
+      "sms_refs": {}
+    },
+    "lonestarkayaktours": {
+      "booked_count": 1,
+      "booked_revenue": 162,
+      "ran_count": 0,
+      "ran_revenue": 0,
+      "sms_refs": {}
+    },
+    "neworleanskayakswamptours": {
+      "booked_count": 2,
+      "booked_revenue": 375,
+      "ran_count": 12,
+      "ran_revenue": 2030,
+      "sms_refs": {}
+    },
+    "neworleanspedalbarge": {
+      "booked_count": 7,
+      "booked_revenue": 1252,
+      "ran_count": 0,
+      "ran_revenue": 0,
+      "sms_refs": {}
+    }
+  },
+  "errors": {}
 }

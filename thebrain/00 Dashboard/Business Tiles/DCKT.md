@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3)"
-updated: 2026-11-12
+status: green
+alert: null
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $275/wk vs $7,000 target, 4% (season closed).
-- Ads: $0 on Google, no Meta delivery in 7 days, confirmed live 11/12. Season closed. GSC 11/4–11/11: "door county kayak tours" 6 clicks pos 2.2; "sauna door county" 3 clicks pos 3.9. GBP 0 unreplied.
+- **Goal pace: $338/wk booked vs $7,000 target — 5% of goal.** Season closed; 2 bookings in 7 days (11/6 $148, 11/11 $190).
+- Ads: $0 on Google for 7 days, no Meta delivery, confirmed live 11/13. GSC 11/5–11/10: 67 clicks, down 7% per day; "door county kayak tours" pos 1.0; "sauna door county" 3 clicks pos 3.9. IG: two carousels 11/12 (fat tire e-bikes, kayaks stacked until May). GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

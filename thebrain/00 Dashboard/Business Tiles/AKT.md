@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-12
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal: front_door_for_lskt. No movement since 2026-08-28.**
-- IG: no post since 11/6, confirmed live 11/12. GBP: 1 unreplied 5★ (Miss K, bats, 11/2). No GSC site, no ad spend of its own.
+- IG: no post since 11/6 (7 days), confirmed live 11/13. GBP: 1 unreplied 5★ (Miss See, bats, 11/2), open 11 days. No GSC site, no ad spend of its own.
 <!-- live:end -->
 
 <!-- maps:start -->

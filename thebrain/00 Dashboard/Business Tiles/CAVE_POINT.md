@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-12
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: route_fix_by_oct_15
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: route_fix_by_oct_15. No movement since 2026-08-28; deadline passed 28 days ago.**
-- GSC 11/4–11/11: "what size kayak do i need" 3 clicks / 24 impr, pos 8.3. IG feed under this ID silent since 6/19/2025, confirmed live 11/12. GBP 0 unreplied.
+- **Goal: route_fix_by_oct_15. No movement since 2026-08-28; deadline passed 29 days ago.**
+- GSC 11/5–11/10: 18 clicks, flat per day; "what size kayak do i need" 3 clicks / 22 impr, pos 8.1. IG feed under this ID silent since 6/19/2025, confirmed live 11/13. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->

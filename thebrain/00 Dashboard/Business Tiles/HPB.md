@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 28
+ad_spend_yday: 18
 status: yellow
-alert: "data stale — FH scrape missing (FH login dead since 11/9, day 3); TikTok logged out day 5"
-updated: 2026-11-12
+alert: "no bookings since 11/7 ($181/wk); TikTok browser logged in to the wrong account"
+updated: 2026-11-13
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: unavailable this run.** FareHarbor scrape returned 403 again (11/12), so Mon 11/9 to Wed 11/11 are unknown. Last good read (11/2–11/8): $445/wk vs $4,000 target, 11%.
-- TikTok: logged out, day 5, confirmed live 11/12 (bounced to login). Needs the QR scan via Screen Sharing to mbp-2.
-- Ads Wed 11/11: Google "Search - Houston Pedal Barge" $17.60 / 0 conv; Meta Followers Reboost $9.90 (engagement only). IG: "11PM ride" reel 11/11, 13 likes. GBP 0 unreplied.
+- **Goal pace: $181/wk booked vs $4,000 target — 5% of goal.** Nothing booked since Sat 11/7.
+- TikTok: the browser session is live again but shows a Door County account, not @houstonpedalbarge (handle unverified, checked 11/13). No HPB numbers until the account is switched on mbp-2.
+- Ads Thu 11/12: Google "Search - Houston Pedal Barge" $13.33 / 0 conv ($103.38 / 0 over 7 days); Meta Followers Reboost $4.67 (engagement only). IG: "Save this before your boat day" carousel 11/12; "11PM ride" reel 15 likes. GBP 0 unreplied.
 <!-- live:end -->
 
 <!-- maps:start -->
