@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -147,9 +147,6 @@ _nothing_
   → David confirm whether he or staff booked the Nov 16 9am PST Calendly call with Mehmet Guzel; cancel it if not, since the invite came from an unknown sender and mentions only New Orleans Kayak Swamp Tours. (David; Gmail nolakayaktours@, Gmail dwrack81@; touched 2026-11-12)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
-- [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #id:T0148
-  → David reply to Alan with the Thursday marina party details and a time to meet Thursday evening or Friday morning. (David; Gmail dwrack81@; touched 2026-11-11)
-  > Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
@@ -326,9 +323,6 @@ _nothing_
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
 - [ ] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #id:T0153
   → David review All Fuel's estimate and clearance diagram, and decide between pre-made 60 or 72 inch round fire tables or custom tables with burners only; the 42 inch table is only for push start. (David; Gmail davey@; touched 2026-11-11)
-- [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0154
-  → David and Michael move each domain to Cloudflare as it comes up for renewal. (David; Text with Michael Fischer; touched 2026-11-11)
-  > Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-12)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
@@ -345,6 +339,8 @@ _nothing_
   → NKST manager get the white van's rear tire repaired or replaced; until then guides do not use any van with an air leak and check the tire sensor before driving the black van. (Michelle Healey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
 - [ ] Katy Taylor High School Choir raffle, gift certificate donation pickup #AKT #id:T0168
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
+- [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
+  → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
 
 ## Backburner (LSKT)
 
@@ -358,6 +354,9 @@ _nothing_
 - [x] AKT Riverside Lot parking permit statement $2,082.40 #AKT #due:2026-11-01 #done:2026-11-05 #id:T0002
 - [x] Soward v. TripAdvisor hearing date, reply needed #AKT #due:2026-11-03 #done:2026-11-05 #id:T0001
 - [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #done:2026-11-12 #id:T0161
+- [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
+  > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
+  > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
 - [x] LSKT soft demand flagged by TideBot #LSKT #done:2026-10-30 #id:T0009
 - [x] NPB ad return under 5x floor #NPB #done:2026-10-31 #id:T0017
 - [x] NKST crew PayPal payments sent Nov 2 #NKST #done:2026-11-02 #id:T0042
@@ -374,3 +373,6 @@ _nothing_
   > David: no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
   > Radar: Understood. Homebase payroll emails create no thread and I closed this one. They stay noise until W-2s in January. I can't auto-archive the emails from here, so that filter would need to be set in Gmail.
 - [x] NPB family reunion inquiry, up to 34 people, late November #NPB #done:2026-11-11 #id:T0050
+- [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-12 #id:T0154
+  > David: Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
+  > Radar: Noted, closed. Domains move to Cloudflare as each one renews.

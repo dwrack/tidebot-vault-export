@@ -2,6 +2,11 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-12 18:10 | David ticked T0148 Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning
+- 2026-11-12 18:10 | David commented on T0148
+- 2026-11-12 18:10 | David ticked T0154 Move all domains to Cloudflare as they renew
+- 2026-11-12 18:10 | David commented on T0154
+- 2026-11-12 18:10 | 5 new messages moved 1 threads: T0169
 - 2026-11-12 16:10 | David ticked T0161 NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm
 - 2026-11-12 16:10 | David commented on T0144
 - 2026-11-12 16:10 | 10 new messages moved 3 threads: T0144, T0088, T0034
