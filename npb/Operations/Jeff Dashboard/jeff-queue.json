@@ -8,9 +8,10 @@
       "title": "Nov 16 crew pay",
       "why": "Pay goes out the 1st and 16th. Right now you tally trips and tips by hand.",
       "due": "2026-11-15",
-      "plan": "I pull every trip Nov 1 to 15 from FareHarbor, match captain and deckhand per trip, add the 70/30 tip split, and hand you a pay sheet to check. You still hit send in PayPal.",
+      "plan": "I pull every trip Nov 1 to 15 from FareHarbor, match captain and deckhand per trip, add the 70/30 tip split, and send you the pay sheet. You still hit send in PayPal. I can also text each person their total so nobody has to ask you.",
       "options": [
-        "Yes, build the pay sheet",
+        "Build it + text crew their totals",
+        "Build the sheet only",
         "I've got this one",
         "Talk to me first"
       ],
@@ -23,10 +24,11 @@
       "title": "W-9s: confirm numbers and Kingston's last name",
       "why": "Links went to Sofia, Calvin, Kelly, Kingston and Charles on 11/12. Bob needs all 2026 1099 info before Jan 1.",
       "due": "2026-11-20",
-      "plan": "Type Kingston's last name and any phone fixes in the note. I watch DocuSeal, nudge whoever hasn't signed on 11/18 and send the signed PDFs to Bob.",
+      "plan": "Type Kingston's last name and any phone fixes in the note. I text a reminder with the signing link to whoever hasn't signed, again on 11/18, and email the signed PDFs to Bob.",
       "options": [
-        "Note has the fixes",
-        "All numbers are right",
+        "Text the reminders now",
+        "Remind them 11/18 only",
+        "All done already",
         "Someone is missing"
       ],
       "status": "open",
@@ -38,9 +40,10 @@
       "title": "Next week's crew schedule",
       "why": "Crew gets assigned by hand in FareHarbor, one day at a time.",
       "due": "2026-11-16",
-      "plan": "I draft next week from the FareHarbor departures plus who said they're available, flag any boat with no captain, and text each person their shifts once you OK it.",
+      "plan": "I draft next week from the FareHarbor departures plus who's available, flag any boat with no captain, then send each person their shifts and track who confirmed. Anyone silent after 24 hours gets a nudge and you get the list.",
       "options": [
-        "Draft it for me",
+        "Draft it, then text shifts after my OK",
+        "Draft it + post in Slack",
         "Already done",
         "Show me how first"
       ],
@@ -69,11 +72,13 @@
       "title": "Nov 19 crew party: post the crew invite",
       "why": "It's the test run for the corporate package. David and Michael are in town Nov 16 to 20.",
       "due": "2026-11-14",
-      "plan": "I write the crew invite (time, plus-one rule, what to bring) and you post it in Slack or the crew text. Tell me if anything changed from doors 4:15, boats 4:45.",
+      "plan": "I write the crew invite (time, plus-one rule, what to bring), send it the way you pick, then chase anyone who hasn't answered by Monday and give you the headcount.",
       "options": [
-        "Write the invite",
-        "Already posted",
-        "Plans changed (see note)"
+        "Send in Slack + text the crew",
+        "Slack only",
+        "Text the crew only",
+        "Show me the draft first",
+        "Already posted"
       ],
       "status": "open",
       "mins": 2
@@ -84,10 +89,11 @@
       "title": "Piety van: flat tire and missing keys",
       "why": "The white van at the NKST Piety lot needs a tire and nobody can find the keys.",
       "due": "2026-11-14",
-      "plan": "Pick one. I find a mobile tire shop that comes to the lot, or post it as a $100 paid gig for a guide with the company card.",
+      "plan": "Pick one and I make it happen: I call around and book a mobile tire shop to the lot, or I post the $100 gig to the guides and tell you who took it.",
       "options": [
-        "Find a mobile tire shop",
-        "Post the $100 guide gig",
+        "Book a mobile tire shop",
+        "Post the $100 gig in Slack",
+        "Text the gig to guides",
         "Already fixed"
       ],
       "ask": "Where are the keys likely to be?",
@@ -100,11 +106,12 @@
       "title": "NKST FareHarbor leftovers",
       "why": "$270 unpaid booking (Oct 26), $210 overpaid (Oct 23), 13 no-shows never marked, 2 tours with guests and no guide, Nov 12 9am group with 0 waivers.",
       "due": "2026-11-17",
-      "plan": "I can mark the no-shows and fill the missing guides if you give me the names. The money ones need your call: collect the $270, refund the $210.",
+      "plan": "I mark the no-shows and fill the missing guides if you give me the names. For the money: I email the $270 guest a pay link and refund the $210 once you say so. I also text Michelle about the Nov 12 waivers.",
       "options": [
-        "Do the no-shows and guides",
-        "I'll clean it up myself",
-        "Need the list again"
+        "Do all of it",
+        "No-shows and guides only",
+        "Text Michelle about waivers",
+        "I'll clean it up myself"
       ],
       "ask": "Did the Nov 12 9am group sign waivers on paper?",
       "status": "open",
@@ -116,12 +123,13 @@
       "title": "Oct 31 tiki complaint: voucher or not",
       "why": "Guest from the Oct 31 ride asked for a voucher. OpenCX handed it to you.",
       "due": "2026-11-15",
-      "plan": "Pick the answer and I draft the reply email for you to send from info@.",
+      "plan": "Pick the answer. I write the reply and email it to the guest from info@ once you tap, and create the voucher if that's the call.",
       "options": [
-        "Give a voucher",
-        "Partial refund",
-        "Already handled",
-        "Say no, politely"
+        "Voucher: email it to them",
+        "Partial refund: email them",
+        "Say no, politely: email them",
+        "Show me the draft first",
+        "Already handled"
       ],
       "status": "open",
       "mins": 2
@@ -161,11 +169,12 @@
       "title": "Clutch repair and a truck to pull boats",
       "why": "Clutch fix approved (about $750-800). Still need a truck: Eric Lenz or Kelly.",
       "due": "2026-11-16",
-      "plan": "Tell me where it stands. If you want, I'll line up two certified mechanics with quotes.",
+      "plan": "Tell me where it stands. I can call two certified mechanics for quotes, and text Eric Lenz and Kelly about the truck.",
       "options": [
         "Fixed",
-        "Booked, not done yet",
-        "Find me mechanics"
+        "Text Eric + Kelly about the truck",
+        "Get me 2 mechanic quotes",
+        "Booked, not done yet"
       ],
       "status": "open",
       "mins": 2
@@ -176,8 +185,9 @@
       "title": "Barbo's prices, $2,999 venue item, bottle service, Beatty's rate",
       "why": "The corporate add-ons section can't be priced without these.",
       "due": "2026-11-16",
-      "plan": "Paste whatever you have in the note, even rough. I build the add-ons page and flag what's still missing.",
+      "plan": "Paste what you have in the note, even rough. Or I email Barbo's and text Beatty for their rates myself and chase until they answer.",
       "options": [
+        "Email Barbo's + text Beatty for me",
         "Prices are in the note",
         "Still waiting on them"
       ],
@@ -190,9 +200,10 @@
       "title": "TIPS cards for all 23 crew",
       "why": "Insurance requires it. The Oct 9 deadline passed.",
       "due": "2026-11-20",
-      "plan": "I text each crew member who's missing, collect the card screenshots and mark the tracker. You only hear about the holdouts.",
+      "plan": "I text each crew member who's missing a card, collect the screenshots, mark the tracker, and re-text every 3 days. You get one list of holdouts each Friday.",
       "options": [
-        "Yes, chase them for me",
+        "Text everyone missing now",
+        "Post in Slack instead",
         "I'm on it"
       ],
       "status": "open",
@@ -204,10 +215,11 @@
       "title": "Sell the 2019 Ford Transit by Dec 1",
       "why": "It stays on the insurance (about $4.6k a year) until it's sold.",
       "due": "2026-11-24",
-      "plan": "Send me photos, mileage and 250 or 350. I write the listing and post it to Marketplace and Craigslist drafts for you.",
+      "plan": "Send me photos, mileage and 250 or 350. I write the listing and post it to Marketplace and Craigslist, then answer the first round of buyers.",
       "options": [
         "Photos are coming",
-        "Not yet, remind me Monday"
+        "Text Sofia to take the photos",
+        "Remind me Monday"
       ],
       "status": "open",
       "mins": 20
