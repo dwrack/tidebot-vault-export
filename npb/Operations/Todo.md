@@ -167,3 +167,5 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 - [ ] Creator videos as Meta partnership ads in the drive markets, budget from David
 - [ ] /partner-finder run for group organizers and travel agents
 - [ ] Same-day seat pushes Fri/Sat 9am
+
+- [ ] 2026-11-13 Jeff to push new website code to NolaPartyBarge/newwebsite (repo empty); then review

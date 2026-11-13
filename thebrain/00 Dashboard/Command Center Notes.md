@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-13 | Jeff to push the new website code: github.com/NolaPartyBarge/newwebsite is empty (no commits/branches), needs `git push -u origin main`; then I review it | NPB | default: site stays unreviewed
 - Approve the 1st-of-month rent reminder wording (Dominic flagged; built, switched OFF): "Hey Dominic, November rent for Room #3 is due today, $300. Venmo to @davidrack or Zelle to dwrack81@gmail.com works. Thanks!" Reply ok and I switch it on for Dec 1, then add Karl and the rest | Cave Point Place | default: no reminder texts go out, checker still chases on the 12th
 - 2026-11-13 | Post the reply to the new 3★ Google review from Jeanette Quirk (prep, route, late start); draft is in the 11/13 Daily Briefing | NKST | default: stays unreplied
 - 2026-11-13 | Ask Michael who turned the GA4 event lp_micros___3__pages into a conversion on 11/10 (57 and 86 fake conversions on 11/11 and 11/12) and confirm it is not feeding Google Ads bidding; same note: generic kayak-swamp search is $499 / 0 conv since 11/6 | NKST | default: GA4 conversions stay inflated, search keeps spending about $75/day
@@ -269,6 +270,9 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Add the Apify token for bigly's LM Studio: in Terminal on bigly run `security add-generic-password -s apify-mcp -a "$USER" -w` and paste it at the hidden prompt | DJL (bigly) | default: the local model has no scraping
 - In LM Studio on bigly, click Authenticate on Gmail, Google Calendar, Google Drive and Shopify (Program tab, mcp.json servers) | DJL (bigly) | default: the local model can't read those
 - [2026-11-19 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-10), charged $500 twice within 48 h (Nov 9 and Nov 10). Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-20 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-12), charged $500 twice within 48 h (Nov 11 and Nov 12). Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-20 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-11), charged $500 twice within 48 h (Nov 9 and Nov 11). Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-20 due |] Charge watch: $5,800 at Progressive on Chase D. RACK ...7386 (2026-11-11), $5,800 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
