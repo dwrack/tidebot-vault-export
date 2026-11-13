@@ -10,6 +10,12 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-13 | Try the new Today's skills card in the Command Center (pick businesses, add a note, tap Run, read the result on the card, then Done) and tell Claude if the layout or results are off | DJL | default: it keeps running as built
+- 2026-11-13 | Alex is waiting on us (davey): We may need door closers. Heat is killing the magnet and the auto hinge. OK to go that route? (since 2026-11-08T19:42) | E&E | default: they stall, then we chase them for the delay we caused [cw:owe:Alex:alex-door-closers-idea]
+- 2026-11-13 | Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58) Suggested: Not yet. Ask whether it covers permit and inspections and the current layout, and say we decide after Fri 11/14. | E&E | default: they stall, then we chase them for the delay we caused [cw:owe:Electricians:elec-community-does-number-work]
+- 2026-11-13 | Tilers is waiting on us (davey): Level Plane: awaiting your reply to the bid proposal. (since 2026-11-11T10:13) Suggested: If Eloy is the pick, send a short pass. Otherwise award and ask for a start date. | E&E | default: they stall, then we chase them for the delay we caused [cw:owe:Tilers:tile-levelplane-bid-reply]
+- 2026-11-13 | Confirm FareHarbor lets guests book a same-weekend-next-year date (NPB availability open that far out) before the past-guest email is drafted | NPB | default: past-guest email stays undrafted
+- 2026-11-13 | Text Sergey for a V2 gas start date and confirm the lounge fireplace line is inside the $6,300 you approved at 11:09 (your 12:41 text is unanswered; draft in the Contractor watch Slack DM). Also ask who pulls the gas permit and have him check the fittings Alex sealed himself | E&E | default: Grant stays blocked on the floor, permit stays unowned
 - 2026-11-17 due | In NOLA: sit at Jeff's Mac and check Jeff Today (Dock icon, opens at login, his Claude ran the sweep and can reach each inbox, IG, FB, OpenCX; a tapped answer shows up in Operations/Jeff Dashboard/Jeff Answers.md) | NPB | default: setup stays unverified
 - [x] DONE 2026-11-13 (sent in #helm-npb + email from info@) 2026-11-14 due | Send Jeff the Jeff Today page (npb-dash-zoonn3.pages.dev/jeff/) and have him double-click the installer in Operations/Jeff Dashboard so it opens every morning; then decide if Claude should act on his answers automatically or wait for you | NPB | default: page sits unused like the old artifact
 - 2026-11-13 | Jeff to push the new website code: github.com/NolaPartyBarge/newwebsite is empty (no commits/branches), needs `git push -u origin main`; then I review it | NPB | default: site stays unreviewed
@@ -358,3 +364,12 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-13 08:58 | Problem: HAT: Instagram down, Facebook 49d, Google Business 155d, YouTube 49d | [fix it]
 - 2026-11-13 08:58 | Problem: ADM: Instagram 45d, Google Business 628d | [fix it]
 - 2026-11-13 08:58 | Problem: CPPP: Instagram 511d, Facebook 404d | [fix it]
+- 2026-11-13 13:22 | Needs you: **TOP PRIORITY NPB 3 of 6:** Say "draft the NPB past-guest email" for a same-weekend-next-year note to past gu | [need more detail]
+- 2026-11-13 13:23 | Needs you: **TOP PRIORITY NPB 3 of 6:** Say "draft the NPB past-guest email" for a same-weekend-next-year note to past gu | [note] make sure we have fh booking ability that far out.
+- 2026-11-13 13:24 | Needs you: Anti-slip dock steps options, get Alex's feedback | [known, ignore]
+- 2026-11-13 13:24 | Needs you: Anti-slip dock steps options, get Alex's feedback | [known, ignore]
+- 2026-11-13 13:24 | Needs you: Anti-slip dock steps options, get Alex's feedback | [known, ignore]
+- 2026-11-13 13:25 | Needs you: JTK Law proposed deal points, MSJ and declaration drafts, update due Monday | [known, ignore]
+- 2026-11-13 13:25 | Needs you: JTK Law proposed deal points, MSJ and declaration drafts, update due Monday | [note] remove from “needs you"
+- 2026-11-13 13:25 | Needs you: TideBot written log processing down, Gemini prepaid credits depleted | [note] what do you need from me to fix this?
+- 2026-11-13 13:29 | Skill: system-map | [run] /system-map for all. David's note: test run, keep it very short

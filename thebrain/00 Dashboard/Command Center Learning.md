@@ -4,12 +4,14 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 
 ## Patterns
 
+- feedback: detail: 1
 - feedback: fixit: 6
-- feedback: note: 2
+- feedback: known: 4
+- feedback: note: 5
 - fix_approved: 8
 - fix_ignored: 2
 - skill later: 2
-- skill run: 6
+- skill run: 7
 - skill skip: 1
 
 ## Most recent taps (newest last)
@@ -41,3 +43,12 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-13 08:58 | feedback | brand:HAT | fixit
 - 2026-11-13 08:58 | feedback | brand:ADM | fixit
 - 2026-11-13 08:58 | feedback | brand:CPPP | fixit
+- 2026-11-13 13:22 | feedback | Needs you: **TOP PRIORITY NPB 3 of 6:** Say "draft the NPB past-guest email" for a same-weekend-next-year note to past gu | detail
+- 2026-11-13 13:23 | feedback | Needs you: **TOP PRIORITY NPB 3 of 6:** Say "draft the NPB past-guest email" for a same-weekend-next-year note to past gu | note
+- 2026-11-13 13:24 | feedback | Needs you: Anti-slip dock steps options, get Alex's feedback | known
+- 2026-11-13 13:24 | feedback | Needs you: Anti-slip dock steps options, get Alex's feedback | known
+- 2026-11-13 13:24 | feedback | Needs you: Anti-slip dock steps options, get Alex's feedback | known
+- 2026-11-13 13:25 | feedback | Needs you: JTK Law proposed deal points, MSJ and declaration drafts, update due Monday | known
+- 2026-11-13 13:25 | feedback | Needs you: JTK Law proposed deal points, MSJ and declaration drafts, update due Monday | note
+- 2026-11-13 13:25 | feedback | Needs you: TideBot written log processing down, Gemini prepaid credits depleted | note
+- 2026-11-13 13:29 | skill | system-map | run

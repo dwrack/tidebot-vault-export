@@ -17,12 +17,15 @@ _nothing_
 
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-11-09 #id:T0095
   → David and Jonah pay the invoice through the payment link Max sent on Nov 13; Max is finding out whether the policy covers private dock events of 60-80 guests and will report back to Jonah. (David; Gmail davey@; touched 2026-11-13)
+  > this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
 - [ ] JTK Law proposed deal points, MSJ and declaration drafts, update due Monday #due:2026-11-16 #id:T0170
   → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
+  > do i need to respond? i read it and it looks good. hoping for some closure on this
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
+  > still? i thought we fixed this. i gave you 3 sets of apis to use as backup. help me help you to fix it if it really still needs fixing. but do it right this time;
 - [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
   → David check whether the $647.20 past due amount is covered; the Autopay notice forwarded by Gravity Trails says it is scheduled for 12/08/2026, so it will not clear anything overdue before then. (David; Gmail nolapedalbarge@; touched 2026-11-07)
   > David: it's my Piety address.
@@ -41,6 +44,7 @@ _nothing_
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
 - [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
   → David go through the open Slack items Jonah flagged, including the anti-slip step options, and connect with Alex. (David; Text with Jonah Moses; touched 2026-11-11)
+  > they look good, just need to finish installing them
 - [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
   → David or whoever runs TideBot on mbp-2 check which Gemini key and project it is calling and add prepay credits there, since the 402 says credits are depleted even after 3 keys were uploaded; then reprocess the Nov 12 logs by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
   > David: fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.

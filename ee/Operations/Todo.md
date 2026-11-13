@@ -1,5 +1,10 @@
 # Ebb & Ember — Todo List
 
+## Contractor watch (added 2026-11-13 — [[Contractor Status]], live list in Operations/Contractor Watch/)
+- [ ] Sergey: get a start date for the V2 gas run and confirm the lounge fireplace line is inside the $6,300 (approved 11/13; your 12:41 text unanswered). Draft is in your Slack DM from the watcher
+- [ ] Sergey: confirm who pulls the gas/mechanical permit, and have him inspect/pressure-test the social sauna fittings Alex says he sealed himself (INC-0004, now a maintenance item)
+- [ ] Answer the 3 "waiting on us" items the watcher filed on the Command Center dashboard (Alex door closers, Community Electric $4,800, Level Plane bid)
+
 ## V2 exterior electrical, gas and water plan (added 2026-11-12)
 - [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
 - [ ] Push interior wall dims (stove wall 41.75 x 88, window walls 24.75 West / 8.5 East) into the Rev AU floor plan sheet

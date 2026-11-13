@@ -1,0 +1,11 @@
+{
+ "dry_run": false,
+ "model": "sonnet",
+ "first_run_lookback_hours": 240,
+ "nudge_after_hours": 24,
+ "you_owe_after_hours": 24,
+ "renotify_hours": 72,
+ "davey_slack_id": "U0B1CAVT1TM",
+ "slack_fail_alert": true,
+ "caps": {"imessage": 400, "gmail": 40, "slack_per_channel": 100, "rows_per_run": 8}
+}
