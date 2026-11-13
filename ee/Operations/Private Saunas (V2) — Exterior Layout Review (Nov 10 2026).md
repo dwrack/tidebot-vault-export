@@ -80,3 +80,11 @@ CURRENT as of 2026-11-11. New model: `Assets/V2 Build Drawings/2026-11-11 Privat
 
 ## Rev AS (2026-11-12): East strip measured
 Outside face of the East window wall is at x 388, float edge at x 448: 60 in (5 ft). East pit resized to 24 in, centered at x 418 (18 in to wall, 18 in to edge), chairs pulled in to x 406 and x 430. Most pit makers want 36 in+ to combustibles, so it needs a listed small model, a non-combustible wall shield, or no East pit. Open edge needs a 42 in rail. Drawing: `Assets/V2 Build Drawings/2026-11-12 Private Saunas V2 Coordination Set (Rev AS).html`, issue #28.
+
+
+## Rev AU (2026-11-12): site measurements
+- Glass to float edge 79 in (8 ft wide), saunas 101 in apart, 103 in post to post. Drawing had 60 and 132.
+- West sauna x 28 to 148, East x 249 to 369; 12 in left at the west end of the 36 ft float (derived, confirm).
+- East pit 24 in at x 418: 37 in to the wall, 18 in to the edge. 42 in rail still needed.
+- West pit centered in the gap, 36.5 in to each wall. Wall A now about 3 in off the East sauna west face line (was 34 in).
+- Sauna panels (Grant 11/4, CO_1): stove back wall 41.75 x 88, window wall 24.75 x 84.5 (West) and 8.5 x 84.5 (East), floor 89 x 113.

@@ -1,7 +1,11 @@
 # Ebb & Ember — Todo List
 
+## V2 exterior electrical, gas and water plan (added 2026-11-12)
+- [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
+- [ ] Push interior wall dims (stove wall 41.75 x 88, window walls 24.75 West / 8.5 East) into the Rev AU floor plan sheet
+
 ## V2 east deck fire (added 2026-11-12 — mocks: Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/)
-- [ ] Pick A (round pit + Adirondacks flanking it) or B (5 ft pony-wall fire on the water edge, loungers to its left). Plan with chair footprints: C-east-deck-plan-fit.png. Rev AR still shows the round pit with 2 small chairs south of it
+- [x] DECIDED 11/12: B, knee-high pony wall fire on the east (water) edge centered on the window, 36 in long, 12 in glass on top. Was: pick A (30 in round pit + 2 Adirondacks) or B. Redrawn 11/12 at the measured 79 in x 8 ft space, square window; measurements in [[Site measurements 2026-11-12]]. Plan with chair footprints: C-east-deck-plan-fit.png. Rev AR still shows the round pit with 2 small chairs south of it
 - [ ] Optional: top up Higgsfield credits so both concepts can be rerun photoreal (account at 0 on 11/12)
 
 ## Website rebuild (added 2026-11-11)
@@ -193,3 +197,5 @@
 - [ ] Private saunas (V2): East strip is 60 in from the window wall to the float edge; East pit (24 in) has 18 in to the cedar wall and edge. Decide pit model/shield and a 42 in rail on the east edge. See Rev AS issue #28. Linked: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]
 - [ ] Site: confirm Private Sauna Gift Card wording (up to 10 guests, $449) vs Party Booking up to 12 (2026-11-12)
 - [ ] Site: confirm 12-month guest passes = 2 a month (memberships table changed to match /prices/) (2026-11-12)
+
+- [ ] West glass is flush with the water edge, so 120+101+120+79 = 420 in (35 ft), not 36 ft. Re-measure float length or the 101/79 numbers (Rev AU still shows 12 in at the west end). Tape numbers 11/12: 79 in glass to east edge, 101 in between saunas, 103 post to post. See Assets/V2 Build Drawings Rev AU, issue #28.
