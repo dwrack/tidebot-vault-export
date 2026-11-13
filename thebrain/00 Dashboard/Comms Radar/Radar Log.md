@@ -2,6 +2,11 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-13 06:10 | David ticked T0139 NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired
+- 2026-11-13 06:10 | David commented on T0139
+- 2026-11-13 06:10 | David ticked T0153 All Fuel quote for Warming Trends fire tables and pony wall, floating sauna
+- 2026-11-13 06:10 | David commented on T0153
+- 2026-11-13 06:10 | 17 new messages moved 4 threads: T0171, T0007, T0060, T0172
 - 2026-11-12 20:10 | 5 new messages moved 1 threads: T0170
 - 2026-11-12 18:10 | David ticked T0148 Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning
 - 2026-11-12 18:10 | David commented on T0148

@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -46,11 +46,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $95,775 |
+| Money in | $94,486 |
 | Spending | $74,419 |
-| Card payments + transfers out | $25,644 |
+| Card payments + transfers out | $23,853 |
 | Net, month to date | $3,983 |
-| Net, same days last month | -$8,567 |
+| Net, same days last month | $440 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|

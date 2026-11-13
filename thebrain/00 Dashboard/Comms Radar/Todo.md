@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -18,7 +18,7 @@ _nothing_
 - [ ] JTK Law proposed deal points, MSJ and declaration drafts, update due Monday #due:2026-11-16 #id:T0170
   → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
-  → David send his local agent the Apres Assets details so that agent can quote; Michael has already sent follow-ups to the 6 agents he contacted, asking for a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@, Text with Michael Fischer; touched 2026-11-12)
+  → David send his local agent the Apres Assets details so that agent can quote; Chris Webre at FelJo said his email is acting up and he will reach out Nov 13; Michael wants a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@; touched 2026-11-13)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
@@ -151,6 +151,8 @@ _nothing_
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
+- [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
+  → NKST manager find another guide for the Fri Nov 20 2pm tour and reassign it in FareHarbor. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Maritime Consortium drug-free vessel membership renewal, NPB and HPB, expires Dec 31 #NPB #HPB #due:2026-12-31 #id:T0040
@@ -303,9 +305,6 @@ _nothing_
   → NKST manager reply to Rashida Ferdinand on the stuck boat and say what NKST will do for the group; the info admin replied that the trailer sank into the mud at the widened launch. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 - [ ] Expedia asks AKT to restore rates on three products #AKT #id:T0138
   → AKT manager update rates in Expedia LXPC for City Skyline, Congress Bridge Bats and Sunset Skyline tours, or send Krish the retail price per person. (AKT manager; Gmail austinkayaktours@; touched 2026-11-10)
-- [x] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #id:T0139
-  → Reply do 1,2 in #the-helm for TideBot to pull search terms, after the FareHarbor scraper is re-authed so bookings stop reading blank. (David; Slack #the-helm; touched 2026-11-10)
-  > Closed by the resolver: The 11-13 daily shows NPB booked 9 / $2.8k at 7.4x again, so FareHarbor data is flowing after the 0.0x reports of 11-09 to 11-11.
 - [ ] Sankofa CDC asks whether NKST checked the launch before Sunset Stroll boat; trailer sank in mud #NKST #id:T0140
   → NKST manager reply to Rashida Ferdinand on whether anyone checked the graded launch Monday, now that Sankofa added crushed concrete and graded it with a bobcat, before the Sunset Stroll boat is finalized. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 - [ ] NKST trailer handle missing after Nov 10 Manchac tour, replacement needed #NKST #id:T0143
@@ -324,11 +323,6 @@ _nothing_
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
-- [x] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #id:T0153
-  → David review All Fuel's estimate and clearance diagram, and decide between pre-made 60 or 72 inch round fire tables or custom tables with burners only; the 42 inch table is only for push start. (David; Gmail davey@; touched 2026-11-11)
-  > Closed by the resolver: All Fuel emailed the estimate for the fire tables and pony wall on 11-11 after Davey said Please on 11-10.
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-12)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → NKST manager answer Michelle Healey on parking trailers on the opposite side until construction ends, fix the missing trailer handle, and confirm with the contractor how guides get the trailer into the lot. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
@@ -345,6 +339,10 @@ _nothing_
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
+- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-13)
+- [ ] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
+  → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NKST; spend or public posts come back for a final go. (David; Slack #the-helm; touched 2026-11-13)
 
 ## Backburner (LSKT)
 
@@ -376,7 +374,13 @@ _nothing_
 - [x] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #done:2026-11-10 #id:T0118
   > David: no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
   > Radar: Understood. Homebase payroll emails create no thread and I closed this one. They stay noise until W-2s in January. I can't auto-archive the emails from here, so that filter would need to be set in Gmail.
+- [x] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #done:2026-11-13 #id:T0139
+  > David: Closed by the resolver: The 11-13 daily shows NPB booked 9 / $2.8k at 7.4x again, so FareHarbor data is flowing after the 0.0x reports of 11-09 to 11-11.
+  > Radar: Closed. The 11-13 daily shows NPB booked 9 / $2.8k at 7.4x, so tracking is working again.
 - [x] NPB family reunion inquiry, up to 34 people, late November #NPB #done:2026-11-11 #id:T0050
+- [x] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #done:2026-11-13 #id:T0153
+  > David: Closed by the resolver: All Fuel emailed the estimate for the fire tables and pony wall on 11-11 after Davey said Please on 11-10.
+  > Radar: Closed. All Fuel sent the fire tables and pony wall estimate on 11-11.
 - [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-12 #id:T0154
   > David: Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
   > Radar: Noted, closed. Domains move to Cloudflare as each one renews.

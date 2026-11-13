@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -56,8 +56,8 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $15,608 |
-| Spending | $44,000 |
+| Money in | $15,108 |
+| Spending | $43,405 |
 | Card payments + transfers out | $0 |
 | Net, month to date | -$101 |
 | Net, same days last month | -$15,318 |
@@ -71,12 +71,12 @@
 
 *Month to date leaves out American 5002 (from Sep 2026): not enough history yet.*
 
-**Top spending, 30 days:** IRS USATAXPYMT $40,880; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711; AplPay WOODSTOCK SMIPORTLAND OR $595; KP NW ACI PREM DENVER CO $509; GOING GARBAGE AND RESISTER BAY WI $101
+**Top spending, 30 days:** IRS USATAXPYMT $40,880; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711; KP NW ACI PREM DENVER CO $509; GOING GARBAGE AND RESISTER BAY WI $101; XX WITHDRAWAL BEAR PAW - $100
 **Flags:**
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 12. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -89,7 +89,7 @@
 | Spending | $2,068 |
 | Card payments + transfers out | $2,036 |
 | Net, month to date | -$1,136 |
-| Net, same days last month | $3,195 |
+| Net, same days last month | $3,795 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -109,7 +109,7 @@
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 12. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 13. Balances only.*
 
 | Account | Balance |
 |---|---|
