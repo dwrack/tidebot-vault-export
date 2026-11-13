@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -18,7 +18,7 @@ _nothing_
 - [ ] JTK Law proposed deal points, MSJ and declaration drafts, update due Monday #due:2026-11-16 #id:T0170
   → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
-  → David send his local agent the Apres Assets details so that agent can quote; Chris Webre at FelJo said his email is acting up and he will reach out Nov 13; Michael wants a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@; touched 2026-11-13)
+  → David send Shelley Zahn the current 3 years of loss runs for Apres Assets, since one carrier has already asked for them; Gravity Trails should carry premises liability naming Apres Assets, LLC as Additional Insured, and storage shed renters need no insurance of their own. (David; Gmail doorcountyzip@; touched 2026-11-13)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
@@ -147,6 +147,8 @@ _nothing_
   → NKST manager or whoever pays insurance make the commercial auto renewal payment before Nov 16 (policy ending 4196). (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] OpenAI ChatGPT Ads outreach to NKST, 30 min call on David's calendar Nov 16 #NKST #due:2026-11-16 #id:T0162
   → David confirm whether he or staff booked the Nov 16 9am PST Calendly call with Mehmet Guzel; cancel it if not, since the invite came from an unknown sender and mentions only New Orleans Kayak Swamp Tours. (David; Gmail nolakayaktours@, Gmail dwrack81@; touched 2026-11-12)
+- [ ] GetYourGuide refund request, Houston Sunset Skyline Kayak Nov 11 flood cancellation, booking GYG2Q87263FV #AKT #LSKT #due:2026-11-16 #id:T0173
+  → AKT/LSKT staff reply to GetYourGuide within 72 hours with the Nov 11 flooding cancellation explanation and any proof of the phone call or notice to the guest, or the full refund goes through. (AKT staff; Gmail austinkayaktours@; touched 2026-11-13)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
