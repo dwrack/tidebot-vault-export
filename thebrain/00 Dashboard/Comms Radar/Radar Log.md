@@ -2,6 +2,11 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-13 14:10 | David commented on T0095
+- 2026-11-13 14:10 | David commented on T0170
+- 2026-11-13 14:10 | David commented on T0104
+- 2026-11-13 14:10 | David commented on T0076
+- 2026-11-13 14:10 | 12 new messages moved 5 threads: T0076, T0095, T0170, T0060, T0177
 - 2026-11-13 12:10 | David ticked T0058 Marina insurance agent asks for vessel liability details
 - 2026-11-13 12:10 | David commented on T0058
 - 2026-11-13 12:10 | 34 new messages moved 7 threads: T0079, T0175, T0060, T0008, T0043, T0011, T0176

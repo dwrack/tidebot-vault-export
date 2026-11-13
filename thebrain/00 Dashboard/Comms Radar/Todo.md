@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -16,16 +16,15 @@ _nothing_
 ## Needs you
 
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-11-09 #id:T0095
-  → David and Jonah pay the invoice through the payment link Max sent on Nov 13; Max is finding out whether the policy covers private dock events of 60-80 guests and will report back to Jonah. (David; Gmail davey@; touched 2026-11-13)
-  > this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
-- [ ] JTK Law proposed deal points, MSJ and declaration drafts, update due Monday #due:2026-11-16 #id:T0170
-  → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
-  > do i need to respond? i read it and it looks good. hoping for some closure on this
+  → David and Jonah pay the invoice through Max's payment link, and David checks Jonah's Ebb & Ember dashboard to split who owns which item so neither does double work; Max reports back to Jonah on whether the policy covers private dock events of 60-80 guests. (David; Slack; touched 2026-11-13)
+  > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
+  > Radar: Fixed the next move so it only names you, Jonah and Max, with no Jeff. I can't pull Jonah's Ebb & Ember dashboard from here, so I noted it as your next step to compare lanes before paying.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
-  > still? i thought we fixed this. i gave you 3 sets of apis to use as backup. help me help you to fix it if it really still needs fixing. but do it right this time;
+  > David: still? i thought we fixed this. i gave you 3 sets of apis to use as backup. help me help you to fix it if it really still needs fixing. but do it right this time;
+  > Radar: I can't see this thread's details or run a live check from the ledger, so I can't say whether it is fixed. Someone needs to check the TideBot logs to see which API key the log processing is calling now and whether your three backup keys are wired in. Until that check is done, treat the status as unverified.
 - [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
   → David check whether the $647.20 past due amount is covered; the Autopay notice forwarded by Gravity Trails says it is scheduled for 12/08/2026, so it will not clear anything overdue before then. (David; Gmail nolapedalbarge@; touched 2026-11-07)
   > David: it's my Piety address.
@@ -42,9 +41,6 @@ _nothing_
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
 - [ ] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
-- [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
-  → David go through the open Slack items Jonah flagged, including the anti-slip step options, and connect with Alex. (David; Text with Jonah Moses; touched 2026-11-11)
-  > they look good, just need to finish installing them
 - [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
   → David or whoever runs TideBot on mbp-2 check which Gemini key and project it is calling and add prepay credits there, since the 402 says credits are depleted even after 3 keys were uploaded; then reprocess the Nov 12 logs by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
   > David: fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.
@@ -61,6 +57,12 @@ _nothing_
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; David's own PDX to MSY flight on Nov 16 is now confirmed. (David; Gmail dwrack81@; touched 2026-11-13)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
+- [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
+  → David finish installing the anti-slip dock steps; the options are approved. (David; Slack; touched 2026-11-13)
+  > David: they look good, just need to finish installing them
+  > Radar: Noted, the options are approved and the next move is now just finishing the install.
+- [ ] Jonah asks if David is changing the existing website #id:T0177
+  → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 
 ## Waiting on someone
 
@@ -72,10 +74,14 @@ _nothing_
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Jonah presses Todd for deal-points update and summary judgment motions #waiting #due:2026-11-16 #id:T0167
   → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
+- [ ] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #id:T0170
+  → David read the revised declaration Todd says is headed to his inbox; Jonah has already sent Todd the fixes (title, wire date, amount through Nov 30), and there is no word yet from Bill Drew on the proposal. (Todd Key; Gmail dwrack81@; touched 2026-11-13)
+  > David: do i need to respond? i read it and it looks good. hoping for some closure on this
+  > Radar: Nothing in the messages shows a reply is owed from you. Jonah already sent Todd the fixes for the declaration, and Todd says the revised version is headed to your inbox. Bill Drew has not answered the proposal yet, so closure is still waiting on him.
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
-  → Wait for Shelley Zahn's Apres Assets GL renewal quote; she acknowledged the latest info with a thanks on Nov 13. (Shelley B. Zahn; Gmail doorcountyzip@; touched 2026-11-13)
+  → Michael decide whether to get a premises-only liability quote through the carrier Jamie Clark pointed to, while still waiting on Shelley Zahn's renewal quote and the marina operators liability answer. (Michael Fischer; Gmail doorcountyzip@; touched 2026-11-13)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
