@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-13 10:10 | 31 new messages moved 3 threads: T0095, T0060, T0174
 - 2026-11-13 08:10 | 6 new messages moved 2 threads: T0060, T0173
 - 2026-11-13 06:10 | David ticked T0139 NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired
 - 2026-11-13 06:10 | David commented on T0139

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,13 +15,10 @@ _nothing_
 
 ## Needs you
 
+- [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-11-09 #id:T0095
+  → David and Jonah pay the invoice through the payment link Max sent on Nov 13; Max is finding out whether the policy covers private dock events of 60-80 guests and will report back to Jonah. (David; Gmail davey@; touched 2026-11-13)
 - [ ] JTK Law proposed deal points, MSJ and declaration drafts, update due Monday #due:2026-11-16 #id:T0170
   → David review the MSJ and Declaration Todd Key attached and the recalculated amount owed through November; Todd will send the Macadam declaration next, and Jonah asked Todd for a status update by Monday Nov 16. (David; Gmail dwrack81@; touched 2026-11-12)
-- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
-  → David send Shelley Zahn the current 3 years of loss runs for Apres Assets, since one carrier has already asked for them; Gravity Trails should carry premises liability naming Apres Assets, LLC as Additional Insured, and storage shed renters need no insurance of their own. (David; Gmail doorcountyzip@; touched 2026-11-13)
-  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
-  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
-  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
@@ -73,6 +70,11 @@ _nothing_
   → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
+- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
+  → Shelley Zahn quotes Apres Assets now that Michael sent the Scottsdale loss runs for both terms, which show zero claims; Michael noted there are only two years of history. (Shelley B. Zahn; Gmail doorcountyzip@; touched 2026-11-13)
+  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
+  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
+  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → NKST manager confirm whether Michelle Healey has also been paid, since River says they were paid yesterday. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
@@ -100,6 +102,8 @@ _nothing_
   → Jonah bring the Ebb & Ember checkbook or send a check with L so David can hand the tile guy the $1500 deposit. (Jonah Moses; Text with Jonah Moses; touched 2026-11-11)
 - [ ] Elevated Tides Experience ACORD 126 DocuSign voided, to be updated and resent #waiting #id:T0150
   → Wait for Max McCuddy to send the updated ACORD 126 agreement for Elevated Tides Experience, then sign it. (Max McCuddy; Gmail davey@; touched 2026-11-11)
+- [ ] Sergei gas line across the deck and tile work, no date or reply yet #waiting #id:T0174
+  → Sergei reply with a start date on the gas line, now planned as one straight shot across the deck; Jonah asks Grant about the grout size, and David leans 1/16 inch. (Sergei; Text with Jonah Moses; touched 2026-11-13)
 
 ## Open
 
@@ -121,8 +125,6 @@ _nothing_
   → Jeffrey send Barbo's prices and Beatty's rate so TideBot can finalize the corporate party pricing before the Nov 6 meeting; Jeffrey says BBQ add-on is $20-30 per person ($20 for 2 proteins and sides, $30 for 3). (Jeffrey Chitek; Slack #helm-npb; touched 2026-11-05)
 - [ ] NKST selling 2019 van, down to 3 vans, rear right tire needs replacing #NKST #due:2026-11-06 #id:T0100
   → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
-- [ ] Elevated Tides umbrella policy: binder effective 11/6 sent, payment link coming #due:2026-11-09 #id:T0095
-  → Max McCuddy answers Jonah on whether the policy covers private events of 60-80 guests; David and Jonah pay the invoice when the payment link arrives and review the underwriter's swim-area conditions. (Max McCuddy; Gmail davey@; touched 2026-11-12)
 - [ ] Stan Ventures AI visibility pitch to Houston Pedal Barge, call proposed Nov 10 #HPB #due:2026-11-10 #id:T0109
   → HPB manager decide whether to take the Tuesday Nov 10 10:15 AM Eastern call with Stan Ventures; someone replied 'Yes' to the cold pitch, so a response is expected. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-08)
 - [ ] NKST 9am Nov 10 tour has only two guests, Emily asks to cancel #NKST #due:2026-11-10 #id:T0135
@@ -197,8 +199,9 @@ _nothing_
   → David decide whether to buy a Garmin dash cam and check whether Vault clips can auto-download to iCloud daily, which is unverified. (David; Gmail doorcountyzip@; touched 2026-11-03)
 - [ ] NKST black transit van wipers and washer fluid not working #NKST #id:T0061
   → NKST manager get the black transit's washer fluid dispenser fixed and the driver's side wiper blades replaced. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-03)
-- [ ] Marina insurance agent asks for vessel liability details #id:T0058
+- [x] Marina insurance agent asks for vessel liability details #id:T0058
   → David or whoever owns the boats answer Jamie Clark on whether they want liability on the vessels and send year, make, model, registration, hull info, motors, captain details, crew and passenger counts and values; verify the new payment site link with the agency before paying through it. (David; Gmail doorcountyzip@; touched 2026-11-04)
+  > Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
 - [ ] Boat Rentals Houston follow-up asking for an offer #HPB #id:T0064
   → HPB manager decide whether to answer Brendon Ford's request for a best offer on Boat Rentals Houston or ignore it. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-04)
 - [ ] GetYourGuide 1-2 star review, Houston Sunset Skyline Kayak Tour #AKT #LSKT #id:T0067
