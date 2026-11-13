@@ -17,4 +17,4 @@
 5. Hosting: rebuild in the WordPress theme, or host as a static site.
 6. Shrink the image files before launch.
 
-Working copy: Jeffrey's Mac, ~/Projects/npb-site. This folder is a snapshot.
+Owner: David Rack (full permissions as of 2026-11-13). This folder is the one live copy of the site, not a snapshot.

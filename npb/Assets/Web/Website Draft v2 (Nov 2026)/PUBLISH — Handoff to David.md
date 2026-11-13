@@ -2,7 +2,12 @@
 
 This folder is the full build. Everything the page needs is here: `index.html`, `styles.css` and `img/`. There's nothing to install or compile. It's plain HTML and CSS, and the fonts load from Google Fonts.
 
-The folder syncs to your Macs through the vault, so you already have it. Jeffrey's working copy stays in sync with it. If you start changing files, say so on the board so the two copies don't drift.
+## Permissions (updated 2026-11-13)
+**David has full permissions on this project.** That means editing, restructuring, deleting, choosing the host and publishing, without asking Jeffrey first.
+- This vault folder is now the **only** copy of the site. Jeffrey's Mac points at it too (`~/Projects/npb-site` is a link to this folder), so there's no private copy that can drift.
+- Your Claude can work directly in this folder.
+- Unused photos are in `img/unused/`. Delete them if you don't want them.
+- Log big changes or the launch on the Who's On What board so Jeffrey and Michael can see what changed.
 
 ## Pick a route
 **A. Keep WordPress (the current host).** Rebuild the page as a WordPress page or template using this HTML and CSS. Booking and blog links keep working, and you keep the WP admin. The work is putting the markup into the theme. A page builder's "Custom HTML" block plus the CSS in Additional CSS gets you there fastest.

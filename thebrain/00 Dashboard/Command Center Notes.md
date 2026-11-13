@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Approve the 1st-of-month rent reminder wording (Dominic flagged; built, switched OFF): "Hey Dominic, November rent for Room #3 is due today, $300. Venmo to @davidrack or Zelle to dwrack81@gmail.com works. Thanks!" Reply ok and I switch it on for Dec 1, then add Karl and the rest | Cave Point Place | default: no reminder texts go out, checker still chases on the 12th
 - 2026-11-13 | Post the reply to the new 3★ Google review from Jeanette Quirk (prep, route, late start); draft is in the 11/13 Daily Briefing | NKST | default: stays unreplied
 - 2026-11-13 | Ask Michael who turned the GA4 event lp_micros___3__pages into a conversion on 11/10 (57 and 86 fake conversions on 11/11 and 11/12) and confirm it is not feeding Google Ads bidding; same note: generic kayak-swamp search is $499 / 0 conv since 11/6 | NKST | default: GA4 conversions stay inflated, search keeps spending about $75/day
 - 2026-11-13 | TikTok browser on mbp-2 is logged in to a Door County account, not @houstonpedalbarge; switch the account so the brief can read HPB numbers | HPB | default: no HPB TikTok numbers in the brief
@@ -343,3 +344,10 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-12 15:56 | Needs you: NPB: Voucher request after incident on tiki (angry customer) | [note] ask jeff, and look for his response to it and then move on whatever his response is. [read 2026-11-12: Filed: read Jeff's reply then act. Slack denied this session so cannot watch for it; on rerun item.]
 - 2026-11-12 15:57 | Needs you: TideBot written log processing down, Gemini prepayment credits depleted | [fix it] [read 2026-11-12: Same as Gemini note: blocked on ssh/Bash, verify item filed.]
 - 2026-11-12 15:58 | Skill: carousel | [run] /carousel ADM queued from the daily skills panel [read 2026-11-12: Not run: Skill/Bash restricted this session. Rerun /carousel ADM from the panel with normal permissions.]
+- 2026-11-13 08:58 | Skill: social-captions | [run] /social-captions ADM queued from the daily skills panel
+- 2026-11-13 08:58 | Skill: system-map | [run] /system-map queued from the daily skills panel
+- 2026-11-13 08:58 | Skill: maps-rank | [run] /maps-rank ADM queued from the daily skills panel
+- 2026-11-13 08:58 | Problem: DCD: Facebook 404d, YouTube down | [fix it]
+- 2026-11-13 08:58 | Problem: HAT: Instagram down, Facebook 49d, Google Business 155d, YouTube 49d | [fix it]
+- 2026-11-13 08:58 | Problem: ADM: Instagram 45d, Google Business 628d | [fix it]
+- 2026-11-13 08:58 | Problem: CPPP: Instagram 511d, Facebook 404d | [fix it]
