@@ -2,6 +2,9 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-12 16:10 | David ticked T0161 NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm
+- 2026-11-12 16:10 | David commented on T0144
+- 2026-11-12 16:10 | 10 new messages moved 3 threads: T0144, T0088, T0034
 - 2026-11-12 14:10 | 13 new messages moved 3 threads: T0167, T0168, T0095
 - 2026-11-12 12:10 | 26 new messages moved 2 threads: T0060, T0166
 - 2026-11-12 10:10 | 22 new messages moved 4 threads: T0095, T0163, T0164, T0165

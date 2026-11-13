@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-12 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-12 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,6 @@ _nothing_
 
 ## Needs you
 
-- [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #id:T0161
-  → David decide whether NKST will change the waiver's indemnification bullets as Freddie asks (carve out acts that follow GT's instructions); then the NKST manager reply to Freddie before his Manchac Swamp Wildlife Kayak Tour at 2:00 pm today. (David; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
   → David send his local agent the Apres Assets details so that agent can quote; Michael has already sent follow-ups to the 6 agents he contacted, asking for a quote or a clear no by Dec 1. (David; Gmail doorcountyzip@, Text with Michael Fischer; touched 2026-11-12)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
@@ -50,11 +48,12 @@ _nothing_
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
 - [ ] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
-- [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
-  → David top up the Google AI Studio prepay credits so TideBot can process written logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-10)
-  > fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.
 - [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
   → David go through the open Slack items Jonah flagged, including the anti-slip step options, and connect with Alex. (David; Text with Jonah Moses; touched 2026-11-11)
+- [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
+  → David or whoever runs TideBot on mbp-2 check which Gemini key and project it is calling and add prepay credits there, since the 402 says credits are depleted even after 3 keys were uploaded; then reprocess the Nov 12 logs by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
+  > David: fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.
+  > Radar: I can't touch TideBot or Gemini billing from here, so I logged this as your next move. The error is a 402 on gemini-2.5-flash-lite saying prepay credits are depleted, so the key TideBot is calling may not be one of the three you added, or they share one empty project. Two more NKST logs failed today and need manual processing.
 - [ ] Apify rotated all API tokens after security incident #NPB #NKST #DCKT #id:T0155
   → David or Claude generate new Apify tokens for each brand account, update the local token files and user-scope Apify MCPs, then restart any scraper or job still using an old token. (David; Gmail davey@, Gmail nolakayaktours@, Gmail doorcountyzip@, Gmail nolapedalbarge@; touched 2026-11-12)
 - [ ] Michael asks which seats to order on Amazon #id:T0160
@@ -148,8 +147,9 @@ _nothing_
   → David confirm whether he or staff booked the Nov 16 9am PST Calendly call with Mehmet Guzel; cancel it if not, since the invite came from an unknown sender and mentions only New Orleans Kayak Swamp Tours. (David; Gmail nolakayaktours@, Gmail dwrack81@; touched 2026-11-12)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
-- [ ] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #id:T0148
+- [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #id:T0148
   → David reply to Alan with the Thursday marina party details and a time to meet Thursday evening or Friday morning. (David; Gmail dwrack81@; touched 2026-11-11)
+  > Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
@@ -294,8 +294,6 @@ _nothing_
   → NPB team call or reply to Wykeenia Russell about a party of 9 on Nov 21 and answer her questions. (NPB team; Gmail nolapedalbarge@; touched 2026-11-09)
 - [ ] HPB SMS reply needs a human answer #HPB #id:T0134
   → HPB manager text back the number that replied 'Sorry, I can't talk right now' from the HPB line, or close it if no follow-up is needed. (HPB manager; Gmail dwrack81@ (HPB SMS); touched 2026-11-09)
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager answer Michelle Healey on whether guides can park trailers on the opposite side, where you enter the driveway after McDonald's, until construction ends, and confirm with the contractor how guides get the trailer into the lot. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] USPTO-styled notice about DOOR COUNTY KAYAK TOURS trademark application SN 99890274 #DCKT #id:T0062
   → DCKT staff or David verify this notice against the USPTO's own trademark records before replying, clicking anything or paying any fee; it has now arrived in two more inboxes. (David; Gmail doorcountykayaking@, Gmail dwrack81@; touched 2026-11-10)
 - [ ] TideBot Gemini API prepayment credits depleted, written log processing failing #id:T0102
@@ -322,18 +320,21 @@ _nothing_
   → NKST manager reply to Luke Johnson on availability and pricing for a group of 9-10 with transportation; he now offers Tuesday Dec 8, 1:00-5:30, instead of Dec 10. (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → David build the new static HTML website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in and use the site platform answer for the shorts and hoodies. (David; Text with Michael Fischer; touched 2026-11-11)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Instagram (admire Chrome profile) on mbp-2 via Screen Sharing; Admire NOLA Instagram engage is logged out again Nov 11 (paused 24h, 0 actions), plus Threads for Hidden Adventure. (David; Slack #helm-admire; touched 2026-11-11)
 - [ ] Glass Gala winner wants to schedule Maurepas Swamp guided kayak tour #NPB #NKST #id:T0151
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
 - [ ] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #id:T0153
   → David review All Fuel's estimate and clearance diagram, and decide between pre-made 60 or 72 inch round fire tables or custom tables with burners only; the 42 inch table is only for push start. (David; Gmail davey@; touched 2026-11-11)
-- [ ] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0154
+- [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0154
   → David and Michael move each domain to Cloudflare as it comes up for renewal. (David; Text with Michael Fischer; touched 2026-11-11)
+  > Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-12)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → NKST manager answer Michelle Healey on parking trailers on the opposite side until construction ends, fix the missing trailer handle, and confirm with the contractor how guides get the trailer into the lot. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Threads for Hidden Adventure in the hat Chrome profile on mbp-2 via Screen Sharing; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-12)
 - [ ] NKST Piety lot: white van keys missing, tire gauge needed #NKST #id:T0157
   → NKST manager find the missing white van keys at Piety, buy or place a tire gauge there, and check the black van's low back left tire; Michelle also suggested Jeff bring seats from the marina kayaks in the meantime. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
 - [ ] NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired #NKST #id:T0158
@@ -356,6 +357,7 @@ _nothing_
 - [x] NKST Nov 1 11am Manchac tour booked with 1 guest #NKST #due:2026-11-01 #done:2026-11-01 #id:T0023
 - [x] AKT Riverside Lot parking permit statement $2,082.40 #AKT #due:2026-11-01 #done:2026-11-05 #id:T0002
 - [x] Soward v. TripAdvisor hearing date, reply needed #AKT #due:2026-11-03 #done:2026-11-05 #id:T0001
+- [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #done:2026-11-12 #id:T0161
 - [x] LSKT soft demand flagged by TideBot #LSKT #done:2026-10-30 #id:T0009
 - [x] NPB ad return under 5x floor #NPB #done:2026-10-31 #id:T0017
 - [x] NKST crew PayPal payments sent Nov 2 #NKST #done:2026-11-02 #id:T0042

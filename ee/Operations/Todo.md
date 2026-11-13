@@ -191,3 +191,5 @@
 
 - [ ] Private saunas (V2): buy 2x 5 lb ABC extinguishers (one per sauna by door, mounted) + 1 water-mist or ABC for the shared deck near the fire pits, plus 1 deck first aid kit (ANSI Class B) and 1 small kit for the change-room wall; mount per Rev AP plan. Linked: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]
 - [ ] Private saunas (V2): East strip is 60 in from the window wall to the float edge; East pit (24 in) has 18 in to the cedar wall and edge. Decide pit model/shield and a 42 in rail on the east edge. See Rev AS issue #28. Linked: [[Private Saunas (V2) — Exterior Layout Review (Nov 10 2026)]]
+- [ ] Site: confirm Private Sauna Gift Card wording (up to 10 guests, $449) vs Party Booking up to 12 (2026-11-12)
+- [ ] Site: confirm 12-month guest passes = 2 a month (memberships table changed to match /prices/) (2026-11-12)
