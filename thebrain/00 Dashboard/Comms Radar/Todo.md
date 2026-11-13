@@ -303,8 +303,9 @@ _nothing_
   → NKST manager reply to Rashida Ferdinand on the stuck boat and say what NKST will do for the group; the info admin replied that the trailer sank into the mud at the widened launch. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 - [ ] Expedia asks AKT to restore rates on three products #AKT #id:T0138
   → AKT manager update rates in Expedia LXPC for City Skyline, Congress Bridge Bats and Sunset Skyline tours, or send Krish the retail price per person. (AKT manager; Gmail austinkayaktours@; touched 2026-11-10)
-- [ ] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #id:T0139
+- [x] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #id:T0139
   → Reply do 1,2 in #the-helm for TideBot to pull search terms, after the FareHarbor scraper is re-authed so bookings stop reading blank. (David; Slack #the-helm; touched 2026-11-10)
+  > Closed by the resolver: The 11-13 daily shows NPB booked 9 / $2.8k at 7.4x again, so FareHarbor data is flowing after the 0.0x reports of 11-09 to 11-11.
 - [ ] Sankofa CDC asks whether NKST checked the launch before Sunset Stroll boat; trailer sank in mud #NKST #id:T0140
   → NKST manager reply to Rashida Ferdinand on whether anyone checked the graded launch Monday, now that Sankofa added crushed concrete and graded it with a bobcat, before the Sunset Stroll boat is finalized. (NKST manager; Gmail nolakayaktours@; touched 2026-11-10)
 - [ ] NKST trailer handle missing after Nov 10 Manchac tour, replacement needed #NKST #id:T0143
@@ -323,8 +324,9 @@ _nothing_
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
-- [ ] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #id:T0153
+- [x] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #id:T0153
   → David review All Fuel's estimate and clearance diagram, and decide between pre-made 60 or 72 inch round fire tables or custom tables with burners only; the 42 inch table is only for push start. (David; Gmail davey@; touched 2026-11-11)
+  > Closed by the resolver: All Fuel emailed the estimate for the fire tables and pony wall on 11-11 after Davey said Please on 11-10.
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-12)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
