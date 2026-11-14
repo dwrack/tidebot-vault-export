@@ -1,6 +1,6 @@
 # Comms Lane Bots — Design (Nov 13 2026)
 
-Status: DESIGN, not built. Owner: Davey + Claude. Machines: davids-mbp-2 (always-on core), bigly (optional heavy model), Claude (daily synthesis only).
+Status: PHASE 1 (E&E lane, writer, Tier 0 live, 3B shadow) BUILT 2026-11-13 evening, see `Ebb and Ember/Operations/Lane Bot/README.md`. Phase 2 not started. Original status line: DESIGN, not built. Owner: Davey + Claude. Machines: davids-mbp-2 (always-on core), bigly (optional heavy model), Claude (daily synthesis only).
 
 ## Why
 

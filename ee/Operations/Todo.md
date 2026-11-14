@@ -1,5 +1,10 @@
 # Ebb & Ember — Todo List
 
+## Lane bot (added 2026-11-13 — [[README]] in Operations/Lane Bot/, rollups in [[Rollups]], eval in [[Eval]])
+- [ ] Decide Slack DM coverage for the lane bot: invite the bot to your DMs with Jonah/L/Grant, or give Claude a read-only Slack user token (also on the Command Center)
+- [ ] Watch the [bot:ee:0:...] lines the lane files this week (sign/pay/approve only); tell Claude which are wrong; say "lift reply" to add direct questions (81% precision now, shadow)
+- [ ] Answer the 5 open Comms Lane Bots decisions (lane order, brief audience, brief location, $500 Tier 3 threshold, retire the in-flight watcher scan) in TheBrain/07 Reference/Decisions/2026-11-13 Comms Lane Bots.md
+
 ## Dock safety video (added 2026-11-13 — [[Dock Safety Video — Storyboard (Nov 2026)]])
 - [ ] Review guest intro v3 (Before You Get In MP4): jumping allowed vs ladder only, 2 min limit, music/voiceover, where it gets sent (booking confirmation? waiver page?)
 
