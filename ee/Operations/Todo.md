@@ -246,4 +246,4 @@
 
 - [ ] Test site chat helper at ebb-and-ember-site.pages.dev/?chat=1 and approve making it public (2026-11-14)
 - [ ] Decide the 9 items in Marketing/Website Review 2 2026-11-14.md (2026-11-14)
-- [ ] OK the Slack note to L: tags for the 4 Events signup lists (2026-11-14)
+- [x] OK the Slack note to L: tags for the 4 Events signup lists (sent in #dev 2026-11-14)
