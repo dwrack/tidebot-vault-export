@@ -336,6 +336,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - [2026-11-20 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-12), charged $500 twice within 48 h (Nov 11 and Nov 12). Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-20 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-11), charged $500 twice within 48 h (Nov 9 and Nov 11). Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-20 due |] Charge watch: $5,800 at Progressive on Chase D. RACK ...7386 (2026-11-11), $5,800 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-21 due |] Charge watch: $5,800 at Progressive on Chase D. RACK ...7386 (2026-11-12), $5,800 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-21 due |] Charge watch: $440 at Amazon on Chase J. CHITEK ...0950 (2026-11-12), $440 is 10.2x this merchant's usual $43. Say OK or dispute it | NPB | default: treated as fine after 7 days
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.
