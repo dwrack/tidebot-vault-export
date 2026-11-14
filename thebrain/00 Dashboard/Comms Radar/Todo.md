@@ -57,8 +57,9 @@ _nothing_
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
   → David look at the V1 Pricing showing on the existing site and the member booking issue Jonah reported, and reply to Jonah. (David; Text with Jonah Moses; touched 2026-11-13)
-- [ ] Elevated Tides slip lease addendum for E&E, needs David's signature #Ebb-Ember #id:T0181
+- [x] Elevated Tides slip lease addendum for E&E, needs David's signature #Ebb-Ember #id:T0181
   → David sign the commercial addendum to E&E's slip lease (slips 30, 61, 62, $1,500 a month) and send it back to Jonah; section 4(b) still waits on Max confirming in writing that the saunas are not excluded as watercraft, and E&E then has 30 days to send the certificate and endorsement. (David; Gmail davey@; touched 2026-11-13)
+  > Closed by the resolver: David emailed the lease addendum back to office@elevatedtides.com signed for Elevated Tides Experiences LLC at 11-13 21:49, then again at 22:54.
 - [ ] Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through #Ebb-Ember #id:T0182
   → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
 
