@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 10:46 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 11:24 PT.
 
-Counts: people 14, vendors 104, projects 6, money 443, promises 40, asks 72, dates 826
+Counts: people 14, vendors 105, projects 6, money 443, promises 40, asks 72, dates 828
 
 ## Open asks of Davey (Tier 0)
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
@@ -76,6 +76,8 @@ Counts: people 14, vendors 104, projects 6, money 443, promises 40, asks 72, dat
 - 2026-11-14 Ebb & Ember: "Nov 14"
 - 2026-11-14 Ebb & Ember: "November 14"
 - 2026-11-14 Grant: "today"
+- 2026-11-14 Kaitlin Beck: "November 14"
+- 2026-11-14 Kaitlin Beck: "tonight"
 - 2026-11-14 PSP/Deck Expo: "November 14"
 - 2026-11-14 Roxanne Pauig: "Nov 14"
 - 2026-11-14 Roxanne Pauig: "tomorrow"
