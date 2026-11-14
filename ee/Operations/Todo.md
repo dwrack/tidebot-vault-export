@@ -221,3 +221,5 @@
 - [ ] NOLA Nov 15-20: Expo Tue 11/17 (Thermory booth 2501, Sauna from Finland); Thu 11/19 marina party 2105 Paris Rd, invite Alan Jalasjaa (free Thu eve / Fri am) (2026-11-13)
 
 - [x] Safety video v4 rendered 11/13 (pole in, jumps feet-first). Still to do: hang vests/buoys on the pier so the video is true. See [[Dock Safety Video — Storyboard (Nov 2026)]]
+
+- [ ] Review safety intro v2.0 slides and leave notes: https://claude.ai/artifact/WaegVue6o3Qm8Qc4QHgYU1 (see [[Operations/Dock Safety Video/v2.0 slides/README]])
