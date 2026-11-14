@@ -105,3 +105,4 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-13 22:30 | AUTO-DRAFTED radar:T0007 | Unsolicited GreenBridge Capital DocuSign funding application
 - 2026-11-13 22:30 | AUTO-DRAFTED radar:T0082 | Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets
 - 2026-11-13 22:30 | AUTO-DRAFTED radar:T0180 | Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island
+- 2026-11-14 02:18 | RESOLVED notes:ca51bc16d8 | [P1] Sign the commercial addendum to the slip lease and send it back to [email] (asked by Jonah via davey@ email 2026-11-13) | Davey replied to office@elevatedtides.com with the signed addendum attached at 21:49 and again at 22:54 on 11-13.
