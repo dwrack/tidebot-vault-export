@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-14 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-14 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -64,12 +64,12 @@ _nothing_
 
 - [ ] NPB content push #NPB #waiting #due:2026-10-31 #id:T0008
   → Kelly post content from today's trips; Davey asked again today. (Kelly; Slack #nola-party-barge; touched 2026-11-13)
-- [ ] Update address to 2105 Paris Road everywhere #waiting #due:2026-11-04 #id:T0059
-  → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts tomorrow (Nov 4), per David's ask. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-03)
 - [ ] TideBot W-9 reminders overmessaging NKST crew, River b. complaint #NKST #waiting #due:2026-11-06 #id:T0055
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Jonah presses Todd for deal-points update and summary judgment motions #waiting #due:2026-11-16 #id:T0167
   → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
+- [ ] Update address to 2105 Paris Road everywhere #waiting #due:2026-11-16 #id:T0059
+  → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts this Monday, Nov 16, per Davey. (Jeffrey Chitek; Slack #nola-party-barge; touched 2026-11-14)
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
@@ -323,8 +323,6 @@ _nothing_
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Threads for Hidden Adventure in the hat Chrome profile on mbp-2 via Screen Sharing; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-12)
 - [ ] NKST Piety lot: white van keys missing, tire gauge needed #NKST #id:T0157
   → NKST manager find the missing white van keys at Piety, buy or place a tire gauge there, and check the black van's low back left tire; Michelle also suggested Jeff bring seats from the marina kayaks in the meantime. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
 - [ ] NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired #NKST #id:T0158
@@ -351,10 +349,14 @@ _nothing_
   → Davey reply to Roxanne Pauig, who is following up on her quote for outlets on the new sauna float after the photo route was chosen Nov 9. (Davey; Gmail davey@; touched 2026-11-13)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → Michael cut NOLA ad spend toward organic, since David says it was close to $400 a day; David still builds the landing pages. (Michael Fischer; Text with Michael Fischer; touched 2026-11-14)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Threads for Hidden Adventure in the hat Chrome profile on mbp-2 via Screen Sharing; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-14)
 - [ ] NKST booked 0 on $56 spend Nov 13 #NKST #id:T0183
   → Reply do 1 in #the-helm so TideBot walks the NKST booking path (site, FareHarbor checkout, pixel), unless spend is being cut anyway. (David; Slack #the-helm; touched 2026-11-14)
 - [ ] Fake Facebook page verification emails to HPB, Google Forms link #HPB #id:T0184
   → HPB staff do not click the Verification Center link; check the real page status inside Meta Business Suite and delete or report the emails. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-14)
+- [ ] Text lead: is the tiki boat dog friendly #NOLA-Bike-Bar #NPB #id:T0186
+  → NPB or Bike Bar team reply to the texter on whether the tiki boat is dog friendly. (NPB or Bike Bar team; Gmail nolabikebars@; touched 2026-11-14)
 
 ## Backburner (LSKT)
 
