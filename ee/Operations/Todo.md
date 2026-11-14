@@ -227,6 +227,10 @@
 
 - [ ] Review safety intro v2.0 slides and leave notes: https://claude.ai/artifact/WaegVue6o3Qm8Qc4QHgYU1 (see [[Operations/Dock Safety Video/v2.0 slides/README]])
 - [ ] Safety slides round 2: drop Jonah's site plan image (Slack #general ~11/6), the lot-to-ramp walk video, and photos of the no-lifeguard sign, rescue pole and Downpour into Operations/Dock Safety Video/v2.0 slides/
-- [ ] Confirm 12-month guest passes: 2/mo roll over (approved prices text 11/12) vs 24 up front (pricing plan 11/2). Site shows 2/mo. See [[Website Rebuild — Pricing Funnel + Site Plan (Nov 2026)]]
+- [x] (11/13: Periode set to 2/mo roll over, matches site) Confirm 12-month guest passes: 2/mo roll over (approved prices text 11/12) vs 24 up front (pricing plan 11/2). Site shows 2/mo. See [[Website Rebuild — Pricing Funnel + Site Plan (Nov 2026)]]
 - [ ] 11/23 switch: set Periode booking windows (Social 21 days, live 45; Private 60 public / 90 members, live 112)
 - [ ] Remarketing + email capture (2026-11-13): nothing live. Build abandoned-booking email + weekday-draw drip in ActiveCampaign as inactive drafts, then TikTok UTM bio link + pixel. Sources: Marketing/HANDOFF — Lead Magnet Build (start here, Oct 20 2026).md, Marketing/Abandoned Bookings (Jul 30 - Oct 9 2026).csv
+
+- [ ] Periode calendar: ask Erik whether booking calendar can show "sold out" / "social seats left" per time on private dates; else own-site calendar after rebuild. See [[Website Rebuild — Periode Live Availability (Oct 2026)]] (2026-11-13)
+- [ ] Waiting on Jonah/L (#dev 11/13): how the First Plunge $99 membership credit gets applied, and set First Plunge to cover 1-2 hr Social, Ember 1/2 times and the Friday Sunrise Swim, before 11/23
+- [x] Industry Happy Hour: $25, 1 to 4 PM (live 11/14)
