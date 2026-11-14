@@ -1,6 +1,6 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-13 23:58 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 01:09 PT.
 
 Counts: people 14, vendors 102, projects 6, money 441, promises 40, asks 69, dates 811
 
@@ -65,33 +65,6 @@ Counts: people 14, vendors 102, projects 6, money 441, promises 40, asks 69, dat
 - 11/10 17:28 "Let me get working on  this and I will get back to you tomorrow on pricing and materials needed for this." (Re: Warming Trends circular fire table quote + pony wall insert with schematics, floating sauna) due 2026-11-10
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-13 +16198573879: "today"
-- 2026-11-13 +19402491646: "asap"
-- 2026-11-13 Alex: "this week"
-- 2026-11-13 Claude: "11/13"
-- 2026-11-13 Claude: "Nov 13"
-- 2026-11-13 Claude: "this week"
-- 2026-11-13 Davey: "November 13"
-- 2026-11-13 Davey: "friday"
-- 2026-11-13 Davey: "this week"
-- 2026-11-13 Davey: "today"
-- 2026-11-13 Ebb & Ember: "this week"
-- 2026-11-13 Grant: "11/13"
-- 2026-11-13 Grant: "Today"
-- 2026-11-13 Grant: "this week"
-- 2026-11-13 Grant: "tonight"
-- 2026-11-13 Jonah: "11/13"
-- 2026-11-13 Jonah: "this week"
-- 2026-11-13 Jonah: "today"
-- 2026-11-13 Luke Bradley: "this week"
-- 2026-11-13 Pjstambaugh: "11/13"
-- 2026-11-13 Pjstambaugh: "tomorrow"
-- 2026-11-13 S.P.A. by Courtney Wittich: "this week"
-- 2026-11-13 The Sauna Place: "today"
-- 2026-11-13 sauna@ebbandember.com: "11/13"
-- 2026-11-13 sauna@ebbandember.com: "this week"
-- 2026-11-13 sauna@ebbandember.com: "tomorrow"
-- 2026-11-13 sean hyland: "this week"
 - 2026-11-14 +14196317132: "tomorrow"
 - 2026-11-14 +15034222844: "11/14"
 - 2026-11-14 +15034222844: "tmrw"

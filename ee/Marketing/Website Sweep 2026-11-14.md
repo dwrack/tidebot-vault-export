@@ -4,8 +4,8 @@ Site: https://ebb-and-ember-site.pages.dev (repo dwrack/ebb-and-ember-site). Thi
 
 ## Fixed and live (commit e6cdede and the commit before it)
 - First Plunge: the Friday Sunrise Swim is now shown as included everywhere. The home page and First Plunge page used to say it was excluded. Periode still excludes it until Jonah and L update the product (already on the dashboard).
-- Memberships hero said "booked 30 days early". It now says 90 days, matching the prices page.
-- "No staff" answers on the FAQ and sessions pages now name the two exceptions: the guided Banya on Mondays and the Friday swim with WaterStrong.
+- Memberships hero: checked against Jonah's "E&E Pricing Launch Drafts" doc, which says members "book privates 30 days before everyone else". That matches the site's 90-day member / 60-day public window. The hero now uses Jonah's wording: "book 30 days before everyone else".
+- "No staff" answers on the FAQ and sessions pages now say Monday Banya and the Friday Sunrise Swim are hosted by partners, not E&E staff (Davey 11/14). "Our steam master" on the prices and events pages is now "a partner steam master".
 - Private events said the Social Sauna holds 12. It now says 8 shared, or 12 as a Group Session.
 - The private saunas hero no longer promises three saunas today. It now says to book the whole sauna for up to 12, and that the East and West Saunas open in December.
 - Events FAQ: the missing "Group Session" link is fixed.
