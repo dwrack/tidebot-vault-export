@@ -237,3 +237,7 @@
 - [ ] Website: build a July guide (blog/portland-in-july) and research real July 4th river events near the dock (boat parades, fireworks visible from the Columbia) before adding a booking CTA. No July page exists yet (noted 11/14)
 
 - [ ] Set date, price and host for the wet-felting sauna hat workshop; site card on /events/#hat-workshop says "dates soon" (added 2026-11-14)
+
+- [ ] Private sauna gift card: decide price/offer after 11/23 switch (site says $449, up to 10). See Marketing/Website Sweep 2026-11-14.md (2026-11-14)
+- [ ] Memberships: ship Periode join link or relabel Join buttons to "Join the waitlist" (2026-11-14)
+- [ ] Site cutover: remove noindex meta + _headers X-Robots-Tag (2026-11-14)
