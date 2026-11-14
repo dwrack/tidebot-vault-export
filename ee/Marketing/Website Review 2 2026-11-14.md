@@ -45,3 +45,14 @@ Site: https://ebb-and-ember-site.pages.dev (repo dwrack/ebb-and-ember-site). Fou
 - "Black image boxes" reported on fast scroll: these were lazy images that hadn't loaded during an automated screenshot. Not a real bug.
 - Blog dates are correct (published 11/3 and 11/14).
 - Heading jumps (H1 straight to H3) on the bachelorette, birthday and terms pages: minor, left as is.
+
+## Shipped 11/14 (Davey's picks)
+- Home: reviews moved up under Find Your Ritual with Book + "Read all 139 reviews"; safety box is one line plus the video.
+- Private saunas: Group Session shows first on phones.
+- Events: "Get an email when this opens" on each Starting Soon card, saved to its own list: event_industry_happy_hour, event_women_femme_night, event_silent_night, event_sauna_hat_workshop. L to make matching tags in the email tool.
+- First Plunge: rain stats moved below Take the Plunge.
+- Blog post titles smaller on phones.
+- Poetic 40 to 60 word openers on home, prices, sessions, memberships, First Plunge.
+- /columbia-river/ now targets "cold plunge Portland": title, H1, description, VideoObject schema, footer link "Cold plunge + river temp", /cold-plunge-portland redirects to it. Safety video v8.3 inline with 8 chapter buttons.
+- Site video is now v8.3 everywhere (home too). Videos are served with byte ranges by functions/a/[[path]].js so chapters and scrubbing jump instantly.
+- Not done (not picked): home hero buttons. $59 seat price: check on launch day.
