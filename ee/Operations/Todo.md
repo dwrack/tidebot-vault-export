@@ -241,3 +241,5 @@
 - [ ] Private sauna gift card: decide price/offer after 11/23 switch (site says $449, up to 10). See Marketing/Website Sweep 2026-11-14.md (2026-11-14)
 - [ ] Memberships: ship Periode join link or relabel Join buttons to "Join the waitlist" (2026-11-14)
 - [ ] Site cutover: remove noindex meta + _headers X-Robots-Tag (2026-11-14)
+
+- [ ] Test site chat helper at ebb-and-ember-site.pages.dev/?chat=1 and approve making it public (2026-11-14)
