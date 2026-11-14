@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-14 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -57,9 +57,6 @@ _nothing_
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
   → David look at the V1 Pricing showing on the existing site and the member booking issue Jonah reported, and reply to Jonah. (David; Text with Jonah Moses; touched 2026-11-13)
-- [x] Elevated Tides slip lease addendum for E&E, needs David's signature #Ebb-Ember #id:T0181
-  → David sign the commercial addendum to E&E's slip lease (slips 30, 61, 62, $1,500 a month) and send it back to Jonah; section 4(b) still waits on Max confirming in writing that the saunas are not excluded as watercraft, and E&E then has 30 days to send the certificate and endorsement. (David; Gmail davey@; touched 2026-11-13)
-  > Closed by the resolver: David emailed the lease addendum back to office@elevatedtides.com signed for Elevated Tides Experiences LLC at 11-13 21:49, then again at 22:54.
 - [ ] Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through #Ebb-Ember #id:T0182
   → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
 
@@ -162,6 +159,8 @@ _nothing_
   → AKT/LSKT staff reply to GetYourGuide within 72 hours with the Nov 11 flooding cancellation explanation and any proof of the phone call or notice to the guest, or the full refund goes through. (AKT staff; Gmail austinkayaktours@; touched 2026-11-13)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
+- [ ] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #id:T0185
+  → David plan to stop by booth 2923 (Sauna from Finland) at the spa conference, and have the 2105 Paris Road marina party details ready for Alan, who is free Thursday evening. (David; Gmail dwrack81@; touched 2026-11-14)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
@@ -322,8 +321,6 @@ _nothing_
   → David or whoever runs the Apify jobs upgrade the plan or renew the expired monthly usage limit on the personal Apify account, and check which scrapers stopped. (David; Gmail davey@; touched 2026-11-11)
 - [ ] NKST company retreat inquiry, 9-10 people, kayak tour with transport, now Tue Dec 8 #NKST #id:T0078
   → NKST manager reply to Luke Johnson on availability and pricing for a group of 9-10 with transportation; he now offers Tuesday Dec 8, 1:00-5:30, instead of Dec 10. (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
-- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
-  → David build the new static HTML website with very specific landing pages that avoid alcohol terms like byob and booze cruise; Michael finish the AdWords and Meta deep dive once he can log in and use the site platform answer for the shorts and hoodies. (David; Text with Michael Fischer; touched 2026-11-11)
 - [ ] Glass Gala winner wants to schedule Maurepas Swamp guided kayak tour #NPB #NKST #id:T0151
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
@@ -354,6 +351,12 @@ _nothing_
   → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
 - [ ] Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island #id:T0180
   → Davey reply to Roxanne Pauig, who is following up on her quote for outlets on the new sauna float after the photo route was chosen Nov 9. (Davey; Gmail davey@; touched 2026-11-13)
+- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
+  → Michael cut NOLA ad spend toward organic, since David says it was close to $400 a day; David still builds the landing pages. (Michael Fischer; Text with Michael Fischer; touched 2026-11-14)
+- [ ] NKST booked 0 on $56 spend Nov 13 #NKST #id:T0183
+  → Reply do 1 in #the-helm so TideBot walks the NKST booking path (site, FareHarbor checkout, pixel), unless spend is being cut anyway. (David; Slack #the-helm; touched 2026-11-14)
+- [ ] Fake Facebook page verification emails to HPB, Google Forms link #HPB #id:T0184
+  → HPB staff do not click the Verification Center link; check the real page status inside Meta Business Suite and delete or report the emails. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-14)
 
 ## Backburner (LSKT)
 
@@ -373,7 +376,6 @@ _nothing_
 - [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
   > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
   > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
-- [x] LSKT soft demand flagged by TideBot #LSKT #done:2026-10-30 #id:T0009
 - [x] NPB ad return under 5x floor #NPB #done:2026-10-31 #id:T0017
 - [x] NKST crew PayPal payments sent Nov 2 #NKST #done:2026-11-02 #id:T0042
 - [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031
@@ -411,3 +413,6 @@ _nothing_
 - [x] Anti-slip dock steps options, get Alex's feedback #done:2026-11-13 #id:T0076
   > David: they look good, just need to finish installing them
   > Radar: Noted, the options are approved and the next move is now just finishing the install.
+- [x] Elevated Tides slip lease addendum for E&E, needs David's signature #Ebb-Ember #done:2026-11-14 #id:T0181
+  > David: Closed by the resolver: David emailed the lease addendum back to office@elevatedtides.com signed for Elevated Tides Experiences LLC at 11-13 21:49, then again at 22:54.
+  > Radar: Marked resolved. The signed addendum went back twice on Nov 13, so nothing is left on you unless the other side says they didn't get it.
