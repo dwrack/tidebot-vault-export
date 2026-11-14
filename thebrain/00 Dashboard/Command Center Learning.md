@@ -29,14 +29,13 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: known: 4
 - feedback: note: 5
 - fix_approved: 8
-- fix_ignored: 3
+- fix_ignored: 4
 - skill later: 5
 - skill run: 8
 - skill skip: 1
 
 ## Most recent taps (newest last)
 
-- 2026-11-10 19:34 | skill | social-captions | run
 - 2026-11-10 19:34 | skill | meta-ads-insider | skip
 - 2026-11-10 19:34 | skill | maps-rank | run
 - 2026-11-10 19:34 | skill | google-ads | later
@@ -76,3 +75,4 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-13 16:28 | skill | system-map | later
 - 2026-11-13 16:28 | skill | maps-rank | later
 - 2026-11-14 11:16 | fix_ignored | brand:AKT | Re-run the dashboard collector for AKT social
+- 2026-11-14 13:16 | fix_ignored | brand:NPB | Re-run the dashboard collector for NPB social
