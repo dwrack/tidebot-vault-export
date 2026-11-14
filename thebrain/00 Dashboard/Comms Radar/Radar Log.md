@@ -2,6 +2,8 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-14 08:10 | David ticked T0185 Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference
+- 2026-11-14 08:10 | David commented on T0185
 - 2026-11-14 06:10 | David ticked T0181 Elevated Tides slip lease addendum for E&E, needs David's signature
 - 2026-11-14 06:10 | David commented on T0181
 - 2026-11-14 06:10 | 9 new messages moved 4 threads: T0082, T0183, T0184, T0185

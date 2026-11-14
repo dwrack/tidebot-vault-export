@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-14 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-14 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -159,9 +159,6 @@ _nothing_
   → AKT/LSKT staff reply to GetYourGuide within 72 hours with the Nov 11 flooding cancellation explanation and any proof of the phone call or notice to the guest, or the full refund goes through. (AKT staff; Gmail austinkayaktours@; touched 2026-11-13)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
-- [x] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #id:T0185
-  → David plan to stop by booth 2923 (Sauna from Finland) at the spa conference, and have the 2105 Paris Road marina party details ready for Alan, who is free Thursday evening. (David; Gmail dwrack81@; touched 2026-11-14)
-  > Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
@@ -377,6 +374,9 @@ _nothing_
 - [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
   > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
   > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
+- [x] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #done:2026-11-14 #id:T0185
+  > David: Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
+  > Radar: Marked resolved. Alan is invited to the Thursday Nov 19 marina party and gave booth 2923 at the spa conference.
 - [x] NPB ad return under 5x floor #NPB #done:2026-10-31 #id:T0017
 - [x] NKST crew PayPal payments sent Nov 2 #NKST #done:2026-11-02 #id:T0042
 - [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031

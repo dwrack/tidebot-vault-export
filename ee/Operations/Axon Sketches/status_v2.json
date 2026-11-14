@@ -1,9 +1,9 @@
 {
- "rev": "08",
- "date": "Wed Nov 11 2026",
- "next": "Sat Nov 14",
+ "rev": "09",
+ "date": "Sat Nov 14 2026",
+ "next": "Sat Nov 21",
  "model": "Rooms 8.5 x 12 ft, schematic placement",
- "alt": "Hand-sketched isometric of the two V2 private saunas on the 18 x 36 ft float, from the Rev AP coordination set: black metal shed roofs with stovepipes, the 6 ft front fence, a change room beside each sauna door, two showers on the south wall, a round fire pit with chairs on each side, and the East sauna's rectangular window facing Mt. Hood.",
+ "alt": "Hand-sketched isometric of the two V2 private saunas on the 18 x 36 ft float, from the Rev AZ coordination set: black metal shed roofs with stovepipes, the 6 ft front fence, a change room beside each sauna door, two showers on the south wall, a round fire pit with chairs on each side, and the East sauna's rectangular window facing Mt. Hood.",
  "caption": "Four layers pulled apart: platform and tile, interior, walls, roof. Dashed outline between the rooms is the future cold plunge. Dashed line inside the walls is the flat ceiling at 7 ft to 7 ft 4 in that we are asking Grant for. Door, window and stove positions are schematic until Grant's CAD is final.",
  "key": [
   {
@@ -79,9 +79,9 @@
   }
  ],
  "notes": [
-  "Rev 08: views drawn over the newest coordination set model (Rev AP, 11/11), to scale. Nothing added by hand.",
-  "New in Rev AP: change rooms at the doors, showers side by side on the south wall, two round fire pits with chairs, East window rectangular, zen garden and fire walls removed. The water now fills the whole frame.",
-  "Still open: pit models and BTU, heater spot on wall A to confirm, Torch OK on 6 in clearance and the floor-level glass in writing, Grant to tape the stove collar height."
+  "Rev 09: views drawn over the newest coordination set model (Rev AZ, 11/13), to scale. Nothing added by hand.",
+  "New since Rev AP: AW rebuilt the East fire wall as a solid knee wall, put a 30 in cedar door on each change room, and removed the front fence and gates. AX and AY moved the posts and roofs (West roof x 21 to 155, East roof x 242 to 376). AZ redrew the plan sheets and the 3D model from the 11/13 exterior plan: one straight gas main about 32.5 ft along the sauna fronts.",
+  "Still open: pit models and BTU, Torch OK on 6 in clearance and the floor-level glass in writing, Grant to tape the stove collar height."
  ],
  "foot": "Source: Assets/V2 Build Drawings/, newest Coordination Set · redrawn every Saturday morning"
 }
