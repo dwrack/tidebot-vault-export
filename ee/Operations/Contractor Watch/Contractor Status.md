@@ -1,27 +1,30 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 21:26 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-14 07:26 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
 - **scope change** Sergey: Lounge fireplace line and coffee-table stove line were added around the quote. Sergey said 'Ok' but never said whether the $6,300 covers them. Confirm before work starts.
 - **other** Sergey: No start date, and the gas pipe is what stops Grant flooring the deck.
 - **permit** Sergey: No word on the mechanical permit or inspection for the V2 gas lines.
 - **price change** Sergey: $6,300 approved, but Jonah recalls about $3,000 for the run from the main area to the end of the dock and Davey doesn't see why it's so much more, even after simplifying the run. Ask Sergey for a split (main run vs. water heater, stoves, lounge and coffee-table lines). The earlier '$600 labor' reading was wrong.
+- **overdue** Grant: 'Finish the exterior finishing trim on the saunas this week.' was due 2026-11-13 and is not done (Said 11/9 he'd wrap it up 'this week'. Date is implied (end of week). Nothing since.)
 - **price change** Grant: Invoice #041 arrived 17:38 but the amount isn't in the Slack text. Compare it to $7,000 cash, $8,400 card and $8k card. If Grant fronted cash he said he'd charge a fee.
 - **scope change** Grant: Layout tweaks are still in play. East sauna fire pit location is undecided, Grant is concerned about it sitting under the overhang, and a south dock strip option would push the sauna out about 4 ft. Grant favors changing rooms beside the door so they are covered.
 - **quality** Grant: Stove wall spacers changed to doubled 1/2 in backer board screwed to the wall. Make sure the tiler uses this instead of the 1 in ceramic spacers or firebrick.
-- **nudge** Alex has not answered: Read the water line plan and say what's missing. Are the 2 spigots OK? Walk the route under the deck with Grant before laying pipe. (asked 2026-11-09T16:33, 101h ago)
+- **scope change** Grant: The coordination model (Rev AZ) puts an east roof post inside the East shower, so the shower layout or the roof framing has to change. Needs Grant's call before framing or tile goes further there.
+- **nudge** Alex has not answered: Read the water line plan and say what's missing. Are the 2 spigots OK? Walk the route under the deck with Grant before laying pipe. (asked 2026-11-09T16:33, 111h ago)
   - draft: "Hey Alex, did you get through the water line plan? Are the 2 spigots OK, and what would you change? Need your answer so we can order and get the pipe in."
-- **nudge** Alex has not answered: Moorage map: slip 98, where 91 and 92 are, side tie at 51, numbers on the new interior fingers, whether 61, 63, 64, 65 still exist, the untagged boat, and extinguisher locations. (asked 2026-11-10T13:31, 80h ago)
+- **nudge** Alex has not answered: Moorage map: slip 98, where 91 and 92 are, side tie at 51, numbers on the new interior fingers, whether 61, 63, 64, 65 still exist, the untagged boat, and extinguisher locations. (asked 2026-11-10T13:31, 90h ago)
   - draft: "Hey Alex, still need the dock answers for the map: slip 98, 91 and 92, 51, the new finger numbers, 61 to 65, and where each extinguisher is."
-- **nudge** Alex has not answered: Where would you mount the 3 extinguishers, first aid cabinet and deck kit? Anything blocking a path or near shower spray? (asked 2026-11-12T09:24, 36h ago)
+- **nudge** Alex has not answered: Where would you mount the 3 extinguishers, first aid cabinet and deck kit? Anything blocking a path or near shower spray? (asked 2026-11-12T09:24, 46h ago)
   - draft: "Hey Alex, where would you put the extinguishers and first aid kits on the new saunas? Inside each door at about 4 ft, plus one on the shared deck by the pits. Any problems with that?"
+- **overdue** Alex: 'Fix the loose sauna board/bench, with screws only, no nails (INC-0002).' was due 2026-11-13 and is not done (Alex said 11/8 'this week'. Date is implied (end of week).)
 - **you owe** Alex is waiting on us (davey): We may need door closers. Heat is killing the magnet and the auto hinge. OK to go that route? (since 2026-11-08T19:42)
 - **safety** Alex: Alex leak tested and sealed the rusted gas fittings. He is not a licensed gas tech, and the 11/9 safety lesson asked for a licensed tech to check. Sergey is about to be on site anyway, so ask him to look.
 - **safety** Alex: Capitol's swim-area condition needs a life ring and shepherd's hook, signage and a no-diving sign. Throw ring markers are not installed and the signs haven't arrived (INC-0007).
 - **quality** Alex: Door hardware keeps failing from heat: magnet two weeks old, exterior door hinge held tension about a week. Nails keep being used where jobs call for screws.
 - **other** Alex: Moorage map is the top priority and holds up the Dockwa site plan and ramp signs. Alex can't save changes from mobile.
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 117h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 127h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision Friday 11/14. Can you get us a number with permit and inspections included?"
 - **you owe** Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58)
   - draft: "Not yet. Ask whether it covers permit and inspections and the current layout, and say we decide after Fri 11/14."
@@ -49,11 +52,14 @@ _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on t
 
 ## Grant
 _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #private-saunas-build, iMessage
-- **Status:** Cedar interior-clear order is secured and Grant posted Kerf Invoice #041 (EBB & EMBER WRC) in #private-saunas-build at 17:38, so the ball is with Davey and Jonah to check the amount against the quotes ($7,000 cash, $8,400 card, $8k card) and pay. Wrapping up exterior trim. Stove walls are prepped and the backer board spacer plan is agreed. Floor close-up is waiting on Sergey's gas pipe.
-- Last heard: 2026-11-13T17:38 | last we sent: 2026-11-13T12:16
+- **Status:** Cedar interior-clear order is secured and Grant posted Kerf Invoice #041 (EBB & EMBER WRC) in #private-saunas-build at 17:38, so the ball is with Davey and Jonah to check the amount against the quotes ($7,000 cash, $8,400 card, $8k card) and pay. Wrapping up exterior trim. Stove walls are prepped and the backer board spacer plan is agreed. Floor close-up is waiting on Sergey's gas pipe. New 11/14 01:07: Claude posted Rev AZ of the coordination set and asked (addressed to a Slack user, assumed Grant) whether the east roof post that lands inside the East shower can be moved; waiting on that answer.
+- Last heard: 2026-11-13T17:38 | last we sent: 2026-11-14T01:07
 - **Commitments:**
   - [unknown] Finish the exterior finishing trim on the saunas this week. by 2026-11-13. Next: Grant to confirm trim is done. (Said 11/9 he'd wrap it up 'this week'. Date is implied (end of week). Nothing since.)
   - [open] Close up the V2 deck floor once the gas pipe is laid.. Next: Waiting on Sergey's gas pipe. (Blocked by Sergey's start date.)
+  - [open] Decide how to handle the east roof post that lands inside the East shower (corner by wall A, about 2 ft in from the south edge): move it north to the end of wall A, or east under the East roof, or propose another fix. Also review Rev AZ of the coordination set and flag anything off.. Next: Grant to answer on moving the post (asked 11/14 01:07) and flag anything off in Rev AZ. (Slack message was addressed to <@U0BLKNJFCPM>, not named; assumed Grant as builder on #private-saunas-build. Verify. Rev AZ artifact: https://claude.ai/artifact/RkEU6RLHX9eks8rLNmiRt2)
+- **Waiting on them:**
+  - Can the east roof post that lands inside the East shower move north to the end of wall A or east under the East roof? If not, what would you do instead? Also review Rev AZ and flag anything off. (asked 2026-11-14T01:07)
 - **Money:** Interior clear WRC order (cash price) $7,000 (quoted 2026-11-13); Interior clear WRC order (original card price) $8,400 (quoted 2026-11-13); Interior clear WRC order (negotiated card price, vendor counter after Grant pushed back) $8k (quoted 2026-11-13); Kerf Invoice #041, Ebb & Ember WRC (amount is in the PDF, not in the message)  (invoiced 2026-11-13)
 - Done: Prep the stove walls for tile: vent hole cut and wall prepped.; Buy the interior clear WRC (cedar) order. Davey said 'Go' to buying it today.; Send Davey/Jonah the invoice for the cedar order tonight (11/13), needed for the books.
 
@@ -87,7 +93,7 @@ _handyman, $30/hr, being phased out_ via text
 
 ## Electricians
 _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quotes due Fri 2026-11-14_ via email sauna@
-- **Status:** V2 electrical quote round: sheet sent 11/9 to 11 shops, quotes due Fri 11/14. Replies so far: Community Electric $4,800 (labor and materials, waiting on Davey), Unity Electrical offered a walkthrough 11/11, Young Electric estimate posted 11/9 (amount not in messages). Smiley Electric (Roxanne) followed up 11/13 17:08 on a separate outlets quote request and is waiting on Davey. Jonah's rule: whoever is hired pulls the permit and gets rough-in and final inspections.
+- **Status:** V2 electrical quote round: sheet sent 11/9 to 11 shops, quotes due Fri 11/14 (today). Replies so far: Community Electric $4,800 (labor and materials, waiting on Davey), Unity Electrical offered a walkthrough 11/11, Young Electric estimate posted 11/9 (amount not in messages). Smiley Electric (Roxanne) followed up 11/13 17:08 on a separate outlets quote request and is waiting on Davey. Jonah's rule: whoever is hired pulls the permit and gets rough-in and final inspections.
 - Last heard: 2026-11-13T17:08 | last we sent: 2026-11-09
 - **Commitments:**
   - [open] Remaining electrical quotes from the 11-shop round are due. by 2026-11-14. Next: Shops send quotes by Fri 11/14. Davey and Jonah compare. Davey sends the current electrical, gas and water layout (Claude made it 11/12). (Quote sheet sent 11/9 from sauna@.)
@@ -132,3 +138,4 @@ _fire features: Warming Trends fire table + pony wall insert estimate (sent 11/1
 - Hyland Tile (Sean Hyland, hylandtile@gmail.com, 971-331-2668): replied 11/13 19:23 to the tile RFQ, booking about three weeks out, wants a walk-through before quoting. Belongs in the Tilers group.
 - Mahaveer: bookkeeper working the October books for E&E.
 - Unidentified texter (661) 476-9130, via Google Voice to sauna@ 11/13 14:47: replied '3 would be great. Toby, Rachel, Grant. But again, only if you're able.' Not clearly contractor work (looks like a staffing or availability reply, no question context in these messages). Davey to identify before anyone is added.
+- Slack user <@U0BLKNJFCPM>: tagged 11/14 01:07 in #private-saunas-build about the east roof post in the East shower. Not named in the message; most likely Grant (framing), unconfirmed.
