@@ -220,4 +220,4 @@
 - [x] Register for Pool Spa Patio Expo, NOLA Nov 17-19 (Thermory guest code INVITES2449) DONE 11/13, badge 205187 (2026-11-13)
 - [ ] NOLA Nov 15-20: Expo Tue 11/17 (Thermory booth 2501, Sauna from Finland); Thu 11/19 marina party 2105 Paris Rd, invite Alan Jalasjaa (free Thu eve / Fri am) (2026-11-13)
 
-- [ ] Safety video v4: rings vs pole, jumps vs ladder-only, hang vests on pier hook. See [[Dock Safety Video — Storyboard (Nov 2026)]]
+- [x] Safety video v4 rendered 11/13 (pole in, jumps feet-first). Still to do: hang vests/buoys on the pier so the video is true. See [[Dock Safety Video — Storyboard (Nov 2026)]]

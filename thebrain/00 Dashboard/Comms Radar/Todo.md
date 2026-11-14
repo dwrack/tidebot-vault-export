@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -57,6 +57,10 @@ _nothing_
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
   → David look at the V1 Pricing showing on the existing site and the member booking issue Jonah reported, and reply to Jonah. (David; Text with Jonah Moses; touched 2026-11-13)
+- [ ] Elevated Tides slip lease addendum for E&E, needs David's signature #Ebb-Ember #id:T0181
+  → David sign the commercial addendum to E&E's slip lease (slips 30, 61, 62, $1,500 a month) and send it back to Jonah; section 4(b) still waits on Max confirming in writing that the saunas are not excluded as watercraft, and E&E then has 30 days to send the certificate and endorsement. (David; Gmail davey@; touched 2026-11-13)
+- [ ] Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through #Ebb-Ember #id:T0182
+  → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
 
 ## Waiting on someone
 
@@ -185,8 +189,6 @@ _nothing_
   → NKST manager reply to Antonin Guibal with Nov 18 morning availability, private tour pricing for 15 adults, pickup from The Roosevelt at 8:30 AM, deposit and weather terms; the request landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-02)
 - [ ] AKT Meta ad account dark 10+ days in peak bat season #AKT #LSKT #id:T0039
   → Check billing on the Meta ad account for AKT and get ads running again; AKT now runs as a front door into the Lone Star funnel. (AKT manager; Slack #helm-akt; touched 2026-11-02)
-- [ ] Vacaxion Cvlt creator retreat, NPB airboat feature Nov 8-12, 10 comp tickets #NPB #id:T0041
-  → Jeffrey text Sadie to set up a call and settle the terms of the 10-ticket in-kind partnership for the Nov 8-12 retreat. (Jeffrey; Gmail nolapedalbarge@; touched 2026-11-02)
 - [ ] Text lead: are the party barges still full in December #NOLA-Bike-Bar #NPB #id:T0044
   → NPB or Bike Bar team reply to the texter with December party barge availability. (NPB team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-02)
 - [ ] Review removal offer for Acacia Golson boat breakdown review, NPB #NPB #id:T0045
@@ -404,6 +406,7 @@ _nothing_
 - [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-12 #id:T0154
   > David: Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
   > Radar: Noted, closed. Domains move to Cloudflare as each one renews.
+- [x] Vacaxion Cvlt creator retreat, NPB airboat feature Nov 8-12, 10 comp tickets #NPB #done:2026-11-13 #id:T0041
 - [x] Anti-slip dock steps options, get Alex's feedback #done:2026-11-13 #id:T0076
   > David: they look good, just need to finish installing them
   > Radar: Noted, the options are approved and the next move is now just finishing the install.

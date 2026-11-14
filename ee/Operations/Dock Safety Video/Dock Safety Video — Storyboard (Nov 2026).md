@@ -1,39 +1,39 @@
 # Before You Get In — guest intro video (Nov 2026)
 
-**CURRENT (v3, 2026-11-13):** `Before You Get In - guest intro v3 (2026-11-13).mp4` (1:55, 1080p, silent). Web player with a Parts tab: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH. v1/v2 (Davey: "horrible design") are in `_old/` as history.
+**CURRENT (v4, 2026-11-13):** `Before You Get In - guest intro v4 (2026-11-13).mp4` (2:11, 1080p, silent). Web player with a Parts tab: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH. v3 moved to `_old/`; v1/v2 (Davey: "horrible design") are there too.
+
+**v4 changes (Davey review 11/13):** sauna-first cut (a preference, not a safety rule). New scenes up front: In doubt stay out; No one is on site (no staff, no lifeguard); Flotation on (vest or swim buoy on everyone who goes in). Throw scene moved ahead of Two minutes and now names the rescue pole (it hangs horizontal inside the pier rail next to the throw ring; drawn into the set). Jumping stays allowed: feet first, away from the boat, push off hard. End card: In doubt stay out. Vest on. Ladder in. Never alone.
 
 ## How it was built
 Rebuilt as separate parts, each rendered and checked on its own before scenes used them: set (drawn from Davey's 11/13 photos + Blink stills), plan view, figure rig (scaled to the real 2.4 m cabin), water/steam effects, captions on a calm panel. Canvas engine, deterministic frames. Source in `v3-source/`. Re-render: `python3 build.py film` then `node film.mjs` (needs Chrome + ffmpeg), writes intro.mp4.
 
-## Running order (safety first, door code last)
+## Running order v4 (safety first, door code last)
 1. Hook: BEFORE YOU GET IN, "the door code is at the end" (tease)
-2. Sauna first
-3. Know the gasp (ladder in, breathe slow until it passes)
-4. The river always moves (plan view: don't fight it, ride it to a ladder; front, back, pier)
-5. Jump out, not down (front of the boat pushes you under; push off hard and away)
-6. Off the roof? (you surface halfway down the boat; know the back ladder)
-7. No lifeguard. Bring one.
-8. Two minutes, tops
-9. Throw, don't go in (rings on the stern rail and the pier)
-10. Mind the steam
-11. Quick ones: no alcohol, walk don't run, feet first, not after dark, dizzy sit down
-12. Everyone signs the waiver
-13. Then your door code shows up (in the booking, once every waiver is signed); end card
+2. In doubt, stay out
+3. No one is on site
+4. Flotation on
+5. Know the gasp
+6. The river always moves (plan view)
+7. Jump out, not down (feet first, away from the boat, push off hard)
+8. Off the roof?
+9. One in, one watching
+10. Throw, don't go in (ring + rescue pole inside the pier rail, ring on the stern)
+11. Two minutes, tops (shorter when the water is cold)
+12. Mind the steam
+13. Quick ones: no alcohol, walk don't run, feet first away, not after dark, dizzy sit down
+14. Everyone signs the waiver
+15. Door code; end card
 
 ## Facts used (verified in the vault 11/13)
 - Door code appears in the booking only after every guest in the party signs the waiver in their own name.
 - Unstaffed, no lifeguard.
 
 
-## v4 proposed (2026-11-13, Davey review, not yet rendered)
-Davey: no staff on site, never go in after someone (pole or ring), flotation on anyone entering, in doubt stay out. "Sauna first" is a preference not a safety rule and is cut.
+## Settled 11/13
+- Jumping allowed, feet first and away from the boat.
+- Rescue pole exists: horizontal inside the pier railing, next to the throw ring.
 
-Running order: hook -> IN DOUBT, STAY OUT -> NO ONE IS ON SITE (you are the safety crew) -> FLOTATION ON (vest or swim buoy) -> know the gasp -> river always moves -> jump out not down -> off the roof -> THROW, DON'T GO IN (moved up) -> two minutes (shorter under 50F) -> mind the steam -> quick ones -> waiver -> door code.
-End card: "In doubt, stay out. Vest on. Ladder in. Never alone."
-
-Needs from Davey before render: (1) rings only, or hang a rescue pole at the stern ladder; (2) jumps allowed feet-first, or ladder only. Site prep: vests/buoys hung on the pier hook before the video says so.
-
-## Open calls for Davey (v3)
+## Open calls (history, v3)
 - Jumping: the pasted checklist said "no diving or jumping, ladder only". The video follows Davey's own direction (jumping allowed with the push-off and roof rules) and says "feet first, no diving". Pick one.
 - Time limit: video says two minutes (from the pasted checklist). Earlier draft said 1 to 3.
 - Left out on purpose (too much for an intro): kids policy (13+ private with guardian, 18+ social), water temperature, algae advisories and wildlife, phones. "Staff can close the river" was dropped because the sauna is unstaffed.

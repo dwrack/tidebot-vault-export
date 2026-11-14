@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-13 20:10 | 4 new messages moved 3 threads: T0041, T0181, T0182
 - 2026-11-13 18:10 | David ticked T0131 Jonah asks David to read his Slack message himself (without Claude)
 - 2026-11-13 18:10 | David ticked T0142 Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62)
 - 2026-11-13 18:10 | David commented on T0142
