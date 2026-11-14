@@ -205,4 +205,6 @@
 
 - [ ] West glass is flush with the water edge, so 120+101+120+79 = 420 in (35 ft), not 36 ft. Re-measure float length or the 101/79 numbers (Rev AU still shows 12 in at the west end). Tape numbers 11/12: 79 in glass to east edge, 101 in between saunas, 103 post to post. See Assets/V2 Build Drawings Rev AU, issue #28.
 
-- [ ] SIGN the marina Commercial Use Approval + Swimming Area Designation (tenant line, ETE). Jonah signed 11/10, emailed davey@. PDF: Legal/Marina Commercial Use Approval + Swimming Area Designation (Jonah signed 2026-11-10, Davey to sign).pdf. Then send the signed copy back to office@elevatedtides.com (2026-11-13)
+- [x] SIGN the marina Commercial Use Approval + Swimming Area Designation (tenant line, ETE). Jonah signed 11/10, emailed davey@. PDF: Legal/Marina Commercial Use Approval + Swimming Area Designation (Jonah signed 2026-11-10, Davey to sign).pdf. Then send the signed copy back to office@elevatedtides.com (2026-11-13) DONE 11/13, signed copy in Legal/
+- [ ] Site: agree the 12-person private booking name with Jonah before any further rename (currently Group Session) (2026-11-13)
+- [x] Confirm booking windows with Jonah: privates 60 days public / 90 members from 11/23; Social 21 days, no member head start (2026-11-13)

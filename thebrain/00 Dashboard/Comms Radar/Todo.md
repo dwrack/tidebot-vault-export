@@ -39,8 +39,9 @@ _nothing_
   → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0136
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
-- [ ] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
+- [x] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
   → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
+  > Closed by the resolver: David emailed office@elevatedtides.com 'signed marina plan' with an attachment on 11/13 at 16:53, in answer to Jonah's request.
 - [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
   → David or whoever runs TideBot on mbp-2 check which Gemini key and project it is calling and add prepay credits there, since the 402 says credits are depleted even after 3 keys were uploaded; then reprocess the Nov 12 logs by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
   > David: fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.
@@ -261,8 +262,9 @@ _nothing_
   → NKST manager check whether XXXL PFDs are available or buy some, and answer Abbie's question on avoiding traffic to Manchac. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Email abuse report on a message sent via amazonses.com, 'Gift them the quiet' #NKST #id:T0107
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
-- [ ] Automate paying Entergy for 1407 Piety #id:D0001
+- [x] Automate paying Entergy for 1407 Piety #id:D0001
   → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
+  > Closed by the resolver: Entergy notice forwarded 11-07 says Your Autopay is scheduled for 12/08/2026, so autopay is already set up.
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
 - [ ] Piety St shipping container locked insecurely #NKST #id:T0016
