@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 14:00 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 14:25 PT.
 
-Counts: people 14, vendors 105, projects 6, money 446, promises 40, asks 72, dates 831
+Counts: people 14, vendors 105, projects 6, money 467, promises 40, asks 72, dates 840
 
 ## Open asks of Davey (Tier 0)
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
@@ -76,11 +76,15 @@ Counts: people 14, vendors 105, projects 6, money 446, promises 40, asks 72, dat
 - 2026-11-14 Ebb & Ember: "Nov 14"
 - 2026-11-14 Ebb & Ember: "November 14"
 - 2026-11-14 Grant: "today"
+- 2026-11-14 Jonah: "11/14"
+- 2026-11-14 Jonah: "today"
 - 2026-11-14 Kaitlin Beck: "November 14"
 - 2026-11-14 Kaitlin Beck: "tonight"
 - 2026-11-14 PSP/Deck Expo: "November 14"
 - 2026-11-14 Roxanne Pauig: "Nov 14"
 - 2026-11-14 Roxanne Pauig: "tomorrow"
+- 2026-11-14 sauna@ebbandember.com: "today"
+- 2026-11-14 sauna@ebbandember.com: "tonight"
 - 2026-11-15 +16614769130: "Nov 15th"
 - 2026-11-15 Breanna Henrick: "sun"
 - 2026-11-15 Jonah: "11/15"
@@ -99,6 +103,7 @@ Counts: people 14, vendors 105, projects 6, money 446, promises 40, asks 72, dat
 - 2026-11-17 PSP/Deck Expo: "November 17"
 - 2026-11-17 Roxanne Pauig: "Nov 17"
 - 2026-11-18 Anna Nelson: "11/18"
+- 2026-11-18 Jonah: "11/18"
 - 2026-11-19 Jordan Culberson: "Nov 19"
 - 2026-11-20 Claude: "end of week"
 - 2026-11-20 Claude: "this week"

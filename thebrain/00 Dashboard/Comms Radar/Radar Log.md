@@ -2,6 +2,8 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-14 14:10 | David ticked T0180 Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island
+- 2026-11-14 14:10 | David commented on T0180
 - 2026-11-14 12:10 | 8 new messages moved 3 threads: T0059, T0088, T0186
 - 2026-11-14 08:10 | David ticked T0185 Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference
 - 2026-11-14 08:10 | David commented on T0185
