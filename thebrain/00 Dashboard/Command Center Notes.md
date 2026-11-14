@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Set date, price and host for the wet-felting sauna hat workshop (site says dates soon) | E&E | default: card stays as dates soon on /events/ [hat-workshop]
+- ~~Pick the Industry Happy Hour price, $20 or $25 (site says $20 to $25 suggested, nobody turned away unless full) | E&E | default: site keeps the range [ihh-price]~~ done 11/14: $25, 1 to 4 PM, live on /events/
 - Lane bot training: 2 min, mark 8 old E&E messages as needs-you or not (ask Claude: show me the 8) | E&E | default: training stays paused, nothing breaks [bot:ee:train:gate2]
 - ~~Lane bot training paused at the label gate (84.6% vs 85% needed): pick one, A) count only messages both bigly models call an ask (85.7%, passes now) or B) you check 8 borderline golden messages | E&E | default: stays paused, bigly qc30 keeps running Tier 1 in shadow, no tokens spent [bot:ee:train:gate]~~ done 11/13
 - [2026-12-13 due |] Send Elevated Tides the COI + additional insured endorsement (1M/2M liability, ET as additional insured, primary/non-contributory) and get Capitol written confirmation saunas not excluded as watercraft | Ebb and Ember | default: lease addendum default risk [ee-marina-coi]
@@ -30,7 +32,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-13 due | [P1] Review and pay Kerf invoice #041 for the private saunas build (asked by Grant via Slack #private-saunas-build 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:a3fe96ec]
 - 2026-11-15 due | Send the photos for the new sauna float outlet quote and reply to the follow-up about it (asked by Roxanne (Smiley Electric) via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:7b5c639b]
 - 2026-11-13 due | [P1] Sign the commercial addendum to the slip lease and send it back to [email] (asked by Jonah via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:8f8d56ed]
-- Watch guest intro video v7.1 (3:03, to-scale site plan, parking + East Ramp map, never-like-this jump scenes) (Ebb and Ember/Operations/Dock Safety Video/, web: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and hang life vests or swim buoys on the pier rail; the video now tells guests to wear one | E&E | default: video promises gear that is not on the dock
+- Watch guest intro video v7.5 (3:15, cold shock + swallowed water, ring is not a float, both downriver ladders) (Ebb and Ember/Operations/Dock Safety Video/, web: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and hang life vests or swim buoys on the pier rail; the video now tells guests to wear one | E&E | default: video promises gear that is not on the dock
 - ~~Register for the Pool Spa Patio Expo (New Orleans, Nov 17-19) with Thermory's free guest code | E&E | default: pay $85 at the door~~ DONE 11/13: badge 205187, free EXPO Pass, confirmation to davey@
 - 2026-11-17 due | NOLA trip Nov 15-20: Expo Tue 11/17 all day (Morial Conv Ctr, badge 205187; Thermory booth 2501, Sauna from Finland booth) | E&E | default: you show up without a plan of who to see
 - 2026-11-19 due | Thu 11/19 evening marina party at 2105 Paris Rd (NPB); Alan Jalasjaa (Sauna from Finland) said he is free Thu eve + Fri am, invite him | NPB/E&E | default: Alan heads back to Canada without meeting

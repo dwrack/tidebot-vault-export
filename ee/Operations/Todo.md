@@ -234,3 +234,6 @@
 - [ ] Periode calendar: ask Erik whether booking calendar can show "sold out" / "social seats left" per time on private dates; else own-site calendar after rebuild. See [[Website Rebuild — Periode Live Availability (Oct 2026)]] (2026-11-13)
 - [ ] Waiting on Jonah/L (#dev 11/13): how the First Plunge $99 membership credit gets applied, and set First Plunge to cover 1-2 hr Social, Ember 1/2 times and the Friday Sunrise Swim, before 11/23
 - [x] Industry Happy Hour: $25, 1 to 4 PM (live 11/14)
+- [ ] Website: build a July guide (blog/portland-in-july) and research real July 4th river events near the dock (boat parades, fireworks visible from the Columbia) before adding a booking CTA. No July page exists yet (noted 11/14)
+
+- [ ] Set date, price and host for the wet-felting sauna hat workshop; site card on /events/#hat-workshop says "dates soon" (added 2026-11-14)
