@@ -164,7 +164,7 @@
 "s05"
 ],
 "h": "The lounge",
-"s": "The bathroom, the shower and the lockers are here. Hang your things on the hooks. Shoes stay on the bench.",
+"s": "Change in the bathroom, the shower, the room to the right of the shower, or under a towel in the covered lounge. Lockers by the bench, coats on the hooks, shoes stay here.",
 "pins": [
 [
 5,
@@ -192,7 +192,7 @@
 "Bench for shoes and bags"
 ]
 ],
-"check": "Storage room sits to the right of the shower (future change room). Pins placed from your notes; nudge any that land on the wrong door."
+"check": ""
 },
 {
 "id": "s06",

@@ -27,6 +27,8 @@ Build: edit `slides.json` (copy, callout pins as [x%, y%, label] on the photo), 
 
 - **Outboard motor is being sold** (Davey, 11/14): leave it out of drawings.
 
+- **Where guests change** (Davey, 11/14): the bathroom, the shower, the room to the right of the shower, or under a towel in the covered lounge.
+
 ## Site facts found (11/13, from 4 studies in `site study/`)
 - **Exists today:** sauna boat, lounge pavilion, landing deck, Downpour cold shower, dock downstream with a ladder.
   - The lounge pavilion has change rooms, a bathroom, hooks, benches and a patio heater.

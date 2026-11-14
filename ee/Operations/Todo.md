@@ -227,3 +227,6 @@
 
 - [ ] Review safety intro v2.0 slides and leave notes: https://claude.ai/artifact/WaegVue6o3Qm8Qc4QHgYU1 (see [[Operations/Dock Safety Video/v2.0 slides/README]])
 - [ ] Safety slides round 2: drop Jonah's site plan image (Slack #general ~11/6), the lot-to-ramp walk video, and photos of the no-lifeguard sign, rescue pole and Downpour into Operations/Dock Safety Video/v2.0 slides/
+- [ ] Confirm 12-month guest passes: 2/mo roll over (approved prices text 11/12) vs 24 up front (pricing plan 11/2). Site shows 2/mo. See [[Website Rebuild — Pricing Funnel + Site Plan (Nov 2026)]]
+- [ ] 11/23 switch: set Periode booking windows (Social 21 days, live 45; Private 60 public / 90 members, live 112)
+- [ ] Remarketing + email capture (2026-11-13): nothing live. Build abandoned-booking email + weekday-draw drip in ActiveCampaign as inactive drafts, then TikTok UTM bio link + pixel. Sources: Marketing/HANDOFF — Lead Magnet Build (start here, Oct 20 2026).md, Marketing/Abandoned Bookings (Jul 30 - Oct 9 2026).csv

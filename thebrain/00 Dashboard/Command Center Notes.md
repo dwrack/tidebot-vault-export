@@ -10,7 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
-- Lane bot training paused at the label gate (84.6% vs 85% needed): pick one, A) count only messages both bigly models call an ask (85.7%, passes now) or B) you check 8 borderline golden messages | E&E | default: stays paused, bigly qc30 keeps running Tier 1 in shadow, no tokens spent [bot:ee:train:gate]
+- Lane bot training: 2 min, mark 8 old E&E messages as needs-you or not (ask Claude: show me the 8) | E&E | default: training stays paused, nothing breaks [bot:ee:train:gate2]
+- ~~Lane bot training paused at the label gate (84.6% vs 85% needed): pick one, A) count only messages both bigly models call an ask (85.7%, passes now) or B) you check 8 borderline golden messages | E&E | default: stays paused, bigly qc30 keeps running Tier 1 in shadow, no tokens spent [bot:ee:train:gate]~~ done 11/13
 - [2026-12-13 due |] Send Elevated Tides the COI + additional insured endorsement (1M/2M liability, ET as additional insured, primary/non-contributory) and get Capitol written confirmation saunas not excluded as watercraft | Ebb and Ember | default: lease addendum default risk [ee-marina-coi]
 - Post Rev AZ coordination set link to #private-saunas-build and ask Grant to move the roof post in front of the East shower (draft in Claude chat 11/13) | E&E | default: post stays in the East shower bay [claude:ee:v2-east-post]
 - ~~Review SMS go-live HPB/BBK/LSKT~~ LIVE 2026-11-13. DCKT still needs its Twilio key: run Desktop 'Set DCKT Twilio Key.command' (season over, no rush) | DCKT | default: DCKT stays off until spring
