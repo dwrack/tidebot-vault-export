@@ -69,6 +69,48 @@
 ]
 },
 {
+"id": "map",
+"part": "Arrival",
+"img": [
+"map"
+],
+"h": "The map",
+"s": "Enter at the landing. The Locker Lounge is beside it, the Downpour sits by the boat, and the social sauna has a ladder at each end.",
+"pins": [
+[
+60.1,
+37.5,
+"Ladder, ring, rescue pole"
+],
+[
+80.5,
+37.5,
+"Ladder, ring, rescue pole"
+],
+[
+41.5,
+39.4,
+"Downriver dock ladder"
+],
+[
+73.3,
+55.1,
+"Downpour"
+],
+[
+72.8,
+69.4,
+"Bathroom, shower, storage"
+],
+[
+42.6,
+88.9,
+"Start here"
+]
+],
+"check": "From Jonah's site plan (11/6, to scale). What do the red dotted lines along the main dock mean (no-jump edge, swim line)? Which way does the current run on this map?"
+},
+{
 "id": "s04",
 "part": "Arrival",
 "img": [
@@ -199,20 +241,15 @@
 "s09"
 ],
 "h": "The Downpour",
-"s": "Pull the cord for a cold rinse between rounds.",
+"s": "Pull the cord for a cold rinse between rounds. It sits on the dock beside the boat, where the boat's dock meets the main walkway.",
 "pins": [
 [
 43,
 21,
 "Pull cord"
-],
-[
-20,
-41,
-"Sign: sauna 10-15, cold 1-5, hydrate"
 ]
 ],
-"check": "The Downpour has moved closer to the boat. I'm pulling Jonah and Jess's new dock schematic from Slack to place it, and need a current photo."
+"check": "Placed from the site plan. The photo shows the old spot, so send a photo of the Downpour where it stands now."
 },
 {
 "id": "s10",

@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Review SMS go-live for HPB, BBK, LSKT, DCKT (built, disabled on mbp-2) | All tour brands | default: stays off, NPB/NKST only. See 03 Projects/Past Guest Revenue Gap Audit (2026-11-13)
+- TX win-back (BBK/AKT/LSKT) has no scheduler, e2 due 11/18 won't send: confirm e1 went out | TX brands | default: nothing sends
 - [2026-11-20 due |] Sign + return Elevated Tides commercial lease addendum (slips 30/61/62, $1,500/mo; PDF in Ebb and Ember/Operations/Marina Lease; reply to office@elevatedtides.com) | Ebb and Ember | default: lease stays on old single-boat terms; COI + endorsement owed within 30 days of signing; Capitol must confirm saunas not excluded as watercraft (sec 4b) [ee-marina-addendum]
 - Rinnai sits under the East roof's 7 in overhang (about 17 in above the cabinet; Rinnai wants 3 ft clear unless open on 3 sides). Shift it 7 in+ west or get Rinnai's OK | E&E | default: stays put and fails the clearance
 - 2026-11-15 due | Reply to Sean at Hyland Tile with a day this week that works for a walk-through of the two sauna rooms (asked by Sean via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:5556a257]
@@ -405,3 +407,4 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-13 13:25 | Needs you: TideBot written log processing down, Gemini prepaid credits depleted | [note] what do you need from me to fix this? [read 2026-11-13: Only a free Gemini key from a different Gmail via the Desktop Set Backup Gemini Key script. You added 3. I must test them on mbp-2, but ssh is denied here.]
 - 2026-11-13 13:29 | Skill: system-map | [run] /system-map for all. David's note: test run, keep it very short [read 2026-11-13: Not run: system-map needs ssh to all 3 Macs, denied here. Filed on dashboard.]
 - 2026-11-13 16:26 | Skill: social-captions | [run] /social-captions for ADM, CPPP, HBC, HAT, AKT, LSKT [read 2026-11-13: Not run: shell and ssh denied in this session, no captions written. Filed on dashboard to rerun from a shell session.]
+- 2026-11-13 22:17 | NKST cockpit switch: Biggest leak: Opened book form to added to cart, 82% drop | CHOSE: Do it

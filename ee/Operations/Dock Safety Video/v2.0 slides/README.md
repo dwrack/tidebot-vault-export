@@ -13,7 +13,11 @@ Build: edit `slides.json` (copy, callout pins as [x%, y%, label] on the photo), 
 - **Towels:** sit on one wherever skin touches wood, feet on the benches included. No shoes in the sauna.
 - **After dark,** use the Downpour and the shower, not the river.
 - **Waiver and code:** the code waits until everyone in the party signs, each with a unique email and phone. If the party is short a person, someone can sign twice to release it.
-- **The Downpour** moved closer to the boat. The source is Jonah's "Ebb & Ember Sight Plan" in Slack #general (~11/6), but the image is not reachable by API.
+- **Site plan:** `Site Plan to Scale 11-6-26.pdf` in this folder (Jonah, Slack #general, 11/6) is the layout of record.
+  - **Downpour:** on the dock beside the boat, where the boat's 8 ft side dock meets the 47 ft main walkway, next to the Locker Lounge (16x17).
+  - **Ladders:** one at each end of the social sauna (12x30) on the open-swim side, one on the main dock facing the soft swim area, and two at the private saunas (18x36).
+  - **Layout:** entry and landing (25x25) at the south end.
+  - **Unknown:** what the red dotted lines mean.
 - **Jumping:** feet first, no diving.
 - **Ladders:** all working; new ones on order.
 - **Private saunas:** left out of the safety intro.
