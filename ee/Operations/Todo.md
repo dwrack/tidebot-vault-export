@@ -1,7 +1,7 @@
 # Ebb & Ember — Todo List
 
 ## Dock safety video (added 2026-11-13 — [[Dock Safety Video — Storyboard (Nov 2026)]])
-- [ ] Review the 13-scene stick-figure storyboard, cut/keep scenes, confirm ladder count and where the pole and ring hang, decide web page vs MP4
+- [ ] Review guest intro v3 (Before You Get In MP4): jumping allowed vs ladder only, 2 min limit, music/voiceover, where it gets sent (booking confirmation? waiver page?)
 
 ## Contractor watch (added 2026-11-13 — [[Contractor Status]], live list in Operations/Contractor Watch/)
 - [ ] Sergey: get a start date for the V2 gas run and confirm the lounge fireplace line is inside the $6,300 (approved 11/13; your 12:41 text unanswered). Draft is in your Slack DM from the watcher
@@ -10,7 +10,7 @@
 
 ## V2 exterior electrical, gas and water plan (added 2026-11-12)
 - [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
-- [ ] Rev AV (11/13) = Rev AU + exterior layout in the 3D model only; its 2D sheets still say Rev AU. Carry the layout into the 2D sheets and status_v2.json captions before the next axon publish. Open: East sauna north offset (flush vs 20 in), float 35 vs 36 ft, post count
+- [ ] Rev AV (11/13) = Rev AU + exterior layout in the 3D model only; its 2D sheets still say Rev AU. Carry the layout into the 2D sheets and status_v2.json captions before the next axon publish. Open: East sauna north offset (flush vs 20 in), float 35 vs 36 ft, SW post spot. Also drop E3 (inside heat-rated box) from the set's electrical schedule: removed from the exterior plan 11/13
 - [ ] Push interior wall dims (stove wall 41.75 x 88, window walls 24.75 West / 8.5 East) into the Rev AU floor plan sheet
 
 ## V2 east deck fire (added 2026-11-12 — mocks: Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/)
@@ -214,3 +214,5 @@
 - [x] Confirm booking windows with Jonah: privates 60 days public / 90 members from 11/23; Social 21 days, no member head start (2026-11-13)
 - [x] Register for Pool Spa Patio Expo, NOLA Nov 17-19 (Thermory guest code INVITES2449) DONE 11/13, badge 205187 (2026-11-13)
 - [ ] NOLA Nov 15-20: Expo Tue 11/17 (Thermory booth 2501, Sauna from Finland); Thu 11/19 marina party 2105 Paris Rd, invite Alan Jalasjaa (free Thu eve / Fri am) (2026-11-13)
+
+- [ ] Safety video v4: rings vs pole, jumps vs ladder-only, hang vests on pier hook. See [[Dock Safety Video — Storyboard (Nov 2026)]]
