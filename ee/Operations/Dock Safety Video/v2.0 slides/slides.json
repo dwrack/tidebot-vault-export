@@ -75,7 +75,7 @@
 "map"
 ],
 "h": "The map",
-"s": "Enter at the landing. The Locker Lounge is beside it, the Downpour sits by the boat, and the social sauna has a ladder at each end.",
+"s": "Enter at the landing. The Locker Lounge is beside it, the Downpour sits by the boat, and the social sauna has a ladder at each end. Red dotted lines mark the swim line.",
 "pins": [
 [
 60.1,
@@ -106,9 +106,19 @@
 42.6,
 88.9,
 "Start here"
+],
+[
+41.2,
+23.7,
+"Swim line"
+],
+[
+12,
+29.6,
+"Swim line"
 ]
 ],
-"check": "From Jonah's site plan (11/6, to scale). What do the red dotted lines along the main dock mean (no-jump edge, swim line)? Which way does the current run on this map?"
+"check": ""
 },
 {
 "id": "s04",
@@ -306,11 +316,6 @@
 40,
 62,
 "Stair-end ladder"
-],
-[
-56,
-58,
-"Outboard"
 ],
 [
 24,

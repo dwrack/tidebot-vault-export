@@ -81,3 +81,27 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-13 16:56 | RESOLVED notes:32545de468 | [P1] SIGN the marina Commercial Use Approval + Swimming Area Designation (tenant line, Elevated Tides Experiences): Jonah signed for the Marina 11/10 and email… | David emailed office@elevatedtides.com 'signed marina plan' with an attachment on 11/13, after Jonah's 11/10 request to sign the tenant line and send it back.
 - 2026-11-13 16:56 | RESOLVED radar:T0142 | Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) | David emailed office@elevatedtides.com 'signed marina plan' with an attachment on 11/13 at 16:53, in answer to Jonah's request.
 - 2026-11-13 16:57 | RESOLVED radar:D0001 | Automate paying Entergy for 1407 Piety | Entergy notice forwarded 11-07 says Your Autopay is scheduled for 12/08/2026, so autopay is already set up.
+- 2026-11-13 22:29 | AUTO-DRAFTED radar:T0160 | Michael asks which seats to order on Amazon
+- 2026-11-13 22:29 | AUTO-DRAFTED radar:T0089 | Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due
+- 2026-11-13 22:29 | AUTO-DRAFTED radar:T0177 | Jonah asks if David is changing the existing website
+- 2026-11-13 22:29 | AUTO-DRAFTED radar:T0178 | Jonah: odd 'V1 Pricing' on existing site and member booking issue
+- 2026-11-13 22:29 | AUTO-DRAFTED radar:T0182 | Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through
+- 2026-11-13 22:29 | AUTO-DRAFTED radar:T0181 | Elevated Tides slip lease addendum for E&E, needs David's signature
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0122 | Rick Carlson broker asks if NOLA Bike Bar sells standalone or with shared equipment and staff
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0175 | Boat insurance may not cover people on docks and gas station area
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0020 | BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0119 | Buffalo Bayou Kayak soft demand, $119 booked vs $299 7-day average
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0015 | Innovative Printing statement, pay by card over the phone
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0158 | NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0162 | OpenAI ChatGPT Ads outreach to NKST, 30 min call on David's calendar Nov 16
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0054 | Dash cam plan: Garmin 67W with Vault auto-upload
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0084 | Apply for Elevated Tides trademark
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0018 | DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0096 | Gas line install date and permit deadline for Elevated Tides privates
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0098 | Gift card email series with WINTERSWAMP discount code
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0101 | Elevated Tides boat grabbed by someone, see founders channel
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0128 | Ebb & Ember tile setter search, NW Tub & Shower declined
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0172 | NKST ad return 0.4x under 5x floor, soft demand
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0007 | Unsolicited GreenBridge Capital DocuSign funding application
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0082 | Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets
+- 2026-11-13 22:30 | AUTO-DRAFTED radar:T0180 | Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island

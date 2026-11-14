@@ -1,5 +1,7 @@
 # Before You Get In: v2.0 slides (2026-11-13)
 
+**Purpose (Davey, 11/14):** these photo slides are REFERENCE ONLY, for getting locations and the look and feel right in the illustrated explainer video. The real photos are not meant to appear in the final video.
+
 Review page: https://claude.ai/artifact/WaegVue6o3Qm8Qc4QHgYU1. It has 23 photo-based stills, each with a status button and notes. Notes save to the page's database (collection `notes`, one doc per slide id plus `general`), and Claude reads them with ArtifactData.
 
 Build: edit `slides.json` (copy, callout pins as [x%, y%, label] on the photo), then rebuild `before-you-get-in-slides.html` from `template.html` (python snippet in the 11/13 session: replaces __BASAL__, __SLIDES__, __DIMS__) and republish to the same URL with the img/ files.
@@ -17,10 +19,13 @@ Build: edit `slides.json` (copy, callout pins as [x%, y%, label] on the photo), 
   - **Downpour:** on the dock beside the boat, where the boat's 8 ft side dock meets the 47 ft main walkway, next to the Locker Lounge (16x17).
   - **Ladders:** one at each end of the social sauna (12x30) on the open-swim side, one on the main dock facing the soft swim area, and two at the private saunas (18x36).
   - **Layout:** entry and landing (25x25) at the south end.
-  - **Unknown:** what the red dotted lines mean.
+  - **Red dotted lines** are the swim line (Davey, 11/14).
+- **Current:** the winter arrows on the slides are confirmed correct (Davey, 11/14).
 - **Jumping:** feet first, no diving.
 - **Ladders:** all working; new ones on order.
 - **Private saunas:** left out of the safety intro.
+
+- **Outboard motor is being sold** (Davey, 11/14): leave it out of drawings.
 
 ## Site facts found (11/13, from 4 studies in `site study/`)
 - **Exists today:** sauna boat, lounge pavilion, landing deck, Downpour cold shower, dock downstream with a ladder.
