@@ -6,7 +6,7 @@
 - [ ] Answer the 5 open Comms Lane Bots decisions (lane order, brief audience, brief location, $500 Tier 3 threshold, retire the in-flight watcher scan) in TheBrain/07 Reference/Decisions/2026-11-13 Comms Lane Bots.md
 
 ## Dock safety video (added 2026-11-13 — [[Dock Safety Video — Storyboard (Nov 2026)]])
-- [ ] Review guest intro v3 (Before You Get In MP4): jumping allowed vs ladder only, 2 min limit, music/voiceover, where it gets sent (booking confirmation? waiver page?)
+- [ ] Review guest intro v3 (Before You Get In MP4): 2 min limit (jumping decided 11/13: allowed with rules), music/voiceover, where it gets sent (booking confirmation? waiver page?)
 
 ## Contractor watch (added 2026-11-13 — [[Contractor Status]], live list in Operations/Contractor Watch/)
 - [ ] Sergey: get a start date for the V2 gas run and confirm the lounge fireplace line is inside the $6,300 (approved 11/13; your 12:41 text unanswered). Draft is in your Slack DM from the watcher
@@ -16,6 +16,8 @@
 ## V2 exterior electrical, gas and water plan (added 2026-11-12)
 - [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
 - [ ] Rev AV (11/13) = Rev AU + exterior layout in the 3D model only; its 2D sheets still say Rev AU. Carry the layout into the 2D sheets and status_v2.json captions before the next axon publish. Open: East sauna north offset (flush vs 20 in), float 35 vs 36 ft, SW post spot. Also drop E3 (inside heat-rated box) from the set's electrical schedule: removed from the exterior plan 11/13
+- [ ] Publish Coordination Set Rev AZ (Assets/V2 Build Drawings/2026-11-13 ... (Rev AZ).html) to the existing link claude.ai/artifact/RkEU6RLHX9eks8rLNmiRt2 (live is still Rev AO). Do it from a fresh session
+- [ ] Rinnai vs East roof overhang clearance (issue #34): move 7 in+ west or get Rinnai OK
 - [ ] Push interior wall dims (stove wall 41.75 x 88, window walls 24.75 West / 8.5 East) into the Rev AU floor plan sheet
 
 ## V2 east deck fire (added 2026-11-12 — mocks: Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/)

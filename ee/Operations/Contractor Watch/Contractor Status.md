@@ -1,6 +1,6 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 19:26 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 21:26 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
 - **scope change** Sergey: Lounge fireplace line and coffee-table stove line were added around the quote. Sergey said 'Ok' but never said whether the $6,300 covers them. Confirm before work starts.
@@ -10,18 +10,18 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 19:26 PT. Read-o
 - **price change** Grant: Invoice #041 arrived 17:38 but the amount isn't in the Slack text. Compare it to $7,000 cash, $8,400 card and $8k card. If Grant fronted cash he said he'd charge a fee.
 - **scope change** Grant: Layout tweaks are still in play. East sauna fire pit location is undecided, Grant is concerned about it sitting under the overhang, and a south dock strip option would push the sauna out about 4 ft. Grant favors changing rooms beside the door so they are covered.
 - **quality** Grant: Stove wall spacers changed to doubled 1/2 in backer board screwed to the wall. Make sure the tiler uses this instead of the 1 in ceramic spacers or firebrick.
-- **nudge** Alex has not answered: Read the water line plan and say what's missing. Are the 2 spigots OK? Walk the route under the deck with Grant before laying pipe. (asked 2026-11-09T16:33, 99h ago)
+- **nudge** Alex has not answered: Read the water line plan and say what's missing. Are the 2 spigots OK? Walk the route under the deck with Grant before laying pipe. (asked 2026-11-09T16:33, 101h ago)
   - draft: "Hey Alex, did you get through the water line plan? Are the 2 spigots OK, and what would you change? Need your answer so we can order and get the pipe in."
-- **nudge** Alex has not answered: Moorage map: slip 98, where 91 and 92 are, side tie at 51, numbers on the new interior fingers, whether 61, 63, 64, 65 still exist, the untagged boat, and extinguisher locations. (asked 2026-11-10T13:31, 78h ago)
+- **nudge** Alex has not answered: Moorage map: slip 98, where 91 and 92 are, side tie at 51, numbers on the new interior fingers, whether 61, 63, 64, 65 still exist, the untagged boat, and extinguisher locations. (asked 2026-11-10T13:31, 80h ago)
   - draft: "Hey Alex, still need the dock answers for the map: slip 98, 91 and 92, 51, the new finger numbers, 61 to 65, and where each extinguisher is."
-- **nudge** Alex has not answered: Where would you mount the 3 extinguishers, first aid cabinet and deck kit? Anything blocking a path or near shower spray? (asked 2026-11-12T09:24, 34h ago)
+- **nudge** Alex has not answered: Where would you mount the 3 extinguishers, first aid cabinet and deck kit? Anything blocking a path or near shower spray? (asked 2026-11-12T09:24, 36h ago)
   - draft: "Hey Alex, where would you put the extinguishers and first aid kits on the new saunas? Inside each door at about 4 ft, plus one on the shared deck by the pits. Any problems with that?"
 - **you owe** Alex is waiting on us (davey): We may need door closers. Heat is killing the magnet and the auto hinge. OK to go that route? (since 2026-11-08T19:42)
 - **safety** Alex: Alex leak tested and sealed the rusted gas fittings. He is not a licensed gas tech, and the 11/9 safety lesson asked for a licensed tech to check. Sergey is about to be on site anyway, so ask him to look.
 - **safety** Alex: Capitol's swim-area condition needs a life ring and shepherd's hook, signage and a no-diving sign. Throw ring markers are not installed and the signs haven't arrived (INC-0007).
 - **quality** Alex: Door hardware keeps failing from heat: magnet two weeks old, exterior door hinge held tension about a week. Nails keep being used where jobs call for screws.
 - **other** Alex: Moorage map is the top priority and holds up the Dockwa site plan and ramp signs. Alex can't save changes from mobile.
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 115h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 117h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision Friday 11/14. Can you get us a number with permit and inspections included?"
 - **you owe** Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58)
   - draft: "Not yet. Ask whether it covers permit and inspections and the current layout, and say we decide after Fri 11/14."
@@ -102,12 +102,12 @@ _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quote
 
 ## Tilers
 _V2 sauna tile job: RFQ out, 4 replies 11/10, replies to them held for Grant_ via email davey@
-- **Status:** Tile install is underway with Eloy Tarango (wall backer board first, then floor), though the messages don't say which RFQ shop he is from. Level Plane's bid arrived 11/11 and is not answered. Hawthorne and Clackamas Tile & Stone both declined. New 11/13 19:23: Sean Hyland (Hyland Tile) replied to the RFQ, is booking about three weeks out, and wants a walkthrough, asking what day this week works. Davey owes Level Plane and Hyland an answer (yes or pass), with replies held for Grant per the usual setup. Grant and Davey are directing Eloy on spacers and the grout line.
+- **Status:** Tile install is underway with Eloy Tarango (wall backer board first, then floor), though the messages don't say which RFQ shop he is from. Level Plane's bid arrived 11/11 and is not answered. Hawthorne and Clackamas Tile & Stone both declined. Sean Hyland (Hyland Tile) replied to the RFQ 11/13 19:23, is booking about three weeks out, and wants a walkthrough, asking what day this week works. Davey owes Level Plane and Hyland an answer (yes or pass), with replies held for Grant per the usual setup. Grant and Davey are directing Eloy on spacers and the grout line.
 - Last heard: 2026-11-13T19:23 | last we sent: 2026-11-09T13:55
 - **Commitments:**
   - [open] Install tile in the two private sauna rooms (12x24 matte black porcelain). Backer board on the stove walls first, then the floor.. Next: Eloy does wall backer board (doubled 1/2 in for the 1 in spacers), then floor. Grant briefs him on the method. (Eloy was fetching extra tile from the warehouse on 11/13. Labor price not in these messages.)
   - [open] Level Plane sent a bid proposal (attachment, amount not in messages).. Next: Davey to say yes or pass. If Eloy is the pick, send a short pass. (Bid email 11/11 10:13 from George, CCB 187944.)
-  - [open] Hyland Tile (Sean Hyland, 971-331-2668) wants to do a walk-through before quoting. Books about three weeks out. No price yet.. Next: Davey to answer which day this week works, or send a short pass if Eloy is the pick (Eloy is already on the walls and Hyland is three weeks out). (Email 11/13 19:23 to davey@ in reply to the RFQ.)
+  - [open] Hyland Tile (Sean Hyland, 971-331-2668) wants to do a walk-through before quoting. Books about three weeks out. No price yet.. Next: Davey to answer which day this week works, or send a short pass if Eloy is the pick (Eloy is already on the walls and Hyland is three weeks out). Check with Grant first, since tile replies are held for him. (Email 11/13 19:23 to davey@ in reply to the RFQ. It is Friday night, so 'this week' leaves little time; any walkthrough would likely be next week.)
 - **Waiting on us:**
   - Level Plane: awaiting your reply to the bid proposal. (davey, since 2026-11-11T10:13) -> If Eloy is the pick, send a short pass. Otherwise award and ask for a start date.
   - Hyland Tile (Sean Hyland): what day this week works for a walk-through? (davey, since 2026-11-13T19:23) -> Eloy is already installing and Hyland is booking three weeks out, so likely a short pass unless Davey wants a second bid. Check with Grant first, since tile replies are held for him.
