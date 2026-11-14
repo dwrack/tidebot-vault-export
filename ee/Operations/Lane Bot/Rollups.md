@@ -1,6 +1,6 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 05:42 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-14 06:58 PT.
 
 Counts: people 14, vendors 103, projects 6, money 443, promises 40, asks 69, dates 811
 

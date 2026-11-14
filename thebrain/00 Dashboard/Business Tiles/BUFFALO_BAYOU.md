@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -47,11 +47,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $18,761 |
+| Money in | $17,668 |
 | Spending | $17,095 |
-| Card payments + transfers out | $13,939 |
+| Card payments + transfers out | $11,298 |
 | Net, month to date | -$2,897 |
-| Net, same days last month | $4,142 |
+| Net, same days last month | $6,020 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|

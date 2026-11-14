@@ -159,8 +159,9 @@ _nothing_
   → AKT/LSKT staff reply to GetYourGuide within 72 hours with the Nov 11 flooding cancellation explanation and any proof of the phone call or notice to the guest, or the full refund goes through. (AKT staff; Gmail austinkayaktours@; touched 2026-11-13)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
-- [ ] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #id:T0185
+- [x] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #id:T0185
   → David plan to stop by booth 2923 (Sauna from Finland) at the spa conference, and have the 2105 Paris Road marina party details ready for Alan, who is free Thursday evening. (David; Gmail dwrack81@; touched 2026-11-14)
+  > Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171

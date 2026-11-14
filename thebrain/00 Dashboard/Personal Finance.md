@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -60,7 +60,7 @@
 | Spending | $43,405 |
 | Card payments + transfers out | $0 |
 | Net, month to date | -$101 |
-| Net, same days last month | -$15,318 |
+| Net, same days last month | -$15,413 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -76,7 +76,7 @@
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -86,7 +86,7 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $150 |
-| Spending | $2,068 |
+| Spending | $1,782 |
 | Card payments + transfers out | $2,036 |
 | Net, month to date | -$1,136 |
 | Net, same days last month | $3,795 |
@@ -102,14 +102,14 @@
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
-**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; OVERHEAD GARAGE DOOR - OV $286; COX COMM LOU $56
+**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; COX COMM LOU $56; DOCHUB $16
 
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 <!-- finance-auto:end -->
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 13. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 14. Balances only.*
 
 | Account | Balance |
 |---|---|

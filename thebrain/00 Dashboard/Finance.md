@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -23,22 +23,22 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $828 |
-| Spending | $145 |
-| Card payments + transfers out | $28,248 |
+| Spending | $93 |
+| Card payments + transfers out | $25,000 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,842 |
+| Net, same days last month | $1,555 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $0 | $1,773 | -100% |
+| Month to date, money in | $0 | $1,866 | -100% |
 | Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $1,656 | -$1,656 |
+| Month to date, net | $0 | $1,749 | -$1,749 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-A3H4R5A $20
+**Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72; fareharbor FareHarbor ST-A3H4R5A $20
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -48,7 +48,7 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $150 |
-| Spending | $2,068 |
+| Spending | $1,782 |
 | Card payments + transfers out | $2,036 |
 | Net, month to date | -$1,136 |
 | Net, same days last month | $3,795 |
@@ -64,12 +64,12 @@
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
-**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; OVERHEAD GARAGE DOOR - OV $286; COX COMM LOU $56
+**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; COX COMM LOU $56; DOCHUB $16
 
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -78,11 +78,11 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $18,761 |
+| Money in | $17,668 |
 | Spending | $17,095 |
-| Card payments + transfers out | $13,939 |
+| Card payments + transfers out | $11,298 |
 | Net, month to date | -$2,897 |
-| Net, same days last month | $4,142 |
+| Net, same days last month | $6,020 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -94,29 +94,28 @@
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $63,496 |
+| Chase Bank PERFBUS CHK (3085) | $67,747 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $94,486 |
-| Spending | $74,419 |
-| Card payments + transfers out | $23,853 |
-| Net, month to date | $3,983 |
-| Net, same days last month | $440 |
+| Money in | $99,933 |
+| Spending | $70,635 |
+| Card payments + transfers out | $24,007 |
+| Net, month to date | $9,042 |
+| Net, same days last month | $1,729 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $31,293; CHECK # $24,390; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $654
+**Top spending, 30 days:** PAYPAL $29,750; CHECK # $22,149; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $654
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
-- Check $2,242 on Oct 15: payee unknown, label it
 - Check $6,000 on Oct 21: payee unknown, label it
 - Check $6,000 on Oct 27: payee unknown, label it
 - Check $2,129 on Oct 29: payee unknown, label it

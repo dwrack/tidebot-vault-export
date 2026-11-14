@@ -43,7 +43,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 13. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -52,19 +52,19 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 | Last 30 days | Amount |
 |---|---|
 | Money in | $828 |
-| Spending | $145 |
-| Card payments + transfers out | $28,248 |
+| Spending | $93 |
+| Card payments + transfers out | $25,000 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,842 |
+| Net, same days last month | $1,555 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
-| Month to date, money in | $0 | $1,773 | -100% |
+| Month to date, money in | $0 | $1,866 | -100% |
 | Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $1,656 | -$1,656 |
+| Month to date, net | $0 | $1,749 | -$1,749 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72; MSPBNA ACH TRNSFR T $52; fareharbor FareHarbor ST-A3H4R5A $20
+**Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72; fareharbor FareHarbor ST-A3H4R5A $20
 <!-- finance:end -->
 
 ## Quick links

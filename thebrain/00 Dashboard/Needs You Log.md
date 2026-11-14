@@ -109,3 +109,6 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-14 03:51 | RESOLVED radar:T0181 | Elevated Tides slip lease addendum for E&E, needs David's signature | David emailed the lease addendum back to office@elevatedtides.com signed for Elevated Tides Experiences LLC at 11-13 21:49, then again at 22:54.
 - 2026-11-14 06:11 | AUTO-DRAFTED radar:T0185 | Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference
 - 2026-11-14 06:11 | AUTO-DRAFTED radar:T0183 | NKST booked 0 on $56 spend Nov 13
+- 2026-11-14 06:59 | RESOLVED radar:T0185 | Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference | David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
+- 2026-11-14 06:59 | RESOLVED notes:280bc4daa0 | Open the Alan (Sauna From Finland) email about booth 2923 and decide whether E&E goes to the show | David told Alan 11-11 he is at the conference Tuesday all day, and the PSP Expo registration was confirmed 11-13.
+- 2026-11-14 06:59 | RESOLVED notes:758a619625 | Thu 11/19 evening marina party at 2105 Paris Rd (NPB); Alan Jalasjaa (Sauna from Finland) said he is free Thu eve + Fri am, invite him | David emailed Alan Jalasjaa inviting him to the Thursday evening marina party at 2105 Paris Rd.
