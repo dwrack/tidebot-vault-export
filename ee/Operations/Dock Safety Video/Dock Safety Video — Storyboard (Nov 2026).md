@@ -1,6 +1,8 @@
 # Before You Get In — guest intro video (Nov 2026)
 
-**CURRENT (v5, 2026-11-13):** `Before You Get In - guest intro v5 (2026-11-13).mp4` (2:30, 1080p, silent). v4 moved to `_old/`. Web player with a Parts tab: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH. v3 moved to `_old/`; v1/v2 (Davey: "horrible design") are there too.
+**CURRENT (v5.3, 2026-11-13):** `Before You Get In - guest intro v5.3 (2026-11-13).mp4` (2:30, 1080p, silent). Older cuts in `_old/`. v5.3 (Davey 11/13): a rescue pole hangs on BOTH the bow and stern rails, each by its throw ring. None on the pier.
+
+**v5.1 (from Davey's 11/14 notes via the River safety session):** Downpour moved off the boat onto the dock just downstream of the stern (exact spot UNCONFIRMED until Jonah's "Ebb & Ember Sight Plan" image from Slack #general is saved to the vault). Rings on both boat rails again. NOT AFTER DARK card now says use the Downpour or the shower. Web player with a Parts tab: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH. v3 moved to `_old/`; v1/v2 (Davey: "horrible design") are there too.
 
 **v5 changes (Davey 11/13, late):** both boat ladders hang off the bow and stern ENDS, not the port side. Outboard removed (being sold). "One in, one watching" now reads DON'T RIVER PLUNGE ALONE, followed by a new scene: no partner, skip the river, use the Downpour or the shower under the stairs (both cold fresh water). Life ring + rescue pole drawn on the bow rail. New close-up scene: rescue pole, untwist, pull it long, twist to lock; reach from the deck, never jump in. Throw scene caption: rings at the front of the boat and on the pier (stern ring removed).
 
@@ -35,9 +37,9 @@ Rebuilt as separate parts, each rendered and checked on its own before scenes us
 
 ## Settled 11/13
 - Jumping allowed, feet first and away from the boat.
-- Rescue pole exists: horizontal inside the pier railing, next to the throw ring.
+- ~~Rescue pole inside the pier railing~~ WRONG: poles are on the boat's bow and stern rails, by the throw rings.
 - (Davey 11/13 late) Life ring + rescue pole on the fore of the boat. Pole extends by untwist, extend, twist to lock. Ladders are on the fore and aft ends. Outboard is being sold, not drawn.
-- ASSUMED, not checked: where the Downpour sits on the boat deck (drawn on the bow deck).
+- ASSUMED, not checked: Downpour drawn on the dock just downstream of the boat. Rescue poles: bow and stern rails, by the throw rings (Davey 11/13).
 
 ## Open calls (history, v3)
 - DECIDED 2026-11-13 (Davey): jumping stays allowed with the rules in the video (feet first, push off hard at the front, know the back ladder before a roof jump). No diving. The pasted "ladder only" line is rejected.

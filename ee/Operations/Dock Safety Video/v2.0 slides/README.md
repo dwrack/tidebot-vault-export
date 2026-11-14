@@ -4,6 +4,20 @@ Review page: https://claude.ai/artifact/WaegVue6o3Qm8Qc4QHgYU1. It has 23 photo-
 
 Build: edit `slides.json` (copy, callout pins as [x%, y%, label] on the photo), then rebuild `before-you-get-in-slides.html` from `template.html` (python snippet in the 11/13 session: replaces __BASAL__, __SLIDES__, __DIMS__) and republish to the same URL with the img/ files.
 
+## Davey's corrections (11/14, round 1 notes) - these win over the studies below
+- **Lounge:** shower, bathroom (left of the shower), a storage room to the right (future change room) and lockers by the shoe bench. The patio heater is gone.
+- **Current:** in winter it usually runs from the boat's far end toward the lounge end (left to right in the from-the-water photo). In summer it can run either way with wind, tide and moon.
+- **Past the landing deck:** lounge area with a fire pit coming soon, lunch seating, a future plunge area for the private saunas, the downriver dock ladder, then the private saunas.
+- **Downriver dock:** guests drift there if they can't swim back. Never jump from it, because the current sweeps you under.
+- **PFDs** hang on the lounge coat hooks and next to the ladders. There are **two rescue poles**: one inside the bow rail and one inside the stern rail, each next to that end's throw ring. None on the pier. Davey confirmed this via the video session on 11/14.
+- **Towels:** sit on one wherever skin touches wood, feet on the benches included. No shoes in the sauna.
+- **After dark,** use the Downpour and the shower, not the river.
+- **Waiver and code:** the code waits until everyone in the party signs, each with a unique email and phone. If the party is short a person, someone can sign twice to release it.
+- **The Downpour** moved closer to the boat. The source is Jonah's "Ebb & Ember Sight Plan" in Slack #general (~11/6), but the image is not reachable by API.
+- **Jumping:** feet first, no diving.
+- **Ladders:** all working; new ones on order.
+- **Private saunas:** left out of the safety intro.
+
 ## Site facts found (11/13, from 4 studies in `site study/`)
 - **Exists today:** sauna boat, lounge pavilion, landing deck, Downpour cold shower, dock downstream with a ladder.
   - The lounge pavilion has change rooms, a bathroom, hooks, benches and a patio heater.

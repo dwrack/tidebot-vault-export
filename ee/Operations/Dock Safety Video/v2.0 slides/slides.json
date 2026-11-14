@@ -5,8 +5,8 @@
 "img": [
 "s01"
 ],
-"h": "Before you get in",
-"s": "Two minutes on how the dock works and how to stay safe in the river. Your door code is at the end.",
+"h": "Welcome to Ebb & Ember",
+"s": "How the dock works and how to stay safe in the river. Your door code is at the end.",
 "pins": [],
 "check": ""
 },
@@ -25,7 +25,7 @@
 "Ramp down from the lot"
 ]
 ],
-"check": "Is this the ramp guests use? Docs say the lot is across from the East Ramp. No gate on the ramp today."
+"check": "Davey is sending phone video of the walk from the lot and down this ramp, for an accurate walk-through."
 },
 {
 "id": "s03",
@@ -34,7 +34,7 @@
 "s03"
 ],
 "h": "What's where",
-"s": "The sauna boat sits beside the lounge on the main dock. Everything is a short walk on the same dock.",
+"s": "The sauna boat sits beside the lounge on the main dock. In winter the current usually runs this way. In summer wind and tide can turn it either way.",
 "pins": [
 [
 30,
@@ -57,7 +57,16 @@
 "Throw ring"
 ]
 ],
-"check": "Which end is upstream? None of the photos show the current. Tell me and I'll mark the flow on the map slide."
+"check": "",
+"arrows": [
+[
+8,
+88,
+58,
+88,
+"Usual winter current"
+]
+]
 },
 {
 "id": "s04",
@@ -65,36 +74,36 @@
 "img": [
 "s04"
 ],
-"h": "The landing deck and the dock past it",
-"s": "Hang out on the landing deck. The dock past it has a ladder at the far end. The private saunas are being built beyond that.",
+"h": "Past the landing deck",
+"s": "Lounge by the fire, lunch tables, then the downriver dock and its ladder. The private saunas are past that.",
 "pins": [
 [
 17,
 44,
-"Landing deck seating"
+"Lounge area (fire pit coming soon)"
 ],
 [
 34,
 57,
-"Bistro table"
+"Lunch seating"
 ],
 [
 62,
 30,
-"Dock downstream of the boat"
+"Future plunge area"
 ],
 [
 82,
 31,
-"Ladder"
+"Downriver ladder"
 ],
 [
 71,
 11,
-"Private saunas (building)"
+"Private saunas"
 ]
 ],
-"check": "Security-camera view, fisheye. Is that the ladder you meant on the downstream dock?"
+"check": ""
 },
 {
 "id": "s05",
@@ -102,13 +111,18 @@
 "img": [
 "s05"
 ],
-"h": "Change in the lounge",
-"s": "Change rooms and the bathroom are here. Hang your coat and bag on the hooks. Shoes stay on the bench.",
+"h": "The lounge",
+"s": "The bathroom, the shower and the lockers are here. Hang your things on the hooks. Shoes stay on the bench.",
 "pins": [
 [
-15,
-45,
-"Change rooms + bathroom"
+5,
+38,
+"Bathroom"
+],
+[
+20,
+38,
+"Shower"
 ],
 [
 48,
@@ -116,17 +130,17 @@
 "Hooks"
 ],
 [
+31,
+56,
+"Lockers"
+],
+[
 45,
 60,
 "Bench for shoes and bags"
-],
-[
-79,
-40,
-"Patio heater"
 ]
 ],
-"check": "No lockers on site (lockers were dropped). Say so in the video, or leave it out?"
+"check": "Storage room sits to the right of the shower (future change room). Pins placed from your notes; nudge any that land on the wrong door."
 },
 {
 "id": "s06",
@@ -145,8 +159,8 @@
 "img": [
 "s07"
 ],
-"h": "Shoes off at the door",
-"s": "Bare feet on the boat. Your door code opens the keypad.",
+"h": "Bare feet, on a towel",
+"s": "No shoes in the sauna. Sit on a towel wherever skin touches wood, a towel under your feet on the benches too. Your door code opens the keypad.",
 "pins": [
 [
 25,
@@ -156,7 +170,7 @@
 [
 28,
 77,
-"Leave shoes off the boat"
+"Shoes off before the boat"
 ]
 ],
 "check": ""
@@ -198,7 +212,7 @@
 "Sign: sauna 10-15, cold 1-5, hydrate"
 ]
 ],
-"check": "Photo is from June. Same spot today?"
+"check": "The Downpour has moved closer to the boat. I'm pulling Jonah and Jess's new dock schematic from Slack to place it, and need a current photo."
 },
 {
 "id": "s10",
@@ -218,47 +232,26 @@
 "s11"
 ],
 "h": "No one is on site",
-"s": "No staff. No lifeguard. You look after each other.",
-"pins": [
-[
-52,
-93,
-"No lifeguard sign"
-],
-[
-62,
-77,
-"Ring buoy: emergency use only"
-],
-[
-8,
-84,
-"Ring buoy"
-]
-],
-"check": "Camera still, low-res. Better photo of the sign?"
+"s": "No staff and no lifeguard. Once you're here, you look after each other.",
+"pins": [],
+"check": "Send a clear photo of the no-lifeguard sign if you want it on this slide."
 },
 {
 "id": "s12",
 "part": "The river",
 "img": [
-"s12"
+"s05"
 ],
 "h": "Flotation on",
-"s": "A life jacket or swim buoy on everyone who goes in. No matter how well you swim.",
+"s": "A life jacket or swim buoy on everyone who goes in, however well you swim. PFDs hang on the lounge hooks and next to the ladders.",
 "pins": [
 [
-80,
-84,
-"Vests (today: with the kayaks)"
-],
-[
-55,
-65,
-"Throw ring"
+48,
+36,
+"PFD on the coat hooks"
 ]
 ],
-"check": "Where will guest vests or buoys hang? Today they're only with the kayaks, and the PFD may still be missing after the theft."
+"check": ""
 },
 {
 "id": "s13",
@@ -281,6 +274,11 @@
 56,
 58,
 "Outboard"
+],
+[
+24,
+56,
+"Ring + rescue pole (stern)"
 ]
 ],
 [
@@ -303,7 +301,24 @@
 ]
 ]
 ],
-"check": "Docs say the east boat ladder is buckling and a new 5-step ladder is on order. Any ladder moving?"
+"check": "All ladders are in place and working. New ladders are on order."
+},
+{
+"id": "gasp",
+"part": "The river",
+"img": [
+"s13b"
+],
+"h": "Know the gasp",
+"s": "Cold water makes you gasp. Get in slowly, hold the ladder and breathe slow until it passes.",
+"pins": [
+[
+58,
+72,
+"Hold the ladder"
+]
+],
+"check": "New slide: moved here because the old gasp photo is the downriver dock."
 },
 {
 "id": "s14",
@@ -311,16 +326,16 @@
 "img": [
 "s14"
 ],
-"h": "Know the gasp",
-"s": "Cold water makes you gasp. Hold the ladder and breathe slow until it passes.",
+"h": "Can't swim back? Ride to this dock",
+"s": "Let the current carry you to the downriver dock and climb its ladder. Never jump from this dock: the current sweeps you under it.",
 "pins": [
 [
 45,
 43,
-"Hold the ladder"
+"Downriver dock ladder"
 ]
 ],
-"check": "Is this our dock or the swim-event pier?"
+"check": ""
 },
 {
 "id": "s15",
@@ -329,9 +344,18 @@
 "s15"
 ],
 "h": "The river always moves",
-"s": "Never fight the current. Ride it to the nearest ladder.",
+"s": "Never fight the current. Ride it to the nearest ladder. In winter it usually runs this way; in summer it can turn with wind and tide.",
 "pins": [],
-"check": "Once you tell me the flow direction I'll add an arrow here."
+"check": "",
+"arrows": [
+[
+22,
+50,
+46,
+88,
+"Usual winter current"
+]
+]
 },
 {
 "id": "s16",
@@ -339,8 +363,8 @@
 "img": [
 "s17"
 ],
-"h": "Feet first, away from the boat",
-"s": "No diving. Push off hard so the current can't pull you under the hull.",
+"h": "Feet first. No diving.",
+"s": "Push off hard, away from the boat, so the current can't pull you under the hull.",
 "pins": [
 [
 52,
@@ -348,7 +372,7 @@
 "Feet first, push out"
 ]
 ],
-"check": "Capitol safety plan v3 says ladders only. The video says feet-first jumps are OK. Insurer wording needs to match."
+"check": "Capitol safety plan v3 says ladders only. The video allows feet-first jumps, so the insurer wording needs to match."
 },
 {
 "id": "s17",
@@ -378,8 +402,8 @@
 "img": [
 "s18"
 ],
-"h": "One in, one watching",
-"s": "Never alone in the river. Someone on the dock has eyes on you the whole time.",
+"h": "Buddy system",
+"s": "One in the water, one on the boat within reach of a throw ring or rescue pole. Never go in after a panicking swimmer.",
 "pins": [
 [
 86,
@@ -392,7 +416,7 @@
 "Watching from the dock"
 ]
 ],
-"check": "Same question as the gasp slide: our dock or another pier?"
+"check": ""
 },
 {
 "id": "s19",
@@ -401,15 +425,20 @@
 "s19"
 ],
 "h": "Throw. Don't go in.",
-"s": "Throw the ring or reach with the rescue pole, then pull them to a ladder. Never go in after someone.",
+"s": "Throw the ring or reach with the rescue pole, then pull them to a ladder. A ring and a pole hang at each end of the boat. Never go in after someone.",
 "pins": [
 [
 64,
 76,
 "Throw ring"
+],
+[
+80,
+57,
+"Rescue pole (bow), inside this rail"
 ]
 ],
-"check": "No photo of the rescue pole yet. Send one and I'll pin it. Doc says it hangs flat inside the pier rail next to the ring."
+"check": "Photo predates the pole. A new photo with the pole hung would be better."
 },
 {
 "id": "s20",
@@ -422,11 +451,11 @@
 "pins": [
 [
 85,
-63,
+18,
 "Dock ladder"
 ]
 ],
-"check": "Instagram cover frame with a play icon. OK for a draft?"
+"check": ""
 },
 {
 "id": "s21",
@@ -435,36 +464,9 @@
 "s21"
 ],
 "h": "Quick ones",
-"s": "No alcohol. Walk, don't run. Not after dark or in fog. Dizzy? Sit down and stay out of the water.",
+"s": "No alcohol. Walk, don't run. Dizzy? Sit down and stay out of the water. After dark, skip the river and use the Downpour and the shower.",
 "pins": [],
-"check": "Open 6 AM to 10 PM. Is the river closed after dark, or just discouraged?"
-},
-{
-"id": "s22",
-"part": "Coming soon",
-"img": [
-"s22"
-],
-"h": "Private saunas, opening December",
-"s": "Two private saunas and a fire pit on the new float. Concept only: final finishes may change.",
-"pins": [
-[
-40,
-25,
-"Sauna 1"
-],
-[
-66,
-45,
-"Sauna 2"
-],
-[
-80,
-80,
-"Fire pit (planned)"
-]
-],
-"check": "Keep this in the safety intro, or save it for a separate teaser?"
+"check": ""
 },
 {
 "id": "s23",
@@ -473,7 +475,7 @@
 "s23"
 ],
 "h": "Sign, then your code",
-"s": "Everyone signs their own waiver before you arrive. Your door code is in your booking.",
+"s": "The door code shows up once everyone in your party has signed, each with their own email and phone. Short a person? Someone can sign a second time to release it.",
 "pins": [
 [
 24,
@@ -481,6 +483,6 @@
 "Keypad"
 ]
 ],
-"check": "Docs disagree on whether the code waits for every waiver. I used the newest wording."
+"check": ""
 }
 ]

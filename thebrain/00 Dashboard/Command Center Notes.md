@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- [2026-11-20 due |] Sign + return Elevated Tides commercial lease addendum (slips 30/61/62, $1,500/mo; PDF in Ebb and Ember/Operations/Marina Lease; reply to office@elevatedtides.com) | Ebb and Ember | default: lease stays on old single-boat terms; COI + endorsement owed within 30 days of signing; Capitol must confirm saunas not excluded as watercraft (sec 4b) [ee-marina-addendum]
 - Rinnai sits under the East roof's 7 in overhang (about 17 in above the cabinet; Rinnai wants 3 ft clear unless open on 3 sides). Shift it 7 in+ west or get Rinnai's OK | E&E | default: stays put and fails the clearance
 - 2026-11-15 due | Reply to Sean at Hyland Tile with a day this week that works for a walk-through of the two sauna rooms (asked by Sean via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:5556a257]
 - Look at the Command Center redesign mockup (https://claude.ai/artifact/T1Z3wdKHLPXxZUXfgAfjq3) and say go or change it | DJL | default: Claude builds it as shown [cc:redesign]

@@ -16,7 +16,7 @@
 ## V2 exterior electrical, gas and water plan (added 2026-11-12)
 - [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
 - [ ] Rev AV (11/13) = Rev AU + exterior layout in the 3D model only; its 2D sheets still say Rev AU. Carry the layout into the 2D sheets and status_v2.json captions before the next axon publish. Open: East sauna north offset (flush vs 20 in), float 35 vs 36 ft, SW post spot. Also drop E3 (inside heat-rated box) from the set's electrical schedule: removed from the exterior plan 11/13
-- [ ] Publish Coordination Set Rev AZ (Assets/V2 Build Drawings/2026-11-13 ... (Rev AZ).html) to the existing link claude.ai/artifact/RkEU6RLHX9eks8rLNmiRt2 (live is still Rev AO). Do it from a fresh session
+- [x] Publish Coordination Set Rev AZ (Assets/V2 Build Drawings/2026-11-13 ... (Rev AZ).html) to the existing link claude.ai/artifact/RkEU6RLHX9eks8rLNmiRt2 (live is still Rev AO). Do it from a fresh session (done 2026-11-13, live as Rev AZ)
 - [ ] Rinnai vs East roof overhang clearance (issue #34): move 7 in+ west or get Rinnai OK
 - [ ] Push interior wall dims (stove wall 41.75 x 88, window walls 24.75 West / 8.5 East) into the Rev AU floor plan sheet
 
@@ -225,3 +225,4 @@
 - [x] Safety video v4 rendered 11/13 (pole in, jumps feet-first). Still to do: hang vests/buoys on the pier so the video is true. See [[Dock Safety Video — Storyboard (Nov 2026)]]
 
 - [ ] Review safety intro v2.0 slides and leave notes: https://claude.ai/artifact/WaegVue6o3Qm8Qc4QHgYU1 (see [[Operations/Dock Safety Video/v2.0 slides/README]])
+- [ ] Safety slides round 2: drop Jonah's site plan image (Slack #general ~11/6), the lot-to-ramp walk video, and photos of the no-lifeguard sign, rescue pole and Downpour into Operations/Dock Safety Video/v2.0 slides/

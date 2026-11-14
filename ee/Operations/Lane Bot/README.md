@@ -63,3 +63,21 @@ cat ~/lanes/dashboard-writer/heartbeat.json; tail ~/lanes/dashboard-writer/write
 ~/ee-stove-watchdog/venv/bin/python ~/lanes/ee/rules.py --replay ~/lanes/ee/events.jsonl --print   # shadow replay
 ```
 Flip `rules.live_kinds` in `config.json` to add `reply` when its golden precision passes 90. Set `rules.live` false to put the whole lane back in shadow. Feedback: tell Claude "that lane line was wrong" and the event's label in `golden.jsonl` is corrected (label_source "hand").
+
+## Tier 1 fine-tune by distillation (started 2026-11-13, Davey: "train it")
+
+Goal: the always-on 3B on mbp-2 clears 90% precision on the golden sample, so Tier 1 stops depending on bigly being awake.
+
+| Step | Where | What |
+|---|---|---|
+| Pool | mbp-2 `~/lanes/train/build_pool.py` | 12 months of business messages, same normalizer as the collector: E&E texts, davey@, sauna@, slack-et; plus the 12 DJL brand inboxes and brand-manager texts Comms Radar reads. Excluded entirely: dwrack81 personal inbox, family and personal-friend handles, Holman Dock. Balanced candidates in `pool_cand.jsonl` (all likely asks, a capped share of the rest, about 4% of noise). |
+| Holdout | build_pool + make_sft | The 110-event golden sample and the last 14 days never become training data (checked twice). |
+| Labels | mbp-2 `label.py`, launchd `com.djl.lane-train` 23:05 | Headless Claude Sonnet, tools off, 30 messages per call, same two outputs as Tier 1 (yes/no, then JSON with a verbatim quote). Answer key per message: Davey's next reply in the thread, matching Command Center lines (open or struck), Needs You Log, in-flight asks. Capped at 1.5M tokens a night, 23:00 to 06:00 only, resumes from `label_state.json`. Positives whose quote cannot be grounded are excluded from training. |
+| Gate | `~/lanes/train/SPOTCHECK_OK` | Training starts only after 50 labels are spot-checked by hand. |
+| Pairs | mbp-2 `make_sft.py` | MLX chat pairs built with the served prompt builders (`structure.q1_text`, `q2_text`, `event_block` with thread context), without the few-shot block; the fine-tuned model runs with `tier1.local_fewshot=false`, so no golden text sits in any training prompt. Negatives capped at 2x positives; split 90/10 by thread. |
+| Train | bigly `~/lanes-train/train_bigly.sh` | LoRA on Qwen2.5-3B-Instruct with MLX (`mlx_lm.lora --mask-prompt`, 16 layers, 1,200 iters), fuse, convert to GGUF, quantize to Q4_K_M with llama.cpp b12374. Frees Ollama models first and runs under bigly's `~/bin/heavy` (lock + 25% free floor; memguard still watches). |
+| Deploy + eval | mbp-2 `pipeline.py` | Pulls `qwen2.5-3b-lane-ft-q4_k_m.gguf` into `~/lanes/_model/` next to the base model, runs the golden sample locally with no few-shots, appends a row to `Eval.md`. Switch by config: `tier1.local_model`, `tier1.local_fewshot`, `tier1.backends`. |
+| Promotion | pipeline.py | If the fine-tune reaches 90% precision with recall at or above the 30B's 65.8%, it becomes primary (`backends: ["local","bigly"]`); otherwise bigly qc30 stays primary. Tier 1 stays shadow either way for at least one more week. One dashboard line reports the result. |
+| Monthly retrain | `retrain_monthly.py` | Designed and stubbed only, not scheduled. |
+
+Data handling: the pool, labels, pairs and model weights stay on mbp-2 and bigly (mode 600 files under `~/lanes/train` and `~/lanes-train`); nothing is uploaded anywhere except the Sonnet labeling calls on Davey's own Claude subscription. The fine-tuned weights are trained on business messages from several brands, so they stay local and are never shared.
