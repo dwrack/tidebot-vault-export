@@ -204,3 +204,5 @@
 - [ ] Site: confirm 12-month guest passes = 2 a month (memberships table changed to match /prices/) (2026-11-12)
 
 - [ ] West glass is flush with the water edge, so 120+101+120+79 = 420 in (35 ft), not 36 ft. Re-measure float length or the 101/79 numbers (Rev AU still shows 12 in at the west end). Tape numbers 11/12: 79 in glass to east edge, 101 in between saunas, 103 post to post. See Assets/V2 Build Drawings Rev AU, issue #28.
+
+- [ ] SIGN the marina Commercial Use Approval + Swimming Area Designation (tenant line, ETE). Jonah signed 11/10, emailed davey@. PDF: Legal/Marina Commercial Use Approval + Swimming Area Designation (Jonah signed 2026-11-10, Davey to sign).pdf. Then send the signed copy back to office@elevatedtides.com (2026-11-13)

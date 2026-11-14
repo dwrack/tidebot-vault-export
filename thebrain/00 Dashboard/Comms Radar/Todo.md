@@ -76,7 +76,7 @@ _nothing_
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Jonah presses Todd for deal-points update and summary judgment motions #waiting #due:2026-11-16 #id:T0167
   → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
-- [ ] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #id:T0170
+- [x] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #id:T0170
   → David read the revised declaration Todd says is headed to his inbox; Jonah has already sent Todd the fixes (title, wire date, amount through Nov 30), and there is no word yet from Bill Drew on the proposal. (Todd Key; Gmail dwrack81@; touched 2026-11-13)
   > David: do i need to respond? i read it and it looks good. hoping for some closure on this
   > Radar: Nothing in the messages shows a reply is owed from you. Jonah already sent Todd the fixes for the declaration, and Todd says the revised version is headed to your inbox. Bill Drew has not answered the proposal yet, so closure is still waiting on him.

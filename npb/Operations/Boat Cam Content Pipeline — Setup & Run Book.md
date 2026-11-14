@@ -2,6 +2,8 @@
 
 *Built 2026-08-28. Brand: NOLA Party Barge (first). Tool: `/boatcam`.*
 
+> **2026-11-13:** Part 1 (capture) is superseded by `Boat Cam v2 — Hardwired Build Spec (Nov 2026).md`: hardwired GoPro + Pi on the boat, no cradle, no human step. Part 2 (processing) still applies.
+
 The idea: the boat already has three hours of people having a good time on it every
 shift. That's the cheapest content we will ever own. The problem was never the footage,
 it was that nobody is going to scrub three hours to find the eleven seconds worth posting.
