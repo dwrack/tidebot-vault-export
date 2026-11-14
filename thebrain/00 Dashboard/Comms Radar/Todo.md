@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -35,7 +35,7 @@ _nothing_
   → David decide whether to answer Rick Carlson on selling NOLA Bike Bar standalone versus including shared equipment, staff or booking infrastructure, or to drop the buyer inquiry. (David; Gmail nolakayaktours@; touched 2026-11-09)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0124
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
-- [ ] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
+- [x] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
   → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0136
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
@@ -57,12 +57,14 @@ _nothing_
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; David's own PDX to MSY flight on Nov 16 is now confirmed. (David; Gmail dwrack81@; touched 2026-11-13)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
-- [ ] Anti-slip dock steps options, get Alex's feedback #id:T0076
+- [x] Anti-slip dock steps options, get Alex's feedback #id:T0076
   → David finish installing the anti-slip dock steps; the options are approved. (David; Slack; touched 2026-11-13)
   > David: they look good, just need to finish installing them
   > Radar: Noted, the options are approved and the next move is now just finishing the install.
 - [ ] Jonah asks if David is changing the existing website #id:T0177
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
+- [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
+  → David look at the V1 Pricing showing on the existing site and the member booking issue Jonah reported, and reply to Jonah. (David; Text with Jonah Moses; touched 2026-11-13)
 
 ## Waiting on someone
 

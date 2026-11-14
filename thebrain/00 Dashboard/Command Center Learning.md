@@ -10,8 +10,8 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: note: 5
 - fix_approved: 8
 - fix_ignored: 2
-- skill later: 2
-- skill run: 7
+- skill later: 5
+- skill run: 8
 - skill skip: 1
 
 ## Most recent taps (newest last)
@@ -52,3 +52,7 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-13 13:25 | feedback | Needs you: JTK Law proposed deal points, MSJ and declaration drafts, update due Monday | note
 - 2026-11-13 13:25 | feedback | Needs you: TideBot written log processing down, Gemini prepaid credits depleted | note
 - 2026-11-13 13:29 | skill | system-map | run
+- 2026-11-13 16:26 | skill | social-captions | run
+- 2026-11-13 16:27 | skill | social-captions | later
+- 2026-11-13 16:28 | skill | system-map | later
+- 2026-11-13 16:28 | skill | maps-rank | later
