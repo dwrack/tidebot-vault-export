@@ -163,13 +163,13 @@
 "img": [
 "s05"
 ],
-"h": "The lounge",
-"s": "Change in the bathroom, the shower, the room to the right of the shower, or under a towel in the covered lounge. Lockers by the bench, coats on the hooks, shoes stay here.",
+"h": "The Locker Lounge",
+"s": "Water filter, bathroom (heated floor), shower and a changing room. Nine lockers under the coat hooks, benches to sit on. Change in any of the rooms or under a towel here.",
 "pins": [
 [
 5,
 38,
-"Bathroom"
+"Bathroom (heated floor)"
 ],
 [
 20,
@@ -179,20 +179,20 @@
 [
 48,
 36,
-"Hooks"
+"Coat hooks"
 ],
 [
-31,
-56,
-"Lockers"
+40,
+58,
+"9 lockers under the hooks"
 ],
 [
 45,
-60,
-"Bench for shoes and bags"
+64,
+"Benches"
 ]
 ],
-"check": ""
+"check": "Changing room is the door right of the shower, and the water filter is left of the bathroom door. Both are off this photo."
 },
 {
 "id": "s06",

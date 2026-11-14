@@ -27,6 +27,7 @@ Build: edit `slides.json` (copy, callout pins as [x%, y%, label] on the photo), 
 
 - **Outboard motor is being sold** (Davey, 11/14): leave it out of drawings.
 
+- **Locker Lounge, door wall left to right** (Davey, 11/14): water filter, bathroom (heated floor), shower, changing room (no longer storage). Back wall: coat hook rail with 9 lockers under it and benches to sit on.
 - **Where guests change** (Davey, 11/14): the bathroom, the shower, the room to the right of the shower, or under a towel in the covered lounge.
 
 ## Site facts found (11/13, from 4 studies in `site study/`)
