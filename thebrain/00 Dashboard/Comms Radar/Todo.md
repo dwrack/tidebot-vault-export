@@ -345,8 +345,9 @@ _nothing_
   → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
 - [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
   → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
-- [ ] Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island #id:T0180
+- [x] Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island #id:T0180
   → Davey reply to Roxanne Pauig, who is following up on her quote for outlets on the new sauna float after the photo route was chosen Nov 9. (Davey; Gmail davey@; touched 2026-11-13)
+  > Closed by the resolver: Davey replied to Roxanne at Smiley Electric on 11-14 with photos and the updated quote sheet.
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → Michael cut NOLA ad spend toward organic, since David says it was close to $400 a day; David still builds the landing pages. (Michael Fischer; Text with Michael Fischer; touched 2026-11-14)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
