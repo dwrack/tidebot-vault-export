@@ -1,26 +1,27 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 17:26 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 19:26 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
 - **scope change** Sergey: Lounge fireplace line and coffee-table stove line were added around the quote. Sergey said 'Ok' but never said whether the $6,300 covers them. Confirm before work starts.
 - **other** Sergey: No start date, and the gas pipe is what stops Grant flooring the deck.
 - **permit** Sergey: No word on the mechanical permit or inspection for the V2 gas lines.
-- **price change** Grant: Cedar is bought (16:52) but the final price and payment method were never stated. Prices seen: $7,000 cash, $8,400 card, $8k card. Check Grant's invoice tonight against these. If he fronted cash he said he'd charge a fee.
+- **price change** Sergey: $6,300 approved, but Jonah recalls about $3,000 for the run from the main area to the end of the dock and Davey doesn't see why it's so much more, even after simplifying the run. Ask Sergey for a split (main run vs. water heater, stoves, lounge and coffee-table lines). The earlier '$600 labor' reading was wrong.
+- **price change** Grant: Invoice #041 arrived 17:38 but the amount isn't in the Slack text. Compare it to $7,000 cash, $8,400 card and $8k card. If Grant fronted cash he said he'd charge a fee.
 - **scope change** Grant: Layout tweaks are still in play. East sauna fire pit location is undecided, Grant is concerned about it sitting under the overhang, and a south dock strip option would push the sauna out about 4 ft. Grant favors changing rooms beside the door so they are covered.
 - **quality** Grant: Stove wall spacers changed to doubled 1/2 in backer board screwed to the wall. Make sure the tiler uses this instead of the 1 in ceramic spacers or firebrick.
-- **nudge** Alex has not answered: Read the water line plan and say what's missing. Are the 2 spigots OK? Walk the route under the deck with Grant before laying pipe. (asked 2026-11-09T16:33, 97h ago)
+- **nudge** Alex has not answered: Read the water line plan and say what's missing. Are the 2 spigots OK? Walk the route under the deck with Grant before laying pipe. (asked 2026-11-09T16:33, 99h ago)
   - draft: "Hey Alex, did you get through the water line plan? Are the 2 spigots OK, and what would you change? Need your answer so we can order and get the pipe in."
-- **nudge** Alex has not answered: Moorage map: slip 98, where 91 and 92 are, side tie at 51, numbers on the new interior fingers, whether 61, 63, 64, 65 still exist, the untagged boat, and extinguisher locations. (asked 2026-11-10T13:31, 76h ago)
+- **nudge** Alex has not answered: Moorage map: slip 98, where 91 and 92 are, side tie at 51, numbers on the new interior fingers, whether 61, 63, 64, 65 still exist, the untagged boat, and extinguisher locations. (asked 2026-11-10T13:31, 78h ago)
   - draft: "Hey Alex, still need the dock answers for the map: slip 98, 91 and 92, 51, the new finger numbers, 61 to 65, and where each extinguisher is."
-- **nudge** Alex has not answered: Where would you mount the 3 extinguishers, first aid cabinet and deck kit? Anything blocking a path or near shower spray? (asked 2026-11-12T09:24, 32h ago)
+- **nudge** Alex has not answered: Where would you mount the 3 extinguishers, first aid cabinet and deck kit? Anything blocking a path or near shower spray? (asked 2026-11-12T09:24, 34h ago)
   - draft: "Hey Alex, where would you put the extinguishers and first aid kits on the new saunas? Inside each door at about 4 ft, plus one on the shared deck by the pits. Any problems with that?"
 - **you owe** Alex is waiting on us (davey): We may need door closers. Heat is killing the magnet and the auto hinge. OK to go that route? (since 2026-11-08T19:42)
 - **safety** Alex: Alex leak tested and sealed the rusted gas fittings. He is not a licensed gas tech, and the 11/9 safety lesson asked for a licensed tech to check. Sergey is about to be on site anyway, so ask him to look.
 - **safety** Alex: Capitol's swim-area condition needs a life ring and shepherd's hook, signage and a no-diving sign. Throw ring markers are not installed and the signs haven't arrived (INC-0007).
 - **quality** Alex: Door hardware keeps failing from heat: magnet two weeks old, exterior door hinge held tension about a week. Nails keep being used where jobs call for screws.
 - **other** Alex: Moorage map is the top priority and holds up the Dockwa site plan and ramp signs. Alex can't save changes from mobile.
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 113h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 115h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision Friday 11/14. Can you get us a number with permit and inspections included?"
 - **you owe** Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58)
   - draft: "Not yet. Ask whether it covers permit and inspections and the current layout, and say we decide after Fri 11/14."
@@ -36,26 +37,25 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-13 17:26 PT. Read-o
 
 ## Sergey
 _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit_ via iMessage group with Grant (Davey leads); iMessage group with Jonah
-- **Status:** V2 gas lines quoted $6,300 and approved by Davey 11/13. No start date yet. Davey asked for timing at 12:41 on 11/13 and Sergey hasn't answered, so the ball is with Sergey. Grant can't close the floor until the pipe is in.
+- **Status:** V2 gas lines quoted $6,300 and approved by Davey 11/13. No start date yet. Davey asked for timing at 12:41 on 11/13 and Sergey hasn't answered, so the ball is with Sergey. Davey and Jonah are puzzled by the price (Jonah recalls about $3,000 for the main-area-to-dock-end run), but it's already approved. Grant can't close the floor until the pipe is in.
 - Last heard: 2026-11-13T11:10 | last we sent: 2026-11-13T12:41
 - **Commitments:**
-  - [open] Install V2 gas lines: one straight run across, a leg up for the fireplace sauna between the saunas, the on-demand water heater, and the 2 stoves above it. Quote covers labor and material: gas lines, connectors, shut off valves, pressure regulator. Davey also asked for a coffee-table stove line outside (11/9, Sergey 'Ok') and a lounge fireplace line (11/13, Sergey 'Ok').. Next: Sergey to give a start date (Davey pinged 11/13 12:41). Davey to ask whether the $6,300 covers the lounge fireplace and coffee-table stove lines. (Grant asked on 11/9 for the gas line by 11/13, so it is now blocking Grant. Jonah (11/13) wants a date nailed down. Sergey has not given a date.)
-  - [unknown] Repair the rusted gas fittings on the social sauna (INC-0004).. Next: Davey to decide whether Sergey still needs to do or check the fittings now that Alex says he leak tested and sealed them 11/12. (Davey said '$600~ labor' on 11/13 about Sergey on the gas line. It is unclear whether that is this repair or part of the $6,300. Alex says the fittings are sealed, but he is not a licensed gas tech.)
+  - [open] Install V2 gas lines: one straight run across, a leg up for the fireplace sauna between the saunas, the on-demand water heater, and the 2 stoves above it. Quote covers labor and material: gas lines, connectors, shut off valves, pressure regulator. Davey also asked for a coffee-table stove line outside (11/9, Sergey 'Ok') and a lounge fireplace line (11/13, Sergey 'Ok').. Next: Sergey to give a start date (Davey pinged 11/13 12:41). Davey to ask whether the $6,300 covers the lounge fireplace and coffee-table stove lines, and optionally ask for a line-item split since it came in higher than Jonah's roughly $3,000 recollection for the main run. (Grant asked on 11/9 for the gas line by 11/13, so it is now blocking Grant. Jonah (11/13) wants a date nailed down. Sergey has not given a date.)
+  - [unknown] Repair the rusted gas fittings on the social sauna (INC-0004).. Next: Davey to decide whether Sergey still needs to do or check the fittings now that Alex says he leak tested and sealed them 11/12. (Correction 11/13 17:32: the earlier '$600 labor' was a misread, Sergey's number is the $6,300 for the gas line. So there is no separate price for the fitting repair yet. Alex says the fittings are sealed, but he is not a licensed gas tech.)
   - [unknown] Mechanical permit for the V2 gas work.. Next: Davey or Jonah to confirm who pulls the permit and whether it's in the price. (No message in this batch mentions the permit. Jonah's 11/12 stance on electrical was that whoever we hire pulls the permit and gets inspections, with a City complaint on file.)
 - **Waiting on them:**
   - When can you lay the pipe in the sauna area so Grant can close up the floor? (Offered to help carry pipe down the ramp.) (asked 2026-11-13T12:41)
-- **Money:** V2 gas lines, labor and materials (lines, connectors, shut off valves, pressure regulator) $6,300.00 (approved 2026-11-13); Gas fitting repair labor, Davey's Slack estimate (unclear if separate from the $6,300) $600~ (quoted 2026-11-13)
+- **Money:** V2 gas lines, labor and materials (lines, connectors, shut off valves, pressure regulator) $6,300.00 (approved 2026-11-13)
 
 ## Grant
 _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #private-saunas-build, iMessage
-- **Status:** Cedar interior-clear order is secured (Grant, 11/13 16:52) and he'll send an invoice tonight, so the ball is with Grant for the invoice. Final price and who paid the vendor are not stated in the messages. Wrapping up exterior trim. Stove walls are prepped and the backer board spacer plan is agreed. Floor close-up is waiting on Sergey's gas pipe.
-- Last heard: 2026-11-13T16:52 | last we sent: 2026-11-13T12:16
+- **Status:** Cedar interior-clear order is secured and Grant posted Kerf Invoice #041 (EBB & EMBER WRC) in #private-saunas-build at 17:38, so the ball is with Davey and Jonah to check the amount against the quotes ($7,000 cash, $8,400 card, $8k card) and pay. Wrapping up exterior trim. Stove walls are prepped and the backer board spacer plan is agreed. Floor close-up is waiting on Sergey's gas pipe.
+- Last heard: 2026-11-13T17:38 | last we sent: 2026-11-13T12:16
 - **Commitments:**
   - [unknown] Finish the exterior finishing trim on the saunas this week. by 2026-11-13. Next: Grant to confirm trim is done. (Said 11/9 he'd wrap it up 'this week'. Date is implied (end of week). Nothing since.)
   - [open] Close up the V2 deck floor once the gas pipe is laid.. Next: Waiting on Sergey's gas pipe. (Blocked by Sergey's start date.)
-  - [open] Send Davey/Jonah the invoice for the cedar order tonight (11/13), needed for the books. by 2026-11-13. Next: Grant to send the invoice tonight. Jonah to pay and forward to Mahaveer for the October books if it lands. (Promised 11/13 16:52. Not overdue yet. If nothing by tomorrow morning, ask for it.)
-- **Money:** Interior clear WRC order (cash price) $7,000 (quoted 2026-11-13); Interior clear WRC order (original card price) $8,400 (quoted 2026-11-13); Interior clear WRC order (negotiated card price, vendor counter after Grant pushed back) $8k (quoted 2026-11-13)
-- Done: Prep the stove walls for tile: vent hole cut and wall prepped.; Buy the interior clear WRC (cedar) order. Davey said 'Go' to buying it today.
+- **Money:** Interior clear WRC order (cash price) $7,000 (quoted 2026-11-13); Interior clear WRC order (original card price) $8,400 (quoted 2026-11-13); Interior clear WRC order (negotiated card price, vendor counter after Grant pushed back) $8k (quoted 2026-11-13); Kerf Invoice #041, Ebb & Ember WRC (amount is in the PDF, not in the message)  (invoiced 2026-11-13)
+- Done: Prep the stove walls for tile: vent hole cut and wall prepped.; Buy the interior clear WRC (cedar) order. Davey said 'Go' to buying it today.; Send Davey/Jonah the invoice for the cedar order tonight (11/13), needed for the books.
 
 ## Alex
 _facilities: V2 water line, showers, incident fixes, weekly checklist_ via Slack #maintenance
@@ -102,22 +102,33 @@ _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quote
 
 ## Tilers
 _V2 sauna tile job: RFQ out, 4 replies 11/10, replies to them held for Grant_ via email davey@
-- **Status:** Tile install is underway with Eloy Tarango (wall backer board first, then floor), though the messages don't say which RFQ shop he is from. Level Plane's bid arrived 11/11 and is not answered. Hawthorne and Clackamas Tile & Stone both declined. Grant and Davey are directing Eloy on spacers and the grout line.
-- Last heard: 2026-11-12T07:29 | last we sent: 2026-11-09T13:55
+- **Status:** Tile install is underway with Eloy Tarango (wall backer board first, then floor), though the messages don't say which RFQ shop he is from. Level Plane's bid arrived 11/11 and is not answered. Hawthorne and Clackamas Tile & Stone both declined. New 11/13 19:23: Sean Hyland (Hyland Tile) replied to the RFQ, is booking about three weeks out, and wants a walkthrough, asking what day this week works. Davey owes Level Plane and Hyland an answer (yes or pass), with replies held for Grant per the usual setup. Grant and Davey are directing Eloy on spacers and the grout line.
+- Last heard: 2026-11-13T19:23 | last we sent: 2026-11-09T13:55
 - **Commitments:**
   - [open] Install tile in the two private sauna rooms (12x24 matte black porcelain). Backer board on the stove walls first, then the floor.. Next: Eloy does wall backer board (doubled 1/2 in for the 1 in spacers), then floor. Grant briefs him on the method. (Eloy was fetching extra tile from the warehouse on 11/13. Labor price not in these messages.)
   - [open] Level Plane sent a bid proposal (attachment, amount not in messages).. Next: Davey to say yes or pass. If Eloy is the pick, send a short pass. (Bid email 11/11 10:13 from George, CCB 187944.)
+  - [open] Hyland Tile (Sean Hyland, 971-331-2668) wants to do a walk-through before quoting. Books about three weeks out. No price yet.. Next: Davey to answer which day this week works, or send a short pass if Eloy is the pick (Eloy is already on the walls and Hyland is three weeks out). (Email 11/13 19:23 to davey@ in reply to the RFQ.)
 - **Waiting on us:**
   - Level Plane: awaiting your reply to the bid proposal. (davey, since 2026-11-11T10:13) -> If Eloy is the pick, send a short pass. Otherwise award and ask for a start date.
+  - Hyland Tile (Sean Hyland): what day this week works for a walk-through? (davey, since 2026-11-13T19:23) -> Eloy is already installing and Hyland is booking three weeks out, so likely a short pass unless Davey wants a second bid. Check with Grant first, since tile replies are held for him.
+
+## Refiners
+_chimney + gas stove installer (CCB 219643): installed both V2 flues 11/4; second visit (set stoves, connect gas, test) already in the $5,561.40 job, deposit $3,422.40 paid 11/3_ via email sauna@/davey@, phone 503-443-1376
+- no traffic seen yet
+
+## All Fuel
+_fire features: Warming Trends fire table + pony wall insert estimate (sent 11/12 to davey@); also does gas stoves and gas lines, OR CCB 169503_ via email davey@, office 503-674-2350
+- no traffic seen yet
 
 ## Not on the roster yet
 - Eloy Tarango: tile installer working on the V2 saunas as of 11/13. Probably one of the RFQ tile shops, unconfirmed. Add or map to the Tilers entry.
 - Hannah Bronfman: designer working on the private sauna platform layout (sketches 11/10) and the person who got the Young Electric estimate. Not on the roster.
 - Skyler Hume, All Fuel Installation and Service (503-674-2350, OR CCB 169503): quoted Warming Trends fire tables with a pony wall insert. Wants us to choose premade 60 or 72 in tables, since a 42 in table is push-to-start only. Davey needs to decide. Could overlap with Sergey's gas scope.
-- Cedar (interior clear WRC) vendor: unnamed supplier Grant is buying from (Grant refers to her as 'her'). Prices seen: $7,000 cash, $8,400 card, $8k card. Grant said 'Cedar secured' 11/13 16:52 and will send an invoice tonight. Final price not stated.
+- Cedar (interior clear WRC) vendor: unnamed supplier Grant is buying from (Grant refers to her as 'her'). Prices seen: $7,000 cash, $8,400 card, $8k card. Grant said 'Cedar secured' 11/13 16:52 and posted 'KERF INVOICE #041 EBB & EMBER WRC.pdf' at 17:38. 'Kerf' is probably the invoicing name (Grant's business or the vendor, unconfirmed). Final amount is in the PDF, not in the messages.
 - Young Electric: gave an estimate via Hannah (PDF, amount not in messages). Had concerns about pulling permits. Belongs in the Electricians round.
 - Community Electric (Richard, CCB 237023): $4,800 quote 11/10. Belongs in the Electricians round.
 - Smiley Electric (Roxanne Pauig, roxanne@smileyelectric.net): quoting outlets on the sauna float (Hayden Island, small job), followed up 11/13 17:08 with no reply from us since 11/9. Belongs in the Electricians round.
 - Level Plane Tile (George, CCB 187944): sent a bid proposal 11/11. Belongs in the Tilers group.
+- Hyland Tile (Sean Hyland, hylandtile@gmail.com, 971-331-2668): replied 11/13 19:23 to the tile RFQ, booking about three weeks out, wants a walk-through before quoting. Belongs in the Tilers group.
 - Mahaveer: bookkeeper working the October books for E&E.
 - Unidentified texter (661) 476-9130, via Google Voice to sauna@ 11/13 14:47: replied '3 would be great. Toby, Rachel, Grant. But again, only if you're able.' Not clearly contractor work (looks like a staffing or availability reply, no question context in these messages). Davey to identify before anyone is added.

@@ -29,7 +29,7 @@ Old writers switched 2026-11-13: `~/ee-inflight-watch/watch.py` (`file_asks`, `f
 - Events collected: 2543 (560 texts, 820 gmail of which 362 noise, 167 Google Voice texts, 996 Slack).
 - Golden set: 1093 events, 200 labelled asks (3 hand-labelled known misses: marina approval email 11/10, slip 9 DocuSign text 11/2, Ohana check ask 11/13; the rest provisional labels from one Sonnet pass, to be corrected by Davey's feedback).
 - Tier 0: precision 83.8%, recall 46.5% overall. Per kind: sign 92% (12/13), pay 100% (3/3), approve 100% (6/6), reply 81% (72/89). All 3 known misses caught. Recall is capped by design: Tier 0 only fires for listed people, the rest is Tier 1's job.
-- Tier 1 (sample of 120 golden events, running in the background at write time): see `Eval.md` for the first line once `structure.py --golden` finishes.
+- Tier 1 (sample of 110 golden events, 2026-11-13): 3 yes (all correct, grounded JSON), 0 no, 106 unsure (96% unsure rate). Precision 100% on the 3 it committed to, but it is not yet useful as a classifier: it almost never says no. First tuning job for phase 2: loosen the system prompt (drop the 'when not certain answer unsure' line), add the golden few-shots as full messages, and retest; promotion still needs 90% precision for a week with a usable unsure rate.
 - Machine cost: collector 0.7 CPU-s per cycle (about 5 CPU-min a day), 17 to 25 s wall. Model: loads in 4 to 12 s, 3.2 to 3.3 GB RSS while loaded (above the 2.5 GB estimate), 21 prompt tok/s, 7.6 gen tok/s, about 0.3 CPU-min per event. Zero dollars.
 
 ## Sealed lanes and privacy (phase 1 scope)
