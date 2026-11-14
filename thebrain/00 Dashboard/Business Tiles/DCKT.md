@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-13
+updated: 2026-11-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $338/wk booked vs $7,000 target — 5% of goal.** Season closed; 2 bookings in 7 days (11/6 $148, 11/11 $190).
-- Ads: $0 on Google for 7 days, no Meta delivery, confirmed live 11/13. GSC 11/5–11/10: 67 clicks, down 7% per day; "door county kayak tours" pos 1.0; "sauna door county" 3 clicks pos 3.9. IG: two carousels 11/12 (fat tire e-bikes, kayaks stacked until May). GBP 0 unreplied.
+- **Goal pace: $190/wk booked vs $7,000 target — 3% of goal.** Season closed; 1 booking in 7 days (11/11 $190). Google Ads $0.
 <!-- live:end -->
 
 <!-- maps:start -->

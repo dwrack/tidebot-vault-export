@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 9
-revenue_today: 2771
+bookings_today: 16
+revenue_today: 3595
 lead_time_days: 0
-ad_spend_yday: 439
+ad_spend_yday: 430
 status: yellow
-alert: "2★ review (JP Trigo, 11/8) unreplied 5 days; pace 69% of goal"
-updated: 2026-11-13
+alert: "2★ review (JP Trigo, 11/8) unreplied 6 days; pace 73% of goal; Google + Meta double-count same 3 sales"
+updated: 2026-11-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $20,565/wk booked vs $30,000 target — 69% of goal.** Up from $18,753 the prior 7 days; Thursday 11/12 booked 9 / $2,771.
-- **2★ JP Trigo (11/8) still unreplied, day 5, confirmed live 11/13.** The rest of the backlog was answered: 3 unreplied in the newest 20 (was 20), the other two are new 5★ (Alyson Bertke 11/13, Kayla Colter 11/12). Draft reply is in the 11/13 brief.
-- Ads Thu 11/12: Google $196.36 / 2 conv / $239.54 (Generic National $78.96 / 1; Local $14.11 / 1; PMax-12 $63.30 / 0; Holiday Party & Groups $39.99 / 0). Meta $242.38 / 1 purchase (Gator Collision $201.14 / 0; Retargeting $23.06 / 1 / $239.54). 7 days: Generic National ROAS 6.3, PMax-12 ROAS 9.6, Gator Collision $1,292 / 15 purchases / ROAS 2.07, Holiday Party & Groups $148.57 / 0 conv.
-- GSC 11/5–11/10: "nola party barge" 7 clicks / 96 impr, pos 3.2; site clicks flat per day. IG: no post since 11/6 (7 days).
+- **Goal pace: $22,018/wk booked vs $30,000 target — 73% of goal.** Up from 69%; Fri 11/13 booked 16 / $3,595.
+- **Reviews:** 2★ JP Trigo (11/8) unreplied, day 6, confirmed live 11/14. Three new 5★ also unreplied (Bel Arellano 11/13, Alyson Bertke 11/13, Kayla Colter 11/12). Draft is in the 11/14 brief.
+- Ads Fri 11/13: Google $198.28 (PMax-12 $73.18 / 0.5 conv; Generic National $67.54 / 3 conv / $179.64; Holiday Party & Groups $45.88 / 0; Local $11.68 / 0). Meta $232.14 (Gator Collision $191.54 / 3 purchases / $179.64; Retargeting $20.52; Messenger TOF $20.05). Google and Meta both claim the same $179.64.
+- GSC 11/6–11/13: "nola party barge" 7 clicks / 88 impr, pos 3.2. IG: no post since 11/6 (8 days).
 <!-- live:end -->
 
 <!-- maps:start -->

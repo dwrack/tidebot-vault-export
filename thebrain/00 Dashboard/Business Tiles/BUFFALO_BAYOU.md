@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 1
-revenue_today: 81
+bookings_today: 5
+revenue_today: 428
 lead_time_days: 0
-ad_spend_yday: 41
+ad_spend_yday: 5
 status: yellow
-alert: "Houston Meta $418 / 7d at 0 purchases; booked revenue $849/wk vs $2,443 prior week"
-updated: 2026-11-13
+alert: "Houston Meta $361 / 7d at 0 purchases; booked revenue $1,039/wk vs $4,500 goal"
+updated: 2026-11-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,9 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $849/wk booked vs $4,500 target — 19% of goal.** Down from $2,443 the prior 7 days.
-- **Meta, confirmed live 11/13:** Houston account $417.55 in 7 days, zero purchases. Thu 11/12 dropped to $36.02 (Awareness Sales IC $12.09, Bat Bridge Traffic $13.65, Retargeting $5.61, Followers Reboost $4.67). Pause still waiting on Michael's read.
-- Google (Texas umbrella) Thu 11/12: Buffalo Bayou PMax $5.58 / 2 conv / $140.73; Brand $0.98; Generic Local $2.89. 7 days: PMax $97.35 / 3 conv / $260. GBP: 0 unreplied (was 3). IG: last post 11/10.
+- **Goal pace: $1,039/wk booked vs $4,500 target — 23% of goal.** Fri 11/13 was the best day in a week: 5 booked / $428.
+- Houston Meta (act_1015419897308486): $361.10 over 11/7–11/13, 0 purchases; Fri $5.02 (Retargeting $1.99, Bat Bridge Traffic $3.03). Michael's lane.
 <!-- live:end -->
 
 <!-- maps:start -->

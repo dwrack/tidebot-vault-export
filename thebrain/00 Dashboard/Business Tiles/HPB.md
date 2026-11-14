@@ -2,13 +2,13 @@
 business: HPB
 display_name: Houston Pedal Barge
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 3
+revenue_today: 363
 lead_time_days: 0
-ad_spend_yday: 18
+ad_spend_yday: 0
 status: yellow
-alert: "no bookings since 11/7 ($181/wk); TikTok browser logged in to the wrong account"
-updated: 2026-11-13
+alert: "pace 11% of goal; 3 bookings Fri after none since 11/7; TikTok browser on wrong account (unrechecked)"
+updated: 2026-11-14
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $181/wk booked vs $4,000 target — 5% of goal.** Nothing booked since Sat 11/7.
-- TikTok: the browser session is live again but shows a Door County account, not @houstonpedalbarge (handle unverified, checked 11/13). No HPB numbers until the account is switched on mbp-2.
-- Ads Thu 11/12: Google "Search - Houston Pedal Barge" $13.33 / 0 conv ($103.38 / 0 over 7 days); Meta Followers Reboost $4.67 (engagement only). IG: "Save this before your boat day" carousel 11/12; "11PM ride" reel 15 likes. GBP 0 unreplied.
+- **Goal pace: $423/wk booked vs $4,000 target — 11% of goal.** Fri 11/13 booked 3 / $363, the first bookings since Sat 11/7.
+- IG: 11/13 holiday-party reel and 11/12 carousel at 0 likes; 11/11 review reel 15 likes. TikTok not pulled.
 <!-- live:end -->
 
 <!-- maps:start -->
