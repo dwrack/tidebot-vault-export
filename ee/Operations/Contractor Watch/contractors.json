@@ -1,33 +1,168 @@
 {
  "contractors": [
-  {"name": "Sergey", "aliases": ["Sergei", "Sergey Dengub", "Sergei Hvac", "Sergey Heating"],
+  {
+   "name": "Sergey",
+   "aliases": [
+    "Sergei",
+    "Sergey Dengub",
+    "Sergei Hvac",
+    "Sergey Heating"
+   ],
    "role": "gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit",
-   "handles": ["+15039696160"], "emails": ["sergeydengub@comcast.net"], "slack_names": [],
-   "channel": "iMessage group with Grant (Davey leads); iMessage group with Jonah"},
-  {"name": "Grant", "aliases": [],
+   "handles": [
+    "+15039696160"
+   ],
+   "emails": [
+    "sergeydengub@comcast.net"
+   ],
+   "slack_names": [],
+   "channel": "iMessage group with Grant (Davey leads); iMessage group with Jonah"
+  },
+  {
+   "name": "Grant",
+   "aliases": [],
    "role": "builder / maintenance: V2 framing, deck, floors, fire features",
-   "handles": ["+15037463888"], "emails": [], "slack_names": ["Grant"],
-   "channel": "Slack #private-saunas-build, iMessage"},
-  {"name": "Alex", "aliases": [],
+   "handles": [
+    "+15037463888"
+   ],
+   "emails": [],
+   "slack_names": [
+    "Grant"
+   ],
+   "channel": "Slack #private-saunas-build, iMessage"
+  },
+  {
+   "name": "Alex",
+   "aliases": [],
    "role": "facilities: V2 water line, showers, incident fixes, weekly checklist",
-   "handles": [], "emails": [], "slack_names": ["Alex"], "slack_id": "U0C8TPG8R35",
-   "channel": "Slack #maintenance"},
-  {"name": "Zach", "aliases": ["Zach Hull"],
+   "handles": [],
+   "emails": [],
+   "slack_names": [
+    "Alex"
+   ],
+   "slack_id": "U0C8TPG8R35",
+   "channel": "Slack #maintenance"
+  },
+  {
+   "name": "Zach",
+   "aliases": [
+    "Zach Hull"
+   ],
    "role": "handyman, $30/hr, being phased out",
-   "handles": ["+15034217043"], "emails": [], "slack_names": [], "channel": "text"},
-  {"name": "Electricians", "aliases": ["Powerall", "Anton", "Boones Ferry", "Neil", "Schooner Creek", "Gerryn", "Unity Electrical", "Pacific Northwest Electric", "Pro Tech", "Smiley", "ATR Electric", "Power Professor", "Shift Electric", "Young Electric", "electrician", "electrical quote"],
+   "handles": [
+    "+15034217043"
+   ],
+   "emails": [],
+   "slack_names": [],
+   "channel": "text"
+  },
+  {
+   "name": "Electricians",
+   "aliases": [
+    "Powerall",
+    "Anton",
+    "Boones Ferry",
+    "Neil",
+    "Schooner Creek",
+    "Gerryn",
+    "Unity Electrical",
+    "Pacific Northwest Electric",
+    "Pro Tech",
+    "Smiley",
+    "ATR Electric",
+    "Power Professor",
+    "Shift Electric",
+    "Young Electric",
+    "electrician",
+    "electrical quote"
+   ],
    "role": "V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quotes due Fri 2026-11-14",
-   "handles": [], "slack_names": [],
-   "emails": ["powerallelectricllc@gmail.com", "antondvik@gmail.com", "neil@boonesferryelectric.com", "info@schoonercreek.com", "gerrynenergy@gmail.com", "office@unityelectricalservice.com", "info@pacificnwelectric.com", "office@protechpdx.com", "mike@protechpdx.com", "josh@smileyelectric.net", "info@atrelectricpro.com", "admin@powerprofessor.co", "service@shiftelectricco.com"],
-   "channel": "email sauna@"},
-  {"name": "Tilers", "aliases": ["ET Flooring", "Level Plane", "Pyramid", "Rocky Village", "Tim Yushchuk", "tiler", "tile quote"],
+   "handles": [],
+   "slack_names": [],
+   "emails": [
+    "powerallelectricllc@gmail.com",
+    "antondvik@gmail.com",
+    "neil@boonesferryelectric.com",
+    "info@schoonercreek.com",
+    "gerrynenergy@gmail.com",
+    "office@unityelectricalservice.com",
+    "info@pacificnwelectric.com",
+    "office@protechpdx.com",
+    "mike@protechpdx.com",
+    "josh@smileyelectric.net",
+    "info@atrelectricpro.com",
+    "admin@powerprofessor.co",
+    "service@shiftelectricco.com"
+   ],
+   "channel": "email sauna@"
+  },
+  {
+   "name": "Tilers",
+   "aliases": [
+    "ET Flooring",
+    "Level Plane",
+    "Pyramid",
+    "Rocky Village",
+    "Tim Yushchuk",
+    "tiler",
+    "tile quote"
+   ],
    "role": "V2 sauna tile job: RFQ out, 4 replies 11/10, replies to them held for Grant",
-   "handles": [], "slack_names": [],
-   "emails": ["etflooring@hotmail.com", "estimating@levelplane.net", "luke@pyramidfloor.com", "info@rockyvillage.com"],
-   "channel": "email davey@"}
+   "handles": [],
+   "slack_names": [],
+   "emails": [
+    "etflooring@hotmail.com",
+    "estimating@levelplane.net",
+    "luke@pyramidfloor.com",
+    "info@rockyvillage.com"
+   ],
+   "channel": "email davey@"
+  },
+  {
+   "name": "Refiners",
+   "aliases": [
+    "Refiners Fire",
+    "Refiners Fire Services",
+    "Margaret",
+    "housecallpro"
+   ],
+   "role": "chimney + gas stove installer (CCB 219643): installed both V2 flues 11/4; second visit (set stoves, connect gas, test) already in the $5,561.40 job, deposit $3,422.40 paid 11/3",
+   "handles": [],
+   "emails": [
+    "office@refinersfireservices.com",
+    "notifications@housecallpro.com"
+   ],
+   "slack_names": [],
+   "channel": "email sauna@/davey@, phone 503-443-1376"
+  },
+  {
+   "name": "All Fuel",
+   "aliases": [
+    "All Fuel Installation",
+    "Skyler",
+    "Skyler Hume"
+   ],
+   "role": "fire features: Warming Trends fire table + pony wall insert estimate (sent 11/12 to davey@); also does gas stoves and gas lines, OR CCB 169503",
+   "handles": [],
+   "emails": [
+    "allfuel@allfuelinstallation.com",
+    "noreply@onsite"
+   ],
+   "slack_names": [],
+   "channel": "email davey@, office 503-674-2350"
+  }
  ],
- "ignore_people": ["Mario"],
- "slack_channels": ["private-saunas-build", "maintenance", "founders"],
- "gmail_accounts": ["sauna-at-ebbandember-com", "davey-at-ebbandember-com"],
+ "ignore_people": [
+  "Mario"
+ ],
+ "slack_channels": [
+  "private-saunas-build",
+  "maintenance",
+  "founders"
+ ],
+ "gmail_accounts": [
+  "sauna-at-ebbandember-com",
+  "davey-at-ebbandember-com"
+ ],
  "money_keywords": "quote|estimate|invoice|bid|\\$\\s?\\d"
 }

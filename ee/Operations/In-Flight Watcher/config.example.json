@@ -70,5 +70,10 @@
   ]
  },
  "slack_digest": false,
- "slack_fail_alert": true
+ "slack_fail_alert": true,
+ "gmail_sent_accounts": [
+  "dwrack81-at-gmail-com"
+ ],
+ "event_horizon_days": 45,
+ "commits_pass": true
 }

@@ -53,12 +53,41 @@ What never goes below Tier 3: anything with a dollar amount over 500, legal, ins
 - Temperature 0, JSON grammar enforced by llama.cpp, 3 retries then `unsure`.
 - It never sees other lanes, never sees the ledger, never writes prose for a human.
 
+## Sources (Davey 2026-11-13: "add all of that", including family, kids, Jac, personal and Holman Dock)
+
+Everything below is read on mbp-2 only, stored locally in that lane's ledger, and never leaves its lane except through the daily brief to Davey. Two lanes are sealed: **Family** (Jac, kids, family group chats, Family vault, personal money) and **Holman Dock** (off the record). Sealed lanes never feed the E&E shared record, any Slack post, any brief cut for Jonah or anyone else, and their facts are never used to update a business vault or memory without Davey's tap.
+
+| Source | Lane(s) | How read | Phase |
+|---|---|---|---|
+| iMessage, ALL chats (every brand's people, group chats, family, Jac, kids) | routed by handle: known business handle to that brand lane; family handles to Family; unknown handle to Personal | chat.db on mbp-2 (Messages in iCloud), 3-min poll | 1 |
+| davey@, sauna@ | E&E | Gmail API, existing tokens | 1 |
+| dwrack81 personal Gmail | Personal, with business threads re-routed to the brand lane by sender/domain; family and money threads to Family | Gmail API (token exists for calendar) | 1 |
+| 14 brand Gmail inboxes | each brand lane | already in Comms Radar | 1 |
+| Slack channels + DMs + group DMs, slack-et (ET/E&E) and DJL workspaces | E&E / brand lanes; #holman-dock to the Holman lane; #slip-7 to Personal | Slack API, bot tokens; DMs need the bot invited or a user token (ASK Davey) | 1 |
+| WhatsApp (WaterStrong Sunrise Swim group, any others) | E&E | WhatsApp Desktop chat export on mbp-2 if signed in, else manual export weekly | 2 |
+| FB Messenger + IG DMs (Profile 14 and the brand pages), IG and FB comments | brand lanes | meta-organic MCP for comments; DMs via the Chrome bridge lane (mbp2) using the ig-inbox pattern, read-only | 2 |
+| Google Voice numbers, Twilio replies | brand lanes | Voice: forwarding to the brand Gmail (confirm every number forwards); Twilio: message list API | 1 |
+| OpenCX sessions (6 brands) | brand lanes | read opencx-watch's latest output file, no new pull | 2 |
+| GBP reviews and Q&A | brand lanes | read review-watch output | 2 |
+| FareHarbor bookings, manifests, notes | tour brand lanes | cached scrape JSON used by morning-brief | 2 |
+| Periode bookings, members, incidents | E&E | already in sauna@; Periode API for member state | 2 |
+| Asana (Kimberlynn), Punch List sheet, Facilities Board, Facebook contractor groups, Indeed applicants | E&E / brand lanes | weekly read-only pulls | 2 |
+| Viator, GetYourGuide, TripAdvisor, Yelp supplier inboxes | tour brand lanes | forward to the brand Gmail (free) | 2 |
+| Apple Notes, Calendar (all Google accounts), Reminders | Personal + brand by content | apple-notes.py read-only, Calendar API | 2 |
+| Money: QBO per business, SimpleFIN bank feeds, Venmo and Zelle notices, Stripe and Square payouts | brand lanes; personal money to Family | existing Budget tab feeds; Venmo/Zelle from dwrack81 | 3 |
+| Family vault `_Ops/Open Loops.md`, kids and school email, home projects (2815 house) | Family | file read + dwrack81 filters | 2 |
+| Holman Dock: #holman-dock Slack, Hannah B threads, LOI drafts | Holman (sealed) | same collectors, sealed ledger | 1 |
+
+Rules for the sealed lanes: never in any shared record; never in a Slack message; never quoted in a bot-filed dashboard line beyond the ask itself; the daily brief shows them in a separate "Personal" block at the end that is never included in any export or cut for another person.
+
 ## Lanes and sources (phase 1)
 
 | Lane | People allowlist | Inboxes | Slack | Texts |
 |---|---|---|---|---|
 | E&E | Jonah, Grant, Alex, Max, Sergey, Mack, L, Kimberlynn, Hannah, Jess, Adrian | davey@, sauna@ | slack-et channels (13) | chat.db, partner handle rule |
-| Personal | Jac, family, Dustin buyout counsel | dwrack81@ | none | chat.db |
+| Personal | Dustin buyout counsel, friends, non-brand vendors | dwrack81@ | #slip-7 | chat.db unknown handles |
+| Family (sealed) | Jac, kids, family | dwrack81@ family threads | none | chat.db family handles |
+| Holman Dock (sealed) | Hannah B, Holman contacts | davey@ Holman threads | #holman-dock | chat.db |
 | NPB (phase 2) | Jeff, Michael, captains | nolapedalbarge | DJL slack | chat.db |
 
 Other brands join one at a time after NPB proves the lane template.

@@ -1,5 +1,8 @@
 # Ebb & Ember — Todo List
 
+## Dock safety video (added 2026-11-13 — [[Dock Safety Video — Storyboard v1 (Nov 2026)]])
+- [ ] Review the 13-scene stick-figure storyboard, cut/keep scenes, confirm ladder count and where the pole and ring hang, decide web page vs MP4
+
 ## Contractor watch (added 2026-11-13 — [[Contractor Status]], live list in Operations/Contractor Watch/)
 - [ ] Sergey: get a start date for the V2 gas run and confirm the lounge fireplace line is inside the $6,300 (approved 11/13; your 12:41 text unanswered). Draft is in your Slack DM from the watcher
 - [ ] Sergey: confirm who pulls the gas/mechanical permit, and have him inspect/pressure-test the social sauna fittings Alex says he sealed himself (INC-0004, now a maintenance item)
@@ -208,3 +211,5 @@
 - [x] SIGN the marina Commercial Use Approval + Swimming Area Designation (tenant line, ETE). Jonah signed 11/10, emailed davey@. PDF: Legal/Marina Commercial Use Approval + Swimming Area Designation (Jonah signed 2026-11-10, Davey to sign).pdf. Then send the signed copy back to office@elevatedtides.com (2026-11-13) DONE 11/13, signed copy in Legal/
 - [ ] Site: agree the 12-person private booking name with Jonah before any further rename (currently Group Session) (2026-11-13)
 - [x] Confirm booking windows with Jonah: privates 60 days public / 90 members from 11/23; Social 21 days, no member head start (2026-11-13)
+- [x] Register for Pool Spa Patio Expo, NOLA Nov 17-19 (Thermory guest code INVITES2449) DONE 11/13, badge 205187 (2026-11-13)
+- [ ] NOLA Nov 15-20: Expo Tue 11/17 (Thermory booth 2501, Sauna from Finland); Thu 11/19 marina party 2105 Paris Rd, invite Alan Jalasjaa (free Thu eve / Fri am) (2026-11-13)

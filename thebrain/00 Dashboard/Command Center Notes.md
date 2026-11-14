@@ -10,6 +10,11 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Review the dock safety stick-figure storyboard (13 scenes, https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and say which scenes to cut, the real ladder count, and whether it becomes an MP4 | E&E | default: stays a draft web page nobody sees
+- ~~Register for the Pool Spa Patio Expo (New Orleans, Nov 17-19) with Thermory's free guest code | E&E | default: pay $85 at the door~~ DONE 11/13: badge 205187, free EXPO Pass, confirmation to davey@
+- 2026-11-17 due | NOLA trip Nov 15-20: Expo Tue 11/17 all day (Morial Conv Ctr, badge 205187; Thermory booth 2501, Sauna from Finland booth) | E&E | default: you show up without a plan of who to see
+- 2026-11-19 due | Thu 11/19 evening marina party at 2105 Paris Rd (NPB); Alan Jalasjaa (Sauna from Finland) said he is free Thu eve + Fri am, invite him | NPB/E&E | default: Alan heads back to Canada without meeting
+- 2026-11-13 | Approve the email to Refiners Fire Services (Margaret, did the flues 11/4; stove set + gas connect is already in their $5,561 job) asking for an early-next-week date and a price for piping the 2 stoves to the gas trunk; draft in chat 11/13 | E&E | default: stoves sit, Sergey is the only path
 - ~~Confirm with Jonah: private booking windows from 11/23 are 60 days public / 90 days members (Periode test products), and Social Sauna drops from 45 to 21 days with no member head start. Site now shows 60/90 on Private Saunas | E&E | default: site keeps 60/90~~ DONE 11/13: confirmed in Jonah's final pricing post (Slack #general, ~11/7)
 - 2026-11-15 due | Comms Lane Bots: read the decision record (TheBrain/07 Reference/Decisions/2026-11-13 Comms Lane Bots.md) and answer the 5 open decisions (lane order, brief audience, brief location, $500 Tier 3 threshold, retire the E&E scan), then say 'build phase 1' | DJL | default: design sits; asks keep arriving 2 hours late [ifw:lane-bots-decisions]
 - 2026-11-15 due | Send the photos of the sauna float outlet area to Roxanne at Smiley Electric so she can quote the Hayden Island outlets job (asked by Roxanne via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:ded023f4]
