@@ -1,6 +1,6 @@
 # Ebb & Ember — Todo List
 
-## Dock safety video (added 2026-11-13 — [[Dock Safety Video — Storyboard v1 (Nov 2026)]])
+## Dock safety video (added 2026-11-13 — [[Dock Safety Video — Storyboard (Nov 2026)]])
 - [ ] Review the 13-scene stick-figure storyboard, cut/keep scenes, confirm ladder count and where the pole and ring hang, decide web page vs MP4
 
 ## Contractor watch (added 2026-11-13 — [[Contractor Status]], live list in Operations/Contractor Watch/)
@@ -10,6 +10,7 @@
 
 ## V2 exterior electrical, gas and water plan (added 2026-11-12)
 - [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
+- [ ] Rev AV (11/13) = Rev AU + exterior layout in the 3D model only; its 2D sheets still say Rev AU. Carry the layout into the 2D sheets and status_v2.json captions before the next axon publish. Open: East sauna north offset (flush vs 20 in), float 35 vs 36 ft, post count
 - [ ] Push interior wall dims (stove wall 41.75 x 88, window walls 24.75 West / 8.5 East) into the Rev AU floor plan sheet
 
 ## V2 east deck fire (added 2026-11-12 — mocks: Assets/V2 Build Drawings/2026-11-12 East deck fire concepts/)

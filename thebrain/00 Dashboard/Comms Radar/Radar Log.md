@@ -2,6 +2,14 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-13 18:10 | David ticked T0131 Jonah asks David to read his Slack message himself (without Claude)
+- 2026-11-13 18:10 | David ticked T0142 Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62)
+- 2026-11-13 18:10 | David commented on T0142
+- 2026-11-13 18:10 | David ticked T0076 Anti-slip dock steps options, get Alex's feedback
+- 2026-11-13 18:10 | David ticked T0170 JTK Law proposed deal points, MSJ and declaration drafts
+- 2026-11-13 18:10 | David ticked D0001 Automate paying Entergy for 1407 Piety
+- 2026-11-13 18:10 | David commented on D0001
+- 2026-11-13 18:10 | 5 new messages moved 4 threads: T0019, T0034, T0179, T0180
 - 2026-11-13 16:10 | 5 new messages moved 1 threads: T0178
 - 2026-11-13 14:10 | David commented on T0095
 - 2026-11-13 14:10 | David commented on T0170

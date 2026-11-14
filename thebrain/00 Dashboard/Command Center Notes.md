@@ -10,7 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
-- Review the dock safety stick-figure storyboard (13 scenes, https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and say which scenes to cut, the real ladder count, and whether it becomes an MP4 | E&E | default: stays a draft web page nobody sees
+- Review the dock safety stick-figure video v2 (14 scenes, MP4 in Ebb and Ember/Operations/Dock Safety Video/, web: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and say which scenes to cut and where the rescue pole lives | E&E | default: stays a draft nobody sees
 - ~~Register for the Pool Spa Patio Expo (New Orleans, Nov 17-19) with Thermory's free guest code | E&E | default: pay $85 at the door~~ DONE 11/13: badge 205187, free EXPO Pass, confirmation to davey@
 - 2026-11-17 due | NOLA trip Nov 15-20: Expo Tue 11/17 all day (Morial Conv Ctr, badge 205187; Thermory booth 2501, Sauna from Finland booth) | E&E | default: you show up without a plan of who to see
 - 2026-11-19 due | Thu 11/19 evening marina party at 2105 Paris Rd (NPB); Alan Jalasjaa (Sauna from Finland) said he is free Thu eve + Fri am, invite him | NPB/E&E | default: Alan heads back to Canada without meeting
@@ -48,6 +48,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Jeff to clear the FareHarbor leftovers from the look-back: $270 unpaid 3-guest booking Oct 26, $210 overpaid Oct 23, 13 no-show guests on 8 tours never marked, 2 tours with guests and no guide. And ask Michelle if the Nov 12 9am group (6 guests, 0 waivers on file) signed on paper | NKST | default: books stay off and 6 guests have no waiver on file
 - Show Abbie and Chelsea how to check guests in on FareHarbor (2 of 19 and 0 of 6 bookings checked in since Oct 1; everyone else is 77% or better) | NKST | default: check-in stays undone on their tours
 - Add the Grab Text shortcut on your iPhone (copy text or open links from Instagram and Reddit comments). In the Files app: iCloud Drive > Obsidian > TheBrain > 07 Reference > iPhone Shortcuts > tap Grab Text, then Add Shortcut. Then Settings > Accessibility > Touch > Back Tap > Double Tap > Grab Text. Untested on a phone, tell Claude if a step errors | DJL | default: no shortcut, keep using screenshot + Live Text
+- Rev AV sketch assumed both saunas sit flush on the river edge (Rev AU had the East sauna 20 in in) and a 35 ft float (Rev AU said 36). Confirm both, plus post count, when Jonah's measurements land | E&E | default: sketch and plan keep the flush/35 ft guess
 - Jonah owes 13 site measurements for the V2 exterior plan (posts to south edge, roof overhangs, glass to south edge, utility entry points). DM sent 2026-11-12. When they land, say 'update the plan' and the sheet regenerates | E&E | default: plan stays with placeholder posts and a guessed 114 in front deck
 - Gift card page says Private Sauna Gift Card is 'one weekday private, up to 10 guests, $449'; Party Booking is now up to 12 at $350/$500. Confirm or give the right wording | E&E | default: page keeps the old line
 - Memberships table now says 12-month guest passes are '2 a month' (was '24 up front') to match the approved Prices page. Say if 24 up front is right | E&E | default: stays 2 a month

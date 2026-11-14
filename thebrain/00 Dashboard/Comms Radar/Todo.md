@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-13 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-13 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -35,13 +35,8 @@ _nothing_
   → David decide whether to answer Rick Carlson on selling NOLA Bike Bar standalone versus including shared equipment, staff or booking infrastructure, or to drop the buyer inquiry. (David; Gmail nolakayaktours@; touched 2026-11-09)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0124
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; NKST manager process the Nov 9 log by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-09)
-- [x] Jonah asks David to read his Slack message himself (without Claude) #id:T0131
-  → David read Jonah's Slack message directly and respond to him. (David; Text with Jonah Moses; touched 2026-11-09)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0136
   → David top up the Gemini AI Studio prepay credits so TideBot can process written trip logs again; the Nov 9 Manchac log was left unprocessed. (David; Slack #the-helm; touched 2026-11-10)
-- [x] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #id:T0142
-  → David sign the tenant line for Elevated Tides Experiences on the one-page marina approval and send it back to Jonah. (David; Gmail davey@; touched 2026-11-10)
-  > Closed by the resolver: David emailed office@elevatedtides.com 'signed marina plan' with an attachment on 11/13 at 16:53, in answer to Jonah's request.
 - [ ] TideBot written log processing down, Gemini prepayment credits depleted #NKST #id:T0144
   → David or whoever runs TideBot on mbp-2 check which Gemini key and project it is calling and add prepay credits there, since the 402 says credits are depleted even after 3 keys were uploaded; then reprocess the Nov 12 logs by hand. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
   > David: fix it. i uploaded 3 total api keys to make sure we had enough keys and api credits to do this.
@@ -58,10 +53,6 @@ _nothing_
   → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; David's own PDX to MSY flight on Nov 16 is now confirmed. (David; Gmail dwrack81@; touched 2026-11-13)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
-- [x] Anti-slip dock steps options, get Alex's feedback #id:T0076
-  → David finish installing the anti-slip dock steps; the options are approved. (David; Slack; touched 2026-11-13)
-  > David: they look good, just need to finish installing them
-  > Radar: Noted, the options are approved and the next move is now just finishing the install.
 - [ ] Jonah asks if David is changing the existing website #id:T0177
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
@@ -77,10 +68,6 @@ _nothing_
   → Nothing for David. Davey already told TideBot to stop messaging signed guides and stay on Slack; Claude checks that W-9 nudges stay quiet (no overnight sends) until Fri Nov 6. (TideBot / Claude; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] Jonah presses Todd for deal-points update and summary judgment motions #waiting #due:2026-11-16 #id:T0167
   → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
-- [x] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #id:T0170
-  → David read the revised declaration Todd says is headed to his inbox; Jonah has already sent Todd the fixes (title, wire date, amount through Nov 30), and there is no word yet from Bill Drew on the proposal. (Todd Key; Gmail dwrack81@; touched 2026-11-13)
-  > David: do i need to respond? i read it and it looks good. hoping for some closure on this
-  > Radar: Nothing in the messages shows a reply is owed from you. Jonah already sent Todd the fixes for the declaration, and Todd says the revised version is headed to your inbox. Bill Drew has not answered the proposal yet, so closure is still waiting on him.
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
@@ -125,7 +112,7 @@ _nothing_
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST manager or guide lead confirm in Slack whether the Oct 30 4:00 PM Manchac tour ran, assign the guide in FareHarbor, and refund the 2 guests if it did not go out. Guides of the Nov 2 11:00 AM (8 guests), Nov 3 11:00 AM (4 guests) and Nov 3 11:30 AM Extended (3 guests) Manchac tours also need to post their missing trip logs. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
+  → NKST guide posts the missing trip log for the Nov 13 1:30 PM Manchac tour (10 guests); Michelle Healey's written log was posted at 11:30 and TideBot could not process it, so a manual read is needed. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-13)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -262,9 +249,6 @@ _nothing_
   → NKST manager check whether XXXL PFDs are available or buy some, and answer Abbie's question on avoiding traffic to Manchac. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
 - [ ] Email abuse report on a message sent via amazonses.com, 'Gift them the quiet' #NKST #id:T0107
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
-- [x] Automate paying Entergy for 1407 Piety #id:D0001
-  → Confirm the Autopay shown on the Nov 7 Entergy bill is on the Piety account, then close this out. (David; Gmail doorcountyzip@; touched 2026-11-07)
-  > Closed by the resolver: Entergy notice forwarded 11-07 says Your Autopay is scheduled for 12/08/2026, so autopay is already set up.
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
 - [ ] Piety St shipping container locked insecurely #NKST #id:T0016
@@ -341,8 +325,6 @@ _nothing_
   → NKST manager reply to Colleen Johnson with how to schedule her Glass Gala prize Guided Kayak Tour through Maurepas Swamp; the email landed in the NPB inbox. (NKST manager; Gmail nolapedalbarge@; touched 2026-11-11)
 - [ ] Buffalo Bayou Kayak website enquiry form submission #BBK #id:T0152
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager answer Michelle Healey on parking trailers on the opposite side until construction ends, fix the missing trailer handle, and confirm with the contractor how guides get the trailer into the lot. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Threads for Hidden Adventure in the hat Chrome profile on mbp-2 via Screen Sharing; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-12)
 - [ ] NKST Piety lot: white van keys missing, tire gauge needed #NKST #id:T0157
@@ -359,10 +341,16 @@ _nothing_
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-13)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey again reported the same issues Nov 13. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
 - [ ] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NKST; spend or public posts come back for a final go. (David; Slack #the-helm; touched 2026-11-13)
 - [ ] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0175
   → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
+- [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
+  → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
+- [ ] Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island #id:T0180
+  → Davey reply to Roxanne Pauig, who is following up on her quote for outlets on the new sauna float after the photo route was chosen Nov 9. (Davey; Gmail davey@; touched 2026-11-13)
 
 ## Backburner (LSKT)
 
@@ -376,6 +364,9 @@ _nothing_
 - [x] AKT Riverside Lot parking permit statement $2,082.40 #AKT #due:2026-11-01 #done:2026-11-05 #id:T0002
 - [x] Soward v. TripAdvisor hearing date, reply needed #AKT #due:2026-11-03 #done:2026-11-05 #id:T0001
 - [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #done:2026-11-12 #id:T0161
+- [x] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #done:2026-11-13 #id:T0170
+  > David: do i need to respond? i read it and it looks good. hoping for some closure on this
+  > Radar: Nothing in the messages shows a reply is owed from you. Jonah already sent Todd the fixes for the declaration, and Todd says the revised version is headed to your inbox. Bill Drew has not answered the proposal yet, so closure is still waiting on him.
 - [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
   > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
   > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
@@ -394,12 +385,18 @@ _nothing_
   > David: ive done that awhile ago and i told you i did it. why are you asking again.
   > Radar: You're right, my mistake. I marked it resolved.
 - [x] NKST bookings soft, $555 vs $996 7-day average #NKST #done:2026-11-06 #id:T0063
+- [x] Automate paying Entergy for 1407 Piety #done:2026-11-13 #id:D0001
+  > David: Closed by the resolver: Entergy notice forwarded 11-07 says Your Autopay is scheduled for 12/08/2026, so autopay is already set up.
+  > Radar: Noted: the Entergy notice says Autopay is scheduled for 12/08/2026, so no new action here. The $647.20 past due amount is still tracked in T0089.
 - [x] Homebase payroll for Oct 26 to Nov 8 due Nov 10 #done:2026-11-10 #id:T0118
   > David: no need to add this to our command center currently. i already mentioned this to you. dckt is seasonal and gt is autmatic. those emails can get auto archived.
   > Radar: Understood. Homebase payroll emails create no thread and I closed this one. They stay noise until W-2s in January. I can't auto-archive the emails from here, so that filter would need to be set in Gmail.
+- [x] Jonah asks David to read his Slack message himself (without Claude) #done:2026-11-13 #id:T0131
 - [x] NPB and NKST Google Ads show 0.0x tracked ROAS, FareHarbor login expired #NPB #NKST #done:2026-11-13 #id:T0139
   > David: Closed by the resolver: The 11-13 daily shows NPB booked 9 / $2.8k at 7.4x again, so FareHarbor data is flowing after the 0.0x reports of 11-09 to 11-11.
   > Radar: Closed. The 11-13 daily shows NPB booked 9 / $2.8k at 7.4x, so tracking is working again.
+- [x] Sign marina approval for Elevated Tides (commercial use and plunge zone, slips 30, 61, 62) #done:2026-11-13 #id:T0142
+  > David: Closed by the resolver: David emailed office@elevatedtides.com 'signed marina plan' with an attachment on 11/13 at 16:53, in answer to Jonah's request.
 - [x] NPB family reunion inquiry, up to 34 people, late November #NPB #done:2026-11-11 #id:T0050
 - [x] All Fuel quote for Warming Trends fire tables and pony wall, floating sauna #Cave-Point #done:2026-11-13 #id:T0153
   > David: Closed by the resolver: All Fuel emailed the estimate for the fire tables and pony wall on 11-11 after Davey said Please on 11-10.
@@ -407,3 +404,6 @@ _nothing_
 - [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-12 #id:T0154
   > David: Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
   > Radar: Noted, closed. Domains move to Cloudflare as each one renews.
+- [x] Anti-slip dock steps options, get Alex's feedback #done:2026-11-13 #id:T0076
+  > David: they look good, just need to finish installing them
+  > Radar: Noted, the options are approved and the next move is now just finishing the install.
