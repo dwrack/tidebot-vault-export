@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-15 12:31 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-15 12:56 PT.
 
-Counts: people 14, vendors 106, projects 6, money 481, promises 40, asks 72, dates 861
+Counts: people 14, vendors 107, projects 6, money 481, promises 40, asks 72, dates 862
 
 ## Open asks of Davey (Tier 0)
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
@@ -63,6 +63,7 @@ Counts: people 14, vendors 106, projects 6, money 481, promises 40, asks 72, dat
 - 11/09 22:57 "The saunas also sit on a floating dock that moves with the river, so we're not sure a slope will do much anyway." (Re: Sauna Tile Quote) due 2027-01-08
 - 11/10 13:30 "If it hasn't reached you, let me know and I'll send it again." (Re: Women in Film Silent Auction Item) due 2026-10-29
 - 11/10 17:28 "Let me get working on  this and I will get back to you tomorrow on pricing and materials needed for this." (Re: Warming Trends circular fire table quote + pony wall insert with schematics, floating sauna) due 2026-11-10
+- 11/13 12:38 "sergei is on the gas line… $600~ labor nothing confirmed on start date, but ill ask him in a bit about that." (#founders)
 
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-15 +12066184824: "tomorrow"
