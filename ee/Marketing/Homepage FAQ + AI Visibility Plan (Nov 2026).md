@@ -70,5 +70,5 @@ Keep the full FAQ (pricing detail, kids, pets, refunds, booking changes) on /faq
 2. **Schema.** FAQPage for these 8, plus LocalBusiness (type HealthAndBeautyBusiness / DaySpa) with "floating sauna" in the description, geo, hours, priceRange, and sameAs links to IG, GBP, press. The dev site has none yet.
 3. **Answer-first copy.** Every section's first line should be quotable on its own.
 4. **Build /cold-plunge-portland.** The homepage alone won't beat Knot Springs and Koti for "cold plunge portland". Draft exists: `Marketing/Blog — Cold Plunge Portland FAQ.md`.
-5. **Get on the lists AI reads.** AI answers to "best sauna Portland" pull from Portland Monthly, Time Out, Reddit, Yelp and roundup posts. Keep /best-saunas-portland, push for inclusion in roundups, answer Reddit threads honestly as the business.
+5. **Get on the lists AI reads.** AI answers to "best sauna Portland" pull from Portland Monthly, Time Out, Reddit, Yelp and roundup posts. Keep the guide (now /blog/best-saunas-portland/ on the new site), push for inclusion in roundups, answer Reddit threads honestly as the business.
 6. **Track it.** Add E&E's keywords to the daily ai-citation loop (sauna portland, cold plunge portland, floating sauna portland, private sauna portland) to see who gets cited each day.

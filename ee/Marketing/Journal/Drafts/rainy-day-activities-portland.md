@@ -49,7 +49,7 @@ Rain doesn't cancel anything. It's most of what makes the heat feel like somethi
 
 Prices are $35 for one hour or $50 for two on weekdays, and $60 for a weekend 1 hour 45 minute session. Book on the [booking page](/book).
 
-Other saunas in town are worth knowing too. Knot Springs, Bear Banya and Shiver & Sweat each do something different, and our [Portland sauna guide](/best-saunas-portland) compares the options without playing favorites.
+Other saunas in town are worth knowing too. Knot Springs, Bear Banya and Shiver & Sweat each do something different, and our [Portland sauna guide](/blog/best-saunas-portland/) compares the options without playing favorites.
 
 ## Match the day to the plan
 

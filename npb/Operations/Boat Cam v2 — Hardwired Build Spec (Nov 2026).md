@@ -87,3 +87,20 @@ Repo `~/Projects/npb-boatcam-edge`, runs on the Pi as a systemd service:
 - Health: a one-line heartbeat to mbp-2 so the existing `/system-map` sweep shows it.
 
 Secrets (Tailscale auth key, Slack token) live on the Pi in `/etc/npb-boatcam/env`, never in this vault.
+
+## All options, ranked (2026-11-14)
+
+Scored on what David asked for: really good picture, runs off the boat battery, uploads itself at the dock with no human step. Heat is weighted heavily because a Louisiana summer is the real test.
+
+| Rank | Option | Picture | Hands-off | Heat / reliability | Cost (1 boat) | Verdict |
+|---|---|---|---|---|---|---|
+| 1 | GoPro HERO13 + Pi brain box (this spec) | Excellent | Full | Medium risk, managed | ~$900-1,000 | Build this |
+| 2 | Marine 4K IP camera (Reolink/Hikvision/Axis class) + Pi or small NVR | Fair, looks like security footage | Full | Best, built for 24/7 heat | ~$300-600 | Summer fallback; same Pi box works |
+| 3 | GoPro HERO13 hardwired, GoPro Premium auto-upload from the slip | Excellent | Mostly | Medium | ~$450 + ~$50/yr | Only if slip Wi-Fi is strong; 5-10 h to upload a full day, and no clean way to pull files from GoPro's cloud to our Mac |
+| 4 | Used iPhone in a sealed mount, wired power, iCloud/Google Photos auto-upload | Excellent | Mostly | Worst, phones shut down in sun | ~$300-500 | Tempting, dies in July |
+| 5 | Pi 5 + Raspberry Pi HQ / Arducam 4K camera module | Good, not great | Full | Good | ~$250-350 | Cheapest fully DIY; fine if quality bar drops |
+| 6 | GoPro in a charging cradle at the marina office (Aug 2026 plan) | Excellent | No, someone docks it nightly | Medium | ~$450 + ~$50/yr | Superseded; dies the first week nobody remembers |
+| 7 | DJI Osmo Action 5 Pro or Insta360 (Ace Pro 2 / X5 360) | Excellent, 360 is great for reframes | No, card pulls | Medium-high | ~$400-550 | Great handheld crew cams, no wired control API |
+| 8 | Fleet dashcam with LTE (Samsara/Rosco class) | Poor | Full | Good | ~$300 + $30-40/mo | Built for fleets and liability, wrong tool for content |
+
+Best combo if budget allows: rank 1 for content plus rank 2 on the same Pi box as a fixed wide shot that never overheats. One box, two feeds, the IP cam covers the days the GoPro thermal-shuts down.

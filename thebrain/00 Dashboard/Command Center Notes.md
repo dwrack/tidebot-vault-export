@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-21 due | Review the new Ad keywords tab (npb-dash-zoonn3.pages.dev/#adkw) with Michael: pause 14 keywords with no bookings or under 2x ($1,204 over 90 days), and test-pause 5 party-barge brand phrases where we rank top 3 free with no rival ads ($2,251 over 90 days) | NPB | default: about $400/month keeps going to keywords that return nothing [cc:npb-adkw-review]
 - 2026-11-14 due | Post replies: NKST 3★ Jeanette Quirk and NPB 2★ JP Trigo (drafts in Daily Briefings/2026-11-14), plus the Ebb & Ember IG reply to antonia_isveryantonia's pricing question on the 11/6 carousel | NKST, NPB, E&E | default: low-star reviews and a live lead stay unanswered [cc:brief-1114-replies]
 - 2026-11-14 due | Send Michael: pause NKST generic Google search (Local + National, $501 over 7 days, 0 conversions), find who turned `lp_micros___3__pages` into a GA4 key event, and untangle the NPB Google vs Meta double-count | NKST, NPB | default: about $56/day keeps spending on NKST at 0 conversions [cc:brief-1114-michael]
 - 2026-11-14 due | Open the Alan (Sauna From Finland) email about booth 2923 and decide whether E&E goes to the show | E&E | default: the booth meeting is missed [cc:sauna-finland-booth]

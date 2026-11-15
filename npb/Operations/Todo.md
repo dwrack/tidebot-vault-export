@@ -1,5 +1,8 @@
 # NOLA Party Barge — Todo List
 
+## Google Ads keyword review (added 2026-11-14)
+- [ ] Walk the Ad keywords tab with Michael by 11/21: pause the 14 no-booking or under-2x keywords, test-pause 5 brand phrases for 2 weeks, raise bids on the 6 'Scale' keywords losing searches to rank ([[NPB — Who's On What]]) — **Owner: David + Michael**
+
 ## Audience Intel follow-ups (added 2026-11-10)
 - [ ] Confirm whether boats or departures were cut since 2024 (bookings down ~30%/yr at flat price; Party Queen hit hardest) before any price test ([[Audience Intel — NOLA Party Barge (2026-11-10)]]) — **Owner: David + Jeff**
 - [ ] Decide the Mardi Gras push by 2027-01-15: Meta flight Jan 20 to Feb 14 in SE drive markets, emails Thu Jan 22 + Feb 5 — **Owner: David**

@@ -52,7 +52,7 @@ Portland has a growing set of places to do hot-and-cold. They each work differen
 - **Shiver & Sweat, Knot Springs and Bear Banya** each have their own take on heat and cold, on land. Check their sites for current hours and prices.
 - **Ebb & Ember** is the one on the Columbia, where the cold part is the river rather than a tub.
 
-If you're comparing, our [Portland sauna guide](/best-saunas-portland) lays them out side by side. The right pick depends on whether you want a tub, a banya, a quiet spa, or a river.
+If you're comparing, our [Portland sauna guide](/blog/best-saunas-portland/) lays them out side by side. The right pick depends on whether you want a tub, a banya, a quiet spa, or a river.
 
 ## What to bring
 
@@ -78,7 +78,7 @@ Prices are placeholders until confirmed: weekday sessions are $35 for one hour o
 ## FAQ
 
 ### Where can I do a sauna and cold plunge in Portland, Oregon?
-Several places in Portland offer sauna with cold plunge, including Ebb & Ember, where the cold plunge is the Columbia River, reached by a ladder off the dock. Our [Portland sauna guide](/best-saunas-portland) compares the options.
+Several places in Portland offer sauna with cold plunge, including Ebb & Ember, where the cold plunge is the Columbia River, reached by a ladder off the dock. Our [Portland sauna guide](/blog/best-saunas-portland/) compares the options.
 
 ### Do I have to get in the river?
 No. The cold plunge is optional. You can use the sauna, step onto the deck, or sit on the ladder.

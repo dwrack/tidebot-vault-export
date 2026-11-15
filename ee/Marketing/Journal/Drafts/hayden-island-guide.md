@@ -4,7 +4,7 @@ slug: hayden-island-guide
 meta_description: "A local's guide to Hayden Island in Portland, Oregon: Jantzen Beach, the marina, the river views, how to get there and what's next door on Bridgeton Rd."
 target_keyword: hayden island
 hub: "Portland sauna guide + geography"
-pillar: best-saunas-portland
+pillar: blog/best-saunas-portland
 status: draft
 date: 2026-10-20
 ---
@@ -60,7 +60,7 @@ You can book that last part on the [Ebb & Ember homepage](/).
 
 ## Other things worth knowing
 
-If you're in the area for a flight, our guide to [things to do near the Portland airport](/journal/things-to-do-near-portland-airport) covers what's close to PDX. If you're curious about the river itself, [swimming in the Columbia River in Portland](/journal/columbia-river-swimming-portland) walks through what to check before you get in. And for the full picture of saunas in town, see our [Portland sauna guide](/best-saunas-portland).
+If you're in the area for a flight, our guide to [things to do near the Portland airport](/journal/things-to-do-near-portland-airport) covers what's close to PDX. If you're curious about the river itself, [swimming in the Columbia River in Portland](/journal/columbia-river-swimming-portland) walks through what to check before you get in. And for the full picture of saunas in town, see our [Portland sauna guide](/blog/best-saunas-portland/).
 
 ## Plan a visit
 
