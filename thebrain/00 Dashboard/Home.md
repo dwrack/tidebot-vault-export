@@ -1,33 +1,33 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-11-14 (Saturday). NKST booked 0 on Friday and its generic Google search is $501 at 0 conversions over 7 days, NPB 2★ unreplied day 6 plus 3 new 5★, Ebb & Ember has an unanswered pricing question on its 11/6 carousel, NPB Google and Meta are double-counting the same 3 sales.*
+*Last refresh: 2026-11-15 (Sunday). NKST generic Google search is $467 at 0 conversions over 7 days with bookings soft since Thursday, NPB 2★ unreplied day 7 plus 6 open 5★, NKST 3★ plus 4 Michelle 5★ open, E&E pricing question day 9.*
 
 ## Right now
 - [Today's decisions + digest (DJL Morning Digest)](https://claude.ai/artifact/QbPUmAfxBpB7WUffSGbFSn)
-- [[Daily Briefings/2026-11-14|Today's brief]]
+- [[Daily Briefings/2026-11-15|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **New Orleans Kayak Swamp Tours** (Michael's lane): booked 0 on Fri 11/13 and 1 on Thu, vs $5,140 over 11/7 to 11/13. Generic Local + National Google search spent $501.20 over 7 days at 0 conversions (confirmed live). GA4 "conversions" are the `lp_micros___3__pages` micro event (65 on Friday). Pause both campaigns or prove tracking, and check FH availability.
-2. **NKST + NOLA Party Barge**: reply to NKST 3★ Jeanette Quirk (11/13) and NPB 2★ JP Trigo (11/8, day 6); 3 new NPB 5★ and 1 NKST 5★ also open. Drafts are in today's brief.
-3. **Ebb & Ember** (Kimberlyn's lane): the 11/6 carousel has 12 comments with no replies, including a pricing question from a real prospect ("How much ... to use them?"). Draft reply in today's brief.
+1. **New Orleans Kayak Swamp Tours** (Michael's lane): booked 2 / $420 over 11/12 to 11/14 vs $4,245 the four days before. Generic Local + National Google search are still enabled: $467.40 over 7 days at 0 conversions (checker confirmed, day 3). Pause them or shift the budget to NPB's converting campaigns.
+2. **NOLA Party Barge**: 2★ JP Trigo (11/8) is day 7 unreplied and has dropped out of the newest 10. Six 5★ also open, including Saturday bachelorette groups. Drafts are in today's brief.
+3. **NKST + Ebb & Ember**: reply to NKST 3★ Jeanette Quirk (day 2) and four 5★ that all praise Michelle. E&E's pricing question on the 11/6 carousel is day 9 unanswered (Kimberlyn). Drafts are in today's brief.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (Fri 11/13) | 7-day avg | Δ |
+| Signal | Yesterday (Sat 11/14) | 7-day avg | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox) | 4 (tool returned 4) | n/a | not comparable |
-| Unreplied GBP reviews (newest 10 per location) | 7 (NPB 4, NKST 2, AKT 1) | prior brief 6 | +1 |
-| FH bookings (6 FH brands) | 24 | 19.6 (11/7–11/13) | +4.4 |
-| FH booked revenue (6 FH brands) | $4,386 | $4,521 | -$135 |
-| Total ad spend (Google + Meta) | $564.21 | Google $314/day, Meta not pulled | n/a |
-| Ad-attributed conversions | 8 (Google 5.0, Meta 3, overlapping on NPB) | Google 2.5/day | n/a |
+| Gmail unread (main inbox) | 3 | 4 (prior brief) | -1 |
+| Unreplied GBP reviews (all biz) | 14 (NPB 7, NKST 5, E&E 1, AKT 1) | 7 (prior brief) | +7 |
+| FH bookings (6 FH brands) | 8 | 16.4 (11/8–11/14) | -8.4 |
+| FH booked revenue (6 FH brands) | $1,509 | $4,056 | -$2,547 |
+| Total ad spend (Google + Meta) | $395.95 | $563.76 | -$167.81 |
+| Ad-attributed conversions | 3 (G 1, M 2) | 5.9 | -2.9 |
 <!-- pulse:end -->
-*Goal pace 11/7 to 11/13: NPB 73% ($22,018 of $30,000), NKST 129%, Lone Star 52%, Buffalo Bayou 23%, HPB 11%, DCKT 3% (closed).*
+*Goal pace 11/8 to 11/14: NPB 66% ($19,861 of $30,000), NKST 117%, Lone Star 46%, Buffalo Bayou 17%, HPB 9%, DCKT 3% (closed).*
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-11-14]] (today)
-- [[Daily Briefings/2026-11-13]] (1 day ago)
-- [[Daily Briefings/2026-11-12]] (2 days ago)
-- [[Daily Briefings/2026-11-11]] (3 days ago)
-- [[Daily Briefings/2026-11-10]] (4 days ago)
-- [[Daily Briefings/2026-11-09]] (5 days ago)
-- [[Daily Briefings/2026-11-08]] (6 days ago)
+- [[Daily Briefings/2026-11-15]] (today)
+- [[Daily Briefings/2026-11-14]] (1 day ago)
+- [[Daily Briefings/2026-11-13]] (2 days ago)
+- [[Daily Briefings/2026-11-12]] (3 days ago)
+- [[Daily Briefings/2026-11-11]] (4 days ago)
+- [[Daily Briefings/2026-11-10]] (5 days ago)
+- [[Daily Briefings/2026-11-09]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps
