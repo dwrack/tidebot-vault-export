@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-15 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-15 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -83,8 +83,6 @@ _nothing_
   → NKST manager confirm whether Michelle Healey has also been paid, since River says they were paid yesterday. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
-- [ ] NKST W-9 collection for 1099 guides, 3 still open #NKST #waiting #id:T0066
-  → Remaining 3 guides complete their W-9s so TideBot can file them; Bob Drought is out until Nov 9. (NKST guides; Slack #helm-nkst, Gmail nolakayaktours@; touched 2026-11-05)
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #waiting #id:T0074
   → Jeff confirm JT Sides is removed from FareHarbor and any other logins and, with admin access, sign him out of the NPB Gmail account. (Jeffrey Chitek; Text with Michael Fischer; touched 2026-11-06)
   > David: he is out. ask jeff if he is removed from fh, etc. and maybe logged out of the npb gmail account thru admin settings.
@@ -110,6 +108,8 @@ _nothing_
   → Sergei reply with a start date on the gas line, now planned as one straight shot across the deck; Jonah asks Grant about the grout size, and David leans 1/16 inch. (Sergei; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Insurance premium audit portal access code not arriving, policy BR20250485 #waiting #id:T0176
   → Jonah request the access code and call the OSI audit hotline right away, since codes expire in 60 minutes; check spam and try an alternate email. (Jonah Moses; Gmail davey@; touched 2026-11-13)
+- [ ] NKST W-9 collection for 1099 guides, 2 still open #NKST #waiting #id:T0066
+  → Remaining 2 guides complete their W-9s so TideBot can file them; Bob Drought is out until Nov 23. (TideBot; Gmail nolakayaktours@, Slack #helm-nkst; touched 2026-11-15)
 
 ## Open
 
@@ -359,6 +359,8 @@ _nothing_
   → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey reported the same issues again on the Nov 14 log, and the grey Transit's oil change light came on. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
 - [ ] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
   → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
+- [ ] Fake Meta violation warning to NPB page with Google Forms link #NPB #id:T0190
+  → NPB manager do not click the Google Forms link or submit page details; check the page's real status in Meta Business Suite and delete the email. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-15)
 
 ## Backburner (LSKT)
 

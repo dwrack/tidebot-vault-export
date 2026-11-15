@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-15 08:10 | 10 new messages moved 2 threads: T0066, T0190
 - 2026-11-15 06:10 | David ticked T0007 Unsolicited GreenBridge Capital DocuSign funding application
 - 2026-11-15 06:10 | David commented on T0007
 - 2026-11-15 06:10 | 12 new messages moved 4 threads: T0187, T0188, T0034, T0189
