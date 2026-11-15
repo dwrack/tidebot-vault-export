@@ -10,6 +10,9 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Make the real Periode waiver match the video: initial each risk line (open water, serious injury or death, heat+cold strains the heart, no alcohol/drugs, follow rules, release) | E&E | default: video shows initials the real form does not ask for [claude:ee:waiver-initials]
+- Add the Instagram key to Cloudflare so the Journal shows the newest 3 posts automatically: Cloudflare > Pages > ebb-and-ember-site > Settings > Variables and secrets > add secret IG_TOKEN (the Meta system-user token used for E&E Instagram), then redeploy | E&E | default: Journal keeps 3 fixed embedded posts [ig-feed-token]
+- 2026-11-22 due | Have one member book a seat on ebb-and-ember-site.pages.dev on an iPhone: pick a time, tap Sign in inside checkout, confirm member price applies. Then decide on the member auto-sign-in plan (Operations/Member Booking on Our Site, Periode JWT Plan) | E&E | default: members keep booking straight in Periode [member-booking-test]
 - 2026-11-16 due | Google Ads customer 237-223-4368 requires 2-Step Verification from Mon 11/16 (Google says it auto-enabled it): make sure the login on that account has a working phone/2SV method | DJL | default: next login to that account gets blocked at the 2SV prompt [cc:gads-mfa-1116]
 - 2026-11-21 due | Review the new Ad keywords tab (npb-dash-zoonn3.pages.dev/#adkw) with Michael: pause 14 keywords with no bookings or under 2x ($1,204 over 90 days), and test-pause 5 party-barge brand phrases where we rank top 3 free with no rival ads ($2,251 over 90 days) | NPB | default: about $400/month keeps going to keywords that return nothing [cc:npb-adkw-review]
 - 2026-11-15 due | Post review replies (drafts in Daily Briefings/2026-11-15): NPB 2★ JP Trigo (day 7) + 6 new 5★; NKST 3★ Jeanette Quirk + 4 Michelle 5★; E&E IG reply to antonia's pricing question (day 9, draft now says booking opens 11/23) + Kaitlin Beck 5★; AKT Miss See 5★ | NPB, NKST, E&E, AKT | default: 14 reviews and a live lead stay unanswered [cc:brief-1114-replies]
@@ -47,7 +50,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-13 due | [P1] Review and pay Kerf invoice #041 for the private saunas build (asked by Grant via Slack #private-saunas-build 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:a3fe96ec]
 - 2026-11-15 due | Send the photos for the new sauna float outlet quote and reply to the follow-up about it (asked by Roxanne (Smiley Electric) via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:7b5c639b]
 - 2026-11-13 due | [P1] Sign the commercial addendum to the slip lease and send it back to [email] (asked by Jonah via davey@ email 2026-11-13) | E&E | default: they wait on you and chase, or it lapses [ifw:8f8d56ed]
-- Watch guest intro video v8.8 (3:38, grab handle path, shorter intro) (Ebb and Ember/Operations/Dock Safety Video/, web: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and hang life vests or swim buoys on the pier rail; the video now tells guests to wear one | E&E | default: video promises gear that is not on the dock
+- Watch guest intro video v7.1 (3:03, to-scale site plan, parking + East Ramp map, never-like-this jump scenes) (Ebb and Ember/Operations/Dock Safety Video/, web: https://claude.ai/artifact/8UNQzCW78WDitv6VnXQ7CH) and hang life vests or swim buoys on the pier rail; the video now tells guests to wear one | E&E | default: video promises gear that is not on the dock
 - ~~Register for the Pool Spa Patio Expo (New Orleans, Nov 17-19) with Thermory's free guest code | E&E | default: pay $85 at the door~~ DONE 11/13: badge 205187, free EXPO Pass, confirmation to davey@
 - 2026-11-17 due | NOLA trip Nov 15-20: Expo Tue 11/17 all day (Morial Conv Ctr, badge 205187; Thermory booth 2501, Sauna from Finland booth) | E&E | default: you show up without a plan of who to see
 - 2026-11-19 due | Thu 11/19 evening marina party at 2105 Paris Rd (NPB); Alan Jalasjaa (Sauna from Finland) said he is free Thu eve + Fri am, invite him | NPB/E&E | default: Alan heads back to Canada without meeting
@@ -340,6 +343,11 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - [2026-11-20 due |] Charge watch: $5,800 at Progressive on Chase D. RACK ...7386 (2026-11-11), $5,800 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-21 due |] Charge watch: $5,800 at Progressive on Chase D. RACK ...7386 (2026-11-12), $5,800 charge, not on the known list. Say OK or dispute it | NPB | default: treated as fine after 7 days
 - [2026-11-21 due |] Charge watch: $440 at Amazon on Chase J. CHITEK ...0950 (2026-11-12), $440 is 10.2x this merchant's usual $43. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-22 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-14), charged $500 twice within 48 h (Nov 13 and Nov 14). Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-22 due |] Charge watch: $500 at Google Ads on Chase M. FISCHER ...3981 (2026-11-13), charged $500 twice within 48 h (Nov 11 and Nov 13). Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-22 due |] Charge watch: $440 at Amazon on Chase J. CHITEK ...0950 (2026-11-13), $440 is 11.3x this merchant's usual $39. Say OK or dispute it | NPB | default: treated as fine after 7 days
+- [2026-11-22 due |] Charge watch: $4,224 at Uship on Chase D. RACK ...8488 (2026-11-13), $4,224 charge, not on the known list. Say OK or dispute it | DCKT | default: treated as fine after 7 days
+- [2026-11-22 due |] Charge watch: $238 at Amazon on Capital One Platinum Rewards ...5393 (2026-11-13), $238 is 9.2x this merchant's usual $26. Say OK or dispute it | Personal | default: treated as fine after 7 days
 
 ## Brand watch
 - NPB: Wednesday Helm autorun has staged nothing three weeks running.

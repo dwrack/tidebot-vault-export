@@ -1,10 +1,12 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-14 21:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 07:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 141h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 151h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision Friday 11/14. Can you get us a number with permit and inspections included?"
+- **overdue** Electricians: 'Remaining electrical quotes from the 11-shop round are due.' was due 2026-11-14 and is not done (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treating 11/14 as the due date as written.)
+  - draft: "Hey, checking in on the electrical quote for the sauna float at 173 NE Bridgeton. We're deciding Friday 11/14. Can you get it to me by then? The quote needs to include permit and inspections."
 - **you owe** Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58)
   - draft: "Not yet. Ask whether it covers permit, inspections and the pedestal inlet or circuit work, and say we decide after 11/14."
 - **permit** Electricians: Decision 11/12 (Jonah): the electrician pulls the permit and gets rough-in and final inspection. Pacific NW said this can't go on a minor label, and there's a City complaint on file. Make sure each quote includes permit and inspections. Young Electric had concerns about pulling permits.
