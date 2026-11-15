@@ -11,7 +11,7 @@ Per Davey (2026-11-14): Periode setup waits until the day the new site goes live
 
 ## Site cutover
 - [ ] Remove `<meta name="robots" content="noindex,nofollow">` from every page.
-- [ ] Remove `X-Robots-Tag: noindex, nofollow` from `_headers`.
+- [ ] Remove the `/*` rule (`X-Robots-Tag: noindex, nofollow`) from `_headers`. Keep the per-path noindex rules under it: they keep the old drafts and the poster template out of Google.
 - [ ] Point ebbandember.com at the Cloudflare Pages project. Check that robots.txt and sitemap.xml load from the live domain, then submit the sitemap in Search Console.
 - [ ] Spot-check one booking from each product, plus the gift card checkout, on a phone.
 

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-14 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-14 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,8 @@ _nothing_
 
 ## Needs you
 
-- [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-11-09 #id:T0095
-  → David and Jonah pay the invoice through Max's payment link, and David checks Jonah's Ebb & Ember dashboard to split who owns which item so neither does double work; Max reports back to Jonah on whether the policy covers private dock events of 60-80 guests. (David; Slack; touched 2026-11-13)
+- [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
+  → David and Jonah pay the invoice through Max's payment link; Max provides written confirmation that the floating saunas are not excluded as watercraft, plus a COI and additional insured endorsement for Elevated Tides LLC by Dec 13. (David; Gmail davey@; touched 2026-11-14)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
   > Radar: Fixed the next move so it only names you, Jonah and Max, with no Jeff. I can't pull Jonah's Ebb & Ember dashboard from here, so I noted it as your next step to compare lanes before paying.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -346,7 +346,7 @@ _nothing_
 - [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
   → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
-  → Michael cut NOLA ad spend toward organic, since David says it was close to $400 a day; David still builds the landing pages. (Michael Fischer; Text with Michael Fischer; touched 2026-11-14)
+  → David ask Claude to pull a report of which keywords are winning and who the competition is, since Michael declined to produce it and says the ads are dialed in. (David; Text with Michael Fischer; touched 2026-11-14)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to Threads for Hidden Adventure in the hat Chrome profile on mbp-2 via Screen Sharing; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-14)
 - [ ] NKST booked 0 on $56 spend Nov 13 #NKST #id:T0183

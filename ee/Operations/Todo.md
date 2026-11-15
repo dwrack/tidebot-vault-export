@@ -236,7 +236,7 @@
 - [ ] Periode calendar: ask Erik whether booking calendar can show "sold out" / "social seats left" per time on private dates; else own-site calendar after rebuild. See [[Website Rebuild — Periode Live Availability (Oct 2026)]] (2026-11-13)
 - [ ] Waiting on Jonah/L (#dev 11/13): how the First Plunge $99 membership credit gets applied, and set First Plunge to cover 1-2 hr Social, Ember 1/2 times and the Friday Sunrise Swim, before 11/23
 - [x] Industry Happy Hour: $25, 1 to 4 PM (live 11/14)
-- [ ] Website: build a July guide (blog/portland-in-july) and research real July 4th river events near the dock (boat parades, fireworks visible from the Columbia) before adding a booking CTA. No July page exists yet (noted 11/14)
+- [x] (July guide live on the preview site, commit da5c7d5 11/14, July 4 fireworks sources linked) Website: build a July guide (blog/portland-in-july) and research real July 4th river events near the dock (boat parades, fireworks visible from the Columbia) before adding a booking CTA. No July page exists yet (noted 11/14)
 
 - [ ] Set date, price and host for the wet-felting sauna hat workshop; site card on /events/#hat-workshop says "dates soon" (added 2026-11-14)
 
@@ -245,5 +245,6 @@
 - [ ] Site cutover: remove noindex meta + _headers X-Robots-Tag (2026-11-14)
 
 - [ ] Test site chat helper at ebb-and-ember-site.pages.dev/?chat=1 and approve making it public (2026-11-14)
-- [ ] Decide the 9 items in Marketing/Website Review 2 2026-11-14.md (2026-11-14)
+- [x] (Davey picked 7, shipped 11/14; hero buttons not picked; $59 check is on the launch-day list) Decide the 9 items in Marketing/Website Review 2 2026-11-14.md (2026-11-14)
+- [ ] Answer the 8 questions in Marketing/Website Review 3 2026-11-14.md: holiday hours before 11/26, Christmas Ships line before 12/1 (2026-11-14)
 - [x] OK the Slack note to L: tags for the 4 Events signup lists (sent in #dev 2026-11-14)
