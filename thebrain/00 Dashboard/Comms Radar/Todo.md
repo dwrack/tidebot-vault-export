@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-15 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-15 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -161,6 +161,8 @@ _nothing_
   → David confirm whether he or staff booked the Nov 16 9am PST Calendly call with Mehmet Guzel; cancel it if not, since the invite came from an unknown sender and mentions only New Orleans Kayak Swamp Tours. (David; Gmail nolakayaktours@, Gmail dwrack81@; touched 2026-11-12)
 - [ ] GetYourGuide refund request, Houston Sunset Skyline Kayak Nov 11 flood cancellation, booking GYG2Q87263FV #AKT #LSKT #due:2026-11-16 #id:T0173
   → AKT/LSKT staff reply to GetYourGuide within 72 hours with the Nov 11 flooding cancellation explanation and any proof of the phone call or notice to the guest, or the full refund goes through. (AKT staff; Gmail austinkayaktours@; touched 2026-11-13)
+- [ ] GetYourGuide refund request, Houston Kayak and Paddleboard Rental Nov 15, guest says activity canceled #AKT #LSKT #due:2026-11-18 #id:T0192
+  → AKT/LSKT staff reply to GetYourGuide with an explanation and any evidence for booking GYGVN2X9MHGF (2 guests, Nov 15 5:00 PM) within 72 hours, or the refund goes through in full. (AKT staff; Gmail austinkayaktours@; touched 2026-11-15)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
@@ -347,8 +349,6 @@ _nothing_
   → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
 - [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
   → David ask Claude to pull a report of which keywords are winning and who the competition is, since Michael declined to produce it and says the ads are dialed in. (David; Text with Michael Fischer; touched 2026-11-14)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Threads for Hidden Adventure in the hat Chrome profile on mbp-2 via Screen Sharing; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-14)
 - [ ] NKST booked 0 on $56 spend Nov 13 #NKST #id:T0183
   → Reply do 1 in #the-helm so TideBot walks the NKST booking path (site, FareHarbor checkout, pixel), unless spend is being cut anyway. (David; Slack #the-helm; touched 2026-11-14)
 - [ ] Fake Facebook page verification emails to HPB, Google Forms link #HPB #id:T0184
@@ -357,6 +357,8 @@ _nothing_
   → NPB or Bike Bar team reply to the texter on whether the tiki boat is dog friendly. (NPB or Bike Bar team; Gmail nolabikebars@; touched 2026-11-14)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey reported the same issues again on the Nov 14 log, and the grey Transit's oil change light came on. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to Instagram for Admire NOLA in the admire Chrome profile on mbp-2 via Screen Sharing, and Threads for Hidden Adventure in the hat profile; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-15)
 - [ ] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
   → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
 - [ ] Fake Meta violation warning to NPB page with Google Forms link #NPB #id:T0190
