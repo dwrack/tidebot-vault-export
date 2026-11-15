@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-14 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-14 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -114,7 +114,7 @@ _nothing_
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guide posts the missing trip log for the Nov 13 1:30 PM Manchac tour (10 guests); Michelle Healey's written log was posted at 11:30 and TideBot could not process it, so a manual read is needed. (NKST manager; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-13)
+  → NKST guide posts the written Pre-Tour/Post-Tour log for the Nov 14 11:30 AM Extended Manchac Kayak Tour (6 guests) in the channel; the Nov 13 1:30 PM log (10 guests) also still needs a manual read. (NKST guide; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-14)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
