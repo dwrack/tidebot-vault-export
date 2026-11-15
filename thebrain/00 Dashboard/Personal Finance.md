@@ -47,7 +47,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: Personal
-*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -57,7 +57,7 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $15,108 |
-| Spending | $43,405 |
+| Spending | $761 |
 | Card payments + transfers out | $0 |
 | Net, month to date | -$101 |
 | Net, same days last month | -$15,413 |
@@ -71,45 +71,45 @@
 
 *Month to date leaves out American 5002 (from Sep 2026): not enough history yet.*
 
-**Top spending, 30 days:** IRS USATAXPYMT $40,880; WI DEPT REVENUE TAXPAYMNT XXXXX5 $1,711; KP NW ACI PREM DENVER CO $509; GOING GARBAGE AND RESISTER BAY WI $101; XX WITHDRAWAL BEAR PAW - $100
+**Top spending, 30 days:** KP NW ACI PREM DENVER CO $509; GOING GARBAGE AND RESISTER BAY WI $101; XX WITHDRAWAL BEAR PAW - $100; PAID NSF ITEM(S)FEE $35; AplPay APPLE.COM/BILINTERNET CHARG $13
 **Flags:**
 - Fee $35 on Oct 19: PAID NSF ITEM(S)FEE
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Nicolet National Bank Small Business Checking (3971) | $12,860 |
-| Chase Bank D. RACK (1450) | -$2,068 |
+| Chase Bank D. RACK (1450) | -$2,186 |
 
 | Last 30 days | Amount |
 |---|---|
 | Money in | $150 |
-| Spending | $1,782 |
+| Spending | $1,900 |
 | Card payments + transfers out | $2,036 |
-| Net, month to date | -$1,136 |
-| Net, same days last month | $3,795 |
+| Net, month to date | -$1,253 |
+| Net, same days last month | $3,509 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $1,136 | $164 | +594% |
-| Month to date, net | -$1,136 | -$164 | -$972 |
+| Month to date, spending | $1,253 | $164 | +666% |
+| Month to date, net | -$1,253 | -$164 | -$1,090 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,838 | $28,602 | -17% |
-| Trailing 12 months, net | -$23,838 | -$28,006 | $4,168 |
+| Trailing 12 months, spending | $23,956 | $28,602 | -16% |
+| Trailing 12 months, net | -$23,956 | -$28,006 | $4,051 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
-**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; COX COMM LOU $56; DOCHUB $16
+**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; Amazon.com*WN7PZ89I3 $117; COX COMM LOU $56
 
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 <!-- finance-auto:end -->
 
 <!-- investments-auto:start -->
 ### 📈 Investments & college savings
-*E*Trade + Edvest via the SimpleFIN feed, Nov 14. Balances only.*
+*E*Trade + Edvest via the SimpleFIN feed, Nov 15. Balances only.*
 
 | Account | Balance |
 |---|---|

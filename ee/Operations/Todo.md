@@ -248,3 +248,6 @@
 - [x] (Davey picked 7, shipped 11/14; hero buttons not picked; $59 check is on the launch-day list) Decide the 9 items in Marketing/Website Review 2 2026-11-14.md (2026-11-14)
 - [ ] Answer the 8 questions in Marketing/Website Review 3 2026-11-14.md: holiday hours before 11/26, Christmas Ships line before 12/1 (2026-11-14)
 - [x] OK the Slack note to L: tags for the 4 Events signup lists (sent in #dev 2026-11-14)
+
+- [ ] Member booking test on the new site (iPhone): pick time, Sign in inside checkout, member price applies. Then decide on [[Member Booking on Our Site — Periode JWT Plan (Nov 2026)]]. Due 11/22. (added 2026-11-15)
+- [ ] Add IG_TOKEN secret in Cloudflare Pages (ebb-and-ember-site) so the Journal Instagram section auto-shows the newest 3 posts. Until then it shows 3 fixed embeds. (added 2026-11-15)

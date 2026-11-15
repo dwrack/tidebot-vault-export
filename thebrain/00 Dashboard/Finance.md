@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -23,10 +23,10 @@
 | Last 30 days | Amount |
 |---|---|
 | Money in | $828 |
-| Spending | $93 |
+| Spending | $72 |
 | Card payments + transfers out | $25,000 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,555 |
+| Net, same days last month | $1,503 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -35,41 +35,41 @@
 | Month to date, net | $0 | $1,749 | -$1,749 |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72; fareharbor FareHarbor ST-A3H4R5A $20
+**Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
 
 | Account | Balance |
 |---|---|
 | Nicolet National Bank Small Business Checking (3971) | $12,860 |
-| Chase Bank D. RACK (1450) | -$2,068 |
+| Chase Bank D. RACK (1450) | -$2,186 |
 
 | Last 30 days | Amount |
 |---|---|
 | Money in | $150 |
-| Spending | $1,782 |
+| Spending | $1,900 |
 | Card payments + transfers out | $2,036 |
-| Net, month to date | -$1,136 |
-| Net, same days last month | $3,795 |
+| Net, month to date | -$1,253 |
+| Net, same days last month | $3,509 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $0 | n/a |
-| Month to date, spending | $1,136 | $164 | +594% |
-| Month to date, net | -$1,136 | -$164 | -$972 |
+| Month to date, spending | $1,253 | $164 | +666% |
+| Month to date, net | -$1,253 | -$164 | -$1,090 |
 | Trailing 12 months, money in | $0 | $596 | -100% |
-| Trailing 12 months, spending | $23,838 | $28,602 | -17% |
-| Trailing 12 months, net | -$23,838 | -$28,006 | $4,168 |
+| Trailing 12 months, spending | $23,956 | $28,602 | -16% |
+| Trailing 12 months, net | -$23,956 | -$28,006 | $4,051 |
 
 *Trailing 12 months leaves out Nicolet 3971 (from Jan 2025): not enough history yet.*
 
-**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; COX COMM LOU $56; DOCHUB $16
+**Top spending, 30 days:** ACI*ENTERGY SERVICES, LLC $702; SWBNO UTILITY $574; THE HOME DEPOT $434; Amazon.com*WN7PZ89I3 $117; COX COMM LOU $56
 
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -78,42 +78,42 @@
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $17,668 |
-| Spending | $17,095 |
+| Money in | $17,183 |
+| Spending | $9,612 |
 | Card payments + transfers out | $11,298 |
 | Net, month to date | -$2,897 |
-| Net, same days last month | $6,020 |
+| Net, same days last month | $7,113 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $17,080; fareharbor $15
+**Top spending, 30 days:** PAYPAL $9,597; fareharbor $15
 
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 14. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $67,747 |
+| Chase Bank PERFBUS CHK (3085) | $63,288 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $99,933 |
-| Spending | $70,635 |
-| Card payments + transfers out | $24,007 |
-| Net, month to date | $9,042 |
-| Net, same days last month | $1,729 |
+| Money in | $101,149 |
+| Spending | $66,272 |
+| Card payments + transfers out | $29,703 |
+| Net, month to date | $11,899 |
+| Net, same days last month | -$2,444 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $29,750; CHECK # $22,149; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; ENTERGY NEW ORLE $654
+**Top spending, 30 days:** PAYPAL $24,588; CHECK # $22,149; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; CHECK # 11/13 $800
 **Flags:**
 - Check $1,700 on Oct 19: payee unknown, label it
 - Check $6,000 on Oct 21: payee unknown, label it

@@ -4,7 +4,8 @@ Six stick-figure stills for the guest video, in the same engine and style. Sourc
 
 Layout (Davey 11/14):
 - **Door wall, left to right:** water filter, bathroom (heated floor), shower, changing room.
-- **Back wall:** coat hooks, with 9 lockers under them and benches in front.
+- **Lockers:** all 9 are one 4 ft x 4 ft cube (3 across, 3 high) in the corner right of the changing room door (Davey, 11/15).
+- **Back wall:** coat hooks, with benches below.
 - **Not drawn:** the patio heater, because it's gone.
 
 | Still | Beat |
@@ -16,6 +17,6 @@ Layout (Davey 11/14):
 | 05 | Bag in a locker, coat on a hook, shoes by the bench |
 | 06 | Grab a life jacket |
 
-Status: waiting on Davey's review. Once he approves, the video session folds them in.
+Status: APPROVED by Davey 11/15. Handed to the video session to fold into the film.
 
-**Open:** locker color. The stills draw them charcoal; the video session's first pass drew them cedar.
+**Open:** locker color. The stills draw them charcoal.
