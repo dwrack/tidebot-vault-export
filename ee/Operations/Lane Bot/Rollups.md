@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-15 14:19 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-15 14:51 PT.
 
-Counts: people 14, vendors 108, projects 6, money 481, promises 40, asks 72, dates 862
+Counts: people 14, vendors 109, projects 6, money 481, promises 40, asks 72, dates 863
 
 ## Open asks of Davey (Tier 0)
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
@@ -97,6 +97,7 @@ Counts: people 14, vendors 108, projects 6, money 481, promises 40, asks 72, dat
 - 2026-11-20 Pjstambaugh: "Nov 20"
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
+- 2026-11-21 Melissa Clark: "November 21"
 
 ## Silence over 5 days (Davey wrote last, no reply)
 - Mario (contractor): Davey last wrote 11/06 12:41, their last message 11/06 10:36
