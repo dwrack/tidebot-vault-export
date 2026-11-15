@@ -138,3 +138,39 @@ Directional only: 11 mature reels in the window. Patterns firm up around 20 reel
 4. **Hook** vs parent 2026-10-27 DfAc3D8jYcQ: same footage, a new angle in the first frame and first line built on the best reel's hook shape (50-character statement with a tag/send ask); if this fails too, retire the angle. Only the hook changes.
 
 <!-- reel-loop-state {"date": "2026-11-08", "found": 12, "ideas": [{"parent": "2026-10-28 DfDBqiAE0xU", "variable": "subject"}, {"parent": "2026-10-31 DfKwDJEoAPH", "variable": "hook"}, {"parent": "2026-10-31 DfK5EqECAi3", "variable": "hook"}, {"parent": "2026-10-27 DfAc3D8jYcQ", "variable": "hook"}], "mature": 11, "median": {"avg_watch": 5.789, "plays": 931, "skip": 55.3, "spr": 0.0005518763796909492}, "works": [{"asof": "2026-11-08", "label": "Best reel", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" ran 5.9x the median plays (3s skip 32.3%, avg watch 7.9s, sends 0.05% of reach)"}, {"asof": "2026-11-08", "label": "Lowest 3s skip", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" held best: skip 32.3% vs account median 55.3%, avg watch 7.9s"}, {"asof": "2026-11-08", "label": "Most sent", "text": "2026-10-31 \"Uncut footage of a shark in Bayou Bienvenu...\" drew the most sends: 2.06% of reach vs account median 0.06%"}, {"asof": "2026-11-08", "label": "Hooks that carry a tag/send ask", "text": "2.4x the median plays vs 0.8x without (6 vs 5 reels)"}, {"asof": "2026-11-08", "label": "Question hooks", "text": "2.2x the median plays vs 1.0x without (2 vs 9 reels)"}, {"asof": "2026-11-08", "label": "Hooks with a number", "text": "2.9x the median plays vs 1.0x without (2 vs 9 reels)"}, {"asof": "2026-11-08", "label": "Short hooks (40 characters or fewer)", "text": "2.1x the median plays vs 1.0x without (2 vs 9 reels)"}], "worst_themes": []} -->
+
+## Run 2026-11-15 (last 14 days: 4 reels, 4 with mature data)
+
+Ranked by outlier multiple (plays / this account's median plays), then sends per reach. Skip 3s is the share of views that swiped away within the first 3 seconds (lower is better).
+
+| Date | Hook | Theme | Plays | Reach | Outlier x | Skip 3s | Avg watch s | Sends/reach | Saves/reach |
+|---|---|---|---|---|---|---|---|---|---|
+| [2026-11-01](https://www.instagram.com/reel/DfNbs6sDeL8/) | 25 years married and she still fires first. Tag your person. | - | 4,846 | 3,696 | 4.9x | 38.0% | 7.4 | 0.05% | 0.03% |
+| [2026-11-02](https://www.instagram.com/reel/DfQAf52kToi/) | That second-line sound at the dock. Only here. Send it to... | - | 1,081 | 855 | 1.1x | 55.3% | 5.6 | 0.00% | 0.00% |
+| [2026-11-05](https://www.instagram.com/reel/DfX-VJrCaqM/) | Nothing beats this warm autumn weather! | - | 892 | 685 | 0.9x | 59.9% | 5.9 | 1.02% | 0.58% |
+| [2026-11-06](https://www.instagram.com/reel/DfaiSxWCme7/) | Our world famous ball of mystery must mutate. Let us know... | - | 725 | 525 | 0.7x | 70.7% | 4.1 | 0.00% | 0.00% |
+
+Account medians (4 mature reels): plays 986, reach 770, 3s skip 57.6%, avg watch 5.7s, sends/reach 0.03%, saves/reach 0.01%. Length band is unknown for every reel (duration is not in the Graph API), so outlier x compares against one account-wide median.
+
+### Diagnosis
+
+Too few reels to see a pattern (4 mature reels in the window, need 6).
+
+### What works here
+
+Too few reels to see a pattern.
+
+Carried forward from earlier runs, not re-checked this run:
+- **Best reel** (as of 2026-11-08): 2026-10-28 "Rules are rules. Tag the friend who's alwa..." ran 5.9x the median plays (3s skip 32.3%, avg watch 7.9s, sends 0.05% of reach)
+- **Lowest 3s skip** (as of 2026-11-08): 2026-10-28 "Rules are rules. Tag the friend who's alwa..." held best: skip 32.3% vs account median 55.3%, avg watch 7.9s
+- **Most sent** (as of 2026-11-08): 2026-10-31 "Uncut footage of a shark in Bayou Bienvenu..." drew the most sends: 2.06% of reach vs account median 0.06%
+- **Hooks that carry a tag/send ask** (as of 2026-11-08): 2.4x the median plays vs 0.8x without (6 vs 5 reels)
+- **Question hooks** (as of 2026-11-08): 2.2x the median plays vs 1.0x without (2 vs 9 reels)
+- **Hooks with a number** (as of 2026-11-08): 2.9x the median plays vs 1.0x without (2 vs 9 reels)
+- **Short hooks (40 characters or fewer)** (as of 2026-11-08): 2.1x the median plays vs 1.0x without (2 vs 9 reels)
+
+### Next batch to test
+
+Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
+
+<!-- reel-loop-state {"date": "2026-11-15", "found": 4, "ideas": [], "mature": 4, "median": {"avg_watch": 5.702999999999999, "plays": 986.5, "skip": 57.599999999999994, "spr": 0.00027056277056277056}, "works": [{"asof": "2026-11-08", "label": "Best reel", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" ran 5.9x the median plays (3s skip 32.3%, avg watch 7.9s, sends 0.05% of reach)"}, {"asof": "2026-11-08", "label": "Lowest 3s skip", "text": "2026-10-28 \"Rules are rules. Tag the friend who's alwa...\" held best: skip 32.3% vs account median 55.3%, avg watch 7.9s"}, {"asof": "2026-11-08", "label": "Most sent", "text": "2026-10-31 \"Uncut footage of a shark in Bayou Bienvenu...\" drew the most sends: 2.06% of reach vs account median 0.06%"}, {"asof": "2026-11-08", "label": "Hooks that carry a tag/send ask", "text": "2.4x the median plays vs 0.8x without (6 vs 5 reels)"}, {"asof": "2026-11-08", "label": "Question hooks", "text": "2.2x the median plays vs 1.0x without (2 vs 9 reels)"}, {"asof": "2026-11-08", "label": "Hooks with a number", "text": "2.9x the median plays vs 1.0x without (2 vs 9 reels)"}, {"asof": "2026-11-08", "label": "Short hooks (40 characters or fewer)", "text": "2.1x the median plays vs 1.0x without (2 vs 9 reels)"}], "worst_themes": []} -->

@@ -29,16 +29,13 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: known: 4
 - feedback: note: 5
 - fix_approved: 8
-- fix_ignored: 4
+- fix_ignored: 7
 - skill later: 5
 - skill run: 8
 - skill skip: 1
 
 ## Most recent taps (newest last)
 
-- 2026-11-10 19:34 | skill | meta-ads-insider | skip
-- 2026-11-10 19:34 | skill | maps-rank | run
-- 2026-11-10 19:34 | skill | google-ads | later
 - 2026-11-10 19:34 | fix_approved | brand:DCD | Draft 3 DCD Facebook posts for approval
 - 2026-11-10 19:34 | fix_approved | brand:HAT | Draft a week of HAT posts for FB and YT
 - 2026-11-10 19:34 | fix_approved | brand:ADM | Draft 4 Instagram posts for Admire NOLA this week
@@ -76,3 +73,6 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-13 16:28 | skill | maps-rank | later
 - 2026-11-14 11:16 | fix_ignored | brand:AKT | Re-run the dashboard collector for AKT social
 - 2026-11-14 13:16 | fix_ignored | brand:NPB | Re-run the dashboard collector for NPB social
+- 2026-11-15 06:26 | fix_ignored | brand:HPB | Re-run the dashboard collector for HPB social
+- 2026-11-15 06:26 | fix_ignored | brand:BBK | Cut 2 BBK YouTube Shorts from existing footage
+- 2026-11-15 06:26 | fix_ignored | brand:NKST | Re-run the dashboard collector for NKST social

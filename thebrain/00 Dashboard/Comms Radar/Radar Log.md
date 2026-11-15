@@ -2,6 +2,9 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-15 06:10 | David ticked T0007 Unsolicited GreenBridge Capital DocuSign funding application
+- 2026-11-15 06:10 | David commented on T0007
+- 2026-11-15 06:10 | 12 new messages moved 4 threads: T0187, T0188, T0034, T0189
 - 2026-11-14 18:10 | 3 new messages moved 1 threads: T0019
 - 2026-11-14 16:10 | 14 new messages moved 2 threads: T0082, T0095
 - 2026-11-14 14:10 | David ticked T0180 Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island

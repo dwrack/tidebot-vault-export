@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-14 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-15 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -59,6 +59,8 @@ _nothing_
   → David look at the V1 Pricing showing on the existing site and the member booking issue Jonah reported, and reply to Jonah. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through #Ebb-Ember #id:T0182
   → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
+- [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0188
+  → David top up the Google AI Studio prepaid credits so TideBot can process guide logs again; until then logs like Michelle Healey's Nov 14 log need manual reading. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
 
 ## Waiting on someone
 
@@ -149,6 +151,8 @@ _nothing_
   → NKST manager reply to Freddie Skarbek on whether the email exchange counts as part of his waiver, and decide whether to accept his limit that he only indemnifies GT for his own acts, before his 2:00 pm tour today. (NKST manager; Gmail nolakayaktours@; touched 2026-11-12)
 - [ ] NPB private party cruise inquiry, Nov 14, 12-15 people, 2pm #NPB #due:2026-11-14 #id:T0079
   → NPB team reply to Sam Boscoe before tomorrow's 2pm Party Queen cruise (Bayou Boogie is booked, $350 deposit) on whether NPB offers pickup and drop-off, or recommend a transport company. (Jeffrey Chitek; Gmail nolapedalbarge@; touched 2026-11-13)
+- [ ] AKT guest asks if 7am sunrise tour Nov 15 is canceled for storms #AKT #due:2026-11-15 #id:T0187
+  → AKT staff reply to Faith Eherts right away on whether the 7am sunrise tour runs given the rain and lightning forecast, and whether she can move to the next available tour. (AKT staff; Gmail austinkayaktours@; touched 2026-11-15)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
 - [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
@@ -335,11 +339,6 @@ _nothing_
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
-- [x] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
-  → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-13)
-  > Closed by the resolver: The unsolicited GreenBridge envelope was voided as expired on 11-14; nothing was signed.
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey again reported the same issues Nov 13. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
 - [ ] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NKST; spend or public posts come back for a final go. (David; Slack #the-helm; touched 2026-11-13)
 - [ ] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0175
@@ -356,6 +355,10 @@ _nothing_
   → HPB staff do not click the Verification Center link; check the real page status inside Meta Business Suite and delete or report the emails. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-14)
 - [ ] Text lead: is the tiki boat dog friendly #NOLA-Bike-Bar #NPB #id:T0186
   → NPB or Bike Bar team reply to the texter on whether the tiki boat is dog friendly. (NPB or Bike Bar team; Gmail nolabikebars@; touched 2026-11-14)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey reported the same issues again on the Nov 14 log, and the grey Transit's oil change light came on. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
+- [ ] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
+  → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
 
 ## Backburner (LSKT)
 
@@ -378,7 +381,6 @@ _nothing_
 - [x] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #done:2026-11-14 #id:T0185
   > David: Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
   > Radar: Marked resolved. Alan is invited to the Thursday Nov 19 marina party and gave booth 2923 at the spa conference.
-- [x] NPB ad return under 5x floor #NPB #done:2026-10-31 #id:T0017
 - [x] NKST crew PayPal payments sent Nov 2 #NKST #done:2026-11-02 #id:T0042
 - [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031
 - [x] Michael asks if the $6 seat discount code has landed #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-03 #id:T0049
@@ -411,6 +413,9 @@ _nothing_
 - [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-12 #id:T0154
   > David: Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
   > Radar: Noted, closed. Domains move to Cloudflare as each one renews.
+- [x] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #done:2026-11-15 #id:T0007
+  > David: Closed by the resolver: The unsolicited GreenBridge envelope was voided as expired on 11-14; nothing was signed.
+  > Radar: Closed. The GreenBridge envelope expired and was voided Nov 14 with nothing signed; I linked it to the related lender thread T0011.
 - [x] Vacaxion Cvlt creator retreat, NPB airboat feature Nov 8-12, 10 comp tickets #NPB #done:2026-11-13 #id:T0041
 - [x] Anti-slip dock steps options, get Alex's feedback #done:2026-11-13 #id:T0076
   > David: they look good, just need to finish installing them

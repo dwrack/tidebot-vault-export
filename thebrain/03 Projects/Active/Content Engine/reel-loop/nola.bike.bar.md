@@ -74,3 +74,27 @@ Too few reels to see a pattern.
 Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
 
 <!-- reel-loop-state {"date": "2026-11-08", "found": 2, "ideas": [], "mature": 2, "median": {"avg_watch": 6.277, "plays": 92.5, "skip": 50.3, "spr": 0.0}, "works": [], "worst_themes": []} -->
+
+## Run 2026-11-15 (last 14 days: 1 reel, 1 with mature data)
+
+Ranked by outlier multiple (plays / this account's median plays), then sends per reach. Skip 3s is the share of views that swiped away within the first 3 seconds (lower is better).
+
+| Date | Hook | Theme | Plays | Reach | Outlier x | Skip 3s | Avg watch s | Sends/reach | Saves/reach |
+|---|---|---|---|---|---|---|---|---|---|
+| [2026-11-04](https://www.instagram.com/reel/DfVsrh1gIB2/) | Bachelor party, Bike Bar edition. Pedal, toast, repeat. 🍻 | reel | 141 | 129 | 1.0x | 52.8% | 4.6 | 0.00% | 0.00% |
+
+Account medians (1 mature reels): plays 141, reach 129, 3s skip 52.8%, avg watch 4.6s, sends/reach 0.00%, saves/reach 0.00%. Length band is unknown for every reel (duration is not in the Graph API), so outlier x compares against one account-wide median.
+
+### Diagnosis
+
+Too few reels to see a pattern (1 mature reels in the window, need 6).
+
+### What works here
+
+Too few reels to see a pattern.
+
+### Next batch to test
+
+Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
+
+<!-- reel-loop-state {"date": "2026-11-15", "found": 1, "ideas": [], "mature": 1, "median": {"avg_watch": 4.616, "plays": 141, "skip": 52.8, "spr": 0.0}, "works": [], "worst_themes": []} -->

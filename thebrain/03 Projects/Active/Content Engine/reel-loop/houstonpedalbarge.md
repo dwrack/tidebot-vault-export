@@ -121,3 +121,35 @@ Carried forward from earlier runs, not re-checked this run:
 Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
 
 <!-- reel-loop-state {"date": "2026-11-08", "found": 5, "ideas": [], "mature": 4, "median": {"avg_watch": 4.284, "plays": 215.0, "skip": 65.1, "spr": 0.0034965034965034965}, "works": [{"asof": "2026-11-01", "label": "Best reel", "text": "2026-10-23 \"BYOB and come get LIT Houston!! #bacherlor...\" ran 9.7x the median plays (3s skip 38.5%, avg watch 9.5s, sends 2.37% of reach)"}, {"asof": "2026-11-01", "label": "Lowest 3s skip", "text": "2026-10-23 \"BYOB and come get LIT Houston, round 2 \ud83c\udf7e\ud83d\udc70\u200d...\" held best: skip 35.2% vs account median 66.7%, avg watch 6.7s"}, {"asof": "2026-11-01", "label": "Most sent", "text": "2026-10-27 \"It's still warm, Houston! We can't wait to...\" drew the most sends: 3.83% of reach vs account median 0.13%"}, {"asof": "2026-11-01", "label": "Short hooks (40 characters or fewer)", "text": "5.4x the median plays vs 0.9x without (2 vs 6 reels)"}], "worst_themes": []} -->
+
+## Run 2026-11-15 (last 14 days: 3 reels, 2 with mature data)
+
+Ranked by outlier multiple (plays / this account's median plays), then sends per reach. Skip 3s is the share of views that swiped away within the first 3 seconds (lower is better). Rows marked * are under 48h old: shown, but left out of the medians and the ranking.
+
+| Date | Hook | Theme | Plays | Reach | Outlier x | Skip 3s | Avg watch s | Sends/reach | Saves/reach |
+|---|---|---|---|---|---|---|---|---|---|
+| [2026-11-11](https://www.instagram.com/reel/DfnZaTVzPkQ/) | "We did the 11PM ride and it was definitely a vibe." Keon... | - | 784 | 603 | 1.7x | 48.7% | 5.8 | 0.17% | 0.33% |
+| [2026-11-06](https://www.instagram.com/reel/DfahaTzuqZO/) | Birthday math checks out 🎂 Send this to whoever's plannin... | - | 150 | 133 | 0.3x | 54.5% | 4.0 | 0.00% | 0.75% |
+| [2026-11-13*](https://www.instagram.com/reel/DfsjAAfhLGZ/) | Your team earned this 🥂 Tag whoever's planning the holida... | - | 191 | 151 | - | 51.4% | 5.0 | 0.00% | 0.00% |
+
+Account medians (2 mature reels): plays 467, reach 368, 3s skip 51.6%, avg watch 4.9s, sends/reach 0.08%, saves/reach 0.54%. Length band is unknown for every reel (duration is not in the Graph API), so outlier x compares against one account-wide median.
+
+### Diagnosis
+
+Too few reels to see a pattern (2 mature reels in the window, need 6).
+
+### What works here
+
+Too few reels to see a pattern.
+
+Carried forward from earlier runs, not re-checked this run:
+- **Best reel** (as of 2026-11-01): 2026-10-23 "BYOB and come get LIT Houston!! #bacherlor..." ran 9.7x the median plays (3s skip 38.5%, avg watch 9.5s, sends 2.37% of reach)
+- **Lowest 3s skip** (as of 2026-11-01): 2026-10-23 "BYOB and come get LIT Houston, round 2 🍾👰‍..." held best: skip 35.2% vs account median 66.7%, avg watch 6.7s
+- **Most sent** (as of 2026-11-01): 2026-10-27 "It's still warm, Houston! We can't wait to..." drew the most sends: 3.83% of reach vs account median 0.13%
+- **Short hooks (40 characters or fewer)** (as of 2026-11-01): 5.4x the median plays vs 0.9x without (2 vs 6 reels)
+
+### Next batch to test
+
+Too few reels to see a pattern, so no test ideas this week. Post at least 6 reels in a window, then rerun.
+
+<!-- reel-loop-state {"date": "2026-11-15", "found": 3, "ideas": [], "mature": 2, "median": {"avg_watch": 4.8885000000000005, "plays": 467.0, "skip": 51.6, "spr": 0.0008291873963515755}, "works": [{"asof": "2026-11-01", "label": "Best reel", "text": "2026-10-23 \"BYOB and come get LIT Houston!! #bacherlor...\" ran 9.7x the median plays (3s skip 38.5%, avg watch 9.5s, sends 2.37% of reach)"}, {"asof": "2026-11-01", "label": "Lowest 3s skip", "text": "2026-10-23 \"BYOB and come get LIT Houston, round 2 \ud83c\udf7e\ud83d\udc70\u200d...\" held best: skip 35.2% vs account median 66.7%, avg watch 6.7s"}, {"asof": "2026-11-01", "label": "Most sent", "text": "2026-10-27 \"It's still warm, Houston! We can't wait to...\" drew the most sends: 3.83% of reach vs account median 0.13%"}, {"asof": "2026-11-01", "label": "Short hooks (40 characters or fewer)", "text": "5.4x the median plays vs 0.9x without (2 vs 6 reels)"}], "worst_themes": []} -->
