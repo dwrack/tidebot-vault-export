@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: "5★ review from Miss See (11/2) unreplied"
-updated: 2026-11-14
+updated: 2026-11-15
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal: front_door_for_lskt. No movement since 2026-08-28.**
-- 5★ review from "Miss See" (11/2, edited 11/13) has no reply, confirmed live 11/14.
+- 5★ Miss See (11/2, edited 11/13) still unreplied, confirmed live 11/15. IG last post 11/6.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "12 of 12 comments on the 11/6 carousel unanswered, incl. a pricing question"
-updated: 2026-11-14
+alert: "IG pricing question day 9 unanswered"
+updated: 2026-11-15
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,8 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 30 days ago.**
-- 11/6 carousel (260 likes, 12 comments, 0 replies, confirmed live 11/14): antonia_isveryantonia asked "How much do you project that it will be to use them?" Draft reply in the 11/14 brief. New reel 11/13 has 44 likes.
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 31 days ago.**
+- 11/6 carousel (263 likes, 12 comments, 0 replies, live 11/15): antonia_isveryantonia's pricing question day 9. New 5★ Kaitlin Beck (11/14) unreplied. Reel 11/14: 59 likes.
+- IPSPE New Orleans 11/17–11/19; Sauna From Finland booth 2923.
 <!-- live:end -->
 
 <!-- maps:start -->

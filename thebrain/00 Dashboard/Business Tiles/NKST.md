@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 390
 lead_time_days: 0
-ad_spend_yday: 56
-status: red
-alert: "booked 0 on Fri 11/13 (1 on Thu); generic Google search $501 / 0 conv over 7 days; 3★ review unreplied"
-updated: 2026-11-14
+ad_spend_yday: 41
+status: yellow
+alert: "$467 Google generic / 7d at 0 conv; 2 bookings 11/12–11/14"
+updated: 2026-11-15
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,11 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $5,140/wk booked vs $4,000 target — 129% of goal.** Down from 158%. Fri 11/13 booked 0 / $0, Thu 1 / $30, vs 5.1 a day over the week.
-- **Google search:** Local $29.22 + National $26.89 Fri at 0 conv; $501.20 over 11/7–11/13 at 0 conv (checker confirmed, both enabled). Route to Michael.
-- **GA4:** `lp_micros___3__pages` fired 65 conversions Fri and is the only key event counting; not real purchases.
-- **Reviews:** 3★ Jeanette Quirk (11/13) and 5★ Doug Bonham (11/12) unreplied. Drafts in the 11/14 brief.
-- GSC 11/6–11/13: brand "new orleans kayak swamp tours" 3 clicks at pos 20.5; "kayak swamp tour new orleans" 2 clicks at pos 2.2.
+- **Goal pace: $4,665/wk booked vs $4,000 target — 117% of goal.** Down from 129%; 11/12–11/14 booked only 2 / $420.
+- **Google search:** Generic Local $251.01 + National $216.39 = $467.40 over 11/8–11/14 at 0 conv, both enabled (checker confirmed). Michael's lane.
+- **Reviews:** 3★ Jeanette Quirk (11/13) plus 5★ Cameron Breding, Shaye Veilleux, Andrew Carek (11/14), Doug Bonham (11/12) unreplied; all four 5★ name Michelle.
+- GSC 11/7–11/13: 156 clicks (+15%); brand term pos 15.9 (was 20.5). Airboat-vs-kayak page: 2 clicks / 75 impr, 3 GA4 views.
 <!-- live:end -->
 
 <!-- maps:start -->

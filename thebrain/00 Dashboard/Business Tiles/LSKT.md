@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 108
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 25
 status: yellow
-alert: "booked 0 on Fri; pace 52% of goal, two thirds of it one 11/12 booking"
-updated: 2026-11-14
+alert: "46% of goal; GSC clicks -55% week over week"
+updated: 2026-11-15
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,835/wk booked vs $5,500 target — 52% of goal.** $1,941 of it is one booking on 11/12; without it the week is $894. Fri 11/13 booked 0.
-- Texas Google umbrella (8497383499) Fri $72.67 / 1.51 conv / ROAS 2.32; not split by brand.
+- **Goal pace: $2,548/wk booked vs $5,500 target — 46% of goal.** $1,941 of it is the single 11/12 booking.
+- GSC 11/7–11/13: 13 clicks vs 29 prior week (-55%). Texas Google: Lone Star PMax $198.78 / 7d for 2 conv. Meta Austin account $0 for 7 days.
 <!-- live:end -->
 
 <!-- maps:start -->

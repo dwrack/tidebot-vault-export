@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 5
-revenue_today: 428
+bookings_today: 0
+revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 5
-status: yellow
-alert: "Houston Meta $361 / 7d at 0 purchases; booked revenue $1,039/wk vs $4,500 goal"
-updated: 2026-11-14
+ad_spend_yday: 27
+status: red
+alert: "0 bookings Saturday; Houston Meta $303 / 7d at 0 purchases"
+updated: 2026-11-15
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $1,039/wk booked vs $4,500 target — 23% of goal.** Fri 11/13 was the best day in a week: 5 booked / $428.
-- Houston Meta (act_1015419897308486): $361.10 over 11/7–11/13, 0 purchases; Fri $5.02 (Retargeting $1.99, Bat Bridge Traffic $3.03). Michael's lane.
+- **Goal pace: $763/wk booked vs $4,500 target — 17% of goal.** Sat 11/14 booked 0 (ran 2 / $238).
+- Houston Meta $303.26 over 11/8–11/14, 0 purchases; $0 Sat. BBK Google (Texas umbrella) $27.40 Sat; PMax $85.59 / 7d for 2.51 conv. Daily bat reels on IG, 3 to 10 likes.
 <!-- live:end -->
 
 <!-- maps:start -->

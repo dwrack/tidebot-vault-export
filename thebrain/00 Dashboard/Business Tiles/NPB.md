@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 16
-revenue_today: 3595
+bookings_today: 6
+revenue_today: 1011
 lead_time_days: 0
-ad_spend_yday: 430
+ad_spend_yday: 281
 status: yellow
-alert: "2★ review (JP Trigo, 11/8) unreplied 6 days; pace 73% of goal; Google + Meta double-count same 3 sales"
-updated: 2026-11-14
+alert: "2★ JP Trigo day 7 unreplied; Sat booked 6 vs 10.3/day avg"
+updated: 2026-11-15
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $22,018/wk booked vs $30,000 target — 73% of goal.** Up from 69%; Fri 11/13 booked 16 / $3,595.
-- **Reviews:** 2★ JP Trigo (11/8) unreplied, day 6, confirmed live 11/14. Three new 5★ also unreplied (Bel Arellano 11/13, Alyson Bertke 11/13, Kayla Colter 11/12). Draft is in the 11/14 brief.
-- Ads Fri 11/13: Google $198.28 (PMax-12 $73.18 / 0.5 conv; Generic National $67.54 / 3 conv / $179.64; Holiday Party & Groups $45.88 / 0; Local $11.68 / 0). Meta $232.14 (Gator Collision $191.54 / 3 purchases / $179.64; Retargeting $20.52; Messenger TOF $20.05). Google and Meta both claim the same $179.64.
-- GSC 11/6–11/13: "nola party barge" 7 clicks / 88 impr, pos 3.2. IG: no post since 11/6 (8 days).
+- **Goal pace: $19,861/wk booked vs $30,000 target — 66% of goal.** Down from 73%; Sat 11/14 booked 6 / $1,011 while running 22 trips / $6,536.
+- **Reviews:** 2★ JP Trigo (11/8) day 7 unreplied, now outside the newest 10 (checker confirmed). Six 5★ open: destiney wright, Rachel Horner, Angie Moore (11/14), Bel Arellano, Alyson Bertke (11/13), Kayla Colter (11/12). Drafts in the 11/15 brief.
+- Ads Sat: Google $119.21 (1 conv / $118), Meta $162.02 (Retargeting 2 purchases / $473.77; Gator Collision $130.18 / 0). 7 days: Gator Collision $1,229 for 13 purchases (ROAS 1.41); Holiday Party & Groups $197.64 / 0 conv.
+- GSC 11/7–11/13: "nola party barge" 10 clicks / 112 impr, pos 3.6. IG: no post since 11/6 (9 days).
 <!-- live:end -->
 
 <!-- maps:start -->
