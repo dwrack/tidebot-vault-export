@@ -1,9 +1,9 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-14 15:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-14 17:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 135h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 137h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision Friday 11/14. Can you get us a number with permit and inspections included?"
 - **you owe** Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58)
   - draft: "Not yet. Ask whether it covers permit, inspections and the pedestal inlet or circuit work, and say we decide after 11/14."
@@ -13,6 +13,7 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-14 15:25 PT. Read-o
 - **other** Electricians: Grant needs the thermostat and LED wire plan before he closes the interior walls, but no electrician is picked yet. Davey should either finish the layout or have Grant leave an easy chase.
 - **scope change** Electricians: Pacific NW says the dock pedestal inlet has no room for another feed without a new circuit from the main panel. Davey's sheet assumed a 20 A inlet off the pedestal's 20 A outlet. If true, the feed could mean a marina or panel upgrade and added cost. Ask the remaining shops to price it and confirm with the marina what the pedestal can supply.
 - **other** Electricians: Pacific NW passed and is booked until early December. Hands-on quotes are still pending only from Smiley and Coy, plus Community Electric's $4,800. Dickinson's Electric is a possible fast replacement.
+- **other** Alex: Jonah simplified Alex's logging 11/14: one completion-form entry per visit, no per-task timing, but the Marina vs Sauna hours split on the timesheet is mandatory because billing depends on it. Jonah also edited the Facilities Board.
 
 ## Sergey
 _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit_ via iMessage group with Grant (Davey leads); iMessage group with Jonah
@@ -24,7 +25,10 @@ _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #priv
 
 ## Alex
 _facilities: V2 water line, showers, incident fixes, weekly checklist_ via Slack #maintenance
-- no traffic seen yet
+- **Status:** Facilities: Jonah told Alex on 11/14 15:50 in #maintenance to stop timing each task. One entry per visit on the completion form, and keep logging hours on the timesheet split between Marina and Sauna. The ball is with Alex to follow that going forward. No other open items in these messages.
+- Last heard: never | last we sent: 2026-11-14T15:50
+- **Commitments:**
+  - [open] Log hours on the timesheet split between Marina and Sauna (that split is what we bill from), and submit one completion-form entry per visit instead of timing each task.. Next: Alex follows the simplified logging on his next visits. Jonah or Davey spot-check the Marina/Sauna split when billing. (Instruction from Jonah in #maintenance 11/14 15:50, alongside changes he made to the Facilities Board artifact. No reply from Alex yet; an acknowledgement is not required.)
 
 ## Zach
 _handyman, $30/hr, being phased out_ via text
@@ -59,6 +63,3 @@ _chimney + gas stove installer (CCB 219643): installed both V2 flues 11/4; secon
 ## All Fuel
 _fire features: Warming Trends fire table + pony wall insert estimate (sent 11/12 to davey@); also does gas stoves and gas lines, OR CCB 169503_ via email davey@, office 503-674-2350
 - no traffic seen yet
-
-## Not on the roster yet
-- Dickinson's Electric (Peter, 503-740-6100): electrical contractor referred by Pacific NW Electric on 11/14 as possibly able to start sooner on the V2 sauna float outlets. Not yet contacted.
