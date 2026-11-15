@@ -335,8 +335,9 @@ _nothing_
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
-- [ ] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
+- [x] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #id:T0007
   → Do not click or sign; David or staff confirm no funding application was requested before ignoring or reporting it. (David; Gmail cavepointpp@; touched 2026-11-13)
+  > Closed by the resolver: The unsolicited GreenBridge envelope was voided as expired on 11-14; nothing was signed.
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey again reported the same issues Nov 13. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
 - [ ] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
