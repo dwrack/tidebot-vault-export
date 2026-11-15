@@ -89,3 +89,27 @@ Our own signal: the 10/26 Friday sunrise swim reel with @swimlearnthrive hit 33.
 
 ### Retired this run
 None. No comments on the dashboard. IG posts since 10/21 (sunrise swim collab, Readers Choice finalist carousel, "the people you meet" reel, chilly mornings carousel) don't clearly execute any open idea, so all 12 older rows stay open.
+
+## Refresh 2026-11-15 (scheduled)
+
+Pulled 2026-11-15 via apify-ee, posts from 2026-10-16 on. 283 rows scraped, 82 inside the 30-day window (20 TikTok, 31 IG hashtag reels, 31 IG peer-account posts). Cost about $0.85 (TikTok ~$0.47, IG hashtag ~$0.26, IG peers ~$0.10). Datasets: TikTok OYhGu6NPc1J237cFN, IG hashtag ldCCC9APbrTnmt3Vr, IG peers YaomPCLdQ2QnQ7gG5. Same hashtags as 11/1 (IG adds #sauna). Peers: loylyhelsinki, othership, communitysaunabaths, kelownafloatingsauna, soakbathhouse returned posts; arcticbath and gussmobilesauna not found, saunaglo, hotboxsauna, saunasocialclub empty in window.
+
+Limit: TikTok hashtag pages skew old (only 20 of 125 inside the window), and IG hashtag rows carry no follower counts, so ranking is by raw views and shares. Health-claim posts (perimenopause, sauna protocol science) and TikTok Shop home saunas skipped as off-brand.
+
+### New ideas added to the dashboard
+- w14 Put it on a map. w15 Say the temperature, call the season open. w16 "This is real" framing. w17 Take a side on sauna manners.
+- v9 Downtown to the river, on a map. v10 River swim season is open. v11 Parents' night off. v12 Settle it: towel on the bench?
+
+### Top 5 source posts
+| Account | Views | What it shows | Link |
+|---|---|---|---|
+| @data.dork (IG) | 1.6M, 39K shares | "Fastest route to every single sauna in Finland" map animation | https://www.instagram.com/p/DfXymDQuUIC/ |
+| @devvermalifts (IG) | 873K | "In a world full of AI, this is 100% human" ice bath, 23s | https://www.instagram.com/p/DfNNfMXIgDy/ |
+| @natalia_aurora (IG) | 570K, 2.3K shares | "First snow and winter swimming season is officially here" | https://www.instagram.com/p/DfrZ0VJg2Ox/ |
+| @roosebregt (IG) | 255K, 3K shares | "5°C outside which means winter swimming season is a fact", 12s | https://www.instagram.com/p/DfkXFDyRI8T/ |
+| @pnwcompass (IG) | 71K, 589 shares | Parents' date night at a PNW floating sauna (@wildhauspnw) | https://www.instagram.com/p/DfktVnlSuWd/ |
+
+Also noted: Othership's scripted episodes keep working (Ep 8 "Revenge Booking" 58K, Ep 6 44K), which backs w10. Löyly's "what to bring" and UNESCO fact carousels stay small; their 103s "sauna wisdom" video did 16K. Our own 11/2 rainy-season reel did 13.3K views, 189 shares, 92 saves, best of the period after the 10/26 sunrise swim collab.
+
+### Retired this run
+None. No comments on the dashboard. IG posts since 11/1 (rainy-season reel 11/2, private saunas carousel 11/6, "yes, people swim in the Columbia" reel 11/7, day-on-the-Columbia carousel 11/11, rainy day reel 11/14) don't clearly execute any open idea. The 11/7 reel is close to w4 (talk to the group) but patterns stay open as ongoing guidance.

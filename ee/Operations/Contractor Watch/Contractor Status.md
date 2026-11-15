@@ -1,14 +1,14 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 07:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 09:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 151h ago)
-  - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision Friday 11/14. Can you get us a number with permit and inspections included?"
-- **overdue** Electricians: 'Remaining electrical quotes from the 11-shop round are due.' was due 2026-11-14 and is not done (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treating 11/14 as the due date as written.)
-  - draft: "Hey, checking in on the electrical quote for the sauna float at 173 NE Bridgeton. We're deciding Friday 11/14. Can you get it to me by then? The quote needs to include permit and inspections."
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 153h ago)
+  - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision this week. Can you get us a number with permit and inspections included?"
+- **overdue** Electricians: 'Remaining electrical quotes from the 11-shop round are due.' was due 2026-11-14 and is not done (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treated 11/14 as the due date as written. Marked overdue 11/15 since no new quotes arrived.)
+  - draft: "Hey, checking in on the electrical quote for the sauna float at 173 NE Bridgeton. We're making the call this week. Can you get it to me in the next day or two? The quote needs to include permit and inspections."
 - **you owe** Electricians is waiting on us (davey): Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (since 2026-11-10T18:58)
-  - draft: "Not yet. Ask whether it covers permit, inspections and the pedestal inlet or circuit work, and say we decide after 11/14."
+  - draft: "Not yet. Ask whether it covers permit, inspections and the pedestal inlet or circuit work, then decide now that the 11/14 quote deadline has passed."
 - **permit** Electricians: Decision 11/12 (Jonah): the electrician pulls the permit and gets rough-in and final inspection. Pacific NW said this can't go on a minor label, and there's a City complaint on file. Make sure each quote includes permit and inspections. Young Electric had concerns about pulling permits.
 - **scope change** Electricians: Electrical scope depends on the layout, which is still moving (fire pit position, changing room lights, possible hair dryer outlet, Rinnai outlet, thermostat and LED driver wire). Davey sent an updated quote sheet 11/14 and is still laying out the plan. Compare quotes on the same final scope.
 - **scope change** Electricians: Smiley Electric's thread is a separate, outlets-only 'small job' request on davey@. Davey answered 11/14. Make sure its quote gets compared with the others and has the same permit requirement.
@@ -38,11 +38,11 @@ _handyman, $30/hr, being phased out_ via text
 
 ## Electricians
 _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quotes due Fri 2026-11-14_ via email sauna@
-- **Status:** V2 electrical quote round: sheet sent 11/9 to 11 shops, quotes due 11/14 (today). Replies so far: Community Electric $4,800 (labor and materials, waiting on Davey), Unity Electrical offered a walkthrough 11/11, Young Electric estimate posted 11/9 (amount not in messages). New 11/14 12:03: Pacific NW Electric (John Ramirez) passed. The pedestal inlet has no room for another feed without a new circuit from the main panel, and they're booked until the first week of December. They referred us to Dickinson's Electric (503-740-6100, ask for Peter). Smiley Electric and Coy Electric still owe quotes on the updated sheet sent 10:45. Davey is still finishing the electrical layout (thermostat and LED driver wire). Jonah's rule: whoever is hired pulls the permit and gets rough-in and final inspections.
+- **Status:** V2 electrical quote round: sheet sent 11/9 to 11 shops, quotes were due 11/14 and that date has now passed (as of 11/15 09:25 no new replies). Replies so far: Community Electric $4,800 (labor and materials, waiting on Davey), Unity Electrical offered a walkthrough 11/11, Young Electric estimate posted 11/9 (amount not in messages). Pacific NW Electric (John Ramirez) passed 11/14: the pedestal inlet has no room for another feed without a new circuit from the main panel, and they're booked until the first week of December. They referred us to Dickinson's Electric (503-740-6100, ask for Peter). Smiley Electric and Coy Electric still owe quotes on the updated sheet sent 11/14 10:45. Davey is still finishing the electrical layout (thermostat and LED driver wire). Jonah's rule: whoever is hired pulls the permit and gets rough-in and final inspections.
 - Last heard: 2026-11-14T12:03 | last we sent: 2026-11-14T10:45
 - **Commitments:**
-  - [open] Remaining electrical quotes from the 11-shop round are due. by 2026-11-14. Next: Shops send quotes by 11/14. Davey and Jonah compare. Davey sends the current electrical, gas and water layout (Claude made it 11/12) and finishes his own layout. Pacific NW is out, so the field is narrower. (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treating 11/14 as the due date as written.)
-  - [open] Community Electric will write up a formal quote or invoice and set a walkthrough once we say the $4,800 works. Licensed, insured, CCB 237023, will provide COI.. Next: Davey or Jonah to answer Richard: ask about permit and inspection scope, and whether it covers the shore-power inlet and circuit issue Pacific NW raised. Hold a decision until 11/14. (Richard emailed 11/10 6:58 PM. Quote is $4,800 labor and materials.)
+  - [overdue] Remaining electrical quotes from the 11-shop round are due. by 2026-11-14. Next: Shops send quotes (due date 11/14 has passed). Davey and Jonah compare. Davey sends the current electrical, gas and water layout (Claude made it 11/12) and finishes his own layout. Pacific NW is out, so the field is narrower. (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treated 11/14 as the due date as written. Marked overdue 11/15 since no new quotes arrived.)
+  - [open] Community Electric will write up a formal quote or invoice and set a walkthrough once we say the $4,800 works. Licensed, insured, CCB 237023, will provide COI.. Next: Davey or Jonah to answer Richard: ask about permit and inspection scope, and whether it covers the shore-power inlet and circuit issue Pacific NW raised. Decision can happen now that 11/14 has passed. (Richard emailed 11/10 6:58 PM. Quote is $4,800 labor and materials.)
   - [open] Smiley Electric (Roxanne Pauig) to quote outlets on the new sauna float, Hayden Island, small job this month.. Next: Roxanne to send the quote. Davey to make sure it includes permit and inspections and the pedestal feed. (Davey replied 11/14 with photos of the dock pedestal and the float, plus an updated quote sheet. Email text is cut off so the exact scope is unclear.)
   - [open] Pacific NW referred Dickinson's Electric (503-740-6100, ask for Peter) as a contractor who may be able to start sooner.. Next: Davey to decide whether to contact Peter at Dickinson's and send the updated quote sheet and photos. (Referral came in John Ramirez's 11/14 12:03 reply. Not yet on the quote list.)
   - [open] Coy Electric (Jarred) to quote on the updated plan after a text exchange, with photos.. Next: Jarred to send a quote. Davey to confirm it includes permit and inspections. (Davey emailed 11/14 to Jarred@coyelectric.com. Coy was not mentioned earlier, so it may be outside the original 11-shop list.)
@@ -50,7 +50,7 @@ _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quote
   - Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00)
   - Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45)
 - **Waiting on us:**
-  - Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (davey, since 2026-11-10T18:58) -> Not yet. Ask whether it covers permit, inspections and the pedestal inlet or circuit work, and say we decide after 11/14.
+  - Community Electric: does $4,800 work? If so they'll write the quote and set a walkthrough. (davey, since 2026-11-10T18:58) -> Not yet. Ask whether it covers permit, inspections and the pedestal inlet or circuit work, then decide now that the 11/14 quote deadline has passed.
 - **Money:** Community Electric, V2 electrical, labor and materials $4,800.00 (quoted 2026-11-10)
 - Done: Pacific NW Electric was to quote outlets on the new sauna float using the updated sheet and photos.
 
@@ -65,3 +65,6 @@ _chimney + gas stove installer (CCB 219643): installed both V2 flues 11/4; secon
 ## All Fuel
 _fire features: Warming Trends fire table + pony wall insert estimate (sent 11/12 to davey@); also does gas stoves and gas lines, OR CCB 169503_ via email davey@, office 503-674-2350
 - no traffic seen yet
+
+## Not on the roster yet
+- Elevated Tides (Dockwa, 503-839-4459): marina, not a contractor. Sent a Past Due notice 11/15 08:00 for $1,500.00 annual dockage dated 07/01/2026 to 07/31/2026, due July 1, 2026. A $50 late fee was added and reversed on 07/06. The July date is old, so this may already be paid or a stale reminder. Unverified; check Dockwa or the books before paying. Not an E&E work item, so no ledger entry.

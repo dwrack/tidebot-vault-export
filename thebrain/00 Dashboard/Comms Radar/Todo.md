@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-15 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-15 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -361,6 +361,8 @@ _nothing_
   → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
 - [ ] Fake Meta violation warning to NPB page with Google Forms link #NPB #id:T0190
   → NPB manager do not click the Google Forms link or submit page details; check the page's real status in Meta Business Suite and delete the email. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-15)
+- [ ] Fake Meta 'page violation' warning to NKST inbox, likely phishing #NKST #id:T0191
+  → NKST staff do not click the Google Forms link or enter any Facebook login; check the Facebook page's own Page Quality or Support Inbox in Meta Business Suite to confirm there is no real violation, then delete the email. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 
 ## Backburner (LSKT)
 
