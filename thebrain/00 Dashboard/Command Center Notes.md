@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Family board on the kitchen iPad: open claude.ai/artifact/VRkzbboqe3UyzVnmuft57A on the iPad (signed in as you), Share > Add to Home Screen, then send Claude the kids' Google logins, school portal names, and Roblox/game usernames for the parent-only activity digest | Family | default: board runs chores + reading only, no account visibility [family-board-setup]
 - 2026-11-15 due | [P1] Pay the past due $1,500 annual dockage invoice (due July 1, 2026) to Elevated Tides via Dockwa (asked by Elevated Tides via sauna@ email 2026-11-15) | E&E | default: they wait on you and chase, or it lapses [ifw:c056e502]
 - Make the real Periode waiver match the video: initial each risk line (open water, serious injury or death, heat+cold strains the heart, no alcohol/drugs, follow rules, release) | E&E | default: video shows initials the real form does not ask for [claude:ee:waiver-initials]
 - Add the Instagram key to Cloudflare so the Journal shows the newest 3 posts automatically: Cloudflare > Pages > ebb-and-ember-site > Settings > Variables and secrets > add secret IG_TOKEN (the Meta system-user token used for E&E Instagram), then redeploy | E&E | default: Journal keeps 3 fixed embedded posts [ig-feed-token]

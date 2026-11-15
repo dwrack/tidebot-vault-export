@@ -1,11 +1,11 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 11:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 13:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 155h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 157h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision this week. Can you get us a number with permit and inspections included?"
-- **nudge** Electricians has not answered: Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45, 25h ago)
+- **nudge** Electricians has not answered: Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45, 27h ago)
   - draft: "Hey, did the updated sheet and photos come through for the sauna float electrical? Can you get us a number with permit and inspections included?"
 - **overdue** Electricians: 'Remaining electrical quotes from the 11-shop round are due.' was due 2026-11-14 and is not done (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treated 11/14 as the due date as written. Marked overdue 11/15 since no new quotes arrived.)
   - draft: "Hey, checking in on the electrical quote for the sauna float at 173 NE Bridgeton. We're making the call this week. Can you get it to me in the next day or two? The quote needs to include permit and inspections."
