@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -26,7 +26,7 @@
 | Spending | $72 |
 | Card payments + transfers out | $25,000 |
 | Net, month to date | $0 |
-| Net, same days last month | $1,503 |
+| Net, same days last month | $1,482 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -38,7 +38,7 @@
 **Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -69,7 +69,7 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -82,7 +82,7 @@
 | Spending | $9,612 |
 | Card payments + transfers out | $11,298 |
 | Net, month to date | -$2,897 |
-| Net, same days last month | $7,113 |
+| Net, same days last month | $115 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
@@ -94,7 +94,7 @@
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 15. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -106,7 +106,7 @@
 | Spending | $66,272 |
 | Card payments + transfers out | $29,703 |
 | Net, month to date | $11,899 |
-| Net, same days last month | -$2,444 |
+| Net, same days last month | -$5,165 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
