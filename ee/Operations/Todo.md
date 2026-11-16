@@ -256,3 +256,4 @@
 - [ ] Add IG_TOKEN secret in Cloudflare Pages (ebb-and-ember-site) so the Journal Instagram section auto-shows the newest 3 posts. Until then it shows 3 fixed embeds. (added 2026-11-15)
 
 - [x] (dropped 2026-11-15: video v10 matches the real signature-only waiver) Make the live Periode waiver match the guest video: an initial box on each risk line (open water, serious injury or death, heat + cold strain on the heart, no alcohol/drugs, posted rules, release). See [[Dock Safety Video — Storyboard (Nov 2026)]]. (added 2026-11-15)
+- [ ] Get Jonah's feedback + OK to put the guest intro video v10.1 in booking confirmation emails and a text 1 hr before each session (asked in Slack DM 2026-11-15) (live at ebb-and-ember-site.pages.dev/columbia-river/#watch). See [[Dock Safety Video — Storyboard (Nov 2026)]]

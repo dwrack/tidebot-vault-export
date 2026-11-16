@@ -10,6 +10,8 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- Waiting on Jonah: feedback on guest intro video v10.1 + his OK to put the link in confirmation emails and a text 1 hr before each session (asked in Slack DM 11/15) | E&E | default: video stays on the site only [claude:ee:intro-video-jonah-reply]
+- ~~Send Jonah the guest intro video v10.1 for feedback and his OK to add it to booking confirmation emails (Slack draft ready in the Claude session; live at ebb-and-ember-site.pages.dev/columbia-river/#watch) | E&E | default: video stays on the site only, not in confirmations [claude:ee:intro-video-jonah]~~ Sent to Jonah on Slack 11/15
 - Add the opt-in checkbox (unchecked, separate from the signature) to the Periode waiver and add the no-sharing-of-mobile-info line to the privacy policy, then screenshot both for the Twilio A2P campaign | E&E | default: A2P campaign keeps getting rejected, post-visit texts stay in dry-run [claude:ee:waiver-sms-optin]
 - Family board on the kitchen iPad: open claude.ai/artifact/VRkzbboqe3UyzVnmuft57A on the iPad (signed in as you), Share > Add to Home Screen, then send Claude the kids' Google logins, school portal names, and Roblox/game usernames for the parent-only activity digest | Family | default: board runs chores + reading only, no account visibility [family-board-setup]
 - 2026-11-15 due | [P1] Pay the past due $1,500 annual dockage invoice (due July 1, 2026) to Elevated Tides via Dockwa (asked by Elevated Tides via sauna@ email 2026-11-15) | E&E | default: they wait on you and chase, or it lapses [ifw:c056e502]
