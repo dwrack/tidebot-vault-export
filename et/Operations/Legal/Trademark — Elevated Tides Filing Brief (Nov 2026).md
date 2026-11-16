@@ -2,6 +2,8 @@
 
 Prepared 2026-11-09, updated 2026-11-10. Status: NOT filed. David's call 2026-11-10: file it ourselves (no outside counsel), hold off on sharing with Jonah for now. Tracked on the E&E dashboard, not in the shared ee-in-flight record.
 
+CURRENT STATUS 2026-11-16: full search run and application worksheet built, see [[Trademark — Elevated Tides Application Worksheet + Search Log (2026-11-16)]]. That note supersedes this brief where they differ: TEAS Plus is retired (one $350/class base application in Trademark Center), paddleboard rental is Class 41 and was dropped, and the operating agreement on file names Jonah as sole Manager, so he signs or authorizes the signer. Text below is history.
+
 ## The ask
 Register ELEVATED TIDES as a federal trademark (standard character word mark, no logo) owned by the partnership, not by either member personally.
 

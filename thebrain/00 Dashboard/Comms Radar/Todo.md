@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-16 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-16 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -179,6 +179,8 @@ _nothing_
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
+- [ ] Seabrook Tree Lighting vendor applications, Dec 3, $10 fee #HPB #due:2026-12-03 #id:T0206
+  → HPB manager decide whether to apply as a vendor for the Dec 3, 6-8pm Seabrook Tree Lighting ($10 fee), or ignore. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-16)
 - [ ] Maritime Consortium drug-free vessel membership renewal, NPB and HPB, expires Dec 31 #NPB #HPB #due:2026-12-31 #id:T0040
   → NPB and HPB managers renew the Maritime Consortium memberships (accounts 23624 and 25143) before Dec 31 using the corrected company-specific renewal links in the Nov 2 emails, not the earlier link. (NPB and HPB managers; Gmail nolapedalbarge@, Gmail houstonpedalbarge@; touched 2026-11-02)
 - [ ] Door County property tax due Dec 31, 8442 State Hwy 42 #DCKT #due:2026-12-31 #id:T0199
@@ -387,6 +389,8 @@ _nothing_
   → HPB manager pick a business-hours time, then notify Dustin Gause in writing to take the random test at Quest Diagnostics Fry Road in Katy with authorization Q25219822 and a photo ID; call the site first in case it needs an appointment. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-16)
 - [ ] BBK corporate Christmas outing inquiry, 9 people, Dec 7 or 8 #BBK #id:T0203
   → BBK manager reply to Sierra Gerondale with private pontoon availability on Mon Dec 7 or Tue Dec 8, pricing, duration, food and drink policy, departure times and weather and cancellation terms for 9 people. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-16)
+- [ ] Hibu rep offers demo for Lone Star Kayak Tours marketing #LSKT #AKT #id:T0205
+  → AKT staff decide whether to take Jesse Reynolds' demo or webinar offer for Hibu marketing services, or ignore it, since he has no trial version. (AKT staff; Gmail austinkayaktours@; touched 2026-11-16)
 
 ## Backburner (LSKT)
 

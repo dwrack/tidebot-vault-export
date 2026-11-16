@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 13:04 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 14:56 PT.
 
-Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dates 925
+Counts: people 14, vendors 117, projects 6, money 497, promises 42, asks 74, dates 933
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -70,6 +70,7 @@ Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dat
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-16 +13176706202: "tonight"
 - 2026-11-16 Carmen Mantalas: "November 16"
+- 2026-11-16 Claude: "11/16"
 - 2026-11-16 Davey: "next week"
 - 2026-11-16 Davey: "today"
 - 2026-11-16 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 16"
@@ -83,6 +84,7 @@ Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dat
 - 2026-11-17 Ebb & Ember Office: "November 17"
 - 2026-11-17 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 17"
 - 2026-11-17 Jonah: "11/17"
+- 2026-11-17 Liz Dewey: "tomorrow"
 - 2026-11-17 Office: "November 17"
 - 2026-11-17 PSP/Deck Expo: "November 17"
 - 2026-11-17 Roxanne Pauig: "Nov 17"

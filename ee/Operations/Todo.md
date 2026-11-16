@@ -158,7 +158,7 @@
 - [ ] Order walkway and sign lighting for the parking lot (Davey/Jonah)
 - [ ] Purchase and install dock mats
 - [ ] Paint parking lot lines + install wheel stop blocks
-- [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style)
+- [ ] Find and purchase 1-2 ladders for dock access (West Coast Sauna Summit style). 2026-11-16: Jonah ordering from the 11/4 #maintenance ranked list (Wet Steps 5-step or Techstar flip-up); waiting on Davey: 2 or 3 (3 = one for the private sauna space)
 - [ ] Next time at the marina: LiDAR scan + photos of the 30 ft dock section for the ladder and ramps (edge framing, how the floats attach, underside if reachable, tape measure deck to water). Project: [[Dock Water Entry — Project Note]] (added 2026-11-06)
 - [ ] V2 outdoor showers: A/B/C posted in #private-saunas-build 11/10 for Jonah + Alex feedback; order two after (C Rbrohant 316 recommended). Then Alex cold tees, Grant heater screen per W-101. Note: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (2026-11-10)
 - [ ] V2 water line: plan SENT to Alex in #maintenance 11/9; get his feedback + spigot pick, then pick the black outdoor shower fixtures (options in the plan). Plan: [[Private Saunas (V2) — Water Line Plan for Alex (Nov 9 2026)]] (added 2026-11-09)
