@@ -70,3 +70,10 @@ Keep it, on venue + boats only (not food, bar or music). Paid after the event is
 - Megan's bar service: does she hold the liquor license and insurance, and what's her per-person price? NPB has no liquor license, so any paid or open bar has to be hers.
 - Barbeau's minimum order (per person and total) and his price per tier
 - Bathroom on all 4 boats; party room capacity against the occupancy permit; whether the marina is in Orleans Parish
+
+
+## 2026-11-16 changes (David)
+
+- Corporate offer is sold as full service (food, drinks, bartender, music), not BYOB.
+- Guests who bring their own drinks pay a corkage fee of $10 per person, covering ice, mixers and cups. This replaces the $8 per person bar setup line.
+- Live on the two WordPress pages 2026-11-16. The quote builder (npb-corporate.pages.dev) still shows the old BYOB bar setup at $8 until it is redeployed.

@@ -27,7 +27,7 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: detail: 1
 - feedback: fixit: 6
 - feedback: known: 4
-- feedback: note: 5
+- feedback: note: 6
 - fix_approved: 8
 - fix_ignored: 10
 - skill later: 5
@@ -36,7 +36,6 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 
 ## Most recent taps (newest last)
 
-- 2026-11-10 19:35 | fix_approved | brand:CPPP | Draft 3 CPPP Instagram and Facebook posts
 - 2026-11-10 19:35 | fix_approved | brand:HBC | Draft 3 HBC Instagram and Facebook posts
 - 2026-11-10 19:35 | fix_approved | brand:LSKT | Draft 3 LSKT Facebook posts
 - 2026-11-10 19:35 | fix_approved | brand:DCKT | Draft 3 DCKT Facebook posts
@@ -76,3 +75,4 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-15 09:06 | fix_ignored | brand:NBB | Re-run the dashboard collector for NBB social
 - 2026-11-16 01:06 | fix_ignored | loop:com.admirenola.medium-importer | Diagnose importer and stage a Chrome bridge version
 - 2026-11-16 01:06 | fix_ignored | loop:com.nolapartybarge.winback-ses | Pull h02 complaint rate and compare to the safety stop
+- 2026-11-16 01:57 | feedback | Needs you: OpenAI ChatGPT Ads outreach to NKST, 30 min call on David's calendar Nov 16 | note

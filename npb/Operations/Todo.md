@@ -1,8 +1,24 @@
 # NOLA Party Barge — Todo List
 
+## Google Ads + site asks from Michael's 11/2 note (added 2026-11-16)
+- [ ] Name the payer of record for the Google Ads funding source check, then Michael completes it (unverified, last known open 11/2) ([[NPB — Who's On What]]) | **Owner: David**
+- [ ] Say go on renaming the two Nola-Pedal-Barge Google campaigns | **Owner: David, then Claude**
+- [ ] Local campaign: set a target ROAS or leave uncapped ($10/day since 11/9, 1.7x last 14 days as of 11/16) | **Owner: David + Michael**
+- [ ] Website Standards doc: copy into this vault or share TheBrain with Michael | **Owner: David**
+- [ ] Header brand text: FareHarbor ask (Kevin Schmitt) or leave it for the rebuild | **Owner: David**
+- [ ] Performance Max video: pick horizontal and square clips, settle teal barge vs tiki footage | **Owner: David, then Michael**
+
+## Boat social accounts (added 2026-11-16)
+- [ ] Recover the @nolafreakytiki Instagram login (made for the Aug pilot); create @nolatwerkintiki on IG and @nolafreakytiki + @nolatwerkintiki on TikTok, per [[Phase 1 Setup Kit — Freaky Tiki + Twerkin' Tiki]]. TikTok handles still free 2026-11-16 — **Owner: David or Jeff**
+- [ ] Decide who posts (Jeff or a paid creator) and the scheduler (Metricool or Buffer) — **Owner: David**
+- [ ] Crew films 3 sign-in-frame vertical clips per tiki trip for 2 weeks, files named freaky_ / twerkin_ — **Owner: Jeff**
+- [ ] Once @nolatwerkintiki is live: archive (not delete) the 9 barge reels and the Twerkin' sign reel on @nolafreakytiki — **Owner: whoever holds the login**
+- [ ] Cut the 4 queue clips to 9:16 with hook text, and re-date `Marketing/Boat Accounts/Tiki Posting Queue — Nov 2026.csv` (its Nov 3-15 dates have passed) — **Owner: Claude, once accounts exist**
+
 ## Google Ads keyword review (added 2026-11-14, updated 2026-11-15)
 - [ ] Walk the Ad keywords tab with Michael by 11/21: pause the 14 no-booking or under-2x keywords, raise bids on the 6 'Scale' keywords losing searches to rank ([[NPB — Who's On What]]) | **Owner: David + Michael**
 - [ ] Keep the brand keywords on (David's rule, 2026-11-15: no pausing while others advertise; Auction Insights shows Viator, GetYourGuide, Groupon, Tripadvisor, Booking.com and swamp tour companies on all 5). Turn [nola party barge] exact and 'twerking tiki boat new orleans' back on in FH Local + National: paused since about 9/8, and our name now costs $1.00 a click through PMax and phrase keywords vs $0.59. | **Owner: Michael, once David sends the DM**
+- [ ] Fix the Google Ads location asset: party barge ads show the kayak listing (740 N Rampart, (504) 571-9975) because the shared account's only location asset is account-wide. Give the Nola-Pedal-Barge campaigns the marina listing, recheck in Ad Preview. Found 2026-11-16 | **Owner: Michael, once David sends the DM**
 - [ ] Performance Max ('Sales-Performance Max-12') has no negatives: block junk like 'weather in new orleans in december' (85 clicks, 0 bookings) and 'pedal pub new orleans' (104 clicks, 0) | **Owner: Michael**
 - [ ] Account-wide tracking template tags every NPB click 'fhdirectads_neworleanskayakswamptours'; also check our ads' location asset isn't the kayak office on N Rampart (seen in live ads, unverified) | **Owner: Michael**
 

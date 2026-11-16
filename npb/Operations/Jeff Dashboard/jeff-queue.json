@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "note": "Jeff's to-do queue for the Jeff Today page (npb-dash-zoonn3.pages.dev/jeff/). Any Claude can edit this file; the always-on Mac pushes it live every 10 min. status: open | working | done. reply = Claude's answer shown on the card.",
   "items": [
+    {
+      "id": "creator-dms",
+      "area": "Marketing",
+      "title": "Creator DMs: OK 5 reshare + ad asks",
+      "why": "5 creators made our best boat videos (Lola's has 32k likes). We ask to reshare them and run them as ads, for a free ride. David approved. Tasha already got hers 11/12 in your mixer thread.",
+      "due": "2026-11-18",
+      "mins": 3,
+      "plan": "Tap Send and they go out from the NPB Instagram, a few minutes apart, written to pick up where each old DM thread left off. No money offered, just a comped ride. Heads up: bukulocal was paid $325 for their video, so they may ask about pay. If anyone replies, it lands on this page.",
+      "draft": "@lifewithleauxla (Lola)\nHey Lola! Hope you've made it back to NOLA since your visit. Your booze cruise reel from May 2024 is still the best video anyone's ever made about us, all 32k likes of it. Two asks: could we reshare it on our page with credit to you, and would you be open to us running it as a partnership ad? It runs from your post with your name on it, and it takes one tap on your end to approve. Like Jeffrey said, you're friends of the boat, so next time you're in town, you and your crew are on us.\n\n@aubreyavocado\nHey! Your sunset reel from the boat last May is still one of our favorites. Two asks: could we reshare it on our page with credit to you, and would you be open to us running it as a partnership ad? It runs from your post with your name on it, and it takes one tap on your end to approve. Either way, we'd love to have you and a few friends back out on us. Just say when.\n\n@bukulocal\nHey! Sorry the reply you got back in February was an automated one. Your reel from last April is still one of our favorites, and it's already up on our page as a collab. One ask: would you be open to us running it as a partnership ad? It runs from your post with your name on it, and it takes one tap on your end to approve. And we'd love to have you and a few friends back out on us. Just say when.\n\n@alexx_robinson\nHey Alex! Like we said, you're basically family at this point. You've brought us out in six videos since 2022, from your birthday ride to the big family weekend in 2024, and we love every one. Two asks: could we reshare a couple on our page with credit to you, and would you be open to us running them as partnership ads? They run from your posts with your name on them, and it takes one tap on your end to approve. Either way, come back out with a few friends on us. Just say when.\n\n@bucketlistnola\nHey! Following up on the repost from February. No need to send the file: if you're open to it, we can run your 2024 bachelorette reel as a partnership ad straight from your original post, so the watermark isn't an issue. It runs with your name on it and takes one tap on your end to approve. We'd still love to share it on our page with credit to you too. And come back out with a few friends on us, just say when.",
+      "to": "5 creators by NPB Instagram DM: @lifewithleauxla, @aubreyavocado, @bukulocal, @alexx_robinson, @bucketlistnola",
+      "options": [
+        "Send all 5",
+        "Send with my edit",
+        "Skip bukulocal, send 4",
+        "Hold for now"
+      ],
+      "status": "open"
+    },
     {
       "id": "pay-1116",
       "area": "Payroll",
