@@ -379,8 +379,9 @@ _nothing_
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
-- [ ] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #id:T0197
+- [x] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #id:T0197
   → David decide whether to take a call with Rachel Foster, who says she represents a private buyer; she has not named the buyer, so ask who it is before sharing any numbers. (David; Gmail austinkayaktours@; touched 2026-11-16)
+  > Closed by the resolver: Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
 
 ## Backburner (LSKT)
 

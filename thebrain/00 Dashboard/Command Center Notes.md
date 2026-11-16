@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-20 due | Jonah lining up electricians for the private sauna float outlets (7 threads forwarded 2026-11-16: Smiley, Pacific NW, Unity, Community, ptpnw, Boones Ferry declined, Coy no reply). Nudge Jonah if no one is booked by Thu | E&E | default: no electrician scheduled, outlets block the sauna opening
 - 2026-11-18 due | Reply to the unanswered Google reviews: 2-star Nov 8 (bathrooms, tank emptied with guests aboard) and 3-star Nov 1 (rain trip, driver struggled) | NPB | default: both stay unreplied
 - 2026-11-17 due | Pause 3 Google search campaigns at 0 conversions ($643.63 over 7 days: NKST Generic Local + National, NPB Holiday Party & Groups) and move budget to NPB National/Local, which convert at $41 to $57. Michael's lane, tell him go or say it to Claude | NKST + NPB | default: they keep spending ~$90/day (checked 2026-11-16)
 - 2026-11-22 due | Radar 11/16: pick which Spark to test, (1) agent-readable tour pages + agent log check on NPB/DCKT before Black Friday, (2) Gemini test call to an NPB line, (3) 30-day shipped-changes audit on DCKT. Also tell Michael about the AI Max exact-click parameter. Brief: 00 Dashboard/Radar/2026-11-16.md | NPB, DCKT | default: nothing runs, Claude only re-scans next Monday

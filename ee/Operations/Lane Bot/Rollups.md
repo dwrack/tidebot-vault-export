@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 08:05 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 09:02 PT.
 
-Counts: people 14, vendors 111, projects 6, money 493, promises 40, asks 73, dates 895
+Counts: people 14, vendors 113, projects 6, money 493, promises 41, asks 73, dates 917
 
 ## Open asks of Davey (Tier 0)
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
@@ -68,6 +68,7 @@ Counts: people 14, vendors 111, projects 6, money 493, promises 40, asks 73, dat
 
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-16 Davey: "next week"
+- 2026-11-16 Davey: "today"
 - 2026-11-16 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 16"
 - 2026-11-16 Jonah: "11/16"
 - 2026-11-17 Davey: "Nov 17"
@@ -90,12 +91,14 @@ Counts: people 14, vendors 111, projects 6, money 493, promises 40, asks 73, dat
 - 2026-11-19 Jordan Culberson: "Nov 19"
 - 2026-11-20 Claude: "end of week"
 - 2026-11-20 Claude: "this week"
+- 2026-11-20 Davey: "Nov 20"
 - 2026-11-20 Davey: "November 20"
 - 2026-11-20 Davey: "this week"
 - 2026-11-20 Jen Newlin: "Nov 20"
 - 2026-11-20 Jonah: "11/20"
 - 2026-11-20 Jonah: "this week"
 - 2026-11-20 Pjstambaugh: "Nov 20"
+- 2026-11-20 Zoe Vives Jancou: "this week"
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
 - 2026-11-21 Melissa Clark: "November 21"
