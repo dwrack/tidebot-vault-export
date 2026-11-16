@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 06:45 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 07:23 PT.
 
-Counts: people 14, vendors 110, projects 6, money 492, promises 40, asks 73, dates 886
+Counts: people 14, vendors 111, projects 6, money 492, promises 40, asks 73, dates 892
 
 ## Open asks of Davey (Tier 0)
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
@@ -68,6 +68,7 @@ Counts: people 14, vendors 110, projects 6, money 492, promises 40, asks 73, dat
 
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-16 Davey: "next week"
+- 2026-11-16 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 16"
 - 2026-11-16 Jonah: "11/16"
 - 2026-11-17 Davey: "Nov 17"
 - 2026-11-17 Davey: "November 17"
@@ -76,13 +77,16 @@ Counts: people 14, vendors 110, projects 6, money 492, promises 40, asks 73, dat
 - 2026-11-17 Ebb & Ember: "Nov 17"
 - 2026-11-17 Ebb & Ember: "November 17"
 - 2026-11-17 Ebb & Ember Office: "November 17"
+- 2026-11-17 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 17"
 - 2026-11-17 Jonah: "11/17"
 - 2026-11-17 Office: "November 17"
 - 2026-11-17 PSP/Deck Expo: "November 17"
 - 2026-11-17 Roxanne Pauig: "Nov 17"
 - 2026-11-17 sauna@ebbandember.com: "November 17"
 - 2026-11-18 Anna Nelson: "11/18"
+- 2026-11-18 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 18"
 - 2026-11-18 Jonah: "11/18"
+- 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jordan Culberson: "Nov 19"
 - 2026-11-20 Claude: "end of week"
 - 2026-11-20 Claude: "this week"

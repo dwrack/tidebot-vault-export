@@ -14,3 +14,4 @@ Row notes (all 2026-11-13 rows use the same 110-event Tier 1 sample; T0 columns 
 2. Tier 1 v2: same 3B, yes/no only, thread context, 20+20 few-shots (Davey: tune only, no Gemini).
 3. Tier 1 v3: moved to bigly qc30 (Qwen3-Coder 30B Q4_K_M, Ollama) with typography-tolerant grounding that swaps in the verbatim source quote.
 4. Tier 1 v4: v3 plus the Tier 0 address gate before the model (greets someone else, tags others not Davey, sent from our own address, Davey only cc, bot relays). Current production config. Shadow until 90% precision for a week.
+| 2026-11-16 | 1093 | 200 | 83.8 | 46.5 | 80.6 | 65.8 | 1.8 | 81.1 | 51.5 | 3/3 |
