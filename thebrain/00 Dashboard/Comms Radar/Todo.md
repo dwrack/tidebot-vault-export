@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-16 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-16 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,6 +15,8 @@ _nothing_
 
 ## Needs you
 
+- [ ] Kick off Cloudflare domain migration for all business domains #due:2026-11-16 #id:T0198
+  → David open Claude in the TheBrain vault and say 'start the Cloudflare domain migration': phase 1 adds domains, verifies DNS (SES/Gmail DKIM, FareHarbor) and swaps nameservers; phase 2 is registrar transfers in batches. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link; Max provides written confirmation that the floating saunas are not excluded as watercraft, plus a COI and additional insured endorsement for Elevated Tides LLC by Dec 13. (David; Gmail davey@; touched 2026-11-14)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
@@ -61,6 +63,8 @@ _nothing_
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0188
   → David top up the Google AI Studio prepaid credits so TideBot can process guide logs again; until then logs like Michelle Healey's Nov 14 log need manual reading. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
+- [ ] Loop health: 15 of 147 scheduled jobs failing, including Comms Radar Send and Command Center #id:T0200
+  → David or Claude check the failing jobs on mbp-2, starting with Comms Radar Send (last ran Oct 30), Command Center (Oct 31), Cc V2, Google Ads Optimizer (exit 1) and Docuseal 8442 Watch (Oct 26). (David; Gmail dwrack81@ (DJL Daily); touched 2026-11-16)
 
 ## Waiting on someone
 
@@ -81,8 +85,6 @@ _nothing_
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
-- [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
-  → NKST manager confirm whether Michelle Healey has also been paid, since River says they were paid yesterday. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-03)
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #waiting #id:T0074
@@ -114,6 +116,8 @@ _nothing_
   → Remaining 2 guides complete their W-9s so TideBot can file them; Bob Drought is out until Nov 23. (TideBot; Gmail nolakayaktours@, Slack #helm-nkst; touched 2026-11-15)
 - [ ] Elevated Tides insurance premium audit, portal codes expire before arriving #waiting #id:T0194
   → Wait for the insurer to accept Jonah's emailed audit package (monthly sales 11/6/2025 to 10/31/2026, P&L by month, principals) for policy BR20250485, since portal codes arrive about two hours late and expire. (Jonah Moses; Gmail davey@; touched 2026-11-15)
+- [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
+  → Whoever approves TideBot payroll verify the unverified PayPal accounts for Emily Clarke and Michelle Healey, then react to release the Nov 1-15 payroll ($2,050 across 5 guides); it only produces a send list and does not move money. (NKST manager; Slack #helm-nkst; touched 2026-11-16)
 
 ## Open
 
@@ -177,6 +181,8 @@ _nothing_
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Maritime Consortium drug-free vessel membership renewal, NPB and HPB, expires Dec 31 #NPB #HPB #due:2026-12-31 #id:T0040
   → NPB and HPB managers renew the Maritime Consortium memberships (accounts 23624 and 25143) before Dec 31 using the corrected company-specific renewal links in the Nov 2 emails, not the earlier link. (NPB and HPB managers; Gmail nolapedalbarge@, Gmail houstonpedalbarge@; touched 2026-11-02)
+- [ ] Door County property tax due Dec 31, 8442 State Hwy 42 #DCKT #due:2026-12-31 #id:T0199
+  → If no bill has arrived by Dec 20, assume it went to Truist and call the Town of Gibraltar; pay by Dec 31 to land on the 2026 return. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
 - [ ] AKT booking cancellation, Heather Bouse Oct 31 bat bridge tour #AKT #id:T0004
   → AKT staff cancel booking #381838130 (2 people, Oct 31 6:00pm Sunset Congress Avenue Bat Bridge Tour) and confirm to the guest. (AKT staff; Gmail austinkayaktours@; touched 2026-10-30)
 - [ ] Cell tower lease at 2101 Paris Road marina #DCKT #id:T0006
@@ -373,6 +379,8 @@ _nothing_
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
+- [ ] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #id:T0197
+  → David decide whether to take a call with Rachel Foster, who says she represents a private buyer; she has not named the buyer, so ask who it is before sharing any numbers. (David; Gmail austinkayaktours@; touched 2026-11-16)
 
 ## Backburner (LSKT)
 
