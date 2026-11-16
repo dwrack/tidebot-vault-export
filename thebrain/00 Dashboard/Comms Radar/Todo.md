@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-15 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-16 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -72,6 +72,8 @@ _nothing_
   → Todd sends Jonah an update by Monday on Drew's response to the 11/4 structure and whether summary judgment motions are filed in both suits. (Todd; Gmail dwrack81@; touched 2026-11-12)
 - [ ] Update address to 2105 Paris Road everywhere #waiting #due:2026-11-16 #id:T0059
   → Jeffrey Chitek update the address to 2105 Paris Road across listings and accounts this Monday, Nov 16, per Davey. (Jeffrey Chitek; Slack #nola-party-barge; touched 2026-11-14)
+- [ ] NPB corporate holiday push: managers review pages and email before it goes to 105 companies #NPB #waiting #due:2026-11-17 #id:T0195
+  → NPB managers walk through the holiday page, corporate page and test email, then reply in #helm-npb by noon Tuesday 11/17 with yes or no on the costume closet, trivia, karaoke and yard games, drinks and bartender with $10 corkage, the $59 pp 40-guest Mon-Thu package, the food, band and singer prices, and the quote builder. (NPB managers; Slack #helm-npb, Gmail nolapedalbarge@; touched 2026-11-16)
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
@@ -369,6 +371,8 @@ _nothing_
   → NKST staff do not click the Google Forms link or enter any Facebook login; check the Facebook page's own Page Quality or Support Inbox in Meta Business Suite to confirm there is no real violation, then delete the email. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] NKST Manchac + Whitney Plantation inquiry, 3 people, Dec 29-31 #NKST #id:T0193
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
+- [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
+  → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
 
 ## Backburner (LSKT)
 
@@ -378,7 +382,6 @@ _nothing_
 ## Done (last 14 days)
 
 - [x] GetYourGuide solo guest, Houston Sunset Skyline Oct 31, wants credit note #LSKT #AKT #due:2026-10-31 #done:2026-11-04 #id:T0025
-- [x] NKST Nov 1 11am Manchac tour booked with 1 guest #NKST #due:2026-11-01 #done:2026-11-01 #id:T0023
 - [x] AKT Riverside Lot parking permit statement $2,082.40 #AKT #due:2026-11-01 #done:2026-11-05 #id:T0002
 - [x] Soward v. TripAdvisor hearing date, reply needed #AKT #due:2026-11-03 #done:2026-11-05 #id:T0001
 - [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #done:2026-11-12 #id:T0161

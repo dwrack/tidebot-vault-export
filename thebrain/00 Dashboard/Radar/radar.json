@@ -1,8 +1,56 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-16",
+  "last_run": "2026-11-16",
   "focus_arg": null,
-  "counts": { "candidates": 32, "deduped": 18, "scored": 14, "sparks": 3 },
+  "counts": {
+    "candidates": 34,
+    "deduped": 24,
+    "scored": 24,
+    "sparks": 3
+  },
   "signals": [
+    {
+      "id": "agents-spend-85-of-visits-on-product-search-pages-1-9-on-che",
+      "title": "Agents spend 85% of visits on product/search pages, 1.9% on checkout; Muse is 59% of agent traffic",
+      "domain": "ai-frontier",
+      "source": "websearch",
+      "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
+      "appeared": "2026-11-14",
+      "first_seen": "2026-11-16",
+      "summary": "HUMAN Security October data: Meta and OpenAI agents made ~90% of agent requests; United now bans agents from booking while Shopify opens checkout to them.",
+      "scores": {
+        "newly_possible": 4,
+        "momentum": 5,
+        "own_the_ground": 4,
+        "fit_to_david": 4,
+        "run_with_it": 4
+      },
+      "weighted": 46,
+      "tier": "spark",
+      "desk_mobile_bonus": false,
+      "run_with_it_note": "Check Cloudflare/server logs on NPB and DCKT for Muse and OpenAI agent hits, then make price, duration, availability and ref= links readable on one page per top tour."
+    },
+    {
+      "id": "meta-muse-can-now-phone-us-businesses-for-any-paying-subscri",
+      "title": "Meta Muse can now phone US businesses for any paying subscriber",
+      "domain": "ai-frontier",
+      "source": "tldr",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "appeared": "2026-11-12",
+      "first_seen": "2026-11-16",
+      "summary": "Paid Muse users ($20/mo up) can have an agent call businesses; Gemini and Instinct do the same. Receptionists often hang up on AI callers.",
+      "scores": {
+        "newly_possible": 4,
+        "momentum": 4,
+        "own_the_ground": 4,
+        "fit_to_david": 5,
+        "run_with_it": 4
+      },
+      "weighted": 46,
+      "tier": "spark",
+      "desk_mobile_bonus": true,
+      "run_with_it_note": "Call an NPB or DCKT line with Gemini's calling feature and see whether the OpenCX phone agent or the human answers correctly and logs a lead."
+    },
     {
       "id": "llama-modchip-284b-on-64gb-ram-no-gpu",
       "title": "llama-modchip: run a 284B DeepSeek model on 64GB RAM with no GPU",
@@ -12,9 +60,15 @@
       "appeared": "2026-11-08",
       "first_seen": "2026-11-09",
       "summary": "Open-source project memory-maps a 284B-parameter model to run on ordinary consumer RAM with zero GPU, hit #6 on HN front page (442pt/196c).",
-      "scores": { "newly_possible": 5, "momentum": 3, "own_the_ground": 5, "fit_to_david": 3, "run_with_it": 3 },
+      "scores": {
+        "newly_possible": 5,
+        "momentum": 3,
+        "own_the_ground": 5,
+        "fit_to_david": 3,
+        "run_with_it": 3
+      },
       "weighted": 43,
-      "tier": "spark",
+      "tier": "watch",
       "desk_mobile_bonus": false,
       "run_with_it_note": "Clone it on a spare machine (the Intel loop box or mbp-2) and benchmark a real local-inference job from your stack (caption drafts, log triage) against the API cost of the same job this week."
     },
@@ -27,11 +81,98 @@
       "appeared": "2026-11-05",
       "first_seen": "2026-11-09",
       "summary": "OpenRouter shipped a next-gen Auto Router plus a coding-specific Auto Code router that picks the cheapest model meeting a quality bar per request; OpenRouter claims Opus-5.5-level output at 74% lower cost on its benchmarks.",
-      "scores": { "newly_possible": 4, "momentum": 3, "own_the_ground": 4, "fit_to_david": 3, "run_with_it": 5 },
+      "scores": {
+        "newly_possible": 4,
+        "momentum": 3,
+        "own_the_ground": 4,
+        "fit_to_david": 3,
+        "run_with_it": 5
+      },
       "weighted": 42,
-      "tier": "spark",
+      "tier": "watch",
       "desk_mobile_bonus": false,
       "run_with_it_note": "Point one cheap, high-volume background loop (an Idea Radar pass or a Slack summarizer) at openrouter/auto-code for a week and diff cost and output quality against what it runs on today."
+    },
+    {
+      "id": "appsumo-audit-only-4-of-67-shipped-changes-moved-a-key-metri",
+      "title": "AppSumo audit: only 4 of 67 shipped changes moved a key metric",
+      "domain": "seed-stage",
+      "source": "tldr",
+      "url": "https://x.com/noahkagan/status/2121379356207464887",
+      "appeared": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "summary": "Founder shares a Claude prompt that audits which shipped work actually moved a number.",
+      "scores": {
+        "newly_possible": 2,
+        "momentum": 3,
+        "own_the_ground": 5,
+        "fit_to_david": 4,
+        "run_with_it": 5
+      },
+      "weighted": 40,
+      "tier": "spark",
+      "desk_mobile_bonus": false,
+      "run_with_it_note": "Run the prompt against the last 30 days of Website Standards changes on one site (DCKT) using GA4 before/after."
+    },
+    {
+      "id": "yogurt-free-private-open-source-alternative-to-granola-local",
+      "title": "Yogurt: free, private, open-source alternative to Granola (local meeting notes)",
+      "domain": "ai-frontier",
+      "source": "hacker_news",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "appeared": "2026-11-11",
+      "first_seen": "2026-11-16",
+      "summary": "305 points on Show HN; runs locally.",
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 3,
+        "own_the_ground": 5,
+        "fit_to_david": 3,
+        "run_with_it": 4
+      },
+      "weighted": 39,
+      "tier": "watch",
+      "desk_mobile_bonus": false
+    },
+    {
+      "id": "gemini-4-hydrogen-fast-cheap-google-model-for-agent-workflow",
+      "title": "Gemini 4 Hydrogen: fast, cheap Google model for agent workflows, also powers AI Mode",
+      "domain": "ai-frontier",
+      "source": "tldr",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "appeared": "2026-11-13",
+      "first_seen": "2026-11-16",
+      "summary": "Priced below its predecessor; Search got an AI Mode upgrade on it Nov 12.",
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 3,
+        "own_the_ground": 3,
+        "fit_to_david": 3,
+        "run_with_it": 3
+      },
+      "weighted": 33,
+      "tier": "watch",
+      "desk_mobile_bonus": false
+    },
+    {
+      "id": "claude-code-2-1-325-scheduled-tasks-and-loop-ask-before-runn",
+      "title": "Claude Code 2.1.325: scheduled tasks and /loop ask before running skills with allowed-tools or hooks",
+      "domain": "ai-frontier",
+      "source": "websearch",
+      "url": "https://code.claude.com/docs/en/changelog.md",
+      "appeared": "2026-11-13",
+      "first_seen": "2026-11-16",
+      "summary": "Unattended skill runs now need Skill(name) in permissions.allow.",
+      "scores": {
+        "newly_possible": 1,
+        "momentum": 2,
+        "own_the_ground": 5,
+        "fit_to_david": 3,
+        "run_with_it": 5
+      },
+      "weighted": 33,
+      "tier": "note",
+      "desk_mobile_bonus": false
     },
     {
       "id": "aeo-won-offsite-85-percent",
@@ -42,22 +183,54 @@
       "appeared": "2026-11-07",
       "first_seen": "2026-11-09",
       "summary": "A GTM-strategy writeup argues most answer-engine-optimization gains come from third-party mentions (creators, review sites) rather than owned-site content, with creator relationships as the underused lever.",
-      "scores": { "newly_possible": 2, "momentum": 2, "own_the_ground": 3, "fit_to_david": 4, "run_with_it": 4 },
+      "scores": {
+        "newly_possible": 2,
+        "momentum": 2,
+        "own_the_ground": 3,
+        "fit_to_david": 4,
+        "run_with_it": 4
+      },
       "weighted": 32,
-      "tier": "spark",
+      "tier": "watch",
       "desk_mobile_bonus": false,
       "run_with_it_note": "This is the unlock for the stalled AI-citation loop (memory: project_ai_citation_loop never produced a check). Pick one brand, list the 5 highest-authority third-party sites/creators that could mention it, and pitch 2 this week."
     },
     {
+      "id": "replit-agent-can-buy-supplies-and-run-google-ads-using-link-",
+      "title": "Replit Agent can buy supplies and run Google Ads using Link with Visa and Stripe",
+      "domain": "ai-frontier",
+      "source": "tldr",
+      "url": "https://replit.com/blog/replit-agent-ads-commerce",
+      "appeared": "2026-11-13",
+      "first_seen": "2026-11-16",
+      "summary": "Agent-held payment credentials arrive alongside ChatGPT Wallet (Nov 13).",
+      "scores": {
+        "newly_possible": 5,
+        "momentum": 3,
+        "own_the_ground": 2,
+        "fit_to_david": 2,
+        "run_with_it": 1
+      },
+      "weighted": 31,
+      "tier": "watch",
+      "desk_mobile_bonus": false
+    },
+    {
       "id": "why-wouldnt-the-labs-do-it",
-      "title": "\"Why wouldn't the labs do it?\" — physical ops and proprietary data are the real AI-lab moat",
+      "title": "\"Why wouldn't the labs do it?\" \u2014 physical ops and proprietary data are the real AI-lab moat",
       "domain": "seed-stage",
       "source": "tldr",
       "url": "https://konvoy.beehiiv.com/p/why-wouldn-t-the-labs-do-it",
       "appeared": "2026-11-06",
       "first_seen": "2026-11-09",
       "summary": "Essay argues AI labs now threaten most pure-software startups, so the defensible ground left is physical operations, proprietary data, and regulated workflows, exactly where tour/hospitality operators sit.",
-      "scores": { "newly_possible": 1, "momentum": 2, "own_the_ground": 5, "fit_to_david": 5, "run_with_it": 2 },
+      "scores": {
+        "newly_possible": 1,
+        "momentum": 2,
+        "own_the_ground": 5,
+        "fit_to_david": 5,
+        "run_with_it": 2
+      },
       "weighted": 31,
       "tier": "watch",
       "desk_mobile_bonus": false,
@@ -72,11 +245,58 @@
       "appeared": "2026-11-06",
       "first_seen": "2026-11-09",
       "summary": "Stripe customers can now connect an agent (Claude, Cursor) directly to their payments data to explain revenue swings, with the underlying SQL shown for verification.",
-      "scores": { "newly_possible": 3, "momentum": 2, "own_the_ground": 4, "fit_to_david": 2, "run_with_it": 3 },
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 2,
+        "own_the_ground": 4,
+        "fit_to_david": 2,
+        "run_with_it": 3
+      },
       "weighted": 31,
       "tier": "watch",
       "desk_mobile_bonus": false,
       "run_with_it_note": ""
+    },
+    {
+      "id": "kino-ai-media-manager",
+      "title": "Kino AI (YC S23): an AI media manager and video editor launches on HN",
+      "domain": "seed-stage",
+      "source": "hacker_news",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "appeared": "2026-11-04",
+      "first_seen": "2026-11-09",
+      "summary": "YC-backed Kino AI launched an AI-driven media manager/video editor aimed at creators handling large raw-footage libraries.",
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 2,
+        "own_the_ground": 3,
+        "fit_to_david": 3,
+        "run_with_it": 3
+      },
+      "weighted": 31,
+      "tier": "watch",
+      "desk_mobile_bonus": false,
+      "run_with_it_note": ""
+    },
+    {
+      "id": "nous-raises-17m-for-an-ai-agent-that-handles-household-bills",
+      "title": "Nous raises $17M for an AI agent that handles household bills and admin",
+      "domain": "seed-stage",
+      "source": "websearch",
+      "url": "https://blog.mean.ceo/startup-funding-announcements-news-november-2026/",
+      "appeared": "2026-11-10",
+      "first_seen": "2026-11-16",
+      "summary": "London seed round for a consumer admin agent.",
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 3,
+        "own_the_ground": 3,
+        "fit_to_david": 2,
+        "run_with_it": 2
+      },
+      "weighted": 29,
+      "tier": "watch",
+      "desk_mobile_bonus": false
     },
     {
       "id": "expedia-live-on-meta-muse",
@@ -87,7 +307,13 @@
       "appeared": "2026-11-09",
       "first_seen": "2026-11-09",
       "summary": "Expedia's booking integration into Meta's consumer AI agent Muse is live; Skift finds its real AI wins are still mostly inside Expedia's own apps, not the agent surface.",
-      "scores": { "newly_possible": 3, "momentum": 3, "own_the_ground": 1, "fit_to_david": 3, "run_with_it": 2 },
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 3,
+        "own_the_ground": 1,
+        "fit_to_david": 3,
+        "run_with_it": 2
+      },
       "weighted": 27,
       "tier": "watch",
       "desk_mobile_bonus": false,
@@ -102,24 +328,36 @@
       "appeared": "2026-11-06",
       "first_seen": "2026-11-09",
       "summary": "As AI agents act on users' behalf, sites can't verify agent identity or trustworthiness; Cloudflare's new framework plus a hashed-user-ID scheme aims to let sites charge and account for agent traffic.",
-      "scores": { "newly_possible": 3, "momentum": 3, "own_the_ground": 2, "fit_to_david": 2, "run_with_it": 1 },
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 3,
+        "own_the_ground": 2,
+        "fit_to_david": 2,
+        "run_with_it": 1
+      },
       "weighted": 25,
       "tier": "watch",
       "desk_mobile_bonus": false,
       "run_with_it_note": ""
     },
     {
-      "id": "kino-ai-media-manager",
-      "title": "Kino AI (YC S23): an AI media manager and video editor launches on HN",
+      "id": "rivet-agent-orchestration-s3",
+      "title": "Rivet (YC W23): orchestrate AI agents at scale on S3",
       "domain": "seed-stage",
       "source": "hacker_news",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "appeared": "2026-11-04",
+      "url": "https://github.com/rivet-dev/rivet",
+      "appeared": "2026-11-05",
       "first_seen": "2026-11-09",
-      "summary": "YC-backed Kino AI launched an AI-driven media manager/video editor aimed at creators handling large raw-footage libraries.",
-      "scores": { "newly_possible": 3, "momentum": 2, "own_the_ground": 3, "fit_to_david": 3, "run_with_it": 3 },
-      "weighted": 31,
-      "tier": "watch",
+      "summary": "YC-backed launch for scaling and orchestrating many AI agents using S3 as the backing store, HN front-page traction (120pt/59c).",
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 2,
+        "own_the_ground": 3,
+        "fit_to_david": 1,
+        "run_with_it": 1
+      },
+      "weighted": 23,
+      "tier": "note",
       "desk_mobile_bonus": false,
       "run_with_it_note": ""
     },
@@ -132,7 +370,13 @@
       "appeared": "2026-11-05",
       "first_seen": "2026-11-09",
       "summary": "OpenAI's cybersecurity-focused model finds and validates exploitable vulnerabilities within researcher-set limits.",
-      "scores": { "newly_possible": 4, "momentum": 2, "own_the_ground": 1, "fit_to_david": 1, "run_with_it": 1 },
+      "scores": {
+        "newly_possible": 4,
+        "momentum": 2,
+        "own_the_ground": 1,
+        "fit_to_david": 1,
+        "run_with_it": 1
+      },
       "weighted": 22,
       "tier": "note",
       "desk_mobile_bonus": false,
@@ -147,26 +391,57 @@
       "appeared": "2026-11-06",
       "first_seen": "2026-11-09",
       "summary": "594B-param (17B active) mixture-of-experts model takes image inputs; closed weights via Tinker now, full weights planned under Apache 2.0 after safety testing.",
-      "scores": { "newly_possible": 3, "momentum": 2, "own_the_ground": 2, "fit_to_david": 1, "run_with_it": 1 },
+      "scores": {
+        "newly_possible": 3,
+        "momentum": 2,
+        "own_the_ground": 2,
+        "fit_to_david": 1,
+        "run_with_it": 1
+      },
       "weighted": 21,
       "tier": "note",
       "desk_mobile_bonus": false,
       "run_with_it_note": ""
     },
     {
-      "id": "rivet-agent-orchestration-s3",
-      "title": "Rivet (YC W23): orchestrate AI agents at scale on S3",
+      "id": "hubspot-refounds-as-the-customer-harness-company-headless-cr",
+      "title": "HubSpot refounds as the customer harness company: headless CRM run by agents",
       "domain": "seed-stage",
-      "source": "hacker_news",
-      "url": "https://github.com/rivet-dev/rivet",
-      "appeared": "2026-11-05",
-      "first_seen": "2026-11-09",
-      "summary": "YC-backed launch for scaling and orchestrating many AI agents using S3 as the backing store, HN front-page traction (120pt/59c).",
-      "scores": { "newly_possible": 3, "momentum": 2, "own_the_ground": 3, "fit_to_david": 1, "run_with_it": 1 },
-      "weighted": 23,
+      "source": "tldr",
+      "url": "https://saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026",
+      "appeared": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "summary": "Agents, not humans, run CRM and marketing automation.",
+      "scores": {
+        "newly_possible": 2,
+        "momentum": 3,
+        "own_the_ground": 1,
+        "fit_to_david": 2,
+        "run_with_it": 1
+      },
+      "weighted": 20,
       "tier": "note",
-      "desk_mobile_bonus": false,
-      "run_with_it_note": ""
+      "desk_mobile_bonus": false
+    },
+    {
+      "id": "seed-roundup-machenta-40m-rivercell-25m-ravical-17m",
+      "title": "Seed roundup: Machenta $40M, Rivercell $25M, Ravical $17M",
+      "domain": "seed-stage",
+      "source": "websearch",
+      "url": "https://blog.mean.ceo/startup-funding-announcements-news-november-2026/",
+      "appeared": "2026-11-10",
+      "first_seen": "2026-11-16",
+      "summary": "Robotics, biotech and AI seed rounds, secondary aggregator.",
+      "scores": {
+        "newly_possible": 2,
+        "momentum": 2,
+        "own_the_ground": 1,
+        "fit_to_david": 1,
+        "run_with_it": 1
+      },
+      "weighted": 16,
+      "tier": "note",
+      "desk_mobile_bonus": false
     },
     {
       "id": "climate-subwatch-quiet-fourth-week",
@@ -177,7 +452,13 @@
       "appeared": "2026-11-09",
       "first_seen": "2026-10-19",
       "summary": "No climate-tech seed round dated to this week turned up again; the subwatch has found nothing fresh for 4 weeks running. Worth asking David whether to keep this lens on.",
-      "scores": { "newly_possible": 0, "momentum": 1, "own_the_ground": 3, "fit_to_david": 1, "run_with_it": 1 },
+      "scores": {
+        "newly_possible": 0,
+        "momentum": 1,
+        "own_the_ground": 3,
+        "fit_to_david": 1,
+        "run_with_it": 1
+      },
       "weighted": 11,
       "tier": "note",
       "desk_mobile_bonus": false,
@@ -192,7 +473,13 @@
       "appeared": "2026-11-09",
       "first_seen": "2026-11-09",
       "summary": "\"Seed round raised,\" \"indie hacker new product,\" and \"new AI model release capability\" HN queries all returned zero hits >20pts in the last 7 days; only YC launch-tagged queries (Rivet, Kino AI) surfaced anything.",
-      "scores": { "newly_possible": 0, "momentum": 1, "own_the_ground": 0, "fit_to_david": 0, "run_with_it": 0 },
+      "scores": {
+        "newly_possible": 0,
+        "momentum": 1,
+        "own_the_ground": 0,
+        "fit_to_david": 0,
+        "run_with_it": 0
+      },
       "weighted": 2,
       "tier": "note",
       "desk_mobile_bonus": false,
@@ -207,7 +494,13 @@
       "appeared": "2026-11-09",
       "first_seen": "2026-11-09",
       "summary": "30-day pageview trend: Large_language_model -18%, AI_agent -24% week-over-week vs. first week of the window; Venture_capital +7%, Seed_money +20%. Mild, not yet a story.",
-      "scores": { "newly_possible": 0, "momentum": 1, "own_the_ground": 0, "fit_to_david": 0, "run_with_it": 0 },
+      "scores": {
+        "newly_possible": 0,
+        "momentum": 1,
+        "own_the_ground": 0,
+        "fit_to_david": 0,
+        "run_with_it": 0
+      },
       "weighted": 2,
       "tier": "note",
       "desk_mobile_bonus": false,
