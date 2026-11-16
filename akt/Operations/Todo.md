@@ -20,3 +20,5 @@
 
 ---
 *Updated by TideBot. Items added via Slack go through David's approval in #the-helm.*
+
+- [ ] Gift card email drip (Nov 17 to Dec 29): waiting on David's go, SES complaint-rate block, legal hold check. See Marketing/Gift Card Drip (Nov-Dec 2026)/00 Plan + Send Schedule.md

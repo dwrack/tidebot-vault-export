@@ -75,3 +75,18 @@ Every email goes out in four equal groups of about 7,200: subject A or B, crosse
 - The free cypress with $130+ cards from the Growth Playbook: tree cost is still unconfirmed, so it is not advertised.
 - Named denominations (Date Morning, etc.): not built in FareHarbor.
 - SMS: separate opt-in list, separate approval.
+
+## Blocker before email 2: move bounce notices off info@ (checked 2026-11-15, still not done)
+SES still emails every bounce to the info@ inbox, which is what flooded it on Nov 6. The sender's preflight refuses to send until this is fixed. Claude is blocked from changing shared AWS settings, so these three need to be run by David, in order:
+
+```bash
+aws sns create-topic --name nkst-ses-events --region us-west-2
+```
+
+```bash
+aws ses set-identity-notification-topic --identity neworleanskayakswamptours.com --notification-type Bounce --sns-topic arn:aws:sns:us-west-2:193742567930:nkst-ses-events --region us-west-2 && aws ses set-identity-notification-topic --identity neworleanskayakswamptours.com --notification-type Complaint --sns-topic arn:aws:sns:us-west-2:193742567930:nkst-ses-events --region us-west-2
+```
+
+```bash
+aws ses set-identity-feedback-forwarding-enabled --identity neworleanskayakswamptours.com --forwarding-enabled false --region us-west-2
+```

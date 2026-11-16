@@ -2,7 +2,7 @@
 
 ## Google Ads keyword review (added 2026-11-14, updated 2026-11-15)
 - [ ] Walk the Ad keywords tab with Michael by 11/21: pause the 14 no-booking or under-2x keywords, raise bids on the 6 'Scale' keywords losing searches to rank ([[NPB — Who's On What]]) | **Owner: David + Michael**
-- [ ] Brand-search test instead of pausing the 5 brand keywords: one phrase-match brand negative list on all Search campaigns plus Performance Max, 2 weeks, watch total bookings incl. Viator and GetYourGuide. If bookings drop, turn [nola party barge] exact back on (it bought our name at $0.59 a click vs $1.00 now). Pausing alone failed after 9/8. | **Owner: Michael, once David sends the DM**
+- [ ] Keep the brand keywords on (David's rule, 2026-11-15: no pausing while others advertise; Auction Insights shows Viator, GetYourGuide, Groupon, Tripadvisor, Booking.com and swamp tour companies on all 5). Turn [nola party barge] exact and 'twerking tiki boat new orleans' back on in FH Local + National: paused since about 9/8, and our name now costs $1.00 a click through PMax and phrase keywords vs $0.59. | **Owner: Michael, once David sends the DM**
 - [ ] Performance Max ('Sales-Performance Max-12') has no negatives: block junk like 'weather in new orleans in december' (85 clicks, 0 bookings) and 'pedal pub new orleans' (104 clicks, 0) | **Owner: Michael**
 - [ ] Account-wide tracking template tags every NPB click 'fhdirectads_neworleanskayakswamptours'; also check our ads' location asset isn't the kayak office on N Rampart (seen in live ads, unverified) | **Owner: Michael**
 
