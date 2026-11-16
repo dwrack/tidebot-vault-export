@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-16 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-16 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -109,13 +109,15 @@ _nothing_
   → Wait for the insurer to accept Jonah's emailed audit package (monthly sales 11/6/2025 to 10/31/2026, P&L by month, principals) for policy BR20250485, since portal codes arrive about two hours late and expire. (Jonah Moses; Gmail davey@; touched 2026-11-15)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → Whoever approves TideBot payroll verify the unverified PayPal accounts for Emily Clarke and Michelle Healey, then react to release the Nov 1-15 payroll ($2,050 across 5 guides); it only produces a send list and does not move money. (NKST manager; Slack #helm-nkst; touched 2026-11-16)
+- [ ] Party invite headcount: staff, plus ones, and others #waiting #id:T0204
+  → Jeffrey Chitek answer David on who is invited to the party: staff, a +1 each, and anyone else. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-16)
 
 ## Open
 
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guide posts the written Pre-Tour/Post-Tour log for the Nov 14 11:30 AM Extended Manchac Kayak Tour (6 guests) in the channel; the Nov 13 1:30 PM log (10 guests) also still needs a manual read. (NKST guide; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-14)
+  → NKST guide posts the written Pre-Tour/Post-Tour logs for the Nov 16 9:00 AM Manchac Swamp Wildlife Kayak Tour (3 guests), the Nov 14 11:30 AM tour (6 guests) and the Nov 13 1:30 PM tour (10 guests). (NKST guide; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-16)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -383,6 +385,8 @@ _nothing_
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
 - [ ] HPB random drug test authorization for Dustin Gause, Maritime Consortium #HPB #id:T0201
   → HPB manager pick a business-hours time, then notify Dustin Gause in writing to take the random test at Quest Diagnostics Fry Road in Katy with authorization Q25219822 and a photo ID; call the site first in case it needs an appointment. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-16)
+- [ ] BBK corporate Christmas outing inquiry, 9 people, Dec 7 or 8 #BBK #id:T0203
+  → BBK manager reply to Sierra Gerondale with private pontoon availability on Mon Dec 7 or Tue Dec 8, pricing, duration, food and drink policy, departure times and weather and cancellation terms for 9 people. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-16)
 
 ## Backburner (LSKT)
 

@@ -1,0 +1,144 @@
+{
+ "title": "NKST static test set 2026-11-16",
+ "ratios": [
+  "4:5",
+  "1:1",
+  "9:16"
+ ],
+ "ads": [
+  {
+   "slug": "01-no-engine",
+   "format": "urgency",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0066.jpg",
+   "pos": "center 60%",
+   "tag": "The quiet way in",
+   "headline": "No engine. No crowd. Just the swamp.",
+   "sub": "Guided kayak tours through Manchac Swamp. Small groups, naturalist guides, no experience needed.",
+   "dates": [
+    {
+     "label": "9:00"
+    },
+    {
+     "label": "11:30"
+    },
+    {
+     "label": "2:00"
+    },
+    {
+     "label": "4:30"
+    }
+   ],
+   "cta": "Book a small-group swamp paddle"
+  },
+  {
+   "slug": "02-all-in-price",
+   "format": "urgency",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0047.jpg",
+   "pos": "center",
+   "tag": "Price you actually pay",
+   "headline": "$65. Two hours on the water.",
+   "sub": "Add round-trip shuttle from the French Quarter and it's $90. That's it.",
+   "dates": [
+    {
+     "label": "$65 paddle"
+    },
+    {
+     "label": "$90 with shuttle"
+    }
+   ],
+   "cta": "See open times",
+   "fine": "Full refund if weather cancels your tour."
+  },
+  {
+   "slug": "03-gators-close-review",
+   "format": "pov",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0116.jpg",
+   "pos": "center 55%",
+   "caption": "\"Cannot believe to see so many alligators so close.\" Leyla S., Google review",
+   "cta": "Book a small-group swamp paddle"
+  },
+  {
+   "slug": "04-pov-stayed-for-quiet",
+   "format": "pov",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0121.jpg",
+   "pos": "center 50%",
+   "caption": "POV: you came to see a gator. You stayed for how quiet it gets.",
+   "cta": "Paddle Manchac Swamp with a guide"
+  },
+  {
+   "slug": "05-text-never-kayaked",
+   "format": "imessage",
+   "contact": "Jess",
+   "time": "Today 8:14 PM",
+   "messages": [
+    {
+     "from": "them",
+     "text": "neither of us has ever kayaked tho"
+    },
+    {
+     "from": "me",
+     "text": "no experience needed, the guide sets you up at the dock"
+    },
+    {
+     "from": "them",
+     "text": "and the gators??"
+    },
+    {
+     "from": "me",
+     "text": "usually see a few. from a respectful distance lol"
+    },
+    {
+     "from": "them",
+     "text": "fine. booking the 9am",
+     "react": "❤️"
+    }
+   ]
+  },
+  {
+   "slug": "06-groupchat-bach",
+   "format": "groupchat",
+   "group_name": "NOLA Bach Weekend",
+   "people": [
+    "Kayla",
+    "Bri",
+    "Sam"
+   ],
+   "time": "Thu 6:02 PM",
+   "messages": [
+    {
+     "from": "Bri",
+     "text": "not another brunch pls"
+    },
+    {
+     "from": "me",
+     "text": "swamp kayak at 9. shuttle from the Quarter"
+    },
+    {
+     "from": "me",
+     "photo": "new-orleans-manchac-swamp-kayak-tour-0159.jpg",
+     "pos": "center 40%"
+    },
+    {
+     "from": "Kayla",
+     "text": "booked 6 spots",
+     "react": "🐊"
+    }
+   ]
+  },
+  {
+   "slug": "07-mardi-gras-escape",
+   "format": "urgency",
+   "photo": "new-orleans-manchac-swamp-kayak-tour-0010.jpg",
+   "pos": "center",
+   "tag": "Mardi Gras 2027",
+   "headline": "Need a break from the parade crowds?",
+   "sub": "\"Definitely worth the trip and a fun getaway from the crazy of Mardi Gras.\" Mike P., Google review",
+   "dates": [
+    {
+     "label": "Tours 7 days a week"
+    }
+   ],
+   "cta": "Book your swamp morning"
+  }
+ ]
+}

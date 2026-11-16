@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 11:48 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 12:10 PT.
 
-Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dates 923
+Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dates 924
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -103,6 +103,7 @@ Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dat
 - 2026-11-20 Zoe Vives Jancou: "this week"
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
+- 2026-11-21 Claude: "sat"
 - 2026-11-21 Melissa Clark: "November 21"
 - 2026-11-23 +12012306848: "Next week"
 - 2026-11-23 Anna Nelson: "11/23"
