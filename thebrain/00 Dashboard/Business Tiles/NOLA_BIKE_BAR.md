@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-15
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: win_category_terms
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: win_category_terms. No movement since 2026-08-28.**
-- GSC 11/7–11/13: 29 clicks (+21%); "new orleans bike tour" pos 3.8. GBP 0 unreplied. No ads, no FH feed.
+- **Goal: win_category_terms. Last known: no movement since 2026-08-28 (not verified this run).**
+- GSC 11/8 to 11/15: "bike rentals new orleans" 1 click / 5 impr.
 <!-- live:end -->
 
 <!-- maps:start -->

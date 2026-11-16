@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-15
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $190/wk booked vs $7,000 target — 3% of goal.** Season closed; Google and Meta $0 for 7 days.
-- GSC 11/7–11/13: 57 clicks (-35%, seasonal); "sauna door county" leads at pos 3.5. GBP 0 unreplied.
+- **Goal pace: $190/wk booked vs $7,000 target — 3% of goal.** Closed for the season; Google 0 impressions.
 <!-- live:end -->
 
 <!-- maps:start -->

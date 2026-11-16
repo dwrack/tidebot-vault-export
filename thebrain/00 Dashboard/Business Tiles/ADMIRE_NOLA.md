@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-15
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28.**
-- GSC 11/7–11/13: 15 clicks (+25%); "new orleans plantation tour" pos 1.6, "tours" pos 2.3. IG silent since 9/29. GBP 0 unreplied.
+- **Goal: build_on_ranking_plantation_terms. Last known: no movement since 2026-08-28 (not verified this run).**
+- GSC: plantation tour queries 1 click each on 16 to 41 impr. IG last posted 9/29.
 <!-- live:end -->
 
 <!-- maps:start -->

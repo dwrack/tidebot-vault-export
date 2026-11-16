@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 21
-status: red
-alert: "0 bookings Saturday; 9% of goal; HPB search $102 / 7d at 0 conv"
-updated: 2026-11-15
+ad_spend_yday: 0
+status: yellow
+alert: "0 booked Sun; 9% of goal"
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $363/wk booked vs $4,000 target — 9% of goal.** Sat booked 0; ran Friday's 3 bookings ($363).
-- Google "Search - Houston Pedal Barge" (Texas account) $102.39 / 7d, 0 conv, still enabled. Houston Meta $303 / 7d, 0 purchases.
-- IG: 11/13, 11/12, 11/6 posts at 0 likes. TikTok browser is on the DCKT account, so no HPB numbers.
+- **Goal pace: $363/wk booked vs $4,000 target — 9% of goal.** Houston Meta $220.02 over 7d at 0 purchases, no spend 11/15.
+- Texas Google "Search - Houston Pedal Barge" $98.28 at 0 conv (7d), still enabled.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -6,9 +6,9 @@ bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
-status: green
-alert: null
-updated: 2026-11-15
+status: yellow
+alert: "IG no 2026 posts; no GBP"
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28; deadline passed 46 days ago.**
-- Still no GBP, GSC or ads. IG last post 11/14/2025, one year dormant today.
+- **Goal: build_gbp_by_sept_30. Last known: no movement since 2026-08-28 (not verified this run).**
+- No 2026 Instagram posts (last 2025-11-14); no GBP location in roster.
 <!-- live:end -->
 
 <!-- finance:start -->

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: green
-alert: "5★ review from Miss See (11/2) unreplied"
-updated: 2026-11-15
+alert: null
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: front_door_for_lskt. No movement since 2026-08-28.**
-- 5★ Miss See (11/2, edited 11/13) still unreplied, confirmed live 11/15. IG last post 11/6.
+- **Goal: front_door_for_lskt. Last known: no movement since 2026-08-28 (not verified this run).**
+- IG last posted 11/6; no GSC site in roster.
 <!-- live:end -->
 
 <!-- maps:start -->

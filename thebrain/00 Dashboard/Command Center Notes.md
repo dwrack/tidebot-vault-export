@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-17 due | Pause 3 Google search campaigns at 0 conversions ($643.63 over 7 days: NKST Generic Local + National, NPB Holiday Party & Groups) and move budget to NPB National/Local, which convert at $41 to $57. Michael's lane, tell him go or say it to Claude | NKST + NPB | default: they keep spending ~$90/day (checked 2026-11-16)
 - 2026-11-20 due | Export the old GoHighLevel giveaway-form signups (form 4j807tEnDSik2z0bRnPU, 'Nola Pedal Bargen Optin Giveaway') as CSV and drop it in NOLA Party Barge/_Incoming/ so Claude can import them into the lead engine; the page now posts to our engine instead | NPB | default: those contacts stay stranded in GHL
 - 2026-11-18 due | Rotate the nolapartybarges.com WordPress application password for user kayak (wp-admin > Users > kayak > Application Passwords) and give the new one to Claude outside the vault; the old one got printed into a Claude session transcript 2026-11-16 | NPB | default: a leaked admin-level API key stays valid
 - 2026-11-21 due | Decide: does the Local Family Boat Giveaway still launch (draw was set for Tue Nov 24, counsel pass never happened) or does the early-access page stay the only opt-in through the holidays? | NPB | default: no giveaway, newsletter opt-in only

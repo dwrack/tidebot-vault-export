@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "IG pricing question day 9 unanswered"
-updated: 2026-11-15
+alert: "IG pricing question day 10"
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,9 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; deadline passed 31 days ago.**
-- 11/6 carousel (263 likes, 12 comments, 0 replies, live 11/15): antonia_isveryantonia's pricing question day 9. New 5★ Kaitlin Beck (11/14) unreplied. Reel 11/14: 59 likes.
-- IPSPE New Orleans 11/17–11/19; Sauna From Finland booth 2923.
+- **Goal: measurable_front_door_by_oct_15. Last known: no movement since 2026-08-28 (not verified this run).**
+- IG 11/6 carousel pricing question day 10 unanswered; 5★ Kaitlin Beck (11/14) unreplied. Two reels posted 11/14 and 11/15.
 <!-- live:end -->
 
 <!-- maps:start -->

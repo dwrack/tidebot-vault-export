@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 6
-revenue_today: 1011
+bookings_today: 1
+revenue_today: 180
 lead_time_days: 0
-ad_spend_yday: 281
+ad_spend_yday: 180
 status: yellow
-alert: "2★ JP Trigo day 7 unreplied; Sat booked 6 vs 10.3/day avg"
-updated: 2026-11-15
+alert: "pace 55% of $30k; Sun 1 booking; 2★ day 8"
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,10 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $19,861/wk booked vs $30,000 target — 66% of goal.** Down from 73%; Sat 11/14 booked 6 / $1,011 while running 22 trips / $6,536.
-- **Reviews:** 2★ JP Trigo (11/8) day 7 unreplied, now outside the newest 10 (checker confirmed). Six 5★ open: destiney wright, Rachel Horner, Angie Moore (11/14), Bel Arellano, Alyson Bertke (11/13), Kayla Colter (11/12). Drafts in the 11/15 brief.
-- Ads Sat: Google $119.21 (1 conv / $118), Meta $162.02 (Retargeting 2 purchases / $473.77; Gator Collision $130.18 / 0). 7 days: Gator Collision $1,229 for 13 purchases (ROAS 1.41); Holiday Party & Groups $197.64 / 0 conv.
-- GSC 11/7–11/13: "nola party barge" 10 clicks / 112 impr, pos 3.6. IG: no post since 11/6 (9 days).
+- **Goal pace: $16,419/wk booked vs $30,000 target — 55% of goal.** Down from 66%; Sun 11/15 booked 1 / $180.
+- **Google:** National search $56.92/conv, Local $40.59/conv convert; "Holiday Party & Groups" $208.03 at 0 conv (7d). Michael's lane.
+- **Reviews:** 2★ JP Trigo (11/8) day 8 unreplied plus 8 open 5★ since 11/12.
 <!-- live:end -->
 
 <!-- maps:start -->

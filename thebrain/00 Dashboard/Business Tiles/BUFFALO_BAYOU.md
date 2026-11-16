@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 27
-status: red
-alert: "0 bookings Saturday; Houston Meta $303 / 7d at 0 purchases"
-updated: 2026-11-15
+ad_spend_yday: 0
+status: yellow
+alert: "0 booked Sun; 14% of goal"
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,8 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $763/wk booked vs $4,500 target — 17% of goal.** Sat 11/14 booked 0 (ran 2 / $238).
-- Houston Meta $303.26 over 11/8–11/14, 0 purchases; $0 Sat. BBK Google (Texas umbrella) $27.40 Sat; PMax $85.59 / 7d for 2.51 conv. Daily bat reels on IG, 3 to 10 likes.
+- **Goal pace: $644/wk booked vs $4,500 target — 14% of goal.** PMax Local is the working campaign: $70.82 for 2.5 conv (ROAS 2.84).
 <!-- live:end -->
 
 <!-- maps:start -->

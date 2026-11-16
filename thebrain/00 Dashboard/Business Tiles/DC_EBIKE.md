@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-15
+updated: 2026-11-16
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.**
-- doorcountykayak.com GSC 11/7–11/13: 0 clicks, 239 impressions. GBP 0 unreplied, newest review 2023.
+- **Goal: commit_domain_to_rentals. Last known: no movement since 2026-08-28 (not verified this run).**
+- GSC: no clicks on tracked queries 11/8 to 11/15.
 <!-- live:end -->
 
 <!-- maps:start -->
