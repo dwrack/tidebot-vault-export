@@ -263,3 +263,4 @@
 - [ ] Get Jonah's feedback + OK to put the guest intro video v10.1 in booking confirmation emails and a text 1 hr before each session (asked in Slack DM 2026-11-15) (live at ebb-and-ember-site.pages.dev/columbia-river/#watch). See [[Dock Safety Video — Storyboard (Nov 2026)]]
 - [ ] Slack: turn on replies to the Claude app (App Home > allow messages from the messages tab) so Jonah and the team can answer its DMs; then make the bridge read DM replies. Jonah could not reply 2026-11-15.
 - [ ] New site signups broken (2026-11-15): /api/subscribe returns 503, no SIGNUPS KV binding on the Pages project. Add the binding before launch.
+- [ ] Jonah: accept GitHub invite to dwrack/ee-guest-intro-video (video source + HISTORY.md) [[Dock Safety Video/Dock Safety Video — Storyboard (Nov 2026)]] (2026-11-15)
