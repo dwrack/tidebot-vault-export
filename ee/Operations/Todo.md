@@ -1,5 +1,8 @@
 # Ebb & Ember — Todo List
 
+## Waiver marketing opt-in (added 2026-11-15 — [[Waiver Marketing Opt-In Wording]])
+- [ ] Add the unchecked opt-in checkbox + fine print to the Periode waiver, add the no-sharing line to the privacy policy, screenshot both for the Twilio A2P campaign (also on the Command Center)
+
 ## Lane bot (added 2026-11-13 — [[README]] in Operations/Lane Bot/, rollups in [[Rollups]], eval in [[Eval]])
 - [ ] Decide Slack DM coverage for the lane bot: invite the bot to your DMs with Jonah/L/Grant, or give Claude a read-only Slack user token (also on the Command Center)
 - [ ] Watch the [bot:ee:0:...] lines the lane files this week (sign/pay/approve only); tell Claude which are wrong; say "lift reply" to add direct questions (81% precision now, shadow)
@@ -252,4 +255,4 @@
 - [ ] Member booking test on the new site (iPhone): pick time, Sign in inside checkout, member price applies. Then decide on [[Member Booking on Our Site — Periode JWT Plan (Nov 2026)]]. Due 11/22. (added 2026-11-15)
 - [ ] Add IG_TOKEN secret in Cloudflare Pages (ebb-and-ember-site) so the Journal Instagram section auto-shows the newest 3 posts. Until then it shows 3 fixed embeds. (added 2026-11-15)
 
-- [ ] Make the live Periode waiver match the guest video: an initial box on each risk line (open water, serious injury or death, heat + cold strain on the heart, no alcohol/drugs, posted rules, release). See [[Dock Safety Video — Storyboard (Nov 2026)]]. (added 2026-11-15)
+- [x] (dropped 2026-11-15: video v10 matches the real signature-only waiver) Make the live Periode waiver match the guest video: an initial box on each risk line (open water, serious injury or death, heat + cold strain on the heart, no alcohol/drugs, posted rules, release). See [[Dock Safety Video — Storyboard (Nov 2026)]]. (added 2026-11-15)

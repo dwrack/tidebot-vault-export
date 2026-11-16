@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-15 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-15 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -49,16 +49,16 @@ _nothing_
   → David lift his soft credit lock so the lender can run a credit pull and move the funding forward, and still send no bank statements, driver's license or voided check until he knows who he is dealing with. (David; Gmail doorcountykayaking@; touched 2026-11-13)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
-- [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
-  → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; David's own PDX to MSY flight on Nov 16 is now confirmed. (David; Gmail dwrack81@; touched 2026-11-13)
-  > David: i need to use chase points to purchase that ticket
-  > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] Jonah asks if David is changing the existing website #id:T0177
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
   → David look at the V1 Pricing showing on the existing site and the member booking issue Jonah reported, and reply to Jonah. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through #Ebb-Ember #id:T0182
   → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
+- [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
+  → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; Michael forwarded a new Chase Travel flight schedule on Nov 15, so check it against the plan. (David; Gmail dwrack81@; touched 2026-11-15)
+  > David: i need to use chase points to purchase that ticket
+  > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0188
   → David top up the Google AI Studio prepaid credits so TideBot can process guide logs again; until then logs like Michelle Healey's Nov 14 log need manual reading. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
 
@@ -358,13 +358,15 @@ _nothing_
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey reported the same issues again on the Nov 14 log, and the grey Transit's oil change light came on. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to Instagram for Admire NOLA in the admire Chrome profile on mbp-2 via Screen Sharing, and Threads for Hidden Adventure in the hat profile; the engage bot is paused 24h with 0 actions. (David; Slack #helm-admire; touched 2026-11-15)
+  → Confirm the Hidden Adventure Instagram login is holding, since the engage bot ran on Nov 15 and logged 1 like; Admire NOLA Instagram and Hidden Adventure Threads logins still need checking on mbp-2. (David; Slack #helm-admire; touched 2026-11-15)
 - [ ] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
   → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
 - [ ] Fake Meta violation warning to NPB page with Google Forms link #NPB #id:T0190
   → NPB manager do not click the Google Forms link or submit page details; check the page's real status in Meta Business Suite and delete the email. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-15)
 - [ ] Fake Meta 'page violation' warning to NKST inbox, likely phishing #NKST #id:T0191
   → NKST staff do not click the Google Forms link or enter any Facebook login; check the Facebook page's own Page Quality or Support Inbox in Meta Business Suite to confirm there is no real violation, then delete the email. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
+- [ ] NKST Manchac + Whitney Plantation inquiry, 3 people, Dec 29-31 #NKST #id:T0193
+  → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 
 ## Backburner (LSKT)
 
