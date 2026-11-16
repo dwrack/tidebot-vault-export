@@ -1,11 +1,11 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 17:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 19:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 161h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 163h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision this week. Can you get us a number with permit and inspections included?"
-- **nudge** Electricians has not answered: Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45, 31h ago)
+- **nudge** Electricians has not answered: Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45, 33h ago)
   - draft: "Hey, did the updated sheet and photos come through for the sauna float electrical? Can you get us a number with permit and inspections included?"
 - **overdue** Electricians: 'Remaining electrical quotes from the 11-shop round are due.' was due 2026-11-14 and is not done (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the note is off; treated 11/14 as the due date as written. Marked overdue 11/15 since no new quotes arrived.)
   - draft: "Hey, checking in on the electrical quote for the sauna float at 173 NE Bridgeton. We're making the call this week. Can you get it to me in the next day or two? The quote needs to include permit and inspections."
@@ -19,7 +19,8 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-15 17:25 PT. Read-o
 - **other** Electricians: Pacific NW passed and is booked until early December. Hands-on quotes are still pending only from Smiley and Coy, plus Community Electric's $4,800. Dickinson's Electric is a possible fast replacement.
 - **other** Alex: Jonah simplified Alex's logging 11/14: one completion-form entry per visit, no per-task timing, but the Marina vs Sauna hours split on the timesheet is mandatory because billing depends on it. Jonah also edited the Facilities Board.
 - **safety** Alex: The three ABC extinguishers are still in the east shed, not mounted at the private sauna doors or the shared deck, and the life jacket count (including kid sizes) is unknown. Nothing confirmed until Alex posts photos.
-- **other** Alex: The bot logged this as INC-0009 in #founders at 17:14 and Jonah replied 17:16 'wtf is that' (also 16:49 he said he has no way to give feedback on a bot message). It is a logging artifact, not a new problem; the underlying work is Jonah's 17:07 request to Alex.
+- **other** Alex: The bot logged this as INC-0009 in #founders at 17:14 and Jonah replied 17:16 'wtf is that' and 17:37 said he'll ignore noisy bot posts. Claude explained the incident log 17:51; Davey 17:53 wants it to auto-log to maintenance without double-posting what Jonah already told Alex, and 17:54 suggested moving incident posts out of #founders into a separate incident channel. It is a logging artifact, not a new problem; the underlying work is Jonah's 17:07 request to Alex.
+- **other** Alex: Davey 17:52 floated swim buoys (like WaterStrong's) as easier and less gross than wet, cold life jackets. Possible gear change to decide after Alex's life jacket count; not a request to Alex yet.
 
 ## Sergey
 _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit_ via iMessage group with Grant (Davey leads); iMessage group with Jonah
@@ -31,14 +32,16 @@ _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #priv
 
 ## Alex
 _facilities: V2 water line, showers, incident fixes, weekly checklist_ via Slack #maintenance
-- **Status:** Facilities: Jonah asked Alex 11/15 17:07 in #maintenance for two things next time on site: count life jackets (and kid sizes) with a photo, and mount three ABC extinguishers (one inside each private sauna door at about 4 ft, one on the shared deck by the fire pits) with a photo. Nothing confirmed done yet; ball is with Alex. Earlier 11/14 instruction still stands: one completion-form entry per visit, hours split Marina/Sauna on the timesheet.
-- Last heard: never | last we sent: 2026-11-15T17:07
+- **Status:** Facilities: Jonah asked Alex 11/15 17:07 in #maintenance to count life jackets (and kid sizes) and mount three ABC extinguishers (one inside each private sauna door at about 4 ft, one on the shared deck by the fire pits), photo of each. Jonah also asked 17:30 to meet at the marina Tuesday 11/17, 11:30 AM to noon, to walk the Facilities Board and trim the P1 list (or propose another Tuesday time). Nothing confirmed or answered yet; ball is with Alex. Davey 17:52 floated swim buoys (like WaterStrong uses) as a lower-profile alternative or add-on to life jackets. Earlier 11/14 instruction still stands: one completion-form entry per visit, hours split Marina/Sauna on the timesheet.
+- Last heard: never | last we sent: 2026-11-15T17:52
 - **Commitments:**
   - [open] Log hours on the timesheet split between Marina and Sauna (that split is what we bill from), and submit one completion-form entry per visit instead of timing each task.. Next: Alex follows the simplified logging on his next visits. Jonah or Davey spot-check the Marina/Sauna split when billing. (Instruction from Jonah in #maintenance 11/14 15:50, alongside changes he made to the Facilities Board artifact. No reply from Alex yet; an acknowledgement is not required.)
   - [open] Mount the three ABC extinguishers from the east shed: one just inside each private sauna door at about 4 ft, and one on the shared deck by the fire pits on the way to the dock. Post a photo when they're up.. Next: Alex mounts all three on his next site visit and posts a photo in #maintenance. Jonah or Davey confirm from the photo. (Jonah 11/15 17:07 in #maintenance, no date given ('next time you're on site'). Safety item; incident INC-0009 logged by the bot in #founders 11/15 17:14.)
-  - [open] Count life jackets at the sauna now, including how many are kid sizes, and post a photo.. Next: Alex counts and posts count plus photo in #maintenance. Jonah or Davey decide if more are needed. (Jonah 11/15 17:07 in #maintenance, no date given ('next time you're on site').)
+  - [open] Count life jackets at the sauna now, including how many are kid sizes, and post a photo.. Next: Alex counts and posts count plus photo in #maintenance. Jonah or Davey decide if more are needed (Davey is also considering swim buoys). (Jonah 11/15 17:07 in #maintenance, no date given ('next time you're on site').)
+  - [open] Meet Jonah at the marina Tuesday 11/17, 11:30 AM to noon, to walk the Facilities Board and trim the P1 list; or reply with another Tuesday time that works. by 2026-11-17. Next: Alex confirms 11/17 11:30 AM or proposes another Tuesday time; Jonah walks the board with him and trims P1. (Jonah 11/15 17:30 in #maintenance. No reply from Alex yet.)
 - **Waiting on them:**
   - Mount the three ABC extinguishers (private sauna doors and shared deck by fire pits) and count life jackets including kid sizes, with photos of each. (asked 2026-11-15T17:07)
+  - Can you meet Jonah at the marina Tuesday 11/17, 11:30 AM to noon, to walk the Facilities Board and trim the P1 list? If not, what Tuesday time works? (asked 2026-11-15T17:30)
 
 ## Zach
 _handyman, $30/hr, being phased out_ via text
