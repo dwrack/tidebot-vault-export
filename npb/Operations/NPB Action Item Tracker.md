@@ -158,3 +158,11 @@ Full list DM'd to Michael 2026-08-17 (ts 1786987371.024619).
 - Wheelchair access: can a guest in a wheelchair board? Dock flat? Step onto the boat? Crew assists? (1 handoff lost on this)
 - Still open after that: boat route in two sentences, nearest grocery/liquor store and two restaurants near 2101 Paris Rd, lost-and-found path, do guests need to print the waiver, AI disclosure line, Google rating to quote.
 - Same-day empty departures: bot now asks the team whether a captain is on. Jeff is the answer; confirm he sees the Slack alert.
+
+## Lead-to-booking pilot (added 2026-11-16)
+Plan: `_Staged for Approval/NPB Lead-to-Booking Pilot - Flow Redesign (2026-11-15).md`. Metric: ghost rate 57% to 40% by 2026-12-15.
+- [ ] David: approve OpenCX Fix Plan A1 to A4 (due 2026-11-18)
+- [ ] David: pick price wording, $59 + fee or all-in $63 (due 2026-11-18)
+- [ ] Claude: build Quote by Email (B1) and contact save (C1), David approves before publish; A5 ships with B1 (due 2026-11-19)
+- [ ] David: supply facts for 5 scenarios, wheelchair, Eco Swap age, winter after-dark hours, 1 reserved but paid for 3, past-trip photos (due 2026-11-20)
+- [ ] Claude: re-pull live baseline and re-measure ghost rate and contact capture, weekly

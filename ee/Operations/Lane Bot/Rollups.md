@@ -1,6 +1,6 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-15 21:05 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 01:16 PT.
 
 Counts: people 14, vendors 110, projects 6, money 490, promises 40, asks 73, dates 883
 
@@ -67,19 +67,6 @@ Counts: people 14, vendors 110, projects 6, money 490, promises 40, asks 73, dat
 - 11/13 12:38 "sergei is on the gas line… $600~ labor nothing confirmed on start date, but ill ask him in a bit about that." (#founders)
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-15 +12066184824: "tomorrow"
-- 2026-11-15 +16614769130: "Nov 15th"
-- 2026-11-15 +19164721948: "today"
-- 2026-11-15 Breanna Henrick: "sun"
-- 2026-11-15 Claude: "11/15"
-- 2026-11-15 Claude: "today"
-- 2026-11-15 Ebb & Ember: "Today"
-- 2026-11-15 Ebb & Ember: "today"
-- 2026-11-15 Jonah: "11/15"
-- 2026-11-15 L: "sunday"
-- 2026-11-15 Mack: "11/15"
-- 2026-11-15 Michael Vierela: "tonight"
-- 2026-11-15 sauna@ebbandember.com: "tonight"
 - 2026-11-16 Davey: "next week"
 - 2026-11-16 Jonah: "11/16"
 - 2026-11-17 Davey: "Nov 17"
@@ -107,6 +94,15 @@ Counts: people 14, vendors 110, projects 6, money 490, promises 40, asks 73, dat
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
 - 2026-11-21 Melissa Clark: "November 21"
+- 2026-11-23 Anna Nelson: "11/23"
+- 2026-11-23 Claude: "11/23"
+- 2026-11-23 Ebb & Ember: "NOV 23"
+- 2026-11-23 Ebb & Ember: "Nov 23"
+- 2026-11-23 Ebb & Ember: "November 23"
+- 2026-11-23 Jonah: "11/23"
+- 2026-11-23 Jonah: "November 23"
+- 2026-11-23 Mack: "11/23"
+- 2026-11-23 sauna@ebbandember.com: "November 23"
 
 ## Silence over 5 days (Davey wrote last, no reply)
 - Mario (contractor): Davey last wrote 11/06 12:41, their last message 11/06 10:36
