@@ -1,7 +1,10 @@
 # NOLA Party Barge — Todo List
 
-## Google Ads keyword review (added 2026-11-14)
-- [ ] Walk the Ad keywords tab with Michael by 11/21: pause the 14 no-booking or under-2x keywords, test-pause 5 brand phrases for 2 weeks, raise bids on the 6 'Scale' keywords losing searches to rank ([[NPB — Who's On What]]) — **Owner: David + Michael**
+## Google Ads keyword review (added 2026-11-14, updated 2026-11-15)
+- [ ] Walk the Ad keywords tab with Michael by 11/21: pause the 14 no-booking or under-2x keywords, raise bids on the 6 'Scale' keywords losing searches to rank ([[NPB — Who's On What]]) | **Owner: David + Michael**
+- [ ] Brand-search test instead of pausing the 5 brand keywords: one phrase-match brand negative list on all Search campaigns plus Performance Max, 2 weeks, watch total bookings incl. Viator and GetYourGuide. If bookings drop, turn [nola party barge] exact back on (it bought our name at $0.59 a click vs $1.00 now). Pausing alone failed after 9/8. | **Owner: Michael, once David sends the DM**
+- [ ] Performance Max ('Sales-Performance Max-12') has no negatives: block junk like 'weather in new orleans in december' (85 clicks, 0 bookings) and 'pedal pub new orleans' (104 clicks, 0) | **Owner: Michael**
+- [ ] Account-wide tracking template tags every NPB click 'fhdirectads_neworleanskayakswamptours'; also check our ads' location asset isn't the kayak office on N Rampart (seen in live ads, unverified) | **Owner: Michael**
 
 ## Audience Intel follow-ups (added 2026-11-10)
 - [ ] Confirm whether boats or departures were cut since 2024 (bookings down ~30%/yr at flat price; Party Queen hit hardest) before any price test ([[Audience Intel — NOLA Party Barge (2026-11-10)]]) — **Owner: David + Jeff**
@@ -12,6 +15,7 @@
 - [ ] Decide: add an optional Birthday (month/day) question to FareHarbor checkout (NPB + NKST) so the 21/14/7-day birthday drip has an audience; no birthday data exists anywhere today (see board row 2026-11-06, updated 2026-11-10) — **Owner: David**
 
 ## Corporate holiday push (added 2026-11-06)
+- [ ] When the new site is built: corporate + holiday lander from the Nov 2026 work, plan in `~/Projects/npb-site/brief/corporate-lander-carryover.md` ([[NPB — Who's On What]]) — **Owner: David + Claude**
 - [ ] Order costume closet holiday stock at the 11/11 sync, Sofia sets it up by 11/17 ([[Costume Closet — Holiday Order List (Nov 2026)]]) — **Owner: David (order), Jeff (book Sofia)**
 - [ ] Nov 19 party decisions at the 11/11 ops sync: time, guest list, budget, photographer ([[NPB Ops Sync — 2026-11-11 Agenda]]) — **Owner: David**
 - [ ] Post the crew invite right after the 11/11 call, RSVP by 11/14 — **Owner: Jeff**
@@ -174,3 +178,5 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 - [ ] 2026-11-13 Jeff to push new website code to NolaPartyBarge/newwebsite (repo empty); then review
 
 - [ ] 2026-11-13 Get Jeff to double-click the Jeff Today installer (Operations/Jeff Dashboard/) and use the page daily. See [[Jeff Dashboard/README]]
+
+- [ ] 2026-11-15 Affiliate reactivation follow-ups: FareHarbor login so Claude can pull bookings by affiliate; remove JT's affiliate access; strip Login/password columns from the Affiliate Master Doc sheet; answer replies to the 11/15 email (link + QR + content pack). See `Marketing/Affiliates/Affiliate Working List (Nov 2026).csv`
