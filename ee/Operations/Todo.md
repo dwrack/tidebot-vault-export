@@ -1,5 +1,9 @@
 # Ebb & Ember — Todo List
 
+## Incident log (added 2026-11-15 — [[README]] in Operations/Incident Log/)
+- [x] Posted the incident log intro + 3 questions to Jonah in #founders 11/15
+- [ ] Pass Jonah's answers to Claude: what to ping, 3-line alerts, skip owner-to-Alex job notes, Thu 6pm vs Tue summary (also on the Command Center)
+
 ## Waiver marketing opt-in (added 2026-11-15 — [[Waiver Marketing Opt-In Wording]])
 - [ ] Add the unchecked opt-in checkbox + fine print to the Periode waiver, add the no-sharing line to the privacy policy, screenshot both for the Twilio A2P campaign (also on the Command Center)
 
@@ -257,3 +261,5 @@
 
 - [x] (dropped 2026-11-15: video v10 matches the real signature-only waiver) Make the live Periode waiver match the guest video: an initial box on each risk line (open water, serious injury or death, heat + cold strain on the heart, no alcohol/drugs, posted rules, release). See [[Dock Safety Video — Storyboard (Nov 2026)]]. (added 2026-11-15)
 - [ ] Get Jonah's feedback + OK to put the guest intro video v10.1 in booking confirmation emails and a text 1 hr before each session (asked in Slack DM 2026-11-15) (live at ebb-and-ember-site.pages.dev/columbia-river/#watch). See [[Dock Safety Video — Storyboard (Nov 2026)]]
+- [ ] Slack: turn on replies to the Claude app (App Home > allow messages from the messages tab) so Jonah and the team can answer its DMs; then make the bridge read DM replies. Jonah could not reply 2026-11-15.
+- [ ] New site signups broken (2026-11-15): /api/subscribe returns 503, no SIGNUPS KV binding on the Pages project. Add the binding before launch.

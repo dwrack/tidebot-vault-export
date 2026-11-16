@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-15 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-15 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -56,7 +56,7 @@ _nothing_
 - [ ] Tile quote for two small sauna rooms in NE Portland, Sean Hyland walk-through #Ebb-Ember #id:T0182
   → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
 - [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0043
-  → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; Michael forwarded a new Chase Travel flight schedule on Nov 15, so check it against the plan. (David; Gmail dwrack81@; touched 2026-11-15)
+  → David tell Michael whether he can do three days or two so Michael books Monday to Thursday; Michael forwarded a new Chase Travel flight schedule on Nov 15, so check it against the plan. (David; Text with Michael Fischer; touched 2026-11-15)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0188
@@ -110,6 +110,8 @@ _nothing_
   → Jonah request the access code and call the OSI audit hotline right away, since codes expire in 60 minutes; check spam and try an alternate email. (Jonah Moses; Gmail davey@; touched 2026-11-13)
 - [ ] NKST W-9 collection for 1099 guides, 2 still open #NKST #waiting #id:T0066
   → Remaining 2 guides complete their W-9s so TideBot can file them; Bob Drought is out until Nov 23. (TideBot; Gmail nolakayaktours@, Slack #helm-nkst; touched 2026-11-15)
+- [ ] Elevated Tides insurance premium audit, portal codes expire before arriving #waiting #id:T0194
+  → Wait for the insurer to accept Jonah's emailed audit package (monthly sales 11/6/2025 to 10/31/2026, P&L by month, principals) for policy BR20250485, since portal codes arrive about two hours late and expire. (Jonah Moses; Gmail davey@; touched 2026-11-15)
 
 ## Open
 

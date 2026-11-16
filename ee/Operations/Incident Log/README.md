@@ -7,7 +7,7 @@ Backs the safety plan's "incidents reach management the same day" promise for th
 - **Reads:** the watcher's 13 Slack channels, sauna@ and davey@ email (Google Voice texts and voicemails arrive there), Davey's iMessages (watcher's people + keywords).
 - **Alerts:** #founders (Davey + Jonah). Fire/gas any hour; other action-needed items 7am to 10pm, overnight ones held to 7am. Guest names and numbers only in the Sheet.
 - **Fixes:** posted for Alex in #maintenance as "New job for the list" with scope questions; never for reports that came from #maintenance.
-- **Weekly:** Monday 8am in #founders: counts, open items, up to 3 lessons.
+- **Weekly:** Thursday 6pm in #founders (after Alex's Tue + Thu sessions, `summary_weekday`/`summary_hour` in config): Done this week, what Alex posted on, Still open with the fix, New, up to 2 repeats. Changed 2026-11-15 after Jonah flagged INC-0009 as noise.
 - **Dashboard:** Command Center E&E tab, "Safety incidents" section.
 - **Failures:** DM to Davey only (2 failed runs in a row per source; watchdog if no run in 45 min; DCKT Mac `com.ebbember.mbp2-alive` if mbp-2 itself is down for 60 min).
 - **Pause:** set `"dry_run": true` in `~/ee-incident-log/config.json` on mbp-2.

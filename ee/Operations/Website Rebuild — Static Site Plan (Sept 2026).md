@@ -34,6 +34,14 @@ Target cutover: **October shoulder season**, not during the summer revenue run.
 8. **Rules still in force:** About page = "the team" only (no founder names until Dustin resolves); PRIVACY-HOLD photos need member OK.
 9. Heads-up to Jonah before killing the Squarespace bill.
 
+### Must do before the domain moves (added 2026-11-15, checked live that day)
+1. **Signups into ActiveCampaign.** Every signup form on the new site (newsletter, rain alerts, private sauna + membership waitlists, the 4 event lists) currently fails: /api/subscribe returns 503 "not configured", nothing is saved. L to connect them to ActiveCampaign (asked in #dev 11/15); Claude wires the site once L shares an API key + list ID via 1Password.
+2. **Turn off the site-wide noindex.** `_headers` has `/* X-Robots-Tag: noindex, nofollow` and 37 pages carry `<meta name="robots" content="noindex">`. Remove both on launch day only, keep the internal pages (index-v2, photos, poster) noindexed.
+3. **Old URLs all redirect.** `_redirects` has 11 lines; check every row of `Website Rebuild — URL Map (Keep Old URLs).md` is covered before DNS moves.
+4. **Email DNS first, website second.** Copy the Google Workspace MX, SPF/DKIM/DMARC, ActiveCampaign and SES records into Cloudflare DNS and confirm mail flows before pointing www at Pages.
+5. **Periode tracking bridge + GA4 on every page**, then one test booking from a Google Ads click to confirm attribution still lands.
+6. **Re-point links** (item 4 above): Google Ads final URLs, GBP website, IG bio, confirmation email + intro video link.
+
 ## Open questions for Davey
 1. Green-light the prototype homepage build?
 2. Where is the domain registered? (determines DNS transfer step)
