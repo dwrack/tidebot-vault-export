@@ -1,6 +1,6 @@
 # Dock Ladder Decision Table (Nov 16 2026)
 
-Part of [[Dock Water Entry — Project Note]]. Started from the 11/4 ranked list in #maintenance and Jonah's three points (11/16): angled is easier for cold and larger guests; it has to come out of the water every 2-4 weeks for algae (about every 3 weeks), and flip-up costs more and may be weaker; matching ladders everywhere is nice for the look but not required.
+Part of [[Dock Water Entry — Project Note]]. Started from the 11/4 ranked list in #maintenance and Davey's points in the #maintenance thread (11/16): angled is easier for cold and larger guests; it has to come out of the water every 2-4 weeks for algae (about every 3 weeks), and flip-up costs more and may be weaker; matching ladders everywhere is nice for the look but not required.
 
 Site: floating dock, deck 19 in above water by the private saunas and 16 in on the boat side (measured 11/4). The dock floats, so that height stays the same. Columbia current, logs in winter storms, water around 40F.
 
@@ -15,7 +15,7 @@ Prices checked 2026-11-16 unless marked. "Unverified" means the page couldn't be
 | Handrails | Pulling yourself up out of 40F water | Both sides, running above the deck |
 | Weight rating | Larger guests | 400 lb or more; 500 is better |
 | Getting it out of the water | Algae every ~3 weeks; cleaners scrub every 2-4 weeks | One person, no tools, under 10 min |
-| How it comes out | Hinges and springs fail; Jonah worries a fold weakens it | Fixed body that lifts off pins, or a simple pivot with no spring |
+| How it comes out | Hinges and springs fail; Davey worries a fold weakens it | Fixed body that lifts off pins, or a simple pivot with no spring |
 | Weight to lift | It comes out often | Under ~60 lb |
 | Reach below water | Feet need a step to find | Bottom step 2-3 ft under the surface |
 | Hardware | River water, winter | All 316 stainless; check for hidden plain steel |
@@ -35,10 +35,10 @@ Prices checked 2026-11-16 unless marked. "Unverified" means the page couldn't be
 | Out of the water | Pivots 180 deg on its brackets, no spring | Lifts off a mounting bracket; 2 people | Lift-off pins (our design) | Flip-up hinge | Lifts off in seconds | Flip-up |
 | Weight | Unverified | 61 lb | Target under 60 lb | Light (plastic) | Light | Unverified |
 | Hinge risk | Low-medium (bracket pivot) | None | None if lift-off | Medium; a reviewer found non-stainless hinge hardware | None | Medium |
-| Price each | ~$793 (11/4, not re-read today) | $2,229 (32 in) / $2,477 (36 in) | Estimate $2,500-5,000 for the first one, unsourced; less for #2 and #3 | ~$415 (11/4) | $369.99 | $399 (Jonah) |
+| Price each | ~$793 (11/4, not re-read today) | $2,229 (32 in) / $2,477 (36 in) | Estimate $2,500-5,000 for the first one, unsourced; less for #2 and #3 | ~$415 (11/4) | $369.99 | $399 (Davey) |
 | Lead time | Unverified | Call | 3-8 weeks, estimate | Stock | Stock | Stock |
 | Look | Clean, comes in black | Industrial | Best; matches V2 | Plastic, grey | Basic | Basic |
-| Catch | Hardware not included; it's a pivot, which Jonah is wary of | Built as a shore stair; floating-dock bracket and rail height need a call | No real quotes yet; shop must know marine loads | Vertical, fails point 1 | Vertical, small treads | Vertical, fails point 1 |
+| Catch | Hardware not included; it's a pivot, which Davey is wary of | Built as a shore stair; floating-dock bracket and rail height need a call | No real quotes yet; shop must know marine loads | Vertical, fails point 1 | Vertical, small treads | Vertical, fails point 1 |
 
 Links:
 - Wet Steps: https://www.dockgearsupply.com/products/5-step-wet-steps-dock-ladder-with-handrails-boxed
@@ -65,13 +65,15 @@ Spec to hand a welder: 6061 aluminum, 45 deg, 5 steps, 24 in+ wide x 8-11 in dee
 
 ## Recommendation
 
-Buy **2 Wet Steps WS5 welded (500 lb)** now for the dock: angled, rails on both sides, about $800 each, and they swing fully out of the water on a plain bracket pivot with no spring. Ask Dock Gear for the reach and tread depth before ordering, and buy the welded WS5, not the 350 lb boxed one.
+**Updated 11/16 after Davey's second reply in the #maintenance thread:** "the first two are decent, but if you take a closer look, the main handle is buckling and did so within a month of use. it doesn't stand up to commercial use and i would hesitant to order more of them." It's a reply to Alex's "I like the first two" in the same thread. On the 11/4 list the first two are Wet Steps and Techstar. Which ladder on our dock is the buckling one is NOT confirmed. Davey to confirm.
 
-At the same time, get one quote from Accurweld or Steve's Marine for a custom lift-off stair. If it comes in under about $1,600 each, that becomes the standard for the V2 private saunas so everything matches.
+New pick: **get quotes on a commercial-grade angled stair that lifts out, two routes in parallel:**
+1. Custom from a marine welder (Accurweld or Steve's Marine) to the spec above, with heavier handrails (1.5 in schedule 40 pipe, welded, not bolted) and a 500 lb+ rating. Build one, test it for a month, then order the rest.
+2. Platforms & Ladders 5-step removable stair, $2,229. Call 888-802-3651 to ask about the rating, a floating-dock bracket, and taller rails.
 
-Platforms & Ladders is the closest thing to Jonah's "permanent ladder that lifts out", but it costs $2,229, has 24 in rails and isn't made for floating docks. Call before considering it.
+Until then, keep the current ladders in service and through-bolted (Alex did this 11/5).
 
 ## Open
-1. 2 or 3 ladders (does the private sauna space get one now)? Jonah asked 11/16 in #maintenance.
-2. Is Jonah OK with the Wet Steps pivot, or does he want lift-off only?
+1. 2 or 3 ladders (does the private sauna space get one now)? Davey asked the team 11/16 in #maintenance; Jonah hasn't answered.
+2. Lift-off only, or is a plain pivot OK? (Davey leans lift-off; Jonah said 11/4 non-folding ladders get gross if they can't come up.)
 3. Alex: bolt pattern into the float frame.
