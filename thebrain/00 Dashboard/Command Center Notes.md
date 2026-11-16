@@ -10,6 +10,9 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-18 due | Call Energy Smart 504-229-6868 about the $440 reissue (PR #83408, project 300033-2026-R1Z7). 4 emails (Oct 14/21/26/29) got no human reply; ask who handles it, offer affidavit or ACH. If stuck, escalate via Entergy New Orleans customer service | Personal | default: the $440 check never gets reissued
+- 2026-11-18 due | Call back Smiley Electric about the sauna float outlets job, they have a few questions (asked by Smiley Electric via sauna@ email 2026-11-16) | E&E | default: they wait on you and chase, or it lapses [ifw:3d2d501a]
+- 2026-11-18 due | Reply to Smiley Electric about whether other quotes have been received for the sauna float outlets job (asked by Smiley Electric via davey@ email 2026-11-16) | E&E | default: they wait on you and chase, or it lapses [ifw:e7f8abc2]
 - 2026-11-20 due | Jonah lining up electricians for the private sauna float outlets (7 threads forwarded 2026-11-16: Smiley, Pacific NW, Unity, Community, ptpnw, Boones Ferry declined, Coy no reply). Nudge Jonah if no one is booked by Thu | E&E | default: no electrician scheduled, outlets block the sauna opening
 - 2026-11-18 due | Reply to the unanswered Google reviews: 2-star Nov 8 (bathrooms, tank emptied with guests aboard) and 3-star Nov 1 (rain trip, driver struggled) | NPB | default: both stay unreplied
 - 2026-11-17 due | Pause 3 Google search campaigns at 0 conversions ($643.63 over 7 days: NKST Generic Local + National, NPB Holiday Party & Groups) and move budget to NPB National/Local, which convert at $41 to $57. Michael's lane, tell him go or say it to Claude | NKST + NPB | default: they keep spending ~$90/day (checked 2026-11-16)

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-16 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-16 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -47,10 +47,6 @@ _nothing_
   → David or Claude generate new Apify tokens for each brand account, update the local token files and user-scope Apify MCPs, then restart any scraper or job still using an old token. (David; Gmail davey@, Gmail nolakayaktours@, Gmail doorcountyzip@, Gmail nolapedalbarge@; touched 2026-11-12)
 - [ ] Michael asks which seats to order on Amazon #id:T0160
   → David tell Michael which seats to order on Amazon. (David; Text with Michael Fischer; touched 2026-11-12)
-- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
-  → David lift his soft credit lock so the lender can run a credit pull and move the funding forward, and still send no bank statements, driver's license or voided check until he knows who he is dealing with. (David; Gmail doorcountykayaking@; touched 2026-11-13)
-  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
-  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Jonah asks if David is changing the existing website #id:T0177
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
@@ -80,11 +76,6 @@ _nothing_
   → NPB managers walk through the holiday page, corporate page and test email, then reply in #helm-npb by noon Tuesday 11/17 with yes or no on the costume closet, trivia, karaoke and yard games, drinks and bartender with $10 corkage, the $59 pp 40-guest Mon-Thu package, the food, band and singer prices, and the quote builder. (NPB managers; Slack #helm-npb, Gmail nolapedalbarge@; touched 2026-11-16)
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
-- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
-  → Michael decide whether to get a premises-only liability quote through the carrier Jamie Clark pointed to, while still waiting on Shelley Zahn's renewal quote and the marina operators liability answer. (Michael Fischer; Gmail doorcountyzip@; touched 2026-11-13)
-  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
-  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
-  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #waiting #id:T0074
@@ -169,6 +160,8 @@ _nothing_
   → David confirm whether he or staff booked the Nov 16 9am PST Calendly call with Mehmet Guzel; cancel it if not, since the invite came from an unknown sender and mentions only New Orleans Kayak Swamp Tours. (David; Gmail nolakayaktours@, Gmail dwrack81@; touched 2026-11-12)
 - [ ] GetYourGuide refund request, Houston Sunset Skyline Kayak Nov 11 flood cancellation, booking GYG2Q87263FV #AKT #LSKT #due:2026-11-16 #id:T0173
   → AKT/LSKT staff reply to GetYourGuide within 72 hours with the Nov 11 flooding cancellation explanation and any proof of the phone call or notice to the guest, or the full refund goes through. (AKT staff; Gmail austinkayaktours@; touched 2026-11-13)
+- [ ] David's New Orleans trip: Tuesday HR sit-down with Jeffrey, Piety work Wednesday #NKST #due:2026-11-17 #id:T0202
+  → David and Jeffrey Chitek hold an HR sit-down on the computer Tuesday evening Nov 17; David lands around midnight, does the Pool Spa Deck conference Tuesday and Piety work Wednesday morning before Michael Fischer arrives around noon. (David; Text with Jeffrey Chitek; touched 2026-11-16)
 - [ ] GetYourGuide refund request, Houston Kayak and Paddleboard Rental Nov 15, guest says activity canceled #AKT #LSKT #due:2026-11-18 #id:T0192
   → AKT/LSKT staff reply to GetYourGuide with an explanation and any evidence for booking GYGVN2X9MHGF (2 guests, Nov 15 5:00 PM) within 72 hours, or the refund goes through in full. (AKT staff; Gmail austinkayaktours@; touched 2026-11-15)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
@@ -179,6 +172,11 @@ _nothing_
   → NKST manager find another guide for the Fri Nov 20 2pm tour and reassign it in FareHarbor. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
+- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
+  → Michael or David complete the 11-page supplemental application for the boat slip rental coverage (pages 1-4 for locations, slip receipts and fueling, pages 7-9 only if they want dock and pier property coverage) and return it to Shelley Zahn. (Michael Fischer; Gmail doorcountyzip@; touched 2026-11-16)
+  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
+  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
+  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] Maritime Consortium drug-free vessel membership renewal, NPB and HPB, expires Dec 31 #NPB #HPB #due:2026-12-31 #id:T0040
   → NPB and HPB managers renew the Maritime Consortium memberships (accounts 23624 and 25143) before Dec 31 using the corrected company-specific renewal links in the Nov 2 emails, not the earlier link. (NPB and HPB managers; Gmail nolapedalbarge@, Gmail houstonpedalbarge@; touched 2026-11-02)
 - [ ] Door County property tax due Dec 31, 8442 State Hwy 42 #DCKT #due:2026-12-31 #id:T0199
@@ -269,8 +267,6 @@ _nothing_
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
 - [ ] Piety St shipping container locked insecurely #NKST #id:T0016
   → NKST manager decide how the Piety container should be locked and tell the guides; guides use the trash can Stephanie placed on the table by the key box and empty it in the outdoor can. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
-- [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
-  → Ignore or reply once for both brands; Wanderlust Craze outreach looks like the same cold pitch repeated, so verify before engaging. (David; Gmail nolakayaktours@; touched 2026-11-08)
 - [ ] HPB SMS reply: 'Sorry, I can't talk right now' #HPB #id:T0110
   → HPB manager decide whether this reply needs a follow-up text from the HPB number, or just let it drop since the person said they can't talk. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 - [ ] Buyer asks to purchase one pedal bike from the Bike Bar crew for sale #NOLA-Bike-Bar #id:T0112
@@ -377,11 +373,16 @@ _nothing_
   → NKST staff do not click the Google Forms link or enter any Facebook login; check the Facebook page's own Page Quality or Support Inbox in Meta Business Suite to confirm there is no real violation, then delete the email. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] NKST Manchac + Whitney Plantation inquiry, 3 people, Dec 29-31 #NKST #id:T0193
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
+- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
+  → Ignore these and send no bank statements, ID or voided check; GreenBridge's Leah Freeman is on a fourth cold follow-up pitching a zero-fee line of credit, same pattern as the other solicitations. (David; Gmail doorcountykayaking@; touched 2026-11-16)
+  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
+  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+- [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
+  → Ignore or reply once for both brands; Mujahid Khan followed up again asking whether to narrow the Cave Point/shipwreck feature to two outlets and quote costs, which points to a paid placement pitch. (David; Gmail doorcountykayaking@; touched 2026-11-16)
 - [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
-- [x] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #id:T0197
-  → David decide whether to take a call with Rachel Foster, who says she represents a private buyer; she has not named the buyer, so ask who it is before sharing any numbers. (David; Gmail austinkayaktours@; touched 2026-11-16)
-  > Closed by the resolver: Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
+- [ ] HPB random drug test authorization for Dustin Gause, Maritime Consortium #HPB #id:T0201
+  → HPB manager pick a business-hours time, then notify Dustin Gause in writing to take the random test at Quest Diagnostics Fry Road in Katy with authorization Q25219822 and a photo ID; call the site first in case it needs an appointment. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-16)
 
 ## Backburner (LSKT)
 
@@ -448,3 +449,6 @@ _nothing_
 - [x] Elevated Tides slip lease addendum for E&E, needs David's signature #Ebb-Ember #done:2026-11-14 #id:T0181
   > David: Closed by the resolver: David emailed the lease addendum back to office@elevatedtides.com signed for Elevated Tides Experiences LLC at 11-13 21:49, then again at 22:54.
   > Radar: Marked resolved. The signed addendum went back twice on Nov 13, so nothing is left on you unless the other side says they didn't get it.
+- [x] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #done:2026-11-16 #id:T0197
+  > David: Closed by the resolver: Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
+  > Radar: Marked resolved. AKT replied to Rachel Foster agreeing to the call with the buyer, so nothing is open on this beyond the call itself.

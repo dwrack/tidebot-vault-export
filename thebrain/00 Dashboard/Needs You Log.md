@@ -128,3 +128,5 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-16 08:14 | AUTO-DRAFTED radar:T0197 | Possible buyer approach for Austin kayak operators (Rachel Foster)
 - 2026-11-16 08:35 | RESOLVED radar:T0197 | Possible buyer approach for Austin kayak operators (Rachel Foster) | Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
 - 2026-11-16 08:36 | RESOLVED notes:a6235639b3 | [2026-11-22 due | David emailed uShip on 11-13 about the protection plan for the 1974 Airstream shipment, the same day as the $4,224 charge, so he knows what it is.
+- 2026-11-16 10:13 | AUTO-DRAFTED radar:T0202 | David's New Orleans trip: Tuesday HR sit-down with Jeffrey, Piety work Wednesday
+- 2026-11-16 11:46 | AUTO-DRAFTED cx:NKST-475 | NKST: Clarify private tour pricing per person (handed to a person, nobody has answered)

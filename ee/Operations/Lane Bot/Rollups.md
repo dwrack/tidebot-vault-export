@@ -1,10 +1,11 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 09:02 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 11:48 PT.
 
-Counts: people 14, vendors 113, projects 6, money 493, promises 41, asks 73, dates 917
+Counts: people 14, vendors 114, projects 6, money 495, promises 42, asks 74, dates 923
 
 ## Open asks of Davey (Tier 0)
+- 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
 - 11/10 15:41 Jonah [reply]: "<@U0B1CAVT1TM> Can you share the fire place models you were looking at?"
@@ -67,6 +68,7 @@ Counts: people 14, vendors 113, projects 6, money 493, promises 41, asks 73, dat
 - 11/13 12:38 "sergei is on the gas line… $600~ labor nothing confirmed on start date, but ill ask him in a bit about that." (#founders)
 
 ## Dates inside 7 days (as mentioned in messages)
+- 2026-11-16 Carmen Mantalas: "November 16"
 - 2026-11-16 Davey: "next week"
 - 2026-11-16 Davey: "today"
 - 2026-11-16 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 16"
@@ -102,6 +104,7 @@ Counts: people 14, vendors 113, projects 6, money 493, promises 41, asks 73, dat
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
 - 2026-11-21 Melissa Clark: "November 21"
+- 2026-11-23 +12012306848: "Next week"
 - 2026-11-23 Anna Nelson: "11/23"
 - 2026-11-23 Claude: "11/23"
 - 2026-11-23 Ebb & Ember: "NOV 23"
@@ -110,6 +113,7 @@ Counts: people 14, vendors 113, projects 6, money 493, promises 41, asks 73, dat
 - 2026-11-23 Jonah: "11/23"
 - 2026-11-23 Jonah: "November 23"
 - 2026-11-23 Mack: "11/23"
+- 2026-11-23 Pool Spa Patio and Deck Expo: "next week"
 - 2026-11-23 sauna@ebbandember.com: "November 23"
 
 ## Silence over 5 days (Davey wrote last, no reply)
