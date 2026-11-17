@@ -1,6 +1,6 @@
 # Gift Card Drip to Past Guests (Nov 17 to Dec 29, 2026)
 
-**CURRENT STATUS (2026-11-15, verified today): built, tested, NOT sent.** Seven emails with A/B cells are built, one test of email 1 went to David, and nothing has gone to the list. The full-list send is blocked by the SES preflight (account complaint rate 0.173% against a 0.05% limit, bounce rate 2.91%, left over from the NKST send on Nov 6). Email 1 goes out the first weekday after David says go, earliest Tue Nov 17.
+**CURRENT STATUS (2026-11-15, verified today): built, tested, NOT sent.** Seven emails with A/B cells are built, one test of email 1 went to David, and nothing has gone to the list. The full-list send is blocked by the SES preflight (SES complaint rate 0.162% on Nov 16 against OUR gate of 0.05%, which is also over Amazon's 0.1% review line; bounce rate 2.75%, under both our 3% gate and Amazon's 5%; left over from the NKST send on Nov 6). Email 1 goes out the first weekday after David says go, earliest Tue Nov 17.
 
 Preview: `preview/All 7 Emails.html` in this folder (self-contained, open it anywhere).
 Style: the NKST "gift drip" look (Style Menu entry Designed Email): photo-led, calm serif, one button. Masthead is a text wordmark because the only logo on file is the Hot Spot award badge.
@@ -77,14 +77,14 @@ FareHarbor has no "agreed to be emailed" field, so the list is every guest with 
 
 ## Day-of runbook (when David says go)
 1. `cd ~/Projects/bbk-tools/newsletter-2026 && node build.mjs && node recipients.mjs` (rebuilds the list and drops new opt-outs).
-2. Dry run: `node send-ses.mjs --email em201-gift-houston-from-water --ab`. The preflight must say OK. It refuses if the SES account is unhealthy, bounce rate is 3% or more, complaint rate is 0.05% or more, inbox feedback forwarding is on, or any relay address is on the list.
+2. Dry run: `node send-ses.mjs --email em201-gift-houston-from-water --ab`. The preflight must say OK. It refuses if the SES account is unhealthy, bounce rate is 3% or more, complaint rate is 0.05% or more (our own gate, stricter than Amazon's), inbox feedback forwarding is on, or any relay address is on the list.
 3. Send: `caffeinate -i node send-ses.mjs --email em201-gift-houston-from-water --ab --go`. One day, paced at 20 per second, retries on throttling. About 4 minutes for 4,632. The code lives on the laptop, so keep the lid open until it prints DONE.
 4. Same day: sweep the BBK inbox (BuffaloBayouKayak@gmail.com) for bounces, out-of-office and replies, then run `ab-report.mjs` for sent, delivered and bounce counts.
 5. Read results 3 days later.
 For emails 2 to 7, change the key to the email's slug (`em202-gift-no-sale`, `em203-gift-nothing-to-do`, `em204-gift-three-people`, `em205-gift-no-shipping`, `em206-gift-last-light`, `em207-gift-your-seat`).
 
 ## Open items
-- **Send is blocked by the SES preflight.** Complaint rate 0.173% against a 0.05% limit and bounce rate 2.91%, both left from the NKST Nov 6 send. SES reports the account HEALTHY. Options: wait for the rate to fall, send in smaller waves of the most recent guests, or David says skip-preflight. Do not skip without his word.
+- **Send is blocked by the SES preflight.** SES complaint rate 0.162% (Nov 16) against our gate of 0.05%. Amazon's own lines are: under review at complaint 0.1% or bounce 5%, may pause at 0.5% or 10% (checked against the AWS docs 2026-11-16). SES still reports the account HEALTHY even though the complaint figure is above 0.1%, so it is close to Amazon's line, not just ours. Bounce rate is 2.75%, fine. Both are left from the NKST Nov 6 send and fall slowly as newer mail dilutes them. Options: wait for the rate to fall, send in smaller waves of the most recent guests, or David says skip-preflight. Do not skip without his word.
 - **Confirm three gift card facts.** BBK's site and FareHarbor page say nothing about expiry, delivery speed or which tours a card redeems on. The copy therefore says only "you choose the amount, they pick the day, good toward any tour we run" and "the gift card comes to your email." Once confirmed, add "never expires" and "right away" back (they are the strongest NKST lines).
 - **Logo.** The only logo on the site and in the vault is the Hot Spot Winner award badge. The masthead is a text wordmark. Swap in a real logo if one exists.
 - **Guests in two photos.** Email 3 photo B and email 6 photo B show guests far away on the water. Both photos already run on the BBK site and in carousels. Swap them for faceless shots if David prefers.

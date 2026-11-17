@@ -76,6 +76,7 @@
 - [x] Rev AK plan + email SENT to Sergey 11/9 evening from davey@ cc jonah@ (quote due Fri 11/14). Mario is out (no time); Sergey owns the gas (Davey 11/9)
 - [x] Water-side items (heater water hookup, shower valves, backflow) moved to Alex in the water line plan (11/9)
 - [ ] Sergey walkthrough: meter location/size/pressure, 2 psi vs low pressure down the dock, jumper type + slack, run lengths (meter to social tee, tee to float, tee to lounge), social sauna stove nameplate
+- [ ] 11/16: budget drop-in burner shortlist (24 in round + linear, all with timer shutoff, Reddit on LP->NG) in [[Private Saunas (V2) — Drop-in Burner Shortlist (Nov 16 2026).html]] (artifact XohQv4ZATrSovpYZC6GPRu); recs: AFP CSA linear kit 36 in + 165k dial timer, HPC PENTA24-FPK-NG + dial timer
 - [ ] PARKED to ~11/23 (cash): pick the pony-wall fire units + lounge table from [[Private Saunas (V2) — Fire Features for the Pony Walls + Lounge (Nov 9 2026)]] (rec: Kalea Bay 60 see-through x2, Del Mar 72); then order (1 to 2 wk), framing drawing to Grant, BTU + inlet to Sergey, wire into S1/S2 for the electrician
 - [ ] Electrician: pull a wire into S1/S2 for fire pit ignition (one circuit has headroom)
 - [ ] Stamp valve tags to match G-001; add V0, V2 and the three E-stop knobs to the staff emergency sheet

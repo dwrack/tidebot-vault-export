@@ -1,12 +1,12 @@
 # Gift Card Drip to Past Guests (Nov 17 to Dec 29, 2026)
 
-**CURRENT STATUS (2026-11-15): built, tested, NOT sent.** One test of email 1 went to David's inbox. Nothing has gone to the list. The send is also blocked by the SES preflight (see "Blocker" below). Style: the Style Menu "Designed Email" gift drip look (photo-led, calm serif, one button), same as the NKST drip.
+**CURRENT STATUS (2026-11-16): built, tested, NOT sent. Design pass done 2026-11-16 (opaque logo band, enhanced photos, square split crops, two close-up guest photos removed, copy trimmed). List recounted today: 30,639 mailable.** One test of email 1 went to David's inbox. Nothing has gone to the list. The send is also blocked by the SES preflight (see "Blocker" below). Style: the Style Menu "Designed Email" gift drip look (photo-led, calm serif, one button), same as the NKST drip.
 
 Preview (all 7 at phone width + the A/B photo grid): `preview/All 7 Emails.html` in this folder.
 
 ## Blocker: SES preflight refuses the send
 - Checked 2026-11-15 (CloudWatch, account-wide, us-west-2): complaint rate **0.173%** (the sender's gate is 0.05%, AWS reviews accounts at 0.1%) and bounce rate **2.91%** (gate 3%, AWS reviews at 5%).
-- The account is shared by every brand. These numbers are left over from the NKST send on Nov 6 (28k emails), and almost nothing has been sent since, so they will not drop on their own. DCKT has never been mailed from SES at this scale, about 16,700 of its addresses last booked in 2022 or earlier, and 6,142 have no booking date at all.
+- The account is shared by every brand. These numbers are left over from the NKST send on Nov 6 (28k emails), and almost nothing has been sent since, so they will not drop on their own. DCKT has never been mailed from SES at this scale, about 16,700 of its addresses last booked in 2022 or earlier, and 6,134 have no booking date at all.
 - `--skip-preflight` exists but only David can authorize it. Claude did not use it.
 - Recommended: send in recency waves and read the rates between waves (below). Wave 1 is small enough to move the account numbers a little but not to hurt them.
 
@@ -29,10 +29,10 @@ The list is cold. Mail newest guests first and read the account rates after each
 
 | Wave | Who | Count | Command adds |
 |---|---|---|---|
-| 1 | Booked 2025 or later | 3,579 | `--since 2025-01-01` |
+| 1 | Booked 2025 or later | 3,494 | `--since 2025-01-01` |
 | 2 | Booked 2023 or later | about 4,300 more | `--since 2023-01-01` |
 | 3 | Booked 2020 to 2022 | about 7,900 more | `--since 2020-01-01` |
-| 4 | Everyone else, including 6,142 with no booking date | about 15,000 more | no `--since` |
+| 4 | Everyone else, including 6,134 with no booking date | about 15,000 more | no `--since` |
 
 Stop and look if a wave pushes bounce past 3% or complaints past 0.05%. Emails 2 to 7 go to everyone the earlier waves reached.
 
@@ -57,13 +57,13 @@ Six groups for email 1 (subject A or B, crossed with three hero photos), four gr
 ## Tracking and safety wiring (verified 2026-11-15)
 - SES config set `dckt-campaign` created: CloudWatch destination, dimensions `campaign` and `cell` from message tags, events send, delivery, open, click, bounce, complaint, reject.
 - Identity `doorcountykayaktours.com`: Bounce and Complaint go to SNS topic `dckt-ses-events`, feedback forwarding is now OFF (it was ON, which is what flooded NKST's inbox). Changed by Claude today.
-- Unsubscribe: hosted one-click link plus `List-Unsubscribe-Post`, no mailto. Suppressed and unsubscribed addresses are dropped when the list is built (9,486 on the account-wide SES suppression list; 2,036 of them were on DCKT's export).
+- Unsubscribe: hosted one-click link plus `List-Unsubscribe-Post`, no mailto. Suppressed and unsubscribed addresses are dropped when the list is built (9,486 on the account-wide SES suppression list; 2,122 of them were on DCKT's export).
 - Booking-site relay addresses (GetYourGuide, Viator, TripAdvisor, Expedia and similar) are filtered out of the list, and the preflight re-checks that.
 - Pacing 20/sec with retry (SES limit is 31/sec). Preflight refuses a list send unless forwarding is off, no relay addresses are on the list, the account is healthy, and 24h bounce under 3% and complaints under 0.05%.
 
 ## The list
 - Fresh pull from FareHarbor 2026-11-15: **32,773 customers** (the May 14 export had 31,751): 3,488 new addresses, 1,543 of them booked since May 15; 2,466 old addresses are no longer in FareHarbor's customer list.
-- Mailable after suppression, relay filter and bad addresses: **30,733**.
+- Mailable after suppression, relay filter and bad addresses: **30,639**.
 - FareHarbor has no "agreed to be emailed" field, so this is every customer with an email minus opt-outs and bounces, same as past sends.
 
 ## After each send (do not skip)
@@ -90,4 +90,6 @@ Six groups for email 1 (subject A or B, crossed with three hero photos), four gr
 2. **Footer address:** emails use 8442 State Hwy 42, Fish Creek (the legal address). The site footer shows a Jacksonport address. Pick one.
 3. **FareHarbor checks before email 1:** a gift card redeems on every tour, and `?ref=gift_g01_aa` on the buy link shows up on the gift card sale. If the ref does not land, read gift sales by date instead.
 4. **Copy to confirm:** email 7 says "back on the water next season" (no date promised); email 1 says Door Bluff has a shipwreck you can see through the water (matches the drone footage and the Door Bluff Shipwreck tour).
-5. Not in this drip on purpose: bonus credit, named denominations, SMS (needs the checkout opt-in).
+5. **Wreck photos:** the vault says the Door Bluff tour visits the Schooner Fleetwing; the drone wreck shots are not labeled, so copy says only "a shipwreck you can see through the water at Door Bluff". Confirm they are that wreck before any caption names it.
+6. **Buy link:** someone removed `&full-items=yes` from the FareHarbor buy link in `gift-emails.mjs` on 2026-11-16 (the brief asked for it). Both forms return 200. Left as is.
+7. Not in this drip on purpose: bonus credit, named denominations, SMS (needs the checkout opt-in).
