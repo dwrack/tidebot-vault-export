@@ -198,4 +198,4 @@ Source: `Jeffrey — TideBot Ops & Crew Accountability Call (June 2026).md`. Dav
 
 - [ ] 2026-11-15 Affiliate reactivation follow-ups: FareHarbor login so Claude can pull bookings by affiliate; remove JT's affiliate access; strip Login/password columns from the Affiliate Master Doc sheet; answer replies to the 11/15 email (link + QR + content pack). See `Marketing/Affiliates/Affiliate Working List (Nov 2026).csv`
 
-- [ ] 2026-11-18: Send follow-up to John Munschauer re guest coverage on docks/check-in/property (draft in info@ Gmail; reply-by 11/20). See [[Insurance/NPB — Insurance Policy Review July 2026]]
+- [ ] 2026-11-20: Follow-up SENT 11/17 to John Munschauer re guest coverage on docks/check-in/property; waiting on reply, call him if none by 11/20. See [[Insurance/NPB — Insurance Policy Review July 2026]]
