@@ -2,6 +2,11 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-17 08:10 | 24 new messages moved 5 threads: T0213, T0214, T0069, T0043, T0011
+- 2026-11-17 06:10 | David ticked T0183 NKST booked 0 on $56 spend Nov 13
+- 2026-11-17 06:10 | David commented on T0183
+- 2026-11-17 06:10 | 21 new messages moved 4 threads: T0210, T0211, T0021, T0212
+- 2026-11-16 18:10 | 29 new messages moved 3 threads: T0088, T0208, T0209
 - 2026-11-16 16:10 | 25 new messages moved 5 threads: T0088, T0090, T0019, T0034, T0207
 - 2026-11-16 14:10 | 5 new messages moved 2 threads: T0205, T0206
 - 2026-11-16 12:10 | 7 new messages moved 3 threads: T0203, T0019, T0204

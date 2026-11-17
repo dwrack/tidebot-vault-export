@@ -14,7 +14,7 @@
 
 <!-- finance-auto:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -31,14 +31,14 @@
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $1,866 | -100% |
-| Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $1,749 | -$1,749 |
+| Month to date, spending | $0 | $486 | -100% |
+| Month to date, net | $0 | $1,380 | -$1,380 |
 | Trailing 12 months | no history yet | | |
 
 **Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72
 
 ### 💵 Finances: Cave Point Place LLC
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -69,7 +69,7 @@
 *Rental LLC: 1407 Piety St (New Orleans) and 6329 Hwy 57 (Jacksonport). Nicolet Small Business Checking ...3971 + Chase card ...1450.*
 
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -94,7 +94,7 @@
 *Partnership return (Form 1065). One Chase checking (...1893) and card (...5955) cover all three Texas brands under this LLC.*
 
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|

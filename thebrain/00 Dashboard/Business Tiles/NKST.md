@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 1
-revenue_today: 180
+bookings_today: 4
+revenue_today: 740
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 57
 status: yellow
-alert: "Google generic $435.60/7d at 0 conv"
-updated: 2026-11-16
+alert: "Google generic $419/7d at 0 conv"
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $3,685/wk booked vs $4,000 target — 92% of goal.** Down from 117%; Sun booked 1 / $180.
-- **Google search:** Generic Local $218.80 + National $216.80 = $435.60 over 7d at 0 conv, both enabled (checker confirmed). Michael's lane.
-- **Reviews:** 3★ Jeanette Quirk (11/13) plus 5 open 5★, four name Michelle.
-- Airboat-vs-kayak page: 2 clicks / 75 impr, position 6.8, 2 GA4 views (baseline 0 / 0 / 3). Instagram is #1 source (46 sessions Sun).
+- **Goal pace: $4,050/wk booked vs $4,000 target — 101% of goal.** Up from 92%; Mon booked 4 / $740.
+- **Google search:** Generic Local $206.08 + National $212.96 = $419.04 over 7d at 0 conv, both enabled (checker confirmed). Michael's lane.
+- **Reviews:** 3★ Jeanette Quirk (11/13) day 4 plus 5 open 5★. GA4 11/16 polluted by t.co referral spam (1,770 sessions).
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -72,7 +71,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|

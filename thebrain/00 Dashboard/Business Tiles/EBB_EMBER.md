@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "IG pricing question day 10"
-updated: 2026-11-16
+alert: "3 open 5★ incl. Jonah Kest (check)"
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal: measurable_front_door_by_oct_15. Last known: no movement since 2026-08-28 (not verified this run).**
-- IG 11/6 carousel pricing question day 10 unanswered; 5★ Kaitlin Beck (11/14) unreplied. Two reels posted 11/14 and 11/15.
+- 3 unreplied 5★: Jonah Kest (11/17, if ours it's an owner review, ask him to remove), Christiane Farentinos (11/16), Kaitlin Beck (11/14). IG pricing question from 11/6 not re-checked today. Competitor intel: Dustin 'bought a building' (Newport float, RiverPlace).
 <!-- live:end -->
 
 <!-- maps:start -->

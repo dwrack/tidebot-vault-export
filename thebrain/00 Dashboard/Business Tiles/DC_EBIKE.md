@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-16
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal: commit_domain_to_rentals. Last known: no movement since 2026-08-28 (not verified this run).**
-- GSC: no clicks on tracked queries 11/8 to 11/15.
+- No new reviews; GSC not pulled this run.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -55,8 +55,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $1,866 | -100% |
-| Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $1,749 | -$1,749 |
+| Month to date, spending | $0 | $486 | -100% |
+| Month to date, net | $0 | $1,380 | -$1,380 |
 | Trailing 12 months | no history yet | | |
 
 **Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72

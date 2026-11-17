@@ -130,3 +130,7 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-16 08:36 | RESOLVED notes:a6235639b3 | [2026-11-22 due | David emailed uShip on 11-13 about the protection plan for the 1974 Airstream shipment, the same day as the $4,224 charge, so he knows what it is.
 - 2026-11-16 10:13 | AUTO-DRAFTED radar:T0202 | David's New Orleans trip: Tuesday HR sit-down with Jeffrey, Piety work Wednesday
 - 2026-11-16 11:46 | AUTO-DRAFTED cx:NKST-475 | NKST: Clarify private tour pricing per person (handed to a person, nobody has answered)
+- 2026-11-16 21:01 | RESOLVED radar:T0183 | NKST booked 0 on $56 spend Nov 13 | The Nov 14 daily shows NKST green, booked 1 / $390 at 9.5x. The Nov 13 zero-booking day did not repeat.
+- 2026-11-17 04:46 | RESOLVED notes:2405db18c0 | Switch the NPB customer address from 2101 to 2105 Paris Rd? Checked Google Maps 11/16: 2105 (New Orleans or Chalmette) drops the pin at the marina next to our… | Davey told Jeff in #nola-party-barge on 11-14 to change the address to 2105 this Monday, so the decision is made.
+- 2026-11-17 06:11 | AUTO-DRAFTED radar:T0210 | AKT winter plan catch-up: NYE fireworks tour, sell vans, Viator return
+- 2026-11-17 07:52 | RESOLVED notes:0f4cef823a | Buy the new marina ladder from your 11/4 Apple Note (model number + Overtons link in the note) | Amazon order placed 11-16 by Jonah for a VEVOR Flip-up Dock Ladder, shipped 11-17, arriving 11-24. Model not checked against the 11/4 note.

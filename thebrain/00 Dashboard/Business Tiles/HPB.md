@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "0 booked Sun; 9% of goal"
-updated: 2026-11-16
+alert: "9% of goal; HPB search $94.52 at 0 conv"
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $363/wk booked vs $4,000 target — 9% of goal.** Houston Meta $220.02 over 7d at 0 purchases, no spend 11/15.
-- Texas Google "Search - Houston Pedal Barge" $98.28 at 0 conv (7d), still enabled.
+- **Goal pace: $363/wk booked vs $4,000 target — 9% of goal.** Flat; 0 booked Mon.
+- Texas Google "Search - Houston Pedal Barge" $94.52 at 0 conv (7d), still enabled. Houston Meta $0 Mon, $170.19 over 7d at 0 purchases. TikTok not pulled (wrong account logged in).
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|

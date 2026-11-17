@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-16
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,7 +18,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $190/wk booked vs $7,000 target — 3% of goal.** Closed for the season; Google 0 impressions.
+- **Goal pace: $190/wk booked vs $7,000 target — 3% of goal.** Closed for the season; Google $0, Meta no data.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -37,7 +37,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -54,8 +54,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date, money in | $0 | $1,866 | -100% |
-| Month to date, spending | $0 | $117 | -100% |
-| Month to date, net | $0 | $1,749 | -$1,749 |
+| Month to date, spending | $0 | $486 | -100% |
+| Month to date, net | $0 | $1,380 | -$1,380 |
 | Trailing 12 months | no history yet | | |
 
 **Top spending, 30 days:** fareharbor FareHarbor ST-U9G6D1G $72

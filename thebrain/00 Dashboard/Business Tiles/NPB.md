@@ -3,12 +3,12 @@ business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
 bookings_today: 1
-revenue_today: 180
+revenue_today: 203
 lead_time_days: 0
-ad_spend_yday: 180
+ad_spend_yday: 152
 status: yellow
-alert: "pace 55% of $30k; Sun 1 booking; 2★ day 8"
-updated: 2026-11-16
+alert: "pace 51% of $30k; 2★ day 9"
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $16,419/wk booked vs $30,000 target — 55% of goal.** Down from 66%; Sun 11/15 booked 1 / $180.
-- **Google:** National search $56.92/conv, Local $40.59/conv convert; "Holiday Party & Groups" $208.03 at 0 conv (7d). Michael's lane.
-- **Reviews:** 2★ JP Trigo (11/8) day 8 unreplied plus 8 open 5★ since 11/12.
+- **Goal pace: $15,370/wk booked vs $30,000 target — 51% of goal.** Down from 55%; booked 1 / $203 Mon after 1 / $180 Sun.
+- **Google:** National search 8 conv on $446.08 (7d); "Holiday Party & Groups" $212.69 at 0 conv, still enabled. Michael's lane.
+- **Meta 7d:** $1,407.93, 10 purchases, ROAS 1.44. **Reviews:** 2★ JP Trigo day 9 plus 12 open 5★.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -51,7 +51,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|

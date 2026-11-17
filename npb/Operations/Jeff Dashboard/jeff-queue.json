@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "note": "Jeff's to-do queue for the Jeff Today page (npb-dash-zoonn3.pages.dev/jeff/). Any Claude can edit this file; the always-on Mac pushes it live every 10 min. status: open | working | done. reply = Claude's answer shown on the card.",
   "items": [
+    {
+      "id": "address-2105",
+      "area": "Guests",
+      "title": "PRIORITY: switch our address to 2105 Paris Rd, New Orleans",
+      "why": "Guests and drivers keep ending up in Chalmette. A Google review says it outright: two '2101 Paris Road' addresses, the driver went to the wrong one. Checked 11/16: '2105 Paris Rd, New Orleans, LA 70129' lands on our marina in Google and Apple Maps. Typing 'Chalmette' still sends Apple users 3.5 miles south, so every mention needs 'New Orleans, LA 70129'. 2101 stays on insurance, utilities and legal paperwork.",
+      "due": "2026-11-21",
+      "mins": 10,
+      "plan": "Step 1 (you, 5 min): on your phone type '2105 Paris Rd' as a destination in Uber and in Lyft, screenshot where the pin lands, and send both here. Step 2: once both land at the marina, David's Claude lists every customer spot showing 2101 (FareHarbor confirmations, Google listing, website, Nolan the chat bot, Admire swamp-tour site) with old and new text, David OKs, then it gets changed. Changing the Google listing street can trigger a re-verify, so that one goes last.",
+      "options": [
+        "Uber + Lyft both land at the marina",
+        "One lands wrong (screenshot sent)",
+        "Do it with me Thursday"
+      ],
+      "status": "open"
+    },
+    {
+      "id": "site-v2-live",
+      "area": "Website",
+      "title": "PRIORITY: get the new website live",
+      "why": "Your v2 site (Nov 10) is done and sitting unpublished. The live WordPress site still says Party Queen holds 22 (it's 26), shows the old address, and Nolan the bot reads it. Getting v2 live fixes all of that at once and puts all-in prices and the opt-in on the page.",
+      "due": "2026-11-21",
+      "mins": 30,
+      "plan": "Work it together at Thursday's build session: (1) push the code to GitHub (was your 'site-push' card), (2) David picks the host, static Cloudflare (Claude's pick: fast, free, no plugins) or rebuild in WordPress, (3) confirm Pontoon $371 and Eco Tour length and kids price, (4) put '2105 Paris Rd, New Orleans, LA 70129' plus a tap-to-open Google Maps and Apple Maps link in the footer and booking section, (5) Claude checks every FareHarbor link has ref= and the prices match FareHarbor before it goes live.",
+      "options": [
+        "Thursday session works",
+        "Pushed to GitHub already",
+        "Need help pushing the code"
+      ],
+      "status": "open"
+    },
     {
       "id": "creator-dms",
       "area": "Marketing",
@@ -166,20 +196,6 @@
       ],
       "status": "open",
       "mins": 1
-    },
-    {
-      "id": "site-push",
-      "area": "Website",
-      "title": "Push the new website code to GitHub",
-      "why": "github.com/NolaPartyBarge/newwebsite is still empty, so David's Claude can't review it.",
-      "due": "2026-11-14",
-      "plan": "Ask your Claude: 'push ~/Projects/npb-site to the NolaPartyBarge/newwebsite repo on main'. Tap below when it's up.",
-      "options": [
-        "Pushed",
-        "Stuck, help me"
-      ],
-      "status": "open",
-      "mins": 5
     },
     {
       "id": "clutch-truck",

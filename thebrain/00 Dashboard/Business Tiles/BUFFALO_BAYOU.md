@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "0 booked Sun; 14% of goal"
-updated: 2026-11-16
+alert: "13% of goal"
+updated: 2026-11-17
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,7 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $644/wk booked vs $4,500 target — 14% of goal.** PMax Local is the working campaign: $70.82 for 2.5 conv (ROAS 2.84).
+- **Goal pace: $579/wk booked vs $4,500 target — 13% of goal.** 0 booked Mon.
+- BBK PMax $78.81 for 2.5 conv and Generic Local $30.01 for 1 conv (7d) are the working Texas campaigns.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -37,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 16. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 17. Read-only.*
 
 | Account | Balance |
 |---|---|
