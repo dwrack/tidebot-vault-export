@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-16 16:10 | 25 new messages moved 5 threads: T0088, T0090, T0019, T0034, T0207
 - 2026-11-16 14:10 | 5 new messages moved 2 threads: T0205, T0206
 - 2026-11-16 12:10 | 7 new messages moved 3 threads: T0203, T0019, T0204
 - 2026-11-16 10:10 | David ticked T0197 Possible buyer approach for Austin kayak operators (Rachel Foster)

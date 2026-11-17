@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-16 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-16 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -61,6 +61,8 @@ _nothing_
   → David top up the Google AI Studio prepaid credits so TideBot can process guide logs again; until then logs like Michelle Healey's Nov 14 log need manual reading. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
 - [ ] Loop health: 15 of 147 scheduled jobs failing, including Comms Radar Send and Command Center #id:T0200
   → David or Claude check the failing jobs on mbp-2, starting with Comms Radar Send (last ran Oct 30), Command Center (Oct 31), Cc V2, Google Ads Optimizer (exit 1) and Docuseal 8442 Watch (Oct 26). (David; Gmail dwrack81@ (DJL Daily); touched 2026-11-16)
+- [ ] TideBot written log processing failing, Gemini prepay credits depleted #NKST #id:T0207
+  → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; until then logs like Stephanie's Nov 16 post need manual processing. (David; Slack #the-helm; touched 2026-11-16)
 
 ## Waiting on someone
 
@@ -117,7 +119,7 @@ _nothing_
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guide posts the written Pre-Tour/Post-Tour logs for the Nov 16 9:00 AM Manchac Swamp Wildlife Kayak Tour (3 guests), the Nov 14 11:30 AM tour (6 guests) and the Nov 13 1:30 PM tour (10 guests). (NKST guide; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-16)
+  → NKST guide posts the written Pre-Tour/Post-Tour logs for the Nov 14 11:30 AM tour (6 guests) and the Nov 13 1:30 PM tour (10 guests); the Nov 16 log is now posted. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-16)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -245,8 +247,6 @@ _nothing_
   → Reply to the texter with Nov 7/8 afternoon or evening availability and pricing for 12-14 people; NPB team to handle, as the lead landed in the Bike Bar inbox. (NPB team; touched 2026-11-06)
 - [ ] AKT hosted kayak tour collab offer from travel creator Dylan Goodrich, Nov 24 #AKT #id:T0033
   → AKT staff reply to Sofie by email (she wants to keep it out of phone calls) with available times around Tue Nov 24 and what they need from Dylan and Alex for the free skyline tour for two. (AKT staff; Gmail austinkayaktours@; touched 2026-11-06)
-- [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
-  → NPB or Bike Bar team reply to Tadasay Robinson on whether a 17-year-old can join a private Bike Bar rental for a party of 12, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-06)
 - [ ] Cold funding offers (Arc Advances, Josh Rollins) to Cave Point and DCKT #Cave-Point #DCKT #id:T0091
   → Ignore both; same pattern as the other funding solicitations, send no financial documents. (David; Gmail cavepointpp@, Gmail doorcountykayaking@; touched 2026-11-06)
 - [ ] Blink cameras offline: boat, workshop, gas station, palapas, floodlight #id:T0092
@@ -365,10 +365,6 @@ _nothing_
   → HPB staff do not click the Verification Center link; check the real page status inside Meta Business Suite and delete or report the emails. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-14)
 - [ ] Text lead: is the tiki boat dog friendly #NOLA-Bike-Bar #NPB #id:T0186
   → NPB or Bike Bar team reply to the texter on whether the tiki boat is dog friendly. (NPB or Bike Bar team; Gmail nolabikebars@; touched 2026-11-14)
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager fix the missing trailer handle and confirm with the contractor how guides get the trailer into the lot; Michelle Healey reported the same issues again on the Nov 14 log, and the grey Transit's oil change light came on. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Confirm the Hidden Adventure Instagram login is holding, since the engage bot ran on Nov 15 and logged 1 like; Admire NOLA Instagram and Hidden Adventure Threads logins still need checking on mbp-2. (David; Slack #helm-admire; touched 2026-11-15)
 - [ ] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
   → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
 - [ ] Fake Meta violation warning to NPB page with Google Forms link #NPB #id:T0190
@@ -383,6 +379,12 @@ _nothing_
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; Mujahid Khan followed up again asking whether to narrow the Cave Point/shipwreck feature to two outlets and quote costs, which points to a paid placement pitch. (David; Gmail doorcountykayaking@; touched 2026-11-16)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → NKST manager clear the construction debris from the trailer lot, fix the missing trailer handle, and confirm with the contractor how guides get the trailer in; rain makes the lot muddy and close to the grassy area that traps vans. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-16)
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to the Hidden Adventure Threads account on mbp-2 (Screen Sharing, hat Chrome profile); the bot is paused 24h. Admire NOLA Instagram login still needs checking too. (David; Slack #helm-admire; touched 2026-11-16)
+- [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
+  → NPB or Bike Bar team reply to Tadasay Robinson: can a 17-year-old attend a full Bike Bar buyout for a 21st birthday, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-16)
 - [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
 - [ ] HPB random drug test authorization for Dustin Gause, Maritime Consortium #HPB #id:T0201
