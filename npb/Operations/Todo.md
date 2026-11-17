@@ -1,6 +1,7 @@
 # NOLA Party Barge — Todo List
 
 ## Google Ads + site asks from Michael's 11/2 note (added 2026-11-16)
+- [ ] 2026-11-16: OK the bachelorette search fixes: homepage title gets 'bachelorette' and 'private boat charter'; after the new page is live, link to it from the luxury bachelorette post, the itinerary post, /boat-rental/ and both tiki pages. See [[NPB — Who's On What]].
 - [ ] Name the payer of record for the Google Ads funding source check, then Michael completes it (unverified, last known open 11/2) ([[NPB — Who's On What]]) | **Owner: David**
 - [ ] Say go on renaming the two Nola-Pedal-Barge Google campaigns | **Owner: David, then Claude**
 - [ ] Local campaign: set a target ROAS or leave uncapped ($10/day since 11/9, 1.7x last 14 days as of 11/16) | **Owner: David + Michael**

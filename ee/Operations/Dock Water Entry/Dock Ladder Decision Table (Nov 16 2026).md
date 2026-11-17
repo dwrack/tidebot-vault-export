@@ -35,7 +35,7 @@ Prices checked 2026-11-16 unless marked. "Unverified" means the page couldn't be
 | Out of the water | Pivots 180 deg on its brackets, no spring | Lifts off a mounting bracket; 2 people | Lift-off pins (our design) | Flip-up hinge | Lifts off in seconds | Flip-up |
 | Weight | Unverified | 61 lb | Target under 60 lb | Light (plastic) | Light | Unverified |
 | Hinge risk | Low-medium (bracket pivot) | None | None if lift-off | Medium; a reviewer found non-stainless hinge hardware | None | Medium |
-| Price each | ~$793 (11/4, not re-read today) | $2,229 (32 in) / $2,477 (36 in) | Estimate $2,500-5,000 for the first one, unsourced; less for #2 and #3 | ~$415 (11/4) | $369.99 | $399 (Davey) |
+| Price each | ~$793 (11/4, not re-read today) | $2,898 (32 in) / $3,220 (36 in) on recheck 11/16 (first read $2,229 / $2,477; confirm by phone) | Estimate $2,500-5,000 for the first one, unsourced; less for #2 and #3 | ~$415 (11/4) | $369.99 | $399 (Davey) |
 | Lead time | Unverified | Call | 3-8 weeks, estimate | Stock | Stock | Stock |
 | Look | Clean, comes in black | Industrial | Best; matches V2 | Plastic, grey | Basic | Basic |
 | Catch | Hardware not included; it's a pivot, which Davey is wary of | Built as a shore stair; floating-dock bracket and rail height need a call | No real quotes yet; shop must know marine loads | Vertical, fails point 1 | Vertical, small treads | Vertical, fails point 1 |
@@ -65,11 +65,11 @@ Spec to hand a welder: 6061 aluminum, 45 deg, 5 steps, 24 in+ wide x 8-11 in dee
 
 ## Recommendation
 
-**Updated 11/16 after Davey's second reply in the #maintenance thread:** "the first two are decent, but if you take a closer look, the main handle is buckling and did so within a month of use. it doesn't stand up to commercial use and i would hesitant to order more of them." It's a reply to Alex's "I like the first two" in the same thread. On the 11/4 list the first two are Wet Steps and Techstar. Which ladder on our dock is the buckling one is NOT confirmed. Davey to confirm.
+**Updated 11/16 (corrected):** Davey's "main handle is buckling... within a month" is about the ladders already bought for the sauna boat, not the Wet Steps 5 (Davey, 11/16). So Wet Steps is NOT ruled out. The lesson still stands: whatever we buy has to hold up to commercial use, so check handrail tube size, welded vs bolted rails, and rating. Model of the sauna boat ladders: not on file.
 
 New pick: **get quotes on a commercial-grade angled stair that lifts out, two routes in parallel:**
 1. Custom from a marine welder (Accurweld or Steve's Marine) to the spec above, with heavier handrails (1.5 in schedule 40 pipe, welded, not bolted) and a 500 lb+ rating. Build one, test it for a month, then order the rest.
-2. Platforms & Ladders 5-step removable stair, $2,229. Call 888-802-3651 to ask about the rating, a floating-dock bracket, and taller rails.
+2. Platforms & Ladders 5-step removable stair, $2,898 (32 in, recheck 11/16; first read $2,229). Call 888-802-3651 to ask about the rating, a floating-dock bracket, and taller rails.
 
 Until then, keep the current ladders in service and through-bolted (Alex did this 11/5).
 
@@ -77,3 +77,5 @@ Until then, keep the current ladders in service and through-bolted (Alex did thi
 1. 2 or 3 ladders (does the private sauna space get one now)? Davey asked the team 11/16 in #maintenance; Jonah hasn't answered.
 2. Lift-off only, or is a plain pivot OK? (Davey leans lift-off; Jonah said 11/4 non-folding ladders get gross if they can't come up.)
 3. Alex: bolt pattern into the float frame.
+
+Full market scan of 30 ladders: [[Dock Ladder Market Scan, 30 Options (Nov 16 2026)]]
