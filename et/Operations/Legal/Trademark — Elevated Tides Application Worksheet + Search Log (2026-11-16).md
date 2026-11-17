@@ -6,7 +6,7 @@ Prepared 2026-11-16. Status: NOT filed. No USPTO account created, nothing signed
 
 1. **Signer.** The operating agreement on file (effective 2025-01-28, section 4.1) says Elevated Tides LLC is manager-managed with one Manager: Jonah Moses. Section 4.4 gives the Managers the authority to sign for the company. Jonah also signed the Oct 2026 settlement term sheet as Manager of both LLCs. On that paper David is a member, not a manager, so he cannot bind the LLC alone. Either Jonah signs the declaration, or Jonah gives David a short written authorization to file and sign. An amended operating agreement was in drafting after the Dustin exit; if it is signed and makes David a manager, this changes. Unverified either way.
 2. **Dustin exit.** Unverified. Last known: binding term sheet signed 2026-10-02/03, closing waiting on final documents and the Columbia Way West consent. The term sheet has broad mutual releases but no clause about the name. Seaworthy's units transfer only on payment of the $125,000. Why it matters: a trademark filing is not on the operating agreement's list of matters needing member consent (section 4.5), so Class 39 is ordinary Manager business. The three intent-to-use classes (lodging, spa, apparel) could be argued as "a change in the nature of the Company's business" (4.5(v)), which needs more than 75% of units. With Seaworthy still holding 350 of 1,000, Jonah and David together have 650, which is short. Once the exit closes they hold everything. So an open exit puts a question mark on classes 43, 44 and 25 only.
-3. **First-use dates for Class 39.** Not in the vault. Needed: the date the marina first did business as Elevated Tides (first slip agreement, invoice or Dockwa listing under the name). See the open items at the bottom.
+3. **First-use date for Class 39.** Evidence points to February 2025, with one caveat. See "First-use evidence" below. Enter "at least as early as 02/28/2025" once the sent tenant announcement is in hand; until then the fallback is 03/31/2025.
 
 ## Filing system and cost (checked on uspto.gov 2026-11-16)
 
@@ -71,6 +71,27 @@ Prepared 2026-11-16. Status: NOT filed. No USPTO account created, nothing signed
 - Kayak rentals: confirm they are really being rented under this name today. If not, move "Rental of boats" and "Rental of kayaks" out of the use claim.
 - `www.elevatedtides.com` fails with a certificate error; only the bare domain loads. Use the bare domain on the specimen. Worth fixing for the site anyway.
 
+## First-use evidence (personal Gmail, domain record and web archive, checked 2026-11-16)
+
+| Date | Record | What it shows |
+|---|---|---|
+| 2025-01-18 | Domain registration, elevatedtides.com (NameCheap) | Name chosen. Not use |
+| 2025-01-28/29 | Operating agreement signed (DocuSign, FWW Law) | LLC formed. Not use |
+| 2025-01-31 | Email "Welcome to Elevated Tides" from office@elevatedtides.com to the three members | Purchase closing ("everything should be recorded tomorrow"). Lists "marina name change timing" as a future item |
+| 2025-02-05 | Email "Introduceing Elevated Tides to CWW Tenants", draft for review | "We are Elevated Tides, LLC, the new owners and operators of Columbia Way West Moorage", contact office@elevatedtides.com. "Hoping to get this out by the end of the week." David approved 02-07 |
+| 2025-02-17 | Email "DRAFT: Next announcement" | Thanks tenants for feedback on the ownership transfer, which means the first announcement had already gone out. Again signs off with office@elevatedtides.com |
+| 2025-04-29 | Manager's email "CWW Rent Increases" | The marina itself was still called CWW |
+| 2026-01-20 | Insurer's email "Elevated Tides Marina - Insurance Recap" | Earliest record in this mailbox of the marina carrying the name |
+| 2026-02-12 | Web archive capture of elevatedtides.com | Earliest archived copy of the live site. Only two captures exist; none from 2025 |
+
+Reading it honestly:
+- February 2025 is when paying moorage tenants were first told that Elevated Tides runs their marina and were given an Elevated Tides contact. That is use of the name with marina services, to real customers, while the services were being provided. It supports a February 2025 date.
+- The caveat: for most of 2025 the marina's own name was still Columbia Way West, and Elevated Tides was the owner's name. The date the marina itself was rebranded is later, somewhere between May 2025 and January 2026, and this mailbox does not show it.
+- A first-use date that turns out too early does not sink an application as long as the mark was truly in use before the filing date, which it clearly is today. The date still goes in a sworn declaration, so claim only what a document backs.
+- Missing piece: the announcement as actually sent to tenants (date, recipients, final text). It lives in the office@elevatedtides.com sent mail, between 2025-02-07 and 2025-02-17. This mailbox has only the drafts.
+
+Side finding for Class 44: the sauna traded as "Elevated Tides Floating Sauna" (sauna@elevatedtides.com) until the soft open on 2025-11-07, when it was renamed Ebb & Ember. It no longer uses the name, so 44 stays intent-to-use.
+
 ## Intent-to-use classes: what backs the intent
 
 The declaration says the LLC has a real plan to use the mark for each item. Evidence in the vault: floating cabins, coffee bar and wellness studio are in the brand roadmap and the Sept 2026 website build plan; marina hats and tees are ordinary merch. Sauna today trades as Ebb & Ember, so 44 stays intent-to-use. If a class has no real plan within about three years, cut it.
@@ -114,7 +135,7 @@ Outside the federal register:
 
 1. Jonah: signer or written authorization (see top).
 2. Confirm the Dustin exit closed.
-3. First-use dates: first use anywhere and first use in commerce for Class 39.
+3. First-use date: get the tenant announcement as sent (office@elevatedtides.com sent mail, 2025-02-07 to 02-17). With it, claim 02/28/2025. Also find the date the marina itself took the name, for the file.
 4. Confirm which LLC is on slip agreements and Dockwa payouts.
 5. Confirm kayak rentals are live under the name.
 6. The filer creates and ID.me-verifies their own USPTO.gov account.
