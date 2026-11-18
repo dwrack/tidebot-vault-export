@@ -4,7 +4,8 @@ The one input for the morning decision tap. The 5:45am PT `com.djl.chief-of-staf
 
 **Add a decision:** append a row. `id` is the next D-number, `day` is the first morning it may appear, `kind` is one of physical / money / people / digital, `options` are separated by ` ; ` with the recommended option first. Leave `shown` at 0 and `answer` blank.
 **Answer one:** click the option on the Morning Digest tab of the DJL Command Center window, or put the option letter in `answer` (a, b, c), and the row stops appearing. Replying to the Slack DM with "D1a" works too; the next desktop session copies it here. The 5:45am run acts on answered rows and sets them to `applied`.
-**Statuses:** open, answered, applied, defaulted, dropped.
+**Statuses:** open, answered, applied, defaulted, dropped, waiting (on someone else; not shown).
+**Typed answers count (2026-11-18):** any `Decision Dn: ... | your words` line in Command Center Notes closes the row within 5 min (`decision-queue.py sync`, run by needs_you.py). No more re-asking.
 
 | id | day | kind | decision | options (rec first) | default if skipped twice | shown | answer | status |
 |---|---|---|---|---|---|---|---|---|
@@ -14,9 +15,9 @@ The one input for the morning decision tap. The 5:45am PT `com.djl.chief-of-staf
 | D6 | 2026-11-02 | money | HPB June 6 refund, $927 (policy backs it) | (a) refund in full ; (b) partial credit ; (c) deny per policy | none | 8 |  | dropped |
 | D5 | 2026-11-02 | money | BBK Meta awareness + HPB Followers Reboost: pause (~$990/mo, 0 purchases) | (a) pause both ; (b) pause BBK only ; (c) keep running | none | 8 |  | dropped |
 | D7 | 2026-11-02 | people | NKST lead guide: Stephanie vs Michelle | (a) Stephanie (8 tours, 5 review mentions) ; (b) Michelle ; (c) co-leads | Stephanie | 1 | no one (david 11/2: no lead guide) | dropped |
-| D4 | 2026-11-03 | money | Better Loans $190k | (a) take it ; (b) counter on terms ; (c) pass | none | 15 |  | open |
+| D4 | 2026-11-03 | money | Better Loans $190k | (a) take it ; (b) counter on terms ; (c) pass | none | 15 | c | applied |
 | D8 | 2026-11-05 | digital | NKST: close the 2:00 PM Manchac tour Monday to Thursday through February. 4 guests in 13 runs since Oct 15, and Tue and Wed sold zero. Only dates with no bookings get closed | (a) close Mon to Thu 2 PM ; (b) close Tue and Wed only ; (c) keep it daily | none | 7 |  | open |
 | D9 | 2026-11-05 | digital | NKST: run the 9:30 AM Extended Manchac Friday to Sunday only through February. 9 guests in 13 weekday runs, 10 ran empty, and it pulls guests off the 9:00 AM tour next to it. Only dates with no bookings get closed | (a) Fri to Sun only ; (b) Fri and Sat only ; (c) keep it daily | none | 0 |  | open |
-| D10 | 2026-11-05 | digital | NKST: run the Whitney Plantation combo Saturday and Sunday only, and remove the duplicate 8:30 AM slot. 1 guest in 8 weekday runs, 21 of its 27 guests came on Sundays, and the 8:30 sold zero. Only dates with no bookings get closed | (a) Sat and Sun only, drop 8:30 ; (b) only drop the 8:30 ; (c) keep as is | none | 7 |  | open |
+| D10 | 2026-11-05 | digital | NKST: run the Whitney Plantation combo Saturday and Sunday only, and remove the duplicate 8:30 AM slot. 1 guest in 8 weekday runs, 21 of its 27 guests came on Sundays, and the 8:30 sold zero. Only dates with no bookings get closed | (a) Sat and Sun only, drop 8:30 ; (b) only drop the 8:30 ; (c) keep as is | none | 7 | note | waiting |
 | D11 | 2026-11-07 | digital | NKST email capture + drip funnel (your 11/5 window note). Nothing is live on NKST: the April lead-magnet form died with GHL, the Funnel Lab quiz/popup is still drafts. Fastest path is cloning the NPB newsletter funnel (live since 10/22, code-free) onto the NKST site. The 3 WIP slots are full through Nov 15 | (a) start now, swap it in for DCKT Astro on Sunday (Astro is on hold anyway) ; (b) queue it, start Nov 16 ; (c) skip it | queue it, start Nov 16 | 0 |  | open |
 | D12 | 2026-11-16 | digital | DCKT Astro swap: go / no-go (you said 11/10: wait till next week) | (a) hold another week ; (b) go, cutover this week ; (c) drop the swap | hold another week | 0 |  | open |
