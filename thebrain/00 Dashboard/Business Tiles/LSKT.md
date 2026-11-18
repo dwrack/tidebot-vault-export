@@ -5,10 +5,10 @@ city: Austin
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 9
+ad_spend_yday: 31
 status: yellow
-alert: "37% of goal; PMax ROAS 0.58"
-updated: 2026-11-17
+alert: "37% of goal; PMax ROAS 0.57"
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,049/wk booked vs $5,500 target — 37% of goal.** Down from 40%; 0 booked Mon.
-- PMax Local $186.98 for 1 conv (ROAS 0.58, 7d). Meta Winter Retargeting $9.49 Mon, frequency 4.0 on 214 people.
+- **Goal pace: $2,049/wk booked vs $5,500 target — 37% of goal.** Flat; 0 booked Tue.
+- PMax Local $189.75 for 1 conv (ROAS 0.57, 7d). Meta Winter Retargeting $25.11 over 7d, 0 purchases.
 <!-- live:end -->
 
 <!-- maps:start -->

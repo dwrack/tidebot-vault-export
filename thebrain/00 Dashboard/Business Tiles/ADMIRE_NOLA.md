@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-17
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: build_on_ranking_plantation_terms
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_on_ranking_plantation_terms. Last known: no movement since 2026-08-28 (not verified this run).**
-- No new reviews; GSC not pulled this run.
+- **Goal: build_on_ranking_plantation_terms. No movement since 2026-08-28** (not verified this run).
+- Plantation terms still ranking: "new orleans plantation tour" pos 1.5, "swamp and plantation tour new orleans" pos 1.6. IG dark since 9/29.
 <!-- live:end -->
 
 <!-- maps:start -->

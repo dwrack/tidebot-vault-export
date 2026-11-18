@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "IG dormant since 2025-06-19"
-updated: 2026-11-17
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: route_fix_by_oct_15
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: route_fix_by_oct_15. Last known: no movement since 2026-08-28 (not verified this run).**
-- No new reviews; Google/Meta $0 (season closed).
+- **Goal: route_fix_by_oct_15. No movement since 2026-08-28** (not verified this run).
+- All reviews replied; season closed. IG last post 2025-06-19 (checker confirmed).
 <!-- live:end -->
 
 <!-- maps:start -->

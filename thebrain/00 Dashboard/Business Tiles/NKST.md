@@ -3,12 +3,12 @@ business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
 bookings_today: 4
-revenue_today: 740
+revenue_today: 1360
 lead_time_days: 0
-ad_spend_yday: 57
+ad_spend_yday: 54
 status: yellow
-alert: "Google generic $419/7d at 0 conv"
-updated: 2026-11-17
+alert: "Google Kayak search $406/7d at 0 conv"
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,9 +18,9 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $4,050/wk booked vs $4,000 target — 101% of goal.** Up from 92%; Mon booked 4 / $740.
-- **Google search:** Generic Local $206.08 + National $212.96 = $419.04 over 7d at 0 conv, both enabled (checker confirmed). Michael's lane.
-- **Reviews:** 3★ Jeanette Quirk (11/13) day 4 plus 5 open 5★. GA4 11/16 polluted by t.co referral spam (1,770 sessions).
+- **Goal pace: $4,190/wk booked vs $4,000 target — 105% of goal.** Up from 101%; Tue booked 4 / $1,360.
+- **Google search:** Kayak National $215.30 + Local $191.04 = $406.34 over 7d at 0 conv, both enabled (checker confirmed). Michael's lane.
+- **Reviews:** 3★ Jeanette Quirk day 5 plus 6 open 5★ (new: Carla Tarenzi, Stephanie). Brand term "new orleans kayak swamp tours" at pos 20.7. GA4 conversions inflated by lp_micros___3__pages micro-goal.
 <!-- live:end -->
 
 <!-- maps:start -->

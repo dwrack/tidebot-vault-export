@@ -5,10 +5,10 @@ city: Houston
 bookings_today: 0
 revenue_today: 0
 lead_time_days: 0
-ad_spend_yday: 0
+ad_spend_yday: 33
 status: yellow
 alert: "13% of goal"
-updated: 2026-11-17
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $579/wk booked vs $4,500 target — 13% of goal.** 0 booked Mon.
-- BBK PMax $78.81 for 2.5 conv and Generic Local $30.01 for 1 conv (7d) are the working Texas campaigns.
+- **Goal pace: $579/wk booked vs $4,500 target — 13% of goal.** 0 booked Tue.
+- BBK PMax $67.05 for 2.51 conv ($200.87) and Generic Local $38.45 for 1 conv (7d) are the working Texas campaigns. IG reel 11/17.
 <!-- live:end -->
 
 <!-- maps:start -->

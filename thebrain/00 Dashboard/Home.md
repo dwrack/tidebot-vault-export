@@ -1,33 +1,33 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-11-17 (Tuesday). NKST + NPB Holiday Google search $631.73 a week at 0 conversions (day 5), NPB pace 51%, NPB 2★ day 9 plus 12 open 5★, NKST 3★ day 4, HPB 9% of goal, E&E review from 'Jonah Kest' to check.*
+*Last refresh: 2026-11-18 (Wednesday). NPB Meta Gator Collision ROAS 0.16 over 7d ($1,098 for $180), NKST + NPB Holiday Google $621.50 at 0 conversions (day 6), NPB pace 40%, NPB 2★ day 10, NKST 3★ day 5, HPB 9% of goal.*
 
 ## Right now
 - [Today's decisions + digest (DJL Morning Digest)](https://claude.ai/artifact/QbPUmAfxBpB7WUffSGbFSn)
-- [[Daily Briefings/2026-11-16|Today's brief]]
+- [[Daily Briefings/2026-11-18|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NKST + NPB** (Michael's lane): pause NKST Generic Local + National and NPB Holiday Party & Groups, $631.73 over 7 days at 0 conversions (day 5); move budget to NPB National (8 conv on $446). Yesterday the NOLA Google account spent $196.90 for 0.
-2. **NOLA Party Barge**: reply to the 2★ JP Trigo (day 9) plus 12 open 5★. Drafts in today's brief.
-3. **NOLA Party Barge**: pace $15,370 vs $30,000 (51%); booked 1 / $203 yesterday after 1 / $180 Sunday. Meta 7d ROAS 1.44.
+1. **NOLA Party Barge** (Meta): pause or cut Gator Collision to $30/day. $136.06 yesterday for 0 purchases; $1,097.95 over 7 days for 3 purchases worth $179.64 (ROAS 0.16). Retargeting returned 6.0 on $137.98; move the money there.
+2. **NKST + NPB** (Michael's lane): pause NKST Kayak National + Local and NPB Holiday Party & Groups, $621.50 over 7 days at 0 conversions (day 6); move budget to NPB National (8 conv on $390).
+3. **NOLA Party Barge**: reply to the 2★ JP Trigo (day 10) plus 12 open 5★. Pace $12,110 vs $30,000 (40%). Drafts in today's brief.
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (Mon 11/16) | 7-day avg (11/10 to 11/16) | Δ |
+| Signal | Yesterday (Tue 11/17) | 7-day avg (11/11 to 11/17) | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox, 50 max) | 10 | 18 (prior brief) | -8 |
-| Unreplied GBP reviews (all biz) | 23 (NPB 13, NKST 6, E&E 3, AKT 1) | 15 (prior brief) | +8 |
-| FH bookings (6 FH brands) | 5 | 12.3 | -7.3 |
-| FH booked revenue (6 FH brands) | $943 | $3,229 | -$2,286 |
-| Total ad spend (G+M) | $426.78 | ~$507 | -$80 |
-| Total ad-attributed conversions | 0 (G 0, M 0 purchases) | 3.8 | -3.8 |
+| Gmail unread (main inbox, 50 max) | 21 | 10 (prior brief) | +11 |
+| Unreplied GBP reviews (all biz) | 24 (NPB 13, NKST 7, E&E 3, AKT 1) | 23 (prior brief) | +1 |
+| FH bookings (6 FH brands) | 7 | 10.6 | -3.6 |
+| FH booked revenue (6 FH brands) | $2,071 | $2,783 | -$712 |
+| Total ad spend (G+M) | $386.75 | $482.62 | -$95.87 |
+| Total ad-attributed conversions | 1 (G 0, M 1 purchase) | 3.4 | -2.4 |
 <!-- pulse:end -->
-*Goal pace 11/9 to 11/15: NPB 55% ($16,419 of $30,000), NKST 92%, Lone Star 40%, Buffalo Bayou 14%, HPB 9%, DCKT 3% (closed).*
+*Goal pace 11/11 to 11/17: NPB 40% ($12,110 of $30,000), NKST 105%, Lone Star 37%, Buffalo Bayou 13%, HPB 9%, DCKT 3% (closed).*
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-11-17]] (today)
-- [[Daily Briefings/2026-11-16]] (1 day ago)
-- [[Daily Briefings/2026-11-15]] (2 days ago)
-- [[Daily Briefings/2026-11-14]] (3 days ago)
-- [[Daily Briefings/2026-11-13]] (4 days ago)
-- [[Daily Briefings/2026-11-12]] (5 days ago)
-- [[Daily Briefings/2026-11-11]] (6 days ago)
+- [[Daily Briefings/2026-11-18]] (today)
+- [[Daily Briefings/2026-11-17]] (1 day ago)
+- [[Daily Briefings/2026-11-16]] (2 days ago)
+- [[Daily Briefings/2026-11-15]] (3 days ago)
+- [[Daily Briefings/2026-11-14]] (4 days ago)
+- [[Daily Briefings/2026-11-13]] (5 days ago)
+- [[Daily Briefings/2026-11-12]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "IG no 2026 posts; no GBP"
-updated: 2026-11-17
+alert: "IG dark since 2025-11-14; no GBP"
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: build_gbp_by_sept_30
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: build_gbp_by_sept_30. Last known: no movement since 2026-08-28 (not verified this run).**
-- No GBP location; IG link fix on your dashboard (due 11/17).
+- **Goal: build_gbp_by_sept_30. No movement since 2026-08-28** (still no GBP location in the roster).
+- IG last post 2025-11-14 (checker confirmed). IG link fix on your dashboard.
 <!-- live:end -->
 
 <!-- finance:start -->

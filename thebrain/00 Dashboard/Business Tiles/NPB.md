@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 1
-revenue_today: 203
+bookings_today: 3
+revenue_today: 711
 lead_time_days: 0
-ad_spend_yday: 152
+ad_spend_yday: 260
 status: yellow
-alert: "pace 51% of $30k; 2★ day 9"
-updated: 2026-11-17
+alert: "pace 40% of $30k; Meta Gator ROAS 0.16"
+updated: 2026-11-18
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,9 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $15,370/wk booked vs $30,000 target — 51% of goal.** Down from 55%; booked 1 / $203 Mon after 1 / $180 Sun.
-- **Google:** National search 8 conv on $446.08 (7d); "Holiday Party & Groups" $212.69 at 0 conv, still enabled. Michael's lane.
-- **Meta 7d:** $1,407.93, 10 purchases, ROAS 1.44. **Reviews:** 2★ JP Trigo day 9 plus 12 open 5★.
+- **Goal pace: $12,110/wk booked vs $30,000 target — 40% of goal.** Down from 51%; booked 3 / $711 Tue.
+- **Meta:** Gator Collision $1,097.95 over 7d for 3 purchases / $179.64 (ROAS 0.16), $136.06 Tue at 0. Retargeting ROAS 6.0 on $137.98. Pause or cut Gator.
+- **Google:** Pedal-Barge National 8 conv on $390.07 (7d); Holiday Party & Groups $215.16 at 0 conv, still enabled. Michael's lane.
+- **Reviews:** 2★ JP Trigo day 10 plus 12 open 5★. 11/1 3★ was replied 11/3. IG posted again 11/17.
 <!-- live:end -->
 
 <!-- maps:start -->
