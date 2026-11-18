@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-16 17:33 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-17 16:12 PT.
 
-Counts: people 14, vendors 123, projects 6, money 511, promises 42, asks 74, dates 950
+Counts: people 14, vendors 132, projects 6, money 531, promises 42, asks 75, dates 992
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -68,19 +68,10 @@ Counts: people 14, vendors 123, projects 6, money 511, promises 42, asks 74, dat
 - 11/13 12:38 "sergei is on the gas line… $600~ labor nothing confirmed on start date, but ill ask him in a bit about that." (#founders)
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-16 +13176706202: "tonight"
-- 2026-11-16 Carmen Mantalas: "November 16"
-- 2026-11-16 Claude: "11/16"
-- 2026-11-16 Davey: "next week"
-- 2026-11-16 Davey: "today"
-- 2026-11-16 Ellen Malloway: "today"
-- 2026-11-16 Ellen Malloway (Travel Portland Partnership Help): "ASAP"
-- 2026-11-16 Ellen Malloway (Travel Portland Partnership Help): "Nov 16"
-- 2026-11-16 Ellen Malloway (Travel Portland Partnership Help): "today"
-- 2026-11-16 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 16"
-- 2026-11-16 Jonah: "11/16"
-- 2026-11-16 Jonah: "today"
 - 2026-11-17 Alex: "tomorrow"
+- 2026-11-17 Claude: "11/17"
+- 2026-11-17 Claude: "today"
+- 2026-11-17 Contact Periode: "Today"
 - 2026-11-17 Davey: "Nov 17"
 - 2026-11-17 Davey: "November 17"
 - 2026-11-17 Davey: "nov 17"
@@ -92,7 +83,9 @@ Counts: people 14, vendors 123, projects 6, money 511, promises 42, asks 74, dat
 - 2026-11-17 Jonah: "11/17"
 - 2026-11-17 Liz Dewey: "tomorrow"
 - 2026-11-17 Office: "November 17"
+- 2026-11-17 PSP/Deck Expo: "Nov. 17"
 - 2026-11-17 PSP/Deck Expo: "November 17"
+- 2026-11-17 PSP/Deck Expo: "today"
 - 2026-11-17 Roxanne Pauig: "Nov 17"
 - 2026-11-17 sauna@ebbandember.com: "November 17"
 - 2026-11-18 Anna Nelson: "11/18"
@@ -100,6 +93,8 @@ Counts: people 14, vendors 123, projects 6, money 511, promises 42, asks 74, dat
 - 2026-11-18 Jonah: "11/18"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jordan Culberson: "Nov 19"
+- 2026-11-20 Alex: "this week"
+- 2026-11-20 Bandi Joel Abhishek: "this week"
 - 2026-11-20 Claude: "end of week"
 - 2026-11-20 Claude: "this week"
 - 2026-11-20 Davey: "Nov 20"
@@ -118,6 +113,7 @@ Counts: people 14, vendors 123, projects 6, money 511, promises 42, asks 74, dat
 - 2026-11-23 +12012306848: "Next week"
 - 2026-11-23 Anna Nelson: "11/23"
 - 2026-11-23 Claude: "11/23"
+- 2026-11-23 Claude: "next week"
 - 2026-11-23 Ebb & Ember: "NOV 23"
 - 2026-11-23 Ebb & Ember: "Nov 23"
 - 2026-11-23 Ebb & Ember: "November 23"
@@ -125,7 +121,10 @@ Counts: people 14, vendors 123, projects 6, money 511, promises 42, asks 74, dat
 - 2026-11-23 Jonah: "November 23"
 - 2026-11-23 Mack: "11/23"
 - 2026-11-23 Pool Spa Patio and Deck Expo: "next week"
+- 2026-11-23 Sergey: "next week"
 - 2026-11-23 sauna@ebbandember.com: "November 23"
+- 2026-11-24 Claude: "11/24"
+- 2026-11-24 Davey: "next tuesday"
 
 ## Silence over 5 days (Davey wrote last, no reply)
 - Mario (contractor): Davey last wrote 11/06 12:41, their last message 11/06 10:36

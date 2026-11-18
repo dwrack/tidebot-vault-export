@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-17 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-17 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -18,7 +18,7 @@ _nothing_
 - [ ] Kick off Cloudflare domain migration for all business domains #due:2026-11-16 #id:T0198
   → David open Claude in the TheBrain vault and say 'start the Cloudflare domain migration': phase 1 adds domains, verifies DNS (SES/Gmail DKIM, FareHarbor) and swaps nameservers; phase 2 is registrar transfers in batches. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
 - [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #due:2026-11-17 #id:T0043
-  → David contact Virgin Hotels New Orleans to add tonight's room to Michael's business account, which Michael authorized in his reply and said he emailed; also still tell Michael whether Jaq gets three days or two. (David; Gmail dwrack81@, Text with Michael Fischer; touched 2026-11-17)
+  → David tell Michael whether Jaq gets three days or two; Virgin room is done, David checked in Nov 17 and paid with the Ebb & Ember card. (David; Text with Michael Fischer; touched 2026-11-17)
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] Gravity Trails Autopayroll on hold, blocked before Nov 18 noon CST #due:2026-11-18 #id:T0211
@@ -119,13 +119,17 @@ _nothing_
   → Jeffrey Chitek answer David on who is invited to the party: staff, a +1 each, and anyone else. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-16)
 - [ ] Elevated Tides: Dustin's competing sauna building and deal timeline #waiting #id:T0212
   → Todd answers Jonah on the timeline for the notes, whether the HD Clinton and Macadam summary judgment motions are filed, and whether Dustin agreed to any of the 11/4 structure. (Todd; Gmail dwrack81@; touched 2026-11-17)
+- [ ] Elevated Tides buyout term sheet, Miller/Seaworthy interests and HD Clinton note #waiting #id:T0216
+  → Wait for Dustin's lawyer to confirm the 14 day buffer means the 14 day deadline to pay Macadam after initial closing, then execute the revised term sheet. (Dustin's lawyer; Gmail dwrack81@; touched 2026-11-17)
+- [ ] Jonah deal terms with Todd: HD Clinton motion, term sheet amount, Macadam payment #waiting #id:T0218
+  → Todd confirm whether Dustin's lawyer accepted $125,000 or $100,000, add the clawback line from 11/4, and give the exact date Dustin's 23 days run out on the motion. (Todd; Gmail dwrack81@; touched 2026-11-17)
 
 ## Open
 
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guide posts the written Pre-Tour/Post-Tour logs for the Nov 14 11:30 AM tour (6 guests) and the Nov 13 1:30 PM tour (10 guests); the Nov 16 log is now posted. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-16)
+  → NKST guide posts the written Pre-Tour/Post-Tour logs for the Nov 14 11:30 AM tour (6 guests), the Nov 13 1:30 PM tour (10 guests) and today's 11:30 AM tour (3 guests). (NKST guides; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-17)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -164,8 +168,6 @@ _nothing_
   → AKT staff reply to Faith Eherts right away on whether the 7am sunrise tour runs given the rain and lightning forecast, and whether she can move to the next available tour. (AKT staff; Gmail austinkayaktours@; touched 2026-11-15)
 - [ ] Airbnb Experiences insurance/license documents due Nov 16, NKST listings #NKST #due:2026-11-16 #id:T0027
   → NKST manager upload updated license and insurance documents to Airbnb's partner Evident for both listings (Plantation and Kayak Tour with Cajun food Stop, Paddle Through New Orleans' Beautiful Wetlands) before Nov 16, or the listings get paused and later bookings are cancelled. (NKST manager; Gmail nolakayaktours@; touched 2026-10-31)
-- [ ] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #id:T0057
-  → NKST manager or whoever pays insurance make the commercial auto renewal payment before Nov 16 (policy ending 4196). (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] OpenAI ChatGPT Ads outreach to NKST, 30 min call on David's calendar Nov 16 #NKST #due:2026-11-16 #id:T0162
   → David confirm whether he or staff booked the Nov 16 9am PST Calendly call with Mehmet Guzel; cancel it if not, since the invite came from an unknown sender and mentions only New Orleans Kayak Swamp Tours. (David; Gmail nolakayaktours@, Gmail dwrack81@; touched 2026-11-12)
 - [ ] GetYourGuide refund request, Houston Sunset Skyline Kayak Nov 11 flood cancellation, booking GYG2Q87263FV #AKT #LSKT #due:2026-11-16 #id:T0173
@@ -180,6 +182,8 @@ _nothing_
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
   → NKST manager find another guide for the Fri Nov 20 2pm tour and reassign it in FareHarbor. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
+- [ ] GetYourGuide guest asks how to add transportation, Manchac tour Nov 26 #NKST #due:2026-11-26 #id:T0220
+  → NKST staff reply to Catherine Zhang via GetYourGuide to confirm whether transportation was selected on her Nov 26 11:30 am booking and how to add it. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
@@ -235,8 +239,6 @@ _nothing_
   → HPB manager decide whether to answer Brendon Ford's request for a best offer on Boat Rentals Houston or ignore it. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-04)
 - [ ] GetYourGuide 1-2 star review, Houston Sunset Skyline Kayak Tour #AKT #LSKT #id:T0067
   → AKT/LSKT staff log in to GetYourGuide, read the review and reply publicly. (AKT/LSKT staff; Gmail austinkayaktours@; touched 2026-11-04)
-- [ ] AKT private group inquiry, 40-45 people, March 9-11, 2027, asks about two waves #AKT #id:T0070
-  → AKT staff reply to Nesi Junaid on whether a group of 40-45 works better as two launch waves and whether there is a per-wave minimum; Nesi will call to book once decided. (AKT staff; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Deckhand job description, training, and winter programming with Jeffrey #id:T0071
   → Jeffrey finishes the revised deckhand job description (entertainers and salespeople, commission and tips on upsells, camera-comfortable) and makes a promo video for the party pontune; David and Jeffrey keep tracking projects in the dashboard. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-04)
 - [ ] Loyola University asks for updated COI, last one expired 6/7/22 #NKST #id:T0073
@@ -363,8 +365,6 @@ _nothing_
   → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
 - [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
   → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
-- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
-  → David ask Claude to pull a report of which keywords are winning and who the competition is, since Michael declined to produce it and says the ads are dialed in. (David; Text with Michael Fischer; touched 2026-11-14)
 - [ ] Fake Facebook page verification emails to HPB, Google Forms link #HPB #id:T0184
   → HPB staff do not click the Verification Center link; check the real page status inside Meta Business Suite and delete or report the emails. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-14)
 - [ ] Text lead: is the tiki boat dog friendly #NOLA-Bike-Bar #NPB #id:T0186
@@ -401,10 +401,20 @@ _nothing_
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Clear Lake Marine Center invoice 20260937, balance now $5,503.50 #HPB #id:T0069
   → HPB manager confirm the invoice is legitimate and why the balance changed from $4,348.50 to $5,503.50 on a $12,593.00 total, then pay by ACH or check since a card adds 3%. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-17)
+- [ ] AKT private group inquiry, now Wed March 3, 2027, up to 60 people #AKT #id:T0070
+  → AKT staff reply to Nesi Junaid on whether a private afternoon outing on Wed March 3, 2027 works, which start times are open, and whether AKT can take up to 60 people; she is only checking availability for a 60-room hotel block. (Connor; Gmail austinkayaktours@; touched 2026-11-17)
+- [ ] Michael deep dive on why AdWords and Meta aren't working, wants landing pages and lead magnets #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0082
+  → David ask Claude to pull a report of which keywords are winning and who the competition is, and check what Michael's new ads are targeting. (David; Slack #helm-npb; touched 2026-11-17)
 - [ ] NKST vehicle pre/post trip photos missing, accident damage found #NKST #id:T0213
   → NKST guides do a pre and post trip photo or video walk-around of every vehicle, and whoever had the van when the visible damage happened tells Davey so he can report it to insurance. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-17)
 - [ ] NPB alcohol sales manager applicant Amanda Halverson #NPB #id:T0214
   → NPB manager review Amanda's resume and screening answers (score 13/16, has ATC permit, 3+ years, wants $35 an hour, can start Nov 25, flagged for a thin work history answer) and decide on an interview. (NPB manager; Slack #helm-npb, Gmail nolapedalbarge@; touched 2026-11-17)
+- [ ] Hiring captains, social media person and bar manager; replacing Sophia and crew #NPB #NOLA-Bike-Bar #id:T0215
+  → David keeps running the captain and bar-manager ads, screens the first bar applicant, and settles with Michael whether a captain can also do check-ins and backup captain duty. (David; Text with Michael Fischer, Text with Jeffrey Chitek; touched 2026-11-17)
+- [ ] Fake Meta page violation warning to NKST inbox (Google Form link) #NKST #id:T0217
+  → NKST staff do not click the Google Forms link or submit anything; check the page's real status in Meta Business Suite, and treat the email as phishing. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
+- [ ] INNOVATX Events group inquiry, Houston conference Sept 2027, BBK #BBK #id:T0219
+  → BBK manager reply to Allegra Zwaan with group size limits, per-person pricing and minimums, tour duration and inclusions for her preliminary proposal. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-17)
 
 ## Backburner (LSKT)
 
@@ -420,6 +430,7 @@ _nothing_
 - [x] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #done:2026-11-13 #id:T0170
   > David: do i need to respond? i read it and it looks good. hoping for some closure on this
   > Radar: Nothing in the messages shows a reply is owed from you. Jonah already sent Todd the fixes for the declaration, and Todd says the revised version is headed to your inbox. Bill Drew has not answered the proposal yet, so closure is still waiting on him.
+- [x] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #done:2026-11-17 #id:T0057
 - [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
   > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
   > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
