@@ -159,4 +159,6 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] Review the Storycore "Two Swamps" carousel ([[Marketing/Carousels - Staged/2026-11-10 - storycore-two-swamps/REVIEW|REVIEW]]) and confirm it's OK to name Common Ground Relief (added 2026-11-10)
 - [ ] Shoot real Bayou Bienvenue photos for the Storycore carousel slides 4-7 and 9 (added 2026-11-10)
 
-- [ ] 2026-11-17: Pre-tour guide brief (summarize recent tour logs + channel, tag next guide). Waiting on David: post location, timing, approval mode. Then build on mbp-2.
+- [x] 2026-11-17: Pre-tour guide brief LIVE on mbp-2 (com.djl.nkst-tour-brief). See memory project_nkst_tour_brief.
+- [ ] 2026-11-18: Merge Thu/Fri tours with Jeff (A: Fri guests to Thu 9am w/ Michelle; B: Michelle takes Fri, Thu 4 guests to Fri). Sat 11/21 9am (2) + 11:30 (4) still no guide.
+- [ ] 2026-11-18 AM: Walk through automating tour merges + guide coverage with Claude, watching it run on live days.
