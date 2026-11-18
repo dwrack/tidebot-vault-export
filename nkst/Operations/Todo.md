@@ -158,3 +158,5 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 
 - [ ] Review the Storycore "Two Swamps" carousel ([[Marketing/Carousels - Staged/2026-11-10 - storycore-two-swamps/REVIEW|REVIEW]]) and confirm it's OK to name Common Ground Relief (added 2026-11-10)
 - [ ] Shoot real Bayou Bienvenue photos for the Storycore carousel slides 4-7 and 9 (added 2026-11-10)
+
+- [ ] 2026-11-17: Pre-tour guide brief (summarize recent tour logs + channel, tag next guide). Waiting on David: post location, timing, approval mode. Then build on mbp-2.
