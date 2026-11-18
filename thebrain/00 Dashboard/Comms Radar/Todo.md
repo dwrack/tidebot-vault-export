@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-17 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-18 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,16 +15,10 @@ _nothing_
 
 ## Needs you
 
-- [ ] Kick off Cloudflare domain migration for all business domains #due:2026-11-16 #id:T0198
-  → David open Claude in the TheBrain vault and say 'start the Cloudflare domain migration': phase 1 adds domains, verifies DNS (SES/Gmail DKIM, FareHarbor) and swaps nameservers; phase 2 is registrar transfers in batches. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
-- [ ] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #due:2026-11-17 #id:T0043
-  → David tell Michael whether Jaq gets three days or two; Virgin room is done, David checked in Nov 17 and paid with the Ebb & Ember card. (David; Text with Michael Fischer; touched 2026-11-17)
-  > David: i need to use chase points to purchase that ticket
-  > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [ ] Gravity Trails Autopayroll on hold, blocked before Nov 18 noon CST #due:2026-11-18 #id:T0211
   → David or the payroll admin open Homebase and resolve the issue holding Gravity Trails' Autopayroll before 12:00pm CST Nov 18. (David; Gmail dwrack81@; touched 2026-11-17)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
-  → David and Jonah pay the invoice through Max's payment link; Max provides written confirmation that the floating saunas are not excluded as watercraft, plus a COI and additional insured endorsement for Elevated Tides LLC by Dec 13. (David; Gmail davey@; touched 2026-11-14)
+  → David and Jonah pay the invoice through Max's payment link; Max answers Jonah's written-confirmation request (saunas not excluded as watercraft, additional insured endorsement) and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
   > Radar: Fixed the next move so it only names you, Jonah and Max, with no Jeff. I can't pull Jonah's Ebb & Ember dashboard from here, so I noted it as your next step to compare lanes before paying.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -51,9 +45,6 @@ _nothing_
   > Radar: I can't touch TideBot or Gemini billing from here, so I logged this as your next move. The error is a 402 on gemini-2.5-flash-lite saying prepay credits are depleted, so the key TideBot is calling may not be one of the three you added, or they share one empty project. Two more NKST logs failed today and need manual processing.
 - [ ] Apify rotated all API tokens after security incident #NPB #NKST #DCKT #id:T0155
   → David or Claude generate new Apify tokens for each brand account, update the local token files and user-scope Apify MCPs, then restart any scraper or job still using an old token. (David; Gmail davey@, Gmail nolakayaktours@, Gmail doorcountyzip@, Gmail nolapedalbarge@; touched 2026-11-12)
-- [x] Michael asks which seats to order on Amazon #id:T0160
-  → David tell Michael which seats to order on Amazon. (David; Text with Michael Fischer; touched 2026-11-12)
-  > Closed by the resolver: Claude said spare seats from Paris Road go in every van. Davey said he's getting seats from the marina and restocking the vans.
 - [ ] Jonah asks if David is changing the existing website #id:T0177
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
@@ -120,6 +111,8 @@ _nothing_
   → Wait for the insurer to accept Jonah's emailed audit package (monthly sales 11/6/2025 to 10/31/2026, P&L by month, principals) for policy BR20250485, since portal codes arrive about two hours late and expire. (Jonah Moses; Gmail davey@; touched 2026-11-15)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → Whoever approves TideBot payroll verify the unverified PayPal accounts for Emily Clarke and Michelle Healey, then react to release the Nov 1-15 payroll ($2,050 across 5 guides); it only produces a send list and does not move money. (NKST manager; Slack #helm-nkst; touched 2026-11-16)
+- [ ] Kick off Cloudflare domain migration for all business domains #id:T0198
+  → Someday item: run the Cloudflare migration when David has a free hour. Not urgent. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
 - [ ] Party invite headcount: staff, plus ones, and others #waiting #id:T0204
   → Jeffrey Chitek answer David on who is invited to the party: staff, a +1 each, and anyone else. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-16)
 - [ ] Elevated Tides: Dustin's competing sauna building and deal timeline #waiting #id:T0212
@@ -344,8 +337,6 @@ _nothing_
   → NKST manager buy or find replacement seats for the broken tandems, check the shipping storage container first as Davey says there should be spares, and fix the missing trailer handle; Davey will reimburse otherwise. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-10)
 - [ ] BBK Meta purchase pixel not firing, HPB conversion tracking also reads $1.00 #BBK #HPB #id:T0020
   → Reply do 1 in #the-helm so TideBot tests the FareHarbor pixel on a live Buffalo Bayou booking page, then fix it and build a purchase-objective campaign for BBK and HPB. (David; Slack #the-helm; touched 2026-11-11)
-- [ ] Apify usage limit hit, running Actors aborted (NPB inbox account) #NPB #id:T0028
-  → David or whoever runs the Apify jobs upgrade the plan or renew the expired monthly usage limit on the personal Apify account, and check which scrapers stopped. (David; Gmail davey@; touched 2026-11-11)
 - [ ] NKST company retreat inquiry, 9-10 people, kayak tour with transport, now Tue Dec 8 #NKST #id:T0078
   → NKST manager reply to Luke Johnson on availability and pricing for a group of 9-10 with transportation; he now offers Tuesday Dec 8, 1:00-5:30, instead of Dec 10. (NKST manager; Gmail nolakayaktours@; touched 2026-11-11)
 - [ ] Glass Gala winner wants to schedule Maurepas Swamp guided kayak tour #NPB #NKST #id:T0151
@@ -400,8 +391,6 @@ _nothing_
   → Ignore these and send no bank statements, ID or voided check; Ivanna Logan is another cold follow-up pushing a Thursday or Friday call about a line for David, same pattern. (David; Gmail doorcountykayaking@; touched 2026-11-17)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager clear the construction debris, order the missing trailer handle at Piety, and settle the parking so the white van and grey Transit are not parked too far back; a manager is already working the parking situation. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-17)
 - [ ] Clear Lake Marine Center invoice 20260937, balance now $5,503.50 #HPB #id:T0069
   → HPB manager confirm the invoice is legitimate and why the balance changed from $4,348.50 to $5,503.50 on a $12,593.00 total, then pay by ACH or check since a card adds 3%. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-17)
 - [ ] AKT private group inquiry, now Wed March 3, 2027, up to 60 people #AKT #id:T0070
@@ -418,6 +407,12 @@ _nothing_
   → NKST staff do not click the Google Forms link or submit anything; check the page's real status in Meta Business Suite, and treat the email as phishing. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] INNOVATX Events group inquiry, Houston conference Sept 2027, BBK #BBK #id:T0219
   → BBK manager reply to Allegra Zwaan with group size limits, per-person pricing and minimums, tour duration and inclusions for her preliminary proposal. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-17)
+- [ ] Apify usage limit hit and API tokens revoked (NPB and doorcountyzip accounts) #NPB #id:T0028
+  → David or whoever runs the Apify jobs create new API tokens on both Apify accounts, update every integration that uses them, and renew the usage limit; all tokens were revoked Nov 11-12 after a security incident. (David; Gmail nolapedalbarge@, Gmail doorcountyzip@; touched 2026-11-18)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → Davey finish sorting the Piety parking and debris; trailer handles are already in the storage container at the back of Piety, so none need ordering; guides skip the white van (#3, leaking rear tire, no keys) and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
+- [ ] Expedia wants rates to relist Austin Kayak tours #AKT #id:T0224
+  → Connor send Krish the per-person retail rate and current timings for City Skyline, Congress Bridge Bats Evening and Sunset Skyline tours so he can set them up through the end of 2027. (Connor; Gmail austinkayaktours@; touched 2026-11-18)
 
 ## Backburner (LSKT)
 
@@ -434,6 +429,9 @@ _nothing_
   > David: do i need to respond? i read it and it looks good. hoping for some closure on this
   > Radar: Nothing in the messages shows a reply is owed from you. Jonah already sent Todd the fixes for the declaration, and Todd says the revised version is headed to your inbox. Bill Drew has not answered the proposal yet, so closure is still waiting on him.
 - [x] Progressive commercial auto policy renewal due Nov 16, NKST inbox #NKST #due:2026-11-16 #done:2026-11-17 #id:T0057
+- [x] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #due:2026-11-17 #done:2026-11-18 #id:T0043
+  > David: i need to use chase points to purchase that ticket
+  > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
 - [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
   > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
   > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
@@ -441,7 +439,6 @@ _nothing_
   > David: Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
   > Radar: Marked resolved. Alan is invited to the Thursday Nov 19 marina party and gave booth 2923 at the spa conference.
 - [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031
-- [x] Michael asks if the $6 seat discount code has landed #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-03 #id:T0049
 - [x] Marina insurance agent asks for vessel liability details #done:2026-11-13 #id:T0058
   > David: Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
   > Radar: Marked resolved. Michael answered the slip liability question and sent loss runs, and the quote work continues under the Apres Assets thread. The separate worry about dock and gas station coverage now has its own thread.
@@ -471,6 +468,9 @@ _nothing_
 - [x] Move all domains to Cloudflare as they renew #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-12 #id:T0154
   > David: Closed by the resolver: David told Michael 'Were moving all domains over to cloudflare as we renew'.
   > Radar: Noted, closed. Domains move to Cloudflare as each one renews.
+- [x] Michael asks which seats to order on Amazon #done:2026-11-18 #id:T0160
+  > David: Closed by the resolver: Claude said spare seats from Paris Road go in every van. Davey said he's getting seats from the marina and restocking the vans.
+  > Radar: Marked resolved. Claude said spare seats from Paris Road go in every van, and Davey is getting seats from the marina and restocking the vans tomorrow.
 - [x] Unsolicited GreenBridge Capital DocuSign funding application #Cave-Point #done:2026-11-15 #id:T0007
   > David: Closed by the resolver: The unsolicited GreenBridge envelope was voided as expired on 11-14; nothing was signed.
   > Radar: Closed. The GreenBridge envelope expired and was voided Nov 14 with nothing signed; I linked it to the related lender thread T0011.

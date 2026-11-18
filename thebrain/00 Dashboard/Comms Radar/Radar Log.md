@@ -2,6 +2,9 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-18 06:10 | David ticked T0160 Michael asks which seats to order on Amazon
+- 2026-11-18 06:10 | David commented on T0160
+- 2026-11-18 06:10 | 24 new messages moved 4 threads: T0034, T0095, T0028, T0224
 - 2026-11-17 20:10 | 10 new messages moved 1 threads: T0223
 - 2026-11-17 18:10 | David ticked T0172 NKST ad return 0.4x under 5x floor, soft demand
 - 2026-11-17 18:10 | David commented on T0172
