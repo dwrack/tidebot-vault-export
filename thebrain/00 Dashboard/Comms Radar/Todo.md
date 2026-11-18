@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-18 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-18 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -18,7 +18,7 @@ _nothing_
 - [ ] Gravity Trails Autopayroll on hold, blocked before Nov 18 noon CST #due:2026-11-18 #id:T0211
   → David or the payroll admin open Homebase and resolve the issue holding Gravity Trails' Autopayroll before 12:00pm CST Nov 18. (David; Gmail dwrack81@; touched 2026-11-17)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
-  → David and Jonah pay the invoice through Max's payment link; Max answers Jonah's written-confirmation request (saunas not excluded as watercraft, additional insured endorsement) and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
+  → David and Jonah pay the invoice through Max's payment link and answer the carrier's questions via Max (expected revenue from the dock rental, whether it is rented with staff, supervision, what renters can access); Max is getting the no-watercraft-exclusion statement in writing, and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
   > Radar: Fixed the next move so it only names you, Jonah and Max, with no Jeff. I can't pull Jonah's Ebb & Ember dashboard from here, so I noted it as your next step to compare lanes before paying.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -121,6 +121,8 @@ _nothing_
   → Wait for Dustin's lawyer to confirm the 14 day buffer means the 14 day deadline to pay Macadam after initial closing, then execute the revised term sheet. (Dustin's lawyer; Gmail dwrack81@; touched 2026-11-17)
 - [ ] Jonah deal terms with Todd: HD Clinton motion, term sheet amount, Macadam payment #waiting #id:T0218
   → Todd confirm whether Dustin's lawyer accepted $125,000 or $100,000, add the clawback line from 11/4, and give the exact date Dustin's 23 days run out on the motion. (Todd; Gmail dwrack81@; touched 2026-11-17)
+- [ ] Contrast Therapy API access question, Gene Cripps #waiting #id:T0226
+  → Davey answer Gene Cripps on what he wants to achieve with API access, since they have no open API. (Davey; Gmail davey@; touched 2026-11-18)
 
 ## Open
 
@@ -176,6 +178,8 @@ _nothing_
   → AKT/LSKT staff reply to GetYourGuide with an explanation and any evidence for booking GYGVN2X9MHGF (2 guests, Nov 15 5:00 PM) within 72 hours, or the refund goes through in full. (AKT staff; Gmail austinkayaktours@; touched 2026-11-15)
 - [ ] Hospice House asks NPB for silent auction items or food vendors, Nov 19 event #NPB #due:2026-11-19 #id:T0083
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
+- [ ] Fairmont New Orleans Prestige Magazine meeting confirmation, Nov 19 8 AM #NPB #due:2026-11-19 #id:T0227
+  → NPB manager check whether anyone actually booked this Nov 19 8 AM Fairmont meeting; it reads like a paid advertorial pitch, so skip it unless the team asked for it. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-18)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
@@ -185,7 +189,7 @@ _nothing_
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
-  → Michael or David complete the 11-page supplemental application for the boat slip rental coverage (pages 1-4 for locations, slip receipts and fueling, pages 7-9 only if they want dock and pier property coverage) and return it to Shelley Zahn. (Michael Fischer; Gmail doorcountyzip@; touched 2026-11-16)
+  → Michael or David complete the 11-page supplemental application for the boat slip rental coverage and return it to Shelley Zahn; compare incoming quotes against the first GL quote of $8,883.25 per year. (Michael Fischer; Gmail doorcountyzip@; touched 2026-11-18)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
@@ -259,8 +263,6 @@ _nothing_
   → David or on-site staff check WiFi and power for the offline Blink cameras (Boat, Workshop, Gas station, Palapas, Wired Floodlight). (David; Gmail dwrack81@; touched 2026-11-06)
 - [ ] NOLA Sales and Use tax not filed July through October #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0094
   → David and Michael get Louisiana Sales and Use filing automated through Michael's computer since he has the 2FA, and confirm whether July through October actually filed; David says it should have. (Michael Fischer; Text with Michael Fischer; touched 2026-11-06)
-- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
-  → David call Mario for the gas line install date; Jonah warns that missing the deadline means re-opening a new gas permit, and they hold off on a building permit until the BDS contact replies. (David; Text with Jonah Moses; touched 2026-11-06)
 - [ ] NKST gift campaign email abuse reports via amazonses #NKST #id:T0097
   → NKST staff check the gift email send ('A gift for someone who has enough stuff' / 'Gift them the quiet') for spam complaints and make sure complainers are suppressed. (NKST manager; Gmail nolakayaktours@; touched 2026-11-06)
 - [ ] Gift card email series with WINTERSWAMP discount code #NKST #id:T0098
@@ -387,10 +389,6 @@ _nothing_
   → AKT staff decide whether to take Jesse Reynolds' demo or webinar offer for Hibu marketing services, or ignore it, since he has no trial version. (AKT staff; Gmail austinkayaktours@; touched 2026-11-16)
 - [ ] HPB cancellation policy shows 7 days on site, should be 72 hours #HPB #id:T0209
   → HPB manager read FareHarbor support's Nov 16 reply Michael forwarded and change the cancellation policy on the booking site from 7 days to 72 hours. (HPB manager; Gmail houstonpedalbarge@, Gmail dwrack81@; touched 2026-11-16)
-- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
-  → Ignore these and send no bank statements, ID or voided check; Ivanna Logan is another cold follow-up pushing a Thursday or Friday call about a line for David, same pattern. (David; Gmail doorcountykayaking@; touched 2026-11-17)
-  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
-  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Clear Lake Marine Center invoice 20260937, balance now $5,503.50 #HPB #id:T0069
   → HPB manager confirm the invoice is legitimate and why the balance changed from $4,348.50 to $5,503.50 on a $12,593.00 total, then pay by ACH or check since a card adds 3%. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-17)
 - [ ] AKT private group inquiry, now Wed March 3, 2027, up to 60 people #AKT #id:T0070
@@ -407,12 +405,22 @@ _nothing_
   → NKST staff do not click the Google Forms link or submit anything; check the page's real status in Meta Business Suite, and treat the email as phishing. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] INNOVATX Events group inquiry, Houston conference Sept 2027, BBK #BBK #id:T0219
   → BBK manager reply to Allegra Zwaan with group size limits, per-person pricing and minimums, tour duration and inclusions for her preliminary proposal. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-17)
+- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
+  → Ignore these and send no bank statements, ID or voided check; Vincent Dorsey of BrightFunds Network is another cold pitch for a Friday call on a funding line, same pattern. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-18)
+  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
+  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Apify usage limit hit and API tokens revoked (NPB and doorcountyzip accounts) #NPB #id:T0028
   → David or whoever runs the Apify jobs create new API tokens on both Apify accounts, update every integration that uses them, and renew the usage limit; all tokens were revoked Nov 11-12 after a security incident. (David; Gmail nolapedalbarge@, Gmail doorcountyzip@; touched 2026-11-18)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → Davey finish sorting the Piety parking and debris; trailer handles are already in the storage container at the back of Piety, so none need ordering; guides skip the white van (#3, leaking rear tire, no keys) and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
+- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
+  → Pay the $228 extension fee on the city's DevHub before calling in any inspection (permit 26-035226 now expires 05/23/2027), and David still calls Mario for the gas line install date; Jonah keeps the BDS contact (Mike Masat) on email, not a call. (David; Gmail davey@, Text with Jonah Moses; touched 2026-11-18)
 - [ ] Expedia wants rates to relist Austin Kayak tours #AKT #id:T0224
   → Connor send Krish the per-person retail rate and current timings for City Skyline, Congress Bridge Bats Evening and Sunset Skyline tours so he can set them up through the end of 2027. (Connor; Gmail austinkayaktours@; touched 2026-11-18)
+- [ ] Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher #NPB #id:T0225
+  → David read the Starnet P&I clause (page 61 of the attached policy, covers passengers embarking and disembarking via docks and piers at the normal docking area) and check whether any contract for the Paris Road property requires general liability, since John says none is needed if Gravity Trails does not own the property. (David; Gmail nolapedalbarge@; touched 2026-11-18)
+- [ ] Bike Bar text lead: does a full buyout require everyone 21+ #NOLA-Bike-Bar #id:T0228
+  → Bike Bar team reply to the texter on whether a full buyout requires all guests to be 21+, with availability and pricing. (Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-18)
 
 ## Backburner (LSKT)
 

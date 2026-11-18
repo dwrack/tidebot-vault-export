@@ -2,6 +2,9 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-18 12:10 | 16 new messages moved 3 threads: T0227, T0228, T0011
+- 2026-11-18 10:10 | 26 new messages moved 3 threads: T0095, T0096, T0060
+- 2026-11-18 08:10 | 16 new messages moved 2 threads: T0225, T0226
 - 2026-11-18 06:10 | David ticked T0160 Michael asks which seats to order on Amazon
 - 2026-11-18 06:10 | David commented on T0160
 - 2026-11-18 06:10 | 24 new messages moved 4 threads: T0034, T0095, T0028, T0224

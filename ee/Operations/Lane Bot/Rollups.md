@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 06:11 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 15:26 PT.
 
-Counts: people 14, vendors 135, projects 6, money 533, promises 43, asks 75, dates 1011
+Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dates 1035
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -66,19 +66,28 @@ Counts: people 14, vendors 135, projects 6, money 533, promises 43, asks 75, dat
 - 11/10 13:30 "If it hasn't reached you, let me know and I'll send it again." (Re: Women in Film Silent Auction Item) due 2026-10-29
 - 11/10 17:28 "Let me get working on  this and I will get back to you tomorrow on pricing and materials needed for this." (Re: Warming Trends circular fire table quote + pony wall insert with schematics, floating sauna) due 2026-11-10
 - 11/13 12:38 "sergei is on the gas line… $600~ labor nothing confirmed on start date, but ill ask him in a bit about that." (#founders)
+- 11/16 08:33 "<@U0B1H0WRHJ8> ill forward any electric contacts i started getting quotes from as well" (#private-saunas-build)
+- 11/16 11:21 "Its under the waiver, ill be on computer soon and can elaborate." (#dev | thread: i am working on getting waiver signers added into active campaign after they sig)
 
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-18 Anna Nelson: "11/18"
+- 2026-11-18 Claude: "11/18"
 - 2026-11-18 Claude: "tomorrow"
 - 2026-11-18 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 18"
 - 2026-11-18 Jonah: "11/18"
+- 2026-11-18 Jonah: "today"
+- 2026-11-18 Jonah: "tonight"
 - 2026-11-18 Lilias: "ASAP"
 - 2026-11-18 PSP/Deck Expo: "November 18"
+- 2026-11-18 Relay Financial: "November 18"
+- 2026-11-18 Scott Fogarty: "today"
+- 2026-11-19 +19203273405: "tomorrow"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jonah: "11/19"
 - 2026-11-19 Jordan Culberson: "Nov 19"
 - 2026-11-20 Alex: "this week"
 - 2026-11-20 Bandi Joel Abhishek: "this week"
+- 2026-11-20 Bronte Moodley: "this week"
 - 2026-11-20 Claude: "end of week"
 - 2026-11-20 Claude: "this week"
 - 2026-11-20 Davey: "Nov 20"
@@ -134,6 +143,7 @@ Counts: people 14, vendors 135, projects 6, money 533, promises 43, asks 75, dat
 - $100,000.00 Davey 11/05 17:57 "$100k" (Tier 3: over threshold) Re: Ebb & Ember renewal 11/6/2026: please quote other carrie
 - $80,000.00 Jonah 11/05 14:52 "$80k" (Tier 3: over threshold) #founders
 - $50,000.00 Jonah 11/05 14:52 "$50k" (Tier 3: over threshold) #founders
+- $20,000.00 Scott Fogarty 11/18 09:43 "$20,000" (Tier 3: over threshold) Give BIG for the river. Double your impact!
 - $18,398.43 Jonah 11/05 14:52 "$18,398.43" (Tier 3: over threshold) #founders
 - $16,509.00 Jonah 11/05 14:52 "$16,509" (Tier 3: over threshold) #founders
 - $15,099.25 Jonah 11/05 14:52 "$15,099.25" (Tier 3: over threshold) #founders
@@ -141,6 +151,5 @@ Counts: people 14, vendors 135, projects 6, money 533, promises 43, asks 75, dat
 - $13,999.00 The Sauna Place 11/11 15:32 "$13,999" (Tier 3: over threshold) Black Friday starts today: Up to 20% off Heritage saunas
 - $13,000.00 Davey 11/11 09:12 "$13000" (Tier 3: over threshold) text with Jonah
 - $11,199.20 The Sauna Place 11/11 15:32 "$11,199.20" (Tier 3: over threshold) Black Friday starts today: Up to 20% off Heritage saunas
-- $10,000.00 Jonah 11/02 12:47 "$10k" (Tier 3: over threshold) text with Jonah
 
 Tier 3 threshold is the proposed $500 (open decision 4, not decided by Davey).
