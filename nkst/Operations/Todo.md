@@ -7,6 +7,11 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [ ] [Guide log] Inspect all boat seats for dry rotting straps and replace as necessary. _(Stephanie (audio log), 2026-07-27)_
 
 ## High Priority
+- [ ] [Guide log] Grey Transit: oil change light on, service it (Stephanie thinks it may already be out for the change). _(Michelle (written log), 2026-11-15)_
+- [ ] [Guide log] Give guides an ETA on the new kayak seats. _(Stephanie (written log), 2026-11-08)_
+- [ ] [Guide log] Piety trailer lot: construction debris and mud, vans at risk of getting stuck. Jeff is working on parking (per Stephanie 11/17). Raised in 4 logs 11/09 to 11/17.
+- [ ] **Spare kayak seats in every vehicle:** bring spares from Paris Road on 11/18 and put one in each van. Stephanie's 11/17 log: no extra seat on board. _(David, 2026-11-17)_
+- [x] Trailer handles are in the storage container at the back of Piety (David saw them 11/17). Told guides in #new-orleans-kayak-swamp-tours 11/17. _(David, 2026-11-17)_
 - [ ] **FareHarbor vs trip-log check: approve the daily build.** Look-back and plan in [[FareHarbor vs Guide Log Check — Look-back Oct 1 to Nov 12 2026]]. _(David, 2026-11-12)_
 - [ ] Clear the look-back leftovers in FareHarbor: $270 unpaid (Oct 26), $210 overpaid (Oct 23), 13 unmarked no-shows on 8 tours, 2 no-guide tours, Nov 12 9am group with 0 waivers on file. List in [[FareHarbor vs Guide Log Check — Look-back Oct 1 to Nov 12 2026]]. (Jeff)
 - [ ] Train Abbie and Chelsea on FareHarbor check-in and waiver check from the phone. (Jeff)
