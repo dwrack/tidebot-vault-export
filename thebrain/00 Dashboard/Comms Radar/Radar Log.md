@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-17 20:10 | 10 new messages moved 1 threads: T0223
 - 2026-11-17 18:10 | David ticked T0172 NKST ad return 0.4x under 5x floor, soft demand
 - 2026-11-17 18:10 | David commented on T0172
 - 2026-11-17 18:10 | 25 new messages moved 4 threads: T0221, T0019, T0034, T0222

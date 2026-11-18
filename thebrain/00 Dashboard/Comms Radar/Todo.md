@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-17 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-17 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -492,3 +492,4 @@ _nothing_
 - [x] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #done:2026-11-16 #id:T0197
   > David: Closed by the resolver: Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
   > Radar: Marked resolved. AKT replied to Rachel Foster agreeing to the call with the buyer, so nothing is open on this beyond the call itself.
+- [x] NKST TripAdvisor refund processed, Nov 18 Manchac Extended tour (Alejandro Gallarzo) #NKST #done:2026-11-17 #id:T0223
