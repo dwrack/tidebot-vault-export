@@ -359,8 +359,9 @@ _nothing_
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
-- [ ] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
+- [x] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
   → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NKST; spend or public posts come back for a final go. (David; Slack #the-helm; touched 2026-11-13)
+  > Closed by the resolver: Daily reports show NKST recovered: 9.5x on 11-14 and 12.9x on 11-16 ($740 booked on $57 spend), so the 0.4x soft-demand flag no longer holds.
 - [ ] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0175
   → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
 - [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
