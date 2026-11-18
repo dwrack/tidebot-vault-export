@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-17 20:08 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-17 23:42 PT.
 
-Counts: people 14, vendors 132, projects 6, money 533, promises 42, asks 75, dates 998
+Counts: people 14, vendors 134, projects 6, money 533, promises 43, asks 75, dates 1004
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -81,6 +81,7 @@ Counts: people 14, vendors 132, projects 6, money 533, promises 42, asks 75, dat
 - 2026-11-17 Ebb & Ember Office: "November 17"
 - 2026-11-17 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 17"
 - 2026-11-17 Jonah: "11/17"
+- 2026-11-17 Lilias: "Nov 17"
 - 2026-11-17 Liz Dewey: "tomorrow"
 - 2026-11-17 Office: "November 17"
 - 2026-11-17 PSP/Deck Expo: "Nov. 17"
