@@ -1,6 +1,6 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-17 23:42 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 01:11 PT.
 
 Counts: people 14, vendors 134, projects 6, money 533, promises 43, asks 75, dates 1004
 
@@ -68,27 +68,6 @@ Counts: people 14, vendors 134, projects 6, money 533, promises 43, asks 75, dat
 - 11/13 12:38 "sergei is on the gas line… $600~ labor nothing confirmed on start date, but ill ask him in a bit about that." (#founders)
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-17 Alex: "tomorrow"
-- 2026-11-17 Claude: "11/17"
-- 2026-11-17 Claude: "today"
-- 2026-11-17 Contact Periode: "Today"
-- 2026-11-17 Davey: "Nov 17"
-- 2026-11-17 Davey: "November 17"
-- 2026-11-17 Davey: "nov 17"
-- 2026-11-17 Davey: "tuesday"
-- 2026-11-17 Ebb & Ember: "Nov 17"
-- 2026-11-17 Ebb & Ember: "November 17"
-- 2026-11-17 Ebb & Ember Office: "November 17"
-- 2026-11-17 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 17"
-- 2026-11-17 Jonah: "11/17"
-- 2026-11-17 Lilias: "Nov 17"
-- 2026-11-17 Liz Dewey: "tomorrow"
-- 2026-11-17 Office: "November 17"
-- 2026-11-17 PSP/Deck Expo: "Nov. 17"
-- 2026-11-17 PSP/Deck Expo: "November 17"
-- 2026-11-17 PSP/Deck Expo: "today"
-- 2026-11-17 Roxanne Pauig: "Nov 17"
-- 2026-11-17 sauna@ebbandember.com: "November 17"
 - 2026-11-18 Anna Nelson: "11/18"
 - 2026-11-18 Claude: "tomorrow"
 - 2026-11-18 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 18"
