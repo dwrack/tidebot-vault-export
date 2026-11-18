@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-17 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-17 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -67,6 +67,8 @@ _nothing_
   → David top up the Gemini API prepaid credits in AI Studio so TideBot can process written logs again; until then logs like Stephanie's Nov 16 post need manual processing. (David; Slack #the-helm; touched 2026-11-16)
 - [ ] AKT winter plan catch-up: NYE fireworks tour, sell vans, Viator return #AKT #id:T0210
   → David set a time to catch up with AKT on the winter plan: NYE fireworks tour (50-60 guests, about 3-4k profit), bring back Sunset Skyline, sell both vans for 1-2k, get back on Viator, and a membership of about $90 minimum. (David; Gmail dwrack81@; touched 2026-11-17)
+- [ ] TideBot written log processing failing, Gemini prepayment credits depleted #NKST #id:T0221
+  → David top up the Gemini prepaid credits in AI Studio billing so TideBot can process written logs again; until then logs like today's NKST post need manual processing. (David; Slack #the-helm; touched 2026-11-17)
 
 ## Waiting on someone
 
@@ -82,6 +84,8 @@ _nothing_
   → NPB managers walk through the holiday page, corporate page and test email, then reply in #helm-npb by noon Tuesday 11/17 with yes or no on the costume closet, trivia, karaoke and yard games, drinks and bartender with $10 corkage, the $59 pp 40-guest Mon-Thu package, the food, band and singer prices, and the quote builder. (NPB managers; Slack #helm-npb, Gmail nolapedalbarge@; touched 2026-11-16)
 - [ ] NPB crew W-9 collection, signed form due Nov 20 #NPB #waiting #due:2026-11-20 #id:T0165
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
+- [ ] Elevated Tides permit extension, permit expires Nov 23 #waiting #due:2026-11-23 #id:T0222
+  → Wait for the permit office to process Jonah's extension request on permit 26-035226-000-00-MT before it expires Mon Nov 23. (Jonah Moses; Gmail davey@; touched 2026-11-17)
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #waiting #id:T0074
@@ -129,7 +133,7 @@ _nothing_
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guide posts the written Pre-Tour/Post-Tour logs for the Nov 14 11:30 AM tour (6 guests), the Nov 13 1:30 PM tour (10 guests) and today's 11:30 AM tour (3 guests). (NKST guides; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-17)
+  → NKST guides post the written logs still missing for the Nov 14 11:30 AM and Nov 13 1:30 PM tours; today's Nov 17 11:30 log is posted but TideBot could not process it. (NKST guides; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-17)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -359,9 +363,6 @@ _nothing_
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
-- [x] NKST ad return 0.4x under 5x floor, soft demand #NKST #id:T0172
-  → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NKST; spend or public posts come back for a final go. (David; Slack #the-helm; touched 2026-11-13)
-  > Closed by the resolver: Daily reports show NKST recovered: 9.5x on 11-14 and 12.9x on 11-16 ($740 booked on $57 spend), so the 0.4x soft-demand flag no longer holds.
 - [ ] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0175
   → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
 - [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
@@ -380,8 +381,6 @@ _nothing_
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; Mujahid Khan followed up again asking whether to narrow the Cave Point/shipwreck feature to two outlets and quote costs, which points to a paid placement pitch. (David; Gmail doorcountykayaking@; touched 2026-11-16)
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → NKST manager clear the construction debris from the trailer lot, fix the missing trailer handle, and confirm with the contractor how guides get the trailer in; rain makes the lot muddy and close to the grassy area that traps vans. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-16)
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to the Admire NOLA Instagram account on mbp-2 (Screen Sharing, admire Chrome profile); the engage bot is paused 24h. Hidden Adventure Threads login still needs checking too. (David; Slack #helm-admire; touched 2026-11-16)
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
@@ -400,6 +399,8 @@ _nothing_
   → Ignore these and send no bank statements, ID or voided check; Ivanna Logan is another cold follow-up pushing a Thursday or Friday call about a line for David, same pattern. (David; Gmail doorcountykayaking@; touched 2026-11-17)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → NKST manager clear the construction debris, order the missing trailer handle at Piety, and settle the parking so the white van and grey Transit are not parked too far back; a manager is already working the parking situation. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-17)
 - [ ] Clear Lake Marine Center invoice 20260937, balance now $5,503.50 #HPB #id:T0069
   → HPB manager confirm the invoice is legitimate and why the balance changed from $4,348.50 to $5,503.50 on a $12,593.00 total, then pay by ACH or check since a card adds 3%. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-17)
 - [ ] AKT private group inquiry, now Wed March 3, 2027, up to 60 people #AKT #id:T0070
@@ -476,6 +477,9 @@ _nothing_
 - [x] Anti-slip dock steps options, get Alex's feedback #done:2026-11-13 #id:T0076
   > David: they look good, just need to finish installing them
   > Radar: Noted, the options are approved and the next move is now just finishing the install.
+- [x] NKST ad return 0.4x under 5x floor, soft demand #NKST #done:2026-11-17 #id:T0172
+  > David: Closed by the resolver: Daily reports show NKST recovered: 9.5x on 11-14 and 12.9x on 11-16 ($740 booked on $57 spend), so the 0.4x soft-demand flag no longer holds.
+  > Radar: Marked resolved. The daily reports show NKST at 9.5x on 11-14 and 12.9x on 11-16, so the 0.4x flag no longer applies.
 - [x] Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island #done:2026-11-14 #id:T0180
   > David: Closed by the resolver: Davey replied to Roxanne at Smiley Electric on 11-14 with photos and the updated quote sheet.
   > Radar: Marked resolved. Davey answered Roxanne at Smiley Electric on Nov 14 with photos and the updated quote sheet. It reopens if she sends a new message.
