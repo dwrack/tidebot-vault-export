@@ -51,8 +51,9 @@ _nothing_
   > Radar: I can't touch TideBot or Gemini billing from here, so I logged this as your next move. The error is a 402 on gemini-2.5-flash-lite saying prepay credits are depleted, so the key TideBot is calling may not be one of the three you added, or they share one empty project. Two more NKST logs failed today and need manual processing.
 - [ ] Apify rotated all API tokens after security incident #NPB #NKST #DCKT #id:T0155
   → David or Claude generate new Apify tokens for each brand account, update the local token files and user-scope Apify MCPs, then restart any scraper or job still using an old token. (David; Gmail davey@, Gmail nolakayaktours@, Gmail doorcountyzip@, Gmail nolapedalbarge@; touched 2026-11-12)
-- [ ] Michael asks which seats to order on Amazon #id:T0160
+- [x] Michael asks which seats to order on Amazon #id:T0160
   → David tell Michael which seats to order on Amazon. (David; Text with Michael Fischer; touched 2026-11-12)
+  > Closed by the resolver: Claude said spare seats from Paris Road go in every van. Davey said he's getting seats from the marina and restocking the vans.
 - [ ] Jonah asks if David is changing the existing website #id:T0177
   → David answer Jonah by text on whether he is making changes to the existing website. (David; Text with Jonah Moses; touched 2026-11-13)
 - [ ] Jonah: odd 'V1 Pricing' on existing site and member booking issue #id:T0178
