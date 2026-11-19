@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-18 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-18 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -61,6 +61,8 @@ _nothing_
   → David set a time to catch up with AKT on the winter plan: NYE fireworks tour (50-60 guests, about 3-4k profit), bring back Sunset Skyline, sell both vans for 1-2k, get back on Viator, and a membership of about $90 minimum. (David; Gmail dwrack81@; touched 2026-11-17)
 - [ ] TideBot written log processing failing, Gemini prepayment credits depleted #NKST #id:T0221
   → David top up the Gemini prepaid credits in AI Studio billing so TideBot can process written logs again; until then logs like today's NKST post need manual processing. (David; Slack #the-helm; touched 2026-11-17)
+- [ ] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #id:T0229
+  → David and Davey answer Todd Key's two questions: are you still good with the deal, and do you want to proceed with the Macadam filing; his lawyer's only remaining ask is 14 days between closing of the HD Clinton/member interest transaction and the Macadam note due date. (David; Gmail dwrack81@; touched 2026-11-18)
 
 ## Waiting on someone
 
@@ -414,7 +416,7 @@ _nothing_
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → Davey finish sorting the Piety parking and debris; trailer handles are already in the storage container at the back of Piety, so none need ordering; guides skip the white van (#3, leaking rear tire, no keys) and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
-  → Pay the $228 extension fee on the city's DevHub before calling in any inspection (permit 26-035226 now expires 05/23/2027), and David still calls Mario for the gas line install date; Jonah keeps the BDS contact (Mike Masat) on email, not a call. (David; Gmail davey@, Text with Jonah Moses; touched 2026-11-18)
+  → Wait for Jonah's update tonight on his BDS call; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-18)
 - [ ] Expedia wants rates to relist Austin Kayak tours #AKT #id:T0224
   → Connor send Krish the per-person retail rate and current timings for City Skyline, Congress Bridge Bats Evening and Sunset Skyline tours so he can set them up through the end of 2027. (Connor; Gmail austinkayaktours@; touched 2026-11-18)
 - [ ] Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher #NPB #id:T0225
