@@ -226,3 +226,7 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-19 09:20 | RESOLVED radar:T0225 | Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher | Gallagher sent the Starnet P&I wording 11-18. After David replied that they own the property, Gallagher said on 11-19 that Apres Assets is an additional insured on the policy.
 - 2026-11-19 10:12 | AUTO-DRAFTED radar:T0238 | Post Oak Group intro meeting with Umair Anjum, missed connection
 - 2026-11-19 10:12 | AUTO-DRAFTED radar:T0237 | Progressive commercial auto premium up $4,471, paid-in-full discount removed, Gravity Trails
+- 2026-11-19 10:52 | RESOLVED radar:T0238 | Post Oak Group intro meeting with Umair Anjum, missed connection | David joined the 10:30 call, Umair rejoined, the meeting took place, and Post Oak sent next steps at 09:14 and a thank-you for attending at 10:00 on 11-19.
+- 2026-11-19 10:52 | RESOLVED notes:b16b53c6c5 | John Munschauer (Gallagher) owes a reply on guest coverage on docks/check-in/property at 2101 Paris Road (follow-up sent 11/17). If no answer by Fri, call him:… | Munschauer replied 11-18 with the P&I dock clause, and again 11-19 saying Apres Assets is an additional insured. The owed reply arrived.
+- 2026-11-19 11:14 | AUTO-DRAFTED notes:680d780b5f | Audacy 94/7fm ad pitch meeting, Portland on 2026-11-23: Audacy rep asks to meet next week (in person or video) about advertising on 94/7fm. Booking link: https…
+- 2026-11-19 12:10 | AUTO-DRAFTED radar:T0240 | Jonah asks if David is coming to the meeting

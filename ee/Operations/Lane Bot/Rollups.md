@@ -1,10 +1,11 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 10:19 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 12:46 PT.
 
-Counts: people 14, vendors 143, projects 6, money 548, promises 44, asks 75, dates 1046
+Counts: people 14, vendors 144, projects 6, money 561, promises 44, asks 76, dates 1058
 
 ## Open asks of Davey (Tier 0)
+- 11/19 12:05 Jonah [reply]: "You coming to this meeting?"
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
@@ -71,10 +72,15 @@ Counts: people 14, vendors 143, projects 6, money 548, promises 44, asks 75, dat
 
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-19 +19203273405: "tomorrow"
+- 2026-11-19 Alex: "today"
 - 2026-11-19 Claude: "11/19"
+- 2026-11-19 Claude: "today"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jonah: "11/19"
+- 2026-11-19 Jonah: "today"
 - 2026-11-19 Jordan Culberson: "Nov 19"
+- 2026-11-19 Mack: "November 19"
+- 2026-11-19 Mack: "today"
 - 2026-11-19 PSP/Deck Expo: "November 19"
 - 2026-11-20 Alex: "this week"
 - 2026-11-20 Bandi Joel Abhishek: "this week"
@@ -86,6 +92,7 @@ Counts: people 14, vendors 143, projects 6, money 548, promises 44, asks 75, dat
 - 2026-11-20 Davey: "this week"
 - 2026-11-20 Jen Newlin: "Nov 20"
 - 2026-11-20 Jonah: "11/20"
+- 2026-11-20 Jonah: "friday"
 - 2026-11-20 Jonah: "this week"
 - 2026-11-20 Pjstambaugh: "Nov 20"
 - 2026-11-20 Zoe Vives Jancou: "this week"
@@ -102,6 +109,7 @@ Counts: people 14, vendors 143, projects 6, money 548, promises 44, asks 75, dat
 - 2026-11-23 Ebb & Ember: "NOV 23"
 - 2026-11-23 Ebb & Ember: "Nov 23"
 - 2026-11-23 Ebb & Ember: "November 23"
+- 2026-11-23 John Ludwig: "next week"
 - 2026-11-23 Jonah: "11/23"
 - 2026-11-23 Jonah: "November 23"
 - 2026-11-23 Mack: "11/23"
@@ -112,6 +120,7 @@ Counts: people 14, vendors 143, projects 6, money 548, promises 44, asks 75, dat
 - 2026-11-24 Davey: "next tuesday"
 - 2026-11-26 Jonah: "11/26"
 - 2026-11-26 Mack: "Nov. 26"
+- 2026-11-26 Mack: "November 26"
 
 ## Silence over 5 days (Davey wrote last, no reply)
 - Mario (contractor): Davey last wrote 11/06 12:41, their last message 11/06 10:36

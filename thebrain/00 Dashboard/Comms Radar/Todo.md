@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,8 @@ _nothing_
 
 ## Needs you
 
-- [ ] Post Oak Group intro meeting with Umair Anjum, missed connection #Gravity-Trails #due:2026-11-19 #id:T0238
-  → David rejoin the Google Meet or reply to Umair Anjum to reschedule the intro meeting, since the 10:30am Nov 19 call was missed on both sides. (David; Gmail doorcountyzip@; touched 2026-11-19)
+- [ ] Jonah asks if David is coming to the meeting #due:2026-11-19 #id:T0240
+  → David answer Jonah on whether he is joining the meeting. (David; Text with Jonah Moses; touched 2026-11-19)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link and answer the carrier's questions via Max (expected revenue from the dock rental, whether it is rented with staff, supervision, what renters can access); Max is getting the no-watercraft-exclusion statement in writing, and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
@@ -129,6 +129,10 @@ _nothing_
   → Todd confirm whether Dustin's lawyer accepted $125,000 or $100,000, add the clawback line from 11/4, and give the exact date Dustin's 23 days run out on the motion. (Todd; Gmail dwrack81@; touched 2026-11-17)
 - [ ] Contrast Therapy API access question, Gene Cripps #waiting #id:T0226
   → Davey answer Gene Cripps on what he wants to achieve with API access, since they have no open API. (Davey; Gmail davey@; touched 2026-11-18)
+- [ ] Elevated Tides contractor, $4k bid, Jonah to lock in #waiting #id:T0239
+  → Jonah lock in the contractor who gave the $4k bid; David asked him to since he is busy the next 2 days. (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
+- [ ] Deal points for member interest sale: HD Clinton offset, Dustin closing payment, Macadam filing hold #waiting #id:T0241
+  → Todd get the final term sheet to Jonah with a short signing deadline for Drew, then Paul starts the transfer documents; if Dustin misses the date, the Macadam filing goes ahead. (Todd; Gmail dwrack81@; touched 2026-11-19)
 
 ## Open
 
@@ -192,6 +196,8 @@ _nothing_
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
   → NKST manager find another guide for the Fri Nov 20 2pm tour and reassign it in FareHarbor. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
+- [ ] NKST guest Tim Cunningham cancels Nov 20 2pm Manchac tour, food poisoning #NKST #due:2026-11-20 #id:T0242
+  → NKST staff cancel booking 386426260 for Fri Nov 20 2:00 pm and reply to Tim Cunningham about a refund or rebooking. (NKST staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] Louisiana Helpr 25 Days of Giveaways sponsor ask, Admire NOLA #Admire-NOLA #due:2026-11-22 #id:T0233
   → Admire NOLA staff decide whether to donate a prize for the Dec 1-25 giveaways and sign up by Sunday Nov 22, or ignore. (Admire NOLA staff; Gmail admirenola@; touched 2026-11-19)
 - [ ] GetYourGuide guest asks how to add transportation, Manchac tour Nov 26 #NKST #due:2026-11-26 #id:T0220
@@ -462,6 +468,9 @@ _nothing_
 - [x] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #done:2026-11-14 #id:T0185
   > David: Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
   > Radar: Marked resolved. Alan is invited to the Thursday Nov 19 marina party and gave booth 2923 at the spa conference.
+- [x] Post Oak Group intro meeting with Umair Anjum, missed connection #Gravity-Trails #due:2026-11-19 #done:2026-11-19 #id:T0238
+  > David: Closed by the resolver: David joined the 10:30 call, Umair rejoined, the meeting took place, and Post Oak sent next steps at 09:14 and a thank-you for attending at 10:00 on 11-19.
+  > Radar: Marked resolved. The meeting happened and Post Oak's next steps are in your inbox from 9:14 this morning.
 - [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031
 - [x] Marina insurance agent asks for vessel liability details #done:2026-11-13 #id:T0058
   > David: Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
