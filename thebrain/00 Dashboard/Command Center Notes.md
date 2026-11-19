@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-26 due | Sentry Tower: say "/sentry-tower prd contractor invoice" to get the PRD plus a 2-week landing-page test to local trades, or say drop it. #1 for 8 scans (see 00 Dashboard/Sentry Tower/2026-11-19.md) | DJL | default: it stays #1 on the tower and nothing gets built
 - 2026-11-23 due | Zoo Trippin' (Substack) holiday gift guide wants behind-the-scenes wildlife experiences, deadline Mon 11/23 8am ET. Say "draft it" for an NKST swamp tour / gift card pitch via /press-release, signed by the business | NKST | default: no pitch, guide runs without us
 - 2026-11-20 due | OpenCX: 'Aziz (aziz@open.cx)' was added as Admin on NKST, LSKT, DCKT and BBK (4 emails 11/18-19). Confirm it's OpenCX support on the SMS ticket, or remove him | All tour brands | default: an outside admin stays on 4 OpenCX orgs
 - Say go: Claude lists the top 10 'best of' listicles for NPB and NKST searches, marks which mention us, and stages pitches for the 3 highest that don't (TLDR Watchdog 2026-11-19: 90% of AI-recommended brands sit on a cited list) | NPB, NKST | default: AEO plan keeps listicles as its last input

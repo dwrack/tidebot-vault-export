@@ -1,6 +1,6 @@
 {
- "last_run": "2026-11-12",
- "scan_number": 7,
+ "last_run": "2026-11-19",
+ "scan_number": 8,
  "sources_ok": [
   "apple-itunes-rss",
   "google-play-appbrain (Business only, via WebFetch)",
@@ -8,58 +8,58 @@
   "hacker-news"
  ],
  "sources_thin": [
-  "google-play-appbrain: curl hits human check; Tools/Travel/Finance unread",
+  "google-play-appbrain: Food & Drink URL returned overall chart; no Play recipe read",
   "product-hunt: only 10 products, none consumer mobile"
  ],
  "clone_stacks": [
   {
    "category": "Food & Drink",
    "job": "recipe save + meal plan",
-   "count_in_top18": 8,
-   "change": "unchanged at 8; 3 new clones at #20-22"
+   "count_in_top18": 9,
+   "change": "8->9; Whipp #11->#3, Paprika 4 new #6 (went free), MyRecipes #18; eMeals out to #20; Mob, RecipeBox off top 25"
   },
   {
    "category": "Business",
    "job": "invoice + estimate",
    "count_in_top18": 6,
-   "change": "unchanged Apple 6; Play 6; QuickBooks #3->#5"
+   "change": "unchanged Apple 6; Play 6; QuickBooks Apple #5 / Play #3"
   },
   {
    "category": "Business",
    "job": "document scanner",
    "count_in_top18": 4,
-   "change": "unchanged at 4"
+   "change": "unchanged at 4; Scanner Pro off top 25"
   },
   {
    "category": "Utilities",
    "job": "storage/photo cleaner",
    "count_in_top18": 5,
-   "change": "unchanged at 5"
+   "change": "unchanged at 5; CleanX #23->#19"
   },
   {
    "category": "Finance",
    "job": "budgeting",
    "count_in_top18": 6,
-   "change": "unchanged at 6; Monarch #9->#4"
+   "change": "unchanged at 6; Monarch #4->#6"
   },
   {
    "category": "Health & Fitness",
    "job": "calorie/macro tracking",
-   "count_in_top18": 5,
+   "count_in_top18": 4,
    "verdict": "AI-native winner already (Cal AI); low Stale",
-   "change": "unchanged at 5"
+   "change": "5->4; Lose It #19, MyNetDiary #20 out"
   },
   {
    "category": "Travel",
    "job": "flight tracking",
-   "count_in_top18": 5,
+   "count_in_top18": 7,
    "verdict": "data plumbing, excluded",
-   "change": "unchanged; FlightDeck and FlightAware new at #16/#18, MAPS.ME gone"
+   "change": "7 in top 18 incl ATC Live #4; FlightAware out"
   },
   {
    "category": "Lifestyle",
    "job": "dating",
-   "count_in_top18": 9,
+   "count_in_top18": 11,
    "verdict": "network effect, excluded"
   },
   {
@@ -71,36 +71,36 @@
   {
    "category": "Education",
    "job": "language learning",
-   "count_in_top18": 7,
+   "count_in_top18": 6,
    "verdict": "curriculum-heavy, not pursuing"
   },
   {
    "category": "Travel",
    "job": "GPS audio tour",
    "count_in_top18": 0,
-   "change": "still 0; Parkwolf #22"
+   "change": "still 0; Parkwolf off top 25 entirely"
   }
  ],
  "thesis_proof": [
   {
+   "app": "Whipp",
+   "chart": "Food & Drink #3 (was #11)",
+   "note": "plan-first meal planner passed TapCook, mise, ATK; likely AI-native, unconfirmed"
+  },
+  {
+   "app": "Muse from Meta",
+   "chart": "Productivity #14 (was #19)",
+   "note": "big-tech personal agent; threat to voice-to-action and money coach"
+  },
+  {
    "app": "Google Gemini",
-   "chart": "Productivity #8 (was #14)",
+   "chart": "Productivity #7 (was #8)",
    "note": "big tech, not a rebuild signal"
   },
   {
-   "app": "Monarch",
-   "chart": "Finance #4 (was #9)",
-   "note": "passed YNAB, Copilot"
-  },
-  {
-   "app": "VibeShort / FlickReels (AI short dramas)",
-   "chart": "Reference #15 / #22",
+   "app": "VibeShort / Popia / FlickReels (AI stories)",
+   "chart": "Reference #16 / #17 / #21",
    "note": "content IP, Fit 1, not scored"
-  },
-  {
-   "app": "Plaud",
-   "chart": "Productivity #23 (back)",
-   "note": "hardware-linked"
   }
  ],
  "targets": [
@@ -125,7 +125,7 @@
    ],
    "risk": "Intuit/QuickBooks (#3) ships it; Solo/Jobber/Empacer-style voice assistant absorbs the job",
    "status": "open",
-   "note": "scan 7: Apple stack 6 holds, Play back to 6 (Invoice Home #16). QuickBooks #3->#5, Solo #22->#24, Jobber Apple #23->#21 / Play #15. Empacer off PH top 15. Flank pressure eased; PRD-or-drop call still open."
+   "note": "scan 8: Apple 6 / Play 6 unchanged; QuickBooks Apple #5 Play #3; Jobber Apple #22 Play #15; Solo Play #16. #1 for 8 scans; PRD-or-drop call put on dashboard."
   },
   {
    "rank": 2,
@@ -146,46 +146,7 @@
    "risk": "Apple ships into Photos; needs paid UA",
    "unlock": "Needle2 on-device LLM (scan 2); local every-frame photo/video search on macOS (Show HN 184pts, scan 3)",
    "status": "open",
-   "note": "scan 7: stack 5 unchanged, Cleanup #1; Clean Up Phone Storage #23 outside the stack. Kino AI (Launch HN, AI media manager) is a funded watch item, no chart position."
-  },
-  {
-   "rank": 3,
-   "name": "GPS audio tour",
-   "score": 20,
-   "demand": 2,
-   "collapse": 5,
-   "stale": 4,
-   "open": 4,
-   "fit": 5,
-   "incumbents": [
-    "GuideAlong",
-    "Parkwolf"
-   ],
-   "note": "scan 7: Parkwolf #23->#22, stack still empty 3 scans. Seasonal. No chart read on city routes.",
-   "change": "scan 5: Parkwolf #14->#19, now below the top 18, zero apps in the stack. Demand 3->2, 21->20. Seasonal park demand is off; no chart read on city routes.",
-   "status": "open"
-  },
-  {
-   "rank": 3,
-   "name": "Recipe capture + meal planner",
-   "score": 20,
-   "demand": 5,
-   "collapse": 5,
-   "stale": 4,
-   "open": 4,
-   "fit": 2,
-   "incumbents": [
-    "ReciMe",
-    "TapCook",
-    "Whipp",
-    "mise",
-    "Potto",
-    "Osta",
-    "NeatEat",
-    "eMeals"
-   ],
-   "note": "scan 7: same 8-app stack; Whipp #6->#11, Osta #10->#13, eMeals #14->#17. Three new clones just outside top 18 (MyRecipes #20, Mob #21, RecipeBox #22). Stack is growing, still no winner.",
-   "status": "open"
+   "note": "scan 8: stack 5 unchanged, Cleanup #1; CleanX #19. Kino AI no chart."
   },
   {
    "rank": 3,
@@ -205,27 +166,50 @@
    ],
    "risk": "already crowded with AI entrants; stack thinned 5->4",
    "status": "open",
-   "note": "scan 7: stack 4 holds (iScanner 3, Scanner App 4, Adobe Scan 12, Smart Printer 15); ScanGuru fell out of top 25; CamScanner Productivity #9"
+   "note": "scan 8: stack 4 (iScanner 3, Scanner App 4, Adobe 11, Smart Printer 15); Scanner Pro gone; CamScanner Productivity #8"
   },
   {
-   "rank": 6,
-   "name": "Voice-to-action assistant",
-   "score": 18,
-   "demand": 4,
+   "rank": 4,
+   "name": "Recipe capture + meal planner",
+   "score": 19,
+   "demand": 5,
    "collapse": 5,
    "stale": 3,
-   "open": 3,
-   "fit": 3,
+   "open": 4,
+   "fit": 2,
    "incumbents": [
-    "Pocket AI",
-    "Summary AI Note Taker",
-    "Otter"
+    "ReciMe",
+    "Whipp",
+    "TapCook",
+    "Paprika",
+    "mise",
+    "Osta",
+    "Potto",
+    "NeatEat",
+    "MyRecipes"
    ],
-   "note": "scan 7: Otter #13->#14, Summary #16, Speechify #18, Plaud back #23, Pocket out of top 25. Yogurt (free private open-source Granola alt, Show HN 269) commoditizes local meeting notes; Open at risk.",
+   "note": "scan 8: stack 9. Whipp #11->#3 (plan-first, likely AI-native) and Paprika 4 went free, new #6. Stale 4->3, 20->19. Gap closing.",
    "status": "open"
   },
   {
-   "rank": 7,
+   "rank": 5,
+   "name": "Voice-to-action assistant",
+   "score": 17,
+   "demand": 4,
+   "collapse": 5,
+   "stale": 3,
+   "open": 2,
+   "fit": 3,
+   "incumbents": [
+    "Otter",
+    "Summary AI Note Taker",
+    "Muse from Meta"
+   ],
+   "note": "scan 8: Muse from Meta #19->#14 (personal agent: email, bookings, budgets). Big-tech owner, Open 3->2, 18->17. Otter #13, Summary #17, Speechify #20, Plaud #23.",
+   "status": "open"
+  },
+  {
+   "rank": 5,
    "name": "Photo calorie logger",
    "score": 17,
    "demand": 5,
@@ -240,11 +224,11 @@
     "Cronometer",
     "MyNetDiary"
    ],
-   "note": "scan 7: Cal AI #10, MacroFactor #12. Stale 1, not recommended",
+   "note": "scan 8: stack 5->4; Cal AI #11, MacroFactor #12. Stale 1, not recommended",
    "status": "not recommended"
   },
   {
-   "rank": 7,
+   "rank": 5,
    "name": "Identify-anything camera",
    "score": 17,
    "demand": 4,
@@ -257,27 +241,28 @@
     "PlantIn"
    ],
    "status": "open",
-   "note": "scan 7: PictureThis #3, PlantIn #13, both unchanged"
+   "note": "scan 8: PictureThis #3, PlantIn #13 unchanged; Yuka (food/cosmetic scanner) new Health #24"
   },
   {
-   "rank": 9,
+   "rank": 5,
    "name": "Claim finder",
-   "score": 16,
-   "demand": 3,
+   "score": 17,
+   "demand": 4,
    "collapse": 4,
    "stale": 3,
    "open": 4,
    "fit": 2,
    "incumbents": [
+    "Collect - Settlement Finder",
     "Settlemate"
    ],
-   "chart": "Finance grossing #16 (was #13)",
+   "chart": "Finance grossing: Collect #15, Settlemate #16",
    "risk": "needs inbox/purchase access; single app, no imitators yet",
-   "status": "watch",
-   "note": "scan 7: Settlemate #13->#16, Collect (Settlement Finder) new #21: first imitator. Subscription cancellers Subpilot #22, SubSeek #23 sit next to it."
+   "status": "open",
+   "note": "scan 8: Collect #21->#15 passed Settlemate #16; Subpilot #20. 2 in top 18, Demand 3->4, 16->17, watch->open."
   },
   {
-   "rank": 10,
+   "rank": 9,
    "name": "Money coach",
    "score": 15,
    "demand": 5,
@@ -294,10 +279,10 @@
    ],
    "risk": "Plaid plumbing is the real moat; on-device budgeting (Pulse Local, Show HN) now exists",
    "status": "open",
-   "note": "scan 7: stack 6; Monarch #9->#4 passed YNAB (#7) and Copilot (#6); Rocket #3"
+   "note": "scan 8: stack 6; Monarch #4->#6, YNAB #7, Copilot #8, Rocket #3. Muse from Meta tracks budgets too."
   },
   {
-   "rank": 10,
+   "rank": 9,
    "name": "Fax / print utility",
    "score": 15,
    "demand": 4,
@@ -305,11 +290,11 @@
    "stale": 5,
    "open": 4,
    "fit": 1,
-   "note": "scan 7: FAX from iPhone #7 Business; Play has 3 fax apps in top 20",
+   "note": "scan 8: FAX from iPhone #7, FaxFree #18, new fax clone #25; Play: 3 fax apps in top 20",
    "status": "not recommended"
   },
   {
-   "rank": 12,
+   "rank": 11,
    "name": "AI study companion",
    "score": 13,
    "demand": 4,
@@ -321,17 +306,38 @@
     "Gauth",
     "Quizlet"
    ],
-   "note": "scan 7: Gauth #12->#18 (slipping), Quizlet #4",
+   "note": "scan 8: Gauth #18->#15, Gizmo AI Tutor #20, Quizlet #4",
    "status": "not recommended"
+  },
+  {
+   "rank": null,
+   "name": "GPS audio tour",
+   "score": 19,
+   "demand": 1,
+   "collapse": 5,
+   "stale": 4,
+   "open": 4,
+   "fit": 5,
+   "incumbents": [
+    "GuideAlong",
+    "Parkwolf"
+   ],
+   "note": "scan 8: Parkwolf off Travel top 25, GuideAlong absent. No chart position, so unranked per standing rule. Kept visible: only Fit-5 target.",
+   "change": "scan 5: Parkwolf #14->#19, now below the top 18, zero apps in the stack. Demand 3->2, 21->20. Seasonal park demand is off; no chart read on city routes.",
+   "status": "watch (off-chart)"
   }
  ],
  "seen_apps": [
   "AI Cleaner",
+  "ATC - Live Air Traffic Radio",
   "Adobe Scan",
+  "Alarmy",
   "Astra - Life Advice",
+  "BlinkDrama",
   "Bon Appetit",
   "Cal AI",
   "CamScanner",
+  "Camtro",
   "ChatOn",
   "Chromagraph Camera",
   "CleanX",
@@ -343,6 +349,7 @@
   "Collect - Settlement Finder",
   "Copilot",
   "Cronometer",
+  "Delish",
   "DuckDuckGo",
   "Easy Invoice & Estimate Maker",
   "Empacer",
@@ -350,6 +357,7 @@
   "EveryDollar",
   "FAX from iPhone",
   "FaxFlow",
+  "FaxFlow (Play)",
   "FaxFree",
   "FlickReels",
   "Flight Tracker +",
@@ -359,8 +367,11 @@
   "Flighty",
   "Gauth",
   "Genius Scan",
+  "Genius Scan (Play)",
+  "Gizmo: AI Tutor",
   "Grok",
   "Grok Bot",
+  "Gronda",
   "GuideAlong",
   "Hey Noah",
   "Inkitt CandyJar",
@@ -374,10 +385,12 @@
   "Janitor",
   "Jobber",
   "Joist",
+  "Kiddopia",
   "LADDER",
   "LangLearn",
   "Learna",
   "Lenme: Cash Advances & Loans",
+  "Localize - Farmers Market",
   "Lose It!",
   "MAPS.ME",
   "MacroFactor",
@@ -388,6 +401,7 @@
   "Mob: Meal Planner and Recipes",
   "Momo",
   "Monarch",
+  "Muse from Meta",
   "MyFitnessPal",
   "MyNetDiary",
   "MyRecipes",
@@ -397,6 +411,7 @@
   "Osta",
   "Otter",
   "OurFamilyWizard",
+  "Paprika Recipe Manager 4",
   "Parkwolf",
   "Pepper",
   "Photoroom",
@@ -410,6 +425,7 @@
   "Popia",
   "Potto",
   "Quizlet",
+  "Receipt Scanner: Easy Expense",
   "ReciMe",
   "RecipeBox",
   "Rocket Money",
@@ -418,6 +434,7 @@
   "Scanner App",
   "Screen Mirroring | Cast to TV",
   "SeaHaze",
+  "Seed Oil Scout",
   "Settlemate",
   "Simply Draw",
   "SimplyWise",
@@ -437,16 +454,21 @@
   "TapeACall",
   "Tiny Scanner",
   "Tinybeans",
+  "TipRanks",
   "Tipsy",
   "Track My Flight Now",
   "Tripsy",
+  "UniRemote",
+  "Universal TV Remote Control",
   "VibeShort",
   "Wanderlog",
   "Whipp",
   "Whispy AI",
   "YNAB",
   "Your Secret Menu Recipes",
+  "Yuka - Food & Cosmetic Scanner",
   "eMeals",
+  "eero wifi system",
   "iCardiac",
   "iScanner",
   "mFAX",
