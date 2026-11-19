@@ -223,3 +223,6 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-18 11:11 | AUTO-DRAFTED notes:97438853e3 | Reply to Wellyx about booking a 20-minute demo this week covering API needs and tailored pricing (asked by Wellyx via davey@ email 2026-11-18)
 - 2026-11-18 16:14 | AUTO-DRAFTED radar:T0229 | Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law
 - 2026-11-19 05:24 | AUTO-DRAFTED notes:c67e27e458 | Reply to the unanswered Google reviews: NPB 2-star JP Trigo Nov 8 (day 11, checker confirmed unreplied 11/19) and NKST 3-star Jeanette Quirk Nov 13 (day 6), pl…
+- 2026-11-19 09:20 | RESOLVED radar:T0225 | Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher | Gallagher sent the Starnet P&I wording 11-18. After David replied that they own the property, Gallagher said on 11-19 that Apres Assets is an additional insured on the policy.
+- 2026-11-19 10:12 | AUTO-DRAFTED radar:T0238 | Post Oak Group intro meeting with Umair Anjum, missed connection
+- 2026-11-19 10:12 | AUTO-DRAFTED radar:T0237 | Progressive commercial auto premium up $4,471, paid-in-full discount removed, Gravity Trails

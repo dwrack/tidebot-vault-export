@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,6 +15,8 @@ _nothing_
 
 ## Needs you
 
+- [ ] Post Oak Group intro meeting with Umair Anjum, missed connection #Gravity-Trails #due:2026-11-19 #id:T0238
+  → David rejoin the Google Meet or reply to Umair Anjum to reschedule the intro meeting, since the 10:30am Nov 19 call was missed on both sides. (David; Gmail doorcountyzip@; touched 2026-11-19)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link and answer the carrier's questions via Max (expected revenue from the dock rental, whether it is rented with staff, supervision, what renters can access); Max is getting the no-watercraft-exclusion statement in writing, and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
@@ -65,6 +67,8 @@ _nothing_
   → David and Davey answer Todd Key's two questions: are you still good with the deal, and do you want to proceed with the Macadam filing; his lawyer's only remaining ask is 14 days between closing of the HD Clinton/member interest transaction and the Macadam note due date. (David; Gmail dwrack81@; touched 2026-11-18)
 - [ ] OpenCX: unknown admin 'Aziz' added to five brand accounts #BBK #DCKT #LSKT #HPB #NKST #id:T0230
   → David check platform.open.cx members and confirm whether Aziz was added on purpose; if not, remove the admin from all five orgs and rotate credentials. (David; Gmail dwrack81@, Gmail doorcountykayaking@; touched 2026-11-18)
+- [ ] Progressive commercial auto premium up $4,471, paid-in-full discount removed, Gravity Trails #Gravity-Trails #id:T0237
+  → David tell Megan Boyd whether to restore the paid in full option on Progressive policy 02744196, since the 12-month premium went from $21,800 to $26,271 on installments. (David; Gmail doorcountyzip@; touched 2026-11-19)
 
 ## Waiting on someone
 
@@ -411,24 +415,22 @@ _nothing_
   → NKST staff do not click the Google Forms link or submit anything; check the page's real status in Meta Business Suite, and treat the email as phishing. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] INNOVATX Events group inquiry, Houston conference Sept 2027, BBK #BBK #id:T0219
   → BBK manager reply to Allegra Zwaan with group size limits, per-person pricing and minimums, tour duration and inclusions for her preliminary proposal. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-17)
-- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
-  → Ignore these and send no bank statements, ID or voided check; Vincent Dorsey of BrightFunds Network is another cold pitch for a Friday call on a funding line, same pattern. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-18)
-  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
-  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Apify usage limit hit and API tokens revoked (NPB and doorcountyzip accounts) #NPB #id:T0028
   → David or whoever runs the Apify jobs create new API tokens on both Apify accounts, update every integration that uses them, and renew the usage limit; all tokens were revoked Nov 11-12 after a security incident. (David; Gmail nolapedalbarge@, Gmail doorcountyzip@; touched 2026-11-18)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
   → Davey finish sorting the Piety parking and debris; guides skip white van #3 (leaking rear tire, no keys), stay off the grass, park vans forward so the gate isn't blocked, and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
-- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
-  → Wait for Jonah's update tonight on his BDS call; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-18)
 - [ ] Expedia wants rates to relist Austin Kayak tours #AKT #id:T0224
   → Connor send Krish the per-person retail rate and current timings for City Skyline, Congress Bridge Bats Evening and Sunset Skyline tours so he can set them up through the end of 2027. (Connor; Gmail austinkayaktours@; touched 2026-11-18)
-- [ ] Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher #NPB #id:T0225
-  → David read the Starnet P&I clause (page 61 of the attached policy, covers passengers embarking and disembarking via docks and piers at the normal docking area) and check whether any contract for the Paris Road property requires general liability, since John says none is needed if Gravity Trails does not own the property. (David; Gmail nolapedalbarge@; touched 2026-11-18)
 - [ ] Bike Bar text lead: does a full buyout require everyone 21+ #NOLA-Bike-Bar #id:T0228
   → Bike Bar team reply to the texter on whether a full buyout requires all guests to be 21+, with availability and pricing. (Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-18)
 - [ ] NKST website trip form submission, no details in the email #NKST #id:T0231
   → NKST manager open the 'Tell us a little about your trip' form submission in FareHarbor, read the guest's request and reply. (NKST manager; Gmail nolakayaktours@; touched 2026-11-18)
+- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
+  → Ignore these and send no bank statements, ID or voided check; Vincent Dorsey of BrightFunds Network followed up again Nov 19 offering a 50k to 300k line, same cold pitch. (David; Gmail doorcountykayaking@; touched 2026-11-19)
+  > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
+  > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
+  → Wait for Jonah's reply on the BDS update and the electric run; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
 - [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
   → Ignore, or reply once; Harry Ricketts followed up asking Nola to reply 'Swap' or say what the $250 includes, which looks like a link-buying pitch. (Admire NOLA staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] M&A outreach about New Orleans Pedal Barge from Kathleen Gray #NPB #id:T0234
@@ -513,3 +515,6 @@ _nothing_
   > David: Closed by the resolver: Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
   > Radar: Marked resolved. AKT replied to Rachel Foster agreeing to the call with the buyer, so nothing is open on this beyond the call itself.
 - [x] NKST TripAdvisor refund processed, Nov 18 Manchac Extended tour (Alejandro Gallarzo) #NKST #done:2026-11-17 #id:T0223
+- [x] Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher #NPB #done:2026-11-19 #id:T0225
+  > David: Closed by the resolver: Gallagher sent the Starnet P&I wording 11-18. After David replied that they own the property, Gallagher said on 11-19 that Apres Assets is an additional insured
+  > Radar: Noted as closed. Gallagher confirmed on Nov 19 that Apres Assets is only an additional insured, so its own coverage quote stays open under T0060.
