@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 12:46 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 14:56 PT.
 
-Counts: people 14, vendors 144, projects 6, money 561, promises 44, asks 76, dates 1058
+Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dates 1066
 
 ## Open asks of Davey (Tier 0)
 - 11/19 12:05 Jonah [reply]: "You coming to this meeting?"
@@ -75,6 +75,7 @@ Counts: people 14, vendors 144, projects 6, money 561, promises 44, asks 76, dat
 - 2026-11-19 Alex: "today"
 - 2026-11-19 Claude: "11/19"
 - 2026-11-19 Claude: "today"
+- 2026-11-19 Ebb & Ember: "Nov 19"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jonah: "11/19"
 - 2026-11-19 Jonah: "today"
@@ -109,10 +110,12 @@ Counts: people 14, vendors 144, projects 6, money 561, promises 44, asks 76, dat
 - 2026-11-23 Ebb & Ember: "NOV 23"
 - 2026-11-23 Ebb & Ember: "Nov 23"
 - 2026-11-23 Ebb & Ember: "November 23"
+- 2026-11-23 Ebb & Ember: "next week"
 - 2026-11-23 John Ludwig: "next week"
 - 2026-11-23 Jonah: "11/23"
 - 2026-11-23 Jonah: "November 23"
 - 2026-11-23 Mack: "11/23"
+- 2026-11-23 Mack: "next week"
 - 2026-11-23 Pool Spa Patio and Deck Expo: "next week"
 - 2026-11-23 Sergey: "next week"
 - 2026-11-23 sauna@ebbandember.com: "November 23"

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -391,8 +391,6 @@ _nothing_
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; Mujahid Khan followed up again asking whether to narrow the Cave Point/shipwreck feature to two outlets and quote costs, which points to a paid placement pitch. (David; Gmail doorcountykayaking@; touched 2026-11-16)
-- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
-  → Log in to the Admire NOLA Instagram account on mbp-2 (Screen Sharing, admire Chrome profile); the engage bot is paused 24h. Hidden Adventure Threads login still needs checking too. (David; Slack #helm-admire; touched 2026-11-16)
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson: can a 17-year-old attend a full Bike Bar buyout for a 21st birthday, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-16)
 - [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
@@ -435,6 +433,8 @@ _nothing_
   → Ignore these and send no bank statements, ID or voided check; Vincent Dorsey of BrightFunds Network followed up again Nov 19 offering a 50k to 300k line, same cold pitch. (David; Gmail doorcountykayaking@; touched 2026-11-19)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+- [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
+  → Log in to the Hidden Adventure Tours Threads account on mbp-2 (Screen Sharing, hat Chrome profile) and the Admire NOLA Instagram account (admire Chrome profile); the engage bot is paused 24h. (David; Slack #helm-admire; touched 2026-11-19)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
   → Wait for Jonah's reply on the BDS update and the electric run; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
 - [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
