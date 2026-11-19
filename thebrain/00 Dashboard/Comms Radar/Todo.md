@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-18 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-18 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -423,6 +423,8 @@ _nothing_
   → David read the Starnet P&I clause (page 61 of the attached policy, covers passengers embarking and disembarking via docks and piers at the normal docking area) and check whether any contract for the Paris Road property requires general liability, since John says none is needed if Gravity Trails does not own the property. (David; Gmail nolapedalbarge@; touched 2026-11-18)
 - [ ] Bike Bar text lead: does a full buyout require everyone 21+ #NOLA-Bike-Bar #id:T0228
   → Bike Bar team reply to the texter on whether a full buyout requires all guests to be 21+, with availability and pricing. (Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-18)
+- [ ] NKST website trip form submission, no details in the email #NKST #id:T0231
+  → NKST manager open the 'Tell us a little about your trip' form submission in FareHarbor, read the guest's request and reply. (NKST manager; Gmail nolakayaktours@; touched 2026-11-18)
 
 ## Backburner (LSKT)
 
