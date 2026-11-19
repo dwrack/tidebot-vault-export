@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 19:40 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 21:06 PT.
 
-Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dates 1040
+Counts: people 14, vendors 143, projects 6, money 546, promises 44, asks 75, dates 1042
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -70,6 +70,8 @@ Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dat
 - 11/16 11:21 "Its under the waiver, ill be on computer soon and can elaborate." (#dev | thread: i am working on getting waiver signers added into active campaign after they sig)
 
 ## Dates inside 7 days (as mentioned in messages)
+- 2026-11-18 Amanda Ives at Raphael House: "today"
+- 2026-11-18 Amanda Ives at Raphael House: "tonight"
 - 2026-11-18 Anna Nelson: "11/18"
 - 2026-11-18 Claude: "11/18"
 - 2026-11-18 Claude: "tomorrow"
@@ -151,6 +153,6 @@ Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dat
 - $15,099.25 Davey 11/05 17:57 "$15,099.25" (Tier 3: over threshold) Re: Ebb & Ember renewal 11/6/2026: please quote other carrie
 - $13,999.00 The Sauna Place 11/11 15:32 "$13,999" (Tier 3: over threshold) Black Friday starts today: Up to 20% off Heritage saunas
 - $13,000.00 Davey 11/11 09:12 "$13000" (Tier 3: over threshold) text with Jonah
-- $11,199.20 The Sauna Place 11/11 15:32 "$11,199.20" (Tier 3: over threshold) Black Friday starts today: Up to 20% off Heritage saunas
+- $12,500.00 Amanda Ives at Raphael House 11/18 21:03 "$12,500" (Tier 3: over threshold) Seeds of change 🌱
 
 Tier 3 threshold is the proposed $500 (open decision 4, not decided by Davey).
