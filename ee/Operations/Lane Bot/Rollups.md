@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 18:30 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 19:40 PT.
 
-Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dates 1038
+Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dates 1040
 
 ## Open asks of Davey (Tier 0)
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -82,6 +82,7 @@ Counts: people 14, vendors 142, projects 6, money 542, promises 44, asks 75, dat
 - 2026-11-18 Relay Financial: "November 18"
 - 2026-11-18 Scott Fogarty: "today"
 - 2026-11-19 +19203273405: "tomorrow"
+- 2026-11-19 Claude: "11/19"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jonah: "11/19"
 - 2026-11-19 Jordan Culberson: "Nov 19"

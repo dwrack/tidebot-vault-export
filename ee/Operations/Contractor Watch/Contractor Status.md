@@ -1,11 +1,11 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-18 17:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-18 19:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 233h ago)
+- **nudge** Electricians has not answered: Quote sheet for the V2 electrical job sent to 11 shops. Please quote by Fri 11/14. (asked 2026-11-09T00:00, 235h ago)
   - draft: "Hey, following up on the electrical quote request for the sauna float. We're making a decision this week. Can you get us a number with permit and inspections included?"
-- **nudge** Electricians has not answered: Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45, 103h ago)
+- **nudge** Electricians has not answered: Updated quote sheet and photos sent to Smiley Electric and Coy Electric. Please quote on the updated scope. (asked 2026-11-14T10:45, 105h ago)
   - draft: "Hey, did the updated sheet and photos come through for the sauna float electrical? Can you get us a number with permit and inspections included?"
 - **overdue** Electricians: 'Remaining electrical quotes from the 11-shop round are due.' was due 2026-11-14 and is not done (Quote sheet sent 11/9 from sauna@. 11/14 is a Saturday by the calendar, so the 'Fri' in the original note is off; treated 11/14 as the due date as written. Overdue since 11/15. Davey forwarded the threads to Jonah 11/16 08:58.)
   - draft: "Hey, checking in on the electrical quote for the sauna float at 173 NE Bridgeton. We're making the call this week. Can you get it to me in the next day or two? The quote needs to include permit and inspections."
@@ -22,10 +22,12 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-18 17:25 PT. Read-o
 - **scope change** Electricians: Pacific NW says the dock pedestal inlet has no room for another feed without a new circuit from the main panel. Davey's sheet assumed a 20 A inlet off the pedestal's 20 A outlet. If true, the feed could mean a marina or panel upgrade and added cost. Ask the remaining shops to price it and confirm with the marina what the pedestal can supply.
 - **other** Electricians: Pacific NW and Boones Ferry (can't start until Dec 14) are out. Quotes still pending from Smiley and Coy, plus Community Electric's $4,800. Dickinson's Electric is a possible fast replacement.
 - **other** Electricians: Davey is out this week and on 11/16 08:58 forwarded the Smiley, Pacific NW, Unity, Community, office@ptpnw.com, Boones Ferry and Coy threads to Jonah to line up the electricians. Jonah owns follow-ups, including the Smiley call back and the Community permit question. Davey said at 08:33 in #private-saunas-build he'd forward any other electrician contacts too.
-- **nudge** Alex has not answered: Mount the three ABC extinguishers (private sauna doors and shared deck by fire pits) and count life jackets including kid sizes, with photos of each. (asked 2026-11-15T17:07, 72h ago)
+- **nudge** Alex has not answered: Mount the three ABC extinguishers (private sauna doors and shared deck by fire pits) and count life jackets including kid sizes, with photos of each. (asked 2026-11-15T17:07, 74h ago)
   - draft: "Hey Alex, did you get a chance to mount the extinguishers and count the life jackets? Photos in #maintenance please."
-- **nudge** Alex has not answered: Jonah 13:23: post map photos in #maintenance with the slip number in the message (e.g. 'slip 49, looking west') instead of building photo uploads into the map. (asked 2026-11-17T13:23, 28h ago)
+- **nudge** Alex has not answered: Jonah 13:23: post map photos in #maintenance with the slip number in the message (e.g. 'slip 49, looking west') instead of building photo uploads into the map. (asked 2026-11-17T13:23, 30h ago)
   - draft: "Hey Alex, when you get a chance, post the map photos in #maintenance with the slip number in each message, like 'slip 49, looking west'."
+- **nudge** Alex has not answered: Jonah 18:10: Alex, on Thursday 11/19 please pick up the white boat bumpers from Anne-Marie's deck at slip 17. (asked 2026-11-17T18:10, 25h ago)
+  - draft: "Hey Alex, quick check that the white boat bumpers at slip 17 are on your list for Thursday. Post a note in #maintenance once they're picked up."
 - **overdue** Alex: 'Meet Jonah at the marina Tuesday 11/17, 11:30 AM to noon, to walk the Facilities Board and trim the P1 list.' was due 2026-11-17 and is not done (Alex confirmed 11/16 10:10. The window has passed but nothing in these messages confirms it occurred; Alex posted at 12:42 about dock lights, no mention of the walk. Kept open until confirmed.)
 - **you owe** Alex is waiting on us (jonah): Alex 16:04: he may not know the failure point of the current ladder; wants Jonah to point it out tomorrow and he'll take a second look. (since 2026-11-16T16:04)
   - draft: "Show him the buckled main handle at the 11/17 marina walk (Davey said it buckled within a month). Confirm it happened; if the walk was missed, do it this week."
