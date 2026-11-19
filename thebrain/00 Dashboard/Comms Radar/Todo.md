@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-18 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -186,6 +186,8 @@ _nothing_
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
   → NKST manager find another guide for the Fri Nov 20 2pm tour and reassign it in FareHarbor. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-13)
+- [ ] Louisiana Helpr 25 Days of Giveaways sponsor ask, Admire NOLA #Admire-NOLA #due:2026-11-22 #id:T0233
+  → Admire NOLA staff decide whether to donate a prize for the Dec 1-25 giveaways and sign up by Sunday Nov 22, or ignore. (Admire NOLA staff; Gmail admirenola@; touched 2026-11-19)
 - [ ] GetYourGuide guest asks how to add transportation, Manchac tour Nov 26 #NKST #due:2026-11-26 #id:T0220
   → NKST staff reply to Catherine Zhang via GetYourGuide to confirm whether transportation was selected on her Nov 26 11:30 am booking and how to add it. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
@@ -425,6 +427,10 @@ _nothing_
   → Bike Bar team reply to the texter on whether a full buyout requires all guests to be 21+, with availability and pricing. (Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-18)
 - [ ] NKST website trip form submission, no details in the email #NKST #id:T0231
   → NKST manager open the 'Tell us a little about your trip' form submission in FareHarbor, read the guest's request and reply. (NKST manager; Gmail nolakayaktours@; touched 2026-11-18)
+- [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
+  → Ignore, or reply once; Harry Ricketts followed up asking Nola to reply 'Swap' or say what the $250 includes, which looks like a link-buying pitch. (Admire NOLA staff; Gmail nolakayaktours@; touched 2026-11-19)
+- [ ] M&A outreach about New Orleans Pedal Barge from Kathleen Gray #NPB #id:T0234
+  → David ignore or decide whether to take the call; Kathleen Gray sent three notes Nov 18-19 including a Calendly link claiming a PE firm wants to buy NPB-type businesses, which reads as a cold banker pitch. (David; Gmail dwrack81@; touched 2026-11-19)
 
 ## Backburner (LSKT)
 
@@ -433,7 +439,6 @@ _nothing_
 
 ## Done (last 14 days)
 
-- [x] GetYourGuide solo guest, Houston Sunset Skyline Oct 31, wants credit note #LSKT #AKT #due:2026-10-31 #done:2026-11-04 #id:T0025
 - [x] AKT Riverside Lot parking permit statement $2,082.40 #AKT #due:2026-11-01 #done:2026-11-05 #id:T0002
 - [x] Soward v. TripAdvisor hearing date, reply needed #AKT #due:2026-11-03 #done:2026-11-05 #id:T0001
 - [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #done:2026-11-12 #id:T0161
@@ -455,9 +460,6 @@ _nothing_
 - [x] Marina insurance agent asks for vessel liability details #done:2026-11-13 #id:T0058
   > David: Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
   > Radar: Marked resolved. Michael answered the slip liability question and sent loss runs, and the quote work continues under the Apres Assets thread. The separate worry about dock and gas station coverage now has its own thread.
-- [x] Certified Travel Media New Orleans brochure distribution offer #NPB #done:2026-11-04 #id:T0068
-- [x] Pool Spa Patio Expo in NOLA, David going today #waiting #done:2026-11-04 #id:T0072
-- [x] Viator refund processed, NKST Manchac Extended Oct 18, Daria Gerasimova #NKST #done:2026-11-04 #id:T0077
 - [x] Jonah asks David to sign Maureen's DocuSign for 9, releases $10k earnest from WFG #done:2026-11-06 #id:T0047
   > David: ive done that awhile ago and i told you i did it. why are you asking again.
   > Radar: You're right, my mistake. I marked it resolved.
