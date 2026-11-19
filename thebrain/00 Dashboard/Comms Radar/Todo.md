@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -182,6 +182,8 @@ _nothing_
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Fairmont New Orleans Prestige Magazine meeting confirmation, Nov 19 8 AM #NPB #due:2026-11-19 #id:T0227
   → NPB manager check whether anyone actually booked this Nov 19 8 AM Fairmont meeting; it reads like a paid advertorial pitch, so skip it unless the team asked for it. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-18)
+- [ ] Calendly intro meeting with Umair Anjum, Investment Banking Team, today 10:30am CT #due:2026-11-19 #id:T0236
+  → David confirm whether he booked this intro meeting (Google Meet, 10:30am CT today) and attend or skip; the message does not say what it is about. (David; Gmail doorcountyzip@; touched 2026-11-19)
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
@@ -193,7 +195,7 @@ _nothing_
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
 - [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
-  → Michael or David complete the 11-page supplemental application for the boat slip rental coverage and return it to Shelley Zahn; compare incoming quotes against the first GL quote of $8,883.25 per year. (Michael Fischer; Gmail doorcountyzip@; touched 2026-11-18)
+  → Michael or David get Apres Assets its own liability and property coverage quote, since Gallagher says Apres Assets is only an additional insured on the Gravity Trails Starnet policy; also finish the supplemental application for Shelley Zahn. (Michael Fischer; Gmail nolapedalbarge@; touched 2026-11-19)
   > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
   > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
   > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
@@ -431,6 +433,8 @@ _nothing_
   → Ignore, or reply once; Harry Ricketts followed up asking Nola to reply 'Swap' or say what the $250 includes, which looks like a link-buying pitch. (Admire NOLA staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] M&A outreach about New Orleans Pedal Barge from Kathleen Gray #NPB #id:T0234
   → David ignore or decide whether to take the call; Kathleen Gray sent three notes Nov 18-19 including a Calendly link claiming a PE firm wants to buy NPB-type businesses, which reads as a cold banker pitch. (David; Gmail dwrack81@; touched 2026-11-19)
+- [ ] Expedia wants rates and timings to relist AKT tours #AKT #id:T0235
+  → Connor send Krish Ragoowansi the per-person retail rate and current timings for City Skyline, Congress Bridge Bats and Sunset Skyline tours so Expedia can set them up through the end of 2027. (Connor Champagne; Gmail austinkayaktours@; touched 2026-11-19)
 
 ## Backburner (LSKT)
 
