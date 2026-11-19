@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 0
-revenue_today: 0
+bookings_today: 1
+revenue_today: 179
 lead_time_days: 0
-ad_spend_yday: 33
+ad_spend_yday: 4
 status: yellow
-alert: "13% of goal"
-updated: 2026-11-18
+alert: "15% of goal"
+updated: 2026-11-19
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $579/wk booked vs $4,500 target — 13% of goal.** 0 booked Tue.
-- BBK PMax $67.05 for 2.51 conv ($200.87) and Generic Local $38.45 for 1 conv (7d) are the working Texas campaigns. IG reel 11/17.
+- **Goal pace: $688/wk booked vs $4,500 target — 15% of goal.** 1 / $179 Wed; 1 trip ran ($97).
+- **Google:** PMax $69.30 for 2.51 conv ($200.87), generic search $28.63 for 1 ($108). Houston Meta $0 Wed.
 <!-- live:end -->
 
 <!-- maps:start -->

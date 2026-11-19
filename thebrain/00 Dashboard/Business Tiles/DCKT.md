@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-18
+updated: 2026-11-19
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $190/wk booked vs $7,000 target — 3% of goal.** Closed for the season; Google $0, Meta no data.
-- Off-season GSC clicks come from sauna terms ("sauna door county" 5 clicks, pos 3.8). IG last post 11/12.
+- **Goal pace: $0/wk booked vs $7,000 target — 0% of goal.** Closed for the season; Google $0, Meta no spend.
+- Off-season GSC clicks come from sauna terms ("sauna door county" pos 2.9). IG last post 11/12.
 <!-- live:end -->
 
 <!-- maps:start -->

@@ -7,8 +7,8 @@ revenue_today: 0
 lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
-alert: "3 open 5★ incl. Jonah Kest (check)"
-updated: 2026-11-18
+alert: "4 open 5★ incl. Jonah Kest (check)"
+updated: 2026-11-19
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28** (still no GSC, GA4 or Meta account).
-- 3 unreplied 5★: Jonah Kest (11/17, if ours ask him to remove), Christiane Farentinos (11/16), Kaitlin Beck (11/14); in the E&E tab. Gift-card promo post 11/16 (25% extra, 11/27 to 11/30).
+- **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; still no GSC, GA4 or Meta ad account.**
+- 4 open 5★ incl. Kyle Sweeney (11/18 new) and Jonah Kest (11/17, check if it's our Jonah). IG last post 11/16.
 <!-- live:end -->
 
 <!-- maps:start -->

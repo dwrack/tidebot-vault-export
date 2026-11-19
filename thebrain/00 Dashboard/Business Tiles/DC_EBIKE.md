@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-18
+updated: 2026-11-19
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: commit_domain_to_rentals. No movement since 2026-08-28** (not verified this run).
-- GSC: "bike rental door county" pos 7.7, 0 clicks (site-mapping caveat in brief).
+- **Goal: commit_domain_to_rentals. No movement since 2026-08-28.**
+- GSC 0 clicks / 19 impressions (11/11-11/18). Newest Google review 7/2023.
 <!-- live:end -->
 
 <!-- maps:start -->

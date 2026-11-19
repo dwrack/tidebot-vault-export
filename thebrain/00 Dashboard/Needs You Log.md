@@ -222,3 +222,4 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-18 09:11 | AUTO-DRAFTED notes:bcf1b4427f | Reply to Gene at the data vendor about what you want to achieve with API access (asked by Gene via davey@ email 2026-11-18)
 - 2026-11-18 11:11 | AUTO-DRAFTED notes:97438853e3 | Reply to Wellyx about booking a 20-minute demo this week covering API needs and tailored pricing (asked by Wellyx via davey@ email 2026-11-18)
 - 2026-11-18 16:14 | AUTO-DRAFTED radar:T0229 | Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law
+- 2026-11-19 05:24 | AUTO-DRAFTED notes:c67e27e458 | Reply to the unanswered Google reviews: NPB 2-star JP Trigo Nov 8 (day 11, checker confirmed unreplied 11/19) and NKST 3-star Jeanette Quirk Nov 13 (day 6), pl…

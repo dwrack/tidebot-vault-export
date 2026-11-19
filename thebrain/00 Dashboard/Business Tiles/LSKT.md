@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 0
-revenue_today: 0
+bookings_today: 2
+revenue_today: 60
 lead_time_days: 0
-ad_spend_yday: 31
+ad_spend_yday: 28
 status: yellow
-alert: "37% of goal; PMax ROAS 0.57"
-updated: 2026-11-18
+alert: "38% of goal; PMax $173 for 1 conv"
+updated: 2026-11-19
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,049/wk booked vs $5,500 target — 37% of goal.** Flat; 0 booked Tue.
-- PMax Local $189.75 for 1 conv (ROAS 0.57, 7d). Meta Winter Retargeting $25.11 over 7d, 0 purchases.
+- **Goal pace: $2,109/wk booked vs $5,500 target — 38% of goal.** 2 / $60 Wed, 3 trips ran ($168).
+- **Google:** Lone Star PMax $173.00 over 7d for 1 conv ($27 value). Meta Winter Retargeting $32.93 / 0 purchases, frequency 5.76.
 <!-- live:end -->
 
 <!-- maps:start -->

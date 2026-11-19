@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-18
+updated: 2026-11-19
 tile_type: business
 goal_q4_metric: front_door_for_lskt
 goal_q4_target: null
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal: front_door_for_lskt. No movement since 2026-08-28** (not verified this run).
-- 5★ Miss See (11/2) unreplied; draft in the 11/17 brief. IG last post 11/6.
+- **Goal: front_door_for_lskt. No movement since 2026-08-28.**
+- 2 open 5★ (Kelly Knox-Goode 11/18 new, Miss See 11/2). IG last post 11/6.
 <!-- live:end -->
 
 <!-- maps:start -->
