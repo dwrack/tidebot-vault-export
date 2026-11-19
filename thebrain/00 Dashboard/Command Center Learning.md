@@ -29,14 +29,13 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: known: 4
 - feedback: note: 6
 - fix_approved: 8
-- fix_ignored: 12
+- fix_ignored: 13
 - skill later: 5
 - skill run: 8
 - skill skip: 1
 
 ## Most recent taps (newest last)
 
-- 2026-11-10 19:35 | fix_approved | brand:DCKT | Draft 3 DCKT Facebook posts
 - 2026-11-10 19:35 | fix_approved | alert:f328fc84 | Re-run the dashboard collector for FH data
 - 2026-11-10 19:39 | feedback | brand:ADM | fixit
 - 2026-11-12 15:56 | feedback | Needs you: NPB: Voucher request after incident on tiki (angry customer) | note
@@ -76,3 +75,4 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-16 01:57 | feedback | Needs you: OpenAI ChatGPT Ads outreach to NKST, 30 min call on David's calendar Nov 16 | note
 - 2026-11-16 05:36 | fix_ignored | loop:com.djl.newsjack-npb | Read the NPB newsjack log and diagnose the failure
 - 2026-11-16 05:36 | fix_ignored | alert:7edc2d1a | Diagnose NPB newsjack monitor from its logs
+- 2026-11-19 01:07 | fix_ignored | loop:com.admirenola.medium-importer | Stage a Chrome bridge version of the Medium importer
