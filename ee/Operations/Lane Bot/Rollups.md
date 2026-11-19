@@ -1,6 +1,6 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-18 22:00 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 02:53 PT.
 
 Counts: people 14, vendors 143, projects 6, money 546, promises 44, asks 75, dates 1042
 
@@ -70,19 +70,6 @@ Counts: people 14, vendors 143, projects 6, money 546, promises 44, asks 75, dat
 - 11/16 11:21 "Its under the waiver, ill be on computer soon and can elaborate." (#dev | thread: i am working on getting waiver signers added into active campaign after they sig)
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-18 Amanda Ives at Raphael House: "today"
-- 2026-11-18 Amanda Ives at Raphael House: "tonight"
-- 2026-11-18 Anna Nelson: "11/18"
-- 2026-11-18 Claude: "11/18"
-- 2026-11-18 Claude: "tomorrow"
-- 2026-11-18 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 18"
-- 2026-11-18 Jonah: "11/18"
-- 2026-11-18 Jonah: "today"
-- 2026-11-18 Jonah: "tonight"
-- 2026-11-18 Lilias: "ASAP"
-- 2026-11-18 PSP/Deck Expo: "November 18"
-- 2026-11-18 Relay Financial: "November 18"
-- 2026-11-18 Scott Fogarty: "today"
 - 2026-11-19 +19203273405: "tomorrow"
 - 2026-11-19 Claude: "11/19"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
@@ -121,6 +108,8 @@ Counts: people 14, vendors 143, projects 6, money 546, promises 44, asks 75, dat
 - 2026-11-23 sauna@ebbandember.com: "November 23"
 - 2026-11-24 Claude: "11/24"
 - 2026-11-24 Davey: "next tuesday"
+- 2026-11-26 Jonah: "11/26"
+- 2026-11-26 Mack: "Nov. 26"
 
 ## Silence over 5 days (Davey wrote last, no reply)
 - Mario (contractor): Davey last wrote 11/06 12:41, their last message 11/06 10:36
