@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-18 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-18 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,8 +15,6 @@ _nothing_
 
 ## Needs you
 
-- [ ] Gravity Trails Autopayroll on hold, blocked before Nov 18 noon CST #due:2026-11-18 #id:T0211
-  → David or the payroll admin open Homebase and resolve the issue holding Gravity Trails' Autopayroll before 12:00pm CST Nov 18. (David; Gmail dwrack81@; touched 2026-11-17)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link and answer the carrier's questions via Max (expected revenue from the dock rental, whether it is rented with staff, supervision, what renters can access); Max is getting the no-watercraft-exclusion statement in writing, and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
@@ -53,6 +51,8 @@ _nothing_
   → David reply to Sean Hyland with a day this week for the walk-through; he is booking about three weeks out. (David; Gmail davey@; touched 2026-11-13)
 - [ ] TideBot written log processing failing, Gemini prepaid credits depleted #NKST #id:T0188
   → David top up the Google AI Studio prepaid credits so TideBot can process guide logs again; until then logs like Michelle Healey's Nov 14 log need manual reading. (David; Slack #the-helm, Slack #new-orleans-kayak-swamp-tours; touched 2026-11-15)
+- [ ] Kick off Cloudflare domain migration for all business domains #id:T0198
+  → Someday item: run the Cloudflare migration when David has a free hour. Not urgent. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
 - [ ] Loop health: 15 of 147 scheduled jobs failing, including Comms Radar Send and Command Center #id:T0200
   → David or Claude check the failing jobs on mbp-2, starting with Comms Radar Send (last ran Oct 30), Command Center (Oct 31), Cc V2, Google Ads Optimizer (exit 1) and Docuseal 8442 Watch (Oct 26). (David; Gmail dwrack81@ (DJL Daily); touched 2026-11-16)
 - [ ] TideBot written log processing failing, Gemini prepay credits depleted #NKST #id:T0207
@@ -63,6 +63,8 @@ _nothing_
   → David top up the Gemini prepaid credits in AI Studio billing so TideBot can process written logs again; until then logs like today's NKST post need manual processing. (David; Slack #the-helm; touched 2026-11-17)
 - [ ] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #id:T0229
   → David and Davey answer Todd Key's two questions: are you still good with the deal, and do you want to proceed with the Macadam filing; his lawyer's only remaining ask is 14 days between closing of the HD Clinton/member interest transaction and the Macadam note due date. (David; Gmail dwrack81@; touched 2026-11-18)
+- [ ] OpenCX: unknown admin 'Aziz' added to five brand accounts #BBK #DCKT #LSKT #HPB #NKST #id:T0230
+  → David check platform.open.cx members and confirm whether Aziz was added on purpose; if not, remove the admin from all five orgs and rotate credentials. (David; Gmail dwrack81@, Gmail doorcountykayaking@; touched 2026-11-18)
 
 ## Waiting on someone
 
@@ -113,8 +115,6 @@ _nothing_
   → Wait for the insurer to accept Jonah's emailed audit package (monthly sales 11/6/2025 to 10/31/2026, P&L by month, principals) for policy BR20250485, since portal codes arrive about two hours late and expire. (Jonah Moses; Gmail davey@; touched 2026-11-15)
 - [ ] NKST crew asking about tour pay #NKST #waiting #id:T0053
   → Whoever approves TideBot payroll verify the unverified PayPal accounts for Emily Clarke and Michelle Healey, then react to release the Nov 1-15 payroll ($2,050 across 5 guides); it only produces a send list and does not move money. (NKST manager; Slack #helm-nkst; touched 2026-11-16)
-- [ ] Kick off Cloudflare domain migration for all business domains #id:T0198
-  → Someday item: run the Cloudflare migration when David has a free hour. Not urgent. (David; Gmail dwrack81@ (Google Calendar); touched 2026-11-16)
 - [ ] Party invite headcount: staff, plus ones, and others #waiting #id:T0204
   → Jeffrey Chitek answer David on who is invited to the party: staff, a +1 each, and anyone else. (Jeffrey Chitek; Text with Jeffrey Chitek; touched 2026-11-16)
 - [ ] Elevated Tides: Dustin's competing sauna building and deal timeline #waiting #id:T0212
@@ -131,7 +131,7 @@ _nothing_
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guides post the written logs still missing for the Nov 14 11:30 AM and Nov 13 1:30 PM tours; today's Nov 17 11:30 log is posted but TideBot could not process it. (NKST guides; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-17)
+  → NKST guides post the written logs still missing for the Nov 14 11:30 AM and Nov 13 1:30 PM tours and today's Nov 18 9:00 AM Manchac tour (2 guests); the Nov 17 11:30 log is posted but TideBot could not process it. (NKST guides; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -414,7 +414,7 @@ _nothing_
 - [ ] Apify usage limit hit and API tokens revoked (NPB and doorcountyzip accounts) #NPB #id:T0028
   → David or whoever runs the Apify jobs create new API tokens on both Apify accounts, update every integration that uses them, and renew the usage limit; all tokens were revoked Nov 11-12 after a security incident. (David; Gmail nolapedalbarge@, Gmail doorcountyzip@; touched 2026-11-18)
 - [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → Davey finish sorting the Piety parking and debris; trailer handles are already in the storage container at the back of Piety, so none need ordering; guides skip the white van (#3, leaking rear tire, no keys) and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
+  → Davey finish sorting the Piety parking and debris; guides skip white van #3 (leaking rear tire, no keys), stay off the grass, park vans forward so the gate isn't blocked, and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
   → Wait for Jonah's update tonight on his BDS call; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-18)
 - [ ] Expedia wants rates to relist Austin Kayak tours #AKT #id:T0224
@@ -442,6 +442,7 @@ _nothing_
 - [x] Michael Fischer NOLA trip Nov 16-20, days to tell Jaq #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #due:2026-11-17 #done:2026-11-18 #id:T0043
   > David: i need to use chase points to purchase that ticket
   > Radar: Noted, you'll book the ticket with Chase points. Michael still needs your three-day or two-day answer.
+- [x] Gravity Trails Autopayroll on hold, blocked before Nov 18 noon CST #due:2026-11-18 #done:2026-11-18 #id:T0211
 - [x] Alan Jalasjaa in NOLA Nov 15-20, free Thursday evening and Friday morning #NPB #NKST #due:2026-11-19 #done:2026-11-12 #id:T0148
   > David: Closed by the resolver: David replied to Alan inviting him to the Thursday marina party and asking which booth he is at.
   > Radar: Noted, closed. You invited Alan to the Thursday marina party and asked which booth he is at.
