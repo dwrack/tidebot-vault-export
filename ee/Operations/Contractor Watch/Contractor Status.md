@@ -1,6 +1,6 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 07:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 09:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
 - **scope change** Sergey: His table shows 3/4 inch carries about 640,000 BTU/hr at 200 ft (2 PSI), short of the roughly 764,000 we need. The 1 1/4 inch section he suggested would close the gap, but sizes and length are not in writing and could change the $6,300 scope. His April note said the 3/4 inch line is good to about 320,000, which conflicts with this table.
