@@ -15,8 +15,9 @@ _nothing_
 
 ## Needs you
 
-- [ ] Jonah asks if David is coming to the meeting #due:2026-11-19 #id:T0240
+- [x] Jonah asks if David is coming to the meeting #due:2026-11-19 #id:T0240
   → David answer Jonah on whether he is joining the meeting. (David; Text with Jonah Moses; touched 2026-11-19)
+  > I didn’t go, it was just a marketing meeting.
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link; Jonah already sent Max the carrier answers on revenue, staff, supervision and access, so still open are Capitol's written watercraft answer, the additional insured certificate and endorsement by Dec 13, and what covers events serving alcohol since the policy excludes liquor liability. (David; Gmail davey@; touched 2026-11-19)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.

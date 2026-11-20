@@ -252,3 +252,8 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-20 12:02 | AUTO-DRAFTED notes:8b40deac0c | Piety St. storage container was "completely unlocked" when Emily arrived for the 11/20 9am Manchac tour (her trip log). TideBot's manager flag never fired beca…
 - 2026-11-20 12:13 | AUTO-DRAFTED radar:T0252 | Elevated Tides settlement term sheet and MSJ, Todd Key at JTK Law
 - 2026-11-20 12:13 | AUTO-DRAFTED notes:7337549298 | Piety St. storage container was "completely unlocked" when Emily arrived for the 11/20 9am Manchac tour (her trip log). TideBot's manager flag never fired beca…
+- 2026-11-20 13:28 | DONE notes:eba86906ab | Add the opt-in checkbox (unchecked, separate from the signature) to the Periode waiver and add the no-sharing-of-mobile-info line to the privacy policy, then s… | David: (Claude testing the Handled area, not a real close)
+- 2026-11-20 13:28 | REOPENED notes:eba86906ab | notes:eba86906ab
+- 2026-11-20 13:29 | DONE radar:T0240 | Jonah asks if David is coming to the meeting | David: I didn’t go, it was just a marketing meeting.
+- 2026-11-20 13:29 | DONE notes:8f4e4ce64d | Reply to Jonah about whether you are coming to the meeting (asked by Jonah via text 2026-11-19) | David: I didn’t go, it was just a marketing meeting.
+- 2026-11-20 13:29 | IGNORED notes:368e044e10 | Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo)

@@ -26,8 +26,8 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 
 - feedback: detail: 1
 - feedback: fixit: 6
-- feedback: known: 4
-- feedback: note: 6
+- feedback: known: 8
+- feedback: note: 8
 - fix_approved: 8
 - fix_ignored: 13
 - skill later: 5
@@ -36,12 +36,6 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 
 ## Most recent taps (newest last)
 
-- 2026-11-10 19:35 | fix_approved | alert:f328fc84 | Re-run the dashboard collector for FH data
-- 2026-11-10 19:39 | feedback | brand:ADM | fixit
-- 2026-11-12 15:56 | feedback | Needs you: NPB: Voucher request after incident on tiki (angry customer) | note
-- 2026-11-12 15:57 | feedback | Needs you: TideBot written log processing down, Gemini prepayment credits depleted | fixit
-- 2026-11-12 15:58 | skill | carousel | run
-- 2026-11-13 01:05 | fix_ignored | loop:com.admirenola.medium-importer | Switch importer to Chrome bridge, no Apple Events
 - 2026-11-13 01:05 | fix_ignored | loop:com.nolapartybarge.winback-ses | Audit the h02 complaint list
 - 2026-11-13 08:58 | skill | google-ads | later
 - 2026-11-13 08:58 | skill | social-captions | run
@@ -76,3 +70,9 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-16 05:36 | fix_ignored | loop:com.djl.newsjack-npb | Read the NPB newsjack log and diagnose the failure
 - 2026-11-16 05:36 | fix_ignored | alert:7edc2d1a | Diagnose NPB newsjack monitor from its logs
 - 2026-11-19 01:07 | fix_ignored | loop:com.admirenola.medium-importer | Stage a Chrome bridge version of the Medium importer
+- 2026-11-20 13:07 | feedback | Needs you: Jonah asks if David is coming to the meeting | note
+- 2026-11-20 13:07 | feedback | Needs you: Jonah asks if David is coming to the meeting | known
+- 2026-11-20 13:08 | feedback | Needs you: Waiting on Jonah in #founders: OK to file the police report, and print the WANTED poster in color (posted 11/7 | note
+- 2026-11-20 13:08 | feedback | Needs you: Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | known
+- 2026-11-20 13:09 | feedback | Needs you: Jonah asks if David is coming to the meeting | known
+- 2026-11-20 13:09 | feedback | Needs you: Jonah asks if David is coming to the meeting | known

@@ -1,6 +1,6 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 11:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 13:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
 - **scope change** Sergey: His table shows 3/4 inch carries about 640,000 BTU/hr at 200 ft (2 PSI), short of the roughly 764,000 we need. The 1 1/4 inch section he suggested would close the gap, but sizes and length are not in writing and could change the $6,300 scope. His April note said the 3/4 inch line is good to about 320,000, which conflicts with this table.
@@ -11,7 +11,8 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 11:25 PT. Read-o
 - **price change** Electricians: Community Electric has tentatively added a new circuit to the bid in case the current panel lacks space. It may not be needed, so the final price could drop or change after the walk-through. Ask for it itemized.
 - **permit** Electricians: Permit fees are billed to us at cost on top of the bid, and the amount is unknown.
 - **other** Electricians: Quotes were due 11/14 from 11 shops. Only Community Electric's reply appears in these messages, so compare the others before choosing.
-- **safety** Alex: A water/sewage leak from the dock to the sauna on S43 was reported 11/19, and a second leak is known near slip 26 at the east ramp. Sewage near a guest sauna is a health and incident risk. Check severity and whether the two are related.
+- **safety** Alex: S43 water/sewage leak from the dock to the sauna: Alex says it is a different type from the failed-coupler sauna leak and likely just needs tightening. No photo or exact location yet, so severity is unverified. Confirm it is fixed before guests, especially the first self-guided session.
+- **other** Alex: The slip 26 leak at the east ramp was mentioned earlier. Alex's reply doesn't say whether it is a separate issue or its status.
 
 ## Sergey
 _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit_ via iMessage group with Grant (Davey leads); iMessage group with Jonah
@@ -30,12 +31,16 @@ _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #priv
 
 ## Alex
 _facilities: V2 water line, showers, incident fixes, weekly checklist_ via Slack #maintenance
-- **Status:** Facilities: Jonah asked in #maintenance at 00:07 on 11/20 about the water/sewage leak from the dock to the sauna on S43 that Alex added today: where it is, how bad, a photo, and whether it is the same leak as the one by slip 26 at the east ramp. No reply yet. Ball is with Alex.
-- Last heard: never | last we sent: 2026-11-20T00:07
+- **Status:** Facilities: Alex replied in #maintenance at 13:19 on 11/20 that the S43 dock-to-sauna leak is not the same type as the earlier sauna leak (that one was a failed coupler) and he hopes S43 only needs tightening. He did not give the exact spot, severity or a photo, and no fix date. He also asked at 13:09 whether there is a broom and bin on the sauna for birch leaves from the Banya whisks for the first self-guided session. He can swing by before Monday and will check for a broom and dustpan. Ball is with us on the broom and bin question and with Alex on the S43 fix and photo.
+- Last heard: 2026-11-20T13:19 | last we sent: 2026-11-20T00:07
 - **Commitments:**
-  - [open] Look into and fix the water/sewage leak from the dock to the sauna on S43.. Next: Alex replies with the location, severity and a photo, and says whether it is the same leak as slip 26. Then set a fix date. (Slack user ID U0C8TPG8R35 is assumed to be Alex. Alex's original post about the leak is not in these messages.)
+  - [open] Look into and fix the water/sewage leak from the dock to the sauna on S43 (he expects it only needs tightening).. Next: Alex tightens the S43 fitting and confirms it is dry with a photo. Set a date if he doesn't give one. (Alex 11/20 13:19: not the same type as the sauna leak (failed coupler), 'hopefully just needs to be tightened'. Still no exact location, severity or photo. The U0C8TPG8R35 Slack ID is not Alex; that user is on our side and added the leak report.)
+  - [unknown] The earlier sauna leak was a failed coupler. Unclear if it has been replaced.. Next: Confirm the failed coupler on the sauna is replaced and dry. (Mentioned in passing in Alex's 11/20 13:19 reply. Repair status not stated.)
+  - [open] Swing by before Monday and check for a broom and dustpan on the sauna, for birch leaves from the Banya whisks at the first self-guided session. by 2026-11-22. Next: Alex checks and reports. If none, we buy a broom, dustpan and bin before the first self-guided session. (Date implied: 'before Monday' read as by Sunday 11/22. He doesn't think there is a broom or dustpan in the house.)
 - **Waiting on them:**
   - Jonah 11/20 00:07 in #maintenance: where exactly is the S43 dock-to-sauna leak, how bad is it, can you post a photo, and is it the same leak as the one by slip 26 at the east ramp? (asked 2026-11-20T00:07)
+- **Waiting on us:**
+  - Is there a broom and a bin on the sauna for the birch leaves from the Banya whisks for the first self-guided session? Alex doesn't think he's seen a broom or dustpan in the house. (jonah, since 2026-11-20T13:09) -> Not confirmed in these messages. Check on site or tell Alex to bring or buy a broom, dustpan and bin before Monday.
 
 ## Zach
 _handyman, $30/hr, being phased out_ via text

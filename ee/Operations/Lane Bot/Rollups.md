@@ -1,10 +1,11 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 12:33 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 13:21 PT.
 
-Counts: people 14, vendors 145, projects 6, money 574, promises 44, asks 78, dates 1112
+Counts: people 14, vendors 145, projects 6, money 574, promises 44, asks 79, dates 1112
 
 ## Open asks of Davey (Tier 0)
+- 11/20 12:59 L [reply]: "<@U0B1CAVT1TM> <@U0B1H0WRHJ8> what’s the waiver link?"
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
