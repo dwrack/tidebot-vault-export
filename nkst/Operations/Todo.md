@@ -167,3 +167,5 @@ _Audio-log items. Some were invented by a transcription bug, review before actin
 - [x] 2026-11-17: Pre-tour guide brief LIVE on mbp-2 (com.djl.nkst-tour-brief). See memory project_nkst_tour_brief.
 - [ ] 2026-11-18: Merge Thu/Fri tours with Jeff (A: Fri guests to Thu 9am w/ Michelle; B: Michelle takes Fri, Thu 4 guests to Fri). Sat 11/21 9am (2) + 11:30 (4) still no guide.
 - [ ] 2026-11-18 AM: Walk through automating tour merges + guide coverage with Claude, watching it run on live days.
+- [ ] 2026-11-20: Piety St. storage container found completely unlocked at 9am (Emily, [[2026-11-20 — Manchac — 9:00 am — Emily Clarke]]). Dylan not yet told: TideBot flag did not fire (Gemini credits out).
+- [ ] 2026-11-20: From the 11/6 2pm log (Abbie, recovered 11/20): a guest did not fit the PFDs, check for XXXL PFDs. Emily 11/6: PFDs starting to smell, wash or deodorize.
