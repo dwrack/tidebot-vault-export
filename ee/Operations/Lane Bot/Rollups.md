@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 06:49 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 07:49 PT.
 
-Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dates 1107
+Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dates 1109
 
 ## Open asks of Davey (Tier 0)
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
@@ -76,6 +76,7 @@ Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dat
 - 2026-11-20 Alex: "this week"
 - 2026-11-20 Bandi Joel Abhishek: "this week"
 - 2026-11-20 Bronte Moodley: "this week"
+- 2026-11-20 Claude: "11/20"
 - 2026-11-20 Claude: "end of week"
 - 2026-11-20 Claude: "this week"
 - 2026-11-20 Claude: "tomorrow"
