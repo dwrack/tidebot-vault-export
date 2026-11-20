@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 22:55 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 00:24 PT.
 
-Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dates 1097
+Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dates 1106
 
 ## Open asks of Davey (Tier 0)
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
@@ -72,22 +72,6 @@ Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dat
 - 11/17 22:08 "ill take another look at the 49.99 charge on 10/2" (#founders) due 2026-10-02
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-19 +19203273405: "tomorrow"
-- 2026-11-19 Alex: "today"
-- 2026-11-19 Claude: "11/19"
-- 2026-11-19 Claude: "today"
-- 2026-11-19 Claude: "tonight"
-- 2026-11-19 Davey: "today"
-- 2026-11-19 Ebb & Ember: "Nov 19"
-- 2026-11-19 Grant: "today"
-- 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
-- 2026-11-19 Jonah: "11/19"
-- 2026-11-19 Jonah: "today"
-- 2026-11-19 Jordan Culberson: "Nov 19"
-- 2026-11-19 L: "asap"
-- 2026-11-19 Mack: "November 19"
-- 2026-11-19 Mack: "today"
-- 2026-11-19 PSP/Deck Expo: "November 19"
 - 2026-11-20 Alex: "this week"
 - 2026-11-20 Bandi Joel Abhishek: "this week"
 - 2026-11-20 Bronte Moodley: "this week"
@@ -103,6 +87,7 @@ Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dat
 - 2026-11-20 Jonah: "11/20"
 - 2026-11-20 Jonah: "friday"
 - 2026-11-20 Jonah: "this week"
+- 2026-11-20 Jonah: "today"
 - 2026-11-20 Jonah: "tomorrow"
 - 2026-11-20 Pjstambaugh: "Nov 20"
 - 2026-11-20 Zoe Vives Jancou: "this week"
@@ -135,6 +120,9 @@ Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dat
 - 2026-11-26 Jonah: "11/26"
 - 2026-11-26 Mack: "Nov. 26"
 - 2026-11-26 Mack: "November 26"
+- 2026-11-27 Claude: "Nov 27"
+- 2026-11-27 Jonah: "11/27"
+- 2026-11-27 Mack: "11/27"
 
 ## Silence over 5 days (Davey wrote last, no reply)
 - Mario (contractor): Davey last wrote 11/06 12:41, their last message 11/06 10:36
