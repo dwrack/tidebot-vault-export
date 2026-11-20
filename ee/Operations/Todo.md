@@ -266,3 +266,4 @@
 - [ ] Slack: turn on replies to the Claude app (App Home > allow messages from the messages tab) so Jonah and the team can answer its DMs; then make the bridge read DM replies. Jonah could not reply 2026-11-15.
 - [ ] New site signups broken (2026-11-15): /api/subscribe returns 503, no SIGNUPS KV binding on the Pages project. Add the binding before launch.
 - [ ] Jonah: accept GitHub invite to dwrack/ee-guest-intro-video (video source + HISTORY.md) [[Dock Safety Video/Dock Safety Video — Storyboard (Nov 2026)]] (2026-11-15)
+- [x] (done 2026-11-20: option A live on all 37 pages, commit 25d5c28) Pick a navigation bar option for the new site (A trimmed bar, B logo in the middle, C menu only); Claude then rolls it to all 37 pages. Preview: localhost:8788/navlab/ on the laptop (repo ~/dev/ee-site-preview/navlab, untracked). Launch is 11/23. (2026-11-20)
