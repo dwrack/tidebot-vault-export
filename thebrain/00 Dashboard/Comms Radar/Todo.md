@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -202,6 +202,8 @@ _nothing_
   → NKST staff cancel booking 386426260 for Fri Nov 20 2:00 pm and reply to Tim Cunningham about a refund or rebooking. (NKST staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] Louisiana Helpr 25 Days of Giveaways sponsor ask, Admire NOLA #Admire-NOLA #due:2026-11-22 #id:T0233
   → Admire NOLA staff decide whether to donate a prize for the Dec 1-25 giveaways and sign up by Sunday Nov 22, or ignore. (Admire NOLA staff; Gmail admirenola@; touched 2026-11-19)
+- [ ] Viator guest says tour was not supposed to be self-guided, Nov 22, 4 adults #NKST #due:2026-11-22 #id:T0247
+  → NKST staff reply to Courtany Ruth in the Viator Management Center before Sun Nov 22 11:00 to clarify that the booked option is the Self Guided Rental, and offer a guided tour or a change if she wanted one. (NKST staff; Gmail nolakayaktours@; touched 2026-11-20)
 - [ ] GetYourGuide guest asks how to add transportation, Manchac tour Nov 26 #NKST #due:2026-11-26 #id:T0220
   → NKST staff reply to Catherine Zhang via GetYourGuide to confirm whether transportation was selected on her Nov 26 11:30 am booking and how to add it. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
@@ -447,6 +449,8 @@ _nothing_
   → Richard sends walk-through days and times for 173 NE Bridgeton Rd (he can start the week of Nov 30 or Dec 7), and Jonah checks Sergey's pipe capacity table against the actual run length from the meter; David still calls Mario for the gas line install date. (Jonah Moses; Gmail davey@; touched 2026-11-20)
 - [ ] Rude reply sent from the AKT inbox to an Egypt DMC cold pitch #AKT #id:T0246
   → David or AKT staff find out who sent the Nov 20 reply from the AKT inbox telling LONT Group to hire a real designer with profanity, and stop replies like that going out under the AKT name. (David; Gmail austinkayaktours@; touched 2026-11-20)
+- [ ] Copyright cease and desist on New Orleans Party Barge Facebook page, likely scam #NPB #id:T0248
+  → NPB manager do not click the evidence link or reply; check the Facebook Page for any real copyright notice in Page Support Inbox, and warn the team since these fake legal notices often aim to steal Page logins. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-20)
 
 ## Backburner (LSKT)
 

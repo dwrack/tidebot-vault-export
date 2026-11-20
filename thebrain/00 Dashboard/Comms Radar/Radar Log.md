@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-20 08:10 | 9 new messages moved 2 threads: T0247, T0248
 - 2026-11-20 06:10 | David ticked T0175 Boat insurance may not cover people on docks and gas station area
 - 2026-11-20 06:10 | David commented on T0175
 - 2026-11-20 06:10 | 26 new messages moved 2 threads: T0096, T0246

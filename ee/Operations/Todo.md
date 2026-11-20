@@ -21,6 +21,7 @@
 - [ ] Answer the 3 "waiting on us" items the watcher filed on the Command Center dashboard (Alex door closers, Community Electric $4,800, Level Plane bid)
 
 ## V2 exterior electrical, gas and water plan (added 2026-11-12)
+- [ ] 11/20: Community Electric ($4,800) accepted by Jonah 11/19 but priced on the 11/9 sheet. Send Richard the 11/14 sheet + photos (draft from Claude chat 11/20, waiting on Davey's send) and get the feed question, permit fee and walk-through date answered; open Richard's 11/19 attachments (quote + COI, unread by Claude) and save the PDFs to the vault; verify CCB 237023. Fallback: Powerall re-quote. Comparison table at the top of [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]]
 - [x] Electrician emails SENT 11/14 (Smiley, Pacific NW, Coy). [ ] Chase quotes 11/19; confirm the pedestal upper outlet is a free 20 A. See [[Private Saunas (V2) — Electrical Design + Quote Package (Nov 9 2026)]]
 - [ ] Put the Inkbird probe sleeve in before interior paneling (E6 high in each change room, decided 11/14)
 - [ ] Get Jonah's 13 measurements (DM 11/12), then rerun Assets/V2 Build Drawings/exterior_plan_mep.py. Current sheet: 2026-11-12 Exterior layout - electrical, gas and water plan v2.png. Posts drawn centered on the gap as placeholders; front deck 114 in unmeasured
