@@ -1,6 +1,6 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 13:25 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 15:25 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
 - **scope change** Sergey: His table shows 3/4 inch carries about 640,000 BTU/hr at 200 ft (2 PSI), short of the roughly 764,000 we need. The 1 1/4 inch section he suggested would close the gap, but sizes and length are not in writing and could change the $6,300 scope. His April note said the 3/4 inch line is good to about 320,000, which conflicts with this table.
@@ -11,8 +11,11 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-20 13:25 PT. Read-o
 - **price change** Electricians: Community Electric has tentatively added a new circuit to the bid in case the current panel lacks space. It may not be needed, so the final price could drop or change after the walk-through. Ask for it itemized.
 - **permit** Electricians: Permit fees are billed to us at cost on top of the bid, and the amount is unknown.
 - **other** Electricians: Quotes were due 11/14 from 11 shops. Only Community Electric's reply appears in these messages, so compare the others before choosing.
+- **other** Electricians: Jonah reportedly approved an electrician but Davey has no record of who, what price, or any followup. Confirm the shop and amount before anyone commits, and make sure it matches Community Electric's walk-through thread.
 - **safety** Alex: S43 water/sewage leak from the dock to the sauna: Alex says it is a different type from the failed-coupler sauna leak and likely just needs tightening. No photo or exact location yet, so severity is unverified. Confirm it is fixed before guests, especially the first self-guided session.
 - **other** Alex: The slip 26 leak at the east ramp was mentioned earlier. Alex's reply doesn't say whether it is a separate issue or its status.
+- **quality** Grant: Someone is installing tile on site under Grant's direction, but the person isn't named. Davey says he had to give the layout info several times, so check it matches the plan. Also unclear whether this is one of the tilers who replied to the RFQ or someone else, and what it costs.
+- **other** Grant: No older Grant items (V2 framing, deck, floors, fire features) are in the ledger, so those commitments may be missing. Re-check against the Slack #private-saunas-build thread.
 
 ## Sergey
 _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit_ via iMessage group with Grant (Davey leads); iMessage group with Jonah
@@ -27,7 +30,12 @@ _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on t
 
 ## Grant
 _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #private-saunas-build, iMessage
-- no traffic seen yet
+- **Status:** Builder: on 11/20 14:18 Grant asked Davey which way to install the tile; Davey answered at 14:20 (vertical, and if there are enough tiles, follow the same grout line as the floor for continuity) and Grant said that is what he already told the installer. Grant says the installer is just getting to the spacers and Grant walked him through it. Davey's questions about cement board and alternating pattern got no clear answer. Davey is on a work trip and will focus on the electrician when back. Ball is with Grant to confirm cement board and the pattern. No money or dates appear in these messages.
+- Last heard: 2026-11-20T14:23 | last we sent: 2026-11-20T14:24
+- **Commitments:**
+  - [open] Oversee the tile install in progress: vertical layout, grout lines aligned with the floor if there are enough tiles, spacers being set.. Next: Grant confirms cement board backer and the alternating question, and sends a photo once the first rows are set. (Grant 14:23: 'He's just now getting to installing the spacers. I walked him through it.' The installer is not named. Layout direction was answered by Davey at 14:20.)
+- **Waiting on them:**
+  - Davey 11/20 14:23: Cement board? Alternating? (is the tile going on cement board, and is the layout alternating) (asked 2026-11-20T14:23)
 
 ## Alex
 _facilities: V2 water line, showers, incident fixes, weekly checklist_ via Slack #maintenance
@@ -48,11 +56,12 @@ _handyman, $30/hr, being phased out_ via text
 
 ## Electricians
 _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quotes due Fri 2026-11-14_ via email sauna@
-- **Status:** V2 electrical quote round: Richard at Community Electric replied 11/19 22:19 to the quote sheet. He will pull the electrical permits (fees at cost to us), has tentatively added a possible extra circuit to the bid if the panel lacks space, and can start the week of 11/30 or 12/7 depending on when a walk-through happens. We replied 11/20 00:08 asking for walk-through times. Ball is with Richard. No quote amount appears in these messages, and no other shop's reply is shown.
+- **Status:** V2 electrical quote round: Richard at Community Electric replied 11/19 22:19 to the quote sheet. He will pull the electrical permits (fees at cost to us), has tentatively added a possible extra circuit to the bid if the panel lacks space, and can start the week of 11/30 or 12/7 depending on when a walk-through happens. We replied 11/20 00:08 asking for walk-through times, no answer yet. On 11/20 14:24 Davey told Grant that Jonah said he approved an electrician, but Davey has heard nothing back from them and sees no followup; which shop was approved is not stated. Davey will focus on it after his work trip. Ball is with Richard for walk-through times, and with Jonah to say which electrician he approved.
 - Last heard: 2026-11-19T22:19 | last we sent: 2026-11-20T00:08
 - **Commitments:**
   - [open] Richard (Community Electric) to send walk-through days and times for 173 NE Bridgeton Rd.. Next: Wait for Richard's times, then confirm one. Nudge if there is no reply by about 11/24. (Start is the week of 11/30 or 12/7 depending on the walk-through date. Both are from his email, not firm.)
   - [open] Community Electric pulls the city electrical permits. Permit fees are passed to us at cost, and a new circuit permit is pulled if the panel is short on space.. Next: Confirm the permit fee estimate after the walk-through. (Stated in Richard's 11/19 22:19 email.)
+  - [unknown] Confirm which electrician Jonah approved and get that shop moving: Davey has seen no followup from them.. Next: Jonah says which shop he approved and whether it is Community Electric. Davey follows up after his work trip, date not given. (Davey 11/20 14:24 in the Grant group chat: 'jonah said he approved an electrician, but I haven't heard back from them or seen any followup'. No shop name, amount or date in these messages.)
 - **Waiting on them:**
   - Davey 11/20 00:08 email: When can you do the walk-through? Send a few days and times that work. (asked 2026-11-20T00:08)
 - **Money:** V2 electrical quote, Community Electric (amount not in these messages; permit fees extra at cost)  (quoted 2026-11-19)
@@ -70,5 +79,4 @@ _fire features: Warming Trends fire table + pony wall insert estimate (sent 11/1
 - no traffic seen yet
 
 ## Not on the roster yet
-- Victor: named in Sergey's 11/19 voicemail as expected to call him 11/20 to install something. His role and employer are unknown. Possibly a helper or installer for the V2 gas work.
-- Richard (Community Electric, communityelec.com): replied to the V2 electrical quote request. He is one of the electrician shops and already falls under the Electricians roster entry, so no separate add is needed.
+- Unnamed tile installer (Grant's 11/20 14:23 messages): a 'he' doing the tile install on site, being walked through spacers by Grant. Name, employer and price unknown; could be one of the Tilers RFQ shops or another worker, so find out and add if outside the roster.

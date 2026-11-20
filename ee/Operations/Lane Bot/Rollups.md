@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 15:07 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 15:48 PT.
 
-Counts: people 14, vendors 145, projects 6, money 574, promises 44, asks 79, dates 1112
+Counts: people 14, vendors 145, projects 6, money 574, promises 44, asks 79, dates 1114
 
 ## Open asks of Davey (Tier 0)
 - 11/20 12:59 L [reply]: "<@U0B1CAVT1TM> <@U0B1H0WRHJ8> what’s the waiver link?"
@@ -88,6 +88,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 44, asks 79, dat
 - 2026-11-20 Grant: "tomorrow"
 - 2026-11-20 Jen Newlin: "Nov 20"
 - 2026-11-20 Jonah: "11/20"
+- 2026-11-20 Jonah: "asap"
 - 2026-11-20 Jonah: "friday"
 - 2026-11-20 Jonah: "this week"
 - 2026-11-20 Jonah: "today"
@@ -112,6 +113,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 44, asks 79, dat
 - 2026-11-23 John Ludwig: "next week"
 - 2026-11-23 Jonah: "11/23"
 - 2026-11-23 Jonah: "November 23"
+- 2026-11-23 Jonah: "by monday"
 - 2026-11-23 Mack: "11/23"
 - 2026-11-23 Mack: "next week"
 - 2026-11-23 Pool Spa Patio and Deck Expo: "next week"
