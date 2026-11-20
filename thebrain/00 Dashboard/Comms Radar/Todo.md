@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 08:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -204,6 +204,8 @@ _nothing_
   → Admire NOLA staff decide whether to donate a prize for the Dec 1-25 giveaways and sign up by Sunday Nov 22, or ignore. (Admire NOLA staff; Gmail admirenola@; touched 2026-11-19)
 - [ ] Viator guest says tour was not supposed to be self-guided, Nov 22, 4 adults #NKST #due:2026-11-22 #id:T0247
   → NKST staff reply to Courtany Ruth in the Viator Management Center before Sun Nov 22 11:00 to clarify that the booked option is the Self Guided Rental, and offer a guided tour or a change if she wanted one. (NKST staff; Gmail nolakayaktours@; touched 2026-11-20)
+- [ ] Cease and desist email about NKST Facebook page, likely fake law firm #NKST #due:2026-11-25 #id:T0249
+  → NKST staff or David verify the claim through Facebook's own IP report channel before replying, clicking any evidence link or paying anything; the notice sets a Nov 25 response deadline. (NKST manager; Gmail nolakayaktours@; touched 2026-11-20)
 - [ ] GetYourGuide guest asks how to add transportation, Manchac tour Nov 26 #NKST #due:2026-11-26 #id:T0220
   → NKST staff reply to Catherine Zhang via GetYourGuide to confirm whether transportation was selected on her Nov 26 11:30 am booking and how to add it. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
@@ -395,8 +397,6 @@ _nothing_
   → Ignore or reply once for both brands; Mujahid Khan followed up again asking whether to narrow the Cave Point/shipwreck feature to two outlets and quote costs, which points to a paid placement pitch. (David; Gmail doorcountykayaking@; touched 2026-11-16)
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson: can a 17-year-old attend a full Bike Bar buyout for a 21st birthday, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-16)
-- [ ] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #id:T0196
-  → Reply do 1 in #the-helm so TideBot drafts a repost or quick offer for NPB; anything that spends or posts comes back for a final go. (David; Slack #the-helm; touched 2026-11-16)
 - [ ] HPB random drug test authorization for Dustin Gause, Maritime Consortium #HPB #id:T0201
   → HPB manager pick a business-hours time, then notify Dustin Gause in writing to take the random test at Quest Diagnostics Fry Road in Katy with authorization Q25219822 and a photo ID; call the site first in case it needs an appointment. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-16)
 - [ ] BBK corporate Christmas outing inquiry, 9 people, Dec 7 or 8 #BBK #id:T0203
@@ -451,6 +451,8 @@ _nothing_
   → David or AKT staff find out who sent the Nov 20 reply from the AKT inbox telling LONT Group to hire a real designer with profanity, and stop replies like that going out under the AKT name. (David; Gmail austinkayaktours@; touched 2026-11-20)
 - [ ] Copyright cease and desist on New Orleans Party Barge Facebook page, likely scam #NPB #id:T0248
   → NPB manager do not click the evidence link or reply; check the Facebook Page for any real copyright notice in Page Support Inbox, and warn the team since these fake legal notices often aim to steal Page logins. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-20)
+- [ ] Captain job application, Cruise Apollo #NPB #id:T0250
+  → NPB manager review the captain resume from Apollo Marine Yacht Restoration and decide whether to follow up. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-20)
 
 ## Backburner (LSKT)
 
@@ -528,6 +530,9 @@ _nothing_
 - [x] NKST booked 0 on $56 spend Nov 13 #NKST #done:2026-11-17 #id:T0183
   > David: Closed by the resolver: The Nov 14 daily shows NKST green, booked 1 / $390 at 9.5x. The Nov 13 zero-booking day did not repeat.
   > Radar: Noted, closed. The Nov 16 daily also shows NKST at 12.9x on $57 spend and 4 bookings, so no repeat.
+- [x] NPB Nov 15 bookings soft, return 0.7x under 5x floor #NPB #done:2026-11-20 #id:T0196
+  > David: Closed by the resolver: The Nov 15 soft day passed. The 11-19 daily shows NPB at 22 booked, $5.6k, 14.5x return, well above the 5x floor.
+  > Radar: Marked resolved. The Nov 15 soft day is past and the Nov 19 numbers (22 booked, 14.5x return) are well above the 5x floor.
 - [x] Possible buyer approach for Austin kayak operators (Rachel Foster) #AKT #done:2026-11-16 #id:T0197
   > David: Closed by the resolver: Austin Kayak Tours replied to Rachel Foster on 11-16 at 7:22 with 'Sure. 920-344-6641', agreeing to the call with the buyer.
   > Radar: Marked resolved. AKT replied to Rachel Foster agreeing to the call with the buyer, so nothing is open on this beyond the call itself.

@@ -2,6 +2,9 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-20 10:10 | David ticked T0196 NPB Nov 15 bookings soft, return 0.7x under 5x floor
+- 2026-11-20 10:10 | David commented on T0196
+- 2026-11-20 10:10 | 17 new messages moved 2 threads: T0249, T0250
 - 2026-11-20 08:10 | 9 new messages moved 2 threads: T0247, T0248
 - 2026-11-20 06:10 | David ticked T0175 Boat insurance may not cover people on docks and gas station area
 - 2026-11-20 06:10 | David commented on T0175
