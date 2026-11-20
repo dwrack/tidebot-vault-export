@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -15,9 +15,6 @@ _nothing_
 
 ## Needs you
 
-- [x] Jonah asks if David is coming to the meeting #due:2026-11-19 #id:T0240
-  → David answer Jonah on whether he is joining the meeting. (David; Text with Jonah Moses; touched 2026-11-19)
-  > I didn’t go, it was just a marketing meeting.
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link; Jonah already sent Max the carrier answers on revenue, staff, supervision and access, so still open are Capitol's written watercraft answer, the additional insured certificate and endorsement by Dec 13, and what covers events serving alcohol since the policy excludes liquor liability. (David; Gmail davey@; touched 2026-11-19)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
@@ -140,6 +137,8 @@ _nothing_
   → Wait for Todd Key's draft term sheet; Jonah's Nov 19 terms are $125,000 for the member interests offset against HD Clinton, $12,500 from Dustin at closing, and 14 days after closing to pay Macadam, with a clawback line in the signing version. (Todd Key; Gmail dwrack81@; touched 2026-11-19)
 - [ ] Set up Michael's MacBook on Tailscale and SSH for automation access #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0244
   → Michael accepts the Tailscale invite (a second link was sent at 5:26pm); then David confirms the machine shows up on the tailnet and can connect over SSH. (Michael Fischer; Text with Michael Fischer; touched 2026-11-19)
+- [ ] Elevated Tides redemption of Seaworthy and Dustin interests, amended term sheet and agreements #waiting #id:T0253
+  → Todd fixes the Macadam stipulated judgment amount ($121,500) and case number (26CV41355 vs 26CV41335), sets signing and outside closing dates, and Paul updates both redemption agreements and consents for the amended terms. (Todd; Gmail dwrack81@, Text with Jonah Moses; touched 2026-11-20)
 
 ## Open
 
@@ -484,6 +483,9 @@ _nothing_
 - [x] Post Oak Group intro meeting with Umair Anjum, missed connection #Gravity-Trails #due:2026-11-19 #done:2026-11-19 #id:T0238
   > David: Closed by the resolver: David joined the 10:30 call, Umair rejoined, the meeting took place, and Post Oak sent next steps at 09:14 and a thank-you for attending at 10:00 on 11-19.
   > Radar: Marked resolved. The meeting happened and Post Oak's next steps are in your inbox from 9:14 this morning.
+- [x] Jonah asks if David is coming to the meeting #due:2026-11-19 #done:2026-11-20 #id:T0240
+  > David: I didn’t go, it was just a marketing meeting.
+  > Radar: Noted that you skipped it as a marketing meeting, so I closed this thread. Nothing else is waiting on you here.
 - [x] Marina insurance agent asks for vessel liability details #done:2026-11-13 #id:T0058
   > David: Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
   > Radar: Marked resolved. Michael answered the slip liability question and sent loss runs, and the quote work continues under the Apres Assets thread. The separate worry about dock and gas station coverage now has its own thread.
