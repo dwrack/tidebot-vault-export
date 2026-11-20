@@ -1,10 +1,11 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 18:36 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 19:02 PT.
 
-Counts: people 14, vendors 144, projects 6, money 563, promises 44, asks 77, dates 1081
+Counts: people 14, vendors 144, projects 6, money 567, promises 44, asks 78, dates 1085
 
 ## Open asks of Davey (Tier 0)
+- 11/19 18:59 Jonah [reply]: "Davey, what works for you?"
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
@@ -129,6 +130,7 @@ Counts: people 14, vendors 144, projects 6, money 563, promises 44, asks 77, dat
 - 2026-11-23 sauna@ebbandember.com: "November 23"
 - 2026-11-24 Claude: "11/24"
 - 2026-11-24 Davey: "next tuesday"
+- 2026-11-24 Jonah: "11/24"
 - 2026-11-26 Jonah: "11/26"
 - 2026-11-26 Mack: "Nov. 26"
 - 2026-11-26 Mack: "November 26"
