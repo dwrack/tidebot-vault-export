@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -133,6 +133,8 @@ _nothing_
   → Jonah lock in the contractor who gave the $4k bid; David asked him to since he is busy the next 2 days. (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
 - [ ] Deal points for member interest sale: HD Clinton offset, Dustin closing payment, Macadam filing hold #waiting #id:T0241
   → Todd get the final term sheet to Jonah with a short signing deadline for Drew, then Paul starts the transfer documents; if Dustin misses the date, the Macadam filing goes ahead. (Todd; Gmail dwrack81@; touched 2026-11-19)
+- [ ] JTK Law draft term sheet, deal points agreed (HD Clinton, Macadam) #waiting #id:T0243
+  → Wait for Todd Key's draft term sheet; Jonah's Nov 19 terms are $125,000 for the member interests offset against HD Clinton, $12,500 from Dustin at closing, and 14 days after closing to pay Macadam, with a clawback line in the signing version. (Todd Key; Gmail dwrack81@; touched 2026-11-19)
 
 ## Open
 

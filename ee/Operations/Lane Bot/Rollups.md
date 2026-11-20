@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 14:56 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 16:29 PT.
 
-Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dates 1066
+Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dates 1071
 
 ## Open asks of Davey (Tier 0)
 - 11/19 12:05 Jonah [reply]: "You coming to this meeting?"
@@ -76,10 +76,12 @@ Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dat
 - 2026-11-19 Claude: "11/19"
 - 2026-11-19 Claude: "today"
 - 2026-11-19 Ebb & Ember: "Nov 19"
+- 2026-11-19 Grant: "today"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
 - 2026-11-19 Jonah: "11/19"
 - 2026-11-19 Jonah: "today"
 - 2026-11-19 Jordan Culberson: "Nov 19"
+- 2026-11-19 L: "asap"
 - 2026-11-19 Mack: "November 19"
 - 2026-11-19 Mack: "today"
 - 2026-11-19 PSP/Deck Expo: "November 19"
@@ -91,10 +93,12 @@ Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dat
 - 2026-11-20 Davey: "Nov 20"
 - 2026-11-20 Davey: "November 20"
 - 2026-11-20 Davey: "this week"
+- 2026-11-20 Grant: "tomorrow"
 - 2026-11-20 Jen Newlin: "Nov 20"
 - 2026-11-20 Jonah: "11/20"
 - 2026-11-20 Jonah: "friday"
 - 2026-11-20 Jonah: "this week"
+- 2026-11-20 Jonah: "tomorrow"
 - 2026-11-20 Pjstambaugh: "Nov 20"
 - 2026-11-20 Zoe Vives Jancou: "this week"
 - 2026-11-20 brainbot: "November 20"
