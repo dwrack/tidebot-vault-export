@@ -1,11 +1,10 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 16:29 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-19 17:04 PT.
 
-Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dates 1071
+Counts: people 14, vendors 144, projects 6, money 563, promises 44, asks 76, dates 1075
 
 ## Open asks of Davey (Tier 0)
-- 11/19 12:05 Jonah [reply]: "You coming to this meeting?"
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
 - 11/15 17:48 Jonah [reply]: "Can you invite me to the artifact so I can just add edits directly"
 - 11/13 14:47 Jonah [reply]: "Whats your thoughts on increasing capacity on the social from 8-10?"
@@ -75,6 +74,7 @@ Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dat
 - 2026-11-19 Alex: "today"
 - 2026-11-19 Claude: "11/19"
 - 2026-11-19 Claude: "today"
+- 2026-11-19 Davey: "today"
 - 2026-11-19 Ebb & Ember: "Nov 19"
 - 2026-11-19 Grant: "today"
 - 2026-11-19 Intl. Pool Spa Patio co-located with Deck Expo: "Nov 19"
@@ -93,6 +93,7 @@ Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dat
 - 2026-11-20 Davey: "Nov 20"
 - 2026-11-20 Davey: "November 20"
 - 2026-11-20 Davey: "this week"
+- 2026-11-20 Davey: "tomorrow"
 - 2026-11-20 Grant: "tomorrow"
 - 2026-11-20 Jen Newlin: "Nov 20"
 - 2026-11-20 Jonah: "11/20"
@@ -111,6 +112,7 @@ Counts: people 14, vendors 144, projects 6, money 562, promises 44, asks 76, dat
 - 2026-11-23 Anna Nelson: "11/23"
 - 2026-11-23 Claude: "11/23"
 - 2026-11-23 Claude: "next week"
+- 2026-11-23 Dena Marshall: "11/23"
 - 2026-11-23 Ebb & Ember: "NOV 23"
 - 2026-11-23 Ebb & Ember: "Nov 23"
 - 2026-11-23 Ebb & Ember: "November 23"

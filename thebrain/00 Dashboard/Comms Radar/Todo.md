@@ -63,8 +63,9 @@ _nothing_
   → David set a time to catch up with AKT on the winter plan: NYE fireworks tour (50-60 guests, about 3-4k profit), bring back Sunset Skyline, sell both vans for 1-2k, get back on Viator, and a membership of about $90 minimum. (David; Gmail dwrack81@; touched 2026-11-17)
 - [ ] TideBot written log processing failing, Gemini prepayment credits depleted #NKST #id:T0221
   → David top up the Gemini prepaid credits in AI Studio billing so TideBot can process written logs again; until then logs like today's NKST post need manual processing. (David; Slack #the-helm; touched 2026-11-17)
-- [ ] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #id:T0229
+- [x] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #id:T0229
   → David and Davey answer Todd Key's two questions: are you still good with the deal, and do you want to proceed with the Macadam filing; his lawyer's only remaining ask is 14 days between closing of the HD Clinton/member interest transaction and the Macadam note due date. (David; Gmail dwrack81@; touched 2026-11-18)
+  > Closed by the resolver: Jonah replied to Todd at JTK Law that they are still good with the deal and to hold the Macadam filing. Todd acknowledged and will send a draft term sheet.
 - [ ] OpenCX: unknown admin 'Aziz' added to five brand accounts #BBK #DCKT #LSKT #HPB #NKST #id:T0230
   → David check platform.open.cx members and confirm whether Aziz was added on purpose; if not, remove the admin from all five orgs and rotate credentials. (David; Gmail dwrack81@, Gmail doorcountykayaking@; touched 2026-11-18)
 - [ ] Progressive commercial auto premium up $4,471, paid-in-full discount removed, Gravity Trails #Gravity-Trails #id:T0237
