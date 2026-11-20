@@ -2,13 +2,13 @@
 business: LSKT
 display_name: Lone Star Kayak Tours
 city: Austin
-bookings_today: 2
-revenue_today: 60
+bookings_today: 1
+revenue_today: 43
 lead_time_days: 0
-ad_spend_yday: 28
+ad_spend_yday: 44
 status: yellow
-alert: "38% of goal; PMax $173 for 1 conv"
-updated: 2026-11-19
+alert: "4% of goal; PMax $196 for 2 conv"
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 5500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $2,109/wk booked vs $5,500 target — 38% of goal.** 2 / $60 Wed, 3 trips ran ($168).
-- **Google:** Lone Star PMax $173.00 over 7d for 1 conv ($27 value). Meta Winter Retargeting $32.93 / 0 purchases, frequency 5.76.
+- **Goal pace: $211/wk booked vs $5,500 target — 4% of goal.** Down from 38% as the big 11/12 day rolled off; 1 / $43 Thu.
+- **Google:** Lone Star PMax $195.88 over 7d for 2 conv ($70.36, ROAS 0.36). Meta Winter Retargeting $43.88 / 0 purchases, frequency 5.75.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 19. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 20. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -47,11 +47,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $15,989 |
+| Money in | $15,079 |
 | Spending | $14,853 |
 | Card payments + transfers out | $10,662 |
 | Net, month to date | -$7,035 |
-| Net, same days last month | $2,903 |
+| Net, same days last month | $2,412 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|

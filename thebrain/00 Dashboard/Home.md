@@ -1,33 +1,33 @@
 # Davey Jones' Locker — Command Center
 
-*Last refresh: 2026-11-19 (Thursday). NPB Meta Gator Collision $221.51 yesterday at 0 purchases (7d ROAS 0.16), NKST + NPB Holiday Google $590.68 at 0 conversions (day 7), NPB pace 32%, NPB 2★ day 11, NKST 3★ day 6, HPB 9% of goal.*
+*Last refresh: 2026-11-20 (Friday). NPB booked 22 / $5,608 yesterday (pace 41%), NPB Google National 9 conv at ROAS 15.1 and over budget, three Google campaigns $541.18 at 0 conversions (day 8), Gator Collision 4 purchases yesterday but 7d ROAS 0.47, NPB 2★ day 12, NKST 3★ day 7, HPB 0 bookings for 6 days.*
 
 ## Right now
 - [Today's decisions + digest (DJL Morning Digest)](https://claude.ai/artifact/QbPUmAfxBpB7WUffSGbFSn)
-- [[Daily Briefings/2026-11-19|Today's brief]]
+- [[Daily Briefings/2026-11-20|Today's brief]]
 - [[03 Projects/Active/Project Kanban|Project board]]
 - [[Brand Gallery]]
 - [[_Needs Attention]]
 
 ## Top 3 actions
 <!-- top3:start -->
-1. **NOLA Party Barge** (Meta): pause or cut Gator Collision to $30/day. $221.51 yesterday for 0 purchases; $1,136.25 over 7 days for 3 purchases worth $179.64 (ROAS 0.16). Retargeting returned 6.05 on $137.59; move the money there.
-2. **NKST + NPB** (Michael's lane): pause NKST Kayak National + Local and NOLA Holiday Party & Groups, $590.68 over 7 days at 0 conversions (day 7); move budget to NPB National (6 conv on $428.62).
-3. **NOLA Party Barge**: reply to the 2★ JP Trigo (day 11, approved 11/12, never posted) plus 11 open 5★. Pace $9,460 vs $30,000 (32%). Drafts in the 11/17 to 11/19 briefs.
+1. **NOLA Party Barge** (Google, Michael's lane): raise Pedal-Barge National from $65/day to about $145/day. $89.22 yesterday for 9 conversions worth $1,350.93 (ROAS 15.1). Fund it by pausing NKST Kayak National + Local and NOLA Holiday Party & Groups: $541.18 over 7 days at 0 conversions (day 8).
+2. **NOLA Party Barge + NKST**: reply to the 2★ JP Trigo (day 12, approved 11/12, never posted) and the 3★ Jeanette Quirk (day 7), plus 24 open 5★. Drafts in the 11/17 to 11/19 briefs.
+3. **NOLA Party Barge** (Meta): cut Gator Collision to $100/day instead of pausing. $215.23 yesterday for 4 purchases / $357.53 (ROAS 1.66), but 7 days is $1,150.57 for $537.17 (ROAS 0.47). Move the difference to Retargeting (ROAS 4.27).
 <!-- top3:end -->
 
 ## Pulse — last 7 days
 <!-- pulse:start -->
-| Signal | Yesterday (Wed 11/18) | 7-day avg (11/12 to 11/18) | Δ |
+| Signal | Yesterday (Thu 11/19) | 7-day avg (11/13 to 11/19) | Δ |
 |---|---|---|---|
-| Gmail unread (main inbox, 50 max) | 32 | 21 (prior brief) | +11 |
-| Unreplied GBP reviews (all biz) | 26 (NPB 13, NKST 7, E&E 4, AKT 2) | 24 (prior brief) | +2 |
-| FH bookings (6 FH brands) | 12 | 10.0 | +2.0 |
-| FH booked revenue (6 FH brands) | $1,543 | $2,234 | -$691 |
-| Total ad spend (G+M) | $534.20 | $466.38 | +$67.82 |
-| Total ad-attributed conversions | 1 (G 1, M 0) | 2.7 | -1.7 |
+| Gmail unread (main inbox, 50 max) | 7 | 32 (prior brief) | -25 |
+| Unreplied GBP reviews (all biz) | 26 (NPB 13, NKST 7, E&E 4, AKT 2) | 26 (prior brief) | 0 |
+| FH bookings (6 FH brands) | 29 | 12.4 | +16.6 |
+| FH booked revenue (6 FH brands) | $6,614 | $2,489 | +$4,125 |
+| Total ad spend (G+M) | $580.76 | $465.36 | +$115.40 |
+| Total ad-attributed conversions | 15 (G 11, M 4) | 4.1 | +10.9 |
 <!-- pulse:end -->
-*Goal pace 11/12 to 11/18: NPB 32% ($9,460 of $30,000), NKST 75%, Lone Star 38%, Buffalo Bayou 15%, HPB 9%, DCKT 0% (closed).*
+*Goal pace 11/13 to 11/19: NPB 41% ($12,297 of $30,000), NKST 96%, Buffalo Bayou 16%, HPB 9%, Lone Star 4%, DCKT 0% (closed).*
 
 ## Business tiles
 
@@ -35,13 +35,13 @@
 
 ## Recent briefings
 <!-- briefs:start -->
-- [[Daily Briefings/2026-11-19]] (today)
-- [[Daily Briefings/2026-11-18]] (1 day ago)
-- [[Daily Briefings/2026-11-17]] (2 days ago)
-- [[Daily Briefings/2026-11-16]] (3 days ago)
-- [[Daily Briefings/2026-11-15]] (4 days ago)
-- [[Daily Briefings/2026-11-14]] (5 days ago)
-- [[Daily Briefings/2026-11-13]] (6 days ago)
+- [[Daily Briefings/2026-11-20]] (today)
+- [[Daily Briefings/2026-11-19]] (1 day ago)
+- [[Daily Briefings/2026-11-18]] (2 days ago)
+- [[Daily Briefings/2026-11-17]] (3 days ago)
+- [[Daily Briefings/2026-11-16]] (4 days ago)
+- [[Daily Briefings/2026-11-15]] (5 days ago)
+- [[Daily Briefings/2026-11-14]] (6 days ago)
 <!-- briefs:end -->
 
 ## Maps

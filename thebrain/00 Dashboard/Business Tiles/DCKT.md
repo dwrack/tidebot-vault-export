@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-19
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 7000
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal pace: $0/wk booked vs $7,000 target — 0% of goal.** Closed for the season; Google $0, Meta no spend.
-- Off-season GSC clicks come from sauna terms ("sauna door county" pos 2.9). IG last post 11/12.
+- Off-season GSC clicks come from sauna terms ("sauna door county" 3 clicks at pos 2.9). IG last post 11/12. Daily Mom gift guide (due 11/30) fits Door County gift cards.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 19. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 20. Read-only.*
 
 | Account | Balance |
 |---|---|

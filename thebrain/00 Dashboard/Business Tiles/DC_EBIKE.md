@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: green
 alert: null
-updated: 2026-11-19
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: commit_domain_to_rentals
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal: commit_domain_to_rentals. No movement since 2026-08-28.**
-- GSC 0 clicks / 19 impressions (11/11-11/18). Newest Google review 7/2023.
+- GSC 0 clicks in the top queries (11/12-11/19). Newest Google review 7/2023.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: DCKT
-*Bank feed via SimpleFIN, refreshed Nov 19. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 20. Read-only.*
 
 | Account | Balance |
 |---|---|

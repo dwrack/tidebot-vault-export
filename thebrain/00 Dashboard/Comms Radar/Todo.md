@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 06:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -375,8 +375,6 @@ _nothing_
   → AKT staff reply to Cara Lazenby and email or hand over the gift certificate (package deal agreed in June, about $120 value at each of Buffalo Bayou and Houston Party Barge) for the Madrigal Dinner raffle. (Connor; Gmail austinkayaktours@; touched 2026-11-12)
 - [ ] Villalon Combat Sports pay-to-play Instagram shirt feature offer, AKT/LSKT #AKT #LSKT #id:T0169
   → AKT staff ignore or decline; it is a $10 plus branded T-shirt paid spotlight with no reach or booking guarantee. (AKT staff; Gmail austinkayaktours@; touched 2026-11-12)
-- [ ] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #id:T0175
-  → David call the insurance provider to get dock and gas station coverage added to the marine policy, and consider shopping other agents before the boat policy lapses. (David; Text with Michael Fischer; touched 2026-11-13)
 - [ ] TideBot written-log processing down, Gemini API credits depleted #NKST #id:T0179
   → David or whoever owns the Gemini AI Studio project top up the prepaid credits so TideBot can process written trip logs again; logs posted meanwhile need manual processing. (David; Slack #the-helm; touched 2026-11-13)
 - [ ] Fake Facebook page verification emails to HPB, Google Forms link #HPB #id:T0184
@@ -437,8 +435,6 @@ _nothing_
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to the Hidden Adventure Tours Threads account on mbp-2 (Screen Sharing, hat Chrome profile) and the Admire NOLA Instagram account (admire Chrome profile); the engage bot is paused 24h. (David; Slack #helm-admire; touched 2026-11-19)
-- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
-  → Wait for Richard's written electrical quote (Jonah accepted $4,800) and Sergey's answer on gas line pressure and whether the NW Natural meter can carry about 764,000 BTU an hour; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Gmail davey@; touched 2026-11-19)
 - [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
   → Ignore, or reply once; Harry Ricketts followed up asking Nola to reply 'Swap' or say what the $250 includes, which looks like a link-buying pitch. (Admire NOLA staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] M&A outreach about New Orleans Pedal Barge from Kathleen Gray #NPB #id:T0234
@@ -447,6 +443,10 @@ _nothing_
   → Connor send Krish Ragoowansi the per-person retail rate and current timings for City Skyline, Congress Bridge Bats and Sunset Skyline tours so Expedia can set them up through the end of 2027. (Connor Champagne; Gmail austinkayaktours@; touched 2026-11-19)
 - [ ] Used kayak inquiry, Perception Rambler 13.5 #DCKT #id:T0245
   → DCKT staff reply to Dan Gesell on whether any used kayaks, including the Perception Rambler 13.5, are for sale. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-19)
+- [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
+  → Richard sends walk-through days and times for 173 NE Bridgeton Rd (he can start the week of Nov 30 or Dec 7), and Jonah checks Sergey's pipe capacity table against the actual run length from the meter; David still calls Mario for the gas line install date. (Jonah Moses; Gmail davey@; touched 2026-11-20)
+- [ ] Rude reply sent from the AKT inbox to an Egypt DMC cold pitch #AKT #id:T0246
+  → David or AKT staff find out who sent the Nov 20 reply from the AKT inbox telling LONT Group to hire a real designer with profanity, and stop replies like that going out under the AKT name. (David; Gmail austinkayaktours@; touched 2026-11-20)
 
 ## Backburner (LSKT)
 
@@ -455,8 +455,6 @@ _nothing_
 
 ## Done (last 14 days)
 
-- [x] AKT Riverside Lot parking permit statement $2,082.40 #AKT #due:2026-11-01 #done:2026-11-05 #id:T0002
-- [x] Soward v. TripAdvisor hearing date, reply needed #AKT #due:2026-11-03 #done:2026-11-05 #id:T0001
 - [x] NKST guest Freddie Skarbek objects to waiver indemnification wording, tour today 2pm #NKST #due:2026-11-12 #done:2026-11-12 #id:T0161
 - [x] JTK Law proposed deal points, MSJ and declaration drafts #waiting #due:2026-11-16 #done:2026-11-13 #id:T0170
   > David: do i need to respond? i read it and it looks good. hoping for some closure on this
@@ -475,7 +473,6 @@ _nothing_
 - [x] Post Oak Group intro meeting with Umair Anjum, missed connection #Gravity-Trails #due:2026-11-19 #done:2026-11-19 #id:T0238
   > David: Closed by the resolver: David joined the 10:30 call, Umair rejoined, the meeting took place, and Post Oak sent next steps at 09:14 and a thank-you for attending at 10:00 on 11-19.
   > Radar: Marked resolved. The meeting happened and Post Oak's next steps are in your inbox from 9:14 this morning.
-- [x] NKST payroll Oct 16-31 blocked on 3 questions, crew 'mj' needs rate #NKST #done:2026-11-05 #id:T0031
 - [x] Marina insurance agent asks for vessel liability details #done:2026-11-13 #id:T0058
   > David: Closed by the resolver: Michael answered Shelley Zahn's boat and slip liability question 11/13 (GT occupies 4 slips, carries its own insurance) and sent loss runs; she said she can pro
   > Radar: Marked resolved. Michael answered the slip liability question and sent loss runs, and the quote work continues under the Apres Assets thread. The separate worry about dock and gas station coverage now has its own thread.
@@ -515,6 +512,9 @@ _nothing_
 - [x] NKST ad return 0.4x under 5x floor, soft demand #NKST #done:2026-11-17 #id:T0172
   > David: Closed by the resolver: Daily reports show NKST recovered: 9.5x on 11-14 and 12.9x on 11-16 ($740 booked on $57 spend), so the 0.4x soft-demand flag no longer holds.
   > Radar: Marked resolved. The daily reports show NKST at 9.5x on 11-14 and 12.9x on 11-16, so the 0.4x flag no longer applies.
+- [x] Boat insurance may not cover people on docks and gas station area #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #done:2026-11-20 #id:T0175
+  > David: Closed by the resolver: The broker answered on 11/18 and 11/19: P&I extends to embarking and disembarking via docks, and Apres Assets is an additional insured. Gas station area not add
+  > Radar: Marked resolved: the broker said on 11/18 and 11/19 that P&I covers embarking and disembarking via docks and that Apres Assets is an additional insured. The note on the gas station area was cut off in what I received, so check the full note before relying on it for that area.
 - [x] Roxanne Pauig follow-up on sauna float outlets quote, Hayden Island #done:2026-11-14 #id:T0180
   > David: Closed by the resolver: Davey replied to Roxanne at Smiley Electric on 11-14 with photos and the updated quote sheet.
   > Radar: Marked resolved. Davey answered Roxanne at Smiley Electric on Nov 14 with photos and the updated quote sheet. It reopens if she sends a new message.

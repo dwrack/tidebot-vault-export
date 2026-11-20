@@ -2,13 +2,13 @@
 business: BUFFALO_BAYOU
 display_name: Buffalo Bayou Kayak
 city: Houston
-bookings_today: 1
-revenue_today: 179
+bookings_today: 2
+revenue_today: 103
 lead_time_days: 0
-ad_spend_yday: 4
+ad_spend_yday: 23
 status: yellow
-alert: "15% of goal"
-updated: 2026-11-19
+alert: "16% of goal"
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4500
@@ -18,8 +18,8 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $688/wk booked vs $4,500 target — 15% of goal.** 1 / $179 Wed; 1 trip ran ($97).
-- **Google:** PMax $69.30 for 2.51 conv ($200.87), generic search $28.63 for 1 ($108). Houston Meta $0 Wed.
+- **Goal pace: $710/wk booked vs $4,500 target — 16% of goal.** 2 / $103 Thu.
+- **Google:** PMax $79.19 for 0.51 conv ($60.14), generic search $28.27 for 1 ($108.24), brand search $17.91 at 0 conv. Houston Meta $0 Thu. IG posted 11/19.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -38,7 +38,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Lone Star Kayak Tours, LLC (LSKT + BBK + HPB)
-*Bank feed via SimpleFIN, refreshed Nov 19. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 20. Read-only.*
 
 | Account | Balance |
 |---|---|
@@ -47,11 +47,11 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $15,989 |
+| Money in | $15,079 |
 | Spending | $14,853 |
 | Card payments + transfers out | $10,662 |
 | Net, month to date | -$7,035 |
-| Net, same days last month | $2,903 |
+| Net, same days last month | $2,412 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|

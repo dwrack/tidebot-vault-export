@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 00:24 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 06:49 PT.
 
-Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dates 1106
+Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dates 1107
 
 ## Open asks of Davey (Tier 0)
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
@@ -70,6 +70,7 @@ Counts: people 14, vendors 144, projects 6, money 571, promises 44, asks 78, dat
 - 11/16 08:33 "<@U0B1H0WRHJ8> ill forward any electric contacts i started getting quotes from as well" (#private-saunas-build)
 - 11/16 11:21 "Its under the waiver, ill be on computer soon and can elaborate." (#dev | thread: i am working on getting waiver signers added into active campaign after they sig)
 - 11/17 22:08 "ill take another look at the 49.99 charge on 10/2" (#founders) due 2026-10-02
+- 11/18 06:29 "If you ever want to see the place, let me know and I'll get you out for a session." (Re: Following up from Wednesday's show) due 2026-11-17
 
 ## Dates inside 7 days (as mentioned in messages)
 - 2026-11-20 Alex: "this week"

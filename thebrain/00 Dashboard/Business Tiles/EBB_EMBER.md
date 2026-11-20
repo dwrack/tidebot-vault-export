@@ -8,7 +8,7 @@ lead_time_days: 0
 ad_spend_yday: 0
 status: yellow
 alert: "4 open 5★ incl. Jonah Kest (check)"
-updated: 2026-11-19
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: measurable_front_door_by_oct_15
 goal_q4_target: null
@@ -19,7 +19,7 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- live:start -->
 - **Goal: measurable_front_door_by_oct_15. No movement since 2026-08-28; still no GSC, GA4 or Meta ad account.**
-- 4 open 5★ incl. Kyle Sweeney (11/18 new) and Jonah Kest (11/17, check if it's our Jonah). IG last post 11/16.
+- 4 open 5★ incl. Kyle Sweeney (11/18) and Jonah Kest (11/17, check if it's our Jonah). IG posted 11/19 (winter-day reel, 23 likes).
 <!-- live:end -->
 
 <!-- maps:start -->

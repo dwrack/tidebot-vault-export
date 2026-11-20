@@ -2,13 +2,13 @@
 business: NKST
 display_name: New Orleans Kayak Swamp Tours
 city: New Orleans
-bookings_today: 2
-revenue_today: 315
+bookings_today: 4
+revenue_today: 860
 lead_time_days: 0
-ad_spend_yday: 60
+ad_spend_yday: 57
 status: yellow
-alert: "Google Kayak search $394/7d at 0 conv"
-updated: 2026-11-19
+alert: "Google Kayak search $373/7d at 0 conv; 3★ day 7"
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 4000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $3,015/wk booked vs $4,000 target — 75% of goal.** Down from 105% as the 11/11 $1,490 day rolled off; 2 / $315 Wed.
-- **Google:** Kayak National $226.87 + Local $167.64 over 7d, 0 conversions, still enabled (day 7). Michael's lane.
-- **Reviews:** 3★ Jeanette Quirk day 6 plus 6 open 5★ (Carla Tarenzi new 11/18, praises Stephanie).
-- **GA4:** 11/18 "43 conversions" are one micro event firing on 4 sessions. Casino paths in GA4 are fake hits (404 live, not in GSC). Brand term still #21.
+- **Goal pace: $3,845/wk booked vs $4,000 target — 96% of goal.** Up from 75%; 4 / $860 Thu.
+- **Google:** Kayak National $223.09 + Local $150.26 over 7d, 0 conversions, still enabled (day 8). Michael's lane. FareHarbor shows 16 bookings in the same week, so confirm the conversion tag fires.
+- **Reviews:** 3★ Jeanette Quirk day 7 plus 6 open 5★.
+- **GA4:** 146 sessions Thu; 49 of 50 "conversions" are the micro event. Brand term slipped to #24.5 (was #21). IG posted 11/19.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -72,28 +72,27 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 19. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 20. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $59,418 |
+| Chase Bank PERFBUS CHK (3085) | $49,569 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $88,440 |
-| Spending | $73,745 |
-| Card payments + transfers out | $29,426 |
-| Net, month to date | $10,664 |
-| Net, same days last month | $8,953 |
+| Money in | $85,692 |
+| Spending | $67,465 |
+| Card payments + transfers out | $30,741 |
+| Net, month to date | $2,630 |
+| Net, same days last month | $13,783 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $32,069; CHECK # $22,140; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; CHECK # 11/13 $800
+**Top spending, 30 days:** PAYPAL $31,789; Payroll-Homebase $16,562; CHECK # $16,140; WRIGHT EXPRESS $1,294; CHECK # 11/13 $800
 **Flags:**
-- Check $6,000 on Oct 21: payee unknown, label it
 - Check $6,000 on Oct 27: payee unknown, label it
 - Check $2,129 on Oct 29: payee unknown, label it
 - Check $6,000 on Nov 09: payee unknown, label it

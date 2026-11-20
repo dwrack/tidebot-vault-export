@@ -2,13 +2,13 @@
 business: NPB
 display_name: NOLA Party Barge
 city: New Orleans
-bookings_today: 7
-revenue_today: 989
+bookings_today: 22
+revenue_today: 5608
 lead_time_days: 0
-ad_spend_yday: 434
+ad_spend_yday: 452
 status: yellow
-alert: "pace 32% of $30k; Meta Gator $221 yday at 0"
-updated: 2026-11-19
+alert: "pace 41% of $30k; 2★ unreplied day 12"
+updated: 2026-11-20
 tile_type: business
 goal_q4_metric: weekly_booked_revenue
 goal_q4_target: 30000
@@ -18,10 +18,10 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 ---
 
 <!-- live:start -->
-- **Goal pace: $9,460/wk booked vs $30,000 target — 32% of goal.** Down from 40%; booked 7 / $989 Wed, but the big 11/12-11/13 days rolled off.
-- **Meta:** Gator Collision $221.51 Wed at 0 purchases; 7d $1,136.25 for 3 / $179.64 (ROAS 0.16). Retargeting ROAS 6.05 on $137.59. Pause or cut Gator.
-- **Google:** Pedal-Barge National 6 conv on $428.62 (7d); Holiday Party & Groups $196.17 at 0 conv, still enabled. PMax 0.5 conv on $330.83. Michael's lane.
-- **Reviews:** 2★ JP Trigo day 11 (approved 11/12, never posted) plus 11 open 5★. IG posted 11/18.
+- **Goal pace: $12,297/wk booked vs $30,000 target — 41% of goal.** Up from 32%; 22 bookings / $5,608 Thu, the biggest day in the window.
+- **Google:** Pedal-Barge National $89.22 Thu for 9 conv / $1,350.93 (ROAS 15.1), over its $65 budget; 7d 14 conv on $438.89. Holiday Party & Groups $167.83 and Local $67.58 at 0 conv. PMax 1.5 conv on $333.53. Michael's lane.
+- **Meta:** Gator Collision $215.23 Thu for 4 purchases / $357.53 (ROAS 1.66); 7d $1,150.57 for 7 / $537.17 (ROAS 0.47). Retargeting 7d ROAS 4.27 on $139.08. Cut Gator to $100/day, don't pause.
+- **Reviews:** 2★ JP Trigo day 12 (approved 11/12, never posted) plus 12 open 5★. No new review since 11/17. IG last post 11/18.
 <!-- live:end -->
 
 <!-- maps:start -->
@@ -52,28 +52,27 @@ goal_q4_horizon: 2026-09-01/2026-11-30
 
 <!-- finance:start -->
 ### 💵 Finances: Gravity Trails, LLC (NPB + Bike Bar + Admire NOLA)
-*Bank feed via SimpleFIN, refreshed Nov 19. Read-only.*
+*Bank feed via SimpleFIN, refreshed Nov 20. Read-only.*
 
 | Account | Balance |
 |---|---|
-| Chase Bank PERFBUS CHK (3085) | $59,418 |
+| Chase Bank PERFBUS CHK (3085) | $49,569 |
 
 | Last 30 days | Amount |
 |---|---|
-| Money in | $88,440 |
-| Spending | $73,745 |
-| Card payments + transfers out | $29,426 |
-| Net, month to date | $10,664 |
-| Net, same days last month | $8,953 |
+| Money in | $85,692 |
+| Spending | $67,465 |
+| Card payments + transfers out | $30,741 |
+| Net, month to date | $2,630 |
+| Net, same days last month | $13,783 |
 
 | vs same period last year | This year | Last year | Change |
 |---|---|---|---|
 | Month to date | no history yet | | |
 | Trailing 12 months | no history yet | | |
 
-**Top spending, 30 days:** PAYPAL $32,069; CHECK # $22,140; Payroll-Homebase $16,562; WRIGHT EXPRESS $1,294; CHECK # 11/13 $800
+**Top spending, 30 days:** PAYPAL $31,789; Payroll-Homebase $16,562; CHECK # $16,140; WRIGHT EXPRESS $1,294; CHECK # 11/13 $800
 **Flags:**
-- Check $6,000 on Oct 21: payee unknown, label it
 - Check $6,000 on Oct 27: payee unknown, label it
 - Check $2,129 on Oct 29: payee unknown, label it
 - Check $6,000 on Nov 09: payee unknown, label it
