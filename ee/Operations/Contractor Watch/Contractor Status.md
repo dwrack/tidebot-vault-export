@@ -1,11 +1,11 @@
 # Contractor Status
 
-_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-19 15:26 PT. Read-only: edit contractors.json or the ledger, not this file._
+_Rewritten by contractor_watch.py on mbp-2, last run 2026-11-19 17:26 PT. Read-only: edit contractors.json or the ledger, not this file._
 
 ## Needs Davey now
-- **nudge** Alex has not answered: Mount the three ABC extinguishers (private sauna doors and shared deck by fire pits) and count life jackets including kid sizes, with photos of each. (asked 2026-11-15T17:07, 94h ago)
+- **nudge** Alex has not answered: Mount the three ABC extinguishers (private sauna doors and shared deck by fire pits) and count life jackets including kid sizes, with photos of each. (asked 2026-11-15T17:07, 96h ago)
   - draft: "Hey Alex, did you get a chance to mount the extinguishers and count the life jackets? Photos in #maintenance please."
-- **nudge** Alex has not answered: Jonah 11/17 13:23: post map photos in #maintenance with the slip number in the message (e.g. 'slip 49, looking west'). (asked 2026-11-17T13:23, 50h ago)
+- **nudge** Alex has not answered: Jonah 11/17 13:23: post map photos in #maintenance with the slip number in the message (e.g. 'slip 49, looking west'). (asked 2026-11-17T13:23, 52h ago)
   - draft: "Hey Alex, when you get a chance, post the map photos in #maintenance with the slip number in each message, like 'slip 49, looking west'."
 - **overdue** Alex: 'Meet Jonah at the marina Tuesday 11/17, 11:30 AM to noon, to walk the Facilities Board and trim the P1 list.' was due 2026-11-17 and is not done (Alex confirmed 11/16 10:10. Nothing in these messages confirms it occurred, though the board has clearly been updated since. Kept open until confirmed.)
 - **you owe** Alex is waiting on us (jonah): Alex 11/16 16:04: wants Jonah to point out the failure point of the current ladder and he'll take a second look. (since 2026-11-17T00:00)
@@ -28,6 +28,12 @@ _Rewritten by contractor_watch.py on mbp-2, last run 2026-11-19 15:26 PT. Read-o
 - **other** Grant: Grant needs the thermostat and LED wire plan before closing the interior walls, and no electrician is picked yet. Davey should finish the layout or have Grant leave an easy chase.
 - **other** Grant: Davey sent a fencing photo 11/17 with no stated request. Ask what he wants Grant to do with it.
 - **other** Grant: The prior ledger for Grant was cut off in the input, so this entry was rebuilt from his status line. Older commitments, money lines and watch items may be missing; re-check against the previous full ledger.
+- **overdue** Tilers: 'Prep the sauna walls on Thursday 11/19 (told Grant by phone around 11:00).' was due 2026-11-19 and is not done (Grant 16:06: tiler said around 11 he'd prep walls today. Grant 16:06 and Jonah 16:07 confirm the tiler didn't show. Time of call is Grant's account.)
+  - draft: "Hey, we didn't see you at the sauna today. What's the plan for tomorrow, and when do you expect to be done with the tile?"
+- **quality** Tilers: Tile job is slipping: no show on 11/19, a week in by 11/20, and Grant says pace needs to pick up. Tile is on the critical path for closing V2 interior walls.
+- **other** Tilers: Davey noted 16:30 that the tiler's 7-year-old child went into the hospital this week, which may explain the missed day. Check in kindly before pushing.
+- **other** Tilers: Davey 16:29 wants automated daily check-in texts to contractors ('how was today? what does tomorrow look like?'). Jonah thinks they'll hate it. Not a request to anyone yet; a process decision for Davey.
+- **other** Tilers: Four RFQ replies from 11/10 were held for Grant, and no later reply is visible in these messages. Unclear whether the on-site tiler came from that round; confirm with Grant.
 
 ## Sergey
 _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on the social sauna, mechanical permit_ via iMessage group with Grant (Davey leads); iMessage group with Jonah
@@ -35,8 +41,8 @@ _gas fitter: V2 gas lines (approved $6,300 on 11/13), rusted fitting repair on t
 
 ## Grant
 _builder / maintenance: V2 framing, deck, floors, fire features_ via Slack #private-saunas-build, iMessage
-- **Status:** Builder: V2 framing, deck, floors, fire features. 11/19: the metal worker (via Grant, relayed 10:57) quoted $1,400 for a new welded trash-area gate to match the existing structure, likely done before the weekend; Jonah approved at 11:31 ('I hate it but ok'), so the ball is with Grant to get it scheduled and built. Grant also asked the gas group what time the meeting was and checked in with Davey 1:1 (Davey is back Saturday 11/21). Still open from earlier: invoice #041 for the interior cedar (Grant followed up 11/17 13:39, no reply from us visible), fencing photo from Davey 11/17 with no request yet, and Grant needs the thermostat and LED wire plan before closing interior walls with no electrician picked yet.
-- Last heard: 2026-11-19T10:57 | last we sent: 2026-11-19T11:31
+- **Status:** Builder: V2 framing, deck, floors, fire features. 11/19: the metal worker (via Grant, relayed 10:57) quoted $1,400 for a new welded trash-area gate, likely done before the weekend; Jonah approved at 11:31, so the ball is with Grant to get it scheduled and built. Grant is also our eyes on the tiler: he stopped by the sauna the morning of 11/19, the tiler wasn't there, and the tiler told Grant by phone around 11 that walls would be prepped today. Per the group chat that didn't happen, and Grant says the tile job hits a week on 11/20 and the pace needs to pick up (see Tilers). Davey is back Saturday 11/21. Still open: invoice #041 for the interior cedar (Grant followed up 11/17 13:39, no reply from us visible), fencing photo from Davey 11/17 with no request yet, and Grant needs the thermostat and LED wire plan before closing interior walls with no electrician picked yet.
+- Last heard: 2026-11-19T16:27 | last we sent: 2026-11-19T16:30
 - **Commitments:**
   - [open] Have the metal worker build and install a new welded gate for the trash area to match the existing structure, $1,400. by 2026-11-21. Next: Grant tells the metal worker to go ahead and confirms the day; Jonah or Alex confirm it's up. Keypad handle and truck-side lock are separate and still unsourced. (Grant 10:57 said likely done before the weekend (11/21 implied). Jonah approved 11:31. Temp wood gate from Alex remains the stopgap until then.)
 - **Waiting on us:**
@@ -80,7 +86,11 @@ _V2 electrical quote round: quote sheet sent 11/9 from sauna@ to 11 shops, quote
 
 ## Tilers
 _V2 sauna tile job: RFQ out, 4 replies 11/10, replies to them held for Grant_ via email davey@
-- no traffic seen yet
+- **Status:** V2 sauna tile job: RFQ went out with 4 replies 11/10 (replies held for Grant). Someone is now on site tiling; whether that is one of the RFQ respondents isn't stated in these messages. 11/19: told Jonah he'd finish 11/19 and 11/20, then no-showed on 11/19. Grant says the tiler called back around 11 and promised wall prep that day. As of 11/20 the job will be a week in, and Grant says the pace needs to pick up. Ball is with Davey and Grant to get a firm finish date from the tiler.
+- Last heard: 2026-11-19T11:00 | last we sent: never
+- **Commitments:**
+  - [overdue] Prep the sauna walls on Thursday 11/19 (told Grant by phone around 11:00). by 2026-11-19. Next: Davey or Grant asks the tiler what happened and what tomorrow looks like. (Grant 16:06: tiler said around 11 he'd prep walls today. Grant 16:06 and Jonah 16:07 confirm the tiler didn't show. Time of call is Grant's account.)
+  - [open] Finish the tile job on 11/19 and 11/20 (as the tiler told Jonah on 11/18). by 2026-11-20. Next: Get a firm finish date and a daily check-in from the tiler. Grant keeps an eye on site. Davey back 11/21. (Jonah 15:32 relayed what the tiler said 11/18 ('yesterday', so 11/18). With 11/19 lost, a 11/20 finish looks unlikely.)
 
 ## Refiners
 _chimney + gas stove installer (CCB 219643): installed both V2 flues 11/4; second visit (set stoves, connect gas, test) already in the $5,561.40 job, deposit $3,422.40 paid 11/3_ via email sauna@/davey@, phone 503-443-1376
