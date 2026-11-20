@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-19 due | [P1] Sign Jonah: "3:50, "Sign a second waiver to reach your count": cut it." (slack #founders | thread: I’m assuming this is you. It gives me no, 2026-11-19 18:36) | E&E | default: unsigned, they chase or it lapses [bot:ee:0:e114fab6]
 - [2026-11-19 due |] Front desk theft alert for NOLA Facebook groups (Blink clip 11/19, two people at the counter): draft + group shortlist ready in the Claude session. Needs from you: what was taken, post as your profile or the Page, OK on wording and groups. After posting: watch replies for tips and pass them to NOPD | NPB | default: nothing posts
 - [2026-11-21 due |] Pick the dashboard trim plan (audit 11/19: Send button only stages, 6 approved items never left; 522-line Waiting pile; unused levers, email ship, skills panel) | DJL | default: nothing changes, pile keeps growing
 - Tell Michael: in his Claude (Code tab) say "check my dashboard notes" to have it work his Command Center notes; decide whether he sees Gravity Trails + LSKT LLC money sections (budget, cash, charges) | NPB | default: notes sit until David's Claude reads them; money stays hidden

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -63,9 +63,6 @@ _nothing_
   → David set a time to catch up with AKT on the winter plan: NYE fireworks tour (50-60 guests, about 3-4k profit), bring back Sunset Skyline, sell both vans for 1-2k, get back on Viator, and a membership of about $90 minimum. (David; Gmail dwrack81@; touched 2026-11-17)
 - [ ] TideBot written log processing failing, Gemini prepayment credits depleted #NKST #id:T0221
   → David top up the Gemini prepaid credits in AI Studio billing so TideBot can process written logs again; until then logs like today's NKST post need manual processing. (David; Slack #the-helm; touched 2026-11-17)
-- [x] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #id:T0229
-  → David and Davey answer Todd Key's two questions: are you still good with the deal, and do you want to proceed with the Macadam filing; his lawyer's only remaining ask is 14 days between closing of the HD Clinton/member interest transaction and the Macadam note due date. (David; Gmail dwrack81@; touched 2026-11-18)
-  > Closed by the resolver: Jonah replied to Todd at JTK Law that they are still good with the deal and to hold the Macadam filing. Todd acknowledged and will send a draft term sheet.
 - [ ] OpenCX: unknown admin 'Aziz' added to five brand accounts #BBK #DCKT #LSKT #HPB #NKST #id:T0230
   → David check platform.open.cx members and confirm whether Aziz was added on purpose; if not, remove the admin from all five orgs and rotate credentials. (David; Gmail dwrack81@, Gmail doorcountykayaking@; touched 2026-11-18)
 - [ ] Progressive commercial auto premium up $4,471, paid-in-full discount removed, Gravity Trails #Gravity-Trails #id:T0237
@@ -136,6 +133,8 @@ _nothing_
   → Todd get the final term sheet to Jonah with a short signing deadline for Drew, then Paul starts the transfer documents; if Dustin misses the date, the Macadam filing goes ahead. (Todd; Gmail dwrack81@; touched 2026-11-19)
 - [ ] JTK Law draft term sheet, deal points agreed (HD Clinton, Macadam) #waiting #id:T0243
   → Wait for Todd Key's draft term sheet; Jonah's Nov 19 terms are $125,000 for the member interests offset against HD Clinton, $12,500 from Dustin at closing, and 14 days after closing to pay Macadam, with a clawback line in the signing version. (Todd Key; Gmail dwrack81@; touched 2026-11-19)
+- [ ] Set up Michael's MacBook on Tailscale and SSH for automation access #NPB #NKST #NOLA-Bike-Bar #Admire-NOLA #waiting #id:T0244
+  → Michael accepts the Tailscale invite (a second link was sent at 5:26pm); then David confirms the machine shows up on the tailnet and can connect over SSH. (Michael Fischer; Text with Michael Fischer; touched 2026-11-19)
 
 ## Open
 
@@ -439,7 +438,7 @@ _nothing_
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to the Hidden Adventure Tours Threads account on mbp-2 (Screen Sharing, hat Chrome profile) and the Admire NOLA Instagram account (admire Chrome profile); the engage bot is paused 24h. (David; Slack #helm-admire; touched 2026-11-19)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
-  → Wait for Jonah's reply on the BDS update and the electric run; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
+  → Wait for Jonah's BDS update (he said yes and 'one sec' Nov 19) and the electric run; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
 - [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
   → Ignore, or reply once; Harry Ricketts followed up asking Nola to reply 'Swap' or say what the $250 includes, which looks like a link-buying pitch. (Admire NOLA staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] M&A outreach about New Orleans Pedal Barge from Kathleen Gray #NPB #id:T0234
@@ -530,3 +529,6 @@ _nothing_
 - [x] Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher #NPB #done:2026-11-19 #id:T0225
   > David: Closed by the resolver: Gallagher sent the Starnet P&I wording 11-18. After David replied that they own the property, Gallagher said on 11-19 that Apres Assets is an additional insured
   > Radar: Noted as closed. Gallagher confirmed on Nov 19 that Apres Assets is only an additional insured, so its own coverage quote stays open under T0060.
+- [x] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #done:2026-11-19 #id:T0229
+  > David: Closed by the resolver: Jonah replied to Todd at JTK Law that they are still good with the deal and to hold the Macadam filing. Todd acknowledged and will send a draft term sheet.
+  > Radar: Marked resolved. The only thing left is Todd's draft term sheet, which I've set as the next move on his side.

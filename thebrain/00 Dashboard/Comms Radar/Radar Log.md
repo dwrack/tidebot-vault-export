@@ -2,6 +2,22 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-19 18:10 | David ticked T0229 Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law
+- 2026-11-19 18:10 | David commented on T0229
+- 2026-11-19 18:10 | 14 new messages moved 2 threads: T0244, T0096
+- 2026-11-19 16:10 | 5 new messages moved 1 threads: T0243
+- 2026-11-19 14:10 | 6 new messages moved 1 threads: T0088
+- 2026-11-19 12:10 | David ticked T0238 Post Oak Group intro meeting with Umair Anjum, missed connection
+- 2026-11-19 12:10 | David commented on T0238
+- 2026-11-19 12:10 | 9 new messages moved 4 threads: T0239, T0240, T0241, T0242
+- 2026-11-19 10:10 | David ticked T0225 Shoreside liability coverage at Paris Road, Starnet P&I wording from Gallagher
+- 2026-11-19 10:10 | David commented on T0225
+- 2026-11-19 10:10 | 12 new messages moved 4 threads: T0237, T0238, T0096, T0011
+- 2026-11-19 08:10 | 6 new messages moved 3 threads: T0235, T0060, T0236
+- 2026-11-19 06:10 | 8 new messages moved 3 threads: T0232, T0233, T0234
+- 2026-11-18 20:10 | 1 new messages moved 1 threads: T0231
+- 2026-11-18 18:10 | David retagged T0198: none
+- 2026-11-18 18:10 | 12 new messages moved 3 threads: T0230, T0019, T0034
 - 2026-11-18 16:10 | 4 new messages moved 2 threads: T0229, T0096
 - 2026-11-18 12:10 | 16 new messages moved 3 threads: T0227, T0228, T0011
 - 2026-11-18 10:10 | 26 new messages moved 3 threads: T0095, T0096, T0060
