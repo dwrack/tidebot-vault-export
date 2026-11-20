@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-19 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-19 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -18,7 +18,7 @@ _nothing_
 - [ ] Jonah asks if David is coming to the meeting #due:2026-11-19 #id:T0240
   → David answer Jonah on whether he is joining the meeting. (David; Text with Jonah Moses; touched 2026-11-19)
 - [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
-  → David and Jonah pay the invoice through Max's payment link and answer the carrier's questions via Max (expected revenue from the dock rental, whether it is rented with staff, supervision, what renters can access); Max is getting the no-watercraft-exclusion statement in writing, and the COI is due by Dec 13. (David; Gmail davey@; touched 2026-11-18)
+  → David and Jonah pay the invoice through Max's payment link; Jonah already sent Max the carrier answers on revenue, staff, supervision and access, so still open are Capitol's written watercraft answer, the additional insured certificate and endorsement by Dec 13, and what covers events serving alcohol since the policy excludes liquor liability. (David; Gmail davey@; touched 2026-11-19)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
   > Radar: Fixed the next move so it only names you, Jonah and Max, with no Jeff. I can't pull Jonah's Ebb & Ember dashboard from here, so I noted it as your next step to compare lanes before paying.
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
@@ -438,13 +438,15 @@ _nothing_
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to the Hidden Adventure Tours Threads account on mbp-2 (Screen Sharing, hat Chrome profile) and the Admire NOLA Instagram account (admire Chrome profile); the engage bot is paused 24h. (David; Slack #helm-admire; touched 2026-11-19)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
-  → Wait for Jonah's BDS update (he said yes and 'one sec' Nov 19) and the electric run; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Text with Jonah Moses; touched 2026-11-19)
+  → Wait for Richard's written electrical quote (Jonah accepted $4,800) and Sergey's answer on gas line pressure and whether the NW Natural meter can carry about 764,000 BTU an hour; David still calls Mario for the gas line install date, and the $228 permit extension fee on DevHub is paid before calling in any inspection (permit 26-035226 expires 05/23/2027). (Jonah Moses; Gmail davey@; touched 2026-11-19)
 - [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
   → Ignore, or reply once; Harry Ricketts followed up asking Nola to reply 'Swap' or say what the $250 includes, which looks like a link-buying pitch. (Admire NOLA staff; Gmail nolakayaktours@; touched 2026-11-19)
 - [ ] M&A outreach about New Orleans Pedal Barge from Kathleen Gray #NPB #id:T0234
   → David ignore or decide whether to take the call; Kathleen Gray sent three notes Nov 18-19 including a Calendly link claiming a PE firm wants to buy NPB-type businesses, which reads as a cold banker pitch. (David; Gmail dwrack81@; touched 2026-11-19)
 - [ ] Expedia wants rates and timings to relist AKT tours #AKT #id:T0235
   → Connor send Krish Ragoowansi the per-person retail rate and current timings for City Skyline, Congress Bridge Bats and Sunset Skyline tours so Expedia can set them up through the end of 2027. (Connor Champagne; Gmail austinkayaktours@; touched 2026-11-19)
+- [ ] Used kayak inquiry, Perception Rambler 13.5 #DCKT #id:T0245
+  → DCKT staff reply to Dan Gesell on whether any used kayaks, including the Perception Rambler 13.5, are for sale. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-19)
 
 ## Backburner (LSKT)
 
