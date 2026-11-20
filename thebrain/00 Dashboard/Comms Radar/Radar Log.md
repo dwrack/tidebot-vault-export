@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-20 12:10 | 15 new messages moved 6 threads: T0019, T0251, T0016, T0034, T0252, T0018
 - 2026-11-20 10:10 | David ticked T0196 NPB Nov 15 bookings soft, return 0.7x under 5x floor
 - 2026-11-20 10:10 | David commented on T0196
 - 2026-11-20 10:10 | 17 new messages moved 2 threads: T0249, T0250

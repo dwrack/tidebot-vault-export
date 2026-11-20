@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 10:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 12:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -67,6 +67,10 @@ _nothing_
   → David check platform.open.cx members and confirm whether Aziz was added on purpose; if not, remove the admin from all five orgs and rotate credentials. (David; Gmail dwrack81@, Gmail doorcountykayaking@; touched 2026-11-18)
 - [ ] Progressive commercial auto premium up $4,471, paid-in-full discount removed, Gravity Trails #Gravity-Trails #id:T0237
   → David tell Megan Boyd whether to restore the paid in full option on Progressive policy 02744196, since the 12-month premium went from $21,800 to $26,271 on installments. (David; Gmail doorcountyzip@; touched 2026-11-19)
+- [ ] TideBot log processing down: Gemini prepaid credits depleted #NKST #id:T0251
+  → David top up the Google AI Studio prepaid credits so TideBot can process written tour logs again; until then logs need manual processing. (David; Slack #the-helm; touched 2026-11-20)
+- [ ] Elevated Tides settlement term sheet and MSJ, Todd Key at JTK Law #id:T0252
+  → David review the draft term sheet from Todd Key with Bill Drew and have corporate counsel review the member interest transfer docs; Todd will not withdraw the MSJ but says it is a non-issue if closing is near before the MSJ response is due. (David; Gmail dwrack81@; touched 2026-11-20)
 
 ## Waiting on someone
 
@@ -141,7 +145,7 @@ _nothing_
 - [ ] Bike Bar text lead for two seats tonight #NOLA-Bike-Bar #due:2026-10-30 #id:T0012
   → Bike Bar team reply to the texter today with tonight's availability for two seats. (NOLA Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-10-30)
 - [ ] NKST Manchac tours missing trip logs and guide assignment #NKST #due:2026-10-30 #id:T0019
-  → NKST guides post the written logs still missing for the Nov 14 11:30 AM and Nov 13 1:30 PM tours and today's Nov 18 9:00 AM Manchac tour (2 guests); the Nov 17 11:30 log is posted but TideBot could not process it. (NKST guides; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
+  → NKST guides post the written logs still missing for the Nov 14 11:30 AM, Nov 13 1:30 PM and Nov 18 9:00 AM tours; Emily's Nov 20 log is posted but TideBot could not process it either. (NKST guides; Slack #new-orleans-kayak-swamp-tours, Slack #the-helm; touched 2026-11-20)
 - [ ] NPB guest asks to switch to the Twerkin Tiki boat #NPB #due:2026-10-31 #id:T0024
   → NPB team reply to Lexus Williams on whether they can move to the Twerkin Tiki boat, which departs at 1pm today with 13 passengers. (NPB team; Gmail nolapedalbarge@; touched 2026-10-31)
 - [ ] AKT Hines family running late, asking how to reach guide #AKT #due:2026-10-31 #id:T0026
@@ -299,8 +303,6 @@ _nothing_
   → NKST staff or David check which campaign sent 'Gift them the quiet' through Amazon SES and whether the recipient should be suppressed. (NKST staff; Gmail nolakayaktours@; touched 2026-11-06)
 - [ ] NPB 40th birthday inquiry, 10-12 people, budget near $400 #NPB #id:T0108
   → NPB team reply to Alexandra Spector with what a party for 10-12 people costs and whether anything fits near $400. (NPB team; Gmail nolapedalbarge@; touched 2026-11-07)
-- [ ] Piety St shipping container locked insecurely #NKST #id:T0016
-  → NKST manager decide how the Piety container should be locked and tell the guides; guides use the trash can Stephanie placed on the table by the key box and empty it in the outdoor can. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-08)
 - [ ] HPB SMS reply: 'Sorry, I can't talk right now' #HPB #id:T0110
   → HPB manager decide whether this reply needs a follow-up text from the HPB number, or just let it drop since the person said they can't talk. (HPB manager; Gmail dwrack81@ (HPB SMS alert); touched 2026-11-08)
 - [ ] Buyer asks to purchase one pedal bike from the Bike Bar crew for sale #NOLA-Bike-Bar #id:T0112
@@ -393,8 +395,6 @@ _nothing_
   → NKST staff do not click the Google Forms link or enter any Facebook login; check the Facebook page's own Page Quality or Support Inbox in Meta Business Suite to confirm there is no real violation, then delete the email. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
 - [ ] NKST Manchac + Whitney Plantation inquiry, 3 people, Dec 29-31 #NKST #id:T0193
   → NKST manager reply to Christine Cipriani with availability on Dec 29, 30 or 31 for 3 people (3 singles, or 1 single and 1 tandem) and the morning NOLA pickup time. (NKST manager; Gmail nolakayaktours@; touched 2026-11-15)
-- [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
-  → Ignore or reply once for both brands; Mujahid Khan followed up again asking whether to narrow the Cave Point/shipwreck feature to two outlets and quote costs, which points to a paid placement pitch. (David; Gmail doorcountykayaking@; touched 2026-11-16)
 - [ ] Bach Deluxe Travel Bike Bar private rental, party of 12 with a 17-year-old #NOLA-Bike-Bar #NPB #id:T0090
   → NPB or Bike Bar team reply to Tadasay Robinson: can a 17-year-old attend a full Bike Bar buyout for a 21st birthday, with availability and pricing. (NPB team; Gmail nolapedalbarge@; touched 2026-11-16)
 - [ ] HPB random drug test authorization for Dustin Gause, Maritime Consortium #HPB #id:T0201
@@ -423,8 +423,6 @@ _nothing_
   → BBK manager reply to Allegra Zwaan with group size limits, per-person pricing and minimums, tour duration and inclusions for her preliminary proposal. (BBK manager; Gmail buffalobayoukayak@; touched 2026-11-17)
 - [ ] Apify usage limit hit and API tokens revoked (NPB and doorcountyzip accounts) #NPB #id:T0028
   → David or whoever runs the Apify jobs create new API tokens on both Apify accounts, update every integration that uses them, and renew the usage limit; all tokens were revoked Nov 11-12 after a security incident. (David; Gmail nolapedalbarge@, Gmail doorcountyzip@; touched 2026-11-18)
-- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → Davey finish sorting the Piety parking and debris; guides skip white van #3 (leaking rear tire, no keys), stay off the grass, park vans forward so the gate isn't blocked, and take photos or a video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-18)
 - [ ] Expedia wants rates to relist Austin Kayak tours #AKT #id:T0224
   → Connor send Krish the per-person retail rate and current timings for City Skyline, Congress Bridge Bats Evening and Sunset Skyline tours so he can set them up through the end of 2027. (Connor; Gmail austinkayaktours@; touched 2026-11-18)
 - [ ] Bike Bar text lead: does a full buyout require everyone 21+ #NOLA-Bike-Bar #id:T0228
@@ -445,6 +443,12 @@ _nothing_
   → Connor send Krish Ragoowansi the per-person retail rate and current timings for City Skyline, Congress Bridge Bats and Sunset Skyline tours so Expedia can set them up through the end of 2027. (Connor Champagne; Gmail austinkayaktours@; touched 2026-11-19)
 - [ ] Used kayak inquiry, Perception Rambler 13.5 #DCKT #id:T0245
   → DCKT staff reply to Dan Gesell on whether any used kayaks, including the Perception Rambler 13.5, are for sale. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-19)
+- [ ] Piety St shipping container locked insecurely #NKST #id:T0016
+  → NKST manager decide how the Piety container should be locked and tell the guides; Emily found it completely unlocked again on Nov 20. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
+- [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
+  → Ignore or reply once for both brands; this looks like a paid placement pitch and he followed up again Nov 20 on the publisher shortlist. (David; Gmail doorcountykayaking@; touched 2026-11-20)
+- [ ] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
+  → Davey finish sorting the Piety parking; guides skip white van #3 (leaking rear tire, no keys), park vans forward so the gate isn't blocked, and photo or video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
   → Richard sends walk-through days and times for 173 NE Bridgeton Rd (he can start the week of Nov 30 or Dec 7), and Jonah checks Sergey's pipe capacity table against the actual run length from the meter; David still calls Mario for the gas line install date. (Jonah Moses; Gmail davey@; touched 2026-11-20)
 - [ ] Rude reply sent from the AKT inbox to an Egypt DMC cold pitch #AKT #id:T0246
