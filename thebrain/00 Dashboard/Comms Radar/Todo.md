@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -86,6 +86,11 @@ _nothing_
   → NPB crew sign the W-9 and reply done in Slack by Nov 20 so TideBot can check them off for 2026 1099s. (NPB crew; Slack #helm-npb; touched 2026-11-12)
 - [ ] Elevated Tides permit extension, permit expires Nov 23 #waiting #due:2026-11-23 #id:T0222
   → Wait for the permit office to process Jonah's extension request on permit 26-035226-000-00-MT before it expires Mon Nov 23. (Jonah Moses; Gmail davey@; touched 2026-11-17)
+- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #waiting #due:2026-12-01 #id:T0060
+  → Shelley Zahn tells Michael how to sign page 11 of the completed Atlantic Casualty supplemental (e-signature or signed scan); Michael then returns it. (Shelley B. Zahn; Gmail doorcountyzip@; touched 2026-11-20)
+  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
+  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
+  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] NKST rest-of-year guide schedule #NKST #waiting #id:T0005
   → Guides reply with days per week they can work and days they cannot, and claim open shifts like Abbie's Fri Nov 20 2pm; Davey then sets the schedule. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-05)
 - [ ] Deactivate JT Sides accounts (Slack, Gmail, FareHarbor and more) #NPB #waiting #id:T0074
@@ -159,7 +164,7 @@ _nothing_
 - [ ] NPB corporate party pricing draft, needs Barbo's and Beatty's costs before tomorrow's meeting #NPB #due:2026-11-06 #id:T0081
   → Jeffrey send Barbo's prices and Beatty's rate so TideBot can finalize the corporate party pricing before the Nov 6 meeting; Jeffrey says BBQ add-on is $20-30 per person ($20 for 2 proteins and sides, $30 for 3). (Jeffrey Chitek; Slack #helm-npb; touched 2026-11-05)
 - [ ] NKST selling 2019 van, down to 3 vans, rear right tire needs replacing #NKST #due:2026-11-06 #id:T0100
-  → Jeffrey check the 2019 van's rear right tire tonight and fix it before the sale. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-06)
+  → Jeffrey or NKST manager replace the white van (#3) rear tire that leaks air and find its key; guides use the black van meanwhile. (Jeffrey Chitek; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
 - [ ] Stan Ventures AI visibility pitch to Houston Pedal Barge, call proposed Nov 10 #HPB #due:2026-11-10 #id:T0109
   → HPB manager decide whether to take the Tuesday Nov 10 10:15 AM Eastern call with Stan Ventures; someone replied 'Yes' to the cold pitch, so a response is expected. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-08)
 - [ ] NKST 9am Nov 10 tour has only two guests, Emily asks to cancel #NKST #due:2026-11-10 #id:T0135
@@ -212,11 +217,6 @@ _nothing_
   → NKST staff reply to Catherine Zhang via GetYourGuide to confirm whether transportation was selected on her Nov 26 11:30 am booking and how to add it. (NKST manager; Gmail nolakayaktours@; touched 2026-11-17)
 - [ ] AKT Texas boat registration renewal, $110 due Nov 30 (Trident Pontoons 35ft) #AKT #due:2026-11-30 #id:T0075
   → AKT manager renew the Texas Parks and Wildlife registration for the 2021 Trident Pontoons (TX 8632KS) online, by mail or in person before Nov 30. (AKT manager; Gmail austinkayaktours@; touched 2026-11-04)
-- [ ] Apres Assets GL and marina liability quotes, policy ends 12/27 #due:2026-12-01 #id:T0060
-  → Michael or David get Apres Assets its own liability and property coverage quote, since Gallagher says Apres Assets is only an additional insured on the Gravity Trails Starnet policy; also finish the supplemental application for Shelley Zahn. (Michael Fischer; Gmail nolapedalbarge@; touched 2026-11-19)
-  > David: ask our old apres assets insurance for our loss runs via email and when it comes in forward it to the two agents were working with right now.
-  > David: Approved a reply from the Command Center: Hi, Could you send over current loss runs for Apres Assets for the policy period(s) you covered us? We're getting a new general liability quote and the agents need them. If you need a policy number
-  > Radar: Noted. I set it to waiting on the old insurer's loss runs, and your next step is forwarding them to the two agents when they arrive. I can't send the email myself.
 - [ ] Seabrook Tree Lighting vendor applications, Dec 3, $10 fee #HPB #due:2026-12-03 #id:T0206
   → HPB manager decide whether to apply as a vendor for the Dec 3, 6-8pm Seabrook Tree Lighting ($10 fee), or ignore. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-16)
 - [ ] NPB captain bench after newest captain scraped the Freaky Tiki #NPB #due:2026-12-14 #id:T0208
@@ -442,7 +442,7 @@ _nothing_
 - [ ] Used kayak inquiry, Perception Rambler 13.5 #DCKT #id:T0245
   → DCKT staff reply to Dan Gesell on whether any used kayaks, including the Perception Rambler 13.5, are for sale. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-19)
 - [ ] Piety St shipping container locked insecurely #NKST #id:T0016
-  → NKST manager decide how the Piety container should be locked and tell the guides; Emily found it completely unlocked again on Nov 20. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
+  → NKST manager decide how the Piety container should be locked and tell the guides; TideBot warned guides again Nov 20 to check and lock it. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; this looks like a paid placement pitch and he followed up again Nov 20 on the publisher shortlist. (David; Gmail doorcountykayaking@; touched 2026-11-20)
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
@@ -453,6 +453,8 @@ _nothing_
   → NPB manager do not click the evidence link or reply; check the Facebook Page for any real copyright notice in Page Support Inbox, and warn the team since these fake legal notices often aim to steal Page logins. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-20)
 - [ ] Captain job application, Cruise Apollo #NPB #id:T0250
   → NPB manager review the captain resume from Apollo Marine Yacht Restoration and decide whether to follow up. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-20)
+- [ ] Caretaker job inquiry from Jesse via Bike Bar text #NOLA-Bike-Bar #id:T0254
+  → Bike Bar team reply to Jesse about the caretaker position or tell him it is not open. (Bike Bar team; Gmail nolabikebars@; touched 2026-11-20)
 
 ## Backburner (LSKT)
 

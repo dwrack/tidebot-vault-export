@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 17:49 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 17:59 PT.
 
-Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dates 1117
+Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dates 1119
 
 ## Open asks of Davey (Tier 0)
 - 11/20 16:51 Jonah [reply]: "Want me to pre-emptively reach out to all of them and tell them we’re having an area wide power outage?"
@@ -75,6 +75,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dat
 - 11/18 06:29 "If you ever want to see the place, let me know and I'll get you out for a session." (Re: Following up from Wednesday's show) due 2026-11-17
 
 ## Dates inside 7 days (as mentioned in messages)
+- 2026-11-20 +19712889103: "tonight"
 - 2026-11-20 Alex: "this week"
 - 2026-11-20 Bandi Joel Abhishek: "this week"
 - 2026-11-20 Bronte Moodley: "this week"
@@ -99,6 +100,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dat
 - 2026-11-20 Zoe Vives Jancou: "this week"
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
+- 2026-11-21 +19712889103: "tomorrow"
 - 2026-11-21 Claude: "sat"
 - 2026-11-21 Davey: "saturday"
 - 2026-11-21 Melissa Clark: "November 21"
