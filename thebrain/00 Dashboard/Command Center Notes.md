@@ -665,5 +665,5 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-20 13:07 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore] [read 2026-11-20: Known, ignore: left as is.]
 - 2026-11-20 13:08 | Needs you: Waiting on Jonah in #founders: OK to file the police report, and print the WANTED poster in color (posted 11/7 | [note] were not filing a police report. we found the bike. [read 2026-11-20: Struck police report and WANTED poster lines, bike found, no report filed.]
 - 2026-11-20 13:08 | Needs you: Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | [known, ignore] [read 2026-11-20: Known, ignore: sauna bench item left open for Alex's photo.]
-- 2026-11-20 13:09 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore]
-- 2026-11-20 13:09 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore]
+- 2026-11-20 13:09 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore] [read 2026-11-20: Known, ignore: left as is.]
+- 2026-11-20 13:09 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore] [read 2026-11-20: Known, ignore: left as is.]

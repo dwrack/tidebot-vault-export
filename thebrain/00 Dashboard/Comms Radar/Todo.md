@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 14:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 16:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -196,9 +196,6 @@ _nothing_
   → NPB manager decide whether to donate a gift card or item for the Nov 19 Wine and Dine with Hospice silent auction, or ignore. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-05)
 - [ ] Fairmont New Orleans Prestige Magazine meeting confirmation, Nov 19 8 AM #NPB #due:2026-11-19 #id:T0227
   → NPB manager check whether anyone actually booked this Nov 19 8 AM Fairmont meeting; it reads like a paid advertorial pitch, so skip it unless the team asked for it. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-18)
-- [x] Calendly intro meeting with Umair Anjum, Investment Banking Team, today 10:30am CT #due:2026-11-19 #id:T0236
-  → David confirm whether he booked this intro meeting (Google Meet, 10:30am CT today) and attend or skip; the message does not say what it is about. (David; Gmail doorcountyzip@; touched 2026-11-19)
-  > Closed by the resolver: David joined the 10:30 Calendly call with Umair Anjum, who emailed Next Steps at 09:14 and the Calendly thank-you came at 10:00.
 - [ ] Texas Sales and Use tax return due Nov 20, AKT #AKT #due:2026-11-20 #id:T0085
   → AKT manager or whoever files taxes file the Texas Sales and Use return for the period ending 10/31/2026 electronically by Nov 20. (AKT manager; Gmail austinkayaktours@; touched 2026-11-05)
 - [ ] NKST guide needed for Fri Nov 20 2pm tour, Alexis Hingle out #NKST #due:2026-11-20 #id:T0171
@@ -448,9 +445,6 @@ _nothing_
   → NKST manager decide how the Piety container should be locked and tell the guides; Emily found it completely unlocked again on Nov 20. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
 - [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; this looks like a paid placement pitch and he followed up again Nov 20 on the publisher shortlist. (David; Gmail doorcountykayaking@; touched 2026-11-20)
-- [x] NKST Piety St lot rubble and van whereabouts #NKST #id:T0034
-  → Davey finish sorting the Piety parking; guides skip white van #3 (leaking rear tire, no keys), park vans forward so the gate isn't blocked, and photo or video walk-around before and after every tour. (Davey; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
-  > Closed by the resolver: Emily's 11-20 trip log says the rubble has been moved out of the lot and the trailer is parked in its normal place.
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
   → Richard sends walk-through days and times for 173 NE Bridgeton Rd (he can start the week of Nov 30 or Dec 7), and Jonah checks Sergey's pipe capacity table against the actual run length from the meter; David still calls Mario for the gas line install date. (Jonah Moses; Gmail davey@; touched 2026-11-20)
 - [ ] Rude reply sent from the AKT inbox to an Egypt DMC cold pitch #AKT #id:T0246
@@ -482,6 +476,9 @@ _nothing_
 - [x] Marina party Thursday Nov 19, sauna vendor Alan invited, booth 2923 at spa conference #due:2026-11-19 #done:2026-11-14 #id:T0185
   > David: Closed by the resolver: David invited Alan to the Thursday marina party and asked his booth; Alan replied 11-14 with booth 2923.
   > Radar: Marked resolved. Alan is invited to the Thursday Nov 19 marina party and gave booth 2923 at the spa conference.
+- [x] Calendly intro meeting with Umair Anjum, Investment Banking Team, today 10:30am CT #due:2026-11-19 #done:2026-11-20 #id:T0236
+  > David: Closed by the resolver: David joined the 10:30 Calendly call with Umair Anjum, who emailed Next Steps at 09:14 and the Calendly thank-you came at 10:00.
+  > Radar: Marked resolved since you joined the 10:30 call. Umair's Next Steps email is the only follow-up on record, and I haven't added it as a task.
 - [x] Post Oak Group intro meeting with Umair Anjum, missed connection #Gravity-Trails #due:2026-11-19 #done:2026-11-19 #id:T0238
   > David: Closed by the resolver: David joined the 10:30 call, Umair rejoined, the meeting took place, and Post Oak sent next steps at 09:14 and a thank-you for attending at 10:00 on 11-19.
   > Radar: Marked resolved. The meeting happened and Post Oak's next steps are in your inbox from 9:14 this morning.
@@ -552,3 +549,6 @@ _nothing_
 - [x] Proposed deal points, HD Clinton and Macadam note, Todd Key at JTK Law #done:2026-11-19 #id:T0229
   > David: Closed by the resolver: Jonah replied to Todd at JTK Law that they are still good with the deal and to hold the Macadam filing. Todd acknowledged and will send a draft term sheet.
   > Radar: Marked resolved. The only thing left is Todd's draft term sheet, which I've set as the next move on his side.
+- [x] NKST Piety St lot rubble and van whereabouts #NKST #done:2026-11-20 #id:T0034
+  > David: Closed by the resolver: Emily's 11-20 trip log says the rubble has been moved out of the lot and the trailer is parked in its normal place.
+  > Radar: Marked resolved. Emily's Nov 20 log says the rubble is out of the Piety lot and the trailer is back in its usual spot. The container lock issue stays open under T0016.

@@ -2,6 +2,10 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-20 16:10 | David ticked T0236 Calendly intro meeting with Umair Anjum, Investment Banking Team, today 10:30am CT
+- 2026-11-20 16:10 | David commented on T0236
+- 2026-11-20 16:10 | David ticked T0034 NKST Piety St lot rubble and van whereabouts
+- 2026-11-20 16:10 | David commented on T0034
 - 2026-11-20 14:10 | David ticked T0240 Jonah asks if David is coming to the meeting
 - 2026-11-20 14:10 | David commented on T0240
 - 2026-11-20 14:10 | 8 new messages moved 1 threads: T0253
