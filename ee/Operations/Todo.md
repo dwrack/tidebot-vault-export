@@ -267,6 +267,18 @@
 - [x] (fixed: Jonah sent signups to ActiveCampaign 11/16; verified 2026-11-20, 4 test rounds, 32 of 32 list adds correct. KV backup binding still unverified.) New site signups broken (2026-11-15): /api/subscribe returns 503, no SIGNUPS KV binding on the Pages project. Add the binding before launch.
 - [ ] Jonah: accept GitHub invite to dwrack/ee-guest-intro-video (video source + HISTORY.md) [[Dock Safety Video/Dock Safety Video — Storyboard (Nov 2026)]] (2026-11-15)
 - [x] (done 2026-11-20: option A live on all 37 pages, commit 25d5c28) Pick a navigation bar option for the new site (A trimmed bar, B logo in the middle, C menu only); Claude then rolls it to all 37 pages. Preview: localhost:8788/navlab/ on the laptop (repo ~/dev/ee-site-preview/navlab, untracked). Launch is 11/23. (2026-11-20)
-- [ ] OK removing the 4 ActiveCampaign test contacts (davey+actest1 to 4@ebbandember.com, ids 5337 to 5340) before the 11/23 pricing email. Due 11/22. (added 2026-11-20)
+- [x] (done 2026-11-21: deleted, verified gone by id and by email) OK removing the 4 ActiveCampaign test contacts (davey+actest1 to 4@ebbandember.com, ids 5337 to 5340) before the 11/23 pricing email. Due 11/22. (added 2026-11-20)
 - [ ] Decide 4 site-signup gaps in ActiveCampaign: welcome email for new signups, waitlist signups joining Subscribers - Emails, splitting rain alerts from newsletter (both use form 4), removing 4 unused event tags. Then update L in #dev. Due 11/24. (added 2026-11-20)
 - [ ] Day ebbandember.com moves to the new site (11/23): Claude re-runs one signup test round on the real domain. Jonah: confirm the Cloudflare SIGNUPS KV backup is bound, and make functions/api/subscribe.js able to tell when ActiveCampaign rejects a signup (today any 2xx/3xx counts as OK). (added 2026-11-20)
+- [ ] Post the ActiveCampaign test update to L in the #dev thread where L shared the login (Davey said "not yet" 2026-11-21). Posts as the Claude app. Draft: (added 2026-11-21)
+    > @L FYI on ActiveCampaign. Nothing of yours changed, no action needed.
+    >
+    > Problem: nobody had confirmed that signups on the new site actually reach ActiveCampaign.
+    >
+    > Result: they do. We ran 4 test rounds across all 8 site signups (Jonah's forms 4 to 10). 32 of 32 landed on the right list.
+    >
+    > Before: untested since 11/16. After: verified on pages.dev, with one more round planned the day the domain moves.
+    >
+    > What we touched: added 4 test contacts (davey+actest1 to 4) and deleted them after. The relay, Members, waiver import, campaigns, templates and automations were not touched.
+    >
+    > One question: Davey's Claude reads AC with the API key on the admin user. Does the Periode relay use that same key? Want to be sure nobody resets it.
