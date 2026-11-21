@@ -1,8 +1,8 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 17:59 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 18:40 PT.
 
-Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dates 1119
+Counts: people 14, vendors 145, projects 6, money 575, promises 45, asks 81, dates 1120
 
 ## Open asks of Davey (Tier 0)
 - 11/20 16:51 Jonah [reply]: "Want me to pre-emptively reach out to all of them and tell them we’re having an area wide power outage?"
@@ -100,6 +100,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dat
 - 2026-11-20 Zoe Vives Jancou: "this week"
 - 2026-11-20 brainbot: "November 20"
 - 2026-11-20 kristen millette: "November 20th"
+- 2026-11-20 sauna@ebbandember.com: "today"
 - 2026-11-21 +19712889103: "tomorrow"
 - 2026-11-21 Claude: "sat"
 - 2026-11-21 Davey: "saturday"
