@@ -15,20 +15,22 @@ _nothing_
 
 ## Needs you
 
-- [ ] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
+- [x] Elevated Tides umbrella policy: binder effective 11/6, payment link now sent #due:2026-12-13 #id:T0095
   → David and Jonah pay the invoice through Max's payment link; Jonah already sent Max the carrier answers on revenue, staff, supervision and access, so still open are Capitol's written watercraft answer, the additional insured certificate and endorsement by Dec 13, and what covers events serving alcohol since the policy excludes liquor liability. (David; Gmail davey@; touched 2026-11-19)
   > David: this has nothign to do with jeff, so not sure why it says jeff should see this as an option below. fixt that. also i should have something that lets me know if jonah is working on it or if i am, can you pull his dashboard for ebb and ember and we can see whats involved with our lanes and items so that we aren’t doing double work.
   > Radar: Fixed the next move so it only names you, Jonah and Max, with no Jeff. I can't pull Jonah's Ebb & Ember dashboard from here, so I noted it as your next step to compare lanes before paying.
+  > David: jonah looks like he is on this. you can archive it
 - [ ] Innovative Printing statement, pay by card over the phone #DCKT #id:T0015
   → David call Innovative Printing and pay the statement with a credit card. (David; Gmail doorcountykayaking@; touched 2026-10-30)
 - [ ] TideBot written log processing down: Gemini credits depleted #NKST #id:T0104
   → David add prepay credits to the Google AI Studio project so TideBot's written trip log processing works again; the Nov 6 NKST log needs manual processing. (David; Slack #the-helm; touched 2026-11-06)
   > David: still? i thought we fixed this. i gave you 3 sets of apis to use as backup. help me help you to fix it if it really still needs fixing. but do it right this time;
   > Radar: I can't see this thread's details or run a live check from the ledger, so I can't say whether it is fixed. Someone needs to check the TideBot logs to see which API key the log processing is calling now and whether your three backup keys are wired in. Until that check is done, treat the status as unverified.
-- [ ] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
+- [x] Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due #id:T0089
   → David check whether the $647.20 past due amount is covered; the Autopay notice forwarded by Gravity Trails says it is scheduled for 12/08/2026, so it will not clear anything overdue before then. (David; Gmail nolapedalbarge@; touched 2026-11-07)
   > David: it's my Piety address.
   > Radar: Got it, it's your Piety address, so I marked this as yours to pay: $647.20 is past due out of $1,151.11. Automating it sits in D0001.
+  > David: Paid, archive
 - [ ] TideBot written log processing down, Gemini prepaid credits depleted #NKST #id:T0111
   → David top up the Gemini API prepay credits in AI Studio so TideBot can process written trip logs again; until then NKST logs need manual processing. (David; Slack #the-helm; touched 2026-11-08)
 - [ ] Rick Carlson broker asks if NOLA Bike Bar sells standalone or with shared equipment and staff #NOLA-Bike-Bar #id:T0122
@@ -369,8 +371,9 @@ _nothing_
   → BBK staff open the enquiry in the inbox and reply to the guest, since the notification shows no details. (BBK staff; Gmail buffalobayoukayak@; touched 2026-11-11)
 - [ ] NKST Piety lot: white van keys missing, tire gauge needed #NKST #id:T0157
   → NKST manager find the missing white van keys at Piety, buy or place a tire gauge there, and check the black van's low back left tire; Michelle also suggested Jeff bring seats from the marina kayaks in the meantime. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-12)
-- [ ] NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired #NKST #id:T0158
+- [x] NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired #NKST #id:T0158
   → Reply do 1 in #the-helm so TideBot pulls NKST search terms and campaign numbers and proposes cuts; the FareHarbor scraper also needs to re-auth for blank bookings. (David; Slack #the-helm; touched 2026-11-12)
+  > Closed by the resolver: The 11-21 daily shows NKST at 23.5x return on $53 spend and 15.2x on 11-19, so tracked ROAS is working again and the 0.0x reading is gone.
 - [ ] AWS SES DKIM revoked for neworleanskayakrental.com in us-east-1 #NKST #id:T0159
   → Whoever manages DNS check whether the DKIM records for neworleanskayakrental.com were removed, and confirm the domain is verified in us-west-2, the production SES region, before any send. (David; Gmail doorcountyzip@; touched 2026-11-12)
 - [ ] NKST white van rear tire losing air, key pulled from use #NKST #id:T0163
@@ -428,10 +431,11 @@ _nothing_
   → Bike Bar team reply to the texter on whether a full buyout requires all guests to be 21+, with availability and pricing. (Bike Bar team; Gmail nolabikebars@ (Google Voice text); touched 2026-11-18)
 - [ ] NKST website trip form submission, no details in the email #NKST #id:T0231
   → NKST manager open the 'Tell us a little about your trip' form submission in FareHarbor, read the guest's request and reply. (NKST manager; Gmail nolakayaktours@; touched 2026-11-18)
-- [ ] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
+- [x] Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point #DCKT #Cave-Point #id:T0011
   → Ignore these and send no bank statements, ID or voided check; Vincent Dorsey of BrightFunds Network followed up again Nov 19 offering a 50k to 300k line, same cold pitch. (David; Gmail doorcountykayaking@; touched 2026-11-19)
   > David: i need to remove my soft credit lock and allow them to push it forward with a credit pull to unlock this.
   > Radar: Noted: you want to lift the soft credit lock so the lender can pull credit. I put that as your next move, and I'd confirm the lender's identity first since the outreach is unsolicited.
+  > David: Archive
 - [ ] Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out #Admire-NOLA #id:T0088
   → Log in to the Hidden Adventure Tours Threads account on mbp-2 (Screen Sharing, hat Chrome profile) and the Admire NOLA Instagram account (admire Chrome profile); the engage bot is paused 24h. (David; Slack #helm-admire; touched 2026-11-19)
 - [ ] Fishbox link placement on admirenola.com, $250 paid or free swap #Admire-NOLA #id:T0232
@@ -444,8 +448,9 @@ _nothing_
   → DCKT staff reply to Dan Gesell on whether any used kayaks, including the Perception Rambler 13.5, are for sale. (DCKT staff; Gmail doorcountykayaking@; touched 2026-11-19)
 - [ ] Piety St shipping container locked insecurely #NKST #id:T0016
   → NKST manager decide how the Piety container should be locked and tell the guides; TideBot warned guides again Nov 20 to check and lock it. (NKST manager; Slack #new-orleans-kayak-swamp-tours; touched 2026-11-20)
-- [ ] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
+- [x] DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story #DCKT #NKST #id:T0018
   → Ignore or reply once for both brands; this looks like a paid placement pitch and he followed up again Nov 20 on the publisher shortlist. (David; Gmail doorcountykayaking@; touched 2026-11-20)
+  > David: pass
 - [ ] Gas line install date and permit deadline for Elevated Tides privates #id:T0096
   → Richard sends walk-through days and times for 173 NE Bridgeton Rd (he can start the week of Nov 30 or Dec 7), and Jonah checks Sergey's pipe capacity table against the actual run length from the meter; David still calls Mario for the gas line install date. (Jonah Moses; Gmail davey@; touched 2026-11-20)
 - [ ] Rude reply sent from the AKT inbox to an Egypt DMC cold pitch #AKT #id:T0246

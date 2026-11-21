@@ -39,6 +39,7 @@
 - [x] Run Desktop 'Connect E&E Site Repo to Cloudflare.command' (GitHub secrets + Jonah invite + first deploy). Repo: github.com/dwrack/ebb-and-ember-site
 - [x] Get L's GitHub username, add her to the repo (wellhellol, invited 11/12)
 - [ ] Revisit Private Event Space pricing: from $50/person + priced add-ons (now 'Custom'; add-on list on /private-events/; headcount 60-80 confirmed 11/11). Live at ebb-and-ember-site.pages.dev, see [[project_website_rebuild_static]]
+- [ ] Davey: mark the 34 site comb-through findings Approve or Deny before the 11/23 launch (review page https://claude.ai/artifact/1xfCVFXzRkdaoAsZXBKgEE). Nothing is applied until marked. Patches in [[Website Comb-Through (2026-11-21)]] (added 2026-11-21)
 
 ## V2 tiler replies (added 2026-11-10)
 - [ ] Approve replies to ET Flooring / Level Plane / Pyramid / Rocky Village. See [[Private Saunas (V2) — Tiler Replies + Draft Responses (Nov 10 2026)]]

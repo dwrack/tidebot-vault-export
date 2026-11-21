@@ -289,3 +289,8 @@ What David did from the Needs You panel (window or phone). Claude sessions and t
 - 2026-11-21 00:00 | RESOLVED radar:T0189 | TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 | The 11/14 alert is stale. The 11/20 daily shows NPB at 14.5x, and the 'Still open' list only carries Lone Star. BBK is under 'No change'.
 - 2026-11-21 01:32 | RESOLVED notes:710577a892 | Call with Water Strong on New Year's Day swim + sauna partnership and towels on 2026-11-23: Dena proposed Monday 11/23 at 9a or after 12p for a call. Mack's as… | Dena offered Monday 11/23 at 9a; Mack replied 11/20 that 9 am works and said he would send a calendar invite, so the call is scheduled.
 - 2026-11-21 04:09 | AUTO-DRAFTED notes:5d1b977201 | Say send to post the ActiveCampaign test update to L in #dev (draft is in E&E Operations/Todo.md)
+- 2026-11-21 04:17 | DONE radar:T0089 | Entergy bill overdue for 1407 Piety, $1,151.11 total, $647.20 past due | David: David: Paid, archive
+- 2026-11-21 04:17 | DONE radar:T0011 | Funding solicitations (GreenBridge, Better Loans, HeyLending) claiming approval, DCKT and Cave Point | David: David: Archive
+- 2026-11-21 04:17 | DONE radar:T0095 | Elevated Tides umbrella policy: binder effective 11/6, payment link now sent | David: David: jonah looks like he is on this. you can archive it
+- 2026-11-21 04:17 | DONE radar:T0018 | DCKT travel feature publication shortlist, Mujahid Khan now also pitching NKST swamp story | David: David: pass
+- 2026-11-21 04:41 | RESOLVED radar:T0158 | NKST Google Ads at 0.0x tracked ROAS on $72 spend, FareHarbor login expired | The 11-21 daily shows NKST at 23.5x return on $53 spend and 15.2x on 11-19, so tracked ROAS is working again and the 0.0x reading is gone.
