@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-22 due | Decide whether to pre-emptively message tonight's session guests about the area-wide power outage, or let it ride (asked by Jonah via Slack #founders 2026-11-20) | E&E | default: they wait on you and chase, or it lapses [ifw:eac58e76]
 - 2026-11-23 due | Day ebbandember.com moves to the new site: have Claude re-run one signup test round, and ask Jonah to confirm the Cloudflare backup store (SIGNUPS) is on | E&E | default: signups are only proven on the pages.dev address, with no confirmed backup [ac:retest:2026-11-20]
 - 2026-11-24 due | Decide 4 site-signup gaps in ActiveCampaign: welcome email, waitlists joining the newsletter, splitting rain alerts from newsletter, unused event tags | E&E | default: stays as is, new signups get no welcome email [ac:gaps:2026-11-20]
 - 2026-11-22 due | OK removing the 4 ActiveCampaign test contacts (davey+actest1 to 4) before the 11/23 pricing email | E&E | default: they stay on the lists and you get 4 extra copies of the announcement [ac:tests:2026-11-20]

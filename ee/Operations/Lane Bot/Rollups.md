@@ -1,10 +1,11 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 16:23 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 17:17 PT.
 
-Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 79, dates 1114
+Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 81, dates 1117
 
 ## Open asks of Davey (Tier 0)
+- 11/20 16:51 Jonah [reply]: "Want me to pre-emptively reach out to all of them and tell them we’re having an area wide power outage?"
 - 11/20 12:59 L [reply]: "<@U0B1CAVT1TM> <@U0B1H0WRHJ8> what’s the waiver link?"
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
 - 11/16 11:16 L [reply]: "up to you :shrug::skin-tone-2:"
@@ -93,6 +94,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 79, dat
 - 2026-11-20 Jonah: "this week"
 - 2026-11-20 Jonah: "today"
 - 2026-11-20 Jonah: "tomorrow"
+- 2026-11-20 Jonah: "tonight"
 - 2026-11-20 Pjstambaugh: "Nov 20"
 - 2026-11-20 Zoe Vives Jancou: "this week"
 - 2026-11-20 brainbot: "November 20"
@@ -118,6 +120,7 @@ Counts: people 14, vendors 145, projects 6, money 574, promises 45, asks 79, dat
 - 2026-11-23 Mack: "next week"
 - 2026-11-23 Pool Spa Patio and Deck Expo: "next week"
 - 2026-11-23 Sergey: "next week"
+- 2026-11-23 cohosaunas@icloud.com: "next week"
 - 2026-11-23 sauna@ebbandember.com: "November 23"
 - 2026-11-24 Claude: "11/24"
 - 2026-11-24 Davey: "next tuesday"
