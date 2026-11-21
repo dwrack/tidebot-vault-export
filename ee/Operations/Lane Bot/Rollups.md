@@ -1,10 +1,11 @@
 # E&E Lane Bot Rollups
 
-Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-20 19:15 PT.
+Code-only rollups from `~/lanes/ee/ledger.sqlite` on davids-mbp-2. Rewritten every cycle; no model wrote any of this. Updated 2026-11-21 03:38 PT.
 
-Counts: people 14, vendors 145, projects 6, money 575, promises 45, asks 81, dates 1120
+Counts: people 14, vendors 146, projects 6, money 584, promises 45, asks 82, dates 1136
 
 ## Open asks of Davey (Tier 0)
+- 11/20 21:56 Jonah [reply]: "What would you change?"
 - 11/20 16:51 Jonah [reply]: "Want me to pre-emptively reach out to all of them and tell them we’re having an area wide power outage?"
 - 11/20 12:59 L [reply]: "<@U0B1CAVT1TM> <@U0B1H0WRHJ8> what’s the waiver link?"
 - 11/19 18:36 Jonah [sign]: "3:50, "Sign a second waiver to reach your count": cut it."
@@ -75,32 +76,6 @@ Counts: people 14, vendors 145, projects 6, money 575, promises 45, asks 81, dat
 - 11/18 06:29 "If you ever want to see the place, let me know and I'll get you out for a session." (Re: Following up from Wednesday's show) due 2026-11-17
 
 ## Dates inside 7 days (as mentioned in messages)
-- 2026-11-20 +19712889103: "tonight"
-- 2026-11-20 Alex: "this week"
-- 2026-11-20 Bandi Joel Abhishek: "this week"
-- 2026-11-20 Bronte Moodley: "this week"
-- 2026-11-20 Claude: "11/20"
-- 2026-11-20 Claude: "end of week"
-- 2026-11-20 Claude: "this week"
-- 2026-11-20 Claude: "tomorrow"
-- 2026-11-20 Davey: "Nov 20"
-- 2026-11-20 Davey: "November 20"
-- 2026-11-20 Davey: "this week"
-- 2026-11-20 Davey: "tomorrow"
-- 2026-11-20 Grant: "tomorrow"
-- 2026-11-20 Jen Newlin: "Nov 20"
-- 2026-11-20 Jonah: "11/20"
-- 2026-11-20 Jonah: "asap"
-- 2026-11-20 Jonah: "friday"
-- 2026-11-20 Jonah: "this week"
-- 2026-11-20 Jonah: "today"
-- 2026-11-20 Jonah: "tomorrow"
-- 2026-11-20 Jonah: "tonight"
-- 2026-11-20 Pjstambaugh: "Nov 20"
-- 2026-11-20 Zoe Vives Jancou: "this week"
-- 2026-11-20 brainbot: "November 20"
-- 2026-11-20 kristen millette: "November 20th"
-- 2026-11-20 sauna@ebbandember.com: "today"
 - 2026-11-21 +19712889103: "tomorrow"
 - 2026-11-21 Claude: "sat"
 - 2026-11-21 Davey: "saturday"

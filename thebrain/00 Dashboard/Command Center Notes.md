@@ -10,6 +10,7 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - Bike Bar sale | NOLA Bike Bar | done when: deposit in hand | next: four questions to Michael Nov 2 | due: 2026-11-15 | status: waiting on David
 
 ## Waiting on you
+- 2026-11-22 due | Send Danesh your proposal for reimbursement on the group Banya sessions (asked by Danesh via davey@ email 2026-11-20) | E&E | default: they wait on you and chase, or it lapses [ifw:054fbcab]
 - 2026-11-20 due | [P1] Pay Lindsey's Invoice No. 1 for the email template design work (asked by Lindsey via sauna@ email 2026-11-20) | E&E | default: they wait on you and chase, or it lapses [ifw:aec089d6]
 - 2026-11-22 due | Decide whether to pre-emptively message tonight's session guests about the area-wide power outage, or let it ride (asked by Jonah via Slack #founders 2026-11-20) | E&E | default: they wait on you and chase, or it lapses [ifw:eac58e76]
 - 2026-11-23 due | Day ebbandember.com moves to the new site: have Claude re-run one signup test round, and ask Jonah to confirm the Cloudflare backup store (SIGNUPS) is on | E&E | default: signups are only proven on the pages.dev address, with no confirmed backup [ac:retest:2026-11-20]
@@ -669,3 +670,4 @@ Last edited 2026-10-31 by Claude (verified 2026-10-31).
 - 2026-11-20 13:08 | Needs you: Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | [known, ignore] [read 2026-11-20: Known, ignore: sauna bench item left open for Alex's photo.]
 - 2026-11-20 13:09 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore] [read 2026-11-20: Known, ignore: left as is.]
 - 2026-11-20 13:09 | Needs you: Jonah asks if David is coming to the meeting | [known, ignore] [read 2026-11-20: Known, ignore: left as is.]
+- 2026-11-21 03:44 | Digest item: Admire NOLA: Admire NOLA and Hidden Adventure Tours Instagram and Threads engage bots logged out | CHOSE: Fix it

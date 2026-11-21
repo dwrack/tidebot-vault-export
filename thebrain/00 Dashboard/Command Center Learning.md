@@ -29,14 +29,13 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - feedback: known: 8
 - feedback: note: 8
 - fix_approved: 8
-- fix_ignored: 13
+- fix_ignored: 14
 - skill later: 5
 - skill run: 8
 - skill skip: 1
 
 ## Most recent taps (newest last)
 
-- 2026-11-13 01:05 | fix_ignored | loop:com.nolapartybarge.winback-ses | Audit the h02 complaint list
 - 2026-11-13 08:58 | skill | google-ads | later
 - 2026-11-13 08:58 | skill | social-captions | run
 - 2026-11-13 08:58 | skill | system-map | run
@@ -76,3 +75,4 @@ Every tap David makes in the Command Center window (fix approved / rejected / ig
 - 2026-11-20 13:08 | feedback | Needs you: Alex to secure down the sauna bench board (posted in #maintenance 11/7; confirm done with photo) | known
 - 2026-11-20 13:09 | feedback | Needs you: Jonah asks if David is coming to the meeting | known
 - 2026-11-20 13:09 | feedback | Needs you: Jonah asks if David is coming to the meeting | known
+- 2026-11-20 22:07 | fix_ignored | loop:com.nolapartybarge.winback-ses | Read the h03 logs and find why it was killed (exit 143)

@@ -1,6 +1,6 @@
 # Todo (Comms Radar)
 
-Updated 2026-11-20 18:10. The radar re-reads this file every 2 hours and never un-ticks anything.
+Updated 2026-11-20 20:10. The radar re-reads this file every 2 hours and never un-ticks anything.
 
 - Tick a box to close an item. Untick to reopen.
 - Edit a title, a `#due:YYYY-MM-DD`, or the tags `#today` `#in-progress` `#waiting`. Your edits win.
@@ -385,8 +385,9 @@ _nothing_
   → HPB staff do not click the Verification Center link; check the real page status inside Meta Business Suite and delete or report the emails. (HPB manager; Gmail houstonpedalbarge@; touched 2026-11-14)
 - [ ] Text lead: is the tiki boat dog friendly #NOLA-Bike-Bar #NPB #id:T0186
   → NPB or Bike Bar team reply to the texter on whether the tiki boat is dog friendly. (NPB or Bike Bar team; Gmail nolabikebars@; touched 2026-11-14)
-- [ ] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
+- [x] TideBot Nov 14 daily: NPB return 4.3x under 5x floor, BBK booked $0 #NPB #BBK #LSKT #id:T0189
   → Reply do 1 in #the-helm so TideBot pulls NPB search terms and proposes cuts, and do 2 for a Buffalo Bayou repost or offer draft. (David; Slack #the-helm; touched 2026-11-15)
+  > Closed by the resolver: The 11/14 alert is stale. The 11/20 daily shows NPB at 14.5x, and the 'Still open' list only carries Lone Star. BBK is under 'No change'.
 - [ ] Fake Meta violation warning to NPB page with Google Forms link #NPB #id:T0190
   → NPB manager do not click the Google Forms link or submit page details; check the page's real status in Meta Business Suite and delete the email. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-15)
 - [ ] Fake Meta 'page violation' warning to NKST inbox, likely phishing #NKST #id:T0191
@@ -455,6 +456,8 @@ _nothing_
   → NPB manager review the captain resume from Apollo Marine Yacht Restoration and decide whether to follow up. (NPB manager; Gmail nolapedalbarge@; touched 2026-11-20)
 - [ ] Caretaker job inquiry from Jesse via Bike Bar text #NOLA-Bike-Bar #id:T0254
   → Bike Bar team reply to Jesse about the caretaker position or tell him it is not open. (Bike Bar team; Gmail nolabikebars@; touched 2026-11-20)
+- [ ] Paradise Marina caretaker application, Sunny Daze #DCKT #id:T0255
+  → DCKT manager review Sunny Daze's caretaker application (RV owner from Klamath Falls, OR, available ASAP, background check OK) and decide whether to contact the two references. (DCKT manager; Gmail doorcountyzip@; touched 2026-11-20)
 
 ## Backburner (LSKT)
 

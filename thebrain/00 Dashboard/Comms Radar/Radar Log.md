@@ -2,6 +2,7 @@
 
 What the radar did and when. Newest first.
 
+- 2026-11-20 20:10 | 6 new messages moved 1 threads: T0255
 - 2026-11-20 18:10 | 9 new messages moved 4 threads: T0060, T0016, T0100, T0254
 - 2026-11-20 16:10 | David ticked T0236 Calendly intro meeting with Umair Anjum, Investment Banking Team, today 10:30am CT
 - 2026-11-20 16:10 | David commented on T0236
